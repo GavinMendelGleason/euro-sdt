@@ -19,7 +19,7 @@ See `organisations_classified.csv` for the machine-readable classification of al
 | [European Leadership Network](#european-leadership-network) | Think tank | ✓ | ✓ | |
 | [IRI / NED](#iri--ned) | NGO | ✓ | | ✓ |
 | [RAND Europe](#rand-europe) | Think tank | ✓ | ✓ | ✓ |
-| [Elcano Royal Institute](#elcano-royal-institute) | Think tank | ✓ | | |
+| [Elcano Royal Institute](#elcano-royal-institute) | Think tank | — | | |
 | [GLOBSEC](#globsec) | Think tank / conference | ✓ | ✓ | ✓ |
 | [European Leadership Network](#european-leadership-network) | Think tank / advocacy | ✓ | ✓ | |
 | [Wilfried Martens Centre](#wilfried-martens-centre) | Think tank | | | |
@@ -204,14 +204,16 @@ It is not a lobby group in the formal sense, but it operates in the space betwee
 
 ## Elcano Royal Institute
 
-**Type:** Think tank  
-**HQ:** Madrid, Spain  
-**Founded:** 2001  
-**Classification:** Atlanticist ✓ | NATO-adjacent — | US-linked —
+**Type:** Think tank
+**HQ:** Madrid, Spain
+**Founded:** 2001
+**Classification:** ~~Atlanticist~~ — | NATO-adjacent — | US-linked — *(reclassified April 2026)*
 
 **Commissioner connections:** VdL II revolving door: Josep Borrell I Fontelles (post-mandate); Juncker revolving door: Miguel Arias Cañete (post-mandate)
 
-**Key facts:** Spain's leading foreign and security policy think tank, funded primarily by the Spanish Ministry of Foreign Affairs and Spanish corporate sector. Atlanticist/transatlantic orientation; publishes on NATO, EU security, Spain's role in Western alliances. Not US-government funded.
+**Classification revised April 2026:** Initially classified as Atlanticist on the basis of editorial orientation and commissioner connections. Primary source review of governance and funding did not substantiate this. See full entry below.
+
+**Key facts:** Spain's leading foreign and security policy think tank. Governed by a cross-party board including all four living Spanish Prime Ministers, sitting government ministers, and Spain's major corporations. Funded entirely by Spanish state ministries and Spanish corporates — no US, NATO or foreign government funding. Reclassified as non-Atlanticist.
 
 ---
 
