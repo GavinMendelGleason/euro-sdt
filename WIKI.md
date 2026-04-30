@@ -134,32 +134,46 @@ Research into European political elites, their recruitment, career patterns, and
 
 ---
 
-### 13. Atlanticist Network Cross-Commission Comparison
+### 13. Juncker Commission (2014–2019)
+**Files:** `commission_juncker_2014_2019.csv`, `commission_juncker_cv_data.csv`
+**Source:** Commissioner list — manually compiled from official record; CVs — Wikidata SPARQL
+**Records:** 28 commissioners; 27/28 matched on Wikidata
+**CV coverage:** education 27/27, occupations 27/27, prev\_positions 26/27
+**Scraper:** `scrape_commission_juncker_cvs.py`
+**Note:** No machine-readable declarations exist — the structured XML format was introduced in 2018, after the Juncker mandate. Atlanticist analysis based on Wikipedia text search only.
+
+---
+
+### 14. Atlanticist Network Cross-Commission Comparison
 **File:** `atlanticist_comparison.csv`
-**Source:** Derived from datasets 11 and 12
-**Records:** 14 rows (13 organisations + totals row)
-**Fields:** Organisation, VdL\_I\_n, VdL\_I\_pct, VdL\_I\_commissioners, VdL\_II\_n, VdL\_II\_pct, VdL\_II\_commissioners
+**Source:** Derived from revolving door data, declaration affiliations, and Wikipedia text searches
+**Records:** 18 rows (17 organisations + totals row)
+**Fields:** Organisation, Juncker\_n, Juncker\_pct, Juncker\_commissioners, VdL\_I\_n, VdL\_I\_pct, VdL\_I\_commissioners, VdL\_II\_n, VdL\_II\_pct, VdL\_II\_commissioners
 
 **Summary table:**
 
-| Organisation | VdL I n | VdL I % | VdL II n | VdL II % |
-|---|:---:|:---:|:---:|:---:|
-| World Economic Forum / Davos | 2 | 6.7% | 3 | 11.1% |
-| Munich Security Conference | 1 | 3.3% | 1 | 3.7% |
-| Atlantic Council | — | — | 2 | 7.4% |
-| Atlantic Council of Finland | — | — | 1 | 3.7% |
-| Slovak Atlantic Commission | — | — | 1 | 3.7% |
-| ECFR | 2 | 6.7% | 1 | 3.7% |
-| European Leadership Network | 1 | 3.3% | 1 | 3.7% |
-| GLOBSEC | 1 | 3.3% | 1 | 3.7% |
-| Friends of Europe | 1 | 3.3% | 7 | 25.9% |
-| Elcano Royal Institute | — | — | 1 | 3.7% |
-| IRI / NED | — | — | 1 | 3.7% |
-| RAND Europe | — | — | 1 | 3.7% |
-| Council on Foreign Relations | 1 | 3.3% | — | — |
-| **TOTAL (unique commissioners)** | **7** | **23.3%** | **16** | **59.3%** |
+| Organisation | Juncker n | Juncker % | VdL I n | VdL I % | VdL II n | VdL II % |
+|---|:---:|:---:|:---:|:---:|:---:|:---:|
+| Friends of Europe | 3 | 10.7% | 1 | 3.3% | 7 | 25.9% |
+| Council on Foreign Relations | 6 | 21.4% | 1 | 3.3% | — | — |
+| ECFR | 4 | 14.3% | 2 | 6.7% | 1 | 3.7% |
+| World Economic Forum / Davos | 1 | 3.6% | 2 | 6.7% | 3 | 11.1% |
+| Atlantic Council | 1 | 3.6% | — | — | 2 | 7.4% |
+| European Leadership Network | 1 | 3.6% | 1 | 3.3% | 1 | 3.7% |
+| GLOBSEC | 1 | 3.6% | 1 | 3.3% | 1 | 3.7% |
+| Munich Security Conference | 1 | 3.6% | 1 | 3.3% | 1 | 3.7% |
+| Marshall Fund (GMF) | 2 | 7.1% | — | — | — | — |
+| NATO (advisory/non-state role) | 2 | 7.1% | — | — | — | — |
+| Atlantic Council of Finland | — | — | — | — | 1 | 3.7% |
+| Bilderberg | 1 | 3.6% | — | — | — | — |
+| Elcano Royal Institute | — | — | — | — | 1 | 3.7% |
+| IRI / NED | — | — | — | — | 1 | 3.7% |
+| RAND Europe | — | — | — | — | 1 | 3.7% |
+| Slovak Atlantic Commission | — | — | — | — | 1 | 3.7% |
+| Trilateral Commission | 1 | 3.6% | — | — | — | — |
+| **TOTAL (unique commissioners)** | **10** | **35.7%** | **7** | **23.3%** | **16** | **59.3%** |
 
-**Methodological note:** VdL I figures are derived from Wikipedia biography text and Wikidata, which only surface connections prominent enough to enter published biographies. VdL II figures are derived from legally required self-declarations, which are structurally more complete. The real VdL I figure is likely higher than 23%.
+**Methodological note:** All three commissions use Wikipedia biography text and Wikidata as the primary source (the only consistent cross-commission source). VdL II additionally benefits from legally required self-declarations, making its figures structurally more complete. All three totals are therefore likely undercounts relative to a declarations-based baseline.
 
 ---
 
@@ -172,6 +186,7 @@ Research into European political elites, their recruitment, career patterns, and
 | `scrape_commission.py` | Scrape Commission II list from Wikipedia | `commission_2024_2029.csv` |
 | `scrape_commission_cvs.py` | Wikidata CVs for Commission II | `commission_cv_data.csv` |
 | `scrape_commission_i_cvs.py` | Wikidata CVs for Commission I | `commission_i_cv_data.csv` |
+| `scrape_commission_juncker_cvs.py` | Wikidata CVs for Juncker Commission | `commission_juncker_cv_data.csv` |
 | `parse_declarations.py` | Parse EC machine-readable DOI ZIP | `commission_affiliations.csv` |
 
 **Dependencies:** `pandas`, `beautifulsoup4`, `lxml`, `pypdf` — install via `.venv/bin/pip install -r requirements.txt` (or manually)
