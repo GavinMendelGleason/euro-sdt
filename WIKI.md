@@ -2,6 +2,8 @@
 
 Research into European political elites, their recruitment, career patterns, and transatlantic networks.
 
+**See also:** [`Entities.md`](Entities.md) — detailed research notes on individual organisations (governance, funding, network ties, Atlanticist assessment).
+
 ---
 
 ## Data Inventory
@@ -164,7 +166,14 @@ Research into European political elites, their recruitment, career patterns, and
 
 ---
 
-### 16. Atlanticist Network Cross-Commission Comparison
+### 16. Organisation Research Notes
+**File:** [`Entities.md`](Entities.md)
+**Coverage:** 11 organisations with detailed entries (governance, funding, staff, commissioner connections, Atlanticist assessment)
+**Organisations documented:** Friends of Europe, Atlantic Council, Munich Security Conference, WEF, ECFR, GLOBSEC, European Leadership Network, IRI/NED, RAND Europe, Elcano Royal Institute, Wilfried Martens Centre
+
+---
+
+### 17. Atlanticist Network Cross-Commission Comparison
 **File:** `atlanticist_comparison.csv`
 **Source:** Wikipedia biography text search + Wikidata (all commissions); additionally self-declarations for VdL II
 **Records:** 19 rows (18 organisations + totals row)
