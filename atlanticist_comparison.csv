@@ -1,19 +1,20 @@
-Organisation,Juncker_n,Juncker_pct,Juncker_commissioners,VdL_I_n,VdL_I_pct,VdL_I_commissioners,VdL_II_n,VdL_II_pct,VdL_II_commissioners
-Friends of Europe,3,10.7,"Federica Mogherini, Cecilia Malmström, Carlos Moedas",1,3.3,Mairead McGuinness,7,25.9,"Andrius Kubilius, Federica Mogherini, Jean-Claude Juncker, Joaquín Almunia, Andris Piebalgs, Androulla Vassiliou, László Andor"
-Council on Foreign Relations,6,21.4,"Frans Timmermans, Kristalina Georgieva, Günther Oettinger, Cecilia Malmström, Christos Stylianides, Carlos Moedas",1,3.3,Frans Timmermans,0,0.0,
-ECFR,4,14.3,"Kristalina Georgieva, Cecilia Malmström, Christos Stylianides, Carlos Moedas",2,6.7,"Didier Reynders, Jutta Urpilainen",1,3.7,Kaja Kallas
-World Economic Forum / Davos,1,3.6,Kristalina Georgieva,2,6.7,"Ursula von der Leyen, Wopke Hoekstra",3,11.1,"Ursula von der Leyen, Teresa Ribera, José Manuel Barroso"
-Atlantic Council,1,3.6,Kristalina Georgieva,0,0.0,,2,7.4,"Andrius Kubilius, Henna Virkkunen"
-European Leadership Network,1,3.6,Federica Mogherini,1,3.3,Jutta Urpilainen,1,3.7,Jutta Urpilainen
-GLOBSEC,1,3.6,Maroš Šefčovič,1,3.3,Maroš Šefčovič,1,3.7,Věra Jourová
-Munich Security Conference,1,3.6,Federica Mogherini,1,3.3,Ursula von der Leyen,1,3.7,Ursula von der Leyen
-Marshall Fund (GMF),2,7.1,"Federica Mogherini, Cecilia Malmström",0,0.0,,0,0.0,
-NATO (advisory/non-state role),2,7.1,"Federica Mogherini, Corina Crețu",0,0.0,,0,0.0,
-Atlantic Council of Finland,0,0.0,,0,0.0,,1,3.7,Henna Virkkunen
-Bilderberg,1,3.6,Jyrki Katainen,0,0.0,,0,0.0,
-Elcano Royal Institute,0,0.0,,0,0.0,,1,3.7,Josep Borrell I Fontelles
-IRI / NED,0,0.0,,0,0.0,,1,3.7,Andrius Kubilius
-RAND Europe,0,0.0,,0,0.0,,1,3.7,László Andor
-Slovak Atlantic Commission,0,0.0,,0,0.0,,1,3.7,Maroš Šefčovič
-Trilateral Commission,1,3.6,Cecilia Malmström,0,0.0,,0,0.0,
-TOTAL (unique commissioners),10,35.7,"Carlos Moedas, Cecilia Malmström, Christos Stylianides, Corina Crețu, Federica Mogherini, Frans Timmermans, Günther Oettinger, Jyrki Katainen, Kristalina Georgieva, Maroš Šefčovič",7,23.3,"Didier Reynders, Frans Timmermans, Jutta Urpilainen, Mairead McGuinness, Maroš Šefčovič, Ursula von der Leyen, Wopke Hoekstra",16,59.3,"Andris Piebalgs, Andrius Kubilius, Androulla Vassiliou, Federica Mogherini, Henna Virkkunen, Jean-Claude Juncker, Joaquín Almunia, Josep Borrell I Fontelles, José Manuel Barroso, Jutta Urpilainen, Kaja Kallas, László Andor, Maroš Šefčovič, Teresa Ribera, Ursula von der Leyen, Věra Jourová"
+Organisation,barroso_i_n,barroso_i_pct,barroso_i_commissioners,barroso_ii_n,barroso_ii_pct,barroso_ii_commissioners,juncker_n,juncker_pct,juncker_commissioners,vdl_i_n,vdl_i_pct,vdl_i_commissioners,vdl_ii_n,vdl_ii_pct,vdl_ii_commissioners
+Council on Foreign Relations,5,16.7,"Joaquín Almunia, Danuta Hübner, Meglena Kuneva, Günter Verheugen, Margot Wallström",6,21.4,"Joaquín Almunia, Günther Oettinger, Maria Damanaki, Kristalina Georgieva, Connie Hedegaard, Cecilia Malmström",6,21.4,"Frans Timmermans, Kristalina Georgieva, Günther Oettinger, Cecilia Malmström, Christos Stylianides, Carlos Moedas",1,3.3,Frans Timmermans,0,0.0,
+Friends of Europe,1,3.3,Joaquín Almunia,5,17.9,"Joaquín Almunia, Connie Hedegaard, Cecilia Malmström, Andris Piebalgs, Michel Barnier",3,10.7,"Federica Mogherini, Cecilia Malmström, Carlos Moedas",1,3.3,Mairead McGuinness,7,25.9,"Andrius Kubilius, Federica Mogherini, Jean-Claude Juncker, Joaquín Almunia, Andris Piebalgs, Androulla Vassiliou, László Andor"
+ECFR,4,13.3,"Joaquín Almunia, Danuta Hübner, Meglena Kuneva, Margot Wallström",5,17.9,"Joaquín Almunia, Maria Damanaki, Kristalina Georgieva, Connie Hedegaard, Cecilia Malmström",4,14.3,"Kristalina Georgieva, Cecilia Malmström, Christos Stylianides, Carlos Moedas",2,6.7,"Didier Reynders, Jutta Urpilainen",1,3.7,Kaja Kallas
+World Economic Forum / Davos,1,3.3,Olli Rehn,2,7.1,"Olli Rehn, Kristalina Georgieva",1,3.6,Kristalina Georgieva,2,6.7,"Ursula von der Leyen, Wopke Hoekstra",3,11.1,"Ursula von der Leyen, Teresa Ribera, José Manuel Barroso"
+Bilderberg,3,10.0,"Neelie Kroes, Charlie McCreevy, Peter Mandelson",2,7.1,"Neelie Kroes, Connie Hedegaard",1,3.6,Jyrki Katainen,0,0.0,,0,0.0,
+Atlantic Council,0,0.0,,1,3.6,Kristalina Georgieva,1,3.6,Kristalina Georgieva,0,0.0,,2,7.4,"Andrius Kubilius, Henna Virkkunen"
+GLOBSEC,0,0.0,,1,3.6,Maroš Šefčovič,1,3.6,Maroš Šefčovič,1,3.3,Maroš Šefčovič,1,3.7,Věra Jourová
+Trilateral Commission,1,3.3,Olli Rehn,2,7.1,"Olli Rehn, Cecilia Malmström",1,3.6,Cecilia Malmström,0,0.0,,0,0.0,
+European Leadership Network,0,0.0,,0,0.0,,1,3.6,Federica Mogherini,1,3.3,Jutta Urpilainen,1,3.7,Jutta Urpilainen
+Marshall Fund (GMF),0,0.0,,1,3.6,Cecilia Malmström,2,7.1,"Federica Mogherini, Cecilia Malmström",0,0.0,,0,0.0,
+Munich Security Conference,0,0.0,,0,0.0,,1,3.6,Federica Mogherini,1,3.3,Ursula von der Leyen,1,3.7,Ursula von der Leyen
+NATO (advisory/non-state role),1,3.3,László Kovács,0,0.0,,2,7.1,"Federica Mogherini, Corina Crețu",0,0.0,,0,0.0,
+Aspen Institute,1,3.3,Franco Frattini,0,0.0,,0,0.0,,0,0.0,,0,0.0,
+Atlantic Council of Finland,0,0.0,,0,0.0,,0,0.0,,0,0.0,,1,3.7,Henna Virkkunen
+Elcano Royal Institute,0,0.0,,0,0.0,,0,0.0,,0,0.0,,1,3.7,Josep Borrell I Fontelles
+IRI / NED,0,0.0,,0,0.0,,0,0.0,,0,0.0,,1,3.7,Andrius Kubilius
+RAND Europe,0,0.0,,0,0.0,,0,0.0,,0,0.0,,1,3.7,László Andor
+Slovak Atlantic Commission,0,0.0,,0,0.0,,0,0.0,,0,0.0,,1,3.7,Maroš Šefčovič
+TOTAL (unique commissioners),11,36.7,"Charlie McCreevy, Danuta Hübner, Franco Frattini, Günter Verheugen, Joaquín Almunia, László Kovács, Margot Wallström, Meglena Kuneva, Neelie Kroes, Olli Rehn, Peter Mandelson",11,39.3,"Andris Piebalgs, Cecilia Malmström, Connie Hedegaard, Günther Oettinger, Joaquín Almunia, Kristalina Georgieva, Maria Damanaki, Maroš Šefčovič, Michel Barnier, Neelie Kroes, Olli Rehn",10,35.7,"Carlos Moedas, Cecilia Malmström, Christos Stylianides, Corina Crețu, Federica Mogherini, Frans Timmermans, Günther Oettinger, Jyrki Katainen, Kristalina Georgieva, Maroš Šefčovič",7,23.3,"Didier Reynders, Frans Timmermans, Jutta Urpilainen, Mairead McGuinness, Maroš Šefčovič, Ursula von der Leyen, Wopke Hoekstra",16,59.3,"Andris Piebalgs, Andrius Kubilius, Androulla Vassiliou, Federica Mogherini, Henna Virkkunen, Jean-Claude Juncker, Joaquín Almunia, Josep Borrell I Fontelles, José Manuel Barroso, Jutta Urpilainen, Kaja Kallas, László Andor, Maroš Šefčovič, Teresa Ribera, Ursula von der Leyen, Věra Jourová"
