@@ -14,7 +14,7 @@ See `organisations_classified.csv` for the machine-readable classification of al
 | [Atlantic Council](#atlantic-council) | Think tank | ✓ | ✓ | ✓ |
 | [Munich Security Conference](#munich-security-conference) | Forum | ✓ | ✓ | ✓ |
 | [World Economic Forum](#world-economic-forum) | Forum | ✓ | | ✓ |
-| [ECFR](#ecfr) | Think tank | ✓ | | |
+| [ECFR](#ecfr) | Think tank | ✓* | | | *(Atlanticist by structure; strategically autonomist editorially)* |
 | [GLOBSEC](#globsec) | Think tank/conf | ✓ | ✓ | ✓ |
 | [European Leadership Network](#european-leadership-network) | Think tank | ✓ | ✓ | |
 | [IRI / NED](#iri--ned) | NGO | ✓ | | ✓ |
@@ -187,6 +187,82 @@ It is not a lobby group in the formal sense, but it operates in the space betwee
 **Commissioner connections:** VdL II (declared): Andrius Kubilius (Board of Advisors, IRI EuroGrowth Initiative at Atlantic Council 2016–17)
 
 **Key facts:** International Republican Institute (IRI) is one of the four core grantees of the **National Endowment for Democracy (NED)**, which is funded directly by the US Congress. IRI promotes US-style democracy abroad and is closely aligned with Republican foreign policy. Kubilius's role as Defence Commissioner with a declared IRI Board of Advisors membership is the most direct US-government linked connection in the current Commission.
+
+---
+
+## ECFR
+
+**Type:** Think tank
+**HQ:** Pan-European — offices in Berlin, London, Madrid, Paris, Rome, Sofia, Warsaw + Washington DC
+**Founded:** 2007
+**Classification:** Atlanticist ✓ | NATO-adjacent — | US-linked —
+
+**Commissioner connections across all commissions:**
+
+| Commission | Commissioners |
+|---|---|
+| Barroso I | Joaquín Almunia, Danuta Hübner, Meglena Kuneva, Margot Wallström |
+| Barroso II | Joaquín Almunia, Kristalina Georgieva, Maria Damanaki, Connie Hedegaard, Cecilia Malmström |
+| Juncker | Kristalina Georgieva, Cecilia Malmström, Christos Stylianides, Carlos Moedas |
+| VdL I | Didier Reynders, Jutta Urpilainen |
+| VdL II (declared) | Kaja Kallas (Council member to 2024) |
+
+### What is ECFR?
+
+The European Council on Foreign Relations is a pan-European foreign policy think tank founded in 2007 by a group of 50 prominent Europeans including George Soros, former heads of government, and foreign ministers. Its stated mission is to conduct independent research on European foreign and security policy and to build coalitions for change at the European level. It has grown to over 330 Council members across Europe and more than 90 staff.
+
+### Why it is Atlanticist — the structural case
+
+**1. Washington DC office**
+
+ECFR maintains a permanent outpost in Washington alongside its seven European national offices. This is structurally significant: it is not standard practice for a European think tank. A Washington presence indicates active, sustained engagement with the US foreign policy establishment, access to State Department and Congressional circuits, and participation in the transatlantic policy conversation as an institutional actor rather than a distant observer.
+
+**2. Explicit "United States" programme**
+
+ECFR's United States programme exists to "help Europeans create policy responses to developments in US domestic politics and foreign policy" and explicitly aims to "strengthen transatlantic relations by exploring the obstacles to a more balanced partnership." The framing here is unambiguously Atlanticist — the transatlantic relationship is treated as a structural given whose health must be maintained, not as one policy option among others.
+
+**3. Co-chairs and governance are Atlanticist figures**
+
+- **Carl Bildt** (Co-Chair) — former Swedish Prime Minister and Foreign Minister; one of Europe's most prominent Atlanticists; supporter of Swedish and Finnish NATO accession; serves simultaneously on the FoE Board of Trustees
+- **Norbert Röttgen** (Co-Chair) — CDU Bundestag foreign affairs spokesman; consistently pro-NATO and pro-transatlantic
+- **Joschka Fischer** (Emeritus Chair) — former German FM and VP; remains an Atlanticist despite his Green roots
+- **Arancha González Laya** (Board of Trustees) — former Spanish Foreign Minister; former WTO Deputy DG
+
+**4. Council directly overlaps with Munich Security Conference network**
+
+Three of the MSC's most senior figures are on the ECFR German Council:
+- **Benedikt Franke** — CEO and Vice-Chairman, Munich Security Conference
+- **Wolfgang Ischinger** — President, Munich Security Conference Foundation Council
+- **Christoph Heusgen** — former Chair, Munich Security Conference; former German Ambassador to the UN
+
+This is not coincidental. ECFR and MSC share a network of German foreign policy establishment figures and operate within the same transatlantic consensus.
+
+**5. NATO officials in Council membership**
+
+- **Radmila Šekerinska** (North Macedonia) — NATO Deputy Secretary General
+- **David Cvach** — Permanent Representative of France to NATO
+- **Muriel Domenach** — former Ambassador of France to NATO
+- Multiple former national permanent representatives to NATO
+
+**6. Open Society / Soros founding connection**
+
+George Soros and Alexander Soros both appear as Council members (Hungary section). Sandra Breka, VP and COO of Open Society Foundations, is on the German Council. Soros was a founding donor of ECFR in 2007. Open Society is not a US government instrument, but it is a major funder of Western liberal-democratic civil society and its founding involvement shaped ECFR's early network.
+
+**7. Serving and former EU Commissioners as Council members (7 current)**
+
+At the time of research: Kallas, Jørgensen, Vestager, Urpilainen, Katainen, Hedegaard, Moedas, Hübner — indicating ECFR functions as a revolving door between commissioner roles and European foreign policy elite networks.
+
+### The complication: strategic autonomy vs Atlanticism
+
+ECFR's classification as Atlanticist requires an important qualification. The organisation was explicitly founded as a **European counterweight** to the dominance of US think tanks and US framing in global foreign policy debates. Mark Leonard, its founding director, has consistently argued for European strategic autonomy — building an independent European foreign policy capacity that is not merely derivative of Washington's priorities.
+
+ECFR has published positions at odds with US policy: supporting the Iran nuclear deal (JCPOA) when the US withdrew; advocating for European-Chinese engagement rather than US-style decoupling; and pre-2022 supporting diplomatic engagement with Russia. These are not the positions of an organisation that simply transmits US foreign policy preferences.
+
+The most accurate characterisation is: ECFR is Atlanticist by **network structure** (Washington office, MSC governance overlap, NATO officials in Council, transatlantic programme mandate) while being **strategically autonomist** in editorial orientation. It operates within the Western security consensus but pushes for European agency within that consensus rather than European subordination to US leadership.
+
+This distinguishes it from the Atlantic Council (structurally and editorially US-aligned) and places it closer to an autonomous European pole within the broader Atlanticist ecosystem. The classification is retained on structural grounds.
+
+**Sources:** ecfr.eu/about, ecfr.eu/about/council, ecfr.eu/about/donors; commissioner declaration and Wikipedia data.
 
 ---
 
