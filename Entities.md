@@ -20,6 +20,8 @@ See `organisations_classified.csv` for the machine-readable classification of al
 | [IRI / NED](#iri--ned) | NGO | ✓ | | ✓ |
 | [RAND Europe](#rand-europe) | Think tank | ✓ | ✓ | ✓ |
 | [Elcano Royal Institute](#elcano-royal-institute) | Think tank | ✓ | | |
+| [GLOBSEC](#globsec) | Think tank / conference | ✓ | ✓ | ✓ |
+| [European Leadership Network](#european-leadership-network) | Think tank / advocacy | ✓ | ✓ | |
 | [Wilfried Martens Centre](#wilfried-martens-centre) | Think tank | | | |
 
 ---
@@ -210,6 +212,123 @@ It is not a lobby group in the formal sense, but it operates in the space betwee
 **Commissioner connections:** VdL II revolving door: Josep Borrell I Fontelles (post-mandate); Juncker revolving door: Miguel Arias Cañete (post-mandate)
 
 **Key facts:** Spain's leading foreign and security policy think tank, funded primarily by the Spanish Ministry of Foreign Affairs and Spanish corporate sector. Atlanticist/transatlantic orientation; publishes on NATO, EU security, Spain's role in Western alliances. Not US-government funded.
+
+---
+
+## GLOBSEC
+
+**Type:** Think tank / annual conference
+**HQ:** Bratislava, Slovakia
+**Founded:** 2005
+**Classification:** Atlanticist ✓ | NATO-adjacent ✓ | US-linked ✓
+
+**Commissioner connections across all commissions:**
+
+| Commission | Commissioners |
+|---|---|
+| Barroso II | Maroš Šefčovič (International Advisory Council) |
+| Juncker | Maroš Šefčovič |
+| VdL I | Maroš Šefčovič |
+| VdL II (post-mandate) | Věra Jourová (joined GLOBSEC after VdL I) |
+
+### What is GLOBSEC?
+
+GLOBSEC is a Bratislava-based think tank and the organiser of the **GLOBSEC Bratislava Forum**, an annual conference that since 2005 has positioned itself as the Central and Eastern European equivalent of the Munich Security Conference. It is one of the most significant security policy convenings in the CEE region, regularly attended by NATO Secretary Generals, US Secretaries of State, European heads of government, and senior military commanders.
+
+### Why it is Atlanticist
+
+**1. Explicit pro-NATO and pro-transatlantic mission**
+
+GLOBSEC's founding purpose was to accelerate and consolidate the integration of Central and Eastern European states into Western security structures — NATO in particular. Its early conferences in 2005–2010 focused heavily on post-enlargement NATO cohesion, the US missile defence system in Europe, and countering Russian influence. This was not incidental: Slovakia, the Czech Republic, Poland and the Baltic states were actively seeking to deepen their NATO alignment, and GLOBSEC was a platform to build transatlantic elite consensus in support of that project.
+
+The organisation explicitly describes itself as championing a "strong and united transatlantic community." Its flagship programme areas — Euro-Atlantic Security, NATO and Defence, Resilient Democracies — are all oriented toward the Western security consensus.
+
+**2. Direct US government funding**
+
+GLOBSEC receives funding from the **US Embassy in Bratislava** and from the **National Endowment for Democracy (NED)** — the US Congress-funded democracy-promotion body. NED funding in particular is a strong indicator of alignment with US foreign policy priorities: NED's mandate is explicitly to advance US national interests through civil society engagement. This makes GLOBSEC one of a small number of European think tanks with direct, documented US government financial ties.
+
+**3. NATO institutional relationships**
+
+GLOBSEC operates as a de facto civic legitimation forum for NATO decisions. The GLOBSEC Forum regularly features NATO's Secretary General as a keynote speaker and provides a platform for NATO's messaging on enlargement, deterrence, and the Russia threat. The think tank has no equivalent relationship with any non-NATO security organisation.
+
+**4. Staff and governance ties**
+
+The FoE's Head of Peace, Security and Defence (Thomas Van Vynckt) previously worked at GLOBSEC — illustrating the personnel pipeline between GLOBSEC and other Atlanticist organisations.
+
+**5. Ukraine / Eastern Europe posture**
+
+Since 2022 GLOBSEC has been among the most vocal institutional advocates for maximal Western support for Ukraine, NATO enlargement (Finland, Sweden), and Central European defence spending increases — all positions in direct alignment with US State Department and Pentagon priorities.
+
+### Assessment
+
+GLOBSEC is the most explicitly NATO-aligned think tank in this dataset after the Atlantic Council itself. Its US government funding (NED, US Embassy), its governance ties to NATO, and its programmatic focus make it structurally Atlanticist rather than merely orientationally so. Its significance for this research lies in the persistent presence of **Maroš Šefčovič** on its International Advisory Council across three consecutive commission terms — an unusually stable institutional tie for a serving commissioner.
+
+**Sources:** GLOBSEC about pages (archived); NED grants database; commissioner declarations/Wikipedia.
+
+---
+
+## European Leadership Network
+
+**Type:** Think tank / advocacy network
+**HQ:** 8 St James's Square, London, UK
+**Founded:** 2011
+**Registered charity:** England and Wales, No. 1208594
+**Companies House:** 07521896
+**Classification:** Atlanticist ✓ | NATO-adjacent ✓ | US-linked —
+
+**Commissioner connections across all commissions:**
+
+| Commission | Commissioners |
+|---|---|
+| Juncker | Federica Mogherini (member) |
+| VdL I | Jutta Urpilainen (member) |
+| VdL II (declared, post-mandate) | Jutta Urpilainen (joined Nov 2025) |
+
+### What is the ELN?
+
+The European Leadership Network is a London-based network of over 450 former and current European political, military and diplomatic leaders, focused on nuclear risk reduction and Euro-Atlantic security. It was founded in 2011 explicitly in response to **President Obama's 2009 Prague speech** calling for progressive multilateral nuclear disarmament — a speech which set the agenda for the Western nuclear-arms-control establishment for the following decade. Its senior network includes former NATO Secretary Generals, EU foreign ministers, military commanders, and ambassadors across 30+ European countries.
+
+### Why it is Atlanticist
+
+**1. Founding inspiration: the Obama nuclear agenda**
+
+The ELN was created to give European institutional momentum to Obama's Prague vision — reducing nuclear weapons while maintaining a credible Western deterrent. This is explicitly a **Euro-Atlantic** framework: it accepts NATO deterrence as the baseline, advocates for reducing nuclear risks within that framework, and does not challenge the fundamental architecture of Western military alliances. The term "Euro-Atlantic" appears throughout ELN's self-description and programme names (e.g. the *Younger Generation Leaders Network on Euro-Atlantic Security*).
+
+**2. Board of Trustees — Western defence establishment**
+
+The Board is composed almost entirely of figures from the Western defence and foreign policy establishment:
+
+- **Des Browne** (Chair) — former UK Secretary of State for Defence; Vice Chairman of the **Nuclear Threat Initiative (NTI)**, a Washington DC-based nuclear security organisation co-chaired by Sam Nunn (former US Senator); Convener of the Toda-related security groups
+- **Malcolm Rifkind** — former UK Foreign Secretary and Defence Secretary
+- **Ana Palacio** — former Spanish Foreign Minister, former World Bank Senior VP
+- **Pierre Vimont** — former Executive Secretary-General of the EEAS; former French Ambassador to the US
+- **Stefano Stefanini** — former Italian Permanent Representative to NATO
+- **Karin von Hippel** — former Director-General of RUSI (Royal United Services Institute)
+- **Tarja Cronberg** — former MEP (Greens/Finland), Distinguished Associate Fellow at SIPRI
+
+The chair's simultaneous role at NTI — the pre-eminent Washington-based nuclear security organisation, funded by Ted Turner and the MacArthur Foundation with strong US government alignment — is the clearest single indicator of the ELN's position within the transatlantic security establishment.
+
+**3. Programmatic NATO-alignment**
+
+The ELN's research agenda is structured around NATO deterrence frameworks. Its programmes on **Nuclear Deterrence and Risk Reduction**, **Nuclear and Multilateral Disarmament**, and **Nuclear Weapons and Emerging Technologies** all operate within the assumption that NATO's nuclear posture is the baseline and that the goal is risk reduction rather than disarmament. Its Contact Group on Russia-West Relations provides a dialogue channel that is structurally positioned within a Western security framing. The organisation explicitly does not engage with non-Western security architectures.
+
+**4. Euro-Atlantic institutional partnerships**
+
+The ELN lists institutional partnerships "across Europe, North America, Latin America and the Asia-Pacific region." Its London address at 8 St James's Square places it in the heart of the UK foreign policy and defence establishment district (adjacent to IISS, Chatham House, and the offices of major defence contractors).
+
+**5. No direct US government funding — but strong NTI alignment**
+
+Unlike GLOBSEC, the ELN does not receive NED or US Embassy funding. Its funders are primarily European foundations and governments. However, the Chair's NTI role, the board's deep integration with NATO-aligned institutions (RUSI, SIPRI, EEAS), and the programme's intellectual framework all situate the ELN firmly within the Atlanticist security consensus.
+
+### Key distinction from GLOBSEC
+
+The ELN is **softer** on Atlanticism than GLOBSEC — it advocates for nuclear risk reduction, dialogue with Russia, and arms control, positions which sometimes put it at odds with the more hawkish NATO consensus. It is best described as representing the **liberal-Atlanticist** wing: accepting of NATO's fundamental legitimacy but pushing for more ambitious arms control and dialogue. GLOBSEC represents the harder, more explicitly militarist Atlanticism of the CEE states.
+
+### Assessment
+
+The ELN is Atlanticist by governance (Des Browne/NTI, NATO ambassadors), by intellectual framework (Euro-Atlantic security framing, NATO deterrence as baseline), and by its founding impulse (implementing the Obama Prague agenda). Its Atlanticism is tempered by a genuine arms-control and dialogue mission that distinguishes it from straightforwardly pro-NATO organisations like GLOBSEC or the Atlantic Council.
+
+**Sources:** europeanleadershipnetwork.org (about, board); NTI.org; commissioner declarations.
 
 ---
 
