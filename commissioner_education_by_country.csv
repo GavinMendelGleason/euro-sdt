@@ -1,0 +1,107 @@
+Name,Country_code,Country,Commission,Education_clusters,Named_institutions,Degrees_detected,Any_elite,US_elite,UK_elite,French_grande_ecole,EU_axis,National_elite,Has_PhD,Has_Law,Has_Economics,Has_PolSci
+Benita Ferrero-Waldner,AUT,Austria,Barroso I (2004–09),,,,False,False,False,False,False,False,False,False,False,False
+Johannes Hahn,AUT,Austria,Barroso II (2010–14),,,,False,False,False,False,False,False,False,False,False,False
+Magnus Brunner,AUT,Austria,VdL II (2024–29),UK elite,King's College London,,True,False,True,False,False,False,False,False,False,False
+Didier Reynders,BEL,Belgium,VdL I (2019–24),,,,False,False,False,False,False,False,False,False,False,False
+Hadja Lahbib,BEL,Belgium,VdL II (2024–29),EU-axis (CoE/EUI/ULB),ULB Brussels,,True,False,False,False,True,False,False,False,False,False
+Karel De Gucht,BEL,Belgium,Barroso II (2010–14),EU-axis (CoE/EUI/ULB),ULB Brussels,,True,False,False,False,True,False,False,False,False,False
+Louis Michel,BEL,Belgium,Barroso I (2004–09),,,,False,False,False,False,False,False,False,False,False,False
+Marianne Thyssen,BEL,Belgium,Juncker (2014–19),,,Law degree,False,False,False,False,False,False,False,True,False,False
+Ekaterina Zaharieva,BGR,Bulgaria,VdL II (2024–29),French grande école,ENA,,True,False,False,True,False,False,False,False,False,False
+Iliana Ivanova,BGR,Bulgaria,VdL I (2019–24),,,,False,False,False,False,False,False,False,False,False,False
+Kristalina Georgieva,BGR,Bulgaria,Barroso II (2010–14),UK elite | US elite,LSE | MIT,PhD/Doctorate,True,True,True,False,False,False,True,False,False,False
+Mariya Gabriel,BGR,Bulgaria,VdL I (2019–24),French grande école,Sciences Po,,True,False,False,True,False,False,False,False,False,False
+Meglena Kuneva,BGR,Bulgaria,Barroso I (2004–09),UK elite,Oxford,,True,False,True,False,False,False,False,False,False,False
+Dubravka Šuica,HRV,Croatia,VdL I (2019–24),,,,False,False,False,False,False,False,False,False,False,False
+Neven Mimica,HRV,Croatia,Barroso II (2010–14),,,Economics degree,False,False,False,False,False,False,False,False,True,False
+Christos Stylianides,CYP,Cyprus,Juncker (2014–19),US elite,Harvard,,True,True,False,False,False,False,False,False,False,False
+Markos Kyprianou,CYP,Cyprus,Barroso I (2004–09),US elite,Harvard,,True,True,False,False,False,False,False,False,False,False
+Stella Kyriakides,CYP,Cyprus,VdL I (2019–24),,,,False,False,False,False,False,False,False,False,False,False
+Jozef Síkela,CZE,Czechia,VdL II (2024–29),,,,False,False,False,False,False,False,False,False,False,False
+Vladimír Špidla,CZE,Czechia,Barroso I (2004–09),,,,False,False,False,False,False,False,False,False,False,False
+Věra Jourová,CZE,Czechia,Juncker (2014–19),,,Law degree,False,False,False,False,False,False,False,True,False,False
+Štefan Füle,CZE,Czechia,Barroso II (2010–14),National elite,MGIMO,,True,False,False,False,False,True,False,False,False,False
+Connie Hedegaard,DNK,Denmark,Barroso II (2010–14),,,,False,False,False,False,False,False,False,False,False,False
+Mariann Fischer Boel,DNK,Denmark,Barroso I (2004–09),,,,False,False,False,False,False,False,False,False,False,False
+Andrus Ansip,EST,Estonia,Juncker (2014–19),,,,False,False,False,False,False,False,False,False,False,False
+Kadri Simson,EST,Estonia,VdL I (2019–24),UK elite,UCL,,True,False,True,False,False,False,False,False,False,False
+Kaja Kallas,EST,Estonia,VdL II (2024–29),,,Law degree | MBA,False,False,False,False,False,False,False,True,False,False
+Siim Kallas,EST,Estonia,Barroso I (2004–09),,,,False,False,False,False,False,False,False,False,False,False
+Henna Virkkunen,FIN,Finland,VdL II (2024–29),,,,False,False,False,False,False,False,False,False,False,False
+Jutta Urpilainen,FIN,Finland,VdL I (2019–24),,,,False,False,False,False,False,False,False,False,False,False
+Jyrki Katainen,FIN,Finland,Juncker (2014–19),,,Political Science degree,False,False,False,False,False,False,False,False,False,True
+Olli Rehn,FIN,Finland,Barroso I (2004–09),,,,False,False,False,False,False,False,False,False,False,False
+Jacques Barrot,FRA,France,Barroso I (2004–09),French grande école,Sciences Po,,True,False,False,True,False,False,False,False,False,False
+Michel Barnier,FRA,France,Barroso II (2010–14),,,,False,False,False,False,False,False,False,False,False,False
+Pierre Moscovici,FRA,France,Juncker (2014–19),French grande école,ENA | Sciences Po,,True,False,False,True,False,False,False,False,False,False
+Stéphane Séjourné,FRA,France,VdL II (2024–29),,,,False,False,False,False,False,False,False,False,False,False
+Thierry Breton,FRA,France,VdL I (2019–24),,,,False,False,False,False,False,False,False,False,False,False
+Günter Verheugen,DEU,Germany,Barroso I (2004–09),,,Political Science degree,False,False,False,False,False,False,False,False,False,True
+Günther Oettinger,DEU,Germany,Barroso II (2010–14),,,Law degree,False,False,False,False,False,False,False,True,False,False
+Ursula von der Leyen,DEU,Germany,VdL I (2019–24),UK elite,LSE,PhD/Doctorate | Political Science degree,True,False,True,False,False,False,True,False,False,True
+Apostolos Tzitzikostas,GRC,Greece,VdL II (2024–29),UK elite | US elite,Georgetown | UCL,Political Science degree,True,True,True,False,False,False,False,False,False,True
+Dimitris Avramopoulos,GRC,Greece,Juncker (2014–19),EU-axis (CoE/EUI/ULB),ULB Brussels,PhD/Doctorate | Political Science degree,True,False,False,False,True,False,True,False,False,True
+Maria Damanaki,GRC,Greece,Barroso II (2010–14),,,,False,False,False,False,False,False,False,False,False,False
+Stavros Dimas,GRC,Greece,Barroso I (2004–09),,,Law degree,False,False,False,False,False,False,False,True,False,False
+László Andor,HUN,Hungary,Barroso II (2010–14),,,Economics degree,False,False,False,False,False,False,False,False,True,False
+László Kovács,HUN,Hungary,Barroso I (2004–09),,,,False,False,False,False,False,False,False,False,False,False
+Olivér Várhelyi,HUN,Hungary,VdL I (2019–24),,,,False,False,False,False,False,False,False,False,False,False
+Tibor Navracsics,HUN,Hungary,Juncker (2014–19),,,Law degree,False,False,False,False,False,False,False,True,False,False
+Charlie McCreevy,IRL,Ireland,Barroso I (2004–09),,,,False,False,False,False,False,False,False,False,False,False
+Mairead McGuinness,IRL,Ireland,VdL I (2019–24),,,,False,False,False,False,False,False,False,False,False,False
+Michael McGrath,IRL,Ireland,VdL II (2024–29),,,,False,False,False,False,False,False,False,False,False,False
+Máire Geoghegan-Quinn,IRL,Ireland,Barroso II (2010–14),,,PhD/Doctorate,False,False,False,False,False,False,True,False,False,False
+Phil Hogan,IRL,Ireland,Juncker (2014–19),,,,False,False,False,False,False,False,False,False,False,False
+Antonio Tajani,ITA,Italy,Barroso I (2004–09),,,,False,False,False,False,False,False,False,False,False,False
+Federica Mogherini,ITA,Italy,Juncker (2014–19),EU-axis (CoE/EUI/ULB) | French grande école,College of Europe | Sciences Po,PhD/Doctorate | Political Science degree,True,False,False,True,True,False,True,False,False,True
+Franco Frattini,ITA,Italy,Barroso I (2004–09),,,,False,False,False,False,False,False,False,False,False,False
+Paolo Gentiloni,ITA,Italy,VdL I (2019–24),,,,False,False,False,False,False,False,False,False,False,False
+Raffaele Fitto,ITA,Italy,VdL II (2024–29),,,,False,False,False,False,False,False,False,False,False,False
+Andris Piebalgs,LVA,Latvia,Barroso II (2010–14),,,,False,False,False,False,False,False,False,False,False,False
+Valdis Dombrovskis,LVA,Latvia,Juncker (2014–19),,,Economics degree | PhD/Doctorate,False,False,False,False,False,False,True,False,True,False
+Algirdas Šemeta,LTU,Lithuania,Barroso I (2004–09),,,,False,False,False,False,False,False,False,False,False,False
+Andrius Kubilius,LTU,Lithuania,VdL II (2024–29),,,,False,False,False,False,False,False,False,False,False,False
+Dalia Grybauskaitė,LTU,Lithuania,Barroso I (2004–09),US elite,Georgetown,PhD/Doctorate,True,True,False,False,False,False,True,False,False,False
+Virginijus Sinkevičius,LTU,Lithuania,VdL I (2019–24),UK elite,Oxford,,True,False,True,False,False,False,False,False,False,False
+Vytenis Andriukaitis,LTU,Lithuania,Juncker (2014–19),,,Law degree,False,False,False,False,False,False,False,True,False,False
+Christophe Hansen,LUX,Luxembourg,VdL II (2024–29),,,,False,False,False,False,False,False,False,False,False,False
+Jean-Claude Juncker,LUX,Luxembourg,Juncker (2014–19),,,Law degree | PhD/Doctorate | Political Science degree,False,False,False,False,False,False,True,True,False,True
+Nicolas Schmit,LUX,Luxembourg,VdL I (2019–24),French grande école,Sciences Po,,True,False,False,True,False,False,False,False,False,False
+Viviane Reding,LUX,Luxembourg,Barroso I (2004–09),,,PhD/Doctorate,False,False,False,False,False,False,True,False,False,False
+Glenn Micallef,MLT,Malta,VdL II (2024–29),,,,False,False,False,False,False,False,False,False,False,False
+Helena Dalli,MLT,Malta,VdL I (2019–24),,,,False,False,False,False,False,False,False,False,False,False
+Joe Borg,MLT,Malta,Barroso I (2004–09),,,Law degree | PhD/Doctorate,False,False,False,False,False,False,True,True,False,False
+John Dalli,MLT,Malta,Barroso II (2010–14),,,,False,False,False,False,False,False,False,False,False,False
+Karmenu Vella,MLT,Malta,Juncker (2014–19),,,,False,False,False,False,False,False,False,False,False,False
+Tonio Borg,MLT,Malta,Barroso II (2010–14),,,Law degree | PhD/Doctorate,False,False,False,False,False,False,True,True,False,False
+Frans Timmermans,NLD,Netherlands,Juncker (2014–19),,,PhD/Doctorate,False,False,False,False,False,False,True,False,False,False
+Neelie Kroes,NLD,Netherlands,Barroso I (2004–09),,,,False,False,False,False,False,False,False,False,False,False
+Wopke Hoekstra,NLD,Netherlands,VdL I (2019–24),,,,False,False,False,False,False,False,False,False,False,False
+Danuta Hübner,POL,Poland,Barroso I (2004–09),National elite,SGH Warsaw,PhD/Doctorate,True,False,False,False,False,True,True,False,False,False
+Elżbieta Bieńkowska,POL,Poland,Juncker (2014–19),National elite,SGH Warsaw,Economics degree | MBA,True,False,False,False,False,True,False,False,True,False
+Janusz Wojciechowski,POL,Poland,VdL I (2019–24),,,,False,False,False,False,False,False,False,False,False,False
+Piotr Serafin,POL,Poland,VdL II (2024–29),National elite,SGH Warsaw,Law degree,True,False,False,False,False,True,False,True,False,False
+Carlos Moedas,PRT,Portugal,Juncker (2014–19),US elite,Harvard,,True,True,False,False,False,False,False,False,False,False
+Elisa Ferreira,PRT,Portugal,VdL I (2019–24),,,,False,False,False,False,False,False,False,False,False,False
+Maria Luís Albuquerque,PRT,Portugal,VdL II (2024–29),,,,False,False,False,False,False,False,False,False,False,False
+Adina-Ioana Vălean,ROU,Romania,VdL I (2019–24),,,,False,False,False,False,False,False,False,False,False,False
+Corina Crețu,ROU,Romania,Juncker (2014–19),,,,False,False,False,False,False,False,False,False,False,False
+Dacian Cioloș,ROU,Romania,Barroso II (2010–14),,,PhD/Doctorate,False,False,False,False,False,False,True,False,False,False
+Leonard Orban,ROU,Romania,Barroso I (2004–09),,,,False,False,False,False,False,False,False,False,False,False
+Roxana Mînzatu,ROU,Romania,VdL II (2024–29),,,Political Science degree,False,False,False,False,False,False,False,False,False,True
+Ján Figeľ,SVK,Slovakia,Barroso I (2004–09),,,PhD/Doctorate,False,False,False,False,False,False,True,False,False,False
+Maroš Šefčovič,SVK,Slovakia,Barroso II (2010–14),National elite,MGIMO,PhD/Doctorate,True,False,False,False,False,True,True,False,False,False
+Janez Lenarčič,SVN,Slovenia,VdL I (2019–24),,,,False,False,False,False,False,False,False,False,False,False
+Janez Potočnik,SVN,Slovenia,Barroso I (2004–09),UK elite,Imperial College London,Economics degree | PhD/Doctorate,True,False,True,False,False,False,True,False,True,False
+Marta Kos,SVN,Slovenia,VdL II (2024–29),,,,False,False,False,False,False,False,False,False,False,False
+Violeta Bulc,SVN,Slovenia,Juncker (2014–19),,,,False,False,False,False,False,False,False,False,False,False
+Joaquín Almunia,ESP,Spain,Barroso I (2004–09),UK elite | US elite,Cambridge | Harvard,,True,True,True,False,False,False,False,False,False,False
+Miguel Arias Cañete,ESP,Spain,Juncker (2014–19),,,,False,False,False,False,False,False,False,False,False,False
+Teresa Ribera,ESP,Spain,VdL II (2024–29),,,Political Science degree,False,False,False,False,False,False,False,False,False,True
+Cecilia Malmström,SWE,Sweden,Barroso II (2010–14),US elite,Harvard,PhD/Doctorate | Political Science degree,True,True,False,False,False,False,True,False,False,True
+Jessika Roswall,SWE,Sweden,VdL II (2024–29),,,,False,False,False,False,False,False,False,False,False,False
+Margot Wallström,SWE,Sweden,Barroso I (2004–09),,,,False,False,False,False,False,False,False,False,False,False
+Ylva Johansson,SWE,Sweden,VdL I (2019–24),,,,False,False,False,False,False,False,False,False,False,False
+Catherine Ashton,GBR,United Kingdom,Barroso II (2010–14),,,,False,False,False,False,False,False,False,False,False,False
+Jonathan Hill,GBR,United Kingdom,Juncker (2014–19),UK elite,UCL,PhD/Doctorate,True,False,True,False,False,False,True,False,False,False
+Peter Mandelson,GBR,United Kingdom,Barroso I (2004–09),,,,False,False,False,False,False,False,False,False,False,False
