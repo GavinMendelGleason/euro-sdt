@@ -1,11 +1,11 @@
 Name,Country_code,Country,Commission,Education_clusters,Named_institutions,Degrees_detected,Any_elite,US_elite,UK_elite,French_grande_ecole,EU_axis,National_elite,Has_PhD,Has_Law,Has_Economics,Has_PolSci
 Jacques Santer,LUX,Luxembourg,Santer (1995–99),,Sciences Po (Paris / IEP),PhD/Doctorate,False,False,False,False,False,False,True,False,False,False
 Manuel Marin,ESP,Spain,Santer (1995–99),,,,False,False,False,False,False,False,False,False,False,False
-Martin Bangemann,DEU,Germany,Santer (1995–99),,,Law degree | PhD/Doctorate,False,False,False,False,False,False,True,True,False,False
+Martin Bangemann,DEU,Germany,Santer (1995–99),,University of Tübingen | Ludwig-Maximilians-Universität München,Law degree | PhD/Doctorate,False,False,False,False,False,False,True,True,False,False
 João de Deus Pinheiro,PRT,Portugal,Santer (1995–99),,,PhD/Doctorate,False,False,False,False,False,False,True,False,False,False
 Karel Van Miert,BEL,Belgium,Santer (1995–99),,,,False,False,False,False,False,False,False,False,False,False
 Ritt Bjerregaard,DNK,Denmark,Santer (1995–99),,,,False,False,False,False,False,False,False,False,False,False
-Monika Wulf-Mathies,DEU,Germany,Santer (1995–99),,,,False,False,False,False,False,False,False,False,False,False
+Monika Wulf-Mathies,DEU,Germany,Santer (1995–99),,University of Bonn,,False,False,False,False,False,False,False,False,False,False
 Neil Kinnock,GBR,United Kingdom,Santer (1995–99),,,,False,False,False,False,False,False,False,False,False,False
 Mario Monti,ITA,Italy,Santer (1995–99),National elite,Bocconi | Yale University,,True,False,False,False,False,True,False,False,False,False
 Franz Fischler,AUT,Austria,Santer (1995–99),,,,False,False,False,False,False,False,False,False,False,False
@@ -29,14 +29,14 @@ Philippe Busquin,BEL,Belgium,Prodi (1999–04),EU-axis (CoE/EUI/ULB),ULB Brussel
 Viviane Reding,LUX,Luxembourg,Prodi (1999–04),,,PhD/Doctorate,False,False,False,False,False,False,True,False,False,False
 Michel Barnier,FRA,France,Prodi (1999–04),,,,False,False,False,False,False,False,False,False,False,False
 David Byrne,IRL,Ireland,Prodi (1999–04),,Yale University,,False,False,False,False,False,False,False,False,False,False
-Günter Verheugen,DEU,Germany,Prodi (1999–04),,,Political Science degree,False,False,False,False,False,False,False,False,False,True
+Günter Verheugen,DEU,Germany,Prodi (1999–04),,University of Cologne | University of Bonn,Political Science degree,False,False,False,False,False,False,False,False,False,True
 Chris Patten,GBR,United Kingdom,Prodi (1999–04),,Oxford University,,False,False,False,False,False,False,False,False,False,False
 Pascal Lamy,FRA,France,Prodi (1999–04),French grande école,Cambridge University | ENA | Sciences Po (Paris / IEP),,True,False,False,True,False,False,False,False,False,False
 Poul Nielson,DNK,Denmark,Prodi (1999–04),,,Political Science degree,False,False,False,False,False,False,False,False,False,True
 António Vitorino,PRT,Portugal,Prodi (1999–04),,,,False,False,False,False,False,False,False,False,False,False
 Margot Wallström,SWE,Sweden,Prodi (1999–04),,,,False,False,False,False,False,False,False,False,False,False
 Pedro Solbes,ESP,Spain,Prodi (1999–04),EU-axis (CoE/EUI/ULB),ULB Brussels,,True,False,False,False,True,False,False,False,False,False
-Michaele Schreyer,DEU,Germany,Prodi (1999–04),,,,False,False,False,False,False,False,False,False,False,False
+Michaele Schreyer,DEU,Germany,Prodi (1999–04),,University of Cologne,PhD/Doctorate,False,False,False,False,False,False,True,False,False,False
 Stavros Dimas,GRC,Greece,Prodi (1999–04),,,,False,False,False,False,False,False,False,False,False,False
 Frits Bolkestein,NLD,Netherlands,Prodi (1999–04),,,,False,False,False,False,False,False,False,False,False,False
 Anna Diamantopoulou,GRC,Greece,Prodi (1999–04),,,,False,False,False,False,False,False,False,False,False,False
@@ -77,8 +77,8 @@ Michel Barnier,FRA,France,Barroso II (2010–14),,,,False,False,False,False,Fals
 Pierre Moscovici,FRA,France,Juncker (2014–19),French grande école,ENA | Sciences Po,,True,False,False,True,False,False,False,False,False,False
 Stéphane Séjourné,FRA,France,VdL II (2024–29),,,,False,False,False,False,False,False,False,False,False,False
 Thierry Breton,FRA,France,VdL I (2019–24),,,,False,False,False,False,False,False,False,False,False,False
-Günter Verheugen,DEU,Germany,Barroso I (2004–09),,,Political Science degree,False,False,False,False,False,False,False,False,False,True
-Günther Oettinger,DEU,Germany,Barroso II (2010–14),,,Law degree,False,False,False,False,False,False,False,True,False,False
+Günter Verheugen,DEU,Germany,Barroso I (2004–09),,University of Cologne | University of Bonn,Political Science degree,False,False,False,False,False,False,False,False,False,True
+Günther Oettinger,DEU,Germany,Barroso II (2010–14),,University of Tübingen,Law degree,False,False,False,False,False,False,False,True,False,False
 Ursula von der Leyen,DEU,Germany,VdL I (2019–24),UK elite,LSE,PhD/Doctorate | Political Science degree,True,False,True,False,False,False,True,False,False,True
 Apostolos Tzitzikostas,GRC,Greece,VdL II (2024–29),UK elite | US elite,Georgetown | UCL,Political Science degree,True,True,True,False,False,False,False,False,False,True
 Dimitris Avramopoulos,GRC,Greece,Juncker (2014–19),EU-axis (CoE/EUI/ULB),ULB Brussels,PhD/Doctorate | Political Science degree,True,False,False,False,True,False,True,False,False,True
