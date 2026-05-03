@@ -1,86 +1,86 @@
-role,name,department
-Director-General,Pia Ahrenkilde Hansen,"Directorate-General for Education, Youth, Sport and Culture"
-Deputy Director-General,Maja Bakran Marcich,Directorate-General for Mobility and Transport
-Deputy Director-General,Matthew Baldwin,Directorate-General for Energy
-Deputy Director-General,Pierre Bascou,Directorate-General for Agriculture and Rural Development
-Deputy Secretary-General,Nils Behrndt,Secretariat-General
-Director-General,John Berrigan,"Directorate-General for Financial Stability, Financial Services and Capital Markets Union"
-Deputy Director-General,Lorena Boix Alonso,Directorate-General for Defence Industry and Space
-Deputy Director-General,Claire Bury,Directorate-General for Health and Food Safety
-Deputy Director-General,Patrick Anthony Child,Directorate-General for Environment
-Director-General,Themis Christophidou,Directorate-General for Regional and Urban Policy
-Deputy Director-General,Declan Costello,Directorate-General for Economic and Financial Affairs
-Director-General,Alberto De Gregorio Merino,Legal service
-Director-General,Koen Doens,Directorate-General for International Partnerships
-Deputy Director-General,Joanna Drake,Directorate-General for Research and Innovation
-Deputy Director-General,Jan Dusík,Directorate-General for Climate Action
-Director-General,Christos Ellinides,Directorate-General for Translation
-Deputy Director-General,Sophia Eriksson Waterschoot,Directorate-General for Communication
-Deputy Director-General,Myriam Ferran,Directorate-General for International Partnerships
-Director-General,Florika Fink-Hooijer,Health Emergency Preparedness and Response Authority
-Director-General,Veronica Gaffey,Directorate-General for Digital Services
-Director-General,Ana Gallego Torres,Directorate-General for Justice and Consumers
-Director-General,Sandra Gallina,Directorate-General for Health and Food Safety
-Deputy Director-General,Hubert Gambs,Directorate-General for Justice and Consumers
-Director-General,Céline Gauer,Reform and Investment Task Force
-Director-General,Beate Gminder,Directorate-General for Migration and Home Affairs
-Deputy Director-General,Idilkó Horváth,Directorate-General for Translation
-Deputy Director-General,Marjeta Jager,Directorate-General for International Partnerships
-Director-General,Kerstin Jorna,"Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs"
-Deputy Director-General,Alexandra Jour-Schroeder,"Directorate-General for Financial Stability, Financial Services and Capital Markets Union"
-Secretary-General,Ilze Juhansone,Secretariat-General
-Director-General,Ditte Juul Jørgensen,Directorate-General for Energy
-Director-General,Agnieszka KAŹMIERCZAK,Internal Audit Service
-Director-General,Petr Klement,European Anti-Fraud Office
-Director-General,Gert Jan Koopman,Directorate-General for Enlargement and Eastern Neighbourhood
-Director-General,Magda Kopczyńska,Directorate-General for Mobility and Transport
-Director-General,Mariana Kotzeva,Eurostat
-Deputy Director-General,Clemens Ladenburger,Legal service
-Deputy Secretary-General,Pascal Leardini,Secretariat-General
-Director-General,Marc Lemaître,Directorate-General for Research and Innovation
-Deputy Director-General,Guillaume Loriot,Directorate-General for Competition
-Deputy Director-General,Johannes Luchner,Directorate-General for Migration and Home Affairs
-Director-General,Bernard Magenhann,Joint Research Centre
-Director-General,Eric Mamer,Directorate-General for Environment
-Deputy Director-General,Maria Martin-Prat De Abreu,Directorate-General for Trade and Economic Security
-Deputy Director-General,Linsey McCallum,Directorate-General for Competition
-Deputy Director-General,Irena Moozová,Directorate-General for Justice and Consumers
-Deputy Director-General,Valère Moutarlier,"Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs"
-Director-General,Mario Nava,"Directorate-General for Employment, Social Affairs and Inclusion"
-Deputy Director-General,Renate Nikolay,"Directorate-General for Communications Networks, Content and Technology"
-Deputy Director-General,Stefan Olsson,"Directorate-General for Employment, Social Affairs and Inclusion"
-Deputy Director-General,Olivier Onidi,Directorate-General for Migration and Home Affairs
-Director-General,Timo Pesonen,Directorate-General for Defence Industry and Space
-Deputy Director-General,Normunds Popens,"Directorate-General for Education, Youth, Sport and Culture"
-Director-General,Maciej Popowski,Directorate-General for European Civil Protection and Humanitarian Aid Operations (ECHO)
-Director-General,Stephen Quest,Directorate-General for Human Resources and Security
-Deputy Director-General,Denis Redonnet,Directorate-General for Trade and Economic Security
-Director-General,Stéphanie Riso,Directorate-General for Budget
-Deputy Director-General,Christian Roques,Directorate-General for Human Resources and Security
-Deputy Director-General,Leopoldo Rubinacci,Directorate-General for Trade and Economic Security
-Deputy Director-General,Herald Ruijters,Directorate-General for Defence Industry and Space
-Director-General,Genoveva Ruiz Calavera,Directorate-General for Interpretation
-Deputy Director-General,Maive Rute,"Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs"
-Deputy Director-General,Salla Saastamoinen,European Anti-Fraud Office
-Deputy Director-General,Kestutis Sadauskas,Directorate-General for Maritime Affairs and Fisheries
-Deputy Director-General,Ilkka Salmi,Directorate-General for Human Resources and Security
-Deputy Director-General,Beatriz Sanz Redrado,Directorate-General for Budget
-Deputy Director-General,Colin Scicluna,Directorate-General for Interpretation
-Deputy Director-General,Martin Seychell,Directorate-General for International Partnerships
-Deputy Director-General,Thomas Skordas,"Directorate-General for Communications Networks, Content and Technology"
-Deputy Director-General,Hugo Sobral,Directorate-General for Regional and Urban Policy
-Deputy Director-General,Despina Spanou,"Directorate-General for Communications Networks, Content and Technology"
-Director-General,Dana Spinant,Directorate-General for Communication
-Deputy Director-General,Andriana Sukova,"Directorate-General for Employment, Social Affairs and Inclusion"
-Deputy Director-General,Athanasios Thanopoulos,Eurostat
-Director-General,Gerassimos Thomas,Directorate-General for Taxation and Customs Union
-Deputy Director-General,Philippe Van Damme,Directorate-General for Digital Services
-Director-General,Kurt Vandenberghe,Directorate-General for Climate Action
-Director-General,Maarten Verwey,Directorate-General for Economic and Financial Affairs
-Director-General,Roberto Viola,"Directorate-General for Communications Networks, Content and Technology"
-Director-General,Charlina Vitcheva,Directorate-General for Maritime Affairs and Fisheries
-Deputy Secretary-General,John Watson,Secretariat-General
-Director-General,Elisabeth Werner,Directorate-General for Agriculture and Rural Development
-Director-General,Sabine Weyand,Directorate-General for Trade and Economic Security
-Director-General,Anthony Whelan,Directorate-General for Competition
-Deputy Director-General,Mechthild Wörsdörfer,Directorate-General for Energy
+name,role,department,wikidata_id,wikidata_desc,occupations
+Pia Ahrenkilde Hansen,Director-General,"Directorate-General for Education, Youth, Sport and Culture",Q59941086,Danish civil servant,
+Maja Bakran Marcich,Deputy Director-General,Directorate-General for Mobility and Transport,,,
+Matthew Baldwin,Deputy Director-General,Directorate-General for Energy,Q87805904,researcher,researcher
+Pierre Bascou,Deputy Director-General,Directorate-General for Agriculture and Rural Development,,,
+Nils Behrndt,Deputy Secretary-General,Secretariat-General,Q139313800,,
+John Berrigan,Director-General,"Directorate-General for Financial Stability, Financial Services and Capital Markets Union",Q90127242,researcher,researcher
+Lorena Boix Alonso,Deputy Director-General,Directorate-General for Defence Industry and Space,,,
+Claire Bury,Deputy Director-General,Directorate-General for Health and Food Safety,Q111529221,,
+Patrick Anthony Child,Deputy Director-General,Directorate-General for Environment,,,
+Themis Christophidou,Director-General,Directorate-General for Regional and Urban Policy,Q87647370,European Union civil servant of Cypriot nationality,civil servant || civil engineer
+Declan Costello,Deputy Director-General,Directorate-General for Economic and Financial Affairs,,,
+Alberto De Gregorio Merino,Director-General,Legal service,,,
+Koen Doens,Director-General,Directorate-General for International Partnerships,,,
+Joanna Drake,Deputy Director-General,Directorate-General for Research and Innovation,,,
+Jan Dusík,Deputy Director-General,Directorate-General for Climate Action,,,
+Christos Ellinides,Director-General,Directorate-General for Translation,,,
+Sophia Eriksson Waterschoot,Deputy Director-General,Directorate-General for Communication,,,
+Myriam Ferran,Deputy Director-General,Directorate-General for International Partnerships,,,
+Florika Fink-Hooijer,Director-General,Health Emergency Preparedness and Response Authority,,,
+Veronica Gaffey,Director-General,Directorate-General for Digital Services,,,
+Ana Gallego Torres,Director-General,Directorate-General for Justice and Consumers,,,
+Sandra Gallina,Director-General,Directorate-General for Health and Food Safety,,,
+Hubert Gambs,Deputy Director-General,Directorate-General for Justice and Consumers,,,
+Céline Gauer,Director-General,Reform and Investment Task Force,,,
+Beate Gminder,Director-General,Directorate-General for Migration and Home Affairs,,,
+Idilkó Horváth,Deputy Director-General,Directorate-General for Translation,,,
+Marjeta Jager,Deputy Director-General,Directorate-General for International Partnerships,,,
+Kerstin Jorna,Director-General,"Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs",,,
+Alexandra Jour-Schroeder,Deputy Director-General,"Directorate-General for Financial Stability, Financial Services and Capital Markets Union",,,
+Ilze Juhansone,Secretary-General,Secretariat-General,,,
+Ditte Juul Jørgensen,Director-General,Directorate-General for Energy,,,
+Agnieszka KAŹMIERCZAK,Director-General,Internal Audit Service,Q127688117,,
+Petr Klement,Director-General,European Anti-Fraud Office,Q95449942,,
+Gert Jan Koopman,Director-General,Directorate-General for Enlargement and Eastern Neighbourhood,Q124253428,Dutch civil servant,civil servant
+Magda Kopczyńska,Director-General,Directorate-General for Mobility and Transport,Q124080555,,
+Mariana Kotzeva,Director-General,Eurostat,Q31191531,Bulgarian statistian and econometrician,statistician || econometrician
+Clemens Ladenburger,Deputy Director-General,Legal service,Q137347923,,jurist
+Pascal Leardini,Deputy Secretary-General,Secretariat-General,,,
+Marc Lemaître,Director-General,Directorate-General for Research and Innovation,Q47003120,Luxembourgish civil servant,civil servant
+Guillaume Loriot,Deputy Director-General,Directorate-General for Competition,,,
+Johannes Luchner,Deputy Director-General,Directorate-General for Migration and Home Affairs,,,
+Bernard Magenhann,Director-General,Joint Research Centre,,,
+Eric Mamer,Director-General,Directorate-General for Environment,,,
+Maria Martin-Prat De Abreu,Deputy Director-General,Directorate-General for Trade and Economic Security,,,
+Linsey McCallum,Deputy Director-General,Directorate-General for Competition,,,
+Irena Moozová,Deputy Director-General,Directorate-General for Justice and Consumers,,,
+Valère Moutarlier,Deputy Director-General,"Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs",,,
+Mario Nava,Director-General,"Directorate-General for Employment, Social Affairs and Inclusion",,,
+Renate Nikolay,Deputy Director-General,"Directorate-General for Communications Networks, Content and Technology",,,
+Stefan Olsson,Deputy Director-General,"Directorate-General for Employment, Social Affairs and Inclusion",,,
+Olivier Onidi,Deputy Director-General,Directorate-General for Migration and Home Affairs,,,
+Timo Pesonen,Director-General,Directorate-General for Defence Industry and Space,,,
+Normunds Popens,Deputy Director-General,"Directorate-General for Education, Youth, Sport and Culture",,,
+Maciej Popowski,Director-General,Directorate-General for European Civil Protection and Humanitarian Aid Operations (ECHO),,,
+Stephen Quest,Director-General,Directorate-General for Human Resources and Security,,,
+Denis Redonnet,Deputy Director-General,Directorate-General for Trade and Economic Security,,,
+Stéphanie Riso,Director-General,Directorate-General for Budget,,,
+Christian Roques,Deputy Director-General,Directorate-General for Human Resources and Security,,,
+Leopoldo Rubinacci,Deputy Director-General,Directorate-General for Trade and Economic Security,,,
+Herald Ruijters,Deputy Director-General,Directorate-General for Defence Industry and Space,,,
+Genoveva Ruiz Calavera,Director-General,Directorate-General for Interpretation,,,
+Maive Rute,Deputy Director-General,"Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs",,,
+Salla Saastamoinen,Deputy Director-General,European Anti-Fraud Office,,,
+Kestutis Sadauskas,Deputy Director-General,Directorate-General for Maritime Affairs and Fisheries,,,
+Ilkka Salmi,Deputy Director-General,Directorate-General for Human Resources and Security,,,
+Beatriz Sanz Redrado,Deputy Director-General,Directorate-General for Budget,,,
+Colin Scicluna,Deputy Director-General,Directorate-General for Interpretation,,,
+Martin Seychell,Deputy Director-General,Directorate-General for International Partnerships,,,
+Thomas Skordas,Deputy Director-General,"Directorate-General for Communications Networks, Content and Technology",,,
+Hugo Sobral,Deputy Director-General,Directorate-General for Regional and Urban Policy,,,
+Despina Spanou,Deputy Director-General,"Directorate-General for Communications Networks, Content and Technology",Q124862500,Greek civil servant,civil servant
+Dana Spinant,Director-General,Directorate-General for Communication,Q136609022,European Union civil servant of Romanian nationality,
+Andriana Sukova,Deputy Director-General,"Directorate-General for Employment, Social Affairs and Inclusion",Q125169601,Bulgarian civil servant,civil servant
+Athanasios Thanopoulos,Deputy Director-General,Eurostat,Q103075106,Ph.D. University of Pittsburgh 2009,economist
+Gerassimos Thomas,Director-General,Directorate-General for Taxation and Customs Union,,,
+Philippe Van Damme,Deputy Director-General,Directorate-General for Digital Services,Q89368411,,Q89368475
+Kurt Vandenberghe,Director-General,Directorate-General for Climate Action,Q136608340,European Union civil servant of Belgium nationality,
+Maarten Verwey,Director-General,Directorate-General for Economic and Financial Affairs,Q124158105,,
+Roberto Viola,Director-General,"Directorate-General for Communications Networks, Content and Technology",,,
+Charlina Vitcheva,Director-General,Directorate-General for Maritime Affairs and Fisheries,,,
+John Watson,Deputy Secretary-General,Secretariat-General,,,
+Elisabeth Werner,Director-General,Directorate-General for Agriculture and Rural Development,,,
+Sabine Weyand,Director-General,Directorate-General for Trade and Economic Security,,,
+Anthony Whelan,Director-General,Directorate-General for Competition,,,
+Mechthild Wörsdörfer,Deputy Director-General,Directorate-General for Energy,,,
