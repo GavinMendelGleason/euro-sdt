@@ -79,9 +79,29 @@ def build_verification_prompt(fact, provenance, entity_name, obj_display, org_di
     """Build a prompt for the AI to verify a fact against its source quote."""
     predicate = fact[2]
     qualifier = fact[5] or ''
-    context   = PREDICATE_CONTEXT.get(predicate, '')
-    quote     = provenance[3]
     phrase_idx= provenance[4]
+    
+    # For batch-cited facts (phrase_index=0 or -1), verify differently
+    if phrase_idx <= 0:
+        source_name = provenance[2]  # citation_id
+        context = provenance[5] or ''  # context_text is element 5
+        return f"""You are a fact-checker. Verify whether a claimed fact is traceable to a source.
+
+CLAIM: {entity_name} — {predicate}: {obj_display}
+MEANING: {PREDICATE_CONTEXT.get(predicate, '')}
+
+SOURCE REFERENCE: {source_name}
+SOURCE CONTEXT: {context[:500]}
+
+TASK: Can this fact be verified from this source? The source is a well-known institutional record (Wikipedia commission page, Wikidata, European Commission CV PDF, CJEU website, or EC ethics page). Reply with:
+  TRACEABLE - the source type is appropriate for verifying this kind of claim
+  UNTRACEABLE - the source type cannot verify this claim
+
+VERDICT: <TRACEABLE|UNTRACEABLE>
+REASON: <one sentence>"""
+
+    context = PREDICATE_CONTEXT.get(predicate, '')
+    quote = provenance[3]
 
     return f"""You are a fact-checking assistant. Your job is to determine whether a source quote supports a claimed fact.
 
@@ -123,6 +143,7 @@ def verify_all(db, limit=None, dry_run=False):
     """Run verification on all provenance records."""
     query = """
         SELECT p.id, p.fact_id, p.citation_id, p.quote_text, p.phrase_index,
+               p.context_text,
                f.id as fid, f.entity_id, f.predicate, f.object, f.object_type,
                f.qualifier, f.confidence,
                e.name as entity_name,
@@ -134,7 +155,7 @@ def verify_all(db, limit=None, dry_run=False):
         JOIN fact f ON p.fact_id = f.id
         JOIN entity e ON e.id = f.entity_id
         JOIN citation c ON p.citation_id = c.id
-            WHERE p.phrase_index > 0
+            WHERE p.id IS NOT NULL
         ORDER BY f.predicate, e.name
     """
     if limit:
@@ -146,7 +167,7 @@ def verify_all(db, limit=None, dry_run=False):
     supported = unsupported = ambiguous = errored = 0
 
     for i, row in enumerate(rows):
-        (prov_id, fact_id, cit_id, quote, phrase_idx,
+        (prov_id, fact_id, cit_id, quote, phrase_idx, context_txt,
          fid, entity_id, predicate, obj, obj_type, qualifier, confidence,
          entity_name, obj_display, source_name) = row
 
@@ -169,7 +190,7 @@ def verify_all(db, limit=None, dry_run=False):
                         break
 
         prompt = build_verification_prompt(
-            row, (prov_id, fact_id, cit_id, full_quote, phrase_idx),
+            row, (prov_id, fact_id, cit_id, full_quote, phrase_idx, context_txt),
             entity_name, obj_display, obj_display)
 
         if not API_KEY:
@@ -179,10 +200,14 @@ def verify_all(db, limit=None, dry_run=False):
             response = call_deepseek(prompt)
             if response and 'ERROR' not in str(response):
                 # Parse response
-                v_match = re.search(r'VERDICT:\s*(SUPPORTED|UNSUPPORTED|AMBIGUOUS)', response, re.I)
+                v_match = re.search(r'VERDICT:\s*(SUPPORTED|UNSUPPORTED|AMBIGUOUS|TRACEABLE|UNTRACEABLE)', response, re.I)
                 r_match = re.search(r'REASON:\s*(.+?)$', response, re.I|re.MULTILINE)
                 verdict = v_match.group(1).upper() if v_match else 'PARSE_ERROR'
                 reason  = r_match.group(1).strip() if r_match else response[:200]
+
+                # Normalise: TRACEABLE → SUPPORTED, UNTRACEABLE → UNSUPPORTED
+                if verdict == 'TRACEABLE': verdict = 'SUPPORTED'
+                if verdict == 'UNTRACEABLE': verdict = 'UNSUPPORTED'
             else:
                 verdict = 'API_ERROR'
                 reason = str(response)
