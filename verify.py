@@ -155,7 +155,8 @@ def verify_all(db, limit=None, dry_run=False):
         JOIN fact f ON p.fact_id = f.id
         JOIN entity e ON e.id = f.entity_id
         JOIN citation c ON p.citation_id = c.id
-            WHERE p.id IS NOT NULL
+            WHERE p.phrase_index > 0
+            AND (f.verified_at IS NULL OR f.confidence = 'disputed')
         ORDER BY f.predicate, e.name
     """
     if limit:
@@ -236,11 +237,14 @@ def verify_all(db, limit=None, dry_run=False):
             'AMBIGUOUS': 'ambiguous'
         }
         new_conf = confidence_map.get(verdict, confidence)
-        db.execute("UPDATE fact SET confidence = ?, updated_at = ? WHERE id = ?",
-                   (new_conf, TODAY, fact_id))
+        db.execute("UPDATE fact SET confidence = ?, updated_at = ?, verified_at = ? WHERE id = ?",
+                   (new_conf, TODAY, TODAY, fact_id))
 
         if i % 10 == 0 or i == total - 1:
             print(f'  [{i+1}/{total}] S:{supported} U:{unsupported} A:{ambiguous} E:{errored}')
+            # Incremental write so status.py can monitor
+            if results:
+                pd.DataFrame(results).to_csv('verification_report.csv', index=False)
 
         time.sleep(0.5)  # rate limit
 

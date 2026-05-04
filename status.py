@@ -35,8 +35,17 @@ def status():
             import pandas as pd
             df = pd.read_csv('verification_report.csv')
             s = (df['verdict']=='SUPPORTED').sum()
-            print(f"\nLAST VERIFICATION ({ago}s ago, {len(df)} facts checked)")
-            print(f"  Supported: {s}/{len(df)} ({s/len(df)*100:.0f}%)")
+            u = (df['verdict']=='UNSUPPORTED').sum()
+            checked_phrase = pi_pos + pi_neg  # all phrase-index and name-in-page
+            print(f"\nAI VERIFICATION ({ago}s ago, {len(df)} facts checked)")
+            print(f"  Supported: {s}/{len(df)} ({s/len(df)*100:.0f}%) — quote proves claim")
+            print(f"  Unsupported: {u}/{len(df)} ({u/len(df)*100:.0f}%) — quote doesn't prove claim")
+            print(f"  Unchecked (have quotes, not yet verified): {checked_phrase - len(df)}")
+            if len(df) > 0:
+                print(f"\n  Verified rate by predicate:")
+                for pred, grp in df.groupby('predicate'):
+                    sup = (grp['verdict']=='SUPPORTED').sum(); tot = len(grp)
+                    print(f"    {pred:<28} {sup:>3}/{tot:<3} ({sup/tot*100:.0f}%)")
         except: pass
 
 if __name__ == '__main__':

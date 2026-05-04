@@ -31,7 +31,8 @@ CREATE TABLE IF NOT EXISTS fact (
     qualifier    TEXT,              -- additional context, e.g. 'PhD in Economics, 1996'
     start_date   TEXT,              -- YYYY-MM-DD, YYYY-MM, or YYYY
     end_date     TEXT,
-    confidence   TEXT DEFAULT 'confirmed',  -- 'confirmed', 'likely', 'disputed', 'inferred'
+    confidence   TEXT DEFAULT 'confirmed',  -- 'confirmed', 'likely', 'disputed', 'inferred', 'unverified'
+    verified_at  TEXT,              -- ISO date when AI-checked (NULL = not checked)
     created_at   TEXT NOT NULL DEFAULT (datetime('now')),
     updated_at   TEXT NOT NULL DEFAULT (datetime('now')),
     FOREIGN KEY (entity_id) REFERENCES entity(id)
