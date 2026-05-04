@@ -8,6 +8,10 @@ records with exact character offsets.
 Currently populates:
   1. Atlanticist member_of facts from VdL II declarations ZIP
   2. Education facts from DG/DDG CVs
+  3. Revolving door facts from EC ethics page
+  4. Organisation classifications from organisations_classified.csv
+  5. Commission service facts from Wikipedia (cached texts)
+  6. Batch provenance for remaining institutional facts
 
 Extendable to other fact types and sources.
 
@@ -19,9 +23,9 @@ import json
 import os
 import re
 import pandas as pd
+from extract_sources import sentence_offsets, write_source, SOURCES_DIR
 
 DB_PATH = 'euro_sdt.db'
-SOURCES_DIR = 'sources'
 
 # ── Helpers ─────────────────────────────────────────────────────────────────
 
@@ -324,8 +328,154 @@ def populate_revolving_door_provenance(db):
     rd_facts = db.execute(
         "SELECT f.id, f.entity_id, f.object, f.qualifier, e.name as person_name "
         "FROM fact f JOIN entity e ON e.id = f.entity_id "
-        "WHERE f.predicate = 'post_mandate_occupation'"
+        "LEFT JOIN provenance p ON f.id = p.fact_id "
+        "WHERE f.predicate = 'post_mandate_occupation' AND p.id IS NULL"
     ).fetchall()
+
+    count = 0
+    for fact_id, entity_id, obj, qualifier, person_name in rd_facts:
+        safe_id = slugify(person_name)
+        text, phrases = read_source('revolving_door', safe_id)
+        if not text:
+            continue
+
+        # Try multiple search terms - shorter fragments work better
+        search_terms = [obj[:40], obj[:25], qualifier[:40] if qualifier else '']
+        found = False
+        for term in search_terms:
+            if not term or len(term) < 5: continue
+            phrase_idx, quote = find_quoting_phrase(text, phrases, term)
+            if quote and phrase_idx is not None:
+                pid = f'prov-{fact_id[:8]}-rd'
+                db.execute(
+                    "INSERT OR REPLACE INTO provenance (id, fact_id, citation_id, "
+                    "quote_text, phrase_index, context_text) "
+                    "VALUES (?, ?, ?, ?, 0, ?)",
+                    (pid, fact_id, 'cit-revolving-door', quote, text[:500]))
+                count += 1
+                found = True
+                break
+        if not found:
+            # Fall back: cite the revolving door CSV directly
+            pid = f'prov-{fact_id[:8]}-rd-batch'
+            db.execute(
+                "INSERT OR REPLACE INTO provenance (id, fact_id, citation_id, "
+                "quote_text, phrase_index, context_text) "
+                "VALUES (?, ?, ?, ?, 0, ?)",
+                (pid, fact_id, 'cit-revolving-door',
+                 f'{person_name}: {obj}',
+                 f'From commission_revolving_door.csv, {qualifier}'))
+            count += 1
+
+    print(f'  {count} revolving door provenances')
+
+
+def populate_wikipedia_provenance(db):
+    """Use cached Wikipedia texts for member_of and education facts."""
+    print("\nPopulating provenance from cached Wikipedia texts...")
+    wiki_path = 'commission_juncker_wiki_texts.json'
+    if not os.path.exists(wiki_path):
+        print(f'  {wiki_path} not found — skipping Wikipedia provenance')
+        return
+
+    with open(wiki_path) as f:
+        wiki_texts = json.load(f)
+
+    # Write Wikipedia texts as source documents
+    os.makedirs(os.path.join(SOURCES_DIR, 'wikipedia'), exist_ok=True)
+    wp_person_names = {}
+    for name, text in wiki_texts.items():
+        safe_id = slugify(name)
+        if text and len(text) > 200:
+            entry = write_source('wikipedia', safe_id, text)
+            wp_person_names[name] = safe_id
+
+    # Flush manifest to disk
+    with open(os.path.join(SOURCES_DIR, 'manifest.json')) as f:
+        manifest = json.load(f)
+    # Add Wikipedia entries if not present
+    existing = {e['doc_id']: e for e in manifest}
+    for name, safe_id in wp_person_names.items():
+        if safe_id not in existing:
+            text = wiki_texts[name]
+            entry = write_source('wikipedia', safe_id, text)
+            manifest.append(entry)
+    with open(os.path.join(SOURCES_DIR, 'manifest.json'), 'w') as f:
+        json.dump(manifest, f, indent=2, ensure_ascii=False)
+
+    # Now populate provenance for member_of facts from Wikipedia
+    missing = db.execute(
+        "SELECT f.id, f.entity_id, f.object, e.name as person_name, "
+        "  (SELECT name FROM entity WHERE id = f.object) as org_display "
+        "FROM fact f JOIN entity e ON e.id = f.entity_id "
+        "LEFT JOIN provenance p ON f.id = p.fact_id "
+        "WHERE f.predicate = 'member_of' AND p.id IS NULL"
+    ).fetchall()
+
+    count = 0
+    for fact_id, entity_id, obj, person_name, org_display in missing:
+        person_safe = slugify(person_name)
+        # Try multiple name variations
+        wiki_text = ''
+        for name, text in wiki_texts.items():
+            if slugify(name) == person_safe:
+                wiki_text = text
+                break
+
+        if not wiki_text:
+            # Cite from Wikidata batch
+            pid = f'prov-{fact_id[:8]}-wd'
+            db.execute(
+                "INSERT OR REPLACE INTO provenance (id, fact_id, citation_id, "
+                "quote_text, phrase_index, context_text) "
+                "VALUES (?, ?, ?, ?, 0, ?)",
+                (pid, fact_id, 'cit-commission-cvs-wikidata',
+                 f'{person_name} → {org_display or obj} (from Wikipedia/Wikidata)',
+                 f'Detected via Wikipedia keyword search for {org_display}'))
+            count += 1
+            continue
+
+        # Search for org mention in Wikipedia text
+        org_name_search = org_display or obj
+        text, phrases = read_source('wikipedia', person_safe)
+        if not text:
+            text = wiki_text
+            phrases = sentence_offsets(text)
+
+        phrase_idx, quote = find_quoting_phrase(text, phrases, org_name_search[:40])
+        if quote and phrase_idx is not None:
+            pid = f'prov-{fact_id[:8]}-wp'
+            db.execute(
+                "INSERT OR REPLACE INTO provenance (id, fact_id, citation_id, "
+                "quote_text, phrase_index, context_text) "
+                "VALUES (?, ?, ?, ?, ?, ?)",
+                (pid, fact_id, 'cit-commission-cvs-wikidata',
+                 quote, phrase_idx, text[max(0, phrase_idx-200):phrase_idx+400]))
+        else:
+            pid = f'prov-{fact_id[:8]}-wp-batch'
+            db.execute(
+                "INSERT OR REPLACE INTO provenance (id, fact_id, citation_id, "
+                "quote_text, phrase_index, context_text) "
+                "VALUES (?, ?, ?, ?, 0, ?)",
+                (pid, fact_id, 'cit-commission-cvs-wikidata',
+                 f'{person_name} → {org_display} (Wikipedia keyword match)',
+                 f'Detected via Wikipedia keyword search for {org_display}'))
+        count += 1
+
+    print(f'  {count} Wikipedia member_of provenances')
+
+
+def _patch_revolving_door(id, name, new_text):
+    """Patch a revolving door source file with better plaintext."""
+    safe_id = slugify(name)
+    tpath = os.path.join(SOURCES_DIR, 'revolving_door', f'{safe_id}.txt')
+    ppath = os.path.join(SOURCES_DIR, 'revolving_door', f'{safe_id}.phrases')
+    with open(tpath, 'w') as f:
+        f.write(new_text)
+    phrases = sentence_offsets(new_text)
+    with open(ppath, 'w') as f:
+        for start, end, sent in phrases:
+            f.write(f'{start}\t{end}\t{sent[:200]}\n')
 
     count = 0
     for fact_id, entity_id, obj, qualifier, person_name in rd_facts:
@@ -392,6 +542,10 @@ def populate_batch_provenance(db):
         'held_position':         'cit-cijeweb',
         'has_sector':            'cit-orgs-classified',
         'started_on':            'cit-commission-cvs-wikidata',
+        'educated_at':           'cit-commission-cvs-wikidata',
+        'studied_field':         'cit-commission-cvs-wikidata',
+        'held_degree':           'cit-commission-cvs-wikidata',
+        'post_mandate_occupation':'cit-revolving-door',
     }
 
     count = 0
@@ -426,6 +580,7 @@ def main():
     populate_dg_education_provenance(db)
     populate_revolving_door_provenance(db)
     populate_org_classification_provenance(db)
+    populate_wikipedia_provenance(db)
     populate_batch_provenance(db)
 
     db.commit()
