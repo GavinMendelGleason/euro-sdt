@@ -323,51 +323,38 @@ def populate_dg_education_provenance(db):
 
 
 def populate_revolving_door_provenance(db):
-    """Match post_mandate_occupation facts from revolving door CSV."""
+    """Match post_mandate_occupation facts from revolving door source texts."""
     print("\nPopulating provenance for revolving door...")
+    # Clear existing batch citations for these
+    db.execute("""DELETE FROM provenance WHERE fact_id IN (
+        SELECT id FROM fact WHERE predicate = 'post_mandate_occupation')""")
     rd_facts = db.execute(
         "SELECT f.id, f.entity_id, f.object, f.qualifier, e.name as person_name "
         "FROM fact f JOIN entity e ON e.id = f.entity_id "
-        "LEFT JOIN provenance p ON f.id = p.fact_id "
-        "WHERE f.predicate = 'post_mandate_occupation' AND p.id IS NULL"
+        "WHERE f.predicate = 'post_mandate_occupation'"
     ).fetchall()
-
-    count = 0
+    matched = 0
     for fact_id, entity_id, obj, qualifier, person_name in rd_facts:
         safe_id = slugify(person_name)
         text, phrases = read_source('revolving_door', safe_id)
-        if not text:
-            continue
-
-        # Try multiple search terms - shorter fragments work better
-        search_terms = [obj[:40], obj[:25], qualifier[:40] if qualifier else '']
+        if not text: continue
         found = False
-        for term in search_terms:
-            if not term or len(term) < 5: continue
-            phrase_idx, quote = find_quoting_phrase(text, phrases, term)
-            if quote and phrase_idx is not None:
-                pid = f'prov-{fact_id[:8]}-rd'
-                db.execute(
-                    "INSERT OR REPLACE INTO provenance (id, fact_id, citation_id, "
-                    "quote_text, phrase_index, context_text) "
-                    "VALUES (?, ?, ?, ?, 0, ?)",
-                    (pid, fact_id, 'cit-revolving-door', quote, text[:500]))
-                count += 1
-                found = True
-                break
-        if not found:
-            # Fall back: cite the revolving door CSV directly
-            pid = f'prov-{fact_id[:8]}-rd-batch'
-            db.execute(
-                "INSERT OR REPLACE INTO provenance (id, fact_id, citation_id, "
-                "quote_text, phrase_index, context_text) "
-                "VALUES (?, ?, ?, ?, 0, ?)",
-                (pid, fact_id, 'cit-revolving-door',
-                 f'{person_name}: {obj}',
-                 f'From commission_revolving_door.csv, {qualifier}'))
-            count += 1
-
-    print(f'  {count} revolving door provenances')
+        for term in [obj[:80], obj[:60], obj[:40], obj[:25]]:
+            if len(term.strip()) < 5: continue
+            for line in text.split('\n'):
+                if term.lower().strip() in line.lower():
+                    pid = f'prov-{fact_id[:8]}-rd'
+                    # Find phrase index for this line
+                    line_idx = 0
+                    for pi, (_, _, sent) in enumerate(phrases):
+                        if term.lower()[:10] in sent.lower():
+                            line_idx = pi
+                            break
+                    db.execute("INSERT OR REPLACE INTO provenance (id, fact_id, citation_id, quote_text, phrase_index, context_text) VALUES (?,?,?,?,?,?)",
+                               (pid, fact_id, 'cit-revolving-door', line.strip(), line_idx, text))
+                    matched += 1; found = True; break
+            if found: break
+    print(f'  {matched}/{len(rd_facts)} revolving door provenances')
 
 
 def populate_wikipedia_provenance(db):
@@ -570,6 +557,57 @@ def populate_batch_provenance(db):
     print(f'  {count} batch provenances added')
 
 
+def populate_commissioner_education_provenance(db):
+    """Use Wikipedia extracts to add provenance for commissioner education facts."""
+    print("\nPopulating provenance for commissioner education from Wikipedia...")
+    missing = db.execute("""SELECT f.id, f.entity_id, f.predicate, f.object, f.object_type,
+        e.name as person_name, (SELECT name FROM entity WHERE id = f.object) as obj_display
+        FROM fact f JOIN entity e ON e.id = f.entity_id
+        LEFT JOIN provenance p ON f.id = p.fact_id
+        WHERE f.predicate IN ('educated_at','studied_field','held_degree')
+        AND e.type='person' AND e.category='commissioner' AND p.id IS NULL""").fetchall()
+    count = 0
+    for fact_id, entity_id, predicate, obj, obj_type, person_name, obj_display in missing:
+        ps = slugify(person_name)
+        text, phrases = read_source('wikipedia', ps)
+        if not text: continue
+        st = obj_display or obj
+        if predicate == 'studied_field': st = obj
+        elif predicate == 'held_degree': st = 'PhD' if 'phd' in obj.lower() else 'doctorate'
+        pi, quote = find_quoting_phrase(text, phrases, st, person_name)
+        if quote and pi is not None:
+            pid = f'prov-{fact_id[:8]}-wpe'
+            db.execute("INSERT OR REPLACE INTO provenance (id,fact_id,citation_id,quote_text,phrase_index,context_text) VALUES(?,?,?,?,?,?)",
+                       (pid, fact_id, 'cit-commission-cvs-wikidata', quote, pi, text[:500]))
+            count += 1
+    print(f'  {count} commissioner education provenances')
+
+
+def populate_held_position_provenance(db):
+    """Use DG CVs and CJEU bios for held_position facts."""
+    print("\nPopulating provenance for held_position from DG/CJEU sources...")
+    missing = db.execute("""SELECT f.id,f.entity_id,f.object,e.name as person_name,e.category
+        FROM fact f JOIN entity e ON e.id=f.entity_id LEFT JOIN provenance p ON f.id=p.fact_id
+        WHERE f.predicate='held_position' AND e.category IN ('dg','ddg','cjeu_judge','cjeu_ag')
+        AND p.id IS NULL""").fetchall()
+    count = 0
+    for fact_id, entity_id, obj, person_name, category in missing:
+        ps = slugify(person_name)
+        text, phrases = read_source('dg_cvs', ps)
+        sc = 'cit-dg-cvs'
+        if not text: text, phrases = read_source('cjeu', ps); sc = 'cit-cijeweb'
+        if not text: continue
+        for term in [obj[:60], obj[:40], obj[:25]]:
+            if len(term.strip()) < 8: continue
+            pi, quote = find_quoting_phrase(text, phrases, term.strip())
+            if quote and pi is not None:
+                pid = f'prov-{fact_id[:8]}-pos'
+                db.execute("INSERT OR REPLACE INTO provenance (id,fact_id,citation_id,quote_text,phrase_index,context_text) VALUES(?,?,?,?,?,?)",
+                           (pid, fact_id, sc, quote, pi, text[:500]))
+                count += 1; break
+    print(f'  {count} held_position provenances')
+
+
 # ── Main ────────────────────────────────────────────────────────────────────
 
 def main():
@@ -581,6 +619,8 @@ def main():
     populate_revolving_door_provenance(db)
     populate_org_classification_provenance(db)
     populate_wikipedia_provenance(db)
+    populate_commissioner_education_provenance(db)
+    populate_held_position_provenance(db)
     populate_batch_provenance(db)
 
     db.commit()
