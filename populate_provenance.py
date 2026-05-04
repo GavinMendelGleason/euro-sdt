@@ -695,6 +695,73 @@ def populate_held_position_provenance(db):
     print(f'  {count} held_position provenances')
 
 
+def populate_commission_service_provenance(db):
+    """Use Wikipedia commission pages for served_on_commission, held_portfolio,
+    from_country, and nominated_by facts. The Wikipedia page text literally
+    lists all commissioners with their portfolios and countries."""
+    print("\nPopulating provenance for commission service facts from Wikipedia...")
+    
+    predicates = ['served_on_commission', 'held_portfolio', 'from_country', 'nominated_by']
+    for predicate in predicates:
+        # Clear existing batch
+        db.execute("""DELETE FROM provenance WHERE fact_id IN (
+            SELECT id FROM fact WHERE predicate = ?)""", (predicate,))
+    
+    count = 0
+    for predicate in predicates:
+        facts = db.execute("""
+            SELECT f.id, f.entity_id, f.object, e.name as person_name
+            FROM fact f JOIN entity e ON e.id = f.entity_id
+            WHERE f.predicate = ?
+        """, (predicate,)).fetchall()
+        
+        for fact_id, entity_id, obj, person_name in facts:
+            # Each fact relates to a specific commission — get its Wikipedia text
+            comm_id = None
+            if predicate == 'served_on_commission':
+                comm_id = obj
+            else:
+                # Find which commission this person served on
+                comm = db.execute(
+                    "SELECT object FROM fact WHERE entity_id=? AND predicate='served_on_commission'",
+                    (entity_id,)).fetchone()
+                comm_id = comm[0] if comm else None
+            
+            if not comm_id:
+                continue
+            
+            text, phrases = read_source('wikipedia', comm_id)
+            if not text:
+                # Try without 'commission-' prefix
+                text, phrases = read_source('wikipedia', comm_id.replace('commission-', ''))
+            if not text:
+                continue
+            
+            # Search for the person's name in the commission page
+            surname = person_name.split()[-1].lower() if person_name else ''
+            first = person_name.split()[0].lower() if person_name else ''
+            
+            phrase_idx, quote = find_quoting_phrase(
+                text, phrases, surname, commissioner_name=person_name,
+                predicate='served_on_commission')
+            
+            if not quote:
+                phrase_idx, quote = find_quoting_phrase(
+                    text, phrases, first, commissioner_name=person_name)
+            
+            if quote and phrase_idx is not None:
+                pid = f'prov-{fact_id[:8]}-cs'
+                db.execute("INSERT OR REPLACE INTO provenance (id, fact_id, citation_id, "
+                           "quote_text, phrase_index, context_text) "
+                           "VALUES (?, ?, ?, ?, ?, ?)",
+                           (pid, fact_id, 'cit-vdl2-wikipedia',
+                            quote, phrase_idx,
+                            f'Wikipedia page for {comm_id}'))
+                count += 1
+    
+    print(f'  {count} commission service provenances')
+
+
 # ── Main ────────────────────────────────────────────────────────────────────
 
 def main():
@@ -708,6 +775,7 @@ def main():
     populate_wikipedia_provenance(db)
     populate_commissioner_education_provenance(db)
     populate_held_position_provenance(db)
+    populate_commission_service_provenance(db)
     populate_batch_provenance(db)
 
     db.commit()
