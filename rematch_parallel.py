@@ -75,7 +75,7 @@ def get_source(person_name, predicate, obj, cit_id, db_conn):
     return text, phrases
 
 def process_fact(row):
-    """Process one fact: find source, ask LLM, update DB."""
+    """Process one fact: find source, try substring match first, fall back to LLM."""
     prov_id, fact_id, cit_id, name, predicate, obj, qualifier = row
     
     # Skip if already confirmed with a good phrase-index
@@ -85,7 +85,7 @@ def process_fact(row):
         (prov_id,)).fetchone()
     if check and check[0] > 0 and check[1] == 'confirmed':
         local.close()
-        return None  # already done
+        return None
     
     text, phrases = get_source(name, predicate, obj, cit_id, local)
     
@@ -93,8 +93,48 @@ def process_fact(row):
         local.close()
         return None
     
-    result = find_phrase(text, phrases, name, predicate, obj)
+    # ── Strategy 1: Deterministic substring match ──────────────────────────
+    # Try exact substring match of the object text in the source
+    obj_lower = obj.lower()
+    for phrase_idx, (_, _, sent) in enumerate(phrases):
+        if obj_lower[:20] in sent.lower():
+            local.execute("UPDATE provenance SET quote_text=?, phrase_index=?, context_text=? WHERE id=?",
+                          (sent, phrase_idx, text[:500], prov_id))
+            local.execute("UPDATE fact SET confidence='confirmed', updated_at=date('now') WHERE id=?", (fact_id,))
+            local.commit()
+            local.close()
+            return True
     
+    # Strategy 1b: Try matching just the key part (first 15 chars of object)
+    if len(obj) > 15:
+        short = obj[:15].lower()
+        for phrase_idx, (_, _, sent) in enumerate(phrases):
+            if short in sent.lower():
+                local.execute("UPDATE provenance SET quote_text=?, phrase_index=?, context_text=? WHERE id=?",
+                              (sent, phrase_idx, text[:500], prov_id))
+                local.execute("UPDATE fact SET confidence='confirmed', updated_at=date('now') WHERE id=?", (fact_id,))
+                local.commit()
+                local.close()
+                return True
+    
+    # Strategy 1c: For rotating door, match by searching entire text line by line
+    if predicate == 'post_mandate_occupation':
+        for line in text.split('\n'):
+            if obj_lower[:25] in line.lower():
+                phrase_idx = 0
+                for pi, (_, _, sent) in enumerate(phrases):
+                    if line.strip()[:20] == sent[:20]:
+                        phrase_idx = pi; break
+                local.execute("UPDATE provenance SET quote_text=?, phrase_index=?, context_text=? WHERE id=?",
+                              (line.strip(), phrase_idx, text[:500], prov_id))
+                local.execute("UPDATE fact SET confidence='confirmed', updated_at=date('now') WHERE id=?", (fact_id,))
+                local.commit()
+                local.close()
+                return True
+    
+    # ── Strategy 2: LLM-based find ────────────────────────────────────────
+    # Only call LLM if substring match failed
+    result = find_phrase(text, phrases, name, predicate, obj)
     if result:
         idx, sent = result
         local.execute("UPDATE provenance SET quote_text=?, phrase_index=?, context_text=? WHERE id=?",
