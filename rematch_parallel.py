@@ -262,4 +262,10 @@ def verify_disputed(db):
     print(f'\nDone. {pi}/{t} phrase quotes ({pi/t*100:.0f}%), {c} confirmed.')
 
 if __name__ == '__main__':
-    main()
+    import sqlite3
+    db = sqlite3.connect(DB)
+    verify_disputed(db)
+    db.close()
+    print('Done.')
+    # main() is replaced by verify_disputed for safety
+    # The full LLM matching can be run separately
