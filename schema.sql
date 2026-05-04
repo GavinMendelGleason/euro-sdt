@@ -83,9 +83,8 @@ CREATE TABLE IF NOT EXISTS provenance (
     fact_id       TEXT NOT NULL REFERENCES fact(id),
     citation_id   TEXT NOT NULL REFERENCES citation(id),
     quote_text    TEXT NOT NULL,          -- exact words from the source
-    phrase_start  INTEGER,               -- character offset in source text
-    phrase_end    INTEGER,
-    context_text  TEXT                    -- surrounding paragraph (for AI verification)
+    phrase_index  INTEGER NOT NULL,      -- 0-based sentence index in the .phrases file
+    context_text  TEXT                    -- surrounding sentences (for AI verification)
 );
 
 CREATE INDEX idx_provenance_fact ON provenance(fact_id);

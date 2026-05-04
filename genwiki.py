@@ -66,7 +66,7 @@ def fetch_facts(db, eid):
 def fetch_citations_for_fact(db, fact_id):
     return db.execute(
         """SELECT c.source_name, c.source_type, c.url, c.access_date,
-                  p.quote_text, p.phrase_start, p.phrase_end, p.context_text
+                  p.quote_text, p.phrase_index, p.context_text
            FROM provenance p JOIN citation c ON p.citation_id = c.id
            WHERE p.fact_id = ?""",
         (fact_id,)).fetchall()
@@ -164,8 +164,10 @@ def generate_entity_page(db, eid):
             for i, cit in enumerate(citations):
                 ref_num = fact_count if len(citations) == 1 else f'{fact_count}.{i+1}'
                 lines.append(f'  ^{{{ref_num}}} *{cit[0]}* ({cit[1]})')
-                if cit[5]:
+                if cit[4]:
                     lines.append(f'  > "{cit[4][:300]}"')
+                if cit[5] is not None and cit[5] >= 0:
+                    lines.append(f'  > 📖 phrase index {cit[5]}')
                 if cit[2]:
                     lines.append(f'  > [{cit[2]}]({cit[2]}) accessed {cit[3]}')
                 lines.append('')
