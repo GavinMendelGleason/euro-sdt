@@ -106,29 +106,35 @@ NUMBER: """
 
 
 def rematch_unsupported(db):
-    """For each unsupported fact, find the correct sentence in the source."""
+    """For each unsupported OR batch-cited fact, find the correct sentence in the source."""
     if not API_KEY:
         print("No API key. Set DEEPSEEK_API_KEY.")
         return
     
-    # Get unsupported facts
-    unsupported = db.execute("""
+    # Get both disputed AND batch-cited facts
+    all_to_fix = db.execute("""
         SELECT p.id as prov_id, p.fact_id, p.citation_id, f.entity_id, f.predicate,
-               f.object, f.object_type, f.qualifier, e.name as entity_name,
+               f.object, f.object_type, f.qualifier, f.confidence, p.phrase_index,
+               e.name as entity_name,
                COALESCE((SELECT name FROM entity WHERE id = f.object), f.object) as obj_display
         FROM provenance p
         JOIN fact f ON p.fact_id = f.id
         JOIN entity e ON e.id = f.entity_id
-        WHERE f.confidence = 'disputed' AND p.phrase_index > 0
-        ORDER BY f.predicate, e.name
+        WHERE (f.confidence = 'disputed' OR p.phrase_index = 0)
+          AND f.predicate NOT IN ('classified_as', 'funding_notes', 'has_description',
+                                   'started_on', 'has_sector')
+        ORDER BY p.phrase_index DESC, f.predicate, e.name
     """).fetchall()
     
-    total = len(unsupported)
-    print(f"Rematching {total} unsupported facts...\n")
+    total = len(all_to_fix)
+    print(f"Total facts to extract source quotes for: {total}\n")
+    print(f"  disputed: {sum(1 for r in all_to_fix if r['confidence']=='disputed')}")
+    print(f"  batch (phrase_index=0): {sum(1 for r in all_to_fix if r['phrase_index']==0)}")
+    print()
     
     updated = 0
-    for i, row in enumerate(unsupported):
-        prov_id, fact_id, cit_id, entity_id, predicate, obj, obj_type, qualifier, entity_name, obj_display = row
+    for i, row in enumerate(all_to_fix):
+        prov_id, fact_id, cit_id, entity_id, predicate, obj, obj_type, qualifier, confidence, phrase_index, entity_name, obj_display = row
         
         # Find source document
         # The provenance id pattern tells us the source type
