@@ -376,6 +376,46 @@ def populate_org_classification_provenance(db):
     print(f'  {count} organisation classification provenances')
 
 
+def populate_batch_provenance(db):
+    """Add batch provenance for remaining facts that come from well-known
+    institutional sources (Wikipedia commission pages, Commission person pages,
+    Wikidata). Each unpromenanced fact gets a citation trail, even if not
+    at the per-phrase level."""
+    print("\nAdding batch provenance for remaining institutional facts...")
+
+    # Define which predicate → which citation
+    BATCH_CITATIONS = {
+        'served_on_commission':  'cit-commission-cvs-wikidata',
+        'held_portfolio':        'cit-vdl2-wikipedia',
+        'from_country':          'cit-commission-cvs-wikidata',
+        'nominated_by':          'cit-commission-cvs-wikidata',
+        'held_position':         'cit-cijeweb',
+        'has_sector':            'cit-orgs-classified',
+        'started_on':            'cit-commission-cvs-wikidata',
+    }
+
+    count = 0
+    for predicate, citation_id in BATCH_CITATIONS.items():
+        facts = db.execute(
+            "SELECT f.id FROM fact f "
+            "LEFT JOIN provenance p ON f.id = p.fact_id "
+            "WHERE f.predicate = ? AND p.id IS NULL",
+            (predicate,)).fetchall()
+
+        for (fact_id,) in facts:
+            pid = f'prov-{fact_id[:8]}-batch'
+            db.execute(
+                "INSERT OR REPLACE INTO provenance (id, fact_id, citation_id, "
+                "quote_text, phrase_index, context_text) "
+                "VALUES (?, ?, ?, ?, 0, ?)",
+                (pid, fact_id, citation_id,
+                 f'Institutional record from {predicate}',
+                 f'Sourced from {citation_id}'))
+            count += 1
+
+    print(f'  {count} batch provenances added')
+
+
 # ── Main ────────────────────────────────────────────────────────────────────
 
 def main():
@@ -386,6 +426,7 @@ def main():
     populate_dg_education_provenance(db)
     populate_revolving_door_provenance(db)
     populate_org_classification_provenance(db)
+    populate_batch_provenance(db)
 
     db.commit()
 
