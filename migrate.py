@@ -355,6 +355,100 @@ def migrate():
 
     print(f"Senior officials: done.")
 
+    # ── 7b. Facts — DG/DDG Education (from CV PDFs) ─────────────────────────
+
+    dg_cvs = pd.read_csv('commission_dg_cvs.csv')
+    dg_cvs = dg_cvs[dg_cvs['cv_text'].fillna('') != '']
+
+    # Education patterns for CV text
+    DG_UNI_PATTERNS = [
+        ('College of Europe',            r'college of europe|collège d.europe'),
+        ('ULB Brussels',                 r'université libre de bruxelles|\bulb\b|free university.*brussels'),
+        ('University of Oxford',         r'corpus christi.*oxford|oxford university|university of oxford'),
+        ('University of Cambridge',      r'trinity hall|king.s college.*cambridge|cambridge university|university of cambridge'),
+        ('Harvard University',           r'harvard'),
+        ('LSE',                          r'london school of economics|\blse\b'),
+        ('Sciences Po',                  r'sciences po|institut d.études politiques'),
+        ('University of Bonn',           r'\bbonn\b.*universit|universit.*bonn'),
+        ('Trinity College Dublin',       r'trinity.*dublin'),
+        ('University College Dublin',    r'university college dublin|\bucd\b'),
+        ('University of Heidelberg',     r'heidelberg.*universit|universit.*heidelberg'),
+        ('University of Freiburg',       r'freiburg.*universit|universit.*freiburg'),
+        ('University of Amsterdam',      r'universiteit van amsterdam|university of amsterdam'),
+        ('University of Warsaw',         r'warsaw.*universit|uniwersytet warszawski'),
+        ('University of Lund',           r'lund.*universit|universit.*lund'),
+        ('University of Vienna',         r'wien.*universit|university of vienna|universität wien'),
+        ('University of Helsinki',       r'helsinki.*universit|universit.*helsinki'),
+        ('Bocconi University',           r'bocconi'),
+        ('Stockholm University',         r'stockholm.*universit|universit.*stockholm'),
+        ('Central European University',  r'central european university|\bceu\b'),
+        ('UNWE Sofia',                   r'national and world economy|unwe'),
+        ('University of Glasgow',        r'glasgow.*universit|universit.*glasgow'),
+        ('University of Hull',           r'hull.*universit|universit.*hull'),
+        ('University of Montpellier',    r'montpellier'),
+        ('Université Catholique Louvain',r'catholique.*louvain|uclouvain'),
+        ('KU Leuven',                    r'ku leuven|katholieke universiteit leuven'),
+        ('VUB Brussels',                 r'vrije universiteit brussel|\bvub\b'),
+    ]
+
+    DG_DEG_PATTERNS = [
+        ('Economics',           r'economics|économie|économiste|economic(?!.*development)'),
+        ('Law',                 r'law degree|studied law|faculty of law|\bllm\b|\bllb\b|master.*law|maître en droit|doctor.*law|juris'),
+        ('Political Science',   r'political science|sciences politiques|politique'),
+        ('Public Administration', r'public administration|administrative|governance'),
+        ('European Studies',    r'european studies|european affairs|études européennes'),
+        ('Agronomy',            r'agronomi|ingénieur.*agri|génie rural'),
+    ]
+
+    edu_count = 0
+    for _, row in dg_cvs.iterrows():
+        name = row['name'].strip()
+        if not name or len(name) < 3:
+            continue
+        eid = slug(name)
+        text = str(row['cv_text']).lower()
+
+        for uni_label, uni_pat in DG_UNI_PATTERNS:
+            m = re.search(uni_pat, text, re.I)
+            if m:
+                # Get exact matched text for the institution name
+                matched_text = m.group(0).strip()
+                # Normalise university entity ID
+                uni_eid = slug(matched_text[:40])  # cap for very long matches
+                # Use canonical slug for known institutions
+                canonical = {
+                    slug('lse'):                        'lse',
+                    slug('bocconi'):                    'bocconi-university',
+                    slug('sciences-po'):                'sciences-po',
+                    slug('harvard'):                    'harvard-university',
+                    slug('vub-brussels'):               'vub-brussels',
+                    slug('université-catholique-louvain'):'universite-catholique-louvain',
+                }
+                uni_eid = canonical.get(uni_eid, uni_eid)
+                # Ensure entity exists
+                insert_entity(db, uni_eid, matched_text[:80].title(), 'institution', 'university')
+                insert_fact(db, uid(), eid, 'educated_at', uni_eid,
+                            obj_type='entity_id', confidence='confirmed')
+                edu_count += 1
+
+        # Parse academic qualification lines for degree types
+        qual_matches = re.findall(
+            r'(?:academic qualif|qualif).*?(?:\n.*?){0,30}(?:professional experience|$)', text, re.I|re.S)
+        qual_text = ' '.join(qual_matches) if qual_matches else text[:2000]
+        for deg_label, deg_pat in DG_DEG_PATTERNS:
+            if re.search(deg_pat, qual_text, re.I):
+                insert_fact(db, uid(), eid, 'studied_field', deg_label,
+                            obj_type='literal', confidence='confirmed')
+                edu_count += 1
+
+        # PhD
+        if re.search(r'\bphd\b|ph\.d\.|doctorate|doctor of(?! law)|dr\. iur|doktor', text, re.I):
+            insert_fact(db, uid(), eid, 'held_degree', 'PhD / Doctorate',
+                        obj_type='literal', confidence='confirmed')
+            edu_count += 1
+
+    print(f"DG/DDG education facts: {edu_count}")
+
     # ── 8. Facts — Revolving door ───────────────────────────────────────────
 
     rd = pd.read_csv('commission_revolving_door.csv')

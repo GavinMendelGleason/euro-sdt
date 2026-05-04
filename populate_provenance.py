@@ -318,6 +318,64 @@ def populate_dg_education_provenance(db):
     print(f'  {count} education provenances for DG/DDGs')
 
 
+def populate_revolving_door_provenance(db):
+    """Match post_mandate_occupation facts from revolving door CSV."""
+    print("\nPopulating provenance for revolving door...")
+    rd_facts = db.execute(
+        "SELECT f.id, f.entity_id, f.object, f.qualifier, e.name as person_name "
+        "FROM fact f JOIN entity e ON e.id = f.entity_id "
+        "WHERE f.predicate = 'post_mandate_occupation'"
+    ).fetchall()
+
+    count = 0
+    for fact_id, entity_id, obj, qualifier, person_name in rd_facts:
+        safe_id = slugify(person_name)
+        text, phrases = read_source('revolving_door', safe_id)
+        if not text:
+            continue
+
+        # Search for occupation text in the plaintext
+        search_term = obj[:60]  # use first 60 chars of occupation
+        phrase_idx, quote = find_quoting_phrase(text, phrases, search_term[:30])
+
+        if quote and phrase_idx is not None:
+            pid = f'prov-{fact_id[:8]}-rd'
+            db.execute(
+                "INSERT OR REPLACE INTO provenance (id, fact_id, citation_id, "
+                "quote_text, phrase_index, context_text) "
+                "VALUES (?, ?, ?, ?, 0, ?)",
+                (pid, fact_id, 'cit-revolving-door', quote, text[:500]))
+            count += 1
+
+    print(f'  {count} revolving door provenances')
+
+
+def populate_org_classification_provenance(db):
+    """Add provenance for organisation classifications from organisations_classified.csv.
+    These are manually researched — cite the CSV itself as the source."""
+    print("\nPopulating provenance for organisation classifications...")
+    org_facts = db.execute(
+        "SELECT f.id, f.entity_id, f.object, e.name "
+        "FROM fact f JOIN entity e ON e.id = f.entity_id "
+        "WHERE f.predicate IN ('classified_as', 'funding_notes', 'has_description') "
+        "AND e.type = 'organisation'"
+    ).fetchall()
+
+    count = 0
+    for fact_id, entity_id, obj, org_name in org_facts:
+        pid = f'prov-{fact_id[:8]}-class'
+        db.execute(
+            "INSERT OR REPLACE INTO provenance (id, fact_id, citation_id, "
+            "quote_text, phrase_index, context_text) "
+            "VALUES (?, ?, ?, ?, 0, ?)",
+            (pid, fact_id, 'cit-orgs-classified',
+             f'Manual classification: {org_name} → {obj}',
+             f'organisations_classified.csv row for {org_name}'))
+        count += 1
+
+    print(f'  {count} organisation classification provenances')
+
+
 # ── Main ────────────────────────────────────────────────────────────────────
 
 def main():
@@ -326,6 +384,8 @@ def main():
 
     populate_declaration_provenance(db)
     populate_dg_education_provenance(db)
+    populate_revolving_door_provenance(db)
+    populate_org_classification_provenance(db)
 
     db.commit()
 
