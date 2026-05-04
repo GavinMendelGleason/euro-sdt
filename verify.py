@@ -134,9 +134,7 @@ def verify_all(db, limit=None, dry_run=False):
         JOIN fact f ON p.fact_id = f.id
         JOIN entity e ON e.id = f.entity_id
         JOIN citation c ON p.citation_id = c.id
-        WHERE f.predicate IN ('member_of', 'educated_at', 'held_degree', 'held_position',
-                              'classified_as', 'post_mandate_occupation')
-            AND p.phrase_index > 0
+            WHERE p.phrase_index > 0
         ORDER BY f.predicate, e.name
     """
     if limit:
