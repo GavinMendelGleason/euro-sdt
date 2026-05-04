@@ -168,6 +168,8 @@ def generate_entity_page(db, eid):
                     lines.append(f'  > "{cit[4][:300]}"')
                 if cit[5] is not None and cit[5] >= 0:
                     lines.append(f'  > 📖 phrase index {cit[5]}')
+                if cit[6]:
+                    lines.append(f'  > {cit[6][:200]}')
                 if cit[2]:
                     lines.append(f'  > [{cit[2]}]({cit[2]}) accessed {cit[3]}')
                 lines.append('')
