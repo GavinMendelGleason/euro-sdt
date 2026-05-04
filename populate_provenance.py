@@ -54,36 +54,89 @@ def read_source(subdir, doc_id):
     return text, phrases
 
 
-def find_quoting_phrase(text, phrases, org_name, commissioner_name=None):
-    """Find the best matching phrase that mentions an organisation,
-    optionally verifying the commissioner context.
-    Returns (phrase_index, quote_text) or (None, '')."""
+def scope_text_by_predicate(text, predicate):
+    """Extract the relevant section of source text for a predicate type."""
+    text_lower = text.lower()
+    
+    if predicate in ('educated_at', 'studied_field', 'held_degree'):
+        # Education section markers
+        for marker in ['academic qualifications', 'academic qualif',
+                        ' education', 'studied at', 'graduated', 'university',
+                        'phd', 'doctorate', 'master', 'degree in', 'diploma']:
+            idx = text_lower.find(marker)
+            if idx >= 0 and idx < len(text) * 0.6:  # education is early in the text
+                start = max(0, idx - 200)
+                end = min(len(text), idx + 3000)
+                return text[start:end]
+    
+    if predicate == 'member_of':
+        # Declaration: look for "I.1" through "II.2" sections  
+        for marker in ['previous activities', 'i.1.', 'i.2.', 'i.3.', 'i.4.',
+                        'ii.1.', 'ii.2.', 'declaration of interests',
+                        'posts held', 'member of', 'board of']:
+            idx = text_lower.find(marker)
+            if idx >= 0:
+                start = max(0, idx - 100)
+                end = min(len(text), idx + 5000)
+                return text[start:end]
+    
+    if predicate == 'held_position':
+        # Career/professional experience section
+        for marker in ['professional experience', 'career', 'director', 'since']:
+            idx = text_lower.find(marker)
+            if idx >= 0:
+                return text[max(0, idx-200):min(len(text), idx+2000)]
+    
+    return text  # fallback: full text
+
+
+def find_quoting_phrase(text, phrases, org_name, commissioner_name=None, predicate=None):
+    """Find the best matching phrase. Scores matches in the relevant
+    context section (education, declarations, career) higher."""
     candidates = []
     org_lower = org_name.lower()
+    
+    # Determine the scoped search zone if predicate is provided
+    scoped_text = scope_text_by_predicate(text, predicate) if predicate else text
+    scoped_lower = scoped_text.lower()
+    in_scope = org_lower in scoped_lower
 
     for idx, (start, end, sent) in enumerate(phrases):
         sent_lower = sent.lower()
-        if org_lower not in sent_lower:
-            # Also check raw text around the phrase boundaries
-            chunk = text[max(0,start-50):end+50].lower()
-            if org_lower not in chunk:
-                continue
-        # Prefer sentences that also mention the commissioner
-        score = 1
+        
+        # Check for org name in the sentence or nearby raw text
+        if org_lower in sent_lower:
+            score = 3  # exact match in sentence
+        elif org_lower in text[max(0,start-80):end+80].lower():
+            score = 1  # nearby match
+        else:
+            continue
+        
+        # Heavy bonus if match is within the scoped section
+        if in_scope and start >= scoped_text.find(org_lower[:15]) - 2000:
+            score += 10
+        
+        # Bonus if commissioner name is nearby
         if commissioner_name:
-            if commissioner_name.lower() in sent_lower:
-                score += 5
-            elif commissioner_name.lower() in text[max(0,start-200):end+200].lower():
-                score += 2
+            name_lower = commissioner_name.lower()
+            if name_lower in sent_lower:
+                score += 8
+            elif name_lower in text[max(0,start-300):end+300].lower():
+                score += 4
+        
         candidates.append((score, idx, sent.strip()))
-
+    
+    # If no candidates in scoped section, re-run without scoping
+    if not candidates and predicate:
+        return find_quoting_phrase(text, phrases, org_name, commissioner_name, None)
+    
     if not candidates:
-        # Fall back: search raw text for any match
+        # Fall back: raw text search
         idx = text.lower().find(org_lower)
         if idx >= 0:
-            return 0, text[max(0, idx-100):idx+200].strip()
+            return 0, text[max(0,idx-100):idx+200].strip()
         return None, ''
-
+    
     candidates.sort(key=lambda x: -x[0])
     _, phrase_idx, sent = candidates[0]
     return phrase_idx, sent
@@ -238,13 +291,13 @@ def populate_declaration_provenance(db):
                 continue
 
             phrase_idx, quote = find_quoting_phrase(
-                text, phrases, short_name, person_name)
+                text, phrases, short_name, person_name, predicate='member_of')
 
             if not quote:
                 # Try broader search with variants
                 for variant in ORG_VARIANTS.get(short_name, [short_name]):
                     phrase_idx, quote = find_quoting_phrase(
-                        text, phrases, variant, person_name)
+                        text, phrases, variant, person_name, predicate='member_of')
                     if quote:
                         break
 
@@ -300,7 +353,7 @@ def populate_dg_education_provenance(db):
             continue
 
         # Search for the display name in the CV text
-        phrase_idx, quote = find_quoting_phrase(text, phrases, display_name)
+        phrase_idx, quote = find_quoting_phrase(text, phrases, display_name, predicate='educated_at')
 
         if quote and phrase_idx is not None:
             pid = f'prov-{fact_id[:8]}-edu'
@@ -429,7 +482,7 @@ def populate_wikipedia_provenance(db):
             text = wiki_text
             phrases = sentence_offsets(text)
 
-        phrase_idx, quote = find_quoting_phrase(text, phrases, org_name_search[:40])
+        phrase_idx, quote = find_quoting_phrase(text, phrases, org_name_search[:40], predicate='member_of')
         if quote and phrase_idx is not None:
             pid = f'prov-{fact_id[:8]}-wp'
             db.execute(
@@ -473,7 +526,7 @@ def _patch_revolving_door(id, name, new_text):
 
         # Search for occupation text in the plaintext
         search_term = obj[:60]  # use first 60 chars of occupation
-        phrase_idx, quote = find_quoting_phrase(text, phrases, search_term[:30])
+        phrase_idx, quote = find_quoting_phrase(text, phrases, search_term[:30], predicate='post_mandate_occupation')
 
         if quote and phrase_idx is not None:
             pid = f'prov-{fact_id[:8]}-rd'
@@ -574,7 +627,7 @@ def populate_commissioner_education_provenance(db):
         st = obj_display or obj
         if predicate == 'studied_field': st = obj
         elif predicate == 'held_degree': st = 'PhD' if 'phd' in obj.lower() else 'doctorate'
-        pi, quote = find_quoting_phrase(text, phrases, st, person_name)
+        pi, quote = find_quoting_phrase(text, phrases, st, person_name, predicate='educated_at')
         if quote and pi is not None:
             pid = f'prov-{fact_id[:8]}-wpe'
             db.execute("INSERT OR REPLACE INTO provenance (id,fact_id,citation_id,quote_text,phrase_index,context_text) VALUES(?,?,?,?,?,?)",
@@ -599,7 +652,7 @@ def populate_held_position_provenance(db):
         if not text: continue
         for term in [obj[:60], obj[:40], obj[:25]]:
             if len(term.strip()) < 8: continue
-            pi, quote = find_quoting_phrase(text, phrases, term.strip())
+            pi, quote = find_quoting_phrase(text, phrases, term.strip(), predicate='held_position')
             if quote and pi is not None:
                 pid = f'prov-{fact_id[:8]}-pos'
                 db.execute("INSERT OR REPLACE INTO provenance (id,fact_id,citation_id,quote_text,phrase_index,context_text) VALUES(?,?,?,?,?,?)",
