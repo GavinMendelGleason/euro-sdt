@@ -1,0 +1,1276 @@
+[
+  {
+    "doc_id": "doi-andrius-kubilius-en",
+    "subdir": "declarations",
+    "char_count": 8810,
+    "sentence_count": 40,
+    "path": "declarations/doi-andrius-kubilius-en.txt"
+  },
+  {
+    "doc_id": "doi-apostolos-tzitzikostas-en",
+    "subdir": "declarations",
+    "char_count": 19278,
+    "sentence_count": 64,
+    "path": "declarations/doi-apostolos-tzitzikostas-en.txt"
+  },
+  {
+    "doc_id": "doi-christophe-hansen-en",
+    "subdir": "declarations",
+    "char_count": 9251,
+    "sentence_count": 46,
+    "path": "declarations/doi-christophe-hansen-en.txt"
+  },
+  {
+    "doc_id": "doi-costas-kadis-en",
+    "subdir": "declarations",
+    "char_count": 9859,
+    "sentence_count": 48,
+    "path": "declarations/doi-costas-kadis-en.txt"
+  },
+  {
+    "doc_id": "doi-dan-jrgensen-en",
+    "subdir": "declarations",
+    "char_count": 7913,
+    "sentence_count": 39,
+    "path": "declarations/doi-dan-jrgensen-en.txt"
+  },
+  {
+    "doc_id": "doi-dr.-ursula-von-der-leyen-de",
+    "subdir": "declarations",
+    "char_count": 15997,
+    "sentence_count": 90,
+    "path": "declarations/doi-dr.-ursula-von-der-leyen-de.txt"
+  },
+  {
+    "doc_id": "doi-dubravka-suica-en",
+    "subdir": "declarations",
+    "char_count": 9433,
+    "sentence_count": 42,
+    "path": "declarations/doi-dubravka-suica-en.txt"
+  },
+  {
+    "doc_id": "doi-ekaterina-zaharieva-en",
+    "subdir": "declarations",
+    "char_count": 10687,
+    "sentence_count": 56,
+    "path": "declarations/doi-ekaterina-zaharieva-en.txt"
+  },
+  {
+    "doc_id": "doi-glenn-micallef-en",
+    "subdir": "declarations",
+    "char_count": 9264,
+    "sentence_count": 41,
+    "path": "declarations/doi-glenn-micallef-en.txt"
+  },
+  {
+    "doc_id": "doi-hadja-lahbib-en",
+    "subdir": "declarations",
+    "char_count": 9434,
+    "sentence_count": 47,
+    "path": "declarations/doi-hadja-lahbib-en.txt"
+  },
+  {
+    "doc_id": "doi-henna-virkkunen-en",
+    "subdir": "declarations",
+    "char_count": 10238,
+    "sentence_count": 40,
+    "path": "declarations/doi-henna-virkkunen-en.txt"
+  },
+  {
+    "doc_id": "doi-jessika-elisabeth-andersdotter-roswall-en",
+    "subdir": "declarations",
+    "char_count": 8785,
+    "sentence_count": 44,
+    "path": "declarations/doi-jessika-elisabeth-andersdotter-roswall-en.txt"
+  },
+  {
+    "doc_id": "doi-jozef-sikela-en",
+    "subdir": "declarations",
+    "char_count": 9282,
+    "sentence_count": 47,
+    "path": "declarations/doi-jozef-sikela-en.txt"
+  },
+  {
+    "doc_id": "doi-kaja-kallas-en",
+    "subdir": "declarations",
+    "char_count": 9124,
+    "sentence_count": 39,
+    "path": "declarations/doi-kaja-kallas-en.txt"
+  },
+  {
+    "doc_id": "doi-magnus-brunner-en",
+    "subdir": "declarations",
+    "char_count": 9768,
+    "sentence_count": 43,
+    "path": "declarations/doi-magnus-brunner-en.txt"
+  },
+  {
+    "doc_id": "doi-maria-luis-casanova-morgado-dias-de-albuquerque-en",
+    "subdir": "declarations",
+    "char_count": 12421,
+    "sentence_count": 58,
+    "path": "declarations/doi-maria-luis-casanova-morgado-dias-de-albuquerque-en.txt"
+  },
+  {
+    "doc_id": "doi-maros-sefcovic-en",
+    "subdir": "declarations",
+    "char_count": 8588,
+    "sentence_count": 45,
+    "path": "declarations/doi-maros-sefcovic-en.txt"
+  },
+  {
+    "doc_id": "doi-marta-kos-en",
+    "subdir": "declarations",
+    "char_count": 10189,
+    "sentence_count": 51,
+    "path": "declarations/doi-marta-kos-en.txt"
+  },
+  {
+    "doc_id": "doi-michael-mcgrath-en",
+    "subdir": "declarations",
+    "char_count": 8360,
+    "sentence_count": 41,
+    "path": "declarations/doi-michael-mcgrath-en.txt"
+  },
+  {
+    "doc_id": "doi-oliver-varhelyi-en",
+    "subdir": "declarations",
+    "char_count": 7745,
+    "sentence_count": 41,
+    "path": "declarations/doi-oliver-varhelyi-en.txt"
+  },
+  {
+    "doc_id": "doi-piotr-serafin-en",
+    "subdir": "declarations",
+    "char_count": 7979,
+    "sentence_count": 41,
+    "path": "declarations/doi-piotr-serafin-en.txt"
+  },
+  {
+    "doc_id": "doi-raffaele-fitto-en",
+    "subdir": "declarations",
+    "char_count": 9965,
+    "sentence_count": 47,
+    "path": "declarations/doi-raffaele-fitto-en.txt"
+  },
+  {
+    "doc_id": "doi-roxana-minzatu-en",
+    "subdir": "declarations",
+    "char_count": 10268,
+    "sentence_count": 43,
+    "path": "declarations/doi-roxana-minzatu-en.txt"
+  },
+  {
+    "doc_id": "doi-stephane-sejourne-en",
+    "subdir": "declarations",
+    "char_count": 8661,
+    "sentence_count": 38,
+    "path": "declarations/doi-stephane-sejourne-en.txt"
+  },
+  {
+    "doc_id": "doi-teresa-ribera-rodriguez-en",
+    "subdir": "declarations",
+    "char_count": 13720,
+    "sentence_count": 68,
+    "path": "declarations/doi-teresa-ribera-rodriguez-en.txt"
+  },
+  {
+    "doc_id": "doi-ursula-von-der-leyen-en",
+    "subdir": "declarations",
+    "char_count": 15799,
+    "sentence_count": 72,
+    "path": "declarations/doi-ursula-von-der-leyen-en.txt"
+  },
+  {
+    "doc_id": "doi-ursula-von-der-leyen-fr",
+    "subdir": "declarations",
+    "char_count": 17578,
+    "sentence_count": 97,
+    "path": "declarations/doi-ursula-von-der-leyen-fr.txt"
+  },
+  {
+    "doc_id": "doi-valdis-dombrovskis-en",
+    "subdir": "declarations",
+    "char_count": 8331,
+    "sentence_count": 42,
+    "path": "declarations/doi-valdis-dombrovskis-en.txt"
+  },
+  {
+    "doc_id": "doi-wopke-hoekstra-en",
+    "subdir": "declarations",
+    "char_count": 10677,
+    "sentence_count": 50,
+    "path": "declarations/doi-wopke-hoekstra-en.txt"
+  },
+  {
+    "doc_id": "pia-ahrenkilde-hansen",
+    "subdir": "dg_cvs",
+    "char_count": 3000,
+    "sentence_count": 33,
+    "path": "dg_cvs/pia-ahrenkilde-hansen.txt"
+  },
+  {
+    "doc_id": "maja-bakran-marcich",
+    "subdir": "dg_cvs",
+    "char_count": 2625,
+    "sentence_count": 11,
+    "path": "dg_cvs/maja-bakran-marcich.txt"
+  },
+  {
+    "doc_id": "matthew-baldwin",
+    "subdir": "dg_cvs",
+    "char_count": 3000,
+    "sentence_count": 13,
+    "path": "dg_cvs/matthew-baldwin.txt"
+  },
+  {
+    "doc_id": "nils-behrndt",
+    "subdir": "dg_cvs",
+    "char_count": 1929,
+    "sentence_count": 16,
+    "path": "dg_cvs/nils-behrndt.txt"
+  },
+  {
+    "doc_id": "john-berrigan",
+    "subdir": "dg_cvs",
+    "char_count": 3000,
+    "sentence_count": 12,
+    "path": "dg_cvs/john-berrigan.txt"
+  },
+  {
+    "doc_id": "lorena-boix-alonso",
+    "subdir": "dg_cvs",
+    "char_count": 3000,
+    "sentence_count": 11,
+    "path": "dg_cvs/lorena-boix-alonso.txt"
+  },
+  {
+    "doc_id": "claire-bury",
+    "subdir": "dg_cvs",
+    "char_count": 3000,
+    "sentence_count": 16,
+    "path": "dg_cvs/claire-bury.txt"
+  },
+  {
+    "doc_id": "patrick-anthony-child",
+    "subdir": "dg_cvs",
+    "char_count": 1577,
+    "sentence_count": 10,
+    "path": "dg_cvs/patrick-anthony-child.txt"
+  },
+  {
+    "doc_id": "themis-christophidou",
+    "subdir": "dg_cvs",
+    "char_count": 1719,
+    "sentence_count": 16,
+    "path": "dg_cvs/themis-christophidou.txt"
+  },
+  {
+    "doc_id": "declan-costello",
+    "subdir": "dg_cvs",
+    "char_count": 1926,
+    "sentence_count": 12,
+    "path": "dg_cvs/declan-costello.txt"
+  },
+  {
+    "doc_id": "koen-doens",
+    "subdir": "dg_cvs",
+    "char_count": 2925,
+    "sentence_count": 12,
+    "path": "dg_cvs/koen-doens.txt"
+  },
+  {
+    "doc_id": "joanna-drake",
+    "subdir": "dg_cvs",
+    "char_count": 3000,
+    "sentence_count": 10,
+    "path": "dg_cvs/joanna-drake.txt"
+  },
+  {
+    "doc_id": "jan-dusk",
+    "subdir": "dg_cvs",
+    "char_count": 2847,
+    "sentence_count": 13,
+    "path": "dg_cvs/jan-dusk.txt"
+  },
+  {
+    "doc_id": "christos-ellinides",
+    "subdir": "dg_cvs",
+    "char_count": 2012,
+    "sentence_count": 19,
+    "path": "dg_cvs/christos-ellinides.txt"
+  },
+  {
+    "doc_id": "sophia-eriksson-waterschoot",
+    "subdir": "dg_cvs",
+    "char_count": 2588,
+    "sentence_count": 11,
+    "path": "dg_cvs/sophia-eriksson-waterschoot.txt"
+  },
+  {
+    "doc_id": "myriam-ferran",
+    "subdir": "dg_cvs",
+    "char_count": 2227,
+    "sentence_count": 7,
+    "path": "dg_cvs/myriam-ferran.txt"
+  },
+  {
+    "doc_id": "florika-fink-hooijer",
+    "subdir": "dg_cvs",
+    "char_count": 2430,
+    "sentence_count": 12,
+    "path": "dg_cvs/florika-fink-hooijer.txt"
+  },
+  {
+    "doc_id": "veronica-gaffey",
+    "subdir": "dg_cvs",
+    "char_count": 1488,
+    "sentence_count": 12,
+    "path": "dg_cvs/veronica-gaffey.txt"
+  },
+  {
+    "doc_id": "ana-gallego-torres",
+    "subdir": "dg_cvs",
+    "char_count": 1421,
+    "sentence_count": 3,
+    "path": "dg_cvs/ana-gallego-torres.txt"
+  },
+  {
+    "doc_id": "sandra-gallina",
+    "subdir": "dg_cvs",
+    "char_count": 1678,
+    "sentence_count": 5,
+    "path": "dg_cvs/sandra-gallina.txt"
+  },
+  {
+    "doc_id": "hubert-gambs",
+    "subdir": "dg_cvs",
+    "char_count": 1911,
+    "sentence_count": 14,
+    "path": "dg_cvs/hubert-gambs.txt"
+  },
+  {
+    "doc_id": "cline-gauer",
+    "subdir": "dg_cvs",
+    "char_count": 1720,
+    "sentence_count": 13,
+    "path": "dg_cvs/cline-gauer.txt"
+  },
+  {
+    "doc_id": "beate-gminder",
+    "subdir": "dg_cvs",
+    "char_count": 2418,
+    "sentence_count": 15,
+    "path": "dg_cvs/beate-gminder.txt"
+  },
+  {
+    "doc_id": "marjeta-jager",
+    "subdir": "dg_cvs",
+    "char_count": 3000,
+    "sentence_count": 10,
+    "path": "dg_cvs/marjeta-jager.txt"
+  },
+  {
+    "doc_id": "kerstin-jorna",
+    "subdir": "dg_cvs",
+    "char_count": 1939,
+    "sentence_count": 27,
+    "path": "dg_cvs/kerstin-jorna.txt"
+  },
+  {
+    "doc_id": "alexandra-jour-schroeder",
+    "subdir": "dg_cvs",
+    "char_count": 2557,
+    "sentence_count": 10,
+    "path": "dg_cvs/alexandra-jour-schroeder.txt"
+  },
+  {
+    "doc_id": "ilze-juhansone",
+    "subdir": "dg_cvs",
+    "char_count": 1721,
+    "sentence_count": 6,
+    "path": "dg_cvs/ilze-juhansone.txt"
+  },
+  {
+    "doc_id": "ditte-juul-jrgensen",
+    "subdir": "dg_cvs",
+    "char_count": 1577,
+    "sentence_count": 9,
+    "path": "dg_cvs/ditte-juul-jrgensen.txt"
+  },
+  {
+    "doc_id": "agnieszka-kamierczak",
+    "subdir": "dg_cvs",
+    "char_count": 1540,
+    "sentence_count": 11,
+    "path": "dg_cvs/agnieszka-kamierczak.txt"
+  },
+  {
+    "doc_id": "gert-jan-koopman",
+    "subdir": "dg_cvs",
+    "char_count": 1829,
+    "sentence_count": 16,
+    "path": "dg_cvs/gert-jan-koopman.txt"
+  },
+  {
+    "doc_id": "magda-kopczyska",
+    "subdir": "dg_cvs",
+    "char_count": 1887,
+    "sentence_count": 7,
+    "path": "dg_cvs/magda-kopczyska.txt"
+  },
+  {
+    "doc_id": "mariana-kotzeva",
+    "subdir": "dg_cvs",
+    "char_count": 2463,
+    "sentence_count": 12,
+    "path": "dg_cvs/mariana-kotzeva.txt"
+  },
+  {
+    "doc_id": "clemens-ladenburger",
+    "subdir": "dg_cvs",
+    "char_count": 2304,
+    "sentence_count": 9,
+    "path": "dg_cvs/clemens-ladenburger.txt"
+  },
+  {
+    "doc_id": "marc-lematre",
+    "subdir": "dg_cvs",
+    "char_count": 1069,
+    "sentence_count": 9,
+    "path": "dg_cvs/marc-lematre.txt"
+  },
+  {
+    "doc_id": "guillaume-loriot",
+    "subdir": "dg_cvs",
+    "char_count": 1968,
+    "sentence_count": 8,
+    "path": "dg_cvs/guillaume-loriot.txt"
+  },
+  {
+    "doc_id": "bernard-magenhann",
+    "subdir": "dg_cvs",
+    "char_count": 2895,
+    "sentence_count": 22,
+    "path": "dg_cvs/bernard-magenhann.txt"
+  },
+  {
+    "doc_id": "maria-martin-prat-de-abreu",
+    "subdir": "dg_cvs",
+    "char_count": 1802,
+    "sentence_count": 5,
+    "path": "dg_cvs/maria-martin-prat-de-abreu.txt"
+  },
+  {
+    "doc_id": "linsey-mccallum",
+    "subdir": "dg_cvs",
+    "char_count": 1819,
+    "sentence_count": 11,
+    "path": "dg_cvs/linsey-mccallum.txt"
+  },
+  {
+    "doc_id": "irena-moozov",
+    "subdir": "dg_cvs",
+    "char_count": 2280,
+    "sentence_count": 14,
+    "path": "dg_cvs/irena-moozov.txt"
+  },
+  {
+    "doc_id": "mario-nava",
+    "subdir": "dg_cvs",
+    "char_count": 2490,
+    "sentence_count": 21,
+    "path": "dg_cvs/mario-nava.txt"
+  },
+  {
+    "doc_id": "renate-nikolay",
+    "subdir": "dg_cvs",
+    "char_count": 1951,
+    "sentence_count": 11,
+    "path": "dg_cvs/renate-nikolay.txt"
+  },
+  {
+    "doc_id": "stefan-olsson",
+    "subdir": "dg_cvs",
+    "char_count": 1311,
+    "sentence_count": 7,
+    "path": "dg_cvs/stefan-olsson.txt"
+  },
+  {
+    "doc_id": "olivier-onidi",
+    "subdir": "dg_cvs",
+    "char_count": 3000,
+    "sentence_count": 13,
+    "path": "dg_cvs/olivier-onidi.txt"
+  },
+  {
+    "doc_id": "timo-pesonen",
+    "subdir": "dg_cvs",
+    "char_count": 1281,
+    "sentence_count": 11,
+    "path": "dg_cvs/timo-pesonen.txt"
+  },
+  {
+    "doc_id": "normunds-popens",
+    "subdir": "dg_cvs",
+    "char_count": 1847,
+    "sentence_count": 13,
+    "path": "dg_cvs/normunds-popens.txt"
+  },
+  {
+    "doc_id": "maciej-popowski",
+    "subdir": "dg_cvs",
+    "char_count": 3000,
+    "sentence_count": 17,
+    "path": "dg_cvs/maciej-popowski.txt"
+  },
+  {
+    "doc_id": "stephen-quest",
+    "subdir": "dg_cvs",
+    "char_count": 1496,
+    "sentence_count": 8,
+    "path": "dg_cvs/stephen-quest.txt"
+  },
+  {
+    "doc_id": "denis-redonnet",
+    "subdir": "dg_cvs",
+    "char_count": 2314,
+    "sentence_count": 11,
+    "path": "dg_cvs/denis-redonnet.txt"
+  },
+  {
+    "doc_id": "stphanie-riso",
+    "subdir": "dg_cvs",
+    "char_count": 1844,
+    "sentence_count": 10,
+    "path": "dg_cvs/stphanie-riso.txt"
+  },
+  {
+    "doc_id": "christian-roques",
+    "subdir": "dg_cvs",
+    "char_count": 1728,
+    "sentence_count": 11,
+    "path": "dg_cvs/christian-roques.txt"
+  },
+  {
+    "doc_id": "leopoldo-rubinacci",
+    "subdir": "dg_cvs",
+    "char_count": 1371,
+    "sentence_count": 8,
+    "path": "dg_cvs/leopoldo-rubinacci.txt"
+  },
+  {
+    "doc_id": "herald-ruijters",
+    "subdir": "dg_cvs",
+    "char_count": 1880,
+    "sentence_count": 11,
+    "path": "dg_cvs/herald-ruijters.txt"
+  },
+  {
+    "doc_id": "genoveva-ruiz-calavera",
+    "subdir": "dg_cvs",
+    "char_count": 1622,
+    "sentence_count": 8,
+    "path": "dg_cvs/genoveva-ruiz-calavera.txt"
+  },
+  {
+    "doc_id": "maive-rute",
+    "subdir": "dg_cvs",
+    "char_count": 2819,
+    "sentence_count": 19,
+    "path": "dg_cvs/maive-rute.txt"
+  },
+  {
+    "doc_id": "salla-saastamoinen",
+    "subdir": "dg_cvs",
+    "char_count": 1759,
+    "sentence_count": 13,
+    "path": "dg_cvs/salla-saastamoinen.txt"
+  },
+  {
+    "doc_id": "kestutis-sadauskas",
+    "subdir": "dg_cvs",
+    "char_count": 1764,
+    "sentence_count": 5,
+    "path": "dg_cvs/kestutis-sadauskas.txt"
+  },
+  {
+    "doc_id": "ilkka-salmi",
+    "subdir": "dg_cvs",
+    "char_count": 2841,
+    "sentence_count": 15,
+    "path": "dg_cvs/ilkka-salmi.txt"
+  },
+  {
+    "doc_id": "beatriz-sanz-redrado",
+    "subdir": "dg_cvs",
+    "char_count": 2762,
+    "sentence_count": 17,
+    "path": "dg_cvs/beatriz-sanz-redrado.txt"
+  },
+  {
+    "doc_id": "colin-scicluna",
+    "subdir": "dg_cvs",
+    "char_count": 2962,
+    "sentence_count": 8,
+    "path": "dg_cvs/colin-scicluna.txt"
+  },
+  {
+    "doc_id": "martin-seychell",
+    "subdir": "dg_cvs",
+    "char_count": 3000,
+    "sentence_count": 20,
+    "path": "dg_cvs/martin-seychell.txt"
+  },
+  {
+    "doc_id": "thomas-skordas",
+    "subdir": "dg_cvs",
+    "char_count": 1802,
+    "sentence_count": 7,
+    "path": "dg_cvs/thomas-skordas.txt"
+  },
+  {
+    "doc_id": "hugo-sobral",
+    "subdir": "dg_cvs",
+    "char_count": 1463,
+    "sentence_count": 7,
+    "path": "dg_cvs/hugo-sobral.txt"
+  },
+  {
+    "doc_id": "dana-spinant",
+    "subdir": "dg_cvs",
+    "char_count": 1890,
+    "sentence_count": 12,
+    "path": "dg_cvs/dana-spinant.txt"
+  },
+  {
+    "doc_id": "andriana-sukova",
+    "subdir": "dg_cvs",
+    "char_count": 2765,
+    "sentence_count": 13,
+    "path": "dg_cvs/andriana-sukova.txt"
+  },
+  {
+    "doc_id": "gerassimos-thomas",
+    "subdir": "dg_cvs",
+    "char_count": 2328,
+    "sentence_count": 23,
+    "path": "dg_cvs/gerassimos-thomas.txt"
+  },
+  {
+    "doc_id": "kurt-vandenberghe",
+    "subdir": "dg_cvs",
+    "char_count": 1862,
+    "sentence_count": 6,
+    "path": "dg_cvs/kurt-vandenberghe.txt"
+  },
+  {
+    "doc_id": "maarten-verwey",
+    "subdir": "dg_cvs",
+    "char_count": 2043,
+    "sentence_count": 9,
+    "path": "dg_cvs/maarten-verwey.txt"
+  },
+  {
+    "doc_id": "roberto-viola",
+    "subdir": "dg_cvs",
+    "char_count": 2573,
+    "sentence_count": 20,
+    "path": "dg_cvs/roberto-viola.txt"
+  },
+  {
+    "doc_id": "charlina-vitcheva",
+    "subdir": "dg_cvs",
+    "char_count": 3000,
+    "sentence_count": 23,
+    "path": "dg_cvs/charlina-vitcheva.txt"
+  },
+  {
+    "doc_id": "elisabeth-werner",
+    "subdir": "dg_cvs",
+    "char_count": 1144,
+    "sentence_count": 8,
+    "path": "dg_cvs/elisabeth-werner.txt"
+  },
+  {
+    "doc_id": "sabine-weyand",
+    "subdir": "dg_cvs",
+    "char_count": 3000,
+    "sentence_count": 16,
+    "path": "dg_cvs/sabine-weyand.txt"
+  },
+  {
+    "doc_id": "anthony-whelan",
+    "subdir": "dg_cvs",
+    "char_count": 1986,
+    "sentence_count": 15,
+    "path": "dg_cvs/anthony-whelan.txt"
+  },
+  {
+    "doc_id": "mechthild-wrsdrfer",
+    "subdir": "dg_cvs",
+    "char_count": 2078,
+    "sentence_count": 9,
+    "path": "dg_cvs/mechthild-wrsdrfer.txt"
+  },
+  {
+    "doc_id": "koen-lenaerts",
+    "subdir": "cjeu",
+    "char_count": 600,
+    "sentence_count": 4,
+    "path": "cjeu/koen-lenaerts.txt"
+  },
+  {
+    "doc_id": "show-less",
+    "subdir": "cjeu",
+    "char_count": 600,
+    "sentence_count": 3,
+    "path": "cjeu/show-less.txt"
+  },
+  {
+    "doc_id": "show-less",
+    "subdir": "cjeu",
+    "char_count": 600,
+    "sentence_count": 4,
+    "path": "cjeu/show-less.txt"
+  },
+  {
+    "doc_id": "constantinos-lycourgos",
+    "subdir": "cjeu",
+    "char_count": 600,
+    "sentence_count": 3,
+    "path": "cjeu/constantinos-lycourgos.txt"
+  },
+  {
+    "doc_id": "show-less",
+    "subdir": "cjeu",
+    "char_count": 600,
+    "sentence_count": 5,
+    "path": "cjeu/show-less.txt"
+  },
+  {
+    "doc_id": "show-less",
+    "subdir": "cjeu",
+    "char_count": 600,
+    "sentence_count": 3,
+    "path": "cjeu/show-less.txt"
+  },
+  {
+    "doc_id": "eugene-regan",
+    "subdir": "cjeu",
+    "char_count": 600,
+    "sentence_count": 4,
+    "path": "cjeu/eugene-regan.txt"
+  },
+  {
+    "doc_id": "andreas-kumin",
+    "subdir": "cjeu",
+    "char_count": 600,
+    "sentence_count": 4,
+    "path": "cjeu/andreas-kumin.txt"
+  },
+  {
+    "doc_id": "show-less",
+    "subdir": "cjeu",
+    "char_count": 600,
+    "sentence_count": 2,
+    "path": "cjeu/show-less.txt"
+  },
+  {
+    "doc_id": "alfredo-calot-escobar",
+    "subdir": "cjeu",
+    "char_count": 600,
+    "sentence_count": 2,
+    "path": "cjeu/alfredo-calot-escobar.txt"
+  },
+  {
+    "doc_id": "algirdas-semeta",
+    "subdir": "revolving_door",
+    "char_count": 96,
+    "sentence_count": 1,
+    "path": "revolving_door/algirdas-semeta.txt"
+  },
+  {
+    "doc_id": "andris-piebalgs",
+    "subdir": "revolving_door",
+    "char_count": 271,
+    "sentence_count": 1,
+    "path": "revolving_door/andris-piebalgs.txt"
+  },
+  {
+    "doc_id": "androulla-vassiliou",
+    "subdir": "revolving_door",
+    "char_count": 216,
+    "sentence_count": 1,
+    "path": "revolving_door/androulla-vassiliou.txt"
+  },
+  {
+    "doc_id": "arias-caete",
+    "subdir": "revolving_door",
+    "char_count": 194,
+    "sentence_count": 1,
+    "path": "revolving_door/arias-caete.txt"
+  },
+  {
+    "doc_id": "baroness-catherine-ashton",
+    "subdir": "revolving_door",
+    "char_count": 226,
+    "sentence_count": 2,
+    "path": "revolving_door/baroness-catherine-ashton.txt"
+  },
+  {
+    "doc_id": "bienkowska",
+    "subdir": "revolving_door",
+    "char_count": 81,
+    "sentence_count": 2,
+    "path": "revolving_door/bienkowska.txt"
+  },
+  {
+    "doc_id": "carlos-moedas",
+    "subdir": "revolving_door",
+    "char_count": 336,
+    "sentence_count": 2,
+    "path": "revolving_door/carlos-moedas.txt"
+  },
+  {
+    "doc_id": "carlos-moedasserving-member-of-the-commission",
+    "subdir": "revolving_door",
+    "char_count": 219,
+    "sentence_count": 1,
+    "path": "revolving_door/carlos-moedasserving-member-of-the-commission.txt"
+  },
+  {
+    "doc_id": "cecilia-malmstrm",
+    "subdir": "revolving_door",
+    "char_count": 179,
+    "sentence_count": 1,
+    "path": "revolving_door/cecilia-malmstrm.txt"
+  },
+  {
+    "doc_id": "christos-stylianides",
+    "subdir": "revolving_door",
+    "char_count": 421,
+    "sentence_count": 2,
+    "path": "revolving_door/christos-stylianides.txt"
+  },
+  {
+    "doc_id": "christos-stylianidesserving-member-of-the-commission",
+    "subdir": "revolving_door",
+    "char_count": 162,
+    "sentence_count": 1,
+    "path": "revolving_door/christos-stylianidesserving-member-of-the-commission.txt"
+  },
+  {
+    "doc_id": "connie-hedegaard",
+    "subdir": "revolving_door",
+    "char_count": 217,
+    "sentence_count": 1,
+    "path": "revolving_door/connie-hedegaard.txt"
+  },
+  {
+    "doc_id": "dacian-ciolo",
+    "subdir": "revolving_door",
+    "char_count": 268,
+    "sentence_count": 1,
+    "path": "revolving_door/dacian-ciolo.txt"
+  },
+  {
+    "doc_id": "dimitris-avramopoulos",
+    "subdir": "revolving_door",
+    "char_count": 139,
+    "sentence_count": 1,
+    "path": "revolving_door/dimitris-avramopoulos.txt"
+  },
+  {
+    "doc_id": "elisa-ferreira",
+    "subdir": "revolving_door",
+    "char_count": 201,
+    "sentence_count": 2,
+    "path": "revolving_door/elisa-ferreira.txt"
+  },
+  {
+    "doc_id": "elzbieta-bienkowska",
+    "subdir": "revolving_door",
+    "char_count": 179,
+    "sentence_count": 2,
+    "path": "revolving_door/elzbieta-bienkowska.txt"
+  },
+  {
+    "doc_id": "federica-mogherini",
+    "subdir": "revolving_door",
+    "char_count": 344,
+    "sentence_count": 1,
+    "path": "revolving_door/federica-mogherini.txt"
+  },
+  {
+    "doc_id": "ferdinando-nelli-feroci",
+    "subdir": "revolving_door",
+    "char_count": 132,
+    "sentence_count": 1,
+    "path": "revolving_door/ferdinando-nelli-feroci.txt"
+  },
+  {
+    "doc_id": "gnther-oettinger",
+    "subdir": "revolving_door",
+    "char_count": 903,
+    "sentence_count": 7,
+    "path": "revolving_door/gnther-oettinger.txt"
+  },
+  {
+    "doc_id": "jacek-dominik",
+    "subdir": "revolving_door",
+    "char_count": 117,
+    "sentence_count": 1,
+    "path": "revolving_door/jacek-dominik.txt"
+  },
+  {
+    "doc_id": "janez-lenari",
+    "subdir": "revolving_door",
+    "char_count": 102,
+    "sentence_count": 1,
+    "path": "revolving_door/janez-lenari.txt"
+  },
+  {
+    "doc_id": "janez-potocnik",
+    "subdir": "revolving_door",
+    "char_count": 435,
+    "sentence_count": 1,
+    "path": "revolving_door/janez-potocnik.txt"
+  },
+  {
+    "doc_id": "janusz-wojciechowski",
+    "subdir": "revolving_door",
+    "char_count": 130,
+    "sentence_count": 1,
+    "path": "revolving_door/janusz-wojciechowski.txt"
+  },
+  {
+    "doc_id": "jean-claude-juncker",
+    "subdir": "revolving_door",
+    "char_count": 442,
+    "sentence_count": 2,
+    "path": "revolving_door/jean-claude-juncker.txt"
+  },
+  {
+    "doc_id": "joaqun-almunia",
+    "subdir": "revolving_door",
+    "char_count": 562,
+    "sentence_count": 2,
+    "path": "revolving_door/joaqun-almunia.txt"
+  },
+  {
+    "doc_id": "johannes-hahn",
+    "subdir": "revolving_door",
+    "char_count": 266,
+    "sentence_count": 1,
+    "path": "revolving_door/johannes-hahn.txt"
+  },
+  {
+    "doc_id": "jonathan-hill",
+    "subdir": "revolving_door",
+    "char_count": 207,
+    "sentence_count": 3,
+    "path": "revolving_door/jonathan-hill.txt"
+  },
+  {
+    "doc_id": "josep-borrell",
+    "subdir": "revolving_door",
+    "char_count": 109,
+    "sentence_count": 1,
+    "path": "revolving_door/josep-borrell.txt"
+  },
+  {
+    "doc_id": "josep-borrell-i-fontelles",
+    "subdir": "revolving_door",
+    "char_count": 106,
+    "sentence_count": 1,
+    "path": "revolving_door/josep-borrell-i-fontelles.txt"
+  },
+  {
+    "doc_id": "josep-borrell-i-fontelles",
+    "subdir": "revolving_door",
+    "char_count": 330,
+    "sentence_count": 2,
+    "path": "revolving_door/josep-borrell-i-fontelles.txt"
+  },
+  {
+    "doc_id": "jos-manuel-barroso",
+    "subdir": "revolving_door",
+    "char_count": 579,
+    "sentence_count": 2,
+    "path": "revolving_door/jos-manuel-barroso.txt"
+  },
+  {
+    "doc_id": "jutta-urpilainen",
+    "subdir": "revolving_door",
+    "char_count": 244,
+    "sentence_count": 1,
+    "path": "revolving_door/jutta-urpilainen.txt"
+  },
+  {
+    "doc_id": "jyrki-katainenserving-member-of-the-commission",
+    "subdir": "revolving_door",
+    "char_count": 132,
+    "sentence_count": 1,
+    "path": "revolving_door/jyrki-katainenserving-member-of-the-commission.txt"
+  },
+  {
+    "doc_id": "karel-de-gucht",
+    "subdir": "revolving_door",
+    "char_count": 221,
+    "sentence_count": 1,
+    "path": "revolving_door/karel-de-gucht.txt"
+  },
+  {
+    "doc_id": "karmenu-vella",
+    "subdir": "revolving_door",
+    "char_count": 397,
+    "sentence_count": 1,
+    "path": "revolving_door/karmenu-vella.txt"
+  },
+  {
+    "doc_id": "kristalina-georgievaserving-member-of-the-commission",
+    "subdir": "revolving_door",
+    "char_count": 170,
+    "sentence_count": 1,
+    "path": "revolving_door/kristalina-georgievaserving-member-of-the-commission.txt"
+  },
+  {
+    "doc_id": "lszl-andor",
+    "subdir": "revolving_door",
+    "char_count": 208,
+    "sentence_count": 1,
+    "path": "revolving_door/lszl-andor.txt"
+  },
+  {
+    "doc_id": "margaritis-schinas",
+    "subdir": "revolving_door",
+    "char_count": 107,
+    "sentence_count": 1,
+    "path": "revolving_door/margaritis-schinas.txt"
+  },
+  {
+    "doc_id": "margrethe-vestager",
+    "subdir": "revolving_door",
+    "char_count": 108,
+    "sentence_count": 1,
+    "path": "revolving_door/margrethe-vestager.txt"
+  },
+  {
+    "doc_id": "maria-damanaki",
+    "subdir": "revolving_door",
+    "char_count": 88,
+    "sentence_count": 1,
+    "path": "revolving_door/maria-damanaki.txt"
+  },
+  {
+    "doc_id": "marianne-thyssen",
+    "subdir": "revolving_door",
+    "char_count": 97,
+    "sentence_count": 2,
+    "path": "revolving_door/marianne-thyssen.txt"
+  },
+  {
+    "doc_id": "miguel-arias-caete",
+    "subdir": "revolving_door",
+    "char_count": 222,
+    "sentence_count": 2,
+    "path": "revolving_door/miguel-arias-caete.txt"
+  },
+  {
+    "doc_id": "mire-geoghegan-quinn",
+    "subdir": "revolving_door",
+    "char_count": 260,
+    "sentence_count": 1,
+    "path": "revolving_door/mire-geoghegan-quinn.txt"
+  },
+  {
+    "doc_id": "neelie-kroes",
+    "subdir": "revolving_door",
+    "char_count": 198,
+    "sentence_count": 2,
+    "path": "revolving_door/neelie-kroes.txt"
+  },
+  {
+    "doc_id": "neven-mimica",
+    "subdir": "revolving_door",
+    "char_count": 106,
+    "sentence_count": 1,
+    "path": "revolving_door/neven-mimica.txt"
+  },
+  {
+    "doc_id": "paolo-gentiloni",
+    "subdir": "revolving_door",
+    "char_count": 84,
+    "sentence_count": 1,
+    "path": "revolving_door/paolo-gentiloni.txt"
+  },
+  {
+    "doc_id": "phil-hogan",
+    "subdir": "revolving_door",
+    "char_count": 194,
+    "sentence_count": 2,
+    "path": "revolving_door/phil-hogan.txt"
+  },
+  {
+    "doc_id": "pierre-moscovici",
+    "subdir": "revolving_door",
+    "char_count": 128,
+    "sentence_count": 1,
+    "path": "revolving_door/pierre-moscovici.txt"
+  },
+  {
+    "doc_id": "siim-kallas",
+    "subdir": "revolving_door",
+    "char_count": 157,
+    "sentence_count": 1,
+    "path": "revolving_door/siim-kallas.txt"
+  },
+  {
+    "doc_id": "sir-julian-king",
+    "subdir": "revolving_door",
+    "char_count": 206,
+    "sentence_count": 1,
+    "path": "revolving_door/sir-julian-king.txt"
+  },
+  {
+    "doc_id": "stefan-fle",
+    "subdir": "revolving_door",
+    "char_count": 110,
+    "sentence_count": 1,
+    "path": "revolving_door/stefan-fle.txt"
+  },
+  {
+    "doc_id": "stella-kyriakides",
+    "subdir": "revolving_door",
+    "char_count": 96,
+    "sentence_count": 1,
+    "path": "revolving_door/stella-kyriakides.txt"
+  },
+  {
+    "doc_id": "thierry-breton",
+    "subdir": "revolving_door",
+    "char_count": 88,
+    "sentence_count": 1,
+    "path": "revolving_door/thierry-breton.txt"
+  },
+  {
+    "doc_id": "tibor-navracsics",
+    "subdir": "revolving_door",
+    "char_count": 270,
+    "sentence_count": 2,
+    "path": "revolving_door/tibor-navracsics.txt"
+  },
+  {
+    "doc_id": "tibor-navracsicsserving-member-of-the-commission",
+    "subdir": "revolving_door",
+    "char_count": 134,
+    "sentence_count": 1,
+    "path": "revolving_door/tibor-navracsicsserving-member-of-the-commission.txt"
+  },
+  {
+    "doc_id": "tonio-borg",
+    "subdir": "revolving_door",
+    "char_count": 128,
+    "sentence_count": 1,
+    "path": "revolving_door/tonio-borg.txt"
+  },
+  {
+    "doc_id": "vera-jourova",
+    "subdir": "revolving_door",
+    "char_count": 271,
+    "sentence_count": 2,
+    "path": "revolving_door/vera-jourova.txt"
+  },
+  {
+    "doc_id": "violeta-bulc",
+    "subdir": "revolving_door",
+    "char_count": 138,
+    "sentence_count": 1,
+    "path": "revolving_door/violeta-bulc.txt"
+  },
+  {
+    "doc_id": "viviane-reding",
+    "subdir": "revolving_door",
+    "char_count": 337,
+    "sentence_count": 2,
+    "path": "revolving_door/viviane-reding.txt"
+  },
+  {
+    "doc_id": "vytenis-andriukaitis",
+    "subdir": "revolving_door",
+    "char_count": 317,
+    "sentence_count": 2,
+    "path": "revolving_door/vytenis-andriukaitis.txt"
+  },
+  {
+    "doc_id": "vra-jourov",
+    "subdir": "revolving_door",
+    "char_count": 74,
+    "sentence_count": 1,
+    "path": "revolving_door/vra-jourov.txt"
+  },
+  {
+    "doc_id": "frans-timmermans",
+    "subdir": "wikipedia",
+    "char_count": 20177,
+    "sentence_count": 126,
+    "path": "wikipedia/frans-timmermans.txt"
+  },
+  {
+    "doc_id": "kristalina-georgieva",
+    "subdir": "wikipedia",
+    "char_count": 17620,
+    "sentence_count": 103,
+    "path": "wikipedia/kristalina-georgieva.txt"
+  },
+  {
+    "doc_id": "jyrki-katainen",
+    "subdir": "wikipedia",
+    "char_count": 9705,
+    "sentence_count": 66,
+    "path": "wikipedia/jyrki-katainen.txt"
+  },
+  {
+    "doc_id": "valdis-dombrovskis",
+    "subdir": "wikipedia",
+    "char_count": 6453,
+    "sentence_count": 41,
+    "path": "wikipedia/valdis-dombrovskis.txt"
+  },
+  {
+    "doc_id": "maros-sefcovic",
+    "subdir": "wikipedia",
+    "char_count": 9254,
+    "sentence_count": 52,
+    "path": "wikipedia/maros-sefcovic.txt"
+  },
+  {
+    "doc_id": "andrus-ansip",
+    "subdir": "wikipedia",
+    "char_count": 7725,
+    "sentence_count": 59,
+    "path": "wikipedia/andrus-ansip.txt"
+  },
+  {
+    "doc_id": "gunther-oettinger",
+    "subdir": "wikipedia",
+    "char_count": 15022,
+    "sentence_count": 84,
+    "path": "wikipedia/gunther-oettinger.txt"
+  },
+  {
+    "doc_id": "cecilia-malmstrom",
+    "subdir": "wikipedia",
+    "char_count": 16998,
+    "sentence_count": 83,
+    "path": "wikipedia/cecilia-malmstrom.txt"
+  },
+  {
+    "doc_id": "miguel-arias-canete",
+    "subdir": "wikipedia",
+    "char_count": 9262,
+    "sentence_count": 51,
+    "path": "wikipedia/miguel-arias-canete.txt"
+  }
+]
