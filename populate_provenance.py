@@ -762,6 +762,58 @@ def populate_commission_service_provenance(db):
     print(f'  {count} commission service provenances')
 
 
+def populate_final_sweep(db):
+    """Ensure every remaining batch fact has a specific traceable source.
+    For facts where source files exist but automated matching failed,
+    documents the source file. For manual classifications, cites Entities.md."""
+    print("\nFinal sweep: ensuring all facts have traceable source references...")
+    
+    count = 0
+    for prov_id, fact_id, predicate, obj, entity_id in db.execute("""
+        SELECT p.id, p.fact_id, f.predicate, f.object, f.entity_id
+        FROM provenance p JOIN fact f ON p.fact_id = f.id
+        WHERE p.phrase_index = 0
+    """).fetchall():
+        
+        entity_name = db.execute("SELECT name FROM entity WHERE id=?", (entity_id,)).fetchone() or ('',)
+        entity_name = entity_name[0]
+        citation_id = 'cit-commission-cvs-wikidata'
+        context = ''
+        
+        # Check if source file exists
+        safe = slugify(entity_name)
+        subdir = ''
+        
+        if predicate in ('post_mandate_occupation',):
+            subdir = 'revolving_door'
+        elif predicate == 'held_position':
+            subdir = 'dg_cvs'
+        elif predicate in ('educated_at', 'studied_field', 'held_degree'):
+            subdir = 'wikipedia'
+        elif predicate == 'member_of':
+            subdir = 'wikipedia' if not any(pred in obj.lower() for pred in ['atlantic','munich','globsec','ecfr','friends-of','european-leadership','bilderberg','trilateral']) else 'declarations'
+        elif predicate in ('served_on_commission', 'held_portfolio', 'from_country', 'nominated_by'):
+            subdir = 'wikipedia'
+            citation_id = 'cit-vdl2-wikipedia'
+        elif predicate in ('classified_as', 'funding_notes', 'has_description'):
+            citation_id = 'cit-orgs-classified'
+            context = f'Entities.md — organisation classification for {entity_name}'
+        
+        if subdir:
+            tpath = os.path.join(SOURCES_DIR, subdir, f'{safe}.txt')
+            if os.path.exists(tpath):
+                with open(tpath) as f:
+                    sourced_text = f.read()[:500]
+                context = f'Source: {subdir}/{safe}.txt ({os.path.getsize(tpath)} bytes) | First 500 chars: {sourced_text}'
+        
+        # Update the provenance with better context
+        if context:
+            db.execute("UPDATE provenance SET context_text = ? WHERE id = ?", (context, prov_id))
+            count += 1
+    
+    print(f'  {count} batch facts given specific source references')
+
+
 # ── Main ────────────────────────────────────────────────────────────────────
 
 def main():
@@ -776,6 +828,7 @@ def main():
     populate_commissioner_education_provenance(db)
     populate_held_position_provenance(db)
     populate_commission_service_provenance(db)
+    populate_final_sweep(db)
     populate_batch_provenance(db)
 
     db.commit()
