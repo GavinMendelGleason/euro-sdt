@@ -231,6 +231,68 @@ def generate_atlanticist_trends(db):
     plt.close()
 
 
+def generate_sdt_charts(db):
+    """SDT cross-reference: MEP-commissioner org overlap + circulation flow."""
+    COMM_ORDER = ['Santer','Prodi','Barroso I','Barroso II','Juncker','VdL I','VdL II']
+    DISPLAY = {
+        'commission-santer':'Santer','commission-prodi':'Prodi',
+        'commission-barroso-i':'Barroso I','commission-barroso-ii':'Barroso II',
+        'commission-juncker':'Juncker','commission-vdl-i':'VdL I','commission-vdl-ii':'VdL II',
+    }
+
+    # Shared elite network overlap
+    orgs_shared = []
+    for r in db.execute("""
+        SELECT obj.name,
+               COUNT(DISTINCT CASE WHEN e.category='commissioner' THEN f.entity_id END) as comms,
+               COUNT(DISTINCT CASE WHEN f.entity_id LIKE 'mep-%' THEN f.entity_id END) as meps
+        FROM fact f JOIN entity obj ON obj.id = f.object
+        LEFT JOIN entity e ON e.id = f.entity_id
+        WHERE f.predicate IN ('affiliated_with','member_of')
+        AND (e.category='commissioner' OR f.entity_id LIKE 'mep-%')
+        GROUP BY obj.name HAVING comms >= 2 AND meps >= 1
+        ORDER BY (comms + meps) DESC
+    """):
+        orgs_shared.append((r[0], r[1], r[2]))
+
+    if orgs_shared:
+        fig, ax = plt.subplots(figsize=(11, max(4, len(orgs_shared) * 0.5)))
+        y_pos = range(len(orgs_shared))
+        ax.barh([y + 0.2 for y in y_pos], [o[1] for o in orgs_shared], 0.35, color='#00d2ff', alpha=0.8, label='Commissioners')
+        ax.barh([y - 0.2 for y in y_pos], [o[2] for o in orgs_shared], 0.35, color='#e94560', alpha=0.8, label='MEP Leaders')
+        ax.set_yticks(y_pos); ax.set_yticklabels([o[0] for o in orgs_shared], fontsize=9)
+        ax.set_title('Elite Network Overlap: Commissioners vs MEP Leaders', fontsize=13, color='#00d2ff')
+        ax.legend(loc='lower right', fontsize=9)
+        ax.xaxis.set_major_locator(ticker.MaxNLocator(integer=True))
+        plt.tight_layout()
+        plt.savefig(f'{IMG_DIR}/stats_sdt_overlap.png', dpi=150, facecolor='#1a1a2e')
+        plt.close()
+
+    # Circulation: EP leaders who became commissioners per term
+    circulation = {}
+    for comm_slug, disp in DISPLAY.items():
+        count = db.execute("""SELECT COUNT(DISTINCT e.id) FROM entity e
+            JOIN fact f ON f.entity_id = e.id AND f.predicate='served_on_commission'
+            WHERE e.category='commissioner' AND f.object = ?
+            AND LOWER(e.name) IN (SELECT LOWER(name) FROM entity WHERE category='mep_sdt')
+        """, [comm_slug]).fetchone()[0]
+        circulation[disp] = count
+
+    fig, ax = plt.subplots(figsize=(10, 5))
+    x = range(len(COMM_ORDER))
+    vals = [circulation.get(c, 0) for c in COMM_ORDER]
+    ax.bar(x, vals, color='#9467bd', alpha=0.8)
+    ax.set_xticks(x); ax.set_xticklabels(COMM_ORDER, fontsize=9)
+    ax.set_title('EP Leadership → Commission Circulation', fontsize=13, color='#00d2ff')
+    ax.set_ylabel('Commissioners with EP Leadership Background')
+    ax.yaxis.set_major_locator(ticker.MaxNLocator(integer=True))
+    for xi, v in enumerate(vals):
+        if v > 0: ax.text(xi, v + 0.1, str(v), ha='center', fontsize=10, color='white')
+    plt.tight_layout()
+    plt.savefig(f'{IMG_DIR}/stats_sdt_circulation.png', dpi=150, facecolor='#1a1a2e')
+    plt.close()
+
+
 def main():
     os.makedirs(IMG_DIR, exist_ok=True)
     data = load_data()
@@ -294,6 +356,11 @@ def main():
     generate_atlanticist_trends(db3)
     db3.close()
 
+    # ── Page 5: SDT Cross-Reference ──────────────────────────────────────
+    db4 = sqlite3.connect(DB_PATH)
+    generate_sdt_charts(db4)
+    db4.close()
+
     # ── Build Markdown ──────────────────────────────────────────────────
     md = f'''---
 id: stats
@@ -353,6 +420,12 @@ generated: {TODAY}
 ## Elite Network Ties
 
 ![Elite Network Trends](img/stats_elite_network_trends.png)
+
+## SDT: Circulation & Overlap
+
+![Elite Network Overlap](img/stats_sdt_overlap.png)
+
+![EP Leadership to Commission Circulation](img/stats_sdt_circulation.png)
 '''
     
     with open(OUT_HTML, 'w') as f:
