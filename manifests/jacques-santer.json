@@ -4,19 +4,12 @@
   "name": "Jacques Santer",
   "orgs": [
     {
-      "organisation": "General Mediterranean Holdings",
-      "role": "board member",
-      "reasoning": "The phrase explicitly states Santer 'was on General Mediterranean Holdings' board', indicating a board membership.",
-      "phrase": 24,
-      "evidence": "He also was on General Mediterranean Holdings' board, a financial holding owned by Anglo-Iraqi Nadhmi Auchi."
-    },
-    {
       "organisation": "SME Europe",
       "role": "Honorary Member",
-      "reasoning": "The phrase states Santer 'became an Honorary Member of SME Europe', which is an official pro-business organisation.",
+      "reasoning": "The phrase explicitly states that Santer became an Honorary Member of SME Europe, which is an official pro-business organisation of the European People's Party.",
       "phrase": 26,
       "evidence": "In May 2013, Santer became an Honorary Member of SME Europe, the official pro-business organisation of the European People's Party."
     }
   ],
-  "count": 2
+  "count": 1
 }

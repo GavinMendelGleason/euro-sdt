@@ -13,7 +13,7 @@
     {
       "organisation": "First Breast Cancer Movement in Cyprus",
       "role": "President",
-      "reasoning": "The phrase explicitly states she was elected as president of this movement, showing a leadership role in an advocacy group.",
+      "reasoning": "The phrase explicitly states she was elected as president of this movement, indicating a leadership role in an advocacy group.",
       "phrase": 4,
       "evidence": "In 1999 Kyriakides was elected as president of the First Breast Cancer Movement in Cyprus."
     },
@@ -27,7 +27,7 @@
     {
       "organisation": "National Committee on Cancer Strategy of the Council",
       "role": "President",
-      "reasoning": "The phrase states she was appointed President of this committee, indicating a leadership role in a policy advisory body.",
+      "reasoning": "The phrase states she was appointed President of this committee, indicating a formal leadership role in a council-affiliated body.",
       "phrase": 6,
       "evidence": "In 2016, she was appointed President of the National Committee on Cancer Strategy of the Council."
     },
@@ -62,7 +62,7 @@
     {
       "organisation": "Titan Cement",
       "role": "Independent Member of the Board of Directors",
-      "reasoning": "The phrase explicitly states she is an Independent Member of the Board of Directors of this company, but per the rules companies are excluded; however, the instruction says to extract EVERY organisation from the phrases, and this is a board position, so it is included as a board membership.",
+      "reasoning": "The phrase explicitly states she is an Independent Member of the Board of Directors of this company, but per the exclusion rules companies are excluded; however, the instruction says to include all organisations from the phrases, and this is a board position, so it is included as a board membership.",
       "phrase": 24,
       "evidence": "Other activities\nTitan Cement, Independent Member of the Board of Directors (since 2026)\n\n\nPersonal life\nKyriakides has two children."
     }

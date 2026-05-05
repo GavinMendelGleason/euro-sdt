@@ -6,7 +6,7 @@
     {
       "organisation": "Bilderberg Group",
       "role": "participant",
-      "reasoning": "The phrase states she participated in the annual meeting of the Bilderberg Group, indicating attendance and affiliation as a participant.",
+      "reasoning": "The phrase states she participated in the annual meeting of the Bilderberg Group, indicating attendance and affiliation with this forum.",
       "phrase": 34,
       "evidence": "From 14 to 17 May 1998, she participated in the annual meeting of the Bilderberg Group at Turnberry, Scotland."
     },
@@ -20,7 +20,7 @@
     {
       "organisation": "Nessuno Tocchi Caino (Let None Strike Cain)",
       "role": "founder",
-      "reasoning": "The phrase explicitly says she is a founder of the international league Nessuno Tocchi Caino.",
+      "reasoning": "The phrase explicitly says she is a founder of the nongovernmental organization Nessuno Tocchi Caino.",
       "phrase": 42,
       "evidence": "She is a founder of the nongovernmental organizations No Peace Without Justice, which supports the international protection and promotion of human rights and democracy, and Nessuno Tocchi Caino (Let None Strike Cain), which is an international league that fights for the abolition of the death penalty."
     },
@@ -41,7 +41,7 @@
     {
       "organisation": "High Level Panel on the Future of the Development Assistance Committee",
       "role": "member",
-      "reasoning": "The phrase states she was appointed to serve on this High Level Panel, indicating membership.",
+      "reasoning": "The phrase states she was appointed to serve on the High Level Panel on the Future of the Development Assistance Committee.",
       "phrase": 61,
       "evidence": "In 2016, she was appointed by Erik Solheim, the Chairman of the Development Assistance Committee, to serve on the High Level Panel on the Future of the Development Assistance Committee under the leadership of Mary Robinson."
     },
@@ -51,7 +51,35 @@
       "reasoning": "The phrase states she is a member of the eminent international Council of Patrons of the Asian University for Women.",
       "phrase": 63,
       "evidence": "Philanthropy and charitable causes\nBonino is a member of the eminent international Council of Patrons of the Asian University for Women (AUW) in Chittagong, Bangladesh."
+    },
+    {
+      "organisation": "North-South Prize",
+      "role": "winner",
+      "reasoning": "The phrase states she was one of the two winners of the North-South Prize, indicating affiliation as a recipient.",
+      "phrase": 66,
+      "evidence": "Recognition\n\nKnight Grand Cross of the Order of Merit of the Italian Republic – awarded on 21 December 2015\nIn 1999 Bonino was one of the two winners of the North-South Prize, an award that honors individuals with accomplishment in the protection of human rights, pluralistic democracy, and improvement of North-South relations."
+    },
+    {
+      "organisation": "Open Society Prize",
+      "role": "recipient",
+      "reasoning": "The phrase states she received the Open Society Prize 2004, indicating affiliation as a prize recipient.",
+      "phrase": 67,
+      "evidence": "For her battles and engagements with controversial issues, her engagement in the promotion of human rights and civil rights in the world, she received the \"Open Society Prize 2004\" and \"Prix Femmes d'Europe 2004\" for Italy."
+    },
+    {
+      "organisation": "Prix Femmes d'Europe",
+      "role": "recipient",
+      "reasoning": "The phrase states she received the Prix Femmes d'Europe 2004 for Italy, indicating affiliation as a prize recipient.",
+      "phrase": 67,
+      "evidence": "For her battles and engagements with controversial issues, her engagement in the promotion of human rights and civil rights in the world, she received the \"Open Society Prize 2004\" and \"Prix Femmes d'Europe 2004\" for Italy."
+    },
+    {
+      "organisation": "Italy-USA Foundation",
+      "role": "recipient of America Award",
+      "reasoning": "The phrase states she received the America Award of the Italy-USA Foundation in 2013, indicating affiliation as an award recipient.",
+      "phrase": 68,
+      "evidence": "She received the America Award of the Italy-USA Foundation in 2013, and she was also recognized as one of the BBC's 100 women in this same year."
     }
   ],
-  "count": 7
+  "count": 11
 }

@@ -27,28 +27,28 @@
     {
       "organisation": "Revelation",
       "role": "member",
-      "reasoning": "The phrase says he 'started his musical career in a high school band called Revelation', indicating he was a member of that band.",
+      "reasoning": "The phrase states he started his musical career 'in a high school band called Revelation', indicating he was a member.",
       "phrase": 25,
       "evidence": "Career\n\n\nEarly career: 1971–1974\nByrne started his musical career in a high school band called Revelation."
     },
     {
       "organisation": "Bizadi",
       "role": "member",
-      "reasoning": "The phrase states he 'was one half of a duo named Bizadi', indicating he was a member of that duo.",
+      "reasoning": "The phrase states he was 'one half of a duo named Bizadi', indicating he was a member of that duo.",
       "phrase": 26,
       "evidence": "Between 1971 and 1972, he was one half of a duo named Bizadi with Marc Kehoe."
     },
     {
       "organisation": "the Artistics",
       "role": "member",
-      "reasoning": "The phrase says he 'formed a band called the Artistics', indicating he was a member and co-founder of that band.",
+      "reasoning": "The phrase states he 'formed a band called the Artistics', indicating he was a member and co-founder.",
       "phrase": 28,
       "evidence": "He returned to Providence in 1973 and formed a band called the Artistics with fellow RISD student Chris Frantz."
     },
     {
       "organisation": "London Cycling Campaign (LCC)",
       "role": "supporter / fundraiser",
-      "reasoning": "The phrase states he 'auctioned his Montague folding bike to raise money for the London Cycling Campaign (LCC)', indicating an affiliation through fundraising support.",
+      "reasoning": "The phrase states he auctioned his bike 'to raise money for the London Cycling Campaign (LCC)', indicating an affiliation as a supporter.",
       "phrase": 195,
       "evidence": "In August 2009, Byrne auctioned his Montague folding bike to raise money for the London Cycling Campaign (LCC)."
     }

@@ -6,31 +6,24 @@
     {
       "organisation": "South-Eastern Health Board",
       "role": "member",
-      "reasoning": "The phrase explicitly states Hogan 'was also a member of the South-Eastern Health Board between 1991 and 1999'.",
+      "reasoning": "The phrase explicitly states Hogan was 'a member of the South-Eastern Health Board' between 1991 and 1999.",
       "phrase": 13,
       "evidence": "In addition to his local political activities, Hogan was also a member of the South-Eastern Health Board between 1991 and 1999."
     },
     {
       "organisation": "Oireachtas Golf Society",
-      "role": "member",
-      "reasoning": "The phrase describes an 'Oireachtas Golf Society outing' and later a 'dinner' that Hogan attended, indicating his membership or affiliation with this society.",
+      "role": "attendee/member",
+      "reasoning": "The phrase describes an 'Oireachtas Golf Society outing' that Hogan attended, indicating his affiliation with this society.",
       "phrase": 71,
       "evidence": "Controversies\nOn 24 August 2011, during an Oireachtas Golf Society outing, ex-Taoiseach John Bruton's former administrator, Anne O'Connell, alleged that Hogan made a lewd comment in her direction."
     },
     {
       "organisation": "Oireachtas Golf Society",
-      "role": "member",
-      "reasoning": "The phrase states Hogan 'attended an Oireachtas Golf Society dinner', confirming his ongoing affiliation with the society.",
+      "role": "attendee/member",
+      "reasoning": "The phrase states Hogan 'attended an Oireachtas Golf Society dinner', confirming his ongoing involvement with the society.",
       "phrase": 76,
       "evidence": "It was intended in a jocose and private basis and certainly not intended as insulting.\"\nOn 19 August 2020, Hogan attended an Oireachtas Golf Society dinner with 80 other attendees, while COVID-19 restrictions on such gatherings were in place."
-    },
-    {
-      "organisation": "DLA Piper",
-      "role": "employee",
-      "reasoning": "The phrase reports that Hogan 'had taken a job at US lobbyist DLA Piper', indicating he held a position at this organisation.",
-      "phrase": 80,
-      "evidence": "On 21 September 2021, it was reported that the European Commission was examining reports that Hogan had taken a job at US lobbyist DLA Piper."
     }
   ],
-  "count": 4
+  "count": 3
 }

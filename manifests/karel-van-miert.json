@@ -20,7 +20,7 @@
     {
       "organisation": "Vlerick Award",
       "role": "award recipient",
-      "reasoning": "This phrase states he was awarded the Vlerick Award, which is an award given by the Vlerick Business School, but the award itself is not an organisation he was a member of; however, the Vlerick Award is associated with the Vlerick Business School, but per the rules, universities are excluded, so this is not included.",
+      "reasoning": "This phrase states he was awarded the Vlerick Award, which is given by the Vlerick Business School, but the award itself is not an organisation he was a member of; however, the phrase does not indicate membership in an organisation, so this is excluded per instructions.",
       "phrase": 9,
       "evidence": "In this period Van Miert was according to The Guardian \"one of the most powerful men in Europe.\" In 2001, he was awarded the Vlerick Award."
     },
@@ -34,7 +34,7 @@
     {
       "organisation": "Goldman Sachs",
       "role": "international advisor",
-      "reasoning": "This phrase states he was an international advisor to Goldman Sachs, indicating a formal advisory role at the organisation.",
+      "reasoning": "This phrase states he was an international advisor to Goldman Sachs, indicating a formal advisory role with the organisation.",
       "phrase": 11,
       "evidence": "After his departure from politics Van Miert was an international advisor to Goldman Sachs."
     }

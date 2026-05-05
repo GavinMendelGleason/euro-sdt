@@ -6,35 +6,35 @@
     {
       "organisation": "British Council",
       "role": "chairman",
-      "reasoning": "Phrase [14] explicitly states he was 'the chairman of the British Council' until summer 2009.",
+      "reasoning": "The phrase explicitly states he was 'chairman of the British Council' until summer 2009.",
       "phrase": 14,
       "evidence": "Until the summer of 2009, he was also the chairman of the British Council and the president of Cardiff University."
     },
     {
       "organisation": "Workers' Educational Association (WEA)",
       "role": "tutor",
-      "reasoning": "Phrase [23] states he 'worked as a tutor for a Workers' Educational Association (WEA)', indicating a formal position at this educational charity.",
+      "reasoning": "The phrase states he 'worked as a tutor for a Workers' Educational Association (WEA)', indicating a formal position at this educational charity.",
       "phrase": 23,
       "evidence": "From August 1966 to May 1970, he worked as a tutor for a Workers' Educational Association (WEA)."
     },
     {
       "organisation": "Campaign for Nuclear Disarmament",
       "role": "participant/activist",
-      "reasoning": "Phrase [25] states he 'participated in Campaign for Nuclear Disarmament activities', indicating affiliation with this advocacy group.",
+      "reasoning": "The phrase states he 'participated in Campaign for Nuclear Disarmament activities', indicating affiliation with this advocacy group.",
       "phrase": 25,
       "evidence": "He also participated in Campaign for Nuclear Disarmament activities and anti-apartheid protests."
     },
     {
       "organisation": "Tribune Group",
       "role": "member",
-      "reasoning": "Phrase [31] states he 'joined the Tribune Group', a formal grouping within the Labour Party, upon entering Parliament.",
+      "reasoning": "The phrase states he 'joined the Tribune Group', a formal grouping within the Labour Party, upon entering Parliament.",
       "phrase": 31,
       "evidence": "Upon his election as an MP, his father advised him: \"Remember Neil, MP stands not just for Member of Parliament, but also for Man of Principle.\"\nOn entering Parliament, Kinnock immediately aligned himself with the left wing of the parliamentary Labour Party, joining the Tribune Group."
     },
     {
       "organisation": "Humanists UK",
       "role": "Patron",
-      "reasoning": "Phrase [387] explicitly states 'He is a Patron of Humanists UK', indicating a formal role with this advocacy organisation.",
+      "reasoning": "The phrase explicitly states 'He is a Patron of Humanists UK', indicating a formal role with this organisation.",
       "phrase": 387,
       "evidence": "He is a Patron of Humanists UK."
     }

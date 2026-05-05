@@ -47,15 +47,15 @@
     },
     {
       "organisation": "Europa-Union Münster",
-      "role": "Award recipient",
+      "role": "Award recipient (Coudenhove-Kalergi Badge)",
       "reasoning": "The phrase lists the Coudenhove-Kalergi Badge of the Europa-Union Münster, indicating an affiliation through receiving an award from this organisation.",
       "phrase": 200,
       "evidence": ""
     },
     {
       "organisation": "European Foundation for Ecology and Democracy",
-      "role": "Award recipient",
-      "reasoning": "The phrase lists the Peace Prize of the European Foundation for Ecology and Democracy, indicating an affiliation through receiving an award from this foundation.",
+      "role": "Award recipient (Peace Prize)",
+      "reasoning": "The phrase states Juncker received the Peace Prize of the European Foundation for Ecology and Democracy.",
       "phrase": 200,
       "evidence": ""
     },
@@ -68,15 +68,15 @@
     },
     {
       "organisation": "Jean Monnet Foundation for Europe",
-      "role": "Award recipient",
-      "reasoning": "The phrase lists the Gold Medal of the Jean Monnet Foundation for Europe, indicating an affiliation through receiving an award from this foundation.",
+      "role": "Award recipient (Gold Medal)",
+      "reasoning": "The phrase lists the Gold Medal of the Jean Monnet Foundation for Europe, indicating an affiliation through receiving an award.",
       "phrase": 200,
       "evidence": ""
     },
     {
       "organisation": "Herbert Batliner-Europa Institute",
-      "role": "Award recipient",
-      "reasoning": "The phrase lists the Small State Award of the Herbert Batliner-Europa Institute in Salzburg, indicating an affiliation through receiving an award from this institute.",
+      "role": "Award recipient (Small State Award)",
+      "reasoning": "The phrase states Juncker received the Small State Award of the Herbert Batliner-Europa Institute in Salzburg.",
       "phrase": 200,
       "evidence": ""
     },
@@ -89,15 +89,15 @@
     },
     {
       "organisation": "Fondation du Mérite européen",
-      "role": "Award recipient",
-      "reasoning": "The phrase lists the Collier of the Fondation du Mérite européen, indicating an affiliation through receiving an award from this foundation.",
+      "role": "Award recipient (Collier)",
+      "reasoning": "The phrase lists the Collier of the Fondation du Mérite européen, indicating an affiliation through receiving an award.",
       "phrase": 200,
       "evidence": ""
     },
     {
       "organisation": "Hanns Martin Schleyer Foundation",
       "role": "Award recipient",
-      "reasoning": "The phrase lists the Hanns Martin Schleyer Foundation, indicating an affiliation through receiving an award from this foundation.",
+      "reasoning": "The phrase lists the Hanns Martin Schleyer Foundation, indicating an affiliation through receiving an award or recognition.",
       "phrase": 200,
       "evidence": ""
     }

@@ -20,35 +20,28 @@
     {
       "organisation": "Proletarian Unity Party (Partito di Unità Proletaria; PdUP)",
       "role": "member",
-      "reasoning": "The phrase states he followed the MLS into the PdUP and remained a member until its dissolution.",
+      "reasoning": "The phrase indicates he followed the MLS into the PdUP and remained a member until its dissolution.",
       "phrase": 21,
       "evidence": "In 1981 Gentiloni followed the MLS into the Proletarian Unity Party (Partito di Unità Proletaria; PdUP), remaining a member until its dissolution three years later."
     },
     {
       "organisation": "Legambiente",
       "role": "director of its official newspaper",
-      "reasoning": "The phrase states he became director of 'La Nuova Ecologia', the official newspaper of Legambiente, indicating an affiliated leadership role.",
+      "reasoning": "The phrase states he became director of 'La Nuova Ecologia', the official newspaper of Legambiente, an environmental NGO.",
       "phrase": 23,
       "evidence": "During those years he became a close friend of Chicco Testa who helped Gentiloni to become director of La Nuova Ecologia (\"The New Ecology\"), the official newspaper of Legambiente."
     },
     {
       "organisation": "Federation of the Greens",
       "role": "member of the 'Rutelli boys' group",
-      "reasoning": "The phrase states he became a member of the 'Rutelli boys', a group formed by the leader of the Federation of the Greens, indicating affiliation with that party's inner circle.",
+      "reasoning": "The phrase states he became a member of the 'Rutelli boys', a group formed by the closest advisors of the leader of the Federation of the Greens.",
       "phrase": 24,
       "evidence": "As director of this ecologist newspaper he met the young leader of Federation of the Greens, Francesco Rutelli and became, along with Roberto Giachetti, Michele Anzaldi and Filippo Sensi, a member of the so-called \"Rutelli boys\", a group formed by Rutelli's closest advisors and supporters."
     },
     {
-      "organisation": "The Daisy",
-      "role": "founding member and communications spokesman",
-      "reasoning": "The phrase states he was a founding member of The Daisy party and served as its communications spokesman for five years.",
-      "phrase": 30,
-      "evidence": "In 2002 he was a founding member of the Christian leftist The Daisy party, being the party's communications spokesman for five years."
-    },
-    {
       "organisation": "Broadcasting Services Watchdog Committee",
       "role": "Chairman",
-      "reasoning": "The phrase explicitly states he was Chairman of the Broadcasting Services Watchdog Committee from 2005 until 2006.",
+      "reasoning": "The phrase explicitly states he was Chairman of this committee, which oversees the state broadcaster RAI.",
       "phrase": 31,
       "evidence": "From 2005 until 2006, he was Chairman of the Broadcasting Services Watchdog Committee; the committee oversees the activity of state broadcaster RAI, which is publicly funded."
     },
@@ -60,5 +53,5 @@
       "evidence": "He was one of the 45 members of the national founding committee of the Democratic Party in 2007, formed by the union of the social democrats Democrats of the Left and the Christian leftist The Daisy."
     }
   ],
-  "count": 8
+  "count": 7
 }

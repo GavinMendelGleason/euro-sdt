@@ -12,22 +12,22 @@
     },
     {
       "organisation": "Taylor & Francis",
-      "role": "author (published book)",
-      "reasoning": "The phrase lists a book published by Taylor & Francis, indicating Hill was an author affiliated with this publisher, which is a research and academic publishing group.",
+      "role": "author (published by)",
+      "reasoning": "The phrase lists a book published by Taylor & Francis, indicating Hill was an author affiliated with this academic publishing group.",
       "phrase": 8,
       "evidence": "Work\nJonathan Hill published a number of books including:\n\nThe Illegal Architect (1998)\nActions of Architecture: Architects and Creative Users (Taylor & Francis, 2003, ISBN 978-1134437054)\nDrawing Research (2006)\nImmaterial Architecture (Routledge, 2006, ISBN 978-0415363242)\nWeather Architecture (Routledge, 2012, ISBN 978-0415668613)\nA Landscape of Architecture, History and Fiction (Routledge, 2015, ISBN 978-1138852297)\nThe Architecture of Ruins: Designs on the Past, Present and Future (Routledge, 2019 ISBN 978-0429429644)\nHill edited the following books:\n\nArchitecture: The Subject is Matter (Routledge, 2001, ISBN 978-0415235457\nOccupying Architecture: Between the Architect and the User (Routledge, 2006, ISBN 978-0203983829)\nHill was also series co-editor of the Design Research in Architecture book series published by Ashgate."
     },
     {
       "organisation": "Routledge",
-      "role": "author and editor (published multiple books)",
-      "reasoning": "The phrase lists multiple books published by Routledge, indicating Hill was an author and editor affiliated with this academic publishing house.",
+      "role": "author and editor (published by)",
+      "reasoning": "The phrase lists multiple books published by Routledge and notes Hill edited books for Routledge, indicating a professional affiliation as an author and editor.",
       "phrase": 8,
       "evidence": "Work\nJonathan Hill published a number of books including:\n\nThe Illegal Architect (1998)\nActions of Architecture: Architects and Creative Users (Taylor & Francis, 2003, ISBN 978-1134437054)\nDrawing Research (2006)\nImmaterial Architecture (Routledge, 2006, ISBN 978-0415363242)\nWeather Architecture (Routledge, 2012, ISBN 978-0415668613)\nA Landscape of Architecture, History and Fiction (Routledge, 2015, ISBN 978-1138852297)\nThe Architecture of Ruins: Designs on the Past, Present and Future (Routledge, 2019 ISBN 978-0429429644)\nHill edited the following books:\n\nArchitecture: The Subject is Matter (Routledge, 2001, ISBN 978-0415235457\nOccupying Architecture: Between the Architect and the User (Routledge, 2006, ISBN 978-0203983829)\nHill was also series co-editor of the Design Research in Architecture book series published by Ashgate."
     },
     {
       "organisation": "Ashgate",
       "role": "series co-editor",
-      "reasoning": "The phrase states Hill was series co-editor of the Design Research in Architecture book series published by Ashgate, indicating a formal editorial role at this academic publisher.",
+      "reasoning": "The phrase states Hill was series co-editor of the Design Research in Architecture book series published by Ashgate, indicating a formal editorial role at that publishing house.",
       "phrase": 8,
       "evidence": "Work\nJonathan Hill published a number of books including:\n\nThe Illegal Architect (1998)\nActions of Architecture: Architects and Creative Users (Taylor & Francis, 2003, ISBN 978-1134437054)\nDrawing Research (2006)\nImmaterial Architecture (Routledge, 2006, ISBN 978-0415363242)\nWeather Architecture (Routledge, 2012, ISBN 978-0415668613)\nA Landscape of Architecture, History and Fiction (Routledge, 2015, ISBN 978-1138852297)\nThe Architecture of Ruins: Designs on the Past, Present and Future (Routledge, 2019 ISBN 978-0429429644)\nHill edited the following books:\n\nArchitecture: The Subject is Matter (Routledge, 2001, ISBN 978-0415235457\nOccupying Architecture: Between the Architect and the User (Routledge, 2006, ISBN 978-0203983829)\nHill was also series co-editor of the Design Research in Architecture book series published by Ashgate."
     }

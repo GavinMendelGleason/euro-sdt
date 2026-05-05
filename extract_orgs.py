@@ -209,10 +209,19 @@ def process_commissioner(slug, name):
     }
 
 
-def deduplicate_orgs(all_manifests, threshold=0.85):
-    """Deduplicate organisation names across all manifests using string similarity."""
-    # Collect all unique org names with their occurrences
-    org_occurrences = defaultdict(list)  # canonical name → list of (manifest, raw_name)
+def deduplicate_orgs(all_manifests, auto_threshold=0.95, llm_min_threshold=0.30):
+    """Deduplicate organisation names across all manifests.
+
+    Two passes:
+      1. String similarity >= auto_threshold → safe auto-merge (typos, punctuation variants)
+      2. Pairs in [llm_min_threshold, auto_threshold) → LLM judge with phrase+reasoning + both raw names
+
+    Returns: (clusters, llm_log)
+      clusters: {raw_name → canonical_name} mapping
+      llm_log: list of dicts with verdict, reason, evidence for each LLM-judged pair
+    """
+    # Collect all unique org names with their evidence
+    org_occurrences = defaultdict(list)
     raw_names = set()
 
     for manifest in all_manifests:
@@ -221,23 +230,22 @@ def deduplicate_orgs(all_manifests, threshold=0.85):
         for org in manifest.get('orgs', []):
             raw = org['organisation']
             raw_names.add(raw)
-            org_occurrences[raw].append((manifest['slug'], org))
+            org_occurrences[raw].append(org)
 
     if not raw_names:
         return {}
 
-    # Cluster similar names using greedy matching
     raw_list = sorted(raw_names)
-    clusters = {}  # raw → canonical
-    canonicals = {}  # canonical → list of raw
+    clusters = {}
+    canonicals = {}
 
+    # ── Pass 1: string similarity auto-merge ─────────────────────────
     for raw in raw_list:
         raw_lower = raw.lower().strip()
         matched = False
         for canonical in list(canonicals.keys()):
-            # Compare
             ratio = difflib.SequenceMatcher(None, raw_lower, canonical.lower()).ratio()
-            if ratio >= threshold:
+            if ratio >= auto_threshold:
                 clusters[raw] = canonical
                 canonicals[canonical].append(raw)
                 matched = True
@@ -246,7 +254,122 @@ def deduplicate_orgs(all_manifests, threshold=0.85):
             clusters[raw] = raw
             canonicals[raw] = [raw]
 
-    return clusters
+    # ── Pass 2: LLM judge for borderline pairs ─────────────────────
+    unresolved = set(raw_list)
+
+    # Collect pairs with similarity in [llm_min, auto_threshold) that ended up in different clusters.
+    # Only consider pairs where neither side is too short (avoids "CFR" vs everything noise).
+
+    # Deduplicate candidates: group raws by their current canonical cluster
+    raw_by_cluster = defaultdict(list)
+    for raw in unresolved:
+        raw_by_cluster[clusters.get(raw, raw)].append(raw)
+
+    canonical_list = sorted(raw_by_cluster.keys(), key=lambda c: -len(raw_by_cluster[c]))
+
+    candidates = []
+    seen_pairs = set()
+    # Compare each pair of clusters once (avoid N² on raws, use canonical reps)
+    for ci in range(len(canonical_list)):
+        c1 = canonical_list[ci]
+        reps1 = sorted(raw_by_cluster[c1], key=len)[:5]  # up to 5 reps per cluster
+        for cj in range(ci + 1, len(canonical_list)):
+            c2 = canonical_list[cj]
+            reps2 = sorted(raw_by_cluster[c2], key=len)[:5]
+            # Find best similarity between any rep pair
+            best_ratio = 0
+            best_pair = None
+            for r1 in reps1:
+                for r2 in reps2:
+                    ratio = difflib.SequenceMatcher(None, r1.lower(), r2.lower()).ratio()
+                    if ratio > best_ratio:
+                        best_ratio = ratio
+                        best_pair = (r1, r2)
+            if llm_min_threshold <= best_ratio < auto_threshold and best_pair:
+                pair_key = tuple(sorted(best_pair))
+                if pair_key not in seen_pairs:
+                    seen_pairs.add(pair_key)
+                    candidates.append((best_ratio, best_pair[0], best_pair[1], c1, c2))
+
+    candidates.sort(key=lambda x: -x[0])
+
+    llm_log = []
+    if candidates:
+        total_pairs = len(candidates)
+        resolved_merged = 0
+        resolved_separate = 0
+        print(f"\n  LLM deduplication: {total_pairs} borderline pairs to judge...")
+
+        for ratio, r1, r2, c1, c2 in candidates:
+            ev1 = org_occurrences.get(r1, [])
+            ev2 = org_occurrences.get(r2, [])
+
+            # Up to 3 evidence examples per side
+            evidence1 = '\n'.join(
+                f'  [{i+1}] "{o.get("evidence","")[:200]}'
+                f'\n      role: {o.get("role","")}  reasoning: {o.get("reasoning","")}'
+                for i, o in enumerate(ev1[:3])
+            )
+            evidence2 = '\n'.join(
+                f'  [{i+1}] "{o.get("evidence","")[:200]}'
+                f'\n      role: {o.get("role","")}  reasoning: {o.get("reasoning","")}'
+                for i, o in enumerate(ev2[:3])
+            )
+
+            prompt = f"""Are these two organisation names referring to the SAME organisation or DIFFERENT organisations?
+
+Organisation A: "{r1}"
+Evidence A:
+{evidence1}
+
+Organisation B: "{r2}"
+Evidence B:
+{evidence2}
+
+Consider: acronyms vs full names, subsidiaries/centres of the same parent, renamed organisations, different orgs with similar names.
+
+Reply with exactly one word: SAME or DIFFERENT
+Then a one-line reason.
+Example: SAME
+ECFR is the acronym for European Council on Foreign Relations"""
+            resp = call_llm(prompt, max_tokens=80)
+            if not resp:
+                continue
+
+            lines = resp.strip().split('\n')
+            verdict = lines[0].strip().upper()
+            reason = lines[1].strip() if len(lines) > 1 else ''
+
+            log_entry = {
+                'raw_a': r1, 'raw_b': r2,
+                'similarity': round(ratio, 3),
+                'verdict': verdict,
+                'reason': reason,
+                'evidence_a': [o.get('evidence', '')[:200] for o in ev1[:2]],
+                'evidence_b': [o.get('evidence', '')[:200] for o in ev2[:2]],
+            }
+
+            if verdict == 'SAME':
+                # Merge: map all raws in c2's cluster to c1
+                for r in list(canonicals.get(c2, [c2])):
+                    clusters[r] = c1
+                    if r not in canonicals.get(c1, []):
+                        canonicals[c1].append(r)
+                if c2 in canonicals:
+                    del canonicals[c2]
+                # Update raw_by_cluster for subsequent candidates
+                if c1 in raw_by_cluster and c2 in raw_by_cluster:
+                    raw_by_cluster[c1].extend(raw_by_cluster.pop(c2, []))
+                log_entry['merged_into'] = c1
+                resolved_merged += 1
+            else:
+                resolved_separate += 1
+
+            llm_log.append(log_entry)
+
+        print(f"    LLM decisions: {resolved_merged} merged, {resolved_separate} kept separate")
+
+    return clusters, llm_log
 
 
 def insert_facts(manifests, org_clusters, dry_run=False):
@@ -389,19 +512,25 @@ def main():
 
     # Phase 2: Deduplication
     print(f"\nDeduplicating {total_orgs} raw org names...")
-    org_clusters = deduplicate_orgs(manifests, threshold=0.85)
+    org_clusters, llm_log = deduplicate_orgs(manifests, auto_threshold=0.95, llm_min_threshold=0.30)
     canonicals = set(org_clusters.values())
     print(f"  {len(set(org_clusters.keys()))} raw → {len(canonicals)} canonical names")
 
-    # Save dedup manifest
+    # Save dedup manifest with full audit trail
+    auto_merged = {}
+    for canonical in sorted(canonicals):
+        raws = [r for r, c in org_clusters.items() if c == canonical]
+        if len(raws) > 1:
+            auto_merged[canonical] = raws
+
     dedup_summary = {
         'raw_count': len(set(org_clusters.keys())),
         'canonical_count': len(canonicals),
-        'clusters': {},
+        'auto_merged': auto_merged,
+        'llm_decisions': llm_log,
+        'clusters': {canonical: [r for r, c in org_clusters.items() if c == canonical]
+                     for canonical in sorted(canonicals)},
     }
-    for canonical in sorted(canonicals):
-        raws = [r for r, c in org_clusters.items() if c == canonical]
-        dedup_summary['clusters'][canonical] = raws
 
     with open(os.path.join(MANIFEST_DIR, '_dedup.json'), 'w') as f:
         json.dump(dedup_summary, f, indent=2, ensure_ascii=False)

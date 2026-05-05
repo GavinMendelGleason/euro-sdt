@@ -6,52 +6,59 @@
     {
       "organisation": "Robert Schuman Institute",
       "role": "president",
-      "reasoning": "The phrase explicitly states she is 'president of the Robert Schuman Institute', indicating a leadership role in this organisation.",
+      "reasoning": "The phrase explicitly states she is the president of the Robert Schuman Institute.",
       "phrase": 0,
       "evidence": "Mariya Ivanova Gabriel (Bulgarian: Мария Иванова Габриел, née Nedelcheva, Bulgarian: Неделчева, born 20 May 1979) is a Bulgarian politician, president of the Robert Schuman Institute."
     },
     {
       "organisation": "European People's Party (EPP) group",
       "role": "vice-president",
-      "reasoning": "The phrase states she served as 'vice-president of the European People's Party (EPP) group', indicating a formal position within this political group.",
+      "reasoning": "The phrase states she served as vice-president of the EPP group in the European Parliament.",
       "phrase": 3,
       "evidence": "In the European Parliament she served as vice-president of the European People's Party (EPP) group, vice-president of EPP Women and head of the Bulgarian EPP delegation."
     },
     {
       "organisation": "EPP Women",
       "role": "vice-president",
-      "reasoning": "The phrase states she served as 'vice-president of EPP Women', indicating a formal position within this organisation.",
+      "reasoning": "The phrase states she served as vice-president of EPP Women.",
       "phrase": 3,
       "evidence": "In the European Parliament she served as vice-president of the European People's Party (EPP) group, vice-president of EPP Women and head of the Bulgarian EPP delegation."
     },
     {
       "organisation": "EPP Group",
       "role": "vice-president and Head of Bulgarian delegation",
-      "reasoning": "The phrase explicitly states she was 'vice-president of the EPP Group and Head of the Bulgarian delegation in the EPP Group', indicating leadership and membership roles.",
+      "reasoning": "The phrase explicitly states she was vice-president of the EPP Group and Head of the Bulgarian delegation in the EPP Group.",
       "phrase": 14,
       "evidence": "Member of the European Parliament\n\n\nVice-President of the EPP Group and Head of the Bulgarian delegation of the EPP Group\nFrom 2014 to 2017, Mariya Gabriel was vice-president of the EPP Group and Head of the Bulgarian delegation in the EPP Group."
     },
     {
       "organisation": "Euromed Working Group of the EPP",
       "role": "chair",
-      "reasoning": "The phrase states she 'chaired the Euromed Working Group of the EPP', indicating a chairing role within this working group.",
+      "reasoning": "The phrase states she chaired the Euromed Working Group of the EPP as vice-president of the EPP Group.",
       "phrase": 15,
       "evidence": "As vice-president of the EPP Group she chaired the Euromed Working Group of the EPP and was responsible for maintaining the EPP Group's relations with countries from the Mediterranean, Middle East and North Africa regions."
     },
     {
       "organisation": "Working Group on Apiculture and Bee Health",
       "role": "President",
-      "reasoning": "The phrase explicitly states she was 'President of the Working Group on Apiculture and Bee Health', indicating a leadership role in this group.",
+      "reasoning": "The phrase explicitly states she was President of the Working Group on Apiculture and Bee Health.",
       "phrase": 25,
       "evidence": "From 2014 to 2017, Mariya Gabriel was President of the Working Group on Apiculture and Bee Health."
     },
     {
       "organisation": "ACP-EU Joint Parliamentary Assembly",
       "role": "active member",
-      "reasoning": "The phrase states she was 'an active member of the ACP-EU Joint Parliamentary Assembly', indicating membership in this assembly.",
+      "reasoning": "The phrase states she was an active member of the ACP-EU Joint Parliamentary Assembly.",
       "phrase": 30,
       "evidence": "EU foreign policy\nFrom 2009 Mariya Gabriel was an active member of the ACP-EU Joint Parliamentary Assembly, which brings together parliamentarians from the African, Caribbean and Pacific Group of States and the European Union."
+    },
+    {
+      "organisation": "European Association of Communications Agencies",
+      "role": "award recipient",
+      "reasoning": "The phrase states she received an award from The European Association of Communications Agencies, indicating affiliation.",
+      "phrase": 83,
+      "evidence": "Prizes and awards\n2013 'MEP of the year' Award in the 'Gender Equality category;\n2015 Award of The European Association of Communications Agencies for her achievements in relations to gender equality and women's rights;\n2016 \"MEP of the year\" Award in the Development category;\n2016 Order of San Carlos from the Government of Colombia for outstanding contribution to the nation of Colombia in the area of international relations and diplomacy;\n\n\nReferences\n\n\nExternal links\n\nMariya Gabriel – European Commission website\nMariya Gabriel - Open Access Government Prestige Contributor"
     }
   ],
-  "count": 7
+  "count": 8
 }

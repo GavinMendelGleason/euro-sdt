@@ -25,47 +25,96 @@
       "evidence": "He was a president of À gauche en Europe, a group founded by Strauss-Kahn and Michel Rocard and also created his own group \"Besoin de Gauche\"."
     },
     {
+      "organisation": "Court of Audit",
+      "role": "senior member",
+      "reasoning": "The phrase states he was 'appointed to the Court of Audit, of which he is currently a senior member'.",
+      "phrase": 9,
+      "evidence": "After graduating from the École nationale d'administration in 1984, Moscovici was appointed to the Court of Audit, of which he is currently a senior member."
+    },
+    {
       "organisation": "Revolutionary Communist League",
       "role": "member",
-      "reasoning": "The phrase states he was 'Initially active in the Revolutionary Communist League', confirming his membership.",
+      "reasoning": "The phrase says he was 'Initially active in the Revolutionary Communist League', confirming his membership.",
       "phrase": 10,
       "evidence": "Political career\n\n\nEarly political career\nInitially active in the Revolutionary Communist League, he left in 1984 to join the PS and, in 1986, became secretary of the \"experts' group\" created by Claude Allègre."
     },
     {
       "organisation": "experts' group",
       "role": "secretary",
-      "reasoning": "The phrase says he 'became secretary of the \"experts' group\" created by Claude Allègre', indicating a formal position.",
+      "reasoning": "The phrase states he 'became secretary of the \"experts' group\" created by Claude Allègre'.",
       "phrase": 10,
       "evidence": "Political career\n\n\nEarly political career\nInitially active in the Revolutionary Communist League, he left in 1984 to join the PS and, in 1986, became secretary of the \"experts' group\" created by Claude Allègre."
     },
     {
       "organisation": "Commissariat général du Plan – French Planning Office",
       "role": "head of department",
-      "reasoning": "The phrase states he 'headed the Public Service Modernisation and Financing Department at the Commissariat général du Plan', indicating a leadership role at this planning office.",
+      "reasoning": "The phrase says he 'headed the Public Service Modernisation and Financing Department at the Commissariat général du Plan – French Planning Office'.",
       "phrase": 12,
       "evidence": "From 1990 to 1994, he headed the Public Service Modernisation and Financing Department at the Commissariat général du Plan – French Planning Office."
     },
     {
+      "organisation": "Franche-Comté Regional Council",
+      "role": "member",
+      "reasoning": "The phrase states he 'became a Member of the Franche-Comté Regional Council from 1998 to 2004'.",
+      "phrase": 16,
+      "evidence": "Minister delegate for European Affairs\nElected to the French Parliament from the Doubs département in 1997, he went on to become a Member of the Franche-Comté Regional Council from 1998 to 2004, and of the Doubs département General Council from 1994 to 2002."
+    },
+    {
+      "organisation": "Doubs département General Council",
+      "role": "member",
+      "reasoning": "The phrase states he was 'of the Doubs département General Council from 1994 to 2002'.",
+      "phrase": 16,
+      "evidence": "Minister delegate for European Affairs\nElected to the French Parliament from the Doubs département in 1997, he went on to become a Member of the Franche-Comté Regional Council from 1998 to 2004, and of the Doubs département General Council from 1994 to 2002."
+    },
+    {
       "organisation": "Convention on the Future of Europe",
       "role": "representative",
-      "reasoning": "The phrase states he 'represented the French authorities at the Convention on the Future of Europe', indicating his role as a delegate to this convention.",
+      "reasoning": "The phrase says he 'represented the French authorities at the Convention on the Future of Europe in 2002'.",
       "phrase": 18,
       "evidence": "At the request of Chirac, he represented the French authorities at the Convention on the Future of Europe in 2002."
     },
     {
       "organisation": "Pays de Montbéliard Agglomération (PMA – Greater Montbéliard Authority)",
-      "role": "president",
-      "reasoning": "The phrase states 'He was President of the Pays de Montbéliard Agglomération (PMA – Greater Montbéliard Authority)', indicating a leadership role.",
+      "role": "President",
+      "reasoning": "The phrase states 'He was President of the Pays de Montbéliard Agglomération (PMA – Greater Montbéliard Authority) from 2008 to 2012'.",
       "phrase": 25,
       "evidence": "He was President of the Pays de Montbéliard Agglomération (PMA – Greater Montbéliard Authority) from 2008 to 2012."
     },
     {
       "organisation": "Paris School of International Affairs (PSIA)",
-      "role": "member of the Strategic Committee",
-      "reasoning": "The phrase explicitly lists 'Paris School of International Affairs (PSIA), Member of the Strategic Committee', indicating a formal advisory role.",
+      "role": "Member of the Strategic Committee",
+      "reasoning": "The phrase explicitly lists 'Paris School of International Affairs (PSIA), Member of the Strategic Committee'.",
       "phrase": 44,
       "evidence": "Other activities\nParis School of International Affairs (PSIA), Member of the Strategic Committee\n\n\nOverview\n\n\nGovernmental function\nMinister of Economy and Finances, June 2012 – April 2014\nMinister of Economy, Finances, and Foreign Trade, May 2012 – June 2012\nMinister of European Affairs, 1997–2002."
+    },
+    {
+      "organisation": "Franche-Comté Regional Council",
+      "role": "Regional councillor",
+      "reasoning": "The phrase states 'Regional councillor of Franche-Comté, 1998–2004'.",
+      "phrase": 49,
+      "evidence": "Regional Council\nRegional councillor of Franche-Comté, 1998–2004."
+    },
+    {
+      "organisation": "Doubs General Council",
+      "role": "General councillor",
+      "reasoning": "The phrase states 'General councillor of Doubs, 1994–2001'.",
+      "phrase": 50,
+      "evidence": "General Council\nGeneral councillor of Doubs, 1994–2001."
+    },
+    {
+      "organisation": "Agglomeration community of the Pays de Montbéliard",
+      "role": "President",
+      "reasoning": "The phrase states 'President of the Agglomeration community of the Pays de Montbéliard, 2008–2012'.",
+      "phrase": 54,
+      "evidence": "Agglomeration community Council\nPresident of the Agglomeration community of the Pays de Montbéliard, 2008–2012 (resignation)."
+    },
+    {
+      "organisation": "Agglomeration community of the Pays de Montbéliard",
+      "role": "Member",
+      "reasoning": "The phrase states 'Member of the Agglomeration community of the Pays de Montbéliard, 2008–2014'.",
+      "phrase": 55,
+      "evidence": "Member of the Agglomeration community of the Pays de Montbéliard, 2008–2014."
     }
   ],
-  "count": 9
+  "count": 16
 }

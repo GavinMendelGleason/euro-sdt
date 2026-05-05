@@ -1,6 +1,1464 @@
 {
   "raw_count": 645,
-  "canonical_count": 615,
+  "canonical_count": 621,
+  "auto_merged": {
+    "ACP-EU Joint Parliamentary Assembly": [
+      "ACP-EU Joint Parliamentary Assembly",
+      "ACP–EU Joint Parliamentary Assembly"
+    ],
+    "African Development Bank": [
+      "African Development Bank",
+      "African Development Bank (AfDB)"
+    ],
+    "Campaign for Nuclear Disarmament": [
+      "Campaign for Nuclear Disarmament",
+      "Campaign for Nuclear Disarmament (CND)"
+    ],
+    "Centre for European Policy Studies": [
+      "Centre for European Policy Studies",
+      "Centre for European Policy Studies (CEPS)"
+    ],
+    "Centre for European Reform": [
+      "Centre for European Reform",
+      "Centre for European Reform (CER)"
+    ],
+    "Doubs General Council": [
+      "Doubs General Council",
+      "Doubs département General Council"
+    ],
+    "European Investment Bank": [
+      "European Investment Bank",
+      "European Investment Bank (EIB)"
+    ],
+    "European People's Party": [
+      "European People's Party",
+      "European People's Party (EPP)",
+      "European Peoples Party"
+    ],
+    "European People's Party (EPP) group": [
+      "European People's Party (EPP) group",
+      "European People's Party Group"
+    ],
+    "European Policy Centre": [
+      "European Policy Centre",
+      "European Policy Centre (EPC)"
+    ],
+    "European Stability Mechanism": [
+      "European Stability Mechanism",
+      "European Stability Mechanism (ESM)"
+    ],
+    "Fondation européenne d'études progressistes (FEPS)": [
+      "Fondation européenne d'études progressistes (FEPS)",
+      "Foundation for European Progressive Studies (FEPS)"
+    ],
+    "Institute for Human Rights & Business (IHRB)": [
+      "Institute for Human Rights & Business (IHRB)",
+      "Institute for Human Rights and Business"
+    ],
+    "Institute of International Relations Clingendael": [
+      "Institute of International Relations Clingendael",
+      "Netherlands Institute of International Relations (Clingendael)"
+    ],
+    "International Crisis Group": [
+      "International Crisis Group",
+      "International Crisis Group (ICG)"
+    ],
+    "Movement for Political Modernisation and Reform": [
+      "Movement for Political Modernisation and Reform",
+      "Movement for Political Modernization and Reform"
+    ],
+    "OSCE Parliamentary Assembly": [
+      "OSCE Parliamentary Assembly",
+      "OSCE's Parliamentary Assembly"
+    ],
+    "Office for Democratic Institutions and Human Rights": [
+      "Office for Democratic Institutions and Human Rights",
+      "Office for Democratic Institutions and Human Rights (ODIHR)"
+    ],
+    "Radio Netherlands": [
+      "Radio Netherlands",
+      "Radio Netherlands Worldwide"
+    ],
+    "Socialist International Women": [
+      "Socialist International Women",
+      "Socialist International Women (SIW)"
+    ],
+    "UNIZO": [
+      "UNIZO",
+      "Unizo"
+    ],
+    "Women Political Leaders Global Forum": [
+      "Women Political Leaders Global Forum",
+      "Women Political Leaders Global Forum (WPL)"
+    ],
+    "World Economic Forum": [
+      "World Economic Forum",
+      "World Economic Forum (WEF)"
+    ]
+  },
+  "llm_decisions": [
+    {
+      "raw_a": "Office for Democratic Institutions and Human Rights",
+      "raw_b": "Office for Democratic Institutions and Human Rights (ODIHR)",
+      "similarity": 0.927,
+      "verdict": "SAME",
+      "reason": "Both refer to the same OSCE office, with ODIHR being its acronym.",
+      "evidence_a": [
+        "He is a former director of the Office for Democratic Institutions and Human Rights within the Organization for Security and Co-operation in Europe."
+      ],
+      "evidence_b": [
+        "Lenarčič then moved to Warsaw as Director of the OSCE's Office for Democratic Institutions and Human Rights (ODIHR) until 2014."
+      ],
+      "merged_into": "Office for Democratic Institutions and Human Rights"
+    },
+    {
+      "raw_a": "Women Political Leaders Global Forum",
+      "raw_b": "Women Political Leaders Global Forum (WPL)",
+      "similarity": 0.923,
+      "verdict": "SAME",
+      "reason": "Both refer to the same organization, with \"WPL\" being the acronym for \"Women Political Leaders Global Forum.\"",
+      "evidence_a": [
+        "Other activities\n\n\nEuropean Union institutions\nEuropean Investment Bank (EIB), member of the Appointment Advisory Committee (since 2017)\n\n\nNon-profit organizations\nWorld Economic Forum (WEF), Member o"
+      ],
+      "evidence_b": [
+        "Other activities\n\n\nInternational organizations\nEuropean Central Bank (ECB), ex officio member of the governing council\nEuropean Systemic Risk Board (ESRB), ex officio member\nInternational Monetary Fun",
+        "Other activities\n\n\nCorporate boards\nDanone, Member of the Mission Committee (since 2020)\nBosch, Member of the International Advisory Committee (since 2015)\n\n\nNon-profit organizations\nAfrica Europe Fou"
+      ],
+      "merged_into": "Women Political Leaders Global Forum"
+    },
+    {
+      "raw_a": "Hungarian Association of Political Science",
+      "raw_b": "Hungarian Association of Political Scientists",
+      "similarity": 0.92,
+      "verdict": "DIFFERENT",
+      "reason": "The names differ in the key word \"Science\" vs \"Scientists,\" indicating one is an academic discipline association and the other a professional membership organization.",
+      "evidence_a": [
+        "Career\n1990–1992: Municipal Court, City of Veszprém – Tribunal Clerk;\n1992–1993: Regional Assembly of Veszprém County – Research Fellow;\n1993–1997: University of Economics, Budapest, Department of Pol"
+      ],
+      "evidence_b": [
+        "Career\n1990–1992: Municipal Court, City of Veszprém – Tribunal Clerk;\n1992–1993: Regional Assembly of Veszprém County – Research Fellow;\n1993–1997: University of Economics, Budapest, Department of Pol"
+      ]
+    },
+    {
+      "raw_a": "EU-Kazakhstan Parliamentary Cooperation Committee",
+      "raw_b": "EU-Kyrgyzstan Parliamentary Cooperation Committee",
+      "similarity": 0.918,
+      "verdict": "DIFFERENT",
+      "reason": "The names refer to distinct bilateral parliamentary cooperation committees with different countries (Kazakhstan vs. Kyrgyzstan).",
+      "evidence_a": [
+        "He is also a Substitute at Committee on Economic and Monetary Affairs, Committee on Budgetary Control and delegation to the EU-Kazakhstan, EU-Kyrgyzstan, and EU-Uzbekistan Parliamentary Cooperation Co"
+      ],
+      "evidence_b": [
+        "He is also a Substitute at Committee on Economic and Monetary Affairs, Committee on Budgetary Control and delegation to the EU-Kazakhstan, EU-Kyrgyzstan, and EU-Uzbekistan Parliamentary Cooperation Co"
+      ]
+    },
+    {
+      "raw_a": "African Development Bank (AfDB)",
+      "raw_b": "Asian Development Bank (ADB)",
+      "similarity": 0.915,
+      "verdict": "DIFFERENT",
+      "reason": "The African Development Bank (AfDB) and the Asian Development Bank (ADB) are distinct regional development banks serving different continents.",
+      "evidence_a": [
+        "Other activities\nAfrican Development Bank (AfDB), ex-officio member of the Board of Governors (2004–2009)\nAsian Development Bank (ADB), ex-officio member of the Board of Governors (2004–2009)\nEuropean"
+      ],
+      "evidence_b": [
+        "Other activities\n\n\nEuropean Union organizations\nEuropean Investment Bank (EIB), Ex-Officio Member of the Board of Governors (since 2021)\nEuropean Stability Mechanism (ESM), Member of the Board of Gove",
+        "Other activities\nAfrican Development Bank (AfDB), ex-officio member of the Board of Governors (2004–2009)\nAsian Development Bank (ADB), ex-officio member of the Board of Governors (2004–2009)\nEuropean"
+      ]
+    },
+    {
+      "raw_a": "Campaign for Nuclear Disarmament",
+      "raw_b": "Campaign for Nuclear Disarmament (CND)",
+      "similarity": 0.914,
+      "verdict": "SAME",
+      "reason": "Both refer to the same anti-nuclear advocacy group, with \"Campaign for Nuclear Disarmament (CND)\" being the full name and acronym.",
+      "evidence_a": [
+        "He also participated in Campaign for Nuclear Disarmament activities and anti-apartheid protests."
+      ],
+      "evidence_b": [
+        "Career\n\n\nUnited Kingdom\nBetween 1977 and 1983, Ashton worked for the Campaign for Nuclear Disarmament (CND) as an administrator and in 1982 was elected as its national treasurer and subsequently as on"
+      ],
+      "merged_into": "Campaign for Nuclear Disarmament"
+    },
+    {
+      "raw_a": "Alliance of Liberals and Democrats for Europe (ALDE)",
+      "raw_b": "Alliance of Liberals and Democrats for Europe Party",
+      "similarity": 0.913,
+      "verdict": "DIFFERENT",
+      "reason": "The first refers to a political group in the European Parliament, while the second is a European political party; they are distinct entities.",
+      "evidence_a": [
+        "He participated as an independent in the European Parliament political group Alliance of Liberals and Democrats for Europe (ALDE)."
+      ],
+      "evidence_b": [
+        "Led by Margrethe Vestager, Bulc was among the seven-strong \"Team Europe\" that the centrist Alliance of Liberals and Democrats for Europe Party picked to spearhead its pro-EU, liberal campaign ahead of"
+      ]
+    },
+    {
+      "raw_a": "Centre for European Policy Studies",
+      "raw_b": "Centre for European Policy Studies (CEPS)",
+      "similarity": 0.907,
+      "verdict": "SAME",
+      "reason": "\"Centre for European Policy Studies\" and \"Centre for European Policy Studies (CEPS)\" are the same organization, with CEPS being its standard acronym.",
+      "evidence_a": [
+        "Since 2023, she has been part of the Centre for European Policy Studies/Heinrich Böll Foundation High-Level Group on Bolstering EU Democracy, chaired by Kalypso Nicolaïdis."
+      ],
+      "evidence_b": [
+        "Other activities\nCentre for European Policy Studies (CEPS), Member of the Board of Directors\nEuropean Council on Foreign Relations (ECFR), Member\nEuropean Policy Centre (EPC), Member of the Strategic ",
+        "Other activities\n\n\nInternational organizations\nEuropean Bank for Reconstruction and Development (EBRD), Ex-Officio Member of the Board of Governors (2004–2010)\n\n\nNon-profit organizations\nAristide Merl"
+      ],
+      "merged_into": "Centre for European Policy Studies"
+    },
+    {
+      "raw_a": "European People's Party (EPP)",
+      "raw_b": "European People's Party (EPP) group",
+      "similarity": 0.906,
+      "verdict": "DIFFERENT",
+      "reason": "Organisation A refers to the European People's Party as a European political party, while Organisation B refers specifically to its parliamentary group in the European Parliament.",
+      "evidence_a": [
+        "Wojciechowski was member of United People's Party, a Member of the Bureau of the European People's Party (EPP) from 2004 to 2006 and was vice-chair of the European Parliament's Committee on Agricultur",
+        "Katainen was elected vice president of the European People's Party (EPP) for a three-year term in 2006 and won the second election in 2009."
+      ],
+      "evidence_b": [
+        "In the European Parliament she served as vice-president of the European People's Party (EPP) group, vice-president of EPP Women and head of the Bulgarian EPP delegation."
+      ]
+    },
+    {
+      "raw_a": "European People's Party (EPP) group",
+      "raw_b": "European People's Party Group",
+      "similarity": 0.906,
+      "verdict": "SAME",
+      "reason": "Both refer to the political group in the European Parliament, with \"European People's Party (EPP) group\" and \"European People's Party Group\" being the same entity.",
+      "evidence_a": [
+        "In the European Parliament she served as vice-president of the European People's Party (EPP) group, vice-president of EPP Women and head of the Bulgarian EPP delegation."
+      ],
+      "evidence_b": [
+        "On 17 May 2015, Fitto left the new Forza Italia, which he had joined when it was re-founded in 2013, and the European People's Party Group to join the European Conservatives and Reformists."
+      ],
+      "merged_into": "European People's Party (EPP) group"
+    },
+    {
+      "raw_a": "Socialist International Women",
+      "raw_b": "Socialist International Women (SIW)",
+      "similarity": 0.906,
+      "verdict": "SAME",
+      "reason": "Both refer to the same organization, with \"Socialist International Women\" being the full name and \"SIW\" its acronym.",
+      "evidence_a": [
+        "Gradin was president of Socialist International Women and worked against the trafficking of women."
+      ],
+      "evidence_b": [
+        "She was vice-president of both OSCE's Parliamentary Assembly and Socialist International Women (SIW) from 1992 to 1994."
+      ],
+      "merged_into": "Socialist International Women"
+    },
+    {
+      "raw_a": "EPP Women's association",
+      "raw_b": "Women's Association",
+      "similarity": 0.905,
+      "verdict": "DIFFERENT",
+      "reason": "The EPP Women's association is affiliated with the European People's Party, while the Women's Association likely refers to a Swedish Social Democratic women's organization.",
+      "evidence_a": [
+        "In October 2012, she was elected vice-president of the EPP Women's association and in June 2019 vice-president of the EPP's EU parliament group."
+      ],
+      "evidence_b": [
+        "She was chairman of the Stockholm City Social Democratic Women's District 1968–82 and Vice Chairman of the Women's Association from 1975."
+      ]
+    },
+    {
+      "raw_a": "European Stability Mechanism",
+      "raw_b": "European Stability Mechanism (ESM)",
+      "similarity": 0.903,
+      "verdict": "SAME",
+      "reason": "Both refer to the same organization, with \"European Stability Mechanism\" being the full name and \"ESM\" its standard acronym.",
+      "evidence_a": [
+        "Other activities\n\n\nInternational organizations\nAfrican Development Bank, ex-officio member of the board of governors (2013–2015)\nEuropean Stability Mechanism, ex-officio member of the board of governo"
+      ],
+      "evidence_b": [
+        "Other activities\n\n\nEuropean Union organizations\nEuropean Investment Bank (EIB), Ex-Officio Member of the Board of Governors (2011–2014)\nEuropean Stability Mechanism (ESM), Member of the Board of Gover",
+        "Other activities\n\n\nEuropean Union organizations\nEuropean Investment Bank (EIB), Ex-Officio Member of the Board of Governors (since 2021)\nEuropean Stability Mechanism (ESM), Member of the Board of Gove"
+      ],
+      "merged_into": "European Stability Mechanism"
+    },
+    {
+      "raw_a": "EU-Kazakhstan Parliamentary Cooperation Committee",
+      "raw_b": "EU-Uzbekistan Parliamentary Cooperation Committee",
+      "similarity": 0.898,
+      "verdict": "DIFFERENT",
+      "reason": "The names refer to distinct bilateral parliamentary cooperation committees with different countries (Kazakhstan vs. Uzbekistan).",
+      "evidence_a": [
+        "He is also a Substitute at Committee on Economic and Monetary Affairs, Committee on Budgetary Control and delegation to the EU-Kazakhstan, EU-Kyrgyzstan, and EU-Uzbekistan Parliamentary Cooperation Co"
+      ],
+      "evidence_b": [
+        "He is also a Substitute at Committee on Economic and Monetary Affairs, Committee on Budgetary Control and delegation to the EU-Kazakhstan, EU-Kyrgyzstan, and EU-Uzbekistan Parliamentary Cooperation Co"
+      ]
+    },
+    {
+      "raw_a": "EU-Kyrgyzstan Parliamentary Cooperation Committee",
+      "raw_b": "EU-Uzbekistan Parliamentary Cooperation Committee",
+      "similarity": 0.898,
+      "verdict": "DIFFERENT",
+      "reason": "The two names refer to distinct parliamentary cooperation committees with different partner countries (Kyrgyzstan vs. Uzbekistan).",
+      "evidence_a": [
+        "He is also a Substitute at Committee on Economic and Monetary Affairs, Committee on Budgetary Control and delegation to the EU-Kazakhstan, EU-Kyrgyzstan, and EU-Uzbekistan Parliamentary Cooperation Co"
+      ],
+      "evidence_b": [
+        "He is also a Substitute at Committee on Economic and Monetary Affairs, Committee on Budgetary Control and delegation to the EU-Kazakhstan, EU-Kyrgyzstan, and EU-Uzbekistan Parliamentary Cooperation Co"
+      ]
+    },
+    {
+      "raw_a": "Centre for European Reform",
+      "raw_b": "Centre for European Reform (CER)",
+      "similarity": 0.897,
+      "verdict": "SAME",
+      "reason": "Both refer to the same think tank, with \"Centre for European Reform (CER)\" being the full name and its standard acronym.",
+      "evidence_a": [
+        "Other activities\n\n\nInternational organizations\nEuropean Bank for Reconstruction and Development (EBRD), Ex-Officio Member of the Board of Governors (2004–2010)\n\n\nNon-profit organizations\nAristide Merl"
+      ],
+      "evidence_b": [
+        "Other activities include: \n\nCenter for Economic and Policy Research (CEPR), Distinguished Fellow (since 2019)\nCentre for European Reform (CER), Member of the Advisory Board\nEuropean Investment Bank (E",
+        "Other activities\n\n\nCorporate boards\nDanone, Member of the Mission Committee (since 2020)\nBosch, Member of the International Advisory Committee (since 2015)\n\n\nNon-profit organizations\nAfrica Europe Fou"
+      ],
+      "merged_into": "Centre for European Reform"
+    },
+    {
+      "raw_a": "International Crisis Group",
+      "raw_b": "International Crisis Group (ICG)",
+      "similarity": 0.897,
+      "verdict": "SAME",
+      "reason": "Both refer to the same organization, with \"International Crisis Group (ICG)\" being the full name and its common acronym.",
+      "evidence_a": [
+        "He is the co-chair of International Crisis Group, overseeing many international operations.",
+        "Other activities\n\n\nCorporate boards\nEdberg Dialog, Member of the Board\nIca Gruppen, Member of the board of directors (2013–2014)\n\n\nNon-profit organizations\nCentre for Humanitarian Dialogue (HD), Membe"
+      ],
+      "evidence_b": [
+        "Other activities\nAfrica Europe Foundation (AEF), member of the High-Level Group of Personalities on Africa-Europe Relations (since 2020)\nFriends of Europe, member of the Board of Trustees (since 2020)"
+      ],
+      "merged_into": "International Crisis Group"
+    },
+    {
+      "raw_a": "European Investment Bank",
+      "raw_b": "European Investment Bank (EIB)",
+      "similarity": 0.889,
+      "verdict": "SAME",
+      "reason": "Both refer to the same institution, the European Investment Bank, with \"EIB\" being its standard acronym.",
+      "evidence_a": [
+        "Other activities\n\n\nEuropean Union institutions\nEuropean Investment Bank (EIB), member of the Appointment Advisory Committee (since 2017)\n\n\nNon-profit organizations\nWorld Economic Forum (WEF), Member o",
+        "Other activities\n\n\nInternational organizations\nAfrican Development Bank, ex-officio member of the board of governors (2013–2015)\nEuropean Stability Mechanism, ex-officio member of the board of governo"
+      ],
+      "evidence_b": [
+        "Other activities\nEuropean Investment Bank (EIB), Member of the Appointment Advisory Committee (since 2025)\n\n\nHonours\n – Grand Decoration of Honour in Gold with Sash for Services to the Republic of Aus",
+        "Other activities\n\n\nEuropean Union organizations\nEuropean Investment Bank (EIB), Ex-Officio Member of the Board of Governors (2011–2014)\nEuropean Stability Mechanism (ESM), Member of the Board of Gover"
+      ],
+      "merged_into": "European Investment Bank"
+    },
+    {
+      "raw_a": "Centre for European Policy Studies",
+      "raw_b": "Centre for European Studies",
+      "similarity": 0.885,
+      "verdict": "DIFFERENT",
+      "reason": "The \"Centre for European Policy Studies\" is a Brussels-based think tank, while the \"Centre for European Studies\" is a university department at the University of Helsinki.",
+      "evidence_a": [
+        "Since 2023, she has been part of the Centre for European Policy Studies/Heinrich Böll Foundation High-Level Group on Bolstering EU Democracy, chaired by Kalypso Nicolaïdis."
+      ],
+      "evidence_b": [
+        "In 2002, he left European politics for the University of Helsinki, where he led the Centre for European Studies."
+      ]
+    },
+    {
+      "raw_a": "European People's Party",
+      "raw_b": "European People's Party (EPP)",
+      "similarity": 0.885,
+      "verdict": "SAME",
+      "reason": "",
+      "evidence_a": [
+        "Since 2002 (the year of the Estoril Congress), Tajani has been one of 10 vice-presidents of the European People's Party.",
+        "Early career\n1979: Degree in law at the Catholic University of Leuven (KUL)\nAssistant in the faculty of law, Catholic University of Leuven\nLegal assistant in the office of the State Secretary for Heal"
+      ],
+      "evidence_b": [
+        "Wojciechowski was member of United People's Party, a Member of the Bureau of the European People's Party (EPP) from 2004 to 2006 and was vice-chair of the European Parliament's Committee on Agricultur",
+        "Katainen was elected vice president of the European People's Party (EPP) for a three-year term in 2006 and won the second election in 2009."
+      ],
+      "merged_into": "European People's Party"
+    },
+    {
+      "raw_a": "European People's Party",
+      "raw_b": "European People's Party Group",
+      "similarity": 0.885,
+      "verdict": "DIFFERENT",
+      "reason": "The European People's Party is a European political party, while the European People's Party Group is its parliamentary group in the European Parliament.",
+      "evidence_a": [
+        "Since 2002 (the year of the Estoril Congress), Tajani has been one of 10 vice-presidents of the European People's Party.",
+        "Early career\n1979: Degree in law at the Catholic University of Leuven (KUL)\nAssistant in the faculty of law, Catholic University of Leuven\nLegal assistant in the office of the State Secretary for Heal"
+      ],
+      "evidence_b": [
+        "On 17 May 2015, Fitto left the new Forza Italia, which he had joined when it was re-founded in 2013, and the European People's Party Group to join the European Conservatives and Reformists."
+      ]
+    },
+    {
+      "raw_a": "Socialist International",
+      "raw_b": "Socialist International Women",
+      "similarity": 0.885,
+      "verdict": "DIFFERENT",
+      "reason": "\"Socialist International\" is the global social democratic political organization, while \"Socialist International Women\" is its affiliated women's network, a distinct subsidiary organization.",
+      "evidence_a": [
+        "Along with his mandate in the European Parliament, he served as International Relations Secretary and PASOK Representative at the Socialist International, from 1988 to 1994.",
+        "Education\n1962: Degree in physics from the Free University of Brussels\n1976: Postgraduate certificate in environmental studies\n1980: First degree in philosophy at the Free University of Brussels\n\n\nCar"
+      ],
+      "evidence_b": [
+        "Gradin was president of Socialist International Women and worked against the trafficking of women."
+      ]
+    },
+    {
+      "raw_a": "European Policy Centre",
+      "raw_b": "European Policy Centre (EPC)",
+      "similarity": 0.88,
+      "verdict": "SAME",
+      "reason": "Both refer to the same Brussels-based think tank, with \"European Policy Centre\" and \"EPC\" used interchangeably.",
+      "evidence_a": [
+        "Other activities\n\n\nCorporate boards\nBanco Caixa Geral Angola (BCGA), Chairman of the Shareholders' General Meeting\nÁreas Portugal, chairman of the Board\nSiemens Portugal, Non-Executive Director\nBrisa,"
+      ],
+      "evidence_b": [
+        "Other activities\n\n\nInternational organizations\nEuropean Investment Bank (EIB), Member of the Climate and Environment Advisory Council (since 2021)\n\n\nCorporate boards\nDanfoss Group, Member of the Board",
+        "Other activities\nCentre for European Policy Studies (CEPS), Member of the Board of Directors\nEuropean Council on Foreign Relations (ECFR), Member\nEuropean Policy Centre (EPC), Member of the Strategic "
+      ],
+      "merged_into": "European Policy Centre"
+    },
+    {
+      "raw_a": "African Development Bank",
+      "raw_b": "African Development Bank (AfDB)",
+      "similarity": 0.873,
+      "verdict": "SAME",
+      "reason": "Both refer to the same institution, with \"African Development Bank (AfDB)\" simply providing the acronym for the full name.",
+      "evidence_a": [
+        "Other activities\n\n\nInternational organizations\nAfrican Development Bank, ex-officio member of the board of governors (2013–2015)\nEuropean Stability Mechanism, ex-officio member of the board of governo"
+      ],
+      "evidence_b": [
+        "Other activities\nAfrican Development Bank (AfDB), ex-officio member of the Board of Governors (2004–2009)\nAsian Development Bank (ADB), ex-officio member of the Board of Governors (2004–2009)\nEuropean"
+      ],
+      "merged_into": "African Development Bank"
+    },
+    {
+      "raw_a": "Institute of International Relations Clingendael",
+      "raw_b": "Netherlands Institute of International Relations (Clingendael)",
+      "similarity": 0.873,
+      "verdict": "SAME",
+      "reason": "Both refer to the same organization, with \"Institute of International Relations Clingendael\" being a shortened form of the full name \"Netherlands Institute of International Relations (Clingendael)\".",
+      "evidence_a": [
+        "Van den Broek retired after spending 23 years in national politics and became active in the private sector and public sector and occupied numerous seats as a corporate director and nonprofit director "
+      ],
+      "evidence_b": [
+        "Van den Broek was president of the Netherlands Institute of International Relations (Clingendael) and also of Radio Netherlands."
+      ],
+      "merged_into": "Institute of International Relations Clingendael"
+    },
+    {
+      "raw_a": "World Economic Forum",
+      "raw_b": "World Economic Forum (WEF)",
+      "similarity": 0.87,
+      "verdict": "SAME",
+      "reason": "Both refer to the same organization, with \"World Economic Forum\" and \"World Economic Forum (WEF)\" being the full name and its acronym.",
+      "evidence_a": [
+        "Other activities\n\n\nEuropean Union institutions\nEuropean Investment Bank (EIB), member of the Appointment Advisory Committee (since 2017)\n\n\nNon-profit organizations\nWorld Economic Forum (WEF), Member o",
+        "International work\nRibera is also a member of several advisory councils, including the Global Leadership Council of the United Nations Sustainable Development Solutions Network (UNSDSN), the global cl"
+      ],
+      "evidence_b": [
+        "Other activities\n\n\nInternational organizations\nEuropean Central Bank (ECB), ex officio member of the governing council\nEuropean Systemic Risk Board (ESRB), ex officio member\nInternational Monetary Fun",
+        "Other activities\n\n\nInternational organizations\nEuropean Central Bank (ECB), ex officio member of the governing council\nEuropean Systemic Risk Board (ESRB), ex officio member\nInternational Monetary Fun"
+      ],
+      "merged_into": "World Economic Forum"
+    },
+    {
+      "raw_a": "Institute for Human Rights & Business (IHRB)",
+      "raw_b": "Institute for Human Rights and Business",
+      "similarity": 0.867,
+      "verdict": "SAME",
+      "reason": "Both refer to the same organization, with \"IHRB\" being the acronym for \"Institute for Human Rights and Business.\"",
+      "evidence_a": [
+        "Other activities\n\n\nCorporate boards\nEdberg Dialog, Member of the Board\nIca Gruppen, Member of the board of directors (2013–2014)\n\n\nNon-profit organizations\nCentre for Humanitarian Dialogue (HD), Membe"
+      ],
+      "evidence_b": [
+        "Other activities\n\n\nCorporate boards\nEdberg Dialog, Member of the Board\nIca Gruppen, Member of the board of directors (2013–2014)\n\n\nNon-profit organizations\nCentre for Humanitarian Dialogue (HD), Membe"
+      ],
+      "merged_into": "Institute for Human Rights & Business (IHRB)"
+    },
+    {
+      "raw_a": "LEAD International",
+      "raw_b": "MEDEF International",
+      "similarity": 0.865,
+      "verdict": "DIFFERENT",
+      "reason": "LEAD International and MEDEF International are distinct organizations with different names and purposes.",
+      "evidence_a": [
+        "Other activities\n\n\nEuropean Union institutions\nEuropean Investment Bank (EIB), member of the Appointment Advisory Committee (since 2017)\n\n\nNon-profit organizations\nWorld Economic Forum (WEF), Member o"
+      ],
+      "evidence_b": [
+        "Other activities\n\n\nCorporate boards\nVTB Bank, Independent Member of the Supervisory Council (since 2013)\nAutoroutes du Sud de la France (ASF), Member of the Board of Directors\nSolvay, Member of the Bo"
+      ]
+    },
+    {
+      "raw_a": "OSCE Parliamentary Assembly",
+      "raw_b": "Euronest Parliamentary Assembly",
+      "similarity": 0.862,
+      "verdict": "DIFFERENT",
+      "reason": "The OSCE Parliamentary Assembly and the Euronest Parliamentary Assembly are distinct organizations with different parent bodies (OSCE vs. EU/Eastern Partnership).",
+      "evidence_a": [
+        "Between 2006 and 2013, Stylianides also served as member of the OSCE Parliamentary Assembly (2006–2011).",
+        "He was elected Member of the Bureau of the OSCE Parliamentary Assembly in 2012."
+      ],
+      "evidence_b": [
+        "In addition to his committee assignments, Kubilius was part of the parliament's delegations to the Euronest Parliamentary Assembly and to the EU-Ukraine Parliamentary Association Committee."
+      ]
+    },
+    {
+      "raw_a": "European People's Party (EPP)",
+      "raw_b": "European People's Party Group",
+      "similarity": 0.862,
+      "verdict": "DIFFERENT",
+      "reason": "The European People's Party (EPP) is a European political party, while the European People's Party Group is its parliamentary group in the European Parliament.",
+      "evidence_a": [
+        "Wojciechowski was member of United People's Party, a Member of the Bureau of the European People's Party (EPP) from 2004 to 2006 and was vice-chair of the European Parliament's Committee on Agricultur",
+        "Katainen was elected vice president of the European People's Party (EPP) for a three-year term in 2006 and won the second election in 2009."
+      ],
+      "evidence_b": [
+        "On 17 May 2015, Fitto left the new Forza Italia, which he had joined when it was re-founded in 2013, and the European People's Party Group to join the European Conservatives and Reformists."
+      ]
+    },
+    {
+      "raw_a": "Conservatives and Reformists",
+      "raw_b": "European Conservatives and Reformists",
+      "similarity": 0.862,
+      "verdict": "DIFFERENT",
+      "reason": "\"Conservatives and Reformists\" likely refers to a national or generic entity, while \"European Conservatives and Reformists\" is the specific European Parliament political group.",
+      "evidence_a": [
+        "From 2015 to 2017, Fitto was a member of Conservatives and Reformists (CoR)."
+      ],
+      "evidence_b": [
+        "On 17 May 2015, Fitto left the new Forza Italia, which he had joined when it was re-founded in 2013, and the European People's Party Group to join the European Conservatives and Reformists."
+      ]
+    },
+    {
+      "raw_a": "IFRS Foundation",
+      "raw_b": "KR Foundation",
+      "similarity": 0.857,
+      "verdict": "DIFFERENT",
+      "reason": "The IFRS Foundation and KR Foundation are distinct organizations with no indicated relationship.",
+      "evidence_a": [
+        "Since 2018 he has been chair of the Trustees of the IFRS Foundation and Chairman of the Board of the Helsinki Graduate School of Economics at University of Helsinki, and since 2020 chairman of Bruegel"
+      ],
+      "evidence_b": [
+        "Other activities\n\n\nInternational organizations\nEuropean Investment Bank (EIB), Member of the Climate and Environment Advisory Council (since 2021)\n\n\nCorporate boards\nDanfoss Group, Member of the Board"
+      ]
+    },
+    {
+      "raw_a": "KR Foundation",
+      "raw_b": "Vick Foundation",
+      "similarity": 0.857,
+      "verdict": "DIFFERENT",
+      "reason": "The KR Foundation and Vick Foundation are distinct entities with no evidence linking them as the same organization.",
+      "evidence_a": [
+        "Other activities\n\n\nInternational organizations\nEuropean Investment Bank (EIB), Member of the Climate and Environment Advisory Council (since 2021)\n\n\nCorporate boards\nDanfoss Group, Member of the Board"
+      ],
+      "evidence_b": [
+        "Other activities\nEuropean Council on Foreign Relations (ECFR), Member\nVick Foundation, Member of the Jury for the 2008 Bulgarian Novel of the Year\n\n\nPolitical positions\nIn October 2013, Kuneva announc"
+      ]
+    },
+    {
+      "raw_a": "Women Economic Forum",
+      "raw_b": "World Economic Forum",
+      "similarity": 0.85,
+      "verdict": "DIFFERENT",
+      "reason": "\"Women Economic Forum\" and \"World Economic Forum\" are distinct organizations with different names and focuses.",
+      "evidence_a": [
+        "Additionally, she is a member of the European Council on Foreign Relations, an advisory board member of the Women Economic Forum, and a patron of the Model European Union Tallinn."
+      ],
+      "evidence_b": [
+        "Other activities\n\n\nEuropean Union institutions\nEuropean Investment Bank (EIB), member of the Appointment Advisory Committee (since 2017)\n\n\nNon-profit organizations\nWorld Economic Forum (WEF), Member o",
+        "International work\nRibera is also a member of several advisory councils, including the Global Leadership Council of the United Nations Sustainable Development Solutions Network (UNSDSN), the global cl"
+      ]
+    },
+    {
+      "raw_a": "ACP-EU Joint Parliamentary Assembly",
+      "raw_b": "Euronest Parliamentary Assembly",
+      "similarity": 0.848,
+      "verdict": "DIFFERENT",
+      "reason": "The ACP-EU Joint Parliamentary Assembly involves EU and African, Caribbean, and Pacific states, while the Euronest Parliamentary Assembly involves EU and Eastern Partnership countries.",
+      "evidence_a": [
+        "EU foreign policy\nFrom 2009 Mariya Gabriel was an active member of the ACP-EU Joint Parliamentary Assembly, which brings together parliamentarians from the African, Caribbean and Pacific Group of Stat",
+        "Member of the European Parliament, 2004–2009\nAs Member of the European Parliament, Dombrovskis was a member of three European Parliament Committees: Committee on Budgets, Delegation to the ACP-EU Join"
+      ],
+      "evidence_b": [
+        "In addition to his committee assignments, Kubilius was part of the parliament's delegations to the Euronest Parliamentary Assembly and to the EU-Ukraine Parliamentary Association Committee."
+      ]
+    },
+    {
+      "raw_a": "Center for European Policy Analysis (CEPA)",
+      "raw_b": "Centre for European Policy Studies (CEPS)",
+      "similarity": 0.843,
+      "verdict": "DIFFERENT",
+      "reason": "CEPA is a US-based think tank focused on transatlantic policy, while CEPS is a Brussels-based EU policy think tank; they are distinct organizations with different names and acronyms.",
+      "evidence_a": [
+        "In 2013–2014, he gained international experience as an Assistant Project Manager at the Center for European Policy Analysis (CEPA) in Washington, D.C., where he worked on transatlantic policy initiati"
+      ],
+      "evidence_b": [
+        "Other activities\nCentre for European Policy Studies (CEPS), Member of the Board of Directors\nEuropean Council on Foreign Relations (ECFR), Member\nEuropean Policy Centre (EPC), Member of the Strategic ",
+        "Other activities\n\n\nInternational organizations\nEuropean Bank for Reconstruction and Development (EBRD), Ex-Officio Member of the Board of Governors (2004–2010)\n\n\nNon-profit organizations\nAristide Merl"
+      ]
+    },
+    {
+      "raw_a": "American Bar Association",
+      "raw_b": "Estonian Bar Association",
+      "similarity": 0.833,
+      "verdict": "DIFFERENT",
+      "reason": "The American Bar Association and the Estonian Bar Association are distinct national bar associations for different countries.",
+      "evidence_a": [
+        "Memberships\nAmerican Bar Association (associate member)\nHarvard Law School Association of Europe\nInternational Bar Association\nCyprus Red Cross Society\n\n\nReferences\n\n\nExternal links\nOfficial website"
+      ],
+      "evidence_b": [
+        "Kallas became a member of the Estonian Bar Association in 1999, and an attorney-at-law in 2002.",
+        "In 2011, she was placed on inactive status as a member of the Estonian Bar Association."
+      ]
+    },
+    {
+      "raw_a": "British Council",
+      "raw_b": "British Youth Council",
+      "similarity": 0.833,
+      "verdict": "DIFFERENT",
+      "reason": "\"British Council\" and \"British Youth Council\" are distinct organizations with different names and purposes.",
+      "evidence_a": [
+        "Until the summer of 2009, he was also the chairman of the British Council and the president of Cardiff University."
+      ],
+      "evidence_b": [
+        "Early career\nMandelson worked in the Economic Department of the Trades Union Congress between 1977 and 1978; from 1978 to 1980, he was Chairman of the British Youth Council."
+      ]
+    },
+    {
+      "raw_a": "FOREF Europe",
+      "raw_b": "Notre Europe",
+      "similarity": 0.833,
+      "verdict": "DIFFERENT",
+      "reason": "FOREF Europe is linked to the Unification Church, while Notre Europe is a Paris-based think tank founded by Jacques Delors.",
+      "evidence_a": [
+        "In 2025, Figeľ became chairman of the organization FOREF Europe, which is also closely linked to the Unification Church."
+      ],
+      "evidence_b": [
+        "Vitorino was the President of Notre Europe, the European think tank founded by Jacques Delors, from 2011 until 2016.",
+        "He is an adviser to the transatlantic think tank European Horizons, as well as the honorary president of the Paris-based think tank Notre Europe."
+      ]
+    },
+    {
+      "raw_a": "BBV Foundation",
+      "raw_b": "Vick Foundation",
+      "similarity": 0.828,
+      "verdict": "DIFFERENT",
+      "reason": "The BBV Foundation and Vick Foundation have no apparent connection in name, acronym, or context.",
+      "evidence_a": [
+        "He continued to be active in many fields, being appointed Head of the Institute for European Studies at the CEU San Pablo University Foundation, Vice-chair of the BBV Foundation (1996) and Doctor Hono"
+      ],
+      "evidence_b": [
+        "Other activities\nEuropean Council on Foreign Relations (ECFR), Member\nVick Foundation, Member of the Jury for the 2008 Bulgarian Novel of the Year\n\n\nPolitical positions\nIn October 2013, Kuneva announc"
+      ]
+    },
+    {
+      "raw_a": "African Development Bank (AfDB)",
+      "raw_b": "Inter-American Development Bank (IDB)",
+      "similarity": 0.824,
+      "verdict": "DIFFERENT",
+      "reason": "The African Development Bank (AfDB) and the Inter-American Development Bank (IDB) are distinct regional development banks serving different continents.",
+      "evidence_a": [
+        "Other activities\nAfrican Development Bank (AfDB), ex-officio member of the Board of Governors (2004–2009)\nAsian Development Bank (ADB), ex-officio member of the Board of Governors (2004–2009)\nEuropean"
+      ],
+      "evidence_b": [
+        "Other activities\n\n\nEuropean Union organizations\nEuropean Investment Bank (EIB), Ex-Officio Member of the Board of Governors (since 2021)\nEuropean Stability Mechanism (ESM), Member of the Board of Gove"
+      ]
+    },
+    {
+      "raw_a": "European Young Leader (EYL40)",
+      "raw_b": "European Young Leaders",
+      "similarity": 0.824,
+      "verdict": "DIFFERENT",
+      "reason": "\"European Young Leader (EYL40)\" is a specific network/program with a numeric designation, while \"European Young Leaders\" is a different organization (likely the Friends of Europe program).",
+      "evidence_a": [
+        "During her time in Parliament, she was also nominated as a European Young Leader (EYL40)."
+      ],
+      "evidence_b": [
+        "She is also a mentor of the European Liberal Youth, a member of the European Young Leaders, a MEP ambassor of Erasmus for Young Entrepreneurs, a member of the MEP Library Lovers Group, a political mem"
+      ]
+    },
+    {
+      "raw_a": "Chamber of Commerce and Industry",
+      "raw_b": "Franco-German Chamber of Commerce and Industry",
+      "similarity": 0.821,
+      "verdict": "DIFFERENT",
+      "reason": "The Franco-German Chamber of Commerce and Industry is a specific bilateral chamber, while \"Chamber of Commerce and Industry\" is a generic name for many local or national chambers.",
+      "evidence_a": [
+        "In 2000, she was appointed vice president of the Chamber of Commerce and Industry."
+      ],
+      "evidence_b": [
+        "This strategy was awarded the prize for Industrial cooperation by the Franco-German Chamber of Commerce and Industry."
+      ]
+    },
+    {
+      "raw_a": "International Bar Association",
+      "raw_b": "International Physicians' Association",
+      "similarity": 0.818,
+      "verdict": "DIFFERENT",
+      "reason": "The names refer to distinct professional associations for lawyers and physicians, respectively.",
+      "evidence_a": [
+        "Memberships\nAmerican Bar Association (associate member)\nHarvard Law School Association of Europe\nInternational Bar Association\nCyprus Red Cross Society\n\n\nReferences\n\n\nExternal links\nOfficial website"
+      ],
+      "evidence_b": [
+        "He was also a member of International Physicians' Association during 1998–2004."
+      ]
+    },
+    {
+      "raw_a": "BBV Foundation",
+      "raw_b": "KR Foundation",
+      "similarity": 0.815,
+      "verdict": "DIFFERENT",
+      "reason": "The BBV Foundation and KR Foundation have no apparent connection in name, acronym, or context.",
+      "evidence_a": [
+        "He continued to be active in many fields, being appointed Head of the Institute for European Studies at the CEU San Pablo University Foundation, Vice-chair of the BBV Foundation (1996) and Doctor Hono"
+      ],
+      "evidence_b": [
+        "Other activities\n\n\nInternational organizations\nEuropean Investment Bank (EIB), Member of the Climate and Environment Advisory Council (since 2021)\n\n\nCorporate boards\nDanfoss Group, Member of the Board"
+      ]
+    },
+    {
+      "raw_a": "Euro-Mediterranean Parliamentary Assembly",
+      "raw_b": "Union for the Mediterranean Parliamentary Assembly",
+      "similarity": 0.813,
+      "verdict": "DIFFERENT",
+      "reason": "The Euro-Mediterranean Parliamentary Assembly (EMPA) was the predecessor to the Union for the Mediterranean Parliamentary Assembly (UfM PA), which replaced it after a name change and restructuring.",
+      "evidence_a": [
+        "He represented the Hellenic Parliament in the Euro-Mediterranean Parliamentary Assembly from 2007 to 2009."
+      ],
+      "evidence_b": [
+        "Represented Cyprus at plenary sessions and committee meetings of the Union for the Mediterranean Parliamentary Assembly."
+      ]
+    },
+    {
+      "raw_a": "Leibniz Association",
+      "raw_b": "alumni association",
+      "similarity": 0.811,
+      "verdict": "DIFFERENT",
+      "reason": "The Leibniz Association is a specific German research organization, while \"alumni association\" is a generic term for any group of former members of an institution.",
+      "evidence_a": [
+        "Other activities\nLeibniz Association, Member of the Senate (since 2010)\nBeethoven Foundation, Chairwoman of the Board of Trustees (since 2004)\nFriedrich Ebert Foundation (FES), Member of the Board of "
+      ],
+      "evidence_b": [
+        "Critics questioned the independence of the commission that reviewed the thesis as von der Leyen personally knew its director from joint work for an alumni association."
+      ]
+    },
+    {
+      "raw_a": "European Movement",
+      "raw_b": "European Movement Germany",
+      "similarity": 0.81,
+      "verdict": "DIFFERENT",
+      "reason": "\"European Movement\" is the pan-European umbrella organization, while \"European Movement Germany\" is its national member branch.",
+      "evidence_a": [
+        "In 2007, Monti was one of the first supporters of the first European civic forum, États Généraux de l'Europe, initiated by European think tank EuropaNova and European Movement."
+      ],
+      "evidence_b": [
+        "Other activities\nEuropean Youth Parliament – Germany, Member of the Board of Trustees\nEuropean Movement Germany, Vice President\nSchwarzkopf Foundation, Member of the Board\nHeinrich Böll Foundation, Me",
+        "Other activities\nLeibniz Association, Member of the Senate (since 2010)\nBeethoven Foundation, Chairwoman of the Board of Trustees (since 2004)\nFriedrich Ebert Foundation (FES), Member of the Board of "
+      ]
+    },
+    {
+      "raw_a": "African Development Bank",
+      "raw_b": "Asian Development Bank (ADB)",
+      "similarity": 0.808,
+      "verdict": "DIFFERENT",
+      "reason": "One is the African Development Bank (AfDB) and the other is the Asian Development Bank (ADB), which are distinct institutions serving different continents.",
+      "evidence_a": [
+        "Other activities\n\n\nInternational organizations\nAfrican Development Bank, ex-officio member of the board of governors (2013–2015)\nEuropean Stability Mechanism, ex-officio member of the board of governo"
+      ],
+      "evidence_b": [
+        "Other activities\n\n\nEuropean Union organizations\nEuropean Investment Bank (EIB), Ex-Officio Member of the Board of Governors (since 2021)\nEuropean Stability Mechanism (ESM), Member of the Board of Gove",
+        "Other activities\nAfrican Development Bank (AfDB), ex-officio member of the Board of Governors (2004–2009)\nAsian Development Bank (ADB), ex-officio member of the Board of Governors (2004–2009)\nEuropean"
+      ]
+    },
+    {
+      "raw_a": "ACP-EU Joint Parliamentary Assembly",
+      "raw_b": "OSCE Parliamentary Assembly",
+      "similarity": 0.806,
+      "verdict": "DIFFERENT",
+      "reason": "The ACP-EU Joint Parliamentary Assembly involves EU and African, Caribbean, Pacific states, while the OSCE Parliamentary Assembly is a separate organization focused on security cooperation in Europe and Central Asia.",
+      "evidence_a": [
+        "EU foreign policy\nFrom 2009 Mariya Gabriel was an active member of the ACP-EU Joint Parliamentary Assembly, which brings together parliamentarians from the African, Caribbean and Pacific Group of Stat",
+        "Member of the European Parliament, 2004–2009\nAs Member of the European Parliament, Dombrovskis was a member of three European Parliament Committees: Committee on Budgets, Delegation to the ACP-EU Join"
+      ],
+      "evidence_b": [
+        "Between 2006 and 2013, Stylianides also served as member of the OSCE Parliamentary Assembly (2006–2011).",
+        "He was elected Member of the Bureau of the OSCE Parliamentary Assembly in 2012."
+      ]
+    },
+    {
+      "raw_a": "Euro-Mediterranean Parliamentary Assembly",
+      "raw_b": "Euronest Parliamentary Assembly",
+      "similarity": 0.806,
+      "verdict": "DIFFERENT",
+      "reason": "The Euro-Mediterranean Parliamentary Assembly involves EU and Mediterranean partners, while the Euronest Parliamentary Assembly focuses on EU and Eastern Partnership countries.",
+      "evidence_a": [
+        "He represented the Hellenic Parliament in the Euro-Mediterranean Parliamentary Assembly from 2007 to 2009."
+      ],
+      "evidence_b": [
+        "In addition to his committee assignments, Kubilius was part of the parliament's delegations to the Euronest Parliamentary Assembly and to the EU-Ukraine Parliamentary Association Committee."
+      ]
+    },
+    {
+      "raw_a": "Asian Development Bank (ADB)",
+      "raw_b": "Inter-American Development Bank (IDB)",
+      "similarity": 0.8,
+      "verdict": "DIFFERENT",
+      "reason": "The Asian Development Bank (ADB) and the Inter-American Development Bank (IDB) are distinct multilateral development banks serving different regions (Asia vs. the Americas).",
+      "evidence_a": [
+        "Other activities\n\n\nEuropean Union organizations\nEuropean Investment Bank (EIB), Ex-Officio Member of the Board of Governors (since 2021)\nEuropean Stability Mechanism (ESM), Member of the Board of Gove",
+        "Other activities\nAfrican Development Bank (AfDB), ex-officio member of the Board of Governors (2004–2009)\nAsian Development Bank (ADB), ex-officio member of the Board of Governors (2004–2009)\nEuropean"
+      ],
+      "evidence_b": [
+        "Other activities\n\n\nEuropean Union organizations\nEuropean Investment Bank (EIB), Ex-Officio Member of the Board of Governors (since 2021)\nEuropean Stability Mechanism (ESM), Member of the Board of Gove"
+      ]
+    },
+    {
+      "raw_a": "EU-Kyrgyzstan Parliamentary Cooperation Committee",
+      "raw_b": "EU-Ukraine Parliamentary Association Committee",
+      "similarity": 0.8,
+      "verdict": "DIFFERENT",
+      "reason": "One is a parliamentary cooperation committee with Kyrgyzstan, the other with Ukraine.",
+      "evidence_a": [
+        "He is also a Substitute at Committee on Economic and Monetary Affairs, Committee on Budgetary Control and delegation to the EU-Kazakhstan, EU-Kyrgyzstan, and EU-Uzbekistan Parliamentary Cooperation Co"
+      ],
+      "evidence_b": [
+        "In addition to his committee assignments, Kubilius was part of the parliament's delegations to the Euronest Parliamentary Assembly and to the EU-Ukraine Parliamentary Association Committee."
+      ]
+    },
+    {
+      "raw_a": "EU-Ukraine Parliamentary Association Committee",
+      "raw_b": "EU-Uzbekistan Parliamentary Cooperation Committee",
+      "similarity": 0.8,
+      "verdict": "DIFFERENT",
+      "reason": "One committee involves Ukraine, the other involves Uzbekistan, indicating entirely different bilateral relationships.",
+      "evidence_a": [
+        "In addition to his committee assignments, Kubilius was part of the parliament's delegations to the Euronest Parliamentary Assembly and to the EU-Ukraine Parliamentary Association Committee."
+      ],
+      "evidence_b": [
+        "He is also a Substitute at Committee on Economic and Monetary Affairs, Committee on Budgetary Control and delegation to the EU-Kazakhstan, EU-Kyrgyzstan, and EU-Uzbekistan Parliamentary Cooperation Co"
+      ]
+    },
+    {
+      "raw_a": "Estonian Bar Association",
+      "raw_b": "Estonian Wind Power Association",
+      "similarity": 0.8,
+      "verdict": "DIFFERENT",
+      "reason": "The Estonian Bar Association is a legal professional body, while the Estonian Wind Power Association is an energy industry organization.",
+      "evidence_a": [
+        "Kallas became a member of the Estonian Bar Association in 1999, and an attorney-at-law in 2002.",
+        "In 2011, she was placed on inactive status as a member of the Estonian Bar Association."
+      ],
+      "evidence_b": [
+        "From 2009 to 2010, Kallas was a board member of the Estonian Wind Power Association."
+      ]
+    },
+    {
+      "raw_a": "Global Challenge Foundation",
+      "raw_b": "Global Panel Foundation",
+      "similarity": 0.8,
+      "verdict": "DIFFERENT",
+      "reason": "The names \"Global Challenge Foundation\" and \"Global Panel Foundation\" are distinct, with no evidence linking them as the same organization.",
+      "evidence_a": [
+        "Other activities\n\n\nCorporate boards\nEdberg Dialog, Member of the Board\nIca Gruppen, Member of the board of directors (2013–2014)\n\n\nNon-profit organizations\nCentre for Humanitarian Dialogue (HD), Membe"
+      ],
+      "evidence_b": [
+        "He was a Member of the Board of Advisors of the Global Panel Foundation, a NGO that works behind the scenes in crisis areas around the world."
+      ]
+    },
+    {
+      "raw_a": "IFRS Foundation",
+      "raw_b": "Vick Foundation",
+      "similarity": 0.8,
+      "verdict": "DIFFERENT",
+      "reason": "The IFRS Foundation and Vick Foundation are clearly different organizations with no apparent connection.",
+      "evidence_a": [
+        "Since 2018 he has been chair of the Trustees of the IFRS Foundation and Chairman of the Board of the Helsinki Graduate School of Economics at University of Helsinki, and since 2020 chairman of Bruegel"
+      ],
+      "evidence_b": [
+        "Other activities\nEuropean Council on Foreign Relations (ECFR), Member\nVick Foundation, Member of the Jury for the 2008 Bulgarian Novel of the Year\n\n\nPolitical positions\nIn October 2013, Kuneva announc"
+      ]
+    },
+    {
+      "raw_a": "Euro-Latin American Parliamentary Assembly",
+      "raw_b": "Euro-Mediterranean Parliamentary Assembly",
+      "similarity": 0.795,
+      "verdict": "DIFFERENT",
+      "reason": "One is a Euro-Latin American body, the other is a Euro-Mediterranean body, covering different geographic regions.",
+      "evidence_a": [
+        "Member of the European Parliament, 2004–2009\nAs Member of the European Parliament, Dombrovskis was a member of three European Parliament Committees: Committee on Budgets, Delegation to the ACP-EU Join"
+      ],
+      "evidence_b": [
+        "He represented the Hellenic Parliament in the Euro-Mediterranean Parliamentary Assembly from 2007 to 2009."
+      ]
+    },
+    {
+      "raw_a": "Centre for European Policy Studies (CEPS)",
+      "raw_b": "Centre for European Studies",
+      "similarity": 0.794,
+      "verdict": "DIFFERENT",
+      "reason": "CEPS is an independent Brussels-based think tank, while the Centre for European Studies is a university department at the University of Helsinki.",
+      "evidence_a": [
+        "Other activities\nCentre for European Policy Studies (CEPS), Member of the Board of Directors\nEuropean Council on Foreign Relations (ECFR), Member\nEuropean Policy Centre (EPC), Member of the Strategic ",
+        "Other activities\n\n\nInternational organizations\nEuropean Bank for Reconstruction and Development (EBRD), Ex-Officio Member of the Board of Governors (2004–2010)\n\n\nNon-profit organizations\nAristide Merl"
+      ],
+      "evidence_b": [
+        "In 2002, he left European politics for the University of Helsinki, where he led the Centre for European Studies."
+      ]
+    },
+    {
+      "raw_a": "European People's Party",
+      "raw_b": "European People's Party (EPP) group",
+      "similarity": 0.793,
+      "verdict": "DIFFERENT",
+      "reason": "The European People's Party is the pan-European political party, while the EPP group is its parliamentary group within the European Parliament.",
+      "evidence_a": [
+        "Since 2002 (the year of the Estoril Congress), Tajani has been one of 10 vice-presidents of the European People's Party.",
+        "Early career\n1979: Degree in law at the Catholic University of Leuven (KUL)\nAssistant in the faculty of law, Catholic University of Leuven\nLegal assistant in the office of the State Secretary for Heal"
+      ],
+      "evidence_b": [
+        "In the European Parliament she served as vice-president of the European People's Party (EPP) group, vice-president of EPP Women and head of the Bulgarian EPP delegation."
+      ]
+    },
+    {
+      "raw_a": "Socialist International",
+      "raw_b": "Socialist International Women (SIW)",
+      "similarity": 0.793,
+      "verdict": "DIFFERENT",
+      "reason": "Socialist International Women (SIW) is a distinct, affiliated organization of the Socialist International, not the same entity.",
+      "evidence_a": [
+        "Along with his mandate in the European Parliament, he served as International Relations Secretary and PASOK Representative at the Socialist International, from 1988 to 1994.",
+        "Education\n1962: Degree in physics from the Free University of Brussels\n1976: Postgraduate certificate in environmental studies\n1980: First degree in philosophy at the Free University of Brussels\n\n\nCar"
+      ],
+      "evidence_b": [
+        "She was vice-president of both OSCE's Parliamentary Assembly and Socialist International Women (SIW) from 1992 to 1994."
+      ]
+    },
+    {
+      "raw_a": "African Academy of Sciences",
+      "raw_b": "Polish Academy of Sciences",
+      "similarity": 0.792,
+      "verdict": "DIFFERENT",
+      "reason": "The African Academy of Sciences and the Polish Academy of Sciences are distinct organizations based on different continents and have no parent-subsidiary or renaming relationship.",
+      "evidence_a": [
+        "Other activities\nEuropean Council on Foreign Relations (ECFR), Member (since 2021)\nAga Khan University, Member of the Chancellor’s Commission (since 2021)\nAfrica Europe Foundation (AEF), Member of the"
+      ],
+      "evidence_b": [
+        "Other activities\nCentre for European Policy Studies (CEPS), Member of the Board of Directors\nEuropean Council on Foreign Relations (ECFR), Member\nEuropean Policy Centre (EPC), Member of the Strategic "
+      ]
+    },
+    {
+      "raw_a": "Centre for European Reform",
+      "raw_b": "Centre for European Studies",
+      "similarity": 0.792,
+      "verdict": "DIFFERENT",
+      "reason": "The Centre for European Reform is a London-based think tank, while the Centre for European Studies is a university department at the University of Helsinki.",
+      "evidence_a": [
+        "Other activities\n\n\nInternational organizations\nEuropean Bank for Reconstruction and Development (EBRD), Ex-Officio Member of the Board of Governors (2004–2010)\n\n\nNon-profit organizations\nAristide Merl"
+      ],
+      "evidence_b": [
+        "In 2002, he left European politics for the University of Helsinki, where he led the Centre for European Studies."
+      ]
+    },
+    {
+      "raw_a": "Estonian Bar Association",
+      "raw_b": "International Bar Association",
+      "similarity": 0.792,
+      "verdict": "DIFFERENT",
+      "reason": "The Estonian Bar Association is a national bar association for Estonia, while the International Bar Association is a global organization for legal professionals.",
+      "evidence_a": [
+        "Kallas became a member of the Estonian Bar Association in 1999, and an attorney-at-law in 2002.",
+        "In 2011, she was placed on inactive status as a member of the Estonian Bar Association."
+      ],
+      "evidence_b": [
+        "Memberships\nAmerican Bar Association (associate member)\nHarvard Law School Association of Europe\nInternational Bar Association\nCyprus Red Cross Society\n\n\nReferences\n\n\nExternal links\nOfficial website"
+      ]
+    },
+    {
+      "raw_a": "Attali Commission",
+      "raw_b": "Trilateral Commission",
+      "similarity": 0.789,
+      "verdict": "DIFFERENT",
+      "reason": "The Attali Commission is a specific French government advisory body, while the Trilateral Commission is an independent international organization.",
+      "evidence_a": [
+        "He was also a member of the French government's Attali Commission from 2007 to 2008, appointed by Nicolas Sarkozy to provide recommendations to enhance economic growth in France."
+      ],
+      "evidence_b": [
+        "Other activities\n\n\nCorporate boards\nBanco Caixa Geral Angola (BCGA), Chairman of the Shareholders' General Meeting\nÁreas Portugal, chairman of the Board\nSiemens Portugal, Non-Executive Director\nBrisa,",
+        "From 2021 to 2022, Malmström was a member of the Trilateral Commission’s Task Force on Global Capitalism in Transition, chaired by Carl Bildt, Kelly Grier and Takeshi Niinami."
+      ]
+    },
+    {
+      "raw_a": "Belgian socialist party",
+      "raw_b": "Socialist Party",
+      "similarity": 0.789,
+      "verdict": "DIFFERENT",
+      "reason": "The Belgian socialist party is a specific national party in Belgium, while the Socialist Party mentioned in Argentina is a different organization in a different country.",
+      "evidence_a": [
+        "In 1976 he became adjunct-national secretary of the – at that time – unitary Belgian socialist party."
+      ],
+      "evidence_b": [
+        "It was in Argentina, in 2001, while the country was sinking into an economic crisis, that he decided to engage in politics within the Socialist Party, “because it was the only organization that had an"
+      ]
+    },
+    {
+      "raw_a": "Communist Party of Estonia",
+      "raw_b": "Communist Party of the Soviet Union",
+      "similarity": 0.787,
+      "verdict": "DIFFERENT",
+      "reason": "The Communist Party of Estonia was a regional branch of the Communist Party of the Soviet Union, but they are distinct organizations with different names and scopes.",
+      "evidence_a": [
+        "Kallas was the chief editor of Rahva Hääl, the official newspaper of the Communist Party of Estonia, in 1989–1991."
+      ],
+      "evidence_b": [
+        "From 1972 to 1990 Kallas was a member of the Communist Party of the Soviet Union."
+      ]
+    },
+    {
+      "raw_a": "European Movement Germany",
+      "raw_b": "European Movement International",
+      "similarity": 0.786,
+      "verdict": "DIFFERENT",
+      "reason": "\"European Movement Germany\" is a national branch, while \"European Movement International\" is the overarching parent organization.",
+      "evidence_a": [
+        "Other activities\nEuropean Youth Parliament – Germany, Member of the Board of Trustees\nEuropean Movement Germany, Vice President\nSchwarzkopf Foundation, Member of the Board\nHeinrich Böll Foundation, Me",
+        "Other activities\nLeibniz Association, Member of the Senate (since 2010)\nBeethoven Foundation, Chairwoman of the Board of Trustees (since 2004)\nFriedrich Ebert Foundation (FES), Member of the Board of "
+      ],
+      "evidence_b": [
+        "Other activities\nAgfa-Gevaert, Member of the Supervisory Board\nBertelsmann Stiftung, Member of the Board of Trustees\nGlobal Economic Symposium, Member of the Advisory Board\nWomen in Parliaments Global"
+      ]
+    },
+    {
+      "raw_a": "European Investment Bank",
+      "raw_b": "UBS AG Investment Bank",
+      "similarity": 0.783,
+      "verdict": "DIFFERENT",
+      "reason": "The European Investment Bank is an EU institution, while UBS AG Investment Bank is a corporate investment banking division.",
+      "evidence_a": [
+        "Other activities\n\n\nEuropean Union institutions\nEuropean Investment Bank (EIB), member of the Appointment Advisory Committee (since 2017)\n\n\nNon-profit organizations\nWorld Economic Forum (WEF), Member o",
+        "Other activities\n\n\nInternational organizations\nAfrican Development Bank, ex-officio member of the board of governors (2013–2015)\nEuropean Stability Mechanism, ex-officio member of the board of governo"
+      ],
+      "evidence_b": [
+        "He was vice-chairman of UBS AG Investment Bank, non-executive director of Unilever and member of the international advisory committee for Total."
+      ]
+    },
+    {
+      "raw_a": "International Union of Local Authorities (IULA)",
+      "raw_b": "International Union of Socialist Youth (IUSY)",
+      "similarity": 0.783,
+      "verdict": "DIFFERENT",
+      "reason": "The acronyms and full names refer to two distinct organizations: one for local authorities (IULA) and one for socialist youth (IUSY).",
+      "evidence_a": [
+        "From 1996 to 2000 he served as vice-president of the executive committee of the International Union of Local Authorities (IULA) and from 1997 to 2002, as a member of the Committee of the Regions of th"
+      ],
+      "evidence_b": [
+        "He started with the Labour Party in 1968 as a member of the National Executive Committee of the Labour Youth Movement and later a member of the International Union of Socialist Youth (IUSY)."
+      ]
+    },
+    {
+      "raw_a": "Academy of Moral and Political Sciences",
+      "raw_b": "Spanish Royal Academy of Moral and Political Sciences (RACMP)",
+      "similarity": 0.78,
+      "verdict": "DIFFERENT",
+      "reason": "One is the French \"Academy of Moral and Political Sciences\" (part of the Institut de France), the other is the \"Spanish Royal Academy of Moral and Political Sciences\" (RACMP), which are separate national institutions.",
+      "evidence_a": [
+        ""
+      ],
+      "evidence_b": [
+        "Other activities\nElcano Royal Institute for International and Strategic Studies, Member of the Board of Trustees\nSpanish Royal Academy of Moral and Political Sciences (RACMP), Member\nSpanish Royal Aca"
+      ]
+    },
+    {
+      "raw_a": "Women Political Leaders",
+      "raw_b": "Women Political Leaders Global Forum",
+      "similarity": 0.78,
+      "verdict": "DIFFERENT",
+      "reason": "\"Women Political Leaders\" is a general membership, while \"Women Political Leaders Global Forum\" is a specific entity with a global advisory board, suggesting distinct organizational structures.",
+      "evidence_a": [
+        "She is also a mentor of the European Liberal Youth, a member of the European Young Leaders, a MEP ambassor of Erasmus for Young Entrepreneurs, a member of the MEP Library Lovers Group, a political mem"
+      ],
+      "evidence_b": [
+        "Other activities\n\n\nEuropean Union institutions\nEuropean Investment Bank (EIB), member of the Appointment Advisory Committee (since 2017)\n\n\nNon-profit organizations\nWorld Economic Forum (WEF), Member o"
+      ]
+    },
+    {
+      "raw_a": "German Council on Foreign Relations (DGAP)",
+      "raw_b": "Israel Council on Foreign Relations",
+      "similarity": 0.779,
+      "verdict": "DIFFERENT",
+      "reason": "One is the German Council on Foreign Relations (DGAP), the other is the Israel Council on Foreign Relations; they are distinct national organizations.",
+      "evidence_a": [
+        "Later years\nSince leaving public office, Verheugen has held a variety of paid or unpaid positions, including the following:\n\nFleishmanHillard, Member of the International Advisory Board\nGerman-Azerbai",
+        "By referring to actual market developments in Italy, I did not mean to be disrespectful.\"\n\n\nOther activities\n\n\nCorporate boards\nGröner Group, Member of the Advisory Board (since 2022)\nDonner & Reusche"
+      ],
+      "evidence_b": [
+        "In a speech at the Israel Council on Foreign Relations Timmermans explains the interconnectedness between Israel and Europe."
+      ]
+    },
+    {
+      "raw_a": "EU-Kazakhstan Parliamentary Cooperation Committee",
+      "raw_b": "EU-Ukraine Parliamentary Association Committee",
+      "similarity": 0.779,
+      "verdict": "DIFFERENT",
+      "reason": "One is for Kazakhstan, the other for Ukraine; they are separate bilateral parliamentary bodies with different countries.",
+      "evidence_a": [
+        "He is also a Substitute at Committee on Economic and Monetary Affairs, Committee on Budgetary Control and delegation to the EU-Kazakhstan, EU-Kyrgyzstan, and EU-Uzbekistan Parliamentary Cooperation Co"
+      ],
+      "evidence_b": [
+        "In addition to his committee assignments, Kubilius was part of the parliament's delegations to the Euronest Parliamentary Assembly and to the EU-Ukraine Parliamentary Association Committee."
+      ]
+    },
+    {
+      "raw_a": "Aarhus University",
+      "raw_b": "Aga Khan University",
+      "similarity": 0.778,
+      "verdict": "DIFFERENT",
+      "reason": "Aarhus University and Aga Khan University are distinct institutions with different names and locations.",
+      "evidence_a": [
+        "Other activities\n\n\nInternational organizations\nEuropean Investment Bank (EIB), Member of the Climate and Environment Advisory Council (since 2021)\n\n\nCorporate boards\nDanfoss Group, Member of the Board"
+      ],
+      "evidence_b": [
+        "Other activities\nEuropean Council on Foreign Relations (ECFR), Member (since 2021)\nAga Khan University, Member of the Chancellor’s Commission (since 2021)\nAfrica Europe Foundation (AEF), Member of the"
+      ]
+    },
+    {
+      "raw_a": "Doubs General Council",
+      "raw_b": "Doubs département General Council",
+      "similarity": 0.778,
+      "verdict": "SAME",
+      "reason": "Both refer to the same elected departmental council of Doubs, with \"Doubs département General Council\" being a more precise full name.",
+      "evidence_a": [
+        "General Council\nGeneral councillor of Doubs, 1994–2001."
+      ],
+      "evidence_b": [
+        "Minister delegate for European Affairs\nElected to the French Parliament from the Doubs département in 1997, he went on to become a Member of the Franche-Comté Regional Council from 1998 to 2004, and o"
+      ],
+      "merged_into": "Doubs General Council"
+    },
+    {
+      "raw_a": "European Convention",
+      "raw_b": "European Movement",
+      "similarity": 0.778,
+      "verdict": "DIFFERENT",
+      "reason": "The European Convention was a body that drafted a constitution, while the European Movement is a pro-European advocacy organization.",
+      "evidence_a": [
+        "He was a member of the European Convention, which drafted the text of the European Constitution that never entered into force."
+      ],
+      "evidence_b": [
+        "In 2007, Monti was one of the first supporters of the first European civic forum, États Généraux de l'Europe, initiated by European think tank EuropaNova and European Movement."
+      ]
+    },
+    {
+      "raw_a": "European Movement",
+      "raw_b": "European Movement in Sweden",
+      "similarity": 0.773,
+      "verdict": "DIFFERENT",
+      "reason": "\"European Movement\" is a pan-European organization, while \"European Movement in Sweden\" is its national branch, making them distinct entities.",
+      "evidence_a": [
+        "In 2007, Monti was one of the first supporters of the first European civic forum, États Généraux de l'Europe, initiated by European think tank EuropaNova and European Movement."
+      ],
+      "evidence_b": [
+        "Positions\nMember of the Riksdag (in the second chamber of Stockholm city 1969–70) 1969–1992\nDeputy member of the 1969–70 Committees\nDeputy member of the Justice Committee 1971–82\nMember of the Educati"
+      ]
+    },
+    {
+      "raw_a": "Radio Netherlands",
+      "raw_b": "Radio Netherlands Worldwide",
+      "similarity": 0.773,
+      "verdict": "SAME",
+      "reason": "Radio Netherlands Worldwide is the later name for Radio Netherlands.",
+      "evidence_a": [
+        "Van den Broek was president of the Netherlands Institute of International Relations (Clingendael) and also of Radio Netherlands."
+      ],
+      "evidence_b": [
+        "Van den Broek retired after spending 23 years in national politics and became active in the private sector and public sector and occupied numerous seats as a corporate director and nonprofit director "
+      ],
+      "merged_into": "Radio Netherlands"
+    },
+    {
+      "raw_a": "European Peoples Party",
+      "raw_b": "Youth of the European Peoples Party",
+      "similarity": 0.772,
+      "verdict": "DIFFERENT",
+      "reason": "\"Youth of the European Peoples Party\" is the youth wing of the \"European Peoples Party,\" making them distinct but related organisations.",
+      "evidence_a": [
+        "Political career\n\n\nCareer in national politics\nA member of the National Liberal Party (PNL), and a member of the  European Peoples Party, Vălean was elected to the Chamber of Deputies on the Justice a"
+      ],
+      "evidence_b": [
+        "From 1990 to 2000, Katainen was vice president of the Youth of the European Peoples Party."
+      ]
+    },
+    {
+      "raw_a": "European Movement Germany",
+      "raw_b": "European Movement in Sweden",
+      "similarity": 0.769,
+      "verdict": "DIFFERENT",
+      "reason": "One is the German branch (\"European Movement Germany\") and the other is the Swedish branch (\"European Movement in Sweden\") of the same international network, but they are distinct national organisations.",
+      "evidence_a": [
+        "Other activities\nEuropean Youth Parliament – Germany, Member of the Board of Trustees\nEuropean Movement Germany, Vice President\nSchwarzkopf Foundation, Member of the Board\nHeinrich Böll Foundation, Me",
+        "Other activities\nLeibniz Association, Member of the Senate (since 2010)\nBeethoven Foundation, Chairwoman of the Board of Trustees (since 2004)\nFriedrich Ebert Foundation (FES), Member of the Board of "
+      ],
+      "evidence_b": [
+        "Positions\nMember of the Riksdag (in the second chamber of Stockholm city 1969–70) 1969–1992\nDeputy member of the 1969–70 Committees\nDeputy member of the Justice Committee 1971–82\nMember of the Educati"
+      ]
+    },
+    {
+      "raw_a": "Revolutionary Communist League",
+      "raw_b": "Young Communist League",
+      "similarity": 0.769,
+      "verdict": "DIFFERENT",
+      "reason": "The Revolutionary Communist League is a Trotskyist group, while the Young Communist League is a separate youth organization, typically aligned with Marxist-Leninist or Communist parties.",
+      "evidence_a": [
+        "Previously a member of the Trotskyist group the Revolutionary Communist League, Moscovici joined the French Socialist Party (PS) in 1984 and has since that time been a member of the Departmental Counc",
+        "Political career\n\n\nEarly political career\nInitially active in the Revolutionary Communist League, he left in 1984 to join the PS and, in 1986, became secretary of the \"experts' group\" created by Claud"
+      ],
+      "evidence_b": [
+        "During his teenage years he joined the Young Communist League due to the UK's support of the United States' role in the Vietnam War."
+      ]
+    },
+    {
+      "raw_a": "Elcano Royal Institute for International and Strategic Studies",
+      "raw_b": "French Institute for International and Strategic Affairs (IRIS)",
+      "similarity": 0.768,
+      "verdict": "DIFFERENT",
+      "reason": "One is the Spanish \"Elcano Royal Institute\" and the other is the French \"French Institute for International and Strategic Affairs (IRIS)\"—distinct organizations in different countries.",
+      "evidence_a": [
+        "Other activities\nElcano Royal Institute for International and Strategic Studies, Member of the Board of Trustees\nSpanish Royal Academy of Moral and Political Sciences (RACMP), Member\nSpanish Royal Aca"
+      ],
+      "evidence_b": [
+        "Other activities\n\n\nCorporate boards\nDanone, Member of the Mission Committee (since 2020)\nBosch, Member of the International Advisory Committee (since 2015)\n\n\nNon-profit organizations\nAfrica Europe Fou"
+      ]
+    },
+    {
+      "raw_a": "Euro-Latin American Parliamentary Assembly",
+      "raw_b": "Euronest Parliamentary Assembly",
+      "similarity": 0.767,
+      "verdict": "DIFFERENT",
+      "reason": "The Euro-Latin American Parliamentary Assembly (EuroLat) involves EU and Latin American countries, while the Euronest Parliamentary Assembly involves EU and Eastern Partnership countries.",
+      "evidence_a": [
+        "Member of the European Parliament, 2004–2009\nAs Member of the European Parliament, Dombrovskis was a member of three European Parliament Committees: Committee on Budgets, Delegation to the ACP-EU Join"
+      ],
+      "evidence_b": [
+        "In addition to his committee assignments, Kubilius was part of the parliament's delegations to the Euronest Parliamentary Assembly and to the EU-Ukraine Parliamentary Association Committee."
+      ]
+    },
+    {
+      "raw_a": "BBV Foundation",
+      "raw_b": "Beethoven Foundation",
+      "similarity": 0.765,
+      "verdict": "DIFFERENT",
+      "reason": "BBV Foundation is a Spanish banking foundation, while Beethoven Foundation is a German cultural foundation.",
+      "evidence_a": [
+        "He continued to be active in many fields, being appointed Head of the Institute for European Studies at the CEU San Pablo University Foundation, Vice-chair of the BBV Foundation (1996) and Doctor Hono"
+      ],
+      "evidence_b": [
+        "Other activities\nLeibniz Association, Member of the Senate (since 2010)\nBeethoven Foundation, Chairwoman of the Board of Trustees (since 2004)\nFriedrich Ebert Foundation (FES), Member of the Board of "
+      ]
+    },
+    {
+      "raw_a": "Henry Fellowship",
+      "raw_b": "Windsor Fellowship",
+      "similarity": 0.765,
+      "verdict": "DIFFERENT",
+      "reason": "The Henry Fellowship is a scholarship program, while the Windsor Fellowship is an organization focused on diversity and inclusion, founded by a different person.",
+      "evidence_a": [
+        "Brittan then studied at Yale University on a Henry Fellowship."
+      ],
+      "evidence_b": [
+        "From 1983 to 1989 she was director of Business in the Community, working with business to tackle inequality, and she established the Employers' Forum on Disability, Opportunity Now, and the Windsor Fe"
+      ]
+    },
+    {
+      "raw_a": "Jan Karski Foundation",
+      "raw_b": "KR Foundation",
+      "similarity": 0.765,
+      "verdict": "DIFFERENT",
+      "reason": "The Jan Karski Foundation and KR Foundation are distinct organizations with no evident connection in the provided evidence.",
+      "evidence_a": [
+        "Other activities\nJan Karski Foundation, Member of the Award Committee for the Jan Karski Eagle Award (since 2024)\n\n\nReferences\n\n\"European Voice suggests EC nominee Jourová got off to good start but fe"
+      ],
+      "evidence_b": [
+        "Other activities\n\n\nInternational organizations\nEuropean Investment Bank (EIB), Member of the Climate and Environment Advisory Council (since 2021)\n\n\nCorporate boards\nDanfoss Group, Member of the Board"
+      ]
+    },
+    {
+      "raw_a": "Global Challenge Foundation",
+      "raw_b": "Global Leadership Foundation",
+      "similarity": 0.764,
+      "verdict": "DIFFERENT",
+      "reason": "The names \"Global Challenge Foundation\" and \"Global Leadership Foundation\" are distinct, with no evidence linking them as the same entity.",
+      "evidence_a": [
+        "Other activities\n\n\nCorporate boards\nEdberg Dialog, Member of the Board\nIca Gruppen, Member of the board of directors (2013–2014)\n\n\nNon-profit organizations\nCentre for Humanitarian Dialogue (HD), Membe"
+      ],
+      "evidence_b": [
+        "He is also a member of the Global Leadership Foundation, an organisation which works to promote good governance around the world."
+      ]
+    },
+    {
+      "raw_a": "Center for European Policy Analysis (CEPA)",
+      "raw_b": "Centre for European Policy Studies",
+      "similarity": 0.763,
+      "verdict": "DIFFERENT",
+      "reason": "CEPA is a US-based think tank, while the Centre for European Policy Studies is a separate EU-based think tank in Brussels.",
+      "evidence_a": [
+        "In 2013–2014, he gained international experience as an Assistant Project Manager at the Center for European Policy Analysis (CEPA) in Washington, D.C., where he worked on transatlantic policy initiati"
+      ],
+      "evidence_b": [
+        "Since 2023, she has been part of the Centre for European Policy Studies/Heinrich Böll Foundation High-Level Group on Bolstering EU Democracy, chaired by Kalypso Nicolaïdis."
+      ]
+    },
+    {
+      "raw_a": "European Young Leaders",
+      "raw_b": "Global Young Leaders",
+      "similarity": 0.762,
+      "verdict": "DIFFERENT",
+      "reason": "The evidence explicitly names \"European Young Leaders\" for Organisation A, but the same evidence text for Organisation B incorrectly substitutes \"Global Young Leaders,\" which is a different name.",
+      "evidence_a": [
+        "She is also a mentor of the European Liberal Youth, a member of the European Young Leaders, a MEP ambassor of Erasmus for Young Entrepreneurs, a member of the MEP Library Lovers Group, a political mem"
+      ],
+      "evidence_b": [
+        "She is also a mentor of the European Liberal Youth, a member of the European Young Leaders, a MEP ambassor of Erasmus for Young Entrepreneurs, a member of the MEP Library Lovers Group, a political mem"
+      ]
+    },
+    {
+      "raw_a": "Veikkaus",
+      "raw_b": "Veikkausliiga",
+      "similarity": 0.762,
+      "verdict": "DIFFERENT",
+      "reason": "\"Veikkaus\" is a Finnish gambling company, while \"Veikkausliiga\" is the Finnish football league.",
+      "evidence_a": [
+        "Other activities\n\n\nEuropean Union organizations\nEuropean Investment Bank (EIB), Ex-Officio Member of the Board of Governors (2011–2014)\nEuropean Stability Mechanism (ESM), Member of the Board of Gover"
+      ],
+      "evidence_b": [
+        "He was briefly the chairman of Veikkausliiga from 1996 to 1997."
+      ]
+    },
+    {
+      "raw_a": "International Physicians' Association",
+      "raw_b": "Lithuanian Physicians' Association",
+      "similarity": 0.761,
+      "verdict": "DIFFERENT",
+      "reason": "One is an international organization, the other is a national (Lithuanian) organization.",
+      "evidence_a": [
+        "He was also a member of International Physicians' Association during 1998–2004."
+      ],
+      "evidence_b": [
+        "In 1989 Andriukaitis was appointed a cardiovascular surgeon (first category) and became a member of the Lithuanian Physicians' Association (until 1996) and Lithuanian Cardiologists' Association."
+      ]
+    },
+    {
+      "raw_a": "Lithuanian Cardiologists' Association",
+      "raw_b": "Lithuanian Physicians' Association",
+      "similarity": 0.761,
+      "verdict": "DIFFERENT",
+      "reason": "The evidence lists them as two separate organizations that the person joined, indicating they are distinct entities.",
+      "evidence_a": [
+        "In 1989 Andriukaitis was appointed a cardiovascular surgeon (first category) and became a member of the Lithuanian Physicians' Association (until 1996) and Lithuanian Cardiologists' Association."
+      ],
+      "evidence_b": [
+        "In 1989 Andriukaitis was appointed a cardiovascular surgeon (first category) and became a member of the Lithuanian Physicians' Association (until 1996) and Lithuanian Cardiologists' Association."
+      ]
+    },
+    {
+      "raw_a": "Committee on Budgetary Control",
+      "raw_b": "Committee on Budgets",
+      "similarity": 0.76,
+      "verdict": "DIFFERENT",
+      "reason": "\"Committee on Budgetary Control\" and \"Committee on Budgets\" are distinct committees with different functions (oversight vs. budget allocation) in the European Parliament.",
+      "evidence_a": [
+        "During that period, she served as vice-chair of the Committee on Budgetary Control, Vice-chair of the Special Committee on the Economic, Financial and Social crisis, member of the Committee on the Int",
+        "He is also a Substitute at Committee on Economic and Monetary Affairs, Committee on Budgetary Control and delegation to the EU-Kazakhstan, EU-Kyrgyzstan, and EU-Uzbekistan Parliamentary Cooperation Co"
+      ],
+      "evidence_b": [
+        "From 1978 to 1979 he was vice-chair of the Committee on Budgets.",
+        "Member of the European Parliament, 2004–2009\nAs Member of the European Parliament, Dombrovskis was a member of three European Parliament Committees: Committee on Budgets, Delegation to the ACP-EU Join"
+      ]
+    },
+    {
+      "raw_a": "Fondation européenne d'études progressistes (FEPS)",
+      "raw_b": "Foundation for European Progressive Studies (FEPS)",
+      "similarity": 0.76,
+      "verdict": "SAME",
+      "reason": "Both refer to the same organization, with \"Fondation européenne d'études progressistes\" being the French name and \"Foundation for European Progressive Studies\" the English name, sharing the acronym FEPS.",
+      "evidence_a": [
+        "Other activities\n\n\nCorporate boards\nDanone, Member of the Mission Committee (since 2020)\nBosch, Member of the International Advisory Committee (since 2015)\n\n\nNon-profit organizations\nAfrica Europe Fou"
+      ],
+      "evidence_b": [
+        "László Andor (born 3 June 1966) is a Hungarian economist and the Secretary General of the Foundation for European Progressive Studies (FEPS)."
+      ],
+      "merged_into": "Fondation européenne d'études progressistes (FEPS)"
+    },
+    {
+      "raw_a": "BBV Foundation",
+      "raw_b": "IFRS Foundation",
+      "similarity": 0.759,
+      "verdict": "DIFFERENT",
+      "reason": "BBV Foundation and IFRS Foundation are unrelated organizations with different names and purposes.",
+      "evidence_a": [
+        "He continued to be active in many fields, being appointed Head of the Institute for European Studies at the CEU San Pablo University Foundation, Vice-chair of the BBV Foundation (1996) and Doctor Hono"
+      ],
+      "evidence_b": [
+        "Since 2018 he has been chair of the Trustees of the IFRS Foundation and Chairman of the Board of the Helsinki Graduate School of Economics at University of Helsinki, and since 2020 chairman of Bruegel"
+      ]
+    },
+    {
+      "raw_a": "European Investment Bank (EIB)",
+      "raw_b": "Nordic Investment Bank (NIB)",
+      "similarity": 0.759,
+      "verdict": "DIFFERENT",
+      "reason": "The names and acronyms are clearly different: European Investment Bank (EIB) vs. Nordic Investment Bank (NIB).",
+      "evidence_a": [
+        "Other activities\nEuropean Investment Bank (EIB), Member of the Appointment Advisory Committee (since 2025)\n\n\nHonours\n – Grand Decoration of Honour in Gold with Sash for Services to the Republic of Aus",
+        "Other activities\n\n\nEuropean Union organizations\nEuropean Investment Bank (EIB), Ex-Officio Member of the Board of Governors (2011–2014)\nEuropean Stability Mechanism (ESM), Member of the Board of Gover"
+      ],
+      "evidence_b": [
+        "Other activities\n\n\nEuropean Union organizations\nEuropean Investment Bank (EIB), Ex-Officio Member of the Board of Governors (2011–2014)\nEuropean Stability Mechanism (ESM), Member of the Board of Gover"
+      ]
+    },
+    {
+      "raw_a": "European Movement International",
+      "raw_b": "European Movement in Sweden",
+      "similarity": 0.759,
+      "verdict": "DIFFERENT",
+      "reason": "\"European Movement International\" is a global umbrella organization, while \"European Movement in Sweden\" is a national member branch.",
+      "evidence_a": [
+        "Other activities\nAgfa-Gevaert, Member of the Supervisory Board\nBertelsmann Stiftung, Member of the Board of Trustees\nGlobal Economic Symposium, Member of the Advisory Board\nWomen in Parliaments Global"
+      ],
+      "evidence_b": [
+        "Positions\nMember of the Riksdag (in the second chamber of Stockholm city 1969–70) 1969–1992\nDeputy member of the 1969–70 Committees\nDeputy member of the Justice Committee 1971–82\nMember of the Educati"
+      ]
+    },
+    {
+      "raw_a": "MEP Heart Group",
+      "raw_b": "experts' group",
+      "similarity": 0.759,
+      "verdict": "DIFFERENT",
+      "reason": "One is a parliamentary group focused on cardiovascular health, the other is a political advisory group created by Claude Allègre.",
+      "evidence_a": [
+        "Alongside Karin Kadenbach, she also co-chaired the MEP Heart Group, a group of parliamentarians who have an interest in promoting measures that will help reduce the burden of cardiovascular diseases ("
+      ],
+      "evidence_b": [
+        "Political career\n\n\nEarly political career\nInitially active in the Revolutionary Communist League, he left in 1984 to join the PS and, in 1986, became secretary of the \"experts' group\" created by Claud"
+      ]
+    },
+    {
+      "raw_a": "Women's Association",
+      "raw_b": "alumni association",
+      "similarity": 0.757,
+      "verdict": "DIFFERENT",
+      "reason": "One is a women's political or social organization, the other is a general alumni association.",
+      "evidence_a": [
+        "She was chairman of the Stockholm City Social Democratic Women's District 1968–82 and Vice Chairman of the Women's Association from 1975."
+      ],
+      "evidence_b": [
+        "Critics questioned the independence of the commission that reviewed the thesis as von der Leyen personally knew its director from joint work for an alumni association."
+      ]
+    }
+  ],
   "clusters": {
     "ACP-EU Joint Parliamentary Assembly": [
       "ACP-EU Joint Parliamentary Assembly",
@@ -49,6 +1507,9 @@
     "Agfa-Gevaert": [
       "Agfa-Gevaert"
     ],
+    "Agglomeration community of the Pays de Montbéliard": [
+      "Agglomeration community of the Pays de Montbéliard"
+    ],
     "Aid Coordination Committee (Phare and the G24)": [
       "Aid Coordination Committee (Phare and the G24)"
     ],
@@ -56,7 +1517,9 @@
       "Alianza Popular"
     ],
     "Alliance of Liberals and Democrats for Europe (ALDE)": [
-      "Alliance of Liberals and Democrats for Europe (ALDE)",
+      "Alliance of Liberals and Democrats for Europe (ALDE)"
+    ],
+    "Alliance of Liberals and Democrats for Europe Party": [
       "Alliance of Liberals and Democrats for Europe Party"
     ],
     "Amato Group": [
@@ -136,9 +1599,6 @@
     ],
     "BC3": [
       "BC3"
-    ],
-    "BNP Paribas": [
-      "BNP Paribas"
     ],
     "Baltic Assembly": [
       "Baltic Assembly"
@@ -236,12 +1696,14 @@
     ],
     "Centre for European Policy Studies": [
       "Centre for European Policy Studies",
-      "Centre for European Policy Studies (CEPS)",
-      "Centre for European Studies"
+      "Centre for European Policy Studies (CEPS)"
     ],
     "Centre for European Reform": [
       "Centre for European Reform",
       "Centre for European Reform (CER)"
+    ],
+    "Centre for European Studies": [
+      "Centre for European Studies"
     ],
     "Centre for Feminist Foreign Policy (CFFP)": [
       "Centre for Feminist Foreign Policy (CFFP)"
@@ -331,8 +1793,7 @@
       "Conservative Party"
     ],
     "Conservatives and Reformists": [
-      "Conservatives and Reformists",
-      "European Conservatives and Reformists"
+      "Conservatives and Reformists"
     ],
     "Constitutional Council": [
       "Constitutional Council"
@@ -367,8 +1828,14 @@
     "Council of Women World Leaders Ministerial Initiative": [
       "Council of Women World Leaders Ministerial Initiative"
     ],
+    "Court of Audit": [
+      "Court of Audit"
+    ],
     "Coverdale Organisation": [
       "Coverdale Organisation"
+    ],
+    "Create Lithuania": [
+      "Create Lithuania"
     ],
     "Crisis Management Initiative (CMI)": [
       "Crisis Management Initiative (CMI)"
@@ -388,9 +1855,6 @@
     "DARA": [
       "DARA"
     ],
-    "DLA Piper": [
-      "DLA Piper"
-    ],
     "Danish European Movement (Den Danske Europabevægelse)": [
       "Danish European Movement (Den Danske Europabevægelse)"
     ],
@@ -405,6 +1869,9 @@
     ],
     "Delegation for relations with the United States (D-US)": [
       "Delegation for relations with the United States (D-US)"
+    ],
+    "Delegation to the EU-Kazakhstan, EU-Kyrgyzstan and EU-Uzbekistan Parliamentary Cooperation Committees, and for relations with Tajikistan, Turkmenistan and Mongolia": [
+      "Delegation to the EU-Kazakhstan, EU-Kyrgyzstan and EU-Uzbekistan Parliamentary Cooperation Committees, and for relations with Tajikistan, Turkmenistan and Mongolia"
     ],
     "Delegation to the EU-Russia Parliamentary Cooperation Committee": [
       "Delegation to the EU-Russia Parliamentary Cooperation Committee"
@@ -427,6 +1894,10 @@
     "Donner & Reuschel": [
       "Donner & Reuschel"
     ],
+    "Doubs General Council": [
+      "Doubs General Council",
+      "Doubs département General Council"
+    ],
     "EPP Economic and Financial Affairs Ministers Meeting": [
       "EPP Economic and Financial Affairs Ministers Meeting"
     ],
@@ -437,8 +1908,7 @@
       "EPP Women"
     ],
     "EPP Women's association": [
-      "EPP Women's association",
-      "Women's Association"
+      "EPP Women's association"
     ],
     "EPP-ED Group's SME Circle": [
       "EPP-ED Group's SME Circle"
@@ -446,16 +1916,17 @@
     "EPSCO network of the Party of European Socialists": [
       "EPSCO network of the Party of European Socialists"
     ],
-    "EU-Brazil working group": [
-      "EU-Brazil working group"
-    ],
     "EU-Kazakhstan Parliamentary Cooperation Committee": [
-      "EU-Kazakhstan Parliamentary Cooperation Committee",
-      "EU-Kyrgyzstan Parliamentary Cooperation Committee",
-      "EU-Uzbekistan Parliamentary Cooperation Committee"
+      "EU-Kazakhstan Parliamentary Cooperation Committee"
+    ],
+    "EU-Kyrgyzstan Parliamentary Cooperation Committee": [
+      "EU-Kyrgyzstan Parliamentary Cooperation Committee"
     ],
     "EU-Ukraine Parliamentary Association Committee": [
       "EU-Ukraine Parliamentary Association Committee"
+    ],
+    "EU-Uzbekistan Parliamentary Cooperation Committee": [
+      "EU-Uzbekistan Parliamentary Cooperation Committee"
     ],
     "EUROSAI – European Organisation of Supreme Audit Institutions": [
       "EUROSAI – European Organisation of Supreme Audit Institutions"
@@ -515,8 +1986,7 @@
       "Euromed Working Group of the EPP"
     ],
     "Euronest Parliamentary Assembly": [
-      "Euronest Parliamentary Assembly",
-      "OSCE Parliamentary Assembly"
+      "Euronest Parliamentary Assembly"
     ],
     "Europa-Union Münster": [
       "Europa-Union Münster"
@@ -529,6 +1999,9 @@
     ],
     "European Academy of Sciences and Arts": [
       "European Academy of Sciences and Arts"
+    ],
+    "European Association of Communications Agencies": [
+      "European Association of Communications Agencies"
     ],
     "European Association of Development Research and Training Institutes (EADI)": [
       "European Association of Development Research and Training Institutes (EADI)"
@@ -550,6 +2023,9 @@
     ],
     "European Committee of the Regions": [
       "European Committee of the Regions"
+    ],
+    "European Conservatives and Reformists": [
+      "European Conservatives and Reformists"
     ],
     "European Convention": [
       "European Convention"
@@ -612,17 +2088,20 @@
     "European Movement International": [
       "European Movement International"
     ],
+    "European Movement in Sweden": [
+      "European Movement in Sweden"
+    ],
     "European Partnership for an Innovative Campus Unifying Regions (EPICUR)": [
       "European Partnership for an Innovative Campus Unifying Regions (EPICUR)"
     ],
     "European People's Party": [
       "European People's Party",
       "European People's Party (EPP)",
-      "European People's Party Group",
       "European Peoples Party"
     ],
     "European People's Party (EPP) group": [
-      "European People's Party (EPP) group"
+      "European People's Party (EPP) group",
+      "European People's Party Group"
     ],
     "European People's Party Health Ministers Meeting": [
       "European People's Party Health Ministers Meeting"
@@ -708,7 +2187,8 @@
       "Fondation du Mérite européen"
     ],
     "Fondation européenne d'études progressistes (FEPS)": [
-      "Fondation européenne d'études progressistes (FEPS)"
+      "Fondation européenne d'études progressistes (FEPS)",
+      "Foundation for European Progressive Studies (FEPS)"
     ],
     "Foreign Affairs Council": [
       "Foreign Affairs Council"
@@ -719,11 +2199,11 @@
     "Forza Italia": [
       "Forza Italia"
     ],
-    "Foundation for European Progressive Studies (FEPS)": [
-      "Foundation for European Progressive Studies (FEPS)"
-    ],
     "France Télécom": [
       "France Télécom"
+    ],
+    "Franche-Comté Regional Council": [
+      "Franche-Comté Regional Council"
     ],
     "Franco-German Chamber of Commerce and Industry": [
       "Franco-German Chamber of Commerce and Industry"
@@ -778,9 +2258,6 @@
     ],
     "Gegen Vergessen – Für Demokratie": [
       "Gegen Vergessen – Für Demokratie"
-    ],
-    "General Mediterranean Holdings": [
-      "General Mediterranean Holdings"
     ],
     "Generation Unlimited": [
       "Generation Unlimited"
@@ -906,15 +2383,16 @@
       "Humanists UK"
     ],
     "Hungarian Association of Political Science": [
-      "Hungarian Association of Political Science",
+      "Hungarian Association of Political Science"
+    ],
+    "Hungarian Association of Political Scientists": [
       "Hungarian Association of Political Scientists"
     ],
     "IFRS Foundation": [
-      "IFRS Foundation",
-      "KR Foundation"
+      "IFRS Foundation"
     ],
-    "IRI": [
-      "IRI"
+    "IRI (Istituto per la Ricostruzione Industriale)": [
+      "IRI (Istituto per la Ricostruzione Industriale)"
     ],
     "Ica Gruppen": [
       "Ica Gruppen"
@@ -1045,6 +2523,9 @@
     "KPMG": [
       "KPMG"
     ],
+    "KR Foundation": [
+      "KR Foundation"
+    ],
     "Kaitseliit (Defence League)": [
       "Kaitseliit (Defence League)"
     ],
@@ -1055,8 +2536,7 @@
       "Kekst CNC"
     ],
     "LEAD International": [
-      "LEAD International",
-      "MEDEF International"
+      "LEAD International"
     ],
     "LGBTIQ Consultative Council": [
       "LGBTIQ Consultative Council"
@@ -1066,9 +2546,6 @@
     ],
     "Laboratorio de Alternativas (Fundación Alternativas)": [
       "Laboratorio de Alternativas (Fundación Alternativas)"
-    ],
-    "Labour Party Parliamentary Group": [
-      "Labour Party Parliamentary Group"
     ],
     "Lead Group of the Scaling Up Nutrition Movement": [
       "Lead Group of the Scaling Up Nutrition Movement"
@@ -1114,6 +2591,9 @@
     ],
     "Luxembourg Union of Journalists": [
       "Luxembourg Union of Journalists"
+    ],
+    "MEDEF International": [
+      "MEDEF International"
     ],
     "MEP Heart Group": [
       "MEP Heart Group"
@@ -1254,11 +2734,11 @@
     "North Atlantic Assembly": [
       "North Atlantic Assembly"
     ],
+    "North-South Prize": [
+      "North-South Prize"
+    ],
     "Notre Europe": [
       "Notre Europe"
-    ],
-    "Novomatic": [
-      "Novomatic"
     ],
     "Nuevas Generaciones": [
       "Nuevas Generaciones"
@@ -1269,7 +2749,8 @@
     "OSCE PA Election Observation Missions": [
       "OSCE PA Election Observation Missions"
     ],
-    "OSCE's Parliamentary Assembly": [
+    "OSCE Parliamentary Assembly": [
+      "OSCE Parliamentary Assembly",
       "OSCE's Parliamentary Assembly"
     ],
     "Oettinger Consulting": [
@@ -1293,6 +2774,9 @@
     ],
     "Open Data Institute": [
       "Open Data Institute"
+    ],
+    "Open Society Prize": [
+      "Open Society Prize"
     ],
     "Opportunity Now": [
       "Opportunity Now"
@@ -1387,6 +2871,9 @@
     "Prinses Maxima Centrum": [
       "Prinses Maxima Centrum"
     ],
+    "Prix Femmes d'Europe": [
+      "Prix Femmes d'Europe"
+    ],
     "Prof.Mr. Teldersstichting": [
       "Prof.Mr. Teldersstichting"
     ],
@@ -1421,9 +2908,7 @@
       "Radicalisation Awareness Network (R.A.N.)"
     ],
     "Radio Netherlands": [
-      "Radio Netherlands"
-    ],
-    "Radio Netherlands Worldwide": [
+      "Radio Netherlands",
       "Radio Netherlands Worldwide"
     ],
     "Radio Tartu": [
@@ -1465,9 +2950,6 @@
     "Rock and Roll Hall of Fame": [
       "Rock and Roll Hall of Fame"
     ],
-    "Rothschild Bank": [
-      "Rothschild Bank"
-    ],
     "Rotos Zirayia Pumps Co Ltd.": [
       "Rotos Zirayia Pumps Co Ltd."
     ],
@@ -1492,14 +2974,8 @@
     "SUERF (The European Money and Finance Forum)": [
       "SUERF (The European Money and Finance Forum)"
     ],
-    "Salesforce": [
-      "Salesforce"
-    ],
     "Scaling Up Nutrition (SUN) Movement": [
       "Scaling Up Nutrition (SUN) Movement"
-    ],
-    "Schiphol Group": [
-      "Schiphol Group"
     ],
     "School Board's Educational Board": [
       "School Board's Educational Board"
@@ -1532,10 +3008,10 @@
       "Socialist Group"
     ],
     "Socialist International": [
-      "Socialist International",
-      "Socialist International Women"
+      "Socialist International"
     ],
-    "Socialist International Women (SIW)": [
+    "Socialist International Women": [
+      "Socialist International Women",
       "Socialist International Women (SIW)"
     ],
     "Socialist Party": [
@@ -1598,9 +3074,6 @@
     "Summit Conference of the Mayors of the World": [
       "Summit Conference of the Mayors of the World"
     ],
-    "Supreme Chamber of Control": [
-      "Supreme Chamber of Control"
-    ],
     "Sustainability and Legacy Commission": [
       "Sustainability and Legacy Commission"
     ],
@@ -1639,9 +3112,6 @@
     ],
     "The Brussels School of Governance at the Vrije Universiteit Brussel (VUB)": [
       "The Brussels School of Governance at the Vrije Universiteit Brussel (VUB)"
-    ],
-    "The Daisy": [
-      "The Daisy"
     ],
     "The European House – Ambrosetti": [
       "The European House – Ambrosetti"
@@ -1713,9 +3183,6 @@
       "UNIZO",
       "Unizo"
     ],
-    "Uber": [
-      "Uber"
-    ],
     "Una Europa Association": [
       "Una Europa Association"
     ],
@@ -1724,6 +3191,9 @@
     ],
     "Unilever": [
       "Unilever"
+    ],
+    "Union for Europe of the Nations": [
+      "Union for Europe of the Nations"
     ],
     "Union for the Mediterranean Parliamentary Assembly": [
       "Union for the Mediterranean Parliamentary Assembly"
@@ -1759,8 +3229,7 @@
       "Windsor Fellowship"
     ],
     "Women Economic Forum": [
-      "Women Economic Forum",
-      "World Economic Forum"
+      "Women Economic Forum"
     ],
     "Women Political Leaders": [
       "Women Political Leaders"
@@ -1771,6 +3240,9 @@
     ],
     "Women in Parliaments Global Forum (WIP)": [
       "Women in Parliaments Global Forum (WIP)"
+    ],
+    "Women's Association": [
+      "Women's Association"
     ],
     "Workers' Educational Association (WEA)": [
       "Workers' Educational Association (WEA)"
@@ -1784,7 +3256,8 @@
     "Working Group on the Conference on the Future of Europe": [
       "Working Group on the Conference on the Future of Europe"
     ],
-    "World Economic Forum (WEF)": [
+    "World Economic Forum": [
+      "World Economic Forum",
       "World Economic Forum (WEF)"
     ],
     "World Economic Forum High-Level Group on Humanitarian Investing": [
@@ -1822,9 +3295,6 @@
     ],
     "Zabbar St Patrick FC": [
       "Zabbar St Patrick FC"
-    ],
-    "Zeltia": [
-      "Zeltia"
     ],
     "Zurrieq Bocci Club": [
       "Zurrieq Bocci Club"

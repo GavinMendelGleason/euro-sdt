@@ -6,24 +6,31 @@
     {
       "organisation": "Center for European Policy Analysis (CEPA)",
       "role": "Assistant Project Manager",
-      "reasoning": "The phrase states he worked as an Assistant Project Manager at CEPA, a think tank focused on transatlantic policy, which is a direct affiliation with a policy institute.",
+      "reasoning": "The phrase states he worked as an Assistant Project Manager at CEPA, a think tank focused on transatlantic policy.",
       "phrase": 10,
       "evidence": "In 2013–2014, he gained international experience as an Assistant Project Manager at the Center for European Policy Analysis (CEPA) in Washington, D.C., where he worked on transatlantic policy initiatives."
     },
     {
+      "organisation": "Create Lithuania",
+      "role": "participant",
+      "reasoning": "The phrase indicates he participated in the 'Create Lithuania' program, which is a government initiative to attract young professionals to public sector development, functioning as a policy network/forum.",
+      "phrase": 12,
+      "evidence": "From 2014 to 2015, he participated in the government’s “Create Lithuania” program, an initiative designed to attract young professionals to contribute innovative ideas to public sector development."
+    },
+    {
       "organisation": "Investors’ Forum",
-      "role": "Award recipient",
-      "reasoning": "The phrase states he was awarded by the association Investors’ Forum, indicating he was recognized by this professional association, implying affiliation.",
+      "role": "award recipient",
+      "reasoning": "The phrase states he was awarded by the association 'Investors’ Forum', which is an advocacy group for investors.",
       "phrase": 31,
       "evidence": "Recognition\nIn 2018, Sinkevičius was awarded for The Best Solution for Better Business Environment of the Year by the association Investors’ Forum, and Blockchain Leadership at #SWITCH!"
     },
     {
       "organisation": "Lithuanian Business Confederation",
-      "role": "Award recipient",
-      "reasoning": "The phrase states he received an award from the organisation Lithuanian Business Confederation, indicating he was recognized by this business association, implying affiliation.",
+      "role": "award recipient",
+      "reasoning": "The phrase states he received an award from the organisation 'Lithuanian Business Confederation', which is a professional association/advocacy group for businesses.",
       "phrase": 33,
       "evidence": "In 2019, he received the Partnership Leader 2018 award for innovation reform and development of startup ecosystem from the organisation Lithuanian Business Confederation."
     }
   ],
-  "count": 3
+  "count": 4
 }

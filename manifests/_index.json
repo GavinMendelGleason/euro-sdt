@@ -1,9 +1,15 @@
 {
   "total_commissioners": 150,
   "processed": 127,
-  "total_org_facts": 765,
-  "unique_orgs": 615,
+  "total_org_facts": 766,
+  "unique_orgs": 621,
   "manifests": [
+    {
+      "slug": "adina-ioana-valean",
+      "name": "Adina-Ioana V\u0103lean",
+      "status": "ok",
+      "count": 3
+    },
     {
       "slug": "algirdas-semeta",
       "name": "Algirdas Semeta",
@@ -17,22 +23,10 @@
       "count": 3
     },
     {
-      "slug": "adina-ioana-valean",
-      "name": "Adina-Ioana V\u0103lean",
-      "status": "ok",
-      "count": 3
-    },
-    {
       "slug": "andrius-kubilius",
       "name": "Andrius Kubilius",
       "status": "ok",
       "count": 5
-    },
-    {
-      "slug": "anna-diamantopoulou",
-      "name": "Anna Diamantopoulou",
-      "status": "ok",
-      "count": 0
     },
     {
       "slug": "androulla-vassiliou",
@@ -47,10 +41,28 @@
       "count": 6
     },
     {
+      "slug": "anita-gradin",
+      "name": "Anita Gradin",
+      "status": "ok",
+      "count": 24
+    },
+    {
+      "slug": "anna-diamantopoulou",
+      "name": "Anna Diamantopoulou",
+      "status": "ok",
+      "count": 0
+    },
+    {
       "slug": "antonio-tajani",
       "name": "Antonio Tajani",
       "status": "ok",
-      "count": 11
+      "count": 10
+    },
+    {
+      "slug": "antonio-vitorino",
+      "name": "Ant\u00f3nio Vitorino",
+      "status": "ok",
+      "count": 16
     },
     {
       "slug": "apostolos-tzitzikostas",
@@ -65,24 +77,6 @@
       "count": 4
     },
     {
-      "slug": "antonio-vitorino",
-      "name": "Ant\u00f3nio Vitorino",
-      "status": "ok",
-      "count": 16
-    },
-    {
-      "slug": "anita-gradin",
-      "name": "Anita Gradin",
-      "status": "ok",
-      "count": 23
-    },
-    {
-      "slug": "charlie-mccreevy",
-      "name": "Charlie McCreevy",
-      "status": "ok",
-      "count": 1
-    },
-    {
       "slug": "carlos-moedas",
       "name": "Carlos Moedas",
       "status": "ok",
@@ -95,10 +89,22 @@
       "count": 9
     },
     {
-      "slug": "christos-papoutsis",
-      "name": "Christos Papoutsis",
+      "slug": "cecilia-malmstrom",
+      "name": "Cecilia Malmstr\u00f6m",
+      "status": "ok",
+      "count": 12
+    },
+    {
+      "slug": "charlie-mccreevy",
+      "name": "Charlie McCreevy",
       "status": "ok",
       "count": 1
+    },
+    {
+      "slug": "chris-patten",
+      "name": "Chris Patten",
+      "status": "ok",
+      "count": 5
     },
     {
       "slug": "christophe-hansen",
@@ -107,10 +113,22 @@
       "count": 2
     },
     {
-      "slug": "chris-patten",
-      "name": "Chris Patten",
+      "slug": "christos-papoutsis",
+      "name": "Christos Papoutsis",
       "status": "ok",
-      "count": 5
+      "count": 1
+    },
+    {
+      "slug": "christos-stylianides",
+      "name": "Christos Stylianides",
+      "status": "ok",
+      "count": 6
+    },
+    {
+      "slug": "connie-hedegaard",
+      "name": "Connie Hedegaard",
+      "status": "ok",
+      "count": 8
     },
     {
       "slug": "corina-cretu",
@@ -131,10 +149,10 @@
       "count": 0
     },
     {
-      "slug": "cecilia-malmstrom",
-      "name": "Cecilia Malmstr\u00f6m",
+      "slug": "dalia-grybauskaite",
+      "name": "Dalia Grybauskait\u0117",
       "status": "ok",
-      "count": 12
+      "count": 2
     },
     {
       "slug": "dan-jrgensen",
@@ -143,16 +161,16 @@
       "count": 0
     },
     {
-      "slug": "christos-stylianides",
-      "name": "Christos Stylianides",
+      "slug": "danuta-hubner",
+      "name": "Danuta H\u00fcbner",
       "status": "ok",
-      "count": 6
+      "count": 20
     },
     {
-      "slug": "dalia-grybauskaite",
-      "name": "Dalia Grybauskait\u0117",
+      "slug": "david-byrne",
+      "name": "David Byrne",
       "status": "ok",
-      "count": 2
+      "count": 7
     },
     {
       "slug": "didier-reynders",
@@ -161,14 +179,14 @@
       "count": 0
     },
     {
-      "slug": "connie-hedegaard",
-      "name": "Connie Hedegaard",
+      "slug": "dimitris-avramopoulos",
+      "name": "Dimitris Avramopoulos",
       "status": "ok",
-      "count": 8
+      "count": 12
     },
     {
-      "slug": "david-byrne",
-      "name": "David Byrne",
+      "slug": "dubravka-suica",
+      "name": "Dubravka \u0160uica",
       "status": "ok",
       "count": 7
     },
@@ -185,14 +203,8 @@
       "count": 2
     },
     {
-      "slug": "dimitris-avramopoulos",
-      "name": "Dimitris Avramopoulos",
-      "status": "ok",
-      "count": 12
-    },
-    {
-      "slug": "dubravka-suica",
-      "name": "Dubravka \u0160uica",
+      "slug": "elisa-ferreira",
+      "name": "Elisa Ferreira",
       "status": "ok",
       "count": 7
     },
@@ -203,16 +215,22 @@
       "count": 2
     },
     {
-      "slug": "danuta-hubner",
-      "name": "Danuta H\u00fcbner",
+      "slug": "emma-bonino",
+      "name": "Emma Bonino",
       "status": "ok",
-      "count": 20
+      "count": 11
     },
     {
-      "slug": "elisa-ferreira",
-      "name": "Elisa Ferreira",
+      "slug": "erkki-liikanen",
+      "name": "Erkki Liikanen",
       "status": "ok",
-      "count": 7
+      "count": 6
+    },
+    {
+      "slug": "federica-mogherini",
+      "name": "Federica Mogherini",
+      "status": "ok",
+      "count": 13
     },
     {
       "slug": "ferdinando-nelli-feroci",
@@ -227,16 +245,10 @@
       "count": 0
     },
     {
-      "slug": "emma-bonino",
-      "name": "Emma Bonino",
+      "slug": "frans-timmermans",
+      "name": "Frans Timmermans",
       "status": "ok",
-      "count": 7
-    },
-    {
-      "slug": "erkki-liikanen",
-      "name": "Erkki Liikanen",
-      "status": "ok",
-      "count": 7
+      "count": 3
     },
     {
       "slug": "franz-fischler",
@@ -251,28 +263,10 @@
       "count": 0
     },
     {
-      "slug": "frans-timmermans",
-      "name": "Frans Timmermans",
-      "status": "ok",
-      "count": 3
-    },
-    {
       "slug": "glenn-micallef",
       "name": "Glenn Micallef",
       "status": "ok",
       "count": 2
-    },
-    {
-      "slug": "hadja-lahbib",
-      "name": "Hadja Lahbib",
-      "status": "ok",
-      "count": 1
-    },
-    {
-      "slug": "federica-mogherini",
-      "name": "Federica Mogherini",
-      "status": "ok",
-      "count": 13
     },
     {
       "slug": "gunter-verheugen",
@@ -281,22 +275,22 @@
       "count": 8
     },
     {
+      "slug": "gunther-oettinger",
+      "name": "G\u00fcnther Oettinger",
+      "status": "ok",
+      "count": 17
+    },
+    {
+      "slug": "hadja-lahbib",
+      "name": "Hadja Lahbib",
+      "status": "ok",
+      "count": 1
+    },
+    {
       "slug": "hans-van-den-broek",
       "name": "Hans van den Broek",
       "status": "ok",
-      "count": 9
-    },
-    {
-      "slug": "henna-virkkunen",
-      "name": "Henna Virkkunen",
-      "status": "ok",
-      "count": 2
-    },
-    {
-      "slug": "jacek-dominik",
-      "name": "Jacek Dominik",
-      "status": "skip",
-      "count": 0
+      "count": 8
     },
     {
       "slug": "helena-dalli",
@@ -305,10 +299,10 @@
       "count": 6
     },
     {
-      "slug": "gunther-oettinger",
-      "name": "G\u00fcnther Oettinger",
+      "slug": "henna-virkkunen",
+      "name": "Henna Virkkunen",
       "status": "ok",
-      "count": 17
+      "count": 2
     },
     {
       "slug": "iliana-ivanova",
@@ -317,8 +311,8 @@
       "count": 5
     },
     {
-      "slug": "janez-potocnik",
-      "name": "Janez Potocnik",
+      "slug": "jacek-dominik",
+      "name": "Jacek Dominik",
       "status": "skip",
       "count": 0
     },
@@ -332,13 +326,13 @@
       "slug": "jacques-santer",
       "name": "Jacques Santer",
       "status": "ok",
-      "count": 2
+      "count": 1
     },
     {
-      "slug": "jessika-roswall",
-      "name": "Jessika Roswall",
+      "slug": "jan-figel",
+      "name": "J\u00e1n Fige\u013e",
       "status": "ok",
-      "count": 1
+      "count": 5
     },
     {
       "slug": "janez-lenarcic",
@@ -347,10 +341,40 @@
       "count": 3
     },
     {
+      "slug": "janez-potocnik",
+      "name": "Janez Potocnik",
+      "status": "skip",
+      "count": 0
+    },
+    {
       "slug": "janusz-wojciechowski",
       "name": "Janusz Wojciechowski",
       "status": "ok",
-      "count": 3
+      "count": 4
+    },
+    {
+      "slug": "jean-claude-juncker",
+      "name": "Jean-Claude Juncker",
+      "status": "ok",
+      "count": 14
+    },
+    {
+      "slug": "jessika-roswall",
+      "name": "Jessika Roswall",
+      "status": "ok",
+      "count": 1
+    },
+    {
+      "slug": "joao-de-deus-pinheiro",
+      "name": "Jo\u00e3o de Deus Pinheiro",
+      "status": "ok",
+      "count": 1
+    },
+    {
+      "slug": "joaquin-almunia",
+      "name": "Joaqu\u00edn Almunia",
+      "status": "ok",
+      "count": 13
     },
     {
       "slug": "joe-borg",
@@ -359,20 +383,26 @@
       "count": 2
     },
     {
+      "slug": "johannes-hahn",
+      "name": "Johannes Hahn",
+      "status": "ok",
+      "count": 5
+    },
+    {
       "slug": "john-dalli",
       "name": "John Dalli",
       "status": "ok",
       "count": 1
     },
     {
-      "slug": "johannes-hahn",
-      "name": "Johannes Hahn",
+      "slug": "jonathan-hill",
+      "name": "Jonathan Hill",
       "status": "ok",
-      "count": 7
+      "count": 4
     },
     {
-      "slug": "josep-borrell",
-      "name": "Josep Borrell",
+      "slug": "jose-manuel-barroso",
+      "name": "Jos\u00e9 Manuel Barroso",
       "status": "skip",
       "count": 0
     },
@@ -389,40 +419,28 @@
       "count": 0
     },
     {
-      "slug": "jose-manuel-barroso",
-      "name": "Jos\u00e9 Manuel Barroso",
+      "slug": "josep-borrell",
+      "name": "Josep Borrell",
       "status": "skip",
       "count": 0
-    },
-    {
-      "slug": "jonathan-hill",
-      "name": "Jonathan Hill",
-      "status": "ok",
-      "count": 4
-    },
-    {
-      "slug": "joao-de-deus-pinheiro",
-      "name": "Jo\u00e3o de Deus Pinheiro",
-      "status": "ok",
-      "count": 1
-    },
-    {
-      "slug": "jean-claude-juncker",
-      "name": "Jean-Claude Juncker",
-      "status": "ok",
-      "count": 14
-    },
-    {
-      "slug": "joaquin-almunia",
-      "name": "Joaqu\u00edn Almunia",
-      "status": "ok",
-      "count": 13
     },
     {
       "slug": "jozef-sikela",
       "name": "Jozef S\u00edkela",
       "status": "ok",
       "count": 3
+    },
+    {
+      "slug": "jutta-urpilainen",
+      "name": "Jutta Urpilainen",
+      "status": "ok",
+      "count": 14
+    },
+    {
+      "slug": "jyrki-katainen",
+      "name": "Jyrki Katainen",
+      "status": "ok",
+      "count": 4
     },
     {
       "slug": "kadri-simson",
@@ -449,16 +467,28 @@
       "count": 5
     },
     {
-      "slug": "jyrki-katainen",
-      "name": "Jyrki Katainen",
+      "slug": "karmenu-vella",
+      "name": "Karmenu Vella",
       "status": "ok",
-      "count": 4
+      "count": 20
     },
     {
-      "slug": "jan-figel",
-      "name": "J\u00e1n Fige\u013e",
+      "slug": "kristalina-georgieva",
+      "name": "Kristalina Georgieva",
+      "status": "ok",
+      "count": 12
+    },
+    {
+      "slug": "laszlo-andor",
+      "name": "L\u00e1szl\u00f3 Andor",
       "status": "ok",
       "count": 5
+    },
+    {
+      "slug": "laszlo-kovacs",
+      "name": "L\u00e1szl\u00f3 Kov\u00e1cs",
+      "status": "skip",
+      "count": 0
     },
     {
       "slug": "leonard-orban",
@@ -473,46 +503,10 @@
       "count": 0
     },
     {
-      "slug": "jutta-urpilainen",
-      "name": "Jutta Urpilainen",
-      "status": "ok",
-      "count": 14
-    },
-    {
-      "slug": "kristalina-georgieva",
-      "name": "Kristalina Georgieva",
-      "status": "ok",
-      "count": 12
-    },
-    {
-      "slug": "laszlo-kovacs",
-      "name": "L\u00e1szl\u00f3 Kov\u00e1cs",
-      "status": "skip",
-      "count": 0
-    },
-    {
       "slug": "loyola-de-palacio",
       "name": "Loyola de Palacio",
       "status": "ok",
-      "count": 5
-    },
-    {
-      "slug": "laszlo-andor",
-      "name": "L\u00e1szl\u00f3 Andor",
-      "status": "ok",
-      "count": 5
-    },
-    {
-      "slug": "manuel-marin",
-      "name": "Manuel Marin",
-      "status": "skip",
-      "count": 0
-    },
-    {
-      "slug": "mairead-mcguinness",
-      "name": "Mairead McGuinness",
-      "status": "ok",
-      "count": 4
+      "count": 2
     },
     {
       "slug": "magnus-brunner",
@@ -521,14 +515,20 @@
       "count": 6
     },
     {
-      "slug": "margaritis-schinas",
-      "name": "Margaritis Schinas",
+      "slug": "maire-geoghegan-quinn",
+      "name": "M\u00e1ire Geoghegan-Quinn",
       "status": "ok",
-      "count": 2
+      "count": 7
     },
     {
-      "slug": "margrethe-vestager",
-      "name": "Margrethe Vestager",
+      "slug": "mairead-mcguinness",
+      "name": "Mairead McGuinness",
+      "status": "ok",
+      "count": 4
+    },
+    {
+      "slug": "manuel-marin",
+      "name": "Manuel Marin",
       "status": "skip",
       "count": 0
     },
@@ -539,28 +539,10 @@
       "count": 6
     },
     {
-      "slug": "maria-damanaki",
-      "name": "Maria Damanaki",
+      "slug": "margaritis-schinas",
+      "name": "Margaritis Schinas",
       "status": "ok",
-      "count": 1
-    },
-    {
-      "slug": "mariann-fischer-boel",
-      "name": "Mariann Fischer Boel",
-      "status": "skip",
-      "count": 0
-    },
-    {
-      "slug": "maria-luis-albuquerque",
-      "name": "Maria Lu\u00eds Albuquerque",
-      "status": "ok",
-      "count": 3
-    },
-    {
-      "slug": "marianne-thyssen",
-      "name": "Marianne Thyssen",
-      "status": "ok",
-      "count": 6
+      "count": 2
     },
     {
       "slug": "margot-wallstrom",
@@ -569,16 +551,46 @@
       "count": 16
     },
     {
+      "slug": "margrethe-vestager",
+      "name": "Margrethe Vestager",
+      "status": "skip",
+      "count": 0
+    },
+    {
+      "slug": "maria-damanaki",
+      "name": "Maria Damanaki",
+      "status": "ok",
+      "count": 1
+    },
+    {
+      "slug": "maria-luis-albuquerque",
+      "name": "Maria Lu\u00eds Albuquerque",
+      "status": "ok",
+      "count": 3
+    },
+    {
+      "slug": "mariann-fischer-boel",
+      "name": "Mariann Fischer Boel",
+      "status": "skip",
+      "count": 0
+    },
+    {
+      "slug": "marianne-thyssen",
+      "name": "Marianne Thyssen",
+      "status": "ok",
+      "count": 6
+    },
+    {
+      "slug": "mario-monti",
+      "name": "Mario Monti",
+      "status": "ok",
+      "count": 19
+    },
+    {
       "slug": "mariya-gabriel",
       "name": "Mariya Gabriel",
       "status": "ok",
-      "count": 7
-    },
-    {
-      "slug": "maros-sefcovic",
-      "name": "Maro\u0161 \u0160ef\u010dovi\u010d",
-      "status": "ok",
-      "count": 1
+      "count": 8
     },
     {
       "slug": "markos-kyprianou",
@@ -587,16 +599,16 @@
       "count": 5
     },
     {
+      "slug": "maros-sefcovic",
+      "name": "Maro\u0161 \u0160ef\u010dovi\u010d",
+      "status": "ok",
+      "count": 1
+    },
+    {
       "slug": "marta-kos",
       "name": "Marta Kos",
       "status": "ok",
       "count": 2
-    },
-    {
-      "slug": "mario-monti",
-      "name": "Mario Monti",
-      "status": "ok",
-      "count": 19
     },
     {
       "slug": "martin-bangemann",
@@ -626,13 +638,7 @@
       "slug": "michel-barnier",
       "name": "Michel Barnier",
       "status": "ok",
-      "count": 3
-    },
-    {
-      "slug": "karmenu-vella",
-      "name": "Karmenu Vella",
-      "status": "ok",
-      "count": 21
+      "count": 4
     },
     {
       "slug": "miguel-arias-canete",
@@ -647,10 +653,10 @@
       "count": 7
     },
     {
-      "slug": "maire-geoghegan-quinn",
-      "name": "M\u00e1ire Geoghegan-Quinn",
+      "slug": "neelie-kroes",
+      "name": "Neelie Kroes",
       "status": "ok",
-      "count": 7
+      "count": 9
     },
     {
       "slug": "neil-kinnock",
@@ -659,10 +665,10 @@
       "count": 5
     },
     {
-      "slug": "oliver-varhelyi",
-      "name": "Oliv\u00e9r V\u00e1rhelyi",
-      "status": "skip",
-      "count": 0
+      "slug": "neven-mimica",
+      "name": "Neven Mimica",
+      "status": "ok",
+      "count": 2
     },
     {
       "slug": "nicolas-schmit",
@@ -671,34 +677,10 @@
       "count": 1
     },
     {
-      "slug": "neven-mimica",
-      "name": "Neven Mimica",
-      "status": "ok",
-      "count": 2
-    },
-    {
-      "slug": "padraig-flynn",
-      "name": "Padraig Flynn",
-      "status": "ok",
-      "count": 1
-    },
-    {
-      "slug": "neelie-kroes",
-      "name": "Neelie Kroes",
-      "status": "ok",
-      "count": 11
-    },
-    {
-      "slug": "pedro-solbes",
-      "name": "Pedro Solbes",
-      "status": "ok",
-      "count": 5
-    },
-    {
-      "slug": "paolo-gentiloni",
-      "name": "Paolo Gentiloni",
-      "status": "ok",
-      "count": 8
+      "slug": "oliver-varhelyi",
+      "name": "Oliv\u00e9r V\u00e1rhelyi",
+      "status": "skip",
+      "count": 0
     },
     {
       "slug": "olli-rehn",
@@ -707,10 +689,28 @@
       "count": 13
     },
     {
-      "slug": "phil-hogan",
-      "name": "Phil Hogan",
+      "slug": "padraig-flynn",
+      "name": "Padraig Flynn",
       "status": "ok",
-      "count": 4
+      "count": 1
+    },
+    {
+      "slug": "paolo-gentiloni",
+      "name": "Paolo Gentiloni",
+      "status": "ok",
+      "count": 7
+    },
+    {
+      "slug": "pascal-lamy",
+      "name": "Pascal Lamy",
+      "status": "ok",
+      "count": 21
+    },
+    {
+      "slug": "pedro-solbes",
+      "name": "Pedro Solbes",
+      "status": "ok",
+      "count": 5
     },
     {
       "slug": "peter-mandelson",
@@ -719,10 +719,22 @@
       "count": 6
     },
     {
+      "slug": "phil-hogan",
+      "name": "Phil Hogan",
+      "status": "ok",
+      "count": 3
+    },
+    {
       "slug": "philippe-busquin",
       "name": "Philippe Busquin",
       "status": "ok",
       "count": 5
+    },
+    {
+      "slug": "pierre-moscovici",
+      "name": "Pierre Moscovici",
+      "status": "ok",
+      "count": 16
     },
     {
       "slug": "piotr-serafin",
@@ -737,16 +749,10 @@
       "count": 1
     },
     {
-      "slug": "pascal-lamy",
-      "name": "Pascal Lamy",
+      "slug": "raffaele-fitto",
+      "name": "Raffaele Fitto",
       "status": "ok",
-      "count": 22
-    },
-    {
-      "slug": "pierre-moscovici",
-      "name": "Pierre Moscovici",
-      "status": "ok",
-      "count": 9
+      "count": 6
     },
     {
       "slug": "ritt-bjerregaard",
@@ -761,34 +767,22 @@
       "count": 2
     },
     {
-      "slug": "sir-julian-king",
-      "name": "Sir Julian King",
-      "status": "skip",
-      "count": 0
-    },
-    {
-      "slug": "raffaele-fitto",
-      "name": "Raffaele Fitto",
-      "status": "ok",
-      "count": 6
-    },
-    {
       "slug": "roxana-minzatu",
       "name": "Roxana M\u00eenzatu",
       "status": "ok",
       "count": 2
     },
     {
-      "slug": "stefan-fule",
-      "name": "Stefan F\u00fcle",
-      "status": "skip",
-      "count": 0
+      "slug": "siim-kallas",
+      "name": "Siim Kallas",
+      "status": "ok",
+      "count": 7
     },
     {
-      "slug": "stavros-dimas",
-      "name": "Stavros Dimas",
-      "status": "ok",
-      "count": 3
+      "slug": "sir-julian-king",
+      "name": "Sir Julian King",
+      "status": "skip",
+      "count": 0
     },
     {
       "slug": "sir-leon-brittan",
@@ -797,10 +791,16 @@
       "count": 6
     },
     {
-      "slug": "siim-kallas",
-      "name": "Siim Kallas",
+      "slug": "stavros-dimas",
+      "name": "Stavros Dimas",
       "status": "ok",
-      "count": 7
+      "count": 3
+    },
+    {
+      "slug": "stefan-fule",
+      "name": "Stefan F\u00fcle",
+      "status": "skip",
+      "count": 0
     },
     {
       "slug": "stella-kyriakides",
@@ -815,28 +815,10 @@
       "count": 7
     },
     {
-      "slug": "tonio-borg",
-      "name": "Tonio Borg",
-      "status": "ok",
-      "count": 1
-    },
-    {
-      "slug": "tibor-navracsics",
-      "name": "Tibor Navracsics",
-      "status": "ok",
-      "count": 5
-    },
-    {
       "slug": "teresa-ribera",
       "name": "Teresa Ribera",
       "status": "ok",
       "count": 8
-    },
-    {
-      "slug": "violeta-bulc",
-      "name": "Violeta Bulc",
-      "status": "ok",
-      "count": 2
     },
     {
       "slug": "thierry-breton",
@@ -845,28 +827,22 @@
       "count": 13
     },
     {
+      "slug": "tibor-navracsics",
+      "name": "Tibor Navracsics",
+      "status": "ok",
+      "count": 5
+    },
+    {
+      "slug": "tonio-borg",
+      "name": "Tonio Borg",
+      "status": "ok",
+      "count": 1
+    },
+    {
       "slug": "ursula-von-der-leyen",
       "name": "Ursula von der Leyen",
       "status": "ok",
       "count": 6
-    },
-    {
-      "slug": "vladimir-spidla",
-      "name": "Vladim\u00edr \u0160pidla",
-      "status": "skip",
-      "count": 0
-    },
-    {
-      "slug": "virginijus-sinkevicius",
-      "name": "Virginijus Sinkevi\u010dius",
-      "status": "ok",
-      "count": 3
-    },
-    {
-      "slug": "vera-jourova",
-      "name": "V\u011bra Jourov\u00e1",
-      "status": "ok",
-      "count": 1
     },
     {
       "slug": "valdis-dombrovskis",
@@ -875,8 +851,44 @@
       "count": 13
     },
     {
+      "slug": "vera-jourova",
+      "name": "V\u011bra Jourov\u00e1",
+      "status": "ok",
+      "count": 1
+    },
+    {
+      "slug": "violeta-bulc",
+      "name": "Violeta Bulc",
+      "status": "ok",
+      "count": 2
+    },
+    {
+      "slug": "virginijus-sinkevicius",
+      "name": "Virginijus Sinkevi\u010dius",
+      "status": "ok",
+      "count": 4
+    },
+    {
+      "slug": "viviane-reding",
+      "name": "Viviane Reding",
+      "status": "ok",
+      "count": 12
+    },
+    {
+      "slug": "vladimir-spidla",
+      "name": "Vladim\u00edr \u0160pidla",
+      "status": "skip",
+      "count": 0
+    },
+    {
       "slug": "vytenis-andriukaitis",
       "name": "Vytenis Andriukaitis",
+      "status": "ok",
+      "count": 8
+    },
+    {
+      "slug": "wopke-hoekstra",
+      "name": "Wopke Hoekstra",
       "status": "ok",
       "count": 8
     },
@@ -887,22 +899,10 @@
       "count": 1
     },
     {
-      "slug": "viviane-reding",
-      "name": "Viviane Reding",
-      "status": "ok",
-      "count": 12
-    },
-    {
       "slug": "yves-thibault-de-silguy",
       "name": "Yves-Thibault de Silguy",
       "status": "ok",
       "count": 2
-    },
-    {
-      "slug": "wopke-hoekstra",
-      "name": "Wopke Hoekstra",
-      "status": "ok",
-      "count": 8
     }
   ]
 }

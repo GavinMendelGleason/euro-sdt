@@ -5,8 +5,8 @@
   "orgs": [
     {
       "organisation": "Corporate Europe Observatory",
-      "role": "subject of a report request",
-      "reasoning": "The phrase states that the Supervisory Committee sent its report to Corporate Europe Observatory in answer to a request, indicating Dalli's case was of interest to this NGO, but does not show Dalli's membership or affiliation with it.",
+      "role": "subject of request (not member)",
+      "reasoning": "The phrase mentions Corporate Europe Observatory as an NGO that requested a report, but does not indicate Dalli was a member, board member, or affiliated with it.",
       "phrase": 41,
       "evidence": "They sent the report to Corporate Europe Observatory in answer to a request that the latter NGO had made months before."
     }

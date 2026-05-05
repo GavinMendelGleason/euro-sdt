@@ -13,14 +13,14 @@
     {
       "organisation": "Austrian Federal Youth Council (ÖBJR)",
       "role": "member",
-      "reasoning": "The phrase states Hahn was 'active in' the Austrian Federal Youth Council, which implies membership or affiliation with this youth council.",
+      "reasoning": "The phrase states Hahn was 'active in' the Austrian Federal Youth Council, which implies membership or participation in this youth council.",
       "phrase": 19,
       "evidence": "Years from 1987 to 2007\nFrom 1987 to 1989 Hahn worked as Secretary General of the Austrian Managers Association, and was active in the Austrian Federal Youth Council (ÖBJR) and the General Secretariat of the Austrian People's Party (ÖVP)."
     },
     {
       "organisation": "Youth Organisation of the Austrian People's Party (JVP)",
       "role": "chairman of the Vienna group",
-      "reasoning": "The phrase explicitly states Hahn was chairman of the Vienna group of the JVP, a political youth organisation, from 1980 to 1985.",
+      "reasoning": "The phrase explicitly states Hahn was chairman of the Vienna group of the JVP, a political youth organisation.",
       "phrase": 4,
       "evidence": "Early life\nHahn studied at the University of Vienna and began his political career in the youth organisation of the Austrian People's Party (JVP), where he was chairman of the Vienna group from 1980 to 1985."
     },
@@ -32,26 +32,12 @@
       "evidence": "In the 1980s, Hahn drafted the first European manifesto of the ÖVP's youth wing, where he was deputy leader."
     },
     {
-      "organisation": "Novomatic",
-      "role": "member of the supervisory board",
-      "reasoning": "The phrase states Hahn served as a member of the supervisory board at Novomatic from 1997 to 2003, a formal board position.",
-      "phrase": 21,
-      "evidence": "In the same years (1997–2003) he served as a member of the supervisory board at Novomatic, an online gaming and casino management system firm, of which he was appointed CEO in 2003."
-    },
-    {
-      "organisation": "Novomatic",
-      "role": "member of the executive board",
-      "reasoning": "The phrase states Hahn was a member of the executive board of Novomatic from 1997 onwards, indicating a board-level position.",
-      "phrase": 24,
-      "evidence": "Activities for Novomatic\nFrom 1997 onwards, Hahn was member of the executive board of Novomatic."
-    },
-    {
       "organisation": "European Investment Bank (EIB)",
       "role": "Member of the Appointment Advisory Committee",
-      "reasoning": "The phrase explicitly states Hahn has been a Member of the Appointment Advisory Committee of the European Investment Bank since 2025, an advisory body within this international financial institution.",
+      "reasoning": "The phrase explicitly states Hahn has been a Member of the Appointment Advisory Committee of the EIB since 2025, which is an international body.",
       "phrase": 80,
       "evidence": "Other activities\nEuropean Investment Bank (EIB), Member of the Appointment Advisory Committee (since 2025)\n\n\nHonours\n – Grand Decoration of Honour in Gold with Sash for Services to the Republic of Austria."
     }
   ],
-  "count": 7
+  "count": 5
 }

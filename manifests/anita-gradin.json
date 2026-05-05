@@ -55,14 +55,14 @@
     {
       "organisation": "School Board's Educational Board",
       "role": "member",
-      "reasoning": "The phrase states she was 'Member of the School Board's Educational Board', indicating membership on this board.",
+      "reasoning": "The phrase states she was 'Member of the School Board's Educational Board', indicating membership on this educational board.",
       "phrase": 8,
       "evidence": "Gradin was employed by the Social Affairs Planning Committee in Stockholm as secretary of the City College's Women's Affairs Committee, 1963–67, Secretary of State at the 1963 Council of Ministers, Member of the School Board's Educational Board 1971–81, by the International Health and Social Affairs Committee 1972–78, chairman of the Board of International Adoption Issues 1973–79 and Member of the 1982 Experts Group on Immigration Research."
     },
     {
       "organisation": "International Health and Social Affairs Committee",
       "role": "member",
-      "reasoning": "The phrase states she was a member 'by the International Health and Social Affairs Committee', indicating affiliation with this committee.",
+      "reasoning": "The phrase states she was a member 'by the International Health and Social Affairs Committee', indicating membership in this committee.",
       "phrase": 8,
       "evidence": "Gradin was employed by the Social Affairs Planning Committee in Stockholm as secretary of the City College's Women's Affairs Committee, 1963–67, Secretary of State at the 1963 Council of Ministers, Member of the School Board's Educational Board 1971–81, by the International Health and Social Affairs Committee 1972–78, chairman of the Board of International Adoption Issues 1973–79 and Member of the 1982 Experts Group on Immigration Research."
     },
@@ -97,7 +97,7 @@
     {
       "organisation": "Delegation for Gender Equality",
       "role": "member",
-      "reasoning": "The phrase states she was a member 'by the Delegation for Gender Equality', indicating affiliation with this delegation.",
+      "reasoning": "The phrase states she was a member 'by the Delegation for Gender Equality', indicating membership in this delegation.",
       "phrase": 9,
       "evidence": "Gradin was a member of the 1974 Semester Committee 1974–1975, of the 1974–1977 Research Education Survey, by the Delegation for Gender Equality 1975–1976, by the 1978–81 Research Co-operation Committee and by the 1980–80 Abortion Committee."
     },
@@ -125,7 +125,7 @@
     {
       "organisation": "Stockholm's workers' municipality",
       "role": "board member",
-      "reasoning": "The phrase states she was 'a board member of Stockholm's workers' municipality', indicating a board position in this local labour organisation.",
+      "reasoning": "The phrase states she was 'a board member of Stockholm's workers' municipality', indicating a board position in this local workers' organisation.",
       "phrase": 10,
       "evidence": "She was a specialist in the hotel and restaurant survey 1974–78, a member of the 1975 business committee 1975–77, chairman of Sweden's social association 1976–81, and a board member of Stockholm's workers' municipality 1968–82."
     },
@@ -153,7 +153,7 @@
     {
       "organisation": "Council of Europe's Swedish delegation",
       "role": "member",
-      "reasoning": "The phrase states she was 'Alternate member of the Council of Europe's Swedish delegation 1973–80 and member 1981–82', indicating membership in this delegation to the Council of Europe.",
+      "reasoning": "The phrase states she was 'member 1981–82' of the 'Council of Europe's Swedish delegation', indicating membership in this international body's delegation.",
       "phrase": 22,
       "evidence": "Positions\nMember of the Riksdag (in the second chamber of Stockholm city 1969–70) 1969–1992\nDeputy member of the 1969–70 Committees\nDeputy member of the Justice Committee 1971–82\nMember of the Education Committee 1971–76\nMember of the Finance Committee 1976–82\nAlternate member of the Council of Europe's Swedish delegation 1973–80 and member 1981–82\nState Council 8 October 1982 – 1991\nMinistry of Labor (Minister for Immigration and Equal Opportunities) 1982–1986\nMinister of Foreign Trade 1986–1991\nMember of the Riksdag, Vice Chairman of the Committee on Nutrition 1991–1992\nAmbassador to Vienna 1992–1994\nMember of the European Commission 1995–1999\nChairman of the Chamber of Commerce Sweden-Israel\n\n\nAwards and decorations\n  Grand Decoration of Honour in Gold with Sash for Services to the Republic of Austria (1994)\n Nominated on 9 May 2007 by the European Movement in Sweden to the 2007 European of the Year in Sweden."
     },
@@ -163,7 +163,14 @@
       "reasoning": "The phrase states she was 'Chairman of the Chamber of Commerce Sweden-Israel', indicating a leadership role in this bilateral business organisation.",
       "phrase": 22,
       "evidence": "Positions\nMember of the Riksdag (in the second chamber of Stockholm city 1969–70) 1969–1992\nDeputy member of the 1969–70 Committees\nDeputy member of the Justice Committee 1971–82\nMember of the Education Committee 1971–76\nMember of the Finance Committee 1976–82\nAlternate member of the Council of Europe's Swedish delegation 1973–80 and member 1981–82\nState Council 8 October 1982 – 1991\nMinistry of Labor (Minister for Immigration and Equal Opportunities) 1982–1986\nMinister of Foreign Trade 1986–1991\nMember of the Riksdag, Vice Chairman of the Committee on Nutrition 1991–1992\nAmbassador to Vienna 1992–1994\nMember of the European Commission 1995–1999\nChairman of the Chamber of Commerce Sweden-Israel\n\n\nAwards and decorations\n  Grand Decoration of Honour in Gold with Sash for Services to the Republic of Austria (1994)\n Nominated on 9 May 2007 by the European Movement in Sweden to the 2007 European of the Year in Sweden."
+    },
+    {
+      "organisation": "European Movement in Sweden",
+      "role": "nominee (European of the Year)",
+      "reasoning": "The phrase states she was 'Nominated on 9 May 2007 by the European Movement in Sweden', indicating affiliation as a nominee of this pro-European advocacy group.",
+      "phrase": 22,
+      "evidence": "Positions\nMember of the Riksdag (in the second chamber of Stockholm city 1969–70) 1969–1992\nDeputy member of the 1969–70 Committees\nDeputy member of the Justice Committee 1971–82\nMember of the Education Committee 1971–76\nMember of the Finance Committee 1976–82\nAlternate member of the Council of Europe's Swedish delegation 1973–80 and member 1981–82\nState Council 8 October 1982 – 1991\nMinistry of Labor (Minister for Immigration and Equal Opportunities) 1982–1986\nMinister of Foreign Trade 1986–1991\nMember of the Riksdag, Vice Chairman of the Committee on Nutrition 1991–1992\nAmbassador to Vienna 1992–1994\nMember of the European Commission 1995–1999\nChairman of the Chamber of Commerce Sweden-Israel\n\n\nAwards and decorations\n  Grand Decoration of Honour in Gold with Sash for Services to the Republic of Austria (1994)\n Nominated on 9 May 2007 by the European Movement in Sweden to the 2007 European of the Year in Sweden."
     }
   ],
-  "count": 23
+  "count": 24
 }
