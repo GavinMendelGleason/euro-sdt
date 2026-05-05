@@ -85,19 +85,22 @@ def build_verification_prompt(fact, provenance, entity_name, obj_display, org_di
     if phrase_idx <= 0:
         source_name = provenance[2]  # citation_id
         context = provenance[5] or ''  # context_text is element 5
-        return f"""You are a fact-checker. Verify whether a claimed fact is traceable to a source.
+        return f"""You are a fact-checker. Verify whether a claimed fact is supported by its source context.
 
 CLAIM: {entity_name} — {predicate}: {obj_display}
 MEANING: {PREDICATE_CONTEXT.get(predicate, '')}
 
-SOURCE REFERENCE: {source_name}
-SOURCE CONTEXT: {context[:500]}
+SOURCE CONTEXT (excerpt from the cited document):
+  {context[:800]}
 
-TASK: Can this fact be verified from this source? The source is a well-known institutional record (Wikipedia commission page, Wikidata, European Commission CV PDF, CJEU website, or EC ethics page). Reply with:
-  TRACEABLE - the source type is appropriate for verifying this kind of claim
-  UNTRACEABLE - the source type cannot verify this claim
+TASK: Compare the claim against the source context. Is the claim supported?
+Check carefully for misclassifications — e.g., is the organisation in the claim
+the SAME as the one mentioned in the context? Reply with:
+  SUPPORTED — the context confirms the claim
+  UNSUPPORTED — the context contradicts or does not match the claim
+  AMBIGUOUS — unclear
 
-VERDICT: <TRACEABLE|UNTRACEABLE>
+VERDICT: <SUPPORTED|UNSUPPORTED|AMBIGUOUS>
 REASON: <one sentence>"""
 
     context = PREDICATE_CONTEXT.get(predicate, '')
@@ -206,7 +209,7 @@ def verify_all(db, limit=None, dry_run=False):
                 verdict = v_match.group(1).upper() if v_match else 'PARSE_ERROR'
                 reason  = r_match.group(1).strip() if r_match else response[:200]
 
-                # Normalise: TRACEABLE → SUPPORTED, UNTRACEABLE → UNSUPPORTED
+                # Normalise: TRACEABLE → SUPPORTED, UNTRACEABLE → UNSUPPORTED (legacy)
                 if verdict == 'TRACEABLE': verdict = 'SUPPORTED'
                 if verdict == 'UNTRACEABLE': verdict = 'UNSUPPORTED'
             else:
