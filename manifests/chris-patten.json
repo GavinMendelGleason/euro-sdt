@@ -1,0 +1,43 @@
+{
+  "status": "ok",
+  "slug": "chris-patten",
+  "name": "Chris Patten",
+  "orgs": [
+    {
+      "organisation": "Conservative Party",
+      "role": "Chairman",
+      "reasoning": "The phrase explicitly states he was Chairman of the Conservative Party from 1990 to 1992.",
+      "phrase": 0,
+      "evidence": "Christopher Francis Patten, Baron Patten of Barnes (Chinese: 彭定康; born 12 May 1944), is a British politician who was the Chairman of the Conservative Party from 1990 to 1992, and the 28th and last Governor of Hong Kong from 1992 to 1997."
+    },
+    {
+      "organisation": "Independent Commission on Policing for Northern Ireland",
+      "role": "Chair",
+      "reasoning": "The phrase states he led (chaired) the Independent Commission on Policing for Northern Ireland from 1998 to 1999.",
+      "phrase": 11,
+      "evidence": "Following his governorship, Patten led the Independent Commission on Policing for Northern Ireland, a major implementation step of the Northern Ireland peace process pursuant to the Good Friday Agreement from 1998 to 1999."
+    },
+    {
+      "organisation": "BBC Trust",
+      "role": "Chairman",
+      "reasoning": "The phrase explicitly states he was Chairman of the BBC Trust from 2011 to 2014.",
+      "phrase": 12,
+      "evidence": "He was European Commissioner for External Relations from 1999 to 2004 and Chairman of the BBC Trust from 2011 to 2014."
+    },
+    {
+      "organisation": "International Crisis Group",
+      "role": "Co-chair",
+      "reasoning": "The phrase states he is the co-chair of International Crisis Group, overseeing many international operations.",
+      "phrase": 57,
+      "evidence": "He is the co-chair of International Crisis Group, overseeing many international operations."
+    },
+    {
+      "organisation": "Global Leadership Foundation",
+      "role": "Member",
+      "reasoning": "The phrase states he is a member of the Global Leadership Foundation, an organisation promoting good governance.",
+      "phrase": 58,
+      "evidence": "He is also a member of the Global Leadership Foundation, an organisation which works to promote good governance around the world."
+    }
+  ],
+  "count": 5
+}

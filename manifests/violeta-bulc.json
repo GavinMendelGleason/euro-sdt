@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "slug": "violeta-bulc",
+  "name": "Violeta Bulc",
+  "orgs": [
+    {
+      "organisation": "Joint European Disruptive Initiative",
+      "role": "board member",
+      "reasoning": "The phrase explicitly states that Bulc became a board member of this organisation in 2022.",
+      "phrase": 8,
+      "evidence": "Other activities\nIn 2022, Bulc became a board member of the Joint European Disruptive Initiative."
+    },
+    {
+      "organisation": "Alliance of Liberals and Democrats for Europe Party",
+      "role": "member of 'Team Europe'",
+      "reasoning": "The phrase indicates she was picked by this party to spearhead its campaign, implying affiliation as part of its 'Team Europe' initiative.",
+      "phrase": 7,
+      "evidence": "Led by Margrethe Vestager, Bulc was among the seven-strong \"Team Europe\" that the centrist Alliance of Liberals and Democrats for Europe Party picked to spearhead its pro-EU, liberal campaign ahead of the 2019 European elections."
+    }
+  ],
+  "count": 2
+}

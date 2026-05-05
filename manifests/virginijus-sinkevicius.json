@@ -1,0 +1,29 @@
+{
+  "status": "ok",
+  "slug": "virginijus-sinkevicius",
+  "name": "Virginijus Sinkevičius",
+  "orgs": [
+    {
+      "organisation": "Center for European Policy Analysis (CEPA)",
+      "role": "Assistant Project Manager",
+      "reasoning": "The phrase states he worked as an Assistant Project Manager at CEPA, a think tank focused on transatlantic policy, which is a direct affiliation with a policy institute.",
+      "phrase": 10,
+      "evidence": "In 2013–2014, he gained international experience as an Assistant Project Manager at the Center for European Policy Analysis (CEPA) in Washington, D.C., where he worked on transatlantic policy initiatives."
+    },
+    {
+      "organisation": "Investors’ Forum",
+      "role": "Award recipient",
+      "reasoning": "The phrase states he was awarded by the association Investors’ Forum, indicating he was recognized by this professional association, implying affiliation.",
+      "phrase": 31,
+      "evidence": "Recognition\nIn 2018, Sinkevičius was awarded for The Best Solution for Better Business Environment of the Year by the association Investors’ Forum, and Blockchain Leadership at #SWITCH!"
+    },
+    {
+      "organisation": "Lithuanian Business Confederation",
+      "role": "Award recipient",
+      "reasoning": "The phrase states he received an award from the organisation Lithuanian Business Confederation, indicating he was recognized by this business association, implying affiliation.",
+      "phrase": 33,
+      "evidence": "In 2019, he received the Partnership Leader 2018 award for innovation reform and development of startup ecosystem from the organisation Lithuanian Business Confederation."
+    }
+  ],
+  "count": 3
+}

@@ -1,0 +1,57 @@
+{
+  "status": "ok",
+  "slug": "siim-kallas",
+  "name": "Siim Kallas",
+  "orgs": [
+    {
+      "organisation": "Communist Party of the Soviet Union",
+      "role": "member",
+      "reasoning": "The phrase explicitly states Kallas was a member of the Communist Party of the Soviet Union from 1972 to 1990.",
+      "phrase": 1,
+      "evidence": "From 1972 to 1990 Kallas was a member of the Communist Party of the Soviet Union."
+    },
+    {
+      "organisation": "Communist Party of Estonia",
+      "role": "chief editor of its official newspaper",
+      "reasoning": "The phrase states Kallas was chief editor of Rahva Hääl, the official newspaper of the Communist Party of Estonia, indicating an affiliated leadership role.",
+      "phrase": 5,
+      "evidence": "Kallas was the chief editor of Rahva Hääl, the official newspaper of the Communist Party of Estonia, in 1989–1991."
+    },
+    {
+      "organisation": "Congress of People's Deputies of the Soviet Union",
+      "role": "member",
+      "reasoning": "The phrase explicitly states he was elected a member of the Congress of People's Deputies of the Soviet Union.",
+      "phrase": 6,
+      "evidence": "He was elected a member of the Congress of People's Deputies of the Soviet Union in the 1989 Soviet Union legislative election, the first partially free elections in the Soviet Union."
+    },
+    {
+      "organisation": "Estonian Reform Party",
+      "role": "founder",
+      "reasoning": "The phrase states Kallas was one of the founders of the liberal Estonian Reform Party.",
+      "phrase": 9,
+      "evidence": "Kallas entered politics in 1994 as one of the founders of liberal Estonian Reform Party, which was successful in the 1995 parliamentary elections."
+    },
+    {
+      "organisation": "Central Union of the Estonian Trade Unions",
+      "role": "Chairman",
+      "reasoning": "The phrase explicitly states he was Chairman of the Central Union of the Estonian Trade Unions from 1989 to 1991.",
+      "phrase": 22,
+      "evidence": "1986–1989: Deputy chief editor of the Communist Party of Estonia newspaper Rahva Hääl\n1989–1991: Chairman of the Central Union of the Estonian Trade Unions\n1989–1991: Member of the Congress of People's Deputies of the Soviet Union\n1991–1995: President of the Bank of Estonia\n1995–2004: Member of the Parliament of the Republic of Estonia\n1995–1996: Minister of Foreign Affairs\n1996: Chairman of the Committee of Ministers of the Council of Europe\n1999–2002: Minister of Finance\n2002–2003: Prime minister\n2004–2004: EU Commissioner for Economic and Monetary Affairs, serving with Joaquín Almunia\n2004–2010: EU Commissioner for Administrative Affairs, Audit and Anti-Fraud and vice-president of the Commission\n2010–2014: EU Commissioner for Transport and vice-president of the Commission\n2017–2019: Municipal mayor of Viimsi."
+    },
+    {
+      "organisation": "Congress of People's Deputies of the Soviet Union",
+      "role": "member",
+      "reasoning": "The phrase explicitly states he was a Member of the Congress of People's Deputies of the Soviet Union.",
+      "phrase": 22,
+      "evidence": "1986–1989: Deputy chief editor of the Communist Party of Estonia newspaper Rahva Hääl\n1989–1991: Chairman of the Central Union of the Estonian Trade Unions\n1989–1991: Member of the Congress of People's Deputies of the Soviet Union\n1991–1995: President of the Bank of Estonia\n1995–2004: Member of the Parliament of the Republic of Estonia\n1995–1996: Minister of Foreign Affairs\n1996: Chairman of the Committee of Ministers of the Council of Europe\n1999–2002: Minister of Finance\n2002–2003: Prime minister\n2004–2004: EU Commissioner for Economic and Monetary Affairs, serving with Joaquín Almunia\n2004–2010: EU Commissioner for Administrative Affairs, Audit and Anti-Fraud and vice-president of the Commission\n2010–2014: EU Commissioner for Transport and vice-president of the Commission\n2017–2019: Municipal mayor of Viimsi."
+    },
+    {
+      "organisation": "Committee of Ministers of the Council of Europe",
+      "role": "Chairman",
+      "reasoning": "The phrase states he was Chairman of the Committee of Ministers of the Council of Europe in 1996.",
+      "phrase": 22,
+      "evidence": "1986–1989: Deputy chief editor of the Communist Party of Estonia newspaper Rahva Hääl\n1989–1991: Chairman of the Central Union of the Estonian Trade Unions\n1989–1991: Member of the Congress of People's Deputies of the Soviet Union\n1991–1995: President of the Bank of Estonia\n1995–2004: Member of the Parliament of the Republic of Estonia\n1995–1996: Minister of Foreign Affairs\n1996: Chairman of the Committee of Ministers of the Council of Europe\n1999–2002: Minister of Finance\n2002–2003: Prime minister\n2004–2004: EU Commissioner for Economic and Monetary Affairs, serving with Joaquín Almunia\n2004–2010: EU Commissioner for Administrative Affairs, Audit and Anti-Fraud and vice-president of the Commission\n2010–2014: EU Commissioner for Transport and vice-president of the Commission\n2017–2019: Municipal mayor of Viimsi."
+    }
+  ],
+  "count": 7
+}

@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "slug": "margaritis-schinas",
+  "name": "Margaritis Schinas",
+  "orgs": [
+    {
+      "organisation": "Atlantic Council’s Europe Center",
+      "role": "Distinguished Fellow",
+      "reasoning": "The phrase explicitly states he was appointed 'Distinguished Fellow' with the Atlantic Council’s Europe Center, which is a think tank.",
+      "phrase": 20,
+      "evidence": "Upon completion of his mandate in the European Commission he was appointed \"Distinguished Fellow\" with the Atlantic Council’s Europe Center."
+    },
+    {
+      "organisation": "Comillas Pontifical University",
+      "role": "Chair on Strategic Autonomy",
+      "reasoning": "The phrase states he 'leads the Chair on Strategic Autonomy' at this university, indicating a formal academic affiliation or fellowship.",
+      "phrase": 21,
+      "evidence": "He also leads the Chair on Strategic Autonomy at the Comillas Pontifical University, in Madrid."
+    }
+  ],
+  "count": 2
+}

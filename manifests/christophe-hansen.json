@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "slug": "christophe-hansen",
+  "name": "Christophe Hansen",
+  "orgs": [
+    {
+      "organisation": "Luxembourg Chamber of Commerce",
+      "role": "adviser on European affairs",
+      "reasoning": "The phrase states he became an adviser on European affairs at the Luxembourg Chamber of Commerce, indicating a professional affiliation.",
+      "phrase": 10,
+      "evidence": "In 2016, Hansen became an adviser on European affairs at the Luxembourg Chamber of Commerce, and Economic and Commercial attaché at the Embassy of the Grand Duchy of Luxembourg in Brussels."
+    },
+    {
+      "organisation": "European Economic and Social Committee",
+      "role": "member",
+      "reasoning": "The phrase explicitly states he was a member of the European Economic and Social Committee from March 2017 to August 2018.",
+      "phrase": 12,
+      "evidence": "From March 2017 to August 2018, Hansen was also a member of the European Economic and Social Committee."
+    }
+  ],
+  "count": 2
+}

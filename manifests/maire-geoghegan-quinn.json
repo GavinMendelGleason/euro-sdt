@@ -1,0 +1,57 @@
+{
+  "status": "ok",
+  "slug": "maire-geoghegan-quinn",
+  "name": "Máire Geoghegan-Quinn",
+  "orgs": [
+    {
+      "organisation": "Galway City Council",
+      "role": "member",
+      "reasoning": "The phrase explicitly states she served as a member of Galway City Council from 1985 to 1991.",
+      "phrase": 11,
+      "evidence": "She served as a member of Galway City Council from 1985 to 1991."
+    },
+    {
+      "organisation": "Joint Committee on Women's Rights",
+      "role": "chair",
+      "reasoning": "The phrase states she became chair of the first Joint Committee on Women's Rights in 1983, indicating a formal leadership role.",
+      "phrase": 16,
+      "evidence": "In opposition, she became chair of the first Joint Committee on Women's Rights in 1983 and a member of the Joint Committee on Marriage Breakdown."
+    },
+    {
+      "organisation": "Joint Committee on Marriage Breakdown",
+      "role": "member",
+      "reasoning": "The phrase states she was a member of the Joint Committee on Marriage Breakdown, indicating formal membership.",
+      "phrase": 16,
+      "evidence": "In opposition, she became chair of the first Joint Committee on Women's Rights in 1983 and a member of the Joint Committee on Marriage Breakdown."
+    },
+    {
+      "organisation": "Aer Lingus",
+      "role": "non-executive director",
+      "reasoning": "The phrase explicitly states she became a non-executive director of Aer Lingus, which is a board-level position.",
+      "phrase": 37,
+      "evidence": "She became a non-executive director of Aer Lingus, a member of the board of the Declan Ganley-owned Ganley Group, and wrote a column for The Irish Times."
+    },
+    {
+      "organisation": "Ganley Group",
+      "role": "board member",
+      "reasoning": "The phrase states she was a member of the board of the Declan Ganley-owned Ganley Group, indicating a board membership.",
+      "phrase": 37,
+      "evidence": "She became a non-executive director of Aer Lingus, a member of the board of the Declan Ganley-owned Ganley Group, and wrote a column for The Irish Times."
+    },
+    {
+      "organisation": "independent panel to examine issues of gender equality among Irish higher education staff",
+      "role": "chair",
+      "reasoning": "The phrase states she would chair an independent panel, indicating a formal leadership role in a temporary commission.",
+      "phrase": 42,
+      "evidence": "In July 2015, it was announced that she would chair an independent panel to examine issues of gender equality among Irish higher education staff."
+    },
+    {
+      "organisation": "Údarás na hOllscoile",
+      "role": "chairperson",
+      "reasoning": "The phrase explicitly states her appointment as chairperson of Údarás na hOllscoile, the university's governing authority.",
+      "phrase": 43,
+      "evidence": "In March 2021, NUI Galway announced her appointment as chairperson of Údarás na hOllscoile, the university's governing authority, on a four-year term until 2025."
+    }
+  ],
+  "count": 7
+}

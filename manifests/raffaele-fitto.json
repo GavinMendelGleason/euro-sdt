@@ -1,0 +1,50 @@
+{
+  "status": "ok",
+  "slug": "raffaele-fitto",
+  "name": "Raffaele Fitto",
+  "orgs": [
+    {
+      "organisation": "Forza Italia",
+      "role": "member",
+      "reasoning": "The phrase states he was a member of Forza Italia from 2001 to 2009.",
+      "phrase": 5,
+      "evidence": "In 1999, he was elected to the European Parliament on the electoral list of Forza Italia (FI), of which he was a member from 2001 to 2009, when he joined The People of Freedom (PdL), the new party of Silvio Berlusconi."
+    },
+    {
+      "organisation": "The People of Freedom",
+      "role": "member",
+      "reasoning": "The phrase states he joined The People of Freedom, the new party of Silvio Berlusconi.",
+      "phrase": 5,
+      "evidence": "In 1999, he was elected to the European Parliament on the electoral list of Forza Italia (FI), of which he was a member from 2001 to 2009, when he joined The People of Freedom (PdL), the new party of Silvio Berlusconi."
+    },
+    {
+      "organisation": "European People's Party Group",
+      "role": "member",
+      "reasoning": "The phrase states he left the European People's Party Group, indicating he was a member of this political group in the European Parliament.",
+      "phrase": 6,
+      "evidence": "On 17 May 2015, Fitto left the new Forza Italia, which he had joined when it was re-founded in 2013, and the European People's Party Group to join the European Conservatives and Reformists."
+    },
+    {
+      "organisation": "European Conservatives and Reformists",
+      "role": "member",
+      "reasoning": "The phrase states he joined the European Conservatives and Reformists, a political group in the European Parliament.",
+      "phrase": 6,
+      "evidence": "On 17 May 2015, Fitto left the new Forza Italia, which he had joined when it was re-founded in 2013, and the European People's Party Group to join the European Conservatives and Reformists."
+    },
+    {
+      "organisation": "Conservatives and Reformists",
+      "role": "member",
+      "reasoning": "The phrase explicitly states he was a member of Conservatives and Reformists (CoR) from 2015 to 2017.",
+      "phrase": 7,
+      "evidence": "From 2015 to 2017, Fitto was a member of Conservatives and Reformists (CoR)."
+    },
+    {
+      "organisation": "La Puglia Prima di Tutto",
+      "role": "member",
+      "reasoning": "The phrase refers to 'his regional party La Puglia Prima di Tutto', indicating he was a member of this political party.",
+      "phrase": 11,
+      "evidence": "Trials\n\n\nBribery towards the Italian public health care system\nIn 2006, Fitto was investigated by the Bari prosecutor in connection with a donation to his regional party La Puglia Prima di Tutto of €500,000 by Tosinvest, a company owned by Antonio Angelucci, ahead of the 2005 Apulian regional election."
+    }
+  ],
+  "count": 6
+}

@@ -1,0 +1,15 @@
+{
+  "status": "ok",
+  "slug": "maria-damanaki",
+  "name": "Maria Damanaki",
+  "orgs": [
+    {
+      "organisation": "Communist Youth of Greece",
+      "role": "member",
+      "reasoning": "The phrase explicitly states she 'became a member of the Communist Youth of Greece'.",
+      "phrase": 5,
+      "evidence": "Political career\nAs a student, Damanaki became a member of the Communist Youth of Greece, the youth section of the Communist Party of Greece (KKE), but also became actively involved in the antidictatorial struggle and took part in the Athens Polytechnic uprising."
+    }
+  ],
+  "count": 1
+}

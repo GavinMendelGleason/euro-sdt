@@ -1,0 +1,50 @@
+{
+  "status": "ok",
+  "slug": "sir-leon-brittan",
+  "name": "Sir Leon Brittan",
+  "orgs": [
+    {
+      "organisation": "Cambridge Union Society",
+      "role": "President",
+      "reasoning": "The phrase states he was President of the Cambridge Union Society, indicating a leadership role in this student debating society.",
+      "phrase": 4,
+      "evidence": "Brittan was educated at the Haberdashers' Aske's Boys' School and Trinity College, Cambridge, where he was President of the Cambridge Union Society and Chairman of the Cambridge University Conservative Association."
+    },
+    {
+      "organisation": "Cambridge University Conservative Association",
+      "role": "Chairman",
+      "reasoning": "The phrase states he was Chairman of the Cambridge University Conservative Association, indicating a leadership role in this political student organisation.",
+      "phrase": 4,
+      "evidence": "Brittan was educated at the Haberdashers' Aske's Boys' School and Trinity College, Cambridge, where he was President of the Cambridge Union Society and Chairman of the Cambridge University Conservative Association."
+    },
+    {
+      "organisation": "Henry Fellowship",
+      "role": "Fellow",
+      "reasoning": "The phrase states he studied at Yale University on a Henry Fellowship, indicating he was a recipient of this fellowship program.",
+      "phrase": 5,
+      "evidence": "Brittan then studied at Yale University on a Henry Fellowship."
+    },
+    {
+      "organisation": "UBS AG Investment Bank",
+      "role": "Vice-chairman",
+      "reasoning": "The phrase states he was vice-chairman of UBS AG Investment Bank, indicating a board-level position at this financial institution.",
+      "phrase": 50,
+      "evidence": "He was vice-chairman of UBS AG Investment Bank, non-executive director of Unilever and member of the international advisory committee for Total."
+    },
+    {
+      "organisation": "Unilever",
+      "role": "Non-executive director",
+      "reasoning": "The phrase states he was a non-executive director of Unilever, indicating a board membership at this company.",
+      "phrase": 50,
+      "evidence": "He was vice-chairman of UBS AG Investment Bank, non-executive director of Unilever and member of the international advisory committee for Total."
+    },
+    {
+      "organisation": "Total",
+      "role": "Member of the international advisory committee",
+      "reasoning": "The phrase states he was a member of the international advisory committee for Total, indicating an advisory role at this company.",
+      "phrase": 50,
+      "evidence": "He was vice-chairman of UBS AG Investment Bank, non-executive director of Unilever and member of the international advisory committee for Total."
+    }
+  ],
+  "count": 6
+}

@@ -1,0 +1,29 @@
+{
+  "status": "ok",
+  "slug": "piotr-serafin",
+  "name": "Piotr Serafin",
+  "orgs": [
+    {
+      "organisation": "Office of the Committee for European Integration (UKIE)",
+      "role": "employee",
+      "reasoning": "The phrase states Serafin began his professional career at this office, indicating he was a member of staff.",
+      "phrase": 4,
+      "evidence": "Career\nSerafin began his professional career at the Office of the Committee for European Integration (UKIE) in 1998."
+    },
+    {
+      "organisation": "Office of the Committee for European Integration (UKIE)",
+      "role": "Undersecretary of State",
+      "reasoning": "The phrase explicitly states he was Undersecretary of State at UKIE, a senior position within the organisation.",
+      "phrase": 6,
+      "evidence": "Between 16 January 2008 and 31 December 2009, he was Undersecretary of State at UKIE and National Aid Coordinator for the Phare and Transition Facility programmes."
+    },
+    {
+      "organisation": "Phare and Transition Facility programmes",
+      "role": "National Aid Coordinator",
+      "reasoning": "The phrase states he was National Aid Coordinator for these programmes, indicating an affiliated role.",
+      "phrase": 6,
+      "evidence": "Between 16 January 2008 and 31 December 2009, he was Undersecretary of State at UKIE and National Aid Coordinator for the Phare and Transition Facility programmes."
+    }
+  ],
+  "count": 3
+}

@@ -1,0 +1,43 @@
+{
+  "status": "ok",
+  "slug": "ritt-bjerregaard",
+  "name": "Ritt Bjerregaard",
+  "orgs": [
+    {
+      "organisation": "Danish European Movement (Den Danske Europabevægelse)",
+      "role": "chair",
+      "reasoning": "The phrase explicitly states she became chair of this organisation.",
+      "phrase": 14,
+      "evidence": "After being an opponent for many years, she became chair of the Danish European Movement (Den Danske Europabevægelse)."
+    },
+    {
+      "organisation": "Bilderberg Group",
+      "role": "attendee",
+      "reasoning": "The phrase states she attended at least one Bilderberg Group meeting, indicating affiliation.",
+      "phrase": 16,
+      "evidence": "She has attended at least one Bilderberg Group meeting from 8–11 June 1995."
+    },
+    {
+      "organisation": "Trilateral Commission",
+      "role": "attendee",
+      "reasoning": "The phrase states she attended Trilateral Commission meetings, indicating affiliation.",
+      "phrase": 17,
+      "evidence": "She has also attended Trilateral Commission meetings in 1992, 1998 and 2002."
+    },
+    {
+      "organisation": "OSCE's Parliamentary Assembly",
+      "role": "vice-president",
+      "reasoning": "The phrase explicitly states she was vice-president of this organisation.",
+      "phrase": 19,
+      "evidence": "She was vice-president of both OSCE's Parliamentary Assembly and Socialist International Women (SIW) from 1992 to 1994."
+    },
+    {
+      "organisation": "Socialist International Women (SIW)",
+      "role": "vice-president",
+      "reasoning": "The phrase explicitly states she was vice-president of this organisation.",
+      "phrase": 19,
+      "evidence": "She was vice-president of both OSCE's Parliamentary Assembly and Socialist International Women (SIW) from 1992 to 1994."
+    }
+  ],
+  "count": 5
+}

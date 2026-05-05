@@ -1,0 +1,43 @@
+{
+  "status": "ok",
+  "slug": "markos-kyprianou",
+  "name": "Markos Kyprianou",
+  "orgs": [
+    {
+      "organisation": "Human Rights Commission of the Council of Europe",
+      "role": "trainee",
+      "reasoning": "The phrase states he was a trainee at the Human Rights Commission of the Council of Europe, indicating a formal affiliation.",
+      "phrase": 6,
+      "evidence": "He continued his academic career as a trainee at the Human Rights Commission of the Council of Europe and by carrying out research in international law at the University of Cambridge."
+    },
+    {
+      "organisation": "American Bar Association",
+      "role": "associate member",
+      "reasoning": "The phrase explicitly lists 'American Bar Association (associate member)' under Memberships.",
+      "phrase": 20,
+      "evidence": "Memberships\nAmerican Bar Association (associate member)\nHarvard Law School Association of Europe\nInternational Bar Association\nCyprus Red Cross Society\n\n\nReferences\n\n\nExternal links\nOfficial website"
+    },
+    {
+      "organisation": "Harvard Law School Association of Europe",
+      "role": "member",
+      "reasoning": "The phrase explicitly lists 'Harvard Law School Association of Europe' under Memberships.",
+      "phrase": 20,
+      "evidence": "Memberships\nAmerican Bar Association (associate member)\nHarvard Law School Association of Europe\nInternational Bar Association\nCyprus Red Cross Society\n\n\nReferences\n\n\nExternal links\nOfficial website"
+    },
+    {
+      "organisation": "International Bar Association",
+      "role": "member",
+      "reasoning": "The phrase explicitly lists 'International Bar Association' under Memberships.",
+      "phrase": 20,
+      "evidence": "Memberships\nAmerican Bar Association (associate member)\nHarvard Law School Association of Europe\nInternational Bar Association\nCyprus Red Cross Society\n\n\nReferences\n\n\nExternal links\nOfficial website"
+    },
+    {
+      "organisation": "Cyprus Red Cross Society",
+      "role": "member",
+      "reasoning": "The phrase explicitly lists 'Cyprus Red Cross Society' under Memberships, which is an NGO.",
+      "phrase": 20,
+      "evidence": "Memberships\nAmerican Bar Association (associate member)\nHarvard Law School Association of Europe\nInternational Bar Association\nCyprus Red Cross Society\n\n\nReferences\n\n\nExternal links\nOfficial website"
+    }
+  ],
+  "count": 5
+}

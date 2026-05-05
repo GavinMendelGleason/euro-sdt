@@ -1,0 +1,15 @@
+{
+  "status": "ok",
+  "slug": "costas-kadis",
+  "name": "Costas Kadis",
+  "orgs": [
+    {
+      "organisation": "Research Promotion Foundation of Cyprus",
+      "role": "employee",
+      "reasoning": "The phrase states he moved back to his home country to work at the Research Promotion Foundation of Cyprus, indicating he held a position there.",
+      "phrase": 5,
+      "evidence": "Career\nKadis started his career in academia at the University of Athens and then moved back to his home country to work at the Research Promotion Foundation of Cyprus."
+    }
+  ],
+  "count": 1
+}

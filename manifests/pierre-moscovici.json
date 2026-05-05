@@ -1,0 +1,71 @@
+{
+  "status": "ok",
+  "slug": "pierre-moscovici",
+  "name": "Pierre Moscovici",
+  "orgs": [
+    {
+      "organisation": "Revolutionary Communist League",
+      "role": "member",
+      "reasoning": "The phrase explicitly states he was 'previously a member of the Trotskyist group the Revolutionary Communist League'.",
+      "phrase": 2,
+      "evidence": "Previously a member of the Trotskyist group the Revolutionary Communist League, Moscovici joined the French Socialist Party (PS) in 1984 and has since that time been a member of the Departmental Council of Doubs and of the French Parliament and the European Parliament."
+    },
+    {
+      "organisation": "À gauche en Europe",
+      "role": "president",
+      "reasoning": "The phrase states 'He was a president of À gauche en Europe', indicating a leadership role in this group.",
+      "phrase": 8,
+      "evidence": "He was a president of À gauche en Europe, a group founded by Strauss-Kahn and Michel Rocard and also created his own group \"Besoin de Gauche\"."
+    },
+    {
+      "organisation": "Besoin de Gauche",
+      "role": "founder",
+      "reasoning": "The phrase says he 'created his own group \"Besoin de Gauche\"', which indicates he founded it.",
+      "phrase": 8,
+      "evidence": "He was a president of À gauche en Europe, a group founded by Strauss-Kahn and Michel Rocard and also created his own group \"Besoin de Gauche\"."
+    },
+    {
+      "organisation": "Revolutionary Communist League",
+      "role": "member",
+      "reasoning": "The phrase states he was 'Initially active in the Revolutionary Communist League', confirming his membership.",
+      "phrase": 10,
+      "evidence": "Political career\n\n\nEarly political career\nInitially active in the Revolutionary Communist League, he left in 1984 to join the PS and, in 1986, became secretary of the \"experts' group\" created by Claude Allègre."
+    },
+    {
+      "organisation": "experts' group",
+      "role": "secretary",
+      "reasoning": "The phrase says he 'became secretary of the \"experts' group\" created by Claude Allègre', indicating a formal position.",
+      "phrase": 10,
+      "evidence": "Political career\n\n\nEarly political career\nInitially active in the Revolutionary Communist League, he left in 1984 to join the PS and, in 1986, became secretary of the \"experts' group\" created by Claude Allègre."
+    },
+    {
+      "organisation": "Commissariat général du Plan – French Planning Office",
+      "role": "head of department",
+      "reasoning": "The phrase states he 'headed the Public Service Modernisation and Financing Department at the Commissariat général du Plan', indicating a leadership role at this planning office.",
+      "phrase": 12,
+      "evidence": "From 1990 to 1994, he headed the Public Service Modernisation and Financing Department at the Commissariat général du Plan – French Planning Office."
+    },
+    {
+      "organisation": "Convention on the Future of Europe",
+      "role": "representative",
+      "reasoning": "The phrase states he 'represented the French authorities at the Convention on the Future of Europe', indicating his role as a delegate to this convention.",
+      "phrase": 18,
+      "evidence": "At the request of Chirac, he represented the French authorities at the Convention on the Future of Europe in 2002."
+    },
+    {
+      "organisation": "Pays de Montbéliard Agglomération (PMA – Greater Montbéliard Authority)",
+      "role": "president",
+      "reasoning": "The phrase states 'He was President of the Pays de Montbéliard Agglomération (PMA – Greater Montbéliard Authority)', indicating a leadership role.",
+      "phrase": 25,
+      "evidence": "He was President of the Pays de Montbéliard Agglomération (PMA – Greater Montbéliard Authority) from 2008 to 2012."
+    },
+    {
+      "organisation": "Paris School of International Affairs (PSIA)",
+      "role": "member of the Strategic Committee",
+      "reasoning": "The phrase explicitly lists 'Paris School of International Affairs (PSIA), Member of the Strategic Committee', indicating a formal advisory role.",
+      "phrase": 44,
+      "evidence": "Other activities\nParis School of International Affairs (PSIA), Member of the Strategic Committee\n\n\nOverview\n\n\nGovernmental function\nMinister of Economy and Finances, June 2012 – April 2014\nMinister of Economy, Finances, and Foreign Trade, May 2012 – June 2012\nMinister of European Affairs, 1997–2002."
+    }
+  ],
+  "count": 9
+}

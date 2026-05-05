@@ -1,0 +1,29 @@
+{
+  "status": "ok",
+  "slug": "janez-lenarcic",
+  "name": "Janez Lenarčič",
+  "orgs": [
+    {
+      "organisation": "Office for Democratic Institutions and Human Rights",
+      "role": "director",
+      "reasoning": "The phrase states he is a former director of this office within the OSCE.",
+      "phrase": 1,
+      "evidence": "He is a former director of the Office for Democratic Institutions and Human Rights within the Organization for Security and Co-operation in Europe."
+    },
+    {
+      "organisation": "Organization for Security and Co-operation in Europe (OSCE)",
+      "role": "ambassador and chair of the Permanent Council",
+      "reasoning": "The phrase explicitly states he served as ambassador to the OSCE and chaired its Permanent Council.",
+      "phrase": 7,
+      "evidence": "Lenarčič was ambassador of Slovenia to the Organization for Security and Co-operation in Europe (OSCE) in Vienna from 2003 to 2006, and chaired the OSCE Permanent Council in 2005 during the Slovenian chairmanship."
+    },
+    {
+      "organisation": "Office for Democratic Institutions and Human Rights (ODIHR)",
+      "role": "Director",
+      "reasoning": "The phrase states he moved to Warsaw as Director of the OSCE's ODIHR.",
+      "phrase": 9,
+      "evidence": "Lenarčič then moved to Warsaw as Director of the OSCE's Office for Democratic Institutions and Human Rights (ODIHR) until 2014."
+    }
+  ],
+  "count": 3
+}

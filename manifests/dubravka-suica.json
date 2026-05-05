@@ -1,0 +1,57 @@
+{
+  "status": "ok",
+  "slug": "dubravka-suica",
+  "name": "Dubravka Šuica",
+  "orgs": [
+    {
+      "organisation": "Congress of Local and Regional Authorities of the Council of Europe",
+      "role": "vice-president",
+      "reasoning": "The phrase states she was elected vice-president of this body, indicating a formal leadership position within the organisation.",
+      "phrase": 6,
+      "evidence": "Since 2004, she has been elected five times in a row as vice-president of the Congress of Local and Regional Authorities of the Council of Europe."
+    },
+    {
+      "organisation": "EPP Women's association",
+      "role": "vice-president",
+      "reasoning": "The phrase explicitly says she was elected vice-president of this association, showing membership and a leadership role.",
+      "phrase": 7,
+      "evidence": "In October 2012, she was elected vice-president of the EPP Women's association and in June 2019 vice-president of the EPP's EU parliament group."
+    },
+    {
+      "organisation": "Congress of Local and Regional Authorities of the Council of Europe",
+      "role": "vice-president",
+      "reasoning": "The phrase confirms she was elected one of the vice-presidents of this organisation, indicating a formal position.",
+      "phrase": 18,
+      "evidence": "In 2004, Dubravka Šuica was elected one of the vice-presidents of the Congress of Local and Regional Authorities of the Council of Europe."
+    },
+    {
+      "organisation": "EPP Women",
+      "role": "vice-president",
+      "reasoning": "The phrase states she was elected vice-president of EPP Women and still holds the position, indicating ongoing membership and leadership.",
+      "phrase": 22,
+      "evidence": "In October 2012, she was elected vice-president of EPP Women and she still holds this position."
+    },
+    {
+      "organisation": "Delegation for relations with Bosnia and Herzegovina, and Kosovo (DSEE)",
+      "role": "deputy chair",
+      "reasoning": "The phrase indicates she served as one of the deputy chairs of this delegation, which is a formal position within a parliamentary body.",
+      "phrase": 26,
+      "evidence": "She served as one of the deputy chairs of the EP's Delegation for relations with Bosnia and Herzegovina, and Kosovo (DSEE), as well as taking part in various committees such as ENVI, AFET where she served as vice-president from 2016 to 2019, TRAN, FEMM and the Delegation for relations with the United States (D-US)."
+    },
+    {
+      "organisation": "Delegation for relations with the United States (D-US)",
+      "role": "member",
+      "reasoning": "The phrase states she took part in this delegation, implying membership in this parliamentary body.",
+      "phrase": 26,
+      "evidence": "She served as one of the deputy chairs of the EP's Delegation for relations with Bosnia and Herzegovina, and Kosovo (DSEE), as well as taking part in various committees such as ENVI, AFET where she served as vice-president from 2016 to 2019, TRAN, FEMM and the Delegation for relations with the United States (D-US)."
+    },
+    {
+      "organisation": "Croatian EPP delegation",
+      "role": "head",
+      "reasoning": "The phrase states she was head of this delegation, indicating a formal leadership position within the EPP structure.",
+      "phrase": 29,
+      "evidence": "As of 2013 to 2019, she was also head of the Croatian EPP delegation in the Parliament."
+    }
+  ],
+  "count": 7
+}

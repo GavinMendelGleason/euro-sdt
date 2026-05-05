@@ -1,0 +1,15 @@
+{
+  "status": "ok",
+  "slug": "padraig-flynn",
+  "name": "Padraig Flynn",
+  "orgs": [
+    {
+      "organisation": "Comite d'Honneur of the Institute of International and European Affairs",
+      "role": "member",
+      "reasoning": "The phrase explicitly states 'He is a member of the Comite d'Honneur of the Institute of International and European Affairs', indicating direct membership.",
+      "phrase": 44,
+      "evidence": "He is a member of the Comite d'Honneur of the Institute of International and European Affairs."
+    }
+  ],
+  "count": 1
+}

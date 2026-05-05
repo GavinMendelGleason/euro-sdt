@@ -1,0 +1,43 @@
+{
+  "status": "ok",
+  "slug": "loyola-de-palacio",
+  "name": "Loyola de Palacio",
+  "orgs": [
+    {
+      "organisation": "Alianza Popular",
+      "role": "founder member",
+      "reasoning": "The phrase states she was a 'founder member' of Alianza Popular, indicating membership and founding affiliation.",
+      "phrase": 6,
+      "evidence": "Political career\nIn 1976, Palacio was a founder member of the moderate-wing Alianza Popular (later transformed into the Partido Popular) led initially by Manuel Fraga Iribarne, and she became the first leader of its youth section, Nuevas Generaciones."
+    },
+    {
+      "organisation": "Nuevas Generaciones",
+      "role": "first leader",
+      "reasoning": "The phrase states she became the 'first leader' of the youth section Nuevas Generaciones, indicating a leadership position.",
+      "phrase": 6,
+      "evidence": "Political career\nIn 1976, Palacio was a founder member of the moderate-wing Alianza Popular (later transformed into the Partido Popular) led initially by Manuel Fraga Iribarne, and she became the first leader of its youth section, Nuevas Generaciones."
+    },
+    {
+      "organisation": "BNP Paribas",
+      "role": "director",
+      "reasoning": "The phrase states she became 'a director' at the bank BNP Paribas, indicating a board-level position.",
+      "phrase": 15,
+      "evidence": "Life after politics\nAfter leaving the commission on 21 November 2004, Palacio became a director at the banks BNP Paribas and Rothschild Bank, and at the pharmaceutical company Zeltia."
+    },
+    {
+      "organisation": "Rothschild Bank",
+      "role": "director",
+      "reasoning": "The phrase states she became 'a director' at Rothschild Bank, indicating a board-level position.",
+      "phrase": 15,
+      "evidence": "Life after politics\nAfter leaving the commission on 21 November 2004, Palacio became a director at the banks BNP Paribas and Rothschild Bank, and at the pharmaceutical company Zeltia."
+    },
+    {
+      "organisation": "Zeltia",
+      "role": "director",
+      "reasoning": "The phrase states she became 'a director' at the pharmaceutical company Zeltia, indicating a board-level position.",
+      "phrase": 15,
+      "evidence": "Life after politics\nAfter leaving the commission on 21 November 2004, Palacio became a director at the banks BNP Paribas and Rothschild Bank, and at the pharmaceutical company Zeltia."
+    }
+  ],
+  "count": 5
+}

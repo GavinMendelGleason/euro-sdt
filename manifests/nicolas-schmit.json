@@ -1,0 +1,15 @@
+{
+  "status": "ok",
+  "slug": "nicolas-schmit",
+  "name": "Nicolas Schmit",
+  "orgs": [
+    {
+      "organisation": "EPSCO network of the Party of European Socialists",
+      "role": "chairman",
+      "reasoning": "The phrase explicitly states 'He is the chairman of the EPSCO network of the Party of European Socialists', indicating a leadership role in this network.",
+      "phrase": 10,
+      "evidence": "He is the chairman of the EPSCO network of the Party of European Socialists."
+    }
+  ],
+  "count": 1
+}

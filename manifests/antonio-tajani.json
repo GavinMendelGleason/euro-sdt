@@ -1,0 +1,85 @@
+{
+  "status": "ok",
+  "slug": "antonio-tajani",
+  "name": "Antonio Tajani",
+  "orgs": [
+    {
+      "organisation": "Fronte Monarchico Giovanile",
+      "role": "militant (member)",
+      "reasoning": "The phrase states Tajani was a militant of this student organization, indicating membership.",
+      "phrase": 5,
+      "evidence": "In his youth Tajani was a militant of Fronte Monarchico Giovanile (Youth Monarchist Front), a student organization of the Italian Monarchist Union (UMI)."
+    },
+    {
+      "organisation": "Italian Monarchist Union (UMI)",
+      "role": "member (via student organization)",
+      "reasoning": "The phrase states the Fronte Monarchico Giovanile was a student organization of the UMI, implying affiliation through that group.",
+      "phrase": 5,
+      "evidence": "In his youth Tajani was a militant of Fronte Monarchico Giovanile (Youth Monarchist Front), a student organization of the Italian Monarchist Union (UMI)."
+    },
+    {
+      "organisation": "European People's Party",
+      "role": "vice-president",
+      "reasoning": "The phrase explicitly states Tajani has been one of 10 vice-presidents of the European People's Party since 2002.",
+      "phrase": 18,
+      "evidence": "Since 2002 (the year of the Estoril Congress), Tajani has been one of 10 vice-presidents of the European People's Party."
+    },
+    {
+      "organisation": "European Convention",
+      "role": "member",
+      "reasoning": "The phrase states Tajani was a member of the European Convention, which drafted the European Constitution.",
+      "phrase": 24,
+      "evidence": "He was a member of the European Convention, which drafted the text of the European Constitution that never entered into force."
+    },
+    {
+      "organisation": "Working Group on the Conference on the Future of Europe",
+      "role": "member",
+      "reasoning": "The phrase states Tajani was a member of this working group.",
+      "phrase": 25,
+      "evidence": "He was a member of the Working Group on the Conference on the Future of Europe."
+    },
+    {
+      "organisation": "EU-Brazil working group",
+      "role": "leader (appointed to lead)",
+      "reasoning": "The phrase states Tajani was appointed by the President of the European Commission to lead this working group.",
+      "phrase": 59,
+      "evidence": "In March 2013 the President of the European Commission José Manuel Barroso has appointed Tajani to lead the new EU-Brazil working group, which will also include the European Commissioner for Trade Karel De Gucht and European Commissioner for Research, Innovation and Science Máire Geoghegan-Quinn."
+    },
+    {
+      "organisation": "Spanish Royal Institute of European Studies",
+      "role": "honoree (received honors for commitment)",
+      "reasoning": "The phrase states Tajani received honors from this institute, indicating an affiliation or recognition by the organisation.",
+      "phrase": 95,
+      "evidence": "Recognitions\n2 April 2014 - Aragon Empresa Award received by His Royal Highness Felipe the Prince of Asturias for his efforts in favour of industry and entrepreneurship\n10 February 2014 - Innovadores Award received by El Mundo in recognition of his support for the industry, entrepreneurship and innovation\n17 April 2012 – Honors for the commitment for SMEs and EU integration, Spanish Royal Institute of European Studies."
+    },
+    {
+      "organisation": "Optical Society of America",
+      "role": "prize recipient",
+      "reasoning": "The phrase states a prize was established by this society and awarded to Tajani, indicating recognition by the organisation.",
+      "phrase": 96,
+      "evidence": "28 March 2012 – Prize established by the Optical Society of America for his commitment to the promotion of Key Enabling Technologies."
+    },
+    {
+      "organisation": "Initiative Group of the Italians in Brussels (GII)",
+      "role": "prize recipient",
+      "reasoning": "The phrase states Tajani received the Europe Prize 2011 from this group, indicating affiliation or recognition.",
+      "phrase": 98,
+      "evidence": "19 March 2012 – Europe Prize 2011 by the Initiative Group of the Italians in Brussels (GII) for his strong commitment for the business community - in particular SMEs - and the promotion of the image of Italy in Europe."
+    },
+    {
+      "organisation": "UGEF (Unione Giornalisti Europei per il Federalismo secondo Altiero Spinelli)",
+      "role": "award recipient (sponsored by)",
+      "reasoning": "The phrase lists UGEF as a sponsor of the award Tajani received, indicating an organisational link.",
+      "phrase": 100,
+      "evidence": "Award sponsored by the journalists press office (GUS), by UGEF (Unione Giornalisti Europei per il Federalismo secondo Altiero Spinelli) and by 'ANGPI (Associazione Nazionale Giornalisti Pubblicisti Italiani), as well as' the Union of Roman Chroniclers and with the support and contribution of the Regional Council of Lazio, agencies and public institutions."
+    },
+    {
+      "organisation": "ANGPI (Associazione Nazionale Giornalisti Pubblicisti Italiani)",
+      "role": "award recipient (sponsored by)",
+      "reasoning": "The phrase lists ANGPI as a sponsor of the award Tajani received, indicating an organisational link.",
+      "phrase": 100,
+      "evidence": "Award sponsored by the journalists press office (GUS), by UGEF (Unione Giornalisti Europei per il Federalismo secondo Altiero Spinelli) and by 'ANGPI (Associazione Nazionale Giornalisti Pubblicisti Italiani), as well as' the Union of Roman Chroniclers and with the support and contribution of the Regional Council of Lazio, agencies and public institutions."
+    }
+  ],
+  "count": 11
+}

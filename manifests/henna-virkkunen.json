@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "slug": "henna-virkkunen",
+  "name": "Henna Virkkunen",
+  "orgs": [
+    {
+      "organisation": "Medita Communication",
+      "role": "communications planner and partner",
+      "reasoning": "The phrase states she worked as a communications planner and partner at Medita Communication until 2002, indicating a professional affiliation.",
+      "phrase": 8,
+      "evidence": "After university, she worked as a communications planner and partner at Medita Communication until 2002, and a research fellow at the University of Jyväskylä from 2003 to 2006."
+    },
+    {
+      "organisation": "European Internet Forum",
+      "role": "member",
+      "reasoning": "The phrase explicitly states she is a member of the European Internet Forum.",
+      "phrase": 22,
+      "evidence": "She is also a member of the European Internet Forum; the European Parliament Intergroup on LGBT Rights; the European Parliament Intergroup on the Welfare and Conservation of Animals; and the European Parliament Intergroup on Seas, Rivers, Islands and Coastal Areas."
+    }
+  ],
+  "count": 2
+}

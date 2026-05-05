@@ -1,0 +1,50 @@
+{
+  "status": "ok",
+  "slug": "christos-stylianides",
+  "name": "Christos Stylianides",
+  "orgs": [
+    {
+      "organisation": "OSCE Parliamentary Assembly",
+      "role": "member",
+      "reasoning": "The phrase explicitly states Stylianides served as a member of the OSCE Parliamentary Assembly from 2006 to 2011.",
+      "phrase": 23,
+      "evidence": "Between 2006 and 2013, Stylianides also served as member of the OSCE Parliamentary Assembly (2006–2011)."
+    },
+    {
+      "organisation": "OSCE Parliamentary Assembly",
+      "role": "Member of the Bureau",
+      "reasoning": "The phrase states he was elected Member of the Bureau of the OSCE Parliamentary Assembly in 2012.",
+      "phrase": 24,
+      "evidence": "He was elected Member of the Bureau of the OSCE Parliamentary Assembly in 2012."
+    },
+    {
+      "organisation": "OSCE PA Election Observation Missions",
+      "role": "member",
+      "reasoning": "The phrase states he was a member of the OSCE PA Election Observation Missions.",
+      "phrase": 25,
+      "evidence": "Member of the OSCE PA Election Observation Missions."
+    },
+    {
+      "organisation": "Union for the Mediterranean Parliamentary Assembly",
+      "role": "representative",
+      "reasoning": "The phrase states he represented Cyprus at plenary sessions and committee meetings of this assembly.",
+      "phrase": 26,
+      "evidence": "Represented Cyprus at plenary sessions and committee meetings of the Union for the Mediterranean Parliamentary Assembly."
+    },
+    {
+      "organisation": "Movement for Political Modernisation and Reform",
+      "role": "co-founder",
+      "reasoning": "The phrase states he co-founded the Movement for Political Modernisation and Reform.",
+      "phrase": 35,
+      "evidence": "Political positions\nConsidered a \"hardcore Europeanist\", Stylianides advocated Cyprus's accession to the European Union as far back as the mid-1990s, when he co-founded the Movement for Political Modernisation and Reform, despite the initial scepticism of many on the political scene."
+    },
+    {
+      "organisation": "Movement for Political Modernization and Reform",
+      "role": "co-founder",
+      "reasoning": "The phrase states he co-founded the Movement for Political Modernization and Reform in 1995.",
+      "phrase": 39,
+      "evidence": "Co-founded the Movement for Political Modernization and Reform (1995), promoting Cyprus's EU Accession and State & political reform."
+    }
+  ],
+  "count": 6
+}

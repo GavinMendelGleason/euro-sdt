@@ -1,0 +1,71 @@
+{
+  "status": "ok",
+  "slug": "catherine-ashton",
+  "name": "Catherine Ashton",
+  "orgs": [
+    {
+      "organisation": "Campaign for Nuclear Disarmament (CND)",
+      "role": "administrator, national treasurer, vice-chair",
+      "reasoning": "Phrase [16] explicitly states she worked for CND as an administrator, was elected as its national treasurer, and subsequently as one of its vice-chairs.",
+      "phrase": 16,
+      "evidence": "Career\n\n\nUnited Kingdom\nBetween 1977 and 1983, Ashton worked for the Campaign for Nuclear Disarmament (CND) as an administrator and in 1982 was elected as its national treasurer and subsequently as one of its vice-chairs."
+    },
+    {
+      "organisation": "Coverdale Organisation",
+      "role": "business manager",
+      "reasoning": "Phrase [17] states she was business manager of the Coverdale Organisation, a management consultancy.",
+      "phrase": 17,
+      "evidence": "From 1979 to 1981 she was business manager of the Coverdale Organisation, a management consultancy."
+    },
+    {
+      "organisation": "Central Council for Education and Training in Social Work",
+      "role": "employee",
+      "reasoning": "Phrase [18] states she worked for the Central Council for Education and Training in Social Work.",
+      "phrase": 18,
+      "evidence": "As of 1983 she worked for the Central Council for Education and Training in Social Work."
+    },
+    {
+      "organisation": "Business in the Community",
+      "role": "director",
+      "reasoning": "Phrase [19] states she was director of Business in the Community from 1983 to 1989.",
+      "phrase": 19,
+      "evidence": "From 1983 to 1989 she was director of Business in the Community, working with business to tackle inequality, and she established the Employers' Forum on Disability, Opportunity Now, and the Windsor Fellowship."
+    },
+    {
+      "organisation": "Employers' Forum on Disability",
+      "role": "founder",
+      "reasoning": "Phrase [19] states she established the Employers' Forum on Disability.",
+      "phrase": 19,
+      "evidence": "From 1983 to 1989 she was director of Business in the Community, working with business to tackle inequality, and she established the Employers' Forum on Disability, Opportunity Now, and the Windsor Fellowship."
+    },
+    {
+      "organisation": "Opportunity Now",
+      "role": "founder",
+      "reasoning": "Phrase [19] states she established Opportunity Now.",
+      "phrase": 19,
+      "evidence": "From 1983 to 1989 she was director of Business in the Community, working with business to tackle inequality, and she established the Employers' Forum on Disability, Opportunity Now, and the Windsor Fellowship."
+    },
+    {
+      "organisation": "Windsor Fellowship",
+      "role": "founder",
+      "reasoning": "Phrase [19] states she established the Windsor Fellowship.",
+      "phrase": 19,
+      "evidence": "From 1983 to 1989 she was director of Business in the Community, working with business to tackle inequality, and she established the Employers' Forum on Disability, Opportunity Now, and the Windsor Fellowship."
+    },
+    {
+      "organisation": "Health Authority in Hertfordshire",
+      "role": "chair",
+      "reasoning": "Phrase [21] states she chaired the Health Authority in Hertfordshire from 1998 to 2001.",
+      "phrase": 21,
+      "evidence": "She chaired the Health Authority in Hertfordshire from 1998 to 2001 and she became a vice-president of the National Council for One-Parent Families."
+    },
+    {
+      "organisation": "National Council for One-Parent Families",
+      "role": "vice-president",
+      "reasoning": "Phrase [21] states she became a vice-president of the National Council for One-Parent Families.",
+      "phrase": 21,
+      "evidence": "She chaired the Health Authority in Hertfordshire from 1998 to 2001 and she became a vice-president of the National Council for One-Parent Families."
+    }
+  ],
+  "count": 9
+}

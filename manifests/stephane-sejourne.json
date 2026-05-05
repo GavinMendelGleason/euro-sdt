@@ -1,0 +1,57 @@
+{
+  "status": "ok",
+  "slug": "stephane-sejourne",
+  "name": "Stéphane Séjourné",
+  "orgs": [
+    {
+      "organisation": "Jeunes avec Macron",
+      "role": "contributor to creation",
+      "reasoning": "The phrase states he contributed to the creation of Jeunes avec Macron, indicating he was a founding member or affiliate.",
+      "phrase": 2,
+      "evidence": "Originally a member of the Socialist Party, he later became an advisor to Emmanuel Macron at the Ministry of Economics, where he contributed to the creation of Jeunes avec Macron and En Marche!,  evolving into La République en marche in 2016."
+    },
+    {
+      "organisation": "En Marche!",
+      "role": "contributor to creation",
+      "reasoning": "The phrase states he contributed to the creation of En Marche!, indicating he was a founding member or affiliate.",
+      "phrase": 2,
+      "evidence": "Originally a member of the Socialist Party, he later became an advisor to Emmanuel Macron at the Ministry of Economics, where he contributed to the creation of Jeunes avec Macron and En Marche!,  evolving into La République en marche in 2016."
+    },
+    {
+      "organisation": "Socialist Party",
+      "role": "member",
+      "reasoning": "The phrase explicitly says he decided to engage in politics within the Socialist Party, indicating membership.",
+      "phrase": 11,
+      "evidence": "It was in Argentina, in 2001, while the country was sinking into an economic crisis, that he decided to engage in politics within the Socialist Party, “because it was the only organization that had an international structure.”\nAfter obtaining his baccalaureate in 2005, he returned to France, entered the University of Poitiers and obtained a bachelor’s degree in economic and social administration (AES), then a master’s degree in public law and a master’s degree in European law in 2011."
+    },
+    {
+      "organisation": "National Union of Students of France (UNEF)",
+      "role": "member",
+      "reasoning": "The phrase states he was active in student politics within the National Union of Students of France (UNEF), indicating membership.",
+      "phrase": 12,
+      "evidence": "Early political career\nSéjourné was active in student politics within the National Union of Students of France (UNEF) and the Young Socialists, he took part in the blockade of the University of Poitiers and in the occupation of MEDEF premises in 2006, during the social movement against the First Employment Contract (CPE)."
+    },
+    {
+      "organisation": "Young Socialists",
+      "role": "member",
+      "reasoning": "The phrase states he was active in student politics within the Young Socialists, indicating membership.",
+      "phrase": 12,
+      "evidence": "Early political career\nSéjourné was active in student politics within the National Union of Students of France (UNEF) and the Young Socialists, he took part in the blockade of the University of Poitiers and in the occupation of MEDEF premises in 2006, during the social movement against the First Employment Contract (CPE)."
+    },
+    {
+      "organisation": "Renew Europe",
+      "role": "head of French delegation",
+      "reasoning": "The phrase states he became head of the French delegation within Renew Europe, indicating a leadership role in that group.",
+      "phrase": 19,
+      "evidence": "He later became head of the French delegation within Renew Europe."
+    },
+    {
+      "organisation": "Renew Europe",
+      "role": "leader (chair)",
+      "reasoning": "The phrase states he successfully ran for the leadership of Renew Europe, indicating he became its chair or president.",
+      "phrase": 22,
+      "evidence": "Following the resignation of Dacian Cioloș in 2021, Séjourné successfully ran for the leadership of Renew Europe."
+    }
+  ],
+  "count": 7
+}

@@ -1,0 +1,64 @@
+{
+  "status": "ok",
+  "slug": "wopke-hoekstra",
+  "name": "Wopke Hoekstra",
+  "orgs": [
+    {
+      "organisation": "Minerva",
+      "role": "president",
+      "reasoning": "The phrase states he was president of the fraternity Minerva during his student years.",
+      "phrase": 7,
+      "evidence": "During his student years in Leiden he was president of the fraternity Minerva."
+    },
+    {
+      "organisation": "National Maritime Museum",
+      "role": "chairman of the supervisory board",
+      "reasoning": "The phrase states he was chairman of the supervisory board of the National Maritime Museum in Amsterdam.",
+      "phrase": 10,
+      "evidence": "Hoekstra was also chairman of the supervisory board of the National Maritime Museum in Amsterdam and ambassador for the Prinses Maxima Centrum for pediatric oncology."
+    },
+    {
+      "organisation": "Prinses Maxima Centrum",
+      "role": "ambassador",
+      "reasoning": "The phrase states he was ambassador for the Prinses Maxima Centrum for pediatric oncology.",
+      "phrase": 10,
+      "evidence": "Hoekstra was also chairman of the supervisory board of the National Maritime Museum in Amsterdam and ambassador for the Prinses Maxima Centrum for pediatric oncology."
+    },
+    {
+      "organisation": "Eduardo Freistichting",
+      "role": "treasurer",
+      "reasoning": "The phrase states he was treasurer of the CDA-affiliated foundation Eduardo Freistichting.",
+      "phrase": 12,
+      "evidence": "Political career\n\n\nEarly beginnings\nHoekstra was the treasurer of the CDA-affiliated foundation Eduardo Freistichting and board member of the local CDA association in Amsterdam."
+    },
+    {
+      "organisation": "Christian Democratic Union of Germany",
+      "role": "attendee at financial council meeting",
+      "reasoning": "The phrase states he spoke at a meeting of the financial council of the Christian Democratic Union of Germany.",
+      "phrase": 24,
+      "evidence": "Hoekstra reiterated his reluctance on eurozone reform at a meeting of the financial council of the Christian Democratic Union of Germany in 2018, warning against reforms initiated by Germany and France without the support of other member states or the public."
+    },
+    {
+      "organisation": "New Hanseatic League",
+      "role": "leader of a coalition of member states",
+      "reasoning": "The phrase states he led a coalition of twelve other member states in opposition to eurozone reforms, later referred to as the New Hanseatic League.",
+      "phrase": 26,
+      "evidence": "After Germany and France had outlined a series of eurozone reforms in June 2018, Hoekstra led a coalition of twelve other member states in opposition to such reforms, which would later be referred to as the New Hanseatic League."
+    },
+    {
+      "organisation": "informal grouping of small northern and Baltic EU member states",
+      "role": "chair",
+      "reasoning": "The phrase states he has been chairing a newly established, informal grouping of small northern and Baltic EU member states.",
+      "phrase": 30,
+      "evidence": "Since 2018, Hoekstra has been chairing a newly established, informal grouping of small northern and Baltic EU member states – Estonia, Finland, Ireland, Latvia, Lithuania and the Netherlands – to find common cause on the direction of eurozone reforms."
+    },
+    {
+      "organisation": "Remonstrant Brotherhood",
+      "role": "member",
+      "reasoning": "The phrase states he is a member of the Remonstrant Brotherhood.",
+      "phrase": 57,
+      "evidence": "He is a member of the Remonstrant Brotherhood."
+    }
+  ],
+  "count": 8
+}

@@ -1,0 +1,50 @@
+{
+  "status": "ok",
+  "slug": "marcelino-oreja",
+  "name": "Marcelino Oreja",
+  "orgs": [
+    {
+      "organisation": "Grupo Tácito",
+      "role": "founder",
+      "reasoning": "The phrase states that Oreja and others 'founded the Grupo Tácito', indicating he was a founder of this group of intellectuals and politicians.",
+      "phrase": 6,
+      "evidence": "In May 1973 he and a number of Madrid-based individuals founded the Grupo Tácito, a group of intellectuals, politicians and journalists, some of them coming from the Franco regime and others from the democratic and monarchist opposition to the dictatorship."
+    },
+    {
+      "organisation": "Asociación Católica Nacional de Propagandistas",
+      "role": "member (implied by origin of Grupo Tácito)",
+      "reasoning": "The phrase notes that Grupo Tácito had its origins in a meeting of this association, implying Oreja's affiliation with it as a participant or member.",
+      "phrase": 9,
+      "evidence": "The Grupo Tácito had its origins in a meeting of the Asociación Católica Nacional de Propagandistas’ (Catholic National Association of Propagandists) and group's early influence was largely determined by its access to the Catholic press."
+    },
+    {
+      "organisation": "BBV Foundation",
+      "role": "Vice-chair",
+      "reasoning": "The phrase explicitly states he was 'Vice-chair of the BBV Foundation'.",
+      "phrase": 20,
+      "evidence": "He continued to be active in many fields, being appointed Head of the Institute for European Studies at the CEU San Pablo University Foundation, Vice-chair of the BBV Foundation (1996) and Doctor Honoris Causa at Zaragoza and Seville Universities (1996)."
+    },
+    {
+      "organisation": "Elcano Royal Institute for International and Strategic Studies",
+      "role": "Member of the Board of Trustees",
+      "reasoning": "The phrase directly lists him as 'Member of the Board of Trustees' of this institute.",
+      "phrase": 22,
+      "evidence": "Other activities\nElcano Royal Institute for International and Strategic Studies, Member of the Board of Trustees\nSpanish Royal Academy of Moral and Political Sciences (RACMP), Member\nSpanish Royal Academy of Jurisprudence and Legislation (RAJL), Member\n\n\nRecognition\nOn 8 April 2010 Oreja was made Marquess of Oreja."
+    },
+    {
+      "organisation": "Spanish Royal Academy of Moral and Political Sciences (RACMP)",
+      "role": "Member",
+      "reasoning": "The phrase explicitly states he is a 'Member' of this academy.",
+      "phrase": 22,
+      "evidence": "Other activities\nElcano Royal Institute for International and Strategic Studies, Member of the Board of Trustees\nSpanish Royal Academy of Moral and Political Sciences (RACMP), Member\nSpanish Royal Academy of Jurisprudence and Legislation (RAJL), Member\n\n\nRecognition\nOn 8 April 2010 Oreja was made Marquess of Oreja."
+    },
+    {
+      "organisation": "Spanish Royal Academy of Jurisprudence and Legislation (RAJL)",
+      "role": "Member",
+      "reasoning": "The phrase explicitly states he is a 'Member' of this academy.",
+      "phrase": 22,
+      "evidence": "Other activities\nElcano Royal Institute for International and Strategic Studies, Member of the Board of Trustees\nSpanish Royal Academy of Moral and Political Sciences (RACMP), Member\nSpanish Royal Academy of Jurisprudence and Legislation (RAJL), Member\n\n\nRecognition\nOn 8 April 2010 Oreja was made Marquess of Oreja."
+    }
+  ],
+  "count": 6
+}

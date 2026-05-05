@@ -1,0 +1,43 @@
+{
+  "status": "ok",
+  "slug": "andrius-kubilius",
+  "name": "Andrius Kubilius",
+  "orgs": [
+    {
+      "organisation": "Sąjūdis",
+      "role": "member",
+      "reasoning": "The phrase states Kubilius became a member of the pro-independence Sąjūdis movement.",
+      "phrase": 6,
+      "evidence": "Career in Lithuanian politics\n\n\nEarly career\n\nKubilius became a member of the pro-independence Sąjūdis movement, who favoured separation from the Soviet Union."
+    },
+    {
+      "organisation": "Sąjūdis Council",
+      "role": "Executive Secretary",
+      "reasoning": "The phrase states he became the Executive Secretary of the Sąjūdis Council.",
+      "phrase": 7,
+      "evidence": "He later became the Executive Secretary of the Sąjūdis Council."
+    },
+    {
+      "organisation": "Spinelli Group",
+      "role": "member",
+      "reasoning": "The phrase explicitly states he was a member of the Spinelli Group.",
+      "phrase": 38,
+      "evidence": "He was also a member of the Spinelli Group."
+    },
+    {
+      "organisation": "Euronest Parliamentary Assembly",
+      "role": "delegate",
+      "reasoning": "The phrase states he was part of the parliament's delegation to the Euronest Parliamentary Assembly.",
+      "phrase": 37,
+      "evidence": "In addition to his committee assignments, Kubilius was part of the parliament's delegations to the Euronest Parliamentary Assembly and to the EU-Ukraine Parliamentary Association Committee."
+    },
+    {
+      "organisation": "EU-Ukraine Parliamentary Association Committee",
+      "role": "delegate",
+      "reasoning": "The phrase states he was part of the parliament's delegation to the EU-Ukraine Parliamentary Association Committee.",
+      "phrase": 37,
+      "evidence": "In addition to his committee assignments, Kubilius was part of the parliament's delegations to the Euronest Parliamentary Assembly and to the EU-Ukraine Parliamentary Association Committee."
+    }
+  ],
+  "count": 5
+}

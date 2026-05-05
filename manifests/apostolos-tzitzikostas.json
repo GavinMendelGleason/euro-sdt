@@ -1,0 +1,50 @@
+{
+  "status": "ok",
+  "slug": "apostolos-tzitzikostas",
+  "name": "Apostolos Tzitzikostas",
+  "orgs": [
+    {
+      "organisation": "European Committee of the Regions",
+      "role": "president",
+      "reasoning": "The phrase states he was 'president of the European Committee of the Regions from 2020 until 2022', indicating a leadership role in this EU advisory body.",
+      "phrase": 1,
+      "evidence": "He previously served as governor of the region of Central Macedonia from 2013 to 2024 and was formerly president of the European Committee of the Regions from 2020 until 2022."
+    },
+    {
+      "organisation": "Euro-Mediterranean Parliamentary Assembly",
+      "role": "member",
+      "reasoning": "The phrase says he 'represented the Hellenic Parliament in the Euro-Mediterranean Parliamentary Assembly from 2007 to 2009', indicating membership in this inter-parliamentary forum.",
+      "phrase": 9,
+      "evidence": "He represented the Hellenic Parliament in the Euro-Mediterranean Parliamentary Assembly from 2007 to 2009."
+    },
+    {
+      "organisation": "Association of Greek Regions",
+      "role": "president",
+      "reasoning": "The phrase states he was 'elected President of the Association of Greek Regions' and later 'unanimously re-elected President', showing a leadership role in this regional governance network.",
+      "phrase": 12,
+      "evidence": "In November 2019, he was elected President of the Association of Greek Regions and was unanimously re-elected President in February 2024, for the first time in the institution's history."
+    },
+    {
+      "organisation": "European Committee of the Regions",
+      "role": "member and Head of Greek Delegation",
+      "reasoning": "The phrase says he 'has been a member of the European Committee of the Regions' and 'was elected Head of the Greek Delegation', indicating both membership and a delegation leadership role.",
+      "phrase": 13,
+      "evidence": "Since 2015, he has been a member of the European Committee of the Regions, and in July 2017, he was elected Head of the Greek Delegation."
+    },
+    {
+      "organisation": "European Committee of the Regions",
+      "role": "president",
+      "reasoning": "The phrase states he was 'unanimously elected by all political groups President of the European Committee of the Regions', confirming his presidency of this body.",
+      "phrase": 14,
+      "evidence": "In February 2020, he was unanimously elected by all political groups President of the European Committee of the Regions."
+    },
+    {
+      "organisation": "European Committee of the Regions",
+      "role": "First Vice-President",
+      "reasoning": "The phrase says he was 'unanimously elected First Vice-President of the European Committee of the Regions', indicating a senior vice-chair role in this body.",
+      "phrase": 15,
+      "evidence": "In July 2022, he was also unanimously elected First Vice-President of the European Committee of the Regions."
+    }
+  ],
+  "count": 6
+}

@@ -1,0 +1,50 @@
+{
+  "status": "ok",
+  "slug": "andrus-ansip",
+  "name": "Andrus Ansip",
+  "orgs": [
+    {
+      "organisation": "People's Bank of Tartu",
+      "role": "Member of the Board of Directors",
+      "reasoning": "The phrase explicitly states he served as a Member of the Board of Directors of the People's Bank of Tartu.",
+      "phrase": 9,
+      "evidence": "He has served as a Member of the Board of Directors of the People's Bank of Tartu (Estonian: Rahvapank), Chairman of the Board of Livonia Privatisation IF, and CEO of Investment Fund Broker Ltd (Estonian: Fondiinvesteeringu Maakler AS)."
+    },
+    {
+      "organisation": "Livonia Privatisation IF",
+      "role": "Chairman of the Board",
+      "reasoning": "The phrase explicitly states he served as Chairman of the Board of Livonia Privatisation IF.",
+      "phrase": 9,
+      "evidence": "He has served as a Member of the Board of Directors of the People's Bank of Tartu (Estonian: Rahvapank), Chairman of the Board of Livonia Privatisation IF, and CEO of Investment Fund Broker Ltd (Estonian: Fondiinvesteeringu Maakler AS)."
+    },
+    {
+      "organisation": "Investment Fund Broker Ltd",
+      "role": "CEO",
+      "reasoning": "The phrase explicitly states he served as CEO of Investment Fund Broker Ltd.",
+      "phrase": 9,
+      "evidence": "He has served as a Member of the Board of Directors of the People's Bank of Tartu (Estonian: Rahvapank), Chairman of the Board of Livonia Privatisation IF, and CEO of Investment Fund Broker Ltd (Estonian: Fondiinvesteeringu Maakler AS)."
+    },
+    {
+      "organisation": "Radio Tartu",
+      "role": "Chairman of the board",
+      "reasoning": "The phrase explicitly states he served as Chairman of the board for Radio Tartu.",
+      "phrase": 10,
+      "evidence": "He also has served as Chairman of the board for Radio Tartu."
+    },
+    {
+      "organisation": "European Internet Forum",
+      "role": "member",
+      "reasoning": "The phrase explicitly states he is a member of the European Internet Forum.",
+      "phrase": 47,
+      "evidence": "He is also a member of the European Internet Forum, the European Parliament Intergroup on Artificial Intelligence and Digital and the European Parliament Intergroup on Seas, Rivers, Islands and Coastal Areas."
+    },
+    {
+      "organisation": "Kaitseliit (Defence League)",
+      "role": "member",
+      "reasoning": "The phrase explicitly states he is a member of the Estonian voluntary home guard organisation Kaitseliit (Defence League).",
+      "phrase": 56,
+      "evidence": "Andrus Ansip is a member of the Estonian voluntary home guard organisation Kaitseliit (Defence League) since 10 November 2009."
+    }
+  ],
+  "count": 6
+}

@@ -1,0 +1,36 @@
+{
+  "status": "ok",
+  "slug": "michaele-schreyer",
+  "name": "Michaele Schreyer",
+  "orgs": [
+    {
+      "organisation": "European Youth Parliament – Germany",
+      "role": "Member of the Board of Trustees",
+      "reasoning": "The phrase explicitly states Schreyer is a Member of the Board of Trustees of this organisation.",
+      "phrase": 13,
+      "evidence": "Other activities\nEuropean Youth Parliament – Germany, Member of the Board of Trustees\nEuropean Movement Germany, Vice President\nSchwarzkopf Foundation, Member of the Board\nHeinrich Böll Foundation, Member of the Supervisory Board (2007–2014)\nSchreyer is co-author (with Lutz Mez) of the publication \"ERENE – European Community for Renewable Energy\"."
+    },
+    {
+      "organisation": "European Movement Germany",
+      "role": "Vice President",
+      "reasoning": "The phrase explicitly states Schreyer is Vice President of this organisation.",
+      "phrase": 13,
+      "evidence": "Other activities\nEuropean Youth Parliament – Germany, Member of the Board of Trustees\nEuropean Movement Germany, Vice President\nSchwarzkopf Foundation, Member of the Board\nHeinrich Böll Foundation, Member of the Supervisory Board (2007–2014)\nSchreyer is co-author (with Lutz Mez) of the publication \"ERENE – European Community for Renewable Energy\"."
+    },
+    {
+      "organisation": "Schwarzkopf Foundation",
+      "role": "Member of the Board",
+      "reasoning": "The phrase explicitly states Schreyer is a Member of the Board of this foundation.",
+      "phrase": 13,
+      "evidence": "Other activities\nEuropean Youth Parliament – Germany, Member of the Board of Trustees\nEuropean Movement Germany, Vice President\nSchwarzkopf Foundation, Member of the Board\nHeinrich Böll Foundation, Member of the Supervisory Board (2007–2014)\nSchreyer is co-author (with Lutz Mez) of the publication \"ERENE – European Community for Renewable Energy\"."
+    },
+    {
+      "organisation": "Heinrich Böll Foundation",
+      "role": "Member of the Supervisory Board (2007–2014)",
+      "reasoning": "The phrase explicitly states Schreyer served as a Member of the Supervisory Board of this foundation.",
+      "phrase": 13,
+      "evidence": "Other activities\nEuropean Youth Parliament – Germany, Member of the Board of Trustees\nEuropean Movement Germany, Vice President\nSchwarzkopf Foundation, Member of the Board\nHeinrich Böll Foundation, Member of the Supervisory Board (2007–2014)\nSchreyer is co-author (with Lutz Mez) of the publication \"ERENE – European Community for Renewable Energy\"."
+    }
+  ],
+  "count": 4
+}

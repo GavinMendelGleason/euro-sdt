@@ -1,0 +1,15 @@
+{
+  "status": "ok",
+  "slug": "john-dalli",
+  "name": "John Dalli",
+  "orgs": [
+    {
+      "organisation": "Corporate Europe Observatory",
+      "role": "subject of a report request",
+      "reasoning": "The phrase states that the Supervisory Committee sent its report to Corporate Europe Observatory in answer to a request, indicating Dalli's case was of interest to this NGO, but does not show Dalli's membership or affiliation with it.",
+      "phrase": 41,
+      "evidence": "They sent the report to Corporate Europe Observatory in answer to a request that the latter NGO had made months before."
+    }
+  ],
+  "count": 1
+}

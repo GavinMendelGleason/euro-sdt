@@ -1,0 +1,50 @@
+{
+  "status": "ok",
+  "slug": "helena-dalli",
+  "name": "Helena Dalli",
+  "orgs": [
+    {
+      "organisation": "LGBTIQ Consultative Council",
+      "role": "founder",
+      "reasoning": "The phrase states she 'set up' this council, indicating she founded it.",
+      "phrase": 23,
+      "evidence": "She also set up an LGBTIQ Consultative Council, a Consultative Council for Women's Rights and a Forum on Integration Affairs."
+    },
+    {
+      "organisation": "Consultative Council for Women's Rights",
+      "role": "founder",
+      "reasoning": "The phrase states she 'set up' this council, indicating she founded it.",
+      "phrase": 23,
+      "evidence": "She also set up an LGBTIQ Consultative Council, a Consultative Council for Women's Rights and a Forum on Integration Affairs."
+    },
+    {
+      "organisation": "Forum on Integration Affairs",
+      "role": "founder",
+      "reasoning": "The phrase states she 'set up' this forum, indicating she founded it.",
+      "phrase": 23,
+      "evidence": "She also set up an LGBTIQ Consultative Council, a Consultative Council for Women's Rights and a Forum on Integration Affairs."
+    },
+    {
+      "organisation": "FEMYSO",
+      "role": "met with representatives",
+      "reasoning": "The phrase explicitly mentions Dalli meeting representatives of FEMYSO, indicating an affiliation or engagement with the organisation.",
+      "phrase": 31,
+      "evidence": "In the same month, French ministers Marlène Schiappa and Clément Beaune criticised Dalli for meeting representatives of FEMYSO France considers to be linked to the Muslim Brotherhood."
+    },
+    {
+      "organisation": "Spanish Association of Lawyers and Lawyers against Hate Crimes",
+      "role": "award recipient",
+      "reasoning": "The phrase states she was presented with an award by this association, indicating a formal recognition and affiliation.",
+      "phrase": 34,
+      "evidence": "In 2019, Dalli was presented, on behalf of Malta, with the Diversa Internacional award by the Spanish Association of Lawyers and Lawyers against Hate Crimes, in recognition of her work for equality on both the domestic and international fronts."
+    },
+    {
+      "organisation": "PROUD",
+      "role": "award recipient",
+      "reasoning": "The phrase states she received an award from PROUD, an organisation working for LGBTIQ equality, indicating a formal recognition and affiliation.",
+      "phrase": 36,
+      "evidence": "Months later, she received an award on behalf of the European Commission from PROUD, an organisation working for LGBTIQ equality in Czechia, for the same strategy."
+    }
+  ],
+  "count": 6
+}

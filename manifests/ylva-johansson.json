@@ -1,0 +1,15 @@
+{
+  "status": "ok",
+  "slug": "ylva-johansson",
+  "name": "Ylva Johansson",
+  "orgs": [
+    {
+      "organisation": "Hammarby IF",
+      "role": "honorary member",
+      "reasoning": "The phrase explicitly states she is an honorary member of the Swedish football club Hammarby IF.",
+      "phrase": 37,
+      "evidence": "She is an honorary member of the Swedish football club Hammarby IF."
+    }
+  ],
+  "count": 1
+}

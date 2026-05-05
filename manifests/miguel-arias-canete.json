@@ -1,0 +1,29 @@
+{
+  "status": "ok",
+  "slug": "miguel-arias-canete",
+  "name": "Miguel Arias Cañete",
+  "orgs": [
+    {
+      "organisation": "Gulbenkian Prize for Humanity",
+      "role": "Member of the Jury",
+      "reasoning": "The phrase explicitly states he is a 'Member of the Jury' for this prize, which is an award administered by a foundation.",
+      "phrase": 35,
+      "evidence": "Other activities include:\n\nGulbenkian Prize for Humanity, Member of the Jury\nBalam Agriculture, Independent Member of the board of directors (since 2021)\nBeka Finance, member of the Board since 2021\n\n\nControversies\nArias has faced accusations of conflicts of interests regarding his business interests and his political posts."
+    },
+    {
+      "organisation": "Friends of the Earth",
+      "role": "criticised his nomination",
+      "reasoning": "The phrase mentions 'the environmental group Friends of the Earth' as an organisation that criticised him, indicating it is an advocacy group he was affiliated with only as a target of criticism, but the group itself is an NGO.",
+      "phrase": 37,
+      "evidence": "In 2014, the environmental group Friends of the Earth and anticorruption group Corporate Europe Observatory criticised his nomination to the Climate Action and Energy portfolio due to his family's involvement in the oil industry."
+    },
+    {
+      "organisation": "Corporate Europe Observatory",
+      "role": "criticised his nomination",
+      "reasoning": "The phrase mentions 'anticorruption group Corporate Europe Observatory' as an organisation that criticised him, indicating it is an advocacy group he was affiliated with only as a target of criticism, but the group itself is an NGO.",
+      "phrase": 37,
+      "evidence": "In 2014, the environmental group Friends of the Earth and anticorruption group Corporate Europe Observatory criticised his nomination to the Climate Action and Energy portfolio due to his family's involvement in the oil industry."
+    }
+  ],
+  "count": 3
+}

@@ -1,0 +1,50 @@
+{
+  "status": "ok",
+  "slug": "karel-de-gucht",
+  "name": "Karel De Gucht",
+  "orgs": [
+    {
+      "organisation": "Flemish Liberal Students",
+      "role": "president",
+      "reasoning": "The phrase states he became president of the Flemish Liberal Students while studying, indicating a leadership role in this student organisation.",
+      "phrase": 3,
+      "evidence": "He entered politics at a young age, and became president of the Flemish Liberal Students while studying at the Vrije Universiteit Brussel in Brussels."
+    },
+    {
+      "organisation": "OSCE",
+      "role": "Chairman-in-Office",
+      "reasoning": "The phrase explicitly states he was Chairman-in-Office of the OSCE in 2006, a formal leadership position within this international body.",
+      "phrase": 13,
+      "evidence": "He was Chairman-in-Office of the OSCE in 2006."
+    },
+    {
+      "organisation": "ArcelorMittal",
+      "role": "Member of the Board of Directors",
+      "reasoning": "The phrase explicitly lists him as a Member of the Board of Directors of ArcelorMittal since 2016.",
+      "phrase": 35,
+      "evidence": "Other activities\n\n\nCorporate boards\nArcelorMittal, Member of the Board of Directors (since 2016)\nCVC Capital Partners, Member of the European Advisory Board (since 2015)\nProximus, Member of the Board of Directors\n\n\nNon-profit organizations\nThe Brussels School of Governance at the Vrije Universiteit Brussel (VUB), President\n\n\nHonours\n Poland: 1st class – Grand Cross of the Order of Merit of the Republic of Poland."
+    },
+    {
+      "organisation": "CVC Capital Partners",
+      "role": "Member of the European Advisory Board",
+      "reasoning": "The phrase explicitly lists him as a Member of the European Advisory Board of CVC Capital Partners since 2015.",
+      "phrase": 35,
+      "evidence": "Other activities\n\n\nCorporate boards\nArcelorMittal, Member of the Board of Directors (since 2016)\nCVC Capital Partners, Member of the European Advisory Board (since 2015)\nProximus, Member of the Board of Directors\n\n\nNon-profit organizations\nThe Brussels School of Governance at the Vrije Universiteit Brussel (VUB), President\n\n\nHonours\n Poland: 1st class – Grand Cross of the Order of Merit of the Republic of Poland."
+    },
+    {
+      "organisation": "Proximus",
+      "role": "Member of the Board of Directors",
+      "reasoning": "The phrase explicitly lists him as a Member of the Board of Directors of Proximus.",
+      "phrase": 35,
+      "evidence": "Other activities\n\n\nCorporate boards\nArcelorMittal, Member of the Board of Directors (since 2016)\nCVC Capital Partners, Member of the European Advisory Board (since 2015)\nProximus, Member of the Board of Directors\n\n\nNon-profit organizations\nThe Brussels School of Governance at the Vrije Universiteit Brussel (VUB), President\n\n\nHonours\n Poland: 1st class – Grand Cross of the Order of Merit of the Republic of Poland."
+    },
+    {
+      "organisation": "The Brussels School of Governance at the Vrije Universiteit Brussel (VUB)",
+      "role": "President",
+      "reasoning": "The phrase explicitly states he is President of this non-profit organisation.",
+      "phrase": 35,
+      "evidence": "Other activities\n\n\nCorporate boards\nArcelorMittal, Member of the Board of Directors (since 2016)\nCVC Capital Partners, Member of the European Advisory Board (since 2015)\nProximus, Member of the Board of Directors\n\n\nNon-profit organizations\nThe Brussels School of Governance at the Vrije Universiteit Brussel (VUB), President\n\n\nHonours\n Poland: 1st class – Grand Cross of the Order of Merit of the Republic of Poland."
+    }
+  ],
+  "count": 6
+}

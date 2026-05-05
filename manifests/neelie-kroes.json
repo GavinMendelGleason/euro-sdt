@@ -1,0 +1,85 @@
+{
+  "status": "ok",
+  "slug": "neelie-kroes",
+  "name": "Neelie Kroes",
+  "orgs": [
+    {
+      "organisation": "R.V.S.V.",
+      "role": "praeses",
+      "reasoning": "The phrase states she was praeses of R.V.S.V., indicating a leadership role in this sorority.",
+      "phrase": 20,
+      "evidence": "In 1961, Kroes was praeses of the R.V.S.V."
+    },
+    {
+      "organisation": "women's organisation within the VVD",
+      "role": "member",
+      "reasoning": "The phrase explicitly says she was involved in the women's organisation within the VVD, indicating membership.",
+      "phrase": 24,
+      "evidence": "During this period Kroes was involved in the women's organisation within the VVD."
+    },
+    {
+      "organisation": "Rotterdam Chamber of Commerce",
+      "role": "member",
+      "reasoning": "The phrase states she became a member of the Rotterdam Chamber of Commerce.",
+      "phrase": 37,
+      "evidence": "She also became a member of the Rotterdam Chamber of Commerce, furthermore she served as a board member for Ballast Nedam (shipping), ABP-PGGM Capital Holdings N.V."
+    },
+    {
+      "organisation": "Prof.Mr. Teldersstichting",
+      "role": "member of the Advisory Board",
+      "reasoning": "The phrase indicates she was a member of the Advisory Board of the Prof.Mr. Teldersstichting, a scientific bureau of the VVD.",
+      "phrase": 42,
+      "evidence": "Teldersstichting, the scientific bureau of VVD."
+    },
+    {
+      "organisation": "Poets of all Nations",
+      "role": "chairperson",
+      "reasoning": "The phrase states she is chairperson of Poets of all Nations.",
+      "phrase": 47,
+      "evidence": "She is chairperson of Poets of all Nations, the Delta Psychiatric Hospital and of the board of the Rembrandt House Museum."
+    },
+    {
+      "organisation": "Delta Psychiatric Hospital",
+      "role": "chairperson",
+      "reasoning": "The phrase states she is chairperson of the Delta Psychiatric Hospital.",
+      "phrase": 47,
+      "evidence": "She is chairperson of Poets of all Nations, the Delta Psychiatric Hospital and of the board of the Rembrandt House Museum."
+    },
+    {
+      "organisation": "Rembrandt House Museum",
+      "role": "chairperson of the board",
+      "reasoning": "The phrase states she is chairperson of the board of the Rembrandt House Museum.",
+      "phrase": 47,
+      "evidence": "She is chairperson of Poets of all Nations, the Delta Psychiatric Hospital and of the board of the Rembrandt House Museum."
+    },
+    {
+      "organisation": "Bilderberg Group",
+      "role": "attendee",
+      "reasoning": "The phrase states she attended conferences organized by the Bilderberg Group every year between 2005 and 2012, indicating affiliation.",
+      "phrase": 55,
+      "evidence": "Kroes attended conferences organized by the Bilderberg Group every year between 2005 and 2012."
+    },
+    {
+      "organisation": "Uber",
+      "role": "Member of the Public Policy Advisory Board",
+      "reasoning": "The phrase explicitly lists her as a Member of the Public Policy Advisory Board of Uber.",
+      "phrase": 91,
+      "evidence": "Corporate boards\nUber, Member of the Public Policy Advisory Board\nSalesforce, Non-Executive Board Board of Directors (since 2016)\n\n\nNon-profit organizations\nOpen Data Institute, Non-Executive Member of the Board (since 2015)\n\n\nRecognition\n\n\nAwards\nKroes was International Road Federation Man of the Year of 1993."
+    },
+    {
+      "organisation": "Salesforce",
+      "role": "Non-Executive Board of Directors",
+      "reasoning": "The phrase explicitly lists her as a Non-Executive Board of Directors member of Salesforce since 2016.",
+      "phrase": 91,
+      "evidence": "Corporate boards\nUber, Member of the Public Policy Advisory Board\nSalesforce, Non-Executive Board Board of Directors (since 2016)\n\n\nNon-profit organizations\nOpen Data Institute, Non-Executive Member of the Board (since 2015)\n\n\nRecognition\n\n\nAwards\nKroes was International Road Federation Man of the Year of 1993."
+    },
+    {
+      "organisation": "Open Data Institute",
+      "role": "Non-Executive Member of the Board",
+      "reasoning": "The phrase explicitly lists her as a Non-Executive Member of the Board of the Open Data Institute since 2015.",
+      "phrase": 91,
+      "evidence": "Corporate boards\nUber, Member of the Public Policy Advisory Board\nSalesforce, Non-Executive Board Board of Directors (since 2016)\n\n\nNon-profit organizations\nOpen Data Institute, Non-Executive Member of the Board (since 2015)\n\n\nRecognition\n\n\nAwards\nKroes was International Road Federation Man of the Year of 1993."
+    }
+  ],
+  "count": 11
+}

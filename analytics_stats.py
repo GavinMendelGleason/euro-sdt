@@ -3,13 +3,12 @@ analytics_stats.py — Data quality statistics page with dark-themed charts.
 
 Shows coverage, completeness, source breakdown, and gap analysis.
 """
-import sqlite3, os
+import sqlite3, os, re
+from collections import defaultdict, Counter
 import matplotlib
 matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 import matplotlib.ticker as ticker
-import numpy as np
-from collections import Counter
 from datetime import date
 
 DB_PATH = 'euro_sdt.db'
@@ -98,9 +97,11 @@ def coverage_bar(ax, labels, covered, totals):
     ax.set_yticklabels(labels, fontsize=9)
     ax.set_title('Data Coverage', fontsize=13, pad=10, color='#00d2ff')
     ax.legend(loc='lower right', fontsize=8)
-    # Add percentage labels
+    # Label at end of each bar so it's visually tied to that bar
+    x_max = max(totals)
     for i, (c, t) in enumerate(zip(covered, totals)):
-        ax.text(c + 0.5, i, f'{c}/{t} ({c/t*100:.0f}%)', va='center', fontsize=8, color='white')
+        ax.text(t, i, f'  {c}/{t} ({c/t*100:.0f}%)', va='center', ha='left', fontsize=8, color='white')
+    ax.set_xlim(right=x_max * 1.35)
 
 
 def pie_chart(ax, labels, values, title):
@@ -111,6 +112,122 @@ def pie_chart(ax, labels, values, title):
     ax.set_title(title, fontsize=13, pad=10, color='#00d2ff')
     ax.legend(wedges, [f'{l} ({v})' for l,v in zip(labels, values)], loc='center left',
               bbox_to_anchor=(1, 0.5), fontsize=8)
+
+
+def generate_edu_trends(db):
+    """Education clusters line chart (% of commissioners per term)."""
+    COMM_ORDER = ['Santer','Prodi','Barroso I','Barroso II','Juncker','VdL I','VdL II']
+    COMM_SIZES = {'Santer': 20, 'Prodi': 20, 'Barroso I': 30, 'Barroso II': 28,
+                  'Juncker': 27, 'VdL I': 30, 'VdL II': 27}
+    def normalise_comm(slug):
+        joined = '-'.join(slug.replace('commission-','').split('-'))
+        m = re.match(r'^vdl\W*(i{1,2})$', joined.lower())
+        if m: return 'VdL I' if m.group(1) == 'i' else 'VdL II'
+        m = re.match(r'^barroso\W*(i{1,2})$', joined.lower())
+        if m: return 'Barroso I' if m.group(1) == 'i' else 'Barroso II'
+        return joined.title()
+
+    person_comms = defaultdict(set)
+    for r in db.execute("SELECT e.name, f.object FROM fact f JOIN entity e ON e.id=f.entity_id WHERE f.predicate='served_on_commission' AND e.category='commissioner'"):
+        person_comms[r[0]].add(normalise_comm(r[1]))
+
+    person_edu = defaultdict(set)
+    for r in db.execute("""SELECT e.name, TRIM(LOWER(obj.name)) FROM fact f
+        JOIN entity e ON e.id=f.entity_id JOIN entity obj ON obj.id=f.object
+        WHERE f.predicate='educated_at' AND e.category='commissioner'"""):
+        inst = r[1]
+        for canon, pats in [
+            ("Sciences Po / ENA", ['sciences po','sciences-po','iep paris','ena','ecole nationale','cole nationale']),
+            ("Oxbridge", ['oxford','cambridge']),
+            ("LSE", ['london school','lse']),
+            ("Harvard / Georgetown", ['harvard','georgetown']),
+            ("College of Europe", ['college of europe']),
+        ]:
+            if any(re.search(p, inst, re.IGNORECASE) for p in pats):
+                person_edu[r[0]].add(canon)
+                break
+
+    clusters = ["Sciences Po / ENA", "Oxbridge", "LSE", "Harvard / Georgetown", "College of Europe"]
+    edu_pct = {c: [] for c in clusters}
+    for comm in COMM_ORDER:
+        people = {p for p, cs in person_comms.items() if comm in cs}
+        total = len(people)
+        for cl in clusters:
+            n = sum(1 for p in people if cl in person_edu.get(p, set()))
+            edu_pct[cl].append(round(n / total * 100, 1) if total else 0)
+
+    fig, ax = plt.subplots(figsize=(13, 5.5))
+    colors = ['#e94560','#00d2ff','#ff7f0e','#9467bd','#2ca02c']
+    for ci, cl in enumerate(clusters):
+        ax.plot(COMM_ORDER, edu_pct[cl], marker='o', linewidth=2.5, color=colors[ci], label=cl, markersize=8)
+    ax.set_title('Commissioner Education Clusters (% of Commissioners)', fontsize=13, color='#00d2ff')
+    ax.set_ylabel('% of Commissioners', fontsize=10)
+    ax.legend(loc='upper left', fontsize=9)
+    ax.set_ylim(bottom=0)
+    ax.yaxis.set_major_formatter(ticker.FormatStrFormatter('%.0f%%'))
+    plt.tight_layout()
+    plt.savefig(f'{IMG_DIR}/stats_edu_trends.png', dpi=150, facecolor='#1a1a2e')
+    plt.close()
+
+
+def generate_atlanticist_trends(db):
+    """Atlanticist organisation connections line chart."""
+    COMM_ORDER = ['Santer','Prodi','Barroso I','Barroso II','Juncker','VdL I','VdL II']
+    COMM_SIZES = {'Santer': 20, 'Prodi': 20, 'Barroso I': 30, 'Barroso II': 28,
+                  'Juncker': 27, 'VdL I': 30, 'VdL II': 27}
+    DISPLAY = {
+        'commission-santer': 'Santer', 'commission-prodi': 'Prodi',
+        'commission-barroso-i': 'Barroso I', 'commission-barroso-ii': 'Barroso II',
+        'commission-juncker': 'Juncker', 'commission-vdl-i': 'VdL I',
+        'commission-vdl-ii': 'VdL II',
+    }
+    def org_slug(n): return re.sub(r'[^a-z0-9]+', '-', n.lower()).strip('-')
+
+    orgs = {
+        'Bilderberg Group': 'bilderberg-group',
+        'Trilateral Commission': 'trilateral-commission',
+        'Atlantic Council': 'atlantic-council',
+        'WEF': 'world-economic-forum',
+        'Munich Security Conference': 'munich-security-conference',
+        'Friends of Europe': 'friends-of-europe',
+        'ECFR': 'european-council-on-foreign-relations-ecfr',
+        'GLOBSEC': 'glosec',
+        'German Marshall Fund': 'german-marshall-fund',
+        'European Leadership Network': 'european-leadership-network',
+        'Bruegel': 'bruegel',
+        'RAND Europe': 'rand-europe',
+    }
+
+    org_pct = {}
+    for org_name, slug in orgs.items():
+        pcts = {}
+        for comm_slug, disp in DISPLAY.items():
+            row = db.execute("""SELECT COUNT(DISTINCT f.entity_id) FROM fact f
+                JOIN fact f2 ON f2.entity_id = f.entity_id AND f2.predicate='served_on_commission'
+                WHERE f.predicate IN ('affiliated_with','member_of')
+                AND f.object = ? AND f2.object = ?
+                AND f.entity_id IN (SELECT id FROM entity WHERE category='commissioner')
+            """, [slug, comm_slug]).fetchone()
+            pcts[disp] = round(row[0] / COMM_SIZES[disp] * 100, 1)
+        org_pct[org_name] = pcts
+
+    active = [(n, p) for n, p in org_pct.items() if any(p[c] > 0 for c in COMM_ORDER)]
+    active.sort(key=lambda x: -sum(x[1].values()))
+
+    fig, ax = plt.subplots(figsize=(14, 5.5))
+    org_colors = ['#e94560','#00d2ff','#ff7f0e','#9467bd','#2ca02c','#d62728',
+                  '#8c564b','#17becf','#e377c2','#7f7f7f','#bcbd22','#1f77b4']
+    for oi, (org_name, pcts) in enumerate(active):
+        vals = [pcts[c] for c in COMM_ORDER]
+        ax.plot(COMM_ORDER, vals, marker='o', linewidth=2.2, color=org_colors[oi], label=org_name, markersize=7)
+    ax.set_title('Atlanticist & Elite Network Ties (% of Commissioners)', fontsize=13, color='#00d2ff')
+    ax.set_ylabel('% of Commissioners', fontsize=10)
+    ax.legend(loc='upper left', fontsize=8, ncol=2)
+    ax.set_ylim(bottom=0)
+    ax.yaxis.set_major_formatter(ticker.FormatStrFormatter('%.0f%%'))
+    plt.tight_layout()
+    plt.savefig(f'{IMG_DIR}/stats_atlanticist_trends.png', dpi=150, facecolor='#1a1a2e')
+    plt.close()
 
 
 def main():
@@ -166,6 +283,16 @@ def main():
     plt.savefig(f'{IMG_DIR}/stats_sources.png', dpi=150, facecolor='#1a1a2e')
     plt.close()
 
+    # ── Page 3: Education Trends ────────────────────────────────────────
+    db2 = sqlite3.connect(DB_PATH)
+    generate_edu_trends(db2)
+    db2.close()
+
+    # ── Page 4: Atlanticist Trends ───────────────────────────────────────
+    db3 = sqlite3.connect(DB_PATH)
+    generate_atlanticist_trends(db3)
+    db3.close()
+
     # ── Build Markdown ──────────────────────────────────────────────────
     md = f'''---
 id: stats
@@ -217,6 +344,14 @@ generated: {TODAY}
 ## Commissioner Education Clusters by Commission
 
 ![Commissioner Education Time](img/stats_comm_edu_time.png)
+
+## Education Clusters Over Time
+
+![Education Trends](img/stats_edu_trends.png)
+
+## Atlanticist & Elite Network Ties
+
+![Atlanticist Trends](img/stats_atlanticist_trends.png)
 '''
     
     with open(OUT_HTML, 'w') as f:

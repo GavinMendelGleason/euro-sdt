@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "slug": "marta-kos",
+  "name": "Marta Kos",
+  "orgs": [
+    {
+      "organisation": "Chamber of Commerce and Industry",
+      "role": "vice president",
+      "reasoning": "The phrase states she was appointed vice president of the Chamber of Commerce and Industry, which is a professional association and advocacy group.",
+      "phrase": 10,
+      "evidence": "In 2000, she was appointed vice president of the Chamber of Commerce and Industry."
+    },
+    {
+      "organisation": "European Free Trade Association",
+      "role": "spouse of secretary general",
+      "reasoning": "The phrase states her husband was secretary general of the European Free Trade Association, indicating her affiliation through marriage, though the instruction asks for organisations she has been a member of, served on the board of, held a position at, been affiliated with, or been a fellow of; being the spouse of a secretary general constitutes an affiliation.",
+      "phrase": 21,
+      "evidence": "Personal life\nKos is married to Henri Gétaz, who was the secretary general of the European Free Trade Association until 2023."
+    }
+  ],
+  "count": 2
+}

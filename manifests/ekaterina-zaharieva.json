@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "slug": "ekaterina-zaharieva",
+  "name": "Ekaterina Zaharieva",
+  "orgs": [
+    {
+      "organisation": "Government of Bulgaria",
+      "role": "Deputy Prime Minister",
+      "reasoning": "The phrase states she served as Deputy Prime Minister, which is a position within the national government, but the government itself is not a ministry/department; however, per the exclusion rules, 'government ministries/departments' are excluded, but the government as a whole is not listed as excluded, and this is a national executive body.",
+      "phrase": 1,
+      "evidence": "She served as Deputy Prime Minister of Bulgaria from 2017 to 2021 and on two occasions from 2013 to 2014."
+    },
+    {
+      "organisation": "National Assembly of Bulgaria",
+      "role": "Member",
+      "reasoning": "The phrase states she was a Member of the National Assembly, which is the Bulgarian parliament, a legislative body, not a government ministry.",
+      "phrase": 2,
+      "evidence": "A member of the GERB party, she also served as Minister of Foreign Affairs from 2017 to 2021, Minister of Justice from 2015 to 2017, Minister of Regional Development on two occasions from 2013 to 2014 and Member of the National Assembly from 2021 to 2024."
+    }
+  ],
+  "count": 2
+}

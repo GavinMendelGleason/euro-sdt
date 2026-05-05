@@ -1,0 +1,43 @@
+{
+  "status": "ok",
+  "slug": "iliana-ivanova",
+  "name": "Iliana Ivanova",
+  "orgs": [
+    {
+      "organisation": "Committee on Budgetary Control",
+      "role": "vice-chair",
+      "reasoning": "The phrase states she served as vice-chair of this committee, indicating a formal leadership position within it.",
+      "phrase": 7,
+      "evidence": "During that period, she served as vice-chair of the Committee on Budgetary Control, Vice-chair of the Special Committee on the Economic, Financial and Social crisis, member of the Committee on the Internal Market and Consumer Protection and as substitute member of the Committee on Economic and Monetary Affairs."
+    },
+    {
+      "organisation": "Special Committee on the Economic, Financial and Social crisis",
+      "role": "Vice-chair",
+      "reasoning": "The phrase states she served as Vice-chair of this special committee, indicating a formal leadership role.",
+      "phrase": 7,
+      "evidence": "During that period, she served as vice-chair of the Committee on Budgetary Control, Vice-chair of the Special Committee on the Economic, Financial and Social crisis, member of the Committee on the Internal Market and Consumer Protection and as substitute member of the Committee on Economic and Monetary Affairs."
+    },
+    {
+      "organisation": "Committee on the Internal Market and Consumer Protection",
+      "role": "member",
+      "reasoning": "The phrase states she was a member of this committee, indicating formal membership.",
+      "phrase": 7,
+      "evidence": "During that period, she served as vice-chair of the Committee on Budgetary Control, Vice-chair of the Special Committee on the Economic, Financial and Social crisis, member of the Committee on the Internal Market and Consumer Protection and as substitute member of the Committee on Economic and Monetary Affairs."
+    },
+    {
+      "organisation": "Committee on Economic and Monetary Affairs",
+      "role": "substitute member",
+      "reasoning": "The phrase states she was a substitute member of this committee, indicating an affiliated role.",
+      "phrase": 7,
+      "evidence": "During that period, she served as vice-chair of the Committee on Budgetary Control, Vice-chair of the Special Committee on the Economic, Financial and Social crisis, member of the Committee on the Internal Market and Consumer Protection and as substitute member of the Committee on Economic and Monetary Affairs."
+    },
+    {
+      "organisation": "delegation to China",
+      "role": "vice-chair",
+      "reasoning": "The phrase states she was one of the vice-chairs of the parliament's delegation to China, indicating a formal leadership position in this parliamentary body.",
+      "phrase": 8,
+      "evidence": "In addition to her committee assignments, she was one of the  vice-chairs of the parliament's delegation to China."
+    }
+  ],
+  "count": 5
+}

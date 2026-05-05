@@ -1,0 +1,43 @@
+{
+  "status": "ok",
+  "slug": "laszlo-andor",
+  "name": "László Andor",
+  "orgs": [
+    {
+      "organisation": "Foundation for European Progressive Studies (FEPS)",
+      "role": "Secretary General",
+      "reasoning": "The phrase explicitly states he is the Secretary General of this foundation.",
+      "phrase": 0,
+      "evidence": "László Andor (born 3 June 1966) is a Hungarian economist and the Secretary General of the Foundation for European Progressive Studies (FEPS)."
+    },
+    {
+      "organisation": "European Bank for Reconstruction and Development (EBRD)",
+      "role": "Member of the Board of Directors",
+      "reasoning": "The phrase states he was a Member of the Board of Directors of the EBRD.",
+      "phrase": 2,
+      "evidence": "From 2005 to 2010 he was a Member of the Board of Directors of the European Bank for Reconstruction and Development (EBRD), representing the Czech Republic, Croatia, Hungary and Slovakia."
+    },
+    {
+      "organisation": "Eszmélet (Consciousness)",
+      "role": "Editor",
+      "reasoning": "The phrase states he has been editor of this progressive Hungarian quarterly social science journal.",
+      "phrase": 5,
+      "evidence": "Since 1993, he has been editor of a progressive (leftist) Hungarian quarterly social science journal, Eszmélet (Consciousness)."
+    },
+    {
+      "organisation": "Economic Section of the Hungarian Socialist Party",
+      "role": "Member of the board",
+      "reasoning": "The phrase states he has been a member of the board of this section, which is a political foundation/affiliated body.",
+      "phrase": 6,
+      "evidence": "Since 2003, he has been a member of the board of the Economic Section of the Hungarian Socialist Party."
+    },
+    {
+      "organisation": "Prague European Summit",
+      "role": "Member of the advisory board",
+      "reasoning": "The phrase states he is a member of the advisory board of this summit, which is a policy forum/network.",
+      "phrase": 9,
+      "evidence": "László Andor is a member of the advisory board of the Prague European Summit."
+    }
+  ],
+  "count": 5
+}

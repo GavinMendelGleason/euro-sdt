@@ -1,0 +1,92 @@
+{
+  "status": "ok",
+  "slug": "dimitris-avramopoulos",
+  "name": "Dimitris Avramopoulos",
+  "orgs": [
+    {
+      "organisation": "Central Union of Local Authorities of Greece",
+      "role": "chairman",
+      "reasoning": "The phrase states he served as chairman of this organisation from 1995 to 1999.",
+      "phrase": 16,
+      "evidence": "From 1995 to 1999 he served as chairman of the Central Union of Local Authorities of Greece."
+    },
+    {
+      "organisation": "Permanent Conference of the Mayors of the Capitals of South-East Europe",
+      "role": "founder and first President",
+      "reasoning": "The phrase says he founded this organisation and served as its first President.",
+      "phrase": 17,
+      "evidence": "In 1995 he founded the “Permanent Conference of the Mayors of the Capitals of South-East Europe” and served as its first President."
+    },
+    {
+      "organisation": "International Union of Local Authorities (IULA)",
+      "role": "vice-president of the executive committee",
+      "reasoning": "The phrase states he served as vice-president of the executive committee of IULA from 1996 to 2000.",
+      "phrase": 18,
+      "evidence": "From 1996 to 2000 he served as vice-president of the executive committee of the International Union of Local Authorities (IULA) and from 1997 to 2002, as a member of the Committee of the Regions of the European Union."
+    },
+    {
+      "organisation": "Summit Conference of the Mayors of the World",
+      "role": "president",
+      "reasoning": "The phrase states he was elected president of this organisation and served until 2002.",
+      "phrase": 19,
+      "evidence": "Elected as president of the Summit Conference of the Mayors of the World in 2000, he served until 2002, during which time he founded the \"World Union of Olympic Cities\", \"Athens’ International Prize for Democracy\", and “World Institute of Global and Cities’ Diplomacy”, Rome."
+    },
+    {
+      "organisation": "World Union of Olympic Cities",
+      "role": "founder",
+      "reasoning": "The phrase states he founded this organisation.",
+      "phrase": 19,
+      "evidence": "Elected as president of the Summit Conference of the Mayors of the World in 2000, he served until 2002, during which time he founded the \"World Union of Olympic Cities\", \"Athens’ International Prize for Democracy\", and “World Institute of Global and Cities’ Diplomacy”, Rome."
+    },
+    {
+      "organisation": "World Institute of Global and Cities’ Diplomacy",
+      "role": "founder",
+      "reasoning": "The phrase states he founded this organisation, located in Rome.",
+      "phrase": 19,
+      "evidence": "Elected as president of the Summit Conference of the Mayors of the World in 2000, he served until 2002, during which time he founded the \"World Union of Olympic Cities\", \"Athens’ International Prize for Democracy\", and “World Institute of Global and Cities’ Diplomacy”, Rome."
+    },
+    {
+      "organisation": "Athens’ International Prize for Democracy for UNESCO",
+      "role": "Honorary President",
+      "reasoning": "The phrase states he served for twenty years as Honorary President of this organisation in Paris until 2013.",
+      "phrase": 40,
+      "evidence": "Other positions\nFrom the outset of his political career, Avramopoulos served for twenty years as Honorary President of the Athens’ International Prize for Democracy for UNESCO in Paris (until 2013)."
+    },
+    {
+      "organisation": "Steering Committee on Cities´ Diplomacy",
+      "role": "Chairman",
+      "reasoning": "The phrase states he has been Chairman of this committee, established by the Global Forum and the World Bank Institute.",
+      "phrase": 41,
+      "evidence": "He has also been Chairman of the Steering Committee on Cities´ Diplomacy, established by the Global Forum (Rome) and the World Bank Institute (Washington D.C.)."
+    },
+    {
+      "organisation": "Global Forum (Rome)",
+      "role": "co-establishing body (implied affiliation)",
+      "reasoning": "The phrase mentions this organisation as one of the two bodies that established the Steering Committee, indicating his affiliation with it.",
+      "phrase": 41,
+      "evidence": "He has also been Chairman of the Steering Committee on Cities´ Diplomacy, established by the Global Forum (Rome) and the World Bank Institute (Washington D.C.)."
+    },
+    {
+      "organisation": "World Institute of Global and Cities’ Diplomacy",
+      "role": "President",
+      "reasoning": "The phrase states he was elected President of this independent NGO based in Rome.",
+      "phrase": 42,
+      "evidence": "He was elected President of the “World Institute of Global and Cities’ Diplomacy”, an independent NGO based in Rome as well as Executive President of the “World Union of Olympic Cities”, an Olympic Games NGO."
+    },
+    {
+      "organisation": "World Union of Olympic Cities",
+      "role": "Executive President",
+      "reasoning": "The phrase states he served as Executive President of this Olympic Games NGO.",
+      "phrase": 42,
+      "evidence": "He was elected President of the “World Institute of Global and Cities’ Diplomacy”, an independent NGO based in Rome as well as Executive President of the “World Union of Olympic Cities”, an Olympic Games NGO."
+    },
+    {
+      "organisation": "Propeller Club of the United States Port of Piraeus",
+      "role": "Honorary Member",
+      "reasoning": "The phrase states he became Honorary Member of this club in November 2017.",
+      "phrase": 53,
+      "evidence": "In November 2017, he became Honorary Member of the Propeller Club of the United States Port of Piraeus and he received the Award of Excellence of the Propeller Club of the United States Port of Piraeus for his strenuous effort and impact on developing a new European Policy on regular Migration."
+    }
+  ],
+  "count": 12
+}

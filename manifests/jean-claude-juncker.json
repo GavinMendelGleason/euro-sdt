@@ -1,0 +1,106 @@
+{
+  "status": "ok",
+  "slug": "jean-claude-juncker",
+  "name": "Jean-Claude Juncker",
+  "orgs": [
+    {
+      "organisation": "Edmond Israel Foundation",
+      "role": "Award recipient",
+      "reasoning": "The phrase lists the 'Vision for Europe Award' of the Edmond Israel Foundation, indicating an affiliation through receiving an award from this foundation.",
+      "phrase": 49,
+      "evidence": "For all of these initiatives, he was honoured with the Vision for Europe Award in 1998."
+    },
+    {
+      "organisation": "Karlspreis",
+      "role": "Award recipient",
+      "reasoning": "The phrase states Juncker earned the 2006 Karlspreis, which is an award from a foundation (International Charlemagne Prize of Aachen), indicating affiliation.",
+      "phrase": 55,
+      "evidence": "His continued allegiance to European ideals earned him the 2006 Karlspreis."
+    },
+    {
+      "organisation": "Society of Saint Pius X",
+      "role": "Denouncer of member",
+      "reasoning": "The phrase mentions Juncker denounced the lifting of excommunication of a member of the Society of Saint Pius X, showing awareness of and commentary on this organisation.",
+      "phrase": 56,
+      "evidence": "In 2009, he denounced the lifting of the excommunication of controversial Bishop Richard Williamson, a member of the Society of Saint Pius X."
+    },
+    {
+      "organisation": "Academy of Moral and Political Sciences",
+      "role": "Foreign Associate Member",
+      "reasoning": "The phrase explicitly states Juncker was a Foreign Associate Member of the Academy of Moral and Political Sciences, Institut de France.",
+      "phrase": 200,
+      "evidence": ""
+    },
+    {
+      "organisation": "Institut de France",
+      "role": "Foreign Associate Member (via Academy of Moral and Political Sciences)",
+      "reasoning": "The phrase indicates Juncker's membership in the Academy of Moral and Political Sciences, which is part of the Institut de France.",
+      "phrase": 200,
+      "evidence": ""
+    },
+    {
+      "organisation": "EV Newfoundlanders",
+      "role": "Patron",
+      "reasoning": "The phrase states Juncker was Patron of the not-for-profit Animal Protection Association 'EV Newfoundlanders'.",
+      "phrase": 200,
+      "evidence": ""
+    },
+    {
+      "organisation": "Europa-Union Münster",
+      "role": "Award recipient",
+      "reasoning": "The phrase lists the Coudenhove-Kalergi Badge of the Europa-Union Münster, indicating an affiliation through receiving an award from this organisation.",
+      "phrase": 200,
+      "evidence": ""
+    },
+    {
+      "organisation": "European Foundation for Ecology and Democracy",
+      "role": "Award recipient",
+      "reasoning": "The phrase lists the Peace Prize of the European Foundation for Ecology and Democracy, indicating an affiliation through receiving an award from this foundation.",
+      "phrase": 200,
+      "evidence": ""
+    },
+    {
+      "organisation": "Grand Ducal Institute of Luxembourg",
+      "role": "Honorary Member",
+      "reasoning": "The phrase explicitly states Juncker was an Honorary Member of the Grand Ducal Institute of Luxembourg, Department of Moral and Political Sciences.",
+      "phrase": 200,
+      "evidence": ""
+    },
+    {
+      "organisation": "Jean Monnet Foundation for Europe",
+      "role": "Award recipient",
+      "reasoning": "The phrase lists the Gold Medal of the Jean Monnet Foundation for Europe, indicating an affiliation through receiving an award from this foundation.",
+      "phrase": 200,
+      "evidence": ""
+    },
+    {
+      "organisation": "Herbert Batliner-Europa Institute",
+      "role": "Award recipient",
+      "reasoning": "The phrase lists the Small State Award of the Herbert Batliner-Europa Institute in Salzburg, indicating an affiliation through receiving an award from this institute.",
+      "phrase": 200,
+      "evidence": ""
+    },
+    {
+      "organisation": "European Academy of Sciences and Arts",
+      "role": "Honorary Senator",
+      "reasoning": "The phrase explicitly states Juncker was an Honorary Senator of the European Academy of Sciences and Arts.",
+      "phrase": 200,
+      "evidence": ""
+    },
+    {
+      "organisation": "Fondation du Mérite européen",
+      "role": "Award recipient",
+      "reasoning": "The phrase lists the Collier of the Fondation du Mérite européen, indicating an affiliation through receiving an award from this foundation.",
+      "phrase": 200,
+      "evidence": ""
+    },
+    {
+      "organisation": "Hanns Martin Schleyer Foundation",
+      "role": "Award recipient",
+      "reasoning": "The phrase lists the Hanns Martin Schleyer Foundation, indicating an affiliation through receiving an award from this foundation.",
+      "phrase": 200,
+      "evidence": ""
+    }
+  ],
+  "count": 14
+}

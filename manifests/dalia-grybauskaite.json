@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "slug": "dalia-grybauskaite",
+  "name": "Dalia Grybauskaitė",
+  "orgs": [
+    {
+      "organisation": "Aid Coordination Committee (Phare and the G24)",
+      "role": "chair",
+      "reasoning": "The phrase states she chaired the Aid Coordination Committee, indicating a leadership role within that organisation.",
+      "phrase": 26,
+      "evidence": "She also chaired the Aid Coordination Committee (Phare and the G24)."
+    },
+    {
+      "organisation": "Sąjūdis",
+      "role": "supported by (NGO)",
+      "reasoning": "The phrase indicates she was supported by NGOs including Sąjūdis, showing an affiliation with this organisation.",
+      "phrase": 53,
+      "evidence": "She ran as an independent, although she was supported by the dominant Christian Democrats as well as by NGOs, including Sąjūdis."
+    }
+  ],
+  "count": 2
+}

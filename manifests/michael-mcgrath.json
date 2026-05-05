@@ -1,0 +1,29 @@
+{
+  "status": "ok",
+  "slug": "michael-mcgrath",
+  "name": "Michael McGrath",
+  "orgs": [
+    {
+      "organisation": "KPMG",
+      "role": "chartered accountant (trainee/employee)",
+      "reasoning": "The phrase states he 'qualified as a chartered accountant with KPMG', indicating he was employed and trained by the firm.",
+      "phrase": 5,
+      "evidence": "He studied commerce at University College Cork and later qualified as a chartered accountant with KPMG and worked subsequently as Financial Controller of RedFM and Head of Management Information and Systems, University College Cork."
+    },
+    {
+      "organisation": "Passage West Town Council",
+      "role": "member",
+      "reasoning": "The phrase explicitly states 'He was a member of Passage West Town Council from 1999 to 2007'.",
+      "phrase": 6,
+      "evidence": "Political career\nHe was a member of Passage West Town Council from 1999 to 2007, and a member of Cork County Council for the Carrigaline local electoral area from 2004 to 2007."
+    },
+    {
+      "organisation": "Cork County Council",
+      "role": "member",
+      "reasoning": "The phrase explicitly states he was 'a member of Cork County Council for the Carrigaline local electoral area from 2004 to 2007'.",
+      "phrase": 6,
+      "evidence": "Political career\nHe was a member of Passage West Town Council from 1999 to 2007, and a member of Cork County Council for the Carrigaline local electoral area from 2004 to 2007."
+    }
+  ],
+  "count": 3
+}

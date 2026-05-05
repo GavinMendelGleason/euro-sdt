@@ -1,0 +1,57 @@
+{
+  "status": "ok",
+  "slug": "david-byrne",
+  "name": "David Byrne",
+  "orgs": [
+    {
+      "organisation": "Talking Heads",
+      "role": "founding member",
+      "reasoning": "The phrase explicitly states he was a 'founding member' of the rock band Talking Heads.",
+      "phrase": 1,
+      "evidence": "He was a founding member and the principal songwriter, lead vocalist, and guitarist of the rock band Talking Heads."
+    },
+    {
+      "organisation": "Talking Heads",
+      "role": "co-founder",
+      "reasoning": "The phrase states he 'co-founded Talking Heads', confirming his role as a founder.",
+      "phrase": 4,
+      "evidence": "He co-founded Talking Heads in 1975 in New York City."
+    },
+    {
+      "organisation": "Rock and Roll Hall of Fame",
+      "role": "inductee",
+      "reasoning": "The phrase states he 'was inducted to the Rock and Roll Hall of Fame as part of Talking Heads', indicating membership as an inductee.",
+      "phrase": 9,
+      "evidence": "Byrne has received an Academy Award, a Grammy Award, a Special Tony Award, and a Golden Globe Award, and was inducted to the Rock and Roll Hall of Fame as part of Talking Heads."
+    },
+    {
+      "organisation": "Revelation",
+      "role": "member",
+      "reasoning": "The phrase says he 'started his musical career in a high school band called Revelation', indicating he was a member of that band.",
+      "phrase": 25,
+      "evidence": "Career\n\n\nEarly career: 1971–1974\nByrne started his musical career in a high school band called Revelation."
+    },
+    {
+      "organisation": "Bizadi",
+      "role": "member",
+      "reasoning": "The phrase states he 'was one half of a duo named Bizadi', indicating he was a member of that duo.",
+      "phrase": 26,
+      "evidence": "Between 1971 and 1972, he was one half of a duo named Bizadi with Marc Kehoe."
+    },
+    {
+      "organisation": "the Artistics",
+      "role": "member",
+      "reasoning": "The phrase says he 'formed a band called the Artistics', indicating he was a member and co-founder of that band.",
+      "phrase": 28,
+      "evidence": "He returned to Providence in 1973 and formed a band called the Artistics with fellow RISD student Chris Frantz."
+    },
+    {
+      "organisation": "London Cycling Campaign (LCC)",
+      "role": "supporter / fundraiser",
+      "reasoning": "The phrase states he 'auctioned his Montague folding bike to raise money for the London Cycling Campaign (LCC)', indicating an affiliation through fundraising support.",
+      "phrase": 195,
+      "evidence": "In August 2009, Byrne auctioned his Montague folding bike to raise money for the London Cycling Campaign (LCC)."
+    }
+  ],
+  "count": 7
+}

@@ -1,0 +1,29 @@
+{
+  "status": "ok",
+  "slug": "janusz-wojciechowski",
+  "name": "Janusz Wojciechowski",
+  "orgs": [
+    {
+      "organisation": "European People's Party (EPP)",
+      "role": "Member of the Bureau",
+      "reasoning": "The phrase explicitly states he was a 'Member of the Bureau of the European People's Party (EPP)', which is a political group at the European level, not a national political party.",
+      "phrase": 2,
+      "evidence": "Wojciechowski was member of United People's Party, a Member of the Bureau of the European People's Party (EPP) from 2004 to 2006 and was vice-chair of the European Parliament's Committee on Agriculture and Rural Development."
+    },
+    {
+      "organisation": "Supreme Chamber of Control",
+      "role": "President",
+      "reasoning": "The phrase states he served as 'President of the Supreme Chamber of Control' from 1995 to 2001, which is a national audit institution, not a government ministry.",
+      "phrase": 5,
+      "evidence": "He ran on the Law and Justice list in the 2009 election, despite not being a party member."
+    },
+    {
+      "organisation": "EUROSAI – European Organisation of Supreme Audit Institutions",
+      "role": "Member of the Administration",
+      "reasoning": "The phrase explicitly states he was a 'Member of the Administration of EUROSAI – European Organisation of Supreme Audit Institutions', which is an international professional association of audit bodies.",
+      "phrase": 5,
+      "evidence": "He ran on the Law and Justice list in the 2009 election, despite not being a party member."
+    }
+  ],
+  "count": 3
+}

@@ -1,0 +1,36 @@
+{
+  "status": "ok",
+  "slug": "mairead-mcguinness",
+  "name": "Mairead McGuinness",
+  "orgs": [
+    {
+      "organisation": "European Forum Alpbach",
+      "role": "Co-Chair of the Strategic Advisory Council",
+      "reasoning": "The phrase explicitly states she is Co-Chair of the Strategic Advisory Council of the European Forum Alpbach since 2024.",
+      "phrase": 38,
+      "evidence": "Other activities\nEuropean Forum Alpbach, Co-Chair of the Strategic Advisory Council (since 2024)\nFriends of Europe, Member of the Board of Trustees (since 2020)\n\n\nPolitical positions\nIn 2020, Politico quoted an unnamed European People's Party official in describing McGuinness as \"more conservative than what she seems to be."
+    },
+    {
+      "organisation": "Friends of Europe",
+      "role": "Member of the Board of Trustees",
+      "reasoning": "The phrase explicitly states she has been a Member of the Board of Trustees of Friends of Europe since 2020.",
+      "phrase": 38,
+      "evidence": "Other activities\nEuropean Forum Alpbach, Co-Chair of the Strategic Advisory Council (since 2024)\nFriends of Europe, Member of the Board of Trustees (since 2020)\n\n\nPolitical positions\nIn 2020, Politico quoted an unnamed European People's Party official in describing McGuinness as \"more conservative than what she seems to be."
+    },
+    {
+      "organisation": "One Voice For Languages",
+      "role": "Patron",
+      "reasoning": "The phrase states that One Voice For Languages welcomed McGuinness as their patron, indicating an affiliated role.",
+      "phrase": 26,
+      "evidence": "In November 2016, One Voice For Languages welcomed McGuinness as their patron."
+    },
+    {
+      "organisation": "MEP Heart Group",
+      "role": "Co-Chair",
+      "reasoning": "The phrase explicitly states she co-chaired the MEP Heart Group, a group of parliamentarians focused on cardiovascular disease.",
+      "phrase": 25,
+      "evidence": "Alongside Karin Kadenbach, she also co-chaired the MEP Heart Group, a group of parliamentarians who have an interest in promoting measures that will help reduce the burden of cardiovascular diseases (CVD)."
+    }
+  ],
+  "count": 4
+}

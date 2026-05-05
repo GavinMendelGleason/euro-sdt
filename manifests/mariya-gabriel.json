@@ -1,0 +1,57 @@
+{
+  "status": "ok",
+  "slug": "mariya-gabriel",
+  "name": "Mariya Gabriel",
+  "orgs": [
+    {
+      "organisation": "Robert Schuman Institute",
+      "role": "president",
+      "reasoning": "The phrase explicitly states she is 'president of the Robert Schuman Institute', indicating a leadership role in this organisation.",
+      "phrase": 0,
+      "evidence": "Mariya Ivanova Gabriel (Bulgarian: Мария Иванова Габриел, née Nedelcheva, Bulgarian: Неделчева, born 20 May 1979) is a Bulgarian politician, president of the Robert Schuman Institute."
+    },
+    {
+      "organisation": "European People's Party (EPP) group",
+      "role": "vice-president",
+      "reasoning": "The phrase states she served as 'vice-president of the European People's Party (EPP) group', indicating a formal position within this political group.",
+      "phrase": 3,
+      "evidence": "In the European Parliament she served as vice-president of the European People's Party (EPP) group, vice-president of EPP Women and head of the Bulgarian EPP delegation."
+    },
+    {
+      "organisation": "EPP Women",
+      "role": "vice-president",
+      "reasoning": "The phrase states she served as 'vice-president of EPP Women', indicating a formal position within this organisation.",
+      "phrase": 3,
+      "evidence": "In the European Parliament she served as vice-president of the European People's Party (EPP) group, vice-president of EPP Women and head of the Bulgarian EPP delegation."
+    },
+    {
+      "organisation": "EPP Group",
+      "role": "vice-president and Head of Bulgarian delegation",
+      "reasoning": "The phrase explicitly states she was 'vice-president of the EPP Group and Head of the Bulgarian delegation in the EPP Group', indicating leadership and membership roles.",
+      "phrase": 14,
+      "evidence": "Member of the European Parliament\n\n\nVice-President of the EPP Group and Head of the Bulgarian delegation of the EPP Group\nFrom 2014 to 2017, Mariya Gabriel was vice-president of the EPP Group and Head of the Bulgarian delegation in the EPP Group."
+    },
+    {
+      "organisation": "Euromed Working Group of the EPP",
+      "role": "chair",
+      "reasoning": "The phrase states she 'chaired the Euromed Working Group of the EPP', indicating a chairing role within this working group.",
+      "phrase": 15,
+      "evidence": "As vice-president of the EPP Group she chaired the Euromed Working Group of the EPP and was responsible for maintaining the EPP Group's relations with countries from the Mediterranean, Middle East and North Africa regions."
+    },
+    {
+      "organisation": "Working Group on Apiculture and Bee Health",
+      "role": "President",
+      "reasoning": "The phrase explicitly states she was 'President of the Working Group on Apiculture and Bee Health', indicating a leadership role in this group.",
+      "phrase": 25,
+      "evidence": "From 2014 to 2017, Mariya Gabriel was President of the Working Group on Apiculture and Bee Health."
+    },
+    {
+      "organisation": "ACP-EU Joint Parliamentary Assembly",
+      "role": "active member",
+      "reasoning": "The phrase states she was 'an active member of the ACP-EU Joint Parliamentary Assembly', indicating membership in this assembly.",
+      "phrase": 30,
+      "evidence": "EU foreign policy\nFrom 2009 Mariya Gabriel was an active member of the ACP-EU Joint Parliamentary Assembly, which brings together parliamentarians from the African, Caribbean and Pacific Group of States and the European Union."
+    }
+  ],
+  "count": 7
+}

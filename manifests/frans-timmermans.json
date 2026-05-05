@@ -1,0 +1,29 @@
+{
+  "status": "ok",
+  "slug": "frans-timmermans",
+  "name": "Frans Timmermans",
+  "orgs": [
+    {
+      "organisation": "Organization for Security and Co-operation in Europe (OSCE)",
+      "role": "Senior Advisor and Private Secretary to the High Commissioner on National Minorities",
+      "reasoning": "The phrase states Timmermans worked as Senior Advisor and Private Secretary to Max van der Stoel, who was serving as the High Commissioner on National Minorities for the OSCE, indicating a formal affiliation with the OSCE.",
+      "phrase": 21,
+      "evidence": "A year later, he became Senior Advisor and Private Secretary to Max van der Stoel, then serving as the High Commissioner on National Minorities for the Organization for Security and Co-operation in Europe (OSCE), a position he held until entering national politics in 1998."
+    },
+    {
+      "organisation": "Parliamentary Assembly of the Council of Europe",
+      "role": "Member",
+      "reasoning": "The phrase explicitly states Timmermans was a member of the Parliamentary Assembly of the Council of Europe from 1998 to 2007.",
+      "phrase": 28,
+      "evidence": "He was also a member of the Parliamentary Assembly of the Council of Europe from 1998 to 2007."
+    },
+    {
+      "organisation": "Israel Council on Foreign Relations",
+      "role": "Speaker",
+      "reasoning": "The phrase mentions Timmermans gave a speech at the Israel Council on Foreign Relations, indicating he was a speaker or participant at this forum.",
+      "phrase": 52,
+      "evidence": "In a speech at the Israel Council on Foreign Relations Timmermans explains the interconnectedness between Israel and Europe."
+    }
+  ],
+  "count": 3
+}

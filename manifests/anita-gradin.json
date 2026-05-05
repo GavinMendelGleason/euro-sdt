@@ -1,0 +1,169 @@
+{
+  "status": "ok",
+  "slug": "anita-gradin",
+  "name": "Anita Gradin",
+  "orgs": [
+    {
+      "organisation": "Socialist International Women",
+      "role": "president",
+      "reasoning": "The phrase explicitly states 'Gradin was president of Socialist International Women', indicating a leadership role in this international political women's network.",
+      "phrase": 4,
+      "evidence": "Gradin was president of Socialist International Women and worked against the trafficking of women."
+    },
+    {
+      "organisation": "Västerbottens Folkblad",
+      "role": "journalist",
+      "reasoning": "The phrase states she was 'a journalist at the Västerbottens Folkblad', indicating employment and affiliation with this newspaper.",
+      "phrase": 7,
+      "evidence": "Career\nShe was a journalist at the Västerbottens Folkblad from 1950 to 1952, employed by the Swedish Forestry and Floating Workers' Union 1952–55, journalist at Arbetarbladet in Gävle 1955–58 and at the TCO magazine 1960–63."
+    },
+    {
+      "organisation": "Swedish Forestry and Floating Workers' Union",
+      "role": "employee",
+      "reasoning": "The phrase states she was 'employed by the Swedish Forestry and Floating Workers' Union', indicating a formal position at this trade union.",
+      "phrase": 7,
+      "evidence": "Career\nShe was a journalist at the Västerbottens Folkblad from 1950 to 1952, employed by the Swedish Forestry and Floating Workers' Union 1952–55, journalist at Arbetarbladet in Gävle 1955–58 and at the TCO magazine 1960–63."
+    },
+    {
+      "organisation": "Arbetarbladet",
+      "role": "journalist",
+      "reasoning": "The phrase states she was 'journalist at Arbetarbladet in Gävle', indicating employment and affiliation with this newspaper.",
+      "phrase": 7,
+      "evidence": "Career\nShe was a journalist at the Västerbottens Folkblad from 1950 to 1952, employed by the Swedish Forestry and Floating Workers' Union 1952–55, journalist at Arbetarbladet in Gävle 1955–58 and at the TCO magazine 1960–63."
+    },
+    {
+      "organisation": "TCO magazine",
+      "role": "journalist",
+      "reasoning": "The phrase states she was 'at the TCO magazine', indicating she worked as a journalist for this publication of the Swedish Confederation of Professional Employees (TCO).",
+      "phrase": 7,
+      "evidence": "Career\nShe was a journalist at the Västerbottens Folkblad from 1950 to 1952, employed by the Swedish Forestry and Floating Workers' Union 1952–55, journalist at Arbetarbladet in Gävle 1955–58 and at the TCO magazine 1960–63."
+    },
+    {
+      "organisation": "Social Affairs Planning Committee",
+      "role": "employee (secretary)",
+      "reasoning": "The phrase states she was 'employed by the Social Affairs Planning Committee in Stockholm as secretary', indicating a formal position at this committee.",
+      "phrase": 8,
+      "evidence": "Gradin was employed by the Social Affairs Planning Committee in Stockholm as secretary of the City College's Women's Affairs Committee, 1963–67, Secretary of State at the 1963 Council of Ministers, Member of the School Board's Educational Board 1971–81, by the International Health and Social Affairs Committee 1972–78, chairman of the Board of International Adoption Issues 1973–79 and Member of the 1982 Experts Group on Immigration Research."
+    },
+    {
+      "organisation": "City College's Women's Affairs Committee",
+      "role": "secretary",
+      "reasoning": "The phrase states she served as 'secretary of the City College's Women's Affairs Committee', indicating a formal role on this committee.",
+      "phrase": 8,
+      "evidence": "Gradin was employed by the Social Affairs Planning Committee in Stockholm as secretary of the City College's Women's Affairs Committee, 1963–67, Secretary of State at the 1963 Council of Ministers, Member of the School Board's Educational Board 1971–81, by the International Health and Social Affairs Committee 1972–78, chairman of the Board of International Adoption Issues 1973–79 and Member of the 1982 Experts Group on Immigration Research."
+    },
+    {
+      "organisation": "School Board's Educational Board",
+      "role": "member",
+      "reasoning": "The phrase states she was 'Member of the School Board's Educational Board', indicating membership on this board.",
+      "phrase": 8,
+      "evidence": "Gradin was employed by the Social Affairs Planning Committee in Stockholm as secretary of the City College's Women's Affairs Committee, 1963–67, Secretary of State at the 1963 Council of Ministers, Member of the School Board's Educational Board 1971–81, by the International Health and Social Affairs Committee 1972–78, chairman of the Board of International Adoption Issues 1973–79 and Member of the 1982 Experts Group on Immigration Research."
+    },
+    {
+      "organisation": "International Health and Social Affairs Committee",
+      "role": "member",
+      "reasoning": "The phrase states she was a member 'by the International Health and Social Affairs Committee', indicating affiliation with this committee.",
+      "phrase": 8,
+      "evidence": "Gradin was employed by the Social Affairs Planning Committee in Stockholm as secretary of the City College's Women's Affairs Committee, 1963–67, Secretary of State at the 1963 Council of Ministers, Member of the School Board's Educational Board 1971–81, by the International Health and Social Affairs Committee 1972–78, chairman of the Board of International Adoption Issues 1973–79 and Member of the 1982 Experts Group on Immigration Research."
+    },
+    {
+      "organisation": "Board of International Adoption Issues",
+      "role": "chairman",
+      "reasoning": "The phrase states she was 'chairman of the Board of International Adoption Issues', indicating a leadership role on this board.",
+      "phrase": 8,
+      "evidence": "Gradin was employed by the Social Affairs Planning Committee in Stockholm as secretary of the City College's Women's Affairs Committee, 1963–67, Secretary of State at the 1963 Council of Ministers, Member of the School Board's Educational Board 1971–81, by the International Health and Social Affairs Committee 1972–78, chairman of the Board of International Adoption Issues 1973–79 and Member of the 1982 Experts Group on Immigration Research."
+    },
+    {
+      "organisation": "Experts Group on Immigration Research",
+      "role": "member",
+      "reasoning": "The phrase states she was 'Member of the 1982 Experts Group on Immigration Research', indicating membership in this expert group.",
+      "phrase": 8,
+      "evidence": "Gradin was employed by the Social Affairs Planning Committee in Stockholm as secretary of the City College's Women's Affairs Committee, 1963–67, Secretary of State at the 1963 Council of Ministers, Member of the School Board's Educational Board 1971–81, by the International Health and Social Affairs Committee 1972–78, chairman of the Board of International Adoption Issues 1973–79 and Member of the 1982 Experts Group on Immigration Research."
+    },
+    {
+      "organisation": "Semester Committee",
+      "role": "member",
+      "reasoning": "The phrase states she was 'a member of the 1974 Semester Committee', indicating membership in this committee.",
+      "phrase": 9,
+      "evidence": "Gradin was a member of the 1974 Semester Committee 1974–1975, of the 1974–1977 Research Education Survey, by the Delegation for Gender Equality 1975–1976, by the 1978–81 Research Co-operation Committee and by the 1980–80 Abortion Committee."
+    },
+    {
+      "organisation": "Research Education Survey",
+      "role": "member",
+      "reasoning": "The phrase states she was a member 'of the 1974–1977 Research Education Survey', indicating participation in this survey committee.",
+      "phrase": 9,
+      "evidence": "Gradin was a member of the 1974 Semester Committee 1974–1975, of the 1974–1977 Research Education Survey, by the Delegation for Gender Equality 1975–1976, by the 1978–81 Research Co-operation Committee and by the 1980–80 Abortion Committee."
+    },
+    {
+      "organisation": "Delegation for Gender Equality",
+      "role": "member",
+      "reasoning": "The phrase states she was a member 'by the Delegation for Gender Equality', indicating affiliation with this delegation.",
+      "phrase": 9,
+      "evidence": "Gradin was a member of the 1974 Semester Committee 1974–1975, of the 1974–1977 Research Education Survey, by the Delegation for Gender Equality 1975–1976, by the 1978–81 Research Co-operation Committee and by the 1980–80 Abortion Committee."
+    },
+    {
+      "organisation": "Research Co-operation Committee",
+      "role": "member",
+      "reasoning": "The phrase states she was a member 'by the 1978–81 Research Co-operation Committee', indicating membership in this committee.",
+      "phrase": 9,
+      "evidence": "Gradin was a member of the 1974 Semester Committee 1974–1975, of the 1974–1977 Research Education Survey, by the Delegation for Gender Equality 1975–1976, by the 1978–81 Research Co-operation Committee and by the 1980–80 Abortion Committee."
+    },
+    {
+      "organisation": "Abortion Committee",
+      "role": "member",
+      "reasoning": "The phrase states she was 'a member of the 1980–80 Abortion Committee', indicating membership in this committee.",
+      "phrase": 9,
+      "evidence": "Gradin was a member of the 1974 Semester Committee 1974–1975, of the 1974–1977 Research Education Survey, by the Delegation for Gender Equality 1975–1976, by the 1978–81 Research Co-operation Committee and by the 1980–80 Abortion Committee."
+    },
+    {
+      "organisation": "Sweden's social association",
+      "role": "chairman",
+      "reasoning": "The phrase states she was 'chairman of Sweden's social association', indicating a leadership role in this association.",
+      "phrase": 10,
+      "evidence": "She was a specialist in the hotel and restaurant survey 1974–78, a member of the 1975 business committee 1975–77, chairman of Sweden's social association 1976–81, and a board member of Stockholm's workers' municipality 1968–82."
+    },
+    {
+      "organisation": "Stockholm's workers' municipality",
+      "role": "board member",
+      "reasoning": "The phrase states she was 'a board member of Stockholm's workers' municipality', indicating a board position in this local labour organisation.",
+      "phrase": 10,
+      "evidence": "She was a specialist in the hotel and restaurant survey 1974–78, a member of the 1975 business committee 1975–77, chairman of Sweden's social association 1976–81, and a board member of Stockholm's workers' municipality 1968–82."
+    },
+    {
+      "organisation": "Stockholm City Social Democratic Women's District",
+      "role": "chairman",
+      "reasoning": "The phrase states she was 'chairman of the Stockholm City Social Democratic Women's District', indicating a leadership role in this women's district organisation.",
+      "phrase": 11,
+      "evidence": "She was chairman of the Stockholm City Social Democratic Women's District 1968–82 and Vice Chairman of the Women's Association from 1975."
+    },
+    {
+      "organisation": "Women's Association",
+      "role": "Vice Chairman",
+      "reasoning": "The phrase states she was 'Vice Chairman of the Women's Association', indicating a leadership role in this association.",
+      "phrase": 11,
+      "evidence": "She was chairman of the Stockholm City Social Democratic Women's District 1968–82 and Vice Chairman of the Women's Association from 1975."
+    },
+    {
+      "organisation": "Danish People's Welfare Board / Dental Committee",
+      "role": "member",
+      "reasoning": "The phrase states she was 'a member of the Danish People's Welfare Board / Dental Committee', indicating membership in this board/committee.",
+      "phrase": 12,
+      "evidence": "Gradin was a member of the City Council in Stockholm in 1966–68 as well as a member of the Danish People's Welfare Board / Dental Committee 1966–76."
+    },
+    {
+      "organisation": "Council of Europe's Swedish delegation",
+      "role": "member",
+      "reasoning": "The phrase states she was 'Alternate member of the Council of Europe's Swedish delegation 1973–80 and member 1981–82', indicating membership in this delegation to the Council of Europe.",
+      "phrase": 22,
+      "evidence": "Positions\nMember of the Riksdag (in the second chamber of Stockholm city 1969–70) 1969–1992\nDeputy member of the 1969–70 Committees\nDeputy member of the Justice Committee 1971–82\nMember of the Education Committee 1971–76\nMember of the Finance Committee 1976–82\nAlternate member of the Council of Europe's Swedish delegation 1973–80 and member 1981–82\nState Council 8 October 1982 – 1991\nMinistry of Labor (Minister for Immigration and Equal Opportunities) 1982–1986\nMinister of Foreign Trade 1986–1991\nMember of the Riksdag, Vice Chairman of the Committee on Nutrition 1991–1992\nAmbassador to Vienna 1992–1994\nMember of the European Commission 1995–1999\nChairman of the Chamber of Commerce Sweden-Israel\n\n\nAwards and decorations\n  Grand Decoration of Honour in Gold with Sash for Services to the Republic of Austria (1994)\n Nominated on 9 May 2007 by the European Movement in Sweden to the 2007 European of the Year in Sweden."
+    },
+    {
+      "organisation": "Chamber of Commerce Sweden-Israel",
+      "role": "Chairman",
+      "reasoning": "The phrase states she was 'Chairman of the Chamber of Commerce Sweden-Israel', indicating a leadership role in this bilateral business organisation.",
+      "phrase": 22,
+      "evidence": "Positions\nMember of the Riksdag (in the second chamber of Stockholm city 1969–70) 1969–1992\nDeputy member of the 1969–70 Committees\nDeputy member of the Justice Committee 1971–82\nMember of the Education Committee 1971–76\nMember of the Finance Committee 1976–82\nAlternate member of the Council of Europe's Swedish delegation 1973–80 and member 1981–82\nState Council 8 October 1982 – 1991\nMinistry of Labor (Minister for Immigration and Equal Opportunities) 1982–1986\nMinister of Foreign Trade 1986–1991\nMember of the Riksdag, Vice Chairman of the Committee on Nutrition 1991–1992\nAmbassador to Vienna 1992–1994\nMember of the European Commission 1995–1999\nChairman of the Chamber of Commerce Sweden-Israel\n\n\nAwards and decorations\n  Grand Decoration of Honour in Gold with Sash for Services to the Republic of Austria (1994)\n Nominated on 9 May 2007 by the European Movement in Sweden to the 2007 European of the Year in Sweden."
+    }
+  ],
+  "count": 23
+}

@@ -1,0 +1,36 @@
+{
+  "status": "ok",
+  "slug": "androulla-vassiliou",
+  "name": "Androulla Vassiliou",
+  "orgs": [
+    {
+      "organisation": "European Liberal Democrat and Reform Party",
+      "role": "Vice President",
+      "reasoning": "The phrase states she was Vice President of this party, which is a political foundation/network at the European level.",
+      "phrase": 11,
+      "evidence": "Between 2001 and 2006, she was Vice President of the European Liberal Democrat and Reform Party, and the chairperson of the European Liberal Women's Network."
+    },
+    {
+      "organisation": "European Liberal Women's Network",
+      "role": "chairperson",
+      "reasoning": "The phrase states she was chairperson of this network, which is an advocacy/network group within the liberal political family.",
+      "phrase": 11,
+      "evidence": "Between 2001 and 2006, she was Vice President of the European Liberal Democrat and Reform Party, and the chairperson of the European Liberal Women's Network."
+    },
+    {
+      "organisation": "Cyprus Oncology Centre",
+      "role": "chairperson of the board of trustees",
+      "reasoning": "The phrase explicitly states she has been chairperson of the board of trustees of this centre since 2002.",
+      "phrase": 15,
+      "evidence": "Other activities and personal life\nSince 2002, she has been chairperson of the board of trustees of the Cyprus Oncology Centre and she has also been President of the Cyprus Federation of Business and Professional Women since 1996."
+    },
+    {
+      "organisation": "Cyprus Federation of Business and Professional Women",
+      "role": "President",
+      "reasoning": "The phrase states she has been President of this federation since 1996, which is a professional association/NGO.",
+      "phrase": 15,
+      "evidence": "Other activities and personal life\nSince 2002, she has been chairperson of the board of trustees of the Cyprus Oncology Centre and she has also been President of the Cyprus Federation of Business and Professional Women since 1996."
+    }
+  ],
+  "count": 4
+}

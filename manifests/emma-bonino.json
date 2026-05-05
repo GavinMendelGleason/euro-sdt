@@ -1,0 +1,57 @@
+{
+  "status": "ok",
+  "slug": "emma-bonino",
+  "name": "Emma Bonino",
+  "orgs": [
+    {
+      "organisation": "Bilderberg Group",
+      "role": "participant",
+      "reasoning": "The phrase states she participated in the annual meeting of the Bilderberg Group, indicating attendance and affiliation as a participant.",
+      "phrase": 34,
+      "evidence": "From 14 to 17 May 1998, she participated in the annual meeting of the Bilderberg Group at Turnberry, Scotland."
+    },
+    {
+      "organisation": "No Peace Without Justice",
+      "role": "founder",
+      "reasoning": "The phrase explicitly says she is a founder of the nongovernmental organization No Peace Without Justice.",
+      "phrase": 42,
+      "evidence": "She is a founder of the nongovernmental organizations No Peace Without Justice, which supports the international protection and promotion of human rights and democracy, and Nessuno Tocchi Caino (Let None Strike Cain), which is an international league that fights for the abolition of the death penalty."
+    },
+    {
+      "organisation": "Nessuno Tocchi Caino (Let None Strike Cain)",
+      "role": "founder",
+      "reasoning": "The phrase explicitly says she is a founder of the international league Nessuno Tocchi Caino.",
+      "phrase": 42,
+      "evidence": "She is a founder of the nongovernmental organizations No Peace Without Justice, which supports the international protection and promotion of human rights and democracy, and Nessuno Tocchi Caino (Let None Strike Cain), which is an international league that fights for the abolition of the death penalty."
+    },
+    {
+      "organisation": "Arab Democracy Foundation",
+      "role": "board member",
+      "reasoning": "The phrase states she is currently a board member of the Arab Democracy Foundation.",
+      "phrase": 59,
+      "evidence": "She is currently a board member of the Arab Democracy Foundation."
+    },
+    {
+      "organisation": "DARA",
+      "role": "board member",
+      "reasoning": "The phrase states she was a board member of DARA until December 2012.",
+      "phrase": 60,
+      "evidence": "Bonino was a board member of DARA until December 2012."
+    },
+    {
+      "organisation": "High Level Panel on the Future of the Development Assistance Committee",
+      "role": "member",
+      "reasoning": "The phrase states she was appointed to serve on this High Level Panel, indicating membership.",
+      "phrase": 61,
+      "evidence": "In 2016, she was appointed by Erik Solheim, the Chairman of the Development Assistance Committee, to serve on the High Level Panel on the Future of the Development Assistance Committee under the leadership of Mary Robinson."
+    },
+    {
+      "organisation": "Asian University for Women (AUW)",
+      "role": "member of the Council of Patrons",
+      "reasoning": "The phrase states she is a member of the eminent international Council of Patrons of the Asian University for Women.",
+      "phrase": 63,
+      "evidence": "Philanthropy and charitable causes\nBonino is a member of the eminent international Council of Patrons of the Asian University for Women (AUW) in Chittagong, Bangladesh."
+    }
+  ],
+  "count": 7
+}

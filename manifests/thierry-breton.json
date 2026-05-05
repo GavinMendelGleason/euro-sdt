@@ -1,0 +1,99 @@
+{
+  "status": "ok",
+  "slug": "thierry-breton",
+  "name": "Thierry Breton",
+  "orgs": [
+    {
+      "organisation": "Anticor",
+      "role": "subject of conflict-of-interest concern",
+      "reasoning": "The phrase states that Breton was considered by anti-corruption association Anticor to be at serious risk of conflicts of interest, indicating Anticor is an organisation that scrutinised his affiliations.",
+      "phrase": 4,
+      "evidence": "From 2019, Breton served as the European Commissioner for Internal Market under the presidency of Ursula von der Leyen, an appointment that met with controversy, as he was considered by anti-corruption association Anticor to be at serious risk of conflicts of interest over his previous posts at France Télécom and Atos."
+    },
+    {
+      "organisation": "Institut des hautes études de défense nationale",
+      "role": "graduate",
+      "reasoning": "The phrase states that Breton graduated from the Institut des hautes études de défense nationale (IHEDN), indicating he was a student and alumnus of this institute.",
+      "phrase": 11,
+      "evidence": "Breton received a master's degree in electrical engineering and computer science from École Supérieure d'Électricité (Supélec, now CentraleSupélec) in 1979 and later graduated from the Institut des hautes études de défense nationale (IHEDN)."
+    },
+    {
+      "organisation": "Thomson Multimedia",
+      "role": "Honorary President",
+      "reasoning": "The phrase explicitly states he was named Honorary President of the company (Thomson Multimedia) following his departure, indicating an ongoing honorary affiliation.",
+      "phrase": 27,
+      "evidence": "He was named Honorary President of the company in September 2002 following his departure for France Télécom."
+    },
+    {
+      "organisation": "France Télécom",
+      "role": "Honorary President",
+      "reasoning": "The phrase explicitly states he was named Honorary President of France Télécom, indicating an ongoing honorary affiliation with the organisation.",
+      "phrase": 45,
+      "evidence": "He was named as Honorary President of France Télécom."
+    },
+    {
+      "organisation": "Franco-German Chamber of Commerce and Industry",
+      "role": "award recipient",
+      "reasoning": "The phrase states that his strategy was awarded a prize by the Franco-German Chamber of Commerce and Industry, indicating a formal recognition relationship with this chamber.",
+      "phrase": 55,
+      "evidence": "This strategy was awarded the prize for Industrial cooperation by the Franco-German Chamber of Commerce and Industry."
+    },
+    {
+      "organisation": "European Cloud Partnership",
+      "role": "co-president",
+      "reasoning": "The phrase states he co-presided over the European Commission's European Cloud Partnership, indicating he held a leadership role in this partnership.",
+      "phrase": 57,
+      "evidence": "Furthermore, he participated in other European institutional projects in which the Franco-German partnership played a central role such as the European Commission's European Cloud Partnership (2012–2014), over which he co-presided with Jim Snabe, the co-CEO of the German software company SAP."
+    },
+    {
+      "organisation": "Order of the Southern Cross",
+      "role": "Grand Officer",
+      "reasoning": "The phrase lists him as a Grand Officer of the Order of the Southern Cross, indicating he was a member of this Brazilian order.",
+      "phrase": 114,
+      "evidence": "Decorations\n Brazil: Grand Officer\t of the Order of the Southern Cross (2006)\n Chile: Grand Cross of the Order of Merit (2006)\n France: Commander of the Order of the Legion of Honour (2015; Officer in 2008; Knight in 1997)\n France: Grand Officer of the National Order of Merit (2012; Commander in 2004; Officer in 2001; Knight in 1993)\n Morocco: Commander of the Order of Ouissam Alaouite (2010)\n Spain: Commander of the Order of Civil Merit (2006)\n\n\nAwards\n2015: Montgelas Prize, for outstanding actions in favor of French-German cooperation, Munich, Germany."
+    },
+    {
+      "organisation": "Order of Merit (Chile)",
+      "role": "Grand Cross recipient",
+      "reasoning": "The phrase lists him as receiving the Grand Cross of the Order of Merit from Chile, indicating he was a member of this Chilean order.",
+      "phrase": 114,
+      "evidence": "Decorations\n Brazil: Grand Officer\t of the Order of the Southern Cross (2006)\n Chile: Grand Cross of the Order of Merit (2006)\n France: Commander of the Order of the Legion of Honour (2015; Officer in 2008; Knight in 1997)\n France: Grand Officer of the National Order of Merit (2012; Commander in 2004; Officer in 2001; Knight in 1993)\n Morocco: Commander of the Order of Ouissam Alaouite (2010)\n Spain: Commander of the Order of Civil Merit (2006)\n\n\nAwards\n2015: Montgelas Prize, for outstanding actions in favor of French-German cooperation, Munich, Germany."
+    },
+    {
+      "organisation": "Order of the Legion of Honour",
+      "role": "Commander (previously Officer and Knight)",
+      "reasoning": "The phrase lists his ranks in the Order of the Legion of Honour, indicating he is a member of this French order.",
+      "phrase": 114,
+      "evidence": "Decorations\n Brazil: Grand Officer\t of the Order of the Southern Cross (2006)\n Chile: Grand Cross of the Order of Merit (2006)\n France: Commander of the Order of the Legion of Honour (2015; Officer in 2008; Knight in 1997)\n France: Grand Officer of the National Order of Merit (2012; Commander in 2004; Officer in 2001; Knight in 1993)\n Morocco: Commander of the Order of Ouissam Alaouite (2010)\n Spain: Commander of the Order of Civil Merit (2006)\n\n\nAwards\n2015: Montgelas Prize, for outstanding actions in favor of French-German cooperation, Munich, Germany."
+    },
+    {
+      "organisation": "National Order of Merit (France)",
+      "role": "Grand Officer (previously Commander, Officer, Knight)",
+      "reasoning": "The phrase lists his ranks in the National Order of Merit, indicating he is a member of this French order.",
+      "phrase": 114,
+      "evidence": "Decorations\n Brazil: Grand Officer\t of the Order of the Southern Cross (2006)\n Chile: Grand Cross of the Order of Merit (2006)\n France: Commander of the Order of the Legion of Honour (2015; Officer in 2008; Knight in 1997)\n France: Grand Officer of the National Order of Merit (2012; Commander in 2004; Officer in 2001; Knight in 1993)\n Morocco: Commander of the Order of Ouissam Alaouite (2010)\n Spain: Commander of the Order of Civil Merit (2006)\n\n\nAwards\n2015: Montgelas Prize, for outstanding actions in favor of French-German cooperation, Munich, Germany."
+    },
+    {
+      "organisation": "Order of Ouissam Alaouite",
+      "role": "Commander",
+      "reasoning": "The phrase lists him as a Commander of the Order of Ouissam Alaouite, indicating he is a member of this Moroccan order.",
+      "phrase": 114,
+      "evidence": "Decorations\n Brazil: Grand Officer\t of the Order of the Southern Cross (2006)\n Chile: Grand Cross of the Order of Merit (2006)\n France: Commander of the Order of the Legion of Honour (2015; Officer in 2008; Knight in 1997)\n France: Grand Officer of the National Order of Merit (2012; Commander in 2004; Officer in 2001; Knight in 1993)\n Morocco: Commander of the Order of Ouissam Alaouite (2010)\n Spain: Commander of the Order of Civil Merit (2006)\n\n\nAwards\n2015: Montgelas Prize, for outstanding actions in favor of French-German cooperation, Munich, Germany."
+    },
+    {
+      "organisation": "Order of Civil Merit (Spain)",
+      "role": "Commander",
+      "reasoning": "The phrase lists him as a Commander of the Order of Civil Merit from Spain, indicating he is a member of this Spanish order.",
+      "phrase": 114,
+      "evidence": "Decorations\n Brazil: Grand Officer\t of the Order of the Southern Cross (2006)\n Chile: Grand Cross of the Order of Merit (2006)\n France: Commander of the Order of the Legion of Honour (2015; Officer in 2008; Knight in 1997)\n France: Grand Officer of the National Order of Merit (2012; Commander in 2004; Officer in 2001; Knight in 1993)\n Morocco: Commander of the Order of Ouissam Alaouite (2010)\n Spain: Commander of the Order of Civil Merit (2006)\n\n\nAwards\n2015: Montgelas Prize, for outstanding actions in favor of French-German cooperation, Munich, Germany."
+    },
+    {
+      "organisation": "Montgelas Prize",
+      "role": "award recipient",
+      "reasoning": "The phrase states he received the Montgelas Prize for outstanding actions in favor of French-German cooperation, indicating a formal recognition from this prize organisation.",
+      "phrase": 114,
+      "evidence": "Decorations\n Brazil: Grand Officer\t of the Order of the Southern Cross (2006)\n Chile: Grand Cross of the Order of Merit (2006)\n France: Commander of the Order of the Legion of Honour (2015; Officer in 2008; Knight in 1997)\n France: Grand Officer of the National Order of Merit (2012; Commander in 2004; Officer in 2001; Knight in 1993)\n Morocco: Commander of the Order of Ouissam Alaouite (2010)\n Spain: Commander of the Order of Civil Merit (2006)\n\n\nAwards\n2015: Montgelas Prize, for outstanding actions in favor of French-German cooperation, Munich, Germany."
+    }
+  ],
+  "count": 13
+}

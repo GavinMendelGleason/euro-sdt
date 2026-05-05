@@ -1,0 +1,15 @@
+{
+  "status": "ok",
+  "slug": "tonio-borg",
+  "name": "Tonio Borg",
+  "orgs": [
+    {
+      "organisation": "European Medicines Agency (EMA)",
+      "role": "Member of the Management Board",
+      "reasoning": "The phrase explicitly states 'European Medicines Agency (EMA), Member of the Management Board', indicating Borg held a board membership position at this organisation.",
+      "phrase": 23,
+      "evidence": "Other activities\nEuropean Medicines Agency (EMA), Member of the Management Board\n\n\nRecognition\nIn December 2018 Borg was appointed Companion of the Order of Merit (KOM) by the President of Malta."
+    }
+  ],
+  "count": 1
+}

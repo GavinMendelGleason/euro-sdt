@@ -1,0 +1,113 @@
+{
+  "status": "ok",
+  "slug": "kaja-kallas",
+  "name": "Kaja Kallas",
+  "orgs": [
+    {
+      "organisation": "Estonian Bar Association",
+      "role": "member",
+      "reasoning": "The phrase explicitly states Kallas became a member of the Estonian Bar Association in 1999.",
+      "phrase": 18,
+      "evidence": "Kallas became a member of the Estonian Bar Association in 1999, and an attorney-at-law in 2002."
+    },
+    {
+      "organisation": "Estonian Bar Association",
+      "role": "member (inactive status)",
+      "reasoning": "The phrase states she was placed on inactive status as a member of the Estonian Bar Association, confirming ongoing membership.",
+      "phrase": 22,
+      "evidence": "In 2011, she was placed on inactive status as a member of the Estonian Bar Association."
+    },
+    {
+      "organisation": "Estonian Wind Power Association",
+      "role": "board member",
+      "reasoning": "The phrase explicitly states Kallas was a board member of the Estonian Wind Power Association from 2009 to 2010.",
+      "phrase": 25,
+      "evidence": "From 2009 to 2010, Kallas was a board member of the Estonian Wind Power Association."
+    },
+    {
+      "organisation": "European Young Leader (EYL40)",
+      "role": "nominated member",
+      "reasoning": "The phrase states she was nominated as a European Young Leader (EYL40), indicating affiliation with this network.",
+      "phrase": 37,
+      "evidence": "During her time in Parliament, she was also nominated as a European Young Leader (EYL40)."
+    },
+    {
+      "organisation": "Friends of Europe",
+      "role": "member of the Board of Trustees",
+      "reasoning": "The phrase explicitly states Kallas has been a member of the Board of Trustees of Friends of Europe since 2020.",
+      "phrase": 145,
+      "evidence": "Kirkpatrick Award awarded by the International Republican Institute (2023)\nMarion Dönhoff Prize for International Understanding and Reconciliation awarded by the ZEIT Foundation Ebelin and Gerd Bucerius (2023)\nInternational Lord Byron Prize awarded by the Society for Hellenism and Philhellenism, in collaboration with the Academy of Athens (2023)\nWalther Rathenau Award awarded by the Walther Rathenau Institut (2024)\n\n\nOther activities\nSince 2020, Kallas has been a member of the Board of Trustees of the Friends of Europe."
+    },
+    {
+      "organisation": "Women Economic Forum",
+      "role": "advisory board member",
+      "reasoning": "The phrase explicitly states she is an advisory board member of the Women Economic Forum.",
+      "phrase": 146,
+      "evidence": "Additionally, she is a member of the European Council on Foreign Relations, an advisory board member of the Women Economic Forum, and a patron of the Model European Union Tallinn."
+    },
+    {
+      "organisation": "European Liberal Youth",
+      "role": "mentor",
+      "reasoning": "The phrase explicitly states she is a mentor of the European Liberal Youth.",
+      "phrase": 147,
+      "evidence": "She is also a mentor of the European Liberal Youth, a member of the European Young Leaders, a MEP ambassor of Erasmus for Young Entrepreneurs, a member of the MEP Library Lovers Group, a political member of the European Internet Forum, a member of the extended board of the European Forum for Renewable Energy Sources, a member of the Global Young Leaders, a member of the Women Political Leaders, and a MEP ambassador of the European Entrepreneurship Education Network."
+    },
+    {
+      "organisation": "European Young Leaders",
+      "role": "member",
+      "reasoning": "The phrase explicitly states she is a member of the European Young Leaders.",
+      "phrase": 147,
+      "evidence": "She is also a mentor of the European Liberal Youth, a member of the European Young Leaders, a MEP ambassor of Erasmus for Young Entrepreneurs, a member of the MEP Library Lovers Group, a political member of the European Internet Forum, a member of the extended board of the European Forum for Renewable Energy Sources, a member of the Global Young Leaders, a member of the Women Political Leaders, and a MEP ambassador of the European Entrepreneurship Education Network."
+    },
+    {
+      "organisation": "Erasmus for Young Entrepreneurs",
+      "role": "MEP ambassador",
+      "reasoning": "The phrase explicitly states she is an MEP ambassador of Erasmus for Young Entrepreneurs.",
+      "phrase": 147,
+      "evidence": "She is also a mentor of the European Liberal Youth, a member of the European Young Leaders, a MEP ambassor of Erasmus for Young Entrepreneurs, a member of the MEP Library Lovers Group, a political member of the European Internet Forum, a member of the extended board of the European Forum for Renewable Energy Sources, a member of the Global Young Leaders, a member of the Women Political Leaders, and a MEP ambassador of the European Entrepreneurship Education Network."
+    },
+    {
+      "organisation": "MEP Library Lovers Group",
+      "role": "member",
+      "reasoning": "The phrase explicitly states she is a member of the MEP Library Lovers Group.",
+      "phrase": 147,
+      "evidence": "She is also a mentor of the European Liberal Youth, a member of the European Young Leaders, a MEP ambassor of Erasmus for Young Entrepreneurs, a member of the MEP Library Lovers Group, a political member of the European Internet Forum, a member of the extended board of the European Forum for Renewable Energy Sources, a member of the Global Young Leaders, a member of the Women Political Leaders, and a MEP ambassador of the European Entrepreneurship Education Network."
+    },
+    {
+      "organisation": "European Internet Forum",
+      "role": "political member",
+      "reasoning": "The phrase explicitly states she is a political member of the European Internet Forum.",
+      "phrase": 147,
+      "evidence": "She is also a mentor of the European Liberal Youth, a member of the European Young Leaders, a MEP ambassor of Erasmus for Young Entrepreneurs, a member of the MEP Library Lovers Group, a political member of the European Internet Forum, a member of the extended board of the European Forum for Renewable Energy Sources, a member of the Global Young Leaders, a member of the Women Political Leaders, and a MEP ambassador of the European Entrepreneurship Education Network."
+    },
+    {
+      "organisation": "European Forum for Renewable Energy Sources",
+      "role": "member of the extended board",
+      "reasoning": "The phrase explicitly states she is a member of the extended board of the European Forum for Renewable Energy Sources.",
+      "phrase": 147,
+      "evidence": "She is also a mentor of the European Liberal Youth, a member of the European Young Leaders, a MEP ambassor of Erasmus for Young Entrepreneurs, a member of the MEP Library Lovers Group, a political member of the European Internet Forum, a member of the extended board of the European Forum for Renewable Energy Sources, a member of the Global Young Leaders, a member of the Women Political Leaders, and a MEP ambassador of the European Entrepreneurship Education Network."
+    },
+    {
+      "organisation": "Global Young Leaders",
+      "role": "member",
+      "reasoning": "The phrase explicitly states she is a member of the Global Young Leaders.",
+      "phrase": 147,
+      "evidence": "She is also a mentor of the European Liberal Youth, a member of the European Young Leaders, a MEP ambassor of Erasmus for Young Entrepreneurs, a member of the MEP Library Lovers Group, a political member of the European Internet Forum, a member of the extended board of the European Forum for Renewable Energy Sources, a member of the Global Young Leaders, a member of the Women Political Leaders, and a MEP ambassador of the European Entrepreneurship Education Network."
+    },
+    {
+      "organisation": "Women Political Leaders",
+      "role": "member",
+      "reasoning": "The phrase explicitly states she is a member of the Women Political Leaders.",
+      "phrase": 147,
+      "evidence": "She is also a mentor of the European Liberal Youth, a member of the European Young Leaders, a MEP ambassor of Erasmus for Young Entrepreneurs, a member of the MEP Library Lovers Group, a political member of the European Internet Forum, a member of the extended board of the European Forum for Renewable Energy Sources, a member of the Global Young Leaders, a member of the Women Political Leaders, and a MEP ambassador of the European Entrepreneurship Education Network."
+    },
+    {
+      "organisation": "European Entrepreneurship Education Network",
+      "role": "MEP ambassador",
+      "reasoning": "The phrase explicitly states she is an MEP ambassador of the European Entrepreneurship Education Network.",
+      "phrase": 147,
+      "evidence": "She is also a mentor of the European Liberal Youth, a member of the European Young Leaders, a MEP ambassor of Erasmus for Young Entrepreneurs, a member of the MEP Library Lovers Group, a political member of the European Internet Forum, a member of the extended board of the European Forum for Renewable Energy Sources, a member of the Global Young Leaders, a member of the Women Political Leaders, and a MEP ambassador of the European Entrepreneurship Education Network."
+    }
+  ],
+  "count": 15
+}

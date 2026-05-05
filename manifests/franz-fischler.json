@@ -1,0 +1,29 @@
+{
+  "status": "ok",
+  "slug": "franz-fischler",
+  "name": "Franz Fischler",
+  "orgs": [
+    {
+      "organisation": "European Forum Alpbach",
+      "role": "President",
+      "reasoning": "The phrase explicitly states 'He also was President of the European Forum Alpbach', indicating a leadership role in this forum.",
+      "phrase": 2,
+      "evidence": "He also was President of the European Forum Alpbach."
+    },
+    {
+      "organisation": "Trilateral Commission",
+      "role": "Member of the European Group",
+      "reasoning": "The phrase lists 'Trilateral Commission, Member of the European Group', directly stating his membership in this international policy group.",
+      "phrase": 13,
+      "evidence": "Other activities\nTrilateral Commission, Member of the European Group."
+    },
+    {
+      "organisation": "Institute for Advanced Studies (IHS)",
+      "role": "Chair of the Board of Trustees",
+      "reasoning": "The phrase states 'Institute for Advanced Studies (IHS), Chair of the Board of Trustees', indicating he chaired the board of this research institute.",
+      "phrase": 14,
+      "evidence": "Institute for Advanced Studies (IHS), Chair of the Board of Trustees\n\n\nFurther reading\nNedergaard, Peter (July 2006)."
+    }
+  ],
+  "count": 3
+}

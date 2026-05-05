@@ -1,0 +1,29 @@
+{
+  "status": "ok",
+  "slug": "michel-barnier",
+  "name": "Michel Barnier",
+  "orgs": [
+    {
+      "organisation": "Conférence Olivaint",
+      "role": "member",
+      "reasoning": "The phrase explicitly states Barnier was 'a member of the Conférence Olivaint, a student organisation intended to prepare members for political life'.",
+      "phrase": 20,
+      "evidence": "During his studies at the ESCP, he was a classmate of Jean-Pierre Raffarin, future prime minister, and a member of the Conférence Olivaint, a student organisation intended to prepare members for political life."
+    },
+    {
+      "organisation": "Sustainability and Legacy Commission",
+      "role": "member",
+      "reasoning": "The phrase states Barnier 'been a member of the Sustainability and Legacy Commission of the entity', referring to the International Olympic Committee's commission.",
+      "phrase": 86,
+      "evidence": "Personal life\nAs president of the 1992 Winter Olympics Organising Committee, Barnier continued his ties with the International Olympic Committee, and been a member of the Sustainability and Legacy Commission of the entity, and of the board of trustees of Friends of Europe, a Brussels-based think tank."
+    },
+    {
+      "organisation": "Friends of Europe",
+      "role": "board of trustees member",
+      "reasoning": "The phrase states Barnier 'been a member of the board of trustees of Friends of Europe, a Brussels-based think tank'.",
+      "phrase": 86,
+      "evidence": "Personal life\nAs president of the 1992 Winter Olympics Organising Committee, Barnier continued his ties with the International Olympic Committee, and been a member of the Sustainability and Legacy Commission of the entity, and of the board of trustees of Friends of Europe, a Brussels-based think tank."
+    }
+  ],
+  "count": 3
+}

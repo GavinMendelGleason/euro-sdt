@@ -1,0 +1,29 @@
+{
+  "status": "ok",
+  "slug": "adina-ioana-valean",
+  "name": "Adina-Ioana Vălean",
+  "orgs": [
+    {
+      "organisation": "European Peoples Party",
+      "role": "member",
+      "reasoning": "The phrase explicitly states she is 'a member of the European Peoples Party', which is a European political foundation and international body.",
+      "phrase": 4,
+      "evidence": "Political career\n\n\nCareer in national politics\nA member of the National Liberal Party (PNL), and a member of the  European Peoples Party, Vălean was elected to the Chamber of Deputies on the Justice and Truth list for Călărași County (during the 2004 elections)."
+    },
+    {
+      "organisation": "Transatlantic Legislators' Dialogue (TLD)",
+      "role": "member",
+      "reasoning": "The phrase states she 'was also a member of the Transatlantic Legislators' Dialogue (TLD)', which is a forum for transatlantic parliamentary exchange.",
+      "phrase": 11,
+      "evidence": "She was also a member of the Transatlantic Legislators' Dialogue (TLD); the European Internet Forum; and the European Parliament Intergroup on Long Term Investment and Reindustrialisation."
+    },
+    {
+      "organisation": "European Internet Forum",
+      "role": "member",
+      "reasoning": "The phrase states she was 'a member of the European Internet Forum', which is a think tank and policy network focused on digital issues.",
+      "phrase": 11,
+      "evidence": "She was also a member of the Transatlantic Legislators' Dialogue (TLD); the European Internet Forum; and the European Parliament Intergroup on Long Term Investment and Reindustrialisation."
+    }
+  ],
+  "count": 3
+}

@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "slug": "joe-borg",
+  "name": "Joe Borg",
+  "orgs": [
+    {
+      "organisation": "Maltese Central Bank",
+      "role": "member of the board of directors",
+      "reasoning": "The phrase explicitly states he served as a member of the board of directors of the Maltese Central Bank.",
+      "phrase": 6,
+      "evidence": "From 1992 until 1995 he also served as member of the board of directors of the Maltese Central Bank."
+    },
+    {
+      "organisation": "Mediterranean Academy of Diplomatic Studies",
+      "role": "chairman",
+      "reasoning": "The phrase states he was appointed chairman of the Mediterranean Academy of Diplomatic Studies.",
+      "phrase": 16,
+      "evidence": "Soon after the end of his term as Fisheries Commissioner in 2010, he was appointed chairman of the Mediterranean Academy of Diplomatic Studies and resumed lecturing at the University of Malta."
+    }
+  ],
+  "count": 2
+}

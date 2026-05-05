@@ -1,0 +1,29 @@
+{
+  "status": "ok",
+  "slug": "leonard-orban",
+  "name": "Leonard Orban",
+  "orgs": [
+    {
+      "organisation": "Alliance of Liberals and Democrats for Europe (ALDE)",
+      "role": "member",
+      "reasoning": "The phrase states Orban participated as an independent in the European Parliament political group Alliance of Liberals and Democrats for Europe (ALDE), indicating his membership in that group.",
+      "phrase": 25,
+      "evidence": "He participated as an independent in the European Parliament political group Alliance of Liberals and Democrats for Europe (ALDE)."
+    },
+    {
+      "organisation": "Business Forum on Multilingualism",
+      "role": "creator",
+      "reasoning": "The phrase states that Orban's remit included the creation of a Business Forum on Multilingualism, indicating he founded or established this forum.",
+      "phrase": 77,
+      "evidence": "However, Orban agreed that the protection of language rights was a matter for individual member states and his view is that, \"When it comes to language rights, I am not in favour of adopting legislation at European level to be imposed on Member States.\"\nOrban's remit included the development of the European Indicator of Language Competence, the creation of a Business Forum on Multilingualism and Juvenes Translatores, a translation contest between schools from all over Europe as part of the events marking the 50th anniversary of the Treaty of Rome."
+    },
+    {
+      "organisation": "High Level Group on Multilingualism",
+      "role": "affiliated (as recipient of recommendations)",
+      "reasoning": "The phrase mentions Orban planned to analyze recommendations from the High Level Group on Multilingualism, implying the group existed and he was engaged with its output.",
+      "phrase": 80,
+      "evidence": "On planning further policy, Orban promised to, \"carefully analyse the results from the Action Plan for the promotion of language learning and linguistic diversity, the recommendations from the High Level Group on Multilingualism and the activities of the Commission internal network for multilingualism."
+    }
+  ],
+  "count": 3
+}

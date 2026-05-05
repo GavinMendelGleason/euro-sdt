@@ -1,0 +1,15 @@
+{
+  "status": "ok",
+  "slug": "jessika-roswall",
+  "name": "Jessika Roswall",
+  "orgs": [
+    {
+      "organisation": "Swedish Consumer Agency's transparency council",
+      "role": "member",
+      "reasoning": "The phrase explicitly states she has been a member of this council since 2015.",
+      "phrase": 13,
+      "evidence": "Since 2015, she has also been a member of the Swedish Consumer Agency's transparency council."
+    }
+  ],
+  "count": 1
+}

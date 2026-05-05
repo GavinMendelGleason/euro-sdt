@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "slug": "glenn-micallef",
+  "name": "Glenn Micallef",
+  "orgs": [
+    {
+      "organisation": "Pulse",
+      "role": "president",
+      "reasoning": "The phrase states he served as president of Pulse as a student, indicating membership and leadership in this organisation.",
+      "phrase": 3,
+      "evidence": "As a student, he served as president of Pulse in 2010."
+    },
+    {
+      "organisation": "Zabbar St Patrick FC",
+      "role": "vice president",
+      "reasoning": "The phrase explicitly states he was vice president of Zabbar St Patrick FC up until September 2024, indicating a board-level position.",
+      "phrase": 14,
+      "evidence": "Personal life\nGlenn Micallef was vice president of Zabbar St Patrick FC up until September 2024."
+    }
+  ],
+  "count": 2
+}

@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "slug": "jacques-barrot",
+  "name": "Jacques Barrot",
+  "orgs": [
+    {
+      "organisation": "Constitutional Council",
+      "role": "member",
+      "reasoning": "The phrase explicitly states he was 'a member of the Constitutional Council from 2010 until his death in 2014', indicating formal membership in this council.",
+      "phrase": 2,
+      "evidence": "In France, he held several ministerial posts and was later a member of the Constitutional Council from 2010 until his death in 2014."
+    },
+    {
+      "organisation": "Haute-Loire General Council",
+      "role": "president",
+      "reasoning": "The phrase states he 'presided over the Haute-Loire General Council (1976–2001)', indicating he held the position of president of this council.",
+      "phrase": 7,
+      "evidence": "National politics\nBarrot served several terms as a deputy for Haute-Loire (1967–1974, 1981–1995, 1997–2004) and presided over the Haute-Loire General Council (1976–2001)."
+    }
+  ],
+  "count": 2
+}

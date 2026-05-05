@@ -1,0 +1,71 @@
+{
+  "status": "ok",
+  "slug": "hans-van-den-broek",
+  "name": "Hans van den Broek",
+  "orgs": [
+    {
+      "organisation": "Netherlands Institute of International Relations (Clingendael)",
+      "role": "president",
+      "reasoning": "The phrase explicitly states he was president of this institute.",
+      "phrase": 26,
+      "evidence": "Van den Broek was president of the Netherlands Institute of International Relations (Clingendael) and also of Radio Netherlands."
+    },
+    {
+      "organisation": "Radio Netherlands",
+      "role": "president",
+      "reasoning": "The phrase explicitly states he was president of Radio Netherlands.",
+      "phrase": 26,
+      "evidence": "Van den Broek was president of the Netherlands Institute of International Relations (Clingendael) and also of Radio Netherlands."
+    },
+    {
+      "organisation": "Global Panel Foundation",
+      "role": "Member of the Board of Advisors",
+      "reasoning": "The phrase explicitly states he was a Member of the Board of Advisors of this NGO.",
+      "phrase": 27,
+      "evidence": "He was a Member of the Board of Advisors of the Global Panel Foundation, a NGO that works behind the scenes in crisis areas around the world."
+    },
+    {
+      "organisation": "Global Zero",
+      "role": "signatory",
+      "reasoning": "The phrase explicitly states he was a signatory of this non-profit international initiative.",
+      "phrase": 28,
+      "evidence": "He was a signatory of Global Zero, a non-profit international initiative for the elimination of all nuclear weapons worldwide."
+    },
+    {
+      "organisation": "Institute of International Relations Clingendael",
+      "role": "board member (supervisory board)",
+      "reasoning": "The phrase states he occupied seats on the supervisory board of this institute.",
+      "phrase": 45,
+      "evidence": "Van den Broek retired after spending 23 years in national politics and became active in the private sector and public sector and occupied numerous seats as a corporate director and nonprofit director on several boards of directors and supervisory boards (Institute of International Relations Clingendael, Carnegie Foundation, Radio Netherlands Worldwide and the Schiphol Group) and served as a diplomat and lobbyist for several economic delegations on behalf of the government and as an advocate and activist for Human rights, European integration and Nuclear disarmament."
+    },
+    {
+      "organisation": "Carnegie Foundation",
+      "role": "board member (supervisory board)",
+      "reasoning": "The phrase states he occupied seats on the supervisory board of the Carnegie Foundation.",
+      "phrase": 45,
+      "evidence": "Van den Broek retired after spending 23 years in national politics and became active in the private sector and public sector and occupied numerous seats as a corporate director and nonprofit director on several boards of directors and supervisory boards (Institute of International Relations Clingendael, Carnegie Foundation, Radio Netherlands Worldwide and the Schiphol Group) and served as a diplomat and lobbyist for several economic delegations on behalf of the government and as an advocate and activist for Human rights, European integration and Nuclear disarmament."
+    },
+    {
+      "organisation": "Radio Netherlands Worldwide",
+      "role": "board member (supervisory board)",
+      "reasoning": "The phrase states he occupied seats on the supervisory board of Radio Netherlands Worldwide.",
+      "phrase": 45,
+      "evidence": "Van den Broek retired after spending 23 years in national politics and became active in the private sector and public sector and occupied numerous seats as a corporate director and nonprofit director on several boards of directors and supervisory boards (Institute of International Relations Clingendael, Carnegie Foundation, Radio Netherlands Worldwide and the Schiphol Group) and served as a diplomat and lobbyist for several economic delegations on behalf of the government and as an advocate and activist for Human rights, European integration and Nuclear disarmament."
+    },
+    {
+      "organisation": "Schiphol Group",
+      "role": "board member (supervisory board)",
+      "reasoning": "The phrase states he occupied seats on the supervisory board of the Schiphol Group.",
+      "phrase": 45,
+      "evidence": "Van den Broek retired after spending 23 years in national politics and became active in the private sector and public sector and occupied numerous seats as a corporate director and nonprofit director on several boards of directors and supervisory boards (Institute of International Relations Clingendael, Carnegie Foundation, Radio Netherlands Worldwide and the Schiphol Group) and served as a diplomat and lobbyist for several economic delegations on behalf of the government and as an advocate and activist for Human rights, European integration and Nuclear disarmament."
+    },
+    {
+      "organisation": "European Leadership Network (ELN)",
+      "role": "Senior Network Member",
+      "reasoning": "The phrase explicitly states he was a Senior Network Member at the ELN.",
+      "phrase": 46,
+      "evidence": "He was a Senior Network Member at the European Leadership Network (ELN)."
+    }
+  ],
+  "count": 9
+}

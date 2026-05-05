@@ -1,0 +1,64 @@
+{
+  "status": "ok",
+  "slug": "paolo-gentiloni",
+  "name": "Paolo Gentiloni",
+  "orgs": [
+    {
+      "organisation": "Student Movement (Movimento Studentesco)",
+      "role": "member",
+      "reasoning": "The phrase explicitly states that Paolo Gentiloni was a member of the Student Movement, a far-left youth organization.",
+      "phrase": 20,
+      "evidence": "Early political career\nDuring the 1970s, Paolo Gentiloni was a member of the Student Movement (Movimento Studentesco), a far-left youth organization led by Mario Capanna; when Capanna founded the Proletarian Democracy party, Gentiloni did not follow him, and joined the Workers' Movement for Socialism (Movimento Lavoratori per il Socialismo; MLS), a far-left Maoist group, of which he became the regional secretary for Lazio."
+    },
+    {
+      "organisation": "Workers' Movement for Socialism (Movimento Lavoratori per il Socialismo; MLS)",
+      "role": "regional secretary for Lazio",
+      "reasoning": "The phrase states he joined the MLS and became its regional secretary for Lazio, indicating a leadership position.",
+      "phrase": 20,
+      "evidence": "Early political career\nDuring the 1970s, Paolo Gentiloni was a member of the Student Movement (Movimento Studentesco), a far-left youth organization led by Mario Capanna; when Capanna founded the Proletarian Democracy party, Gentiloni did not follow him, and joined the Workers' Movement for Socialism (Movimento Lavoratori per il Socialismo; MLS), a far-left Maoist group, of which he became the regional secretary for Lazio."
+    },
+    {
+      "organisation": "Proletarian Unity Party (Partito di Unità Proletaria; PdUP)",
+      "role": "member",
+      "reasoning": "The phrase states he followed the MLS into the PdUP and remained a member until its dissolution.",
+      "phrase": 21,
+      "evidence": "In 1981 Gentiloni followed the MLS into the Proletarian Unity Party (Partito di Unità Proletaria; PdUP), remaining a member until its dissolution three years later."
+    },
+    {
+      "organisation": "Legambiente",
+      "role": "director of its official newspaper",
+      "reasoning": "The phrase states he became director of 'La Nuova Ecologia', the official newspaper of Legambiente, indicating an affiliated leadership role.",
+      "phrase": 23,
+      "evidence": "During those years he became a close friend of Chicco Testa who helped Gentiloni to become director of La Nuova Ecologia (\"The New Ecology\"), the official newspaper of Legambiente."
+    },
+    {
+      "organisation": "Federation of the Greens",
+      "role": "member of the 'Rutelli boys' group",
+      "reasoning": "The phrase states he became a member of the 'Rutelli boys', a group formed by the leader of the Federation of the Greens, indicating affiliation with that party's inner circle.",
+      "phrase": 24,
+      "evidence": "As director of this ecologist newspaper he met the young leader of Federation of the Greens, Francesco Rutelli and became, along with Roberto Giachetti, Michele Anzaldi and Filippo Sensi, a member of the so-called \"Rutelli boys\", a group formed by Rutelli's closest advisors and supporters."
+    },
+    {
+      "organisation": "The Daisy",
+      "role": "founding member and communications spokesman",
+      "reasoning": "The phrase states he was a founding member of The Daisy party and served as its communications spokesman for five years.",
+      "phrase": 30,
+      "evidence": "In 2002 he was a founding member of the Christian leftist The Daisy party, being the party's communications spokesman for five years."
+    },
+    {
+      "organisation": "Broadcasting Services Watchdog Committee",
+      "role": "Chairman",
+      "reasoning": "The phrase explicitly states he was Chairman of the Broadcasting Services Watchdog Committee from 2005 until 2006.",
+      "phrase": 31,
+      "evidence": "From 2005 until 2006, he was Chairman of the Broadcasting Services Watchdog Committee; the committee oversees the activity of state broadcaster RAI, which is publicly funded."
+    },
+    {
+      "organisation": "Democratic Party",
+      "role": "member of the national founding committee",
+      "reasoning": "The phrase states he was one of the 45 members of the national founding committee of the Democratic Party in 2007.",
+      "phrase": 44,
+      "evidence": "He was one of the 45 members of the national founding committee of the Democratic Party in 2007, formed by the union of the social democrats Democrats of the Left and the Christian leftist The Daisy."
+    }
+  ],
+  "count": 8
+}

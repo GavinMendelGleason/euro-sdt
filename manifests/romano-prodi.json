@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "slug": "romano-prodi",
+  "name": "Romano Prodi",
+  "orgs": [
+    {
+      "organisation": "Analisi e Studi Economici",
+      "role": "owner and manager",
+      "reasoning": "The phrase says Prodi ran this consulting company, which he jointly owned with his wife, indicating a directorship and ownership role.",
+      "phrase": 53,
+      "evidence": "Business and administrative career\n\nAfter leaving his position in 1989, Prodi ran the Bologna based consulting company Analisi e Studi Economici, which he jointly owned along with his wife."
+    },
+    {
+      "organisation": "IRI",
+      "role": "president",
+      "reasoning": "The phrase states Prodi was appointed again as president of the IRI, a state-owned holding company, indicating a board-level leadership position.",
+      "phrase": 56,
+      "evidence": "In 1993–1994, Prodi was appointed again president of the IRI, by Ciampi, where he oversaw extensive privatization of public assets."
+    }
+  ],
+  "count": 2
+}

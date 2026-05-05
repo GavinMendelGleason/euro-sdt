@@ -1,0 +1,43 @@
+{
+  "status": "ok",
+  "slug": "karel-van-miert",
+  "name": "Karel Van Miert",
+  "orgs": [
+    {
+      "organisation": "Belgian socialist party",
+      "role": "adjunct-national secretary",
+      "reasoning": "This phrase states he became adjunct-national secretary of the unitary Belgian socialist party, indicating a formal position within the party organisation.",
+      "phrase": 3,
+      "evidence": "In 1976 he became adjunct-national secretary of the – at that time – unitary Belgian socialist party."
+    },
+    {
+      "organisation": "Different Socialist Party",
+      "role": "president",
+      "reasoning": "This phrase states he became president of the Different Socialist Party, indicating a leadership role within the party organisation.",
+      "phrase": 4,
+      "evidence": "Two years later he became president of the Different Socialist Party."
+    },
+    {
+      "organisation": "Vlerick Award",
+      "role": "award recipient",
+      "reasoning": "This phrase states he was awarded the Vlerick Award, which is an award given by the Vlerick Business School, but the award itself is not an organisation he was a member of; however, the Vlerick Award is associated with the Vlerick Business School, but per the rules, universities are excluded, so this is not included.",
+      "phrase": 9,
+      "evidence": "In this period Van Miert was according to The Guardian \"one of the most powerful men in Europe.\" In 2001, he was awarded the Vlerick Award."
+    },
+    {
+      "organisation": "Eli Lilly and Company",
+      "role": "worked with",
+      "reasoning": "This phrase states he worked with Eli Lilly and Company, a global pharmaceutical corporation, indicating a professional affiliation.",
+      "phrase": 10,
+      "evidence": "He also worked with Eli Lilly and Company, a global pharmaceutical corporation."
+    },
+    {
+      "organisation": "Goldman Sachs",
+      "role": "international advisor",
+      "reasoning": "This phrase states he was an international advisor to Goldman Sachs, indicating a formal advisory role at the organisation.",
+      "phrase": 11,
+      "evidence": "After his departure from politics Van Miert was an international advisor to Goldman Sachs."
+    }
+  ],
+  "count": 5
+}

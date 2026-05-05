@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "slug": "kadri-simson",
+  "name": "Kadri Simson",
+  "orgs": [
+    {
+      "organisation": "NGO Institute of Recent Studies",
+      "role": "board member",
+      "reasoning": "The phrase explicitly states Simson was a board member of this NGO, which is a research institute.",
+      "phrase": 3,
+      "evidence": "Simson was a board member of the NGO Institute of Recent Studies."
+    },
+    {
+      "organisation": "Paris Peace Forum",
+      "role": "Member of the Global Council for Responsible Transition Minerals",
+      "reasoning": "The phrase states she is a member of a specific council within the Paris Peace Forum, a policy forum.",
+      "phrase": 10,
+      "evidence": "Other activities\nParis Peace Forum, Member of the Global Council for Responsible Transition Minerals (since 2025)\n\n\nPersonal life\nBetween 6 June 2008 and February 2015, Simson was married to journalist Priit Simson."
+    }
+  ],
+  "count": 2
+}

@@ -1,0 +1,50 @@
+{
+  "status": "ok",
+  "slug": "ursula-von-der-leyen",
+  "name": "Ursula von der Leyen",
+  "orgs": [
+    {
+      "organisation": "European People's Party",
+      "role": "member",
+      "reasoning": "The phrase states she is a member of the CDU and its affiliated European political party, the European People's Party (EPP).",
+      "phrase": 2,
+      "evidence": "She is a member of the centre-right Christian Democratic Union (CDU) and its affiliated European political party, the European People's Party (EPP)."
+    },
+    {
+      "organisation": "European People's Party",
+      "role": "Spitzenkandidat (lead candidate)",
+      "reasoning": "The phrase states the EPP elected her as its Spitzenkandidat to lead the campaign for the 2024 European Parliament elections.",
+      "phrase": 3,
+      "evidence": "On 7 March 2024, the EPP elected her as its Spitzenkandidat to lead the campaign for the 2024 European Parliament elections."
+    },
+    {
+      "organisation": "alumni association",
+      "role": "joint work (likely board or committee member)",
+      "reasoning": "The phrase mentions that the director of the commission that reviewed her thesis was known to her from joint work for an alumni association, implying her affiliation with that association.",
+      "phrase": 46,
+      "evidence": "Critics questioned the independence of the commission that reviewed the thesis as von der Leyen personally knew its director from joint work for an alumni association."
+    },
+    {
+      "organisation": "association of medical doctors in the CDU",
+      "role": "active member",
+      "reasoning": "The phrase states she became active in the association of medical doctors in the CDU party.",
+      "phrase": 49,
+      "evidence": "She was a member of the committee on social policy of CDU in Lower Saxony from 1996, and also became active in the association of medical doctors in the CDU party."
+    },
+    {
+      "organisation": "Herzog Commission",
+      "role": "member",
+      "reasoning": "The phrase states she was part of a group assigned to draft reform proposals, which was named the Herzog Commission, indicating her membership on this commission.",
+      "phrase": 53,
+      "evidence": "The so-called Herzog Commission, named after its chairman, the former German president Roman Herzog, recommended a comprehensive package of reform proposals including, among other things, decoupling health and nursing care premiums from people's earnings and levying a monthly lump sum across the board instead."
+    },
+    {
+      "organisation": "Open Coalition on Compliance Carbon Markets",
+      "role": "promoter/affiliate",
+      "reasoning": "The phrase states she promoted the European Green Deal and the Open Coalition on Compliance Carbon Markets, indicating her affiliation with this coalition.",
+      "phrase": 323,
+      "evidence": "and the Open Coalition on Compliance Carbon Markets."
+    }
+  ],
+  "count": 6
+}
