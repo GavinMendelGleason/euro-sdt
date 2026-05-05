@@ -17,6 +17,9 @@ Acceptable proof:
 - **Organisation websites**: For organisational classification facts (funding sources, mission, governance) — the specific page and paragraph must be cited
 - **Scraped web pages**: Acceptable as primary source material when the scraped page is a well-regarded institutional or news source. The scraped text must be preserved as a source document.
 - **Wikidata queries**: May be used as evidence where there is little risk of ambiguity or entity duplication (e.g., structured facts with unique QIDs). Should be verified against additional sources where possible.
+- **Academic publications**: Peer-reviewed journal articles and academic books
+- **News articles in major media**: Established outlets for event-based claims and appointments
+- **Curriculum vitae**: Official CVs published by the individual or their institution
 
 Not acceptable as proof:
 - Our own CSVs, JSON files, or database records
