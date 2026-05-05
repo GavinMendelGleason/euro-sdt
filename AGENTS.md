@@ -15,12 +15,11 @@ Acceptable proof:
 - **CVs and biographies published by the institution**: Commission person pages, CJEU member biographies, official institutional CV PDFs
 - **Wikipedia articles**: Acceptable for biographical facts (birth year, education, career positions) that appear in the article text — but the Wikipedia page URL and specific sentence must be cited
 - **Organisation websites**: For organisational classification facts (funding sources, mission, governance) — the specific page and paragraph must be cited
-- **Academic publications**: Peer-reviewed sources for analytical claims
-- **News articles from established outlets**: For event-based claims (conference participation, appointment announcements)
+- **Scraped web pages**: Acceptable as primary source material when the scraped page is a well-regarded institutional or news source. The scraped text must be preserved as a source document.
+- **Wikidata queries**: May be used as evidence where there is little risk of ambiguity or entity duplication (e.g., structured facts with unique QIDs). Should be verified against additional sources where possible.
 
 Not acceptable as proof:
 - Our own CSVs, JSON files, or database records
-- Wikidata SPARQL query results (Wikidata is user-edited and not a primary source)
 - Inferences or keyword matches that cannot be pinned to a specific sentence in a source document
 - Data derived from other datasets without a traceable source chain
 
