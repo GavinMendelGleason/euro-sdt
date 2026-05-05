@@ -6,6 +6,26 @@
 - Always commit and push completed work before ending a session (see Git Workflow below).
 - Always pull from the remote before starting new work (see Git Workflow below).
 
+## Evidence Standard
+
+**Collected data is NOT proof.** Our CSVs, scraped pages, Wikidata queries, and database records are internal research tools — they do not themselves constitute evidence. Every factual claim must be traceable to an external, publicly accessible primary source that an independent researcher can verify.
+
+Acceptable proof:
+- **Official EU documents**: Commission declarations of interests (machine-readable ZIP), ethics committee decisions (published at commission.europa.eu), Eur-Lex legal texts
+- **CVs and biographies published by the institution**: Commission person pages, CJEU member biographies, official institutional CV PDFs
+- **Wikipedia articles**: Acceptable for biographical facts (birth year, education, career positions) that appear in the article text — but the Wikipedia page URL and specific sentence must be cited
+- **Organisation websites**: For organisational classification facts (funding sources, mission, governance) — the specific page and paragraph must be cited
+- **Academic publications**: Peer-reviewed sources for analytical claims
+- **News articles from established outlets**: For event-based claims (conference participation, appointment announcements)
+
+Not acceptable as proof:
+- Our own CSVs, JSON files, or database records
+- Wikidata SPARQL query results (Wikidata is user-edited and not a primary source)
+- Inferences or keyword matches that cannot be pinned to a specific sentence in a source document
+- Data derived from other datasets without a traceable source chain
+
+**Every fact in the database must have a provenance record linking it to a specific source document and (ideally) a specific sentence.** Facts without this are flagged as `unproven` and should not be used in analysis or publication.
+
 ---
 
 ## Git Workflow
