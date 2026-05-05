@@ -171,7 +171,7 @@ def generate_edu_trends(db):
 
 
 def generate_atlanticist_trends(db):
-    """Atlanticist organisation connections line chart."""
+    """Elite network organisation connections line chart."""
     COMM_ORDER = ['Santer','Prodi','Barroso I','Barroso II','Juncker','VdL I','VdL II']
     COMM_SIZES = {'Santer': 20, 'Prodi': 20, 'Barroso I': 30, 'Barroso II': 28,
                   'Juncker': 27, 'VdL I': 30, 'VdL II': 27}
@@ -191,6 +191,7 @@ def generate_atlanticist_trends(db):
         'Munich Security Conference': 'munich-security-conference',
         'Friends of Europe': 'friends-of-europe',
         'ECFR': 'european-council-on-foreign-relations-ecfr',
+        'European Policy Centre': 'european-policy-centre',
         'GLOBSEC': 'glosec',
         'German Marshall Fund': 'german-marshall-fund',
         'European Leadership Network': 'european-leadership-network',
@@ -220,13 +221,13 @@ def generate_atlanticist_trends(db):
     for oi, (org_name, pcts) in enumerate(active):
         vals = [pcts[c] for c in COMM_ORDER]
         ax.plot(COMM_ORDER, vals, marker='o', linewidth=2.2, color=org_colors[oi], label=org_name, markersize=7)
-    ax.set_title('Atlanticist & Elite Network Ties (% of Commissioners)', fontsize=13, color='#00d2ff')
+    ax.set_title('Elite Network Ties (% of Commissioners)', fontsize=13, color='#00d2ff')
     ax.set_ylabel('% of Commissioners', fontsize=10)
     ax.legend(loc='center left', bbox_to_anchor=(1.02, 0.5), fontsize=8, ncol=2)
     ax.set_ylim(bottom=0)
     ax.yaxis.set_major_formatter(ticker.FormatStrFormatter('%.0f%%'))
     plt.tight_layout(rect=[0, 0, 0.82, 1])
-    plt.savefig(f'{IMG_DIR}/stats_atlanticist_trends.png', dpi=150, facecolor='#1a1a2e')
+    plt.savefig(f'{IMG_DIR}/stats_elite_network_trends.png', dpi=150, facecolor='#1a1a2e')
     plt.close()
 
 
@@ -288,7 +289,7 @@ def main():
     generate_edu_trends(db2)
     db2.close()
 
-    # ── Page 4: Atlanticist Trends ───────────────────────────────────────
+    # ── Page 4: Elite Network Trends ───────────────────────────────────────
     db3 = sqlite3.connect(DB_PATH)
     generate_atlanticist_trends(db3)
     db3.close()
@@ -349,9 +350,9 @@ generated: {TODAY}
 
 ![Education Trends](img/stats_edu_trends.png)
 
-## Atlanticist & Elite Network Ties
+## Elite Network Ties
 
-![Atlanticist Trends](img/stats_atlanticist_trends.png)
+![Elite Network Trends](img/stats_elite_network_trends.png)
 '''
     
     with open(OUT_HTML, 'w') as f:
