@@ -208,7 +208,16 @@ generated: {TODAY}
         pct = covered/total*100 if total else 0
         md += f'\n| {label} | {covered} | {total} | {gap} ({100-pct:.0f}%) |'
     
-    md += '\n'
+    md += f'''
+
+## DG/DDG Education by Institution
+
+![DG Education](img/stats_dg_edu.png)
+
+## Commissioner Education Clusters by Commission
+
+![Commissioner Education Time](img/stats_comm_edu_time.png)
+'''
     
     with open(OUT_HTML, 'w') as f:
         f.write(md)
