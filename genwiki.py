@@ -279,24 +279,37 @@ def education_cluster_page(db, cluster_id, cluster_pattern):
     # Find all educated_at facts matching this cluster
     members = {}
     for row in db.execute("""
-        SELECT f.object, e.id as person_id, e.name as person_name
+        SELECT f.object, e.id as person_id, e.name as person_name, e.category
         FROM fact f JOIN entity e ON e.id = f.entity_id
         WHERE f.predicate = 'educated_at' AND e.type = 'person'
     """).fetchall():
         obj = row[0]
         if re.search(cluster_pattern, obj.lower()):
-            pid, pname = row[1], row[2]
+            pid, pname, cat = row[1], row[2], row[3] or ''
             if pname not in members:
-                members[pname] = {'id': pid, 'institutions': []}
+                members[pname] = {'id': pid, 'category': cat, 'institutions': []}
             members[pname]['institutions'].append(obj)
 
     lines.append(f'## Attendees ({len(members)})')
     lines.append('')
-    for pname in sorted(members.keys()):
-        insts = ' | '.join(members[pname]['institutions'])
-        safe = slugify(pname)
-        lines.append(f'- [{pname}](../people/{safe}.md) — {insts}')
-    lines.append('')
+    
+    comms = {n: m for n, m in members.items() if 'commissioner' in (m['category'] or '').lower() or not m['category']}
+    dgs   = {n: m for n, m in members.items() if m['category'] in ('dg','ddg')}
+
+    if comms:
+        lines.append('### Commissioners')
+        for pname in sorted(comms):
+            insts = ' | '.join(comms[pname]['institutions'])
+            safe = slugify(pname)
+            lines.append(f'- [{pname}](../people/{safe}.md) — {insts}')
+        lines.append('')
+    if dgs:
+        lines.append('### Directors-General & DDGs')
+        for pname in sorted(dgs):
+            insts = ' | '.join(dgs[pname]['institutions'])
+            safe = slugify(pname)
+            lines.append(f'- [{pname}](../people/{safe}.md) — {insts}')
+        lines.append('')
 
     return '\n'.join(lines)
 
@@ -360,6 +373,52 @@ def generate_all(db):
             f.write('\n'.join(lines))
 
     print(f'Generated {count} entity pages + {len(EDUCATION_CLUSTERS)} education + {cc_count} country pages')
+
+    # ── Index page ───────────────────────────────────────────────────────
+    generate_index_page(db)
+
+
+def generate_index_page(db):
+    """Generate the root navigation page."""
+    lines = [
+        '---',
+        'id: index',
+        'title: Euro-SDT Wiki',
+        'type: index',
+        'tags: [index]',
+        f'generated: {TODAY}',
+        '---',
+        '',
+        '# Euro-SDT Wiki',
+        '',
+        f'*1,421 verified facts across 327 entities. Citation-anchored knowledge graph.*',
+        '',
+        '## Navigation',
+        '',
+        '- **[Bodies](bodies.md)** — Commissioners, DGs/DDGs, CJEU members',
+        '- **[Analytics](analytics.html)** — Time-series graphs',
+        '- **[Citations](citations.md)** — Primary source index',
+        '',
+        '## Education Clusters',
+    ]
+    for cid, _ in EDUCATION_CLUSTERS:
+        label = cid.replace('-',' ').title()
+        lines.append(f'- [{label}](education/{cid}.md)')
+    lines.append('')
+    lines.append('## Commissions')
+    for row in db.execute("SELECT id, name FROM entity WHERE type='commission' ORDER BY id").fetchall():
+        safe = slugify(row[1])
+        lines.append(f'- [{row[1]}](commissions/{safe}.md)')
+    lines.append('')
+    lines.append('## Countries')
+    for cc_code in sorted(CC.keys()):
+        if os.path.exists(os.path.join(WIKI_DIR, 'countries', f'{cc_code.lower()}.md')):
+            lines.append(f'- [{CC[cc_code]}](countries/{cc_code.lower()}.md)')
+    lines.append('')
+
+    path = os.path.join(WIKI_DIR, 'index.md')
+    with open(path, 'w') as f:
+        f.write('\n'.join(lines))
 
     # ── Bodies index page ─────────────────────────────────────────────────
     generate_bodies_page(db)
