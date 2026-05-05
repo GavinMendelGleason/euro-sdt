@@ -13,7 +13,7 @@ from collections import Counter
 from datetime import date
 
 DB_PATH = 'euro_sdt.db'
-OUT_HTML = 'wiki/stats.html'
+OUT_HTML = 'wiki/stats.md'
 IMG_DIR = 'wiki/img'
 TODAY = date.today().isoformat()
 plt.style.use('dark_background')
@@ -166,53 +166,52 @@ def main():
     plt.savefig(f'{IMG_DIR}/stats_sources.png', dpi=150, facecolor='#1a1a2e')
     plt.close()
 
-    # ── Build HTML ──────────────────────────────────────────────────────
-    html = f'''<!DOCTYPE html><html lang="en"><head>
-<meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0">
-<title>Euro-SDT Data Statistics</title>
-<style>
-body{{background:#1a1a2e;color:#e0e0e0;font-family:system-ui,sans-serif;max-width:1000px;margin:0 auto;padding:20px}}
-h1,h2{{color:#00d2ff;border-bottom:1px solid #333;padding-bottom:8px}}
-img{{max-width:100%;border-radius:8px;margin:15px 0;box-shadow:0 4px 20px rgba(0,0,0,.5)}}
-.stat-grid{{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:15px;margin:20px 0}}
-.stat-card{{background:#16213e;padding:15px;border-radius:8px;text-align:center}}
-.stat-card .num{{font-size:32px;font-weight:bold;color:#e94560}}
-.stat-card .label{{font-size:12px;color:#888;margin-top:5px}}
-a{{color:#00d2ff}}
-</style></head><body>
-<h1>Data Statistics</h1>
-<p><a href="index.md">← Back to Wiki</a> | Generated {TODAY}</p>
+    # ── Build Markdown ──────────────────────────────────────────────────
+    md = f'''---
+id: stats
+title: Data Statistics
+type: stats
+tags: [stats, analytics]
+generated: {TODAY}
+---
 
-<div class="stat-grid">
-<div class="stat-card"><div class="num">{data['total_facts']}</div><div class="label">Total verified facts</div></div>
-<div class="stat-card"><div class="num">{data['total_entities']}</div><div class="label">Entities tracked</div></div>
-<div class="stat-card"><div class="num">{data['comm_edu']}/{data['comm_total']}</div><div class="label">Commissioner education covered</div></div>
-<div class="stat-card"><div class="num">{data['dg_edu']}/{data['dg_total']}</div><div class="label">DG/DDG education covered</div></div>
-<div class="stat-card"><div class="num">{data['with_quote']}</div><div class="label">Facts with exact source quote</div></div>
-<div class="stat-card"><div class="num">{data['conf_counts'].get('confirmed',0)}</div><div class="label">Confirmed facts</div></div>
-</div>
+# Data Statistics
 
-<h2>Entity Overview</h2>
-<img src="img/stats_overview.png" alt="Overview">
+← [Back to Wiki](index.md)
 
-<h2>Source Quality</h2>
-<img src="img/stats_sources.png" alt="Sources">
+## Summary
 
-<h2>Data Gaps</h2>
-<table style="width:100%;border-collapse:collapse;margin:20px 0">
-<tr style="border-bottom:1px solid #333"><th style="text-align:left;padding:8px">Category</th><th style="text-align:right;padding:8px">Covered</th><th style="text-align:right;padding:8px">Total</th><th style="text-align:right;padding:8px">Gap</th></tr>'''
+| Metric | Value |
+|---|---|
+| Total verified facts | {data['total_facts']} |
+| Entities tracked | {data['total_entities']} |
+| Commissioner education covered | {data['comm_edu']}/{data['comm_total']} |
+| DG/DDG education covered | {data['dg_edu']}/{data['dg_total']} |
+| Facts with exact source quote | {data['with_quote']} |
+| Confirmed facts | {data['conf_counts'].get('confirmed',0)} |
+
+## Entity Overview
+
+![Overview](img/stats_overview.png)
+
+## Source Quality
+
+![Sources](img/stats_sources.png)
+
+## Data Gaps
+
+| Category | Covered | Total | Gap |
+|---|---:|---:|---:|'''
     
     for label, (covered, total) in data['pred_coverage'].items():
         gap = total - covered
         pct = covered/total*100 if total else 0
-        html += f'<tr style="border-bottom:1px solid #222"><td style="padding:8px">{label}</td><td style="text-align:right;color:#00d2ff;padding:8px">{covered}</td><td style="text-align:right;padding:8px">{total}</td><td style="text-align:right;color:#e94560;padding:8px">{gap} ({100-pct:.0f}%)</td></tr>'
+        md += f'\n| {label} | {covered} | {total} | {gap} ({100-pct:.0f}%) |'
     
-    html += '</table></body></html>'
+    md += '\n'
     
     with open(OUT_HTML, 'w') as f:
-        f.write(html)
-    
-    print(f'Generated stats page → {OUT_HTML}')
+        f.write(md)
 
 
 if __name__ == '__main__':
