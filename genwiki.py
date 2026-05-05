@@ -361,6 +361,87 @@ def generate_all(db):
 
     print(f'Generated {count} entity pages + {len(EDUCATION_CLUSTERS)} education + {cc_count} country pages')
 
+    # ── Bodies index page ─────────────────────────────────────────────────
+    generate_bodies_page(db)
+
+
+def generate_bodies_page(db):
+    """Generate a navigation page listing all institutional bodies."""
+    lines = [
+        '---',
+        'id: bodies',
+        'title: EU Institutional Bodies',
+        'type: index',
+        'tags: [index, bodies]',
+        f'generated: {TODAY}',
+        '---',
+        '',
+        '# EU Institutional Bodies',
+        '',
+        'All commissioners, Directors-General, Deputy Directors-General,',
+        'and Court of Justice members tracked in this database.',
+        '',
+    ]
+
+    # ── Commissions ──────────────────────────────────────────────────────
+    lines.append('## European Commissions')
+    lines.append('')
+    for row in db.execute("""
+        SELECT id, name FROM entity WHERE type = 'commission'
+        ORDER BY id
+    """).fetchall():
+        safe = slugify(row[1])
+        count = db.execute("SELECT COUNT(*) FROM fact WHERE predicate='served_on_commission' AND object=?", (row[0],)).fetchone()[0]
+        lines.append(f'- [{row[1]}](commissions/{safe}.md) — {count} members')
+    lines.append('')
+
+    # ── Directors-General ────────────────────────────────────────────────
+    lines.append('## Directors-General & Deputy Directors-General')
+    dg_count = db.execute("SELECT COUNT(*) FROM entity WHERE type='person' AND category IN ('dg','ddg')").fetchone()[0]
+    lines.append(f'({dg_count} senior officials)')
+    lines.append('')
+    for row in db.execute("""
+        SELECT e.name, e.category, f.object as dept
+        FROM entity e LEFT JOIN fact f ON f.entity_id = e.id AND f.predicate = 'held_position'
+        WHERE e.type = 'person' AND e.category IN ('dg','ddg')
+        ORDER BY e.category DESC, e.name
+    """).fetchall():
+        safe = slugify(row[0])
+        role = 'Director-General' if row[1] == 'dg' else 'Deputy Director-General'
+        dept = str(row[2] or '')[:60]
+        lines.append(f'- [{row[0]}](people/{safe}.md) — *{role}* — {dept}')
+    lines.append('')
+
+    # ── CJEU Members ─────────────────────────────────────────────────────
+    lines.append('## Court of Justice (CJEU)')
+    cjeu_count = db.execute("SELECT COUNT(*) FROM entity WHERE type='person' AND category IN ('cjeu_judge','cjeu_ag')").fetchone()[0]
+    lines.append(f'({cjeu_count} members)')
+    lines.append('')
+
+    judges = list(db.execute("""
+        SELECT name, category FROM entity WHERE type='person' AND category='cjeu_judge' ORDER BY name
+    """).fetchall())
+    ags = list(db.execute("""
+        SELECT name, category FROM entity WHERE type='person' AND category='cjeu_ag' ORDER BY name
+    """).fetchall())
+
+    if judges:
+        lines.append('### Judges')
+        for row in judges:
+            safe = slugify(row[0])
+            lines.append(f'- [{row[0]}](people/{safe}.md)')
+        lines.append('')
+    if ags:
+        lines.append('### Advocates General')
+        for row in ags:
+            safe = slugify(row[0])
+            lines.append(f'- [{row[0]}](people/{safe}.md)')
+        lines.append('')
+
+    path = os.path.join(WIKI_DIR, 'bodies.md')
+    with open(path, 'w') as f:
+        f.write('\n'.join(lines))
+
 
 def commission_page(db, entity_id):
     """Generate a wiki page for a commission."""
