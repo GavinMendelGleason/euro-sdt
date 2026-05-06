@@ -222,40 +222,6 @@ def person_page(db, entity_id):
                     clusters_found.add(cluster_id)
                     lines.append(f'- [{cluster_id.replace("-"," ").title()}](../education/{cluster_id}.md)')
 
-    # Source text — show the actual Wikipedia/LinkedIn text used for LLM extraction
-    source_paths = [
-        f'sources/wikipedia/{entity_id}.txt',
-        f'sources/dg_cvs/{entity_id}.txt',
-    ]
-    for sp in source_paths:
-        if os.path.exists(sp):
-            with open(sp) as sf:
-                raw_text = sf.read()
-            lines.append('')
-            lines.append('## Source Text')
-            lines.append('')
-            lines.append(f'*Source: `{sp}` ({len(raw_text)} chars)*')
-            lines.append('')
-            # Number every sentence so phrase_index in citations is cross-referenceable
-            sentences = [s.strip() for s in re.split(r'(?<=[.!?])\s+', raw_text) if len(s.strip()) > 15]
-            # Show all sentences, skip very long ones
-            preview_parts = []
-            for i, s in enumerate(sentences):
-                shortened = s[:200]
-                if len(s) > 200:
-                    shortened += '…'
-                preview_parts.append(f'[{i}] {shortened}')
-                if i > 0 and i % 40 == 0:
-                    preview_parts.append(f'… (showing first 2,000 chars of {len(raw_text)} total) …')
-                    break
-            
-            lines.append('```text')
-            lines.append('\n'.join(preview_parts[:120]))  # show up to 120 numbered sentences
-            lines.append('```')
-            lines.append(f'*Full source: {len(raw_text)} chars, {len(sentences)} numbered phrases*')
-            lines.append('')
-            break  # Only show one source
-
     return '\n'.join(lines)
 
 
