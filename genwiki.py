@@ -523,6 +523,19 @@ def generate_bodies_page(db):
             lines.append(f'- [{row[0]}](people/{safe}.md)')
         lines.append('')
 
+    # ── SDT-Relevant MEPs ─────────────────────────────────────────────────
+    mep_count = db.execute("SELECT COUNT(*) FROM entity WHERE category = 'mep_sdt'").fetchone()[0]
+    if mep_count:
+        lines.append('## SDT-Relevant MEPs')
+        lines.append(f'({mep_count} EP Presidents, Vice Presidents, committee chairs, and group leaders)')
+        lines.append('')
+        for row in db.execute("""
+            SELECT name FROM entity WHERE category = 'mep_sdt' ORDER BY name
+        """).fetchall():
+            safe = slugify(row[0])
+            lines.append(f'- [{row[0]}](people/{safe}.md)')
+        lines.append('')
+
     path = os.path.join(WIKI_DIR, 'bodies.md')
     with open(path, 'w') as f:
         f.write('\n'.join(lines))
