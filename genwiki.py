@@ -300,7 +300,7 @@ def education_cluster_page(db, cluster_id, cluster_pattern):
     })
 
     lines = [fm, f'# {label}', '',
-             f'Commissioners and officials who studied at or attended {label}.', '']
+             f'Commissioners, MEP leaders, and officials who studied at or attended {label}.', '']
 
     # Find all educated_at facts matching this cluster
     members = {}
@@ -319,8 +319,10 @@ def education_cluster_page(db, cluster_id, cluster_pattern):
     lines.append(f'## Attendees ({len(members)})')
     lines.append('')
     
-    comms = {n: m for n, m in members.items() if 'commissioner' in (m['category'] or '').lower() or not m['category']}
+    comms = {n: m for n, m in members.items() if 'commissioner' in (m['category'] or '').lower()}
     dgs   = {n: m for n, m in members.items() if m['category'] in ('dg','ddg')}
+    meps  = {n: m for n, m in members.items() if m['category'] == 'mep_sdt'}
+    other = {n: m for n, m in members.items() if n not in {**comms, **dgs, **meps}}
 
     if comms:
         lines.append('### Commissioners')
@@ -329,10 +331,24 @@ def education_cluster_page(db, cluster_id, cluster_pattern):
             safe = slugify(pname)
             lines.append(f'- [{pname}](../people/{safe}.md) — {insts}')
         lines.append('')
+    if meps:
+        lines.append('### MEP Leaders')
+        for pname in sorted(meps):
+            insts = ' | '.join(meps[pname]['institutions'])
+            safe = slugify(pname)
+            lines.append(f'- [{pname}](../people/{safe}.md) — {insts}')
+        lines.append('')
     if dgs:
         lines.append('### Directors-General & DDGs')
         for pname in sorted(dgs):
             insts = ' | '.join(dgs[pname]['institutions'])
+            safe = slugify(pname)
+            lines.append(f'- [{pname}](../people/{safe}.md) — {insts}')
+        lines.append('')
+    if other:
+        lines.append('### Other')
+        for pname in sorted(other):
+            insts = ' | '.join(other[pname]['institutions'])
             safe = slugify(pname)
             lines.append(f'- [{pname}](../people/{safe}.md) — {insts}')
         lines.append('')
