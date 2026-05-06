@@ -123,7 +123,9 @@ def fetch_facts_grouped(db, entity_id):
         citations = db.execute(
             """SELECT c.source_name, c.url, p.quote_text, p.phrase_index, p.context_text
                FROM provenance p JOIN citation c ON p.citation_id = c.id
-               WHERE p.fact_id = ?""", (f[0],)).fetchall()
+               WHERE p.fact_id = ?
+               ORDER BY CASE WHEN p.citation_id = 'cit-wiki-' || ? THEN 0 ELSE 1 END""",
+            (f[0], entity_id)).fetchall()
         grouped[pred].append({
             'object': obj,
             'qualifier': f[5] or '',
