@@ -236,13 +236,23 @@ def person_page(db, entity_id):
             lines.append('')
             lines.append(f'*Source: `{sp}` ({len(raw_text)} chars)*')
             lines.append('')
-            # Show first 3000 chars — enough for verification
-            preview = raw_text[:3000]
-            if len(raw_text) > 3000:
-                preview += f'\n\n[... {len(raw_text) - 3000} more characters ...]'
+            # Number every sentence so phrase_index in citations is cross-referenceable
+            sentences = [s.strip() for s in re.split(r'(?<=[.!?])\s+', raw_text) if len(s.strip()) > 15]
+            # Show all sentences, skip very long ones
+            preview_parts = []
+            for i, s in enumerate(sentences):
+                shortened = s[:200]
+                if len(s) > 200:
+                    shortened += '…'
+                preview_parts.append(f'[{i}] {shortened}')
+                if i > 0 and i % 40 == 0:
+                    preview_parts.append(f'… (showing first 2,000 chars of {len(raw_text)} total) …')
+                    break
+            
             lines.append('```text')
-            lines.append(preview)
+            lines.append('\n'.join(preview_parts[:120]))  # show up to 120 numbered sentences
             lines.append('```')
+            lines.append(f'*Full source: {len(raw_text)} chars, {len(sentences)} numbered phrases*')
             lines.append('')
             break  # Only show one source
 
