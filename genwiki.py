@@ -220,6 +220,30 @@ def person_page(db, entity_id):
                     clusters_found.add(cluster_id)
                     lines.append(f'- [{cluster_id.replace("-"," ").title()}](../education/{cluster_id}.md)')
 
+    # Source text — show the actual Wikipedia/LinkedIn text used for LLM extraction
+    source_paths = [
+        f'sources/wikipedia/{entity_id}.txt',
+        f'sources/dg_cvs/{entity_id}.txt',
+    ]
+    for sp in source_paths:
+        if os.path.exists(sp):
+            with open(sp) as sf:
+                raw_text = sf.read()
+            lines.append('')
+            lines.append('## Source Text')
+            lines.append('')
+            lines.append(f'*Source: `{sp}` ({len(raw_text)} chars)*')
+            lines.append('')
+            # Show first 3000 chars — enough for verification
+            preview = raw_text[:3000]
+            if len(raw_text) > 3000:
+                preview += f'\n\n[... {len(raw_text) - 3000} more characters ...]'
+            lines.append('```text')
+            lines.append(preview)
+            lines.append('```')
+            lines.append('')
+            break  # Only show one source
+
     return '\n'.join(lines)
 
 
