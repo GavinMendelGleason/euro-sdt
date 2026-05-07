@@ -34,7 +34,7 @@ def extract_text(path):
             if idx > 1000:  # Only skip if marker is well past the header
                 content = content[idx:]
                 break
-        return content[:8000]
+        return content  # full text — DeepSeek V4 handles 1M tokens
 
     result = None
 
@@ -42,9 +42,9 @@ def extract_text(path):
     try:
         from pypdf import PdfReader
         reader = PdfReader(path)
-        result = ' '.join(p.extract_text() or '' for p in reader.pages[:20])
+        result = ' '.join(p.extract_text() or '' for p in reader.pages[:50])
         if result.strip():
-            return result[:8000]
+            return result[:100000]
     except:
         pass
 
@@ -52,19 +52,19 @@ def extract_text(path):
     try:
         import pdfplumber
         with pdfplumber.open(path) as pdf:
-            result = ' '.join(p.extract_text() or '' for p in pdf.pages[:20])
+            result = ' '.join(p.extract_text() or '' for p in pdf.pages[:50])
             if result.strip():
-                return result[:8000]
+                return result[:100000]
     except:
         pass
 
     # Try pdftotext
     try:
         import subprocess
-        r = subprocess.run(['pdftotext', '-l', '20', path, '-'],
+        r = subprocess.run(['pdftotext', '-l', '50', path, '-'],
                            capture_output=True, text=True)
         if r.returncode == 0 and r.stdout.strip():
-            return r.stdout[:8000]
+            return r.stdout[:100000]
     except:
         pass
 
@@ -210,7 +210,7 @@ def evaluate_with_llm(claim, source_text, source_name):
 
     # Split source into numbered phrases (same as our extraction pipeline)
     sentences = [s.strip() for s in re.split(r'(?<=[.!?])\s+', source_text) if len(s.strip()) > 20]
-    phrases = sentences[:80]  # limit for LLM context
+    phrases = sentences[:500]  # DeepSeek V4 handles 1M tokens
     numbered = '\n'.join(f"[{i}] {phrases[i][:300]}" for i in range(len(phrases)))
 
     prompt = f"""Does this source document substantiate the following claim made in our paper?
@@ -222,10 +222,19 @@ NUMBERED PHRASES:
 {numbered}
 
 If the source substantiates the claim, reply:
-VERIFIED | phrase=[N] or phrase=[N-M] | reason=<one sentence explaining how the cited phrase(s) support the claim>
+If the source substantiates the claim, rate your confidence on this scale:
+1 = no content suggesting the claim
+2 = some related information but insufficient for citation
+3 = related but not strongly supported
+4 = supported with some question of interpretation
+5 = exact match of the cited content
 
-If the source does NOT substantiate the claim, reply:
-UNSUBSTANTIATED | reason=<one sentence explaining why>
+Reply in this format:
+VERIFIED | confidence=N | phrase=[N] or phrase=[N-M] | reason=<one sentence>
+or
+UNSUBSTANTIATED | confidence=N | reason=<one sentence>
+
+where N is your confidence level (1-5).
 
 Answer:"""
 
