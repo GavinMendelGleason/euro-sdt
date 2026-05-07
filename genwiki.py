@@ -91,7 +91,33 @@ def slugify(text):
 
 
 def get_org_tags(db, entity_id, org_name):
-    """Return Obsidian color tags based on organisation type."""
+    """Return Obsidian color tags based on organisation type.
+    Priority: 1) Wikipedia-sourced classification, 2) name keywords, 3) connected people."""
+    
+    # 1. Check for Wikipedia-sourced classification fact
+    classified = db.execute("""
+        SELECT f.object FROM fact f
+        WHERE f.entity_id = ? AND f.predicate = 'classified_as'
+        LIMIT 1
+    """, [entity_id]).fetchone()
+    
+    if classified:
+        industry = classified[0].lower()
+        if any(k in industry for k in ['financial', 'bank', 'insurance', 'investment', 'private equity']):
+            return ['org', 'corporate', 'financial']
+        if any(k in industry for k in ['aerospace', 'defence', 'defense', 'automotive', 'manufacturing', 'engineering']):
+            return ['org', 'corporate', 'industrial']
+        if any(k in industry for k in ['energy', 'oil', 'gas', 'utility', 'power']):
+            return ['org', 'corporate', 'energy']
+        if any(k in industry for k in ['technology', 'software', 'semiconductor', 'telecom', 'electronics']):
+            return ['org', 'corporate', 'tech']
+        if any(k in industry for k in ['pharma', 'healthcare', 'chemical', 'life sciences']):
+            return ['org', 'corporate', 'healthcare']
+        if any(k in industry for k in ['luxury', 'consumer', 'retail', 'food', 'beverage']):
+            return ['org', 'corporate', 'consumer']
+        return ['org', 'corporate']
+    
+    # Rest of classification by keywords + connected people...
     name_lower = org_name.lower()
     
     # Political parties
