@@ -110,11 +110,13 @@ def get_org_tags(db, entity_id, org_name):
     
     # Corporate/industry
     corp_keywords = ['bank', 'insurance', 'energy', 'oil', 'gas', 'steel', 'chemical', 'pharma',
-                     'automotive', 'aerospace', 'telecom', 'technology', 'airbus', 'siemens',
-                     'shell', 'bp', 'total', 'eni', 'enel', 'iberdrola', 'santander', 'bnp',
-                     'deutsche bank', 'ing', 'allianz', 'axa', 'renault', 'volkswagen',
-                     'stellantis', 'safran', 'rheinmetall', 'lvmh', 'l\'oréal', 'sanofi',
-                     'bayer', 'abb', 'nestlé', 'unilever', 'ab inbev', 'thales', 'asml',
+                     'automotive', 'aerospace', 'telecom', 'technology',
+                     'airbus', 'safran', 'rheinmetall', 'leonardo', 'thales',
+                     'siemens', 'sap', 'asml', 'infineon',
+                     'shell', 'bp', 'total', 'eni', 'enel', 'iberdrola',
+                     'santander', 'bnp', 'deutsche bank', 'ing', 'bbva', 'unicredit',
+                     'allianz', 'axa', 'renault', 'volkswagen', 'stellantis', 'bmw',
+                     'mercedes', 'lvmh', 'l\'oréal', 'sanofi', 'bayer',
                      'goldman', 'morgan stanley', 'ubs', 'credit suisse', 'barclays', 'hsbc',
                      'merrill', 'mckinsey', 'boston consulting', 'kpmg', 'deloitte', 'pwc',
                      'ernst', 'accenture', 'blackrock', 'blackstone']
@@ -132,7 +134,8 @@ def get_org_tags(db, entity_id, org_name):
     thinktank_keywords = ['think tank', 'policy institute', 'research institute', 'policy centre',
                           'policy center', 'foundation', 'institute for', 'centre for',
                           'center for', 'council on foreign', 'friends of europe',
-                          'atlantic council', 'ecfr', 'bruegel', 'ceps']
+                          'atlantic council', 'ecfr', 'bruegel', 'ceps', 'trilateral',
+                          'bilderberg', 'munich security']
     if any(k in name_lower for k in thinktank_keywords):
         return ['org', 'think-tank']
     
@@ -144,12 +147,13 @@ def get_org_tags(db, entity_id, org_name):
     """, [entity_id]).fetchall()
     connected = {r[0] for r in connected_cats}
     
-    if 'corporate_elite' in connected:
-        return ['org', 'corporate']
+    # Priority: commissioner signals think-tank, MEP signals political, corporate last
     if 'commissioner' in connected:
         return ['org', 'think-tank']
     if 'mep_sdt' in connected:
         return ['org', 'political-party']
+    if 'corporate_elite' in connected:
+        return ['org', 'corporate']
     
     # Default
     return ['org', 'org-generic']
