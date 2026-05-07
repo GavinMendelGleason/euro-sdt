@@ -62,17 +62,22 @@ CC = {
     'SVK':'Slovakia','SVN':'Slovenia','SWE':'Sweden',
 }
 
-# Education cluster definitions — elite-signalling institutions, not regional groupings.
-# Only institutions with 2+ attendees are included.
+# Education cluster definitions — only genuine elite pipelines, not national groupings.
+# Institutions with 3+ attendees get individual pages. Clusters only where
+# multiple institutions form a coherent elite circuit (e.g. Oxbridge, Sciences Po/ENA).
 EDUCATION_CLUSTERS = [
     ('college-of-europe',     r'college of europe|college of bruges'),
     ('harvard-ivy',           r'harvard|yale|georgetown|mit\b|edmund a. walsh'),
     ('oxbridge',              r'oxford|cambridge'),
     ('sciences-po-ena',       r'sciences po|sciences-po|iep\b.*paris|\bena\b|ecole nationale.*admin|enarque'),
     ('london-schools',        r'london school of economics|\blse\b|university college london|\bucl\b|king\'s college london|imperial college'),
-    ('german-universities',   r'university of tübingen|university of bonn|university of cologne|university of heidelberg|university of freiburg|university of munich|humboldt|frankfurt|westfälische'),
-    ('italian-universities',  r'sapienza.*rome|bocconi|university of bologna|luiss|university of milan|university of padua|university of florence'),
-    ('eastern-european',      r'sgh warsaw|warsaw.*university|charles university|comenius|university of tartu|vilnius university|university of ljubljana|university of latvia|riga technical|corvinus|university of bucharest|sofia university|university of szeged|zagreb|jagiellonian'),
+    # Individual institutions with 3+ attendees (no plausible cluster)
+    ('university-of-bonn',    r'university of bonn\b|uni bonn|rheinische.*bonn'),
+    ('sgh-warsaw',            r'sgh warsaw|warsaw school of economics'),
+    ('bocconi',               r'\bbocconi\b'),
+    ('royal-university-of-malta', r'royal university of malta|university of malta'),
+    ('university-of-tubingen', r'university of tübingen|universität tübingen|tuebingen'),
+    ('university-of-cologne', r'university of cologne|universität zu köln'),
 ]
 
 
