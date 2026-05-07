@@ -208,6 +208,8 @@ def person_page(db, entity_id):
         country_name = CC.get(country_code, country_code)
         lines.append(f'**{category.replace("_"," ").title()}** · [{country_name}](../countries/{country_code.lower()}.md)')
     lines.append('')
+    lines.append(f'*← [Bodies](../bodies.md)*')
+    lines.append('')
 
     grouped = fetch_facts_grouped(db, entity_id)
     lines.extend(render_facts(grouped))
