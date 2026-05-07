@@ -30,6 +30,29 @@ Not acceptable as proof:
 
 ---
 
+## Paper Citation Standard
+
+**No paper may cite any reference unless:**
+1. A PDF of the cited work exists locally in `papers/`
+2. The PDF has been cross-checked by `check_citations.py` — a script that extracts the citing claim from the paper, searches the PDF text for supporting evidence, and logs the verification
+
+Note: `assets/papers/` is for *our* papers (the ones we are writing). `papers/` is for PDFs of works we *cite*.
+
+### `check_citations.py`
+
+Reads a LaTeX file, finds all `\footnote{}` and `\cite{}` commands, locates the corresponding PDF in `papers/`, extracts text from the PDF, and verifies that the claim each citation supports is actually substantiated by the cited work. Outputs a verification report.
+
+Usage:
+```bash
+.venv/bin/python check_citations.py assets/papers/methodology/paper.tex
+```
+
+Produces `verification_report.csv` with columns: `paper_section, claim, citation, pdf_file, evidence_found, confidence`.
+
+**Before any paper is submitted or committed, run `check_citations.py` and resolve all UNSUBSTANTIATED findings.**
+
+---
+
 ## Git Workflow
 
 This repository is shared between multiple contributors (Gavin and Donagh). To avoid conflicts and data loss:
