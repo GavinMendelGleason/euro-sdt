@@ -62,18 +62,21 @@ CC = {
     'SVK':'Slovakia','SVN':'Slovenia','SWE':'Sweden',
 }
 
-# Education cluster definitions
+# Education cluster definitions — data-driven, grouped by geography and elite type.
+# Only institutions with 2+ attendees are included.
 EDUCATION_CLUSTERS = [
-    ('sciences-po',           r'sciences po|sciences-po|iep\b.*paris|sciencespo'),
-    ('ena',                   r'\bena\b|ecole nationale.*admin|enarque'),
-    ('college-of-europe',     r'college of europe|college-of-europe|collège d.europe'),
+    ('college-of-europe',     r'college of europe|college of bruges'),
+    ('harvard-ivy',           r'harvard|yale|georgetown|mit\b|edmund a. walsh'),
     ('oxbridge',              r'oxford|cambridge'),
-    ('lse',                   r'london school of economics|\blse\b'),
-    ('harvard',               r'harvard'),
-    ('ulb-brussels',          r'ulb|universite libre.*bruxelles|free university.*brussels'),
-    ('eui-florence',          r'european university institute|\beui\b'),
-    ('georgetown',            r'georgetown'),
-    ('eastern-european',      r'mgimo|central european university|\bceu\b|sgh warsaw|charles university|comenius'),
+    ('sciences-po-ena',       r'sciences po|sciences-po|iep\b.*paris|\bena\b|ecole nationale.*admin|enarque'),
+    ('london-schools',        r'london school of economics|\blse\b|university college london|\bucl\b|king\'s college london|imperial college'),
+    ('german-universities',   r'university of tübingen|university of bonn|university of cologne|university of heidelberg|university of freiburg|university of munich|humboldt|frankfurt|westfälische'),
+    ('italian-universities',  r'sapienza.*rome|bocconi|university of bologna|luiss|university of milan|university of padua|university of florence'),
+    ('eastern-european',      r'sgh warsaw|warsaw.*university|charles university|comenius|university of tartu|vilnius university|university of ljubljana|university of latvia|riga technical|corvinus|university of bucharest|sofia university|university of szeged|zagreb|jagiellonian'),
+    ('benelux',              r'université libre.*bruxelles|free university.*brussels|ulb|vrije universiteit|leuven|leiden university|university of amsterdam|utrecht|maastricht|erasmus|ghent|liège|louvain'),
+    ('nordic',               r'university of helsinki|lund university|stockholm university|uppsala|university of copenhagen|aarhus|oslo|tampere|turku|gothenburg'),
+    ('mediterranean',        r'university of athens|aristotle.*thessaloniki|complutense|university of barcelona|university of lisbon|technical university of lisbon|university of madrid'),
+    ('other-western',        r'university of vienna|university of innsbruck|trinity college.*dublin|university college dublin|university of reading|university of sussex|university of montpellier'),
 ]
 
 
@@ -299,16 +302,17 @@ def education_cluster_page(db, cluster_id, cluster_pattern):
     # Find all educated_at facts matching this cluster
     members = {}
     for row in db.execute("""
-        SELECT f.object, e.id as person_id, e.name as person_name, e.category
+        SELECT obj.name as inst_name, e.id as person_id, e.name as person_name, e.category
         FROM fact f JOIN entity e ON e.id = f.entity_id
+        JOIN entity obj ON obj.id = f.object
         WHERE f.predicate = 'educated_at' AND e.type = 'person'
     """).fetchall():
-        obj = row[0]
-        if re.search(cluster_pattern, obj.lower()):
+        inst_name = row[0]
+        if re.search(cluster_pattern, inst_name.lower()):
             pid, pname, cat = row[1], row[2], row[3] or ''
             if pname not in members:
                 members[pname] = {'id': pid, 'category': cat, 'institutions': []}
-            members[pname]['institutions'].append(obj)
+            members[pname]['institutions'].append(inst_name)
 
     lines.append(f'## Attendees ({len(members)})')
     lines.append('')
