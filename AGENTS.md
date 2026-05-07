@@ -51,6 +51,8 @@ Produces `verification_report.csv` with columns: `paper_section, claim, citation
 
 **Before any paper is submitted or committed, run `check_citations.py` and resolve all UNSUBSTANTIATED findings.**
 
+The paper bibliography is maintained in `papers/BIBLIOGRAPHY.md` — all cited works must be cataloged there with verification status.
+
 ---
 
 ## Git Workflow
@@ -229,4 +231,7 @@ When adding a new dataset:
 | `organisations_classified.csv` | Machine-readable org classification |
 | `manifests/` | LLM extraction manifests (org memberships, with phrase-level provenance) |
 | `commissioner_trends_by_commission.csv` | Key metrics by commission term |
+| `papers/BIBLIOGRAPHY.md` | Paper citation catalog with PDF availability and verification status |
+| `check_citations.py` | Cross-checks paper citations against local PDFs |
+| `assets/papers/` | Our papers (LaTeX source + compiled PDFs) |
 | `AGENTS.md` | This file — workflow and resource map for agents/contributors |

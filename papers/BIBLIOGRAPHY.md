@@ -140,3 +140,17 @@ DOI: 10.1080/03017605.2017.1285089
 
 **[HAVE]** Kertzer, J. & Renshon, J. (2022). "Experiments and Surveys on Political Elites." *Annual Review of Political Science.*
 https://jkertzer.sites.fas.harvard.edu/Research_files/Elite-ARPS-091621.pdf
+
+---
+
+## 9. Cited in Our Papers
+
+Papers cited in `assets/papers/methodology/paper.tex` (Phrasal Provenance).
+
+Status: **[VERIFIED]** = cross-checked by `check_citations.py`. **[NEED PDF]** = needs local copy.
+
+| Status | Citation | Supports Claim |
+|---|---|---|
+| **[NEED PDF]** | Mills, C. Wright (1956). *The Power Elite.* Oxford University Press. | Elite network research historically relied on manual archival methods |
+| **[NEED PDF]** | Ji, Ziwei et al. (2022). "Survey of Hallucination in Natural Language Generation." *ACM Computing Surveys* 55.12, 1–38. | LLMs generate plausible-sounding but factually incorrect claims |
+| **[NEED PDF]** | Zhang, Jiajie et al. (2024). "LongCite." arXiv:2409.02897. | LLMs can reliably anchor claims to specific source sentences when constrained |
