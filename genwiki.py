@@ -85,6 +85,20 @@ def slugify(text):
     return text.strip().lower().replace(' ', '-').replace('--', '-')
 
 
+def get_person_tags(category):
+    """Return Obsidian graph color tags based on category."""
+    mapping = {
+        'commissioner':    ['person', 'commissioner', 'political-elite'],
+        'mep_sdt':         ['person', 'mep', 'political-elite'],
+        'corporate_elite': ['person', 'corporate', 'economic-elite'],
+        'dg':              ['person', 'dg', 'administrative-elite'],
+        'ddg':             ['person', 'ddg', 'administrative-elite'],
+        'cjeu_judge':      ['person', 'cjeu', 'judicial-elite'],
+        'cjeu_ag':         ['person', 'cjeu', 'judicial-elite'],
+    }
+    return mapping.get(category, ['person', category or 'unknown'])
+
+
 def frontmatter(fields):
     """Generate YAML frontmatter."""
     lines = ['---']
@@ -200,7 +214,7 @@ def person_page(db, entity_id):
         'type': etype,
         'category': category,
         'country': country_code,
-        'tags': [etype, category] if category else [etype],
+        'tags': get_person_tags(category),
     })
 
     lines = [fm, f'# {name}', '']
@@ -239,7 +253,7 @@ def organisation_page(db, entity_id):
         'id': entity_id,
         'title': name,
         'type': 'organisation',
-        'tags': ['organisation'],
+        'tags': ['organisation', 'org'],
     })
 
     lines = [fm, f'# {name}', '', '## Profile', '']
