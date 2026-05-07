@@ -66,11 +66,9 @@ The manifest preserves the LLM's full output including reasoning and phrase indi
 
 We encountered three categories of failure:
 
-\subsection{Hallucination (18\% of extractions)}
+\subsection{Methodology Failure: the Short-Extract Problem}
 
-In our commissioner education extraction run, 18\% of LLM outputs were unsupported by the source text at the claimed phrase index. Typical case: the LLM inferred ``Harvard'' from context (``studied at an Ivy League university'') when Harvard was not explicitly named. Phrase-index cross-checking caught these.
-
-
+Our initial extraction runs used Wikipedia API extracts, which returned truncated texts of 300--400 characters for many articles. The LLM, given insufficient context, hallucinated freely: it extracted ``Dacian Julien Ciolo\c{s}'' (the commissioner's own full name) as an educational institution, and returned generic names such as ``aeronautical engineer'' as institution names. When we re-scraped the same biographies using raw HTML to obtain full texts (5,000--30,000 characters), the same LLM with the same prompt produced clean extractions with specific institution names and correct phrase indices. The problem was not the LLM's capability but the quality of the input: truncated source texts forced the model into a high-hallucination generative regime. Full-text input, combined with phrase-numbering and mandatory citation, moved the task into a low-hallucination verification regime.
 
 \subsection{Non-Deterministic Extraction}
 
@@ -81,10 +79,6 @@ Running identical prompts on the same source text produced different sets of ext
 String similarity alone is dangerous for deduplication. The sequence ``CFR'' vs ``ECFR'' scores 0.857 on difflib---above many reasonable thresholds---yet one is the US Council on Foreign Relations and the other is the European Council on Foreign Relations. Pure auto-merge at any threshold below 0.95 would incorrectly collapse them.
 
 Our two-pass approach combines string similarity for safe cases ($\geq 0.95$: typos, punctuation) with LLM judging for borderline pairs ($0.30$--$0.95$). The LLM receives both raw names \emph{plus} up to three evidence phrases from each side with extracted role and reasoning. It correctly distinguishes CFR and ECFR based on the evidence context (US vs European foreign policy), while correctly merging ``Radio Netherlands'' with ``Radio Netherlands Worldwide'' (rename detected) and ``FEPS'' with ``Foundation for European Progressive Studies'' (acronym expansion). Every decision is logged with similarity scores, evidence excerpts, and reasoning.
-
-\subsection{Source Mismatch}
-
-The batch-loading pipeline initially attached a generic citation (``Wikipedia---Von der Leyen Commission II page'') to 595 facts, even when the actual evidence came from individual commissioner biographies. This meant that a fact about Jacques Barrot's service on the Prodi Commission (1999) was cited to a page about the Von der Leyen Commission (2024). We addressed this by migrating provenance records to the most specific available source document for each fact.
 
 \section{Findings}
 
@@ -101,6 +95,10 @@ Commissioners share 12 transnational elite networks with multiple members each (
 \subsection{EP-to-Commission Circulation}
 
 Only six of 150 commissioners held EP leadership positions (President, Vice President, or committee chair) before their Commission appointment. Circulation peaked at two per term under Barroso and Juncker, and has fallen to zero in the current Von der Leyen II term. When commissioners do have MEP backgrounds, they are typically national ministers who served brief MEP stints as a transit lounge between national power and Brussels.
+
+\section{Future Work: Transnational Corporate Elites}
+
+The present study focuses on political-administrative elites: commissioners, Directors-General, and MEP leaders. A natural extension applies the same methodology to transnational corporate elites---the boards and CEOs of companies with substantial operations in two or more major European countries. These individuals sit at the intersection of economic power and political access, often appearing in the same elite networks (Bilderberg, Trilateral Commission, WEF) that connect commissioners. The phrase-level extraction pipeline is directly applicable to corporate biographies, and the same provenance discipline would produce an auditable map of corporate-political elite interlock at the European level. This work is planned as a subsequent phase of the project.
 
 \section{Conclusion}
 
