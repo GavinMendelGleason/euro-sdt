@@ -70,13 +70,12 @@ EDUCATION_CLUSTERS = [
     ('harvard-ivy',           r'harvard|yale|georgetown|mit\b|edmund a. walsh'),
     ('oxbridge',              r'oxford|cambridge'),
     ('sciences-po-ena',       r'sciences po|sciences-po|iep\b.*paris|\bena\b|ecole nationale.*admin|enarque'),
-    ('london-schools',        r'london school of economics|\blse\b|university college london|\bucl\b|king\'s college london|imperial college'),
-    # Individual institutions with 3+ attendees (no plausible cluster)
-    ('university-of-bonn',    r'university of bonn\b|uni bonn|rheinische.*bonn'),
-    ('sgh-warsaw',            r'sgh warsaw|warsaw school of economics'),
+    # Individual elite-signalling institutions with 3+ attendees
+    ('lse',                   r'london school of economics|\blse\b(?!.*conseil|.*false)'),
+    ('ucl',                   r'university college london\b(?!.*louvain)'),
     ('bocconi',               r'\bbocconi\b'),
-    ('royal-university-of-malta', r'royal university of malta|university of malta'),
-    ('university-of-tubingen', r'university of tübingen|universität tübingen|tuebingen'),
+    ('sgh-warsaw',            r'sgh warsaw|warsaw school of economics'),
+    ('university-of-bonn',    r'university of bonn\b|uni bonn|rheinische.*bonn'),
     ('university-of-cologne', r'university of cologne|universität zu köln'),
 ]
 
