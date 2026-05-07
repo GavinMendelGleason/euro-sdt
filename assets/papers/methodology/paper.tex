@@ -16,11 +16,19 @@ We present a methodology for LLM-assisted research that anchors every claim to a
 
 \section{Introduction}
 
-The study of elite networks has historically proceeded through detailed examination of who occupies key institutional positions \cite{Mills, C. Wright. emph{The Power Elite}. Oxford University Press, 1956.}. For decades this research relied on manual methods—biographical analysis, archival work, surveys of officeholders—with limited scalability \cite{Kertzer, Joshua D. and Renshon, Jonathan (2022). ``Experiments and Surveys on Political Elites.'' emph{Annual Review of Political Science}.}. Large language models offer the possibility of scaling this work: extracting structured facts from unstructured biographies, identifying patterns across hundreds of careers, and surfacing connections that would take years of manual work to discover. But LLMs hallucinate---they generate plausible-sounding but factually incorrect claims \cite{Ji, Ziwei et al. ``Survey of Hallucination in Natural Language Generation. emph{ACM Computing Surveys} 55.12 (2022): 1--38.}. In research, a claim without a traceable source is not a finding.
+The study of elite networks has historically proceeded through detailed examination of who occupies key institutional positions \cite{mills1956}. For decades this research relied on manual methods—biographical analysis, archival work, surveys of officeholders—with limited scalability \cite{kertzer2022}. Large language models offer the possibility of scaling this work: extracting structured facts from unstructured biographies, identifying patterns across hundreds of careers, and surfacing connections that would take years of manual work to discover. But LLMs hallucinate---they generate plausible-sounding but factually incorrect claims \cite{ji2022}. In research, a claim without a traceable source is not a finding.
 
-Crucially, hallucination is primarily a property of \emph{generation}---the task of producing novel text from a model's internal distribution. The task we employ the LLM for is fundamentally different: \emph{verification} of whether a specific sentence from a source document supports a specific factual claim. This is a form of natural language inference, not generation---the model is not asked to invent, but to judge. Recent work on fine-grained citation grounding demonstrates that LLMs can reliably anchor claims to specific source sentences when constrained to do so \cite{Zhang, Jiajie et al. (2024). ``LongCite: Enabling LLMs to Generate Fine-grained Citations in Long-context QA.'' arXiv:2409.02897.}. By numbering phrases and requiring the LLM to cite a specific phrase index for each extracted fact, we move from generation (high-hallucination regime) to citation (low-hallucination regime).
+Crucially, hallucination is primarily a property of \emph{generation}---the task of producing novel text from a model's internal distribution. The task we employ the LLM for is fundamentally different: \emph{verification} of whether a specific sentence from a source document supports a specific factual claim. This is a form of natural language inference, not generation---the model is not asked to invent, but to judge. Recent work on fine-grained citation grounding demonstrates that LLMs can reliably anchor claims to specific source sentences when constrained to do so \cite{zhang2024}. By numbering phrases and requiring the LLM to cite a specific phrase index for each extracted fact, we move from generation (high-hallucination regime) to citation (low-hallucination regime).
 
 This paper describes a methodology that treats the LLM as an extraction engine, not an authority. Every fact in our database is linked to a specific sentence in a specific document via a phrase index. The LLM's output is a hypothesis, verified against the source before acceptance. The system currently holds 2,600+ facts across 550+ entities with sentence-level provenance, supporting analysis of seven European Commissions from Santer (1995) through Von der Leyen II (2024--2029).
+
+\section{The Hallucination Problem}
+
+LLMs hallucinate because they generate text by sampling from a learned probability distribution over tokens. When the model lacks grounding in external facts, this distribution can produce plausible-sounding but incorrect statements \cite{ji2022}. Manakul et al. (2023) demonstrate that hallucinated outputs are detectable through self-consistency: when an LLM is asked the same question multiple times, hallucinated answers tend to diverge and contradict each other, while factual answers remain consistent across samples \cite{manakul2023}. This reveals that hallucination is a property of \emph{unconstrained} generation: the model's internal distribution over tokens is underdetermined by the prompt, and stochastic variance produces divergent outputs.
+
+Crucially, Kadavath et al. (2022) show that LLMs are substantially better at \emph{evaluating} their own outputs than at \emph{generating} correct ones—they can detect errors in existing text at much higher rates than they can avoid producing errors during generation \cite{kadavath2022}. This generation-verification gap is the foundation of our approach: we do not ask the LLM to invent facts. We ask it to cite a numbered phrase from a source document that supports a factual claim. The task changes from ``produce text from your internal distribution'' to ``does this specific sentence support this specific claim?''—a form of natural language inference with dramatically lower hallucination rates.
+
+LongCite (2024) provides direct evidence that LLMs can reliably anchor claims to specific source sentences when trained and prompted to do so \cite{zhang2024}. Our methodology extends this insight: by numbering phrases and requiring the LLM to return a phrase index for each extracted fact, we build a system in which every claim in the database is traceable to a specific sentence in a source document. The LLM acts not as a knowledge base but as a structured extraction engine with mandatory provenance.
 
 \section{System Architecture}
 
@@ -94,19 +102,14 @@ Only six of 150 commissioners held EP leadership positions (President, Vice Pres
 
 \section{Conclusion}
 
+This paper's own bibliography was verified using the methodology it describes. Each of the six cited works was downloaded as a PDF, checked by \texttt{check\_citations.py}---a script that extracts citation claims from the LaTeX source, searches the cited PDF text, and sends numbered phrases to an LLM for phrase-level verification with confidence scoring. At the time of writing, all six citations pass at confidence $\geq 3$ on the 1--5 scale described in the System Architecture. The verification report is committed alongside this paper and can be regenerated by any reader with API access.
+
 The key methodological claim of this paper is that LLM-assisted research can be rigorous if the LLM is treated as a hypothesis generator rather than an authority. The specific mechanisms---phrase-indexed manifests, mandatory provenance, cross-validation against source text, and contextualised LLM judging for entity resolution---are transferable to other domains. The case study demonstrates that this discipline yields not just auditable data but substantive findings that manual methods would require years to surface.
 
 
 
 
-\section*{References}
 
-\noindent Mills, C. Wright (1956). \emph{The Power Elite}. Oxford University Press.
-
-\noindent Kertzer, Joshua D. \& Renshon, Jonathan (2022). ``Experiments and Surveys on Political Elites. \emph{Annual Review of Political Science}.
-
-\noindent Ji, Ziwei et al. (2022). ``Survey of Hallucination in Natural Language Generation.'' \emph{ACM Computing Surveys}, 55(12), 1--38.
-
-\noindent Zhang, Jiajie et al. (2024). ``LongCite: Enabling LLMs to Generate Fine-grained Citations in Long-context QA.'' arXiv:2409.02897.
-
+\bibliographystyle{plain}
+\bibliography{refs}
 \end{document}

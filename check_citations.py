@@ -11,7 +11,7 @@ Usage:
 Produces verification_report.csv with columns:
     paper_section, claim, citation, pdf_file, evidence_found, confidence
 """
-import re, os, sys, csv, json, urllib.request, urllib.parse
+import re, os, sys, csv, json, urllib.request, urllib.parse, hashlib
 
 API_KEY = os.environ.get('DEEPSEEK_API_KEY', '')
 PDF_DIR = 'papers'
@@ -138,63 +138,74 @@ def find_citations(tex_path):
     return citations
 
 
-def resolve_source(citation_content):
-    """Find matching PDF or text file for a citation by parsing author names and years from the citation text."""
-    # Clean LaTeX formatting
-    clean = re.sub(r'\\[a-z]+\{([^}]*)\}', r'\1', citation_content)
-    clean = re.sub(r'\\[a-z]+', '', clean)
-    clean = re.sub(r'["`]', '', clean)
-    clean = re.sub(r'\s+', ' ', clean).strip()
-    clean_lower = clean.lower()
-
-    # Extract author surnames (capitalized words before a year)
+def resolve_source(citation_content, tex_dir):
+    """Find matching PDF or text file for a citation.
+    Attempts to resolve from: 1) bibtex key, 2) refs.bib author/year, 3) heuristic matching."""
+    clean = citation_content.strip()
+    
+    # If it's a bibtex key (plain text, no spaces), look it up in refs.bib
+    bib_path = os.path.join(os.path.dirname(tex_dir), 'refs.bib') if tex_dir else 'refs.bib'
+    # Also try same directory as tex file
+    if not os.path.exists(bib_path):
+        bib_path = os.path.join(tex_dir, 'refs.bib') if tex_dir else None
+    
+    if bib_path and os.path.exists(bib_path) and ' ' not in clean and len(clean) < 50:
+        try:
+            with open(bib_path) as f:
+                bib_text = f.read()
+            # Find the entry for this key
+            pattern = r'@\w+\{' + re.escape(clean) + r',\s*(.*?)\n\}'
+            match = re.search(pattern, bib_text, re.DOTALL)
+            if match:
+                entry = match.group(1)
+                # Extract author and year from bibtex entry
+                authors = re.findall(r'author\s*=\s*\{(.*?)\}', entry, re.DOTALL)
+                years = re.findall(r'year\s*=\s*\{?(\d{4})\}?', entry)
+                # Build search terms from author last names
+                search_terms = []
+                if authors:
+                    names = authors[0].split(' and ')
+                    for name in names[:2]:
+                        parts = name.strip().split(',')
+                        if len(parts) > 1:
+                            search_terms.append(parts[0].strip().lower())
+                        else:
+                            words = name.strip().split()
+                            if words:
+                                search_terms.append(words[-1].strip().lower())
+                if years:
+                    search_terms.append(years[0])
+                # Match against files
+                return _match_file(search_terms)
+        except:
+            pass
+    
+    # Heuristic: parse author names and years from citation text
+    clean_lower = re.sub(r'\\[a-z]+\{([^}]*)\}', r'\1', clean).lower()
+    clean_lower = re.sub(r'["`]', '', clean_lower)
+    
     authors = re.findall(r'([A-Z][a-z]+(?:\s+[A-Z][a-z]+)?)', clean[:150])
     years = re.findall(r'(\d{4})', clean)
+    search_terms = [a.lower() for a in authors[:2]] + years[:1]
+    return _match_file(search_terms)
 
-    # Score each file in papers/
+
+def _match_file(search_terms):
+    """Score files in papers/ against search terms."""
     best_score = 0
     best_path = None
-
     for f in os.listdir(PDF_DIR):
-        if not f.endswith(('.pdf', '.txt')):
+        if not f.endswith(('.pdf', '.txt')) or f == 'BIBLIOGRAPHY.md':
             continue
-        if f == 'BIBLIOGRAPHY.md':
-            continue
-
         f_lower = f.lower()
         score = 0
-
-        # Match first author surname (most distinctive)
-        if authors:
-            surname = authors[0].lower()
-            if surname in f_lower:
-                score += 3
-            # Also check if other significant parts of first author appear
-            first_author_words = authors[0].lower().split()
-            for w in first_author_words:
-                if len(w) > 3 and w in f_lower:
-                    score += 1
-
-        # Match years
-        for year in years:
-            if year in f_lower:
-                score += 2
-                break
-
-        # Match distinctive title words
-        title_words = re.findall(r'[a-z]{5,}', clean_lower[:200])
-        significant = [w for w in title_words if w not in
-                       {'which', 'these', 'their', 'there', 'about', 'would', 'could', 'should',
-                        'press', 'university', 'volume', 'pages', 'survey', 'generation'}]
-        for w in significant[:5]:
-            if w in f_lower:
+        for term in search_terms:
+            if term and term in f_lower:
                 score += 1
-
         if score > best_score:
             best_score = score
             best_path = os.path.join(PDF_DIR, f)
-
-    if best_score >= 3:
+    if best_score >= max(1, len(search_terms) * 0.5):
         return best_path
     return None
 
@@ -289,12 +300,31 @@ def main():
     print(f"Found {len(citations)} citations\n")
 
     results = []
+    # Load hash cache to skip unchanged claims
+    cache_path = os.path.join(tex_dir, 'verification_cache.json')
+    cache = {}
+    if os.path.exists(cache_path):
+        try:
+            with open(cache_path) as f:
+                cache = json.load(f)
+        except:
+            pass
+
     for cit in citations:
-        source_path = resolve_source(cit['content'])
+        source_path = resolve_source(cit['content'], tex_dir)
 
         if source_path:
             short_name = os.path.basename(source_path)[:50]
             print(f"Checking: {cit['content'][:80]}...")
+            
+            # Check hash cache
+            cache_key = hashlib.sha256(f"{cit['claim']}|{cit['content']}".encode()).hexdigest()
+            if cache_key in cache:
+                cached = cache[cache_key]
+                print(f"  (cached: {cached['evidence_found']}, confidence={cached['confidence']})")
+                results.append(cached)
+                continue
+            
             source_text = extract_text(source_path)
 
             if API_KEY and source_text:
@@ -319,6 +349,8 @@ def main():
                 'confidence': f'{confidence:.2f}',
                 'reason': reason,
             })
+            # Save to cache
+            cache[cache_key] = results[-1]
         else:
             results.append({
                 'paper_section': 'main',
@@ -344,6 +376,11 @@ def main():
 
     print(f"\nResults: {verified} VERIFIED, {failed} UNSUBSTANTIATED, {unchecked} UNCHECKED")
     print(f"Report: {out_path}")
+    
+    # Save cache
+    with open(cache_path, 'w') as f:
+        json.dump(cache, f, indent=2)
+    print(f"Cache: {cache_path} ({len(cache)} entries)")
 
     for r in results:
         status = r['evidence_found']

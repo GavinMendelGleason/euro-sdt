@@ -1,0 +1,74 @@
+{
+  "d5eec32d9dd181a5495dab3f8e39584d749f3120efb8823b49757acd76a6767a": {
+    "paper_section": "main",
+    "claim": "abstract Introduction The study of elite networks has historically proceeded through detailed examination of who occupies key institutional positions",
+    "citation": "mills1956",
+    "pdf_file": "../../../papers/Mills_1956_The_Power_Elite.txt",
+    "evidence_found": "YES",
+    "confidence": "1.00",
+    "reason": "The source directly states that \"some men come to occupy positions in American society from which they can look down upon, so to speak, and by their decisions mightily affect, the everyday worlds of ordinary men and women,\" which exactly matches the claim that the study of elite networks proceeds through detailed examination of who occupies key institutional positions."
+  },
+  "148a70836c0523bf18f18d8ccd3e3378b3b6c4636ef89cd5c81f62f4e8b3db03": {
+    "paper_section": "main",
+    "claim": "For decades this research relied on manual methods\u2014biographical analysis, archival work, surveys of officeholders\u2014with limited scalability",
+    "citation": "kertzer2022",
+    "pdf_file": "../../../papers/Kertzer and Renshon_2022_Experiments and Surveys on Political Elites.pdf",
+    "evidence_found": "YES",
+    "confidence": "1.00",
+    "reason": "The source explicitly states that political scientists used methods like speeches, diaries, autobiographies, roll-call votes, cognitive maps, and participant observation to study elites, which aligns with the claim of reliance on manual methods with limited scalability."
+  },
+  "b64f806ccff6bd2667c5c723c56e8f8c560eb7f4ad0f1c8dab26b39a7cf87137": {
+    "paper_section": "main",
+    "claim": "Recent work on fine-grained citation grounding demonstrates that LLMs can reliably anchor claims to specific source sentences when constrained to do so",
+    "citation": "zhang2024",
+    "pdf_file": "../../../papers/Zhang_et_al_2024_LongCite.pdf",
+    "evidence_found": "YES",
+    "confidence": "1.00",
+    "reason": "The source explicitly states that the work enables long-context LLMs to generate responses with fine-grained sentence-level citations, and the trained models achieve state-of-the-art citation quality, demonstrating that LLMs can reliably anchor claims to specific source sentences when constrained to do so."
+  },
+  "06fd32dc951412ccca6d205c788989c2969a1eab2d4369cc24c5e09201731321": {
+    "paper_section": "main",
+    "claim": "(2023) demonstrate that hallucinated outputs are detectable through self-consistency: when an LLM is asked the same question multiple times, hallucinated answers tend to diverge and contradict each other, while factual answers remain consistent across samples",
+    "citation": "manakul2023",
+    "pdf_file": "../../../papers/Manakul_et_al_2023_SelfCheckGPT.pdf",
+    "evidence_found": "YES",
+    "confidence": "1.00",
+    "reason": "Phrases 6 and 7 directly state that if an LLM has knowledge of a concept, sampled responses are similar and contain consistent facts, while for hallucinated facts, sampled responses diverge and contradict one another, which exactly matches the claim."
+  },
+  "b9dc3e0bd89f3ee5bafb3bf4f28b5d6fb7753c18d90bff3c926392aa35322d03": {
+    "paper_section": "main",
+    "claim": "(2022) show that LLMs are substantially better at evaluating their own outputs than at generating correct ones\u2014they can detect errors in existing text at much higher rates than they can avoid producing errors during generation",
+    "citation": "kadavath2022",
+    "pdf_file": "../../../papers/Kadavath_et_al_2022_Language_Models_Mostly_Know_What_They_Know.pdf",
+    "evidence_found": "YES",
+    "confidence": "1.00",
+    "reason": "The source explicitly states that \"verification improves faster than generation quality in this context,\" directly supporting the claim that LLMs are substantially better at evaluating their own outputs than at generating correct ones."
+  },
+  "5d92ffd08236b73f666add973fd292e5a8961b4910aaf8f55fcf01038aa161fd": {
+    "paper_section": "main",
+    "claim": "LongCite (2024) provides direct evidence that LLMs can reliably anchor claims to specific source sentences when trained and prompted to do so",
+    "citation": "zhang2024",
+    "pdf_file": "../../../papers/Zhang_et_al_2024_LongCite.pdf",
+    "evidence_found": "YES",
+    "confidence": "1.00",
+    "reason": "The source explicitly states that training with the LongCite-45k dataset enabled the models to generate accurate responses and fine-grained sentence-level citations in a single output, directly supporting the claim."
+  },
+  "43591cb235a3d3bb57c5a5b5579719e7afd8004b93761f430a1caf22608c491d": {
+    "paper_section": "main",
+    "claim": "But LLMs hallucinate---they generate plausible-sounding but factually incorrect claims",
+    "citation": "ji2022",
+    "pdf_file": "../../../papers/Ji_et_al_2022_Survey_of_Hallucination_in_NLG.pdf",
+    "evidence_found": "YES",
+    "confidence": "1.00",
+    "reason": "The source explicitly states that NLG models often generate text that is nonsensical or unfaithful to the source input, and that researchers refer to this as hallucination, which directly matches the claim that LLMs generate plausible-sounding but factually incorrect claims."
+  },
+  "eb7edcfbf9961b7cc5bd129cf32b7c352bd0d694858b3b0036bdb6cf4c2771c0": {
+    "paper_section": "main",
+    "claim": "When the model lacks grounding in external facts, this distribution can produce plausible-sounding but incorrect statements",
+    "citation": "ji2022",
+    "pdf_file": "../../../papers/Ji_et_al_2022_Survey_of_Hallucination_in_NLG.pdf",
+    "evidence_found": "YES",
+    "confidence": "1.00",
+    "reason": "The source states that hallucinated text \"gives the impression of being fluent and natural despite being unfaithful\" and \"appears to be grounded in the real context provided, although it is actually hard to specify or verify the existence of such contexts,\" which directly matches the claim that when the model lacks grounding in external facts, the distribution can produce plausible-sounding but incorrect statements."
+  }
+}

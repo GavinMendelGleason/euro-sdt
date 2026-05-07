@@ -1,0 +1,44 @@
+\begin{thebibliography}{1}
+
+\bibitem{ji2022}
+Ziwei Ji, Nayeon Lee, Rita Frieske, Tiezheng Yu, Dan Su, Yan Xu, Etsuko Ishii,
+  Yejin Bang, Andrea Madotto, and Pascale Fung.
+\newblock Survey of hallucination in natural language generation.
+\newblock {\em ACM Computing Surveys}, 55(12):1--38, 2022.
+
+\bibitem{kadavath2022}
+Saurav Kadavath, Tom Conerly, Amanda Askell, Tom Henighan, Dawn Drain, Ethan
+  Perez, Nicholas Schiefer, Zac Hatfield-Dodds, Nova DasSarma, Eli
+  Tran-Johnson, Scott Johnston, Sheer El-Showk, Andy Jones, Nelson Elhage,
+  Tristan Hume, Anna Chen, Yuntao Bai, Sam Bowman, Stanislav Fort, Deep
+  Ganguli, Danny Hernandez, Josh Jacobson, Jackson Kernion, Shauna Kravec,
+  Liane Lovitt, Kamal Ndousse, Catherine Olsson, Sam Ringer, Dario Amodei, Tom
+  Brown, Jack Clark, Nicholas Joseph, Ben Mann, Sam McCandlish, Chris Olah, and
+  Jared Kaplan.
+\newblock Language models (mostly) know what they know.
+\newblock {\em arXiv preprint arXiv:2207.05221}, 2022.
+
+\bibitem{kertzer2022}
+Joshua~D. Kertzer and Jonathan Renshon.
+\newblock Experiments and surveys on political elites.
+\newblock {\em Annual Review of Political Science}, 2022.
+
+\bibitem{manakul2023}
+Potsawee Manakul, Adian Liusie, and Mark J.~F. Gales.
+\newblock {SelfCheckGPT}: Zero-resource black-box hallucination detection for
+  generative large language models.
+\newblock In {\em Proceedings of EMNLP}, 2023.
+
+\bibitem{mills1956}
+C.~Wright Mills.
+\newblock {\em The Power Elite}.
+\newblock Oxford University Press, 1956.
+
+\bibitem{zhang2024}
+Jiajie Zhang, Yushi Bai, Xin Lv, Wanjun Gu, Danqing Liu, Minhao Zou, Shulin
+  Cao, Lei Hou, Yuxiao Dong, Ling Feng, and Juanzi Li.
+\newblock {LongCite}: Enabling {LLMs} to generate fine-grained citations in
+  long-context {QA}.
+\newblock {\em arXiv preprint arXiv:2409.02897}, 2024.
+
+\end{thebibliography}
