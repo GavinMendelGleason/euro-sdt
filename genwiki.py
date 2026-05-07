@@ -62,7 +62,7 @@ CC = {
     'SVK':'Slovakia','SVN':'Slovenia','SWE':'Sweden',
 }
 
-# Education cluster definitions — data-driven, grouped by geography and elite type.
+# Education cluster definitions — elite-signalling institutions, not regional groupings.
 # Only institutions with 2+ attendees are included.
 EDUCATION_CLUSTERS = [
     ('college-of-europe',     r'college of europe|college of bruges'),
@@ -73,10 +73,6 @@ EDUCATION_CLUSTERS = [
     ('german-universities',   r'university of tübingen|university of bonn|university of cologne|university of heidelberg|university of freiburg|university of munich|humboldt|frankfurt|westfälische'),
     ('italian-universities',  r'sapienza.*rome|bocconi|university of bologna|luiss|university of milan|university of padua|university of florence'),
     ('eastern-european',      r'sgh warsaw|warsaw.*university|charles university|comenius|university of tartu|vilnius university|university of ljubljana|university of latvia|riga technical|corvinus|university of bucharest|sofia university|university of szeged|zagreb|jagiellonian'),
-    ('benelux',              r'université libre.*bruxelles|free university.*brussels|ulb|vrije universiteit|leuven|leiden university|university of amsterdam|utrecht|maastricht|erasmus|ghent|liège|louvain'),
-    ('nordic',               r'university of helsinki|lund university|stockholm university|uppsala|university of copenhagen|aarhus|oslo|tampere|turku|gothenburg'),
-    ('mediterranean',        r'university of athens|aristotle.*thessaloniki|complutense|university of barcelona|university of lisbon|technical university of lisbon|university of madrid'),
-    ('other-western',        r'university of vienna|university of innsbruck|trinity college.*dublin|university college dublin|university of reading|university of sussex|university of montpellier'),
 ]
 
 
