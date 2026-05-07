@@ -445,7 +445,8 @@ def generate_index_page(db):
 
 
 def generate_bodies_page(db):
-    """Generate a navigation page listing all institutional bodies."""
+    """Generate bodies.md index + sub-pages for each body type."""
+    os.makedirs(os.path.join(WIKI_DIR, 'bodies'), exist_ok=True)
     lines = [
         '---',
         'id: bodies',
@@ -458,27 +459,52 @@ def generate_bodies_page(db):
         '# EU Institutional Bodies',
         '',
         'All commissioners, Directors-General, Deputy Directors-General,',
-        'and Court of Justice members tracked in this database.',
+        'MEP leaders, and Court of Justice members tracked in this database.',
         '',
     ]
 
     # ── Commissions ──────────────────────────────────────────────────────
     lines.append('## European Commissions')
     lines.append('')
-    for row in db.execute("""
-        SELECT id, name FROM entity WHERE type = 'commission'
-        ORDER BY id
-    """).fetchall():
+    for row in db.execute("SELECT id, name FROM entity WHERE type = 'commission' ORDER BY id").fetchall():
         safe = slugify(row[1])
         count = db.execute("SELECT COUNT(*) FROM fact WHERE predicate='served_on_commission' AND object=?", (row[0],)).fetchone()[0]
         lines.append(f'- [{row[1]}](commissions/{safe}.md) — {count} members')
     lines.append('')
 
-    # ── Directors-General ────────────────────────────────────────────────
-    lines.append('## Directors-General & Deputy Directors-General')
+    # ── Directors-General (link to sub-page) ─────────────────────────────
     dg_count = db.execute("SELECT COUNT(*) FROM entity WHERE type='person' AND category IN ('dg','ddg')").fetchone()[0]
-    lines.append(f'({dg_count} senior officials)')
+    lines.append('## [Directors-General & Deputy Directors-General](bodies/dgs.md)')
+    lines.append(f'{dg_count} senior officials')
     lines.append('')
+
+    # ── CJEU (link to sub-page) ──────────────────────────────────────────
+    cjeu_count = db.execute("SELECT COUNT(*) FROM entity WHERE type='person' AND category IN ('cjeu_judge','cjeu_ag')").fetchone()[0]
+    lines.append('## [Court of Justice (CJEU)](bodies/cjeu.md)')
+    lines.append(f'{cjeu_count} members (judges + advocates general)')
+    lines.append('')
+
+    # ── MEPs (link to sub-page) ──────────────────────────────────────────
+    mep_count = db.execute("SELECT COUNT(*) FROM entity WHERE category = 'mep_sdt'").fetchone()[0]
+    if mep_count:
+        lines.append('## [SDT-Relevant MEPs](bodies/meps.md)')
+        lines.append(f'{mep_count} EP Presidents, Vice Presidents, committee chairs, group leaders')
+        lines.append('')
+
+    # ── Corporate Elites (link to sub-page) ──────────────────────────────
+    corp_count = db.execute("SELECT COUNT(*) FROM entity WHERE category = 'corporate_elite'").fetchone()[0]
+    if corp_count:
+        lines.append('## [Transnational Corporate Elites](bodies/corporate.md)')
+        lines.append(f'{corp_count} board members and CEOs of multi-European companies')
+        lines.append('')
+
+    # Write main page
+    with open(os.path.join(WIKI_DIR, 'bodies.md'), 'w') as f:
+        f.write('\n'.join(lines))
+
+    # ── Generate sub-pages ───────────────────────────────────────────────
+    # DGs
+    dg_lines = ['# Directors-General & Deputy Directors-General', '', f'{dg_count} senior officials', '']
     for row in db.execute("""
         SELECT e.name, e.category, f.object as dept
         FROM entity e LEFT JOIN fact f ON f.entity_id = e.id AND f.predicate = 'held_position'
@@ -488,51 +514,43 @@ def generate_bodies_page(db):
         safe = slugify(row[0])
         role = 'Director-General' if row[1] == 'dg' else 'Deputy Director-General'
         dept = str(row[2] or '')[:60]
-        lines.append(f'- [{row[0]}](people/{safe}.md) — *{role}* — {dept}')
-    lines.append('')
+        dg_lines.append(f'- [{row[0]}](../people/{safe}.md) — *{role}* — {dept}')
+    with open(os.path.join(WIKI_DIR, 'bodies/dgs.md'), 'w') as f:
+        f.write('\n'.join(dg_lines))
 
-    # ── CJEU Members ─────────────────────────────────────────────────────
-    lines.append('## Court of Justice (CJEU)')
-    cjeu_count = db.execute("SELECT COUNT(*) FROM entity WHERE type='person' AND category IN ('cjeu_judge','cjeu_ag')").fetchone()[0]
-    lines.append(f'({cjeu_count} members)')
-    lines.append('')
-
-    judges = list(db.execute("""
-        SELECT name, category FROM entity WHERE type='person' AND category='cjeu_judge' ORDER BY name
-    """).fetchall())
-    ags = list(db.execute("""
-        SELECT name, category FROM entity WHERE type='person' AND category='cjeu_ag' ORDER BY name
-    """).fetchall())
-
+    # CJEU
+    cjeu_lines = ['# Court of Justice (CJEU)', '', f'{cjeu_count} members', '']
+    judges = db.execute("SELECT name FROM entity WHERE type='person' AND category='cjeu_judge' ORDER BY name").fetchall()
+    ags = db.execute("SELECT name FROM entity WHERE type='person' AND category='cjeu_ag' ORDER BY name").fetchall()
     if judges:
-        lines.append('### Judges')
-        for row in judges:
-            safe = slugify(row[0])
-            lines.append(f'- [{row[0]}](people/{safe}.md)')
-        lines.append('')
+        cjeu_lines.append(f'## Judges ({len(judges)})')
+        cjeu_lines.append('')
+        for r in judges:
+            cjeu_lines.append(f'- [{r[0]}](../people/{slugify(r[0])}.md)')
+        cjeu_lines.append('')
     if ags:
-        lines.append('### Advocates General')
-        for row in ags:
-            safe = slugify(row[0])
-            lines.append(f'- [{row[0]}](people/{safe}.md)')
-        lines.append('')
+        cjeu_lines.append(f'## Advocates General ({len(ags)})')
+        cjeu_lines.append('')
+        for r in ags:
+            cjeu_lines.append(f'- [{r[0]}](../people/{slugify(r[0])}.md)')
+        cjeu_lines.append('')
+    with open(os.path.join(WIKI_DIR, 'bodies/cjeu.md'), 'w') as f:
+        f.write('\n'.join(cjeu_lines))
 
-    # ── SDT-Relevant MEPs ─────────────────────────────────────────────────
-    mep_count = db.execute("SELECT COUNT(*) FROM entity WHERE category = 'mep_sdt'").fetchone()[0]
-    if mep_count:
-        lines.append('## SDT-Relevant MEPs')
-        lines.append(f'({mep_count} EP Presidents, Vice Presidents, committee chairs, and group leaders)')
-        lines.append('')
-        for row in db.execute("""
-            SELECT name FROM entity WHERE category = 'mep_sdt' ORDER BY name
-        """).fetchall():
-            safe = slugify(row[0])
-            lines.append(f'- [{row[0]}](people/{safe}.md)')
-        lines.append('')
+    # MEPs
+    mep_lines = ['# SDT-Relevant MEPs', '', f'{mep_count} EP Presidents, Vice Presidents, committee chairs, and group leaders across 7 terms', '']
+    for row in db.execute("SELECT name FROM entity WHERE category = 'mep_sdt' ORDER BY name").fetchall():
+        mep_lines.append(f'- [{row[0]}](../people/{slugify(row[0])}.md)')
+    with open(os.path.join(WIKI_DIR, 'bodies/meps.md'), 'w') as f:
+        f.write('\n'.join(mep_lines))
 
-    path = os.path.join(WIKI_DIR, 'bodies.md')
-    with open(path, 'w') as f:
-        f.write('\n'.join(lines))
+    # Corporate
+    if corp_count:
+        corp_lines = ['# Transnational Corporate Elites', '', f'{corp_count} board members and CEOs of multi-European companies', '']
+        for row in db.execute("SELECT name FROM entity WHERE category = 'corporate_elite' ORDER BY name").fetchall():
+            corp_lines.append(f'- [{row[0]}](../people/{slugify(row[0])}.md)')
+        with open(os.path.join(WIKI_DIR, 'bodies/corporate.md'), 'w') as f:
+            f.write('\n'.join(corp_lines))
 
 
 def commission_page(db, entity_id):
