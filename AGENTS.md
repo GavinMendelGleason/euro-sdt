@@ -55,6 +55,47 @@ The paper bibliography is maintained in `papers/BIBLIOGRAPHY.md` — all cited w
 
 ---
 
+## Data Methodology
+
+All data follows a five-stage pipeline derived from the methodology described in `assets/papers/methodology/paper.tex`:
+
+### 1. Scrape
+Acquire source texts from controlled, publicly accessible sources. Never use proprietary datasets or unverified CSVs as primary evidence. Sources include:
+- **Wikipedia** — commissioner/MEP/corporate biographies via API extracts and raw HTML
+- **Commission CVs** — DG/DDG CV PDFs from the EU Person Directory, converted to plaintext
+- **Wikidata** — SPARQL queries for P39 (position), P69 (education), P1416 (affiliation) for entity discovery only (not as fact source)
+- **Official documents** — machine-readable declarations of interests, EP hearing transcripts
+
+Source files are saved to `sources/{wikipedia,dg_cvs,cjeu}/` with phrase indices (`*.phrases` files).
+
+### 2. Extract (Phrase-Level Manifest)
+Send the source text to an LLM (DeepSeek) with numbered phrases. The LLM returns a JSON **manifest** — a structured extraction specifying:
+- `phrase`: the phrase number where evidence appears
+- `organisation` / `institution`: the entity name exactly as written
+- `role`: relationship (member, board member, fellow, etc.)
+- `reasoning`: one sentence explaining why the phrase indicates the fact
+
+The manifest is stored as a durable intermediate artifact in `manifests/`. Facts are NEVER extracted from CSVs or inferred — every claim traces to a specific sentence in a source document.
+
+### 3. Verify (Cross-Check)
+Each extracted fact is validated against the source text at the claimed phrase index. If the sentence does not contain the asserted information, the fact is rejected. Phrase-index cross-checking catches hallucinations (e.g., the LLM returning "Dacian Julien Cioloș" as an institution name — the commissioner's own name).
+
+### 4. Resolve (Entity Dedup)
+Organisation and institution names are deduplicated using a two-pass approach:
+- **Auto-merge**: string similarity ≥ 0.95 (typos, punctuation variants)
+- **LLM judge**: borderline pairs (0.30–0.95) sent to LLM with up to 3 evidence phrases from each side. LLM returns SAME/DIFFERENT with reasoning. All decisions logged in `_dedup.json`.
+
+### 5. Render (Wiki + DB)
+Facts are loaded into `euro_sdt.db` with mandatory provenance (`citation_id`, `phrase_index`, `quote_text`). `genwiki.py` generates the Obsidian wiki with citation footnotes. Facts without provenance are deleted.
+
+### Key Principles
+- **Every fact must have provenance** — a specific sentence in a specific source document
+- **Collected data is NOT proof** — CSVs, scraped pages, and DB records are internal tools, not evidence
+- **LLM is an extraction engine, not an authority** — it generates hypotheses verified against source text
+- **Manifests are the durable intermediate artifact** — database rows can be rebuilt from manifests
+
+---
+
 ## Git Workflow
 
 This repository is shared between multiple contributors (Gavin and Donagh). To avoid conflicts and data loss:
