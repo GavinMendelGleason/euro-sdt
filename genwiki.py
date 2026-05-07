@@ -73,6 +73,8 @@ EDUCATION_CLUSTERS = [
     # Individual elite-signalling institutions with 3+ attendees
     ('lse',                   r'london school of economics|\blse\b(?!.*conseil|.*false)'),
     ('ucl',                   r'university college london\b(?!.*louvain)'),
+    ('ecole-polytechnique',    r'école polytechnique\b(?!.*fédérale)'),
+    ('insead',                 r'\binsead\b'),
     ('bocconi',               r'\bbocconi\b'),
     ('sgh-warsaw',            r'sgh warsaw|warsaw school of economics'),
     ('university-of-bonn',    r'university of bonn\b|uni bonn|rheinische.*bonn'),
@@ -88,7 +90,83 @@ def slugify(text):
     return text.strip().lower().replace(' ', '-').replace('--', '-')
 
 
+def get_org_tags(db, entity_id, org_name):
+    """Return Obsidian color tags based on organisation type."""
+    name_lower = org_name.lower()
+    
+    # Political parties
+    party_keywords = ['party', 'parti', 'partido', 'partei', 'partit', 'socialist', 'communist',
+                      'christian democrat', 'conservative', 'liberal', 'green party', 'people\'s party',
+                      'labour party', 'social democratic', 'popular party', 'republican']
+    if any(k in name_lower for k in party_keywords):
+        return ['org', 'political-party']
+    
+    # Parliamentary/government bodies
+    gov_keywords = ['parliament', 'congress', 'senate', 'chamber of deputies', 'bundestag',
+                    'national assembly', 'diet', 'sejm', 'seimas', 'council of ministers',
+                    'committee on', 'delegation to', 'parliamentary assembly']
+    if any(k in name_lower for k in gov_keywords):
+        return ['org', 'government-body']
+    
+    # Corporate/industry
+    corp_keywords = ['bank', 'insurance', 'energy', 'oil', 'gas', 'steel', 'chemical', 'pharma',
+                     'automotive', 'aerospace', 'telecom', 'technology', 'airbus', 'siemens',
+                     'shell', 'bp', 'total', 'eni', 'enel', 'iberdrola', 'santander', 'bnp',
+                     'deutsche bank', 'ing', 'allianz', 'axa', 'renault', 'volkswagen',
+                     'stellantis', 'safran', 'rheinmetall', 'lvmh', 'l\'oréal', 'sanofi',
+                     'bayer', 'abb', 'nestlé', 'unilever', 'ab inbev', 'thales', 'asml',
+                     'goldman', 'morgan stanley', 'ubs', 'credit suisse', 'barclays', 'hsbc',
+                     'merrill', 'mckinsey', 'boston consulting', 'kpmg', 'deloitte', 'pwc',
+                     'ernst', 'accenture', 'blackrock', 'blackstone']
+    if any(k in name_lower for k in corp_keywords):
+        return ['org', 'corporate']
+    
+    # Industry associations / business networks
+    industry_keywords = ['round table', 'chamber of commerce', 'business association',
+                         'industry association', 'financial services', 'insurance forum',
+                         'banking federation', 'employers', 'entrepreneurs']
+    if any(k in name_lower for k in industry_keywords):
+        return ['org', 'industry-association']
+    
+    # Think tanks
+    thinktank_keywords = ['think tank', 'policy institute', 'research institute', 'policy centre',
+                          'policy center', 'foundation', 'institute for', 'centre for',
+                          'center for', 'council on foreign', 'friends of europe',
+                          'atlantic council', 'ecfr', 'bruegel', 'ceps']
+    if any(k in name_lower for k in thinktank_keywords):
+        return ['org', 'think-tank']
+    
+    # Check connected entity types from DB
+    connected_cats = db.execute("""
+        SELECT DISTINCT e.category FROM fact f
+        JOIN entity e ON e.id = f.entity_id
+        WHERE f.predicate IN ('affiliated_with','member_of') AND f.object = ?
+    """, [entity_id]).fetchall()
+    connected = {r[0] for r in connected_cats}
+    
+    if 'corporate_elite' in connected:
+        return ['org', 'corporate']
+    if 'commissioner' in connected:
+        return ['org', 'think-tank']
+    if 'mep_sdt' in connected:
+        return ['org', 'political-party']
+    
+    # Default
+    return ['org', 'org-generic']
+
+
 def get_person_tags(category):
+    """Return Obsidian graph color tags based on category."""
+    mapping = {
+        'commissioner':    ['person', 'commissioner', 'political-elite'],
+        'mep_sdt':         ['person', 'mep', 'political-elite'],
+        'corporate_elite': ['person', 'corporate', 'economic-elite'],
+        'dg':              ['person', 'dg', 'administrative-elite'],
+        'ddg':             ['person', 'ddg', 'administrative-elite'],
+        'cjeu_judge':      ['person', 'cjeu', 'judicial-elite'],
+        'cjeu_ag':         ['person', 'cjeu', 'judicial-elite'],
+    }
+    return mapping.get(category, ['person', category or 'unknown'])
     """Return Obsidian graph color tags based on category."""
     mapping = {
         'commissioner':    ['person', 'commissioner', 'political-elite'],
@@ -256,7 +334,7 @@ def organisation_page(db, entity_id):
         'id': entity_id,
         'title': name,
         'type': 'organisation',
-        'tags': ['organisation', 'org'],
+        'tags': get_org_tags(db, entity_id, name),
     })
 
     lines = [fm, f'# {name}', '', '## Profile', '']
@@ -430,9 +508,12 @@ def generate_graph_config():
             {"query": "tag:#economic-elite",        "color": {"a": 1, "rgb": 16733525}},
             {"query": "tag:#administrative-elite",   "color": {"a": 1, "rgb": 4638335}},
             {"query": "tag:#judicial-elite",        "color": {"a": 1, "rgb": 10350619}},
-            {"query": "tag:#org",                   "color": {"a": 1, "rgb": 8421504}},
-            {"query": "tag:#education",             "color": {"a": 1, "rgb": 16766720}},
-            {"query": "tag:#hub",                   "color": {"a": 1, "rgb": 16777215}},
+            {"query": "tag:#political-party",        "color": {"a": 1, "rgb": 6553700}},
+            {"query": "tag:#think-tank",             "color": {"a": 1, "rgb": 8421504}},
+            {"query": "tag:#corporate",              "color": {"a": 1, "rgb": 16744576}},
+            {"query": "tag:#government-body",        "color": {"a": 1, "rgb": 10092543}},
+            {"query": "tag:#education",              "color": {"a": 1, "rgb": 16766720}},
+            {"query": "tag:#hub",                    "color": {"a": 1, "rgb": 16777215}},
         ],
         "collapse-display": False, "showArrow": False, "textFadeMultiplier": 0,
         "nodeSizeMultiplier": 1, "lineSizeMultiplier": 1, "collapse-forces": False,
