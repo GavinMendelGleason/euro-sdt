@@ -29,12 +29,14 @@ TODAY = date.today().isoformat()
 
 PREDICATE_LABEL = {
     'served_on_commission':  'Served on',
+    'served_on_ep':          'EP Term',
     'held_portfolio':        'Portfolio',
     'nominated_by':          'Nominated by',
     'from_country':          'Country',
     'educated_at':           'Educated at',
     'studied_field':         'Field of study',
     'held_degree':           'Degree',
+    'affiliated_with':       'Organisation affiliations',
     'member_of':             'Member of',
     'held_position':         'Position',
     'post_mandate_occupation':'Post-mandate',
@@ -44,10 +46,10 @@ PREDICATE_LABEL = {
 }
 
 SECTION_ORDER = [
-    'served_on_commission','held_portfolio','nominated_by','from_country',
+    'served_on_commission','served_on_ep','held_portfolio','nominated_by','from_country',
     'educated_at','studied_field','held_degree',
     'held_position','works_at',
-    'member_of','post_mandate_occupation',
+    'affiliated_with','member_of','post_mandate_occupation',
     'classified_as','funding_notes','has_description',
 ]
 
@@ -117,7 +119,7 @@ def fetch_facts_grouped(db, entity_id):
             grouped[pred] = []
         # Resolve entity_id references
         obj = f[3]
-        if f[4] == 'entity_id':
+        if f[4] in ('entity_id', 'entity'):
             ref = db.execute("SELECT name FROM entity WHERE id = ?", (obj,)).fetchone()
             obj = ref[0] if ref else obj
         citations = db.execute(
