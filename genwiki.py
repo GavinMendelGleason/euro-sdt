@@ -399,7 +399,10 @@ def generate_all(db):
 
 
 def generate_index_page(db):
-    """Generate the root navigation page."""
+    """Generate the root navigation page — minimal hub."""
+    total_facts = db.execute("SELECT COUNT(*) FROM fact").fetchone()[0]
+    total_entities = db.execute("SELECT COUNT(*) FROM entity").fetchone()[0]
+    
     lines = [
         '---',
         'id: index',
@@ -411,31 +414,16 @@ def generate_index_page(db):
         '',
         '# Euro-SDT Wiki',
         '',
-        f'*1,421 verified facts across 327 entities. Citation-anchored knowledge graph.*',
+        f'*{total_facts} verified facts across {total_entities} entities. Citation-anchored knowledge graph.*',
         '',
         '## Navigation',
         '',
-        '- **[Bodies](bodies.md)** — Commissioners, DGs/DDGs, CJEU members',
-        '- **[Analytics](analytics.html)** — Time-series graphs',
+        '- **[Bodies](bodies.md)** — Commissioners, DGs, CJEU, MEP leaders, education clusters, countries',
+        '- **[Statistics](stats.md)** — Data quality and coverage charts',
         '- **[Citations](citations.md)** — Primary source index',
         '',
-        '## Education Clusters',
     ]
-    for cid, _ in EDUCATION_CLUSTERS:
-        label = cid.replace('-',' ').title()
-        lines.append(f'- [{label}](education/{cid}.md)')
-    lines.append('')
-    lines.append('## Commissions')
-    for row in db.execute("SELECT id, name FROM entity WHERE type='commission' ORDER BY id").fetchall():
-        safe = slugify(row[1])
-        lines.append(f'- [{row[1]}](commissions/{safe}.md)')
-    lines.append('')
-    lines.append('## Countries')
-    for cc_code in sorted(CC.keys()):
-        if os.path.exists(os.path.join(WIKI_DIR, 'countries', f'{cc_code.lower()}.md')):
-            lines.append(f'- [{CC[cc_code]}](countries/{cc_code.lower()}.md)')
-    lines.append('')
-
+    
     path = os.path.join(WIKI_DIR, 'index.md')
     with open(path, 'w') as f:
         f.write('\n'.join(lines))
@@ -463,13 +451,10 @@ def generate_bodies_page(db):
         '',
     ]
 
-    # ── Commissions ──────────────────────────────────────────────────────
-    lines.append('## European Commissions')
-    lines.append('')
-    for row in db.execute("SELECT id, name FROM entity WHERE type = 'commission' ORDER BY id").fetchall():
-        safe = slugify(row[1])
-        count = db.execute("SELECT COUNT(*) FROM fact WHERE predicate='served_on_commission' AND object=?", (row[0],)).fetchone()[0]
-        lines.append(f'- [{row[1]}](commissions/{safe}.md) — {count} members')
+    # ── Commissions (link to sub-page) ──────────────────────────────────
+    comm_count = db.execute("SELECT COUNT(*) FROM entity WHERE type='commission'").fetchone()[0]
+    lines.append('## [European Commissions](bodies/commissions.md)')
+    lines.append(f'{comm_count} commissions (1995–2029)')
     lines.append('')
 
     # ── Directors-General (link to sub-page) ─────────────────────────────
@@ -497,6 +482,17 @@ def generate_bodies_page(db):
         lines.append('## [Transnational Corporate Elites](bodies/corporate.md)')
         lines.append(f'{corp_count} board members and CEOs of multi-European companies')
         lines.append('')
+
+    # ── Education Clusters ───────────────────────────────────────────────
+    lines.append('## [Education Clusters](bodies/education-clusters.md)')
+    lines.append('Elite institution groupings (Sciences Po/ENA, Oxbridge, LSE, etc.)')
+    lines.append('')
+
+    # ── Countries ────────────────────────────────────────────────────────
+    country_count = len([c for c in CC.keys() if os.path.exists(os.path.join(WIKI_DIR, 'countries', f'{c.lower()}.md'))])
+    lines.append('## [Countries](bodies/countries.md)')
+    lines.append(f'{country_count} member states')
+    lines.append('')
 
     # Write main page
     with open(os.path.join(WIKI_DIR, 'bodies.md'), 'w') as f:
@@ -551,6 +547,31 @@ def generate_bodies_page(db):
             corp_lines.append(f'- [{row[0]}](../people/{slugify(row[0])}.md)')
         with open(os.path.join(WIKI_DIR, 'bodies/corporate.md'), 'w') as f:
             f.write('\n'.join(corp_lines))
+
+    # Commissions
+    comm_lines = ['# European Commissions', '', f'{comm_count} commissions (1995–2029)', '']
+    for row in db.execute("SELECT id, name FROM entity WHERE type = 'commission' ORDER BY id").fetchall():
+        count = db.execute("SELECT COUNT(*) FROM fact WHERE predicate='served_on_commission' AND object=?", (row[0],)).fetchone()[0]
+        comm_lines.append(f'- [{row[1]}](../commissions/{slugify(row[1])}.md) — {count} members')
+    with open(os.path.join(WIKI_DIR, 'bodies/commissions.md'), 'w') as f:
+        f.write('\n'.join(comm_lines))
+
+    # Education Clusters
+    edu_lines = ['# Education Clusters', '', 'Elite institution groupings used for SDT analysis.', '']
+    for cid, _ in EDUCATION_CLUSTERS:
+        label = cid.replace('-', ' ').title()
+        edu_lines.append(f'- [{label}](../education/{cid}.md)')
+    edu_lines.append('')
+    with open(os.path.join(WIKI_DIR, 'bodies/education-clusters.md'), 'w') as f:
+        f.write('\n'.join(edu_lines))
+
+    # Countries
+    ctry_lines = ['# Countries', '', f'{country_count} EU member states', '']
+    for cc_code in sorted(CC.keys()):
+        if os.path.exists(os.path.join(WIKI_DIR, 'countries', f'{cc_code.lower()}.md')):
+            ctry_lines.append(f'- [{CC[cc_code]}](../countries/{cc_code.lower()}.md)')
+    with open(os.path.join(WIKI_DIR, 'bodies/countries.md'), 'w') as f:
+        f.write('\n'.join(ctry_lines))
 
 
 def commission_page(db, entity_id):
