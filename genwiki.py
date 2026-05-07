@@ -115,7 +115,12 @@ def get_org_tags(db, entity_id, org_name):
             return ['org', 'corporate', 'healthcare']
         if any(k in industry for k in ['luxury', 'consumer', 'retail', 'food', 'beverage']):
             return ['org', 'corporate', 'consumer']
-        return ['org', 'corporate']
+        if any(k in industry for k in ['think tank', 'policy', 'research', 'ngo', 'nonprofit', 'non-profit']):
+            return ['org', 'think-tank']
+        if any(k in industry for k in ['aviation', 'transport', 'logistics', 'shipping']):
+            return ['org', 'corporate', 'transport']
+        # Fall through to keyword + DB classification
+        pass
     
     # Rest of classification by keywords + connected people...
     name_lower = org_name.lower()
