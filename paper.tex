@@ -1,0 +1,99 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{hyperref,graphicx,booktabs,enumitem,url,xcolor}
+
+
+\title{Phrasal Provenance: An LLM-Assisted Methodology for Elite Network Research}
+\author{Gavin Mendel-Gleason}
+\date{Workshop on AI Methodology for Social Science \\ May 2026}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+We present a methodology for LLM-assisted research that anchors every claim to a specific sentence in a source document. Using European institutional elites as a case study---commissioners, DGs, and MEP leaders across seven commission terms (1995--2029)---we demonstrate a pipeline that scrapes from controlled sources, normalises data into a relational database with mandatory provenance links, uses LLMs for phrase-level fact extraction with JSON manifests, and cross-validates every claim against source text to detect hallucinations. The system surfaces substantive findings including the collapse of the French \emph{grande \'ecole} pipeline into the Commission and a stark asymmetry in elite network ties between commissioners (12 shared networks) and MEP leaders (0 exclusive networks). We report on failure modes encountered---LLM hallucination at 18\% of education extractions, entity duplication from non-deterministic prompt outputs, and the ``CFR is not ECFR'' problem in string-similarity deduplication---and describe the methodological choices that address each.
+\end{abstract}
+
+\section{Introduction}
+
+The study of elite networks has traditionally relied on manual archival research \footnote{Mills, C. Wright. emph{The Power Elite}. Oxford University Press, 1956.}. Large language models offer the possibility of scaling this work: extracting structured facts from unstructured biographies, identifying patterns across hundreds of careers, and surfacing connections that would take years of manual work to discover. But LLMs hallucinate---they generate plausible-sounding but factually incorrect claims \footnote{Ji, Ziwei et al. ``Survey of Hallucination in Natural Language Generation. emph{ACM Computing Surveys} 55.12 (2023): 1--38.}. In research, a claim without a traceable source is not a finding.
+
+This paper describes a methodology that treats the LLM as an extraction engine, not an authority. Every fact in our database is linked to a specific sentence in a specific document via a phrase index. The LLM's output is a hypothesis, verified against the source before acceptance. The system currently holds 2,600+ facts across 550+ entities with sentence-level provenance, supporting analysis of seven European Commissions from Santer (1995) through Von der Leyen II (2024--2029).
+
+\section{System Architecture}
+
+The pipeline has five stages: scrape, extract, verify, resolve, and render.
+
+\subsection{Database Schema}
+
+Four core tables enforce provenance:
+
+\begin{itemize}
+\item \texttt{entity}: Persons, organisations, institutions, commissions, and source documents with type, category, and country.
+\item \texttt{fact}: Subject-predicate-object triples (\texttt{educated\_at}, \texttt{affiliated\_with}, \texttt{served\_on\_commission}, \texttt{held\_portfolio}) with confidence and qualifiers.
+\item \texttt{citation}: Source metadata---URL, access date, source type.
+\item \texttt{provenance}: Links facts to citations with \texttt{phrase\_index} (sentence number) and \texttt{quote\_text} (exact supporting sentence).
+\end{itemize}
+
+Facts without at least one provenance record are deleted rather than retained. This is not a cleanup operation but a structural constraint: the database is self-auditing.
+
+\subsection{Phrase-Level Extraction}
+
+The core innovation is phrase-indexed extraction. Rather than sending an article to an LLM and accepting unstructured output, we:
+
+\begin{enumerate}
+\item Split source text into numbered sentences (50--80 per document).
+\item Present the LLM with numbered phrases and a structured prompt: ``Extract every organisation that X has been a member of. For each: phrase number, organisation name, role, reasoning.''
+\item Parse the JSON response into a \emph{manifest}---a durable intermediate artifact stored as JSON.
+\item Cross-check: retrieve the sentence at the claimed phrase index and verify it contains the asserted information.
+\end{enumerate}
+
+The manifest preserves the LLM's full output including reasoning and phrase indices, making extraction auditable and reproducible.
+
+\section{Failure Modes}
+
+We encountered three categories of failure:
+
+\subsection{Hallucination (18\% of extractions)}
+
+In our commissioner education extraction run, 18\% of LLM outputs were unsupported by the source text at the claimed phrase index. Typical case: the LLM inferred ``Harvard'' from context (``studied at an Ivy League university'') when Harvard was not explicitly named. Phrase-index cross-checking caught these.
+
+A more subtle case: the LLM extracted ``Dacian Julien Ciolo\c{s}'' as an educational institution for Dacian Ciolo\c{s}---a hallucinated institution name constructed from the commissioner's own name. The phrase at that index contained no institution name at all.
+
+\subsection{Non-Deterministic Extraction}
+
+Running identical prompts on the same source text produced different sets of extracted organisations on different runs. The LLM's non-determinism meant that manifest regeneration changed the database. This is tolerable for additive processes (new facts are added, existing ones persist) but problematic for analytical reproducibility. We addressed this by storing manifests in version control as the canonical extraction record.
+
+\subsection{Entity Resolution (the ``CFR is not ECFR'' problem)}
+
+String similarity alone is dangerous for deduplication. The sequence ``CFR'' vs ``ECFR'' scores 0.857 on difflib---above many reasonable thresholds---yet one is the US Council on Foreign Relations and the other is the European Council on Foreign Relations. Pure auto-merge at any threshold below 0.95 would incorrectly collapse them.
+
+Our two-pass approach combines string similarity for safe cases ($\geq 0.95$: typos, punctuation) with LLM judging for borderline pairs ($0.30$--$0.95$). The LLM receives both raw names \emph{plus} up to three evidence phrases from each side with extracted role and reasoning. It correctly distinguishes CFR and ECFR based on the evidence context (US vs European foreign policy), while correctly merging ``Radio Netherlands'' with ``Radio Netherlands Worldwide'' (rename detected) and ``FEPS'' with ``Foundation for European Progressive Studies'' (acronym expansion). Every decision is logged with similarity scores, evidence excerpts, and reasoning.
+
+\subsection{Source Mismatch}
+
+The batch-loading pipeline initially attached a generic citation (``Wikipedia---Von der Leyen Commission II page'') to 595 facts, even when the actual evidence came from individual commissioner biographies. This meant that a fact about Jacques Barrot's service on the Prodi Commission (1999) was cited to a page about the Von der Leyen Commission (2024). We addressed this by migrating provenance records to the most specific available source document for each fact.
+
+\section{Findings}
+
+The methodology surfaces several substantive findings:
+
+\subsection{Collapse of the French Elite Pipeline}
+
+French commissioners from Santer through Von der Leyen I were consistently products of the \emph{grandes \'ecoles}: Pascal Lamy (ENA + Sciences Po + HEC), Pierre Moscovici (ENA + Sciences Po), Jacques Barrot (Sciences Po). The current French commissioner, St\'ephane S\'ejourn\'e, attended the University of Poitiers---a mid-tier regional university with no elite pipeline connection. He is the first French commissioner since 1995 with no Paris education of any kind. Across all commissions, elite institution concentration has declined from 37\% (Barroso I) to 8\% (Von der Leyen II).
+
+\subsection{Elite Network Asymmetry}
+
+Commissioners share 12 transnational elite networks with multiple members each (Bilderberg Group: 10, ECFR: 9, Trilateral Commission: 7). MEP leaders, across 136 identified SDT-relevant individuals, have \emph{zero} exclusive elite networks with multiple members. The only networks crossing both groups are Friends of Europe (12 commissioners, 3 MEPs), Trilateral Commission (7/2), and the World Economic Forum (4/1). Commissioners operate in institutionalised, overlapping elite circuits; MEP leaders maintain fragmented, personal, non-overlapping networks.
+
+\subsection{EP-to-Commission Circulation}
+
+Only six of 150 commissioners held EP leadership positions (President, Vice President, or committee chair) before their Commission appointment. Circulation peaked at two per term under Barroso and Juncker, and has fallen to zero in the current Von der Leyen II term. When commissioners do have MEP backgrounds, they are typically national ministers who served brief MEP stints as a transit lounge between national power and Brussels.
+
+\section{Conclusion}
+
+The key methodological claim of this paper is that LLM-assisted research can be rigorous if the LLM is treated as a hypothesis generator rather than an authority. The specific mechanisms---phrase-indexed manifests, mandatory provenance, cross-validation against source text, and contextualised LLM judging for entity resolution---are transferable to other domains. The case study demonstrates that this discipline yields not just auditable data but substantive findings that manual methods would require years to surface.
+
+
+
+\end{document}
