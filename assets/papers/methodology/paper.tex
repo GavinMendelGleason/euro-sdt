@@ -36,16 +36,18 @@ The pipeline has five stages: scrape, extract, verify, resolve, and render.
 
 \subsection{Database Schema}
 
-Four core tables enforce provenance:
+The database implements a graph-style ontology on a standard relational backend. Every piece of data is stored as a triple: an \emph{entity} (person, organisation, institution, commission, or source document) connected to a \emph{property value} by a \emph{predicate} (\texttt{educated\_at}, \texttt{affiliated\_with}, \texttt{served\_on\_commission}, \texttt{held\_portfolio}, \texttt{from\_country}). The property value may be another entity (forming a graph edge) or a literal value (a date, a degree, a country name).
+
+The predicates are drawn from the substantive concerns of elite research: education (\texttt{educated\_at}, \texttt{studied\_field}, \texttt{held\_degree}) to track elite formation; organisational ties (\texttt{affiliated\_with}, \texttt{member\_of}) to map network membership; career trajectories (\texttt{served\_on\_commission}, \texttt{held\_portfolio}, \texttt{from\_country}); and institutional position (\texttt{served\_on\_ep}). Each fact---each triple---carries mandatory provenance: the source document from which it was extracted, the exact sentence (stored as \texttt{quote\_text}), and its position within that document (\texttt{phrase\_index}). This transforms the database from a collection of assertions into an auditable knowledge graph: every edge can be traced to a specific sentence in a specific source. The four core tables are:
 
 \begin{itemize}
-\item \texttt{entity}: Persons, organisations, institutions, commissions, and source documents with type, category, and country.
-\item \texttt{fact}: Subject-predicate-object triples (\texttt{educated\_at}, \texttt{affiliated\_with}, \texttt{served\_on\_commission}, \texttt{held\_portfolio}) with confidence and qualifiers.
-\item \texttt{citation}: Source metadata---URL, access date, source type.
-\item \texttt{provenance}: Links facts to citations with \texttt{phrase\_index} (sentence number) and \texttt{quote\_text} (exact supporting sentence).
+\item \texttt{entity}: All nodes in the graph---persons, organisations, educational institutions, commissions, and source documents---with a type, category, and optional country code.
+\item \texttt{fact}: Directed edges connecting entities (\texttt{educated\_at} links a person to a university) or attaching literal properties (\texttt{held\_degree} links a person to ``PhD''). Includes confidence and qualifier fields.
+\item \texttt{citation}: Metadata for each source document---URL, access date, source type (Wikipedia, Wikidata, Commission CV PDF, etc.).
+\item \texttt{provenance}: Every fact's audit trail---the \texttt{citation\_id}, the \texttt{phrase\_index} (sentence number), and the exact \texttt{quote\_text} that supports the claim.
 \end{itemize}
 
-Facts without at least one provenance record are deleted rather than retained. This is not a cleanup operation but a structural constraint: the database is self-auditing.
+Facts without provenance are deleted rather than retained. This is not a cleanup operation but a structural invariant: the knowledge graph is self-auditing.
 
 \subsection{Phrase-Level Extraction}
 
