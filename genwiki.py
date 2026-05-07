@@ -414,6 +414,31 @@ def generate_all(db):
     generate_index_page(db)
 
 
+def generate_graph_config():
+    """Generate .obsidian/graph.json with auto-coloring by tag."""
+    os.makedirs(os.path.join(WIKI_DIR, '.obsidian'), exist_ok=True)
+    config = {
+        "collapse-filter": False, "search": "", "showTags": True,
+        "showAttachments": False, "hideUnresolved": False, "showOrphans": True,
+        "collapse-color-groups": False,
+        "colorGroups": [
+            {"query": "tag:#political-elite",       "color": {"a": 1, "rgb": 5077951}},
+            {"query": "tag:#economic-elite",        "color": {"a": 1, "rgb": 16733525}},
+            {"query": "tag:#administrative-elite",   "color": {"a": 1, "rgb": 4638335}},
+            {"query": "tag:#judicial-elite",        "color": {"a": 1, "rgb": 10350619}},
+            {"query": "tag:#org",                   "color": {"a": 1, "rgb": 8421504}},
+            {"query": "tag:#education",             "color": {"a": 1, "rgb": 16766720}},
+            {"query": "tag:#hub",                   "color": {"a": 1, "rgb": 16777215}},
+        ],
+        "collapse-display": False, "showArrow": False, "textFadeMultiplier": 0,
+        "nodeSizeMultiplier": 1, "lineSizeMultiplier": 1, "collapse-forces": False,
+        "centerStrength": 0.5, "repelStrength": 10, "linkStrength": 1,
+        "linkDistance": 250, "scale": 1,
+    }
+    with open(os.path.join(WIKI_DIR, '.obsidian', 'graph.json'), 'w') as f:
+        json.dump(config, f, indent=2)
+
+
 def generate_index_page(db):
     """Generate the root navigation page — minimal hub."""
     total_facts = db.execute("SELECT COUNT(*) FROM fact").fetchone()[0]
@@ -446,6 +471,9 @@ def generate_index_page(db):
 
     # ── Bodies index page ─────────────────────────────────────────────────
     generate_bodies_page(db)
+
+    # ── Obsidian graph color config ──────────────────────────────────────
+    generate_graph_config()
 
 
 def generate_bodies_page(db):
