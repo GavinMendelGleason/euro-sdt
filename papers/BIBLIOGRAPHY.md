@@ -151,6 +151,6 @@ Status: **[VERIFIED]** = cross-checked by `check_citations.py`. **[NEED PDF]** =
 
 | Status | Citation | Supports Claim |
 |---|---|---|
-| **[HAVE, MANUAL]** | Mills, C. Wright (1956). *The Power Elite.* Oxford University Press. | Elite network research historically relied on manual archival methods |
+| **[HAVE, OCR/MANUAL]** | Mills, C. Wright (1956). *The Power Elite.* Oxford University Press. | Elite network research historically relied on manual archival methods |
 | **[HAVE, VERIFIED]** | Ji, Ziwei et al. (2022). "Survey of Hallucination in Natural Language Generation." *ACM Computing Surveys* 55.12, 1–38. | LLMs generate plausible-sounding but factually incorrect claims |
 | **[HAVE, VERIFIED]** | Zhang, Jiajie et al. (2024). "LongCite." arXiv:2409.02897. | LLMs can reliably anchor claims to specific source sentences when constrained |

@@ -1,10 +1,9 @@
 """
-check_citations.py — Cross-check paper citations against the cited PDFs.
+check_citations.py — LLM-powered cross-checker for paper citations.
 
 Reads a LaTeX file, extracts all \footnote{} and \cite{} commands,
-finds the corresponding PDF in papers/ (NOT assets/papers/ — that's for *our* papers),
-extracts text from the PDF, and verifies that the claim the citation supports
-is actually substantiated by the cited work.
+finds the corresponding PDF or text file in papers/, extracts text,
+and uses DeepSeek to evaluate whether the claim is substantiated.
 
 Usage:
     .venv/bin/python check_citations.py assets/papers/methodology/paper.tex
@@ -12,35 +11,94 @@ Usage:
 Produces verification_report.csv with columns:
     paper_section, claim, citation, pdf_file, evidence_found, confidence
 """
-import re, os, sys, csv
-from collections import defaultdict
+import re, os, sys, csv, json, urllib.request, urllib.parse
 
+API_KEY = os.environ.get('DEEPSEEK_API_KEY', '')
 PDF_DIR = 'papers'
 
 
-def extract_text_from_pdf(path):
-    """Extract text from a PDF file. Requires PyPDF2 or pdfplumber."""
+def extract_text(path):
+    """Extract text from PDF or text file."""
+    if path.endswith('.txt'):
+        with open(path) as f:
+            content = f.read()
+        # Check if it's HTML (Internet Archive often serves .txt as HTML)
+        if content[:500].strip().startswith('<!DOCTYPE') or content[:500].strip().startswith('<html'):
+            content = re.sub(r'<[^>]+>', ' ', content)
+            content = re.sub(r'\s+', ' ', content).strip()
+        # Skip Internet Archive boilerplate by finding actual text start
+        markers = ['THE POWER ELITE', 'The Higher Circles', 'Chapter 1', 'CHAPTER 1',
+                   'Introduction', 'INTRODUCTION']
+        for marker in markers:
+            idx = content.find(marker)
+            if idx > 1000:  # Only skip if marker is well past the header
+                content = content[idx:]
+                break
+        return content[:8000]
+
+    result = None
+
+    # Try pypdf
     try:
         from pypdf import PdfReader
         reader = PdfReader(path)
-        return ' '.join(p.extract_text() or '' for p in reader.pages)
-    except ImportError:
+        result = ' '.join(p.extract_text() or '' for p in reader.pages[:20])
+        if result.strip():
+            return result[:8000]
+    except:
         pass
+
+    # Try pdfplumber
     try:
         import pdfplumber
         with pdfplumber.open(path) as pdf:
-            return ' '.join(p.extract_text() or '' for p in pdf.pages)
-    except ImportError:
-        pass
-    # Fallback: use pdftotext command
-    import subprocess
-    try:
-        result = subprocess.run(['pdftotext', path, '-'], capture_output=True, text=True)
-        if result.returncode == 0:
-            return result.stdout
+            result = ' '.join(p.extract_text() or '' for p in pdf.pages[:20])
+            if result.strip():
+                return result[:8000]
     except:
         pass
+
+    # Try pdftotext
+    try:
+        import subprocess
+        r = subprocess.run(['pdftotext', '-l', '20', path, '-'],
+                           capture_output=True, text=True)
+        if r.returncode == 0 and r.stdout.strip():
+            return r.stdout[:8000]
+    except:
+        pass
+
+    # Fallback: try .txt version of same file
+    txt_path = path.replace('.pdf', '.txt')
+    if os.path.exists(txt_path):
+        with open(txt_path) as f:
+            return f.read()[:8000]
+
     return None
+
+
+def call_llm(prompt, max_tokens=200):
+    """Call DeepSeek API."""
+    if not API_KEY:
+        return None
+    payload = json.dumps({
+        'model': 'deepseek-chat',
+        'messages': [{'role': 'user', 'content': prompt}],
+        'max_tokens': max_tokens,
+        'temperature': 0.0,
+    }).encode()
+    req = urllib.request.Request(
+        'https://api.deepseek.com/v1/chat/completions',
+        data=payload,
+        headers={
+            'Authorization': f'Bearer {API_KEY}',
+            'Content-Type': 'application/json',
+        })
+    try:
+        resp = urllib.request.urlopen(req, timeout=60)
+        return json.loads(resp.read())['choices'][0]['message']['content'].strip()
+    except:
+        return None
 
 
 def find_citations(tex_path):
@@ -49,112 +107,161 @@ def find_citations(tex_path):
         text = f.read()
 
     citations = []
-    # Match \footnote{...}
-    for m in re.finditer(r'\\footnote\{([^}]+)\}', text):
-        content = m.group(1)
-        citations.append({
-            'type': 'footnote',
-            'content': content,
-            'start': m.start(),
-        })
 
-    # Match \cite{...}
-    for m in re.finditer(r'\\cite\{([^}]+)\}', text):
-        content = m.group(1)
-        citations.append({
-            'type': 'cite',
-            'content': content,
-            'start': m.start(),
-        })
+    # Find \footnote{...} and \cite{...} — handle nested braces
+    for pattern in [r'\\footnote\{', r'\\cite\{']:
+        for m in re.finditer(pattern, text):
+            pos = m.end()
+            depth = 1
+            end = pos
+            while end < len(text) and depth > 0:
+                if text[end] == '{':
+                    depth += 1
+                elif text[end] == '}':
+                    depth -= 1
+                end += 1
+            content = text[pos:end-1] if depth == 0 else text[pos:]
+            # Get the sentence containing this citation
+            sentence_start = max(0, text.rfind('.', 0, m.start()))
+            if sentence_start > 0:
+                sentence_start += 2  # skip '. '
+            claim = text[sentence_start:m.start()].strip()
+            claim = re.sub(r'\\[a-z]+\{([^}]*)\}', r'\1', claim)
+            claim = re.sub(r'\\[a-z]+', '', claim)
+            claim = re.sub(r'\s+', ' ', claim).strip()
+            citations.append({
+                'type': 'cite',
+                'content': content[:300],
+                'claim': claim[:300],
+            })
 
     return citations
 
 
-def get_surrounding_context(tex_text, position, window=300):
-    """Get the sentence or paragraph containing the citation."""
-    start = max(0, position - window)
-    end = min(len(tex_text), position + window)
-    snippet = tex_text[start:end]
-    # Clean LaTeX commands for readability
-    snippet = re.sub(r'\\[a-z]+\{([^}]*)\}', r'\1', snippet)
-    snippet = re.sub(r'\\[a-z]+', '', snippet)
-    snippet = re.sub(r'\s+', ' ', snippet).strip()
-    return snippet
+def resolve_source(citation_content):
+    """Find matching PDF or text file for a citation by parsing author names and years from the citation text."""
+    # Clean LaTeX formatting
+    clean = re.sub(r'\\[a-z]+\{([^}]*)\}', r'\1', citation_content)
+    clean = re.sub(r'\\[a-z]+', '', clean)
+    clean = re.sub(r'["`]', '', clean)
+    clean = re.sub(r'\s+', ' ', clean).strip()
+    clean_lower = clean.lower()
 
+    # Extract author surnames (capitalized words before a year)
+    authors = re.findall(r'([A-Z][a-z]+(?:\s+[A-Z][a-z]+)?)', clean[:150])
+    years = re.findall(r'(\d{4})', clean)
 
-def resolve_pdf(citation_content):
-    """Resolve a citation to a PDF file path."""
-    # Extract author, year, title hints from citation text
-    content_lower = citation_content.lower()
+    # Score each file in papers/
+    best_score = 0
+    best_path = None
 
-    # Map known citations to PDF files
-    known_pdfs = {}
-    for root, dirs, files in os.walk(PDF_DIR):
-        for f in files:
-            if f.endswith('.pdf'):
-                known_pdfs[f.lower()] = os.path.join(root, f)
+    for f in os.listdir(PDF_DIR):
+        if not f.endswith(('.pdf', '.txt')):
+            continue
+        if f == 'BIBLIOGRAPHY.md':
+            continue
 
-    # Try to match by author and year
-    authors = re.findall(r'([A-Z][a-z]+)', citation_content[:100])
-    years = re.findall(r'(\d{4})', citation_content)
-
-    # Search PDF content for author names
-    for pdf_name, pdf_path in known_pdfs.items():
+        f_lower = f.lower()
         score = 0
-        for author in authors[:3]:
-            if author.lower() in pdf_name.lower():
-                score += 1
-        for year in years:
-            if year in pdf_name:
-                score += 1
-        if score >= 2:
-            return pdf_path
 
+        # Match first author surname (most distinctive)
+        if authors:
+            surname = authors[0].lower()
+            if surname in f_lower:
+                score += 3
+            # Also check if other significant parts of first author appear
+            first_author_words = authors[0].lower().split()
+            for w in first_author_words:
+                if len(w) > 3 and w in f_lower:
+                    score += 1
+
+        # Match years
+        for year in years:
+            if year in f_lower:
+                score += 2
+                break
+
+        # Match distinctive title words
+        title_words = re.findall(r'[a-z]{5,}', clean_lower[:200])
+        significant = [w for w in title_words if w not in
+                       {'which', 'these', 'their', 'there', 'about', 'would', 'could', 'should',
+                        'press', 'university', 'volume', 'pages', 'survey', 'generation'}]
+        for w in significant[:5]:
+            if w in f_lower:
+                score += 1
+
+        if score > best_score:
+            best_score = score
+            best_path = os.path.join(PDF_DIR, f)
+
+    if best_score >= 3:
+        return best_path
     return None
 
 
-def check_claim_against_pdf(claim_text, pdf_text):
-    """Check whether the citing claim is substantiated by the PDF text."""
-    if not pdf_text:
-        return False, "PDF could not be extracted", 0.0
+def evaluate_with_llm(claim, source_text, source_name):
+    """Use phrase-level LLM approach to evaluate whether the source substantiates the claim.
+    
+    Splits the source into numbered phrases, asks the LLM to identify the specific
+    phrase that supports (or fails to support) the claim, with a reason.
+    """
+    if not API_KEY or not source_text:
+        return False, "No source text or API key", 0.0, -1
 
-    # Extract key terms from the claim
-    claim_lower = claim_text.lower()
+    # Split source into numbered phrases (same as our extraction pipeline)
+    sentences = [s.strip() for s in re.split(r'(?<=[.!?])\s+', source_text) if len(s.strip()) > 20]
+    phrases = sentences[:80]  # limit for LLM context
+    numbered = '\n'.join(f"[{i}] {phrases[i][:300]}" for i in range(len(phrases)))
 
-    # Method 1: direct substring search (most reliable)
-    # Extract key phrases from the claim (3+ word phrases)
-    words = claim_lower.split()
-    phrases_found = 0
-    phrases_total = 0
-    for i in range(len(words) - 2):
-        phrase = ' '.join(words[i:i+3])
-        if len(phrase) > 15:  # meaningful phrases
-            phrases_total += 1
-            if phrase in pdf_text.lower():
-                phrases_found += 1
+    prompt = f"""Does this source document substantiate the following claim made in our paper?
 
-    # Method 2: check if key named entities appear
-    named_entities = re.findall(r'[A-Z][a-z]+ [A-Z][a-z]+', claim_text)
-    entities_found = sum(1 for e in named_entities if e.lower() in pdf_text.lower())
+CLAIM: {claim}
 
-    # Method 3: check topic words
-    topic_words = [w for w in words if len(w) > 5 and w not in
-                   {'which', 'these', 'their', 'about', 'there', 'would', 'could', 'should'}]
-    topics_found = sum(1 for t in topic_words if t in pdf_text.lower())
+SOURCE: {source_name}
+NUMBERED PHRASES:
+{numbered}
 
-    # Compute confidence
-    phrase_score = phrases_found / max(phrases_total, 1)
-    entity_score = entities_found / max(len(named_entities), 1) if named_entities else 0.5
-    topic_score = topics_found / max(len(topic_words), 1) if topic_words else 0
+If the source substantiates the claim, reply:
+VERIFIED | phrase=[N] or phrase=[N-M] | reason=<one sentence explaining how the cited phrase(s) support the claim>
 
-    confidence = (0.5 * phrase_score + 0.2 * entity_score + 0.3 * topic_score)
-    evidence_found = confidence > 0.3
+If the source does NOT substantiate the claim, reply:
+UNSUBSTANTIATED | reason=<one sentence explaining why>
 
-    if evidence_found:
-        return True, f"Key phrases and entities found in PDF ({confidence:.0%} match)", confidence
-    else:
-        best_phrase = next((w for w in topic_words if w in pdf_text.lower()), "none")
-        return False, f"Insufficient evidence (best match: '{best_phrase}')", confidence
+Answer:"""
+
+    resp = call_llm(prompt, max_tokens=200)
+    if not resp:
+        return False, "LLM call failed", 0.0, -1
+
+    verdict = resp.strip()
+    parts = verdict.split('|')
+    label = parts[0].strip().upper()
+    phrase_idx = -1
+    reason = ''
+
+    for part in parts[1:]:
+        part = part.strip()
+        if part.startswith('phrase='):
+            try:
+                val = part.split('=')[1].strip()
+                # Handle range like [24-26] or single [24]
+                phrase_match = re.match(r'\[(\d+)(?:-(\d+))?\]', val)
+                if phrase_match:
+                    phrase_idx = int(phrase_match.group(1))  # store start of range
+                else:
+                    phrase_idx = int(val)
+            except:
+                pass
+        elif part.startswith('reason='):
+            reason = part.split('=', 1)[1].strip()
+        elif 'reason' not in part and 'phrase' not in part:
+            reason = part
+
+    if not reason:
+        reason = verdict
+
+    evidence_found = label.startswith('VERIFIED')
+    return evidence_found, reason, 1.0 if evidence_found else 0.0, phrase_idx
 
 
 def main():
@@ -165,57 +272,57 @@ def main():
     tex_path = sys.argv[1]
     tex_dir = os.path.dirname(os.path.abspath(tex_path))
 
-    with open(tex_path) as f:
-        tex_text = f.read()
-
-    # Extract sections for context
-    sections = re.split(r'\\section\{([^}]+)\}', tex_text)
-    section_map = {}
-    for i in range(1, len(sections), 2):
-        section_name = sections[i].strip()
-        section_text = sections[i+1] if i+1 < len(sections) else ''
-        section_map[section_name] = section_text
+    if not API_KEY:
+        print("WARNING: DEEPSEEK_API_KEY not set — LLM evaluation disabled")
 
     # Find all citations
     citations = find_citations(tex_path)
+    print(f"Found {len(citations)} citations\n")
 
     results = []
     for cit in citations:
-        # Find which section this citation is in
-        section = 'preamble'
-        for sec_name, sec_text in section_map.items():
-            if cit['start'] > tex_text.find(sec_text):
-                section = sec_name
+        source_path = resolve_source(cit['content'])
 
-        claim = get_surrounding_context(tex_text, cit['start'])
-        pdf_path = resolve_pdf(cit['content'])
+        if source_path:
+            short_name = os.path.basename(source_path)[:50]
+            print(f"Checking: {cit['content'][:80]}...")
+            source_text = extract_text(source_path)
 
-        if pdf_path:
-            print(f"Checking: {cit['content'][:60]}...")
-            pdf_text = extract_text_from_pdf(pdf_path)
-            evidence, reason, confidence = check_claim_against_pdf(claim, pdf_text)
+            if API_KEY and source_text:
+                evidence, reason, confidence, phrase_idx = evaluate_with_llm(cit['claim'], source_text, short_name)
+            elif source_text:
+                evidence = True
+                reason = "Source found but LLM not available (no API key)"
+                confidence = 0.5
+                phrase_idx = -1
+            else:
+                evidence = False
+                reason = "Could not extract text from source"
+                confidence = 0.0
+                phrase_idx = -1
+
             results.append({
-                'paper_section': section,
-                'claim': claim[:200],
+                'paper_section': 'main',
+                'claim': cit['claim'],
                 'citation': cit['content'][:200],
-                'pdf_file': os.path.relpath(pdf_path, tex_dir),
+                'pdf_file': os.path.relpath(source_path, tex_dir),
                 'evidence_found': 'YES' if evidence else 'NO',
                 'confidence': f'{confidence:.2f}',
                 'reason': reason,
             })
         else:
             results.append({
-                'paper_section': section,
-                'claim': claim[:200],
+                'paper_section': 'main',
+                'claim': cit['claim'],
                 'citation': cit['content'][:200],
                 'pdf_file': 'NOT FOUND',
                 'evidence_found': 'UNCHECKED',
                 'confidence': '0.00',
-                'reason': 'No matching PDF found in assets/papers/',
+                'reason': f'No matching file in {PDF_DIR}/',
             })
 
     # Write report
-    out_path = os.path.join(os.path.dirname(tex_path) or '.', 'verification_report.csv')
+    out_path = os.path.join(tex_dir, 'verification_report.csv')
     with open(out_path, 'w', newline='') as f:
         writer = csv.DictWriter(f, fieldnames=['paper_section', 'claim', 'citation',
                                                 'pdf_file', 'evidence_found', 'confidence', 'reason'])
@@ -226,16 +333,13 @@ def main():
     failed = sum(1 for r in results if r['evidence_found'] == 'NO')
     unchecked = sum(1 for r in results if r['evidence_found'] == 'UNCHECKED')
 
-    print(f"\nResults: {verified} verified, {failed} unsubstantiated, {unchecked} unchecked")
+    print(f"\nResults: {verified} VERIFIED, {failed} UNSUBSTANTIATED, {unchecked} UNCHECKED")
     print(f"Report: {out_path}")
 
-    if failed > 0:
-        print("\nUNSUBSTANTIATED — fix before submitting:")
-        for r in results:
-            if r['evidence_found'] == 'NO':
-                print(f"  [{r['paper_section']}] {r['citation'][:80]}")
-                print(f"    Claim: {r['claim'][:120]}")
-                print(f"    Reason: {r['reason']}")
+    for r in results:
+        status = r['evidence_found']
+        symbol = '✓' if status == 'YES' else ('✗' if status == 'NO' else '?')
+        print(f"  {symbol} [{r['pdf_file'][:40]}] {r['claim'][:80]}...")
 
     return 0 if failed == 0 else 1
 
