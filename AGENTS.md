@@ -49,7 +49,7 @@ Usage:
 
 Produces `verification_report.csv` with columns: `paper_section, claim, citation, pdf_file, evidence_found, confidence`.
 
-**Before any paper is submitted or committed, run `check_citations.py` and resolve all UNSUBSTANTIATED findings.**
+**After adding or modifying any citation, run `check_citations.py` before committing.** The checker uses LLM-powered phrase-level verification with confidence scoring (1-5 scale). All citations must achieve confidence ≥ 3 before submission.
 
 The paper bibliography is maintained in `papers/BIBLIOGRAPHY.md` — all cited works must be cataloged there with verification status.
 
