@@ -250,14 +250,14 @@ def organisation_page(db, entity_id):
                 lines.append(f'- {fact["object"]}')
     lines.append('')
 
-    # Members
+    # Members (both member_of and affiliated_with)
     members = db.execute(
         "SELECT e.id, e.name FROM fact f JOIN entity e ON e.id = f.entity_id "
-        "WHERE f.predicate = 'member_of' AND f.object = ? ORDER BY e.name",
+        "WHERE f.predicate IN ('member_of', 'affiliated_with') AND f.object = ? ORDER BY e.name",
         (entity_id,)).fetchall()
     if members:
         lines.append('## Members')
-        lines.append(f'({len(members)} commissioners/officials)')
+        lines.append(f'({len(members)} people)')
         lines.append('')
         for mid, mname in members:
             safe = slugify(mname)
