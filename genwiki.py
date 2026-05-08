@@ -203,6 +203,26 @@ def is_valid_institution_name(name):
     return True
 
 
+def is_valid_org_name(name):
+    """Reject section headings, boilerplate, and text snippets masquerading as org names."""
+    name_lower = name.lower().strip()
+    heading_markers = [
+        'biography and career', 'memberships of', 'honorary titles', 'titles and awards',
+        'curriculum vitae', 'professional experience', 'education and training',
+        'publications', 'languages', 'see also', 'references', 'external links',
+        'show more', 'show less', 'related links', 'and career', 'born in',
+        'obtained a', 'completed a', 'graduated from', 'studied at',
+        'mr ', 'president of', 'judge at', 'appointed as',
+    ]
+    if len(name) > 150:
+        return False
+    if any(m in name_lower for m in heading_markers):
+        return False
+    if name_lower.startswith(('in ','on ','he ','the ','born ','mr ')):
+        return False
+    return True
+
+
 def frontmatter(fields):
     """Generate YAML frontmatter."""
     lines = ['---']
