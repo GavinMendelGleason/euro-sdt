@@ -22,7 +22,21 @@ Crucially, hallucination is primarily a property of \emph{generation}---the task
 
 This paper describes a methodology that treats the LLM as an extraction engine, not an authority. Every fact in our database is linked to a specific sentence in a specific document via a phrase index. The LLM's output is a hypothesis, verified against the source before acceptance. The system currently holds 2,600+ facts across 550+ entities with sentence-level provenance, supporting analysis of seven European Commissions from Santer (1995) through Von der Leyen II (2024--2029).
 
-\section{The Hallucination Problem}
+
+\section{The European Elite Problem}
+
+\emph{[Section by Donagh Davis, Sciences Po]}
+
+The European Union produces a political class that is neither national nor fully supranational. Commissioners are nominated by member states, MEPs are elected in national constituencies, and Directors-General are recruited through national quotas---yet all operate within transnational institutional frameworks and networks. This hybrid character creates fundamental challenges for elite analysis.
+
+First, there is no settled definition of who constitutes the ``European elite.'' Is it the college of commissioners? The broader senior civil service? MEPs who hold committee chairs and rapporteurships? The corporate leaders who sit on the boards of multi-European companies? Different answers produce different datasets and different conclusions.
+
+Second, the sources of elite formation are distributed across 27 member states, each with distinct educational systems, career pathways, and political cultures. A French commissioner trained at ENA followed a systematically different trajectory from a Swedish commissioner who rose through local government, yet both occupy the same institutional position.
+
+Third, the networks that connect these elites span national boundaries and institutional sectors in ways that are difficult to observe directly. Commissioner affiliations with Atlanticist think tanks, MEP memberships in political foundations, and corporate board interlocks all constitute evidence of elite integration, but capturing this evidence requires aggregating data across languages, jurisdictions, and source types.
+
+Our approach addresses these challenges through systematic data collection from controlled sources, phrase-level provenance tracking, and automated cross-validation---methods designed for precisely the kind of fragmented, multi-source evidence that European elite research demands.
+\section{Methodology}
 
 LLMs hallucinate because they generate text by sampling from a learned probability distribution over tokens. When the model lacks grounding in external facts, this distribution can produce plausible-sounding but incorrect statements \cite{ji2022}. Manakul et al. (2023) demonstrate that hallucinated outputs are detectable through self-consistency: when an LLM is asked the same question multiple times, hallucinated answers tend to diverge and contradict each other, while factual answers remain consistent across samples \cite{manakul2023}. This reveals that hallucination is a property of \emph{unconstrained} generation: the model's internal distribution over tokens is underdetermined by the prompt, and stochastic variance produces divergent outputs.
 
@@ -30,7 +44,7 @@ Crucially, Kadavath et al. (2022) show that LLMs are substantially better at \em
 
 LongCite (2024) provides direct evidence that LLMs can reliably anchor claims to specific source sentences when trained and prompted to do so \cite{zhang2024}. Our methodology extends this insight: by numbering phrases and requiring the LLM to return a phrase index for each extracted fact, we build a system in which every claim in the database is traceable to a specific sentence in a source document. The LLM acts not as a knowledge base but as a structured extraction engine with mandatory provenance.
 
-\section{System Architecture}
+\subsection{System Architecture}
 
 The pipeline has five stages: scrape, extract, verify, resolve, and render.
 
@@ -62,7 +76,7 @@ The core innovation is phrase-indexed extraction. Rather than sending an article
 
 The manifest preserves the LLM's full output including reasoning and phrase indices, making extraction auditable and reproducible.
 
-\section{Failure Modes}
+\subsection{Failure Modes}
 
 We encountered three categories of failure:
 
@@ -79,6 +93,7 @@ Running identical prompts on the same source text produced different sets of ext
 String similarity alone is dangerous for deduplication. The sequence ``CFR'' vs ``ECFR'' scores 0.857 on difflib---above many reasonable thresholds---yet one is the US Council on Foreign Relations and the other is the European Council on Foreign Relations. Pure auto-merge at any threshold below 0.95 would incorrectly collapse them.
 
 Our two-pass approach combines string similarity for safe cases ($\geq 0.95$: typos, punctuation) with LLM judging for borderline pairs ($0.30$--$0.95$). The LLM receives both raw names \emph{plus} up to three evidence phrases from each side with extracted role and reasoning. It correctly distinguishes CFR and ECFR based on the evidence context (US vs European foreign policy), while correctly merging ``Radio Netherlands'' with ``Radio Netherlands Worldwide'' (rename detected) and ``FEPS'' with ``Foundation for European Progressive Studies'' (acronym expansion). Every decision is logged with similarity scores, evidence excerpts, and reasoning.
+
 
 \section{Findings}
 
@@ -99,6 +114,7 @@ Only six of 150 commissioners held EP leadership positions (President, Vice Pres
 \section{Future Work: Transnational Corporate Elites}
 
 The present study focuses on political-administrative elites: commissioners, Directors-General, and MEP leaders. A natural extension applies the same methodology to transnational corporate elites---the boards and CEOs of companies with substantial operations in two or more major European countries. These individuals sit at the intersection of economic power and political access, often appearing in the same elite networks (Bilderberg, Trilateral Commission, WEF) that connect commissioners. The phrase-level extraction pipeline is directly applicable to corporate biographies, and the same provenance discipline would produce an auditable map of corporate-political elite interlock at the European level. This work is planned as a subsequent phase of the project.
+
 
 \section{Wiki Output and Human Review}
 
