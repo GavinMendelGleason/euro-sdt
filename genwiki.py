@@ -17,7 +17,7 @@ Directory structure:
 Usage:
     python genwiki.py
 """
-import sqlite3, os, re, json
+import sqlite3, os, re, json, unicodedata
 from datetime import date
 
 DB_PATH = 'euro_sdt.db'
@@ -62,29 +62,15 @@ CC = {
     'SVK':'Slovakia','SVN':'Slovenia','SWE':'Sweden',
 }
 
-# Education cluster definitions — only genuine elite pipelines, not national groupings.
-# Institutions with 3+ attendees get individual pages. Clusters only where
-# multiple institutions form a coherent elite circuit (e.g. Oxbridge, Sciences Po/ENA).
+# Education cluster definitions — manually curated for elite pipeline groupings.
+# Individual institutions with 3+ attendees get auto-generated pages.
 EDUCATION_CLUSTERS = [
-    ('college-of-europe',     r'college of europe|college of bruges'),
-    ('harvard-ivy',           r'harvard|yale|georgetown|mit\b|edmund a. walsh'),
     ('oxbridge',              r'oxford|cambridge'),
     ('sciences-po-ena',       r'sciences po|sciences-po|iep\b.*paris|\bena\b|ecole nationale.*admin|enarque'),
-    # Individual elite-signalling institutions with 3+ attendees
-    ('lse',                   r'london school of economics|\blse\b(?!.*conseil|.*false)'),
-    ('ucl',                   r'university college london\b(?!.*louvain)'),
-    ('ecole-polytechnique',    r'école polytechnique\b(?!.*fédérale)'),
-    ('insead',                 r'\binsead\b'),
-    ('bocconi',               r'\bbocconi\b'),
-    ('sgh-warsaw',            r'sgh warsaw|warsaw school of economics'),
-    ('university-of-bonn',    r'university of bonn\b|uni bonn|rheinische.*bonn'),
-    ('university-of-cologne', r'university of cologne|universität zu köln'),
-    ('trinity-college-dublin', r'trinity college dublin|trinity college – dublin'),
 ]
 
 
 def slugify(text):
-    import unicodedata
     text = unicodedata.normalize('NFD', text)
     text = ''.join(c for c in text if unicodedata.category(c) != 'Mn')
     text = re.sub(r'[^a-zA-Z0-9\s\-]', '', text)
@@ -482,13 +468,43 @@ def generate_all(db):
                 f.write(page)
             count += 1
 
-    # Education cluster pages
+    # Education cluster pages (manual pipelines)
     for cluster_id, pattern in EDUCATION_CLUSTERS:
         page = education_cluster_page(db, cluster_id, pattern)
         if page:
             path = os.path.join(WIKI_DIR, 'education', f'{cluster_id}.md')
             with open(path, 'w') as f:
                 f.write(page)
+
+    # Auto-generated pages for any institution with 3+ attendees
+    auto_count = 0
+    for row in db.execute("""
+        SELECT obj.name, obj.id, COUNT(DISTINCT f.entity_id) as n
+        FROM fact f JOIN entity obj ON obj.id = f.object
+        WHERE f.predicate = 'educated_at'
+        GROUP BY obj.name HAVING n >= 3 ORDER BY n DESC
+    """).fetchall():
+        inst_name, inst_id, count = row
+        # Generate a slug from the institution name
+        cluster_id = slugify(inst_name)
+        
+        # Skip if already covered by a manual cluster
+        already = False
+        for cid, pattern in EDUCATION_CLUSTERS:
+            if re.search(pattern, inst_name.lower()):
+                already = True; break
+        
+        if not already:
+            # Create a page using the exact institution name as pattern
+            pattern = re.escape(inst_name.lower())
+            page = education_cluster_page(db, cluster_id, pattern)
+            if page:
+                path = os.path.join(WIKI_DIR, 'education', f'{cluster_id}.md')
+                with open(path, 'w') as f:
+                    f.write(page)
+                auto_count += 1
+                if auto_count <= 5:
+                    print(f'  Auto: {inst_name[:40]} ({count} attendees) → {cluster_id[:40]}.md')
 
     # Country pages
     cc_count = 0
@@ -511,7 +527,7 @@ def generate_all(db):
         with open(path, 'w') as f:
             f.write('\n'.join(lines))
 
-    print(f'Generated {count} entity pages + {len(EDUCATION_CLUSTERS)} education + {cc_count} country pages')
+    print(f'Generated {count} entity pages + {len(EDUCATION_CLUSTERS) + auto_count} education + {cc_count} country pages')
 
     # ── Index page ───────────────────────────────────────────────────────
     generate_index_page(db)
@@ -711,6 +727,31 @@ def generate_bodies_page(db):
     for cid, _ in EDUCATION_CLUSTERS:
         label = cid.replace('-', ' ').title()
         edu_lines.append(f'- [{label}](../education/{cid}.md)')
+    
+    # Also list all auto-generated institution pages (3+ attendees)
+    edu_lines.append('')
+    edu_lines.append('## Individual Institutions')
+    edu_lines.append('')
+    seen_insts = set()
+    for row in db.execute("""
+        SELECT obj.name, COUNT(DISTINCT f.entity_id) as n, obj.id
+        FROM fact f JOIN entity obj ON obj.id = f.object
+        WHERE f.predicate = 'educated_at'
+        GROUP BY obj.name HAVING n >= 3 ORDER BY n DESC
+    """).fetchall():
+        inst_name, count, inst_id = row
+        cluster_id = slugify(inst_name)
+        if cluster_id in seen_insts: continue
+        seen_insts.add(cluster_id)
+        
+        # Skip if already in manual clusters
+        skip = False
+        for cid, pattern in EDUCATION_CLUSTERS:
+            if re.search(pattern, inst_name.lower()): skip = True; break
+        if skip: continue
+        
+        edu_lines.append(f'- [{inst_name}](../education/{cluster_id}.md) — {count}')
+    
     edu_lines.append('')
     with open(os.path.join(WIKI_DIR, 'bodies/education-clusters.md'), 'w') as f:
         f.write('\n'.join(edu_lines))
