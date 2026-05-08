@@ -187,6 +187,22 @@ def get_person_tags(category):
     return mapping.get(category, ['person', category or 'unknown'])
 
 
+def is_valid_institution_name(name):
+    """Reject LLM meta-responses masquerading as institution names."""
+    name_lower = name.lower().strip()
+    garbage_markers = [
+        'not specified', 'implied by context', 'not explicitly', 'without naming',
+        'the text', 'unnamed', 'unknown', 'not mentioned', 'unclear',
+        'none listed', 'not found', 'n/a', 'various', 'several', 'multiple',
+        'the source', 'unable to', 'cannot be determined',
+    ]
+    if len(name) > 150:  # text snippet
+        return False
+    if any(m in name_lower for m in garbage_markers):
+        return False
+    return True
+
+
 def frontmatter(fields):
     """Generate YAML frontmatter."""
     lines = ['---']
@@ -486,6 +502,9 @@ def generate_all(db):
         GROUP BY obj.name HAVING n >= 3 ORDER BY n DESC
     """).fetchall():
         inst_name, inst_id, attendee_count = row
+        # Skip garbage institution names
+        if not is_valid_institution_name(inst_name):
+            continue
         # Generate a slug from the institution name
         cluster_id = slugify(inst_name)
         
