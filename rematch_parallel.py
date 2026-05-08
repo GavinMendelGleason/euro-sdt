@@ -28,7 +28,7 @@ CONTEXT = {
 
 def call_llm(prompt):
     if not API_KEY: return None
-    payload = json.dumps({'model':'deepseek-chat','messages':[{'role':'user','content':prompt}],'max_tokens':20,'temperature':0.0}).encode()
+    payload = json.dumps({'model':'deepseek-v4-pro','messages':[{'role':'user','content':prompt}],'max_tokens':20,'temperature':0.0}).encode()
     req = urllib.request.Request(API_URL, data=payload, headers={'Authorization':f'Bearer {API_KEY}','Content-Type':'application/json','User-Agent':'euro-sdt/1.0'})
     try:
         resp = urllib.request.urlopen(req, timeout=45)

@@ -53,7 +53,7 @@ def call_deepseek(prompt, max_tokens=200, timeout=30):
         return None
 
     payload = json.dumps({
-        'model': 'deepseek-chat',
+        'model': 'deepseek-v4-pro',
         'messages': [{'role': 'user', 'content': prompt}],
         'max_tokens': max_tokens,
         'temperature': 0.0,  # deterministic for fact verification
