@@ -79,6 +79,7 @@ EDUCATION_CLUSTERS = [
     ('sgh-warsaw',            r'sgh warsaw|warsaw school of economics'),
     ('university-of-bonn',    r'university of bonn\b|uni bonn|rheinische.*bonn'),
     ('university-of-cologne', r'university of cologne|universität zu köln'),
+    ('trinity-college-dublin', r'trinity college dublin|trinity college – dublin'),
 ]
 
 
