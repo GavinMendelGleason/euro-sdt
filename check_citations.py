@@ -82,7 +82,7 @@ def call_llm(prompt, max_tokens=200):
     if not API_KEY:
         return None
     payload = json.dumps({
-        'model': 'deepseek-v4-pro',
+        'model': 'deepseek-chat',
         'messages': [{'role': 'user', 'content': prompt}],
         'max_tokens': max_tokens,
         'temperature': 0.0,
