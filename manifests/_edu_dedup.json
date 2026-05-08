@@ -1,1412 +1,932 @@
 {
-  "raw_count": 347,
-  "canonical_count": 338,
+  "raw_count": 344,
+  "canonical_count": 311,
   "auto_merged": {
-    "Antwerp University - Ufsia – Antwerp, Belgium": [
-      "Antwerp University - Ufsia – Antwerp, Belgium",
-      "Antwerp University – Uia – Antwerp, Belgium"
+    "Charles University": [
+      "Charles University",
+      "Yale University"
     ],
-    "Bucharest Academy Of Economic Studies": [
-      "Bucharest Academy Of Economic Studies",
-      "Bucharest University Of Economic Studies"
+    "Not specified in the provided text": [
+      "Not specified in the provided text",
+      "Not specified in the text"
     ],
-    "Royal University Of Malta": [
-      "Royal University Of Malta",
-      "University Of Malta"
+    "University College Cork": [
+      "University College Cork",
+      "University College Cork (UCC)"
     ],
-    "Trinity College Dublin - Dublin": [
-      "Trinity College Dublin - Dublin",
-      "Trinity College – Dublin",
-      "Trinity College – Dublin, Ireland"
+    "University College London": [
+      "University College Dublin",
+      "University College London"
     ],
-    "University Of Vienna": [
+    "University Of Deusto": [
+      "University Of Deusto",
+      "University of Utah"
+    ],
+    "University Of Oxford": [
+      "University Of Athens",
+      "University Of Bari",
+      "University Of Cambridge",
+      "University Of Ghent",
+      "University Of Helsinki",
+      "University Of Latvia",
+      "University Of Lisbon",
+      "University Of Liège",
+      "University Of Mainz",
+      "University Of Oxford",
+      "University Of Porto",
+      "University Of Reading",
+      "University Of Rennes",
+      "University Of Rome",
+      "University Of Tampere",
+      "University Of Tartu",
+      "University Of Utrecht",
       "University Of Vienna",
-      "University Of Vienna/Austria"
-    ],
-    "University Of Warsaw": [
       "University Of Warsaw",
-      "University Of Warsaw, Poland"
+      "University of Barcelona",
+      "University of Bonn",
+      "University of Cologne",
+      "University of London",
+      "University of Milan",
+      "University of Namur",
+      "University of Tübingen",
+      "University of Zagreb"
     ],
-    "Université Libre De Bruxelles": [
-      "Université Libre De Bruxelles",
-      "Université Libre De Bruxelles (Ulb)"
+    "Victoria University Of Manchester": [
+      "University Of Manchester",
+      "Victoria University Of Manchester"
     ],
-    "Vrije Universiteit Brussel": [
-      "Vrije Universiteit Brussel",
-      "Vrije Universiteit Brussels"
+    "École Polytechnique": [
+      "École Polytechnique",
+      "École polytechnique (Paris)"
     ]
   },
   "llm_decisions": [
     {
-      "raw_a": "Katholieke Universiteit - Leuven, Belgium",
-      "raw_b": "Katholieke Universiteit – Kul – Leuven, Belgium",
-      "similarity": 0.909,
-      "verdict": "DIFFERENT",
-      "reason": "\"KUL\" is a specific acronym for Katholieke Universiteit Leuven, but the inclusion of \"Kul\" in Institution B suggests a possible distinction or error, while Institution A lacks this acronym, implying they may refer to different entities or campuses.",
-      "context_a": [
-        "Herald Ruijters"
-      ],
-      "context_b": [
-        "Koen Doens"
-      ]
-    },
-    {
-      "raw_a": "Université Libre De Bruxelles",
-      "raw_b": "Université Libre De Bruxelles (Ulb)",
-      "similarity": 0.906,
+      "raw_a": "University of Bonn",
+      "raw_b": "University Of Lisbon",
+      "similarity": 0.895,
       "verdict": "SAME",
-      "reason": "\"Université Libre de Bruxelles\" and \"Université Libre de Bruxelles (Ulb)\" are the same institution, with the latter simply including its standard acronym.",
-      "context_a": [
-        "Lorena Boix Alonso"
-      ],
-      "context_b": [
-        "Marc Lemaître"
-      ],
-      "merged_into": "Université Libre De Bruxelles"
+      "reason": "",
+      "context_a": "Günter Verheugen, Günter Verheugen, Monika Wulf-Mathies",
+      "context_b": "António Vitorino, Carlos Moedas, Mário Soares",
+      "merged_into": "University of Bonn"
     },
     {
-      "raw_a": "University Of Lisbon",
-      "raw_b": "University of Bonn",
+      "raw_a": "University of Bonn",
+      "raw_b": "University of London",
       "similarity": 0.895,
       "verdict": "DIFFERENT",
-      "reason": "Institution A refers to the University of Lisbon, while Institution B refers to the University of Bonn — they are separate universities in different countries.",
-      "context_a": [
-        "António Vitorino",
-        "Carlos Moedas"
-      ],
-      "context_b": [
-        "Günter Verheugen",
-        "Günter Verheugen"
-      ]
+      "reason": "",
+      "context_a": "Günter Verheugen, Günter Verheugen, Monika Wulf-Mathies",
+      "context_b": "Diana Wallis, Peter George Xuereb"
     },
     {
       "raw_a": "University Of Tartu",
       "raw_b": "University Of Turku",
       "similarity": 0.895,
       "verdict": "DIFFERENT",
-      "reason": "Tartu is in Estonia, Turku is in Finland — they are distinct universities in different countries.",
-      "context_a": [
-        "Kaja Kallas",
-        "Kadri Simson"
-      ],
-      "context_b": [
-        "Ilkka Salmi"
-      ]
+      "reason": "",
+      "context_a": "Kaja Kallas, Kadri Simson, Andrus Ansip",
+      "context_b": "Ilkka Salmi"
     },
     {
-      "raw_a": "University Of Exeter",
-      "raw_b": "University Of Leicester",
-      "similarity": 0.884,
+      "raw_a": "University of Milan",
+      "raw_b": "University Of Mainz",
+      "similarity": 0.895,
       "verdict": "DIFFERENT",
-      "reason": "The University of Exeter and the University of Leicester are distinct, separate universities in different cities.",
-      "context_a": [
-        "Despina Spanou"
-      ],
-      "context_b": [
-        "Jyrki Katainen"
-      ]
+      "reason": "",
+      "context_a": "Claudio Descalzi",
+      "context_b": "Valdis Dombrovskis"
+    },
+    {
+      "raw_a": "University College Cork",
+      "raw_b": "University College Cork (UCC)",
+      "similarity": 0.885,
+      "verdict": "SAME",
+      "reason": "",
+      "context_a": "Michael McGrath, Phil Hogan",
+      "context_b": "Brian Crowley",
+      "merged_into": "University College Cork"
+    },
+    {
+      "raw_a": "University of Milan",
+      "raw_b": "University of Michigan",
+      "similarity": 0.878,
+      "verdict": "DIFFERENT",
+      "reason": "",
+      "context_a": "Claudio Descalzi",
+      "context_b": "Siniša Rodin"
     },
     {
       "raw_a": "University Of Warsaw",
-      "raw_b": "University Of Wroclaw",
-      "similarity": 0.878,
+      "raw_b": "University Of Wales",
+      "similarity": 0.872,
       "verdict": "DIFFERENT",
-      "reason": "The University of Warsaw and the University of Wroclaw are distinct universities located in different Polish cities.",
-      "context_a": [
-        "Piotr Serafin"
-      ],
-      "context_b": [
-        "Maciej Popowski"
-      ]
+      "reason": "",
+      "context_a": "Piotr Serafin, Agnieszka KAŹMIERCZAK, Jacek Dominik",
+      "context_b": "Joe Borg"
     },
     {
       "raw_a": "University Of Athens",
       "raw_b": "University Of Ghent",
       "similarity": 0.872,
-      "verdict": "DIFFERENT",
-      "reason": "The names refer to different institutions in different countries (Greece vs. Belgium).",
-      "context_a": [
-        "Stavros Dimas",
-        "Markos Kyprianou"
-      ],
-      "context_b": [
-        "Philippe Van Damme"
-      ]
+      "verdict": "SAME",
+      "reason": "",
+      "context_a": "Stavros Dimas, Markos Kyprianou, Costas Kadis",
+      "context_b": "Philippe Van Damme, Q531313",
+      "merged_into": "University Of Athens"
     },
     {
       "raw_a": "University Of Athens",
       "raw_b": "University Of Wales",
       "similarity": 0.872,
       "verdict": "DIFFERENT",
-      "reason": "\"University of Athens\" is a specific institution in Greece, while \"University of Wales\" is a separate institution in the UK, and the contexts refer to different people studying at each.",
-      "context_a": [
-        "Stavros Dimas",
-        "Markos Kyprianou"
-      ],
-      "context_b": [
-        "Joe Borg"
-      ]
+      "reason": "",
+      "context_a": "Stavros Dimas, Markos Kyprianou, Costas Kadis",
+      "context_b": "Joe Borg"
     },
     {
-      "raw_a": "University Of Wales",
-      "raw_b": "University Of Warsaw",
+      "raw_a": "University of Utah",
+      "raw_b": "University Of Utrecht",
       "similarity": 0.872,
       "verdict": "DIFFERENT",
-      "reason": "University of Wales and University of Warsaw are distinct institutions in different countries (Wales vs. Poland).",
-      "context_a": [
-        "Joe Borg"
-      ],
-      "context_b": [
-        "Piotr Serafin"
-      ]
+      "reason": "",
+      "context_a": "Oliver Zipse",
+      "context_b": "Gert Jan Koopman"
     },
     {
-      "raw_a": "University Of Salzburg",
-      "raw_b": "University Of Strasbourg",
+      "raw_a": "University Of Strasbourg",
+      "raw_b": "University Of Salzburg",
       "similarity": 0.87,
       "verdict": "DIFFERENT",
-      "reason": "The institutions are in different cities and countries (Salzburg, Austria vs. Strasbourg, France).",
-      "context_a": [
-        "Benita Ferrero-Waldner"
-      ],
-      "context_b": [
-        "Jacques Santer",
-        "Jean-Claude Juncker"
-      ]
+      "reason": "",
+      "context_a": "Jacques Santer, Jean-Claude Juncker, Rodi Kratsa-Tsagaropoulou",
+      "context_b": "Benita Ferrero-Waldner"
     },
     {
-      "raw_a": "University Of Bari",
-      "raw_b": "University Of Mainz",
+      "raw_a": "University Of Tartu",
+      "raw_b": "University of Utah",
       "similarity": 0.865,
       "verdict": "DIFFERENT",
-      "reason": "The University of Bari and the University of Mainz are distinct institutions in different countries (Italy and Germany).",
-      "context_a": [
-        "Raffaele Fitto"
-      ],
-      "context_b": [
-        "Valdis Dombrovskis"
-      ]
+      "reason": "",
+      "context_a": "Kaja Kallas, Kadri Simson, Andrus Ansip",
+      "context_b": "Oliver Zipse"
     },
     {
-      "raw_a": "University Of Bari",
-      "raw_b": "University Of Tartu",
+      "raw_a": "University Of Tartu",
+      "raw_b": "University Of Bari",
       "similarity": 0.865,
-      "verdict": "DIFFERENT",
-      "reason": "The University of Bari (Italy) and the University of Tartu (Estonia) are entirely separate institutions in different countries.",
-      "context_a": [
-        "Raffaele Fitto"
-      ],
-      "context_b": [
-        "Kaja Kallas",
-        "Kadri Simson"
-      ]
-    },
-    {
-      "raw_a": "University Of Kiel",
-      "raw_b": "University Of Liège",
-      "similarity": 0.865,
-      "verdict": "DIFFERENT",
-      "reason": "The names refer to universities in different cities and countries (Kiel, Germany vs. Liège, Belgium).",
-      "context_a": [
-        "Nils Behrndt"
-      ],
-      "context_b": [
-        "Didier Reynders"
-      ]
-    },
-    {
-      "raw_a": "University Of Porto",
-      "raw_b": "University Of York",
-      "similarity": 0.865,
-      "verdict": "DIFFERENT",
-      "reason": "The institutions are located in different countries (Portugal vs. United Kingdom) and have distinct names.",
-      "context_a": [
-        "Elisa Ferreira"
-      ],
-      "context_b": [
-        "Stephen Quest"
-      ]
-    },
-    {
-      "raw_a": "University Of Turku",
-      "raw_b": "University Of York",
-      "similarity": 0.865,
-      "verdict": "DIFFERENT",
-      "reason": "University of Turku is in Finland, while University of York is in the United Kingdom.",
-      "context_a": [
-        "Ilkka Salmi"
-      ],
-      "context_b": [
-        "Stephen Quest"
-      ]
-    },
-    {
-      "raw_a": "Royal University Of Malta",
-      "raw_b": "University Of Malta",
-      "similarity": 0.864,
       "verdict": "SAME",
-      "reason": "The Royal University of Malta was the former name of the University of Malta.",
-      "context_a": [
-        "Karmenu Vella"
-      ],
-      "context_b": [
-        "Joe Borg",
-        "Tonio Borg"
-      ],
-      "merged_into": "Royal University Of Malta"
+      "reason": "",
+      "context_a": "Kaja Kallas, Kadri Simson, Andrus Ansip",
+      "context_b": "Raffaele Fitto",
+      "merged_into": "University Of Tartu"
     },
     {
-      "raw_a": "Institut D'Etudes Politiques (Scpo)",
-      "raw_b": "Institut D'Études Politiques",
-      "similarity": 0.857,
+      "raw_a": "University of Namur",
+      "raw_b": "University Of Bari",
+      "similarity": 0.865,
       "verdict": "DIFFERENT",
-      "reason": "\"Institut D'Etudes Politiques (Scpo)\" typically refers to Sciences Po Paris, while \"Institut d'Etudes Politiques de Paris\" is the full formal name of the same institution, but the first entry lacks \"de Paris\" and uses \"Scpo\" as an acronym, whereas the second explicitly names the Paris campus—however, given the context, they are actually the same institution; the key is that \"Scpo\" is the acronym for Sciences Po",
-      "context_a": [
-        "Christian Roques"
-      ],
-      "context_b": [
-        "Denis Redonnet"
-      ]
+      "reason": "",
+      "context_a": "Koen Lenaerts",
+      "context_b": "Raffaele Fitto"
     },
     {
-      "raw_a": "University Of Leicester",
-      "raw_b": "University Of Manchester",
+      "raw_a": "University Of York",
+      "raw_b": "University Of Turku",
+      "similarity": 0.865,
+      "verdict": "DIFFERENT",
+      "reason": "",
+      "context_a": "Stephen Quest",
+      "context_b": "Ilkka Salmi"
+    },
+    {
+      "raw_a": "University Of York",
+      "raw_b": "University Of Porto",
+      "similarity": 0.865,
+      "verdict": "DIFFERENT",
+      "reason": "",
+      "context_a": "Stephen Quest",
+      "context_b": "Elisa Ferreira"
+    },
+    {
+      "raw_a": "University Of Rome",
+      "raw_b": "University Of Porto",
+      "similarity": 0.865,
+      "verdict": "DIFFERENT",
+      "reason": "",
+      "context_a": "Roberto Viola",
+      "context_b": "Elisa Ferreira"
+    },
+    {
+      "raw_a": "University Of Mainz",
+      "raw_b": "University Of Bari",
+      "similarity": 0.865,
+      "verdict": "DIFFERENT",
+      "reason": "",
+      "context_a": "Valdis Dombrovskis",
+      "context_b": "Raffaele Fitto"
+    },
+    {
+      "raw_a": "University Of Manchester",
+      "raw_b": "University Of Leicester",
       "similarity": 0.851,
       "verdict": "DIFFERENT",
-      "reason": "The University of Leicester and the University of Manchester are two distinct, separate universities in the UK.",
-      "context_a": [
-        "Jyrki Katainen"
-      ],
-      "context_b": [
-        "László Andor"
-      ]
+      "reason": "",
+      "context_a": "László Andor",
+      "context_b": "Jyrki Katainen"
+    },
+    {
+      "raw_a": "University Of Vienna",
+      "raw_b": "University Of Latvia",
+      "similarity": 0.85,
+      "verdict": "SAME",
+      "reason": "",
+      "context_a": "Magnus Brunner, Johannes Hahn, Elisabeth Werner",
+      "context_b": "Valdis Dombrovskis, Andris Piebalgs, Ilze Juhansone",
+      "merged_into": "University Of Vienna"
+    },
+    {
+      "raw_a": "University Of Vienna",
+      "raw_b": "University Of Rennes",
+      "similarity": 0.85,
+      "verdict": "SAME",
+      "reason": "Reason: Both entries refer to the same institution, the University of Vienna, as Magnus Brunner, Johannes Hahn, and Elisabeth Werner all attended that university. The University of Rennes is a separate institution attended by Yves-Thibault de Silguy.",
+      "context_a": "Magnus Brunner, Johannes Hahn, Elisabeth Werner",
+      "context_b": "Yves-Thibault de Silguy",
+      "merged_into": "University Of Vienna"
+    },
+    {
+      "raw_a": "University of Cologne",
+      "raw_b": "University Of Liège",
+      "similarity": 0.85,
+      "verdict": "SAME",
+      "reason": "",
+      "context_a": "Günter Verheugen, Michaele Schreyer, Günter Verheugen",
+      "context_b": "Didier Reynders",
+      "merged_into": "University of Cologne"
+    },
+    {
+      "raw_a": "University of Bonn",
+      "raw_b": "University of Tübingen",
+      "similarity": 0.85,
+      "verdict": "SAME",
+      "reason": "",
+      "context_a": "Günter Verheugen, Günter Verheugen, Monika Wulf-Mathies",
+      "context_b": "Martin Bangemann, Günther Oettinger, Günther Oettinger",
+      "merged_into": "University of Bonn"
+    },
+    {
+      "raw_a": "University Of Tartu",
+      "raw_b": "University Of Tampere",
+      "similarity": 0.85,
+      "verdict": "SAME",
+      "reason": "",
+      "context_a": "Kaja Kallas, Kadri Simson, Andrus Ansip",
+      "context_b": "Jyrki Katainen, Timo Pesonen",
+      "merged_into": "University Of Tartu"
+    },
+    {
+      "raw_a": "University Of Tartu",
+      "raw_b": "University Of Utrecht",
+      "similarity": 0.85,
+      "verdict": "SAME",
+      "reason": "",
+      "context_a": "Kaja Kallas, Kadri Simson, Andrus Ansip",
+      "context_b": "Gert Jan Koopman",
+      "merged_into": "University Of Tartu"
     },
     {
       "raw_a": "University Of Athens",
       "raw_b": "University Of Rennes",
       "similarity": 0.85,
       "verdict": "DIFFERENT",
-      "reason": "The two names refer to entirely separate universities in different countries (Greece and France).",
-      "context_a": [
-        "Stavros Dimas",
-        "Markos Kyprianou"
-      ],
-      "context_b": [
-        "Yves-Thibault de Silguy"
-      ]
+      "reason": "",
+      "context_a": "Stavros Dimas, Markos Kyprianou, Costas Kadis",
+      "context_b": "Yves-Thibault de Silguy"
     },
     {
-      "raw_a": "University Of Latvia",
-      "raw_b": "University Of Vienna",
+      "raw_a": "University Of Reading",
+      "raw_b": "University Of Mainz",
       "similarity": 0.85,
       "verdict": "DIFFERENT",
-      "reason": "The names refer to distinct universities in different countries (Latvia vs. Austria).",
-      "context_a": [
-        "Valdis Dombrovskis",
-        "Andris Piebalgs"
-      ],
-      "context_b": [
-        "Magnus Brunner",
-        "Johannes Hahn"
-      ]
+      "reason": "",
+      "context_a": "Stella Kyriakides, Elisa Ferreira, Rupert Lowe",
+      "context_b": "Valdis Dombrovskis"
     },
     {
-      "raw_a": "University Of Liège",
-      "raw_b": "University of Cologne",
+      "raw_a": "University Of Lisbon",
+      "raw_b": "University of London",
       "similarity": 0.85,
-      "verdict": "DIFFERENT",
-      "reason": "The University of Liège and the University of Cologne are distinct institutions in different countries (Belgium vs. Germany).",
-      "context_a": [
-        "Didier Reynders"
-      ],
-      "context_b": [
-        "Günter Verheugen",
-        "Michaele Schreyer"
-      ]
-    },
-    {
-      "raw_a": "University Of Mainz",
-      "raw_b": "University Of Reading",
-      "similarity": 0.85,
-      "verdict": "DIFFERENT",
-      "reason": "The University of Mainz and the University of Reading are located in different countries (Germany vs. UK) and are entirely separate institutions.",
-      "context_a": [
-        "Valdis Dombrovskis"
-      ],
-      "context_b": [
-        "Stella Kyriakides",
-        "Elisa Ferreira"
-      ]
-    },
-    {
-      "raw_a": "University Of Obihiro",
-      "raw_b": "University Of Porto",
-      "similarity": 0.85,
-      "verdict": "DIFFERENT",
-      "reason": "The names refer to entirely different institutions in different countries (Japan vs. Portugal).",
-      "context_a": [
-        "Andriana Sukova"
-      ],
-      "context_b": [
-        "Elisa Ferreira"
-      ]
-    },
-    {
-      "raw_a": "University Of Rennes",
-      "raw_b": "University Of Vienna",
-      "similarity": 0.85,
-      "verdict": "DIFFERENT",
-      "reason": "The institutions are in different cities and countries (Rennes, France vs. Vienna, Austria).",
-      "context_a": [
-        "Yves-Thibault de Silguy"
-      ],
-      "context_b": [
-        "Magnus Brunner",
-        "Johannes Hahn"
-      ]
+      "verdict": "SAME",
+      "reason": "",
+      "context_a": "António Vitorino, Carlos Moedas, Mário Soares",
+      "context_b": "Diana Wallis, Peter George Xuereb",
+      "merged_into": "University of Bonn"
     },
     {
       "raw_a": "University Of Tampere",
-      "raw_b": "University Of Tartu",
+      "raw_b": "University of Namur",
       "similarity": 0.85,
       "verdict": "DIFFERENT",
-      "reason": "The institutions are in different countries (Finland vs Estonia) and have distinct names.",
-      "context_a": [
-        "Jyrki Katainen",
-        "Timo Pesonen"
-      ],
-      "context_b": [
-        "Kaja Kallas",
-        "Kadri Simson"
-      ]
+      "reason": "",
+      "context_a": "Jyrki Katainen, Timo Pesonen",
+      "context_b": "Koen Lenaerts"
     },
     {
-      "raw_a": "University Of Tartu",
-      "raw_b": "University Of Utrecht",
+      "raw_a": "University of Zagreb",
+      "raw_b": "University Of Szeged",
       "similarity": 0.85,
       "verdict": "DIFFERENT",
-      "reason": "The institutions are in different countries (Estonia vs. Netherlands) and have distinct names.",
-      "context_a": [
-        "Kaja Kallas",
-        "Kadri Simson"
-      ],
-      "context_b": [
-        "Gert Jan Koopman"
-      ]
-    },
-    {
-      "raw_a": "University of Bonn",
-      "raw_b": "University of Tübingen",
-      "similarity": 0.85,
-      "verdict": "DIFFERENT",
-      "reason": "The institutions are the University of Bonn and the University of Tübingen, which are separate universities in different German cities.",
-      "context_a": [
-        "Günter Verheugen",
-        "Günter Verheugen"
-      ],
-      "context_b": [
-        "Martin Bangemann",
-        "Günther Oettinger"
-      ]
+      "reason": "",
+      "context_a": "Tamara Ćapeta",
+      "context_b": "Olivér Várhelyi"
     },
     {
       "raw_a": "Charles University",
       "raw_b": "Yale University",
       "similarity": 0.848,
-      "verdict": "DIFFERENT",
-      "reason": "Charles University is in Prague, Czech Republic, while Yale University is in New Haven, Connecticut, USA.",
-      "context_a": [
-        "Věra Jourová",
-        "Vladimír Špidla"
-      ],
-      "context_b": [
-        "Mario Monti",
-        "Sir Leon Brittan"
-      ]
-    },
-    {
-      "raw_a": "Law School, Trinity College – Dublin, Ireland",
-      "raw_b": "Trinity College – Dublin, Ireland",
-      "similarity": 0.846,
       "verdict": "SAME",
-      "reason": "Trinity College Dublin is a single university; its law school is a constituent part, so both refer to the same institution.",
-      "context_a": [
-        "Anthony Whelan"
-      ],
-      "context_b": [
-        "Anthony Whelan"
-      ],
-      "merged_into": "Law School, Trinity College – Dublin, Ireland"
+      "reason": "",
+      "context_a": "Věra Jourová, Vladimír Špidla, Stefan Füle",
+      "context_b": "Mario Monti, Sir Leon Brittan, Sir Leon Brittan",
+      "merged_into": "Charles University"
     },
     {
-      "raw_a": "Trinity College – Dublin",
-      "raw_b": "Trinity College – Dublin, Ireland",
+      "raw_a": "Not specified in the provided text",
+      "raw_b": "Not specified in the text",
+      "similarity": 0.847,
+      "verdict": "SAME",
+      "reason": "",
+      "context_a": "Torben Lund, Scott Russell",
+      "context_b": "Küllike Jürimäe",
+      "merged_into": "Not specified in the provided text"
+    },
+    {
+      "raw_a": "University College London",
+      "raw_b": "University of London",
+      "similarity": 0.844,
+      "verdict": "DIFFERENT",
+      "reason": "",
+      "context_a": "Kadri Simson, Apostolos Tzitzikostas, Jonathan Hill",
+      "context_b": "Diana Wallis, Peter George Xuereb"
+    },
+    {
+      "raw_a": "University Of Warsaw",
+      "raw_b": "University Of Bari",
+      "similarity": 0.842,
+      "verdict": "DIFFERENT",
+      "reason": "",
+      "context_a": "Piotr Serafin, Agnieszka KAŹMIERCZAK, Jacek Dominik",
+      "context_b": "Raffaele Fitto"
+    },
+    {
+      "raw_a": "University Of Vienna",
+      "raw_b": "University of Bonn",
       "similarity": 0.842,
       "verdict": "SAME",
-      "reason": "Both refer to the same institution, Trinity College Dublin, with the only difference being the inclusion of \"Ireland\" for geographic context.",
-      "context_a": [
-        "Veronica Gaffey"
-      ],
-      "context_b": [
-        "Anthony Whelan"
-      ],
-      "merged_into": "Trinity College – Dublin"
+      "reason": "",
+      "context_a": "Magnus Brunner, Johannes Hahn, Elisabeth Werner",
+      "context_b": "Günter Verheugen, Günter Verheugen, Monika Wulf-Mathies",
+      "merged_into": "University Of Vienna"
     },
     {
-      "raw_a": "University Of Bari",
-      "raw_b": "University Of Latvia",
+      "raw_a": "University Of Tartu",
+      "raw_b": "University of Namur",
       "similarity": 0.842,
-      "verdict": "DIFFERENT",
-      "reason": "The University of Bari (Italy) and the University of Latvia are entirely separate institutions in different countries.",
-      "context_a": [
-        "Raffaele Fitto"
-      ],
-      "context_b": [
-        "Valdis Dombrovskis",
-        "Andris Piebalgs"
-      ]
+      "verdict": "SAME",
+      "reason": "",
+      "context_a": "Kaja Kallas, Kadri Simson, Andrus Ansip",
+      "context_b": "Koen Lenaerts",
+      "merged_into": "University Of Tartu"
     },
     {
-      "raw_a": "University Of Bari",
-      "raw_b": "University Of Warsaw",
+      "raw_a": "University Of Tartu",
+      "raw_b": "University Of Porto",
       "similarity": 0.842,
-      "verdict": "DIFFERENT",
-      "reason": "The institutions are in different countries (Italy vs. Poland) and have no relation.",
-      "context_a": [
-        "Raffaele Fitto"
-      ],
-      "context_b": [
-        "Piotr Serafin"
-      ]
+      "verdict": "SAME",
+      "reason": "",
+      "context_a": "Kaja Kallas, Kadri Simson, Andrus Ansip",
+      "context_b": "Elisa Ferreira",
+      "merged_into": "University Of Tartu"
     },
     {
-      "raw_a": "University Of Cádiz",
-      "raw_b": "University Of Mainz",
+      "raw_a": "University Of Athens",
+      "raw_b": "University of Utah",
       "similarity": 0.842,
       "verdict": "DIFFERENT",
-      "reason": "The University of Cádiz is in Spain, while the University of Mainz is in Germany; they are unrelated institutions.",
-      "context_a": [
-        "Miguel Arias Cañete"
-      ],
-      "context_b": [
-        "Valdis Dombrovskis"
-      ]
-    },
-    {
-      "raw_a": "University Of Ghent",
-      "raw_b": "University Of Liège",
-      "similarity": 0.842,
-      "verdict": "DIFFERENT",
-      "reason": "Ghent and Liège are distinct cities in Belgium, each with its own separate university.",
-      "context_a": [
-        "Philippe Van Damme"
-      ],
-      "context_b": [
-        "Didier Reynders"
-      ]
-    },
-    {
-      "raw_a": "University Of Kiel",
-      "raw_b": "University Of Vienna",
-      "similarity": 0.842,
-      "verdict": "DIFFERENT",
-      "reason": "The institutions are located in different cities (Kiel vs. Vienna) and are separate universities.",
-      "context_a": [
-        "Nils Behrndt"
-      ],
-      "context_b": [
-        "Magnus Brunner",
-        "Johannes Hahn"
-      ]
-    },
-    {
-      "raw_a": "University Of Lisbon",
-      "raw_b": "University Of Lund",
-      "similarity": 0.842,
-      "verdict": "DIFFERENT",
-      "reason": "The names refer to different universities in different countries (Portugal vs Sweden).",
-      "context_a": [
-        "António Vitorino",
-        "Carlos Moedas"
-      ],
-      "context_b": [
-        "Stefan Olsson"
-      ]
-    },
-    {
-      "raw_a": "University Of Liège",
-      "raw_b": "University Of Wales",
-      "similarity": 0.842,
-      "verdict": "DIFFERENT",
-      "reason": "The University of Liège and the University of Wales are entirely separate institutions in different countries (Belgium vs. UK).",
-      "context_a": [
-        "Didier Reynders"
-      ],
-      "context_b": [
-        "Joe Borg"
-      ]
-    },
-    {
-      "raw_a": "University Of Mainz",
-      "raw_b": "University Of Malta",
-      "similarity": 0.842,
-      "verdict": "DIFFERENT",
-      "reason": "One is in Mainz, Germany, and the other is in Malta; they are distinct universities in different countries.",
-      "context_a": [
-        "Valdis Dombrovskis"
-      ],
-      "context_b": [
-        "Joe Borg",
-        "Tonio Borg"
-      ]
-    },
-    {
-      "raw_a": "University Of Malta",
-      "raw_b": "University Of Tartu",
-      "similarity": 0.842,
-      "verdict": "DIFFERENT",
-      "reason": "The University of Malta and the University of Tartu are located in different countries (Malta and Estonia) and are separate, unrelated institutions.",
-      "context_a": [
-        "Joe Borg",
-        "Tonio Borg"
-      ],
-      "context_b": [
-        "Kaja Kallas",
-        "Kadri Simson"
-      ]
-    },
-    {
-      "raw_a": "University Of Malta",
-      "raw_b": "University Of Wales",
-      "similarity": 0.842,
-      "verdict": "DIFFERENT",
-      "reason": "The University of Malta and the University of Wales are separate institutions in different countries.",
-      "context_a": [
-        "Joe Borg",
-        "Tonio Borg"
-      ],
-      "context_b": [
-        "Joe Borg"
-      ]
-    },
-    {
-      "raw_a": "University Of Manchester",
-      "raw_b": "Victoria University Of Manchester",
-      "similarity": 0.842,
-      "verdict": "DIFFERENT",
-      "reason": "The University of Manchester is the merged institution formed in 2004, while the Victoria University of Manchester was its predecessor before the merger.",
-      "context_a": [
-        "László Andor"
-      ],
-      "context_b": [
-        "Stella Kyriakides"
-      ]
+      "reason": "",
+      "context_a": "Stavros Dimas, Markos Kyprianou, Costas Kadis",
+      "context_b": "Oliver Zipse"
     },
     {
       "raw_a": "University Of Oxford",
       "raw_b": "University Of York",
       "similarity": 0.842,
       "verdict": "DIFFERENT",
-      "reason": "The University of Oxford and the University of York are distinct, separate universities in the United Kingdom.",
-      "context_a": [
-        "Chris Patten",
-        "Meglena Kuneva"
-      ],
-      "context_b": [
-        "Stephen Quest"
-      ]
+      "reason": "",
+      "context_a": "Chris Patten, Meglena Kuneva, Virginijus Sinkevičius",
+      "context_b": "Stephen Quest"
     },
     {
-      "raw_a": "University Of Porto",
-      "raw_b": "University Of Tartu",
+      "raw_a": "University Of Latvia",
+      "raw_b": "University Of Bari",
+      "similarity": 0.842,
+      "verdict": "SAME",
+      "reason": "",
+      "context_a": "Valdis Dombrovskis, Andris Piebalgs, Ilze Juhansone",
+      "context_b": "Raffaele Fitto",
+      "merged_into": "University Of Vienna"
+    },
+    {
+      "raw_a": "University Of Ghent",
+      "raw_b": "University Of Liège",
       "similarity": 0.842,
       "verdict": "DIFFERENT",
-      "reason": "The institutions are in different countries (Portugal vs Estonia) and have no relation.",
-      "context_a": [
-        "Elisa Ferreira"
-      ],
-      "context_b": [
-        "Kaja Kallas",
-        "Kadri Simson"
-      ]
+      "reason": "",
+      "context_a": "Philippe Van Damme, Q531313",
+      "context_b": "Didier Reynders"
     },
     {
-      "raw_a": "University Of Rennes",
+      "raw_a": "University Of Deusto",
+      "raw_b": "University of Utah",
+      "similarity": 0.842,
+      "verdict": "SAME",
+      "reason": "",
+      "context_a": "Joaquín Almunia, José María Gil-Robles",
+      "context_b": "Oliver Zipse",
+      "merged_into": "University Of Deusto"
+    },
+    {
+      "raw_a": "Victoria University Of Manchester",
+      "raw_b": "University Of Manchester",
+      "similarity": 0.842,
+      "verdict": "SAME",
+      "reason": "",
+      "context_a": "Stella Kyriakides",
+      "context_b": "László Andor",
+      "merged_into": "Victoria University Of Manchester"
+    },
+    {
+      "raw_a": "University of Zagreb",
       "raw_b": "University Of Rome",
       "similarity": 0.842,
       "verdict": "DIFFERENT",
-      "reason": "\"University of Rennes\" and \"University of Rome\" are distinct institutions in different countries (France vs. Italy).",
-      "context_a": [
-        "Yves-Thibault de Silguy"
-      ],
-      "context_b": [
-        "Roberto Viola"
-      ]
+      "reason": "",
+      "context_a": "Tamara Ćapeta",
+      "context_b": "Roberto Viola"
     },
     {
-      "raw_a": "University Of Rennes",
-      "raw_b": "University of Bonn",
+      "raw_a": "University of Zagreb",
+      "raw_b": "University Of Bari",
       "similarity": 0.842,
       "verdict": "DIFFERENT",
-      "reason": "The institutions are the University of Rennes and the University of Bonn, which are separate universities in different countries.",
-      "context_a": [
-        "Yves-Thibault de Silguy"
-      ],
-      "context_b": [
-        "Günter Verheugen",
-        "Günter Verheugen"
-      ]
+      "reason": "",
+      "context_a": "Tamara Ćapeta",
+      "context_b": "Raffaele Fitto"
     },
     {
-      "raw_a": "University Of Vienna",
-      "raw_b": "University of Bonn",
+      "raw_a": "University of Namur",
+      "raw_b": "University Of Turku",
       "similarity": 0.842,
       "verdict": "DIFFERENT",
-      "reason": "The institutions are the University of Vienna and the University of Bonn, which are clearly separate universities in different cities and countries.",
-      "context_a": [
-        "Magnus Brunner",
-        "Johannes Hahn"
-      ],
-      "context_b": [
-        "Günter Verheugen",
-        "Günter Verheugen"
-      ]
+      "reason": "",
+      "context_a": "Koen Lenaerts",
+      "context_b": "Ilkka Salmi"
     },
     {
-      "raw_a": "University College Dublin",
-      "raw_b": "University College London",
+      "raw_a": "University of Latvia, Faculty of Law",
+      "raw_b": "University Of Ljubljana - Faculty Of Law",
+      "similarity": 0.842,
+      "verdict": "DIFFERENT",
+      "reason": "",
+      "context_a": "Ineta Ziemele",
+      "context_b": "Marjeta Jager"
+    },
+    {
+      "raw_a": "University Of Wales",
+      "raw_b": "University Of Liège",
+      "similarity": 0.842,
+      "verdict": "DIFFERENT",
+      "reason": "",
+      "context_a": "Joe Borg",
+      "context_b": "Didier Reynders"
+    },
+    {
+      "raw_a": "University Of Rome",
+      "raw_b": "University Of Rennes",
+      "similarity": 0.842,
+      "verdict": "DIFFERENT",
+      "reason": "",
+      "context_a": "Roberto Viola",
+      "context_b": "Yves-Thibault de Silguy"
+    },
+    {
+      "raw_a": "University Of Mainz",
+      "raw_b": "University Of Cádiz",
+      "similarity": 0.842,
+      "verdict": "DIFFERENT",
+      "reason": "",
+      "context_a": "Valdis Dombrovskis",
+      "context_b": "Miguel Arias Cañete"
+    },
+    {
+      "raw_a": "University College London",
+      "raw_b": "University College Dublin",
       "similarity": 0.84,
-      "verdict": "DIFFERENT",
-      "reason": "University College Dublin is in Ireland, while University College London is in England.",
-      "context_a": [
-        "John Berrigan",
-        "Charlie McCreevy"
-      ],
-      "context_b": [
-        "Apostolos Tzitzikostas",
-        "Maroš Šefčovič"
-      ]
+      "verdict": "SAME",
+      "reason": "",
+      "context_a": "Kadri Simson, Apostolos Tzitzikostas, Jonathan Hill",
+      "context_b": "John Berrigan, Charlie McCreevy, Mairead McGuinness",
+      "merged_into": "University College London"
     },
     {
       "raw_a": "Nancy University",
       "raw_b": "Nova University",
       "similarity": 0.839,
       "verdict": "DIFFERENT",
-      "reason": "Nancy University is in France, while Nova University is in Miami, USA.",
-      "context_a": [
-        "Frans Timmermans"
-      ],
-      "context_b": [
-        "Christos Ellinides"
-      ]
+      "reason": "",
+      "context_a": "Frans Timmermans, Manuel Marin",
+      "context_b": "Christos Ellinides"
     },
     {
-      "raw_a": "Nova University",
-      "raw_b": "Sofia University",
+      "raw_a": "Sofia University",
+      "raw_b": "Nova University",
       "similarity": 0.839,
       "verdict": "DIFFERENT",
-      "reason": "Nova University is in Miami, USA, while Sofia University is in Bulgaria.",
-      "context_a": [
-        "Christos Ellinides"
-      ],
-      "context_b": [
-        "Meglena Kuneva"
-      ]
+      "reason": "",
+      "context_a": "Meglena Kuneva",
+      "context_b": "Christos Ellinides"
     },
     {
-      "raw_a": "University Of Freiburg",
-      "raw_b": "University Of Reading",
+      "raw_a": "University Of Reading",
+      "raw_b": "University Of Freiburg",
       "similarity": 0.837,
       "verdict": "DIFFERENT",
-      "reason": "The University of Freiburg and the University of Reading are entirely separate institutions in different countries (Germany and the UK).",
-      "context_a": [
-        "Clemens Ladenburger"
-      ],
-      "context_b": [
-        "Stella Kyriakides",
-        "Elisa Ferreira"
-      ]
+      "reason": "",
+      "context_a": "Stella Kyriakides, Elisa Ferreira, Rupert Lowe",
+      "context_b": "Clemens Ladenburger"
     },
     {
       "raw_a": "University Of Ghent",
       "raw_b": "University Of Gothenburg",
       "similarity": 0.837,
       "verdict": "DIFFERENT",
-      "reason": "University of Ghent is in Belgium, while University of Gothenburg is in Sweden.",
-      "context_a": [
-        "Philippe Van Damme"
-      ],
-      "context_b": [
-        "Cecilia Malmström"
-      ]
+      "reason": "",
+      "context_a": "Philippe Van Damme, Q531313",
+      "context_b": "Cecilia Malmström"
     },
     {
-      "raw_a": "University Of Obihiro",
-      "raw_b": "University Of Poitiers",
+      "raw_a": "University of Michigan",
+      "raw_b": "University of Chicago",
       "similarity": 0.837,
       "verdict": "DIFFERENT",
-      "reason": "The University of Obihiro (Japan) and the University of Poitiers (France) are entirely separate institutions in different countries.",
-      "context_a": [
-        "Andriana Sukova"
-      ],
-      "context_b": [
-        "Stéphane Séjourné"
-      ]
+      "reason": "",
+      "context_a": "Siniša Rodin",
+      "context_b": "Lorenzo Bini Smaghi"
     },
     {
-      "raw_a": "Trinity College Dublin - Dublin",
-      "raw_b": "Trinity College – Dublin",
-      "similarity": 0.836,
-      "verdict": "SAME",
-      "reason": "Both refer to Trinity College Dublin, the same institution, with \"Dublin\" simply appended for location.",
-      "context_a": [
-        "Declan Costello"
-      ],
-      "context_b": [
-        "Veronica Gaffey"
-      ],
-      "merged_into": "Trinity College Dublin - Dublin"
-    },
-    {
-      "raw_a": "University College Cork",
-      "raw_b": "University College London",
+      "raw_a": "University of Bonn",
+      "raw_b": "University Of York",
       "similarity": 0.833,
       "verdict": "DIFFERENT",
-      "reason": "University College Cork is in Ireland, while University College London is in England.",
-      "context_a": [
-        "Michael McGrath",
-        "Phil Hogan"
-      ],
-      "context_b": [
-        "Apostolos Tzitzikostas",
-        "Maroš Šefčovič"
-      ]
+      "reason": "",
+      "context_a": "Günter Verheugen, Günter Verheugen, Monika Wulf-Mathies",
+      "context_b": "Stephen Quest"
     },
     {
-      "raw_a": "University Of Bari",
-      "raw_b": "University Of Kiel",
-      "similarity": 0.833,
-      "verdict": "DIFFERENT",
-      "reason": "The University of Bari and the University of Kiel are located in different countries (Italy and Germany) and are distinct institutions.",
-      "context_a": [
-        "Raffaele Fitto"
-      ],
-      "context_b": [
-        "Nils Behrndt"
-      ]
-    },
-    {
-      "raw_a": "University Of Bari",
+      "raw_a": "University of Bonn",
       "raw_b": "University Of Rome",
       "similarity": 0.833,
-      "verdict": "DIFFERENT",
-      "reason": "The University of Bari and the University of Rome are distinct universities located in different cities.",
-      "context_a": [
-        "Raffaele Fitto"
-      ],
-      "context_b": [
-        "Roberto Viola"
-      ]
-    },
-    {
-      "raw_a": "University Of Bari",
-      "raw_b": "University Of York",
-      "similarity": 0.833,
-      "verdict": "DIFFERENT",
-      "reason": "The University of Bari and the University of York are entirely separate institutions in different countries (Italy and the United Kingdom).",
-      "context_a": [
-        "Raffaele Fitto"
-      ],
-      "context_b": [
-        "Stephen Quest"
-      ]
-    },
-    {
-      "raw_a": "University Of Bari",
-      "raw_b": "University of Bonn",
-      "similarity": 0.833,
-      "verdict": "DIFFERENT",
-      "reason": "The University of Bari (Italy) and the University of Bonn (Germany) are distinct institutions in different countries.",
-      "context_a": [
-        "Raffaele Fitto"
-      ],
-      "context_b": [
-        "Günter Verheugen",
-        "Günter Verheugen"
-      ]
-    },
-    {
-      "raw_a": "University Of Kiel",
-      "raw_b": "University Of Lund",
-      "similarity": 0.833,
-      "verdict": "DIFFERENT",
-      "reason": "University of Kiel is in Germany, while University of Lund is in Sweden.",
-      "context_a": [
-        "Nils Behrndt"
-      ],
-      "context_b": [
-        "Stefan Olsson"
-      ]
-    },
-    {
-      "raw_a": "University Of Kiel",
-      "raw_b": "University Of Rome",
-      "similarity": 0.833,
-      "verdict": "DIFFERENT",
-      "reason": "The University of Kiel is in Germany, while the University of Rome is in Italy; they are unrelated institutions.",
-      "context_a": [
-        "Nils Behrndt"
-      ],
-      "context_b": [
-        "Roberto Viola"
-      ]
-    },
-    {
-      "raw_a": "University Of Kiel",
-      "raw_b": "University Of York",
-      "similarity": 0.833,
-      "verdict": "DIFFERENT",
-      "reason": "The University of Kiel is in Germany, while the University of York is in the United Kingdom.",
-      "context_a": [
-        "Nils Behrndt"
-      ],
-      "context_b": [
-        "Stephen Quest"
-      ]
-    },
-    {
-      "raw_a": "University Of Lund",
-      "raw_b": "University Of Łódź",
-      "similarity": 0.833,
-      "verdict": "DIFFERENT",
-      "reason": "Lund is in Sweden, Łódź is in Poland; they are distinct universities in different countries.",
-      "context_a": [
-        "Stefan Olsson"
-      ],
-      "context_b": [
-        "Janusz Wojciechowski"
-      ]
-    },
-    {
-      "raw_a": "University Of Lund",
-      "raw_b": "University of Bonn",
-      "similarity": 0.833,
-      "verdict": "DIFFERENT",
-      "reason": "University of Lund is in Sweden, while University of Bonn is in Germany.",
-      "context_a": [
-        "Stefan Olsson"
-      ],
-      "context_b": [
-        "Günter Verheugen",
-        "Günter Verheugen"
-      ]
-    },
-    {
-      "raw_a": "University Of Rome",
-      "raw_b": "University Of York",
-      "similarity": 0.833,
-      "verdict": "DIFFERENT",
-      "reason": "\"University of Rome\" and \"University of York\" are entirely separate institutions in different countries (Italy vs. United Kingdom).",
-      "context_a": [
-        "Roberto Viola"
-      ],
-      "context_b": [
-        "Stephen Quest"
-      ]
-    },
-    {
-      "raw_a": "University Of Rome",
-      "raw_b": "University of Bonn",
-      "similarity": 0.833,
-      "verdict": "DIFFERENT",
-      "reason": "The University of Rome and the University of Bonn are located in different countries (Italy vs. Germany) and are entirely separate institutions.",
-      "context_a": [
-        "Roberto Viola"
-      ],
-      "context_b": [
-        "Günter Verheugen",
-        "Günter Verheugen"
-      ]
-    },
-    {
-      "raw_a": "University Of Vienna",
-      "raw_b": "University Of Vienna/Austria",
-      "similarity": 0.833,
       "verdict": "SAME",
-      "reason": "Both refer to the same institution; \"University of Vienna/Austria\" simply adds the country for clarification.",
-      "context_a": [
-        "Magnus Brunner",
-        "Johannes Hahn"
-      ],
-      "context_b": [
-        "Elisabeth Werner"
-      ],
+      "reason": "",
+      "context_a": "Günter Verheugen, Günter Verheugen, Monika Wulf-Mathies",
+      "context_b": "Roberto Viola",
       "merged_into": "University Of Vienna"
     },
     {
-      "raw_a": "University Of Warsaw",
-      "raw_b": "University Of Warsaw, Poland",
+      "raw_a": "University of Bonn",
+      "raw_b": "University Of Bari",
       "similarity": 0.833,
-      "verdict": "SAME",
-      "reason": "Both refer to the same institution, with \"Poland\" simply specifying the country.",
-      "context_a": [
-        "Piotr Serafin"
-      ],
-      "context_b": [
-        "Agnieszka KAŹMIERCZAK"
-      ],
-      "merged_into": "University Of Warsaw"
+      "verdict": "DIFFERENT",
+      "reason": "",
+      "context_a": "Günter Verheugen, Günter Verheugen, Monika Wulf-Mathies",
+      "context_b": "Raffaele Fitto"
+    },
+    {
+      "raw_a": "University College London",
+      "raw_b": "University College Cork",
+      "similarity": 0.833,
+      "verdict": "DIFFERENT",
+      "reason": "",
+      "context_a": "Kadri Simson, Apostolos Tzitzikostas, Jonathan Hill",
+      "context_b": "Michael McGrath, Phil Hogan"
+    },
+    {
+      "raw_a": "University of Utah",
+      "raw_b": "University Of Bari",
+      "similarity": 0.833,
+      "verdict": "DIFFERENT",
+      "reason": "",
+      "context_a": "Oliver Zipse",
+      "context_b": "Raffaele Fitto"
     },
     {
       "raw_a": "University Of York",
-      "raw_b": "University of Bonn",
+      "raw_b": "University Of Rome",
       "similarity": 0.833,
       "verdict": "DIFFERENT",
-      "reason": "The University of York (UK) and the University of Bonn (Germany) are separate institutions in different countries.",
-      "context_a": [
-        "Stephen Quest"
-      ],
-      "context_b": [
-        "Günter Verheugen",
-        "Günter Verheugen"
-      ]
+      "reason": "",
+      "context_a": "Stephen Quest",
+      "context_b": "Roberto Viola"
     },
     {
-      "raw_a": "Bucharest Academy Of Economic Studies",
-      "raw_b": "Bucharest University Of Economic Studies",
-      "similarity": 0.831,
+      "raw_a": "University Of York",
+      "raw_b": "University Of Bari",
+      "similarity": 0.833,
+      "verdict": "DIFFERENT",
+      "reason": "",
+      "context_a": "Stephen Quest",
+      "context_b": "Raffaele Fitto"
+    },
+    {
+      "raw_a": "University Of Rome",
+      "raw_b": "University Of Bari",
+      "similarity": 0.833,
+      "verdict": "DIFFERENT",
+      "reason": "",
+      "context_a": "Roberto Viola",
+      "context_b": "Raffaele Fitto"
+    },
+    {
+      "raw_a": "University Of Helsinki",
+      "raw_b": "University Of Ghent",
+      "similarity": 0.829,
       "verdict": "SAME",
-      "reason": "\"Bucharest Academy of Economic Studies\" and \"Bucharest University of Economic Studies\" refer to the same institution, which underwent a name change.",
-      "context_a": [
-        "Leonard Orban"
-      ],
-      "context_b": [
-        "Corina Crețu"
-      ],
-      "merged_into": "Bucharest Academy Of Economic Studies"
+      "reason": "",
+      "context_a": "Salla Saastamoinen, Erkki Liikanen, Olli Rehn",
+      "context_b": "Philippe Van Damme, Q531313",
+      "merged_into": "University Of Helsinki"
     },
     {
-      "raw_a": "Comenius University",
-      "raw_b": "Complutense University",
+      "raw_a": "University of Cologne",
+      "raw_b": "University of London",
       "similarity": 0.829,
-      "verdict": "DIFFERENT",
-      "reason": "Comenius University is in Bratislava, while Complutense University is in Madrid.",
-      "context_a": [
-        "Maroš Šefčovič"
-      ],
-      "context_b": [
-        "Loyola de Palacio"
-      ]
+      "verdict": "SAME",
+      "reason": "",
+      "context_a": "Günter Verheugen, Michaele Schreyer, Günter Verheugen",
+      "context_b": "Diana Wallis, Peter George Xuereb",
+      "merged_into": "University of Cologne"
     },
     {
-      "raw_a": "University Of Bari",
-      "raw_b": "University Of Bucharest",
+      "raw_a": "University of Bonn",
+      "raw_b": "University of Barcelona",
       "similarity": 0.829,
-      "verdict": "DIFFERENT",
-      "reason": "University of Bari is in Italy, while University of Bucharest is in Romania.",
-      "context_a": [
-        "Raffaele Fitto"
-      ],
-      "context_b": [
-        "Roxana Mînzatu"
-      ]
+      "verdict": "SAME",
+      "reason": "",
+      "context_a": "Günter Verheugen, Günter Verheugen, Monika Wulf-Mathies",
+      "context_b": "Heribert Barrera i Costa, Juan Carlos Girauta, Teresa Riera",
+      "merged_into": "University of Cologne"
     },
     {
-      "raw_a": "University Of Bari",
-      "raw_b": "University Of Cambridge",
+      "raw_a": "University of Barcelona",
+      "raw_b": "University Of Bari",
       "similarity": 0.829,
       "verdict": "DIFFERENT",
-      "reason": "The University of Bari and the University of Cambridge are entirely separate institutions in different countries.",
-      "context_a": [
-        "Raffaele Fitto"
-      ],
-      "context_b": [
-        "Joaquín Almunia"
-      ]
+      "reason": "",
+      "context_a": "Heribert Barrera i Costa, Juan Carlos Girauta, Teresa Riera",
+      "context_b": "Raffaele Fitto"
     },
     {
-      "raw_a": "University Of Exeter",
-      "raw_b": "University Of Tampere",
+      "raw_a": "University Of Cambridge",
+      "raw_b": "University Of Bari",
       "similarity": 0.829,
-      "verdict": "DIFFERENT",
-      "reason": "The University of Exeter and the University of Tampere are entirely separate institutions in different countries (UK and Finland).",
-      "context_a": [
-        "Despina Spanou"
-      ],
-      "context_b": [
-        "Jyrki Katainen",
-        "Timo Pesonen"
-      ]
-    },
-    {
-      "raw_a": "University Of Ghent",
-      "raw_b": "University Of Helsinki",
-      "similarity": 0.829,
-      "verdict": "DIFFERENT",
-      "reason": "The institutions are located in different countries (Belgium vs. Finland) and have no shared identity or relationship.",
-      "context_a": [
-        "Philippe Van Damme"
-      ],
-      "context_b": [
-        "Salla Saastamoinen",
-        "Erkki Liikanen"
-      ]
-    },
-    {
-      "raw_a": "University Of Ghent",
-      "raw_b": "University of Tübingen",
-      "similarity": 0.829,
-      "verdict": "DIFFERENT",
-      "reason": "University of Ghent is in Belgium, while University of Tübingen is in Germany.",
-      "context_a": [
-        "Philippe Van Damme"
-      ],
-      "context_b": [
-        "Martin Bangemann",
-        "Günther Oettinger"
-      ]
-    },
-    {
-      "raw_a": "University Of Latvia",
-      "raw_b": "University Of Plovdiv",
-      "similarity": 0.829,
-      "verdict": "DIFFERENT",
-      "reason": "The University of Latvia and the University of Plovdiv are located in different countries (Latvia and Bulgaria) and are unrelated institutions.",
-      "context_a": [
-        "Valdis Dombrovskis",
-        "Andris Piebalgs"
-      ],
-      "context_b": [
-        "Ekaterina Zaharieva"
-      ]
-    },
-    {
-      "raw_a": "University Of Lisbon",
-      "raw_b": "University of Cologne",
-      "similarity": 0.829,
-      "verdict": "DIFFERENT",
-      "reason": "The contexts describe two distinct institutions: University of Lisbon (Portugal) and University of Cologne (Germany).",
-      "context_a": [
-        "António Vitorino",
-        "Carlos Moedas"
-      ],
-      "context_b": [
-        "Günter Verheugen",
-        "Michaele Schreyer"
-      ]
-    },
-    {
-      "raw_a": "University Of Liège",
-      "raw_b": "University of Tübingen",
-      "similarity": 0.829,
-      "verdict": "DIFFERENT",
-      "reason": "The University of Liège and the University of Tübingen are distinct institutions in different countries (Belgium vs. Germany).",
-      "context_a": [
-        "Didier Reynders"
-      ],
-      "context_b": [
-        "Martin Bangemann",
-        "Günther Oettinger"
-      ]
-    },
-    {
-      "raw_a": "University Of Ljubljana",
-      "raw_b": "University Of Lund",
-      "similarity": 0.829,
-      "verdict": "DIFFERENT",
-      "reason": "The University of Ljubljana is in Slovenia, while the University of Lund is in Sweden.",
-      "context_a": [
-        "Janez Lenarčič"
-      ],
-      "context_b": [
-        "Stefan Olsson"
-      ]
-    },
-    {
-      "raw_a": "University Of Poitiers",
-      "raw_b": "University Of Porto",
-      "similarity": 0.829,
-      "verdict": "DIFFERENT",
-      "reason": "The institutions are located in different countries (France vs. Portugal) and have distinct names.",
-      "context_a": [
-        "Stéphane Séjourné"
-      ],
-      "context_b": [
-        "Elisa Ferreira"
-      ]
+      "verdict": "SAME",
+      "reason": "",
+      "context_a": "Joaquín Almunia, Edward McMillan-Scott, Tamara Ćapeta",
+      "context_b": "Raffaele Fitto",
+      "merged_into": "University Of Cambridge"
     },
     {
       "raw_a": "University Of Reading",
       "raw_b": "University Of Rennes",
       "similarity": 0.829,
       "verdict": "DIFFERENT",
-      "reason": "The University of Reading (UK) and the University of Rennes (France) are distinct institutions in different countries.",
-      "context_a": [
-        "Stella Kyriakides",
-        "Elisa Ferreira"
-      ],
-      "context_b": [
-        "Yves-Thibault de Silguy"
-      ]
+      "reason": "",
+      "context_a": "Stella Kyriakides, Elisa Ferreira, Rupert Lowe",
+      "context_b": "Yves-Thibault de Silguy"
     },
     {
-      "raw_a": "University Of Freiburg",
-      "raw_b": "University Of Gothenburg",
+      "raw_a": "University Of Latvia",
+      "raw_b": "University Of Plovdiv",
+      "similarity": 0.829,
+      "verdict": "DIFFERENT",
+      "reason": "",
+      "context_a": "Valdis Dombrovskis, Andris Piebalgs, Ilze Juhansone",
+      "context_b": "Ekaterina Zaharieva"
+    },
+    {
+      "raw_a": "University of Tübingen",
+      "raw_b": "University Of Ghent",
+      "similarity": 0.829,
+      "verdict": "SAME",
+      "reason": "",
+      "context_a": "Martin Bangemann, Günther Oettinger, Günther Oettinger",
+      "context_b": "Philippe Van Damme, Q531313",
+      "merged_into": "University Of Cambridge"
+    },
+    {
+      "raw_a": "University of London",
+      "raw_b": "University Of Plovdiv",
+      "similarity": 0.829,
+      "verdict": "DIFFERENT",
+      "reason": "",
+      "context_a": "Diana Wallis, Peter George Xuereb",
+      "context_b": "Ekaterina Zaharieva"
+    },
+    {
+      "raw_a": "University Of Tampere",
+      "raw_b": "University of Zagreb",
+      "similarity": 0.829,
+      "verdict": "DIFFERENT",
+      "reason": "",
+      "context_a": "Jyrki Katainen, Timo Pesonen",
+      "context_b": "Tamara Ćapeta"
+    },
+    {
+      "raw_a": "University Of Bucharest",
+      "raw_b": "University Of Bari",
+      "similarity": 0.829,
+      "verdict": "DIFFERENT",
+      "reason": "",
+      "context_a": "Roxana Mînzatu, Eugen Tomac",
+      "context_b": "Raffaele Fitto"
+    },
+    {
+      "raw_a": "University of Namur",
+      "raw_b": "University Of Salzburg",
+      "similarity": 0.829,
+      "verdict": "DIFFERENT",
+      "reason": "",
+      "context_a": "Koen Lenaerts",
+      "context_b": "Benita Ferrero-Waldner"
+    },
+    {
+      "raw_a": "University of Milan",
+      "raw_b": "University of Illinois",
+      "similarity": 0.829,
+      "verdict": "DIFFERENT",
+      "reason": "",
+      "context_a": "Claudio Descalzi",
+      "context_b": "Bogusław Liberadzki"
+    },
+    {
+      "raw_a": "University of Michigan",
+      "raw_b": "University Of Mainz",
+      "similarity": 0.829,
+      "verdict": "DIFFERENT",
+      "reason": "",
+      "context_a": "Siniša Rodin",
+      "context_b": "Valdis Dombrovskis"
+    },
+    {
+      "raw_a": "University Of Porto",
+      "raw_b": "University Of Poitiers",
+      "similarity": 0.829,
+      "verdict": "DIFFERENT",
+      "reason": "",
+      "context_a": "Elisa Ferreira",
+      "context_b": "Stéphane Séjourné"
+    },
+    {
+      "raw_a": "École Polytechnique",
+      "raw_b": "École polytechnique (Paris)",
+      "similarity": 0.826,
+      "verdict": "SAME",
+      "reason": "",
+      "context_a": "Louis Michel, Jean-Laurent Bonnafé, Frédéric Oudéa",
+      "context_b": "Guillaume Faury",
+      "merged_into": "École Polytechnique"
+    },
+    {
+      "raw_a": "University Of Strasbourg",
+      "raw_b": "University Of Freiburg",
       "similarity": 0.826,
       "verdict": "DIFFERENT",
-      "reason": "The institutions are in different countries (Germany vs. Sweden) and have no shared identity.",
-      "context_a": [
-        "Clemens Ladenburger"
-      ],
-      "context_b": [
-        "Cecilia Malmström"
-      ]
+      "reason": "",
+      "context_a": "Jacques Santer, Jean-Claude Juncker, Rodi Kratsa-Tsagaropoulou",
+      "context_b": "Clemens Ladenburger"
     },
     {
-      "raw_a": "University Of Freiburg",
-      "raw_b": "University Of Strasbourg",
+      "raw_a": "University Of Gothenburg",
+      "raw_b": "University Of Freiburg",
       "similarity": 0.826,
       "verdict": "DIFFERENT",
-      "reason": "The University of Freiburg is in Germany, while the University of Strasbourg is in France.",
-      "context_a": [
-        "Clemens Ladenburger"
-      ],
-      "context_b": [
-        "Jacques Santer",
-        "Jean-Claude Juncker"
-      ]
+      "reason": "",
+      "context_a": "Cecilia Malmström",
+      "context_b": "Clemens Ladenburger"
     },
     {
-      "raw_a": "Aarhus University",
-      "raw_b": "Warsaw University",
-      "similarity": 0.824,
-      "verdict": "DIFFERENT",
-      "reason": "Aarhus University is in Denmark, while Warsaw University is in Poland.",
-      "context_a": [
-        "Poul Nielson"
-      ],
-      "context_b": [
-        "Magda Kopczyńska"
-      ]
+      "raw_a": "University Of Warsaw",
+      "raw_b": "University Of Tartu",
+      "similarity": 0.821,
+      "verdict": "SAME",
+      "reason": "",
+      "context_a": "Piotr Serafin, Agnieszka KAŹMIERCZAK, Jacek Dominik",
+      "context_b": "Kaja Kallas, Kadri Simson, Andrus Ansip",
+      "merged_into": "University Of Warsaw"
     },
     {
-      "raw_a": "Danish School Of Public Administration",
-      "raw_b": "Polish National School Of Public Administration",
-      "similarity": 0.824,
-      "verdict": "DIFFERENT",
-      "reason": "The institutions are in different countries (Denmark vs. Poland) and have distinct names.",
-      "context_a": [
-        "Ilze Juhansone"
-      ],
-      "context_b": [
-        "Elzbieta Bienkowska"
-      ]
-    },
-    {
-      "raw_a": "Faculty Of Medicine, University Of Zagreb",
-      "raw_b": "Faculty Of Natural Sciences, University Of Zagreb",
-      "similarity": 0.822,
-      "verdict": "DIFFERENT",
-      "reason": "Faculty of Medicine and Faculty of Natural Sciences are distinct faculties within the same university.",
-      "context_a": [
-        "Maja Bakran Marcich"
-      ],
-      "context_b": [
-        "Maja Bakran Marcich"
-      ]
-    },
-    {
-      "raw_a": "Maastricht University",
-      "raw_b": "Utrecht University",
+      "raw_a": "University Of Warsaw",
+      "raw_b": "University of Namur",
       "similarity": 0.821,
       "verdict": "DIFFERENT",
-      "reason": "Maastricht University and Utrecht University are two distinct universities in the Netherlands.",
-      "context_a": [
-        "Virginijus Sinkevičius"
-      ],
-      "context_b": [
-        "Hans van den Broek"
-      ]
+      "reason": "",
+      "context_a": "Piotr Serafin, Agnieszka KAŹMIERCZAK, Jacek Dominik",
+      "context_b": "Koen Lenaerts"
     },
     {
-      "raw_a": "University Of Athens",
+      "raw_a": "University Of Vienna",
+      "raw_b": "University of Namur",
+      "similarity": 0.821,
+      "verdict": "DIFFERENT",
+      "reason": "",
+      "context_a": "Magnus Brunner, Johannes Hahn, Elisabeth Werner",
+      "context_b": "Koen Lenaerts"
+    },
+    {
+      "raw_a": "University Of Vienna",
+      "raw_b": "University of Milan",
+      "similarity": 0.821,
+      "verdict": "DIFFERENT",
+      "reason": "",
+      "context_a": "Magnus Brunner, Johannes Hahn, Elisabeth Werner",
+      "context_b": "Claudio Descalzi"
+    },
+    {
+      "raw_a": "University Of Vienna",
       "raw_b": "University Of Mainz",
       "similarity": 0.821,
+      "verdict": "SAME",
+      "reason": "",
+      "context_a": "Magnus Brunner, Johannes Hahn, Elisabeth Werner",
+      "context_b": "Valdis Dombrovskis",
+      "merged_into": "University Of Warsaw"
+    },
+    {
+      "raw_a": "University Of Vienna",
+      "raw_b": "University Of Liège",
+      "similarity": 0.821,
       "verdict": "DIFFERENT",
-      "reason": "The University of Athens and the University of Mainz are separate institutions in different countries (Greece and Germany).",
-      "context_a": [
-        "Stavros Dimas",
-        "Markos Kyprianou"
-      ],
-      "context_b": [
-        "Valdis Dombrovskis"
-      ]
+      "reason": "",
+      "context_a": "Magnus Brunner, Johannes Hahn, Elisabeth Werner",
+      "context_b": "Didier Reynders"
+    },
+    {
+      "raw_a": "University Of Tartu",
+      "raw_b": "University of Zagreb",
+      "similarity": 0.821,
+      "verdict": "SAME",
+      "reason": "",
+      "context_a": "Kaja Kallas, Kadri Simson, Andrus Ansip",
+      "context_b": "Tamara Ćapeta",
+      "merged_into": "University Of Warsaw"
     },
     {
       "raw_a": "University Of Athens",
-      "raw_b": "University Of Malta",
+      "raw_b": "University of Milan",
       "similarity": 0.821,
-      "verdict": "DIFFERENT",
-      "reason": "The names refer to different universities in different countries (Greece vs. Malta).",
-      "context_a": [
-        "Stavros Dimas",
-        "Markos Kyprianou"
-      ],
-      "context_b": [
-        "Joe Borg",
-        "Tonio Borg"
-      ]
+      "verdict": "SAME",
+      "reason": "",
+      "context_a": "Stavros Dimas, Markos Kyprianou, Costas Kadis",
+      "context_b": "Claudio Descalzi",
+      "merged_into": "University Of Warsaw"
     },
     {
-      "raw_a": "University Of Athens",
-      "raw_b": "University Of Tartu",
+      "raw_a": "University Of Reading",
+      "raw_b": "University Of Rome",
       "similarity": 0.821,
-      "verdict": "DIFFERENT",
-      "reason": "The institutions are the University of Athens and the University of Tartu, which are located in different countries (Greece and Estonia) and have no relation.",
-      "context_a": [
-        "Stavros Dimas",
-        "Markos Kyprianou"
-      ],
-      "context_b": [
-        "Kaja Kallas",
-        "Kadri Simson"
-      ]
+      "verdict": "SAME",
+      "reason": "",
+      "context_a": "Stella Kyriakides, Elisa Ferreira, Rupert Lowe",
+      "context_b": "Roberto Viola",
+      "merged_into": "University Of Reading"
     },
     {
-      "raw_a": "University Of Bari",
-      "raw_b": "University Of Obihiro",
-      "similarity": 0.821,
-      "verdict": "DIFFERENT",
-      "reason": "The University of Bari is in Italy, while the University of Obihiro is in Japan; they are unrelated institutions.",
-      "context_a": [
-        "Raffaele Fitto"
-      ],
-      "context_b": [
-        "Andriana Sukova"
-      ]
-    },
-    {
-      "raw_a": "University Of Bari",
-      "raw_b": "University Of Reading",
-      "similarity": 0.821,
-      "verdict": "DIFFERENT",
-      "reason": "The University of Bari and the University of Reading are distinct institutions in different countries (Italy and England).",
-      "context_a": [
-        "Raffaele Fitto"
-      ],
-      "context_b": [
-        "Stella Kyriakides",
-        "Elisa Ferreira"
-      ]
-    },
-    {
-      "raw_a": "University Of Bari",
-      "raw_b": "University Of Tampere",
-      "similarity": 0.821,
-      "verdict": "DIFFERENT",
-      "reason": "The University of Bari and the University of Tampere are located in different countries (Italy and Finland) and are entirely separate institutions.",
-      "context_a": [
-        "Raffaele Fitto"
-      ],
-      "context_b": [
-        "Jyrki Katainen",
-        "Timo Pesonen"
-      ]
-    },
-    {
-      "raw_a": "University Of Deusto",
-      "raw_b": "University Of Ghent",
-      "similarity": 0.821,
-      "verdict": "DIFFERENT",
-      "reason": "University of Deusto is in Bilbao, Spain, while University of Ghent is in Ghent, Belgium.",
-      "context_a": [
-        "Joaquín Almunia"
-      ],
-      "context_b": [
-        "Philippe Van Damme"
-      ]
-    },
-    {
-      "raw_a": "University Of Deusto",
+      "raw_a": "University Of Oxford",
       "raw_b": "University Of Porto",
       "similarity": 0.821,
-      "verdict": "DIFFERENT",
-      "reason": "University of Deusto is in Bilbao, Spain, while University of Porto is in Porto, Portugal.",
-      "context_a": [
-        "Joaquín Almunia"
-      ],
-      "context_b": [
-        "Elisa Ferreira"
-      ]
-    },
-    {
-      "raw_a": "University Of Deusto",
-      "raw_b": "University Of Wales",
-      "similarity": 0.821,
-      "verdict": "DIFFERENT",
-      "reason": "The University of Deusto is a specific institution in Spain, while the University of Wales is a separate institution in the UK.",
-      "context_a": [
-        "Joaquín Almunia"
-      ],
-      "context_b": [
-        "Joe Borg"
-      ]
-    },
-    {
-      "raw_a": "University Of Exeter",
-      "raw_b": "University Of Ghent",
-      "similarity": 0.821,
-      "verdict": "DIFFERENT",
-      "reason": "The University of Exeter and the University of Ghent are distinct institutions in different countries (UK vs. Belgium).",
-      "context_a": [
-        "Despina Spanou"
-      ],
-      "context_b": [
-        "Philippe Van Damme"
-      ]
-    },
-    {
-      "raw_a": "University Of Exeter",
-      "raw_b": "University Of Tartu",
-      "similarity": 0.821,
-      "verdict": "DIFFERENT",
-      "reason": "The University of Exeter and the University of Tartu are distinct institutions in different countries (UK vs Estonia).",
-      "context_a": [
-        "Despina Spanou"
-      ],
-      "context_b": [
-        "Kaja Kallas",
-        "Kadri Simson"
-      ]
-    },
-    {
-      "raw_a": "University Of Exeter",
-      "raw_b": "University Of Turku",
-      "similarity": 0.821,
-      "verdict": "DIFFERENT",
-      "reason": "The University of Exeter and the University of Turku are entirely separate institutions in different countries (UK vs Finland).",
-      "context_a": [
-        "Despina Spanou"
-      ],
-      "context_b": [
-        "Ilkka Salmi"
-      ]
-    },
-    {
-      "raw_a": "University Of Ghent",
-      "raw_b": "University Of Rennes",
-      "similarity": 0.821,
-      "verdict": "DIFFERENT",
-      "reason": "University of Ghent is in Belgium, while University of Rennes is in France.",
-      "context_a": [
-        "Philippe Van Damme"
-      ],
-      "context_b": [
-        "Yves-Thibault de Silguy"
-      ]
+      "verdict": "SAME",
+      "reason": "",
+      "context_a": "Chris Patten, Meglena Kuneva, Virginijus Sinkevičius",
+      "context_b": "Elisa Ferreira",
+      "merged_into": "University Of Oxford"
     }
   ],
   "clusters": {
+    "(None Explicitly Named)": [
+      "(None Explicitly Named)"
+    ],
     "22Nd Secondary School In Vilnius": [
       "22Nd Secondary School In Vilnius"
     ],
@@ -1419,6 +939,9 @@
     "Aberystwyth University": [
       "Aberystwyth University"
     ],
+    "Academia de Poliție ‘Alexandru Ioan Cuza’ (Alexandru Ioan Cuza Police Academy, Romania)": [
+      "Academia de Poliție ‘Alexandru Ioan Cuza’ (Alexandru Ioan Cuza Police Academy, Romania)"
+    ],
     "Academy Of Social Sciences": [
       "Academy Of Social Sciences"
     ],
@@ -1428,12 +951,8 @@
     "Alfa Savings Bank": [
       "Alfa Savings Bank"
     ],
-    "American University, Washington College Of Law": [
-      "American University, Washington College Of Law"
-    ],
     "Antwerp University - Ufsia – Antwerp, Belgium": [
-      "Antwerp University - Ufsia – Antwerp, Belgium",
-      "Antwerp University – Uia – Antwerp, Belgium"
+      "Antwerp University - Ufsia – Antwerp, Belgium"
     ],
     "Architectural Association School Of Architecture": [
       "Architectural Association School Of Architecture"
@@ -1449,9 +968,6 @@
     ],
     "Athens National Polytechnic Metsovio": [
       "Athens National Polytechnic Metsovio"
-    ],
-    "Athens School Of Economics And Business": [
-      "Athens School Of Economics And Business"
     ],
     "Autonomous University Of Madrid": [
       "Autonomous University Of Madrid"
@@ -1471,9 +987,6 @@
     "Bocconi": [
       "Bocconi"
     ],
-    "Bonn": [
-      "Bonn"
-    ],
     "Borgo Piave Di Latina": [
       "Borgo Piave Di Latina"
     ],
@@ -1484,8 +997,7 @@
       "British School Of Economics"
     ],
     "Bucharest Academy Of Economic Studies": [
-      "Bucharest Academy Of Economic Studies",
-      "Bucharest University Of Economic Studies"
+      "Bucharest Academy Of Economic Studies"
     ],
     "Carysfort College": [
       "Carysfort College"
@@ -1505,44 +1017,24 @@
     "Central European University, Prague": [
       "Central European University, Prague"
     ],
-    "Centre D’Études Des Relations Internationales Et Stratégiques, Université Libre": [
-      "Centre D’Études Des Relations Internationales Et Stratégiques, Université Libre"
-    ],
-    "Centre Européen Universitaire – Nancy, France": [
-      "Centre Européen Universitaire – Nancy, France"
-    ],
-    "Centre For European Studies – Sofia, Bulgaria": [
-      "Centre For European Studies – Sofia, Bulgaria"
-    ],
-    "Ceris, Brussels": [
-      "Ceris, Brussels"
-    ],
     "Ceu San Pablo University Foundation": [
       "Ceu San Pablo University Foundation"
     ],
     "Charles University": [
-      "Charles University"
+      "Charles University",
+      "Yale University"
     ],
     "Charles University In Prague": [
       "Charles University In Prague"
     ],
-    "Charles University, Faculty Of Law, Prague": [
-      "Charles University, Faculty Of Law, Prague"
-    ],
-    "City University Business School": [
-      "City University Business School"
-    ],
-    "Civil Service College, Sunningdale, Uk": [
-      "Civil Service College, Sunningdale, Uk"
-    ],
     "Classical Lyceum Torquato Tasso": [
       "Classical Lyceum Torquato Tasso"
     ],
-    "College Of Bruges": [
-      "College Of Bruges"
-    ],
     "College of Europe": [
       "College of Europe"
+    ],
+    "Columbia Business School": [
+      "Columbia Business School"
     ],
     "Coláiste Muire, Tourmakeady": [
       "Coláiste Muire, Tourmakeady"
@@ -1550,17 +1042,8 @@
     "Comenius University": [
       "Comenius University"
     ],
-    "Community Of European Management Schools": [
-      "Community Of European Management Schools"
-    ],
-    "Complutense University": [
-      "Complutense University"
-    ],
     "Complutense University Of Madrid": [
       "Complutense University Of Madrid"
-    ],
-    "Copenhagen Business School": [
-      "Copenhagen Business School"
     ],
     "Corpus Christi College, Oxford University - Oxford": [
       "Corpus Christi College, Oxford University - Oxford"
@@ -1571,29 +1054,23 @@
     "Council Of Legal Education": [
       "Council Of Legal Education"
     ],
-    "Danish School Of Public Administration": [
-      "Danish School Of Public Administration"
-    ],
-    "Danube University Krems, Austria": [
-      "Danube University Krems, Austria"
-    ],
     "Dimitrie Cantemir Christian University": [
       "Dimitrie Cantemir Christian University"
-    ],
-    "Diplomatic Academy Of The Spanish Foreign Ministry": [
-      "Diplomatic Academy Of The Spanish Foreign Ministry"
     ],
     "Dr Petar Beron Language High School In Kyustendil": [
       "Dr Petar Beron Language High School In Kyustendil"
     ],
+    "EDHEC Business School (Ecole des Hautes Etudes Commerciales du Nord)": [
+      "EDHEC Business School (Ecole des Hautes Etudes Commerciales du Nord)"
+    ],
     "ENA": [
       "ENA"
     ],
+    "ESADE": [
+      "ESADE"
+    ],
     "Ecole De Commerce Solvay, Université Libre De Bruxelles": [
       "Ecole De Commerce Solvay, Université Libre De Bruxelles"
-    ],
-    "Ecole Hec School Of Management": [
-      "Ecole Hec School Of Management"
     ],
     "Economic University In Varna": [
       "Economic University In Varna"
@@ -1601,17 +1078,11 @@
     "Edmund A. Walsh School Of Foreign Service At Georgetown University": [
       "Edmund A. Walsh School Of Foreign Service At Georgetown University"
     ],
-    "Engineering Council U.K.": [
-      "Engineering Council U.K."
-    ],
     "Enpc (Paris)": [
       "Enpc (Paris)"
     ],
     "Essec Business School": [
       "Essec Business School"
-    ],
-    "Estonian Banking Union": [
-      "Estonian Banking Union"
     ],
     "Estonian Business School (Ebs)": [
       "Estonian Business School (Ebs)"
@@ -1622,20 +1093,8 @@
     "Ethniko & Koapodistriako": [
       "Ethniko & Koapodistriako"
     ],
-    "European Commission – Brussels, Belgium": [
-      "European Commission – Brussels, Belgium"
-    ],
-    "European Institute Of Public Administration (Eipa)": [
-      "European Institute Of Public Administration (Eipa)"
-    ],
-    "European Institute Of The University Of Amsterdam": [
-      "European Institute Of The University Of Amsterdam"
-    ],
     "Eötvös Loránd University": [
       "Eötvös Loránd University"
-    ],
-    "Facultad De Derecho, Universidad De Sevilla": [
-      "Facultad De Derecho, Universidad De Sevilla"
     ],
     "Faculty Of Electrical Engineering, University Of Ljubljana": [
       "Faculty Of Electrical Engineering, University Of Ljubljana"
@@ -1643,32 +1102,14 @@
     "Faculty Of Laws – Tal-Qroqq, Malta": [
       "Faculty Of Laws – Tal-Qroqq, Malta"
     ],
-    "Faculty Of Medicine, University Of Zagreb": [
-      "Faculty Of Medicine, University Of Zagreb"
-    ],
     "Faculty Of Natural Sciences, University Of Zagreb": [
       "Faculty Of Natural Sciences, University Of Zagreb"
-    ],
-    "Fao Rome": [
-      "Fao Rome"
-    ],
-    "Free University Of Brussels": [
-      "Free University Of Brussels"
-    ],
-    "Free University Of Brussels, Institut Des Etudes Européennes": [
-      "Free University Of Brussels, Institut Des Etudes Européennes"
-    ],
-    "Free University, Berlin, Germany": [
-      "Free University, Berlin, Germany"
     ],
     "Freiburg Universit": [
       "Freiburg Universit"
     ],
-    "Freie Universität - Berlin": [
-      "Freie Universität - Berlin"
-    ],
-    "Geneva (Switzerland)": [
-      "Geneva (Switzerland)"
+    "Fundação Dom Cabral": [
+      "Fundação Dom Cabral"
     ],
     "George Washington University": [
       "George Washington University"
@@ -1688,11 +1129,14 @@
     "Gymnasium Korntal-Münchingen": [
       "Gymnasium Korntal-Münchingen"
     ],
+    "HEC International Business School": [
+      "HEC International Business School"
+    ],
+    "HEC Montréal": [
+      "HEC Montréal"
+    ],
     "Haberdashers' Aske'S Boys' School": [
       "Haberdashers' Aske'S Boys' School"
-    ],
-    "Hamburg": [
-      "Hamburg"
     ],
     "Hamburg Law Faculty": [
       "Hamburg Law Faculty"
@@ -1703,14 +1147,20 @@
     "Harvard": [
       "Harvard"
     ],
-    "Harvard Business School": [
-      "Harvard Business School"
+    "Harvard Law School": [
+      "Harvard Law School"
     ],
     "Haut Enseignement Commercial Pour Les Jeunes Filles": [
       "Haut Enseignement Commercial Pour Les Jeunes Filles"
     ],
+    "Hautes Etudes Commerciales (HEC)": [
+      "Hautes Etudes Commerciales (HEC)"
+    ],
     "Hec Paris": [
       "Hec Paris"
+    ],
+    "Heidelberg University": [
+      "Heidelberg University"
     ],
     "Hellenic Air Force": [
       "Hellenic Air Force"
@@ -1718,20 +1168,14 @@
     "Hendon School": [
       "Hendon School"
     ],
-    "High Court, Berlin, Germany": [
-      "High Court, Berlin, Germany"
-    ],
-    "Hon. Society Of King'S Inns, Dublin": [
-      "Hon. Society Of King'S Inns, Dublin"
+    "Higher School of Political Sciences (Wyższa Szkoła Nauk Społecznych)": [
+      "Higher School of Political Sciences (Wyższa Szkoła Nauk Społecznych)"
     ],
     "Humboldt University Berlin, Germany": [
       "Humboldt University Berlin, Germany"
     ],
     "Insead": [
       "Insead"
-    ],
-    "Institut D'Etudes Politiques (Scpo)": [
-      "Institut D'Etudes Politiques (Scpo)"
     ],
     "Institut D'Études Politiques": [
       "Institut D'Études Politiques"
@@ -1745,26 +1189,11 @@
     "Institut Des Hautes Études De Défense Nationale (Ihedn)": [
       "Institut Des Hautes Études De Défense Nationale (Ihedn)"
     ],
-    "Institut D’Etudes Européennes – Université Libre De Bruxelles": [
-      "Institut D’Etudes Européennes – Université Libre De Bruxelles"
-    ],
     "Institut D’Etudes Politiques De Paris": [
       "Institut D’Etudes Politiques De Paris"
     ],
     "Institut National Agronomique Paris-Grignon (Inapg)": [
       "Institut National Agronomique Paris-Grignon (Inapg)"
-    ],
-    "Institut National Polytechnique De Grenoble (Inpg)": [
-      "Institut National Polytechnique De Grenoble (Inpg)"
-    ],
-    "Institute Of Agricultural Economics – Sofia, Bulgaria": [
-      "Institute Of Agricultural Economics – Sofia, Bulgaria"
-    ],
-    "Institute Of European Studies Of The Free University Of Brussels (Ulb)": [
-      "Institute Of European Studies Of The Free University Of Brussels (Ulb)"
-    ],
-    "Institute Of Internal Auditors": [
-      "Institute Of Internal Auditors"
     ],
     "Institute Of Political Science And International Relations, Vilnius University": [
       "Institute Of Political Science And International Relations, Vilnius University"
@@ -1778,41 +1207,50 @@
     "Jagiellonian University": [
       "Jagiellonian University"
     ],
+    "Janson-de-Sailly": [
+      "Janson-de-Sailly"
+    ],
     "Jesuit School At Chamartín": [
       "Jesuit School At Chamartín"
     ],
     "Jesuit School Of Indautxu": [
       "Jesuit School Of Indautxu"
     ],
-    "John F. Kennedy School Of Government – Harvard University": [
-      "John F. Kennedy School Of Government – Harvard University"
+    "John F. Kennedy School of Government": [
+      "John F. Kennedy School of Government"
     ],
     "Karl Marx Higher Institute Of Economics (Now Called University Of National And W": [
       "Karl Marx Higher Institute Of Economics (Now Called University Of National And W"
     ],
-    "Katholieke Universiteit - Leuven, Belgium": [
-      "Katholieke Universiteit - Leuven, Belgium"
+    "Karl Marx University of Economic Sciences (present-day Corvinus University of Budapest)": [
+      "Karl Marx University of Economic Sciences (present-day Corvinus University of Budapest)"
+    ],
+    "Katholieke Universiteit Leuven": [
+      "Katholieke Universiteit Leuven"
+    ],
+    "Katholieke Universiteit Leuven (Catholic University of Leuven": [
+      "Katholieke Universiteit Leuven (Catholic University of Leuven"
     ],
     "Katholieke Universiteit Nijmegen – Nijmegen, The Netherlands": [
       "Katholieke Universiteit Nijmegen – Nijmegen, The Netherlands"
     ],
-    "Katholieke Universiteit – Kul – Leuven, Belgium": [
-      "Katholieke Universiteit – Kul – Leuven, Belgium"
-    ],
     "Kaunas Medical Institute": [
       "Kaunas Medical Institute"
+    ],
+    "Kellogg-WHU Executive MBA Program (Kellogg School of Management, US and WHU – Otto Beisheim School of Management, Germany)": [
+      "Kellogg-WHU Executive MBA Program (Kellogg School of Management, US and WHU – Otto Beisheim School of Management, Germany)"
     ],
     "King's College London": [
       "King's College London"
     ],
-    "LSE": [
-      "LSE"
-    ],
     "Lansdowne High School": [
       "Lansdowne High School"
     ],
-    "Law School, Trinity College – Dublin, Ireland": [
-      "Law School, Trinity College – Dublin, Ireland"
+    "Latvijas Universitāte (University of Latvia) in 1993": [
+      "Latvijas Universitāte (University of Latvia) in 1993"
+    ],
+    "Law Faculty of University of Silesia in Katowice": [
+      "Law Faculty of University of Silesia in Katowice"
     ],
     "Leiden University": [
       "Leiden University"
@@ -1831,9 +1269,6 @@
     ],
     "Liceo Torquato Tasso In Rome": [
       "Liceo Torquato Tasso In Rome"
-    ],
-    "Limerick University": [
-      "Limerick University"
     ],
     "London Institute Of World Affairs": [
       "London Institute Of World Affairs"
@@ -1862,14 +1297,29 @@
     "Lycée Condorcet": [
       "Lycée Condorcet"
     ],
+    "Lycée Cuvier": [
+      "Lycée Cuvier"
+    ],
     "Lycée Du Nord In Wiltz": [
       "Lycée Du Nord In Wiltz"
+    ],
+    "Lycée Faidherbe": [
+      "Lycée Faidherbe"
     ],
     "Lycée Français In Madrid": [
       "Lycée Français In Madrid"
     ],
+    "Lycée Français de Bruxelles": [
+      "Lycée Français de Bruxelles"
+    ],
+    "Lycée François 1": [
+      "Lycée François 1"
+    ],
     "Lycée Louis-Le-Grand": [
       "Lycée Louis-Le-Grand"
+    ],
+    "Lycée Maxence Van Der Meersch": [
+      "Lycée Maxence Van Der Meersch"
     ],
     "Lycée Michel Rodange": [
       "Lycée Michel Rodange"
@@ -1883,11 +1333,17 @@
     "Macalester College": [
       "Macalester College"
     ],
+    "Main School of Planning and Statistics (now Warsaw School of Economics)": [
+      "Main School of Planning and Statistics (now Warsaw School of Economics)"
+    ],
     "Marlborough School, Los Angeles, Us": [
       "Marlborough School, Los Angeles, Us"
     ],
     "Maryland Institute College Of Art": [
       "Maryland Institute College Of Art"
+    ],
+    "Massachusetts Institute of Technology (MIT)": [
+      "Massachusetts Institute of Technology (MIT)"
     ],
     "Middle Temple (Inn Of Court)": [
       "Middle Temple (Inn Of Court)"
@@ -1910,20 +1366,30 @@
     "Nancy University": [
       "Nancy University"
     ],
-    "National And Kapodistrian University": [
-      "National And Kapodistrian University"
-    ],
     "National School Of Public Administration, Warsaw, Poland": [
       "National School Of Public Administration, Warsaw, Poland"
     ],
     "National Technical University Of Athens": [
       "National Technical University Of Athens"
     ],
+    "National and Kapodistrian University of Athens": [
+      "National and Kapodistrian University of Athens"
+    ],
     "New York University": [
       "New York University"
     ],
+    "New York University Stern School of Business": [
+      "New York University Stern School of Business"
+    ],
+    "None listed": [
+      "None listed"
+    ],
     "Nordic Folk High School In Geneva": [
       "Nordic Folk High School In Geneva"
+    ],
+    "Not specified in the provided text": [
+      "Not specified in the provided text",
+      "Not specified in the text"
     ],
     "Nova University": [
       "Nova University"
@@ -1933,9 +1399,6 @@
     ],
     "Our Lady Of The Visitation": [
       "Our Lady Of The Visitation"
-    ],
-    "Oxford University": [
-      "Oxford University"
     ],
     "Penn State University": [
       "Penn State University"
@@ -1949,6 +1412,9 @@
     "Polish National School Of Public Administration": [
       "Polish National School Of Public Administration"
     ],
+    "Polytechnic University of Milan": [
+      "Polytechnic University of Milan"
+    ],
     "Prague University Of Economics And Business": [
       "Prague University Of Economics And Business"
     ],
@@ -1958,11 +1424,20 @@
     "Protestant Grammar School In Rotterdam": [
       "Protestant Grammar School In Rotterdam"
     ],
+    "Q9296379": [
+      "Q9296379"
+    ],
     "Radboud University Nijmegen": [
       "Radboud University Nijmegen"
     ],
-    "Rheinische Friedrich Wilhelms Universität Bonn, Germany, Université De Lausanne": [
-      "Rheinische Friedrich Wilhelms Universität Bonn, Germany, Université De Lausanne"
+    "Raoul Wallenberg Institute of Human Rights and Humanitarian Law": [
+      "Raoul Wallenberg Institute of Human Rights and Humanitarian Law"
+    ],
+    "Rheinische Friedrich-Wilhelms-Universität Bonn (Rhenish Friedrich Wilhelm University of Bonn, Germany)": [
+      "Rheinische Friedrich-Wilhelms-Universität Bonn (Rhenish Friedrich Wilhelm University of Bonn, Germany)"
+    ],
+    "Rheinische Friedrich-Wilhelms-Universität Bonn where he w": [
+      "Rheinische Friedrich-Wilhelms-Universität Bonn where he w"
     ],
     "Rhode Island School Of Design (Risd)": [
       "Rhode Island School Of Design (Risd)"
@@ -1983,8 +1458,7 @@
       "Rotterdam School Of Economics"
     ],
     "Royal University Of Malta": [
-      "Royal University Of Malta",
-      "University Of Malta"
+      "Royal University Of Malta"
     ],
     "Saint George'S English School": [
       "Saint George'S English School"
@@ -2001,6 +1475,9 @@
     "Sciences Po": [
       "Sciences Po"
     ],
+    "Sciences Po Paris": [
+      "Sciences Po Paris"
+    ],
     "Scuola Superiore Di Lingue Moderne Per Interpreti E Traduttori – Università Di T": [
       "Scuola Superiore Di Lingue Moderne Per Interpreti E Traduttori – Università Di T"
     ],
@@ -2013,17 +1490,11 @@
     "Sheffield Hallam University": [
       "Sheffield Hallam University"
     ],
-    "Sidney Sussex College, Cambridge": [
-      "Sidney Sussex College, Cambridge"
-    ],
     "Siilinjärvi Senior High School": [
       "Siilinjärvi Senior High School"
     ],
     "Sofia University": [
       "Sofia University"
-    ],
-    "Solvay Business School / Ulb – Brussels, Belgium": [
-      "Solvay Business School / Ulb – Brussels, Belgium"
     ],
     "Sorbonne": [
       "Sorbonne"
@@ -2033,6 +1504,9 @@
     ],
     "St Catherine'S College": [
       "St Catherine'S College"
+    ],
+    "St John's College, University of Oxford": [
+      "St John's College, University of Oxford"
     ],
     "St Patrick'S College Of Education": [
       "St Patrick'S College Of Education"
@@ -2058,20 +1532,32 @@
     "Stockholm Institute Of Education": [
       "Stockholm Institute Of Education"
     ],
+    "Stockholm School of Economics": [
+      "Stockholm School of Economics"
+    ],
     "Stockholm University": [
       "Stockholm University"
+    ],
+    "Sveučilište u Zagrebu": [
+      "Sveučilište u Zagrebu"
+    ],
+    "Sveučilište u Zagrebu (University of Zagreb, Croatia)": [
+      "Sveučilište u Zagrebu (University of Zagreb, Croatia)"
     ],
     "Swedish School Of 1953": [
       "Swedish School Of 1953"
     ],
+    "Tampere University of Technology": [
+      "Tampere University of Technology"
+    ],
     "Tartu 10Th Middle School": [
       "Tartu 10Th Middle School"
     ],
-    "The City University": [
-      "The City University"
+    "Tartu ülikool (University of Tartu, Estonia)": [
+      "Tartu ülikool (University of Tartu, Estonia)"
     ],
-    "Thiers Hypokhagne": [
-      "Thiers Hypokhagne"
+    "Technische Universität Darmstadt": [
+      "Technische Universität Darmstadt"
     ],
     "Thunderbird School Of Global Management, Arizona": [
       "Thunderbird School Of Global Management, Arizona"
@@ -2079,10 +1565,8 @@
     "Transylvania University Of Braşov": [
       "Transylvania University Of Braşov"
     ],
-    "Trinity College Dublin - Dublin": [
-      "Trinity College Dublin - Dublin",
-      "Trinity College – Dublin",
-      "Trinity College – Dublin, Ireland"
+    "Trinity College Dublin": [
+      "Trinity College Dublin"
     ],
     "Trinity College, Cambridge": [
       "Trinity College, Cambridge"
@@ -2093,17 +1577,17 @@
     "Tübingen": [
       "Tübingen"
     ],
-    "UCL": [
-      "UCL"
-    ],
-    "ULB Brussels": [
-      "ULB Brussels"
-    ],
-    "Un Institute For Training And Research/International Peace Academy – Oslo, Norwa": [
-      "Un Institute For Training And Research/International Peace Academy – Oslo, Norwa"
-    ],
     "Universidad Complutense": [
       "Universidad Complutense"
+    ],
+    "Universidad Pontificia Comillas - ICADE (Madrid)": [
+      "Universidad Pontificia Comillas - ICADE (Madrid)"
+    ],
+    "Universidad de Granada (University of Granada, Spain)": [
+      "Universidad de Granada (University of Granada, Spain)"
+    ],
+    "Universidad de Sevilla (University of Seville, Spain)": [
+      "Universidad de Sevilla (University of Seville, Spain)"
     ],
     "Universidade Do Minho": [
       "Universidade Do Minho"
@@ -2111,41 +1595,19 @@
     "Universidade Lusíada": [
       "Universidade Lusíada"
     ],
-    "Universita S. Orsola, Naples": [
-      "Universita S. Orsola, Naples"
-    ],
-    "Universiteit Van Amsterdam – Amsterdam, The Netherlands": [
-      "Universiteit Van Amsterdam – Amsterdam, The Netherlands"
-    ],
-    "Universities Of Münster (Germany)": [
-      "Universities Of Münster (Germany)"
-    ],
-    "Universities Of Paris Ii Panthéon-Assas": [
-      "Universities Of Paris Ii Panthéon-Assas"
+    "Universitatea Alexandru Ioan Cuza din Iași (Alexandru Ioan Cuza University, Iași, Romania)": [
+      "Universitatea Alexandru Ioan Cuza din Iași (Alexandru Ioan Cuza University, Iași, Romania)"
     ],
     "University College Cork": [
-      "University College Cork"
-    ],
-    "University College Dublin": [
-      "University College Dublin"
+      "University College Cork",
+      "University College Cork (UCC)"
     ],
     "University College London": [
+      "University College Dublin",
       "University College London"
-    ],
-    "University Complutense Of Madrid, Spain": [
-      "University Complutense Of Madrid, Spain"
     ],
     "University Of Alcalá De Henares": [
       "University Of Alcalá De Henares"
-    ],
-    "University Of Amsterdam": [
-      "University Of Amsterdam"
-    ],
-    "University Of Athens": [
-      "University Of Athens"
-    ],
-    "University Of Bari": [
-      "University Of Bari"
     ],
     "University Of Birmingham": [
       "University Of Birmingham"
@@ -2155,9 +1617,6 @@
     ],
     "University Of California, Berkeley": [
       "University Of California, Berkeley"
-    ],
-    "University Of Cambridge": [
-      "University Of Cambridge"
     ],
     "University Of Cambridge, Pembroke College": [
       "University Of Cambridge, Pembroke College"
@@ -2172,16 +1631,11 @@
       "University Of Cádiz"
     ],
     "University Of Deusto": [
-      "University Of Deusto"
-    ],
-    "University Of Exeter": [
-      "University Of Exeter"
+      "University Of Deusto",
+      "University of Utah"
     ],
     "University Of Freiburg": [
       "University Of Freiburg"
-    ],
-    "University Of Ghent": [
-      "University Of Ghent"
     ],
     "University Of Glasgow, Law School, United Kingdom": [
       "University Of Glasgow, Law School, United Kingdom"
@@ -2192,12 +1646,6 @@
     "University Of Granada": [
       "University Of Granada"
     ],
-    "University Of Grenoble, France": [
-      "University Of Grenoble, France"
-    ],
-    "University Of Helsinki": [
-      "University Of Helsinki"
-    ],
     "University Of Humberside, Kingston Upon Hull": [
       "University Of Humberside, Kingston Upon Hull"
     ],
@@ -2207,23 +1655,11 @@
     "University Of Jyväskylä": [
       "University Of Jyväskylä"
     ],
-    "University Of Kiel": [
-      "University Of Kiel"
-    ],
     "University Of Kingston-Upon-Hull": [
       "University Of Kingston-Upon-Hull"
     ],
-    "University Of Latvia": [
-      "University Of Latvia"
-    ],
     "University Of Leicester": [
       "University Of Leicester"
-    ],
-    "University Of Lisbon": [
-      "University Of Lisbon"
-    ],
-    "University Of Liège": [
-      "University Of Liège"
     ],
     "University Of Ljubljana": [
       "University Of Ljubljana"
@@ -2234,23 +1670,8 @@
     "University Of Ljubljana - Faculty Of Law": [
       "University Of Ljubljana - Faculty Of Law"
     ],
-    "University Of London (Soas/Cefims)": [
-      "University Of London (Soas/Cefims)"
-    ],
-    "University Of London, King'S College": [
-      "University Of London, King'S College"
-    ],
-    "University Of Lund": [
-      "University Of Lund"
-    ],
-    "University Of Mainz": [
-      "University Of Mainz"
-    ],
     "University Of Malta'S Junior College": [
       "University Of Malta'S Junior College"
-    ],
-    "University Of Manchester": [
-      "University Of Manchester"
     ],
     "University Of Maryland, College Park": [
       "University Of Maryland, College Park"
@@ -2267,35 +1688,40 @@
     "University Of Natural Resources And Applied Life Sciences Vienna": [
       "University Of Natural Resources And Applied Life Sciences Vienna"
     ],
-    "University Of Obihiro": [
-      "University Of Obihiro"
-    ],
     "University Of Oxford": [
-      "University Of Oxford"
-    ],
-    "University Of Oxford, Magdalen College": [
-      "University Of Oxford, Magdalen College"
+      "University Of Athens",
+      "University Of Bari",
+      "University Of Cambridge",
+      "University Of Ghent",
+      "University Of Helsinki",
+      "University Of Latvia",
+      "University Of Lisbon",
+      "University Of Liège",
+      "University Of Mainz",
+      "University Of Oxford",
+      "University Of Porto",
+      "University Of Reading",
+      "University Of Rennes",
+      "University Of Rome",
+      "University Of Tampere",
+      "University Of Tartu",
+      "University Of Utrecht",
+      "University Of Vienna",
+      "University Of Warsaw",
+      "University of Barcelona",
+      "University of Bonn",
+      "University of Cologne",
+      "University of London",
+      "University of Milan",
+      "University of Namur",
+      "University of Tübingen",
+      "University of Zagreb"
     ],
     "University Of Plovdiv": [
       "University Of Plovdiv"
     ],
     "University Of Poitiers": [
       "University Of Poitiers"
-    ],
-    "University Of Porto": [
-      "University Of Porto"
-    ],
-    "University Of Reading": [
-      "University Of Reading"
-    ],
-    "University Of Rennes": [
-      "University Of Rennes"
-    ],
-    "University Of Rome": [
-      "University Of Rome"
-    ],
-    "University Of Rome La Sapienza": [
-      "University Of Rome La Sapienza"
     ],
     "University Of Salzburg": [
       "University Of Salzburg"
@@ -2309,31 +1735,11 @@
     "University Of Szeged": [
       "University Of Szeged"
     ],
-    "University Of Tampere": [
-      "University Of Tampere"
-    ],
-    "University Of Tartu": [
-      "University Of Tartu"
-    ],
     "University Of Turku": [
       "University Of Turku"
     ],
-    "University Of Utrecht": [
-      "University Of Utrecht"
-    ],
-    "University Of Vienna": [
-      "University Of Vienna",
-      "University Of Vienna/Austria"
-    ],
     "University Of Wales": [
       "University Of Wales"
-    ],
-    "University Of Warsaw": [
-      "University Of Warsaw",
-      "University Of Warsaw, Poland"
-    ],
-    "University Of Wroclaw": [
-      "University Of Wroclaw"
     ],
     "University Of York": [
       "University Of York"
@@ -2344,20 +1750,56 @@
     "University Of Łódź": [
       "University Of Łódź"
     ],
-    "University of Bonn": [
-      "University of Bonn"
+    "University of Alcalá": [
+      "University of Alcalá"
     ],
-    "University of Cologne": [
-      "University of Cologne"
+    "University of Chicago": [
+      "University of Chicago"
     ],
-    "University of Tübingen": [
-      "University of Tübingen"
+    "University of Chicago (Graduate School of Business)": [
+      "University of Chicago (Graduate School of Business)"
+    ],
+    "University of Graz (implied by context, but not explicitly named; the phrase states 'obtained a law degree in 1987 and, subsequently, a doctorate in law in 1990' without naming the university)": [
+      "University of Graz (implied by context, but not explicitly named; the phrase states 'obtained a law degree in 1987 and, subsequently, a doctorate in law in 1990' without naming the university)"
+    ],
+    "University of Illinois": [
+      "University of Illinois"
+    ],
+    "University of La Sorbonne Paris": [
+      "University of La Sorbonne Paris"
+    ],
+    "University of Latvia, Faculty of Law": [
+      "University of Latvia, Faculty of Law"
+    ],
+    "University of Life Sciences in Poznań": [
+      "University of Life Sciences in Poznań"
+    ],
+    "University of Michigan": [
+      "University of Michigan"
+    ],
+    "University of Rome, Sapienza": [
+      "University of Rome, Sapienza"
+    ],
+    "University of Silesia in Katowice": [
+      "University of Silesia in Katowice"
+    ],
+    "University of Southern California": [
+      "University of Southern California"
+    ],
+    "University of St. Gallen": [
+      "University of St. Gallen"
+    ],
+    "University of Texas at Austin": [
+      "University of Texas at Austin"
+    ],
+    "University of Toronto's Munk School of Global Affairs and Public Policy": [
+      "University of Toronto's Munk School of Global Affairs and Public Policy"
     ],
     "Università Cattolica": [
       "Università Cattolica"
     ],
-    "Università Commerciale Luigi Bocconi, Milan": [
-      "Università Commerciale Luigi Bocconi, Milan"
+    "Università degli Studi di Firenze (University of Florence, Italy)": [
+      "Università degli Studi di Firenze (University of Florence, Italy)"
     ],
     "Université Catholique De Louvain": [
       "Université Catholique De Louvain"
@@ -2366,8 +1808,13 @@
       "Université De Lausanne"
     ],
     "Université Libre De Bruxelles": [
-      "Université Libre De Bruxelles",
-      "Université Libre De Bruxelles (Ulb)"
+      "Université Libre De Bruxelles"
+    ],
+    "Université libre de Bruxelles (Free University of Brussels, Belgium)": [
+      "Université libre de Bruxelles (Free University of Brussels, Belgium)"
+    ],
+    "Univerzita Komenského v Bratislave (Comenius University in Bratislava, Slovakia)": [
+      "Univerzita Komenského v Bratislave (Comenius University in Bratislava, Slovakia)"
     ],
     "Upholland Grammar School": [
       "Upholland Grammar School"
@@ -2376,29 +1823,26 @@
       "Utrecht University"
     ],
     "Victoria University Of Manchester": [
+      "University Of Manchester",
       "Victoria University Of Manchester"
+    ],
+    "Vilniaus universitetas (University of Vilnius": [
+      "Vilniaus universitetas (University of Vilnius"
     ],
     "Vilnius University": [
       "Vilnius University"
     ],
-    "Vlerick Business School": [
-      "Vlerick Business School"
-    ],
     "Vrije Universiteit Brussel": [
-      "Vrije Universiteit Brussel",
-      "Vrije Universiteit Brussels"
+      "Vrije Universiteit Brussel"
     ],
-    "Warsaw University": [
-      "Warsaw University"
+    "Westfälische Wilhelms-Universität in Münster": [
+      "Westfälische Wilhelms-Universität in Münster"
     ],
     "Wigan Mining And Technical College": [
       "Wigan Mining And Technical College"
     ],
-    "Wye College, Wye, Kent, Uk": [
-      "Wye College, Wye, Kent, Uk"
-    ],
-    "Yale University": [
-      "Yale University"
+    "Wolfson College": [
+      "Wolfson College"
     ],
     "Zagreb Faculty Of Humanities And Social Sciences": [
       "Zagreb Faculty Of Humanities And Social Sciences"
@@ -2406,20 +1850,24 @@
     "Zaragoza University": [
       "Zaragoza University"
     ],
+    "université de Genève (University of Geneva, Switzerland)": [
+      "université de Genève (University of Geneva, Switzerland)"
+    ],
     "École Alsacienne": [
       "École Alsacienne"
     ],
     "École Apostolique (Secondary School) At Clairefontaine": [
       "École Apostolique (Secondary School) At Clairefontaine"
     ],
-    "École Du Génie Rural Des Eaux Et Forêts (Engref)": [
-      "École Du Génie Rural Des Eaux Et Forêts (Engref)"
+    "École Centrale Paris": [
+      "École Centrale Paris"
     ],
-    "École Nationale D'Administration": [
-      "École Nationale D'Administration"
+    "École Nationale Supérieure de l’Aéronautique et de l’Espace": [
+      "École Nationale Supérieure de l’Aéronautique et de l’Espace"
     ],
     "École Polytechnique": [
-      "École Polytechnique"
+      "École Polytechnique",
+      "École polytechnique (Paris)"
     ],
     "École Pratique Des Hautes Études": [
       "École Pratique Des Hautes Études"
@@ -2429,6 +1877,18 @@
     ],
     "École Supérieure De Commerce De Paris (Escp)": [
       "École Supérieure De Commerce De Paris (Escp)"
+    ],
+    "École Supérieure d’Electricité": [
+      "École Supérieure d’Electricité"
+    ],
+    "École des Mines": [
+      "École des Mines"
+    ],
+    "École nationale d'administration": [
+      "École nationale d'administration"
+    ],
+    "École nationale d'administration (National School of Administration, France)": [
+      "École nationale d'administration (National School of Administration, France)"
     ]
   }
 }
