@@ -447,6 +447,7 @@ def generate_all(db):
 
     entities = db.execute("SELECT id, type, category, country FROM entity ORDER BY id").fetchall()
     count = 0
+    print(f'  Processing {len(entities)} entities...')
 
     for eid, etype, cat, country in entities:
         if etype == 'person':
@@ -484,7 +485,7 @@ def generate_all(db):
         WHERE f.predicate = 'educated_at'
         GROUP BY obj.name HAVING n >= 3 ORDER BY n DESC
     """).fetchall():
-        inst_name, inst_id, count = row
+        inst_name, inst_id, attendee_count = row
         # Generate a slug from the institution name
         cluster_id = slugify(inst_name)
         
@@ -504,7 +505,7 @@ def generate_all(db):
                     f.write(page)
                 auto_count += 1
                 if auto_count <= 5:
-                    print(f'  Auto: {inst_name[:40]} ({count} attendees) → {cluster_id[:40]}.md')
+                    print(f'  Auto: {inst_name[:40]} ({attendee_count} attendees) → {cluster_id[:40]}.md')
 
     # Country pages
     cc_count = 0
