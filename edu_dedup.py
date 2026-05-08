@@ -170,7 +170,7 @@ SAME or DIFFERENT? One word, then reason:"""
 
 
 def apply_merges(db, clusters):
-    """Update fact.object to canonical entity ID."""
+    """Update fact.object to canonical entity ID, verifying evidence supports the merge."""
     name_to_canonical = clusters
     id_map = {}
     
@@ -182,6 +182,19 @@ def apply_merges(db, clusters):
     
     updates = 0
     for old_eid, canon_eid in id_map.items():
+        # SAFETY CHECK: for each fact pointing to old_eid, verify the evidence
+        # actually supports the canonical institution before merging
+        bogus = db.execute("""
+            SELECT COUNT(*) FROM fact f JOIN provenance p ON p.fact_id = f.id
+            WHERE f.predicate = 'educated_at' AND f.object = ?
+            AND LENGTH(p.quote_text) > 10
+            AND LOWER(p.quote_text) NOT LIKE '%' || LOWER((SELECT name FROM entity WHERE id = ?)) || '%'
+        """, [old_eid, canon_eid]).fetchone()[0]
+        
+        if bogus > 0:
+            print(f"  SKIP: {old_eid} → {canon_eid} ({bogus} facts have non-matching evidence)")
+            continue
+        
         n = db.execute("UPDATE fact SET object=? WHERE object=? AND predicate='educated_at'",
                        [canon_eid, old_eid]).rowcount
         if n:
