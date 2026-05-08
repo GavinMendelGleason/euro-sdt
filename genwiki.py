@@ -204,22 +204,38 @@ def is_valid_institution_name(name):
 
 
 def is_valid_org_name(name):
-    """Reject section headings, boilerplate, and text snippets masquerading as org names."""
+    """Reject awards, journals, decorations, and boilerplate masquerading as org names."""
     name_lower = name.lower().strip()
+    
+    # Awards, decorations, honours
+    award_markers = [
+        'order of ', 'grand cross', 'commander ', 'knight ', 'officer of',
+        'medal of', 'decoration', 'grand officer', 'adler-orden',
+        'grã-cruz', 'chevalier', 'commendatore', 'grande ufficiale',
+    ]
+    if any(m in name_lower for m in award_markers):
+        return False
+    
+    # Journals, reviews, periodicals
+    journal_markers = ['revue ', 'review ', 'journal ', 'quarterly', 'tijdschrift',
+                       'cahiers de', 'european law review']
+    if any(m in name_lower for m in journal_markers):
+        return False
+    
+    # Section headings and boilerplate
     heading_markers = [
         'biography and career', 'memberships of', 'honorary titles', 'titles and awards',
-        'curriculum vitae', 'professional experience', 'education and training',
-        'publications', 'languages', 'see also', 'references', 'external links',
-        'show more', 'show less', 'related links', 'and career', 'born in',
-        'obtained a', 'completed a', 'graduated from', 'studied at',
-        'mr ', 'president of', 'judge at', 'appointed as',
+        'curriculum vitae', 'professional experience', 'show more', 'show less',
     ]
-    if len(name) > 150:
-        return False
     if any(m in name_lower for m in heading_markers):
         return False
-    if name_lower.startswith(('in ','on ','he ','the ','born ','mr ')):
+    
+    # Text snippets
+    if len(name) > 150:
         return False
+    if name_lower.startswith(('born ', 'in he began', 'from ', 'on his return')):
+        return False
+    
     return True
 
 
