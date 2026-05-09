@@ -1,0 +1,297 @@
+{
+  "main": {
+    "id": "3d50c34fded72fe0",
+    "type": "split",
+    "children": [
+      {
+        "id": "384fa33b7b254671",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93b9c9ebd6736a8c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "8e0c1a0d8f42fb37",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "img/stats_sdt_overlap.png"
+              },
+              "icon": "lucide-image",
+              "title": "stats_sdt_overlap"
+            }
+          },
+          {
+            "id": "8a1e177c8f95c958",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "stats.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "stats"
+            }
+          },
+          {
+            "id": "a6f85f7d0b06931c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "organisations/rai.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "rai"
+            }
+          },
+          {
+            "id": "a171dce86369e0c5",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "img/stats_comm_edu_time.png"
+              },
+              "icon": "lucide-image",
+              "title": "stats_comm_edu_time"
+            }
+          },
+          {
+            "id": "ee6154684a7eb7ca",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "img/stats_overview.png"
+              },
+              "icon": "lucide-image",
+              "title": "stats_overview"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ad1edde3105f7108",
+    "type": "split",
+    "children": [
+      {
+        "id": "070da7b896666d05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2459d844357856bf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0b0b9e734c2dfa6d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "05c2a94b57f12f0f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3cde9b0374a81270",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e9376706107975f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "541da0b7d492d4c5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "06252ec6898b9430",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "stats.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from stats"
+            }
+          },
+          {
+            "id": "e761097bae2703e4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e497afffcb72cf45",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "c5234cce421c8faa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "stats.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of stats"
+            }
+          },
+          {
+            "id": "66e9119753cf3e54",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {},
+              "icon": "lucide-info",
+              "title": "File properties"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "93b9c9ebd6736a8c",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "Untitled.base",
+    "stats.md",
+    "img/stats_sdt_overlap.png",
+    "organisations/rai.md",
+    "people/ross-mcinnes.md",
+    "organisations/sld-national-administration.md",
+    "organisations/order-of-merit-of-luxembourg.md",
+    "organisations/order-of-merit-of-hungary.md",
+    "organisations/lorenz-von-stein-institut-fur-verwaltungswissenschaften.md",
+    "organisations/group-of-european-prime-ministers.md",
+    "organisations/european-institute-of-fraud-auditors.md",
+    "organisations/european-competition-law-judges-association.md",
+    "organisations/court-of-conciliation-and-arbitration-within-the-osce.md",
+    "organisations/contact-office-with-the-ecsc.md",
+    "organisations/conseil-detat.md",
+    "organisations/committee-of-research-and-education-advisers.md",
+    "organisations/b-team.md",
+    "organisations/association-of-energy-law-cyprus.md",
+    "organisations/academy-of-european-law-era-trier.md",
+    "organisations/karl-franzens-universitat-graz.md",
+    "organisations/irish-centre-for-european-law.md",
+    "organisations/the-students-association-of-the-institut-detudes-politiques-iep-de-grenoble.md",
+    "organisations/the-societe-de-legislation-comparee-society-of-comparative-legislation.md",
+    "organisations/the-junta-electoral-central-spain-from-2012-to-2015.md",
+    "organisations/the-honorable-society-of-kings-inns-dublin-ireland.md",
+    "organisations/the-governing-council-and-director-of-the-association-of-european-competition-law-judges.md",
+    "organisations/the-european-group-of-public-law-egpl.md",
+    "Untitled 1.canvas",
+    "bodies",
+    "img/stats_network_spaces.png",
+    "img/stats_mep_orgs.png",
+    "img/stats_edu_trends.png",
+    "img/stats_comm_edu_time.png",
+    "img/stats_overview.png",
+    "img/stats_org_compare.png",
+    "img/stats_mep_edu_compare.png",
+    "img/stats_sources.png",
+    "img/stats_dg_edu.png"
+  ]
+}

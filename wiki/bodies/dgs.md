@@ -1,0 +1,89 @@
+# Directors-General & Deputy Directors-General
+
+85 senior officials
+
+- [Agnieszka KAŹMIERCZAK](../people/agnieszka-kazmierczak.md) — *Director-General* — Director-General → Internal Audit Service
+- [Alberto De Gregorio Merino](../people/alberto-de-gregorio-merino.md) — *Director-General* — Director-General → Legal service
+- [Alexandra Jour-Schroeder](../people/alexandra-jour-schroeder.md) — *Director-General* — Deputy Director-General → Directorate-General for Financial 
+- [Ana Gallego Torres](../people/ana-gallego-torres.md) — *Director-General* — Director-General → Directorate-General for Justice and Consu
+- [Andriana Sukova](../people/andriana-sukova.md) — *Director-General* — 
+- [Anthony Whelan](../people/anthony-whelan.md) — *Director-General* — Director-General → Directorate-General for Competition
+- [Athanasios Thanopoulos](../people/athanasios-thanopoulos.md) — *Director-General* — Deputy Director-General → Eurostat
+- [Beate Gminder](../people/beate-gminder.md) — *Director-General* — Director-General → Directorate-General for Migration and Hom
+- [Beatriz Sanz Redrado](../people/beatriz-sanz-redrado.md) — *Director-General* — Deputy Director-General → Directorate-General for Budget
+- [Bernard Magenhann](../people/bernard-magenhann.md) — *Director-General* — Director-General → Joint Research Centre
+- [Charlina Vitcheva](../people/charlina-vitcheva.md) — *Director-General* — Director-General → Directorate-General for Maritime Affairs 
+- [Christian Roques](../people/christian-roques.md) — *Director-General* — Deputy Director-General → Directorate-General for Human Reso
+- [Christos Ellinides](../people/christos-ellinides.md) — *Director-General* — Director-General → Directorate-General for Translation
+- [Claire Bury](../people/claire-bury.md) — *Director-General* — Deputy Director-General → Directorate-General for Health and
+- [Clemens Ladenburger](../people/clemens-ladenburger.md) — *Director-General* — Deputy Director-General → Legal service
+- [Colin Scicluna](../people/colin-scicluna.md) — *Director-General* — Deputy Director-General → Directorate-General for Interpreta
+- [Céline Gauer](../people/celine-gauer.md) — *Director-General* — Director-General → Reform and Investment Task Force
+- [Dana Spinant](../people/dana-spinant.md) — *Director-General* — Director-General → Directorate-General for Communication
+- [Declan Costello](../people/declan-costello.md) — *Director-General* — Deputy Director-General → Directorate-General for Economic a
+- [Denis Redonnet](../people/denis-redonnet.md) — *Director-General* — Deputy Director-General → Directorate-General for Trade and 
+- [Despina Spanou](../people/despina-spanou.md) — *Director-General* — Deputy Director-General → Directorate-General for Communicat
+- [Ditte Juul Jørgensen](../people/ditte-juul-jrgensen.md) — *Director-General* — Director-General → Directorate-General for Energy
+- [Elisabeth Werner](../people/elisabeth-werner.md) — *Director-General* — Director-General → Directorate-General for Agriculture and R
+- [Eric Mamer](../people/eric-mamer.md) — *Director-General* — Director-General → Directorate-General for Environment
+- [Florika Fink-Hooijer](../people/florika-fink-hooijer.md) — *Director-General* — Director-General → Health Emergency Preparedness and Respons
+- [Genoveva Ruiz Calavera](../people/genoveva-ruiz-calavera.md) — *Director-General* — Director-General → Directorate-General for Interpretation
+- [Gerassimos Thomas](../people/gerassimos-thomas.md) — *Director-General* — Director-General → Directorate-General for Taxation and Cust
+- [Gert Jan Koopman](../people/gert-jan-koopman.md) — *Director-General* — Director-General → Directorate-General for Enlargement and E
+- [Guillaume Loriot](../people/guillaume-loriot.md) — *Director-General* — Deputy Director-General → Directorate-General for Competitio
+- [Herald Ruijters](../people/herald-ruijters.md) — *Director-General* — Deputy Director-General → Directorate-General for Defence In
+- [Hubert Gambs](../people/hubert-gambs.md) — *Director-General* — Deputy Director-General → Directorate-General for Justice an
+- [Hugo Sobral](../people/hugo-sobral.md) — *Director-General* — Deputy Director-General → Directorate-General for Regional a
+- [Idilkó Horváth](../people/idilko-horvath.md) — *Director-General* — Deputy Director-General → Directorate-General for Translatio
+- [Ilkka Salmi](../people/ilkka-salmi.md) — *Director-General* — Deputy Director-General → Directorate-General for Human Reso
+- [Ilze Juhansone](../people/ilze-juhansone.md) — *Director-General* — Secretary-General → Secretariat-General
+- [Irena Moozová](../people/irena-moozova.md) — *Director-General* — Deputy Director-General → Directorate-General for Justice an
+- [Jan Dusík](../people/jan-dusik.md) — *Director-General* — Deputy Director-General → Directorate-General for Climate Ac
+- [Joanna Drake](../people/joanna-drake.md) — *Director-General* — Deputy Director-General → Directorate-General for Research a
+- [Johannes Luchner](../people/johannes-luchner.md) — *Director-General* — Deputy Director-General → Directorate-General for Migration 
+- [John Berrigan](../people/john-berrigan.md) — *Director-General* — Director-General → Directorate-General for Financial Stabili
+- [Kerstin Jorna](../people/kerstin-jorna.md) — *Director-General* — Director-General → Directorate-General for Internal Market, 
+- [Kestutis Sadauskas](../people/kestutis-sadauskas.md) — *Director-General* — Deputy Director-General → Directorate-General for Maritime A
+- [Koen Doens](../people/koen-doens.md) — *Director-General* — Director-General → Directorate-General for International Par
+- [Kurt Vandenberghe](../people/kurt-vandenberghe.md) — *Director-General* — Director-General → Directorate-General for Climate Action
+- [Leopoldo Rubinacci](../people/leopoldo-rubinacci.md) — *Director-General* — Deputy Director-General → Directorate-General for Trade and 
+- [Linsey McCallum](../people/linsey-mccallum.md) — *Director-General* — Deputy Director-General → Directorate-General for Competitio
+- [Lorena Boix Alonso](../people/lorena-boix-alonso.md) — *Director-General* — Deputy Director-General → Directorate-General for Defence In
+- [Maarten Verwey](../people/maarten-verwey.md) — *Director-General* — Director-General → Directorate-General for Economic and Fina
+- [Maciej Popowski](../people/maciej-popowski.md) — *Director-General* — Director-General → Directorate-General for European Civil Pr
+- [Magda Kopczyńska](../people/magda-kopczynska.md) — *Director-General* — Director-General → Directorate-General for Mobility and Tran
+- [Maive Rute](../people/maive-rute.md) — *Director-General* — Deputy Director-General → Directorate-General for Internal M
+- [Maja Bakran Marcich](../people/maja-bakran-marcich.md) — *Director-General* — Deputy Director-General → Directorate-General for Mobility a
+- [Marc Lemaître](../people/marc-lemaitre.md) — *Director-General* — Director-General → Directorate-General for Research and Inno
+- [Maria Martin-Prat De Abreu](../people/maria-martin-prat-de-abreu.md) — *Director-General* — Deputy Director-General → Directorate-General for Trade and 
+- [Mariana Kotzeva](../people/mariana-kotzeva.md) — *Director-General* — Director-General → Eurostat
+- [Mario Nava](../people/mario-nava.md) — *Director-General* — Director-General → Directorate-General for Employment, Socia
+- [Marjeta Jager](../people/marjeta-jager.md) — *Director-General* — Deputy Director-General → Directorate-General for Internatio
+- [Martin Seychell](../people/martin-seychell.md) — *Director-General* — Deputy Director-General → Directorate-General for Internatio
+- [Matthew Baldwin](../people/matthew-baldwin.md) — *Director-General* — Deputy Director-General → Directorate-General for Energy
+- [Mechthild Wörsdörfer](../people/mechthild-worsdorfer.md) — *Director-General* — Deputy Director-General → Directorate-General for Energy
+- [Myriam Ferran](../people/myriam-ferran.md) — *Director-General* — Deputy Director-General → Directorate-General for Internatio
+- [Normunds Popens](../people/normunds-popens.md) — *Director-General* — Deputy Director-General → Directorate-General for Education,
+- [Olivier Onidi](../people/olivier-onidi.md) — *Director-General* — Deputy Director-General → Directorate-General for Migration 
+- [Patrick Anthony Child](../people/patrick-anthony-child.md) — *Director-General* — Deputy Director-General → Directorate-General for Environmen
+- [Petr Klement](../people/petr-klement.md) — *Director-General* — Director-General → European Anti-Fraud Office
+- [Philippe Van Damme](../people/philippe-van-damme.md) — *Director-General* — Deputy Director-General → Directorate-General for Digital Se
+- [Pia Ahrenkilde Hansen](../people/pia-ahrenkilde-hansen.md) — *Director-General* — Director-General → Directorate-General for Education, Youth,
+- [Pierre Bascou](../people/pierre-bascou.md) — *Director-General* — Deputy Director-General → Directorate-General for Agricultur
+- [Renate Nikolay](../people/renate-nikolay.md) — *Director-General* — 
+- [Roberto Viola](../people/roberto-viola.md) — *Director-General* — Director-General → Directorate-General for Communications Ne
+- [Sabine Weyand](../people/sabine-weyand.md) — *Director-General* — Director-General → Directorate-General for Trade and Economi
+- [Salla Saastamoinen](../people/salla-saastamoinen.md) — *Director-General* — Deputy Director-General → European Anti-Fraud Office
+- [Sandra Gallina](../people/sandra-gallina.md) — *Director-General* — Director-General → Directorate-General for Health and Food S
+- [Sophia Eriksson Waterschoot](../people/sophia-eriksson-waterschoot.md) — *Director-General* — Deputy Director-General → Directorate-General for Communicat
+- [Stefan Olsson](../people/stefan-olsson.md) — *Director-General* — Deputy Director-General → Directorate-General for Employment
+- [Stephen Quest](../people/stephen-quest.md) — *Director-General* — Director-General → Directorate-General for Human Resources a
+- [Stéphanie Riso](../people/stephanie-riso.md) — *Director-General* — Director-General → Directorate-General for Budget
+- [Themis Christophidou](../people/themis-christophidou.md) — *Director-General* — Director-General → Directorate-General for Regional and Urba
+- [Thomas Skordas](../people/thomas-skordas.md) — *Director-General* — 
+- [Timo Pesonen](../people/timo-pesonen.md) — *Director-General* — Director-General → Directorate-General for Defence Industry 
+- [Valère Moutarlier](../people/valere-moutarlier.md) — *Director-General* — Deputy Director-General → Directorate-General for Internal M
+- [Veronica Gaffey](../people/veronica-gaffey.md) — *Director-General* — Director-General → Directorate-General for Digital Services
+- [John Watson](../people/john-watson.md) — *Deputy Director-General* — Deputy Secretary-General → Secretariat-General
+- [Nils Behrndt](../people/nils-behrndt.md) — *Deputy Director-General* — Deputy Secretary-General → Secretariat-General
+- [Pascal Leardini](../people/pascal-leardini.md) — *Deputy Director-General* — Deputy Secretary-General → Secretariat-General

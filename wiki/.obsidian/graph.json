@@ -1,0 +1,93 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#political-elite",
+      "color": {
+        "a": 1,
+        "rgb": 5077951
+      }
+    },
+    {
+      "query": "tag:#economic-elite",
+      "color": {
+        "a": 1,
+        "rgb": 16733525
+      }
+    },
+    {
+      "query": "tag:#administrative-elite",
+      "color": {
+        "a": 1,
+        "rgb": 4638335
+      }
+    },
+    {
+      "query": "tag:#judicial-elite",
+      "color": {
+        "a": 1,
+        "rgb": 10350619
+      }
+    },
+    {
+      "query": "tag:#political-party",
+      "color": {
+        "a": 1,
+        "rgb": 6553700
+      }
+    },
+    {
+      "query": "tag:#think-tank",
+      "color": {
+        "a": 1,
+        "rgb": 8421504
+      }
+    },
+    {
+      "query": "tag:#corporate",
+      "color": {
+        "a": 1,
+        "rgb": 16744576
+      }
+    },
+    {
+      "query": "tag:#government-body",
+      "color": {
+        "a": 1,
+        "rgb": 10092543
+      }
+    },
+    {
+      "query": "tag:#education",
+      "color": {
+        "a": 1,
+        "rgb": 16766720
+      }
+    },
+    {
+      "query": "tag:#hub",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.5,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.18549950350422276,
+  "close": false
+}
