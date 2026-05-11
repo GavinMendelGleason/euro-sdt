@@ -1,6 +1,6 @@
 # Education Clusters
 
-Elite institution groupings used for SDT analysis.
+Elite institution groupings.
 
 - [Oxbridge](../education/oxbridge.md)
 - [Sciences Po Ena](../education/sciences-po-ena.md)
@@ -19,7 +19,7 @@ Elite institution groupings used for SDT analysis.
 - [Georgetown University](../education/georgetown-university.md) — 5
 - [Complutense University Of Madrid](../education/complutense-university-of-madrid.md) — 5
 - [Aarhus University](../education/aarhus-university.md) — 5
-- [École nationale d'administration](../education/ecole-nationale-dadministration.md) — 4
+- [École nationale d'administration](../education/ecole-nationale-d-administration.md) — 4
 - [University Of Ljubljana](../education/university-of-ljubljana.md) — 4
 - [Trinity College Dublin](../education/trinity-college-dublin.md) — 4
 - [Insead](../education/insead.md) — 4

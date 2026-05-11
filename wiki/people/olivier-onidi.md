@@ -19,7 +19,7 @@ generated: 2026-05-11
 
 - **College of Europe**
   > " 1990: European Administrative Studies - College of Europe – Bruges"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/olivier-onidi.txt) (3077 chars)
 
 
@@ -27,12 +27,12 @@ generated: 2026-05-11
 
 - **Economics**
   > "Economics and Political Science – London"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/olivier-onidi.txt) (3077 chars)
 
 - **Political Science**
   > "Economics and Political Science – London"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/olivier-onidi.txt) (3077 chars)
 
 
@@ -40,7 +40,7 @@ generated: 2026-05-11
 
 - **Deputy Director-General → Directorate-General for Migration and Home Affairs**
   > "Deputy Director-General for security - DG Migration and"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/olivier-onidi.txt) (3077 chars)
 
 
@@ -57,7 +57,7 @@ Academic qualifications:
 Economics and Political Science – London 
  
  1"
-  > 📎 [CV: Olivier Onidi](sources/dg_cvs/)
+  > CV: Olivier Onidi
 
 - **College of Europe** — member
   > "Olivier ONIDI 
@@ -70,7 +70,7 @@ Academic qualifications:
 Economics and Political Science – London 
  
  1"
-  > 📎 [CV: Olivier Onidi](sources/dg_cvs/)
+  > CV: Olivier Onidi
 
 
 ### Education clusters

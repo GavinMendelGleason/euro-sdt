@@ -21,7 +21,7 @@ generated: 2026-05-11
 
 - **Judge**
   > "Andreas Kumin — held_position: Judge"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > From Commission person page or CJEU member listing
 
 
@@ -29,5 +29,5 @@ generated: 2026-05-11
 
 - **Karl-Franzens-Universität Graz** — member
   > "Wikidata P4100: Honorary Professor of European law of Karl-Franzens-Universität Graz (2020)"
-  > 📎 [Wikidata: Andreas Kumin](https://www.wikidata.org/wiki/Q59140719)
+  > Wikidata: Andreas Kumin
 

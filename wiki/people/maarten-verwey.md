@@ -19,7 +19,7 @@ generated: 2026-05-11
 
 - **Rijksuniversiteit Groningen**
   > "1988-1994: Masters Degree in Economics (macro economics and finance), Rijksuniversiteit Groningen"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/maarten-verwey.txt) (2105 chars)
 
 
@@ -27,7 +27,7 @@ generated: 2026-05-11
 
 - **Economics**
   > "Economist working on various issues, including on financial"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/maarten-verwey.txt) (2105 chars)
 
 
@@ -35,7 +35,7 @@ generated: 2026-05-11
 
 - **Director-General → Directorate-General for Economic and Financial Affairs**
   > "Director-General – Directorate-General “Economic"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/maarten-verwey.txt) (2105 chars)
 
 
@@ -48,7 +48,7 @@ European Institutions
 Ministry of Finance, Netherlands 
  2007 - 2011: Director of Foreign Financial Relations  
  2004 – 2007: Deputy Director of Economi"
-  > 📎 [CV: Maarten Verwey](sources/dg_cvs/)
+  > CV: Maarten Verwey
 
 - **Alternates Economic Financial Committee** — chair
   > "Professional experience 
@@ -57,7 +57,7 @@ European Institutions
 Ministry of Finance, Netherlands 
  2007 - 2011: Director of Foreign Financial Relations  
  2004 – 2007: Deputy Director of Economi"
-  > 📎 [CV: Maarten Verwey](sources/dg_cvs/)
+  > CV: Maarten Verwey
 
 
 ### Education clusters

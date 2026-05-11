@@ -21,18 +21,18 @@ generated: 2026-05-11
 
 - **Heidelberg University**
   > "Wikidata P69 for Q95333"
-  > 📎 [Wikidata: Juliane Kokott](https://www.wikidata.org/wiki/Q95333)
+  > Wikidata: Juliane Kokott
 
 - **Harvard Law School**
   > "Wikidata P69 for Q95333"
-  > 📎 [Wikidata: Juliane Kokott](https://www.wikidata.org/wiki/Q95333)
+  > Wikidata: Juliane Kokott
 
 
 ## Position
 
 - **Advocate General**
   > "Juliane Kokott — held_position: Advocate General"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > From Commission person page or CJEU member listing
 
 

@@ -19,7 +19,7 @@ generated: 2026-05-11
 
 - **University Of Copenhagen**
   > "9/1985 – 1/1990: Law Degree (Cand.jur.) – University of Copenhagen, Copenhagen, Denmark"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/ditte-juul-jrgensen.txt) (1686 chars)
 
 
@@ -27,7 +27,7 @@ generated: 2026-05-11
 
 - **Law**
   > "Law Degree (Cand.jur.) – University of"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/ditte-juul-jrgensen.txt) (1686 chars)
 
 
@@ -35,7 +35,7 @@ generated: 2026-05-11
 
 - **Director-General → Directorate-General for Energy**
   > "Director-General – Directorate-General “Energy”"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/ditte-juul-jrgensen.txt) (1686 chars)
 
 

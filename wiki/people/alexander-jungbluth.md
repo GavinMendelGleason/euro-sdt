@@ -21,5 +21,5 @@ generated: 2026-05-11
   > "German politician 
 
  Alexander Jungbluth (born 1987) is a German politician for the AfD party, he became a member of the European parliament on the 16 July 2024."
-  > 📎 [Wikipedia article: Alexander Jungbluth](https://en.wikipedia.org/wiki/Alexander_Jungbluth)
+  > Wikipedia article: Alexander Jungbluth
 

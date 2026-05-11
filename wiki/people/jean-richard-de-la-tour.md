@@ -21,7 +21,7 @@ generated: 2026-05-11
 
 - **Advocate General**
   > "Jean Richard de la Tour — held_position: Advocate General"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > From Commission person page or CJEU member listing
 
 
@@ -29,5 +29,5 @@ generated: 2026-05-11
 
 - **Conseil d’État** — member
   > "Wikidata P4100: Member of the association of members of the Conseil d’État"
-  > 📎 [Wikidata: Jean Richard de la Tour](https://www.wikidata.org/wiki/Q110101692)
+  > Wikidata: Jean Richard de la Tour
 

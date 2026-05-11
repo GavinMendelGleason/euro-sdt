@@ -19,5 +19,5 @@ generated: 2026-05-11
 
 - **Iberdrola** — CEO
   > "Extracted as CEO at Iberdrola"
-  > 📎 [Wikipedia: Iberdrola](https://en.wikipedia.org/wiki/Iberdrola)
+  > Wikipedia: Iberdrola
 

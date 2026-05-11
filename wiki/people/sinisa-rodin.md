@@ -28,7 +28,7 @@ Judge
 Biography and career
 
 Born 1963 in Zagreb (Croatia), Siniša Rodin obtained his law degree from Sveučilište u Zagrebu (University of Zagreb, Croatia) in 1987 and c"
-  > 📎 [CJEU: Siniša Rodin](https://curia.europa.eu/)
+  > CJEU: Siniša Rodin
 
 - **University of Michigan**
   > "Name: Siniša Rodin
@@ -39,18 +39,18 @@ Judge
 Biography and career
 
 Born 1963 in Zagreb (Croatia), Siniša Rodin obtained his law degree from Sveučilište u Zagrebu (University of Zagreb, Croatia) in 1987 and c"
-  > 📎 [CJEU: Siniša Rodin](https://curia.europa.eu/)
+  > CJEU: Siniša Rodin
 
 - **Sveučilište u Zagrebu**
   > "Returning to Croatia, he continued his studies at Sveučilište u Zagrebu, where he became a Doctor of Laws in 1995."
-  > 📎 [CJEU: Siniša Rodin](https://curia.europa.eu/)
+  > CJEU: Siniša Rodin
 
 
 ## Position
 
 - **Judge**
   > "Siniša Rodin — held_position: Judge"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > From Commission person page or CJEU member listing
 
 

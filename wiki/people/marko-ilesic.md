@@ -21,14 +21,14 @@ generated: 2026-05-11
 
 - **University Of Ljubljana**
   > "Wikidata P69 for Q26924362"
-  > 📎 [Wikidata: Marko Ilešič](https://www.wikidata.org/wiki/Q26924362)
+  > Wikidata: Marko Ilešič
 
 
 ## Position
 
 - **Judge**
   > "Marko Ilešič — held_position: Judge"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > From Commission person page or CJEU member listing
 
 

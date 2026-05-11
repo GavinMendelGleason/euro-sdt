@@ -19,5 +19,5 @@ generated: 2026-05-11
 
 - **Safran** — board member
   > "Extracted from Wikipedia page for Safran"
-  > 📎 [Wikipedia: Safran](https://en.wikipedia.org/wiki/Safran)
+  > Wikipedia: Safran
 

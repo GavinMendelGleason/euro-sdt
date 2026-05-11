@@ -19,7 +19,7 @@ generated: 2026-05-11
 
 - **At Warsaw University**
   > "At Warsaw University, Dominik took a bachelor's degree in law and administration, where he also later earned a post-graduate degree in law and economies of the European Communities."
-  > 📎 [Wikipedia article: Jacek Dominik](https://en.wikipedia.org/wiki/Jacek_Dominik)
+  > Wikipedia article: Jacek Dominik
   > Source: `sources/wikipedia/jacek-dominik.txt` (1340 chars)
 
 
@@ -27,12 +27,12 @@ generated: 2026-05-11
 
 - **law and administration**
   > "At Warsaw University, Dominik took a bachelor's degree in law and administration, where he also later earned a post-graduate degree in law and economies of the European Communities."
-  > 📎 [Wikipedia article: Jacek Dominik](https://en.wikipedia.org/wiki/Jacek_Dominik)
+  > Wikipedia article: Jacek Dominik
   > Source: `sources/wikipedia/jacek-dominik.txt` (1340 chars)
 
 - **law and economies of the European Communities**
   > "At Warsaw University, Dominik took a bachelor's degree in law and administration, where he also later earned a post-graduate degree in law and economies of the European Communities."
-  > 📎 [Wikipedia article: Jacek Dominik](https://en.wikipedia.org/wiki/Jacek_Dominik)
+  > Wikipedia article: Jacek Dominik
   > Source: `sources/wikipedia/jacek-dominik.txt` (1340 chars)
 
 
@@ -40,12 +40,12 @@ generated: 2026-05-11
 
 - **bachelor's degree**
   > "At Warsaw University, Dominik took a bachelor's degree in law and administration, where he also later earned a post-graduate degree in law and economies of the European Communities."
-  > 📎 [Wikipedia article: Jacek Dominik](https://en.wikipedia.org/wiki/Jacek_Dominik)
+  > Wikipedia article: Jacek Dominik
   > Source: `sources/wikipedia/jacek-dominik.txt` (1340 chars)
 
 - **post-graduate degree**
   > "At Warsaw University, Dominik took a bachelor's degree in law and administration, where he also later earned a post-graduate degree in law and economies of the European Communities."
-  > 📎 [Wikipedia article: Jacek Dominik](https://en.wikipedia.org/wiki/Jacek_Dominik)
+  > Wikipedia article: Jacek Dominik
   > Source: `sources/wikipedia/jacek-dominik.txt` (1340 chars)
 
 
@@ -53,7 +53,7 @@ generated: 2026-05-11
 
 - **Counsellor General at the Polish Ministry of Finance** — Other/Earlier (*nan*)
   > "Counsellor General at the Polish Ministry of Finance (Other/Earlier, nan)"
-  > 📎 [EC ethics page — Revolving door decisions](https://commission.europa.eu/about/service-standards-and-principles/ethics-and-good-administration/commissioners-and-ethics/former-european-commissioners-authorised-occupations_en)
+  > EC ethics page — Revolving door decisions
   > Vector match (score=0.77)
 
 

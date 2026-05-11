@@ -24,7 +24,7 @@ generated: 2026-05-11
  1993–1996: Secretary-General of the Youth Front 
  1996–1997: President of Youth Action 
  "
-  > 📎 [Wikipedia article: Roberta Angelilli](https://en.wikipedia.org/wiki/Roberta_Angelilli)
+  > Wikipedia article: Roberta Angelilli
 
 
 ## Organisation affiliations
@@ -36,7 +36,7 @@ generated: 2026-05-11
  1993–1996: Secretary-General of the Youth Front 
  1996–1997: President of Youth Action 
  "
-  > 📎 [Wikipedia article: Roberta Angelilli](https://en.wikipedia.org/wiki/Roberta_Angelilli)
+  > Wikipedia article: Roberta Angelilli
 
 - **Youth Action** — President
   > "Education [ edit ] 
@@ -45,7 +45,7 @@ generated: 2026-05-11
  1993–1996: Secretary-General of the Youth Front 
  1996–1997: President of Youth Action 
  "
-  > 📎 [Wikipedia article: Roberta Angelilli](https://en.wikipedia.org/wiki/Roberta_Angelilli)
+  > Wikipedia article: Roberta Angelilli
 
 - **AN Young Entrepreneurs Office** — Director
   > "Education [ edit ] 
@@ -54,7 +54,7 @@ generated: 2026-05-11
  1993–1996: Secretary-General of the Youth Front 
  1996–1997: President of Youth Action 
  "
-  > 📎 [Wikipedia article: Roberta Angelilli](https://en.wikipedia.org/wiki/Roberta_Angelilli)
+  > Wikipedia article: Roberta Angelilli
 
 - **AN (National Alliance) - Rome section** — Responsible for Community policies
   > "Education [ edit ] 
@@ -63,7 +63,7 @@ generated: 2026-05-11
  1993–1996: Secretary-General of the Youth Front 
  1996–1997: President of Youth Action 
  "
-  > 📎 [Wikipedia article: Roberta Angelilli](https://en.wikipedia.org/wiki/Roberta_Angelilli)
+  > Wikipedia article: Roberta Angelilli
 
 - **Fare Verde** — Director of the environmental association
   > "Education [ edit ] 
@@ -72,7 +72,7 @@ generated: 2026-05-11
  1993–1996: Secretary-General of the Youth Front 
  1996–1997: President of Youth Action 
  "
-  > 📎 [Wikipedia article: Roberta Angelilli](https://en.wikipedia.org/wiki/Roberta_Angelilli)
+  > Wikipedia article: Roberta Angelilli
 
 - **Movimento Comunità** — Founder
   > "Education [ edit ] 
@@ -81,7 +81,7 @@ generated: 2026-05-11
  1993–1996: Secretary-General of the Youth Front 
  1996–1997: President of Youth Action 
  "
-  > 📎 [Wikipedia article: Roberta Angelilli](https://en.wikipedia.org/wiki/Roberta_Angelilli)
+  > Wikipedia article: Roberta Angelilli
 
 
 ### Education clusters

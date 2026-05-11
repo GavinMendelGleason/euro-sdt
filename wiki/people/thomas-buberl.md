@@ -19,15 +19,15 @@ generated: 2026-05-11
 
 - **WHU – Otto Beisheim School of Management**
   > "&#91; citation needed &#93; He earned a business degree from WHU – Otto Beisheim School of Management (Germany), an MBA from Lancaster University (UK), and a PhD in economics from the University of St"
-  > 📎 [Wikipedia: Thomas Buberl](https://en.wikipedia.org/wiki/Thomas_Buberl)
+  > Wikipedia: Thomas Buberl
 
 - **Lancaster University**
   > "&#91; citation needed &#93; He earned a business degree from WHU – Otto Beisheim School of Management (Germany), an MBA from Lancaster University (UK), and a PhD in economics from the University of St"
-  > 📎 [Wikipedia: Thomas Buberl](https://en.wikipedia.org/wiki/Thomas_Buberl)
+  > Wikipedia: Thomas Buberl
 
 - **University of St. Gallen**
   > "&#91; citation needed &#93; He earned a business degree from WHU – Otto Beisheim School of Management (Germany), an MBA from Lancaster University (UK), and a PhD in economics from the University of St"
-  > 📎 [Wikipedia: Thomas Buberl](https://en.wikipedia.org/wiki/Thomas_Buberl)
+  > Wikipedia: Thomas Buberl
 
 
 ### Education clusters

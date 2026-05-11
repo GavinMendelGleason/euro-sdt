@@ -19,5 +19,5 @@ generated: 2026-05-11
 
 - **SAP** — Board Member
   > "Extracted as Board Member at SAP"
-  > 📎 [Wikipedia: SAP](https://en.wikipedia.org/wiki/SAP)
+  > Wikipedia: SAP
 

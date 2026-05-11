@@ -21,7 +21,7 @@ generated: 2026-05-11
 
 - **Prodi Commission**
   > "By political affiliation"
-  > 📎 [Wikipedia article: Frits Bolkestein](https://en.wikipedia.org/wiki/Frits_Bolkestein)
+  > Wikipedia article: Frits Bolkestein
   > Name "Frits Bolkestein" found in Wikipedia table extract for commission-prodi
 
 
@@ -29,7 +29,7 @@ generated: 2026-05-11
 
 - **Internal Market**
   > "By political affiliation"
-  > 📎 [Wikipedia article: Frits Bolkestein](https://en.wikipedia.org/wiki/Frits_Bolkestein)
+  > Wikipedia article: Frits Bolkestein
   > Name found in commission-prodi table extract
 
 
@@ -37,7 +37,7 @@ generated: 2026-05-11
 
 - **NLD**
   > "By political affiliation"
-  > 📎 [Wikipedia article: Frits Bolkestein](https://en.wikipedia.org/wiki/Frits_Bolkestein)
+  > Wikipedia article: Frits Bolkestein
   > Name found in commission-prodi table extract
 
 
@@ -45,7 +45,7 @@ generated: 2026-05-11
 
 - **Netherlands**
   > "By political affiliation"
-  > 📎 [Wikipedia article: Frits Bolkestein](https://en.wikipedia.org/wiki/Frits_Bolkestein)
+  > Wikipedia article: Frits Bolkestein
   > Name found in commission-prodi table extract
 
 
@@ -53,7 +53,7 @@ generated: 2026-05-11
 
 - **British Royal Navy**
   > "Louis enrolled in the British Royal Navy at the age of fourteen."
-  > 📎 [Wikipedia article: Frits Bolkestein](https://en.wikipedia.org/wiki/Frits_Bolkestein)
+  > Wikipedia article: Frits Bolkestein
   > Wikipedia extract for Frits Bolkestein
 
 

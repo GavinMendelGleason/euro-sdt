@@ -21,12 +21,12 @@ generated: 2026-05-11
 
 - **Prodi Commission**
   > "Günter Verheugen (German pronunciation: [ˈɡʏntɐ fɛɐˈhɔʏɡn̩]; born 28 April 1944) is a German politician who served as European Commissioner for Enlargement from 1999 to 2004, and then as European Comm"
-  > 📎 [Wikipedia article: Günter Verheugen](https://en.wikipedia.org/wiki/Günter_Verheugen)
+  > Wikipedia article: Günter Verheugen
   > LLM re-match (phrase 0)
 
 - **Barroso I**
   > "Name "Günter Verheugen" appears in Wikipedia page for commission-barroso-i"
-  > 📎 [Wikipedia article: Günter Verheugen](https://en.wikipedia.org/wiki/Günter_Verheugen)
+  > Wikipedia article: Günter Verheugen
   > Source: sources/wikipedia/commission-barroso-i.txt (30457 chars)
 
 
@@ -34,12 +34,12 @@ generated: 2026-05-11
 
 - **Enlargement**
   > "The college consisted of 20 Commissioners which grew to 30 following the Enlargement of the European Union in 2004."
-  > 📎 [Wikipedia article: Günter Verheugen](https://en.wikipedia.org/wiki/Günter_Verheugen)
+  > Wikipedia article: Günter Verheugen
   > The Prodi Commission was the European Commission in office between 1999 and 2004. The administration was led by former Italian Prime Minister Romano P
 
 - **VP – Enterprise and Industry**
   > "He continued in the following Barroso Commission as Commissioner for Enterprise and Industry, also being promoted to one of the five vice presidents."
-  > 📎 [Wikipedia article: Günter Verheugen](https://en.wikipedia.org/wiki/Günter_Verheugen)
+  > Wikipedia article: Günter Verheugen
   > Günter Verheugen (German pronunciation: [ˈɡʏntɐ fɛɐˈhɔʏɡn̩]; born 28 April 1944) is a German politician who served as European Commissioner for Enlarg
 
 
@@ -47,12 +47,12 @@ generated: 2026-05-11
 
 - **DEU**
   > "Günter Verheugen present in wikipedia/gunter-verheugen.txt — verifies nominated_by: DEU"
-  > 📎 *Organisations classified dataset (manually researched)*
+  > *Organisations classified dataset (manually researched)*
   > Primary source: wikipedia/gunter-verheugen.txt. Context: Günter Verheugen (German pronunciation: [ˈɡʏntɐ fɛɐˈhɔʏɡn̩]; born 28 April 1944) is a German 
 
 - **DEU**
   > "Günter Verheugen present in wikipedia/gunter-verheugen.txt — verifies nominated_by: DEU"
-  > 📎 *Organisations classified dataset (manually researched)*
+  > *Organisations classified dataset (manually researched)*
   > Primary source: wikipedia/gunter-verheugen.txt. Context: Günter Verheugen (German pronunciation: [ˈɡʏntɐ fɛɐˈhɔʏɡn̩]; born 28 April 1944) is a German 
 
 
@@ -60,12 +60,12 @@ generated: 2026-05-11
 
 - **Germany**
   > "Günter Verheugen present in wikipedia/gunter-verheugen.txt — verifies from_country: Germany"
-  > 📎 *Organisations classified dataset (manually researched)*
+  > *Organisations classified dataset (manually researched)*
   > Primary source: wikipedia/gunter-verheugen.txt. Context: Günter Verheugen (German pronunciation: [ˈɡʏntɐ fɛɐˈhɔʏɡn̩]; born 28 April 1944) is a German 
 
 - **Germany**
   > "Günter Verheugen present in wikipedia/gunter-verheugen.txt — verifies from_country: Germany"
-  > 📎 *Organisations classified dataset (manually researched)*
+  > *Organisations classified dataset (manually researched)*
   > Primary source: wikipedia/gunter-verheugen.txt. Context: Günter Verheugen (German pronunciation: [ˈɡʏntɐ fɛɐˈhɔʏɡn̩]; born 28 April 1944) is a German 
 
 
@@ -73,11 +73,11 @@ generated: 2026-05-11
 
 - **University of Cologne**
   > "Born at Bad Kreuznach in Rhineland-Palatinate, Verheugen studied history, sociology and political science at the University of Cologne and at the University of Bonn."
-  > 📎 [Wikipedia article: Günter Verheugen](https://en.wikipedia.org/wiki/Günter_Verheugen)
+  > Wikipedia article: Günter Verheugen
 
 - **University of Bonn**
   > "Born at Bad Kreuznach in Rhineland-Palatinate, Verheugen studied history, sociology and political science at the University of Cologne and at the University of Bonn."
-  > 📎 [Wikipedia article: Günter Verheugen](https://en.wikipedia.org/wiki/Günter_Verheugen)
+  > Wikipedia article: Günter Verheugen
 
 
 ## Organisation affiliations
@@ -88,7 +88,7 @@ Since leaving public office, Verheugen has held a variety of paid or unpaid posi
 
 FleishmanHillard, Member of the International Advisory Board
 German-Azerbai"
-  > 📎 [Wikipedia article: Günter Verheugen](https://en.wikipedia.org/wiki/Günter_Verheugen)
+  > Wikipedia article: Günter Verheugen
   > Source: `sources/wikipedia/gunter-verheugen.txt` (9793 chars)
 
 - **german-azerbaijani-forum** — Member of the Board of Trustees
@@ -97,7 +97,7 @@ Since leaving public office, Verheugen has held a variety of paid or unpaid posi
 
 FleishmanHillard, Member of the International Advisory Board
 German-Azerbai"
-  > 📎 [Wikipedia article: Günter Verheugen](https://en.wikipedia.org/wiki/Günter_Verheugen)
+  > Wikipedia article: Günter Verheugen
   > Source: `sources/wikipedia/gunter-verheugen.txt` (9793 chars)
 
 - **German Council on Foreign Relations (DGAP)** — Member
@@ -106,7 +106,7 @@ Since leaving public office, Verheugen has held a variety of paid or unpaid posi
 
 FleishmanHillard, Member of the International Advisory Board
 German-Azerbai"
-  > 📎 [Wikipedia article: Günter Verheugen](https://en.wikipedia.org/wiki/Günter_Verheugen)
+  > Wikipedia article: Günter Verheugen
   > Source: `sources/wikipedia/gunter-verheugen.txt` (9793 chars)
 
 - **turkey-culture-of-change-initiative-tcci** — Member of the Advisory Board
@@ -115,7 +115,7 @@ Since leaving public office, Verheugen has held a variety of paid or unpaid posi
 
 FleishmanHillard, Member of the International Advisory Board
 German-Azerbai"
-  > 📎 [Wikipedia article: Günter Verheugen](https://en.wikipedia.org/wiki/Günter_Verheugen)
+  > Wikipedia article: Günter Verheugen
   > Source: `sources/wikipedia/gunter-verheugen.txt` (9793 chars)
 
 - **national-association-of-german-cooperative-banks-bvr** — Advisor
@@ -124,7 +124,7 @@ Since leaving public office, Verheugen has held a variety of paid or unpaid posi
 
 FleishmanHillard, Member of the International Advisory Board
 German-Azerbai"
-  > 📎 [Wikipedia article: Günter Verheugen](https://en.wikipedia.org/wiki/Günter_Verheugen)
+  > Wikipedia article: Günter Verheugen
   > Source: `sources/wikipedia/gunter-verheugen.txt` (9793 chars)
 
 - **royal-bank-of-scotland-rbs** — Senior Advisor
@@ -133,17 +133,17 @@ Since leaving public office, Verheugen has held a variety of paid or unpaid posi
 
 FleishmanHillard, Member of the International Advisory Board
 German-Azerbai"
-  > 📎 [Wikipedia article: Günter Verheugen](https://en.wikipedia.org/wiki/Günter_Verheugen)
+  > Wikipedia article: Günter Verheugen
   > Source: `sources/wikipedia/gunter-verheugen.txt` (9793 chars)
 
 - **agency-for-the-modernisation-of-ukraine-amu** — Head of the European integration work stream
   > "From March 2015, Verheugen headed the European integration work stream in the Dmytro Firtash-backed Agency for the Modernisation of Ukraine (AMU), a non-governmental organization developing a comprehe"
-  > 📎 [Wikipedia article: Günter Verheugen](https://en.wikipedia.org/wiki/Günter_Verheugen)
+  > Wikipedia article: Günter Verheugen
   > Source: `sources/wikipedia/gunter-verheugen.txt` (9793 chars)
 
 - **deutsche-welle** — Chair of the Broadcasting Council
   > "In addition to his parliamentary work, he chaired the Broadcasting Council of Deutsche Welle from 1994 until 1998."
-  > 📎 [Wikipedia article: Günter Verheugen](https://en.wikipedia.org/wiki/Günter_Verheugen)
+  > Wikipedia article: Günter Verheugen
   > Source: `sources/wikipedia/gunter-verheugen.txt` (9793 chars)
 
 

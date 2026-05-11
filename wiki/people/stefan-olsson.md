@@ -19,7 +19,7 @@ generated: 2026-05-11
 
 - **Stockholm Business School**
   > "1988 – 1989 Economics, Stockholm Business School, Sweden"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/stefan-olsson.txt) (1355 chars)
 
 
@@ -27,7 +27,7 @@ generated: 2026-05-11
 
 - **Deputy Director-General → Directorate-General for Employment, Social Affairs and Inclusion**
   > " 04/2009 - 12/2010 Head of Unit for Anti-discrimination law (DG"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/stefan-olsson.txt) (1355 chars)
 
 

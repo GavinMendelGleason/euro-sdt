@@ -20,7 +20,7 @@ generated: 2026-05-11
 - **Executive Board of SAP** — Member
   > "&#91; 4 &#93; 
  Klein is also a member of the Executive Board of SAP."
-  > 📎 [Wikipedia: Christian Klein](https://en.wikipedia.org/wiki/Christian_Klein)
+  > Wikipedia: Christian Klein
 
 - **Adidas** — Member of the Supervisory Board
   > "&#91; 5 &#93; 
@@ -28,7 +28,7 @@ generated: 2026-05-11
  Other activities [ edit ] 
  Adidas , Member of the Supervisory Board (since 2020) &#91; 6 &#93; 
  Baden-Badener Unternehmer-Gespräche (BBUG), Member of the Board (since 2019) &#91; 7"
-  > 📎 [Wikipedia: Christian Klein](https://en.wikipedia.org/wiki/Christian_Klein)
+  > Wikipedia: Christian Klein
 
 - **Baden-Badener Unternehmer-Gespräche (BBUG)** — Member of the Board
   > "&#91; 5 &#93; 
@@ -36,7 +36,7 @@ generated: 2026-05-11
  Other activities [ edit ] 
  Adidas , Member of the Supervisory Board (since 2020) &#91; 6 &#93; 
  Baden-Badener Unternehmer-Gespräche (BBUG), Member of the Board (since 2019) &#91; 7"
-  > 📎 [Wikipedia: Christian Klein](https://en.wikipedia.org/wiki/Christian_Klein)
+  > Wikipedia: Christian Klein
 
 - **The Business Council** — Member
   > "&#91; 5 &#93; 
@@ -44,5 +44,5 @@ generated: 2026-05-11
  Other activities [ edit ] 
  Adidas , Member of the Supervisory Board (since 2020) &#91; 6 &#93; 
  Baden-Badener Unternehmer-Gespräche (BBUG), Member of the Board (since 2019) &#91; 7"
-  > 📎 [Wikipedia: Christian Klein](https://en.wikipedia.org/wiki/Christian_Klein)
+  > Wikipedia: Christian Klein
 

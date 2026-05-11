@@ -3,14 +3,57 @@
 Research into EU institutional elites — their recruitment, career patterns, education, and transatlantic
 network affiliations — using LLM-assisted analysis with phrase-level provenance.
 
-## Quick Start
+## Setup
+
+Requires Python 3.12+ and [uv](https://docs.astral.sh/uv/).
 
 ```bash
-# Regenerate the Obsidian wiki from the database
-.venv/bin/python3 genwiki.py
+uv venv
+uv pip install -e ".[all]"
+cp .env.example .env   # add your DEEPSEEK_API_KEY
+```
 
-# Run the citation cross-checker against the methodology paper
-.venv/bin/python3 check_citations.py assets/papers/methodology/paper.tex
+## Pipeline
+
+The pipeline has five stages. All LLM operations use `deepseek-v4-pro` with `thinking: disabled`.
+
+### 1. Scrape — acquire source texts
+
+```bash
+euro-sdt scrape commission      # VdL II commissioner list → commission_2024_2029.csv
+euro-sdt scrape meps            # MEP list → meps_2024_2029.csv
+euro-sdt scrape cvs             # Wikidata CV data (P69/P4100) for MEPs & commissioners
+euro-sdt scrape declarations    # Parse EC machine-readable declarations ZIP
+euro-sdt scrape sources         # Extract plain text + phrase indices to sources/
+```
+
+### 2. Extract — LLM phrase-level fact extraction
+
+```bash
+euro-sdt extract orgs           # Organisation memberships with phrase provenance → manifests/
+euro-sdt extract dedup-edu      # Education institution deduplication
+euro-sdt extract validate       # LLM entity name validation (VALID/STRIP/INVALID)
+```
+
+### 3. Verify — cross-check facts against source text
+
+```bash
+euro-sdt extract verify         # LLM verification of every fact against its source quote
+```
+
+### 4. Resolve — deduplicate entities
+
+```bash
+euro-sdt extract dedup-edu      # Two-pass LLM dedup: auto-merge (similarity ≥ 0.95) + LLM judge
+```
+
+### 5. Render — generate output artifacts
+
+```bash
+euro-sdt render wiki            # Obsidian wiki → wiki/
+euro-sdt render analytics       # Charts → wiki/img/
+euro-sdt check-citations assets/papers/methodology/paper.tex  # Cross-check paper citations
+euro-sdt status                 # DB coverage report
 ```
 
 Open `wiki/` as an Obsidian vault to explore the knowledge graph.
@@ -30,28 +73,16 @@ See [`AGENTS.md`](AGENTS.md) for the full evidence methodology and pipeline docu
 
 | Path | Purpose |
 |---|---|
+| `src/euro_sdt/` | Python package (scrape, extract, render, CLI) |
 | `euro_sdt.db` | SQLite database — single source of truth (~4,700 facts, ~2,000 entities) |
 | `wiki/` | Obsidian vault — auto-generated entity pages with graph-view colouring |
-| `genwiki.py` | Wiki generator with auto-education-clusters and org validation |
-| `extract_orgs.py` | LLM org membership extraction (deepseek-v4-pro) |
-| `edu_dedup.py` | Education institution deduplication with evidence verification |
-| `validate_entities.py` | LLM entity validation (VALID/STRIP/INVALID per organisation) |
-| `check_citations.py` | Paper citation cross-checker with hash cache |
 | `sources/` | Raw source texts (Wikipedia bios, DG CV PDFs, CJEU bios) |
 | `manifests/` | LLM extraction manifests with phrase-level provenance |
 | `assets/papers/methodology/` | Workshop paper (LaTeX + PDF) |
+| `papers/` | Cited work PDFs + bibliography |
 | `AGENTS.md` | Contributor workflow and resource map |
 | `WIKI.md` | Full data inventory — authoritative index of all datasets |
 | `Entities.md` | Organisation research notes |
-| `papers/BIBLIOGRAPHY.md` | Paper citation catalog |
-
-## Pipeline
-
-```
-scrape → extract (LLM phrase-level manifest) → verify (cross-check) → resolve (dedup) → render (wiki)
-```
-
-All LLM operations use `deepseek-v4-pro` with `thinking: disabled`.
 
 ## Coverage
 

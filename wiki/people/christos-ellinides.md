@@ -19,7 +19,7 @@ generated: 2026-05-11
 
 - **Nova University**
   > "07/06/1985: B.Sc. (cum laude – with honors) Computer Science and Business Administration, Nova University, Miami (U.S.A)"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/christos-ellinides.txt) (2080 chars)
 
 
@@ -27,7 +27,7 @@ generated: 2026-05-11
 
 - **Director-General → Directorate-General for Translation**
   > "Director-General, Directorate-General"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/christos-ellinides.txt) (2080 chars)
 
 
@@ -40,7 +40,7 @@ activities:
 of Cyprus 
 ➢ 08/1992 – 12/2005: Member of the Board of Directors & Senior 
 Lecturer (visit"
-  > 📎 [CV: Christos Ellinides](sources/dg_cvs/)
+  > CV: Christos Ellinides
 
 
 ### Education clusters

@@ -19,7 +19,7 @@ generated: 2026-05-11
 
 - **Faculty Of Natural Sciences, University Of Zagreb**
   > "1992: Graduated from Faculty of Natural Sciences, University of Zagreb"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/maja-bakran-marcich.txt) (2694 chars)
 
 
@@ -27,7 +27,7 @@ generated: 2026-05-11
 
 - **Deputy Director-General → Directorate-General for Mobility and Transport**
   > "Deputy Director-General – Directorate-General Mobility and"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/maja-bakran-marcich.txt) (2694 chars)
 
 
@@ -41,7 +41,7 @@ Nationality:
 Croatian 
 Academic qualifications:  1997:  Annual Diplomatic Course at the Diplomatic Academy of the Ministry of 
 Foreign Affairs - Ministry of Foreign Affairs,"
-  > 📎 [CV: Maja Bakran Marcich](sources/dg_cvs/)
+  > CV: Maja Bakran Marcich
 
 - **Institute for Anthropological Research** — member
   > "Maja BAKRAN MARCICH 
@@ -51,7 +51,7 @@ Nationality:
 Croatian 
 Academic qualifications:  1997:  Annual Diplomatic Course at the Diplomatic Academy of the Ministry of 
 Foreign Affairs - Ministry of Foreign Affairs,"
-  > 📎 [CV: Maja Bakran Marcich](sources/dg_cvs/)
+  > CV: Maja Bakran Marcich
 
 - **European Community Monitoring Mission** — member
   > "Maja BAKRAN MARCICH 
@@ -61,7 +61,7 @@ Nationality:
 Croatian 
 Academic qualifications:  1997:  Annual Diplomatic Course at the Diplomatic Academy of the Ministry of 
 Foreign Affairs - Ministry of Foreign Affairs,"
-  > 📎 [CV: Maja Bakran Marcich](sources/dg_cvs/)
+  > CV: Maja Bakran Marcich
 
 - **Croatian Liaison Office to the European Community Monitoring Mission (ECMM)** — member
   > "Maja BAKRAN MARCICH 
@@ -71,7 +71,7 @@ Nationality:
 Croatian 
 Academic qualifications:  1997:  Annual Diplomatic Course at the Diplomatic Academy of the Ministry of 
 Foreign Affairs - Ministry of Foreign Affairs,"
-  > 📎 [CV: Maja Bakran Marcich](sources/dg_cvs/)
+  > CV: Maja Bakran Marcich
 
 
 ### Education clusters

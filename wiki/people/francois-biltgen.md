@@ -21,14 +21,14 @@ generated: 2026-05-11
 
 - **Sciences Po**
   > "Wikidata P69 for Q1450922"
-  > 📎 [Wikidata: François Biltgen](https://www.wikidata.org/wiki/Q1450922)
+  > Wikidata: François Biltgen
 
 
 ## Position
 
 - **Judge**
   > "François Biltgen — held_position: Judge"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > From Commission person page or CJEU member listing
 
 

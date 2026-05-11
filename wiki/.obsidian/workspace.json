@@ -11,10 +11,26 @@
             "id": "93b9c9ebd6736a8c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "stats.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "stats"
+            }
+          },
+          {
+            "id": "eee7a631e71c1b52",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "img/stats_elite_network_trends.png"
+              },
+              "icon": "lucide-image",
+              "title": "stats_elite_network_trends"
             }
           },
           {
@@ -81,7 +97,8 @@
               "title": "stats_overview"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -229,9 +246,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "img/stats_elite_network_trends.png"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for stats_elite_network_trends"
             }
           }
         ],
@@ -252,15 +271,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "93b9c9ebd6736a8c",
+  "active": "eee7a631e71c1b52",
   "lastOpenFiles": [
+    "stats.md",
     "people/jean-lemierre.md",
     "people/oliver-bate.md",
     "people/wopke-hoekstra.md",
     "education/insead.md",
     "Untitled.canvas",
     "Untitled.base",
-    "stats.md",
     "img/stats_sdt_overlap.png",
     "organisations/rai.md",
     "people/ross-mcinnes.md",

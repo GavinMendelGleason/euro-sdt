@@ -24,7 +24,7 @@ generated: 2026-05-11
  Career [ edit ] 
  since 1991: professor 
  from 1993-1996: head of the Department of International and European Law at the Univers"
-  > 📎 [Wikipedia article: Genowefa Grabowska](https://en.wikipedia.org/wiki/Genowefa_Grabowska)
+  > Wikipedia article: Genowefa Grabowska
 
 
 ## Organisation affiliations
@@ -33,17 +33,17 @@ generated: 2026-05-11
   > "Polish politician 
  
  Genowefa Grabowska (born 1 January 1944, in Przystajń ) &#91; 1 &#93; is a Polish politician and Member of the European Parliament for the Silesian Voivodship with the Social Dem"
-  > 📎 [Wikipedia article: Genowefa Grabowska](https://en.wikipedia.org/wiki/Genowefa_Grabowska)
+  > Wikipedia article: Genowefa Grabowska
 
 - **Socialist Group** — Member
   > "Polish politician 
  
  Genowefa Grabowska (born 1 January 1944, in Przystajń ) &#91; 1 &#93; is a Polish politician and Member of the European Parliament for the Silesian Voivodship with the Social Dem"
-  > 📎 [Wikipedia article: Genowefa Grabowska](https://en.wikipedia.org/wiki/Genowefa_Grabowska)
+  > Wikipedia article: Genowefa Grabowska
 
 - **Committee on the Environment, Public Health and Food Safety** — Substitute member
   > "Grabowska is a substitute for the Committee on the Environment, Public Health and Food Safety ."
-  > 📎 [Wikipedia article: Genowefa Grabowska](https://en.wikipedia.org/wiki/Genowefa_Grabowska)
+  > Wikipedia article: Genowefa Grabowska
 
 - **University of Silesia in Katowice** — Head of the Department of International and European Law, Dean of Faculty
   > "Education [ edit ] 
@@ -52,7 +52,7 @@ generated: 2026-05-11
  Career [ edit ] 
  since 1991: professor 
  from 1993-1996: head of the Department of International and European Law at the Univers"
-  > 📎 [Wikipedia article: Genowefa Grabowska](https://en.wikipedia.org/wiki/Genowefa_Grabowska)
+  > Wikipedia article: Genowefa Grabowska
 
 - **Senate of the Republic of Poland** — Senator, Chairman of the Senate Committee on Foreign Affairs and European Integration
   > "Education [ edit ] 
@@ -61,7 +61,7 @@ generated: 2026-05-11
  Career [ edit ] 
  since 1991: professor 
  from 1993-1996: head of the Department of International and European Law at the Univers"
-  > 📎 [Wikipedia article: Genowefa Grabowska](https://en.wikipedia.org/wiki/Genowefa_Grabowska)
+  > Wikipedia article: Genowefa Grabowska
 
 - **Legal Advisory Committee to the Minister of Foreign Affairs of the Republic of Poland** — Member
   > "Education [ edit ] 
@@ -70,7 +70,7 @@ generated: 2026-05-11
  Career [ edit ] 
  since 1991: professor 
  from 1993-1996: head of the Department of International and European Law at the Univers"
-  > 📎 [Wikipedia article: Genowefa Grabowska](https://en.wikipedia.org/wiki/Genowefa_Grabowska)
+  > Wikipedia article: Genowefa Grabowska
 
 - **European Convention** — Representative of the Polish Parliament
   > "Education [ edit ] 
@@ -79,7 +79,7 @@ generated: 2026-05-11
  Career [ edit ] 
  since 1991: professor 
  from 1993-1996: head of the Department of International and European Law at the Univers"
-  > 📎 [Wikipedia article: Genowefa Grabowska](https://en.wikipedia.org/wiki/Genowefa_Grabowska)
+  > Wikipedia article: Genowefa Grabowska
 
 - **Court of Conciliation and Arbitration within the OSCE** — Deputy Arbitrator
   > "Education [ edit ] 
@@ -88,7 +88,7 @@ generated: 2026-05-11
  Career [ edit ] 
  since 1991: professor 
  from 1993-1996: head of the Department of International and European Law at the Univers"
-  > 📎 [Wikipedia article: Genowefa Grabowska](https://en.wikipedia.org/wiki/Genowefa_Grabowska)
+  > Wikipedia article: Genowefa Grabowska
 
 - **United Nations General Assembly (Sixth (Legal) Committee)** — Polish delegate
   > "Education [ edit ] 
@@ -97,7 +97,7 @@ generated: 2026-05-11
  Career [ edit ] 
  since 1991: professor 
  from 1993-1996: head of the Department of International and European Law at the Univers"
-  > 📎 [Wikipedia article: Genowefa Grabowska](https://en.wikipedia.org/wiki/Genowefa_Grabowska)
+  > Wikipedia article: Genowefa Grabowska
 
 - **International Law Association in London** — Member
   > "Education [ edit ] 
@@ -106,7 +106,7 @@ generated: 2026-05-11
  Career [ edit ] 
  since 1991: professor 
  from 1993-1996: head of the Department of International and European Law at the Univers"
-  > 📎 [Wikipedia article: Genowefa Grabowska](https://en.wikipedia.org/wiki/Genowefa_Grabowska)
+  > Wikipedia article: Genowefa Grabowska
 
 
 ### Education clusters

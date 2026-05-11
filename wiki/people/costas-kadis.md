@@ -21,7 +21,7 @@ generated: 2026-05-11
 
 - **VdL II Commission**
   > "Costas Kadis — served_on_commission: commission-vdl-ii"
-  > 📎 [Wikipedia article: Costas Kadis](https://en.wikipedia.org/wiki/Costas_Kadis)
+  > Wikipedia article: Costas Kadis
   > Wikipedia commission page: https://en.wikipedia.org/wiki/Von_der_Leyen_Commission_II
 
 
@@ -29,7 +29,7 @@ generated: 2026-05-11
 
 - **European Commissioner for Fisheries and Oceans**
   > "In January 2025, European Commissioner Hadja Lahbib met with Syrian President Ahmed al-Sharaa, the leader of the Sunni Islamist group Hay'at Tahrir al-Sham."
-  > 📎 [Wikipedia article: Costas Kadis](https://en.wikipedia.org/wiki/Costas_Kadis)
+  > Wikipedia article: Costas Kadis
   > Primary source: declarations/doi-costas-kadis-en.txt. Costas Kadis verified with held_portfolio: European Commissioner for Fisheries and Oceans. Conte
 
 
@@ -37,7 +37,7 @@ generated: 2026-05-11
 
 - **CYP**
   > "Costas Kadis → nominated_by: CYP"
-  > 📎 [Wikipedia article: Costas Kadis](https://en.wikipedia.org/wiki/Costas_Kadis)
+  > Wikipedia article: Costas Kadis
   > Commissioner list from Wikipedia commission page
 
 
@@ -45,7 +45,7 @@ generated: 2026-05-11
 
 - **Cyprus**
   > "Costas Kadis → from_country: Cyprus"
-  > 📎 [Wikipedia article: Costas Kadis](https://en.wikipedia.org/wiki/Costas_Kadis)
+  > Wikipedia article: Costas Kadis
   > Commissioner list from Wikipedia commission page
 
 
@@ -54,6 +54,6 @@ generated: 2026-05-11
 - **research-promotion-foundation-of-cyprus** — employee
   > "Career
 Kadis started his career in academia at the University of Athens and then moved back to his home country to work at the Research Promotion Foundation of Cyprus."
-  > 📎 [Wikipedia article: Costas Kadis](https://en.wikipedia.org/wiki/Costas_Kadis)
+  > Wikipedia article: Costas Kadis
   > Source: `sources/wikipedia/costas-kadis.txt` (857 chars)
 

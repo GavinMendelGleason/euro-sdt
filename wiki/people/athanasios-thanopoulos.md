@@ -19,6 +19,6 @@ generated: 2026-05-11
 
 - **Deputy Director-General → Eurostat**
   > "Athanasios Thanopoulos — held_position: Deputy Director-General → Eurostat"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > From Commission person page or CJEU member listing
 

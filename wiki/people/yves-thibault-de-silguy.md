@@ -21,7 +21,7 @@ generated: 2026-05-11
 
 - **Santer Commission**
   > "Name "Yves-Thibault de Silguy" appears in Wikipedia page for commission-santer"
-  > 📎 [Wikipedia article: Yves-Thibault de Silguy](https://en.wikipedia.org/wiki/Yves-Thibault_de_Silguy)
+  > Wikipedia article: Yves-Thibault de Silguy
   > Source: sources/wikipedia/commission-santer.txt (11541 chars)
 
 
@@ -29,7 +29,7 @@ generated: 2026-05-11
 
 - **Economic and Monetary Affairs**
   > "Notably it contributed to the development of the euro and issued a series of green papers based on Commissioner Yves-Thibault de Silguy's work."
-  > 📎 [Wikipedia article: Yves-Thibault de Silguy](https://en.wikipedia.org/wiki/Yves-Thibault_de_Silguy)
+  > Wikipedia article: Yves-Thibault de Silguy
   > Final: name+claim found in wikipedia/yves-thibault-de-silguy.txt
 
 
@@ -37,7 +37,7 @@ generated: 2026-05-11
 
 - **FRA**
   > "Name "Yves-Thibault de Silguy" appears in Wikipedia page for commission-santer"
-  > 📎 [Wikipedia article: Yves-Thibault de Silguy](https://en.wikipedia.org/wiki/Yves-Thibault_de_Silguy)
+  > Wikipedia article: Yves-Thibault de Silguy
   > Source: sources/wikipedia/commission-santer.txt (11541 chars)
 
 
@@ -45,7 +45,7 @@ generated: 2026-05-11
 
 - **France**
   > "Name "Yves-Thibault de Silguy" appears in Wikipedia page for commission-santer"
-  > 📎 [Wikipedia article: Yves-Thibault de Silguy](https://en.wikipedia.org/wiki/Yves-Thibault_de_Silguy)
+  > Wikipedia article: Yves-Thibault de Silguy
   > Source: sources/wikipedia/commission-santer.txt (11541 chars)
 
 
@@ -53,17 +53,17 @@ generated: 2026-05-11
 
 - **ecole-nationale-d-administration**
   > "Wikidata P69: École nationale d'administration"
-  > 📎 [Wikipedia article: Yves-Thibault de Silguy](https://en.wikipedia.org/wiki/Yves-Thibault_de_Silguy)
+  > Wikipedia article: Yves-Thibault de Silguy
   > Wikidata educated-at for Yves-Thibault de Silguy
 
 - **Sciences Po**
   > "Wikidata P69: Sciences Po"
-  > 📎 [Wikipedia article: Yves-Thibault de Silguy](https://en.wikipedia.org/wiki/Yves-Thibault_de_Silguy)
+  > Wikipedia article: Yves-Thibault de Silguy
   > Wikidata educated-at for Yves-Thibault de Silguy
 
 - **Wikidata P69: University of Rennes**
   > "Wikidata P69: University of Rennes"
-  > 📎 [Wikipedia article: Yves-Thibault de Silguy](https://en.wikipedia.org/wiki/Yves-Thibault_de_Silguy)
+  > Wikipedia article: Yves-Thibault de Silguy
   > Wikidata educated-at for Yves-Thibault de Silguy
 
 
@@ -71,7 +71,7 @@ generated: 2026-05-11
 
 - **Club de l'Horloge** — member
   > "He was a member of the Club de l'horloge."
-  > 📎 [Wikipedia article: Yves-Thibault de Silguy](https://en.wikipedia.org/wiki/Yves-Thibault_de_Silguy)
+  > Wikipedia article: Yves-Thibault de Silguy
   > Source: `sources/wikipedia/yves-thibault-de-silguy.txt` (1371 chars)
 
 - **medef-international** — Vice-Chairman
@@ -82,7 +82,7 @@ Corporate boards
 VTB Bank, Independent Member of the Supervisory Council (since 2013)
 Autoroutes du Sud de la France (ASF), Member of the Board of Directors
 Solvay, Member of the Bo"
-  > 📎 [Wikipedia article: Yves-Thibault de Silguy](https://en.wikipedia.org/wiki/Yves-Thibault_de_Silguy)
+  > Wikipedia article: Yves-Thibault de Silguy
   > Source: `sources/wikipedia/yves-thibault-de-silguy.txt` (1371 chars)
 
 

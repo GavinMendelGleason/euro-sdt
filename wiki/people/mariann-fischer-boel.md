@@ -21,7 +21,7 @@ generated: 2026-05-11
 
 - **Barroso I**
   > "Mariann Fischer Boel listed in Wikipedia commission table for commission-barroso-i"
-  > 📎 [Wikipedia — Von der Leyen Commission II page](https://en.wikipedia.org/wiki/Von_der_Leyen_Commission_II)
+  > Wikipedia — Von der Leyen Commission II page
   > Source: commission-barroso-i table extract
 
 
@@ -29,14 +29,14 @@ generated: 2026-05-11
 
 - **Agriculture and Rural Development**
   > "Committees questioned the suitability of Ingrida Udre (Taxation and Customs Union), László Kovács (Energy), Neelie Kroes (Competition) and Mariann Fischer-Boel (Agriculture)."
-  > 📎 [Wikipedia — Von der Leyen Commission II page](https://en.wikipedia.org/wiki/Von_der_Leyen_Commission_II)
+  > Wikipedia — Von der Leyen Commission II page
 
 
 ## Nominated by
 
 - **DNK**
   > "Committees questioned the suitability of Ingrida Udre (Taxation and Customs Union), László Kovács (Energy), Neelie Kroes (Competition) and Mariann Fischer-Boel (Agriculture)."
-  > 📎 [Wikipedia — Von der Leyen Commission II page](https://en.wikipedia.org/wiki/Von_der_Leyen_Commission_II)
+  > Wikipedia — Von der Leyen Commission II page
   > Final: name+country found in wikipedia/commission-barroso-i-tables.txt
 
 
@@ -44,6 +44,6 @@ generated: 2026-05-11
 
 - **Denmark**
   > "Committees questioned the suitability of Ingrida Udre (Taxation and Customs Union), László Kovács (Energy), Neelie Kroes (Competition) and Mariann Fischer-Boel (Agriculture)."
-  > 📎 [Wikipedia — Von der Leyen Commission II page](https://en.wikipedia.org/wiki/Von_der_Leyen_Commission_II)
+  > Wikipedia — Von der Leyen Commission II page
   > Final: name+country found in wikipedia/commission-barroso-i-tables.txt
 

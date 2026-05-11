@@ -19,7 +19,7 @@ generated: 2026-05-11
 
 - **Deputy Director-General → Directorate-General for Trade and Economic Security**
   > "Maria Martin-Prat De Abreu present in dg_cvs/maria-martin-prat-de-abreu.txt — verifies held_position: Deputy Director-General → Directorate-General for Trade and Economic Security"
-  > 📎 *Organisations classified dataset (manually researched)*
+  > *Organisations classified dataset (manually researched)*
   > Primary source: dg_cvs/maria-martin-prat-de-abreu.txt. Context: Maria MARTIN-PRAT DE ABREU    Nationality    Spanish  Academic qualifications  09/198
 
 
@@ -34,5 +34,5 @@ Spanish
 Academic qualifications  09/1989 – 06/1991: Licence Spéciale en Droit Européen  - 
 Institute of European Studies of the Free University of 
 Bruss"
-  > 📎 [CV: Maria Martin-Prat De Abreu](sources/dg_cvs/)
+  > CV: Maria Martin-Prat De Abreu
 

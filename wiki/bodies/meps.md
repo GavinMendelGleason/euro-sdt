@@ -1,6 +1,6 @@
 # SDT-Relevant MEPs
 
-168 EP Presidents, Vice Presidents, committee chairs, and group leaders across 7 terms
+168 EP leaders
 
 - [Adam Bielan](../people/adam-bielan.md)
 - [Adina Vălean](../people/adina-valean.md)

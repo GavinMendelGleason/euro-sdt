@@ -21,14 +21,14 @@ generated: 2026-05-11
 
 - **University Of Copenhagen**
   > "Wikidata P69 for Q48093389"
-  > 📎 [Wikidata: Lars Bay Larsen](https://www.wikidata.org/wiki/Q48093389)
+  > Wikidata: Lars Bay Larsen
 
 
 ## Position
 
 - **Judge**
   > "Lars Bay Larsen — held_position: Judge"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > From Commission person page or CJEU member listing
 
 

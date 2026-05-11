@@ -19,9 +19,9 @@ generated: 2026-05-11
 
 - **Olive Tree** — Member (elected on ticket)
   > "He was elected on the Olive Tree ticket and sits with the Alliance of Liberals and Democrats for Europe group."
-  > 📎 [Wikipedia article: Luigi Cocilovo](https://en.wikipedia.org/wiki/Luigi_Cocilovo)
+  > Wikipedia article: Luigi Cocilovo
 
 - **Alliance of Liberals and Democrats for Europe Group** — Member
   > "He was elected on the Olive Tree ticket and sits with the Alliance of Liberals and Democrats for Europe group."
-  > 📎 [Wikipedia article: Luigi Cocilovo](https://en.wikipedia.org/wiki/Luigi_Cocilovo)
+  > Wikipedia article: Luigi Cocilovo
 

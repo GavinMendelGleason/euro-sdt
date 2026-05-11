@@ -19,7 +19,7 @@ generated: 2026-05-11
 
 - **Juncker Commission**
   > "Name "Jonathan Hill" appears in Wikipedia page for commission-juncker"
-  > 📎 [Wikipedia article: Jonathan Hill](https://en.wikipedia.org/wiki/Jonathan_Hill)
+  > Wikipedia article: Jonathan Hill
   > Source: sources/wikipedia/commission-juncker.txt (7805 chars)
 
 
@@ -27,7 +27,7 @@ generated: 2026-05-11
 
 - **Financial Stability, Financial Services and Capital Markets Union**
   > "Name "Jonathan Hill" appears in Wikipedia page for commission-juncker"
-  > 📎 [Wikipedia article: Jonathan Hill](https://en.wikipedia.org/wiki/Jonathan_Hill)
+  > Wikipedia article: Jonathan Hill
   > Source: sources/wikipedia/commission-juncker.txt (7805 chars)
 
 
@@ -35,7 +35,7 @@ generated: 2026-05-11
 
 - **GBR**
   > "Name "Jonathan Hill" appears in Wikipedia page for commission-juncker"
-  > 📎 [Wikipedia article: Jonathan Hill](https://en.wikipedia.org/wiki/Jonathan_Hill)
+  > Wikipedia article: Jonathan Hill
   > Source: sources/wikipedia/commission-juncker.txt (7805 chars)
 
 
@@ -43,7 +43,7 @@ generated: 2026-05-11
 
 - **UK**
   > "Jonathan Hill present in wikipedia/commission-juncker.txt — verifies from_country: UK"
-  > 📎 *Organisations classified dataset (manually researched)*
+  > *Organisations classified dataset (manually researched)*
   > Primary source: wikipedia/commission-juncker.txt. Context: ity) Vytenis Andriukaitis (Health and Food Safety) Jonathan Hill/Valdis Dombrovskis (Financ
 
 
@@ -51,7 +51,7 @@ generated: 2026-05-11
 
 - **University College London**
   > "Hill joined University College London, part of the University of London, England, in 1989."
-  > 📎 [Wikipedia article: Jonathan Hill](https://en.wikipedia.org/wiki/Jonathan_Hill)
+  > Wikipedia article: Jonathan Hill
   > Jonathan Hill (17 June 1958 – 1 November 2023) was an English architect, architectural historian, editor, and author.
 
 
@@ -60,7 +60,7 @@ Jonathan Hill receiv
 
 - **Architectural Association School Of Architecture**
   > "Jonathan Hill received a Diploma from the Architectural Association School of Architecture in 1983"
-  > 📎 [Wikipedia article: Jonathan Hill](https://en.wikipedia.org/wiki/Jonathan_Hill)
+  > Wikipedia article: Jonathan Hill
   > Wikipedia extract for Jonathan Hill
 
 
@@ -68,7 +68,7 @@ Jonathan Hill receiv
 
 - **PhD**
   > "In 2026, Bartlett School of Architecture inaugurated a PhD prize to celebrate 25 years of its Architectural Design MPhil/PhD programme, from which Hill was the first graduate."
-  > 📎 [Wikipedia article: Jonathan Hill](https://en.wikipedia.org/wiki/Jonathan_Hill)
+  > Wikipedia article: Jonathan Hill
   > LLM re-match (phrase 6)
 
 
@@ -76,7 +76,7 @@ Jonathan Hill receiv
 
 - **architectural-association-school-of-architecture** — student (Diploma recipient)
   > "Jonathan Hill (17 June 1958 – 1 November 2023) was an English architect, architectural historian, editor, and author."
-  > 📎 [Wikipedia article: Jonathan Hill](https://en.wikipedia.org/wiki/Jonathan_Hill)
+  > Wikipedia article: Jonathan Hill
   > Source: `sources/wikipedia/jonathan-hill.txt` (2119 chars)
 
 - **taylor-francis** — author (published by)
@@ -86,7 +86,7 @@ Jonathan Hill published a number of books including:
 The Illegal Architect (1998)
 Actions of Architecture: Architects and Creative Users (Taylor & Francis, 2003, ISBN 978-1134437054)
 Drawing Res"
-  > 📎 [Wikipedia article: Jonathan Hill](https://en.wikipedia.org/wiki/Jonathan_Hill)
+  > Wikipedia article: Jonathan Hill
   > Source: `sources/wikipedia/jonathan-hill.txt` (2119 chars)
 
 - **routledge** — author and editor (published by)
@@ -96,7 +96,7 @@ Jonathan Hill published a number of books including:
 The Illegal Architect (1998)
 Actions of Architecture: Architects and Creative Users (Taylor & Francis, 2003, ISBN 978-1134437054)
 Drawing Res"
-  > 📎 [Wikipedia article: Jonathan Hill](https://en.wikipedia.org/wiki/Jonathan_Hill)
+  > Wikipedia article: Jonathan Hill
   > Source: `sources/wikipedia/jonathan-hill.txt` (2119 chars)
 
 - **ashgate** — series co-editor
@@ -106,7 +106,7 @@ Jonathan Hill published a number of books including:
 The Illegal Architect (1998)
 Actions of Architecture: Architects and Creative Users (Taylor & Francis, 2003, ISBN 978-1134437054)
 Drawing Res"
-  > 📎 [Wikipedia article: Jonathan Hill](https://en.wikipedia.org/wiki/Jonathan_Hill)
+  > Wikipedia article: Jonathan Hill
   > Source: `sources/wikipedia/jonathan-hill.txt` (2119 chars)
 
 
@@ -114,12 +114,12 @@ Drawing Res"
 
 - **Contract with 'Chartwell Speakers and Literary Agency',House of Lords** — Juncker (2014-2019) (*2016*)
   > "Contract with 'Chartwell Speakers and Literary Agency',House of Lords (Juncker (2014-2019), 2016.0)"
-  > 📎 [EC ethics page — Revolving door decisions](https://commission.europa.eu/about/service-standards-and-principles/ethics-and-good-administration/commissioners-and-ethics/former-european-commissioners-authorised-occupations_en)
+  > EC ethics page — Revolving door decisions
   > Vector match (cos=0.81)
 
 - **Freshfields.The Times Newspapers.** — Juncker (2014-2019) (*2017*)
   > "Jonathan Hill present in ethics_page — verifies post_mandate_occupation: Freshfields.The Times Newspapers."
-  > 📎 *Organisations classified dataset (manually researched)*
+  > *Organisations classified dataset (manually researched)*
   > Primary source: ethics_page. Context: nnish Innovation Fund 29 March 2017 2206th meeting Jonathan Hill Financial Stability, Financial Services, Capita
 
 

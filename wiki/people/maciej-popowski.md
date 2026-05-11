@@ -19,7 +19,7 @@ generated: 2026-05-11
 
 - **Polish Institute For International Relations (Pism)**
   > "Postgraduate Foreign Service Training Polish Institute for International Relations (PISM) - Warsaw, Poland"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/maciej-popowski.txt) (3429 chars)
 
 
@@ -27,7 +27,7 @@ generated: 2026-05-11
 
 - **Director-General → Directorate-General for European Civil Protection and Humanitarian Aid Operations (ECHO)**
   > "Director-General – Directorate General European Civil Protection"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/maciej-popowski.txt) (3429 chars)
 
 
@@ -37,19 +37,19 @@ generated: 2026-05-11
   > "Additional responsibilities: member of the Board of Governors of the European 
 Endowment for Democracy, chair of the Tasking Committee of the European Satellite 
 Centre, chair of the international Con"
-  > 📎 [CV: Maciej Popowski](sources/dg_cvs/)
+  > CV: Maciej Popowski
 
 - **European Satellite Centre** — chair of the Tasking Committee
   > "Additional responsibilities: member of the Board of Governors of the European 
 Endowment for Democracy, chair of the Tasking Committee of the European Satellite 
 Centre, chair of the international Con"
-  > 📎 [CV: Maciej Popowski](sources/dg_cvs/)
+  > CV: Maciej Popowski
 
 - **Contact Group on Piracy off the Coast of Somalia** — chair
   > "Additional responsibilities: member of the Board of Governors of the European 
 Endowment for Democracy, chair of the Tasking Committee of the European Satellite 
 Centre, chair of the international Con"
-  > 📎 [CV: Maciej Popowski](sources/dg_cvs/)
+  > CV: Maciej Popowski
 
 
 ### Education clusters

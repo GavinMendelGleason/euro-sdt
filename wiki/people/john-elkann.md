@@ -19,29 +19,29 @@ generated: 2026-05-11
 
 - **Stellantis** — Chair
   > "Elkann chairs the automaker Stellantis and is the chief executive officer (CEO) of Exor, the holding company controlled by the Agnelli family, which also holds a controlling stake in Ferrari, CNH Indu"
-  > 📎 [Wikipedia: John Elkann](https://en.wikipedia.org/wiki/John_Elkann)
+  > Wikipedia: John Elkann
 
 - **Exor** — Chief Executive Officer (CEO)
   > "Elkann chairs the automaker Stellantis and is the chief executive officer (CEO) of Exor, the holding company controlled by the Agnelli family, which also holds a controlling stake in Ferrari, CNH Indu"
-  > 📎 [Wikipedia: John Elkann](https://en.wikipedia.org/wiki/John_Elkann)
+  > Wikipedia: John Elkann
 
 - **Ferrari** — Controlling stake (via Exor)
   > "Elkann chairs the automaker Stellantis and is the chief executive officer (CEO) of Exor, the holding company controlled by the Agnelli family, which also holds a controlling stake in Ferrari, CNH Indu"
-  > 📎 [Wikipedia: John Elkann](https://en.wikipedia.org/wiki/John_Elkann)
+  > Wikipedia: John Elkann
 
 - **CNH Industrial** — Controlling stake (via Exor)
   > "Elkann chairs the automaker Stellantis and is the chief executive officer (CEO) of Exor, the holding company controlled by the Agnelli family, which also holds a controlling stake in Ferrari, CNH Indu"
-  > 📎 [Wikipedia: John Elkann](https://en.wikipedia.org/wiki/John_Elkann)
+  > Wikipedia: John Elkann
 
 - **Iveco** — Controlling stake (via Exor)
   > "Elkann chairs the automaker Stellantis and is the chief executive officer (CEO) of Exor, the holding company controlled by the Agnelli family, which also holds a controlling stake in Ferrari, CNH Indu"
-  > 📎 [Wikipedia: John Elkann](https://en.wikipedia.org/wiki/John_Elkann)
+  > Wikipedia: John Elkann
 
 - **Juventus FC** — Controlling stake (via Exor)
   > "Elkann chairs the automaker Stellantis and is the chief executive officer (CEO) of Exor, the holding company controlled by the Agnelli family, which also holds a controlling stake in Ferrari, CNH Indu"
-  > 📎 [Wikipedia: John Elkann](https://en.wikipedia.org/wiki/John_Elkann)
+  > Wikipedia: John Elkann
 
 - **The Economist Group** — Controlling stake (via Exor)
   > "Elkann chairs the automaker Stellantis and is the chief executive officer (CEO) of Exor, the holding company controlled by the Agnelli family, which also holds a controlling stake in Ferrari, CNH Indu"
-  > 📎 [Wikipedia: John Elkann](https://en.wikipedia.org/wiki/John_Elkann)
+  > Wikipedia: John Elkann
 

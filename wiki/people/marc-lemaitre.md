@@ -19,7 +19,7 @@ generated: 2026-05-11
 
 - **College of Europe**
   > "Marc Lemaître studied at Université Libre de Bruxelles (ULB) and Bruges (College of Europe) and holds a Master in European Economics."
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/marc-lemaitre.txt) (1074 chars)
 
 
@@ -27,7 +27,7 @@ generated: 2026-05-11
 
 - **Director-General → Directorate-General for Research and Innovation**
   > "Since February 2023 he is Director-General for Research and Innovation (RTD)."
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/marc-lemaitre.txt) (1074 chars)
 
 

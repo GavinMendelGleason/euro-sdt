@@ -19,5 +19,5 @@ generated: 2026-05-11
 
 - **Renault** — board member
   > "Extracted from Wikipedia page for Renault"
-  > 📎 [Wikipedia: Renault](https://en.wikipedia.org/wiki/Renault)
+  > Wikipedia: Renault
 

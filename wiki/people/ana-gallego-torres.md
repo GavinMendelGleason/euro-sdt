@@ -19,7 +19,7 @@ generated: 2026-05-11
 
 - **University Of Granada**
   > "1992 – 1998: Degree in Law – University of Granada, Spain"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/ana-gallego-torres.txt) (1477 chars)
 
 
@@ -27,7 +27,7 @@ generated: 2026-05-11
 
 - **Director-General → Directorate-General for Justice and Consumers**
   > "Directorate-General “Justice and Consumers” (DG"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/ana-gallego-torres.txt) (1477 chars)
 
 
@@ -45,7 +45,7 @@ Spain
  
  1993 – 1997: Studies on  Translation and 
 Interpreting – Univ"
-  > 📎 [CV: Ana Gallego Torres](sources/dg_cvs/)
+  > CV: Ana Gallego Torres
 
 
 ### Education clusters

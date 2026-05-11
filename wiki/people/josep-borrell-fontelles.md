@@ -21,26 +21,26 @@ generated: 2026-05-11
 
 - **VdL I Commission**
   > "Following her election, President of the European Council Donald Tusk asked von der Leyen to give her consent on appointing Josep Borrell of Spain as the next EU High Representative."
-  > 📎 [Wikipedia — Von der Leyen Commission II page](https://en.wikipedia.org/wiki/Von_der_Leyen_Commission_II)
+  > Wikipedia — Von der Leyen Commission II page
 
 
 ## Portfolio
 
 - **VP / High Representative – Foreign Affairs and Security Policy**
   > "Following her election, President of the European Council Donald Tusk asked von der Leyen to give her consent on appointing Josep Borrell of Spain as the next EU High Representative."
-  > 📎 [Wikipedia — Von der Leyen Commission II page](https://en.wikipedia.org/wiki/Von_der_Leyen_Commission_II)
+  > Wikipedia — Von der Leyen Commission II page
 
 
 ## Nominated by
 
 - **ESP**
   > "Following her election, President of the European Council Donald Tusk asked von der Leyen to give her consent on appointing Josep Borrell of Spain as the next EU High Representative."
-  > 📎 [Wikipedia — Von der Leyen Commission II page](https://en.wikipedia.org/wiki/Von_der_Leyen_Commission_II)
+  > Wikipedia — Von der Leyen Commission II page
 
 
 ## Country
 
 - **Spain**
   > "Following her election, President of the European Council Donald Tusk asked von der Leyen to give her consent on appointing Josep Borrell of Spain as the next EU High Representative."
-  > 📎 [Wikipedia — Von der Leyen Commission II page](https://en.wikipedia.org/wiki/Von_der_Leyen_Commission_II)
+  > Wikipedia — Von der Leyen Commission II page
 

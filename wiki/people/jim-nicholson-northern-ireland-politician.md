@@ -19,7 +19,7 @@ generated: 2026-05-11
 
 - **Educated locally**
   > "&#91; 3 &#93; Educated locally, he later worked as a farmer on the family farm."
-  > 📎 [Wikipedia article: Jim Nicholson (Northern Ireland politician)](https://en.wikipedia.org/wiki/Jim_Nicholson_(Northern_Ireland_politician))
+  > Wikipedia article: Jim Nicholson (Northern Ireland politician)
 
 
 ## Organisation affiliations
@@ -31,7 +31,7 @@ generated: 2026-05-11
 
  Video-Introduction 
  James Frederick Nicholson (born 29 January 1945) is a Northern Irish Ulster Unionist Party (UUP) politician, who served as a Member of the Eu"
-  > 📎 [Wikipedia article: Jim Nicholson (Northern Ireland politician)](https://en.wikipedia.org/wiki/Jim_Nicholson_(Northern_Ireland_politician))
+  > Wikipedia article: Jim Nicholson (Northern Ireland politician)
 
 - **Mid-South Armagh Unionist Association** — Secretary/Organiser
 

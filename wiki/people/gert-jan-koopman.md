@@ -19,7 +19,7 @@ generated: 2026-05-11
 
 - **University of Utrecht**
   > "Lecturer of Economics at the University of Utrecht."
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/gert-jan-koopman.txt) (1877 chars)
 
 
@@ -27,7 +27,7 @@ generated: 2026-05-11
 
 - **Director-General → Directorate-General for Enlargement and Eastern Neighbourhood**
   > "Since 02/2025: Director-General, Directorate-General Enlargement and"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/gert-jan-koopman.txt) (1877 chars)
 
 
@@ -39,7 +39,7 @@ before joining the
 European Institutions: 
  05/1987: Member of the CPB Netherlands Bureau for Economic Policy 
 Advice."
-  > 📎 [CV: Gert Jan Koopman](sources/dg_cvs/)
+  > CV: Gert Jan Koopman
 
 
 ### Education clusters

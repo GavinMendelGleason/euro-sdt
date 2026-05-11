@@ -19,7 +19,7 @@ generated: 2026-05-11
 
 - **Hamburg Law Faculty**
   > "1986 – 1989: Academic assistant at Hamburg Law Faculty"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/kerstin-jorna.txt) (2011 chars)
 
 
@@ -27,12 +27,12 @@ generated: 2026-05-11
 
 - **Law**
   > "Diploma of Advanced European Studies, College of Bruges ( Law)"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/kerstin-jorna.txt) (2011 chars)
 
 - **European Studies**
   > "Diploma of Advanced European Studies, College of Bruges ( Law)"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/kerstin-jorna.txt) (2011 chars)
 
 
@@ -40,7 +40,7 @@ generated: 2026-05-11
 
 - **Director-General → Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs**
   > "Director -General – Directorate-General for Internal Market,"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/kerstin-jorna.txt) (2011 chars)
 
 
@@ -52,7 +52,7 @@ generated: 2026-05-11
  1986: Diploma of Advanced European Studies, College of Bruges ( Law)  
  
  1980 – 1985: Law studies in Bonn and Hamburg concluded with 1."
-  > 📎 [CV: Kerstin Jorna](sources/dg_cvs/)
+  > CV: Kerstin Jorna
 
 
 ### Education clusters

@@ -21,14 +21,14 @@ generated: 2026-05-11
 
 - **Barroso I**
   > "Buttiglione had been withdrawn by Italy and replaced by foreign minister Franco Frattini, László Kovács was moved from Energy to Taxation and Ingrida Udre was withdrawn and replaced by Andris Piebalgs"
-  > 📎 [Wikipedia — Von der Leyen Commission II page](https://en.wikipedia.org/wiki/Von_der_Leyen_Commission_II)
+  > Wikipedia — Von der Leyen Commission II page
 
 
 ## Portfolio
 
 - **VP – Justice, Freedom and Security**
   > "Name "Franco Frattini" appears in Wikipedia page for commission-barroso-i"
-  > 📎 [Wikipedia — Von der Leyen Commission II page](https://en.wikipedia.org/wiki/Von_der_Leyen_Commission_II)
+  > Wikipedia — Von der Leyen Commission II page
   > Source: sources/wikipedia/commission-barroso-i.txt (30457 chars)
 
 
@@ -36,7 +36,7 @@ generated: 2026-05-11
 
 - **ITA**
   > "Name "Franco Frattini" appears in Wikipedia page for commission-barroso-i"
-  > 📎 [Wikipedia — Von der Leyen Commission II page](https://en.wikipedia.org/wiki/Von_der_Leyen_Commission_II)
+  > Wikipedia — Von der Leyen Commission II page
   > Source: sources/wikipedia/commission-barroso-i.txt (30457 chars)
 
 
@@ -44,14 +44,14 @@ generated: 2026-05-11
 
 - **Italy**
   > "Buttiglione had been withdrawn by Italy and replaced by foreign minister Franco Frattini, László Kovács was moved from Energy to Taxation and Ingrida Udre was withdrawn and replaced by Andris Piebalgs"
-  > 📎 [Wikipedia — Von der Leyen Commission II page](https://en.wikipedia.org/wiki/Von_der_Leyen_Commission_II)
+  > Wikipedia — Von der Leyen Commission II page
 
 
 ## Educated at
 
 - **Sapienza University Of Rome**
   > "Wikidata P69: Sapienza University of Rome"
-  > 📎 [Wikidata SPARQL — Commissioner CVs (all commissions)](https://query.wikidata.org/sparql)
+  > Wikidata SPARQL — Commissioner CVs (all commissions)
   > Wikidata educated-at for Franco Frattini
 
 

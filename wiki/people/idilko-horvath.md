@@ -19,6 +19,6 @@ generated: 2026-05-11
 
 - **Deputy Director-General → Directorate-General for Translation**
   > "Idilkó Horváth — held_position: Deputy Director-General → Directorate-General for Translation"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > From Commission person page or CJEU member listing
 

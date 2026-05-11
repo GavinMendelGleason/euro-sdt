@@ -19,7 +19,7 @@ generated: 2026-05-11
 
 - **Aristotle University Of Thessaloniki, Technology School, Department Of Electrica**
   > "1979 - 1984 Advanced University Degree in Electrical Engineering - Aristotle University of Thessaloniki, Technology School, Department of Electrical Engineering, Thessaloniki, Greece"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/thomas-skordas.txt) (1858 chars)
 
 
@@ -35,7 +35,7 @@ Academic qualifications  1985 - 1988 PhD Thesis - Institut National Polytechn
 Grenoble (INPG), Grenoble, France 
  
  1984 - 1985 Master of Science - In"
-  > 📎 [CV: Thomas Skordas](sources/dg_cvs/)
+  > CV: Thomas Skordas
 
 - **ITMI APTOR** — member
   > "Thomas SKORDAS 
@@ -47,7 +47,7 @@ Academic qualifications  1985 - 1988 PhD Thesis - Institut National Polytechn
 Grenoble (INPG), Grenoble, France 
  
  1984 - 1985 Master of Science - In"
-  > 📎 [CV: Thomas Skordas](sources/dg_cvs/)
+  > CV: Thomas Skordas
 
 
 ### Education clusters

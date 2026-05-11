@@ -19,7 +19,7 @@ generated: 2026-05-11
 
 - **Trinity College Dublin**
   > " 09/1984 – 06/1988: Degree in Economics - Trinity College Dublin - Dublin,"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/declan-costello.txt) (2026 chars)
 
 
@@ -27,7 +27,7 @@ generated: 2026-05-11
 
 - **Economics**
   > "Economist "Public finances, with particular"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/declan-costello.txt) (2026 chars)
 
 
@@ -35,7 +35,7 @@ generated: 2026-05-11
 
 - **Deputy Director-General → Directorate-General for Economic and Financial Affairs**
   > "Deputy Director-General - Directorate-General"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/declan-costello.txt) (2026 chars)
 
 
@@ -53,7 +53,7 @@ qualifications
 Integration – College of Europe, Bruges, Belgium 
  
  09/1984 – 0"
-  > 📎 [CV: Declan Costello](sources/dg_cvs/)
+  > CV: Declan Costello
 
 - **Trinity College Dublin** — member
   > "Declan COSTELLO 
@@ -67,7 +67,7 @@ qualifications
 Integration – College of Europe, Bruges, Belgium 
  
  09/1984 – 0"
-  > 📎 [CV: Declan Costello](sources/dg_cvs/)
+  > CV: Declan Costello
 
 
 ### Education clusters

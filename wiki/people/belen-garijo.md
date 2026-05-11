@@ -19,7 +19,7 @@ generated: 2026-05-11
 
 - **University of Alcalá**
   > "&#91; 3 &#93; She graduated from the University of Alcalá in 1983 with a degree in medicine."
-  > 📎 [Wikipedia: Belén Garijo](https://en.wikipedia.org/wiki/Belén_Garijo)
+  > Wikipedia: Belén Garijo
 
 
 ### Education clusters

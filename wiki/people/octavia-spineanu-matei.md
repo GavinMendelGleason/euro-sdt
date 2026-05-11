@@ -28,7 +28,7 @@ President of the Eighth Chamber
 Biography and career
 
 Born in 1967 in Vălenii de Munte (Romania), Ms Octavia Spineanu-Matei obtained a law degree (merit diplo"
-  > 📎 [CJEU bio: Octavia Spineanu-Matei](https://curia.europa.eu/)
+  > CJEU bio: Octavia Spineanu-Matei
 
 - **Academia de Poliție ‘Alexandru Ioan Cuza’ (Alexandru Ioan Cuza Police Academy, Romania)**
   > "Name: Octavia Spineanu-Matei
@@ -39,14 +39,14 @@ President of the Eighth Chamber
 Biography and career
 
 Born in 1967 in Vălenii de Munte (Romania), Ms Octavia Spineanu-Matei obtained a law degree (merit diplo"
-  > 📎 [CJEU bio: Octavia Spineanu-Matei](https://curia.europa.eu/)
+  > CJEU bio: Octavia Spineanu-Matei
 
 
 ## Position
 
 - **Judge**
   > "Octavia Spineanu-Matei — held_position: Judge"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > From Commission person page or CJEU member listing
 
 

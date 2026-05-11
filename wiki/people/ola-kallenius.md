@@ -22,14 +22,14 @@ generated: 2026-05-11
  
  Education [ edit ] 
  Originally planning to follow his older brother's footsteps in studying at KTH , Källenius instead graduated from Stockholm School of Economics with a master's d"
-  > 📎 [Wikipedia: Ola Källenius](https://en.wikipedia.org/wiki/Ola_Källenius)
+  > Wikipedia: Ola Källenius
 
 - **University of St. Gallen**
   > "&#91; 2 &#93; 
  
  Education [ edit ] 
  Originally planning to follow his older brother's footsteps in studying at KTH , Källenius instead graduated from Stockholm School of Economics with a master's d"
-  > 📎 [Wikipedia: Ola Källenius](https://en.wikipedia.org/wiki/Ola_Källenius)
+  > Wikipedia: Ola Källenius
 
 
 ### Education clusters

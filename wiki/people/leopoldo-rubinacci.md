@@ -19,7 +19,7 @@ generated: 2026-05-11
 
 - **Ecole De Commerce Solvay, Université Libre De Bruxelles**
   > "09/1985 – 06/1991 : Ingénieur Commercial, Ecole de commerce Solvay, Université Libre de Bruxelles, Belgium"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/leopoldo-rubinacci.txt) (1423 chars)
 
 
@@ -27,7 +27,7 @@ generated: 2026-05-11
 
 - **Deputy Director-General → Directorate-General for Trade and Economic Security**
   > "Leopoldo Rubinacci present in dg_cvs/leopoldo-rubinacci.txt — verifies held_position: Deputy Director-General → Directorate-General for Trade and Economic Security"
-  > 📎 *Organisations classified dataset (manually researched)*
+  > *Organisations classified dataset (manually researched)*
   > Primary source: dg_cvs/leopoldo-rubinacci.txt. Context: Leopoldo RUBINACCI  Nationality    Italian    Academic qualifications ➢ 09/1985 – 06/1991 : In
 
 
@@ -43,7 +43,7 @@ Academic qualifications ➢ 09/1985 – 06/1991 : Ingénieur Commercial, Ecole d
 Solvay, Université Libre de Bruxelles, Belgium 
  
 Professional expe"
-  > 📎 [CV: Leopoldo Rubinacci](sources/dg_cvs/)
+  > CV: Leopoldo Rubinacci
 
 
 ### Education clusters

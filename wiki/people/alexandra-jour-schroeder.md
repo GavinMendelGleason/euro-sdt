@@ -19,7 +19,7 @@ generated: 2026-05-11
 
 - **University Of Münster – Faculty Of Law**
   > "1989 – 1990: University of Münster – Faculty of Law: Assistant lecturer"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/alexandra-jour-schroeder.txt) (2729 chars)
 
 
@@ -27,7 +27,7 @@ generated: 2026-05-11
 
 - **Law**
   > "University of Münster – Faculty of Law: Assistant lecturer"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/alexandra-jour-schroeder.txt) (2729 chars)
 
 
@@ -35,7 +35,7 @@ generated: 2026-05-11
 
 - **Deputy Director-General → Directorate-General for Financial Stability, Financial Services and Capital Markets Union**
   > "Deputy Director-General – Directorate-General Financial Stability,"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/alexandra-jour-schroeder.txt) (2729 chars)
 
 
@@ -52,7 +52,7 @@ qualifications
  1992 – Second Legal State Exam 
  
  1990 – 1992 – Legal Trainee (“Rechtsreferendarin”) at several German Courts, law fi"
-  > 📎 [CV: Alexandra Jour-Schroeder](sources/dg_cvs/)
+  > CV: Alexandra Jour-Schroeder
 
 
 ### Education clusters

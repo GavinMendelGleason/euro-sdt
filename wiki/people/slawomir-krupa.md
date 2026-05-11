@@ -20,14 +20,14 @@ generated: 2026-05-11
 - **Sciences Po Paris**
   > "&#91; 2 &#93; 
  Krupa studied at Sciences Po Paris , where he took a finance course that sparked his interest in banking."
-  > 📎 [Wikipedia: Slawomir Krupa](https://en.wikipedia.org/wiki/Slawomir_Krupa)
+  > Wikipedia: Slawomir Krupa
 
 
 ## Organisation affiliations
 
 - **European Banking Federation** — Chairperson
   > "He has also been chairperson of the European Banking Federation since 2025."
-  > 📎 [Wikipedia: Slawomir Krupa](https://en.wikipedia.org/wiki/Slawomir_Krupa)
+  > Wikipedia: Slawomir Krupa
 
 
 ### Education clusters

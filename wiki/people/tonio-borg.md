@@ -19,7 +19,7 @@ generated: 2026-05-11
 
 - **Barroso II**
   > "In 2012, Borg was appointed as EU Health (and Consumer Policy) Commissioner, replacing John Dalli."
-  > 📎 [Wikipedia article: Tonio Borg](https://en.wikipedia.org/wiki/Tonio_Borg)
+  > Wikipedia article: Tonio Borg
   > Normalised match: "commission barroso ii" → "in 2012, borg was appointed as eu health (and consumer policy) commissioner, rep"
 
 
@@ -27,7 +27,7 @@ generated: 2026-05-11
 
 - **Health and Consumer Policy (replaced Dalli)**
   > "Name "Tonio Borg" appears in Wikipedia page for commission-barroso-ii"
-  > 📎 [Wikipedia article: Tonio Borg](https://en.wikipedia.org/wiki/Tonio_Borg)
+  > Wikipedia article: Tonio Borg
   > Source: sources/wikipedia/commission-barroso-ii.txt (30457 chars)
 
 
@@ -35,7 +35,7 @@ generated: 2026-05-11
 
 - **MLT**
   > "Name "Tonio Borg" appears in Wikipedia page for commission-barroso-ii"
-  > 📎 [Wikipedia article: Tonio Borg](https://en.wikipedia.org/wiki/Tonio_Borg)
+  > Wikipedia article: Tonio Borg
   > Source: sources/wikipedia/commission-barroso-ii.txt (30457 chars)
 
 
@@ -43,7 +43,7 @@ generated: 2026-05-11
 
 - **Malta**
   > "Name "Tonio Borg" appears in Wikipedia page for commission-barroso-ii"
-  > 📎 [Wikipedia article: Tonio Borg](https://en.wikipedia.org/wiki/Tonio_Borg)
+  > Wikipedia article: Tonio Borg
   > Source: sources/wikipedia/commission-barroso-ii.txt (30457 chars)
 
 
@@ -51,7 +51,7 @@ generated: 2026-05-11
 
 - **Royal University Of Malta**
   > "Graduating with a law degree in 1979, he would start lecturing at the University of Malta initially as a guest lecturer."
-  > 📎 [Wikipedia article: Tonio Borg](https://en.wikipedia.org/wiki/Tonio_Borg)
+  > Wikipedia article: Tonio Borg
   > Wikipedia extract for Tonio Borg
 
 
@@ -59,7 +59,7 @@ generated: 2026-05-11
 
 - **PhD**
   > "Eventually, in 2016, he became an assistant lecturer, until 2018 wherein he completed his PhD in Judicial Review and Administrative Law, and was promoted to senior lecturer."
-  > 📎 [Wikipedia article: Tonio Borg](https://en.wikipedia.org/wiki/Tonio_Borg)
+  > Wikipedia article: Tonio Borg
   > LLM re-match (phrase 17)
 
 
@@ -72,7 +72,7 @@ European Medicines Agency (EMA), Member of the Management Board
 
 Recognition
 In December 2018 Borg was appointed Companion of the Order of Merit (KOM) by the President of Malta."
-  > 📎 [Wikipedia article: Tonio Borg](https://en.wikipedia.org/wiki/Tonio_Borg)
+  > Wikipedia article: Tonio Borg
   > Source: `sources/wikipedia/tonio-borg.txt` (3979 chars)
 
 
@@ -80,14 +80,14 @@ In December 2018 Borg was appointed Companion of the Order of Merit (KOM) by the
 
 - **European Medicines Agency** — Other/Earlier (*nan*)
   > "European Medicines Agency (Other/Earlier, nan)"
-  > 📎 [EC ethics page — Revolving door decisions](https://commission.europa.eu/about/service-standards-and-principles/ethics-and-good-administration/commissioners-and-ethics/former-european-commissioners-authorised-occupations_en)
+  > EC ethics page — Revolving door decisions
   > Post-mandate occupations for Tonio Borg:
 European Medicines Agency (Other/Earlier, nan)
 1 academic activity (Other/Earlier, nan)
 
 - **1 academic activity** — Other/Earlier (*nan*)
   > "Post-mandate occupations for Tonio Borg:"
-  > 📎 [EC ethics page — Revolving door decisions](https://commission.europa.eu/about/service-standards-and-principles/ethics-and-good-administration/commissioners-and-ethics/former-european-commissioners-authorised-occupations_en)
+  > EC ethics page — Revolving door decisions
   > Vector match (cos=0.61)
 
 

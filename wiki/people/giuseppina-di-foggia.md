@@ -19,5 +19,5 @@ generated: 2026-05-11
 
 - **Eni** — Chairman
   > "Extracted as Chairman at Eni"
-  > 📎 [Wikipedia: Eni](https://en.wikipedia.org/wiki/Eni)
+  > Wikipedia: Eni
 

@@ -21,7 +21,7 @@ generated: 2026-05-11
 
 - **Barroso I**
   > "Name "Louis Michel" appears in Wikipedia page for commission-barroso-i"
-  > 📎 [Wikipedia — Von der Leyen Commission II page](https://en.wikipedia.org/wiki/Von_der_Leyen_Commission_II)
+  > Wikipedia — Von der Leyen Commission II page
   > Source: sources/wikipedia/commission-barroso-i.txt (30457 chars)
 
 
@@ -29,7 +29,7 @@ generated: 2026-05-11
 
 - **Development and Humanitarian Aid**
   > "Name "Louis Michel" appears in Wikipedia page for commission-barroso-i"
-  > 📎 [Wikipedia — Von der Leyen Commission II page](https://en.wikipedia.org/wiki/Von_der_Leyen_Commission_II)
+  > Wikipedia — Von der Leyen Commission II page
   > Source: sources/wikipedia/commission-barroso-i.txt (30457 chars)
 
 
@@ -37,21 +37,21 @@ generated: 2026-05-11
 
 - **BEL**
   > "Following the 2009 election two commissioners stood down to accept seats in the European Parliament: Danuta Hübner (Poland) and Louis Michel (Belgium) who were replaced by Paweł Samecki (4 July) and K"
-  > 📎 [Wikipedia — Von der Leyen Commission II page](https://en.wikipedia.org/wiki/Von_der_Leyen_Commission_II)
+  > Wikipedia — Von der Leyen Commission II page
 
 
 ## Country
 
 - **Belgium**
   > "Following the 2009 election two commissioners stood down to accept seats in the European Parliament: Danuta Hübner (Poland) and Louis Michel (Belgium) who were replaced by Paweł Samecki (4 July) and K"
-  > 📎 [Wikipedia — Von der Leyen Commission II page](https://en.wikipedia.org/wiki/Von_der_Leyen_Commission_II)
+  > Wikipedia — Von der Leyen Commission II page
 
 
 ## Educated at
 
 - **École Polytechnique**
   > "Wikidata P69: École polytechnique"
-  > 📎 [Wikidata SPARQL — Commissioner CVs (all commissions)](https://query.wikidata.org/sparql)
+  > Wikidata SPARQL — Commissioner CVs (all commissions)
   > Wikidata educated-at for Louis Michel
 
 

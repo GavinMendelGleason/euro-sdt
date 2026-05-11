@@ -19,7 +19,7 @@ generated: 2026-05-11
 
 - **Catholique De Louvain (Ucl) – Louvain**
   > "Catholique de Louvain (UCL) – Louvain-la-Neuve, Belgium"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/sophia-eriksson-waterschoot.txt) (2705 chars)
 
 
@@ -27,7 +27,7 @@ generated: 2026-05-11
 
 - **Deputy Director-General → Directorate-General for Communication**
   > "Deputy Director-General, DG Communication"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/sophia-eriksson-waterschoot.txt) (2705 chars)
 
 
@@ -38,7 +38,7 @@ generated: 2026-05-11
 ➢ 2005 – 2006: Master en études interdisciplinaires européennes, Université 
 Catholique de Louvain (UCL) – Louvain-la-Neuve, Belgium 
 ➢ 1994 – 199"
-  > 📎 [CV: Sophia Eriksson Waterschoot](sources/dg_cvs/)
+  > CV: Sophia Eriksson Waterschoot
 
 
 ### Education clusters

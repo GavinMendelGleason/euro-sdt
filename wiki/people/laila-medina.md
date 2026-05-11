@@ -28,18 +28,18 @@ Advocate General
 Biography and career
 
 Born in 1971 in Jelgava (Latvia), Ms Laila Medina studied at the IMO International Maritime Law Institute (Malta) where she obtai"
-  > 📎 [CJEU bio: Laila Medina](https://curia.europa.eu/)
+  > CJEU bio: Laila Medina
 
 - **Rīgas Juridiskā augstskola (Riga Graduate School of Law, Latvia)**
   > "She was subsequently awarded a master’s degree in European law in 2002 at the Rīgas Juridiskā augstskola (Riga Graduate School of Law, Latvia)."
-  > 📎 [CJEU bio: Laila Medina](https://curia.europa.eu/)
+  > CJEU bio: Laila Medina
 
 
 ## Position
 
 - **Advocate General**
   > "Laila Medina — held_position: Advocate General"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > From Commission person page or CJEU member listing
 
 

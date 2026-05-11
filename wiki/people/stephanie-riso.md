@@ -19,6 +19,6 @@ generated: 2026-05-11
 
 - **Director-General → Directorate-General for Budget**
   > "Stéphanie Riso — held_position: Director-General → Directorate-General for Budget"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > From Commission person page or CJEU member listing
 

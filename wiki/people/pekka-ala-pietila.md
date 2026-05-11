@@ -19,11 +19,11 @@ generated: 2026-05-11
 
 - **Tampere University of Technology**
   > "Born in Asikkala , he holds an honorary Doctor in Technology from Tampere University of Technology and in Science from the University of Helsinki , and is a Knight 1st Class of the Order of the White "
-  > 📎 [Wikipedia: Pekka Ala-Pietilä](https://en.wikipedia.org/wiki/Pekka_Ala-Pietilä)
+  > Wikipedia: Pekka Ala-Pietilä
 
 - **University of Helsinki**
   > "Born in Asikkala, he holds an honorary Doctor in Technology from Tampere University of Technology and in Science from the University of Helsinki, and is a Knight 1st Class of the Order of the White Ro"
-  > 📎 [Wikipedia: Pekka Ala-Pietilä](https://en.wikipedia.org/wiki/Pekka_Ala-Pietilä)
+  > Wikipedia: Pekka Ala-Pietilä
 
 
 ## Organisation affiliations
@@ -31,27 +31,27 @@ generated: 2026-05-11
 - **Blyk** — CEO and co-founder
   > "( August 2009 ) ( Learn how and when to remove this message ) 
  Pekka Ala-Pietilä (born 13 January 1957) is CEO and co-founder of Blyk ."
-  > 📎 [Wikipedia: Pekka Ala-Pietilä](https://en.wikipedia.org/wiki/Pekka_Ala-Pietilä)
+  > Wikipedia: Pekka Ala-Pietilä
 
 - **Nokia Corporation** — President (1999–2005)
   > "He was also President of Nokia Corporation (1999–2005) and President of Nokia Mobile Phones (1992–1998)."
-  > 📎 [Wikipedia: Pekka Ala-Pietilä](https://en.wikipedia.org/wiki/Pekka_Ala-Pietilä)
+  > Wikipedia: Pekka Ala-Pietilä
 
 - **Nokia Mobile Phones** — President (1992–1998)
   > "He was also President of Nokia Corporation (1999–2005) and President of Nokia Mobile Phones (1992–1998)."
-  > 📎 [Wikipedia: Pekka Ala-Pietilä](https://en.wikipedia.org/wiki/Pekka_Ala-Pietilä)
+  > Wikipedia: Pekka Ala-Pietilä
 
 - **Tampere University of Technology** — Honorary Doctor in Technology
   > "Born in Asikkala , he holds an honorary Doctor in Technology from Tampere University of Technology and in Science from the University of Helsinki , and is a Knight 1st Class of the Order of the White "
-  > 📎 [Wikipedia: Pekka Ala-Pietilä](https://en.wikipedia.org/wiki/Pekka_Ala-Pietilä)
+  > Wikipedia: Pekka Ala-Pietilä
 
 - **University of Helsinki** — Honorary Doctor in Science
   > "Born in Asikkala , he holds an honorary Doctor in Technology from Tampere University of Technology and in Science from the University of Helsinki , and is a Knight 1st Class of the Order of the White "
-  > 📎 [Wikipedia: Pekka Ala-Pietilä](https://en.wikipedia.org/wiki/Pekka_Ala-Pietilä)
+  > Wikipedia: Pekka Ala-Pietilä
 
 - **Order of the White Rose of Finland** — Knight 1st Class
   > "Born in Asikkala , he holds an honorary Doctor in Technology from Tampere University of Technology and in Science from the University of Helsinki , and is a Knight 1st Class of the Order of the White "
-  > 📎 [Wikipedia: Pekka Ala-Pietilä](https://en.wikipedia.org/wiki/Pekka_Ala-Pietilä)
+  > Wikipedia: Pekka Ala-Pietilä
 
 
 ### Education clusters

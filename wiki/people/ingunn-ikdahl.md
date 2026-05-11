@@ -21,6 +21,6 @@ generated: 2026-05-11
 
 - **Judge**
   > "Ingunn Ikdahl — held_position: Judge"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > From Commission person page or CJEU member listing
 

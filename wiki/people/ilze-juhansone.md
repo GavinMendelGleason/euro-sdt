@@ -19,7 +19,7 @@ generated: 2026-05-11
 
 - **University of Latvia**
   > "1989 - 1994: Master's degree in Philology, Faculty of Philology, University of Latvia"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/ilze-juhansone.txt) (1783 chars)
 
 
@@ -27,12 +27,12 @@ generated: 2026-05-11
 
 - **Law**
   > " 1999 - 2005: Master's degree in Law, Faculty of Law, University of Latvia"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/ilze-juhansone.txt) (1783 chars)
 
 - **Public Administration**
   > " 1998 – Certificate Danish School of Public Administration – EU institutional"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/ilze-juhansone.txt) (1783 chars)
 
 
@@ -40,7 +40,7 @@ generated: 2026-05-11
 
 - **Secretary-General → Secretariat-General**
   > "As from 14 January 2020: Secretary-General"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/ilze-juhansone.txt) (1783 chars)
 
 
@@ -58,7 +58,7 @@ qualifications:
 making process, Trialogues 
  
  1999 - 2005: M"
-  > 📎 [CV: Ilze Juhansone](sources/dg_cvs/)
+  > CV: Ilze Juhansone
 
 - **Danish School Of Public Administration** — member
   > "Ilze JUHANSONE 
@@ -72,7 +72,7 @@ qualifications:
 making process, Trialogues 
  
  1999 - 2005: M"
-  > 📎 [CV: Ilze Juhansone](sources/dg_cvs/)
+  > CV: Ilze Juhansone
 
 
 ### Education clusters

@@ -19,7 +19,7 @@ generated: 2026-05-11
 
 - **University Of Kingston-Upon-Hull**
   > "1992: L.L.M in International Law, public international law, EU law and human rights law, University of Kingston-upon-Hull, United Kingdom"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/nils-behrndt.txt) (2004 chars)
 
 
@@ -27,7 +27,7 @@ generated: 2026-05-11
 
 - **Law**
   > "Second State Exam in Law, Germany"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/nils-behrndt.txt) (2004 chars)
 
 
@@ -35,7 +35,7 @@ generated: 2026-05-11
 
 - **Deputy Secretary-General → Secretariat-General**
   > "Nils Behrndt present in dg_cvs/nils-behrndt.txt — verifies held_position: Deputy Secretary-General → Secretariat-General"
-  > 📎 *Organisations classified dataset (manually researched)*
+  > *Organisations classified dataset (manually researched)*
   > Primary source: dg_cvs/nils-behrndt.txt. Context: Nils BEHRNDT  Nationality    German    Academic qualifications ➢ 2003: Ph.D on New Public Management
 
 
@@ -53,7 +53,7 @@ Germany
 ➢ 1999: Second State Exam in Law, Germany 
  
 ➢ 199"
-  > 📎 [CV: Nils Behrndt](sources/dg_cvs/)
+  > CV: Nils Behrndt
 
 
 ### Education clusters

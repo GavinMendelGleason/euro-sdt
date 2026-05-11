@@ -28,14 +28,14 @@ Advocate General
 Biography and career
 
 Born in 1965 in Florence (Italy), Andrea Biondi studied at the Università degli Studi di Firenze (University of Florence, Italy)"
-  > 📎 [CJEU bio: Andrea Biondi](https://curia.europa.eu/)
+  > CJEU bio: Andrea Biondi
 
 
 ## Position
 
 - **Advocate General**
   > "Andrea Biondi — held_position: Advocate General"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > From Commission person page or CJEU member listing
 
 

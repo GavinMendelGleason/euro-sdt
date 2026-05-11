@@ -19,7 +19,7 @@ generated: 2026-05-11
 
 - **Marlborough School, Los Angeles, Us**
   > "1980 - 1981: Senior Year, Marlborough School, Los Angeles, US"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/genoveva-ruiz-calavera.txt) (1682 chars)
 
 
@@ -27,7 +27,7 @@ generated: 2026-05-11
 
 - **Director-General → Directorate-General for Interpretation**
   > "Since 1 April 2021: Director-General – Directorate-General"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/genoveva-ruiz-calavera.txt) (1682 chars)
 
 
@@ -45,7 +45,7 @@ qualifications
 School / ULB – Brussels, Belgium 
  
  1982 - 1987:  Degree "
-  > 📎 [CV: Genoveva Ruiz Calavera](sources/dg_cvs/)
+  > CV: Genoveva Ruiz Calavera
 
 - **University Complutense of Madrid** — member
   > "Genoveva RUIZ CALAVERA 
@@ -59,7 +59,7 @@ qualifications
 School / ULB – Brussels, Belgium 
  
  1982 - 1987:  Degree "
-  > 📎 [CV: Genoveva Ruiz Calavera](sources/dg_cvs/)
+  > CV: Genoveva Ruiz Calavera
 
 - **Marlborough School** — member
   > "Genoveva RUIZ CALAVERA 
@@ -73,7 +73,7 @@ qualifications
 School / ULB – Brussels, Belgium 
  
  1982 - 1987:  Degree "
-  > 📎 [CV: Genoveva Ruiz Calavera](sources/dg_cvs/)
+  > CV: Genoveva Ruiz Calavera
 
 - **Digital Equipment Corporation** — member
   > "Genoveva RUIZ CALAVERA 
@@ -87,7 +87,7 @@ qualifications
 School / ULB – Brussels, Belgium 
  
  1982 - 1987:  Degree "
-  > 📎 [CV: Genoveva Ruiz Calavera](sources/dg_cvs/)
+  > CV: Genoveva Ruiz Calavera
 
 
 ### Education clusters

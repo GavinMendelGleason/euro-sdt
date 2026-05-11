@@ -19,6 +19,6 @@ generated: 2026-05-11
 
 - **Director-General → Legal service**
   > "Alberto De Gregorio Merino — held_position: Director-General → Legal service"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > From Commission person page or CJEU member listing
 

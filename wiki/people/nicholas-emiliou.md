@@ -21,6 +21,6 @@ generated: 2026-05-11
 
 - **Advocate General**
   > "Nicholas Emiliou — held_position: Advocate General"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > From Commission person page or CJEU member listing
 

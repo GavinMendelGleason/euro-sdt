@@ -19,7 +19,7 @@ generated: 2026-05-11
 
 - **Katholieke Universiteit Nijmegen – Nijmegen, The Netherlands**
   > "Master French and Mediterranean Studies, Katholieke Universiteit Nijmegen – Nijmegen, the Netherlands"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/herald-ruijters.txt) (1975 chars)
 
 
@@ -27,7 +27,7 @@ generated: 2026-05-11
 
 - **Deputy Director-General → Directorate-General for Defence Industry and Space**
   > "Herald Ruijters present in dg_cvs/herald-ruijters.txt — verifies held_position: Deputy Director-General → Directorate-General for Defence Industry and Space"
-  > 📎 *Organisations classified dataset (manually researched)*
+  > *Organisations classified dataset (manually researched)*
   > Primary source: dg_cvs/herald-ruijters.txt. Context: Herald RUIJTERS        Nationality    Dutch    Academic qualifications ➢ 1998 – 1999: “Postgradua
 
 
@@ -45,7 +45,7 @@ Dutch
 Academic qualifications ➢ 1998 – 1999: “Postgraduaat Bedrijfskunde”, Katholieke Universiteit - 
 Leuven, Belgium 
 ➢ 1990 – 1991: European Law, Centre euro"
-  > 📎 [CV: Herald Ruijters](sources/dg_cvs/)
+  > CV: Herald Ruijters
 
 - **Stichting Wetenschappelijk Onderzoek Verkeersveiligheid (SWOV)** — member
   > "Herald RUIJTERS 
@@ -59,7 +59,7 @@ Dutch
 Academic qualifications ➢ 1998 – 1999: “Postgraduaat Bedrijfskunde”, Katholieke Universiteit - 
 Leuven, Belgium 
 ➢ 1990 – 1991: European Law, Centre euro"
-  > 📎 [CV: Herald Ruijters](sources/dg_cvs/)
+  > CV: Herald Ruijters
 
 
 ### Education clusters

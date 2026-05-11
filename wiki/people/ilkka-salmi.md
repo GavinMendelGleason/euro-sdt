@@ -19,7 +19,7 @@ generated: 2026-05-11
 
 - **University Of Turku**
   > "➢ 06/1992: Master of Laws, University of Turku – Turku, Finland"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/ilkka-salmi.txt) (2997 chars)
 
 
@@ -27,7 +27,7 @@ generated: 2026-05-11
 
 - **Law**
   > "Master in International and Comparative Law (LL.M), Vrije Universiteit"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/ilkka-salmi.txt) (2997 chars)
 
 
@@ -35,7 +35,7 @@ generated: 2026-05-11
 
 - **Deputy Director-General → Directorate-General for Human Resources and Security**
   > "Since 01/02/2024: Deputy Director-General for “Security, Workplace &"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/ilkka-salmi.txt) (2997 chars)
 
 
@@ -55,7 +55,7 @@ qualifications
 ➢ 06/1993: Master in International and Comparative Law (LL.M), Vrije Universiteit 
 Brussel - Brussels, Belgium 
 ➢ 06/1992: Master"
-  > 📎 [CV: Ilkka Salmi](sources/dg_cvs/)
+  > CV: Ilkka Salmi
 
 - **Sumentola & Itälä Oy, Attorneys-at-Law** — member
   > "Ilkka SALMI 
@@ -71,7 +71,7 @@ qualifications
 ➢ 06/1993: Master in International and Comparative Law (LL.M), Vrije Universiteit 
 Brussel - Brussels, Belgium 
 ➢ 06/1992: Master"
-  > 📎 [CV: Ilkka Salmi](sources/dg_cvs/)
+  > CV: Ilkka Salmi
 
 - **Juha Mäkitalo Oy, Attorneys-at-Law** — member
   > "Ilkka SALMI 
@@ -87,7 +87,7 @@ qualifications
 ➢ 06/1993: Master in International and Comparative Law (LL.M), Vrije Universiteit 
 Brussel - Brussels, Belgium 
 ➢ 06/1992: Master"
-  > 📎 [CV: Ilkka Salmi](sources/dg_cvs/)
+  > CV: Ilkka Salmi
 
 
 ### Education clusters

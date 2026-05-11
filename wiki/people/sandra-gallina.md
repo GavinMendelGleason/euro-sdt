@@ -19,7 +19,7 @@ generated: 2026-05-11
 
 - **Scuola Superiore Di Lingue Moderne Per Interpreti E Traduttori – Università Di T**
   > "Scuola Superiore di Lingue Moderne per Interpreti e TraduttoriScuola Superiore di Lingue Moderne per Interpreti e Traduttori – Università di Trieste – Trieste, Italy"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/sandra-gallina.txt) (1753 chars)
 
 
@@ -27,7 +27,7 @@ generated: 2026-05-11
 
 - **Director-General → Directorate-General for Health and Food Safety**
   > "Since 16/10/2020: Director-General – Directorate-General Health"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/sandra-gallina.txt) (1753 chars)
 
 
@@ -45,7 +45,7 @@ qualifications
 laude 
 Scuola Superiore di Lingue Moderne per Interpreti e 
 TraduttoriSc"
-  > 📎 [CV: Sandra Gallina](sources/dg_cvs/)
+  > CV: Sandra Gallina
 
 
 ### Education clusters

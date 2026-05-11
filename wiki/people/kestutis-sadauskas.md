@@ -19,7 +19,7 @@ generated: 2026-05-11
 
 - **Institute Of Political Science And International Relations, Vilnius University**
   > "1992 – 1994: Master Degree in International Relations – Institute of Political Science and International Relations, Vilnius University – Vilnius, Lithuania"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/kestutis-sadauskas.txt) (1846 chars)
 
 
@@ -27,7 +27,7 @@ generated: 2026-05-11
 
 - **Deputy Director-General → Directorate-General for Maritime Affairs and Fisheries**
   > "Kestutis Sadauskas present in dg_cvs/kestutis-sadauskas.txt — verifies held_position: Deputy Director-General → Directorate-General for Maritime Affairs and Fisheries"
-  > 📎 *Organisations classified dataset (manually researched)*
+  > *Organisations classified dataset (manually researched)*
   > Primary source: dg_cvs/kestutis-sadauskas.txt. Context: Kestutis SADAUSKAS    Nationality    Lithuanian  Academic  qualifications   1992 – 1994: Mast
 
 
@@ -43,7 +43,7 @@ Academic
 qualifications 
  1992 – 1994: Master Degree in International Relations – Institute of Political 
 Science and International Relations, Vilniu"
-  > 📎 [CV: Kestutis Sadauskas](sources/dg_cvs/)
+  > CV: Kestutis Sadauskas
 
 
 ### Education clusters

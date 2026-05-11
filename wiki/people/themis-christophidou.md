@@ -19,7 +19,7 @@ generated: 2026-05-11
 
 - **Athens National Polytechnic Metsovio**
   > "1980 – 1986: MSc Civil Engineering, Athens National Polytechnic Metsovio"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/themis-christophidou.txt) (1786 chars)
 
 
@@ -27,7 +27,7 @@ generated: 2026-05-11
 
 - **Director-General → Directorate-General for Regional and Urban Policy**
   > "Director-General - Directorate-General"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/themis-christophidou.txt) (1786 chars)
 
 
@@ -44,7 +44,7 @@ School
  
 ➢ 1980 – 1986: MSc Civil Engineering, Athens National 
 Pol"
-  > 📎 [CV: Themis Christophidou](sources/dg_cvs/)
+  > CV: Themis Christophidou
 
 - **Eoliki Techniki S.A.** — member
   > "Themis CHRISTOPHIDOU 
@@ -57,7 +57,7 @@ School
  
 ➢ 1980 – 1986: MSc Civil Engineering, Athens National 
 Pol"
-  > 📎 [CV: Themis Christophidou](sources/dg_cvs/)
+  > CV: Themis Christophidou
 
 - **Ergodomi S.A.** — member
   > "Themis CHRISTOPHIDOU 
@@ -70,7 +70,7 @@ School
  
 ➢ 1980 – 1986: MSc Civil Engineering, Athens National 
 Pol"
-  > 📎 [CV: Themis Christophidou](sources/dg_cvs/)
+  > CV: Themis Christophidou
 
 
 ### Education clusters

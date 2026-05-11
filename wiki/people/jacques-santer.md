@@ -21,7 +21,7 @@ generated: 2026-05-11
 
 - **Santer Commission**
   > "Because the implicated commissioners refused to resign and the president of the European Commission did not have the power to dismiss individual commissioners, Santer and his entire commission resigne"
-  > 📎 [Wikipedia article: Jacques Santer](https://en.wikipedia.org/wiki/Jacques_Santer)
+  > Wikipedia article: Jacques Santer
   > Jacques Louis Santer (born 18 May 1937) is a Luxembourgish politician who served as president of the European Commission from 1995 to 1999 before resi
 
 
@@ -29,7 +29,7 @@ generated: 2026-05-11
 
 - **President**
   > "Name "Jacques Santer" appears in Wikipedia page for commission-santer"
-  > 📎 [Wikipedia article: Jacques Santer](https://en.wikipedia.org/wiki/Jacques_Santer)
+  > Wikipedia article: Jacques Santer
   > Source: sources/wikipedia/commission-santer.txt (11541 chars)
 
 
@@ -37,7 +37,7 @@ generated: 2026-05-11
 
 - **LUX**
   > "The administration was led by Jacques Santer (former Prime Minister of Luxembourg)."
-  > 📎 [Wikipedia article: Jacques Santer](https://en.wikipedia.org/wiki/Jacques_Santer)
+  > Wikipedia article: Jacques Santer
   > Source: `sources/wikipedia/jacques-santer.txt` (5501 chars)
 
 
@@ -45,7 +45,7 @@ generated: 2026-05-11
 
 - **Luxembourg**
   > "The administration was led by Jacques Santer (former Prime Minister of Luxembourg)."
-  > 📎 [Wikipedia article: Jacques Santer](https://en.wikipedia.org/wiki/Jacques_Santer)
+  > Wikipedia article: Jacques Santer
   > Source: `sources/wikipedia/jacques-santer.txt` (5501 chars)
 
 
@@ -53,12 +53,12 @@ generated: 2026-05-11
 
 - **Sciences Po**
   > "Santer graduated in 1959 from Sciences Po, before receiving his doctorate in law from the University of Strasbourg in 1961."
-  > 📎 [Wikipedia article: Jacques Santer](https://en.wikipedia.org/wiki/Jacques_Santer)
+  > Wikipedia article: Jacques Santer
   > Wikipedia extract for Jacques Santer
 
 - **University Of Strasbourg**
   > "Santer graduated in 1959 from Sciences Po, before receiving his doctorate in law from the University of Strasbourg in 1961."
-  > 📎 [Wikipedia article: Jacques Santer](https://en.wikipedia.org/wiki/Jacques_Santer)
+  > Wikipedia article: Jacques Santer
   > Wikipedia extract for Jacques Santer
 
 
@@ -66,7 +66,7 @@ generated: 2026-05-11
 
 - **SME Europe** — Honorary Member
   > "In May 2013, Santer became an Honorary Member of SME Europe, the official pro-business organisation of the European People's Party."
-  > 📎 [Wikipedia article: Jacques Santer](https://en.wikipedia.org/wiki/Jacques_Santer)
+  > Wikipedia article: Jacques Santer
   > Source: `sources/wikipedia/jacques-santer.txt` (5501 chars)
 
 

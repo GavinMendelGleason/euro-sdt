@@ -21,14 +21,14 @@ generated: 2026-05-11
 
 - **University of Life Sciences in Poznań**
   > "Wikidata P69 for Q11817962"
-  > 📎 [Wikidata: Piotr Polak](https://www.wikidata.org/wiki/Q11817962)
+  > Wikidata: Piotr Polak
 
 
 ## Position
 
 - **Judge**
   > "Piotr Polak — held_position: Judge"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > From Commission person page or CJEU member listing
 
 

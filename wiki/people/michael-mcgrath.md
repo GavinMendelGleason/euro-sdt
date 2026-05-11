@@ -21,7 +21,7 @@ generated: 2026-05-11
 
 - **European Commissioner for Democracy, Justice, the Rule of Law and Consumer Protection**
   > "As of May 2025, his portfolio as Commissioner was defined as Democracy, Justice, the Rule of Law and Consumer Protection."
-  > 📎 [Wikipedia article: Michael McGrath](https://en.wikipedia.org/wiki/Michael_McGrath)
+  > Wikipedia article: Michael McGrath
   > Michael McGrath (; born 23 August 1976) is an Irish Fianna Fáil politician and EU Commissioner for Democracy, Justice, the Rule of Law and Consumer Pr
 
 
@@ -29,7 +29,7 @@ generated: 2026-05-11
 
 - **IRL**
   > "Michael McGrath present in wikipedia/michael-mcgrath.txt — verifies nominated_by: IRL"
-  > 📎 *Organisations classified dataset (manually researched)*
+  > *Organisations classified dataset (manually researched)*
   > Primary source: wikipedia/michael-mcgrath.txt. Context: Michael McGrath (; born 23 August 1976) is an Irish Fianna Fáil politician and EU Commissioner
 
 
@@ -37,7 +37,7 @@ generated: 2026-05-11
 
 - **Ireland**
   > "Michael McGrath (; born 23 August 1976) is an Irish Fianna Fáil politician and EU Commissioner for Democracy, Justice, the Rule of Law and Consumer Protection."
-  > 📎 [Wikipedia article: Michael McGrath](https://en.wikipedia.org/wiki/Michael_McGrath)
+  > Wikipedia article: Michael McGrath
   > LLM re-match (phrase 0)
 
 
@@ -45,7 +45,7 @@ generated: 2026-05-11
 
 - **University College Cork**
   > "He studied commerce at University College Cork and later qualified as a chartered accountant with KPMG and worked subsequently as Financial Controller of RedFM and Head of Management Information and S"
-  > 📎 [Wikipedia article: Michael McGrath](https://en.wikipedia.org/wiki/Michael_McGrath)
+  > Wikipedia article: Michael McGrath
   > Wikipedia extract for Michael McGrath
 
 
@@ -53,19 +53,19 @@ generated: 2026-05-11
 
 - **KPMG** — chartered accountant (trainee/employee)
   > "He studied commerce at University College Cork and later qualified as a chartered accountant with KPMG and worked subsequently as Financial Controller of RedFM and Head of Management Information and S"
-  > 📎 [Wikipedia article: Michael McGrath](https://en.wikipedia.org/wiki/Michael_McGrath)
+  > Wikipedia article: Michael McGrath
   > Source: `sources/wikipedia/michael-mcgrath.txt` (5996 chars)
 
 - **passage-west-town-council** — member
   > "Political career
 He was a member of Passage West Town Council from 1999 to 2007, and a member of Cork County Council for the Carrigaline local electoral area from 2004 to 2007."
-  > 📎 [Wikipedia article: Michael McGrath](https://en.wikipedia.org/wiki/Michael_McGrath)
+  > Wikipedia article: Michael McGrath
   > Source: `sources/wikipedia/michael-mcgrath.txt` (5996 chars)
 
 - **cork-county-council** — member
   > "Political career
 He was a member of Passage West Town Council from 1999 to 2007, and a member of Cork County Council for the Carrigaline local electoral area from 2004 to 2007."
-  > 📎 [Wikipedia article: Michael McGrath](https://en.wikipedia.org/wiki/Michael_McGrath)
+  > Wikipedia article: Michael McGrath
   > Source: `sources/wikipedia/michael-mcgrath.txt` (5996 chars)
 
 

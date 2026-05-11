@@ -19,7 +19,7 @@ generated: 2026-05-11
 
 - **Humboldt University Berlin, Germany**
   > "07/1995 – 06/1997: Research Assistant, Humboldt University Berlin, Germany"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/renate-nikolay.txt) (2018 chars)
 
 
@@ -35,7 +35,7 @@ Academic qualifications  06/1995 – 06/1997: Second Legal State Examination 
 honors, High Court, Berlin, Germany 
  
  08/1994 – 05/1995: Master of Laws L."
-  > 📎 [CV: Renate Nikolay](sources/dg_cvs/)
+  > CV: Renate Nikolay
 
 
 ### Education clusters

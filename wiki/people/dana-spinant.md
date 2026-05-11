@@ -19,7 +19,7 @@ generated: 2026-05-11
 
 - **College of Europe**
   > "Administrative Studies, College of Europe - Bruges, Belgium"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/dana-spinant.txt) (1982 chars)
 
 
@@ -27,7 +27,7 @@ generated: 2026-05-11
 
 - **Director-General → Directorate-General for Communication**
   > "Since 01/12/2023: Director-General – Directorate-General for"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/dana-spinant.txt) (1982 chars)
 
 
@@ -42,7 +42,7 @@ Romanian
 Academic qualifications ➢ 09/1997 – 06/1998: Master in European Political and 
 Administrative Studies, College of Europe - Bruges, Belgium 
 ➢ 10/1995 – 06/1996"
-  > 📎 [CV: Dana Spinant](sources/dg_cvs/)
+  > CV: Dana Spinant
 
 - **Institut Européen des Hautes Études Internationales** — member
   > "Dana SPINANT 
@@ -53,7 +53,7 @@ Romanian
 Academic qualifications ➢ 09/1997 – 06/1998: Master in European Political and 
 Administrative Studies, College of Europe - Bruges, Belgium 
 ➢ 10/1995 – 06/1996"
-  > 📎 [CV: Dana Spinant](sources/dg_cvs/)
+  > CV: Dana Spinant
 
 - **European Voice, The Economist Group** — member
   > "Dana SPINANT 
@@ -64,7 +64,7 @@ Romanian
 Academic qualifications ➢ 09/1997 – 06/1998: Master in European Political and 
 Administrative Studies, College of Europe - Bruges, Belgium 
 ➢ 10/1995 – 06/1996"
-  > 📎 [CV: Dana Spinant](sources/dg_cvs/)
+  > CV: Dana Spinant
 
 - **EUobserver** — member
   > "Dana SPINANT 
@@ -75,7 +75,7 @@ Romanian
 Academic qualifications ➢ 09/1997 – 06/1998: Master in European Political and 
 Administrative Studies, College of Europe - Bruges, Belgium 
 ➢ 10/1995 – 06/1996"
-  > 📎 [CV: Dana Spinant](sources/dg_cvs/)
+  > CV: Dana Spinant
 
 - **Antena 1 TV** — member
   > "Dana SPINANT 
@@ -86,7 +86,7 @@ Romanian
 Academic qualifications ➢ 09/1997 – 06/1998: Master in European Political and 
 Administrative Studies, College of Europe - Bruges, Belgium 
 ➢ 10/1995 – 06/1996"
-  > 📎 [CV: Dana Spinant](sources/dg_cvs/)
+  > CV: Dana Spinant
 
 - **ProTV** — member
   > "Dana SPINANT 
@@ -97,7 +97,7 @@ Romanian
 Academic qualifications ➢ 09/1997 – 06/1998: Master in European Political and 
 Administrative Studies, College of Europe - Bruges, Belgium 
 ➢ 10/1995 – 06/1996"
-  > 📎 [CV: Dana Spinant](sources/dg_cvs/)
+  > CV: Dana Spinant
 
 - **Realitatea TV** — member
   > "Dana SPINANT 
@@ -108,7 +108,7 @@ Romanian
 Academic qualifications ➢ 09/1997 – 06/1998: Master in European Political and 
 Administrative Studies, College of Europe - Bruges, Belgium 
 ➢ 10/1995 – 06/1996"
-  > 📎 [CV: Dana Spinant](sources/dg_cvs/)
+  > CV: Dana Spinant
 
 - **TV Sigma** — member
   > "Dana SPINANT 
@@ -119,7 +119,7 @@ Romanian
 Academic qualifications ➢ 09/1997 – 06/1998: Master in European Political and 
 Administrative Studies, College of Europe - Bruges, Belgium 
 ➢ 10/1995 – 06/1996"
-  > 📎 [CV: Dana Spinant](sources/dg_cvs/)
+  > CV: Dana Spinant
 
 
 ### Education clusters

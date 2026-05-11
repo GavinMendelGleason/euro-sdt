@@ -19,5 +19,5 @@ generated: 2026-05-11
 
 - **Volkswagen** — board member
   > "Extracted from Wikipedia page for Volkswagen"
-  > 📎 [Wikipedia: Volkswagen](https://en.wikipedia.org/wiki/Volkswagen)
+  > Wikipedia: Volkswagen
 

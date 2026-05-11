@@ -19,7 +19,7 @@ generated: 2026-05-11
 
 - **Pricewaterhousecoopers**
   > "➢ PRICEWATERHOUSECOOPERS"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/bernard-magenhann.txt) (2977 chars)
 
 
@@ -27,7 +27,7 @@ generated: 2026-05-11
 
 - **Director-General → Joint Research Centre**
   > "Since 01/07/2025: Director-General - Joint Research Centre (JRC)"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/bernard-magenhann.txt) (2977 chars)
 
 
@@ -40,7 +40,7 @@ Institutions:
 ➢ PRICEWATERHOUSECOOPERS 
 ➢ 09/1998 – 08/2002: Director and Member of the Board of Directors 
 Management of the strategic developme"
-  > 📎 [CV: Bernard Magenhann](sources/dg_cvs/)
+  > CV: Bernard Magenhann
 
 
 ### Education clusters

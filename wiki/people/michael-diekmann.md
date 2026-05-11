@@ -19,7 +19,7 @@ generated: 2026-05-11
 
 - **Goettingen University**
   > "&#91; 2 &#93; Instead, he earned his degree from Goettingen University, where he studied law and philosophy."
-  > 📎 [Wikipedia: Michael Diekmann](https://en.wikipedia.org/wiki/Michael_Diekmann)
+  > Wikipedia: Michael Diekmann
 
 
 ### Education clusters

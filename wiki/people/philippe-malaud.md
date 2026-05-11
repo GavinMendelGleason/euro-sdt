@@ -19,18 +19,18 @@ generated: 2026-05-11
 
 - **École nationale d'administration**
   > "He graduated from the École nationale d'administration in 1956."
-  > 📎 [Wikipedia article: Philippe Malaud](https://en.wikipedia.org/wiki/Philippe_Malaud)
+  > Wikipedia article: Philippe Malaud
 
 
 ## Organisation affiliations
 
 - **Independent Republicans** — member
   > "From 1968 until 1978, he was a member of the Independent Republicans ."
-  > 📎 [Wikipedia article: Philippe Malaud](https://en.wikipedia.org/wiki/Philippe_Malaud)
+  > Wikipedia article: Philippe Malaud
 
 - **Parliament** — member
   > "Between 1973 and 1981, he was a member of the Parliament ."
-  > 📎 [Wikipedia article: Philippe Malaud](https://en.wikipedia.org/wiki/Philippe_Malaud)
+  > Wikipedia article: Philippe Malaud
 
 
 ### Education clusters

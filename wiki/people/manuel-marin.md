@@ -21,7 +21,7 @@ generated: 2026-05-11
 
 - **Santer Commission**
   > "Some members continued under Manuel Marín until the Prodi Commission was appointed."
-  > 📎 [Wikipedia article: Manuel Marin](https://en.wikipedia.org/wiki/Manuel_Marin)
+  > Wikipedia article: Manuel Marin
   > Source: `sources/wikipedia/manuel-marin.txt` (22675 chars)
 
 
@@ -29,7 +29,7 @@ generated: 2026-05-11
 
 - **VP – External Relations (South)**
   > "This was in part because the allegations centred on Édith Cresson and Manuel Marín, both from the Socialist party (PES)."
-  > 📎 [Wikipedia article: Manuel Marin](https://en.wikipedia.org/wiki/Manuel_Marin)
+  > Wikipedia article: Manuel Marin
   > Name found in commission-santer table extract
 
 
@@ -37,7 +37,7 @@ generated: 2026-05-11
 
 - **ESP**
   > "Some members continued under Manuel Marín until the Prodi Commission was appointed."
-  > 📎 [Wikipedia article: Manuel Marin](https://en.wikipedia.org/wiki/Manuel_Marin)
+  > Wikipedia article: Manuel Marin
   > The Santer Commission was the European Commission in office between 23 January 1995 and 15 March 1999. The administration was led by Jacques Santer (f
 
 
@@ -45,7 +45,7 @@ generated: 2026-05-11
 
 - **Spain**
   > "Some members continued under Manuel Marín until the Prodi Commission was appointed."
-  > 📎 [Wikipedia article: Manuel Marin](https://en.wikipedia.org/wiki/Manuel_Marin)
+  > Wikipedia article: Manuel Marin
   > The Santer Commission was the European Commission in office between 23 January 1995 and 15 March 1999. The administration was led by Jacques Santer (f
 
 
@@ -53,17 +53,17 @@ generated: 2026-05-11
 
 - **Complutense University Of Madrid**
   > "He studied law at Madrid's Complutense University , then went on to take a Diploma in European Community Law at Nancy University , France, and the Certificate of Advanced European Studies at the Colle"
-  > 📎 [Wikipedia article: Manuel Marin](https://en.wikipedia.org/wiki/Manuel_Marin)
+  > Wikipedia article: Manuel Marin
   > Source: `sources/wikipedia/manuel-marin.txt` (22675 chars)
 
 - **Nancy University**
   > "He studied law at Madrid's Complutense University , then went on to take a Diploma in European Community Law at Nancy University , France, and the Certificate of Advanced European Studies at the Colle"
-  > 📎 [Wikipedia article: Manuel Marin](https://en.wikipedia.org/wiki/Manuel_Marin)
+  > Wikipedia article: Manuel Marin
   > Source: `sources/wikipedia/manuel-marin.txt` (22675 chars)
 
 - **College of Europe**
   > "He studied law at Madrid's Complutense University , then went on to take a Diploma in European Community Law at Nancy University , France, and the Certificate of Advanced European Studies at the Colle"
-  > 📎 [Wikipedia article: Manuel Marin](https://en.wikipedia.org/wiki/Manuel_Marin)
+  > Wikipedia article: Manuel Marin
   > Source: `sources/wikipedia/manuel-marin.txt` (22675 chars)
 
 
@@ -71,17 +71,17 @@ generated: 2026-05-11
 
 - **law**
   > "He studied law at Madrid's Complutense University , then went on to take a Diploma in European Community Law at Nancy University , France, and the Certificate of Advanced European Studies at the Colle"
-  > 📎 [Wikipedia article: Manuel Marin](https://en.wikipedia.org/wiki/Manuel_Marin)
+  > Wikipedia article: Manuel Marin
   > Source: `sources/wikipedia/manuel-marin.txt` (22675 chars)
 
 - **European Community Law**
   > "He studied law at Madrid's Complutense University , then went on to take a Diploma in European Community Law at Nancy University , France, and the Certificate of Advanced European Studies at the Colle"
-  > 📎 [Wikipedia article: Manuel Marin](https://en.wikipedia.org/wiki/Manuel_Marin)
+  > Wikipedia article: Manuel Marin
   > Source: `sources/wikipedia/manuel-marin.txt` (22675 chars)
 
 - **Advanced European Studies**
   > "He studied law at Madrid's Complutense University , then went on to take a Diploma in European Community Law at Nancy University , France, and the Certificate of Advanced European Studies at the Colle"
-  > 📎 [Wikipedia article: Manuel Marin](https://en.wikipedia.org/wiki/Manuel_Marin)
+  > Wikipedia article: Manuel Marin
   > Source: `sources/wikipedia/manuel-marin.txt` (22675 chars)
 
 
@@ -89,12 +89,12 @@ generated: 2026-05-11
 
 - **Diploma**
   > "He studied law at Madrid's Complutense University , then went on to take a Diploma in European Community Law at Nancy University , France, and the Certificate of Advanced European Studies at the Colle"
-  > 📎 [Wikipedia article: Manuel Marin](https://en.wikipedia.org/wiki/Manuel_Marin)
+  > Wikipedia article: Manuel Marin
   > Source: `sources/wikipedia/manuel-marin.txt` (22675 chars)
 
 - **Certificate**
   > "He studied law at Madrid's Complutense University , then went on to take a Diploma in European Community Law at Nancy University , France, and the Certificate of Advanced European Studies at the Colle"
-  > 📎 [Wikipedia article: Manuel Marin](https://en.wikipedia.org/wiki/Manuel_Marin)
+  > Wikipedia article: Manuel Marin
   > Source: `sources/wikipedia/manuel-marin.txt` (22675 chars)
 
 

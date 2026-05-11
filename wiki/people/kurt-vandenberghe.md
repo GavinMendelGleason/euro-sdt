@@ -19,7 +19,7 @@ generated: 2026-05-11
 
 - **Catholique De Louvain-La-Neuve, Louvain**
   > "Université Catholique de Louvain-la-Neuve, Louvain-la-Neuve,"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/kurt-vandenberghe.txt) (1927 chars)
 
 
@@ -27,7 +27,7 @@ generated: 2026-05-11
 
 - **Economics**
   > "Economics and Conflict Management, The John Hopkins"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/kurt-vandenberghe.txt) (1927 chars)
 
 
@@ -35,7 +35,7 @@ generated: 2026-05-11
 
 - **Director-General → Directorate-General for Climate Action**
   > "Kurt Vandenberghe present in dg_cvs/kurt-vandenberghe.txt — verifies held_position: Director-General → Directorate-General for Climate Action"
-  > 📎 *Organisations classified dataset (manually researched)*
+  > *Organisations classified dataset (manually researched)*
   > Primary source: dg_cvs/kurt-vandenberghe.txt. Context: Kurt VANDENBERGHE      Nationality    Belgian    Academic qualifications  1990 – 1992 M.A. in 
 
 
@@ -50,7 +50,7 @@ Nationality
 Belgian 
  
 Academic qualifications  1990 – 1992 M.A."
-  > 📎 [CV: Kurt Vandenberghe](sources/dg_cvs/)
+  > CV: Kurt Vandenberghe
 
 
 ### Education clusters

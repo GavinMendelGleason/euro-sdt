@@ -27,7 +27,7 @@ Country: Spain
 
 Education:
 graduated in law in 1972 after completing his studies at the Universidad de Sevilla (University "
-  > 📎 [Wikipedia: Manuel Campos Sánchez-Bordona](https://en.wikipedia.org/wiki/Manuel_Campos_Sánchez-Bordona)
+  > Wikipedia: Manuel Campos Sánchez-Bordona
 
 - **Universidad de Granada (University of Granada, Spain)**
   > "Name: Manuel Campos Sánchez-Bordona
@@ -37,14 +37,14 @@ Country: Spain
 
 Education:
 graduated in law in 1972 after completing his studies at the Universidad de Sevilla (University "
-  > 📎 [Wikipedia: Manuel Campos Sánchez-Bordona](https://en.wikipedia.org/wiki/Manuel_Campos_Sánchez-Bordona)
+  > Wikipedia: Manuel Campos Sánchez-Bordona
 
 
 ## Position
 
 - **Advocate General**
   > "Manuel Campos Sánchez-Bordona — held_position: Advocate General"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > From Commission person page or CJEU member listing
 
 
@@ -52,11 +52,11 @@ graduated in law in 1972 after completing his studies at the Universidad de Sevi
 
 - **the Junta Electoral Central (Spain) from 2012 to 2015** — member
   > "Wikidata P4100: Member of the Junta Electoral Central (Spain) from 2012 to 2015"
-  > 📎 [Wikidata: Manuel Campos Sánchez-Bordona](https://www.wikidata.org/wiki/Q110101688)
+  > Wikidata: Manuel Campos Sánchez-Bordona
 
 - **Revista General de Derecho Europeo** — member
   > "Wikidata P4100: Revista General de Derecho Europeo"
-  > 📎 [Wikidata: Manuel Campos Sánchez-Bordona](https://www.wikidata.org/wiki/Q110101688)
+  > Wikidata: Manuel Campos Sánchez-Bordona
 
 
 ### Education clusters

@@ -21,7 +21,7 @@ generated: 2026-05-11
 
 - **VdL II Commission**
   > "She serves as European Commissioner for Environment, Water Resilience and a Competitive Circular Economy and Swedish European Commissioner since 1 December 2024."
-  > 📎 [Wikipedia article: Jessika Roswall](https://en.wikipedia.org/wiki/Jessika_Roswall)
+  > Wikipedia article: Jessika Roswall
   > Normalised match: "commission vdl ii" → "she serves as environment, water resilience and a competitive circular economy a"
 
 
@@ -29,7 +29,7 @@ generated: 2026-05-11
 
 - **European Commissioner for Environment, Water Resilience, and a Competitive Circular Economy**
   > "She serves as European Commissioner for Environment, Water Resilience and a Competitive Circular Economy and Swedish European Commissioner since 1 December 2024."
-  > 📎 [Wikipedia article: Jessika Roswall](https://en.wikipedia.org/wiki/Jessika_Roswall)
+  > Wikipedia article: Jessika Roswall
   > LLM re-match (phrase 1)
 
 
@@ -37,7 +37,7 @@ generated: 2026-05-11
 
 - **SWE**
   > "She serves as European Commissioner for Environment, Water Resilience and a Competitive Circular Economy and Swedish European Commissioner since 1 December 2024."
-  > 📎 [Wikipedia article: Jessika Roswall](https://en.wikipedia.org/wiki/Jessika_Roswall)
+  > Wikipedia article: Jessika Roswall
   > Final: name+country found in wikipedia/commission-vdl-ii-tables.txt
 
 
@@ -45,7 +45,7 @@ generated: 2026-05-11
 
 - **Sweden**
   > "She serves as European Commissioner for Environment, Water Resilience and a Competitive Circular Economy and Swedish European Commissioner since 1 December 2024."
-  > 📎 [Wikipedia article: Jessika Roswall](https://en.wikipedia.org/wiki/Jessika_Roswall)
+  > Wikipedia article: Jessika Roswall
   > LLM match (phrase 1)
 
 
@@ -53,7 +53,7 @@ generated: 2026-05-11
 
 - **Stockholm University**
   > "She moved to Uppsala to study law at Uppsala University and graduated in law (LLM) in 2002."
-  > 📎 [Wikipedia article: Jessika Roswall](https://en.wikipedia.org/wiki/Jessika_Roswall)
+  > Wikipedia article: Jessika Roswall
   > Wikipedia extract for Jessika Roswall
 
 
@@ -61,7 +61,7 @@ generated: 2026-05-11
 
 - **swedish-consumer-agency-s-transparency-council** — member
   > "Since 2015, she has also been a member of the Swedish Consumer Agency's transparency council."
-  > 📎 [Wikipedia article: Jessika Roswall](https://en.wikipedia.org/wiki/Jessika_Roswall)
+  > Wikipedia article: Jessika Roswall
   > Source: `sources/wikipedia/jessika-roswall.txt` (1830 chars)
 
 

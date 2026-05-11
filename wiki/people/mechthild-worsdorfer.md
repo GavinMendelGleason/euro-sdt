@@ -19,7 +19,7 @@ generated: 2026-05-11
 
 - **University Of Montpellier**
   > "1987 – 1989: Maîtrise et Licence en Sciences économiques, Économie monétaire et financière – University of Montpellier, France"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/mechthild-worsdorfer.txt) (2193 chars)
 
 
@@ -27,7 +27,7 @@ generated: 2026-05-11
 
 - **Deputy Director-General → Directorate-General for Energy**
   > "Since 1 October 2021: Deputy Director-General – Directorate-General Energy"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/mechthild-worsdorfer.txt) (2193 chars)
 
 

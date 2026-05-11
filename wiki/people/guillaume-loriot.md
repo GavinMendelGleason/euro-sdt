@@ -19,7 +19,7 @@ generated: 2026-05-11
 
 - **College of Europe**
   > " 09/1991 – 06-1992: Master of European Law  – College of Europe, Bruges,"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/guillaume-loriot.txt) (2089 chars)
 
 
@@ -27,7 +27,7 @@ generated: 2026-05-11
 
 - **Deputy Director-General → Directorate-General for Competition**
   > "Since 16 May 2021: Deputy Director -General “Mergers” – Directorate-"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/guillaume-loriot.txt) (2089 chars)
 
 
@@ -43,7 +43,7 @@ Academic qualifications  01/1993 – 12/1993: Admitted to the Bar  – Paris 
 France 
  
  09/1991 – 06-1992: Master of European Law  "
-  > 📎 [CV: Guillaume Loriot](sources/dg_cvs/)
+  > CV: Guillaume Loriot
 
 - **Alliance of European Lawyers (Jeantet & Ass.)** — member
   > "Guillaume LORIOT 
@@ -55,7 +55,7 @@ Academic qualifications  01/1993 – 12/1993: Admitted to the Bar  – Paris 
 France 
  
  09/1991 – 06-1992: Master of European Law  "
-  > 📎 [CV: Guillaume Loriot](sources/dg_cvs/)
+  > CV: Guillaume Loriot
 
 - **International Bar Association** — member
   > "Almunia, 
@@ -65,7 +65,7 @@ Commissioner for competition
 Coordination” – DG COMP 
  
  11/2005 – 10/2007:  Deputy Head of Unit “Industry and Consumer Good"
-  > 📎 [CV: Guillaume Loriot](sources/dg_cvs/)
+  > CV: Guillaume Loriot
 
 - **BEUC** — member
   > "Almunia, 
@@ -75,7 +75,7 @@ Commissioner for competition
 Coordination” – DG COMP 
  
  11/2005 – 10/2007:  Deputy Head of Unit “Industry and Consumer Good"
-  > 📎 [CV: Guillaume Loriot](sources/dg_cvs/)
+  > CV: Guillaume Loriot
 
 - **ECTA** — member
   > "Almunia, 
@@ -85,7 +85,7 @@ Commissioner for competition
 Coordination” – DG COMP 
  
  11/2005 – 10/2007:  Deputy Head of Unit “Industry and Consumer Good"
-  > 📎 [CV: Guillaume Loriot](sources/dg_cvs/)
+  > CV: Guillaume Loriot
 
 - **GSMA** — member
   > "Almunia, 
@@ -95,7 +95,7 @@ Commissioner for competition
 Coordination” – DG COMP 
  
  11/2005 – 10/2007:  Deputy Head of Unit “Industry and Consumer Good"
-  > 📎 [CV: Guillaume Loriot](sources/dg_cvs/)
+  > CV: Guillaume Loriot
 
 
 ### Education clusters

@@ -19,7 +19,7 @@ generated: 2026-05-11
 
 - **University of Helsinki**
   > "Researcher in Law, University of Helsinki and"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/salla-saastamoinen.txt) (1827 chars)
 
 
@@ -27,7 +27,7 @@ generated: 2026-05-11
 
 - **Law**
   > "Researcher in Law, University of Helsinki and"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/salla-saastamoinen.txt) (1827 chars)
 
 
@@ -35,7 +35,7 @@ generated: 2026-05-11
 
 - **Deputy Director-General → European Anti-Fraud Office**
   > "Deputy Director-General, European Anti-Fraud Office"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/salla-saastamoinen.txt) (1827 chars)
 
 
@@ -49,7 +49,7 @@ Finnish
  
 Academic qualifications ➢ 1990 – 1993 Licentiate of Laws, University of Helsinki, Finland 
 ➢ 1990 – 1992 Postgraduate studies of Law, University of Zurich"
-  > 📎 [CV: Salla Saastamoinen](sources/dg_cvs/)
+  > CV: Salla Saastamoinen
 
 
 ### Education clusters

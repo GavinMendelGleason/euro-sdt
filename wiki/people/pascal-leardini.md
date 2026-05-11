@@ -19,6 +19,6 @@ generated: 2026-05-11
 
 - **Deputy Secretary-General → Secretariat-General**
   > "Pascal Leardini — held_position: Deputy Secretary-General → Secretariat-General"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > From Commission person page or CJEU member listing
 

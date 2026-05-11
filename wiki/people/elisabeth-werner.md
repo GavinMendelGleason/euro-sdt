@@ -19,7 +19,7 @@ generated: 2026-05-11
 
 - **University of Vienna**
   > "10/1989 – 07/1995: Master’s degree in economics, University of Vienna/Austria"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/elisabeth-werner.txt) (1210 chars)
 
 
@@ -27,7 +27,7 @@ generated: 2026-05-11
 
 - **Economics**
   > "Master’s degree in economics,"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/elisabeth-werner.txt) (1210 chars)
 
 
@@ -35,7 +35,7 @@ generated: 2026-05-11
 
 - **Director-General → Directorate-General for Agriculture and Rural Development**
   > "Director-General, DG AGRI"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/elisabeth-werner.txt) (1210 chars)
 
 
@@ -51,7 +51,7 @@ Academic qualifications  09/1995 – 07/1996: MA in European Affairs , Colleg
 Europe, Bruges/Belgium 
  
  10/1989 – 07/1995: Master’s degree in econo"
-  > 📎 [CV: Elisabeth Werner](sources/dg_cvs/)
+  > CV: Elisabeth Werner
 
 - **University of Vienna** — member
   > "Elisabeth WERNER 
@@ -63,7 +63,7 @@ Academic qualifications  09/1995 – 07/1996: MA in European Affairs , Colleg
 Europe, Bruges/Belgium 
  
  10/1989 – 07/1995: Master’s degree in econo"
-  > 📎 [CV: Elisabeth Werner](sources/dg_cvs/)
+  > CV: Elisabeth Werner
 
 
 ### Education clusters

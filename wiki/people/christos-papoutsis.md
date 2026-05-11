@@ -21,7 +21,7 @@ generated: 2026-05-11
 
 - **Santer Commission**
   > "Represented the European Commission at the E.U. Councils of Ministers for Energy and   for Competitiveness, the OECD Council of Ministers and the G8."
-  > 📎 [Wikipedia article: Christos Papoutsis](https://en.wikipedia.org/wiki/Christos_Papoutsis)
+  > Wikipedia article: Christos Papoutsis
   > Normalised match: "commission santer" → "represented commission at e.u. councils of ministers for energy and for competit"
 
 
@@ -29,7 +29,7 @@ generated: 2026-05-11
 
 - **Energy and Euratom Supply Agency / Small Enterprises**
   > "Responsible for Energy Policy and EURATOM Supply Agency, Enterprise Policy, Commerce, Tourism and Social Economy."
-  > 📎 [Wikipedia article: Christos Papoutsis](https://en.wikipedia.org/wiki/Christos_Papoutsis)
+  > Wikipedia article: Christos Papoutsis
   > Christos Papoutsis (Greek: Χρήστος Παπουτσής; born April 11, 1953) is a Greek socialist politician who has served as Minister for Citizen Protection (
 
 
@@ -37,7 +37,7 @@ generated: 2026-05-11
 
 - **GRC**
   > "Christos Papoutsis present in wikipedia/christos-papoutsis.txt — verifies nominated_by: GRC"
-  > 📎 *Organisations classified dataset (manually researched)*
+  > *Organisations classified dataset (manually researched)*
   > Primary source: wikipedia/christos-papoutsis.txt. Context: Christos Papoutsis (Greek: Χρήστος Παπουτσής; born April 11, 1953) is a Greek socialist pol
 
 
@@ -45,7 +45,7 @@ generated: 2026-05-11
 
 - **Greece**
   > "Christos Papoutsis (Greek: Χρήστος Παπουτσής; born April 11, 1953) is a Greek socialist politician who has served as Minister for Citizen Protection (2010–12), Mercantile Marine Minister (2000–01) Mem"
-  > 📎 [Wikipedia article: Christos Papoutsis](https://en.wikipedia.org/wiki/Christos_Papoutsis)
+  > Wikipedia article: Christos Papoutsis
   > LLM re-match (phrase 0)
 
 
@@ -53,7 +53,7 @@ generated: 2026-05-11
 
 - **national-and-kapodistrian-university-of-athen**
   > "He was born in Larissa, Greece, in 1953 and later moved to Athens where he studied Economics at the National and Kapodistrian University."
-  > 📎 [Wikipedia article: Christos Papoutsis](https://en.wikipedia.org/wiki/Christos_Papoutsis)
+  > Wikipedia article: Christos Papoutsis
   > Wikipedia extract for Christos Papoutsis
 
 
@@ -61,7 +61,7 @@ generated: 2026-05-11
 
 - **Socialist International** — PASOK Representative
   > "Along with his mandate in the European Parliament, he served as International Relations Secretary and PASOK Representative at the Socialist International, from 1988 to 1994."
-  > 📎 [Wikipedia article: Christos Papoutsis](https://en.wikipedia.org/wiki/Christos_Papoutsis)
+  > Wikipedia article: Christos Papoutsis
   > Source: `sources/wikipedia/christos-papoutsis.txt` (5144 chars)
 
 

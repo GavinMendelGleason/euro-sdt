@@ -19,7 +19,7 @@ generated: 2026-05-11
 
 - **Institut National Agronomique Paris-Grignon (Inapg)**
   > "Engineer in Agronomics – Institut National Agronomique Paris-Grignon (INAPG)"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/myriam-ferran.txt) (2375 chars)
 
 
@@ -27,7 +27,7 @@ generated: 2026-05-11
 
 - **Deputy Director-General → Directorate-General for International Partnerships**
   > "Deputy Director -General – Directorate-General"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/myriam-ferran.txt) (2375 chars)
 
 
@@ -41,7 +41,7 @@ Nationality
 French 
 Academic qualifications  02/2017: Certificate of completion of the Leadership Decision Making 
 Program – John F."
-  > 📎 [CV: Myriam Ferran](sources/dg_cvs/)
+  > CV: Myriam Ferran
 
 - **Institut D’Etudes Européennes – Université Libre De Bruxelles** — member
   > "Myriam FERRAN 
@@ -51,7 +51,7 @@ Nationality
 French 
 Academic qualifications  02/2017: Certificate of completion of the Leadership Decision Making 
 Program – John F."
-  > 📎 [CV: Myriam Ferran](sources/dg_cvs/)
+  > CV: Myriam Ferran
 
 - **École du Génie Rural des Eaux et Forêts (ENGREF)** — member
   > "Myriam FERRAN 
@@ -61,7 +61,7 @@ Nationality
 French 
 Academic qualifications  02/2017: Certificate of completion of the Leadership Decision Making 
 Program – John F."
-  > 📎 [CV: Myriam Ferran](sources/dg_cvs/)
+  > CV: Myriam Ferran
 
 - **Institut National Agronomique Paris-Grignon (Inapg)** — member
   > "Myriam FERRAN 
@@ -71,7 +71,7 @@ Nationality
 French 
 Academic qualifications  02/2017: Certificate of completion of the Leadership Decision Making 
 Program – John F."
-  > 📎 [CV: Myriam Ferran](sources/dg_cvs/)
+  > CV: Myriam Ferran
 
 
 ### Education clusters

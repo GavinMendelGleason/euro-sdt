@@ -19,5 +19,5 @@ generated: 2026-05-11
 
 - **Iberdrola** — Chairman
   > "Extracted as Chairman at Iberdrola"
-  > 📎 [Wikipedia: Iberdrola](https://en.wikipedia.org/wiki/Iberdrola)
+  > Wikipedia: Iberdrola
 

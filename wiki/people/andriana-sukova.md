@@ -19,7 +19,7 @@ generated: 2026-05-11
 
 - **University Of National And World Economy**
   > "1981 – 1986: MSc in agricultural economics; Minor – Economic journalism – University of National and World Economy – Sofia, Bulgaria"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/andriana-sukova.txt) (2909 chars)
 
 
@@ -27,7 +27,7 @@ generated: 2026-05-11
 
 - **Economics**
   > "Economist – Agriculture cooperative farm – Saedinenie"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/andriana-sukova.txt) (2909 chars)
 
 
@@ -42,7 +42,7 @@ Nationality
 Academic qualifications ➢ 2001: Certificate _ Managing Successful Programmes – Certified 
 Practitioner – Civil Service College, Sunningdale, UK 
 ➢ 1998: "
-  > 📎 [CV: Andriana Sukova](sources/dg_cvs/)
+  > CV: Andriana Sukova
 
 
 ### Education clusters

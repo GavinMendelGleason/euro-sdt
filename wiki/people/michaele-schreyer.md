@@ -21,7 +21,7 @@ generated: 2026-05-11
 
 - **Prodi Commission**
   > "In the Prodi Commission, Schreyer took on an enlarged portfolio for control of the 80 billion euro ($83.73 billion) budget of the European Union."
-  > 📎 [Wikipedia article: Michaele Schreyer](https://en.wikipedia.org/wiki/Michaele_Schreyer)
+  > Wikipedia article: Michaele Schreyer
   > Michaele Schreyer (born 9 August 1951) is a German politician of Alliance 90/The Greens who served as a European Commissioner from September 1999 to N
 
 
@@ -29,7 +29,7 @@ generated: 2026-05-11
 
 - **Budget**
   > "In the Prodi Commission, Schreyer took on an enlarged portfolio for control of the 80 billion euro ($83.73 billion) budget of the European Union."
-  > 📎 [Wikipedia article: Michaele Schreyer](https://en.wikipedia.org/wiki/Michaele_Schreyer)
+  > Wikipedia article: Michaele Schreyer
   > LLM match (phrase 7)
 
 
@@ -37,7 +37,7 @@ generated: 2026-05-11
 
 - **DEU**
   > "Michaele Schreyer present in wikipedia/michaele-schreyer.txt — verifies nominated_by: DEU"
-  > 📎 *Organisations classified dataset (manually researched)*
+  > *Organisations classified dataset (manually researched)*
   > Primary source: wikipedia/michaele-schreyer.txt. Context: Michaele Schreyer (born 9 August 1951) is a German politician of Alliance 90/The Greens who 
 
 
@@ -45,7 +45,7 @@ generated: 2026-05-11
 
 - **Germany**
   > "Michaele Schreyer (born 9 August 1951) is a German politician of Alliance 90/The Greens who served as a European Commissioner from September 1999 to November 2004, holding the budget portfolio."
-  > 📎 [Wikipedia article: Michaele Schreyer](https://en.wikipedia.org/wiki/Michaele_Schreyer)
+  > Wikipedia article: Michaele Schreyer
   > LLM match (phrase 0)
 
 
@@ -53,7 +53,7 @@ generated: 2026-05-11
 
 - **University of Cologne**
   > "Schreyer wrote her doctoral thesis on tax federalism at the University of Cologne."
-  > 📎 [Wikipedia article: Michaele Schreyer](https://en.wikipedia.org/wiki/Michaele_Schreyer)
+  > Wikipedia article: Michaele Schreyer
   > Wikipedia extract for Michaele Schreyer
 
 
@@ -65,7 +65,7 @@ European Youth Parliament – Germany, Member of the Board of Trustees
 European Movement Germany, Vice President
 Schwarzkopf Foundation, Member of the Board
 Heinrich Böll Foundation, Me"
-  > 📎 [Wikipedia article: Michaele Schreyer](https://en.wikipedia.org/wiki/Michaele_Schreyer)
+  > Wikipedia article: Michaele Schreyer
   > Source: `sources/wikipedia/michaele-schreyer.txt` (2276 chars)
 
 - **european-movement-germany** — Vice President
@@ -74,7 +74,7 @@ European Youth Parliament – Germany, Member of the Board of Trustees
 European Movement Germany, Vice President
 Schwarzkopf Foundation, Member of the Board
 Heinrich Böll Foundation, Me"
-  > 📎 [Wikipedia article: Michaele Schreyer](https://en.wikipedia.org/wiki/Michaele_Schreyer)
+  > Wikipedia article: Michaele Schreyer
   > Source: `sources/wikipedia/michaele-schreyer.txt` (2276 chars)
 
 - **schwarzkopf-foundation** — Member of the Board
@@ -83,7 +83,7 @@ European Youth Parliament – Germany, Member of the Board of Trustees
 European Movement Germany, Vice President
 Schwarzkopf Foundation, Member of the Board
 Heinrich Böll Foundation, Me"
-  > 📎 [Wikipedia article: Michaele Schreyer](https://en.wikipedia.org/wiki/Michaele_Schreyer)
+  > Wikipedia article: Michaele Schreyer
   > Source: `sources/wikipedia/michaele-schreyer.txt` (2276 chars)
 
 - **heinrich-b-ll-foundation** — Member of the Supervisory Board (2007–2014)
@@ -92,7 +92,7 @@ European Youth Parliament – Germany, Member of the Board of Trustees
 European Movement Germany, Vice President
 Schwarzkopf Foundation, Member of the Board
 Heinrich Böll Foundation, Me"
-  > 📎 [Wikipedia article: Michaele Schreyer](https://en.wikipedia.org/wiki/Michaele_Schreyer)
+  > Wikipedia article: Michaele Schreyer
   > Source: `sources/wikipedia/michaele-schreyer.txt` (2276 chars)
 
 

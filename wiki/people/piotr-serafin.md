@@ -21,7 +21,7 @@ generated: 2026-05-11
 
 - **VdL II Commission**
   > "Piotr Arkadiusz Serafin (Polish pronunciation: [ˈpjɔtr arˈkadjuʂ sɛˈrafin]; born 12 January 1974) is a Polish politician and lawyer who has served as European Commissioner for Budget, Anti-Fraud and P"
-  > 📎 [Wikipedia article: Piotr Serafin](https://en.wikipedia.org/wiki/Piotr_Serafin)
+  > Wikipedia article: Piotr Serafin
   > LLM re-match (phrase 0)
 
 
@@ -29,7 +29,7 @@ generated: 2026-05-11
 
 - **European Commissioner for Budget, Anti-Fraud and Public Administration**
   > "Piotr Serafin present in wikipedia/piotr-serafin.txt — verifies held_portfolio: European Commissioner for Budget, Anti-Fraud and Public Administration"
-  > 📎 *Organisations classified dataset (manually researched)*
+  > *Organisations classified dataset (manually researched)*
   > Primary source: wikipedia/piotr-serafin.txt. Context: Piotr Arkadiusz Serafin (Polish pronunciation: [ˈpjɔtr arˈkadjuʂ sɛˈrafin]; born 12 January 1974
 
 
@@ -37,7 +37,7 @@ generated: 2026-05-11
 
 - **POL**
   > "In August 2024, he was nominated by the Polish Government to be Poland's next European Commissioner."
-  > 📎 [Wikipedia article: Piotr Serafin](https://en.wikipedia.org/wiki/Piotr_Serafin)
+  > Wikipedia article: Piotr Serafin
   > LLM re-match (phrase 12)
 
 
@@ -45,7 +45,7 @@ generated: 2026-05-11
 
 - **Poland**
   > "Piotr Arkadiusz Serafin (Polish pronunciation: [ˈpjɔtr arˈkadjuʂ sɛˈrafin]; born 12 January 1974) is a Polish politician and lawyer who has served as European Commissioner for Budget, Anti-Fraud and P"
-  > 📎 [Wikipedia article: Piotr Serafin](https://en.wikipedia.org/wiki/Piotr_Serafin)
+  > Wikipedia article: Piotr Serafin
   > LLM re-match (phrase 0)
 
 
@@ -53,12 +53,12 @@ generated: 2026-05-11
 
 - **Sgh Warsaw School Of Economics**
   > "Serafin graduated in economics at the SGH Warsaw School of Economics, and in law at the University of Warsaw."
-  > 📎 [Wikipedia article: Piotr Serafin](https://en.wikipedia.org/wiki/Piotr_Serafin)
+  > Wikipedia article: Piotr Serafin
   > Wikipedia extract for Piotr Serafin
 
 - **University Of Sussex**
   > "He was a postgraduate student of European integration at the University of Sussex."
-  > 📎 [Wikipedia article: Piotr Serafin](https://en.wikipedia.org/wiki/Piotr_Serafin)
+  > Wikipedia article: Piotr Serafin
   > Wikipedia extract for Piotr Serafin
 
 
@@ -67,12 +67,12 @@ generated: 2026-05-11
 - **office-of-the-committee-for-european-integration-ukie** — Undersecretary of State
   > "Career
 Serafin began his professional career at the Office of the Committee for European Integration (UKIE) in 1998."
-  > 📎 [Wikipedia article: Piotr Serafin](https://en.wikipedia.org/wiki/Piotr_Serafin)
+  > Wikipedia article: Piotr Serafin
   > Source: `sources/wikipedia/piotr-serafin.txt` (1932 chars)
 
 - **phare-and-transition-facility-programmes** — National Aid Coordinator
   > "Between 16 January 2008 and 31 December 2009, he was Undersecretary of State at UKIE and National Aid Coordinator for the Phare and Transition Facility programmes."
-  > 📎 [Wikipedia article: Piotr Serafin](https://en.wikipedia.org/wiki/Piotr_Serafin)
+  > Wikipedia article: Piotr Serafin
   > Source: `sources/wikipedia/piotr-serafin.txt` (1932 chars)
 
 

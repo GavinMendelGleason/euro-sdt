@@ -19,7 +19,7 @@ generated: 2026-05-11
 
 - **University of Ghent**
   > "1993 M.Sc. Electronics Engineering, University of Ghent – Ghent, Belgium"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/philippe-van-damme.txt) (1529 chars)
 
 
@@ -27,7 +27,7 @@ generated: 2026-05-11
 
 - **Deputy Director-General → Directorate-General for Digital Services**
   > "Philippe Van Damme — held_position: Deputy Director-General → Directorate-General for Digital Services"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/philippe-van-damme.txt) (1529 chars)
 
 
@@ -40,7 +40,7 @@ Nationality
 French, Belgian 
  
 Academic qualifications ➢ 1998 M.Sc."
-  > 📎 [CV: Philippe Van Damme](sources/dg_cvs/)
+  > CV: Philippe Van Damme
 
 
 ### Education clusters

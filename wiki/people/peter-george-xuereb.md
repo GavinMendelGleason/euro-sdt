@@ -21,14 +21,14 @@ generated: 2026-05-11
 
 - **Royal University Of Malta**
   > "Wikidata P69 for Q61912690"
-  > 📎 [Wikidata: Peter George Xuereb](https://www.wikidata.org/wiki/Q61912690)
+  > Wikidata: Peter George Xuereb
 
 
 ## Position
 
 - **Judge**
   > "Peter George Xuereb — held_position: Judge"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > From Commission person page or CJEU member listing
 
 

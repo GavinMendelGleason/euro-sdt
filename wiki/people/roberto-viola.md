@@ -19,7 +19,7 @@ generated: 2026-05-11
 
 - **University of Rome**
   > "2011-2012 University of Rome, Lecturer in ICT business models"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/roberto-viola.txt) (2599 chars)
 
 
@@ -27,7 +27,7 @@ generated: 2026-05-11
 
 - **Director-General → Directorate-General for Communications Networks, Content and Technology**
   > "As from 1 September 2015:  Director General for Communications Networks,"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/roberto-viola.txt) (2599 chars)
 
 
@@ -39,7 +39,7 @@ generated: 2026-05-11
  Marconi prize for the best Italian doctoral thesis  in telecommunications 1983 
  
  2005-2012 Universita S."
-  > 📎 [CV: Roberto Viola](sources/dg_cvs/)
+  > CV: Roberto Viola
 
 - **University of Rome** — member
   > "Orsola, Naples, Lecturer in  telecommunication and 
@@ -50,7 +50,7 @@ media law
 Language Skills:  Italian (mother tongue) 
  
  English, French, Sp"
-  > 📎 [CV: Roberto Viola](sources/dg_cvs/)
+  > CV: Roberto Viola
 
 
 ### Education clusters

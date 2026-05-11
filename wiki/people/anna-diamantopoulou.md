@@ -21,7 +21,7 @@ generated: 2026-05-11
 
 - **Prodi Commission**
   > "Anna Diamantopoulou — served_on_commission: commission-prodi"
-  > 📎 [Wikipedia article: Anna Diamantopoulou](https://en.wikipedia.org/wiki/Anna_Diamantopoulou)
+  > Wikipedia article: Anna Diamantopoulou
   > Wikipedia commission page: https://en.wikipedia.org/wiki/Prodi_Commission
 
 
@@ -29,7 +29,7 @@ generated: 2026-05-11
 
 - **Employment and Social Affairs**
   > "The Treaty of Versailles is the 1919 peace treaty that followed the Paris Peace Conference and officially ended World War I."
-  > 📎 [Wikipedia article: Anna Diamantopoulou](https://en.wikipedia.org/wiki/Anna_Diamantopoulou)
+  > Wikipedia article: Anna Diamantopoulou
   > Vector match (cos=0.77)
 
 
@@ -37,7 +37,7 @@ generated: 2026-05-11
 
 - **GRC**
   > "Anna Diamantopoulou → nominated_by: GRC"
-  > 📎 [Wikipedia article: Anna Diamantopoulou](https://en.wikipedia.org/wiki/Anna_Diamantopoulou)
+  > Wikipedia article: Anna Diamantopoulou
   > Commissioner list from Wikipedia commission page
 
 
@@ -45,6 +45,6 @@ generated: 2026-05-11
 
 - **Greece**
   > "Anna Diamantopoulou → from_country: Greece"
-  > 📎 [Wikipedia article: Anna Diamantopoulou](https://en.wikipedia.org/wiki/Anna_Diamantopoulou)
+  > Wikipedia article: Anna Diamantopoulou
   > Commissioner list from Wikipedia commission page
 

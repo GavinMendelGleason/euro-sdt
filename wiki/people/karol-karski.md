@@ -19,7 +19,7 @@ generated: 2026-05-11
 
 - **University of Warsaw**
   > "He holds a Doctor of Law degree from the University of Warsaw ."
-  > 📎 [Wikipedia article: Karol Karski](https://en.wikipedia.org/wiki/Karol_Karski)
+  > Wikipedia article: Karol Karski
 
 
 ## Organisation affiliations
@@ -30,27 +30,27 @@ generated: 2026-05-11
  
 
  Karol Adam"
-  > 📎 [Wikipedia article: Karol Karski](https://en.wikipedia.org/wiki/Karol_Karski)
+  > Wikipedia article: Karol Karski
 
 - **University of Warsaw** — Doctor of Law degree
   > "He holds a Doctor of Law degree from the University of Warsaw ."
-  > 📎 [Wikipedia article: Karol Karski](https://en.wikipedia.org/wiki/Karol_Karski)
+  > Wikipedia article: Karol Karski
 
 - **Warsaw University of Humanities** — taught
   > "Karski has taught at the University of Warsaw, the Warsaw University of Humanities, and the Academy of Economics in Białystok."
-  > 📎 [Wikipedia article: Karol Karski](https://en.wikipedia.org/wiki/Karol_Karski)
+  > Wikipedia article: Karol Karski
 
 - **Academy of Economics in Białystok** — taught
   > "Karski has taught at the University of Warsaw, the Warsaw University of Humanities, and the Academy of Economics in Białystok."
-  > 📎 [Wikipedia article: Karol Karski](https://en.wikipedia.org/wiki/Karol_Karski)
+  > Wikipedia article: Karol Karski
 
 - **Sejm** — member
   > "He was elected to the Sejm on 25 September 2005 and on 21 October 2007 in 19 Warsaw district as a candidate from the Law and Justice list."
-  > 📎 [Wikipedia article: Karol Karski](https://en.wikipedia.org/wiki/Karol_Karski)
+  > Wikipedia article: Karol Karski
 
 - **Law and Justice** — candidate
   > "He was elected to the Sejm on 25 September 2005 and on 21 October 2007 in 19 Warsaw district as a candidate from the Law and Justice list."
-  > 📎 [Wikipedia article: Karol Karski](https://en.wikipedia.org/wiki/Karol_Karski)
+  > Wikipedia article: Karol Karski
 
 - **European Conservatives and Reformists** — member
   > "v t e Current members of the European Parliament from Poland (2019–2024) 
@@ -60,7 +60,7 @@ generated: 2026-05-11
  Biedroń &#160;(S&amp;D) 
  Bielan &#160;(ECR) 
  Brejza "
-  > 📎 [Wikipedia article: Karol Karski](https://en.wikipedia.org/wiki/Karol_Karski)
+  > Wikipedia article: Karol Karski
 
 
 ### Education clusters

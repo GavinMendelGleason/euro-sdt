@@ -19,7 +19,7 @@ generated: 2026-05-11
 
 - **Université De Lausanne**
   > "Degree in law (1. Juristisches Staatsexamen), Rheinische Friedrich Wilhelms Universität Bonn, Germany, Université de Lausanne (Switzerland) (1980-1985)"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/florika-fink-hooijer.txt) (2473 chars)
 
 
@@ -27,7 +27,7 @@ generated: 2026-05-11
 
 - **Director-General → Health Emergency Preparedness and Response Authority**
   > "Since 04/2025: Director-General, DG Health Emergency Preparedness and"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/florika-fink-hooijer.txt) (2473 chars)
 
 
@@ -39,7 +39,7 @@ Nationality German
 Academic 
 qualifications 
  Dr."
-  > 📎 [CV: Florika Fink-Hooijer](sources/dg_cvs/)
+  > CV: Florika Fink-Hooijer
 
 - **Nordemann, Vinck & Hertin** — member
   > "Florika FINK - HOOIJER 
@@ -47,7 +47,7 @@ Nationality German
 Academic 
 qualifications 
  Dr."
-  > 📎 [CV: Florika Fink-Hooijer](sources/dg_cvs/)
+  > CV: Florika Fink-Hooijer
 
 
 ### Education clusters

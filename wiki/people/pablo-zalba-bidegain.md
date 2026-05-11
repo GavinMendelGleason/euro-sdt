@@ -19,7 +19,7 @@ generated: 2026-05-11
 
 - **university-of-navarre**
   > "In 1997, he graduated in Business Administration and Management from the University of Navarre ."
-  > 📎 [Wikipedia article: Pablo Zalba Bidegain](https://en.wikipedia.org/wiki/Pablo_Zalba_Bidegain)
+  > Wikipedia article: Pablo Zalba Bidegain
 
 
 ### Education clusters

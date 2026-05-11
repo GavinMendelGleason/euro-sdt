@@ -21,7 +21,7 @@ generated: 2026-05-11
 
 - **VdL I Commission**
   > "Name "Didier Reynders" appears in Wikipedia page for commission-vdl-i"
-  > 📎 [Wikipedia — Von der Leyen Commission II page](https://en.wikipedia.org/wiki/Von_der_Leyen_Commission_II)
+  > Wikipedia — Von der Leyen Commission II page
   > Source: sources/wikipedia/commission-vdl-i.txt (21086 chars)
 
 
@@ -29,28 +29,28 @@ generated: 2026-05-11
 
 - **Justice**
   > "Other commissioners-designate were approved by the committee, including Didier Reynders of Belgium (Justice) and Sylvie Goulard of France (Internal Market) who are under investigation by respective na"
-  > 📎 [Wikipedia — Von der Leyen Commission II page](https://en.wikipedia.org/wiki/Von_der_Leyen_Commission_II)
+  > Wikipedia — Von der Leyen Commission II page
 
 
 ## Nominated by
 
 - **BEL**
   > "Other commissioners-designate were approved by the committee, including Didier Reynders of Belgium (Justice) and Sylvie Goulard of France (Internal Market) who are under investigation by respective na"
-  > 📎 [Wikipedia — Von der Leyen Commission II page](https://en.wikipedia.org/wiki/Von_der_Leyen_Commission_II)
+  > Wikipedia — Von der Leyen Commission II page
 
 
 ## Country
 
 - **Belgium**
   > "Other commissioners-designate were approved by the committee, including Didier Reynders of Belgium (Justice) and Sylvie Goulard of France (Internal Market) who are under investigation by respective na"
-  > 📎 [Wikipedia — Von der Leyen Commission II page](https://en.wikipedia.org/wiki/Von_der_Leyen_Commission_II)
+  > Wikipedia — Von der Leyen Commission II page
 
 
 ## Educated at
 
 - **Wikidata P69: University of Liège**
   > "Wikidata P69: University of Liège"
-  > 📎 [Wikidata SPARQL — Commissioner CVs (all commissions)](https://query.wikidata.org/sparql)
+  > Wikidata SPARQL — Commissioner CVs (all commissions)
   > Wikidata educated-at for Didier Reynders
 
 

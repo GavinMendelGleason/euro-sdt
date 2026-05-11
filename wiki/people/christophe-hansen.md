@@ -21,7 +21,7 @@ generated: 2026-05-11
 
 - **VdL II Commission**
   > "In August 2024, Hansen was nominated by Prime Minister Luc Frieden to be Luxembourg's EU Commissioner"
-  > 📎 [Wikipedia article: Christophe Hansen](https://en.wikipedia.org/wiki/Christophe_Hansen)
+  > Wikipedia article: Christophe Hansen
   > Normalised match: "commission vdl ii" → "in august 2024, hansen was nominated by prime minister luc frieden to be luxembo"
 
 
@@ -29,7 +29,7 @@ generated: 2026-05-11
 
 - **European Commissioner for Agriculture and Food**
   > "Christophe Hansen present in wikipedia/christophe-hansen.txt — verifies held_portfolio: European Commissioner for Agriculture and Food"
-  > 📎 *Organisations classified dataset (manually researched)*
+  > *Organisations classified dataset (manually researched)*
   > Primary source: wikipedia/christophe-hansen.txt. Context: Christophe Hansen (Luxembourgish pronunciation: [ˈkʀistof ˈhɑnzən]; born 21 February 1982) i
 
 
@@ -37,7 +37,7 @@ generated: 2026-05-11
 
 - **LUX**
   > "In August 2024, Hansen was nominated by Prime Minister Luc Frieden to be Luxembourg's EU Commissioner"
-  > 📎 [Wikipedia article: Christophe Hansen](https://en.wikipedia.org/wiki/Christophe_Hansen)
+  > Wikipedia article: Christophe Hansen
   > LLM match (phrase 4)
 
 
@@ -45,7 +45,7 @@ generated: 2026-05-11
 
 - **Luxembourg**
   > "In August 2024, Hansen was nominated by Prime Minister Luc Frieden to be Luxembourg's EU Commissioner"
-  > 📎 [Wikipedia article: Christophe Hansen](https://en.wikipedia.org/wiki/Christophe_Hansen)
+  > Wikipedia article: Christophe Hansen
   > LLM match (phrase 4)
 
 
@@ -53,12 +53,12 @@ generated: 2026-05-11
 
 - **Lycée Du Nord In Wiltz**
   > "After finishing his secondary education at the Lycée du Nord in Wiltz (1995–2002), he went on to study at Louis Pasteur University in Strasbourg, where he completed a master's degree in Geosciences, E"
-  > 📎 [Wikipedia article: Christophe Hansen](https://en.wikipedia.org/wiki/Christophe_Hansen)
+  > Wikipedia article: Christophe Hansen
   > Wikipedia extract for Christophe Hansen
 
 - **Louis Pasteur University In Strasbourg**
   > "After finishing his secondary education at the Lycée du Nord in Wiltz (1995–2002), he went on to study at Louis Pasteur University in Strasbourg, where he completed a master's degree in Geosciences, E"
-  > 📎 [Wikipedia article: Christophe Hansen](https://en.wikipedia.org/wiki/Christophe_Hansen)
+  > Wikipedia article: Christophe Hansen
   > Wikipedia extract for Christophe Hansen
 
 
@@ -66,12 +66,12 @@ generated: 2026-05-11
 
 - **luxembourg-chamber-of-commerce** — adviser on European affairs
   > "In 2016, Hansen became an adviser on European affairs at the Luxembourg Chamber of Commerce, and Economic and Commercial attaché at the Embassy of the Grand Duchy of Luxembourg in Brussels."
-  > 📎 [Wikipedia article: Christophe Hansen](https://en.wikipedia.org/wiki/Christophe_Hansen)
+  > Wikipedia article: Christophe Hansen
   > Source: `sources/wikipedia/christophe-hansen.txt` (4686 chars)
 
 - **European Economic and Social Committee** — member
   > "From March 2017 to August 2018, Hansen was also a member of the European Economic and Social Committee."
-  > 📎 [Wikipedia article: Christophe Hansen](https://en.wikipedia.org/wiki/Christophe_Hansen)
+  > Wikipedia article: Christophe Hansen
   > Source: `sources/wikipedia/christophe-hansen.txt` (4686 chars)
 
 

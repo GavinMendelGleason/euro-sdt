@@ -1,6 +1,6 @@
 # Transnational Corporate Elites
 
-52 board members and CEOs of multi-European companies
+52 board members and CEOs
 
 - [Alexander Wynaendts](../people/alexander-wynaendts.md)
 - [Anders Ditlev Clausager](../people/anders-ditlev-clausager.md)

@@ -19,11 +19,11 @@ generated: 2026-05-11
 
 - **University of Texas at Austin**
   > "&#91; 5 &#93; He holds a bachelor's degree in chemical engineering from the University of Texas at Austin and a master's degree in management and chemical engineering from the Massachusetts Institute "
-  > 📎 [Wikipedia: Bill Anderson (businessman)](https://en.wikipedia.org/wiki/Bill_Anderson_(businessman))
+  > Wikipedia: Bill Anderson (businessman)
 
 - **Massachusetts Institute of Technology (MIT)**
   > "&#91; 5 &#93; He holds a bachelor's degree in chemical engineering from the University of Texas at Austin and a master's degree in management and chemical engineering from the Massachusetts Institute "
-  > 📎 [Wikipedia: Bill Anderson (businessman)](https://en.wikipedia.org/wiki/Bill_Anderson_(businessman))
+  > Wikipedia: Bill Anderson (businessman)
 
 
 ### Education clusters

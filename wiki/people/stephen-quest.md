@@ -19,7 +19,7 @@ generated: 2026-05-11
 
 - **University Of York**
   > "University of York - United Kingdom"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/stephen-quest.txt) (1554 chars)
 
 
@@ -27,7 +27,7 @@ generated: 2026-05-11
 
 - **Director-General → Directorate-General for Human Resources and Security**
   > "Since 01/05/2024: Director-General of the Directorate-General for"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/stephen-quest.txt) (1554 chars)
 
 
@@ -45,7 +45,7 @@ University of York - United Kingdom
  
 Professional experience in 
 the Eur"
-  > 📎 [CV: Stephen Quest](sources/dg_cvs/)
+  > CV: Stephen Quest
 
 
 ### Education clusters

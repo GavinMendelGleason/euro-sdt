@@ -21,7 +21,7 @@ generated: 2026-05-11
 
 - **VdL I Commission**
   > "Nicolas Schmit (born 10 December 1953) is a Luxembourgish politician who served as European Commissioner for Jobs and Social Rights from 2019 to 2024."
-  > 📎 [Wikipedia article: Nicolas Schmit](https://en.wikipedia.org/wiki/Nicolas_Schmit)
+  > Wikipedia article: Nicolas Schmit
   > LLM match (phrase 0)
 
 
@@ -29,7 +29,7 @@ generated: 2026-05-11
 
 - **Jobs and Social Rights**
   > "Nicolas Schmit (born 10 December 1953) is a Luxembourgish politician who served as European Commissioner for Jobs and Social Rights from 2019 to 2024."
-  > 📎 [Wikipedia article: Nicolas Schmit](https://en.wikipedia.org/wiki/Nicolas_Schmit)
+  > Wikipedia article: Nicolas Schmit
   > LLM match (phrase 0)
 
 
@@ -37,7 +37,7 @@ generated: 2026-05-11
 
 - **LUX**
   > "Nicolas Schmit (born 10 December 1953) is a Luxembourgish politician who served as European Commissioner for Jobs and Social Rights from 2019 to 2024."
-  > 📎 [Wikipedia article: Nicolas Schmit](https://en.wikipedia.org/wiki/Nicolas_Schmit)
+  > Wikipedia article: Nicolas Schmit
   > LLM match (phrase 0)
 
 
@@ -45,7 +45,7 @@ generated: 2026-05-11
 
 - **Luxembourg**
   > "Nicolas Schmit (born 10 December 1953) is a Luxembourgish politician who served as European Commissioner for Jobs and Social Rights from 2019 to 2024."
-  > 📎 [Wikipedia article: Nicolas Schmit](https://en.wikipedia.org/wiki/Nicolas_Schmit)
+  > Wikipedia article: Nicolas Schmit
   > LLM match (phrase 0)
 
 
@@ -53,7 +53,7 @@ generated: 2026-05-11
 
 - **Institut D'Études Politiques D'Aix-En-Provence**
   > "Schmit studied economics in France at the Institut d'études politiques d'Aix-en-Provence."
-  > 📎 [Wikipedia article: Nicolas Schmit](https://en.wikipedia.org/wiki/Nicolas_Schmit)
+  > Wikipedia article: Nicolas Schmit
   > Wikipedia extract for Nicolas Schmit
 
 
@@ -61,7 +61,7 @@ generated: 2026-05-11
 
 - **epsco-network-of-the-party-of-european-socialists** — chairman
   > "He is the chairman of the EPSCO network of the Party of European Socialists."
-  > 📎 [Wikipedia article: Nicolas Schmit](https://en.wikipedia.org/wiki/Nicolas_Schmit)
+  > Wikipedia article: Nicolas Schmit
   > Source: `sources/wikipedia/nicolas-schmit.txt` (2071 chars)
 
 

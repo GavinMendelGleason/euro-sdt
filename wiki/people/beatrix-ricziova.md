@@ -28,14 +28,14 @@ Judge
 Biography and career
 
 Born 1981 in Bratislava (Slovakia), Ms Beatrix Ricziová obtained from the Univerzita Komenského v Bratislave (Comenius University in Bra"
-  > 📎 [CJEU bio: Beatrix Ricziová](https://curia.europa.eu/)
+  > CJEU bio: Beatrix Ricziová
 
 
 ## Position
 
 - **Judge**
   > "Beatrix Ricziová — held_position: Judge"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > From Commission person page or CJEU member listing
 
 

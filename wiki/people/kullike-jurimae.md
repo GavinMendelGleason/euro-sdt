@@ -27,14 +27,14 @@ Country: Estonia
 
 Education:
 obtained her law degree (equivalent to a master’s degree) at Tartu ülikool (University of "
-  > 📎 [Wikipedia: Küllike Jürimäe](https://en.wikipedia.org/wiki/Küllike_Jürimäe)
+  > Wikipedia: Küllike Jürimäe
 
 
 ## Position
 
 - **Judge**
   > "Küllike Jürimäe — held_position: Judge"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > From Commission person page or CJEU member listing
 
 
@@ -42,11 +42,11 @@ obtained her law degree (equivalent to a master’s degree) at Tartu ülikool (U
 
 - **Eesti Kohtunike Ühing** — member
   > "Wikidata P4100: Member of Eesti Kohtunike Ühing"
-  > 📎 [Wikidata: Küllike Jürimäe](https://www.wikidata.org/wiki/Q1417201)
+  > Wikidata: Küllike Jürimäe
 
 - **Eesti Juristide Liit** — member
   > "Wikidata P4100: Member of Eesti Juristide Liit"
-  > 📎 [Wikidata: Küllike Jürimäe](https://www.wikidata.org/wiki/Q1417201)
+  > Wikidata: Küllike Jürimäe
 
 
 ### Education clusters

@@ -23,7 +23,7 @@ generated: 2026-05-11
  
 
  Jens-Peter Rossen Bonde (27 March 1948 – 4 April 2021) was a Danish politician who served as Member of the European Parliament (MEP) with the June Movement ."
-  > 📎 [Wikipedia article: Jens-Peter Bonde](https://en.wikipedia.org/wiki/Jens-Peter_Bonde)
+  > Wikipedia article: Jens-Peter Bonde
 
 
 ## Organisation affiliations
@@ -34,75 +34,75 @@ generated: 2026-05-11
  
 
  Jens-Peter Rossen Bonde (27 March 1948 – 4 April 2021) was a Danish politician who served as Member of the European Parliament (MEP) with the June Movement ."
-  > 📎 [Wikipedia article: Jens-Peter Bonde](https://en.wikipedia.org/wiki/Jens-Peter_Bonde)
+  > Wikipedia article: Jens-Peter Bonde
 
 - **European Parliament** — member
   > "He resigned as an MEP in May 2008."
-  > 📎 [Wikipedia article: Jens-Peter Bonde](https://en.wikipedia.org/wiki/Jens-Peter_Bonde)
+  > Wikipedia article: Jens-Peter Bonde
 
 - **People's Movement against the EU** — member
   > "He was re-elected 6 times consecutively."
-  > 📎 [Wikipedia article: Jens-Peter Bonde](https://en.wikipedia.org/wiki/Jens-Peter_Bonde)
+  > Wikipedia article: Jens-Peter Bonde
 
 - **EUDemocrats** — co-founder
   > "He was its president from 2005 to 2009."
-  > 📎 [Wikipedia article: Jens-Peter Bonde](https://en.wikipedia.org/wiki/Jens-Peter_Bonde)
+  > Wikipedia article: Jens-Peter Bonde
 
 - **Danish Social Liberal Party's Youth** — member
   > "^ Bayer, Lili (10 April 2021)."
-  > 📎 [Wikipedia article: Jens-Peter Bonde](https://en.wikipedia.org/wiki/Jens-Peter_Bonde)
+  > Wikipedia article: Jens-Peter Bonde
 
 - **Denmark 92** — co-founder
   > "^ a b c d e f g h i j k l m n o p q r s "Archived copy" ."
-  > 📎 [Wikipedia article: Jens-Peter Bonde](https://en.wikipedia.org/wiki/Jens-Peter_Bonde)
+  > Wikipedia article: Jens-Peter Bonde
 
 - **Delegation for relations with Iceland** — chairman
   > "{{ cite web }} : CS1 maint: archived copy as title ( link ) 
  
  ^ "Bonde, Jens-Peter (1948 - ) - EUabc" ."
-  > 📎 [Wikipedia article: Jens-Peter Bonde](https://en.wikipedia.org/wiki/Jens-Peter_Bonde)
+  > Wikipedia article: Jens-Peter Bonde
 
 - **Tindemans group** — member
   > "^ "Archived copy" (PDF) ."
-  > 📎 [Wikipedia article: Jens-Peter Bonde](https://en.wikipedia.org/wiki/Jens-Peter_Bonde)
+  > Wikipedia article: Jens-Peter Bonde
 
 - **Europe of Nations Group** — co-chairman
   > "Archived from the original (PDF) on 3 March 2012 ."
-  > 📎 [Wikipedia article: Jens-Peter Bonde](https://en.wikipedia.org/wiki/Jens-Peter_Bonde)
+  > Wikipedia article: Jens-Peter Bonde
 
 - **Group for a Europe of Democracies and Diversities** — chairman
   > "Retrieved 28 November 2012 ."
-  > 📎 [Wikipedia article: Jens-Peter Bonde](https://en.wikipedia.org/wiki/Jens-Peter_Bonde)
+  > Wikipedia article: Jens-Peter Bonde
 
 - **Independence/Democracy Group** — chairman
   > "{{ cite web }} : CS1 maint: archived copy as title ( link ) 
  
  ^ "Bonde to leave the European Parliament" ."
-  > 📎 [Wikipedia article: Jens-Peter Bonde](https://en.wikipedia.org/wiki/Jens-Peter_Bonde)
+  > Wikipedia article: Jens-Peter Bonde
 
 - **Intergroup Eurosun** — co-founder
   > "Archived from the original on 17 May 2008 ."
-  > 📎 [Wikipedia article: Jens-Peter Bonde](https://en.wikipedia.org/wiki/Jens-Peter_Bonde)
+  > Wikipedia article: Jens-Peter Bonde
 
 - **TEAM** — co-founder
   > "Retrieved 25 March 2008 ."
-  > 📎 [Wikipedia article: Jens-Peter Bonde](https://en.wikipedia.org/wiki/Jens-Peter_Bonde)
+  > Wikipedia article: Jens-Peter Bonde
 
 - **Friends of Clean Accounts** — co-founder
   > "^ "EUROPA-PARLAMENTSVALGET DEN 13."
-  > 📎 [Wikipedia article: Jens-Peter Bonde](https://en.wikipedia.org/wiki/Jens-Peter_Bonde)
+  > Wikipedia article: Jens-Peter Bonde
 
 - **The Referendum Group** — co-founder
   > "^ "EUROPA-PARLAMENTSVALGET DEN 13."
-  > 📎 [Wikipedia article: Jens-Peter Bonde](https://en.wikipedia.org/wiki/Jens-Peter_Bonde)
+  > Wikipedia article: Jens-Peter Bonde
 
 - **EUDemocrats – Alliance for a Europe of Democracies** — co-founder
   > "JUNI 2004" (PDF) ."
-  > 📎 [Wikipedia article: Jens-Peter Bonde](https://en.wikipedia.org/wiki/Jens-Peter_Bonde)
+  > Wikipedia article: Jens-Peter Bonde
 
 - **Declan Ganley for the European election 2009** — advisor
   > "Retrieved 25 March 2008 ."
-  > 📎 [Wikipedia article: Jens-Peter Bonde](https://en.wikipedia.org/wiki/Jens-Peter_Bonde)
+  > Wikipedia article: Jens-Peter Bonde
 
 
 ### Education clusters

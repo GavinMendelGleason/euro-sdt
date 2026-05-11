@@ -19,7 +19,7 @@ generated: 2026-05-11
 
 - **Essec Business School**
   > "2005: International Negotiations - ESSEC Business School"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/gerassimos-thomas.txt) (2401 chars)
 
 
@@ -27,7 +27,7 @@ generated: 2026-05-11
 
 - **Director-General → Directorate-General for Taxation and Customs Union**
   > "Director General Taxation and Customs Union – DG TAXUD"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > [Source file](file:///home/gavin/dev/Personal/euro-sdt/sources/dg_cvs/gerassimos-thomas.txt) (2401 chars)
 
 
@@ -38,14 +38,14 @@ generated: 2026-05-11
 ➢ US International Visitors' Programme; October 1994 
 ➢ UK Registered Representative for International Securities (1988) 
 Lang"
-  > 📎 [CV: Gerassimos Thomas](sources/dg_cvs/)
+  > CV: Gerassimos Thomas
 
 - **US International Visitors' Programme** — member
   > "➢ TOYP (The Outstanding Young People) Programme; Osaka, Japan; July 1994 
 ➢ US International Visitors' Programme; October 1994 
 ➢ UK Registered Representative for International Securities (1988) 
 Lang"
-  > 📎 [CV: Gerassimos Thomas](sources/dg_cvs/)
+  > CV: Gerassimos Thomas
 
 
 ### Education clusters

@@ -19,12 +19,12 @@ generated: 2026-05-11
 
 - **Barroso I**
   > "Dalia Grybauskaitė (Lithuania) was replaced by Algirdas Šemeta on 1 July 2009) after becoming President of Lithuania."
-  > 📎 [Wikipedia article: Algirdas Semeta](https://en.wikipedia.org/wiki/Algirdas_Semeta)
+  > Wikipedia article: Algirdas Semeta
   > Source: `sources/wikipedia/algirdas-semeta.txt` (21816 chars)
 
 - **Barroso II**
   > "Dalia Grybauskaitė (Lithuania) was replaced by Algirdas Šemeta on 1 July 2009) after becoming President of Lithuania."
-  > 📎 [Wikipedia article: Algirdas Semeta](https://en.wikipedia.org/wiki/Algirdas_Semeta)
+  > Wikipedia article: Algirdas Semeta
   > Source: `sources/wikipedia/algirdas-semeta.txt` (21816 chars)
 
 
@@ -32,12 +32,12 @@ generated: 2026-05-11
 
 - **Taxation (replaced Kovács)**
   > "Dalia Grybauskaitė (Lithuania) was replaced by Algirdas Šemeta on 1 July 2009) after becoming President of Lithuania."
-  > 📎 [Wikipedia article: Algirdas Semeta](https://en.wikipedia.org/wiki/Algirdas_Semeta)
+  > Wikipedia article: Algirdas Semeta
   > Final: name+claim found in wikipedia/commission-barroso-i-tables.txt
 
 - **Taxation and Customs Union, Audit and Anti-Fraud**
   > "Dalia Grybauskaitė (Lithuania) was replaced by Algirdas Šemeta on 1 July 2009) after becoming President of Lithuania."
-  > 📎 [Wikipedia article: Algirdas Semeta](https://en.wikipedia.org/wiki/Algirdas_Semeta)
+  > Wikipedia article: Algirdas Semeta
   > Final: name+claim found in wikipedia/commission-barroso-i-tables.txt
 
 
@@ -45,12 +45,12 @@ generated: 2026-05-11
 
 - **LTU**
   > "Dalia Grybauskaitė (Lithuania) was replaced by Algirdas Šemeta on 1 July 2009) after becoming President of Lithuania."
-  > 📎 [Wikipedia article: Algirdas Semeta](https://en.wikipedia.org/wiki/Algirdas_Semeta)
+  > Wikipedia article: Algirdas Semeta
   > Source: `sources/wikipedia/algirdas-semeta.txt` (21816 chars)
 
 - **LTU**
   > "Dalia Grybauskaitė (Lithuania) was replaced by Algirdas Šemeta on 1 July 2009) after becoming President of Lithuania."
-  > 📎 [Wikipedia article: Algirdas Semeta](https://en.wikipedia.org/wiki/Algirdas_Semeta)
+  > Wikipedia article: Algirdas Semeta
   > Source: `sources/wikipedia/algirdas-semeta.txt` (21816 chars)
 
 
@@ -58,12 +58,12 @@ generated: 2026-05-11
 
 - **Lithuania**
   > "Dalia Grybauskaitė (Lithuania) was replaced by Algirdas Šemeta on 1 July 2009) after becoming President of Lithuania."
-  > 📎 [Wikipedia article: Algirdas Semeta](https://en.wikipedia.org/wiki/Algirdas_Semeta)
+  > Wikipedia article: Algirdas Semeta
   > Source: `sources/wikipedia/algirdas-semeta.txt` (21816 chars)
 
 - **Lithuania**
   > "Dalia Grybauskaitė (Lithuania) was replaced by Algirdas Šemeta on 1 July 2009) after becoming President of Lithuania."
-  > 📎 [Wikipedia article: Algirdas Semeta](https://en.wikipedia.org/wiki/Algirdas_Semeta)
+  > Wikipedia article: Algirdas Semeta
   > Source: `sources/wikipedia/algirdas-semeta.txt` (21816 chars)
 
 
@@ -71,7 +71,7 @@ generated: 2026-05-11
 
 - **Vilnius University**
   > "Biography [ edit ] A native of Vilnius , Algirdas Šemeta graduated in 1985 from Vilnius University 's Faculty of Economic Cybernetics and Finance with a degree as economist-mathematician."
-  > 📎 [Wikipedia article: Algirdas Semeta](https://en.wikipedia.org/wiki/Algirdas_Semeta)
+  > Wikipedia article: Algirdas Semeta
   > Source: `sources/wikipedia/algirdas-semeta.txt` (21816 chars)
 
 
@@ -79,7 +79,7 @@ generated: 2026-05-11
 
 - **Economic Cybernetics and Finance**
   > "Biography [ edit ] A native of Vilnius , Algirdas Šemeta graduated in 1985 from Vilnius University 's Faculty of Economic Cybernetics and Finance with a degree as economist-mathematician."
-  > 📎 [Wikipedia article: Algirdas Semeta](https://en.wikipedia.org/wiki/Algirdas_Semeta)
+  > Wikipedia article: Algirdas Semeta
   > Source: `sources/wikipedia/algirdas-semeta.txt` (21816 chars)
 
 
@@ -87,7 +87,7 @@ generated: 2026-05-11
 
 - **Ukraine Business Ombudsman** — Other/Earlier (*2014*)
   > "Ukraine Business Ombudsman (Other/Earlier, 2014.0)"
-  > 📎 [EC ethics page — Revolving door decisions](https://commission.europa.eu/about/service-standards-and-principles/ethics-and-good-administration/commissioners-and-ethics/former-european-commissioners-authorised-occupations_en)
+  > EC ethics page — Revolving door decisions
   > Final: name+claim found in revolving_door/algirdas-semeta.txt
 
 

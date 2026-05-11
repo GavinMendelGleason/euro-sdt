@@ -19,5 +19,5 @@ generated: 2026-05-11
 
 - **Liberal International** — affiliated with
   > "The ALDE Party is affiliated with Liberal International and a recognised European political party, incorporated as a non-profit association under Belgian law."
-  > 📎 [Wikipedia article: Alliance of Liberals and Democrats for Europe](https://en.wikipedia.org/wiki/Alliance_of_Liberals_and_Democrats_for_Europe)
+  > Wikipedia article: Alliance of Liberals and Democrats for Europe
 

@@ -19,6 +19,6 @@ generated: 2026-05-11
 
 - **Director-General → Reform and Investment Task Force**
   > "Céline Gauer — held_position: Director-General → Reform and Investment Task Force"
-  > 📎 *Commission persons directory — DG/DDG CV PDFs*
+  > *Commission persons directory — DG/DDG CV PDFs*
   > From Commission person page or CJEU member listing
 
