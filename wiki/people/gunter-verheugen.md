@@ -8,7 +8,7 @@ tags:
   - person
   - commissioner
   - political-elite
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Günter Verheugen
@@ -71,25 +71,13 @@ generated: 2026-05-08
 
 ## Educated at
 
-- **European University Viadrina in Frankfurt (Oder)**
-  > "After his retirement, he is now honorary Professor at the European University Viadrina in Frankfurt (Oder)."
+- **University of Cologne**
+  > "Born at Bad Kreuznach in Rhineland-Palatinate, Verheugen studied history, sociology and political science at the University of Cologne and at the University of Bonn."
   > 📎 [Wikipedia article: Günter Verheugen](https://en.wikipedia.org/wiki/Günter_Verheugen)
-  > Wikidata P69 (educated at) confirms: university-of-cologne. Wikidata record: university of cologne || university of bonn
 
-- **European University Viadrina in Frankfurt (Oder)**
-  > "After his retirement, he is now honorary Professor at the European University Viadrina in Frankfurt (Oder)."
+- **University of Bonn**
+  > "Born at Bad Kreuznach in Rhineland-Palatinate, Verheugen studied history, sociology and political science at the University of Cologne and at the University of Bonn."
   > 📎 [Wikipedia article: Günter Verheugen](https://en.wikipedia.org/wiki/Günter_Verheugen)
-  > Wikidata P69 (educated at) confirms: university-of-bonn. Wikidata record: university of cologne || university of bonn
-
-- **University of Cologne and at the University of Bonn**
-  > "Verheugen studied history, sociology and political science at the University of Cologne and at the University of Bonn."
-  > 📎 [Wikipedia article: Günter Verheugen](https://en.wikipedia.org/wiki/Günter_Verheugen)
-  > Wikipedia extract for Günter Verheugen
-
-- **University of Cologne and at the University of Bonn**
-  > "Verheugen studied history, sociology and political science at the University of Cologne and at the University of Bonn."
-  > 📎 [Wikipedia article: Günter Verheugen](https://en.wikipedia.org/wiki/Günter_Verheugen)
-  > Wikipedia extract for Günter Verheugen
 
 
 ## Organisation affiliations

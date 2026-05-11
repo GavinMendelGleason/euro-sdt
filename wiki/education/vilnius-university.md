@@ -5,7 +5,7 @@ type: education_cluster
 tags:
   - education
   - vilnius-university
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Vilnius University

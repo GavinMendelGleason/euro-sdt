@@ -5,7 +5,7 @@ type: organisation
 tags:
   - org
   - government-body
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # European Commission
@@ -15,6 +15,7 @@ generated: 2026-05-08
 - government-body
 
 ## Members
-(1 people)
+(2 people)
 
+- [Colette Flesch](../people/colette-flesch.md)
 - [Pier Carlo Padoan](../people/pier-carlo-padoan.md)

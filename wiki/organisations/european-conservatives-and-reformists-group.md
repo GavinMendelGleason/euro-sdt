@@ -5,7 +5,7 @@ type: organisation
 tags:
   - org
   - political-party
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # European Conservatives and Reformists Group
@@ -15,7 +15,8 @@ generated: 2026-05-08
 - political-party
 
 ## Members
-(2 people)
+(3 people)
 
 - [Cristiana Muscardini](../people/cristiana-muscardini.md)
 - [Miroslav Ouzký](../people/miroslav-ouzky.md)
+- [Patryk Jaki](../people/patryk-jaki.md)

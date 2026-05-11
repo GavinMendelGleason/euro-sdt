@@ -7,7 +7,7 @@ tags:
   - person
   - commissioner
   - political-elite
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Jonathan Hill
@@ -60,16 +60,6 @@ Jonathan Hill receiv
 
 - **Architectural Association School Of Architecture**
   > "Jonathan Hill received a Diploma from the Architectural Association School of Architecture in 1983"
-  > 📎 [Wikipedia article: Jonathan Hill](https://en.wikipedia.org/wiki/Jonathan_Hill)
-  > Wikipedia extract for Jonathan Hill
-
-- **University College London**
-  > "Jonathan Hill received a Diploma from the Architectural Association School of Architecture in 1983, a Master of Science degree from University College London in 1990"
-  > 📎 [Wikipedia article: Jonathan Hill](https://en.wikipedia.org/wiki/Jonathan_Hill)
-  > Wikipedia extract for Jonathan Hill
-
-- **University College London**
-  > "and a Doctor of Philosophy degree from the University of London in 2000"
   > 📎 [Wikipedia article: Jonathan Hill](https://en.wikipedia.org/wiki/Jonathan_Hill)
   > Wikipedia extract for Jonathan Hill
 

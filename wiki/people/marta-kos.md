@@ -8,7 +8,7 @@ tags:
   - person
   - commissioner
   - political-elite
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Marta Kos
@@ -51,10 +51,9 @@ generated: 2026-05-08
 
 ## Educated at
 
-- **University Of Ljubljana (Implied By "Studied Journalism")**
+- **University Of Ljubljana**
   > "She studied journalism and joined the sports division of RTV, and later moved to Germany where she worked for Deutsche Welle and as Bonn correspondent for RTV starting in 1993."
   > 📎 [Wikipedia article: Marta Kos](https://en.wikipedia.org/wiki/Marta_Kos)
-  > Wikipedia extract for Marta Kos
 
 
 ## Organisation affiliations

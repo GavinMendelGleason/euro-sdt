@@ -7,13 +7,20 @@ tags:
   - person
   - corporate
   - economic-elite
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Armin Papperger
 
 
 *← [Bodies](../bodies.md)*
+
+## Educated at
+
+- **University of Duisburg-Essen**
+  > "Wikidata P69: Q111036212"
+  > 📎 [Wikidata: Armin Papperger](https://www.wikidata.org/wiki/Q111036212)
+
 
 ## Organisation affiliations
 
@@ -25,3 +32,5 @@ generated: 2026-05-08
   > "Extracted from Wikipedia page for Rheinmetall"
   > 📎 [Wikipedia: Rheinmetall](https://en.wikipedia.org/wiki/Rheinmetall)
 
+
+### Education clusters

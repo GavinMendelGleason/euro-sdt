@@ -5,7 +5,7 @@ type: organisation
 tags:
   - org
   - corporate
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # In 1997, he began to work for his native country, joining the Department of European Law of the Lith

@@ -7,7 +7,7 @@ tags:
   - person
   - commissioner
   - political-elite
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Pierre Moscovici
@@ -60,11 +60,6 @@ generated: 2026-05-08
   > Pierre Moscovici (French pronunciation: [pjɛʁ mɔskɔvisi], Romanian: [moskoˈvitʃʲ]; born 16 September 1957) is a French politician who served as the Eu
 
 - **Lycée Condorcet**
-  > "Moscovici obtained his Baccalauréat at the Lycée Condorcet in 1974, a DEA in economics and in philosophy, and he graduated from Sciences Po Paris and the École nationale d'administration, where he stu"
-  > 📎 [Wikipedia article: Pierre Moscovici](https://en.wikipedia.org/wiki/Pierre_Moscovici)
-  > Wikipedia extract for Pierre Moscovici
-
-- **Sciences Po**
   > "Moscovici obtained his Baccalauréat at the Lycée Condorcet in 1974, a DEA in economics and in philosophy, and he graduated from Sciences Po Paris and the École nationale d'administration, where he stu"
   > 📎 [Wikipedia article: Pierre Moscovici](https://en.wikipedia.org/wiki/Pierre_Moscovici)
   > Wikipedia extract for Pierre Moscovici

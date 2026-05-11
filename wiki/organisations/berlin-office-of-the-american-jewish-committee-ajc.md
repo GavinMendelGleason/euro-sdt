@@ -5,7 +5,7 @@ type: organisation
 tags:
   - org
   - ngo
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Berlin office of the American Jewish Committee (AJC)

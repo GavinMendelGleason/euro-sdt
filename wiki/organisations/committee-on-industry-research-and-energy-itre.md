@@ -5,7 +5,7 @@ type: organisation
 tags:
   - org
   - government-body
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Committee on Industry, Research and Energy (ITRE)
@@ -15,6 +15,7 @@ generated: 2026-05-08
 - government-body
 
 ## Members
-(1 people)
+(2 people)
 
 - [Amelia Andersdotter](../people/amelia-andersdotter.md)
+- [Fredrick Federley](../people/fredrick-federley.md)

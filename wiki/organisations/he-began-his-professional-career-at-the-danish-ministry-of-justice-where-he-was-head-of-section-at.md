@@ -5,7 +5,7 @@ type: organisation
 tags:
   - org
   - org-generic
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # He began his professional career at the Danish Ministry of Justice, where he was Head of Section at

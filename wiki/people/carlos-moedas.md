@@ -7,7 +7,7 @@ tags:
   - person
   - commissioner
   - political-elite
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Carlos Moedas
@@ -61,11 +61,6 @@ generated: 2026-05-08
 
 - **Enpc (Paris)**
   > "He spent his final year studying at the ENPC (Paris) via the Erasmus Programme."
-  > 📎 [Wikipedia article: Carlos Moedas](https://en.wikipedia.org/wiki/Carlos_Moedas)
-  > Wikipedia extract for Carlos Moedas
-
-- **Harvard**
-  > "He then took postgraduate studies at Harvard Business School, graduating in 2000 with the degree of MBA."
   > 📎 [Wikipedia article: Carlos Moedas](https://en.wikipedia.org/wiki/Carlos_Moedas)
   > Wikipedia extract for Carlos Moedas
 

@@ -5,7 +5,7 @@ type: education_cluster
 tags:
   - education
   - university-of-ljubljana
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # University Of Ljubljana
@@ -17,7 +17,7 @@ Commissioners, MEP leaders, and officials who studied at or attended University 
 ### Commissioners
 - [Janez Lenarčič](../people/janez-lenarcic.md) — University Of Ljubljana
 - [Janez Potocnik](../people/janez-potocnik.md) — University Of Ljubljana
-- [Marta Kos](../people/marta-kos.md) — University Of Ljubljana (Implied By "Studied Journalism")
+- [Marta Kos](../people/marta-kos.md) — University Of Ljubljana
 - [Violeta Bulc](../people/violeta-bulc.md) — Faculty Of Electrical Engineering, University Of Ljubljana
 
 ### Directors-General & DDGs

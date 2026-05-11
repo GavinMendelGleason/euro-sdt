@@ -5,7 +5,7 @@ type: organisation
 tags:
   - org
   - corporate
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # University of Chicago (Graduate School of Business)

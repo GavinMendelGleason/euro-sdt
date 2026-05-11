@@ -7,26 +7,13 @@ tags:
   - person
   - corporate
   - economic-elite
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Oliver Bäte
 
 
 *← [Bodies](../bodies.md)*
-
-## Educated at
-
-- **University of Cologne and New York University Stern School of Business**
-  > "Early life [ edit ] 
- Bäte graduated from the University of Cologne and New York University Stern School of Business ."
-  > 📎 [Wikipedia: Oliver Bäte](https://en.wikipedia.org/wiki/Oliver_Bäte)
-
-- **New York University Stern School of Business**
-  > "Early life [ edit ] 
- Bäte graduated from the University of Cologne and New York University Stern School of Business ."
-  > 📎 [Wikipedia: Oliver Bäte](https://en.wikipedia.org/wiki/Oliver_Bäte)
-
 
 ## Organisation affiliations
 
@@ -157,5 +144,3 @@ generated: 2026-05-08
  Non-profit o"
   > 📎 [Wikipedia: Oliver Bäte](https://en.wikipedia.org/wiki/Oliver_Bäte)
 
-
-### Education clusters

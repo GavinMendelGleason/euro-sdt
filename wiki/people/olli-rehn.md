@@ -8,7 +8,7 @@ tags:
   - person
   - commissioner
   - political-elite
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Olli Rehn
@@ -73,11 +73,6 @@ generated: 2026-05-08
 
 - **Macalester College**
   > "Rehn studied economics, international relations, and journalism at Macalester College in Saint Paul, Minnesota, in the United States."
-  > 📎 [Wikipedia article: Olli Rehn](https://en.wikipedia.org/wiki/Olli_Rehn)
-  > Wikipedia extract for Olli Rehn
-
-- **University Of Oxford**
-  > "He gained a master's degree in political science from the University of Helsinki in 1989, and a D.Phil. from St. Antony's College, Oxford in 1996 on the subject of "Corporatism and Industrial Competit"
   > 📎 [Wikipedia article: Olli Rehn](https://en.wikipedia.org/wiki/Olli_Rehn)
   > Wikipedia extract for Olli Rehn
 

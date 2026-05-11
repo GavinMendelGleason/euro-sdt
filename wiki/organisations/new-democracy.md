@@ -5,7 +5,7 @@ type: organisation
 tags:
   - org
   - political-party
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # New Democracy
@@ -15,6 +15,7 @@ generated: 2026-05-08
 - political-party
 
 ## Members
-(1 people)
+(2 people)
 
 - [Antonios Trakatellis](../people/antonios-trakatellis.md)
+- [Nikos Androulakis](../people/nikos-androulakis.md)

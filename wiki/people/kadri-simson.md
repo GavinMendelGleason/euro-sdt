@@ -8,7 +8,7 @@ tags:
   - person
   - commissioner
   - political-elite
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Kadri Simson
@@ -63,11 +63,6 @@ generated: 2026-05-08
 
 - **Tartu 10th Middle School in 1995**
   > "Simson graduated from Tartu 10th Middle School in 1995, Tartu University in 2000, (majoring in history)."
-  > 📎 [Wikipedia article: Kadri Simson](https://en.wikipedia.org/wiki/Kadri_Simson)
-  > Wikipedia extract for Kadri Simson
-
-- **University College London**
-  > "She holds an MA in Political Science from University College London (2003)."
   > 📎 [Wikipedia article: Kadri Simson](https://en.wikipedia.org/wiki/Kadri_Simson)
   > Wikipedia extract for Kadri Simson
 

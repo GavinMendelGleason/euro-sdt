@@ -5,7 +5,7 @@ type: education_cluster
 tags:
   - education
   - insead
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Insead

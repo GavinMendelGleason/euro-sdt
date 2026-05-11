@@ -7,7 +7,7 @@ tags:
   - person
   - commissioner
   - political-elite
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Günther Oettinger
@@ -69,20 +69,14 @@ generated: 2026-05-08
 
 ## Educated at
 
-- **He studied law and Economics at the University of Tübingen**
-  > "He studied law and Economics at the University of Tübingen."
-  > 📎 [Wikipedia article: Günther Oettinger](https://en.wikipedia.org/wiki/Günther_Oettinger)
-  > Günther Hermann Oettinger (born 15 October 1953) is a German lawyer and politician of the Christian Democratic Union (CDU) who served as European Comm
-
 - **Gymnasium Korntal-Münchingen**
   > "He grew up in Ditzingen, and attended school at Gymnasium Korntal-Münchingen."
   > 📎 [Wikipedia article: Günther Oettinger](https://en.wikipedia.org/wiki/Günther_Oettinger)
   > Wikipedia extract for Günther Oettinger
 
-- **He studied law and Economics at the University of Tübingen**
-  > "He studied law and Economics at the University of Tübingen."
-  > 📎 [Wikipedia article: Günther Oettinger](https://en.wikipedia.org/wiki/Günther_Oettinger)
-  > Wikipedia extract for Günther Oettinger
+- **He studied law**
+
+- **Economics at the University of Tübingen**
 
 
 ## Field of study

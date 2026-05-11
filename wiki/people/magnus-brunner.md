@@ -8,7 +8,7 @@ tags:
   - person
   - commissioner
   - political-elite
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Magnus Brunner
@@ -57,16 +57,6 @@ generated: 2026-05-08
   > LLM match (phrase 3)
 
 - **University Of Innsbruck**
-  > "Brunner studied jurisprudence at the University of Innsbruck, the University of Vienna (Dr. iur.) and King's College London (LLM)."
-  > 📎 [Wikipedia article: Magnus Brunner](https://en.wikipedia.org/wiki/Magnus_Brunner)
-  > Wikipedia extract for Magnus Brunner
-
-- **University Of Innsbruck**
-  > "Brunner studied jurisprudence at the University of Innsbruck, the University of Vienna (Dr. iur.) and King's College London (LLM)."
-  > 📎 [Wikipedia article: Magnus Brunner](https://en.wikipedia.org/wiki/Magnus_Brunner)
-  > Wikipedia extract for Magnus Brunner
-
-- **King's College London**
   > "Brunner studied jurisprudence at the University of Innsbruck, the University of Vienna (Dr. iur.) and King's College London (LLM)."
   > 📎 [Wikipedia article: Magnus Brunner](https://en.wikipedia.org/wiki/Magnus_Brunner)
   > Wikipedia extract for Magnus Brunner

@@ -8,7 +8,7 @@ tags:
   - person
   - commissioner
   - political-elite
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Sir Leon Brittan
@@ -51,7 +51,7 @@ generated: 2026-05-08
 
 ## Educated at
 
-- **Charles University**
+- **Yale University**
   > "Brittan then studied at Yale University on a Henry Fellowship."
   > 📎 [Wikipedia article: Sir Leon Brittan](https://en.wikipedia.org/wiki/Sir_Leon_Brittan)
   > Normalised match: "yale university" → "brittan then studied at yale university on a henry fellowship."
@@ -63,11 +63,6 @@ generated: 2026-05-08
 
 - **University of Cambridge**
   > "Brittan was educated at the Haberdashers' Aske's Boys' School and Trinity College, Cambridge, where he was President of the Cambridge Union Society and Chairman of the Cambridge University Conservativ"
-  > 📎 [Wikipedia article: Sir Leon Brittan](https://en.wikipedia.org/wiki/Sir_Leon_Brittan)
-  > Wikipedia extract for Sir Leon Brittan
-
-- **Charles University**
-  > "Brittan then studied at Yale University on a Henry Fellowship."
   > 📎 [Wikipedia article: Sir Leon Brittan](https://en.wikipedia.org/wiki/Sir_Leon_Brittan)
   > Wikipedia extract for Sir Leon Brittan
 

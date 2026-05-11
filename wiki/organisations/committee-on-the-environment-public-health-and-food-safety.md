@@ -5,7 +5,7 @@ type: organisation
 tags:
   - org
   - government-body
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Committee on the Environment, Public Health and Food Safety
@@ -15,9 +15,11 @@ generated: 2026-05-08
 - government-body
 
 ## Members
-(4 people)
+(6 people)
 
+- [Andrey Kovatchev](../people/andrey-kovatchev.md)
 - [Dagmar Roth-Behrendt](../people/dagmar-roth-behrendt.md)
 - [Genowefa Grabowska](../people/genowefa-grabowska.md)
 - [Jerzy Buzek](../people/jerzy-buzek.md)
+- [Karin Karlsbro](../people/karin-karlsbro.md)
 - [Lena Ek](../people/lena-ek.md)

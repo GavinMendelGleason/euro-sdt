@@ -5,7 +5,7 @@ type: education_cluster
 tags:
   - education
   - sciences-po-ena
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Sciences Po Ena
@@ -15,11 +15,11 @@ Commissioners, MEP leaders, and officials who studied at or attended Sciences Po
 ## Attendees (10)
 
 ### Commissioners
-- [Federica Mogherini](../people/federica-mogherini.md) — Sciences Po | Sciences Po
+- [Federica Mogherini](../people/federica-mogherini.md) — Sciences Po
 - [Jacques Barrot](../people/jacques-barrot.md) — Sciences Po
 - [Jacques Santer](../people/jacques-santer.md) — Sciences Po
 - [Pascal Lamy](../people/pascal-lamy.md) — Sciences Po
-- [Pierre Moscovici](../people/pierre-moscovici.md) — ENA | Sciences Po | Sciences Po | Sciences Po Paris
+- [Pierre Moscovici](../people/pierre-moscovici.md) — ENA | Sciences Po | Sciences Po Paris
 - [Yves-Thibault de Silguy](../people/yves-thibault-de-silguy.md) — Sciences Po
 
 ### MEP Leaders

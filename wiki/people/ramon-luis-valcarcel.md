@@ -7,13 +7,20 @@ tags:
   - person
   - mep
   - political-elite
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Ramón Luis Valcárcel
 
 
 *← [Bodies](../bodies.md)*
+
+## Educated at
+
+- **University of Murcia**
+  > ".mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent;color:inherit}.mw-parser-output .infobox"
+  > 📎 [Wikipedia: Ramón Luis Valcárcel](https://en.wikipedia.org/wiki/Ramón_Luis_Valcárcel)
+
 
 ## Organisation affiliations
 
@@ -29,3 +36,5 @@ generated: 2026-05-08
   > "Prior to his service in the European Parliament, he served as President of the Autonomous Community of the Region of Murcia from 1995 to 2014, and as a former president of the Committee of the Regions"
   > 📎 [Wikipedia article: Ramón Luis Valcárcel](https://en.wikipedia.org/wiki/Ramón_Luis_Valcárcel)
 
+
+### Education clusters

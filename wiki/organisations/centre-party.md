@@ -5,7 +5,7 @@ type: organisation
 tags:
   - org
   - political-party
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Centre Party
@@ -15,7 +15,8 @@ generated: 2026-05-08
 - political-party
 
 ## Members
-(2 people)
+(3 people)
 
+- [Fredrick Federley](../people/fredrick-federley.md)
 - [Lena Ek](../people/lena-ek.md)
 - [Olli Rehn](../people/olli-rehn.md)

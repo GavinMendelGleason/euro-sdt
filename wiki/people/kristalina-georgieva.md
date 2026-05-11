@@ -8,7 +8,7 @@ tags:
   - person
   - commissioner
   - political-elite
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Kristalina Georgieva
@@ -83,11 +83,6 @@ generated: 2026-05-08
 
 - **Karl Marx Higher Institute Of Economics (Now Called University Of National And W**
   > "Georgieva holds a PhD in economics and an MA in Political Economy and Sociology from the Karl Marx Higher Institute of Economics (now called University of National and World Economy) in Sofia."
-  > 📎 [Wikipedia article: Kristalina Georgieva](https://en.wikipedia.org/wiki/Kristalina_Georgieva)
-  > Wikipedia extract for Kristalina Georgieva
-
-- **London School Of Economics**
-  > "She was a post-doctoral research fellow in natural resource economics and environmental policy at the London School of Economics from 1987 to 1988"
   > 📎 [Wikipedia article: Kristalina Georgieva](https://en.wikipedia.org/wiki/Kristalina_Georgieva)
   > Wikipedia extract for Kristalina Georgieva
 

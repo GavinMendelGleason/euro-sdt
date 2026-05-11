@@ -5,7 +5,7 @@ type: organisation
 tags:
   - org
   - government-body
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Committee on Foreign Affairs
@@ -15,7 +15,11 @@ generated: 2026-05-08
 - government-body
 
 ## Members
-(2 people)
+(6 people)
 
+- [Andrey Kovatchev](../people/andrey-kovatchev.md)
 - [Francesco Speroni](../people/francesco-speroni.md)
+- [Hans van Baalen](../people/hans-van-baalen.md)
 - [Mechtild Rothe](../people/mechtild-rothe.md)
+- [Nikos Androulakis](../people/nikos-androulakis.md)
+- [Ria Oomen-Ruijten](../people/ria-oomen-ruijten.md)

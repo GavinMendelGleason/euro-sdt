@@ -5,7 +5,7 @@ type: organisation
 tags:
   - org
   - government-body
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Finnish Parliament
@@ -15,7 +15,8 @@ generated: 2026-05-08
 - government-body
 
 ## Members
-(2 people)
+(3 people)
 
 - [Liisa Jaakonsaari](../people/liisa-jaakonsaari.md)
 - [Sebastian Tynkkynen](../people/sebastian-tynkkynen.md)
+- [Timo Soini](../people/timo-soini.md)

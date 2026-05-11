@@ -8,7 +8,7 @@ tags:
   - person
   - commissioner
   - political-elite
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Danuta Hübner
@@ -56,22 +56,12 @@ generated: 2026-05-08
   > 📎 [Wikipedia article: Danuta Hübner](https://en.wikipedia.org/wiki/Danuta_Hübner)
   > LLM match (phrase 7)
 
-- **Sgh Warsaw School Of Economics**
-  > "Hübner received her MSc in Economics, SGH Warsaw School of Economics (Central School of Planning and Statistics) in 1971, her PhD in economics, SGH Warsaw School of Economics 1974 Visiting scholar at "
-  > 📎 [Wikipedia article: Danuta Hübner](https://en.wikipedia.org/wiki/Danuta_Hübner)
-  > Wikipedia extract for Danuta Hübner
-
 - **University Of Sussex**
   > "Hübner received her MSc in Economics, SGH Warsaw School of Economics (Central School of Planning and Statistics) in 1971, her PhD in economics, SGH Warsaw School of Economics 1974 Visiting scholar at "
   > 📎 [Wikipedia article: Danuta Hübner](https://en.wikipedia.org/wiki/Danuta_Hübner)
   > Wikipedia extract for Danuta Hübner
 
 - **University Of California, Berkeley**
-  > "Hübner was a 1988–1990 Fulbright scholar at the University of California, Berkeley and received an honorary Degree in Laws of Sussex University in 2005."
-  > 📎 [Wikipedia article: Danuta Hübner](https://en.wikipedia.org/wiki/Danuta_Hübner)
-  > Wikipedia extract for Danuta Hübner
-
-- **University Of Sussex**
   > "Hübner was a 1988–1990 Fulbright scholar at the University of California, Berkeley and received an honorary Degree in Laws of Sussex University in 2005."
   > 📎 [Wikipedia article: Danuta Hübner](https://en.wikipedia.org/wiki/Danuta_Hübner)
   > Wikipedia extract for Danuta Hübner

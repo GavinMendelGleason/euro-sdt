@@ -5,7 +5,7 @@ type: education_cluster
 tags:
   - education
   - ecole-nationale-dadministration
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Ecole Nationale Dadministration

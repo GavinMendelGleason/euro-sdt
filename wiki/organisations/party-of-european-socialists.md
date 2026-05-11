@@ -5,7 +5,7 @@ type: organisation
 tags:
   - org
   - political-party
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Party of European Socialists
@@ -15,12 +15,16 @@ generated: 2026-05-08
 - political-party
 
 ## Members
-(7 people)
+(11 people)
 
+- [António Costa](../people/antonio-costa.md)
 - [Dagmar Roth-Behrendt](../people/dagmar-roth-behrendt.md)
 - [Manuel António Dos Santos](../people/manuel-antonio-dos-santos.md)
 - [Marek Siwiec](../people/marek-siwiec.md)
 - [Miguel Angel Martínez Martínez](../people/miguel-angel-martinez-martinez.md)
+- [Richard Falbr](../people/richard-falbr.md)
+- [Stavros Lambrinidis](../people/stavros-lambrinidis.md)
 - [Sylvia-Yvonne Kaufmann](../people/sylvia-yvonne-kaufmann.md)
+- [Sylvie Guillaume](../people/sylvie-guillaume.md)
 - [Szabolcs Fazakas](../people/szabolcs-fazakas.md)
 - [Teresa Riera](../people/teresa-riera.md)

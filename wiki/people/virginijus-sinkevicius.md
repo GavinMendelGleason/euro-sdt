@@ -8,7 +8,7 @@ tags:
   - person
   - commissioner
   - political-elite
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Virginijus Sinkevičius
@@ -68,11 +68,6 @@ generated: 2026-05-08
 
 - **Maastricht University**
   > "In 2013, he received a Master of Arts in European Studies from Maastricht University."
-  > 📎 [Wikipedia article: Virginijus Sinkevičius](https://en.wikipedia.org/wiki/Virginijus_Sinkevičius)
-  > Wikipedia extract for Virginijus Sinkevičius
-
-- **University Of Oxford**
-  > "In 2017, Sinkevičius completed Digital Policy course in University of Oxford."
   > 📎 [Wikipedia article: Virginijus Sinkevičius](https://en.wikipedia.org/wiki/Virginijus_Sinkevičius)
   > Wikipedia extract for Virginijus Sinkevičius
 

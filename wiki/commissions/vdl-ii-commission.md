@@ -4,7 +4,7 @@ title: VdL II Commission
 type: commission
 tags:
   - commission
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # VdL II Commission

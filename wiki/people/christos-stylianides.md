@@ -7,7 +7,7 @@ tags:
   - person
   - commissioner
   - political-elite
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Christos Stylianides
@@ -56,11 +56,6 @@ generated: 2026-05-08
 
 - **Aristotelian University**
   > "In 1984, he received his degree as dental surgeon from Aristotelian University in Thessaloniki, Greece."
-  > 📎 [Wikipedia article: Christos Stylianides](https://en.wikipedia.org/wiki/Christos_Stylianides)
-  > Wikipedia extract for Christos Stylianides
-
-- **Harvard**
-  > "He later received executive education in International Development at the John F. Kennedy School of Government at Harvard University."
   > 📎 [Wikipedia article: Christos Stylianides](https://en.wikipedia.org/wiki/Christos_Stylianides)
   > Wikipedia extract for Christos Stylianides
 

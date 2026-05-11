@@ -8,7 +8,7 @@ tags:
   - person
   - commissioner
   - political-elite
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Piotr Serafin
@@ -50,11 +50,6 @@ generated: 2026-05-08
 
 
 ## Educated at
-
-- **Sgh Warsaw School Of Economics**
-  > "Serafin graduated in economics at the SGH Warsaw School of Economics, and in law at the University of Warsaw."
-  > 📎 [Wikipedia article: Piotr Serafin](https://en.wikipedia.org/wiki/Piotr_Serafin)
-  > Wikipedia extract for Piotr Serafin
 
 - **Sgh Warsaw School Of Economics**
   > "Serafin graduated in economics at the SGH Warsaw School of Economics, and in law at the University of Warsaw."

@@ -5,17 +5,14 @@ type: education_cluster
 tags:
   - education
   - university-of-copenhagen
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # University Of Copenhagen
 
 Commissioners, MEP leaders, and officials who studied at or attended University Of Copenhagen.
 
-## Attendees (4)
-
-### Commissioners
-- [Connie Hedegaard](../people/connie-hedegaard.md) — University Of Copenhagen (Implied By "Ma In Literature And History")
+## Attendees (3)
 
 ### MEP Leaders
 - [Sigrid Friis Proschowsky](../people/sigrid-friis-proschowsky.md) — University Of Copenhagen

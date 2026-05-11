@@ -7,13 +7,20 @@ tags:
   - person
   - mep
   - political-elite
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Giovanni Pittella
 
 
 *← [Bodies](../bodies.md)*
+
+## Educated at
+
+- **University of Naples Federico II**
+  > "Italian politician (born 1958) .mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent;color:inh"
+  > 📎 [Wikipedia: Giovanni Pittella](https://en.wikipedia.org/wiki/Giovanni_Pittella)
+
 
 ## Organisation affiliations
 
@@ -53,3 +60,5 @@ generated: 2026-05-08
   > "In 2022, he and his brother left the Democratic Party after not being selected among the candidates for the snap election and joined the Action party."
   > 📎 [Wikipedia article: Giovanni Pittella](https://en.wikipedia.org/wiki/Giovanni_Pittella)
 
+
+### Education clusters

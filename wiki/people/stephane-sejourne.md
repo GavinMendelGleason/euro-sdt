@@ -8,7 +8,7 @@ tags:
   - person
   - commissioner
   - political-elite
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Stéphane Séjourné
@@ -86,7 +86,7 @@ Séjourné was active in student politics within the National Union of Students 
   > 📎 [Wikipedia article: Stéphane Séjourné](https://en.wikipedia.org/wiki/Stéphane_Séjourné)
   > Source: `sources/wikipedia/stephane-sejourne.txt` (7392 chars)
 
-- **renew-europe** — leader (chair)
+- **Renew Europe** — leader (chair)
   > "He later became head of the French delegation within Renew Europe."
   > 📎 [Wikipedia article: Stéphane Séjourné](https://en.wikipedia.org/wiki/Stéphane_Séjourné)
   > Source: `sources/wikipedia/stephane-sejourne.txt` (7392 chars)

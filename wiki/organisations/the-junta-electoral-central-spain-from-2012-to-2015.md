@@ -5,7 +5,7 @@ type: organisation
 tags:
   - org
   - org-generic
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # the Junta Electoral Central (Spain) from 2012 to 2015

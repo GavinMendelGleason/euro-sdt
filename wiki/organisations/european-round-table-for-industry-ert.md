@@ -5,7 +5,7 @@ type: organisation
 tags:
   - org
   - industry-association
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # European Round Table for Industry (ERT)

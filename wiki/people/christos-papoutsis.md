@@ -8,7 +8,7 @@ tags:
   - person
   - commissioner
   - political-elite
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Christos Papoutsis
@@ -59,7 +59,7 @@ generated: 2026-05-08
 
 ## Organisation affiliations
 
-- **socialist-international** — PASOK Representative
+- **Socialist International** — PASOK Representative
   > "Along with his mandate in the European Parliament, he served as International Relations Secretary and PASOK Representative at the Socialist International, from 1988 to 1994."
   > 📎 [Wikipedia article: Christos Papoutsis](https://en.wikipedia.org/wiki/Christos_Papoutsis)
   > Source: `sources/wikipedia/christos-papoutsis.txt` (5144 chars)

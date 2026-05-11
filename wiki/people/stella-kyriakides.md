@@ -7,7 +7,7 @@ tags:
   - person
   - commissioner
   - political-elite
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Stella Kyriakides
@@ -49,15 +49,14 @@ generated: 2026-05-08
 
 ## Educated at
 
-- **University of Reading and a master's degree in child maladjustment at the Victoria University of Manchester**
-  > "Born in Nicosia, Kyriakides got a degree in psychology from the University of Reading and a master's degree in child maladjustment at the Victoria University of Manchester."
-  > 📎 [Wikipedia article: Stella Kyriakides](https://en.wikipedia.org/wiki/Stella_Kyriakides)
-  > Wikipedia extract for Stella Kyriakides
-
 - **Victoria University Of Manchester**
   > "Born in Nicosia, Kyriakides got a degree in psychology from the University of Reading and a master's degree in child maladjustment at the Victoria University of Manchester."
   > 📎 [Wikipedia article: Stella Kyriakides](https://en.wikipedia.org/wiki/Stella_Kyriakides)
   > Wikipedia extract for Stella Kyriakides
+
+- **University of Reading**
+  > "Born in Nicosia, Kyriakides got a degree in psychology from the University of Reading and a master's degree in child maladjustment at the Victoria University of Manchester."
+  > 📎 [Wikipedia article: Stella Kyriakides](https://en.wikipedia.org/wiki/Stella_Kyriakides)
 
 
 ## Organisation affiliations

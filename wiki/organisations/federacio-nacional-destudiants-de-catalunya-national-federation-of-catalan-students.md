@@ -5,7 +5,7 @@ type: organisation
 tags:
   - org
   - ngo
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Federació Nacional d'Estudiants de Catalunya (National Federation of Catalan Students)

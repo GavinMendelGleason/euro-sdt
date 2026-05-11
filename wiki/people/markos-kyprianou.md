@@ -8,7 +8,7 @@ tags:
   - person
   - commissioner
   - political-elite
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Markos Kyprianou
@@ -58,16 +58,6 @@ generated: 2026-05-08
 
 - **University of Cambridge**
   > "He studied law at the Law School of the University of Athens and at Trinity College, Cambridge, where he specialised in international law and tax law and was awarded a master's degree in Law (LLM)."
-  > 📎 [Wikipedia article: Markos Kyprianou](https://en.wikipedia.org/wiki/Markos_Kyprianou)
-  > Wikipedia extract for Markos Kyprianou
-
-- **University of Cambridge**
-  > "He studied law at the Law School of the University of Athens and at Trinity College, Cambridge, where he specialised in international law and tax law and was awarded a master's degree in Law (LLM)."
-  > 📎 [Wikipedia article: Markos Kyprianou](https://en.wikipedia.org/wiki/Markos_Kyprianou)
-  > Wikipedia extract for Markos Kyprianou
-
-- **Harvard**
-  > "He earned a second master's degree in law, specialising in Company Law and Taxation, at Harvard Law School."
   > 📎 [Wikipedia article: Markos Kyprianou](https://en.wikipedia.org/wiki/Markos_Kyprianou)
   > Wikipedia extract for Markos Kyprianou
 

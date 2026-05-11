@@ -8,7 +8,7 @@ tags:
   - person
   - commissioner
   - political-elite
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Philippe Busquin
@@ -58,11 +58,6 @@ Busquin was born in Feluy. He was a Member of th
   > 📎 [Wikipedia article: Philippe Busquin](https://en.wikipedia.org/wiki/Philippe_Busquin)
   > LLM match (phrase 8)
 
-- **Université Libre De Bruxelles**
-  > "1980: First degree in philosophy at the Free University of Brussels"
-  > 📎 [Wikipedia article: Philippe Busquin](https://en.wikipedia.org/wiki/Philippe_Busquin)
-  > Wikipedia extract for Philippe Busquin
-
 
 ## Organisation affiliations
 
@@ -81,7 +76,7 @@ Busquin was born in Feluy. He was a Member of th
   > 📎 [Wikipedia article: Philippe Busquin](https://en.wikipedia.org/wiki/Philippe_Busquin)
   > Source: `sources/wikipedia/philippe-busquin.txt` (2297 chars)
 
-- **socialist-international** — Vice-President
+- **Socialist International** — Vice-President
   > "Education
 1962: Degree in physics from the Free University of Brussels
 1976: Postgraduate certificate in environmental studies

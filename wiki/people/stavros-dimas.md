@@ -8,7 +8,7 @@ tags:
   - person
   - commissioner
   - political-elite
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Stavros Dimas
@@ -71,15 +71,14 @@ generated: 2026-05-08
 
 ## Educated at
 
-- **University of Athens and went on to earn a Master of Laws from New York University**
-  > "Dimas studied law at the University of Athens and went on to earn a Master of Laws from New York University."
-  > 📎 [Wikipedia article: Stavros Dimas](https://en.wikipedia.org/wiki/Stavros_Dimas)
-  > Wikipedia extract for Stavros Dimas
-
 - **New York University**
   > "Dimas studied law at the University of Athens and went on to earn a Master of Laws from New York University."
   > 📎 [Wikipedia article: Stavros Dimas](https://en.wikipedia.org/wiki/Stavros_Dimas)
   > Wikipedia extract for Stavros Dimas
+
+- **University of Athens**
+  > "Dimas studied law at the University of Athens and went on to earn a Master of Laws from New York University."
+  > 📎 [Wikipedia article: Stavros Dimas](https://en.wikipedia.org/wiki/Stavros_Dimas)
 
 
 ## Organisation affiliations

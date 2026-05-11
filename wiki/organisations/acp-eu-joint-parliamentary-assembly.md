@@ -5,7 +5,7 @@ type: organisation
 tags:
   - org
   - government-body
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # ACP-EU Joint Parliamentary Assembly
@@ -15,10 +15,11 @@ generated: 2026-05-08
 - government-body
 
 ## Members
-(7 people)
+(8 people)
 
 - [Anders Wijkman](../people/anders-wijkman.md)
 - [Elisa Ferreira](../people/elisa-ferreira.md)
+- [Isabelle Durant](../people/isabelle-durant.md)
 - [Lena Ek](../people/lena-ek.md)
 - [Luisa Morgantini](../people/luisa-morgantini.md)
 - [Mariya Gabriel](../people/mariya-gabriel.md)

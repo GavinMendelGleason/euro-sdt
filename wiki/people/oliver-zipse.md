@@ -7,7 +7,7 @@ tags:
   - person
   - corporate
   - economic-elite
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Oliver Zipse
@@ -25,9 +25,9 @@ generated: 2026-05-08
   > "In 1985 he switched to mechanical engineering at the Technische Universität Darmstadt and graduated in 1991 with a degree in mechanical engineering."
   > 📎 [Wikipedia: Oliver Zipse](https://en.wikipedia.org/wiki/Oliver_Zipse)
 
-- **Kellogg-WHU Executive MBA Program (Kellogg School of Management, US and WHU – Otto Beisheim School of Management, Germany)**
-  > "&#91; 2 &#93; &#91; 3 &#93; &#91; 4 &#93; In 1999, he also graduated from the Kellogg-WHU Executive MBA Program, which is a joint MBA degree from Kellogg School of Management , US and WHU – Otto Beish"
-  > 📎 [Wikipedia: Oliver Zipse](https://en.wikipedia.org/wiki/Oliver_Zipse)
+- **Kellogg-WHU Executive MBA Program (Kellogg School of Management, US**
+
+- **WHU – Otto Beisheim School of Management, Germany)**
 
 
 ## Organisation affiliations

@@ -5,7 +5,7 @@ type: organisation
 tags:
   - org
   - political-party
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Alliance of Liberals and Democrats for Europe Party
@@ -15,6 +15,7 @@ generated: 2026-05-08
 - political-party
 
 ## Members
-(1 people)
+(2 people)
 
+- [Hans van Baalen](../people/hans-van-baalen.md)
 - [Violeta Bulc](../people/violeta-bulc.md)

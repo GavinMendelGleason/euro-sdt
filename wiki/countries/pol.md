@@ -4,7 +4,7 @@ title: Poland
 type: country
 tags:
   - country
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Poland

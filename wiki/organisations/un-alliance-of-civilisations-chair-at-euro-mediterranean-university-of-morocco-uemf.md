@@ -5,7 +5,7 @@ type: organisation
 tags:
   - org
   - ngo
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # UN Alliance of Civilisations Chair at Euro-Mediterranean University of Morocco (UEMF)

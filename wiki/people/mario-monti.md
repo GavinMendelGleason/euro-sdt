@@ -8,7 +8,7 @@ tags:
   - person
   - commissioner
   - political-elite
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Mario Monti
@@ -76,23 +76,13 @@ generated: 2026-05-08
   > 📎 [Wikipedia article: Mario Monti](https://en.wikipedia.org/wiki/Mario_Monti)
   > LLM re-match (phrase 10)
 
-- **Charles University**
+- **Yale University**
   > "Later, he won a scholarship to Yale University, where he studied under James Tobin, a recipient of the Nobel Prize in Economics."
   > 📎 [Wikipedia article: Mario Monti](https://en.wikipedia.org/wiki/Mario_Monti)
   > Mario Monti  (Italian: [ˈmaːrjo ˈmonti]; born 19 March 1943) is an Italian politician, economist and academic who served as the prime minister of Ital
 
 - **Leo Xiii High School**
   > "Monti studied at the private Leo XIII High School and attended Bocconi University of Milan, where he obtained a degree in economics in 1965."
-  > 📎 [Wikipedia article: Mario Monti](https://en.wikipedia.org/wiki/Mario_Monti)
-  > Wikipedia extract for Mario Monti
-
-- **Bocconi**
-  > "Monti studied at the private Leo XIII High School and attended Bocconi University of Milan, where he obtained a degree in economics in 1965."
-  > 📎 [Wikipedia article: Mario Monti](https://en.wikipedia.org/wiki/Mario_Monti)
-  > Wikipedia extract for Mario Monti
-
-- **Charles University**
-  > "Later, he won a scholarship to Yale University, where he studied under James Tobin, a recipient of the Nobel Prize in Economics."
   > 📎 [Wikipedia article: Mario Monti](https://en.wikipedia.org/wiki/Mario_Monti)
   > Wikipedia extract for Mario Monti
 

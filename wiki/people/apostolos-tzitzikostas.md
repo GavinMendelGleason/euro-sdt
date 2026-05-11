@@ -8,7 +8,7 @@ tags:
   - person
   - commissioner
   - political-elite
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Apostolos Tzitzikostas
@@ -58,11 +58,6 @@ generated: 2026-05-08
 
 - **Georgetown University**
   > "Tzitzikostas studied politics and diplomacy at Georgetown University and worked at the office of the Chair of the United States House Committee on Foreign Affairs."
-  > 📎 [Wikipedia article: Apostolos Tzitzikostas](https://en.wikipedia.org/wiki/Apostolos_Tzitzikostas)
-  > Wikipedia extract for Apostolos Tzitzikostas
-
-- **University College London**
-  > "Following his graduation in Public Policy and Economics at the University College of London, he returned to Greece."
   > 📎 [Wikipedia article: Apostolos Tzitzikostas](https://en.wikipedia.org/wiki/Apostolos_Tzitzikostas)
   > Wikipedia extract for Apostolos Tzitzikostas
 

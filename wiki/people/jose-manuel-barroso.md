@@ -7,7 +7,7 @@ tags:
   - person
   - commissioner
   - political-elite
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # José Manuel Barroso
@@ -69,7 +69,7 @@ generated: 2026-05-08
 
 ## Educated at
 
-- **faculty-of-law-of-the-university-of-lisbon**
+- **Faculty of Law of the University of Lisbon**
   > "&#93; from the Faculty of Law of the University of Lisbon ."
   > 📎 [Wikipedia article: José Manuel Barroso](https://en.wikipedia.org/wiki/José_Manuel_Barroso)
   > Source: `sources/wikipedia/jose-manuel-barroso.txt` (61677 chars)

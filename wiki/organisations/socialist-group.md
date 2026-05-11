@@ -5,7 +5,7 @@ type: organisation
 tags:
   - org
   - political-party
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Socialist Group
@@ -15,8 +15,9 @@ generated: 2026-05-08
 - political-party
 
 ## Members
-(3 people)
+(4 people)
 
 - [Genowefa Grabowska](../people/genowefa-grabowska.md)
 - [Mechtild Rothe](../people/mechtild-rothe.md)
+- [Mia De Vits](../people/mia-de-vits.md)
 - [Philippe Busquin](../people/philippe-busquin.md)

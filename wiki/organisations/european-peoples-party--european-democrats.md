@@ -5,7 +5,7 @@ type: organisation
 tags:
   - org
   - political-party
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # European People's Party - European Democrats
@@ -15,7 +15,8 @@ generated: 2026-05-08
 - political-party
 
 ## Members
-(2 people)
+(3 people)
 
 - [Anders Wijkman](../people/anders-wijkman.md)
+- [Hans-Gert Pöttering](../people/hans-gert-pottering.md)
 - [João de Deus Pinheiro](../people/joao-de-deus-pinheiro.md)

@@ -7,7 +7,7 @@ tags:
   - person
   - commissioner
   - political-elite
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Federica Mogherini
@@ -60,11 +60,6 @@ generated: 2026-05-08
   > Wikidata P69 (educated at) confirms: sciences-po. Wikidata record: sciences po aix-en-provence
 
 - **Sapienza University Of Rome**
-  > "Mogherini attended the Sapienza University of Rome where she studied political science graduating with a specialization in political philosophy with a final dissertation on Islam and politics, which s"
-  > 📎 [Wikipedia article: Federica Mogherini](https://en.wikipedia.org/wiki/Federica_Mogherini)
-  > Wikipedia extract for Federica Mogherini
-
-- **Sciences Po**
   > "Mogherini attended the Sapienza University of Rome where she studied political science graduating with a specialization in political philosophy with a final dissertation on Islam and politics, which s"
   > 📎 [Wikipedia article: Federica Mogherini](https://en.wikipedia.org/wiki/Federica_Mogherini)
   > Wikipedia extract for Federica Mogherini

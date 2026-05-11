@@ -5,7 +5,7 @@ type: organisation
 tags:
   - org
   - ngo
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Solidarity
@@ -15,6 +15,7 @@ generated: 2026-05-08
 - ngo
 
 ## Members
-(1 people)
+(2 people)
 
+- [Janusz Onyszkiewicz](../people/janusz-onyszkiewicz.md)
 - [Jerzy Buzek](../people/jerzy-buzek.md)

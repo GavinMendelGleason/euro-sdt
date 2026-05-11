@@ -5,7 +5,7 @@ type: organisation
 tags:
   - org
   - government-body
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Committee on Industry, Research and Energy
@@ -15,7 +15,8 @@ generated: 2026-05-08
 - government-body
 
 ## Members
-(2 people)
+(3 people)
 
 - [Jerzy Buzek](../people/jerzy-buzek.md)
 - [Mechtild Rothe](../people/mechtild-rothe.md)
+- [Silvana Koch-Mehrin](../people/silvana-koch-mehrin.md)

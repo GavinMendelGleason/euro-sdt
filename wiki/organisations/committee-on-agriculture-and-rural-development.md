@@ -5,7 +5,7 @@ type: organisation
 tags:
   - org
   - government-body
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Committee on Agriculture and Rural Development
@@ -15,6 +15,7 @@ generated: 2026-05-08
 - government-body
 
 ## Members
-(1 people)
+(2 people)
 
+- [Joseph Daul](../people/joseph-daul.md)
 - [Juan Ignacio Zoido](../people/juan-ignacio-zoido.md)

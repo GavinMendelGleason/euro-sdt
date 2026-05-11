@@ -7,7 +7,7 @@ tags:
   - person
   - mep
   - political-elite
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Pablo Zalba Bidegain

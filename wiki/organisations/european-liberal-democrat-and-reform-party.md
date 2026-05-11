@@ -5,7 +5,7 @@ type: organisation
 tags:
   - org
   - political-party
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # European Liberal, Democrat and Reform Party
@@ -15,7 +15,8 @@ generated: 2026-05-08
 - political-party
 
 ## Members
-(2 people)
+(3 people)
 
 - [Androulla Vassiliou](../people/androulla-vassiliou.md)
+- [Colette Flesch](../people/colette-flesch.md)
 - [Hadar Cars](../people/hadar-cars.md)

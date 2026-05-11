@@ -5,7 +5,7 @@ type: organisation
 tags:
   - org
   - government-body
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Germany's defence industry (advisor to Federal Minister for Economic Affairs and Energy)

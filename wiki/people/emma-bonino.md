@@ -8,7 +8,7 @@ tags:
   - person
   - commissioner
   - political-elite
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Emma Bonino
@@ -55,11 +55,6 @@ generated: 2026-05-08
   > "She graduated in modern languages and literature from Bocconi University in Milan in 1972."
   > 📎 [Wikipedia article: Emma Bonino](https://en.wikipedia.org/wiki/Emma_Bonino)
   > Emma Bonino  (born 9 March 1948) is an Italian politician. She was a senator for Rome between 2008 and 2013, and again between 2018 and 2022. She also
-
-- **Bocconi**
-  > "She graduated from Bocconi University in literature with a master thesis on Malcolm X's autobiography."
-  > 📎 [Wikipedia article: Emma Bonino](https://en.wikipedia.org/wiki/Emma_Bonino)
-  > Wikipedia extract for Emma Bonino
 
 
 ## Organisation affiliations

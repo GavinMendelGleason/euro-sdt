@@ -7,7 +7,7 @@ tags:
   - person
   - commissioner
   - political-elite
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Joaquín Almunia
@@ -91,11 +91,6 @@ generated: 2026-05-08
 
 - **École Pratique Des Hautes Études**
   > "He graduated with degrees in economics and law in 1971 and 1972, respectively, from the also Jesuit University of Deusto in Bilbao, and completed follow-up studies at the École pratique des hautes étu"
-  > 📎 [Wikipedia article: Joaquín Almunia](https://en.wikipedia.org/wiki/Joaquín_Almunia)
-  > Wikipedia extract for Joaquín Almunia
-
-- **Harvard**
-  > "He also completed a program at the Harvard Kennedy School at Harvard University for senior managers in government in 1991."
   > 📎 [Wikipedia article: Joaquín Almunia](https://en.wikipedia.org/wiki/Joaquín_Almunia)
   > Wikipedia extract for Joaquín Almunia
 

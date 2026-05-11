@@ -5,7 +5,7 @@ type: organisation
 tags:
   - org
   - think-tank
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Friends of Europe
@@ -17,7 +17,7 @@ generated: 2026-05-08
 - Brussels-based pro-EU think tank. Atlanticist in orientation but primarily EU-focused rather than explicitly US/NATO linked. Multiple commissioners (Juncker, Mogherini, Almunia, Piebalgs, Federica Mogherini) involved post-mandate. Not a US-cooperation NGO.
 
 ## Members
-(24 people)
+(25 people)
 
 - [Andris Piebalgs](../people/andris-piebalgs.md)
 - [Andris Piebalgs](../people/andris-piebalgs.md)
@@ -32,6 +32,7 @@ generated: 2026-05-08
 - [Federica Mogherini](../people/federica-mogherini.md)
 - [Federica Mogherini](../people/federica-mogherini.md)
 - [Federica Mogherini](../people/federica-mogherini.md)
+- [Hans-Gert Pöttering](../people/hans-gert-pottering.md)
 - [Joaquín Almunia](../people/joaquin-almunia.md)
 - [Joaquín Almunia](../people/joaquin-almunia.md)
 - [Joaquín Almunia](../people/joaquin-almunia.md)

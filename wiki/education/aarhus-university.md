@@ -5,20 +5,22 @@ type: education_cluster
 tags:
   - education
   - aarhus-university
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Aarhus University
 
 Commissioners, MEP leaders, and officials who studied at or attended Aarhus University.
 
-## Attendees (3)
+## Attendees (5)
 
 ### Commissioners
+- [Connie Hedegaard](../people/connie-hedegaard.md) — Aarhus University
 - [Poul Nielson](../people/poul-nielson.md) — Aarhus University
 
 ### MEP Leaders
 - [Hanne Dahl](../people/hanne-dahl.md) — Aarhus University
+- [Jens-Peter Bonde](../people/jens-peter-bonde.md) — Aarhus University
 
 ### Other
 - [Ineta Ziemele](../people/ineta-ziemele.md) — Aarhus University

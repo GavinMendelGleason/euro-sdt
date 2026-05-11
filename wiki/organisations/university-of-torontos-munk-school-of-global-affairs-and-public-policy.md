@@ -5,7 +5,7 @@ type: organisation
 tags:
   - org
   - ngo
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # University of Toronto's Munk School of Global Affairs and Public Policy

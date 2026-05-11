@@ -5,7 +5,7 @@ type: organisation
 tags:
   - org
   - government-body
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Delegation for relations with the countries of south-east Europe
@@ -15,6 +15,7 @@ generated: 2026-05-08
 - government-body
 
 ## Members
-(1 people)
+(2 people)
 
 - [Mechtild Rothe](../people/mechtild-rothe.md)
+- [Ryszard Czarnecki](../people/ryszard-czarnecki.md)

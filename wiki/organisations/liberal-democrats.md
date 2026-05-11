@@ -5,7 +5,7 @@ type: organisation
 tags:
   - org
   - political-party
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Liberal Democrats
@@ -15,6 +15,8 @@ generated: 2026-05-08
 - political-party
 
 ## Members
-(1 people)
+(3 people)
 
+- [Bill Newton Dunn](../people/bill-newton-dunn.md)
+- [Catherine Bearder](../people/catherine-bearder.md)
 - [Edward McMillan-Scott](../people/edward-mcmillan-scott.md)

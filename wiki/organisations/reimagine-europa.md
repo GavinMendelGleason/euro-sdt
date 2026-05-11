@@ -3,11 +3,17 @@ id: reimagine-europa
 title: Reimagine Europa
 type: organisation
 tags:
-  - organisation
-generated: 2026-05-07
+  - org
+  - political-party
+generated: 2026-05-11
 ---
 
 # Reimagine Europa
 
 ## Profile
 
+
+## Members
+(1 people)
+
+- [Hans-Gert Pöttering](../people/hans-gert-pottering.md)

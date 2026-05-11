@@ -7,7 +7,7 @@ tags:
   - person
   - commissioner
   - political-elite
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Elzbieta Bienkowska
@@ -60,11 +60,6 @@ generated: 2026-05-08
   > Wikipedia extract for Elzbieta Bienkowska
 
 - **Polish National School Of Public Administration**
-  > "She has also received a post-graduate Diploma from the Polish National School of Public Administration and afterwards a postgraduate studies MBA from SGH Warsaw School of Economics."
-  > 📎 [Wikipedia article: Elzbieta Bienkowska](https://en.wikipedia.org/wiki/Elzbieta_Bienkowska)
-  > Wikipedia extract for Elzbieta Bienkowska
-
-- **Sgh Warsaw School Of Economics**
   > "She has also received a post-graduate Diploma from the Polish National School of Public Administration and afterwards a postgraduate studies MBA from SGH Warsaw School of Economics."
   > 📎 [Wikipedia article: Elzbieta Bienkowska](https://en.wikipedia.org/wiki/Elzbieta_Bienkowska)
   > Wikipedia extract for Elzbieta Bienkowska

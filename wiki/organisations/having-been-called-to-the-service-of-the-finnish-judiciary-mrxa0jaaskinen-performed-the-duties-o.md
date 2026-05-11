@@ -5,7 +5,7 @@ type: organisation
 tags:
   - org
   - corporate
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Having been called to the service of the Finnish judiciary, Mr&#xa0;Jääskinen performed the duties o

@@ -5,7 +5,7 @@ type: organisation
 tags:
   - org
   - think-tank
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # World Economic Forum
@@ -18,7 +18,7 @@ generated: 2026-05-08
 - Founded 1971 by Klaus Schwab. Promotes 'public-private partnership' model of global governance. Not strictly Atlanticist — includes China/Gulf — but its leadership and security agenda is consistently Western-aligned. Von der Leyen: Board of Trustees until 2019. Ribera: Global Advisory Committee on Climate 2013-15.
 
 ## Members
-(9 people)
+(10 people)
 
 - [Claudio Descalzi](../people/claudio-descalzi.md)
 - [José Ignacio Sánchez Galán](../people/jose-ignacio-sanchez-galan.md)
@@ -26,6 +26,7 @@ generated: 2026-05-08
 - [Kristalina Georgieva](../people/kristalina-georgieva.md)
 - [Kristalina Georgieva](../people/kristalina-georgieva.md)
 - [Olli Rehn](../people/olli-rehn.md)
+- [Stavros Lambrinidis](../people/stavros-lambrinidis.md)
 - [Teresa Ribera](../people/teresa-ribera.md)
 - [Teresa Ribera](../people/teresa-ribera.md)
 - [Ursula von der Leyen](../people/ursula-von-der-leyen.md)

@@ -5,7 +5,7 @@ type: organisation
 tags:
   - org
   - government-body
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Delegation to the ACP-EU Joint Parliamentary Assembly
@@ -15,7 +15,8 @@ generated: 2026-05-08
 - government-body
 
 ## Members
-(2 people)
+(3 people)
 
 - [Adam Bielan](../people/adam-bielan.md)
+- [Joseph Daul](../people/joseph-daul.md)
 - [Juan Carlos Girauta](../people/juan-carlos-girauta.md)

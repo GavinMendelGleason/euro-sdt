@@ -5,7 +5,7 @@ type: organisation
 tags:
   - org
   - think-tank
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # European Council on Foreign Relations (ECFR)
@@ -17,13 +17,14 @@ generated: 2026-05-08
 - Pan-European foreign policy think tank founded 2007. Council includes 14 former EU Commissioners, former NATO SGs, foreign ministers. Not NATO-funded but consistently Atlanticist in orientation. Kaja Kallas (Foreign Affairs/High Representative) was a Council member 2016-2024.
 
 ## Members
-(13 people)
+(14 people)
 
 - [Alexander Graf Lambsdorff](../people/alexander-graf-lambsdorff.md)
 - [Cecilia Malmström](../people/cecilia-malmstrom.md)
 - [Cecilia Malmström](../people/cecilia-malmstrom.md)
 - [Connie Hedegaard](../people/connie-hedegaard.md)
 - [Danuta Hübner](../people/danuta-hubner.md)
+- [Gabrielius Landsbergis](../people/gabrielius-landsbergis.md)
 - [Joaquín Almunia](../people/joaquin-almunia.md)
 - [Joaquín Almunia](../people/joaquin-almunia.md)
 - [Kaja Kallas](../people/kaja-kallas.md)

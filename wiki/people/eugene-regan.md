@@ -8,7 +8,7 @@ tags:
   - person
   - cjeu
   - judicial-elite
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Eugene Regan

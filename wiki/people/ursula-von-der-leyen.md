@@ -8,7 +8,7 @@ tags:
   - person
   - commissioner
   - political-elite
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Ursula von der Leyen
@@ -75,11 +75,6 @@ generated: 2026-05-08
   > "She graduated from the London School of Economics in 1978, and in 1987, she acquired her medical licence from Hanover Medical School."
   > 📎 [Wikipedia article: Ursula von der Leyen](https://en.wikipedia.org/wiki/Ursula_von_der_Leyen)
   > LLM re-match (phrase 8)
-
-- **London School Of Economics**
-  > "She graduated from the London School of Economics in 1978"
-  > 📎 [Wikipedia article: Ursula von der Leyen](https://en.wikipedia.org/wiki/Ursula_von_der_Leyen)
-  > Wikipedia extract for Ursula von der Leyen
 
 - **Hanover Medical School**
   > "in 1987, she acquired her medical licence from Hanover Medical School"

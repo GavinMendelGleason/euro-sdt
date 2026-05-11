@@ -5,7 +5,7 @@ type: education_cluster
 tags:
   - education
   - universite-libre-de-bruxelles
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Universite Libre De Bruxelles
@@ -19,7 +19,7 @@ Commissioners, MEP leaders, and officials who studied at or attended Universite 
 - [Hadja Lahbib](../people/hadja-lahbib.md) — Université Libre De Bruxelles
 - [Karel De Gucht](../people/karel-de-gucht.md) — Université Libre De Bruxelles
 - [Pedro Solbes](../people/pedro-solbes.md) — Université Libre De Bruxelles
-- [Philippe Busquin](../people/philippe-busquin.md) — Université Libre De Bruxelles | Université Libre De Bruxelles
+- [Philippe Busquin](../people/philippe-busquin.md) — Université Libre De Bruxelles
 
 ### Directors-General & DDGs
 - [Leopoldo Rubinacci](../people/leopoldo-rubinacci.md) — Ecole De Commerce Solvay, Université Libre De Bruxelles

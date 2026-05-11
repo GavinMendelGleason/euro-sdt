@@ -5,7 +5,7 @@ type: organisation
 tags:
   - org
   - government-body
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Working Group on Information and Communication Policy
@@ -15,6 +15,7 @@ generated: 2026-05-08
 - government-body
 
 ## Members
-(1 people)
+(2 people)
 
 - [Mairead McGuinness](../people/mairead-mcguinness.md)
+- [Sylvie Guillaume](../people/sylvie-guillaume.md)

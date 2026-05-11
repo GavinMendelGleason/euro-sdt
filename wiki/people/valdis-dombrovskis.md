@@ -8,7 +8,7 @@ tags:
   - person
   - commissioner
   - political-elite
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Valdis Dombrovskis
@@ -123,7 +123,7 @@ In 2002, Dombrovskis became a board member of the New Era Party."
   > 📎 [Wikipedia article: Valdis Dombrovskis](https://en.wikipedia.org/wiki/Valdis_Dombrovskis)
   > Source: `sources/wikipedia/valdis-dombrovskis.txt` (6478 chars)
 
-- **committee-on-budgets** — member
+- **Committee on Budgets** — member
   > "Member of the European Parliament, 2004–2009
 As Member of the European Parliament, Dombrovskis was a member of three European Parliament Committees: Committee on Budgets, Delegation to the ACP-EU Join"
   > 📎 [Wikipedia article: Valdis Dombrovskis](https://en.wikipedia.org/wiki/Valdis_Dombrovskis)
@@ -141,7 +141,7 @@ As Member of the European Parliament, Dombrovskis was a member of three European
   > 📎 [Wikipedia article: Valdis Dombrovskis](https://en.wikipedia.org/wiki/Valdis_Dombrovskis)
   > Source: `sources/wikipedia/valdis-dombrovskis.txt` (6478 chars)
 
-- **committee-on-economic-and-monetary-affairs** — substitute member
+- **Committee on Economic and Monetary Affairs** — substitute member
   > "He is also a Substitute at Committee on Economic and Monetary Affairs, Committee on Budgetary Control and delegation to the EU-Kazakhstan, EU-Kyrgyzstan, and EU-Uzbekistan Parliamentary Cooperation Co"
   > 📎 [Wikipedia article: Valdis Dombrovskis](https://en.wikipedia.org/wiki/Valdis_Dombrovskis)
   > Source: `sources/wikipedia/valdis-dombrovskis.txt` (6478 chars)

@@ -8,7 +8,7 @@ tags:
   - person
   - commissioner
   - political-elite
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Martin Bangemann
@@ -95,7 +95,7 @@ generated: 2026-05-08
   > 📎 [Wikipedia article: Martin Bangemann](https://en.wikipedia.org/wiki/Martin_Bangemann)
   > Source: `sources/wikipedia/martin-bangemann.txt` (3030 chars)
 
-- **committee-on-budgets** — vice-chair
+- **Committee on Budgets** — vice-chair
   > "From 1978 to 1979 he was vice-chair of the Committee on Budgets."
   > 📎 [Wikipedia article: Martin Bangemann](https://en.wikipedia.org/wiki/Martin_Bangemann)
   > Source: `sources/wikipedia/martin-bangemann.txt` (3030 chars)

@@ -7,13 +7,24 @@ tags:
   - person
   - mep
   - political-elite
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Juan Ignacio Zoido
 
 
 *← [Bodies](../bodies.md)*
+
+## Educated at
+
+- **University of Almeria**
+  > "He started his law studies in the University of Almeria and graduated in 1979 in the University of Seville ."
+  > 📎 [Wikipedia: Juan Ignacio Zoido](https://en.wikipedia.org/wiki/Juan_Ignacio_Zoido)
+
+- **University of Seville**
+  > "He started his law studies in the University of Almeria and graduated in 1979 in the University of Seville ."
+  > 📎 [Wikipedia: Juan Ignacio Zoido](https://en.wikipedia.org/wiki/Juan_Ignacio_Zoido)
+
 
 ## Organisation affiliations
 
@@ -49,3 +60,5 @@ generated: 2026-05-08
   > "Zoido led the PP's List for the 2015 and 2016 General elections being elected to Congress on both occasions."
   > 📎 [Wikipedia article: Juan Ignacio Zoido](https://en.wikipedia.org/wiki/Juan_Ignacio_Zoido)
 
+
+### Education clusters

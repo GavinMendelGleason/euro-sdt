@@ -5,7 +5,7 @@ type: organisation
 tags:
   - org
   - political-party
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Conservative Party
@@ -15,7 +15,8 @@ generated: 2026-05-08
 - political-party
 
 ## Members
-(2 people)
+(3 people)
 
+- [Bill Newton Dunn](../people/bill-newton-dunn.md)
 - [Chris Patten](../people/chris-patten.md)
 - [Nigel Farage](../people/nigel-farage.md)

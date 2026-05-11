@@ -7,7 +7,7 @@ tags:
   - person
   - mep
   - political-elite
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Juan Carlos Girauta
@@ -17,10 +17,6 @@ generated: 2026-05-08
 
 ## Educated at
 
-- **He graduated in Law by the University of Barcelona and ob**
-  > "&#91; 6 &#93; He graduated in Law by the University of Barcelona and obtained an MBA from ESADE ."
-  > 📎 [Wikipedia article: Juan Carlos Girauta](https://en.wikipedia.org/wiki/Juan_Carlos_Girauta)
-
 - **ESADE**
   > "&#91; 6 &#93; He graduated in Law by the University of Barcelona and obtained an MBA from ESADE ."
   > 📎 [Wikipedia article: Juan Carlos Girauta](https://en.wikipedia.org/wiki/Juan_Carlos_Girauta)
@@ -28,6 +24,10 @@ generated: 2026-05-08
 - **not-specified-phd-program-started-but-not-completed**
   > "He also started, but did not complete, a PhD in Philosophy ."
   > 📎 [Wikipedia article: Juan Carlos Girauta](https://en.wikipedia.org/wiki/Juan_Carlos_Girauta)
+
+- **University of Barcelona**
+  > "He graduated in Law by the University of Barcelona and obtained an MBA from ESADE."
+  > 📎 [Wikipedia: Juan Carlos Girauta](https://en.wikipedia.org/wiki/Juan_Carlos_Girauta)
 
 
 ## Organisation affiliations

@@ -5,7 +5,7 @@ type: education_cluster
 tags:
   - education
   - harvard
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Harvard
@@ -15,11 +15,11 @@ Commissioners, MEP leaders, and officials who studied at or attended Harvard.
 ## Attendees (10)
 
 ### Commissioners
-- [Carlos Moedas](../people/carlos-moedas.md) — Harvard | Harvard
-- [Christos Stylianides](../people/christos-stylianides.md) — Harvard | Harvard
-- [Joaquín Almunia](../people/joaquin-almunia.md) — Harvard | Harvard
+- [Carlos Moedas](../people/carlos-moedas.md) — Harvard
+- [Christos Stylianides](../people/christos-stylianides.md) — Harvard
+- [Joaquín Almunia](../people/joaquin-almunia.md) — Harvard
 - [Margaritis Schinas](../people/margaritis-schinas.md) — Harvard
-- [Markos Kyprianou](../people/markos-kyprianou.md) — Harvard | Harvard
+- [Markos Kyprianou](../people/markos-kyprianou.md) — Harvard
 - [Thierry Breton](../people/thierry-breton.md) — Harvard
 
 ### Directors-General & DDGs

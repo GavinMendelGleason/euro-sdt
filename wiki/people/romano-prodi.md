@@ -8,7 +8,7 @@ tags:
   - person
   - commissioner
   - political-elite
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Romano Prodi
@@ -63,11 +63,6 @@ generated: 2026-05-08
 
 - **Università Cattolica**
   > "After completing his secondary education at the Liceo Ludovico Ariosto in Reggio Emilia, Prodi graduated in law at Milan's Università Cattolica in 1961 with a thesis on the role of protectionism in th"
-  > 📎 [Wikipedia article: Romano Prodi](https://en.wikipedia.org/wiki/Romano_Prodi)
-  > Wikipedia extract for Romano Prodi
-
-- **London School Of Economics**
-  > "He then carried out postgraduate studies at the London School of Economics."
   > 📎 [Wikipedia article: Romano Prodi](https://en.wikipedia.org/wiki/Romano_Prodi)
   > Wikipedia extract for Romano Prodi
 

@@ -5,7 +5,7 @@ type: education_cluster
 tags:
   - education
   - lycee-louis-le-grand
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Lycee Louis Le Grand

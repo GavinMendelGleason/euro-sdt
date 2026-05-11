@@ -8,7 +8,7 @@ tags:
   - person
   - commissioner
   - political-elite
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Iliana Ivanova
@@ -84,7 +84,7 @@ generated: 2026-05-08
   > 📎 [Wikipedia article: Iliana Ivanova](https://en.wikipedia.org/wiki/Iliana_Ivanova)
   > Source: `sources/wikipedia/iliana-ivanova.txt` (2986 chars)
 
-- **committee-on-economic-and-monetary-affairs** — substitute member
+- **Committee on Economic and Monetary Affairs** — substitute member
   > "During that period, she served as vice-chair of the Committee on Budgetary Control, Vice-chair of the Special Committee on the Economic, Financial and Social crisis, member of the Committee on the Int"
   > 📎 [Wikipedia article: Iliana Ivanova](https://en.wikipedia.org/wiki/Iliana_Ivanova)
   > Source: `sources/wikipedia/iliana-ivanova.txt` (2986 chars)

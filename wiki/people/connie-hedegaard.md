@@ -7,7 +7,7 @@ tags:
   - person
   - commissioner
   - political-elite
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Connie Hedegaard
@@ -49,10 +49,9 @@ generated: 2026-05-08
 
 ## Educated at
 
-- **University Of Copenhagen (Implied By "Ma In Literature And History")**
-  > "Connie Hedegaard holds an MA in Literature and History."
+- **Aarhus University**
+  > "Aarhus University, chairman of the Board"
   > 📎 [Wikipedia article: Connie Hedegaard](https://en.wikipedia.org/wiki/Connie_Hedegaard)
-  > Wikipedia extract for Connie Hedegaard
 
 
 ## Organisation affiliations

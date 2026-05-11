@@ -7,7 +7,7 @@ tags:
   - person
   - corporate
   - economic-elite
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Pekka Ala-Pietilä
@@ -21,8 +21,8 @@ generated: 2026-05-08
   > "Born in Asikkala , he holds an honorary Doctor in Technology from Tampere University of Technology and in Science from the University of Helsinki , and is a Knight 1st Class of the Order of the White "
   > 📎 [Wikipedia: Pekka Ala-Pietilä](https://en.wikipedia.org/wiki/Pekka_Ala-Pietilä)
 
-- **Tampere University of Technology and in Science from the University of Helsinki**
-  > "Born in Asikkala , he holds an honorary Doctor in Technology from Tampere University of Technology and in Science from the University of Helsinki , and is a Knight 1st Class of the Order of the White "
+- **University of Helsinki**
+  > "Born in Asikkala, he holds an honorary Doctor in Technology from Tampere University of Technology and in Science from the University of Helsinki, and is a Knight 1st Class of the Order of the White Ro"
   > 📎 [Wikipedia: Pekka Ala-Pietilä](https://en.wikipedia.org/wiki/Pekka_Ala-Pietilä)
 
 

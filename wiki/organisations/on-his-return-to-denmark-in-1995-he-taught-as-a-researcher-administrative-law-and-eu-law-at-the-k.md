@@ -5,7 +5,7 @@ type: organisation
 tags:
   - org
   - org-generic
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # On his return to Denmark in 1995, he taught, as a researcher, administrative law and EU law at the K

@@ -8,7 +8,7 @@ tags:
   - person
   - commissioner
   - political-elite
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Yves-Thibault de Silguy
@@ -69,7 +69,7 @@ generated: 2026-05-08
 
 ## Organisation affiliations
 
-- **club-de-l-horloge** — member
+- **Club de l'Horloge** — member
   > "He was a member of the Club de l'horloge."
   > 📎 [Wikipedia article: Yves-Thibault de Silguy](https://en.wikipedia.org/wiki/Yves-Thibault_de_Silguy)
   > Source: `sources/wikipedia/yves-thibault-de-silguy.txt` (1371 chars)

@@ -8,7 +8,7 @@ tags:
   - person
   - commissioner
   - political-elite
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Chris Patten
@@ -55,11 +55,6 @@ generated: 2026-05-08
   > "He studied history at Balliol College, Oxford, and, after graduating in 1965, he began working for the Conservative Party."
   > 📎 [Wikipedia article: Chris Patten](https://en.wikipedia.org/wiki/Chris_Patten)
   > LLM re-match (phrase 4)
-
-- **University Of Oxford**
-  > "He studied history at Balliol College, Oxford, and, after graduating in 1965, he began working for the Conservative Party."
-  > 📎 [Wikipedia article: Chris Patten](https://en.wikipedia.org/wiki/Chris_Patten)
-  > Wikipedia extract for Chris Patten
 
 - **Our Lady Of The Visitation**
   > "Frank and his mother Joan sent him to a Catholic primary school, Our Lady of the Visitation, in Greenford, and later awarded a scholarship to the independent St Benedict's School in Ealing, west Londo"

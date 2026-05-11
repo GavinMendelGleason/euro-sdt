@@ -5,7 +5,7 @@ type: education_cluster
 tags:
   - education
   - university-of-national-and-world-economy
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # University Of National And World Economy

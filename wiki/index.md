@@ -3,12 +3,12 @@ id: index
 title: Euro-SDT Wiki
 type: index
 tags: [index]
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Euro-SDT Wiki
 
-*4702 verified facts across 1995 entities. Citation-anchored knowledge graph.*
+*5235 verified facts across 2427 entities. Citation-anchored knowledge graph.*
 
 ## Navigation
 

@@ -5,7 +5,7 @@ type: organisation
 tags:
   - org
   - political-party
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # EPP Group
@@ -15,7 +15,8 @@ generated: 2026-05-08
 - political-party
 
 ## Members
-(2 people)
+(3 people)
 
+- [Joseph Daul](../people/joseph-daul.md)
 - [Manfred Weber](../people/manfred-weber.md)
 - [Mariya Gabriel](../people/mariya-gabriel.md)

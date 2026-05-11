@@ -5,7 +5,7 @@ type: organisation
 tags:
   - org
   - government-body
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Committee on Women's Rights and Gender Equality
@@ -15,7 +15,9 @@ generated: 2026-05-08
 - government-body
 
 ## Members
-(2 people)
+(4 people)
 
+- [Catherine Bearder](../people/catherine-bearder.md)
 - [Lena Ek](../people/lena-ek.md)
+- [Sylvie Guillaume](../people/sylvie-guillaume.md)
 - [Élisabeth Morin](../people/elisabeth-morin.md)

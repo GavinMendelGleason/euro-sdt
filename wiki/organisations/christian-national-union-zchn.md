@@ -5,7 +5,7 @@ type: organisation
 tags:
   - org
   - political-party
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Christian National Union (ZChN)
@@ -15,6 +15,7 @@ generated: 2026-05-08
 - political-party
 
 ## Members
-(1 people)
+(2 people)
 
 - [Michał Kamiński](../people/micha-kaminski.md)
+- [Ryszard Czarnecki](../people/ryszard-czarnecki.md)

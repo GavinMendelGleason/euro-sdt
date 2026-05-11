@@ -8,7 +8,7 @@ tags:
   - person
   - commissioner
   - political-elite
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Meglena Kuneva
@@ -66,16 +66,6 @@ Born
 
 - **Sofia University**
   > "She graduated in Law from Sofia University in 1981, and in 1984 she became a Doctor of Law."
-  > 📎 [Wikipedia article: Meglena Kuneva](https://en.wikipedia.org/wiki/Meglena_Kuneva)
-  > Wikipedia extract for Meglena Kuneva
-
-- **Georgetown University**
-  > "In the meantime Kuneva specialized in Foreign Affairs and Environmental Law at Georgetown University and the University of Oxford."
-  > 📎 [Wikipedia article: Meglena Kuneva](https://en.wikipedia.org/wiki/Meglena_Kuneva)
-  > Wikipedia extract for Meglena Kuneva
-
-- **Georgetown University**
-  > "In the meantime Kuneva specialized in Foreign Affairs and Environmental Law at Georgetown University and the University of Oxford."
   > 📎 [Wikipedia article: Meglena Kuneva](https://en.wikipedia.org/wiki/Meglena_Kuneva)
   > Wikipedia extract for Meglena Kuneva
 

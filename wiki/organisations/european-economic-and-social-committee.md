@@ -5,7 +5,7 @@ type: organisation
 tags:
   - org
   - government-body
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # European Economic and Social Committee
@@ -15,7 +15,8 @@ generated: 2026-05-08
 - government-body
 
 ## Members
-(2 people)
+(3 people)
 
 - [Christophe Hansen](../people/christophe-hansen.md)
 - [Graham Watson](../people/graham-watson.md)
+- [Joseph Daul](../people/joseph-daul.md)

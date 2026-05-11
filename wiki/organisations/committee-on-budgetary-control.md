@@ -5,7 +5,7 @@ type: organisation
 tags:
   - org
   - government-body
-generated: 2026-05-08
+generated: 2026-05-11
 ---
 
 # Committee on Budgetary Control
@@ -15,8 +15,9 @@ generated: 2026-05-08
 - government-body
 
 ## Members
-(3 people)
+(4 people)
 
 - [Amelia Andersdotter](../people/amelia-andersdotter.md)
 - [Iliana Ivanova](../people/iliana-ivanova.md)
+- [Silvana Koch-Mehrin](../people/silvana-koch-mehrin.md)
 - [Valdis Dombrovskis](../people/valdis-dombrovskis.md)
