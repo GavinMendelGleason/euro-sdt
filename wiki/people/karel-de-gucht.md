@@ -49,11 +49,6 @@ generated: 2026-05-11
 
 ## Educated at
 
-- **Université Libre De Bruxelles**
-  > "He entered politics at a young age, and became president of the Flemish Liberal Students while studying at the Vrije Universiteit Brussel in Brussels."
-  > 📎 [Wikipedia article: Karel De Gucht](https://en.wikipedia.org/wiki/Karel_De_Gucht)
-  > LLM match (phrase 3)
-
 - **Vrije Universiteit Brussel**
   > "He entered politics at a young age, and became president of the Flemish Liberal Students while studying at the Vrije Universiteit Brussel in Brussels."
   > 📎 [Wikipedia article: Karel De Gucht](https://en.wikipedia.org/wiki/Karel_De_Gucht)

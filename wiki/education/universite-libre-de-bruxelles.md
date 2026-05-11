@@ -12,12 +12,11 @@ generated: 2026-05-11
 
 Commissioners, MEP leaders, and officials who studied at or attended Universite Libre De Bruxelles.
 
-## Attendees (9)
+## Attendees (8)
 
 ### Commissioners
 - [Dimitris Avramopoulos](../people/dimitris-avramopoulos.md) — Université Libre De Bruxelles
 - [Hadja Lahbib](../people/hadja-lahbib.md) — Université Libre De Bruxelles
-- [Karel De Gucht](../people/karel-de-gucht.md) — Université Libre De Bruxelles
 - [Pedro Solbes](../people/pedro-solbes.md) — Université Libre De Bruxelles
 - [Philippe Busquin](../people/philippe-busquin.md) — Université Libre De Bruxelles
 
@@ -27,4 +26,4 @@ Commissioners, MEP leaders, and officials who studied at or attended Universite 
 
 ### Other
 - [Athanasios Rantos](../people/athanasios-rantos.md) — Université Libre De Bruxelles
-- [Eugene Regan](../people/eugene-regan.md) — Université libre de Bruxelles (Free University of Brussels, Belgium)
+- [Eugene Regan](../people/eugene-regan.md) — Université Libre De Bruxelles

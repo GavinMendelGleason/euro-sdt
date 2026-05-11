@@ -19,7 +19,7 @@ generated: 2026-05-11
 
 ## Educated at
 
-- **Université libre de Bruxelles (Free University of Brussels, Belgium)**
+- **Université Libre De Bruxelles**
   > "Name: Eugene Regan
 Role: Judge
 Born: 1952, Kilcoon

@@ -8,7 +8,7 @@ generated: 2026-05-11
 
 # Euro-SDT Wiki
 
-*5235 verified facts across 2427 entities. Citation-anchored knowledge graph.*
+*5233 verified facts across 2427 entities. Citation-anchored knowledge graph.*
 
 ## Navigation
 
