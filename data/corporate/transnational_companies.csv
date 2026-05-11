@@ -1,31 +1,54 @@
 company,sector,headquarters,eu_countries,market_cap_bn,notes
 Airbus,Aerospace/Defence,France/Germany/Spain,3+,100,Pan-European consortium
-Safran,Aerospace/Defence,France,3+,40,Supplier to Airbus/Boeing
 Leonardo,Aerospace/Defence,Italy,3+,15,Cross-border defence contracts
 Rheinmetall,Aerospace/Defence,Germany,3+,30,Pan-European defence supplier
+Safran,Aerospace/Defence,France,3+,40,Supplier to Airbus/Boeing
 Thales,Aerospace/Defence,France,3+,40,Multi-country defence/cyber
-Volkswagen,Automotive,Germany,10+,60,Manufacturing across EU
-Stellantis,Automotive,Netherlands/France/Italy,5+,50,Fiat/Peugeot/Chrysler merger
 BMW,Automotive,Germany,5+,55,Plants in DE/UK/AT
 Mercedes-Benz,Automotive,Germany,5+,60,Multiple EU plants
 Renault,Automotive,France,5+,15,Alliance with Nissan
+Stellantis,Automotive,Netherlands/France/Italy,5+,50,Fiat/Peugeot/Chrysler merger
+Volkswagen,Automotive,Germany,10+,60,Manufacturing across EU
+BBVA,Banking,Spain,5+,45,Spanish/Mexican/EU operations
 BNP Paribas,Banking,France,10+,75,Largest EU bank by assets
-Santander,Banking,Spain,10+,65,Major retail across EU/LATAM
+Crédit Agricole,Banking,France,3+,45,
 Deutsche Bank,Banking,Germany,10+,30,Investment banking across EU
 ING,Banking,Netherlands,5+,55,Retail banking across EU
-BBVA,Banking,Spain,5+,45,Spanish/Mexican/EU operations
+Intesa Sanpaolo,Banking,Italy,1,70,
+Santander,Banking,Spain,10+,65,Major retail across EU/LATAM
 Société Générale,Banking,France,5+,20,Retail + investment across EU
 UniCredit,Banking,Italy,5+,55,Pan-European banking
-Allianz,Insurance,Germany,10+,100,Insurance across all EU
-AXA,Insurance,France,10+,65,Global insurance
-TotalEnergies,Energy,France,10+,140,Oil/gas across EU/Africa
-Eni,Energy,Italy,10+,45,Oil/gas multi-country
+Holcim,Construction,Switzerland,3+,50,
+Saint-Gobain,Construction,France,3+,45,
+Vinci,Construction,France,3+,65,
+Unilever,Consumer Goods,UK,3+,130,
+L'Oréal,Consumer/Luxury,France,10+,220,Global cosmetics
+LVMH,Consumer/Luxury,France,10+,350,70+ luxury brands across EU
 Enel,Energy,Italy,5+,65,Power generation across EU
+Eni,Energy,Italy,10+,45,Oil/gas multi-country
 Iberdrola,Energy,Spain,5+,65,Renewable energy across EU
-SAP,Technology,Germany,10+,200,Enterprise software EU-wide
+TotalEnergies,Energy,France,10+,140,Oil/gas across EU/Africa
+Anheuser-Busch InBev,Food/Beverage,Belgium,3+,110,
+Danone,Food/Beverage,France,3+,40,
+Nestlé,Food/Beverage,Switzerland,3+,250,Largest food company globally
+Schneider Electric,Industrials,France,3+,130,
+Siemens,Industrials,Germany,3+,150,
+AXA,Insurance,France,10+,65,Global insurance
+Allianz,Insurance,Germany,10+,100,Insurance across all EU
+DHL Group,Logistics,Germany,3+,45,Deutsche Post
+Maersk,Logistics,Denmark,3+,30,AP Moller-Maersk
+AstraZeneca,Pharma,UK,3+,200,Anglo-Swedish
+Bayer,Pharma,Germany,10+,30,Pharma/agrochemical across EU
+Novartis,Pharma,Switzerland,3+,200,
+Roche,Pharma,Switzerland,3+,210,
+Sanofi,Pharma,France,10+,120,Multi-country R&D/manufacturing
+Inditex,Retail,Spain,3+,150,Zara parent
 ASML,Technology,Netherlands,5+,300,Chip equipment near-monopoly
 Infineon,Technology,Germany,5+,45,Semiconductors for auto/industry
-Sanofi,Pharma,France,10+,120,Multi-country R&D/manufacturing
-Bayer,Pharma,Germany,10+,30,Pharma/agrochemical across EU
-LVMH,Consumer/Luxury,France,10+,350,70+ luxury brands across EU
-L'Oréal,Consumer/Luxury,France,10+,220,Global cosmetics
+SAP,Technology,Germany,10+,200,Enterprise software EU-wide
+Deutsche Telekom,Telecom,Germany,3+,90,
+Ericsson,Telecom,Sweden,3+,25,
+Nokia,Telecom,Finland,3+,20,
+Orange,Telecom,France,3+,30,
+Telefonica,Telecom,Spain,3+,25,
+Vodafone,Telecom,UK,3+,25,
