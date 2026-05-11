@@ -73,16 +73,18 @@ See [`AGENTS.md`](AGENTS.md) for the full evidence methodology and pipeline docu
 
 | Path | Purpose |
 |---|---|
-| `src/euro_sdt/` | Python package (scrape, extract, render, CLI) |
+| `src/euro_sdt/` | Python package (scrape, extract, render, CLI, config, db) |
 | `euro_sdt.db` | SQLite database — single source of truth (~4,700 facts, ~2,000 entities) |
 | `wiki/` | Obsidian vault — auto-generated entity pages with graph-view colouring |
 | `sources/` | Raw source texts (Wikipedia bios, DG CV PDFs, CJEU bios) |
 | `manifests/` | LLM extraction manifests with phrase-level provenance |
 | `assets/papers/methodology/` | Workshop paper (LaTeX + PDF) |
-| `papers/` | Cited work PDFs + bibliography |
+| `pyproject.toml` | Project metadata, dependencies, and entry points |
+| `.env.example` | Template for `DEEPSEEK_API_KEY` |
 | `AGENTS.md` | Contributor workflow and resource map |
 | `WIKI.md` | Full data inventory — authoritative index of all datasets |
 | `Entities.md` | Organisation research notes |
+| `papers/` | Cited work PDFs + bibliography |
 
 ## Coverage
 
