@@ -1,0 +1,12 @@
+spaCy available — using for sentence tokenisation
+LLM re-matching 388 disputed facts...
+  [50/388] 31 rematched — 399 still disputed
+  [100/388] 62 rematched — 368 still disputed
+  [150/388] 94 rematched — 336 still disputed
+  [200/388] 124 rematched — 306 still disputed
+  [250/388] 132 rematched — 298 still disputed
+  [300/388] 167 rematched — 263 still disputed
+  [350/388] 202 rematched — 228 still disputed
+  [388/388] 208 rematched — 222 still disputed
+
+Rematched: 208/388. Still disputed: 222

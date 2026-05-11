@@ -173,18 +173,18 @@ def extract_wikipedia_articles():
     """Extract plaintext from commissioner Wikipedia articles via Wikidata sitelinks."""
     manifest = []
     # Load all commissioner Wikidata IDs
-    eds = pd.read_csv('commissioner_education_by_country.csv')
+    eds = pd.read_csv('data/analysis/commissioner_education_by_country.csv')
     commissioner_names = eds['Name'].drop_duplicates().tolist()
 
     # Collect all QIDs
     cv_files = [
-        'commission_santer_1995_1999_cv_data.csv',
-        'commission_prodi_1999_2004_cv_data.csv',
-        'commission_barroso_i_2004_2009_cv_data.csv',
-        'commission_barroso_ii_2010_2014_cv_data.csv',
-        'commission_juncker_cv_data.csv',
-        'commission_i_cv_data.csv',
-        'commission_cv_data.csv',
+        'data/cvs/commission_santer_1995_1999_cv_data.csv',
+        'data/cvs/commission_prodi_1999_2004_cv_data.csv',
+        'data/cvs/commission_barroso_i_2004_2009_cv_data.csv',
+        'data/cvs/commission_barroso_ii_2010_2014_cv_data.csv',
+        'data/cvs/commission_juncker_cv_data.csv',
+        'data/cvs/commission_i_cv_data.csv',
+        'data/cvs/commission_cv_data.csv',
     ]
     qid_map = {}
     for f in cv_files:

@@ -1,0 +1,62 @@
+{
+  "4f338bc7abdc559e21b00a717cabecc8c45a9b9be0fee888ca4781cd8e21a41e": {
+    "status": "unsubstantiated",
+    "confidence": 1,
+    "reason": "The source document contains only bibliographic metadata and JSTOR boilerplate text, with no substantive content about elite networks or the study of key institutional positions.",
+    "phrase": "[-1]"
+  },
+  "93a49ec6dd8dd05af1ce33f7f3866776c7891c0a5e961073ee9dfd8830a89d75": {
+    "status": "verified",
+    "confidence": 5,
+    "reason": "The source explicitly states that \"until recently, much empirical scholarship of political institutions has typically relied upon observational data for analysis\" and that \"this tradition has emphasized that theoretical implications are derived from precise models of institutions and individual behavior,\" which directly matches the claim about reliance on manual methods with limited scalability.",
+    "phrase": "[57]"
+  },
+  "9e4f29441e06f721cc3f77590fed35dbaa000973e5a9588ad965d4760ba957d8": {
+    "status": "unsubstantiated",
+    "confidence": 1,
+    "reason": "The source document contains no mention of \"elite networks\" or \"detailed examination of who occupies key institutional positions\" as a historical method of study; it discusses the power elite as a concept but does not describe the historical methodology of studying elite networks.",
+    "phrase": "[-1]"
+  },
+  "b359c16beb6d29fa0cef384ad776fd8da8fac4ea1a0756fe684dbb4a122aa51f": {
+    "status": "verified",
+    "confidence": 5,
+    "reason": "The source explicitly states that political scientists used methods like speeches, diaries, autobiographies, roll-call votes, cognitive maps, archival methods, biographical approaches, and ethnographic approaches to study elites, which directly matches the claim's description of manual methods with limited scalability.",
+    "phrase": "[54]"
+  },
+  "dcf8e8cd5daaabebe700ecc7837ded8245a8bf44879fa38dc11c95dd85da3e83": {
+    "status": "verified",
+    "confidence": 5,
+    "reason": "The source explicitly states that deep learning based generation is prone to hallucinate unintended text, which directly matches the claim that LLMs generate plausible-sounding but factually incorrect claims.",
+    "phrase": "[2]"
+  },
+  "3df5a258381af6f4b3134c2f4e301077ed4006f42f88e374993d626080a75a5c": {
+    "status": "verified",
+    "confidence": 5,
+    "reason": "The source explicitly states that the work enables long-context LLMs to generate responses with fine-grained sentence-level citations, and that the trained models achieve state-of-the-art citation quality, surpassing GPT-4o, which directly supports the claim that LLMs can reliably anchor claims to specific source sentences when constrained to do so.",
+    "phrase": "[1]"
+  },
+  "fd337be670d9a7b59c416f1e082622b58ad393a0aec4d01f0ca489fd91e1b3ae": {
+    "status": "verified",
+    "confidence": 5,
+    "reason": "The source explicitly states that a decoding strategy like top-k sampling, which adds randomness by sampling instead of choosing the most probable token, increases the chance of hallucinated content, directly supporting the claim that lack of grounding in external facts leads to plausible-sounding but incorrect statements.",
+    "phrase": "[210]"
+  },
+  "001db3b1d8b5658cbf77d4e834a1b40e3813a0a04d9f1160bc5cba66080d6ab2": {
+    "status": "verified",
+    "confidence": 5,
+    "reason": "The source explicitly states that if an LLM has knowledge of a concept, sampled responses are similar and contain consistent facts, while for hallucinated facts, stochastically sampled responses are likely to diverge and contradict one another, which exactly matches the claim.",
+    "phrase": "[6]"
+  },
+  "5d66bf8c98eb214d5fa46e50bdd2d39d7c3519cd6d3749e350ec18be3d44d3bb": {
+    "status": "verified",
+    "confidence": 5,
+    "reason": "The source explicitly states \"verification improves faster than generation quality in this context\" and \"models improve at self-evaluation...as model size and capabilities increase,\" directly matching the claim that LLMs are substantially better at evaluating their own outputs than at generating correct ones.",
+    "phrase": "[41]"
+  },
+  "ddb60ec97ae4c52504e3807a3c6185c035d5a5a6095867275562347d8d4a2289": {
+    "status": "verified",
+    "confidence": 5,
+    "reason": "The source explicitly states that training with the LongCite-45k dataset enabled the models to generate accurate responses and fine-grained sentence-level citations in a single output, directly matching the claim.",
+    "phrase": "[4]"
+  }
+}

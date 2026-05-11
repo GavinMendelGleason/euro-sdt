@@ -93,5 +93,5 @@ df = pd.DataFrame(meps, columns=['Name', 'Country', 'Constituency', 'National_Pa
 df = df.drop_duplicates(subset=['Name', 'Country'])
 print(f'After dedup: {len(df)}')
 print(df['EP_Group'].value_counts())
-df.to_csv('meps_2024_2029.csv', index=False)
+df.to_csv('data/meps_2024_2029.csv', index=False)
 print('Saved to meps_2024_2029.csv')

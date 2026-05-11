@@ -1,0 +1,4 @@
+
+Verification complete: 0 supported, 0 unsupported, 0 ambiguous, 0 errors
+
+Saved verification_report.csv (0 facts checked)

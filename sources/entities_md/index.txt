@@ -1,0 +1,19 @@
+## Index
+
+| Organisation | Type | Atlanticist | NATO-adj | US-linked |
+|---|---|:---:|:---:|:---:|
+| [Friends of Europe](#friends-of-europe) | Think tank | ✓ | | |
+| [Atlantic Council](#atlantic-council) | Think tank | ✓ | ✓ | ✓ |
+| [Munich Security Conference](#munich-security-conference) | Forum | ✓ | ✓ | ✓ |
+| [World Economic Forum](#world-economic-forum) | Forum | ✓ | | ✓ |
+| [ECFR](#ecfr) | Think tank | ✓* | | | *(Atlanticist by structure; strategically autonomist editorially)* |
+| [GLOBSEC](#globsec) | Think tank/conf | ✓ | ✓ | ✓ |
+| [European Leadership Network](#european-leadership-network) | Think tank | ✓ | ✓ | |
+| [IRI / NED](#iri--ned) | NGO | ✓ | | ✓ |
+| [RAND Europe](#rand-europe) | Think tank | ✓ | ✓ | ✓ |
+| [Elcano Royal Institute](#elcano-royal-institute) | Think tank | — | | |
+| [GLOBSEC](#globsec) | Think tank / conference | ✓ | ✓ | ✓ |
+| [European Leadership Network](#european-leadership-network) | Think tank / advocacy | ✓ | ✓ | |
+| [Wilfried Martens Centre](#wilfried-martens-centre) | Think tank | | | |
+
+---

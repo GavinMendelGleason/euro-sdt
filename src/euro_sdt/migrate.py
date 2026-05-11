@@ -98,7 +98,7 @@ def migrate():
          'commission_cv_pdf',
          'https://commission.europa.eu/persons_en',
          '2026-04-30',
-         'commission_dg_cvs.csv',
+         'data/officials/commission_dg_cvs.csv',
          'CV PDFs linked from individual person pages; extracted with pypdf'),
 
         ('cit-cijeweb',
@@ -113,14 +113,14 @@ def migrate():
          "Cross-commission Atlanticist comparison table (derived from multiple sources)",
          'dataset',
          None, None,
-         'atlanticist_comparison.csv',
+         'data/analysis/atlanticist_comparison.csv',
          'Aggregation of declaration, Wikidata, and Wikipedia keyword extraction'),
 
         ('cit-orgs-classified',
          "Organisations classified dataset (manually researched)",
          'dataset',
          None, None,
-         'organisations_classified.csv',
+         'data/affiliations/organisations_classified.csv',
          '34 orgs researched from websites, EU Transparency Register, annual reports'),
 
         ('cit-revolving-door',
@@ -129,7 +129,7 @@ def migrate():
          'https://commission.europa.eu/about/service-standards-and-principles/eth'
          'ics-and-good-administration/commissioners-and-ethics/former-european-commissioners-authorised-occupations_en',
          '2026-04-29',
-         'commission_revolving_door.csv',
+         'data/affiliations/commission_revolving_door.csv',
          'Scraped from EC ethics page; 194 approved post-mandate decisions'),
     ]
 
@@ -185,13 +185,13 @@ def migrate():
     }
 
     commission_files = [
-        ('commission-santer',  'commission_santer_1995_1999.csv'),
-        ('commission-prodi',   'commission_prodi_1999_2004.csv'),
-        ('commission-barroso-i','commission_barroso_i_2004_2009.csv'),
-        ('commission-barroso-ii','commission_barroso_ii_2010_2014.csv'),
-        ('commission-juncker', 'commission_juncker_2014_2019.csv'),
-        ('commission-vdl-i',   'commission_i_2019_2024.csv'),
-        ('commission-vdl-ii',  'commission_2024_2029.csv'),
+        ('commission-santer',  'data/commissions/commission_santer_1995_1999.csv'),
+        ('commission-prodi',   'data/commissions/commission_prodi_1999_2004.csv'),
+        ('commission-barroso-i','data/commissions/commission_barroso_i_2004_2009.csv'),
+        ('commission-barroso-ii','data/commissions/commission_barroso_ii_2010_2014.csv'),
+        ('commission-juncker', 'data/commissions/commission_juncker_2014_2019.csv'),
+        ('commission-vdl-i',   'data/commissions/commission_i_2019_2024.csv'),
+        ('commission-vdl-ii',  'data/commissions/commission_2024_2029.csv'),
     ]
 
     for comm_id, csv_path in commission_files:
@@ -229,7 +229,7 @@ def migrate():
     # Map of canonical short-name → (long-name, full row) to avoid duplicate entities
     org_entities = {}
 
-    orgs = pd.read_csv('organisations_classified.csv')
+    orgs = pd.read_csv('data/affiliations/organisations_classified.csv')
     for _, row in orgs.iterrows():
         name = row['organisation'].strip()
         short_name = re.sub(r'\s*\([^)]*\).*', '', name).strip()
@@ -264,7 +264,7 @@ def migrate():
 
     # ── 5. Facts — Atlanticist affiliations from comparison table ────────────
 
-    atl = pd.read_csv('atlanticist_comparison.csv')
+    atl = pd.read_csv('data/analysis/atlanticist_comparison.csv')
     body = atl[atl['Organisation'] != 'TOTAL (unique commissioners)']
 
     col_map = {
@@ -277,7 +277,7 @@ def migrate():
         'VdL_II_202429':  ('commission-vdl-ii', 'VdL_II_202429_commissioners'),
     }
 
-    # Manual mapping for abbreviation cases in atlanticist_comparison.csv
+    # Manual mapping for abbreviation cases in data/analysis/atlanticist_comparison.csv
     ORG_ID_FIX = {
         'iri':                          'international-republican-institute',
         'iri-ned':                      'international-republican-institute',
@@ -338,7 +338,7 @@ def migrate():
 
     # ── 7. Facts — Senior officials (DG/DDG) ────────────────────────────────
 
-    dg = pd.read_csv('commission_senior_officials.csv')
+    dg = pd.read_csv('data/officials/commission_senior_officials.csv')
     dg = dg[~dg['role'].isin({'Commissioner','Executive Vice-President','Vice-President','President','President of the'})]
 
     for _, row in dg.iterrows():
@@ -357,7 +357,7 @@ def migrate():
 
     # ── 7b. Facts — DG/DDG Education (from CV PDFs) ─────────────────────────
 
-    dg_cvs = pd.read_csv('commission_dg_cvs.csv')
+    dg_cvs = pd.read_csv('data/officials/commission_dg_cvs.csv')
     dg_cvs = dg_cvs[dg_cvs['cv_text'].fillna('') != '']
 
     # Education patterns for CV text
@@ -451,7 +451,7 @@ def migrate():
 
     # ── 8. Facts — Revolving door ───────────────────────────────────────────
 
-    rd = pd.read_csv('commission_revolving_door.csv')
+    rd = pd.read_csv('data/affiliations/commission_revolving_door.csv')
     for _, row in rd.iterrows():
         name = str(row['name']).strip()
         if not name or name == 'nan': continue
@@ -471,7 +471,7 @@ def migrate():
 
     # ── 9. Facts — CJEU ─────────────────────────────────────────────────────
 
-    cjeu = pd.read_csv('cjeu_members_list.csv')
+    cjeu = pd.read_csv('data/cjeu/cjeu_members_list.csv')
     for _, row in cjeu.iterrows():
         name = row['Name'].strip()
         eid = slug(name)

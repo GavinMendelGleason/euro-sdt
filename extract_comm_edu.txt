@@ -1,0 +1,9 @@
+spaCy available — using for sentence tokenisation
+  [Adina-Ioana Vălean] (none explicitly named): "Vălean has a master's degree in European Integration and Sec..."
+  [Androulla Vassiliou] Middle Temple (Inn of Court): "Between 1961 and 1964, she studied law at Middle Temple (Inn..."
+  [Androulla Vassiliou] London Institute of World Affairs: "Between 1961 and 1964, she studied law at Middle Temple (Inn..."
+  [Costas Kadis] University of Athens: "Kadis graduated from the University of Athens with a BSc in ..."
+  [Costas Kadis] University of Athens: "He received his PhD from the same university in 1995...."
+  [Monika Wulf-Mathies] University of Bonn: "University of Bonn, Deputy Chairwoman of the University Coun..."
+
+Final: 116/150 (77%) with education

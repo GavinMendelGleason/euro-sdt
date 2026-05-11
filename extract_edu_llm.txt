@@ -1,0 +1,14 @@
+spaCy available — using for sentence tokenisation
+Extracting education from 80 DG/DDG CVs using LLM...
+  [1/80] Maja Bakran Marcich: 2 education facts total
+  [11/80] Maive Rute: 31 education facts total
+  [21/80] Maarten Verwey: 53 education facts total
+  [31/80] Maja Bakran Marcich: 79 education facts total
+  [41/80] Mario Nava: 108 education facts total
+  [51/80] Renate Nikolay: 136 education facts total
+  [61/80] Johannes Luchner: 167 education facts total
+  [71/80] Irena Moozová: 195 education facts total
+  [80/80] Herald Ruijters: 222 education facts total
+
+LLM extraction complete. 222 new education facts
+DG/DDG education coverage: 75/85 (88%)

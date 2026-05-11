@@ -1,0 +1,26 @@
+spaCy available — using for sentence tokenisation
+Total facts to extract source quotes for: 1154
+
+  disputed: 302
+  batch (phrase_index=0): 852
+
+  [1/1154] rematched — Virginijus Sinkevičius → held_portfolio: Environment, Oceans and Fisheries (phrase 79)
+  [10/1154] rematched — Vladimír Špidla → served_on_commission: Barroso I (phrase 77)
+  [20/1154] rematched — Erkki Liikanen → nominated_by: FIN (phrase 70)
+  [30/1154] rematched — Algirdas Semeta → served_on_commission: Barroso II (phrase 59)
+  [40/1154] rematched — Cathy Ashton → served_on_commission: Barroso I (phrase 57)
+  [50/1154] rematched — Androulla Vassiliou → held_portfolio: Education, Culture, Multilingualism and Youth (phrase 51)
+  [60/1154] rematched — Markos Kyprianou → held_portfolio: Health and Consumer Protection (phrase 42)
+  [70/1154] rematched — Margrethe Vestager → nominated_by: DNK (phrase 39)
+  [80/1154] rematched — Siim Kallas → served_on_commission: Barroso I (phrase 38)
+  [90/1154] rematched — Jacques Barrot → served_on_commission: Barroso I (phrase 34)
+  [100/1154] rematched — Carlos Moedas → served_on_commission: Juncker Commission (phrase 27)
+  [110/1154] rematched — László Kovács → nominated_by: HUN (phrase 26)
+  [120/1154] rematched — Corina Crețu → from_country: Romania (phrase 25)
+  [130/1154] rematched — Roxana Mînzatu → nominated_by: ROU (phrase 23)
+  [140/1154] rematched — Sir Leon Brittan → served_on_commission: Santer Commission (phrase 14)
+  [150/1154] rematched — Alexandra Jour-Schroeder → studied_field: Law (phrase 6)
+  [160/1154] rematched — Cecilia Malmström → member_of: ecfr (phrase 3)
+  [170/1154] rematched — Neven Mimica → from_country: Croatia (phrase 1)
+  [180/1154] rematched — José Manuel Barroso → nominated_by: PRT (phrase 1)
+  [190/1154] rematched — Marianne Thyssen → post_mandate_occupation: University of Leuven (phrase 1)

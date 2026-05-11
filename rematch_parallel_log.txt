@@ -1,0 +1,5 @@
+spaCy available — using for sentence tokenisation
+Processing 880 facts with 4 workers...
+  [250/880] rematched — 628 phrase quotes, 1352 confirmed
+
+Done. 628/1491 phrase quotes (42%), 1352 confirmed.

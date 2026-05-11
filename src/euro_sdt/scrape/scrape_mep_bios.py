@@ -7,7 +7,7 @@ import csv, os, re, time, urllib.request, urllib.parse
 
 HEADERS = {'User-Agent': 'euro-sdt/1.0 (research project; contact@example.com)'}
 WIKI_DIR = 'sources/wikipedia'
-MEP_LIST = 'mep_lists/sdt_meps_with_wiki.csv'
+MEP_LIST = 'data/mep_lists/sdt_meps_with_wiki.csv'
 
 
 def extract_text(html):

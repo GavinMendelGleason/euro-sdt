@@ -1,0 +1,159 @@
+spaCy available — using for sentence tokenisation
+Extracting education for 68 DGs/DDGs without data...
+
+  [Agnieszka KAŹMIERCZAK] Institute of Internal Auditors
+  [Agnieszka KAŹMIERCZAK] Institute of Internal Auditors
+  [Agnieszka KAŹMIERCZAK] University of Warsaw, Poland
+  [Agnieszka KAŹMIERCZAK] National School of Public Administration, Warsaw, Poland
+  [Agnieszka KAŹMIERCZAK] University of Warsaw, Poland
+  [Alexandra Jour-Schroeder] Universities of Münster (Germany)
+  [Alexandra Jour-Schroeder] Geneva (Switzerland)
+  [Alexandra Jour-Schroeder] University of Münster – Faculty of Law
+  [Ana Gallego Torres] University of Granada
+  [Andriana Sukova] Civil Service College, Sunningdale, UK
+  [Andriana Sukova] Civil Service College, Sunningdale, UK
+  [Andriana Sukova] FAO Rome
+  [Andriana Sukova] University of Obihiro
+  [Andriana Sukova] Wye College, Wye, Kent, UK
+  [Andriana Sukova] Centre for European Studies – Sofia, Bulgaria
+  [Andriana Sukova] Institute of agricultural economics – Sofia, Bulgaria
+  [Andriana Sukova] University of National and World Economy – Sofia, Bulgaria
+  [Anthony Whelan] Law School, Trinity College – Dublin, Ireland
+  [Anthony Whelan] Sidney Sussex College, Cambridge
+  [Anthony Whelan] Hon. Society of King's Inns, Dublin
+  [Anthony Whelan] Trinity College – Dublin, Ireland
+  [Bernard Magenhann] PRICEWATERHOUSECOOPERS
+  [Charlina Vitcheva] Limerick University
+  [Charlina Vitcheva] University of National and World Economy
+  [Christian Roques] Community of European Management Schools
+  [Christian Roques] Ecole HEC School of Management
+  [Christian Roques] Institut d'Etudes Politiques (ScPO)
+  [Christian Roques] Thiers Hypokhagne
+  [Christos Ellinides] Engineering Council U.K.
+  [Christos Ellinides] The City University
+  [Christos Ellinides] Nova University
+  [Claire Bury] University of London, King's College
+  [Claire Bury] Council of Legal Education
+  [Colin Scicluna] European Commission – Brussels, Belgium
+  [Colin Scicluna] UN Institute for Training and Research/International Peace Academy – Oslo, Norwa
+  [Colin Scicluna] Centre d’Études des Relations Internationales et Stratégiques, Université Libre 
+  [Colin Scicluna] Faculty of Laws – Tal-Qroqq, Malta
+  [Colin Scicluna] Faculty of Laws – Tal-Qroqq, Malta
+  [Despina Spanou] University of Cambridge
+  [Despina Spanou] University of Exeter
+  [Despina Spanou] Ethniko & Koapodistriako
+  [Ditte Juul Jørgensen] College of Europe
+  [Ditte Juul Jørgensen] University of Copenhagen
+  [Elisabeth Werner] College of Europe, Bruges/Belgium
+  [Elisabeth Werner] University of Vienna/Austria
+  [Florika Fink-Hooijer] Freie Universität - Berlin
+  [Florika Fink-Hooijer] Vrije Universiteit Brussels
+  [Florika Fink-Hooijer] Rheinische Friedrich Wilhelms Universität Bonn
+  [Florika Fink-Hooijer] Université de Lausanne
+  [Genoveva Ruiz Calavera] Solvay Business School / ULB – Brussels, Belgium
+  [Genoveva Ruiz Calavera] University Complutense of Madrid, Spain
+  [Genoveva Ruiz Calavera] Marlborough School, Los Angeles, US
+  [Gerassimos Thomas] Université Libre de Bruxelles
+  [Gerassimos Thomas] City University Business School
+  [Gerassimos Thomas] Athens School of Economics and Business
+  [Gerassimos Thomas] ESSEC Business School
+  [Gert Jan Koopman] University of Amsterdam
+  [Gert Jan Koopman] University of Utrecht
+  [Herald Ruijters] Katholieke Universiteit - Leuven, Belgium
+  [Herald Ruijters] Centre européen Universitaire – Nancy, France
+  [Herald Ruijters] Universiteit van Amsterdam – Amsterdam, the Netherlands
+  [Herald Ruijters] Katholieke Universiteit Nijmegen – Nijmegen, the Netherlands
+  [Hubert Gambs] University of Innsbruck
+  [Hubert Gambs] Universities of Paris II Panthéon-Assas
+  [Hubert Gambs] Alcalá de Henares
+  [Hugo Sobral] Universidade do Minho
+  [Ilkka Salmi] Vrije Universiteit Brussel
+  [Ilkka Salmi] University of Turku
+  [Ilze Juhansone] European Institute of Public Administration (EIPA)
+  [Ilze Juhansone] University of Latvia
+  [Ilze Juhansone] Danish School of Public Administration
+  [Ilze Juhansone] University of Latvia
+  [Irena Moozová] Diplomatic Academy of the Spanish Foreign Ministry, Madrid
+  [Irena Moozová] Charles University, Faculty of Law, Prague
+  [Irena Moozová] Oxford University
+  [Irena Moozová] Central European University, Prague
+  [Johannes Luchner] Penn State University
+  [John Watson] College of Europe
+  [John Watson] University of Oxford, Magdalen College
+  [John Watson] University of Cambridge, Pembroke College
+  [Kerstin Jorna] Hamburg
+  [Kerstin Jorna] College of Bruges
+  [Kerstin Jorna] Bonn
+  [Kerstin Jorna] Hamburg
+  [Kerstin Jorna] Hamburg Law Faculty
+  [Kestutis Sadauskas] Institute of Political Science and International Relations, Vilnius University
+  [Koen Doens] Antwerp University – UIA – Antwerp, Belgium
+  [Koen Doens] Katholieke Universiteit – KUL – Leuven, Belgium
+  [Koen Doens] Antwerp University - UFSIA – Antwerp, Belgium
+  [Leopoldo Rubinacci] Ecole de commerce Solvay, Université Libre de Bruxelles
+  [Linsey McCallum] College of Europe, Bruges, Belgium
+  [Linsey McCallum] University of Glasgow, Law School, United Kingdom
+  [Linsey McCallum] University of Glasgow, Law School, United Kingdom
+  [Maarten Verwey] University of London (SOAS/CEFIMS)
+  [Maarten Verwey] Rijksuniversiteit Groningen
+  [Maciej Popowski] University of Wroclaw
+  [Maciej Popowski] Polish Institute for International Relations (PISM)
+  [Magda Kopczyńska] Warsaw University
+  [Magda Kopczyńska] Jagiellonian University
+  [Maive Rute] Harvard University
+  [Maive Rute] CERIS, Brussels
+  [Maive Rute] Estonian Banking Union
+  [Maive Rute] Danube University Krems, Austria
+  [Maive Rute] Estonian University of Life Sciences
+  [Maja Bakran Marcich] Faculty of Medicine, University of Zagreb
+  [Maja Bakran Marcich] Faculty of Natural Sciences, University of Zagreb
+  [Marc Lemaître] Université Libre de Bruxelles (ULB)
+  [Marc Lemaître] College of Europe (Bruges)
+  [Maria Martin-Prat De Abreu] Institute of European Studies of the Free University of Brussels (ULB)
+  [Maria Martin-Prat De Abreu] European Institute of the University of Amsterdam
+  [Maria Martin-Prat De Abreu] Facultad de Derecho, Universidad de Sevilla
+  [Mariana Kotzeva] University of National and World Economy, Sofia, Bulgaria
+  [Mariana Kotzeva] University of National and World Economy, Sofia, Bulgaria
+  [Mario Nava] Harvard Business School
+  [Mario Nava] London School of Economics
+  [Mario Nava] Université Catholique de Louvain
+  [Mario Nava] Università Commerciale Luigi Bocconi, Milan
+  [Mario Nava] Liceo Classico Tito Livio
+  [Marjeta Jager] University of Ljubljana - Faculty of Law
+  [Martin Seychell] University of Malta
+  [Mechthild Wörsdörfer] Free University of Brussels, Institut des Etudes Européennes
+  [Mechthild Wörsdörfer] University of Montpellier
+  [Myriam Ferran] John F. Kennedy School of Government – Harvard University
+  [Myriam Ferran] Institut d’Etudes Européennes – Université Libre de Bruxelles
+  [Myriam Ferran] École du Génie Rural des Eaux et Forêts (ENGREF)
+  [Myriam Ferran] Institut National Agronomique Paris-Grignon (INAPG)
+  [Nils Behrndt] University of Kiel
+  [Nils Behrndt] University of Kingston-upon-Hull
+  [Normunds Popens] University of Latvia
+  [Normunds Popens] University of Latvia
+  [Normunds Popens] Riga Technical University
+  [Patrick Anthony Child] Trinity Hall, Cambridge University, UK
+  [Philippe Van Damme] Vlerick Business School
+  [Philippe Van Damme] University of Ghent
+  [Pia Ahrenkilde Hansen] COPENHAGEN BUSINESS SCHOOL
+  [Pia Ahrenkilde Hansen] INSTITUT D’ETUDES POLITIQUES DE PARIS
+  [Renate Nikolay] High Court, Berlin, Germany
+  [Renate Nikolay] American University, Washington College of Law, Washington D.C, United States
+  [Renate Nikolay] Free University, Berlin, Germany
+  [Renate Nikolay] University of Grenoble, France
+  [Renate Nikolay] Humboldt University Berlin, Germany
+  [Roberto Viola] University of Rome la Sapienza
+  [Roberto Viola] Universita S. Orsola, Naples
+  [Roberto Viola] University of Rome
+  [Sandra Gallina] Scuola Superiore di Lingue Moderne per Interpreti e Traduttori – Università di T
+  [Stefan Olsson] University of Lund
+  [Stefan Olsson] Stockholm Business School
+  [Stephen Quest] University of York
+  [Themis Christophidou] Harvard Business School
+  [Themis Christophidou] Athens National Polytechnic Metsovio
+  [Thomas Skordas] Institut National Polytechnique de Grenoble (INPG), Grenoble, France
+  [Thomas Skordas] Institut National Polytechnique de Grenoble (INPG), Grenoble, France
+  [Thomas Skordas] Aristotle University of Thessaloniki, Technology School, Department of Electrica
+  [Timo Pesonen] University of Tampere
+
+DG/DDG education: 74/85 (87%)

@@ -89,7 +89,7 @@ def fetch_previous_positions(person_ids):
 
 # ---- Main ----
 print("Step 1: Loading commissioners from CSV and looking up Wikidata IDs...")
-df_commission = pd.read_csv('commission_barroso_i_2004_2009.csv')
+df_commission = pd.read_csv('data/commissions/commission_barroso_i_2004_2009.csv')
 names = df_commission['Name'].tolist()
 
 person_data = {}

@@ -1,0 +1,50 @@
+{
+  "d5eec32d9dd181a5495dab3f8e39584d749f3120efb8823b49757acd76a6767a": {
+    "status": "unsubstantiated",
+    "confidence": 1,
+    "phrase": "[-1]",
+    "reason": "The source document contains no mention of \"elite networks\" or \"detailed examination of who occupies key institutional positions\" as a historical method of study; it discusses the power elite as a concept but does not describe the historical methodology of studying elite networks."
+  },
+  "148a70836c0523bf18f18d8ccd3e3378b3b6c4636ef89cd5c81f62f4e8b3db03": {
+    "status": "verified",
+    "confidence": 5,
+    "phrase": "[54]",
+    "reason": "The source explicitly states that political scientists used methods like speeches, diaries, autobiographies, roll-call votes, cognitive maps, archival methods, biographical approaches, and ethnographic approaches to study elites, which directly matches the claim's description of manual methods with limited scalability."
+  },
+  "43591cb235a3d3bb57c5a5b5579719e7afd8004b93761f430a1caf22608c491d": {
+    "status": "verified",
+    "confidence": 5,
+    "phrase": "[2]",
+    "reason": "The source explicitly states that deep learning based generation is prone to hallucinate unintended text, which directly matches the claim that LLMs generate plausible-sounding but factually incorrect claims."
+  },
+  "b64f806ccff6bd2667c5c723c56e8f8c560eb7f4ad0f1c8dab26b39a7cf87137": {
+    "status": "verified",
+    "confidence": 5,
+    "phrase": "[1]",
+    "reason": "The source explicitly states that the work enables long-context LLMs to generate responses with fine-grained sentence-level citations, and that the trained models achieve state-of-the-art citation quality, surpassing GPT-4o, which directly supports the claim that LLMs can reliably anchor claims to specific source sentences when constrained to do so."
+  },
+  "eb7edcfbf9961b7cc5bd129cf32b7c352bd0d694858b3b0036bdb6cf4c2771c0": {
+    "status": "verified",
+    "confidence": 5,
+    "phrase": "[210]",
+    "reason": "The source explicitly states that a decoding strategy like top-k sampling, which adds randomness by sampling instead of choosing the most probable token, increases the chance of hallucinated content, directly supporting the claim that lack of grounding in external facts leads to plausible-sounding but incorrect statements."
+  },
+  "06fd32dc951412ccca6d205c788989c2969a1eab2d4369cc24c5e09201731321": {
+    "status": "verified",
+    "confidence": 5,
+    "phrase": "[6]",
+    "reason": "The source explicitly states that if an LLM has knowledge of a concept, sampled responses are similar and contain consistent facts, while for hallucinated facts, stochastically sampled responses are likely to diverge and contradict one another, which exactly matches the claim."
+  },
+  "b9dc3e0bd89f3ee5bafb3bf4f28b5d6fb7753c18d90bff3c926392aa35322d03": {
+    "status": "verified",
+    "confidence": 5,
+    "phrase": "[41]",
+    "reason": "The source explicitly states \"verification improves faster than generation quality in this context\" and \"models improve at self-evaluation...as model size and capabilities increase,\" directly matching the claim that LLMs are substantially better at evaluating their own outputs than at generating correct ones."
+  },
+  "5d92ffd08236b73f666add973fd292e5a8961b4910aaf8f55fcf01038aa161fd": {
+    "status": "verified",
+    "confidence": 5,
+    "phrase": "[4]",
+    "reason": "The source explicitly states that training with the LongCite-45k dataset enabled the models to generate accurate responses and fine-grained sentence-level citations in a single output, directly matching the claim."
+  }
+}

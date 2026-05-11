@@ -61,21 +61,25 @@ COMMISSION_WIKI_PAGES = {
 
 CJEU_URL = "https://www.curia.europa.eu/jcms/jcms/Jo2_7026/en/"
 
+# ── Data directories ─────────────────────────────────────────────────────────
+
+DATA_DIR = str(PROJECT_ROOT / "data")
+
 # ── Input CSV/JSON files ────────────────────────────────────────────────────
 
-MEP_LIST_CSV = str(PROJECT_ROOT / "meps_2024_2029.csv")
-MEP_CV_CSV = str(PROJECT_ROOT / "mep_cv_data.csv")
-COMMISSION_CV_CSV = str(PROJECT_ROOT / "commission_cv_data.csv")
-COMMISSION_2024_2029_CSV = str(PROJECT_ROOT / "commission_2024_2029.csv")
-AFFILIATIONS_CSV = str(PROJECT_ROOT / "commission_affiliations.csv")
-ORG_CLASSIFIED_CSV = str(PROJECT_ROOT / "organisations_classified.csv")
-DG_CVS_CSV = str(PROJECT_ROOT / "commission_dg_cvs.csv")
-EDU_BY_COUNTRY_CSV = str(PROJECT_ROOT / "commissioner_education_by_country.csv")
-REVOLVING_DOOR_CSV = str(PROJECT_ROOT / "commission_revolving_door.csv")
-SENIOR_OFFICIALS_CSV = str(PROJECT_ROOT / "commission_senior_officials.csv")
-ATLANTICIST_CSV = str(PROJECT_ROOT / "atlanticist_comparison.csv")
-CJEU_MEMBERS_CSV = str(PROJECT_ROOT / "cjeu_members_list.csv")
-TRANSNATIONAL_COMPANIES_CSV = str(PROJECT_ROOT / "transnational_companies.csv")
+MEP_LIST_CSV = str(PROJECT_ROOT / "data" / "meps_2024_2029.csv")
+MEP_CV_CSV = str(PROJECT_ROOT / "data" / "cvs" / "mep_cv_data.csv")
+COMMISSION_CV_CSV = str(PROJECT_ROOT / "data" / "cvs" / "commission_cv_data.csv")
+COMMISSION_2024_2029_CSV = str(PROJECT_ROOT / "data" / "commissions" / "commission_2024_2029.csv")
+AFFILIATIONS_CSV = str(PROJECT_ROOT / "data" / "affiliations" / "commission_affiliations.csv")
+ORG_CLASSIFIED_CSV = str(PROJECT_ROOT / "data" / "affiliations" / "organisations_classified.csv")
+DG_CVS_CSV = str(PROJECT_ROOT / "data" / "officials" / "commission_dg_cvs.csv")
+EDU_BY_COUNTRY_CSV = str(PROJECT_ROOT / "data" / "analysis" / "commissioner_education_by_country.csv")
+REVOLVING_DOOR_CSV = str(PROJECT_ROOT / "data" / "affiliations" / "commission_revolving_door.csv")
+SENIOR_OFFICIALS_CSV = str(PROJECT_ROOT / "data" / "officials" / "commission_senior_officials.csv")
+ATLANTICIST_CSV = str(PROJECT_ROOT / "data" / "analysis" / "atlanticist_comparison.csv")
+CJEU_MEMBERS_CSV = str(PROJECT_ROOT / "data" / "cjeu" / "cjeu_members_list.csv")
+TRANSNATIONAL_COMPANIES_CSV = str(PROJECT_ROOT / "data" / "corporate" / "transnational_companies.csv")
 
 DOI_ZIP = str(PROJECT_ROOT / "Machine-Readable-DOIs.zip")
 CJEU_BIOS_JSON = str(PROJECT_ROOT / "cjeu_bios_full.json")
@@ -86,7 +90,7 @@ MANIFEST_DEDUP = str(PROJECT_ROOT / "manifests" / "_dedup.json")
 EDU_DEDUP_JSON = str(PROJECT_ROOT / "manifests" / "_edu_dedup.json")
 SOURCE_MANIFEST = str(PROJECT_ROOT / "sources" / "manifest.json")
 
-VERIFICATION_REPORT_CSV = str(PROJECT_ROOT / "verification_report.csv")
+VERIFICATION_REPORT_CSV = str(PROJECT_ROOT / "data" / "verification_report.csv")
 VERIFICATION_CACHE_JSON = str(PROJECT_ROOT / "verification_cache.json")
 
 # ── Validation ──────────────────────────────────────────────────────────────

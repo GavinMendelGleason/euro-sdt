@@ -1,0 +1,1443 @@
+Ancient Greek philosopher (c. 624 – c. 545 BC) 
+ "Thales" redirects here. For the company, see Thales Group . For other uses, see Thales (disambiguation) . 
+ 
+ 
+
+ Thales of Miletus ( / ˈ θ eɪ l iː z / THAY -leez ; Ancient Greek : Θαλῆς ; c. &#8201;626/623&#160; &#160;– c. &#8201;548/545&#160;BC ) was an Ancient Greek pre-Socratic philosopher from Miletus in Ionia , Asia Minor . Thales was one of the Seven Sages , founding figures of Ancient Greece .
+ Beginning in eighteenth-century historiography, &#91; 1 &#93; many came to regard him as the first philosopher in the Greek tradition , breaking from the prior use of mythology to explain the world and instead using natural philosophy . He is thus otherwise referred to as the first to have engaged in mathematics , science , and deductive reasoning . &#91; 2 &#93; 
+ Thales's view that all of nature is based on the existence of a single ultimate substance , which he theorized to be water , was widely influential among the philosophers of his time. Thales thought the Earth floated on water.
+ In mathematics, Thales is the namesake of Thales's theorem , and the intercept theorem can also be referred to as Thales's theorem. Thales was said to have calculated the heights of the pyramids and the distance of ships from the shore. In science, Thales was an astronomer who reportedly predicted the weather and a solar eclipse . The discovery of the position of the constellation Ursa Major is also attributed to Thales, as well as the timings of the solstices and equinoxes . He was also an engineer , known for having allowed the Lydian army to cross the Halys River . Plutarch wrote that "at that time, Thales alone had raised philosophy from mere speculation to practice." &#91; 3 &#93; 
+ 
+ 
+ Life [ edit ] 
+ The Ionic Stoa on the Sacred Way in Miletus . 
+ The main source concerning the details of Thales's life and career is the doxographer Diogenes Laërtius , in his third-century-AD work Lives and Opinions of the Eminent Philosophers . &#91; 4 &#93; While it is all we have, Diogenes wrote some eight centuries after Thales's death and his sources often contained "unreliable or even fabricated information". &#91; 5 &#93; &#91; a &#93; It is known Thales was from Miletus , a mercantile city settled at the mouth of the Maeander River , near modern Didim , Turkey.
+ The dates of Thales's life are not exactly known, but are roughly established by a few datable events mentioned in the sources. According to the historian Herodotus , writing in the 5th century BC, Thales predicted a solar eclipse in 585 BC. &#91; 7 &#93; Assuming one's acme (or floruit ) occurred at the age of 40, the chronicle of Apollodorus of Athens , written during the 2nd century BC, therefore placed Thales's birth about the year 625 BC. &#91; 8 &#93; &#91; 9 &#93; 
+ 
+ Ancestry and family [ edit ] 
+ Map of Phoenician (in yellow) and Greek colonies (in red) between the 8th and 6th centuries BC 
+ While the probability is that Thales was as Greek as most Milesians, &#91; 10 &#93; Herodotus described Thales as "a Phoenician by remote descent". &#91; 11 &#93; Diogenes Laërtius references Herodotus, Duris , and Democritus , who all agree "that Thales was the son of Examyas and Cleobulina, and belonged to the Thelidae who are Phoenicians and amongst the noblest descendants of Cadmus and Agenor " who had been banished from Phoenicia and that Thales was enrolled as a citizen in Miletus along with Neleus . &#91; 12 &#93; &#91; 13 &#93; 
+ However, Friedrich Nietzsche and others interpret this quote as meaning only that his ancestors were seafaring Cadmeians from Boeotia . &#91; 14 &#93; &#91; 15 &#93; It is also possible that he was of mixed ancestry, given his father had a Carian name and his mother had a Greek name. &#91; 15 &#93; &#91; 16 &#93; &#91; 17 &#93; Diogenes Laërtius seems to also reference an alternative account: "Most writers, however, represent him as a genuine Milesian and of a distinguished family". &#91; 18 &#93; Encyclopedia Britannica (1952) concluded that Thales was most likely a native Milesian of noble birth and that he was certainly a Greek. &#91; 16 &#93; 
+ Diogenes continues, by delivering more conflicting reports: one that Thales married and either fathered a son (Cybisthus or Cybisthon) or adopted his nephew of the same name; the second that he never married, telling his mother as a young man that it was too early to marry, and as an older man that it was too late. &#91; b &#93; Plutarch had earlier told this version: Solon visited Thales and asked him why he remained single; Thales answered that he did not like the idea of having to worry about children. Nevertheless, several years later, anxious for family, he adopted his nephew Cybisthus. &#91; 20 &#93; 
+ 
+ Travels [ edit ] 
+ The culture of Archaic Greece was heavily influenced by those of the Levant and Mesopotamia . &#91; 21 &#93; It is said Thales was engaged in trade and visited either Egypt or Babylonia . &#91; 22 &#93; However, there is no strong evidence that Thales ever visited countries in the Near East , and the issue is disputed among scholars. &#91; 23 &#93; Visits to such places were a commonplace attribution to various philosophers by later writers, especially when these writers tried to explain the origin of their mathematical knowledge, such as with Thales or Pythagoras or Eudoxus . &#91; 24 &#93; &#91; 2 &#93; 
+ 
+ Egypt [ edit ] 
+ Thales may have been educated in Egypt. 
+ Several ancient authors assume that Thales, at one point in his life, visited Egypt , where he learned about geometry. &#91; 25 &#93; It is considered possible that Thales visited Egypt, since Miletus had a permanent colony there (namely Naucratis ). It is also said Thales had close contacts with the priests of Thebes who instructed him, or even that he instructed them in geometry. &#91; 26 &#93; &#91; 27 &#93; It is also possible Thales knew about Egypt from accounts of others, without actually visiting it. &#91; 28 &#93; 
+ 
+ Babylon [ edit ] 
+ Aside from Egypt, the other mathematically advanced, ancient civilization before the Greeks was Babylonia, another commonplace attribution of travel for a mathematically-minded philosopher. &#91; 29 &#93; 
+ Historians Roger L. Cooke and B.L. Van der Waerden come down on the side of Babylonian mathematics influencing the Greeks, citing the use of e. g. the sexagesimal system (or base 60). &#91; 29 &#93; Cooke notes "This relation, however, is controversial." &#91; 29 &#93; Other historians, such as D. R. Dicks, take issue with the idea of Babylonian influence on Greek mathematics. For until around the time of Hipparchus (c. 190–120&#160;BC) their sexagesimal system was unknown. &#91; 30 &#93; 
+ Herodotus wrote the Greeks learnt the gnomon from the Babylonians. Thales's follower Anaximander is credited with introducing the gnomon to the Greeks. &#91; 31 &#93; Herodotus also wrote that the practice of dividing the day into 12 parts, and the polos , came to the Greeks from the Babylonians. &#91; c &#93; Yet this too is disputed, for example by historian L. Zhmud, who points out the gnomon was known to both Egyptians and Babylonians, the division of the day into twelve parts (and by analogy the year) was known to the Egyptians already in the 2nd millennium BC , and the idea of the polos was not used outside of Greece at this time. &#91; 33 &#93; 
+ 
+ Sagacity [ edit ] 
+ Thales, Nuremberg Chronicle . 
+ Thales is recognized as one of the Seven Sages of Greece, semi-legendary wise statesmen and founding figures of Ancient Greece. While which seven one chooses may change, the seven has a canonical four which includes Thales, Solon of Athens, Pittacus of Mytilene , and Bias of Priene . Diogenes Laërtius tells us that the Seven Sages were created in the archonship of Damasius at Athens about 582&#160;BC and that Thales was the first sage. &#91; 34 &#93; &#91; d &#93; 
+ The sages were associated with the Delphic maxims , a quote or maxim attributed to each one inscribed on the Temple of Apollo at Delphi . Thales has arguably the most famous of all, gnothi seauton or know thyself . According to the 10th-century Byzantine encyclopedia the Suda , the proverb is both "applied to those whose boasts exceed what they are" and "a warning to pay no attention to the opinion of the multitude." &#91; 35 &#93; &#91; e &#93; 
+ 
+ Golden tripod [ edit ] 
+ Diogenes Laërtius relates several stories of an expensive, gold tripod or bowl that is to go to the most wise . In one version (that Laërtius credits to Callimachus in his Iambics ) Bathycles of Arcadia states in his will that an expensive bowl " 'should be given to him who had done most good by his wisdom.' So it was given to Thales, went the round of all the sages, and came back to Thales again. And he sent it to Apollo at Didyma , with this dedication...'Thales the Milesian, son of Examyas [dedicates this] to Delphinian Apollo after twice winning the prize from all the Greeks. ' " &#91; 41 &#93; 
+ 
+ Diplomacy [ edit ] 
+ According to Diogenes Laërtius, Thales gained fame as a counselor when he advised the Milesians not to engage in a symmachia, a "fighting together", with the Lydians. This has sometimes been interpreted as an alliance. &#91; 42 &#93; 
+ Croesus was defeated before the city of Sardis by Cyrus the Great , who subsequently spared Miletus because it had taken no action. Cyrus was so impressed by Croesus’ wisdom and his connection with the sages that he spared him and took his advice on various matters. &#91; citation needed &#93; The Ionian cities should be demoi, or "districts".
+ 
+ He counselled them to establish a single seat of government, and pointed out Teos as the fittest place for it; "for that," he said, "was the centre of Ionia . Their other cities might still continue to enjoy their own laws, just as if they were independent states." &#91; 43 &#93; 
+ Miletus, however, received favorable terms from Cyrus. The others remained in an Ionian League of twelve cities (excluding Miletus), and were subjugated by the Persians. &#91; citation needed &#93; 
+ 
+ Theories and studies [ edit ] 
+ Early Greeks, and other civilizations before them, often invoked idiosyncratic explanations of natural phenomena with reference to the will of anthropomorphic gods and heroes . Instead, Thales aimed to explain natural phenomena via rational hypotheses that referenced natural processes themselves— &#91; 44 &#93; Logos rather than mythos .
+ Aristotle advocated the view that Thales was the first natural philosopher ( physiologoi ), &#91; 45 &#93; &#91; 46 &#93; although this position was typically not adopted among other writers, even those within Aristotle's Peripatetic school , until the view became more prominent among eighteenth-century historians. &#91; 1 &#93; Also, while the other Seven Sages were strictly law-givers and statesmen and not speculative philosophers, Plutarch noted "it would seem that Thales was the only wise man of the time who carried his speculations beyond the realm of the practical." &#91; 47 &#93; 
+ 
+ Water as the arche [ edit ] 
+ See also: Classical element §&#160;Hellenistic philosophy 
+ Thales depicted at the Baths of the Seven Sages . 
+ Thales's most famous idea was his philosophical and cosmological thesis that all is water, which comes down to us through a passage from Aristotle 's Metaphysics . &#91; 45 &#93; In the work, Aristotle reported Thales's theory that the arche or originating principle of nature was a single material substance : water. Aristotle then proceeded to proffer a number of conjectures based on his own observations to lend some credence to why Thales may have advanced this idea (though Aristotle did not hold it himself).
+ While Aristotle's conjecture on why Thales held water as the originating principle of matter is his own thinking, his statement that Thales held it as water is generally accepted as genuinely originating with Thales. Writing centuries later, Diogenes Laërtius also states that Thales taught "Water constituted ( ὑπεστήσατο , 'stood under') the principle of all things." &#91; 48 &#93; &#91; f &#93; 
+ According to Aristotle: &#91; 45 &#93; 
+ 
+ That from which is everything that exists and from which it first becomes and into which it is rendered at last, its substance remaining under it, but transforming in qualities, that they say is the element and principle of things that are. …For it is necessary that there be some nature ( φύσις ), either one or more than one, from which become the other things of the object being saved... [The first philosophers] do not all agree as to the number and the nature of these principles. Thales the founder of this type of philosophy says that it is water. 
+ Aristotle further adds:
+ 
+ Presumably he derived this assumption from seeing that the nutriment of everything is moist, and that heat itself is generated from moisture and depends upon it for its existence (and that from which a thing is generated is always its first principle). He derived his assumption from this; and also from the fact that the seeds of everything have a moist nature, whereas water is the first principle of the nature of moist things." &#91; 50 &#93; &#91; g &#93; 
+ The 1870 book Dictionary of Greek and Roman Biography and Mythology noted: &#91; 46 &#93; 
+ 
+ In his dogma that water is the origin of things, that is, that it is that out of which every thing arises, and into which every thing resolves itself, Thales may have followed Orphic cosmogonies, while, unlike them, he sought to establish the truth of the assertion. Hence, Aristotle, immediately after he has called him the originator of philosophy brings forward the reasons which Thales was believed to have adduced in confirmation of that assertion; for that no written development of it, or indeed any book by Thales, was extant, is proved by the expressions which Aristotle uses when he brings forward the doctrines and proofs of the Milesian. (p. 1016) Most agree that Thales's stamp on thought is the unity of substance. Not merely the empirical claim that all is water, but the deeper philosophical claim that all is one. For example, Friedrich Nietzsche , in his Philosophy in the Tragic Age of the Greeks , wrote: &#91; 51 &#93; 
+ Greek philosophy seems to begin with an absurd notion, with the proposition that water is the primal origin and the womb of all things. Is it really necessary for us to take serious notice of this proposition? It is, and for three reasons. First, because it tells us something about the primal origin of all things; second, because it does so in language devoid of image or fable, and finally, because contained in it, if only embryonically, is the thought, "all things are one." 
+ Mathematics [ edit ] 
+ 
+ 
+ Megiston topos: apanta gar chorei ( Μέγιστον τόπος· ἄπαντα γὰρ χωρεῖ. ) The greatest is space, for it holds all things.
+ 
+ —&#8202;attributed to Thales &#91; 52 &#93; 
+ 
+ Thales was known for introducing the theoretical and practical use of geometry to Greece, and has been described as the first person in the Western world to apply deductive reasoning to geometry, making him the West's "first mathematician". &#91; 9 &#93; &#91; 53 &#93; &#91; 54 &#93; He is also credited with the West's oldest definition of number : a "collection of units", "following the Egyptian view". &#91; 55 &#93; &#91; 56 &#93; 
+ The evidence for the primacy of Thales comes to us from a book by Proclus , who lived a thousand years afterward but is believed to have had a copy of Eudemus 's lost book History of Geometry (4th century BC). &#91; h &#93; Proclus wrote that Thales was the first to visit Egypt and bring the Egyptian study of mathematics to Greece, and that Thales "himself discovered many propositions and disclosed the underlying principles of many others to his successors, in some case his method being more general, in others more empirical." &#91; 54 &#93; In addition to Proclus, Hieronymus of Rhodes (3rd century BC) also cites Thales as the first Greek mathematician. &#91; full citation needed &#93; 
+ Proclus attributes to Thales the discovery that a circle is bisected by its diameter, that the base angles of an isosceles triangle are equal and that vertical angles are equal. &#91; 57 &#93; Two fundamental theorems of elementary geometry are customarily called Thales's theorem : one of them has to do with a triangle inscribed in a circle and having the circle's diameter as one side; &#91; 57 &#93; the other, also called the intercept theorem , is about an angle intercepted by two parallel lines, forming a pair of similar triangles .
+ Modern scholars are skeptical that anyone in Thales's time was producing mathematical proofs to the standard of later Greek mathematics, though not enough direct evidence remains to draw firm conclusions. While Thales may have discovered some basic geometric relations and provided some justification for them, attribution to him of formal proofs is now thought to represent speculative rationalization and reconstruction by later authors, rather than concrete accomplishments of Thales himself or his contemporaries. &#91; 58 &#93; 
+ 
+ Vertical angles [ edit ] 
+ According to one author, while visiting Egypt, &#91; 25 &#93; Thales observed that when the Egyptians drew two intersecting lines, they would measure the vertical angles to make sure that they were equal. &#91; 59 &#93; Thales concluded that one could prove that all vertical angles are equal if one accepted some general notions such as: all straight angles are equal, equals added to equals are equal, and equals subtracted from equals are equal.
+ 
+ Right triangle inscribed in a circle [ edit ] 
+ Main article: Thales's theorem 
+ Thales's theorem: if AC is a diameter and B is a point on the diameter's circle, the angle ∠ ABC is a right angle. 
+ Pamphila says that, having learnt geometry from the Egyptians, Thales was the first to inscribe in a circle a right-angled triangle, whereupon he sacrificed an ox . &#91; 54 &#93; This is sometimes cited as history's first mathematical discovery. &#91; 60 &#93; Due to the variations among testimonies, such as the story of the ox sacrifice being accredited to Pythagoras upon discovery of the Pythagorean theorem rather than Thales, some historians (such as D. R. Dicks) question whether such anecdotes have any historical worth whatsoever. &#91; 30 &#93; 
+ It is believed the Babylonians knew the theorem for special cases. &#91; 61 &#93; &#91; 62 &#93; 
+The theorem is mentioned and proved as part of the 31st proposition in the third book of Euclid 's Elements . &#91; 63 &#93; Dante's Paradiso refers to Thales's theorem in the course of a speech. &#91; 64 &#93; 
+ 
+ Similar triangles [ edit ] 
+ Main article: Intercept theorem 
+ The intercept theorem: DE / BC = AE / AC = AD / AB . 
+ The story is told in Diogenes Laërtius , Pliny the Elder , and Plutarch , &#91; 54 &#93; &#91; 65 &#93; sourced from Hieronymus of Rhodes , that when Thales visited Egypt , &#91; 25 &#93; he measured the height of the pyramids by their shadows at the moment when his own shadow was equal to his height. &#91; i &#93; According to Plutarch, it pleased the pharaoh Amasis . More practically, Thales was said to have the ability to measure the distances of ships at sea.
+ These stories indicate familiarity with the intercept theorem, and for this reason the 26th proposition in the first book of Euclid's Elements was attributed to Thales. &#91; 67 &#93; They also indicate that he was familiar with the Egyptian seked , or seqed , the ratio of the run to the rise of a slope ( cotangent ). &#91; 68 &#93; &#91; j &#93; According to Kirk &amp; Raven, &#91; 10 &#93; all you need for this feat is three straight sticks pinned at one end and knowledge of your altitude. One stick goes vertically into the ground. A second is made level. With the third you sight the ship and calculate the seked from the height of the stick and its distance from the point of insertion to the line of sight. &#91; 69 &#93; 
+ 
+ Astronomy [ edit ] 
+ Urania, the Muse of Astronomy, Reveals to Thales the Secrets of the Skies 
+ Thales was also a noted astronomer, acknowledged in antiquity for describing the position of Ursa Minor , and he thought the constellation might be useful as a guide for navigation at sea. He calculated the duration of the year and the timings of the equinoxes and solstices . He is additionally attributed with calculating the position of the Pleiades . &#91; 10 &#93; 
+ Plutarch indicates that in his day (c. AD 100) there was an extant work, the Astronomy , composed in verse and attributed to Thales. &#91; 70 &#93; While some say he left no writings, others say that he wrote On the Solstice and On the Equinox . The Nautical Star-guide has also been attributed to him, but this was disputed even in ancient times. &#91; 10 &#93; &#91; k &#93; No writing attributed to him has survived. Lobon of Argus asserted that the writings of Thales amounted to two hundred lines. &#91; 71 &#93; 
+ 
+ Cosmological model [ edit ] 
+ Worldview of Thales (left) and pupil Anaximander (right). 
+ Thales thought the Earth must be a flat disk or mound of land and dirt which is floating in an expanse of water. &#91; 72 &#93; Heraclitus Homericus states that Thales drew his conclusion from seeing moist substance turn into air, slime and earth. It seems likely that Thales viewed the land as coming from the water on which it floated and the oceans that surround it, perhaps inspired by observing silt deposits. &#91; 73 &#93; 
+ He thought the stars were balls of earth on fire. &#91; 74 &#93; He seemed to correctly gather that the moon reflects the Sun's light. &#91; 75 &#93; A crater on the Moon is named in his honor. &#91; 76 &#93; &#91; 77 &#93; 
+ 
+ Meteorology [ edit ] 
+ Rather than assuming that earthquakes were the result of supernatural whims, Thales explained them by theorizing that the Earth floats on water and that earthquakes occur when the Earth is rocked by waves. &#91; 78 &#93; &#91; 44 &#93; He is attributed with the first observation of the Hyades , supposed by the ancients to indicate the approach of rain when they rose with the Sun. &#91; 79 &#93; According to Seneca , Thales explained the flooding of the Nile as due to the river being beaten back by the etesian wind. &#91; 80 &#93; 
+ 
+ Olive presses [ edit ] 
+ An olive mill and an olive press dating from Roman times in Capernaum, Israel . 
+ A story, with different versions, recounts how Thales achieved riches from an olive harvest by prediction of the weather . In one version, he bought all the olive presses in Miletus after predicting the weather and a good harvest for a particular year. Another version of the story has Aristotle explain that Thales had reserved presses in advance, at a discount, and could rent them out at a high price when demand peaked, following his prediction of a particularly good harvest. This first version of the story would constitute the first historically known creation and use of futures , whereas the second version would be the first historically known creation and use of options . &#91; 81 &#93; 
+ Aristotle explains that Thales's objective in doing this was not to enrich himself but to prove to his fellow Milesians that philosophy could be useful, contrary to what they thought, &#91; 82 &#93; or alternatively, Thales had made his foray into enterprise because of a personal challenge put to him by an individual who had asked why, if Thales was an intelligent famous philosopher, he had yet to attain wealth. &#91; citation needed &#93; 
+ 
+ Prediction of solar eclipse [ edit ] 
+ Main article: Eclipse of Thales 
+ As mentioned above, according to Herodotus, Thales predicted a solar eclipse which occurred during a battle between the Lydians and the Medes . &#91; 7 &#93; Among eclipses of the era, only the eclipse of 28 May 585 BC reached totality in Anatolia where the war took place. American writer Isaac Asimov described this battle as the earliest historical event whose date is known with precision to the day, and called the prediction "the birth of science". &#91; 83 &#93; &#91; 84 &#93; 
+ 
+ Total eclipse of the Sun 
+ Herodotus writes that in the sixth year of the war, the Lydians under King Alyattes and the Medes under Cyaxares were engaged in an indecisive battle when suddenly day turned into night, leading to both parties halting the fighting and negotiating a peace agreement. Herodotus also mentions that the loss of daylight had been predicted by Thales. He does not, however, mention the location of the battle. &#91; 85 &#93; 
+ 
+ Afterwards, on the refusal of Alyattes to give up his suppliants when Cyaxares sent to demand them of him, war broke out between the Lydians and the Medes, and continued for five years, with various success. In the course of it the Medes gained many victories over the Lydians, and the Lydians also gained many victories over the Medes. Among their other battles there was one night engagement. As, however, the balance had not inclined in favour of either nation, another combat took place in the sixth year, in the course of which, just as the battle was growing warm, day was on a sudden changed into night. This event had been foretold by Thales, the Milesian, who forewarned the Ionians of it, fixing for it the very year in which it actually took place. The Medes and Lydians, when they observed the change, ceased fighting, and were alike anxious to have terms of peace agreed on. &#91; 43 &#93; 
+ However, based on the list of Median kings and the duration of their reign reported elsewhere by Herodotus, Cyaxares died 10 years before the eclipse. &#91; 86 &#93; &#91; 87 &#93; 
+ D. R. Dicks joins other historians (F. Martini, J. L. E. Dreyer, O. Neugebauer ) in rejecting the historicity of the eclipse story. &#91; 30 &#93; Dicks links the story of Thales discovering the cause for a solar eclipse with Herodotus' claim that Thales discovered the cycle of the sun with relation to the solstices, and concludes "he could not possibly have possessed this knowledge which neither the Egyptians nor the Babylonians nor his immediate successors possessed." &#91; 30 &#93; Thomas Worthen instead proposes that the battle could have been the same "night engagement" mentioned, disrupted by a predicted lunar eclipse . &#91; 88 &#93; 
+ 
+ Falling into a well [ edit ] 
+ See also: The Astrologer who Fell into a Well 
+ Plato, Diogenes Laertius, and Hippolytus all relay the story&#160;that Thales was so intent upon watching the stars that he failed to watch where he was walking, and fell into a well. &#91; 89 &#93; &#91; 90 &#93; &#91; l &#93; 
+ 
+ "Thales was studying the stars and gazing into the sky, when he fell into a well, and a jolly and witty Thracian servant girl made fun of him, saying that he was crazy to know about what was up in the heavens while he could not see what was in front of him beneath his feet." &#91; 92 &#93; 
+ 
+ Engineering [ edit ] 
+ The Halys River 
+ In addition to astronomy, Thales involved himself in other practical applications of mathematics, including engineering . &#91; 93 &#93; Another story by Herodotus is that Croesus sent his army to the Persian territory. He was stopped by the river Halys , then unbridged. Thales then got the army across the river by digging a diversion upstream so as to reduce the flow, making it possible to cross the river. &#91; 94 &#93; While Herodotus reported that most of his fellow Greeks believe that Thales did divert the river Halys to assist King Croesus' military endeavors, he himself finds it doubtful. &#91; 30 &#93; Plato praises Thales along with Anacharsis , who is credited as the originator of the potter's wheel and the anchor. &#91; 95 &#93; 
+ 
+ Divinity [ edit ] 
+ Thales (Electricity) , a sculpture from "The Progress of Railroading" (1908), located at the main façade of Washington Union Station 
+ According to Aristotle, Thales thought "all things are full of gods", &#91; 10 &#93; &#91; 96 &#93; i. e. lodestones had souls , because iron is attracted to them (by the force of magnetism ). &#91; 97 &#93; The same applied to amber for its capacity to generate static electricity . The reasoning for such hylozoism or organicism seems to be if something moved, then it was alive, and if it was alive, then it must have a soul. &#91; 98 &#93; &#91; 99 &#93; 
+ As well as gods seen in the movement caused by what came to be known as magnetism and electricity , it seems Thales also had a supreme God which structured the universe:
+ 
+ "Thales", says Cicero , &#91; 100 &#93; "assures that water is the principle of all things; and that God is that Mind which shaped and created all things from water." 
+ According to Henry Fielding (1775), Diogenes Laërtius (1.35) affirmed that Thales posed "the independent pre-existence of God from all eternity, stating "that God was the oldest of all beings, for he existed without a previous cause even in the way of generation; that the world was the most beautiful of all things; for it was created by God." &#91; 101 &#93; 
+ Nicholas Molinari has recently argued that Thales was influenced by the archaic water deity Acheloios , who was equated with water and worshipped in Miletus during Thales's life. For evidence, he points to the fact that hydor meant specifically "fresh water", and also that Acheloios was seen as a shape-shifter in myth and art, so able to become anything. He also points out that the rivers of the world were seen as the " sinews of Acheloios" in antiquity, and this multiplicity of deities is reflected in Thales's idea that "all things are full of gods." &#91; 102 &#93; 
+ 
+ Death and legacy [ edit ] 
+ Diogenes Laërtius quotes Apollodorus as saying that Thales died at the age of 78 during the 58th Olympiad (548–545&#160;BC) and attributes his death to heat stroke and thirst while watching the games. &#91; 103 &#93; 
+ 
+ Influence [ edit ] 
+ Detail of Thales from The Beginnings of Science (1906) by Veloso Salgado 
+ Thales had a profound influence on other Greek thinkers and therefore on Western history. However, due to the scarcity of sources concerning Thales and the discrepancies between the accounts given in the sources that have survived, there is a scholarly debate over the extent of the influence Thales had and on which of the Greek philosophers and mathematicians that came after him. &#91; m &#93; 
+ The first three philosophers in the Western tradition were all cosmologists from Miletus, and Thales was the very first, followed by Anaximander , who was followed in turn by Anaximenes . They have been dubbed the Milesian school . According to the Suda , Thales had been the "teacher and kinsman" of Anaximander. &#91; 105 &#93; Rather than water, Anaximander held all was made of apeiron or the unlimited; while Anaximenes, the successor of Anaximander, perhaps more like Thales with water, held that everything was composed of air . &#91; 106 &#93; 
+ John Burnet (1892) noted &#91; 107 &#93; 
+ 
+ Lastly, we have one admitted instance of a philosophic guild, that of the Pythagoreans . And it will be found that the hypothesis, if it is to be called by that name, of a regular organisation of scientific activity will alone explain all the facts. The development of doctrine in the hands of Thales, Anaximander , and Anaximenes , for instance, can only be understood as the elaboration of a single idea in a school with a continuous tradition. 
+ As two of the first Greek mathematicians, Thales is also considered an influence on Pythagoras. According to Iamblichus, Pythagoras "had benefited by the instruction of Thales in many respects, but his greatest lesson had been to learn the value of saving time." &#91; 108 &#93; Early sources &#91; which? &#93; report that Pythagoras, in this story a pupil of Anaximander, visited Thales as a young man, and that Thales advised him to travel to Egypt to further his philosophical and mathematical studies.
+ Thales was also considered the teacher of the astronomer Mandrolytus of Priene. &#91; 109 &#93; It is possible he was also the teacher of Cleostratus of Tenedos. &#91; 110 &#93; 
+ 
+ Notes [ edit ] 
+ 
+ ^ This use of hearsay and a lack of citing original sources leads some historians, like Dicks and Werner Jaeger, to view the whole idea of pre-Socratic philosophy as a construct from a later age, "fashioned during the two or three generations from Plato to the immediate pupils of Aristotle". &#91; 6 &#93; 
+ 
+ ^ In addition, his supposed mother, Cleobulina, has also been described as his companion instead of his mother. &#91; 19 &#93; 
+ 
+ ^ The exact meaning of this use of the word polos is unknown, current theories include: "the heavenly dome", "the tip of the axis of the celestial sphere", or a spherical concave sundial. &#91; 32 &#93; 
+ 
+ ^ The same story, however, asserts that Thales emigrated to Miletus; and that he did not become a student of nature until after his political career. This story has to be rejected if one is to believe that Thales was a native of Miletus, and other typical things about him like his prediction of the eclipse. 
+ 
+ ^ The aphorism has also been attributed to various other philosophers. Diogenes Laërtius attributes it to Thales &#91; 36 &#93; &#91; 37 &#93; but notes that Antisthenes in his Successions of Philosophers attributes it instead to Phemonoe , a mythical Greek poet. The Roman poet Juvenal quotes the phrase in Greek and states that the precept descended e caelo (from heaven). &#91; 38 &#93; Other names of potential include Pythagoras &#91; 39 &#93; and Heraclitus . &#91; 40 &#93; 
+ 
+ ^ Historian Abraham Feldman wrote that for Thales "...water united all things...all whatness is wetness". &#91; 49 &#93; 
+ 
+ ^ Feldman notes "The social significance of water in the time of Thales induced him to discern through hardware and dry-goods, through soil and sperm, blood, sweat and tears, one fundamental fluid stuff...water, the most commonplace and powerful material known to him." &#91; 49 &#93; 
+ 
+ ^ While some historians, such as Colin R. Fletcher, note there could have been a precursor to Thales named by Eudemus, without the work "the question becomes mere speculation." &#91; 54 &#93; Fletcher grants there is no other viable contender to the title of first Greek mathematician, and that Thales qualifies as a practitioner in the field. "Thales had at his command the techniques of observation, experimentation, superposition and deduction... he has proved himself mathematician." &#91; 54 &#93; 
+ 
+ ^ A right triangle with two equal legs is a 45-degree right triangle, all of which are similar. The length of the pyramid's shadow measured from the center of the pyramid at that moment must have been equal to its height. &#91; 66 &#93; 
+ 
+ ^ The seked is at the base of problems 56, 57, 58, 59 and 60 of the Rhind papyrus — an ancient Egyptian mathematical document. 
+ 
+ ^ According to Diogenes Laertius, the Nautical Astronomy attributed to Thales was written by Phocus of Samos. 
+ 
+ ^ The Scottish philosopher Adam Smith once similarly, absent-mindedly fell into a tannery pit. &#91; 91 &#93; 
+ 
+ ^ Edmund Husserl &#91; 104 &#93; attempts to capture the new movement as follows. Philosophical man is a "new cultural configuration" based in stepping back from "pregiven tradition" and taking up a rational "inquiry into what is true in itself;" that is, an ideal of truth. 
+ 
+ 
+ References [ edit ] 
+ 
+ ^ a b Cantor 2022 . 
+ 
+ ^ a b Russell, Bertrand (1945). A History of Western Philosophy . Simon &amp; Schuster. 
+ 
+ ^ Dunham, William. Journey Through Genius: The Great Theorems of Mathematics . p.&#160;6. 
+ 
+ ^ Translation of his biography on Thales: Thales Archived 9 February 2008 at the Wayback Machine , classicpersuasion site; original Greek text, under ΘΑΛΗΣ , the Library of Ancient Texts Online site. 
+ 
+ ^ See McKirahan, Richard D. Jr. (1994). Philosophy Before Socrates . Indianapolis: Hackett. p.&#160; 5 . ISBN &#160; 978-0-87220-176-7 . 
+ 
+ ^ Jaeger, Werner (1948). Aristotle (2nd&#160;ed.). p.&#160;454. 
+ 
+ ^ a b Herodotus, 1.74.2 , and A. D. Godley's footnote 1; Pliny, 2.9 (12) and Bostock's footnote 2. 
+ 
+ ^ Cohen, Mark S.; Curd, Patricia; Reeve, C. D. C. (2011). Readings in Ancient Greek Philosophy (Fourth Edition): From Thales to Aristotle . Indianapolis, Indiana: Hackett Publishing. p.&#160;10. ISBN &#160; 978-1603846073 . 
+ 
+ ^ a b Frank N. Magill, The Ancient World: Dictionary of World Biography , Volume 1 , Routledge, 2003 ISBN &#160; 1135457395 
+ 
+ ^ a b c d e Kirk, G. S.; Raven, J. E. (1957). "Chapter II: Thales of Miletus" . The Presocratic Philosophers . Cambridge University Press. pp.&#160; 74– 98. 
+ 
+ ^ Freely, John (2012). The Flame of Miletus: The Birth of Science in Ancient Greece (And How It Changed the World) . London: I. B. Tauris &amp; Co. Ltd. p.&#160;7. ISBN &#160; 978-1-78076-051-3 . Retrieved 1 October 2017 . 
+ 
+ ^ Lawson, Russell M. (2004). Science in the Ancient World: An Encyclopedia . Santa Barbara, California; Denver, Colorado; and Oxford, England: ABC CLIO. pp.&#160; 234– 235. ISBN &#160; 978-1-85109-534-6 . 
+ 
+ ^ Thatcher, Oliver J. (2004). The Library Of Original Sources: The Greek World . The Minerva Group, Inc. p.&#160;138. ISBN &#160; 978-1-4102-1402-7 . 
+ 
+ ^ Nietzsche, Friedrich (2001). The Pre-Platonic Philosophers . University of Illinois Press. p.&#160;23. ISBN &#160; 978-0252025594 . 
+ 
+ ^ a b Alexander Herda. Burying a sage: the heroon of Thales in the agora of Miletos: With remarks on some other excavated Heroa and on cults and graves of the mythical founders of the city. 2èmes Rencontres d'archéologie de l'IFEA&#160;: Le Mort dans la ville Pratiques, contextes et impacts des inhumations intra-muros en Anatolie, du début de l'Age du Bronze à l'époque romaine., Nov 2011, Istanbul, Turkey. pp. 67–122 
+ 
+ ^ a b Yust, Walter (1952). Encyclopaedia Britannica: A New Survey of Universal Knowledge . Encyclopaedia Britannica . p.&#160;13. 
+ 
+ ^ Guthrie, W. K. C. (1978). A History of Greek Philosophy: The Earlier Presocratics and the Pythagoreans . Vol.&#160;1. Cambridge University Press. p.&#160;50. ISBN &#160; 978-0-521-29420-1 . 
+ 
+ ^ Goodman, Ellen (1995). The Origins of the Western Legal Tradition: From Thales to the Tudors . Federation Press. p.&#160;9. ISBN &#160; 978-1-86287-181-6 . 
+ 
+ ^ Plant, I. M. (2004). Women Writers of Ancient Greece and Rome: An Anthology . Norman: University of Oklahoma Press. pp.&#160; 29– 32. 
+ 
+ ^ Plutarch (1952). "Solon". In Robert Maynard Hutchins (ed.). Lives . Great Books of the Western World. Vol.&#160;14. Chicago: William Benton. p.&#160;66. 
+ 
+ ^ Riedweg, Christoph (2005) , Pythagoras: His Life, Teachings, and Influence , Ithaca, New York: Cornell University Press, ISBN &#160; 978-0-8014-7452-1 p. 7 
+ 
+ ^ Plutarch, Life of Solon § 2.4 
+ 
+ ^ O'Grady, Patricia F. (2017). Thales of Miletus: The Beginnings of Western Science and Philosophy . Taylor &amp; Francis. p.&#160;263. ISBN &#160; 978-1-351-89537-8 . 
+ 
+ ^ Hamlyn, David W. (2002). Being a Philosopher: The History of a Practice . Routledge. p.&#160;7. ISBN &#160; 978-1-134-97101-5 . 
+ 
+ ^ a b c Russo, Lucio (2013). The Forgotten Revolution: How Science Was Born in 300 BC and Why it Had to Be Reborn . Translated by Levy, Silvio. Springer. p.&#160;33. ISBN &#160; 978-3642189043 . 
+ 
+ ^ Harrison, Frederic (1892). The new calendar of great men: biographies of the 558 worthies of all ages . London and New York: MacMillan &amp; Co. p.&#160;92. 
+ 
+ ^ Plutarch, On Isis And Osiris , ch. 10. 
+ 
+ ^ Ferguson, Kitty (2011). Pythagoras: His Lives and the Legacy of a Rational Universe . Icon Books Ltd. p.&#160;28. ISBN &#160; 978-1-84831-250-0 . 
+ 
+ ^ a b c Cooke, Roger L. (2005). The History of Mathematics: A Brief Course . John Wiley &amp; Sons, Inc. 
+ 
+ ^ a b c d e Dicks, D. R. (November 1959). "Thales". The Classical Quarterly . 9 (2): 294– 309. doi : 10.1017/S0009838800041586 . S2CID &#160; 246881067 . 
+ 
+ ^ Diogenes Laertius (II, 1) 
+ 
+ ^ "LacusCurtius • Ancient Astronomy: Polus (Smith's Dictionary, 1875)" . penelope.uchicago.edu . 
+ 
+ ^ Zhmud, Leonid (2006). The Origin of the History of Science in Classical Antiquity . Die Deutsche Bibliothek. 
+ 
+ ^ Diogenes Laërtius 1.22 
+ 
+ ^ "SOL Search" . www.cs.uky.edu . 
+ 
+ ^ Lives I.40 
+ 
+ ^ "SOL Search" . www.cs.uky.edu . 
+ 
+ ^ Satires 11.27 
+ 
+ ^ Vico, Giambattista; Visconti, Gian Galeazzo (1993). On humanistic education: (six inaugural orations, 1699–1707) . Six Inaugural Orations, 1699–1707 From the Definitive Latin Text, Introduction, and Notes of Gian Galeazzo Visconti. Cornell University Press. p.&#160; 4 . ISBN &#160; 0801480876 . 
+ 
+ ^ Doctoral thesis, "Know Thyself in Greek and Latin Literature," Eliza G. Wilkens, U. Chi, 1917, p. 12 ( online ). 
+ 
+ ^ Laërtius 1925 , § 28 
+ 
+ ^ Diogenes Laërtius 1.25 
+ 
+ ^ a b Herodotus. The Histories . Translated by Rawlinson, George. 
+ 
+ ^ a b O'Grady, Patricia F. (2017). Thales of Miletus: The Beginnings of Western Science and Philosophy . Taylor &amp; Francis. p.&#160;102. ISBN &#160; 978-1-351-89536-1 . 
+ 
+ ^ a b c Aristotle , Metaphysics Alpha, 983b. http://data.perseus.org/citations/urn:cts:greekLit:tlg0086.tlg025.perseus-eng1:1.983b 
+ 
+ ^ a b &#160; Smith, William , ed. (1870). "Thales" . Dictionary of Greek and Roman Biography and Mythology . p.&#160;1016. 
+ 
+ ^ Plutarch, Life of Solon, 3.5 &#160; 
+ 
+ ^ Diogenes Laërtius . Lives of the Eminent Philosophers . Book 1, paragraph 27. 
+ 
+ ^ a b Feldman, Abraham (October 1945). "Thoughts on Thales". The Classical Journal . 41 (1): 4– 6. ISSN &#160; 0009-8353 . JSTOR &#160; 3292119 . 
+ 
+ ^ Aristotle. "Book I 983b" . Aristotle, Metaphysics . Perseus Project . 
+ 
+ ^ § 3 
+ 
+ ^ &#160; Laërtius, Diogenes . "The Seven Sages: Thales"&#160; . Lives of the Eminent Philosophers . Vol.&#160;1:1. Translated by Hicks, Robert Drew (Two volume&#160;ed.). Loeb Classical Library. 
+ 
+ ^ Boyer 1989 , p.&#160;43 (3rd ed.) 
+ 
+ ^ a b c d e f Fletcher, Colin R. (December 1982). "Thales – our founder?". The Mathematical Gazette . 66 (438): 267. doi : 10.2307/3615512 . JSTOR &#160; 3615512 . S2CID &#160; 125626522 . 
+ 
+ ^ Nicomachus of Gerasa (1926). "Introduction to Arithmetic" . Macmillan. 
+ 
+ ^ A History of Greek Mathematics, Heath, p. 70 
+ 
+ ^ a b Bulmer-Thomas, Ivor (1939). "Thales" . Selections Illustrating the History of Greek Mathematics . Vol.&#160;1. Harvard University Press. pp.&#160; 164– 169. 
+ 
+ ^ Sidoli, Nathan (2018). "Greek mathematics" (PDF) . In Jones, A.; Taub, L. (eds.). The Cambridge History of Science: Vol. 1, Ancient Science . Cambridge University Press. pp.&#160; 345– 373. 
+ 
+ ^ Shute, William George; Shirk, William W.; Porter, George F. (1960). Plane and Solid Geometry . American Book Company . pp.&#160; 25– 27. 
+ 
+ ^ Boyer 1989 , p.&#160;"Ionia and the Pythagoreans" p. 43. 
+ 
+ ^ de Laet, Siegfried J. (1996). History of Humanity: Scientific and Cultural Development . UNESCO , Volume 3, p. 14. ISBN &#160; 92-3-102812-X 
+ 
+ ^ Boyer, Carl B. and Merzbach, Uta C. (2010). A History of Mathematics . John Wiley and Sons, Chapter IV. ISBN &#160; 0-470-63056-6 
+ 
+ ^ Heath, Thomas L. (1956). The Thirteen Books of Euclid's Elements . Vol.&#160;2 (Books 3–9) (2nd&#160;ed.). Dover. p.&#160;61. ISBN &#160; 0486600890 . {{ cite book }} : ISBN / Date incompatibility ( help ) Originally published by Cambridge University Press. 1st edition 1908, 2nd edition 1926. 
+ 
+ ^ canto 13, lines 101–102 
+ 
+ ^ Plutarch, Moralia, The Dinner of the Seven Wise Men, 147A 
+ 
+ ^ J J O'Connor and E F Robertson 
+ 
+ ^ "Ars Quatuor Coronatorum: Being the Transactions of the Quatuor Coronati Lodge No. 2076, London" . W. J. Parre H, Limited. 10 June 1897. 
+ 
+ ^ History of Astronomy, by Richard Perason, p. 65 
+ 
+ ^ Proclus, In Euclidem , 352 
+ 
+ ^ Plutarch, De Pythiae oraculis , 18. 
+ 
+ ^ D.L. I.34 
+ 
+ ^ Allman, George Johnston (1911). "Thales of Miletus"&#160; . In Chisholm, Hugh (ed.). Encyclopædia Britannica . Vol.&#160;26 (11th&#160;ed.). Cambridge University Press. p.&#160;721. 
+ 
+ ^ Harris, Roy (2005). The Semantics of Science . Continuum International. p.&#160;31. 
+ 
+ ^ Pseudo-Plutarch, Placita Philosopharum § 2.13 
+ 
+ ^ Pseudo-Plutarch, Placita Philosopharum § 2.28 
+ 
+ ^ "Thales" . Gazetteer of Planetary Nomenclature . International Astronomical Union (IAU) / USGS Astrogeology Science Center . Retrieved 13 January 2026 . 
+ 
+ ^ "Solar Eclipse Newsletter, Volume 7, Issue 2" (PDF) . NASA Eclipse Web Site . NASA Goddard Space Flight Center. February 2002. p.&#160;3 . Retrieved 13 January 2026 . Thales is also honored by a lunar crater. 
+ 
+ ^ Krech III, Shepard; Merchant, Carolyn; McNeill, John Robert, eds. (2003). "Earthquakes". Encyclopedia of World Environmental History . Vol.&#160;1: A–G. Routledge. pp.&#160; 358– 364. 
+ 
+ ^ History of Meteorology to 1800 by H. Howard Frisinger p. 3 
+ 
+ ^ History of Meteorology to 1800 by H. Howard Frisinger p. 4 
+ 
+ ^ George Crawford, Bidyut Sen – Derivatives for Decision Makers: Strategic Management Issues , John Wiley &amp; Sons, 1996 ISBN &#160; 978-0471129943 
+ 
+ ^ Aristotle, Politics 1259a 
+ 
+ ^ Singer, C. (2008). A Short History of Science to the 19th century . Streeter Press. p.&#160;35. 
+ 
+ ^ Needham, C. W. (1978). Cerebral Logic: Solving the Problem of Mind and Brain . Loose Leaf. p.&#160;75. ISBN &#160; 978-0-398-03754-3 . 
+ 
+ ^ Herodotus : Histories 1,74,2 ( online ) 
+ 
+ ^ Alden A. Mosshammer: Thales' Eclipse . Transactions of the American Philological Association, Vol. 111, 1981, pp.&#160;145–155 ( JSTOR ) 
+ 
+ ^ Wenskus, Otta (2016). "Die angebliche Vorhersage einer Sonnenfinsternis durch Thales von Milet. Warum sich diese Legende so hartnäckig hält und warum es wichtig ist, ihr nicht zu glauben" (PDF) (in German). pp.&#160; 2– 17. Archived from the original (PDF) on 19 January 2019 . Retrieved 18 January 2019 . 
+ 
+ ^ Thomas D. Worthen, "Herodotus's Report on Thales's Eclipse," Electronic Antiquity vol. 3.7 (May 1997), and Thomas De Voe Worthen, " The Eclipse of 585 BCE Archived August 30, 2011, at the Wayback Machine " 
+ 
+ ^ Theaetetus (174 A) 
+ 
+ ^ D.L. II.4–5 
+ 
+ ^ Powell, Jim (1 March 1995). "Brilliant but Absent-Minded Adam Smith &#124; Jim Powell" . fee.org . 
+ 
+ ^ Theaetetus 174a 
+ 
+ ^ O'Connor, John J.; Robertson, Edmund F. "Thales of Miletus" . MacTutor History of Mathematics Archive . University of St Andrews . 
+ 
+ ^ Herodotus. "Ch. 75" . Herodotus . Translated by Godley, A. D. Harvard University Press. 
+ 
+ ^ Plato, Republic, Book 10, section 600a 
+ 
+ ^ Aristotle . De Anima . p.&#160;411a7. 
+ 
+ ^ Nathan Ida, Engineering Electromagnetics , Springer, 2015 ISBN &#160; 3319078062 
+ 
+ ^ Sandywell, Barry (1996). Presocratic Reflexivity: The Construction of Philosophical Discourse C. 600-450 BC . Psychology Press. p.&#160;97. ISBN &#160; 978-0-415-10170-7 . 
+ 
+ ^ Farrington, B., 1944 Greek Science. Pelican 
+ 
+ ^ Cicero . De Natura Deorum . p.&#160;i.,10. 
+ 
+ ^ Fielding, Henry (1775). An essay on conversation . John Bell . p.&#160;346. 
+ 
+ ^ Nicholas J. Molinari, Acheloios, Thales, and the Origin of Philosophy: A Response to the Neo-Marxians. Oxford: Archaeopress, 2022 https://www.archaeopress.com/Archaeopress/Products/9781803270869 ; cf. also Nicholas J. Molinari, Concerning Water as the Archai: Acheloios, Thales, and the Origin of Philosophy. A Dissertation Providing Philosophical, Mythological, and Archaeological Responses to the Neo-Marxians, Doctoral Dissertation, Newport, RI: Salve Regina University, 2020 https://philpapers.org/rec/MOLCWA-2 
+ 
+ ^ Diogenes Laërtius. "Lives of Eminent Philosophers" . 
+ 
+ ^ The Vienna Lecture 
+ 
+ ^ Kirk, G. S. (1960). "Popper on Science and Presocratics" . Mind . New Series. 67 (275): 330. doi : 10.1093/mind/LXIX.275.318 . JSTOR &#160; 2251995 . 
+ 
+ ^ Graham, Daniel W. "Anaximenes (d. 528 B.C.E.)" . IEP . Retrieved 20 July 2019 . 
+ 
+ ^ Burnet, John (1892). Early Greek Philosophy . A. and C. Black. p.&#160; 29 . 
+ 
+ ^ Life of Pythagoras 3.13 
+ 
+ ^ Curnow, Trevor (22 June 2006). The Philosophers of the Ancient World: An A–Z Guide . A&amp;C Black. ISBN &#160; 9780715634974 . 
+ 
+ ^ Webb, E. J. (1921). "Cleostratus Redivivus" . The Journal of Hellenic Studies . 41 : 70– 85. doi : 10.2307/624797 . JSTOR &#160; 624797 . S2CID &#160; 250254883 . 
+ 
+ 
+ Works cited [ edit ] 
+ Allman, George Johnston (1911). "Thales of Miletus"&#160; . In Chisholm, Hugh (ed.). Encyclopædia Britannica . Vol.&#160;26 (11th&#160;ed.). Cambridge University Press. p.&#160;721. 
+ Boyer, C.B. (1989). A History of Mathematics (2nd&#160;ed.). New York: Wiley . ISBN &#160; 978-0-471-09763-1 . (1991 pbk ed. ISBN &#160; 0-471-54397-7 ; 2011 3rd edition ) 
+ Burnet, John (1920) . Early Greek Philosophy . A &amp; C Black Ltd. Third Edition 
+ Cantor, Lea (2022). "Thales – the 'first philosopher'? A troubled chapter in the historiography of philosophy" . British Journal for the History of Philosophy . 30 (5): 727– 750. doi : 10.1080/09608788.2022.2029347 . 
+ Herodotus , Histories , A. D. Godley (translator), Cambridge: Harvard University Press , 1920; ISBN &#160; 0-674-99133-8 . Online version at Perseus 
+ Störig, Hans Joachim , Kleine Weltgeschichte der Philosophie . Fischer, Frankfurt/M. 2004, ISBN &#160; 3-596-50832-0 . 
+ Lloyd, G. E. R. Early Greek Science: Thales to Aristotle . 
+ Nahm, Milton C. (1962) . Selections from Early Greek Philosophy . Appleton-Century-Crofts . 
+ Pliny the Elder , The Natural History (eds. John Bostock, M.D., F.R.S. H.T. Riley, Esq., B.A.) London. Taylor and Francis . (1855). Online version at the Perseus Digital Library. 
+ Turner, William (1913). "Ionian School of Philosophy"&#160; . In Herbermann, Charles (ed.). Catholic Encyclopedia . New York: Robert Appleton Company. 
+ Further reading [ edit ] 
+ Couprie, Dirk L. (2011). Heaven and Earth in Ancient Greek Cosmology: from Thales to Heraclides Ponticus . Springer. ISBN &#160; 978-1441981158 . 
+ Enache, Cătălin (2025). Thales, Hippias, Aristotle and the Beginnings of Greek Philosophy . Palgrave Macmillan. ISBN &#160; 978-3-031-81156-2 
+ Luchte, James (2011). Early Greek Thought: Before the Dawn . London: Bloomsbury Publishing. ISBN &#160; 978-0567353313 . 
+ O'Grady, Patricia F. (2002). Thales of Miletus: The Beginnings of Western Science and Philosophy . Western Philosophy Series. Vol.&#160;58. Ashgate. ISBN &#160; 978-0754605331 . 
+ Mazzeo, Pietro (2010). Talete, il primo filosofo . Bari: Editrice Tipografica. 
+ Molinari, Nicholas J. (2022). Acheloios, Thales, and the Origin of Philosophy: A Response to the Neo-Marxians . Archaeopress. ISBN &#160; 9781803270869 . 
+ Priou, Alex (2016). " '...Going Further On Down the Road...': The Origin and Foundations of Milesian Thought ." The Review of Metaphysics 70, 3–31. 
+ Russell, Bertrand (1947). A History of Western Philosophy . Traditio Praesocratica. US: Simon &amp; Schuster publisher. ISBN &#160; 0-415-32505-6 . {{ cite book }} : ISBN / Date incompatibility ( help ) 
+ Wöhrle, Georg., ed. (2014). The Milesians: Thales. Translation and additional material by Richard McKirahan . Traditio Praesocratica. Vol.&#160;1. Walter de Gruyter. ISBN &#160; 978-3-11-031525-7 . 
+ External links [ edit ] 
+ 
+ 
+ 
+ Wikimedia Commons has media related to Thales of Miletus . 
+ 
+ 
+ 
+ 
+ Wikiquote has quotations related to Thales . 
+ 
+ Works related to Thales of Miletus at Wikisource 
+ Thales of Miletus from The Internet Encyclopedia of Philosophy 
+ Thales of Miletus MacTutor History of Mathematics 
+ Thales' Theorem – Math Open Reference (with interactive animation) 
+ Thales biography by Charlene Douglass (with extensive bibliography) 
+ Thales of Miletus Life, Work and Testimonies by Giannis Stamatellos 
+ Thales Fragments Archived 24 April 2022 at the Wayback Machine 
+ v t e Seven Sages of Greece 
+ Cleobulus of Lindos 
+ Solon of Athens 
+ Chilon of Sparta 
+ Bias of Priene 
+ Thales of Miletus 
+ Pittacus of Mytilene 
+ Periander of Corinth 
+ ( Myson of Chenae ) 
+ 
+ v t e Ancient Greek astronomy Astronomers 
+ Aglaonice 
+ Agrippa 
+ Anaximander 
+ Andronicus 
+ Apollonius 
+ Aratus 
+ Aristarchus 
+ Aristyllus 
+ Attalus 
+ Autolycus 
+ Bion 
+ Callippus 
+ Cleomedes 
+ Cleostratus 
+ Conon 
+ Eratosthenes 
+ Euctemon 
+ Eudoxus 
+ Geminus 
+ Heraclides 
+ Hicetas 
+ Hipparchus 
+ Hippocrates of Chios 
+ Hypsicles 
+ Menelaus 
+ Meton 
+ Oenopides 
+ Philip of Opus 
+ Philolaus 
+ Posidonius 
+ Ptolemy 
+ Pytheas 
+ Seleucus 
+ Sosigenes of Alexandria 
+ Sosigenes the Peripatetic 
+ Strabo 
+ Thales 
+ Theodosius 
+ Theon of Alexandria 
+ Theon of Smyrna 
+ Timocharis 
+ Treatises Extant 
+ Almagest (Ptolemy) 
+ Analemma (Ptolemy) 
+ Commentary on the Phenomena (Hipparchus) 
+ Diosemeia (Aratus) 
+ Handy Tables (Ptolemy) 
+ Hypotosis (Proclus) 
+ Introduction to the Phenomena (Geminus) 
+ On Risings and Settings (Autolycus) 
+ On Ascensions (Hypsicles) 
+ On Days and Nights (Theodosius) 
+ On Habitations (Theodosius) 
+ On the Circular Motions of the Celestial Bodies (Cleomedes) 
+ On the Heavens (Aristotle) 
+ On the Sizes and Distances (Aristarchus) 
+ On Mathematics Useful for the Understanding of Plato (Theon of Smyrna) 
+ On the Moving Sphere (Autolycus) 
+ Phaenomena (Euclid) 
+ Phenomena (Aratus) 
+ Planisphaerium (Ptolemy) 
+ Planetary Hypothesis (Ptolemy) 
+ Risings of the Fixed Stars (Ptolemy) 
+ Spherics (Menelaus) 
+ Spherics (Theodosius) 
+ The Sand Reckoner (Archimedes) 
+ Fragmentary 
+ Catasterismi (Eratosthenes) 
+ Commentary on the Almagest (Pappus) 
+ Commentary on the Almagest (Theon of Alexandria) 
+ Great Commentary on the Handy Tables (Theon of Alexandria) 
+ History of Astronomy (Eudemus) 
+ Little Commentary on the Handy Tables (Theon of Alexandria) 
+ Meteoroscope (Ptolemy) 
+ On the Measurement of the Earth (Eratosthenes) 
+ On Nature (Anaximander) 
+ On Nature (Philolaus) 
+ On Sizes and Distances (Hipparchus) 
+ Star Catalogue (Hipparchus) 
+ Untitled Work on Heliocentrism (Aristarchus) 
+ Lost 
+ Analemma (Diodorus) 
+ Astronomia (Hesiod) 
+ Description of the Heavens (Democritus) 
+ Commentary on Aratus (Theon of Alexandria) 
+ Commentary on the Analemma of Diodorus (Pappus) 
+ Disappearances of the Sun (Eudoxus) 
+ Eneptron (Eudoxus) 
+ On Fixed Stars (Anaximander) 
+ On Speeds (Eudoxus) 
+ On the Displacement of the Solstitial and Equinoctial Points (Hipparchus) 
+ On the Eight-Year Lunisolar-Venus Cycle (Eudoxus) 
+ On the Equinox (Thales) 
+ On the Great Year (Democritus) 
+ On the Length of the Year (Hipparchus) 
+ On the Solstice (Thales) 
+ On the Sphere (Achilles Tatius) 
+ Nautical Star-guide (Thales) 
+ Phaenomena (Eudoxus) 
+ Planispheres (Democritus) 
+ Rotation of the Earth (Anaximander) 
+ Treatise on the Astrolabe (Theon of Alexandria) 
+ Compilations 
+ Little Astronomy 
+ Instruments 
+ Antikythera mechanism 
+ Armillary sphere 
+ Astrolabe 
+ Dioptra 
+ Equatorial ring 
+ Gnomon 
+ Mural instrument 
+ Triquetrum 
+ Concepts 
+ Callippic cycle 
+ Celestial spheres 
+ Circle of latitude 
+ Counter-Earth 
+ Deferent and epicycle 
+ Equant 
+ Geocentrism 
+ Heliocentrism 
+ Hipparchic cycle 
+ Inferior and superior planets 
+ Metonic cycle 
+ Octaeteris 
+ Solstice 
+ Spherical Earth 
+ Sublunary sphere 
+ Zodiac 
+ Influences 
+ Babylonian astronomy 
+ Egyptian astronomy 
+ Influenced 
+ Medieval European science 
+ Indian astronomy 
+ Medieval Islamic astronomy 
+ 
+ v t e Ancient Greek mathematics Mathematicians (timeline) 
+ Anaxagoras 
+ Anthemius 
+ Apollonius 
+ Archimedes 
+ Archytas 
+ Aristaeus the Elder 
+ Aristarchus 
+ Autolycus 
+ Bion 
+ Bryson 
+ Callippus 
+ Carpus 
+ Chrysippus 
+ Cleomedes 
+ Conon 
+ Ctesibius 
+ Democritus 
+ Dicaearchus 
+ Dinostratus 
+ Diocles 
+ Dionysodorus of Caunus 
+ Dionysodorus of Amisene 
+ Diophantus 
+ Domninus 
+ Eratosthenes 
+ Euclid 
+ Eudemus 
+ Eudoxus 
+ Eutocius 
+ Geminus 
+ Heliodorus 
+ Heron 
+ Hipparchus 
+ Hippasus 
+ Hippias 
+ Hippocrates 
+ Hypatia 
+ Hypsicles 
+ Isidore of Miletus 
+ Leon 
+ Marinus 
+ Menaechmus 
+ Menelaus 
+ Metrodorus 
+ Nicomachus 
+ Nicomedes 
+ Nicoteles 
+ Oenopides 
+ Pandrosion 
+ Pappus 
+ Perseus 
+ Philolaus 
+ Philon 
+ Philonides 
+ Porphyry of Tyre 
+ Posidonius 
+ Proclus 
+ Ptolemy 
+ Pythagoras 
+ Serenus 
+ Sosigenes 
+ Sporus 
+ Thales 
+ Theaetetus 
+ Theodorus 
+ Theodosius 
+ Theon of Alexandria 
+ Theon of Smyrna 
+ Thymaridas 
+ Xenocrates 
+ Zeno of Elea 
+ Zeno of Sidon 
+ Zenodorus 
+ Treatises 
+ Almagest 
+ Arithmetica 
+ Conics (Apollonius) 
+ Catoptrics 
+ Data (Euclid) 
+ Elements (Euclid) 
+ Little Astronomy 
+ Measurement of a Circle 
+ On Conoids and Spheroids 
+ On the Sizes and Distances (Aristarchus) 
+ On Sizes and Distances (Hipparchus) 
+ On the Moving Sphere (Autolycus) 
+ Optics (Euclid) 
+ On Spirals 
+ On the Sphere and Cylinder 
+ Ostomachion 
+ Phaenomena (Euclid) 
+ Planisphaerium 
+ Spherics (Theodosius) 
+ Spherics (Menelaus) 
+ The Quadrature of the Parabola 
+ The Sand Reckoner 
+ Concepts and definitions 
+ Chord 
+ Circles of Apollonius 
+ Apollonian circles 
+ Apollonian gasket 
+ Problem of Apollonius 
+ Commensurability 
+ Diophantine equation 
+ Euclidean geometry 
+ Golden ratio 
+ Lune of Hippocrates 
+ Method of exhaustion 
+ Parallel postulate 
+ Platonic solid 
+ Regular polygon 
+ Straightedge and compass construction 
+ Angle trisection 
+ Doubling the cube 
+ Squaring the circle 
+ Quadratrix of Hippias 
+ Neusis construction 
+ Results In Elements 
+ Angle bisector theorem 
+ Exterior angle theorem 
+ Euclidean algorithm 
+ Euclid's theorem 
+ Geometric mean theorem 
+ Hinge theorem 
+ Inscribed angle theorem 
+ Intercept theorem 
+ Intersecting chords theorem 
+ Intersecting secants theorem 
+ Law of cosines 
+ Pons asinorum 
+ Pythagorean theorem 
+ Tangent-secant theorem 
+ Thales's theorem 
+ Theorem of the gnomon 
+ 
+ Apollonius's theorem 
+ Aristarchus's inequality 
+ Heron's formula 
+ Law of sines 
+ Menelaus's theorem 
+ Pappus's area theorem 
+ Problem II.8 of Arithmetica 
+ Ptolemy's inequality 
+ Ptolemy's table of chords 
+ Ptolemy's theorem 
+ Spiral of Theodorus Centers/Schools 
+ Cyrene 
+ Platonic Academy 
+ Pythagoreanism 
+ School of Chios 
+ Related 
+ Ancient Greek astronomy 
+ Attic numerals 
+ Greek numerals 
+ History of 
+ A History of Greek Mathematics 
+ by Thomas Heath 
+ Archimedes Palimpsest 
+ algebra 
+ timeline 
+ arithmetic 
+ timeline 
+ calculus 
+ timeline 
+ geometry 
+ timeline 
+ logic 
+ timeline 
+ mathematics 
+ timeline 
+ numbers 
+ prehistoric counting 
+ numeral systems 
+ list 
+ Other cultures 
+ Arabian/Islamic 
+ Babylonian 
+ Chinese 
+ Egyptian 
+ Inca 
+ Indian 
+ Japanese 
+ Ancient Greece&#32;portal &#160;&#8226;&#32; Mathematics&#32;portal 
+ v t e Ancient Greek schools of philosophy Proto-philosophy 
+ Epimenides 
+ Pherecydes 
+ Seven Sages 
+ Thales 
+ Solon 
+ Pittacus 
+ Bias 
+ Periander 
+ Cleobulus 
+ Chilon 
+ 
+ Pre-Socratic ( list ) Ionian Milesian 
+ Thales 
+ Anaximander 
+ Anaximenes 
+ Heraclitean 
+ Heraclitus 
+ Cratylus 
+ 
+ Diogenes 
+ Italian Pythagorean 
+ Pythagoras 
+ Hippasus 
+ Philolaus 
+ Archytas 
+ Lamiskos 
+ Alcmaeon 
+ Brontinus 
+ Theano 
+ Damo 
+ Calliphon 
+ Hermotimus 
+ Metrodorus of Cos 
+ Arignote 
+ Myia 
+ Eurytus 
+ more... 
+ Skeptic 
+ Xenophanes 
+ Xeniades 
+ Eleatic 
+ Parmenides 
+ Zeno 
+ Melissus 
+ 
+ Hippo Pluralist Ionian 
+ Anaxagoras 
+ Archelaus 
+ Metrodorus of Lampsacus 
+ Italian 
+ Empedocles 
+ Acron 
+ Pausanias 
+ Atomist 
+ Leucippus 
+ Democritus 
+ Sophist Ionian 
+ Protagoras 
+ Prodicus 
+ Hippias 
+ Thrasymachus 
+ Damon 
+ more... 
+ Italian 
+ Gorgias 
+ Callicles 
+ Lycophron 
+ Dionysodorus 
+ Euthydemus 
+ more... 
+ Classical 
+ Socrates ( students ) 
+ Xenophon 
+ Cynic 
+ Antisthenes 
+ Diogenes 
+ Crates 
+ Menippus 
+ more... 
+ Cyrenaic 
+ Aristippus 
+ Aristippus the Younger 
+ Theodorus the Atheist 
+ Hegesias of Cyrene 
+ Anniceris 
+ more... 
+ Eretrian 
+ Phaedo of Elis 
+ Menedemus 
+ Asclepiades of Phlius 
+ Megarian 
+ Euclid of Megara 
+ Ichthyas 
+ Thrasymachus of Corinth 
+ Eubulides 
+ Stilpo 
+ Nicarete 
+ Pasicles 
+ Bryson 
+ Dialecticians 
+ Clinomachus 
+ Apollonius Cronus 
+ Euphantus 
+ Dionysius 
+ Diodorus Cronus 
+ Philo 
+ Alexinus 
+ Panthoides 
+ 
+ Platonic 
+ Plato 
+ Speusippus 
+ Xenocrates 
+ more... 
+ Peripatetic 
+ Aristotle ( Aristotelianism ) 
+ Theophrastus 
+ Strato of Lampsacus 
+ Lyco of Troas 
+ Alexander of Aphrodisias 
+ more... 
+ 
+ Hellenistic Pyrrhonist 
+ Pyrrho 
+ Timon of Phlius 
+ Aenesidemus 
+ Agrippa the Skeptic 
+ Sextus Empiricus 
+ more... 
+ Stoic 
+ Zeno of Citium 
+ Cleanthes 
+ Chrysippus 
+ Panaetius 
+ Posidonius 
+ Seneca 
+ Lucius Annaeus Cornutus 
+ Musonius Rufus 
+ Epictetus 
+ Arrian 
+ Marcus Aurelius 
+ more... 
+ Epicurean 
+ Epicurus 
+ Metrodorus 
+ Zeno of Sidon 
+ Philodemus 
+ Lucretius 
+ Diogenes of Oenoanda 
+ more... 
+ Academic Skeptic 
+ Arcesilaus 
+ Carneades 
+ Philo of Larissa 
+ Cicero 
+ more... 
+ Middle Platonic 
+ Antiochus 
+ Eudorus of Alexandria 
+ Philo of Alexandria 
+ Plutarch 
+ Gaius 
+ Apuleius 
+ Alcinous 
+ Galen 
+ more... 
+ Neopythagorean 
+ Nigidius Figulus 
+ Apollonius of Tyana 
+ Moderatus of Gades 
+ Nicomachus 
+ Numenius of Apamea 
+ more... 
+ Neoplatonist 
+ Ammonius Saccas 
+ Plotinus 
+ students 
+ Origen 
+ Porphyry 
+ Iamblichus 
+ Julian 
+ Plutarch of Athens 
+ Syrianus 
+ Proclus 
+ Ammonius Hermiae 
+ Damascius 
+ Simplicius 
+ more... 
+ Second Sophistic 
+ Nicetes of Smyrna 
+ Dio Chrysostom 
+ Favorinus 
+ Lucian 
+ Philostratus 
+ more... 
+ 
+ v t e Ancient Greece 
+ Timeline 
+ History Geography Periods 
+ Cycladic civilization 
+ Minoan civilization 
+ Mycenaean Greece 
+ Greek Dark Ages 
+ Archaic Greece 
+ Classical Greece 
+ Hellenistic Greece 
+ Roman Greece 
+ Geography 
+ Aegean Sea 
+ Aeolis 
+ Crete 
+ Cyrenaica 
+ Cyprus 
+ Doris 
+ Epirus 
+ Hellespont 
+ Ionia 
+ Ionian Sea 
+ Macedonia 
+ Magna Graecia 
+ Peloponnesus 
+ Pontus 
+ Taurica 
+ Ancient Greek colonies 
+ City states Politics Military City states 
+ Argos 
+ Athens 
+ Byzantion 
+ Chalcis 
+ Corinth 
+ Ephesus 
+ Miletus 
+ Pergamon 
+ Eretria 
+ Kerkyra 
+ Larissa 
+ Megalopolis 
+ Thebes 
+ Megara 
+ Rhodes 
+ Samos 
+ Sparta 
+ Lissus (Crete) 
+ Kingdoms 
+ Bithynia 
+ Cappadocia 
+ Epirus 
+ Greco-Bactrian Kingdom 
+ Indo-Greek Kingdom 
+ Macedonia 
+ Pergamon 
+ Pontus 
+ Ptolemaic Kingdom 
+ Seleucid Empire 
+ Federations / Confederations 
+ Doric Hexapolis ( c. &#8201;1100 &#160;– c. &#8201;560 BC ) 
+ Italiote League ( c. &#8201;800 –389 BC) 
+ Ionian League (c. 650–404 BC) 
+ Peloponnesian League ( c. &#8201;550 –366 BC) 
+ Amphictyonic League ( c. &#8201;595 –279 BC) 
+ Acarnanian League (c. 500–31 BC) 
+ Hellenic League (499–449 BC) 
+ Delian League (478–404 BC) 
+ Chalcidian League (430–348 BC) 
+ Boeotian League (c. 424–c. 395 BC) 
+ Aetolian League (c. 400–188 BC) 
+ Second Athenian League (378–355 BC) 
+ Thessalian League (374–196 BC) 
+ Arcadian League (370–c. 230 BC) 
+ Epirote League (370–168 BC) 
+ League of Corinth (338–322 BC) 
+ Euboean League (c. 300 BC–c. 300 AD) 
+ Achaean League (280–146 BC) 
+ Politics 
+ Boule 
+ Free city 
+ Koinon 
+ Proxeny 
+ Stasis 
+ Tagus 
+ Tyrant 
+ Athenian 
+ Agora 
+ Areopagus 
+ Dikasterion 
+ Ecclesia 
+ Graphe paranomon 
+ Heliaia 
+ Ostracism 
+ Spartan 
+ Ekklesia 
+ Ephor 
+ Gerousia 
+ Macedon 
+ Synedrion 
+ Koinon 
+ Military 
+ Wars 
+ Athenian military 
+ Scythian archers 
+ Antigonid Macedonian army 
+ Army of Macedon 
+ Ballista 
+ Cretan archers 
+ Hellenistic armies 
+ Hippeis 
+ Hoplite 
+ Hetairoi 
+ Macedonian phalanx 
+ Military of Mycenaean Greece 
+ Phalanx 
+ Peltast 
+ Pezhetairos 
+ Sarissa 
+ Sacred Band of Thebes 
+ Sciritae 
+ Seleucid army 
+ Spartan army 
+ Strategos 
+ Toxotai 
+ Xiphos 
+ Xyston 
+ People List of ancient Greeks Rulers 
+ Kings of Argos 
+ Archons of Athens 
+ Kings of Athens 
+ Kings of Commagene 
+ Diadochi 
+ Kings of Macedonia 
+ Kings of Paionia 
+ Attalid kings of Pergamon 
+ Kings of Pontus 
+ Ptolemaic dynasty 
+ Seleucid dynasty 
+ Kings of Sparta 
+ Tyrants of Syracuse 
+ Artists &amp; scholars 
+ Astronomers 
+ Geographers 
+ Historians 
+ Mathematicians 
+ Philosophers 
+ Playwrights 
+ Poets 
+ Seven Sages 
+ Writers 
+ Philosophers 
+ Anaxagoras 
+ Anaximander 
+ Anaximenes 
+ Antisthenes 
+ Aristippus 
+ Aristotle 
+ Democritus 
+ Diogenes of Sinope 
+ Empedocles 
+ Epicurus 
+ Gorgias 
+ Heraclitus 
+ Hypatia 
+ Leucippus 
+ Parmenides 
+ Plato 
+ Protagoras 
+ Pythagoras 
+ Socrates 
+ Thales 
+ Zeno 
+ Authors 
+ Aeschylus 
+ Aesop 
+ Alcaeus 
+ Archilochus 
+ Aristophanes 
+ Bacchylides 
+ Diodorus Siculus 
+ Euripides 
+ Herodotus 
+ Hesiod 
+ Hipponax 
+ Homer 
+ Ibycus 
+ Lucian 
+ Menander 
+ Mimnermus 
+ Panyassis 
+ Philocles 
+ Pindar 
+ Plutarch 
+ Polybius 
+ Sappho 
+ Simonides 
+ Sophocles 
+ Stesichorus 
+ Theognis 
+ Thucydides 
+ Timocreon 
+ Tyrtaeus 
+ Xenophon 
+ Others 
+ Athenian statesmen 
+ Lawgivers 
+ Olympic victors 
+ Tyrants 
+ By culture 
+ Ancient Greek tribes 
+ Thracian Greeks 
+ Ancient Macedonians 
+ Society Culture Society 
+ Agriculture 
+ Animals 
+ Calendar 
+ Clothing 
+ Coinage 
+ Cuisine 
+ Economy 
+ Education 
+ Emporium 
+ Euergetism 
+ Festivals 
+ Folklore 
+ Homosexuality 
+ Law 
+ Olympic Games 
+ Pederasty 
+ Philosophy 
+ Prostitution 
+ Religion 
+ Slavery 
+ Warfare 
+ Wedding customs 
+ Wine 
+ Arts and science 
+ Architecture 
+ Greek Revival architecture 
+ Astronomy 
+ Literature 
+ Mathematics 
+ Medicine 
+ Music 
+ Musical system 
+ Pottery 
+ Sculpture 
+ Technology 
+ Theatre 
+ Religion 
+ Funeral and burial practices 
+ Mythology 
+ Deities 
+ Temple 
+ Twelve Olympians 
+ Underworld 
+ Sacred places 
+ Eleusis 
+ Delphi 
+ Delos 
+ Dion 
+ Dodona 
+ Mount Olympus 
+ Olympia 
+ Structures 
+ Athenian Treasury 
+ Lion Gate 
+ Long Walls 
+ Philippeion 
+ Theatre of Dionysus 
+ Tunnel of Eupalinos 
+ Temples 
+ Aphaea 
+ Artemis 
+ Athena Nike 
+ Erechtheion 
+ Hephaestus 
+ Hera, Olympia 
+ Parthenon 
+ Samothrace 
+ Zeus, Olympia 
+ Language 
+ Proto-Greek 
+ Mycenaean 
+ Homeric 
+ Dialects 
+ Aeolic 
+ Arcadocypriot 
+ Attic 
+ Doric 
+ Epirote 
+ Ionic 
+ Locrian 
+ Macedonian 
+ Pamphylian 
+ Koine 
+ Writing 
+ Linear A 
+ Linear B 
+ Cypriot syllabary 
+ Greek alphabet 
+ Greek numerals 
+ Attic numerals 
+ Greek colonisation Magna Graecia Mainland Italy 
+ Alision 
+ Ankṓn 
+ Brentesion 
+ Caulonia 
+ Chone 
+ Croton 
+ Cumae 
+ Elea 
+ Heraclea Lucania 
+ Hipponion 
+ Hydrus 
+ Krimisa 
+ Laüs 
+ Locri 
+ Medma 
+ Metauros 
+ Metapontion 
+ Neápolis 
+ Pandosia (Lucania) 
+ Poseidonia 
+ Pixous 
+ Rhegion 
+ Scylletium 
+ Siris 
+ Sybaris 
+ Sybaris on the Traeis 
+ Taras 
+ Terina 
+ Thurii 
+ Sicily 
+ Akragas 
+ Akrai 
+ Akrillai 
+ Apollonia 
+ Calacte 
+ Casmenae 
+ Catana 
+ Gela 
+ Helorus 
+ Henna 
+ Heraclea Minoa 
+ Himera 
+ Hybla Gereatis 
+ Hybla Heraea 
+ Kamarina 
+ Leontinoi 
+ Megara Hyblaea 
+ Messana 
+ Naxos 
+ Segesta 
+ Selinous 
+ Syracuse 
+ Tauromenion 
+ Thermae 
+ Tyndaris 
+ Aeolian Islands 
+ Didyme 
+ Euonymos 
+ Ereikousa 
+ Hycesia 
+ Lipara/Meligounis 
+ Phoenicusa 
+ Strongyle 
+ Therassía 
+ Cyrenaica 
+ Balagrae 
+ Barca 
+ Berenice 
+ Cyrene ( Apollonia ) 
+ Ptolemais 
+ Iberian Peninsula 
+ Akra Leuke 
+ Alonis 
+ Emporion 
+ Helike 
+ Hemeroscopion 
+ Kalathousa 
+ Kypsela 
+ Mainake 
+ Menestheus's Limin 
+ Illicitanus Limin/Portus Illicitanus 
+ Rhode 
+ Salauris 
+ Zacynthos 
+ Illyria 
+ Aspalathos 
+ Apollonia 
+ Aulon 
+ Epidamnos 
+ Epidauros 
+ Issa 
+ Melaina Korkyra 
+ Nymphaion 
+ Orikon 
+ Pharos 
+ Tragurion 
+ Thronion 
+ Black Sea basin North coast 
+ Akra 
+ Borysthenes 
+ Charax 
+ Chersonesus 
+ Dioscurias 
+ Gorgippia 
+ Hermonassa 
+ Kalos Limen 
+ Kepoi 
+ Kerkinitis 
+ Kimmerikon 
+ Myrmekion 
+ Nikonion 
+ Nymphaion 
+ Olbia 
+ Pantikapaion 
+ Phanagoria 
+ Pityus 
+ Tanais 
+ Theodosia 
+ Tyras 
+ Tyritake 
+ South coast 
+ Abonoteichos 
+ Amisos 
+ Anchialos 
+ Apollonia 
+ Athina 
+ Bathus 
+ Dionysopolis 
+ Cotyora 
+ Cytorus 
+ Eupatoria 
+ Heraclea 
+ Kerasous 
+ Mesambria 
+ Odessos 
+ Oinòe 
+ Phasis 
+ Polemonion 
+ Rhizos 
+ Salmydessus 
+ Sesamus 
+ Sinope 
+ Thèrmae 
+ Tium 
+ Trapezous 
+ Tripolis 
+ Zaliche 
+ Lists 
+ Cities 
+ in Epirus 
+ People 
+ Place names 
+ Stoae 
+ Temples 
+ Theatres 
+ 
+ Category 
+ Portal 
+ Outline 
+ 
+ Authority control databases International ISNI VIAF 2 3 4 5 6 7 8 9 10 11 12 GND FAST WorldCat National United States France BnF data Japan Italy Czech Republic Spain Netherlands Greece Korea Poland Vatican Israel Catalonia Academics zbMATH MathSciNet Artists MusicBrainz People Deutsche Biographie DDB Other IdRef Yale LUX

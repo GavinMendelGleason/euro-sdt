@@ -172,7 +172,7 @@ print(f"\nDone! Success: {success}, No PDF: {no_pdf}, PDF fails: {pdf_fail}, Par
 
 # Save results
 df = pd.DataFrame(results)
-df.to_csv('mep_declarations.csv', index=False)
+df.to_csv('data/affiliations/mep_declarations.csv', index=False)
 print(f"Saved {len(df)} MEP declarations to mep_declarations.csv")
 
 if errors:

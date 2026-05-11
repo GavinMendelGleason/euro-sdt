@@ -212,7 +212,7 @@ df_cv = pd.DataFrame(rows)
 print(f"\nFinal CVs: {len(df_cv)} MEPs")
 
 # Match with existing MEP list
-df_meps = pd.read_csv('meps_2024_2029.csv')
+df_meps = pd.read_csv('data/meps_2024_2029.csv')
 df_meps['Name_upper'] = df_meps['Name'].str.upper()
 df_cv['name_upper'] = df_cv['name'].str.upper()
 
@@ -222,11 +222,11 @@ matched = df_merged['wikidata_id'].notna().sum()
 print(f"Matched {matched} / {len(df_merged)} MEPs in our list")
 
 # Keep only the matched, enriched MEPs
-df_merged.to_csv('meps_2024_2029.csv', index=False)
+df_merged.to_csv('data/meps_2024_2029.csv', index=False)
 print("Saved enriched meps_2024_2029.csv")
 
 # Also save standalone CV data
-df_cv.to_csv('mep_cv_data.csv', index=False)
+df_cv.to_csv('data/cvs/mep_cv_data.csv', index=False)
 print("Saved mep_cv_data.csv")
 
 # Summary
