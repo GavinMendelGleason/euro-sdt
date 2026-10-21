@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Andrus Ansip](../people/andrus-ansip.md) — employed_by  
+- [[people/andrus-ansip|Andrus Ansip]] — employed_by  
   > "From 1989 to 1993 Andrus Ansip also managed a Tartu branch of AS Estkompexim."
-  > Source: [Andrus Ansip](../sources/wikipedia-andrus-ansip.md) · grade C
+  > Source: [[sources/wikipedia-andrus-ansip|Andrus Ansip]] · grade C

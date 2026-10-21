@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Pál Schmitt](../people/pal-schmitt.md)  
+- [[people/pal-schmitt|Pál Schmitt]]  
   > "After winning two Hungarian Championship titles in individual competitions he participated as part of the Hungarian National Fencing Team 130 times between 1965 and 1977."
-  > Source: [P L Schmitt](../sources/wikipedia-p-l-schmitt.md) · grade C
+  > Source: [[sources/wikipedia-p-l-schmitt|P L Schmitt]] · grade C

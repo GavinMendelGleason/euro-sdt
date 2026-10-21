@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Ildikó Pelczné Gáll](../people/ildiko-pelczne-gall.md)  
+- [[people/ildiko-pelczne-gall|Ildikó Pelczné Gáll]]  
   > "She is a member of Fidesz , part of the European People's Party ."
-  > Source: [Ildik Pelczn Gll](../sources/wikipedia-ildik-pelczn-gll.md) · grade C
+  > Source: [[sources/wikipedia-ildik-pelczn-gll|Ildik Pelczn Gll]] · grade C

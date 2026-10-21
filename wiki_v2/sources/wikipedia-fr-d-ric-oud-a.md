@@ -16,7 +16,7 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (2)
 
-- [Frédéric Oudéa](../people/frederic-oudea.md) — educated_at — École Polytechnique
+- [[people/frederic-oudea|Frédéric Oudéa]] — educated_at — École Polytechnique
   > "He then went to the École polytechnique , followed by the École nationale d'administration ."
-- [Frédéric Oudéa](../people/frederic-oudea.md) — educated_at — École nationale d'administration
+- [[people/frederic-oudea|Frédéric Oudéa]] — educated_at — École nationale d'administration
   > "He then went to the École polytechnique , followed by the École nationale d'administration ."

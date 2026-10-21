@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Pat Cox](../people/pat-cox.md) — board_member  
+- [[people/pat-cox|Pat Cox]] — board_member  
   > "In June 2009, Pat Cox temporarily stepped down as president and took over the position of the campaign director for the pro- Lisbon treaty initiative Ireland for Europe ."
-  > Source: [Pat Cox](../sources/wikipedia-pat-cox.md) · grade A
+  > Source: [[sources/wikipedia-pat-cox|Pat Cox]] · grade A

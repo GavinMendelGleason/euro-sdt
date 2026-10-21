@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Frans Timmermans](../people/frans-timmermans.md)  
+- [[people/frans-timmermans|Frans Timmermans]]  
   > "From 1975 until 1980, he attended the athenaeum Bernardinuscollege in Heerlen, where he settled."
-  > Source: [Frans Timmermans](../sources/wikipedia-frans-timmermans.md) · grade B
+  > Source: [[sources/wikipedia-frans-timmermans|Frans Timmermans]] · grade B

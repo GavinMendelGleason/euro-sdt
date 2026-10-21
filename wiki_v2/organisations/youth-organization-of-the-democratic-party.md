@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Markos Kyprianou](../people/markos-kyprianou.md) — chair  
+- [[people/markos-kyprianou|Markos Kyprianou]] — chair  
   > "1993–1997 President of the Youth Organization of the Democratic Party"
-  > Source: [Markos Kyprianou](../sources/wikipedia-markos-kyprianou.md) · grade A
+  > Source: [[sources/wikipedia-markos-kyprianou|Markos Kyprianou]] · grade A

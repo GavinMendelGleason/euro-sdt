@@ -18,26 +18,26 @@ Mep
 
 ## Education
 
-- [economics-academy-wroc-aw](../organisations/economics-academy-wroc-aw.md)  
+- [[organisations/economics-academy-wroc-aw|economics-academy-wroc-aw]]  
   > "Education [ edit ] 1981: Master of Economics, Economics Academy, Wrocław, Department of Administration and Information Sciences, Economic Cybernetics and Statistics studies 1997: Marketing Studies in Culture at the World Economy Institute, Warsaw School of Economics 1999: French Institute of Administration in Warsaw 2001: Advanced diploma of proficiency in the French language - DALF Career [ edit ] 1995-1997: Editorial staff at Polish Television S.A (1989-2001), journalist on the wee"
-  > Source: [Lidia Geringer De Oedenberg](../sources/wikipedia-lidia-geringer-de-oedenberg.md) · grade C
+  > Source: [[sources/wikipedia-lidia-geringer-de-oedenberg|Lidia Geringer De Oedenberg]] · grade C
 
 ## Membership
 
-- [Democratic Left Alliance](../organisations/democratic-left-alliance.md)  
+- [[organisations/democratic-left-alliance|Democratic Left Alliance]]  
   > "somce 2006: Member of the Democratic Left Alliance (SLD) party since 2008: Member of the National Council of the SLD 2009: Re-elected as Member of the European Parliament."
-  > Source: [Lidia Geringer De Oedenberg](../sources/wikipedia-lidia-geringer-de-oedenberg.md) · grade A
+  > Source: [[sources/wikipedia-lidia-geringer-de-oedenberg|Lidia Geringer De Oedenberg]] · grade A
 
-- [National Council of the SLD](../organisations/national-council-of-the-sld.md)  
+- [[organisations/national-council-of-the-sld|National Council of the SLD]]  
   > "somce 2006: Member of the Democratic Left Alliance (SLD) party since 2008: Member of the National Council of the SLD 2009: Re-elected as Member of the European Parliament."
-  > Source: [Lidia Geringer De Oedenberg](../sources/wikipedia-lidia-geringer-de-oedenberg.md) · grade A
+  > Source: [[sources/wikipedia-lidia-geringer-de-oedenberg|Lidia Geringer De Oedenberg]] · grade A
 
-- [Pro-Single Seat MEP Alliance](../organisations/pro-single-seat-mep-alliance.md)  
+- [[organisations/pro-single-seat-mep-alliance|Pro-Single Seat MEP Alliance]]  
   > "Activism [ edit ] Single Seat Lidia Geringer de Oedenberg is a member of the Pro-Single Seat MEP Alliance in the European Parliament."
-  > Source: [Lidia Geringer De Oedenberg](../sources/wikipedia-lidia-geringer-de-oedenberg.md) · grade A
+  > Source: [[sources/wikipedia-lidia-geringer-de-oedenberg|Lidia Geringer De Oedenberg]] · grade A
 
 ## Board / trustee
 
-- [European Festivals Association (EFA)](../organisations/european-festivals-association-efa.md) — board_member  
+- [[organisations/european-festivals-association-efa|European Festivals Association (EFA)]] — board_member  
   > "somce 2006: Member of the Democratic Left Alliance (SLD) party since 2008: Member of the National Council of the SLD 2009: Re-elected as Member of the European Parliament."
-  > Source: [Lidia Geringer De Oedenberg](../sources/wikipedia-lidia-geringer-de-oedenberg.md) · grade A
+  > Source: [[sources/wikipedia-lidia-geringer-de-oedenberg|Lidia Geringer De Oedenberg]] · grade A

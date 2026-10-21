@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Kristalina Georgieva](../people/kristalina-georgieva.md) — employed_by  
+- [[people/kristalina-georgieva|Kristalina Georgieva]] — employed_by  
   > "On 12 April 2024, Georgieva was reappointed by the IMF executive board to serve for a second five-year term."
-  > Source: [Kristalina Georgieva](../sources/wikipedia-kristalina-georgieva.md) · grade A
+  > Source: [[sources/wikipedia-kristalina-georgieva|Kristalina Georgieva]] · grade A

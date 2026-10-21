@@ -18,56 +18,56 @@ Commissioner · EST
 
 ## Commission service
 
-- [VdL I Commission](../commissions/vdl-i-commission.md)  
+- [[commissions/vdl-i-commission|VdL I Commission]]  
   > "Kadri Simson (née Must, born 22 January 1977) is an Estonian politician, formerly from the Centre Party, who served as the European Commissioner for Energy in the von der Leyen Commission between 2019"
-  > Source: [Kadri Simson](../sources/wikipedia-kadri-simson.md) · grade C
+  > Source: [[sources/wikipedia-kadri-simson|Kadri Simson]] · grade C
 
 ## Portfolio
 
 - Energy  
   > "Kadri Simson (née Must, born 22 January 1977) is an Estonian politician, formerly from the Centre Party, who served as the European Commissioner for Energy in the von der Leyen Commission between 2019"
-  > Source: [Kadri Simson](../sources/wikipedia-kadri-simson.md) · grade A
+  > Source: [[sources/wikipedia-kadri-simson|Kadri Simson]] · grade A
 
 ## Nominated by
 
 - EST  
   > "Kadri Simson (née Must, born 22 January 1977) is an Estonian politician, formerly from the Centre Party, who served as the European Commissioner for Energy in the von der Leyen Commission between 2019 and 2024."
-  > Source: [Kadri Simson](../sources/wikipedia-kadri-simson.md) · grade A
+  > Source: [[sources/wikipedia-kadri-simson|Kadri Simson]] · grade A
 
 ## Country
 
 - Estonia  
   > "Kadri Simson (née Must, born 22 January 1977) is an Estonian politician, formerly from the Centre Party, who served as the European Commissioner for Energy in the von der Leyen Commission between 2019"
-  > Source: [Kadri Simson](../sources/wikipedia-kadri-simson.md) · grade A
+  > Source: [[sources/wikipedia-kadri-simson|Kadri Simson]] · grade A
 
 ## Education
 
-- [Tartu 10Th Middle School](../organisations/tartu-10th-middle-school.md)  
+- [[organisations/tartu-10th-middle-school|Tartu 10Th Middle School]]  
   > "Simson graduated from Tartu 10th Middle School in 1995, Tartu University in 2000, (majoring in history)."
-  > Source: [Kadri Simson](../sources/wikipedia-kadri-simson.md) · grade A
+  > Source: [[sources/wikipedia-kadri-simson|Kadri Simson]] · grade A
 
-- [University College London](../organisations/university-college-london.md)  
+- [[organisations/university-college-london|University College London]]  
   > "She holds an MA in Political Science from University College London (2003)."
-  > Source: [Kadri Simson](../sources/wikipedia-kadri-simson.md) · grade A
+  > Source: [[sources/wikipedia-kadri-simson|Kadri Simson]] · grade A
 
 ## Membership
 
-- [Estonian Centre Party](../organisations/estonian-centre-party.md) — party_member  
+- [[organisations/estonian-centre-party|Estonian Centre Party]] — party_member  
   > "Simson was a member of the Estonian Centre Party from 1995 to 2024."
-  > Source: [Kadri Simson](../sources/wikipedia-kadri-simson.md) · grade A
+  > Source: [[sources/wikipedia-kadri-simson|Kadri Simson]] · grade A
 
-- [Paris Peace Forum](../organisations/paris-peace-forum.md)  
+- [[organisations/paris-peace-forum|Paris Peace Forum]]  
   > "Paris Peace Forum, Member of the Global Council for Responsible Transition Minerals (since 2025)"
-  > Source: [Kadri Simson](../sources/wikipedia-kadri-simson.md) · grade A
+  > Source: [[sources/wikipedia-kadri-simson|Kadri Simson]] · grade A
 
 ## Board / trustee
 
-- [NGO Institute of Recent Studies](../organisations/ngo-institute-of-recent-studies.md) — board_member  
+- [[organisations/ngo-institute-of-recent-studies|NGO Institute of Recent Studies]] — board_member  
   > "Simson was a board member of the NGO Institute of Recent Studies."
-  > Source: [Kadri Simson](../sources/wikipedia-kadri-simson.md) · grade A
+  > Source: [[sources/wikipedia-kadri-simson|Kadri Simson]] · grade A
 
 ## Chair / president
 
-- [Pärnumaa region](../organisations/parnumaa-region.md) — chair  
+- [[organisations/parnumaa-region|Pärnumaa region]] — chair  
   > "Simson served as chairwoman of the Pärnumaa region from 2011 until 2021."
-  > Source: [Kadri Simson](../sources/wikipedia-kadri-simson.md) · grade A
+  > Source: [[sources/wikipedia-kadri-simson|Kadri Simson]] · grade A

@@ -16,7 +16,7 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (2)
 
-- [Jean-François van Boxmeer](../people/jean-francois-van-boxmeer.md) — educated_at — Facultés universitaires Notre-Dame de la Paix
+- [[people/jean-francois-van-boxmeer|Jean-François van Boxmeer]] — educated_at — Facultés universitaires Notre-Dame de la Paix
   > "He received a master's degree in economics from the Facultés universitaires Notre-Dame de la Paix in Namur, Belgium in 1984."
-- [Jean-François van Boxmeer](../people/jean-francois-van-boxmeer.md) — employed_by — Vodafone
+- [[people/jean-francois-van-boxmeer|Jean-François van Boxmeer]] — employed_by — Vodafone
   > "=== Corporate boards === Vodafone Group PLC, Chair of the Board (since 2020) Henkel, Member of the Shareholders' Committee (since 2013) Mondelēz International, Member of the Board of Directors (since 2010)"

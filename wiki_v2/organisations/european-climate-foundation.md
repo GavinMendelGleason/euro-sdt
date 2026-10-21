@@ -14,9 +14,9 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Connie Hedegaard](../people/connie-hedegaard.md) — board_member  
+- [[people/connie-hedegaard|Connie Hedegaard]] — board_member  
   > "European Climate Foundation, Member of the Supervisory Board"
-  > Source: [Connie Hedegaard](../sources/wikipedia-connie-hedegaard.md) · grade A
-- [Pascal Lamy](../people/pascal-lamy.md) — board_member  
+  > Source: [[sources/wikipedia-connie-hedegaard|Connie Hedegaard]] · grade A
+- [[people/pascal-lamy|Pascal Lamy]] — board_member  
   > "European Climate Foundation, Member of the Supervisory Board"
-  > Source: [Pascal Lamy](../sources/wikipedia-pascal-lamy.md) · grade A
+  > Source: [[sources/wikipedia-pascal-lamy|Pascal Lamy]] · grade A

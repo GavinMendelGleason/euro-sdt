@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Timo Soini](../people/timo-soini.md)  
+- [[people/timo-soini|Timo Soini]]  
   > "&#91; 2 &#93; He was elected as a member of the Espoo city council in 2000, and the Parliament of Finland in 2003."
-  > Source: [Timo Soini](../sources/wikipedia-timo-soini.md) · grade A
+  > Source: [[sources/wikipedia-timo-soini|Timo Soini]] · grade A

@@ -14,12 +14,12 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Jutta Urpilainen](../people/jutta-urpilainen.md) — board_member  
+- [[people/jutta-urpilainen|Jutta Urpilainen]] — board_member  
   > "Multilateral Investment Guarantee Agency (MIGA), World Bank Group, Ex-Officio Member of the Board of Governors (2011–2014)"
-  > Source: [Jutta Urpilainen](../sources/wikipedia-jutta-urpilainen.md) · grade A
-- [Magnus Brunner](../people/magnus-brunner.md) — board_member  
+  > Source: [[sources/wikipedia-jutta-urpilainen|Jutta Urpilainen]] · grade A
+- [[people/magnus-brunner|Magnus Brunner]] — board_member  
   > "Multilateral Investment Guarantee Agency (MIGA), World Bank Group, Ex-Officio Member of the Board of Governors (since 2021)"
-  > Source: [Magnus Brunner](../sources/wikipedia-magnus-brunner.md) · grade A
-- [Wopke Hoekstra](../people/wopke-hoekstra.md) — board_member  
+  > Source: [[sources/wikipedia-magnus-brunner|Magnus Brunner]] · grade A
+- [[people/wopke-hoekstra|Wopke Hoekstra]] — board_member  
   > "Multilateral Investment Guarantee Agency (MIGA), World Bank Group, Ex-Officio Member of the Board of Governors (2017–2021)"
-  > Source: [Wopke Hoekstra](../sources/wikipedia-wopke-hoekstra.md) · grade A
+  > Source: [[sources/wikipedia-wopke-hoekstra|Wopke Hoekstra]] · grade A

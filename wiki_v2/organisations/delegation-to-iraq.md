@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Charlie Weimers](../people/charlie-weimers.md)  
+- [[people/charlie-weimers|Charlie Weimers]]  
   > "&#91; 9 &#93; &#91; 10 &#93; &#91; 11 &#93; In the European Parliament Weimers has supported motions calling on the EU to classify the Grey Wolves and ANTIFA as terrorist organisations &#91; 12 &#93; &#91; 13 &#93; &#91; 14 &#93; and to improve information for citizens on Commission roadmaps."
-  > Source: [Charlie Weimers](../sources/wikipedia-charlie-weimers.md) · grade A
+  > Source: [[sources/wikipedia-charlie-weimers|Charlie Weimers]] · grade A

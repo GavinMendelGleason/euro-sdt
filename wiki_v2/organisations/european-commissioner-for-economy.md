@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Paolo Gentiloni](../people/paolo-gentiloni.md) — employed_by  
+- [[people/paolo-gentiloni|Paolo Gentiloni]] — employed_by  
   > "Paolo Gentiloni Silveri (Italian pronunciation: [ˈpaːolo dʒentiˈloːni]; born 22 November 1954) is an Italian politician who was European Commissioner for Economy in the von der Leyen Commission from 1 December 2019 to 30 November 2024."
-  > Source: [Paolo Gentiloni](../sources/wikipedia-paolo-gentiloni.md) · grade C
+  > Source: [[sources/wikipedia-paolo-gentiloni|Paolo Gentiloni]] · grade C

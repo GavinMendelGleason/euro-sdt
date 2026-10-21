@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Mariya Gabriel](../people/mariya-gabriel.md) — chair  
+- [[people/mariya-gabriel|Mariya Gabriel]] — chair  
   > "As vice-president of the EPP Group she chaired the Euromed Working Group of the EPP and was responsible for maintaining the EPP Group's relations with countries from the Mediterranean, Middle East and North Africa regions."
-  > Source: [Mariya Gabriel](../sources/wikipedia-mariya-gabriel.md) · grade A
+  > Source: [[sources/wikipedia-mariya-gabriel|Mariya Gabriel]] · grade A

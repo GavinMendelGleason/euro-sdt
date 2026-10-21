@@ -15,9 +15,9 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (3)
 
-- [Gert Jan Koopman](../people/gert-jan-koopman.md) — educated_at — University of Utrecht
+- [[people/gert-jan-koopman|Gert Jan Koopman]] — educated_at — University of Utrecht
   > " 05/1986: Lecturer of Economics at the University of Utrecht."
-- [Gert Jan Koopman](../people/gert-jan-koopman.md) — held_position — Director-General → Directorate-General for Enlargement and Eastern Neighbourhood
+- [[people/gert-jan-koopman|Gert Jan Koopman]] — held_position — Director-General → Directorate-General for Enlargement and Eastern Neighbourhood
   > " 08/2018 – 01/2023: Director-General, Directorate-General Budget (BUDG)"
-- [Gert Jan Koopman](../people/gert-jan-koopman.md) — member — CPB Netherlands Bureau for Economic Policy Advice
+- [[people/gert-jan-koopman|Gert Jan Koopman]] — member — CPB Netherlands Bureau for Economic Policy Advice
   > "Professional experience before joining the European Institutions:  05/1987: Member of the CPB Netherlands Bureau for Economic Policy Advice."

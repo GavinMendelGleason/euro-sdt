@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Günter Verheugen](../people/gunter-verheugen.md) — board_member  
+- [[people/gunter-verheugen|Günter Verheugen]] — board_member  
   > "German-Azerbaijani Forum, Member of the Board of Trustees"
-  > Source: [Gunter Verheugen](../sources/wikipedia-gunter-verheugen.md) · grade A
+  > Source: [[sources/wikipedia-gunter-verheugen|Gunter Verheugen]] · grade A

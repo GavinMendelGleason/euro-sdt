@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Federica Mogherini](../people/federica-mogherini.md) — chair  
+- [[people/federica-mogherini|Federica Mogherini]] — chair  
   > "On 1 August 2013, she was elected as head of the Italian delegation to the Parliamentary Assembly for NATO."
-  > Source: [Federica Mogherini](../sources/wikipedia-federica-mogherini.md) · grade C
+  > Source: [[sources/wikipedia-federica-mogherini|Federica Mogherini]] · grade C

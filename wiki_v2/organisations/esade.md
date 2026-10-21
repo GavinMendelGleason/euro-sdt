@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Juan Carlos Girauta](../people/juan-carlos-girauta.md)  
+- [[people/juan-carlos-girauta|Juan Carlos Girauta]]  
   > "&#91; 6 &#93; He graduated in Law by the University of Barcelona and obtained an MBA from ESADE ."
-  > Source: [Juan Carlos Girauta](../sources/wikipedia-juan-carlos-girauta.md) · grade A
+  > Source: [[sources/wikipedia-juan-carlos-girauta|Juan Carlos Girauta]] · grade A

@@ -18,16 +18,16 @@ Mep
 
 ## Chair / president
 
-- [European Law Institute](../organisations/european-law-institute.md) — chair  
+- [[organisations/european-law-institute|European Law Institute]] — chair  
   > "On 6 September 2013, Wallis was elected President of the European Law Institute, an independent non-profit organisation established to initiate, conduct and facilitate research, make recommendations and provide practical guidance in the field of European legal development with a goal of enhancing the European legal integration."
-  > Source: [Diana Wallis](../sources/wikipedia-diana-wallis.md) · grade A
+  > Source: [[sources/wikipedia-diana-wallis|Diana Wallis]] · grade A
 
 ## Affiliation
 
-- [Change UK](../organisations/change-uk.md)  
+- [[organisations/change-uk|Change UK]]  
   > "She later joined Change UK and was selected as the lead candidate for Yorkshire and the Humber at the 2019 European Parliament elections."
-  > Source: [Diana Wallis](../sources/wikipedia-diana-wallis.md) · grade B
+  > Source: [[sources/wikipedia-diana-wallis|Diana Wallis]] · grade B
 
-- [Yorkshire Party](../organisations/yorkshire-party.md)  
+- [[organisations/yorkshire-party|Yorkshire Party]]  
   > "Wallis contested Haltemprice and Howden as a Yorkshire Party candidate in the 2015 and 2017 UK General Elections and subsequently left that party in March 2019."
-  > Source: [Diana Wallis](../sources/wikipedia-diana-wallis.md) · grade B
+  > Source: [[sources/wikipedia-diana-wallis|Diana Wallis]] · grade B

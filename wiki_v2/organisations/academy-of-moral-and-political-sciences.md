@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Jean-Claude Juncker](../people/jean-claude-juncker.md)  
+- [[people/jean-claude-juncker|Jean-Claude Juncker]]  
   > "ier Foundation 2007: Foreign Associate Member of the Academy of Moral and Political Sciences, Institut de France in lieu of the late Léopol"
-  > Source: [Jean Claude Juncker](../sources/wikipedia-jean-claude-juncker.md) · grade A
+  > Source: [[sources/wikipedia-jean-claude-juncker|Jean Claude Juncker]] · grade A

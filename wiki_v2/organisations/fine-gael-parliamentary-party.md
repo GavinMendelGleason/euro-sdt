@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Phil Hogan](../people/phil-hogan.md) — chair  
+- [[people/phil-hogan|Phil Hogan]] — chair  
   > "Despite the controversy surrounding the incident, Hogan was promoted as Chair of the Fine Gael parliamentary party at the age of 35, a position he held until 2001."
-  > Source: [Phil Hogan](../sources/wikipedia-phil-hogan.md) · grade A
+  > Source: [[sources/wikipedia-phil-hogan|Phil Hogan]] · grade A

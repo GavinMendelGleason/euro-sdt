@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Themis Christophidou](../people/themis-christophidou.md)  
+- [[people/themis-christophidou|Themis Christophidou]]  
   > "➢ 1980 – 1986: MSc Civil Engineering, Athens National Polytechnic Metsovio"
-  > Source: [Themis Christophidou](../sources/dg_cv-themis-christophidou.md) · grade B
+  > Source: [[sources/dg_cv-themis-christophidou|Themis Christophidou]] · grade B

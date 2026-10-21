@@ -26,12 +26,12 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Federica Mogherini](../people/federica-mogherini.md)  
+- [[people/federica-mogherini|Federica Mogherini]]  
   > "European Leadership Network (ELN), member"
-  > Source: [Federica Mogherini](../sources/wikipedia-federica-mogherini.md) · grade A
-- [Hans van den Broek](../people/hans-van-den-broek.md)  
+  > Source: [[sources/wikipedia-federica-mogherini|Federica Mogherini]] · grade A
+- [[people/hans-van-den-broek|Hans van den Broek]]  
   > "He was a Senior Network Member at the European Leadership Network (ELN)."
-  > Source: [Hans Van Den Broek](../sources/wikipedia-hans-van-den-broek.md) · grade A
-- [Jutta Urpilainen](../people/jutta-urpilainen.md)  
+  > Source: [[sources/wikipedia-hans-van-den-broek|Hans Van Den Broek]] · grade A
+- [[people/jutta-urpilainen|Jutta Urpilainen]]  
   > "European Leadership Network (ELN), Member (since 2025)"
-  > Source: [Jutta Urpilainen](../sources/wikipedia-jutta-urpilainen.md) · grade A
+  > Source: [[sources/wikipedia-jutta-urpilainen|Jutta Urpilainen]] · grade A

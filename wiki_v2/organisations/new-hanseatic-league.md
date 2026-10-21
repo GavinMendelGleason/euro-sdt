@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Wopke Hoekstra](../people/wopke-hoekstra.md)  
+- [[people/wopke-hoekstra|Wopke Hoekstra]]  
   > "After Germany and France had outlined a series of eurozone reforms in June 2018, Hoekstra led a coalition of twelve other member states in opposition to such reforms, which would later be referred to as the New Hanseatic League."
-  > Source: [Wopke Hoekstra](../sources/wikipedia-wopke-hoekstra.md) · grade A
+  > Source: [[sources/wikipedia-wopke-hoekstra|Wopke Hoekstra]] · grade A

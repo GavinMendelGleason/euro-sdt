@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Antoine Arnault](../people/antoine-arnault.md) — board_member  
+- [[people/antoine-arnault|Antoine Arnault]] — board_member  
   > "&#91; 18 &#93; He has been a board member at Madrigall, the holding company controlling family-owned French publisher Gallimard , since November 2013."
-  > Source: [Antoine Arnault](../sources/wikipedia-antoine-arnault.md) · grade A
+  > Source: [[sources/wikipedia-antoine-arnault|Antoine Arnault]] · grade A

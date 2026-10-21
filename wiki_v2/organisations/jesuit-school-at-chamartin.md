@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Miguel Arias Cañete](../people/miguel-arias-canete.md)  
+- [[people/miguel-arias-canete|Miguel Arias Cañete]]  
   > "Early life and education Arias Cañete was born to judge don Alfonso Arias de la Cuesta, and educated in Madrid, first at the Jesuit School at Chamartín before reading Law at the Universidad Complutense."
-  > Source: [Miguel Arias Canete](../sources/wikipedia-miguel-arias-canete.md) · grade A
+  > Source: [[sources/wikipedia-miguel-arias-canete|Miguel Arias Canete]] · grade A

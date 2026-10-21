@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Pier Carlo Padoan](../people/pier-carlo-padoan.md)  
+- [[people/pier-carlo-padoan|Pier Carlo Padoan]]  
   > "On 1 June 2007, he became Deputy Secretary General of the Organisation for Economic Co-operation and Development (OECD)."
-  > Source: [Pier Carlo Padoan](../sources/wikipedia-pier-carlo-padoan.md) · grade B
+  > Source: [[sources/wikipedia-pier-carlo-padoan|Pier Carlo Padoan]] · grade B

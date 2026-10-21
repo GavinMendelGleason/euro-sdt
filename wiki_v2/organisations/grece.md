@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Yvan Blot](../people/yvan-blot.md)  
+- [[people/yvan-blot|Yvan Blot]]  
   > "A founding member of the GRECE , he was also the co-creator and president of the Club de l'Horloge ."
-  > Source: [Yvan Blot](../sources/wikipedia-yvan-blot.md) · grade A
+  > Source: [[sources/wikipedia-yvan-blot|Yvan Blot]] · grade A

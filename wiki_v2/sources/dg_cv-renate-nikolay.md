@@ -15,5 +15,5 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (1)
 
-- [Renate Nikolay](../people/renate-nikolay.md) — educated_at — Humboldt University Berlin, Germany
+- [[people/renate-nikolay|Renate Nikolay]] — educated_at — Humboldt University Berlin, Germany
   > " 07/1995 – 06/1997: Research Assistant, Humboldt University Berlin, Germany"

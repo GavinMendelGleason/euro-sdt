@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Manfred Weber](../people/manfred-weber.md) — chair  
+- [[people/manfred-weber|Manfred Weber]] — chair  
   > "In 2008, he succeeded Erwin Huber as chairman of the CSU of Lower Bavaria, one of the party's ten districts."
-  > Source: [Manfred Weber](../sources/wikipedia-manfred-weber.md) · grade A
+  > Source: [[sources/wikipedia-manfred-weber|Manfred Weber]] · grade A

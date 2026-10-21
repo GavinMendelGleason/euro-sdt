@@ -15,5 +15,5 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (1)
 
-- [Violeta Bulc](../people/violeta-bulc.md) — member — Alliance of Liberals and Democrats for Europe Party
+- [[people/violeta-bulc|Violeta Bulc]] — member — Alliance of Liberals and Democrats for Europe Party
   > "Led by Margrethe Vestager, Bulc was among the seven-strong \"Team Europe\" that the centrist Alliance of Liberals and Democrats for Europe Party picked to spearhead its pro-EU, liberal campaign ahead of the 2019 European elections."

@@ -18,40 +18,40 @@ Mep
 
 ## Membership
 
-- [Action (party)](../organisations/action-party.md)  
+- [[organisations/action-party|Action (party)]]  
   > "In 2022, he and his brother left the Democratic Party after not being selected among the candidates for the snap election and joined the Action party."
-  > Source: [Giovanni Pittella](../sources/wikipedia-giovanni-pittella.md) · grade A
+  > Source: [[sources/wikipedia-giovanni-pittella|Giovanni Pittella]] · grade A
 
-- [Chamber of Deputies](../organisations/chamber-of-deputies.md)  
+- [[organisations/chamber-of-deputies|Chamber of Deputies]]  
   > "He was a member of the Chamber of Deputies from 1996 to 1999."
-  > Source: [Giovanni Pittella](../sources/wikipedia-giovanni-pittella.md) · grade A
+  > Source: [[sources/wikipedia-giovanni-pittella|Giovanni Pittella]] · grade A
 
-- [Democratic Party](../organisations/democratic-party.md)  
+- [[organisations/democratic-party|Democratic Party]]  
   > "In 2007, the Pittellas were among the founding members of the Democratic Party."
-  > Source: [Giovanni Pittella](../sources/wikipedia-giovanni-pittella.md) · grade B
+  > Source: [[sources/wikipedia-giovanni-pittella|Giovanni Pittella]] · grade B
 
-- [Democrats of the Left](../organisations/democrats-of-the-left.md)  
+- [[organisations/democrats-of-the-left|Democrats of the Left]]  
   > "He and his brother later joined the Labour Federation and the Democrats of the Left within the centre-left coalition, at that time known as The Olive Tree."
-  > Source: [Giovanni Pittella](../sources/wikipedia-giovanni-pittella.md) · grade A
+  > Source: [[sources/wikipedia-giovanni-pittella|Giovanni Pittella]] · grade A
 
-- [Italian Socialist Party](../organisations/italian-socialist-party.md)  
+- [[organisations/italian-socialist-party|Italian Socialist Party]]  
   > "Like his father and younger brother, Pittella began his political career in the Italian Socialist Party."
-  > Source: [Giovanni Pittella](../sources/wikipedia-giovanni-pittella.md) · grade B
+  > Source: [[sources/wikipedia-giovanni-pittella|Giovanni Pittella]] · grade B
 
-- [Labour Federation](../organisations/labour-federation.md)  
+- [[organisations/labour-federation|Labour Federation]]  
   > "He and his brother later joined the Labour Federation and the Democrats of the Left within the centre-left coalition, at that time known as The Olive Tree."
-  > Source: [Giovanni Pittella](../sources/wikipedia-giovanni-pittella.md) · grade A
+  > Source: [[sources/wikipedia-giovanni-pittella|Giovanni Pittella]] · grade A
 
-- [Olive Tree](../organisations/olive-tree.md)  
+- [[organisations/olive-tree|Olive Tree]]  
   > "He and his brother later joined the Labour Federation and the Democrats of the Left within the centre-left coalition, at that time known as The Olive Tree."
-  > Source: [Giovanni Pittella](../sources/wikipedia-giovanni-pittella.md) · grade A
+  > Source: [[sources/wikipedia-giovanni-pittella|Giovanni Pittella]] · grade A
 
-- [Senate of the Republic (Italy)](../organisations/senate-of-the-republic-italy.md)  
+- [[organisations/senate-of-the-republic-italy|Senate of the Republic (Italy)]]  
   > "From 2018 to 2022, Pittella served as a member of the Senate of the Republic."
-  > Source: [Giovanni Pittella](../sources/wikipedia-giovanni-pittella.md) · grade C
+  > Source: [[sources/wikipedia-giovanni-pittella|Giovanni Pittella]] · grade C
 
 ## Affiliation
 
-- [Progressive Alliance of Socialists and Democrats](../organisations/progressive-alliance-of-socialists-and-democrats.md)  
+- [[organisations/progressive-alliance-of-socialists-and-democrats|Progressive Alliance of Socialists and Democrats]]  
   > "From 1999 to 2018, Pittella was a member of the European Parliament from Italy, achieving significant political positions, including First Vice-President of the European Parliament from 2009 to 2014, president of the European Parliament from June to July 2014, and leader of the Progressive Alliance of Socialists and Democrats from 2014 to 2018; he also served as a member of various parliamentary committees."
-  > Source: [Giovanni Pittella](../sources/wikipedia-giovanni-pittella.md) · grade A
+  > Source: [[sources/wikipedia-giovanni-pittella|Giovanni Pittella]] · grade A

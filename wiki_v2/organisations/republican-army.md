@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Heribert Barrera i Costa](../people/heribert-barrera-i-costa.md)  
+- [[people/heribert-barrera-i-costa|Heribert Barrera i Costa]]  
   > "In late 1937, during the Spanish Civil War , he volunteered for the Republican Army and served as an artillery soldier on the Aragon front and the Segre front ."
-  > Source: [Heribert Barrera](../sources/wikipedia-heribert-barrera.md) · grade C
+  > Source: [[sources/wikipedia-heribert-barrera|Heribert Barrera]] · grade C

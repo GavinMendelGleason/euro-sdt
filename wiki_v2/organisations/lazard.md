@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Peter Mandelson](../people/peter-mandelson.md)  
+- [[people/peter-mandelson|Peter Mandelson]]  
   > "Mandelson served as a senior adviser to the investment bank Lazard from January 2011 until March 2022."
-  > Source: [Peter Mandelson](../sources/wikipedia-peter-mandelson.md) · grade B
+  > Source: [[sources/wikipedia-peter-mandelson|Peter Mandelson]] · grade B

@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Charlie Weimers](../people/charlie-weimers.md)  
+- [[people/charlie-weimers|Charlie Weimers]]  
   > "&#91; 2 &#93; He is a member of the right-wing populist Sweden Democrats , part of European Conservatives and Reformists ."
-  > Source: [Charlie Weimers](../sources/wikipedia-charlie-weimers.md) · grade A
+  > Source: [[sources/wikipedia-charlie-weimers|Charlie Weimers]] · grade A

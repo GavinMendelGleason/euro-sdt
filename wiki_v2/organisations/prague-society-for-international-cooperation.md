@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Stefan Füle](../people/stefan-fule.md)  
+- [[people/stefan-fule|Stefan Füle]]  
   > "From the year 2016 Füle is a member of Prague Society for International Cooperation , a NGO whose main goals are networking and the development of a new generation of responsible, well-informed leaders and thinkers."
-  > Source: [Stefan Fule](../sources/wikipedia-stefan-fule.md) · grade A
+  > Source: [[sources/wikipedia-stefan-fule|Stefan Fule]] · grade A

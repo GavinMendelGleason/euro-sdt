@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Pat Cox](../people/pat-cox.md)  
+- [[people/pat-cox|Pat Cox]]  
   > "He was then educated at Ardscoil Rís in Limerick, the University of Limerick and Trinity College Dublin ."
-  > Source: [Pat Cox](../sources/wikipedia-pat-cox.md) · grade C
+  > Source: [[sources/wikipedia-pat-cox|Pat Cox]] · grade C

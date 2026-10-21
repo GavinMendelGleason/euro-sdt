@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Michel Barnier](../people/michel-barnier.md)  
+- [[people/michel-barnier|Michel Barnier]]  
   > "He graduated from the École Supérieure de Commerce de Paris (ESCP) in 1972."
-  > Source: [Michel Barnier](../sources/wikipedia-michel-barnier.md) · grade B
+  > Source: [[sources/wikipedia-michel-barnier|Michel Barnier]] · grade B

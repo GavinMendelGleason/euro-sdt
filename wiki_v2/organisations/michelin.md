@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Jean-Dominique Senard](../people/jean-dominique-senard.md) — employed_by  
+- [[people/jean-dominique-senard|Jean-Dominique Senard]] — employed_by  
   > "&#91; 5 &#93; In March 2005, Senard joined Michelin as its CFO and executive council member."
-  > Source: [Jean Dominique Senard](../sources/wikipedia-jean-dominique-senard.md) · grade A
+  > Source: [[sources/wikipedia-jean-dominique-senard|Jean Dominique Senard]] · grade A

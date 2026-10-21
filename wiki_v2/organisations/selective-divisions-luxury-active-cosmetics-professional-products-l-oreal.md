@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Nicolas Hieronimus](../people/nicolas-hieronimus.md) — chair  
+- [[people/nicolas-hieronimus|Nicolas Hieronimus]] — chair  
   > "&#91; 10 &#93; &#91; 12 &#93; Hieronimus became President Selective Divisions (Luxury, Active Cosmetics, Professional Products) on July 1, 2013 and was named Deputy CEO in charge of Divisions on May 1, 2017."
-  > Source: [Nicolas Hieronimus](../sources/wikipedia-nicolas-hieronimus.md) · grade C
+  > Source: [[sources/wikipedia-nicolas-hieronimus|Nicolas Hieronimus]] · grade C

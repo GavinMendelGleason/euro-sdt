@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Janusz Onyszkiewicz](../people/janusz-onyszkiewicz.md)  
+- [[people/janusz-onyszkiewicz|Janusz Onyszkiewicz]]  
   > "Today, he is a member of the Democratic Party , the continuation of Democratic Union."
-  > Source: [Janusz Onyszkiewicz](../sources/wikipedia-janusz-onyszkiewicz.md) · grade A
+  > Source: [[sources/wikipedia-janusz-onyszkiewicz|Janusz Onyszkiewicz]] · grade A

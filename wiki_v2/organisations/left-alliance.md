@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Outi Ojala](../people/outi-ojala.md)  
+- [[people/outi-ojala|Outi Ojala]]  
   > "Finnish politician (1946–2017) Outi Marjatta Ojala (28 June 1946, Lappee &#91; 1 &#93; – 16 May 2017 &#91; 2 &#93; ) was a Finnish politician of the Left Alliance ."
-  > Source: [Outi Ojala](../sources/wikipedia-outi-ojala.md) · grade B
+  > Source: [[sources/wikipedia-outi-ojala|Outi Ojala]] · grade B

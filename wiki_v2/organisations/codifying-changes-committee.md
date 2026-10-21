@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Janusz Wojciechowski](../people/janusz-wojciechowski.md) — chair  
+- [[people/janusz-wojciechowski|Janusz Wojciechowski]] — chair  
   > "2001–2004: Vice-marshal of the Parliament of the Republic of Poland, Chairman of the Codifying Changes Committee"
-  > Source: [Janusz Wojciechowski](../sources/wikipedia-janusz-wojciechowski.md) · grade A
+  > Source: [[sources/wikipedia-janusz-wojciechowski|Janusz Wojciechowski]] · grade A

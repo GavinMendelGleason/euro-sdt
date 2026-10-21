@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Heribert Barrera i Costa](../people/heribert-barrera-i-costa.md)  
+- [[people/heribert-barrera-i-costa|Heribert Barrera i Costa]]  
   > "He had a very active role in Catalan society: Between 1977 and 1979, Barrera was a member of the Catalan Council of the European Movement ."
-  > Source: [Heribert Barrera](../sources/wikipedia-heribert-barrera.md) · grade C
+  > Source: [[sources/wikipedia-heribert-barrera|Heribert Barrera]] · grade C

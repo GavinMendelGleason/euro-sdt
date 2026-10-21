@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Máire Geoghegan-Quinn](../people/maire-geoghegan-quinn.md)  
+- [[people/maire-geoghegan-quinn|Máire Geoghegan-Quinn]]  
   > "In opposition, she became chair of the first Joint Committee on Women's Rights in 1983 and a member of the Joint Committee on Marriage Breakdown."
-  > Source: [Maire Geoghegan Quinn](../sources/wikipedia-maire-geoghegan-quinn.md) · grade A
+  > Source: [[sources/wikipedia-maire-geoghegan-quinn|Maire Geoghegan Quinn]] · grade A

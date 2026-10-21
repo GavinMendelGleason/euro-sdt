@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Siim Kallas](../people/siim-kallas.md) — chair  
+- [[people/siim-kallas|Siim Kallas]] — chair  
   > "After Estonia restored its independence in 1991, Kallas was appointed the President of the Bank of Estonia, which at the time had only 11 employees."
-  > Source: [Siim Kallas](../sources/wikipedia-siim-kallas.md) · grade A
+  > Source: [[sources/wikipedia-siim-kallas|Siim Kallas]] · grade A

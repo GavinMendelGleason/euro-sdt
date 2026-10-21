@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Janusz Wojciechowski](../people/janusz-wojciechowski.md) — employed_by  
+- [[people/janusz-wojciechowski|Janusz Wojciechowski]] — employed_by  
   > "Janusz Czesław Wojciechowski (born 6 December 1954) is a Polish politician of Law and Justice who served as European Commissioner for Agriculture in the Von der Leyen Commission I from 2019 to 2024."
-  > Source: [Janusz Wojciechowski](../sources/wikipedia-janusz-wojciechowski.md) · grade C
+  > Source: [[sources/wikipedia-janusz-wojciechowski|Janusz Wojciechowski]] · grade C

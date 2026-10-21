@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Pierre Moscovici](../people/pierre-moscovici.md) — chair  
+- [[people/pierre-moscovici|Pierre Moscovici]] — chair  
   > "Member of the Agglomeration community of the Pays de Montbéliard, 2008–2014."
-  > Source: [Pierre Moscovici](../sources/wikipedia-pierre-moscovici.md) · grade A
+  > Source: [[sources/wikipedia-pierre-moscovici|Pierre Moscovici]] · grade A

@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Astrid Lulling](../people/astrid-lulling.md)  
+- [[people/astrid-lulling|Astrid Lulling]]  
   > "Member of Schifflange communal council (1970–2000)."
-  > Source: [Astrid Lulling](../sources/wikipedia-astrid-lulling.md) · grade A
+  > Source: [[sources/wikipedia-astrid-lulling|Astrid Lulling]] · grade A

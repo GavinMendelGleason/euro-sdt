@@ -15,9 +15,9 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Adam Bielan](../people/adam-bielan.md)  
+- [[people/adam-bielan|Adam Bielan]]  
   > "He joined the Right Alliance (PP) when it was formed in 2001, and ran successfully on the Law and Justice (PiS) list in that year's election in Chrzanów ."
-  > Source: [Adam Bielan](../sources/wikipedia-adam-bielan.md) · grade A
-- [Michał Kamiński](../people/micha-kaminski.md)  
+  > Source: [[sources/wikipedia-adam-bielan|Adam Bielan]] · grade A
+- [[people/micha-kaminski|Michał Kamiński]]  
   > "In 2001, he joined the Right Alliance (PP), which merged with Law and Justice (PiS) the following year, having been reelected on the PP-PiS joint ticket in 2001 ."
-  > Source: [Micha Kamiski](../sources/wikipedia-micha-kamiski.md) · grade C
+  > Source: [[sources/wikipedia-micha-kamiski|Micha Kamiski]] · grade C

@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Carlos Moedas](../people/carlos-moedas.md)  
+- [[people/carlos-moedas|Carlos Moedas]]  
   > "He spent his final year studying at the ENPC (Paris) via the Erasmus Programme."
-  > Source: [Carlos Moedas](../sources/wikipedia-carlos-moedas.md) · grade A
+  > Source: [[sources/wikipedia-carlos-moedas|Carlos Moedas]] · grade A

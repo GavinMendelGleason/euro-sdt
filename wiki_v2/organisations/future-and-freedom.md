@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Cristiana Muscardini](../people/cristiana-muscardini.md)  
+- [[people/cristiana-muscardini|Cristiana Muscardini]]  
   > "In 2010 she joined the new party of Gianfranco Fini, Future and Freedom, but in 2012 she left this party to found the Conservatives and Social Reformers (CSR), joining the European Conservatives and Reformists Group in the EP."
-  > Source: [Cristiana Muscardini](../sources/wikipedia-cristiana-muscardini.md) · grade A
+  > Source: [[sources/wikipedia-cristiana-muscardini|Cristiana Muscardini]] · grade A

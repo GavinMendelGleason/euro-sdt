@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Siim Kallas](../people/siim-kallas.md) — chair  
+- [[people/siim-kallas|Siim Kallas]] — chair  
   > "1989–1991: Chairman of the Central Union of the Estonian Trade Unions"
-  > Source: [Siim Kallas](../sources/wikipedia-siim-kallas.md) · grade A
+  > Source: [[sources/wikipedia-siim-kallas|Siim Kallas]] · grade A

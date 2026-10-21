@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Martin Seychell](../people/martin-seychell.md)  
+- [[people/martin-seychell|Martin Seychell]]  
   > "Maltese member on the Management Board of the European Environment Agency (EEA)."
-  > Source: [Martin Seychell](../sources/dg_cv-martin-seychell.md) · grade A
+  > Source: [[sources/dg_cv-martin-seychell|Martin Seychell]] · grade A

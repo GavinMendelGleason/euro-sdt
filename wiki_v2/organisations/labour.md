@@ -14,9 +14,9 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Catherine Ashton](../people/catherine-ashton.md) — party_member  
+- [[people/catherine-ashton|Catherine Ashton]] — party_member  
   > "She was created a Labour Life Peer as Baroness Ashton of Upholland in 1999, under Prime Minister Tony Blair."
-  > Source: [Catherine Ashton](../sources/wikipedia-catherine-ashton.md) · grade B
-- [Peter Mandelson](../people/peter-mandelson.md)  
+  > Source: [[sources/wikipedia-catherine-ashton|Catherine Ashton]] · grade B
+- [[people/peter-mandelson|Peter Mandelson]]  
   > "Mandelson also publicly campaigned for Labour by reassuring voters that the party had changed under Starmer and was a \"safe\" option for government after years of Conservative rule."
-  > Source: [Peter Mandelson](../sources/wikipedia-peter-mandelson.md) · grade B
+  > Source: [[sources/wikipedia-peter-mandelson|Peter Mandelson]] · grade B

@@ -15,15 +15,15 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Gilles Schnepp](../people/gilles-schnepp.md)  
+- [[people/gilles-schnepp|Gilles Schnepp]]  
   > "== Career == Having graduated from HEC Paris in 1981, Gilles Schnepp begins his career in 1983 at Merrill Lynch France."
-  > Source: [Corp Gilles Schnepp](../sources/wikipedia-corp-gilles-schnepp.md) · grade A
-- [Jean-Paul Agon](../people/jean-paul-agon.md)  
+  > Source: [[sources/wikipedia-corp-gilles-schnepp|Corp Gilles Schnepp]] · grade A
+- [[people/jean-paul-agon|Jean-Paul Agon]]  
   > "&#91; 2 &#93; He graduated from HEC Paris in 1978."
-  > Source: [Jean Paul Agon](../sources/wikipedia-jean-paul-agon.md) · grade B
-- [Pascal Lamy](../people/pascal-lamy.md)  
+  > Source: [[sources/wikipedia-jean-paul-agon|Jean Paul Agon]] · grade B
+- [[people/pascal-lamy|Pascal Lamy]]  
   > "Lamy studied at Sciences Po, HEC Paris and the École nationale d'administration, graduating second in his year of those specialising in economics."
-  > Source: [Pascal Lamy](../sources/wikipedia-pascal-lamy.md) · grade A
-- [Pascal Soriot](../people/pascal-soriot.md)  
+  > Source: [[sources/wikipedia-pascal-lamy|Pascal Lamy]] · grade A
+- [[people/pascal-soriot|Pascal Soriot]]  
   > "He later obtained an MBA at HEC Paris."
-  > Source: [Corp Pascal Soriot](../sources/wikipedia-corp-pascal-soriot.md) · grade B
+  > Source: [[sources/wikipedia-corp-pascal-soriot|Corp Pascal Soriot]] · grade B

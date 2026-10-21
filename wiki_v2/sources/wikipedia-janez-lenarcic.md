@@ -16,31 +16,31 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (14)
 
-- [Janez Lenarčič](../people/janez-lenarcic.md) — board_member — Office for Democratic Institutions and Human Rights
+- [[people/janez-lenarcic|Janez Lenarčič]] — board_member — Office for Democratic Institutions and Human Rights
   > "He is a former director of the Office for Democratic Institutions and Human Rights within the Organization for Security and Co-operation in Europe."
-- [Janez Lenarčič](../people/janez-lenarcic.md) — board_member — Office for Democratic Institutions and Human Rights
+- [[people/janez-lenarcic|Janez Lenarčič]] — board_member — Office for Democratic Institutions and Human Rights
   > "Lenarčič then moved to Warsaw as Director of the OSCE's Office for Democratic Institutions and Human Rights (ODIHR) until 2014."
-- [Janez Lenarčič](../people/janez-lenarcic.md) — chair — Organization for Security and Co-operation in Europe (OSCE)
+- [[people/janez-lenarcic|Janez Lenarčič]] — chair — Organization for Security and Co-operation in Europe (OSCE)
   > "Lenarčič was ambassador of Slovenia to the Organization for Security and Co-operation in Europe (OSCE) in Vienna from 2003 to 2006, and chaired the OSCE Permanent Council in 2005 during the Slovenian chairmanship."
-- [Janez Lenarčič](../people/janez-lenarcic.md) — chair — OSCE Permanent Council
+- [[people/janez-lenarcic|Janez Lenarčič]] — chair — OSCE Permanent Council
   > "Lenarčič was ambassador of Slovenia to the Organization for Security and Co-operation in Europe (OSCE) in Vienna from 2003 to 2006, and chaired the OSCE Permanent Council in 2005 during the Slovenian chairmanship."
-- [Janez Lenarčič](../people/janez-lenarcic.md) — educated_at — University Of Ljubljana
+- [[people/janez-lenarcic|Janez Lenarčič]] — educated_at — University Of Ljubljana
   > "Lenarčič holds a degree in international law from the University of Ljubljana, 1992."
-- [Janez Lenarčič](../people/janez-lenarcic.md) — employed_by — European Commission
+- [[people/janez-lenarcic|Janez Lenarčič]] — employed_by — European Commission
   > "Janez Lenarčič (born 6 November 1967) is a Slovenian diplomat who served as European Commissioner for Crisis Management in the first Von der Leyen Commission from 2019 to 2024."
-- [Janez Lenarčič](../people/janez-lenarcic.md) — employed_by — Office for Democratic Institutions and Human Rights
+- [[people/janez-lenarcic|Janez Lenarčič]] — employed_by — Office for Democratic Institutions and Human Rights
   > "He is a former director of the Office for Democratic Institutions and Human Rights within the Organization for Security and Co-operation in Europe."
-- [Janez Lenarčič](../people/janez-lenarcic.md) — employed_by — Organization for Security and Co-operation in Europe (OSCE)
+- [[people/janez-lenarcic|Janez Lenarčič]] — employed_by — Organization for Security and Co-operation in Europe (OSCE)
   > "Lenarčič was ambassador of Slovenia to the Organization for Security and Co-operation in Europe (OSCE) in Vienna from 2003 to 2006, and chaired the OSCE Permanent Council in 2005 during the Slovenian chairmanship."
-- [Janez Lenarčič](../people/janez-lenarcic.md) — employed_by — OSCE's Office for Democratic Institutions and Human Rights
+- [[people/janez-lenarcic|Janez Lenarčič]] — employed_by — OSCE's Office for Democratic Institutions and Human Rights
   > "Lenarčič then moved to Warsaw as Director of the OSCE's Office for Democratic Institutions and Human Rights (ODIHR) until 2014."
-- [Janez Lenarčič](../people/janez-lenarcic.md) — from_country — Slovenia
+- [[people/janez-lenarcic|Janez Lenarčič]] — from_country — Slovenia
   > "Janez Lenarčič (born 6 November 1967) is a Slovenian diplomat who served as European Commissioner for Crisis Management in the first Von der Leyen Commission from 2019 to 2024."
-- [Janez Lenarčič](../people/janez-lenarcic.md) — held_portfolio — Crisis Management
+- [[people/janez-lenarcic|Janez Lenarčič]] — held_portfolio — Crisis Management
   > "Janez Lenarčič (born 6 November 1967) is a Slovenian diplomat who served as European Commissioner for Crisis Management in the first Von der Leyen Commission from 2019 to 2024."
-- [Janez Lenarčič](../people/janez-lenarcic.md) — member — European Commission
+- [[people/janez-lenarcic|Janez Lenarčič]] — member — European Commission
   > "Member of the European Commission, 2019–2024"
-- [Janez Lenarčič](../people/janez-lenarcic.md) — nominated_by — SVN
+- [[people/janez-lenarcic|Janez Lenarčič]] — nominated_by — SVN
   > "Janez Lenarčič (born 6 November 1967) is a Slovenian diplomat who served as European Commissioner for Crisis Management in the first Von der Leyen Commission from 2019 to 2024."
-- [Janez Lenarčič](../people/janez-lenarcic.md) — served_on_commission — VdL I Commission
+- [[people/janez-lenarcic|Janez Lenarčič]] — served_on_commission — VdL I Commission
   > "Janez Lenarčič (born 6 November 1967) is a Slovenian diplomat who served as European Commissioner for Crisis Management in the first Von der Leyen Commission from 2019 to 2024."

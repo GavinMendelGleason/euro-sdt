@@ -14,9 +14,9 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Mario Monti](../people/mario-monti.md) — fellow  
+- [[people/mario-monti|Mario Monti]] — fellow  
   > "Center for Economic and Policy Research (CEPR), Distinguished Fellow (since 2019)"
-  > Source: [Mario Monti](../sources/wikipedia-mario-monti.md) · grade A
-- [Pascal Lamy](../people/pascal-lamy.md) — fellow  
+  > Source: [[sources/wikipedia-mario-monti|Mario Monti]] · grade A
+- [[people/pascal-lamy|Pascal Lamy]] — fellow  
   > "Center for Economic and Policy Research (CEPR), Distinguished Fellow (since 2019)"
-  > Source: [Pascal Lamy](../sources/wikipedia-pascal-lamy.md) · grade A
+  > Source: [[sources/wikipedia-pascal-lamy|Pascal Lamy]] · grade A

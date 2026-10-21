@@ -18,20 +18,20 @@ Mep
 
 ## Membership
 
-- [French Communist Party](../organisations/french-communist-party.md)  
+- [[organisations/french-communist-party|French Communist Party]]  
   > "At the time, he was a Communist (until 1956)."
-  > Source: [Max Gallo](../sources/wikipedia-max-gallo.md) · grade C
+  > Source: [[sources/wikipedia-max-gallo|Max Gallo]] · grade C
 
-- [National Assembly](../organisations/national-assembly.md)  
+- [[organisations/national-assembly|National Assembly]]  
   > "&#91; 1 &#93; He served in the National Assembly (1981–1983), as Spokesperson of the Government under Prime Minister Pierre Mauroy (1983–1984), and in the European Parliament (1984–1994)."
-  > Source: [Max Gallo](../sources/wikipedia-max-gallo.md) · grade B
+  > Source: [[sources/wikipedia-max-gallo|Max Gallo]] · grade B
 
-- [Socialist Party](../organisations/socialist-party.md)  
+- [[organisations/socialist-party|Socialist Party]]  
   > "In 1974, he joined the Socialist Party ."
-  > Source: [Max Gallo](../sources/wikipedia-max-gallo.md) · grade A
+  > Source: [[sources/wikipedia-max-gallo|Max Gallo]] · grade A
 
 ## Affiliation
 
-- [Government of France](../organisations/government-of-france.md)  
+- [[organisations/government-of-france|Government of France]]  
   > "&#91; 1 &#93; He served in the National Assembly (1981–1983), as Spokesperson of the Government under Prime Minister Pierre Mauroy (1983–1984), and in the European Parliament (1984–1994)."
-  > Source: [Max Gallo](../sources/wikipedia-max-gallo.md) · grade C
+  > Source: [[sources/wikipedia-max-gallo|Max Gallo]] · grade C

@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Dan Jørgensen](../people/dan-jrgensen.md) — chair  
+- [[people/dan-jrgensen|Dan Jørgensen]] — chair  
   > "He was appointed vice chairman of the social democratic parliamentary group until his appointment as Minister of Climate, Energy and Public Utilities in 2019."
-  > Source: [Dan Jrgensen](../sources/wikipedia-dan-jrgensen.md) · grade A
+  > Source: [[sources/wikipedia-dan-jrgensen|Dan Jrgensen]] · grade A

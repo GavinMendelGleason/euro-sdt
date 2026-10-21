@@ -18,6 +18,6 @@ Commissioner · ITA
 
 ## Commission service
 
-- [Barroso I](../commissions/barroso-i.md)  
+- [[commissions/barroso-i|Barroso I]]  
   > "| Commissioner | Portrait | Portfolio | State | Party | Notes | BarrosoJosé Durão Barroso | | President | Portugal | EPPNational:PSD | | WallstromMargot Wallström | | Institutional RelationsFirst Vice-President;Institutional Relations and Communication Strategy | Sweden | PESNational:SAP | | VerheugenGünter Verheugen | | Enterprise and IndustryVice-President;Enterprise and Industry | Germany | PESNational:SPD | | FrattiniFranco Frattini | | Justice, Freedom and SecurityVice-President;Justice, Freedom and Security | Italy | EPPNational:PDL | Served until 23 April 2008 | TajaniAntonio Tajani | | […]"
-  > Source: [Commission Barroso I Tables](../sources/wikipedia-commission-barroso-i-tables.md) · grade A
+  > Source: [[sources/wikipedia-commission-barroso-i-tables|Commission Barroso I Tables]] · grade A

@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Padraig Flynn](../people/padraig-flynn.md)  
+- [[people/padraig-flynn|Padraig Flynn]]  
   > "He was educated in St. Gerald's College, Castlebar and qualified as a primary school teacher from St Patrick's College of Education in Dublin."
-  > Source: [Padraig Flynn](../sources/wikipedia-padraig-flynn.md) · grade A
+  > Source: [[sources/wikipedia-padraig-flynn|Padraig Flynn]] · grade A

@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Sylvia-Yvonne Kaufmann](../people/sylvia-yvonne-kaufmann.md)  
+- [[people/sylvia-yvonne-kaufmann|Sylvia-Yvonne Kaufmann]]  
   > "Kaufmann is member of the executive board of Europa-Union Deutschland , the German section of the Union of European Federalists ."
-  > Source: [Sylvia Yvonne Kaufmann](../sources/wikipedia-sylvia-yvonne-kaufmann.md) · grade A
+  > Source: [[sources/wikipedia-sylvia-yvonne-kaufmann|Sylvia Yvonne Kaufmann]] · grade A

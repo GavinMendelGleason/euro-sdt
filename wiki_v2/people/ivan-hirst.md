@@ -18,16 +18,16 @@ Corporate Elite
 
 ## Education
 
-- [Hulme Grammar School](../organisations/hulme-grammar-school.md)  
+- [[organisations/hulme-grammar-school|Hulme Grammar School]]  
   > "Education [ edit ] Hirst was born in Saddleworth , West Riding of Yorkshire, England and attended Hulme Grammar School in Oldham , across the county boundary in Lancashire ."
-  > Source: [Ivan Hirst](../sources/wikipedia-ivan-hirst.md) · grade A
+  > Source: [[sources/wikipedia-ivan-hirst|Ivan Hirst]] · grade A
 
-- [University of Manchester](../organisations/university-of-manchester.md)  
+- [[organisations/university-of-manchester|University of Manchester]]  
   > "He studied optical engineering at the University of Manchester , prior to forming his own company repairing optical instruments."
-  > Source: [Ivan Hirst](../sources/wikipedia-ivan-hirst.md) · grade A
+  > Source: [[sources/wikipedia-ivan-hirst|Ivan Hirst]] · grade A
 
 ## Board / trustee
 
-- [Volkswagen](../organisations/volkswagen.md) — board_member  
+- [[organisations/volkswagen|Volkswagen]] — board_member  
   > "The second model was given to Colonel Charles Radclyffe; the third was presented to Heinrich Nordhoff , whom the British occupying authorities appointed managing director of Volkswagen in early 1948."
-  > Source: [Ivan Hirst](../sources/wikipedia-ivan-hirst.md) · grade A
+  > Source: [[sources/wikipedia-ivan-hirst|Ivan Hirst]] · grade A

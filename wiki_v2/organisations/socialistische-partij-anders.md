@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Mia De Vits](../people/mia-de-vits.md)  
+- [[people/mia-de-vits|Mia De Vits]]  
   > "In 2004 De Vits went into elective politics and was elected a Member of the European Parliament (2004–2009) with the Socialistische Partij-Anders , part of the Socialist Group ."
-  > Source: [Mia De Vits](../sources/wikipedia-mia-de-vits.md) · grade A
+  > Source: [[sources/wikipedia-mia-de-vits|Mia De Vits]] · grade A

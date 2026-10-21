@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Vytenis Andriukaitis](../people/vytenis-andriukaitis.md) — chair  
+- [[people/vytenis-andriukaitis|Vytenis Andriukaitis]] — chair  
   > "2014 – vice-president of the 67th World Health Assembly nominated by the Regional Office for Europe of the World Health Organization."
-  > Source: [Vytenis Andriukaitis](../sources/wikipedia-vytenis-andriukaitis.md) · grade A
+  > Source: [[sources/wikipedia-vytenis-andriukaitis|Vytenis Andriukaitis]] · grade A

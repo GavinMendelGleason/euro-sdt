@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Leopoldo Calvo-Sotelo](../people/leopoldo-calvo-sotelo.md)  
+- [[people/leopoldo-calvo-sotelo|Leopoldo Calvo-Sotelo]]  
   > "&#91; 2 &#93; Calvo-Sotelo was part of the Tacito group in the cabinet along with Eduardo Carriles , Andrés Reguera , Landelino Lavilla , Enrique de la Mata , Marcelino Oreja and Alfonso Osorio ."
-  > Source: [Leopoldo Calvo Sotelo](../sources/wikipedia-leopoldo-calvo-sotelo.md) · grade A
+  > Source: [[sources/wikipedia-leopoldo-calvo-sotelo|Leopoldo Calvo Sotelo]] · grade A

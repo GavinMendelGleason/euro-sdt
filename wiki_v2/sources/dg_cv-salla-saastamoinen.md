@@ -15,7 +15,7 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (2)
 
-- [Salla Saastamoinen](../people/salla-saastamoinen.md) — educated_at — University of Helsinki
+- [[people/salla-saastamoinen|Salla Saastamoinen]] — educated_at — University of Helsinki
   > "➢ 1992 – 1994: Researcher in Law, University of Helsinki and various research institutes, Helsinki, Finland"
-- [Salla Saastamoinen](../people/salla-saastamoinen.md) — held_position — Deputy Director-General → European Anti-Fraud Office
+- [[people/salla-saastamoinen|Salla Saastamoinen]] — held_position — Deputy Director-General → European Anti-Fraud Office
   > "Professional experience in the European Institutions ➢ 02/2025: Deputy Director-General, European Anti-Fraud Office (OLAF) ➢ 08/2025 – 01/2026: Acting Director-General, European Anti- Fraud Office (OLAF) ➢ 01/2023 – 01/2025: Deputy Director-General, Joint Research Centre (JRC) ➢ 02/2020 – 11/2021: Acting Director-General of DG JUST, in parallel Director Civil and commercial justice ➢ 10/2016 – 12/ […]"

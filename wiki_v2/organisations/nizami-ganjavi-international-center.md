@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Benita Ferrero-Waldner](../people/benita-ferrero-waldner.md)  
+- [[people/benita-ferrero-waldner|Benita Ferrero-Waldner]]  
   > "Member of the Nizami Ganjavi International Center"
-  > Source: [Benita Ferrero Waldner](../sources/wikipedia-benita-ferrero-waldner.md) · grade A
+  > Source: [[sources/wikipedia-benita-ferrero-waldner|Benita Ferrero Waldner]] · grade A

@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Brian Crowley](../people/brian-crowley.md)  
+- [[people/brian-crowley|Brian Crowley]]  
   > "He served as a Senator from 1993 to 1994, after being nominated by the Taoiseach ."
-  > Source: [Brian Crowley](../sources/wikipedia-brian-crowley.md) · grade C
+  > Source: [[sources/wikipedia-brian-crowley|Brian Crowley]] · grade C

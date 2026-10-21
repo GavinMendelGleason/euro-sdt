@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Bas Eickhout](../people/bas-eickhout.md) — chair  
+- [[people/bas-eickhout|Bas Eickhout]] — chair  
   > "He also served as chairman in the Nijmegen Association of Chemistry Students Sigma, &#91; 2 &#93; later a member of the Nijmegen University Council."
-  > Source: [Bas Eickhout](../sources/wikipedia-bas-eickhout.md) · grade A
+  > Source: [[sources/wikipedia-bas-eickhout|Bas Eickhout]] · grade A

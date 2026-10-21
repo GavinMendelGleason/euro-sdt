@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Szabolcs Fazakas](../people/szabolcs-fazakas.md) — board_member  
+- [[people/szabolcs-fazakas|Szabolcs Fazakas]] — board_member  
   > "Beside that, he was also Chairman of the Supervisory Board of the European Commercial Bank Limited Liability Company from 1994 to 1995."
-  > Source: [Szabolcs Fazakas](../sources/wikipedia-szabolcs-fazakas.md) · grade A
+  > Source: [[sources/wikipedia-szabolcs-fazakas|Szabolcs Fazakas]] · grade A

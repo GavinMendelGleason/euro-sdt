@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Miroslav Ouzký](../people/miroslav-ouzky.md)  
+- [[people/miroslav-ouzky|Miroslav Ouzký]]  
   > "In 1998 he was elected as a member of the Czech Parliament until 2004."
-  > Source: [Miroslav Ouzk](../sources/wikipedia-miroslav-ouzk.md) · grade C
+  > Source: [[sources/wikipedia-miroslav-ouzk|Miroslav Ouzk]] · grade C

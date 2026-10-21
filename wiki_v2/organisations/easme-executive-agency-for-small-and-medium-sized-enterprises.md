@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Carlos Moedas](../people/carlos-moedas.md)  
+- [[people/carlos-moedas|Carlos Moedas]]  
   > "Moedas oversaw EASME (Executive Agency for Small and Medium-sized Enterprises), the agency created to monitor and control the implementation of the structural reforms agreed in the context of the assistance programme by a troika composed of the European Commission, European Central Bank and the International Monetary Fund."
-  > Source: [Carlos Moedas](../sources/wikipedia-carlos-moedas.md) · grade B
+  > Source: [[sources/wikipedia-carlos-moedas|Carlos Moedas]] · grade B

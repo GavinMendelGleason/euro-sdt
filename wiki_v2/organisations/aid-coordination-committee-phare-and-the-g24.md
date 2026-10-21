@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Dalia Grybauskaitė](../people/dalia-grybauskaite.md) — chair  
+- [[people/dalia-grybauskaite|Dalia Grybauskaitė]] — chair  
   > "She also chaired the Aid Coordination Committee (Phare and the G24)."
-  > Source: [Dalia Grybauskaite](../sources/wikipedia-dalia-grybauskaite.md) · grade C
+  > Source: [[sources/wikipedia-dalia-grybauskaite|Dalia Grybauskaite]] · grade C

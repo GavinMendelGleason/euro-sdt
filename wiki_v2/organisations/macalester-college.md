@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Olli Rehn](../people/olli-rehn.md)  
+- [[people/olli-rehn|Olli Rehn]]  
   > "Rehn studied economics, international relations, and journalism at Macalester College in Saint Paul, Minnesota, in the United States."
-  > Source: [Olli Rehn](../sources/wikipedia-olli-rehn.md) · grade A
+  > Source: [[sources/wikipedia-olli-rehn|Olli Rehn]] · grade A

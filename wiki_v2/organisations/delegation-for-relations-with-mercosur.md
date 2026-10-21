@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Adam Bielan](../people/adam-bielan.md)  
+- [[people/adam-bielan|Adam Bielan]]  
   > "Bielan is a substitute for the Committee on Transport and Tourism , a member of the Delegation for relations with Mercosur and a substitute for the Delegation to the ACP-EU Joint Parliamentary Assembly ."
-  > Source: [Adam Bielan](../sources/wikipedia-adam-bielan.md) · grade A
+  > Source: [[sources/wikipedia-adam-bielan|Adam Bielan]] · grade A

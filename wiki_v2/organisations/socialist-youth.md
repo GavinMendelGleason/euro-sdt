@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [António Costa](../people/antonio-costa.md)  
+- [[people/antonio-costa|António Costa]]  
   > "&#91; 9 &#93; In the 1982 local elections , Costa was elected as a member of the Lisbon municipal assembly, being re-elected in 1985 and 1989 ."
-  > Source: [Ant Nio Costa](../sources/wikipedia-ant-nio-costa.md) · grade A
+  > Source: [[sources/wikipedia-ant-nio-costa|Ant Nio Costa]] · grade A

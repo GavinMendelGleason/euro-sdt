@@ -18,16 +18,16 @@ Corporate Elite
 
 ## Education
 
-- [Friedrich Alexander University (FAU)](../organisations/friedrich-alexander-university-fau.md)  
+- [[organisations/friedrich-alexander-university-fau|Friedrich Alexander University (FAU)]]  
   > "Busch obtained a degree in physics from Friedrich Alexander University (FAU), also known as the University of Erlangen-Nuremberg, with a thesis on Quantum Chromodynamics Theory."
-  > Source: [Corp Roland Busch](../sources/wikipedia-corp-roland-busch.md) · grade A
+  > Source: [[sources/wikipedia-corp-roland-busch|Corp Roland Busch]] · grade A
 
-- [University of Grenoble](../organisations/university-of-grenoble.md)  
+- [[organisations/university-of-grenoble|University of Grenoble]]  
   > "Busch also holds an undergraduate degree from the University of Grenoble."
-  > Source: [Corp Roland Busch](../sources/wikipedia-corp-roland-busch.md) · grade A
+  > Source: [[sources/wikipedia-corp-roland-busch|Corp Roland Busch]] · grade A
 
 ## Employment
 
-- [Siemens](../organisations/siemens.md)  
+- [[organisations/siemens|Siemens]]  
   > "=== CEO of Siemens AG === Roland Busch succeeded Joe Kaeser as President and CEO of Siemens AG. During his tenure, Siemens introduced a range of technologies combining physical and digital systems."
-  > Source: [Corp Roland Busch](../sources/wikipedia-corp-roland-busch.md) · grade A
+  > Source: [[sources/wikipedia-corp-roland-busch|Corp Roland Busch]] · grade A

@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Ross McInnes](../people/ross-mcinnes.md) — chair  
+- [[people/ross-mcinnes|Ross McInnes]] — chair  
   > "He subsequently joined the PPR group as senior vice president for Finance and Strategy, before being named to the supervisory board of Générale de Santé."
-  > Source: [Ross Mcinnes](../sources/wikipedia-ross-mcinnes.md) · grade A
+  > Source: [[sources/wikipedia-ross-mcinnes|Ross Mcinnes]] · grade A

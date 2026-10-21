@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Edward McMillan-Scott](../people/edward-mcmillan-scott.md)  
+- [[people/edward-mcmillan-scott|Edward McMillan-Scott]]  
   > "In 2014 he was also elected an honorary Patron at its AGM by the European Movement UK, which he first joined aged 23 in 1973."
-  > Source: [Edward Mcmillan Scott](../sources/wikipedia-edward-mcmillan-scott.md) · grade B
+  > Source: [[sources/wikipedia-edward-mcmillan-scott|Edward Mcmillan Scott]] · grade B

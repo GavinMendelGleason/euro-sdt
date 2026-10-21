@@ -18,176 +18,176 @@ Commissioner · FRA
 
 ## Commission service
 
-- [Prodi Commission](../commissions/prodi-commission.md)  
+- [[commissions/prodi-commission|Prodi Commission]]  
   > "Returning to the European Commission in 1999, Lamy was appointed European Commissioner for Trade by Commission President Romano Prodi."
-  > Source: [Pascal Lamy](../sources/wikipedia-pascal-lamy.md) · grade C
+  > Source: [[sources/wikipedia-pascal-lamy|Pascal Lamy]] · grade C
 
 ## Portfolio
 
 - Trade  
   > "Lamy was previously European Commissioner for Trade for 5 years, from 13 September 1999 to 22 November 2004."
-  > Source: [Pascal Lamy](../sources/wikipedia-pascal-lamy.md) · grade A
+  > Source: [[sources/wikipedia-pascal-lamy|Pascal Lamy]] · grade A
 
 ## Country
 
 - France  
   > "Pascal Lucien Fernand Lamy (French pronunciation: [paskal lami]; born 8 April 1947) is a French political consultant, businessman and former civil servant and politician."
-  > Source: [Pascal Lamy](../sources/wikipedia-pascal-lamy.md) · grade C
+  > Source: [[sources/wikipedia-pascal-lamy|Pascal Lamy]] · grade C
 
 ## Education
 
-- [ecole-nationale-d-administration](../organisations/ecole-nationale-d-administration-2.md)  
+- [[organisations/ecole-nationale-d-administration-2|ecole-nationale-d-administration]]  
   > "Lamy studied at Sciences Po, HEC Paris and the École nationale d'administration, graduating second in his year of those specialising in economics."
-  > Source: [Pascal Lamy](../sources/wikipedia-pascal-lamy.md) · grade C
+  > Source: [[sources/wikipedia-pascal-lamy|Pascal Lamy]] · grade C
 
-- [Hec Paris](../organisations/hec-paris.md)  
+- [[organisations/hec-paris|Hec Paris]]  
   > "Lamy studied at Sciences Po, HEC Paris and the École nationale d'administration, graduating second in his year of those specialising in economics."
-  > Source: [Pascal Lamy](../sources/wikipedia-pascal-lamy.md) · grade A
+  > Source: [[sources/wikipedia-pascal-lamy|Pascal Lamy]] · grade A
 
-- [Sciences Po](../organisations/sciences-po.md)  
+- [[organisations/sciences-po|Sciences Po]]  
   > "Lamy studied at Sciences Po, HEC Paris and the École nationale d'administration, graduating second in his year of those specialising in economics."
-  > Source: [Pascal Lamy](../sources/wikipedia-pascal-lamy.md) · grade A
+  > Source: [[sources/wikipedia-pascal-lamy|Pascal Lamy]] · grade A
 
 ## Membership
 
-- [Africa Europe Foundation (AEF)](../organisations/africa-europe-foundation-aef.md)  
+- [[organisations/africa-europe-foundation-aef|Africa Europe Foundation (AEF)]]  
   > "Africa Europe Foundation (AEF), Member of the High-Level Group of Personalities on Africa-Europe Relations (since 2020)"
-  > Source: [Pascal Lamy](../sources/wikipedia-pascal-lamy.md) · grade A
+  > Source: [[sources/wikipedia-pascal-lamy|Pascal Lamy]] · grade A
 
-- [Berggruen Institute](../organisations/berggruen-institute.md)  
+- [[organisations/berggruen-institute|Berggruen Institute]]  
   > "Berggruen Institute, Member of the Council for the Future of Europe"
-  > Source: [Pascal Lamy](../sources/wikipedia-pascal-lamy.md) · grade A
+  > Source: [[sources/wikipedia-pascal-lamy|Pascal Lamy]] · grade A
 
-- [Danone](../organisations/danone.md)  
+- [[organisations/danone|Danone]]  
   > "Danone, Member of the Mission Committee (since 2020)"
-  > Source: [Pascal Lamy](../sources/wikipedia-pascal-lamy.md) · grade A
+  > Source: [[sources/wikipedia-pascal-lamy|Pascal Lamy]] · grade A
 
-- [European Council on Foreign Relations (ECFR)](../organisations/european-council-on-foreign-relations-ecfr.md)  
+- [[organisations/european-council-on-foreign-relations-ecfr|European Council on Foreign Relations (ECFR)]]  
   > "European Council on Foreign Relations (ECFR), Member"
-  > Source: [Pascal Lamy](../sources/wikipedia-pascal-lamy.md) · grade A
+  > Source: [[sources/wikipedia-pascal-lamy|Pascal Lamy]] · grade A
 
-- [High Level Commission on the Modernization of World Bank Group Governance](../organisations/high-level-commission-on-the-modernization-of-world-bank-group-governance.md)  
+- [[organisations/high-level-commission-on-the-modernization-of-world-bank-group-governance|High Level Commission on the Modernization of World Bank Group Governance]]  
   > "Also in 2009, Lamy served on the High Level Commission on the Modernization of World Bank Group Governance, which – under the leadership of Ernesto Zedillo – conducted an external review of the World Bank Group's governance."
-  > Source: [Pascal Lamy](../sources/wikipedia-pascal-lamy.md) · grade B
+  > Source: [[sources/wikipedia-pascal-lamy|Pascal Lamy]] · grade B
 
-- [Socialist Party](../organisations/socialist-party.md) — party_member  
+- [[organisations/socialist-party|Socialist Party]] — party_member  
   > "Lamy has been a member of the Socialist Party since 1969."
-  > Source: [Pascal Lamy](../sources/wikipedia-pascal-lamy.md) · grade A
+  > Source: [[sources/wikipedia-pascal-lamy|Pascal Lamy]] · grade A
 
-- [UNAIDS–Lancet Commission on Defeating AIDS](../organisations/unaidslancet-commission-on-defeating-aids.md)  
+- [[organisations/unaidslancet-commission-on-defeating-aids|UNAIDS–Lancet Commission on Defeating AIDS]]  
   > "UNAIDS–Lancet Commission on Defeating AIDS, Member (2013-2015)"
-  > Source: [Pascal Lamy](../sources/wikipedia-pascal-lamy.md) · grade A
+  > Source: [[sources/wikipedia-pascal-lamy|Pascal Lamy]] · grade A
 
 ## Board / trustee
 
-- [Europaeum](../organisations/europaeum.md) — board_member  
+- [[organisations/europaeum|Europaeum]] — board_member  
   > "Europaeum, Member of the Board of Trustees"
-  > Source: [Pascal Lamy](../sources/wikipedia-pascal-lamy.md) · grade A
+  > Source: [[sources/wikipedia-pascal-lamy|Pascal Lamy]] · grade A
 
-- [European Climate Foundation](../organisations/european-climate-foundation.md) — board_member  
+- [[organisations/european-climate-foundation|European Climate Foundation]] — board_member  
   > "European Climate Foundation, Member of the Supervisory Board"
-  > Source: [Pascal Lamy](../sources/wikipedia-pascal-lamy.md) · grade A
+  > Source: [[sources/wikipedia-pascal-lamy|Pascal Lamy]] · grade A
 
-- [Fondation européenne d'études progressistes (FEPS)](../organisations/fondation-europeenne-d-etudes-progressistes-feps.md) — board_member; chair  
+- [[organisations/fondation-europeenne-d-etudes-progressistes-feps|Fondation européenne d'études progressistes (FEPS)]] — board_member; chair  
   > "Fondation européenne d'études progressistes (FEPS), vice-president of the Bureau"
-  > Source: [Pascal Lamy](../sources/wikipedia-pascal-lamy.md) · grade A
+  > Source: [[sources/wikipedia-pascal-lamy|Pascal Lamy]] · grade A
 
-- [French Institute for International and Strategic Affairs (IRIS)](../organisations/french-institute-for-international-and-strategic-affairs-iris.md) — board_member; chair  
+- [[organisations/french-institute-for-international-and-strategic-affairs-iris|French Institute for International and Strategic Affairs (IRIS)]] — board_member; chair  
   > "French Institute for International and Strategic Affairs (IRIS]), Honorary President of the Board of Directors"
-  > Source: [Pascal Lamy](../sources/wikipedia-pascal-lamy.md) · grade A
+  > Source: [[sources/wikipedia-pascal-lamy|Pascal Lamy]] · grade A
 
-- [Mo Ibrahim Foundation](../organisations/mo-ibrahim-foundation.md) — board_member  
+- [[organisations/mo-ibrahim-foundation|Mo Ibrahim Foundation]] — board_member  
   > "Mo Ibrahim Foundation, Member of the Board"
-  > Source: [Pascal Lamy](../sources/wikipedia-pascal-lamy.md) · grade A
+  > Source: [[sources/wikipedia-pascal-lamy|Pascal Lamy]] · grade A
 
 ## Advisory board
 
-- [Bosch](../organisations/bosch.md) — advisory_board  
+- [[organisations/bosch|Bosch]] — advisory_board  
   > "Bosch, Member of the International Advisory Committee (since 2015)"
-  > Source: [Pascal Lamy](../sources/wikipedia-pascal-lamy.md) · grade A
+  > Source: [[sources/wikipedia-pascal-lamy|Pascal Lamy]] · grade A
 
-- [Broader European Leadership Agenda (BELA)](../organisations/broader-european-leadership-agenda-bela.md) — advisory_board  
+- [[organisations/broader-european-leadership-agenda-bela|Broader European Leadership Agenda (BELA)]] — advisory_board  
   > "Broader European Leadership Agenda (BELA), Member of the Advisory Board"
-  > Source: [Pascal Lamy](../sources/wikipedia-pascal-lamy.md) · grade A
+  > Source: [[sources/wikipedia-pascal-lamy|Pascal Lamy]] · grade A
 
-- [Centre for European Reform](../organisations/centre-for-european-reform.md) — advisory_board  
+- [[organisations/centre-for-european-reform|Centre for European Reform]] — advisory_board  
   > "Centre for European Reform (CER), Member of the Advisory Board"
-  > Source: [Pascal Lamy](../sources/wikipedia-pascal-lamy.md) · grade A
+  > Source: [[sources/wikipedia-pascal-lamy|Pascal Lamy]] · grade A
 
-- [European Horizons](../organisations/european-horizons.md) — advisory_board  
+- [[organisations/european-horizons|European Horizons]] — advisory_board  
   > "European Horizons, Advisor"
-  > Source: [Pascal Lamy](../sources/wikipedia-pascal-lamy.md) · grade A
+  > Source: [[sources/wikipedia-pascal-lamy|Pascal Lamy]] · grade A
 
-- [Jacques Delors Centre at Hertie School](../organisations/jacques-delors-centre-at-hertie-school.md) — advisory_board  
+- [[organisations/jacques-delors-centre-at-hertie-school|Jacques Delors Centre at Hertie School]] — advisory_board  
   > "Jacques Delors Centre at Hertie School, Member of the Advisory Board"
-  > Source: [Pascal Lamy](../sources/wikipedia-pascal-lamy.md) · grade A
+  > Source: [[sources/wikipedia-pascal-lamy|Pascal Lamy]] · grade A
 
-- [Prague European Summit](../organisations/prague-european-summit.md) — advisory_board  
+- [[organisations/prague-european-summit|Prague European Summit]] — advisory_board  
   > "He is a member of the advisory board of the Prague European Summit."
-  > Source: [Pascal Lamy](../sources/wikipedia-pascal-lamy.md) · grade A
+  > Source: [[sources/wikipedia-pascal-lamy|Pascal Lamy]] · grade A
 
-- [Transparency International](../organisations/transparency-international.md) — advisory_board  
+- [[organisations/transparency-international|Transparency International]] — advisory_board  
   > "Transparency International, Member of the Advisory Council"
-  > Source: [Pascal Lamy](../sources/wikipedia-pascal-lamy.md) · grade A
+  > Source: [[sources/wikipedia-pascal-lamy|Pascal Lamy]] · grade A
 
-- [Women Political Leaders Global Forum (WPL)](../organisations/women-political-leaders-global-forum-wpl.md) — advisory_board  
+- [[organisations/women-political-leaders-global-forum-wpl|Women Political Leaders Global Forum (WPL)]] — advisory_board  
   > "Women Political Leaders Global Forum (WPL), Member of the Global Advisory Board"
-  > Source: [Pascal Lamy](../sources/wikipedia-pascal-lamy.md) · grade A
+  > Source: [[sources/wikipedia-pascal-lamy|Pascal Lamy]] · grade A
 
 ## Chair / president
 
 - fondation-europ-enne-d-tudes-progressistes-feps — chair  
   > "Other activities Corporate boards Danone, Member of the Mission Committee (since 2020) Bosch, Member of the International Advisory Committee (since 2015) Non-profit organizations Africa Europe Foundation (AEF), Member of the High-Level Group of Personalities on Africa-Europe Relations (since 2020) Berggruen Institute, Member of the Council for the Future of Europe Broader European Leadership Agenda (BELA), Member of the Advisory Board Center for Economic and Policy Research (CEPR), Distingui"
-  > Source: [Pascal Lamy](../sources/wikipedia-pascal-lamy.md) · grade A
+  > Source: [[sources/wikipedia-pascal-lamy|Pascal Lamy]] · grade A
 
-- [Les Musiciens du Louvre](../organisations/les-musiciens-du-louvre.md) — chair  
+- [[organisations/les-musiciens-du-louvre|Les Musiciens du Louvre]] — chair  
   > "Les Musiciens du Louvre, President of the Board of Directors"
-  > Source: [Pascal Lamy](../sources/wikipedia-pascal-lamy.md) · grade A
+  > Source: [[sources/wikipedia-pascal-lamy|Pascal Lamy]] · grade A
 
-- [Notre Europe](../organisations/notre-europe.md) — chair  
+- [[organisations/notre-europe|Notre Europe]] — chair  
   > "He is an adviser to the transatlantic think tank European Horizons, as well as the honorary president of the Paris-based think tank Notre Europe."
-  > Source: [Pascal Lamy](../sources/wikipedia-pascal-lamy.md) · grade A
+  > Source: [[sources/wikipedia-pascal-lamy|Pascal Lamy]] · grade A
 
-- [Paris Peace Forum](../organisations/paris-peace-forum.md) — chair  
+- [[organisations/paris-peace-forum|Paris Peace Forum]] — chair  
   > "In 2018, Lamy was appointed president of the Paris Peace Forum."
-  > Source: [Pascal Lamy](../sources/wikipedia-pascal-lamy.md) · grade A
+  > Source: [[sources/wikipedia-pascal-lamy|Pascal Lamy]] · grade A
 
 ## Fellowship
 
-- [Center for Economic and Policy Research (CEPR)](../organisations/center-for-economic-and-policy-research-cepr.md) — fellow  
+- [[organisations/center-for-economic-and-policy-research-cepr|Center for Economic and Policy Research (CEPR)]] — fellow  
   > "Center for Economic and Policy Research (CEPR), Distinguished Fellow (since 2019)"
-  > Source: [Pascal Lamy](../sources/wikipedia-pascal-lamy.md) · grade A
+  > Source: [[sources/wikipedia-pascal-lamy|Pascal Lamy]] · grade A
 
-- [Graduate Institute of International and Development Studies of Geneva](../organisations/graduate-institute-of-international-and-development-studies-of-geneva.md) — fellow  
+- [[organisations/graduate-institute-of-international-and-development-studies-of-geneva|Graduate Institute of International and Development Studies of Geneva]] — fellow  
   > "Other activities Corporate boards Danone, Member of the Mission Committee (since 2020) Bosch, Member of the International Advisory Committee (since 2015) Non-profit organizations Africa Europe Foundation (AEF), Member of the High-Level Group of Personalities on Africa-Europe Relations (since 2020) Berggruen Institute, Member of the Council for the Future of Europe Broader European Leadership Agenda (BELA), Member of the Advisory Board Center for Economic and Policy Research (CEPR), Distingui"
-  > Source: [Pascal Lamy](../sources/wikipedia-pascal-lamy.md) · grade A
+  > Source: [[sources/wikipedia-pascal-lamy|Pascal Lamy]] · grade A
 
 ## Employment
 
-- [Brunswick Group](../organisations/brunswick-group.md) — employed_by  
+- [[organisations/brunswick-group|Brunswick Group]] — employed_by  
   > "In 2019, he joined Brunswick Group as its president for European operations."
-  > Source: [Pascal Lamy](../sources/wikipedia-pascal-lamy.md) · grade C
+  > Source: [[sources/wikipedia-pascal-lamy|Pascal Lamy]] · grade C
 
-- [Crédit Lyonnais](../organisations/credit-lyonnais.md) — employed_by  
+- [[organisations/credit-lyonnais|Crédit Lyonnais]] — employed_by  
   > "Lamy briefly moved into business at Crédit Lyonnais."
-  > Source: [Pascal Lamy](../sources/wikipedia-pascal-lamy.md) · grade C
+  > Source: [[sources/wikipedia-pascal-lamy|Pascal Lamy]] · grade C
 
-- [European Commission](../organisations/european-commission.md) — employed_by  
+- [[organisations/european-commission|European Commission]] — employed_by  
   > "Lamy was previously European Commissioner for Trade for 5 years, from 13 September 1999 to 22 November 2004."
-  > Source: [Pascal Lamy](../sources/wikipedia-pascal-lamy.md) · grade C
+  > Source: [[sources/wikipedia-pascal-lamy|Pascal Lamy]] · grade C
 
-- [Inspection générale des finances](../organisations/inspection-generale-des-finances.md) — employed_by  
+- [[organisations/inspection-generale-des-finances|Inspection générale des finances]] — employed_by  
   > "He then joined the French civil service at the Inspection générale des finances."
-  > Source: [Pascal Lamy](../sources/wikipedia-pascal-lamy.md) · grade C
+  > Source: [[sources/wikipedia-pascal-lamy|Pascal Lamy]] · grade C
 
-- [Interministerial Committee for the Remodelling of Industrial Structures (CIASI)](../organisations/interministerial-committee-for-the-remodelling-of-industrial-structures-ciasi.md) — employed_by  
+- [[organisations/interministerial-committee-for-the-remodelling-of-industrial-structures-ciasi|Interministerial Committee for the Remodelling of Industrial Structures (CIASI)]] — employed_by  
   > "During 1979–1981 he worked as deputy secretary-general, then secretary-general of the Interministerial Committee for the Remodelling of Industrial Structures (CIASI) in the Treasury department."
-  > Source: [Pascal Lamy](../sources/wikipedia-pascal-lamy.md) · grade A
+  > Source: [[sources/wikipedia-pascal-lamy|Pascal Lamy]] · grade A
 
-- [Mayoux Committee (Commission Mayoux)](../organisations/mayoux-committee-commission-mayoux.md) — employed_by  
+- [[organisations/mayoux-committee-commission-mayoux|Mayoux Committee (Commission Mayoux)]] — employed_by  
   > "In 1979 Lamy was appointed to the post of secretary-general of the Mayoux Committee (Commission Mayoux) tasked with the decentralisation of financial establishments."
-  > Source: [Pascal Lamy](../sources/wikipedia-pascal-lamy.md) · grade C
+  > Source: [[sources/wikipedia-pascal-lamy|Pascal Lamy]] · grade C
 
-- [World Trade Organization (WTO)](../organisations/world-trade-organization-wto.md) — chair; employed_by  
+- [[organisations/world-trade-organization-wto|World Trade Organization (WTO)]] — chair; employed_by  
   > "He was the Director-General of the World Trade Organization (WTO) from 1 September 2005 to 1 September 2013 for 8 years."
-  > Source: [Pascal Lamy](../sources/wikipedia-pascal-lamy.md) · grade A
+  > Source: [[sources/wikipedia-pascal-lamy|Pascal Lamy]] · grade A

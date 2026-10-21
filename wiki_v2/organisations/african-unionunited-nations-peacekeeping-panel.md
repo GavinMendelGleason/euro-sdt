@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Romano Prodi](../people/romano-prodi.md) — chair  
+- [[people/romano-prodi|Romano Prodi]] — chair  
   > "In 2008, United Nations Secretary-General Ban Ki-moon selected Prodi as president of the African Union–United Nations peacekeeping panel."
-  > Source: [Romano Prodi](../sources/wikipedia-romano-prodi.md) · grade A
+  > Source: [[sources/wikipedia-romano-prodi|Romano Prodi]] · grade A

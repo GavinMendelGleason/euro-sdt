@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Philippe Busquin](../people/philippe-busquin.md)  
+- [[people/philippe-busquin|Philippe Busquin]]  
   > "He also was a substitute for the Committee on the Environment, Public Health and Food Safety and a member of the Delegation to the EU-Russia Parliamentary Cooperation Committee."
-  > Source: [Philippe Busquin](../sources/wikipedia-philippe-busquin.md) · grade A
+  > Source: [[sources/wikipedia-philippe-busquin|Philippe Busquin]] · grade A

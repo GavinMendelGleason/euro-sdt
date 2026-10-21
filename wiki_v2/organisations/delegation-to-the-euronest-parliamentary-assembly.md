@@ -15,9 +15,9 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Eugen Tomac](../people/eugen-tomac.md)  
+- [[people/eugen-tomac|Eugen Tomac]]  
   > "and the Delegation for Relations with South Caucasus."
-  > Source: [Eugen Tomac](../sources/wikipedia-eugen-tomac.md) · grade A
-- [Kaja Kallas](../people/kaja-kallas.md)  
+  > Source: [[sources/wikipedia-eugen-tomac|Eugen Tomac]] · grade A
+- [[people/kaja-kallas|Kaja Kallas]]  
   > "She was a vice-chair of the Delegation to the EU–Ukraine Parliamentary Cooperation Committee as well as a member of the Delegation to the Euronest Parliamentary Assembly and Delegation for relations with the United States."
-  > Source: [Kaja Kallas](../sources/wikipedia-kaja-kallas.md) · grade A
+  > Source: [[sources/wikipedia-kaja-kallas|Kaja Kallas]] · grade A

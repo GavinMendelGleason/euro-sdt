@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Iliana Ivanova](../people/iliana-ivanova.md)  
+- [[people/iliana-ivanova|Iliana Ivanova]]  
   > "In 2004 Ivanova defended her master's thesis in International Finance at the Thunderbird School of Global Management, Arizona."
-  > Source: [Iliana Ivanova](../sources/wikipedia-iliana-ivanova.md) · grade A
+  > Source: [[sources/wikipedia-iliana-ivanova|Iliana Ivanova]] · grade A

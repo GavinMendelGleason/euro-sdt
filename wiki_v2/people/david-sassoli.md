@@ -18,22 +18,22 @@ Mep
 
 ## Education
 
-- [Sapienza University Of Rome](../organisations/sapienza-university-of-rome.md)  
+- [[organisations/sapienza-university-of-rome|Sapienza University Of Rome]]  
   > "&#91; 2 &#93; He studied at the department of political science at the Sapienza University of Rome ."
-  > Source: [David Sassoli](../sources/wikipedia-david-sassoli.md) · grade A
+  > Source: [[sources/wikipedia-david-sassoli|David Sassoli]] · grade A
 
 ## Membership
 
-- [Democratic Party](../organisations/democratic-party.md)  
+- [[organisations/democratic-party|Democratic Party]]  
   > "In 2009, Sassoli left his journalism career to enter politics, becoming a member of the centre-left Democratic Party (PD) and running in the 2009 European Parliament election , for the Central Italy district."
-  > Source: [David Sassoli](../sources/wikipedia-david-sassoli.md) · grade A
+  > Source: [[sources/wikipedia-david-sassoli|David Sassoli]] · grade A
 
-- [European Parliament Intergroup on Extreme Poverty and Human Rights](../organisations/european-parliament-intergroup-on-extreme-poverty-and-human-rights.md)  
+- [[organisations/european-parliament-intergroup-on-extreme-poverty-and-human-rights|European Parliament Intergroup on Extreme Poverty and Human Rights]]  
   > "&#91; 17 &#93; &#91; 18 &#93; In addition to his committee assignments, he was a member of the European Parliament Intergroup on Extreme Poverty and Human Rights."
-  > Source: [David Sassoli](../sources/wikipedia-david-sassoli.md) · grade A
+  > Source: [[sources/wikipedia-david-sassoli|David Sassoli]] · grade A
 
 ## Affiliation
 
-- [Articolo 21, liberi di...](../organisations/articolo-21-liberi-di.md)  
+- [[organisations/articolo-21-liberi-di|Articolo 21, liberi di...]]  
   > "&#91; 8 &#93; Sassoli was also a supporter of Articolo 21, liberi di..."
-  > Source: [David Sassoli](../sources/wikipedia-david-sassoli.md) · grade B
+  > Source: [[sources/wikipedia-david-sassoli|David Sassoli]] · grade B

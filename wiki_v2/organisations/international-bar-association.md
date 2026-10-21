@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Markos Kyprianou](../people/markos-kyprianou.md)  
+- [[people/markos-kyprianou|Markos Kyprianou]]  
   > "International Bar Association"
-  > Source: [Markos Kyprianou](../sources/wikipedia-markos-kyprianou.md) · grade A
+  > Source: [[sources/wikipedia-markos-kyprianou|Markos Kyprianou]] · grade A

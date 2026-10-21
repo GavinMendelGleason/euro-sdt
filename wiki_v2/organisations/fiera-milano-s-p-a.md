@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Flavio Cattaneo](../people/flavio-cattaneo.md) — chair  
+- [[people/flavio-cattaneo|Flavio Cattaneo]] — chair  
   > "From 1999 to 2003, he was chairman and CEO of Fiera Milano S.p.A., the leading exhibition group in Italy, of which he oversaw its stock listing in 2001."
-  > Source: [Flavio Cattaneo](../sources/wikipedia-flavio-cattaneo.md) · grade A
+  > Source: [[sources/wikipedia-flavio-cattaneo|Flavio Cattaneo]] · grade A

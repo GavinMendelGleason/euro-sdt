@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [David Byrne](../people/david-byrne.md)  
+- [[people/david-byrne|David Byrne]]  
   > "Byrne graduated from Lansdowne High School in southwest Baltimore County, Maryland."
-  > Source: [David Byrne](../sources/wikipedia-david-byrne.md) · grade A
+  > Source: [[sources/wikipedia-david-byrne|David Byrne]] · grade A

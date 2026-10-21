@@ -18,36 +18,36 @@ Mep
 
 ## Membership
 
-- [Coalition of Energy Savings](../organisations/coalition-of-energy-savings.md)  
+- [[organisations/coalition-of-energy-savings|Coalition of Energy Savings]]  
   > "She is also a member of the steering committee of the Coalition of Energy Savings."
-  > Source: [Monica Frassoni](../sources/wikipedia-monica-frassoni.md) · grade A
+  > Source: [[sources/wikipedia-monica-frassoni|Monica Frassoni]] · grade A
 
-- [Local Council of Ixelles (Ecolo party)](../organisations/local-council-of-ixelles-ecolo-party.md)  
+- [[organisations/local-council-of-ixelles-ecolo-party|Local Council of Ixelles (Ecolo party)]]  
   > "In 2018, she was elected at the local Council of Ixelles in the Brussels Region, representing the Ecolo party."
-  > Source: [Monica Frassoni](../sources/wikipedia-monica-frassoni.md) · grade B
+  > Source: [[sources/wikipedia-monica-frassoni|Monica Frassoni]] · grade B
 
 ## Board / trustee
 
-- [European Centre for Electoral Support (ECES)](../organisations/european-centre-for-electoral-support-eces.md) — board_member  
+- [[organisations/european-centre-for-electoral-support-eces|European Centre for Electoral Support (ECES)]] — board_member  
   > "Since 2013, Frassoni has been president of the Management Board of the European Centre for Electoral Support (ECES), one of the most important organisation worldwide to implement electoral and democracy assistance projects mainly funded by the European Union and its Member States."
-  > Source: [Monica Frassoni](../sources/wikipedia-monica-frassoni.md) · grade A
+  > Source: [[sources/wikipedia-monica-frassoni|Monica Frassoni]] · grade A
 
-- [Foundation ceci n'est pas une crise](../organisations/foundation-ceci-n-est-pas-une-crise.md) — board_member  
+- [[organisations/foundation-ceci-n-est-pas-une-crise|Foundation ceci n'est pas une crise]] — board_member  
   > "She is also a board member of the Foundation ceci n'est pas une crise, created in 2013 in Belgium to respond to the challenges of cultural and identity populism."
-  > Source: [Monica Frassoni](../sources/wikipedia-monica-frassoni.md) · grade A
+  > Source: [[sources/wikipedia-monica-frassoni|Monica Frassoni]] · grade A
 
-- [Friends of Europe](../organisations/friends-of-europe.md) — board_member  
+- [[organisations/friends-of-europe|Friends of Europe]] — board_member  
   > "Frassoni is a member of the board of trustees of \"Friends of Europe\" a leading think tank that works to promote a more inclusive, sustainable and forward-looking Europe."
-  > Source: [Monica Frassoni](../sources/wikipedia-monica-frassoni.md) · grade A
+  > Source: [[sources/wikipedia-monica-frassoni|Monica Frassoni]] · grade A
 
 ## Chair / president
 
-- [European Green Party](../organisations/european-green-party.md) — chair  
+- [[organisations/european-green-party|European Green Party]] — chair  
   > "Monica Frassoni (born 10 September 1963) is an Italian politician who served as a Member of the European Parliament from 1999 to 2009 and as co-chair of the European Green Party from 2009 to 2019."
-  > Source: [Monica Frassoni](../sources/wikipedia-monica-frassoni.md) · grade A
+  > Source: [[sources/wikipedia-monica-frassoni|Monica Frassoni]] · grade A
 
 ## Founder
 
-- [European Alliance to Save Energy](../organisations/european-alliance-to-save-energy.md) — founder  
+- [[organisations/european-alliance-to-save-energy|European Alliance to Save Energy]] — founder  
   > "In 2010, Frassoni co-founded and leads the European Alliance to Save Energy a multi-stakeholder, business-led organisation which aims to promote and advocate energy savings and a new energy model."
-  > Source: [Monica Frassoni](../sources/wikipedia-monica-frassoni.md) · grade A
+  > Source: [[sources/wikipedia-monica-frassoni|Monica Frassoni]] · grade A

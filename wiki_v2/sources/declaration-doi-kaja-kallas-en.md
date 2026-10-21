@@ -15,5 +15,5 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (1)
 
-- [Kaja Kallas](../people/kaja-kallas.md) — nominated_by — EST
+- [[people/kaja-kallas|Kaja Kallas]] — nominated_by — EST
   > "CODE OF CONDUCT FOR MEMBERS OF THE EUROPEAN COMMISSION ANNEX 1 – DECLARATION OF INTERESTS Full Name : Kaja Kallas Language : EN I."

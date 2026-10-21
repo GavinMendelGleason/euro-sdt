@@ -16,9 +16,9 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (3)
 
-- [Mário Soares](../people/mario-soares.md) — member — Movement for Anti-Fascist National Unity
+- [[people/mario-soares|Mário Soares]] — member — Movement for Anti-Fascist National Unity
   > "He was active in resistance groups such as the Movement for Anti-Fascist National Unity and the Movement for Democratic Unity."
-- [Mário Soares](../people/mario-soares.md) — member — Movement for Democratic Unity
+- [[people/mario-soares|Mário Soares]] — member — Movement for Democratic Unity
   > "He was active in resistance groups such as the Movement for Anti-Fascist National Unity and the Movement for Democratic Unity."
-- [Mário Soares](../people/mario-soares.md) — member — Movement of Democratic Unity
+- [[people/mario-soares|Mário Soares]] — member — Movement of Democratic Unity
   > "He was first arrested by PIDE , the Portuguese political police, in 1946, when he was a member of the Central Committee of the Movement of Democratic Unity ( Portuguese : Movimento de Unidade Democrática ), at the time chaired by Mário de Azevedo Gomes &#160;&#91; pt &#93; ."

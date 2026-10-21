@@ -14,12 +14,12 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Andrus Ansip](../people/andrus-ansip.md)  
+- [[people/andrus-ansip|Andrus Ansip]]  
   > "In Parliament, he has since been serving on the Committee on the Internal Market and Consumer Protection."
-  > Source: [Andrus Ansip](../sources/wikipedia-andrus-ansip.md) · grade B
-- [Iliana Ivanova](../people/iliana-ivanova.md)  
+  > Source: [[sources/wikipedia-andrus-ansip|Andrus Ansip]] · grade B
+- [[people/iliana-ivanova|Iliana Ivanova]]  
   > "During that period, she served as vice-chair of the Committee on Budgetary Control, Vice-chair of the Special Committee on the Economic, Financial and Social crisis, member of the Committee on the Internal Market and Consumer Protection and as substitute member of the Committee on Economic and Monetary Affairs."
-  > Source: [Iliana Ivanova](../sources/wikipedia-iliana-ivanova.md) · grade A
-- [Kaja Kallas](../people/kaja-kallas.md)  
+  > Source: [[sources/wikipedia-iliana-ivanova|Iliana Ivanova]] · grade A
+- [[people/kaja-kallas|Kaja Kallas]]  
   > "In the European Parliament, Kallas served on the Committee on Industry, Research and Energy and was a substitute for the Committee on the Internal Market and Consumer Protection."
-  > Source: [Kaja Kallas](../sources/wikipedia-kaja-kallas.md) · grade B
+  > Source: [[sources/wikipedia-kaja-kallas|Kaja Kallas]] · grade B

@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Yvan Blot](../people/yvan-blot.md)  
+- [[people/yvan-blot|Yvan Blot]]  
   > "He studied in Lycée Henri IV and graduated from Sciences Po and earned a doctorate in economics at the same university in 2004."
-  > Source: [Yvan Blot](../sources/wikipedia-yvan-blot.md) · grade C
+  > Source: [[sources/wikipedia-yvan-blot|Yvan Blot]] · grade C

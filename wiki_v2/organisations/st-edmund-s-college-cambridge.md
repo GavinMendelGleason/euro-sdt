@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Joaquín Almunia](../people/joaquin-almunia.md) — fellow  
+- [[people/joaquin-almunia|Joaquín Almunia]] — fellow  
   > "He is an Honorary Fellow of St Edmund's College, Cambridge."
-  > Source: [Joaquin Almunia](../sources/wikipedia-joaquin-almunia.md) · grade A
+  > Source: [[sources/wikipedia-joaquin-almunia|Joaquin Almunia]] · grade A

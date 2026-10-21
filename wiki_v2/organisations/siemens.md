@@ -15,9 +15,9 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Jim Hagemann Snabe](../people/jim-hagemann-snabe.md)  
+- [[people/jim-hagemann-snabe|Jim Hagemann Snabe]]  
   > "Jim Hagemann Snabe (born October 27, 1965) is a Danish businessman, and the chairman of Siemens."
-  > Source: [Corp Jim Hagemann Snabe](../sources/wikipedia-corp-jim-hagemann-snabe.md) · grade A
-- [Roland Busch](../people/roland-busch.md)  
+  > Source: [[sources/wikipedia-corp-jim-hagemann-snabe|Corp Jim Hagemann Snabe]] · grade A
+- [[people/roland-busch|Roland Busch]]  
   > "=== CEO of Siemens AG === Roland Busch succeeded Joe Kaeser as President and CEO of Siemens AG. During his tenure, Siemens introduced a range of technologies combining physical and digital systems."
-  > Source: [Corp Roland Busch](../sources/wikipedia-corp-roland-busch.md) · grade A
+  > Source: [[sources/wikipedia-corp-roland-busch|Corp Roland Busch]] · grade A

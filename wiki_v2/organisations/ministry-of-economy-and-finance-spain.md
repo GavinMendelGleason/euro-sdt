@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Josep Borrell](../people/josep-borrell.md) — employed_by  
+- [[people/josep-borrell|Josep Borrell]] — employed_by  
   > "He entered politics in the 1970s as a member of the PSOE during Spain's transition to democracy, and went on to serve in several positions during the governments of Felipe González, first within the Ministry of Economy and Finance as General Secretary for the Budget and Public Spending (1982–1984) and Secretary of State for Finance (1984–1991), then joining the Council of Ministers as Minister of […]"
-  > Source: [Josep Borrell](../sources/wikipedia-josep-borrell.md) · grade C
+  > Source: [[sources/wikipedia-josep-borrell|Josep Borrell]] · grade C

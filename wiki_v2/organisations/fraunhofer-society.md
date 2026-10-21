@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Oliver Zipse](../people/oliver-zipse.md)  
+- [[people/oliver-zipse|Oliver Zipse]]  
   > "&#91; 23 &#93; Zipse is an advocate of experimenting with and pioneering new technologies within the BMW group."
-  > Source: [Oliver Zipse](../sources/wikipedia-oliver-zipse.md) · grade A
+  > Source: [[sources/wikipedia-oliver-zipse|Oliver Zipse]] · grade A

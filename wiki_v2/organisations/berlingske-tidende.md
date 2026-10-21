@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Connie Hedegaard](../people/connie-hedegaard.md) — employed_by  
+- [[people/connie-hedegaard|Connie Hedegaard]] — employed_by  
   > "Over the next 14 years, she worked as a journalist at the newspaper Berlingske Tidende, took the post of Director of DR Radio News, and was the anchor for Deadline, a Danish TV news program."
-  > Source: [Connie Hedegaard](../sources/wikipedia-connie-hedegaard.md) · grade A
+  > Source: [[sources/wikipedia-connie-hedegaard|Connie Hedegaard]] · grade A

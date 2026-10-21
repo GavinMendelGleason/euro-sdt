@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Ross McInnes](../people/ross-mcinnes.md) — board_member  
+- [[people/ross-mcinnes|Ross McInnes]] — board_member  
   > "He has been a director of Engie since 2018 Early life [ edit ] McInnes was born on 8 March 1954, in Kolkata , India, to Australian parents."
-  > Source: [Ross Mcinnes](../sources/wikipedia-ross-mcinnes.md) · grade A
+  > Source: [[sources/wikipedia-ross-mcinnes|Ross Mcinnes]] · grade A

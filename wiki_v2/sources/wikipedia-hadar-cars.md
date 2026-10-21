@@ -16,9 +16,9 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (3)
 
-- [Hadar Cars](../people/hadar-cars.md) — affiliated_with — Nordic Liberal Student Council
+- [[people/hadar-cars|Hadar Cars]] — affiliated_with — Nordic Liberal Student Council
   > "&#91; 1 &#93; He headed the Nordic Liberal Student Council."
-- [Hadar Cars](../people/hadar-cars.md) — member — Liberals
+- [[people/hadar-cars|Hadar Cars]] — member — Liberals
   > "&#91; 2 &#93; Cars is a member of the Liberals ."
-- [Hadar Cars](../people/hadar-cars.md) — member — European Liberal, Democrat and Reform Party
+- [[people/hadar-cars|Hadar Cars]] — member — European Liberal, Democrat and Reform Party
   > "&#91; 6 &#93; Cars was elected to the European Parliament in 1995 and served there as part of the European Liberal, Democrat and Reform Party until 1999."

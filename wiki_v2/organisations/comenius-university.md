@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Maroš Šefčovič](../people/maros-sefcovic.md)  
+- [[people/maros-sefcovic|Maroš Šefčovič]]  
   > "In 2000, he obtained a PhD in international law at Comenius University in Bratislava."
-  > Source: [Maros Sefcovic](../sources/wikipedia-maros-sefcovic.md) · grade A
+  > Source: [[sources/wikipedia-maros-sefcovic|Maros Sefcovic]] · grade A

@@ -16,7 +16,7 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (2)
 
-- [Gilles Schnepp](../people/gilles-schnepp.md) — educated_at — Hec Paris
+- [[people/gilles-schnepp|Gilles Schnepp]] — educated_at — Hec Paris
   > "== Career == Having graduated from HEC Paris in 1981, Gilles Schnepp begins his career in 1983 at Merrill Lynch France."
-- [Gilles Schnepp](../people/gilles-schnepp.md) — employed_by — Danone
+- [[people/gilles-schnepp|Gilles Schnepp]] — employed_by — Danone
   > "In March 2021, he was appointed chairman of Danone's board of directors."

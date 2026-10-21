@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Connie Hedegaard](../people/connie-hedegaard.md)  
+- [[people/connie-hedegaard|Connie Hedegaard]]  
   > "Other activities International organizations European Investment Bank (EIB), Member of the Climate and Environment Advisory Council (since 2021) Corporate boards Danfoss Group, Member of the Board Volkswagen, Member of the Sustainability Council Nordex, Member of the Supervisory Board BBVA, Member of the Board Non-profit organizations Africa Europe Foundation (AEF), Member of the High-Level Group […]"
-  > Source: [Connie Hedegaard](../sources/wikipedia-connie-hedegaard.md) · grade A
+  > Source: [[sources/wikipedia-connie-hedegaard|Connie Hedegaard]] · grade A

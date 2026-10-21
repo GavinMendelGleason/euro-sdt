@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Stéphane Séjourné](../people/stephane-sejourne.md) — employed_by  
+- [[people/stephane-sejourne|Stéphane Séjourné]] — employed_by  
   > "In 2022, he was also elected Secretary General of Renaissance, succeeding Stanislas Guerini."
-  > Source: [Stephane Sejourne](../sources/wikipedia-stephane-sejourne.md) · grade A
+  > Source: [[sources/wikipedia-stephane-sejourne|Stephane Sejourne]] · grade A

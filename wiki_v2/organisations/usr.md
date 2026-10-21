@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Dacian Cioloş](../people/dacian-ciolos.md) — chair  
+- [[people/dacian-ciolos|Dacian Cioloş]] — chair  
   > "He relinquished the leadership upon becoming USR president."
-  > Source: [Dacian Ciolos](../sources/wikipedia-dacian-ciolos.md) · grade A
+  > Source: [[sources/wikipedia-dacian-ciolos|Dacian Ciolos]] · grade A

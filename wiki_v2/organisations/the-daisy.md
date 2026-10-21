@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Paolo Gentiloni](../people/paolo-gentiloni.md) — founder  
+- [[people/paolo-gentiloni|Paolo Gentiloni]] — founder  
   > "In 2002 he was a founding member of the Christian leftist The Daisy party, being the party's communications spokesman for five years."
-  > Source: [Paolo Gentiloni](../sources/wikipedia-paolo-gentiloni.md) · grade C
+  > Source: [[sources/wikipedia-paolo-gentiloni|Paolo Gentiloni]] · grade C

@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Jutta Urpilainen](../people/jutta-urpilainen.md) — advisory_board  
+- [[people/jutta-urpilainen|Jutta Urpilainen]] — advisory_board  
   > "In addition to her parliamentary work, she was also a member of the Advisory Council of the Finnish Institute of International Affairs."
-  > Source: [Jutta Urpilainen](../sources/wikipedia-jutta-urpilainen.md) · grade A
+  > Source: [[sources/wikipedia-jutta-urpilainen|Jutta Urpilainen]] · grade A

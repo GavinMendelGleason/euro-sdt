@@ -18,16 +18,16 @@ Mep
 
 ## Membership
 
-- [European Green Party](../organisations/european-green-party.md)  
+- [[organisations/european-green-party|European Green Party]]  
   > "She is a member of the Austrian Green party The Greens – The Green Alternative, part of the European Green Party."
-  > Source: [Ulrike Lunacek](../sources/wikipedia-ulrike-lunacek.md) · grade A
+  > Source: [[sources/wikipedia-ulrike-lunacek|Ulrike Lunacek]] · grade A
 
-- [The Greens – The Green Alternative](../organisations/the-greens-the-green-alternative.md)  
+- [[organisations/the-greens-the-green-alternative|The Greens – The Green Alternative]]  
   > "She is a member of the Austrian Green party The Greens – The Green Alternative, part of the European Green Party."
-  > Source: [Ulrike Lunacek](../sources/wikipedia-ulrike-lunacek.md) · grade A
+  > Source: [[sources/wikipedia-ulrike-lunacek|Ulrike Lunacek]] · grade A
 
 ## Affiliation
 
-- [Government of Chancellor Sebastian Kurz](../organisations/government-of-chancellor-sebastian-kurz.md)  
+- [[organisations/government-of-chancellor-sebastian-kurz|Government of Chancellor Sebastian Kurz]]  
   > "Lunacek briefly served as State Secretary for Cultural Affairs in the government of Chancellor Sebastian Kurz in early 2020."
-  > Source: [Ulrike Lunacek](../sources/wikipedia-ulrike-lunacek.md) · grade B
+  > Source: [[sources/wikipedia-ulrike-lunacek|Ulrike Lunacek]] · grade B

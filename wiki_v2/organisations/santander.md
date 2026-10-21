@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Ana Botín](../people/ana-botin.md)  
+- [[people/ana-botin|Ana Botín]]  
   > "Ana Patricia Botín-Sanz de Sautuola O'Shea (born 4 October 1960) is a Spanish banker who has been the executive chairman of Santander Group since 2014."
-  > Source: [Corp Ana Botin](../sources/wikipedia-corp-ana-botin.md) · grade A
+  > Source: [[sources/wikipedia-corp-ana-botin|Corp Ana Botin]] · grade A

@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Miguel Arias Cañete](../people/miguel-arias-canete.md) — board_member  
+- [[people/miguel-arias-canete|Miguel Arias Cañete]] — board_member  
   > "Arias Cañete joined the AP's national executive board during the presidency of Antonio Hernández Mancha."
-  > Source: [Miguel Arias Canete](../sources/wikipedia-miguel-arias-canete.md) · grade A
+  > Source: [[sources/wikipedia-miguel-arias-canete|Miguel Arias Canete]] · grade A

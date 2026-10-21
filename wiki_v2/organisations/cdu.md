@@ -15,12 +15,12 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Godelieve Quisthoudt-Rowohl](../people/godelieve-quisthoudt-rowohl.md) — board_member  
+- [[people/godelieve-quisthoudt-rowohl|Godelieve Quisthoudt-Rowohl]] — board_member  
   > "Political career [ edit ] Career in national politics [ edit ] In 1990 Quisthoudt-Rowohl was a CDU board member in Lower Saxony."
-  > Source: [Godelieve Quisthoudt Rowohl](../sources/wikipedia-godelieve-quisthoudt-rowohl.md) · grade A
-- [Günther Oettinger](../people/gunther-oettinger.md) — chair  
+  > Source: [[sources/wikipedia-godelieve-quisthoudt-rowohl|Godelieve Quisthoudt Rowohl]] · grade A
+- [[people/gunther-oettinger|Günther Oettinger]] — chair  
   > "On 29 April 2005, Oettinger became Chairman of the CDU in Baden-Württemberg, eight days after succeeding Teufel as Minister President."
-  > Source: [Gunther Oettinger](../sources/wikipedia-gunther-oettinger.md) · grade A
-- [Ursula von der Leyen](../people/ursula-von-der-leyen.md)  
+  > Source: [[sources/wikipedia-gunther-oettinger|Gunther Oettinger]] · grade A
+- [[people/ursula-von-der-leyen|Ursula von der Leyen]]  
   > "She served as a deputy leader of the CDU from 2010 to 2019, and was regarded as a leading contender to succeed Merkel as the chancellor of Germany and as the favourite to become the secretary general of NATO after Jens Stoltenberg."
-  > Source: [Ursula Von Der Leyen](../sources/wikipedia-ursula-von-der-leyen.md) · grade B
+  > Source: [[sources/wikipedia-ursula-von-der-leyen|Ursula Von Der Leyen]] · grade B

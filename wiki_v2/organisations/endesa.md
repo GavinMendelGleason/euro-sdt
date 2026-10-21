@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Flavio Cattaneo](../people/flavio-cattaneo.md) — chair  
+- [[people/flavio-cattaneo|Flavio Cattaneo]] — chair  
   > "Since 2023, he has been CEO and General Manager of Enel and vice chair of Endesa ."
-  > Source: [Flavio Cattaneo](../sources/wikipedia-flavio-cattaneo.md) · grade A
+  > Source: [[sources/wikipedia-flavio-cattaneo|Flavio Cattaneo]] · grade A

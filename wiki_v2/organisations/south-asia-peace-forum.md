@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Ryszard Czarnecki](../people/ryszard-czarnecki.md)  
+- [[people/ryszard-czarnecki|Ryszard Czarnecki]]  
   > "Former member of the \"Group on South Asia\", \"South Asia Peace Forum\" and \"Forum for Balochistan \" in the European Parliament."
-  > Source: [Ryszard Czarnecki](../sources/wikipedia-ryszard-czarnecki.md) · grade A
+  > Source: [[sources/wikipedia-ryszard-czarnecki|Ryszard Czarnecki]] · grade A

@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Andrus Ansip](../people/andrus-ansip.md)  
+- [[people/andrus-ansip|Andrus Ansip]]  
   > "Andrus Ansip is a member of the Estonian voluntary home guard organisation Kaitseliit (Defence League) since 10 November 2009."
-  > Source: [Andrus Ansip](../sources/wikipedia-andrus-ansip.md) · grade A
+  > Source: [[sources/wikipedia-andrus-ansip|Andrus Ansip]] · grade A

@@ -15,9 +15,9 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Yvan Blot](../people/yvan-blot.md) — chair  
+- [[people/yvan-blot|Yvan Blot]] — chair  
   > "A founding member of the GRECE , he was also the co-creator and president of the Club de l'Horloge ."
-  > Source: [Yvan Blot](../sources/wikipedia-yvan-blot.md) · grade A
-- [Yves-Thibault de Silguy](../people/yves-thibault-de-silguy.md)  
+  > Source: [[sources/wikipedia-yvan-blot|Yvan Blot]] · grade A
+- [[people/yves-thibault-de-silguy|Yves-Thibault de Silguy]]  
   > "He was a member of the Club de l'horloge."
-  > Source: [Yves Thibault De Silguy](../sources/wikipedia-yves-thibault-de-silguy.md) · grade A
+  > Source: [[sources/wikipedia-yves-thibault-de-silguy|Yves Thibault De Silguy]] · grade A

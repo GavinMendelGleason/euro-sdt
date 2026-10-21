@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [László Andor](../people/laszlo-andor.md) — employed_by  
+- [[people/laszlo-andor|László Andor]] — employed_by  
   > "László Andor (born 3 June 1966) is a Hungarian economist and the Secretary General of the Foundation for European Progressive Studies (FEPS)."
-  > Source: [Laszlo Andor](../sources/wikipedia-laszlo-andor.md) · grade B
+  > Source: [[sources/wikipedia-laszlo-andor|Laszlo Andor]] · grade B

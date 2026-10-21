@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Margot Wallström](../people/margot-wallstrom.md) — fellow  
+- [[people/margot-wallstrom|Margot Wallström]] — fellow  
   > "Enough Project, Fellow"
-  > Source: [Margot Wallstrom](../sources/wikipedia-margot-wallstrom.md) · grade A
+  > Source: [[sources/wikipedia-margot-wallstrom|Margot Wallstrom]] · grade A

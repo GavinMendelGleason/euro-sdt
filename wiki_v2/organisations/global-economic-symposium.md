@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Viviane Reding](../people/viviane-reding.md) — advisory_board  
+- [[people/viviane-reding|Viviane Reding]] — advisory_board  
   > "Global Economic Symposium, Member of the Advisory Board"
-  > Source: [Viviane Reding](../sources/wikipedia-viviane-reding.md) · grade A
+  > Source: [[sources/wikipedia-viviane-reding|Viviane Reding]] · grade A

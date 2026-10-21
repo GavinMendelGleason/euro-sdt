@@ -18,14 +18,14 @@ Corporate Elite
 
 ## Education
 
-- [Lancaster University](../organisations/lancaster-university.md)  
+- [[organisations/lancaster-university|Lancaster University]]  
   > "&#91; citation needed &#93; He earned a business degree from WHU – Otto Beisheim School of Management (Germany), an MBA from Lancaster University (UK), and a PhD in economics from the University of St."
-  > Source: [Thomas Buberl](../sources/wikipedia-thomas-buberl.md) · grade A
+  > Source: [[sources/wikipedia-thomas-buberl|Thomas Buberl]] · grade A
 
-- [University of St. Gallen](../organisations/university-of-st-gallen.md)  
+- [[organisations/university-of-st-gallen|University of St. Gallen]]  
   > "&#91; citation needed &#93; He earned a business degree from WHU – Otto Beisheim School of Management (Germany), an MBA from Lancaster University (UK), and a PhD in economics from the University of St."
-  > Source: [Thomas Buberl](../sources/wikipedia-thomas-buberl.md) · grade A
+  > Source: [[sources/wikipedia-thomas-buberl|Thomas Buberl]] · grade A
 
-- [WHU – Otto Beisheim School of Management](../organisations/whu-otto-beisheim-school-of-management.md)  
+- [[organisations/whu-otto-beisheim-school-of-management|WHU – Otto Beisheim School of Management]]  
   > "&#91; citation needed &#93; He earned a business degree from WHU – Otto Beisheim School of Management (Germany), an MBA from Lancaster University (UK), and a PhD in economics from the University of St."
-  > Source: [Thomas Buberl](../sources/wikipedia-thomas-buberl.md) · grade A
+  > Source: [[sources/wikipedia-thomas-buberl|Thomas Buberl]] · grade A

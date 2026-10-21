@@ -18,6 +18,6 @@ Corporate Elite
 
 ## Employment
 
-- [Vodafone](../organisations/vodafone.md)  
+- [[organisations/vodafone|Vodafone]]  
   > "Margherita Della Valle (born 13 April 1965, Veneto) is an Italian businesswoman who has been the chief executive officer (CEO) of Vodafone since January 2023."
-  > Source: [Corp Margherita Della Valle](../sources/wikipedia-corp-margherita-della-valle.md) · grade A
+  > Source: [[sources/wikipedia-corp-margherita-della-valle|Corp Margherita Della Valle]] · grade A

@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Silvana Koch-Mehrin](../people/silvana-koch-mehrin.md) — advisory_board  
+- [[people/silvana-koch-mehrin|Silvana Koch-Mehrin]] — advisory_board  
   > "Other activities [ edit ] Walther Rathenau Institute , Member of the Board &#91; 18 &#93; Apolitical Foundation, Member of the Global Advisor Network &#91; 19 &#93; Political positions [ edit ] In 2005, Koch-Mehrin called for all EU Member States to follow Germany in banning public displays of Nazi symbols."
-  > Source: [Silvana Koch Mehrin](../sources/wikipedia-silvana-koch-mehrin.md) · grade A
+  > Source: [[sources/wikipedia-silvana-koch-mehrin|Silvana Koch Mehrin]] · grade A

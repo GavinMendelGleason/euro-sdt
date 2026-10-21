@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Isabelle Le Callennec](../people/isabelle-le-callennec.md)  
+- [[people/isabelle-le-callennec|Isabelle Le Callennec]]  
   > "&#91; 5 &#93; In the Republicans' 2025 leadership election, Le Callennec endorsed Laurent Wauquiez to succeed Éric Ciotti as the party's new chair and joined his campaign team."
-  > Source: [Isabelle Le Callennec](../sources/wikipedia-isabelle-le-callennec.md) · grade A
+  > Source: [[sources/wikipedia-isabelle-le-callennec|Isabelle Le Callennec]] · grade A

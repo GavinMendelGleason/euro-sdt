@@ -15,9 +15,9 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Marianne Thyssen](../people/marianne-thyssen.md)  
+- [[people/marianne-thyssen|Marianne Thyssen]]  
   > "She has sat on the European Parliament's Committee on the Internal Market and Consumer Protection, has substituted for the Committee on International Trade, was a member of the Delegation to the EU-Ukraine Parliamentary Cooperation Committee and a substitute for the Delegation to the EU-Turkey Joint Parliamentary Committee."
-  > Source: [Marianne Thyssen](../sources/wikipedia-marianne-thyssen.md) · grade A
-- [Mia De Vits](../people/mia-de-vits.md)  
+  > Source: [[sources/wikipedia-marianne-thyssen|Marianne Thyssen]] · grade A
+- [[people/mia-de-vits|Mia De Vits]]  
   > "She sat on the European Parliament 's Committee on the Internal Market and Consumer Protection ."
-  > Source: [Mia De Vits](../sources/wikipedia-mia-de-vits.md) · grade C
+  > Source: [[sources/wikipedia-mia-de-vits|Mia De Vits]] · grade C

@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Ulrich Grillo](../people/ulrich-grillo.md) — board_member  
+- [[people/ulrich-grillo|Ulrich Grillo]] — board_member  
   > "He is currently chairman of the supervisory board at Rheinmetall AG and deputy chairman of the supervisory board at E.ON SE ."
-  > Source: [Ulrich Grillo](../sources/wikipedia-ulrich-grillo.md) · grade A
+  > Source: [[sources/wikipedia-ulrich-grillo|Ulrich Grillo]] · grade A

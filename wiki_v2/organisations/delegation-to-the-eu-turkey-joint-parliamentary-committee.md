@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Mechtild Rothe](../people/mechtild-rothe.md)  
+- [[people/mechtild-rothe|Mechtild Rothe]]  
   > "She was a substitute for the Committee on Foreign Affairs , a member of the Delegation for relations with the countries of south-east Europe and a substitute for the Delegation to the EU - Turkey Joint Parliamentary Committee."
-  > Source: [Mechtild Rothe](../sources/wikipedia-mechtild-rothe.md) · grade A
+  > Source: [[sources/wikipedia-mechtild-rothe|Mechtild Rothe]] · grade A

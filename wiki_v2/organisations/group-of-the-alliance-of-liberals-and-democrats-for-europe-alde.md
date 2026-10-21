@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Edward McMillan-Scott](../people/edward-mcmillan-scott.md)  
+- [[people/edward-mcmillan-scott|Edward McMillan-Scott]]  
   > "In May 2010 he became a member of the Group of the Alliance of Liberals and Democrats for Europe (ALDE) in the European Parliament."
-  > Source: [Edward Mcmillan Scott](../sources/wikipedia-edward-mcmillan-scott.md) · grade A
+  > Source: [[sources/wikipedia-edward-mcmillan-scott|Edward Mcmillan Scott]] · grade A

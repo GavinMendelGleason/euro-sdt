@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Bas Eickhout](../people/bas-eickhout.md)  
+- [[people/bas-eickhout|Bas Eickhout]]  
   > "Between 2008 and 2009, Eickhout was a member of the committee chaired by Bram van Ojik which wrote the new party platform ."
-  > Source: [Bas Eickhout](../sources/wikipedia-bas-eickhout.md) · grade A
+  > Source: [[sources/wikipedia-bas-eickhout|Bas Eickhout]] · grade A

@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Alonso José Puerta](../people/alonso-jose-puerta.md)  
+- [[people/alonso-jose-puerta|Alonso José Puerta]]  
   > "&#91; 2 &#93; He left the party and joined United Left ."
-  > Source: [Alonso Puerta](../sources/wikipedia-alonso-puerta.md) · grade C
+  > Source: [[sources/wikipedia-alonso-puerta|Alonso Puerta]] · grade C

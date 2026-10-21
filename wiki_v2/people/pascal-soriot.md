@@ -18,16 +18,16 @@ Corporate Elite
 
 ## Education
 
-- [Hec Paris](../organisations/hec-paris.md)  
+- [[organisations/hec-paris|Hec Paris]]  
   > "He later obtained an MBA at HEC Paris."
-  > Source: [Corp Pascal Soriot](../sources/wikipedia-corp-pascal-soriot.md) · grade B
+  > Source: [[sources/wikipedia-corp-pascal-soriot|Corp Pascal Soriot]] · grade B
 
-- [École nationale vétérinaire d'Alfort](../organisations/ecole-nationale-veterinaire-d-alfort.md)  
+- [[organisations/ecole-nationale-veterinaire-d-alfort|École nationale vétérinaire d'Alfort]]  
   > "He studied veterinary medicine at the École nationale vétérinaire d'Alfort at Maisons-Alfort in Paris."
-  > Source: [Corp Pascal Soriot](../sources/wikipedia-corp-pascal-soriot.md) · grade A
+  > Source: [[sources/wikipedia-corp-pascal-soriot|Corp Pascal Soriot]] · grade A
 
 ## Employment
 
-- [AstraZeneca](../organisations/astrazeneca.md)  
+- [[organisations/astrazeneca|AstraZeneca]]  
   > "Sir Pascal Claude Roland Soriot (born 23 May 1959) is a French-born Australian businessman and chief executive of the British-Swedish multinational pharmaceutical and biotechnology company AstraZeneca."
-  > Source: [Corp Pascal Soriot](../sources/wikipedia-corp-pascal-soriot.md) · grade A
+  > Source: [[sources/wikipedia-corp-pascal-soriot|Corp Pascal Soriot]] · grade A

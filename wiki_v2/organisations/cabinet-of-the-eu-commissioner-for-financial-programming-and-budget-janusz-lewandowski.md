@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Piotr Serafin](../people/piotr-serafin.md) — employed_by  
+- [[people/piotr-serafin|Piotr Serafin]] — employed_by  
   > "In February 2010, Serafin was appointed the deputy head of Cabinet of the EU Commissioner for Financial Programming and Budget Janusz Lewandowski."
-  > Source: [Piotr Serafin](../sources/wikipedia-piotr-serafin.md) · grade A
+  > Source: [[sources/wikipedia-piotr-serafin|Piotr Serafin]] · grade A

@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Olli Rehn](../people/olli-rehn.md) — chair  
+- [[people/olli-rehn|Olli Rehn]] — chair  
   > "In 1987, he was elected as the president of the Finnish Centre Youth."
-  > Source: [Olli Rehn](../sources/wikipedia-olli-rehn.md) · grade A
+  > Source: [[sources/wikipedia-olli-rehn|Olli Rehn]] · grade A

@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Marianne Thyssen](../people/marianne-thyssen.md) — chair  
+- [[people/marianne-thyssen|Marianne Thyssen]] — chair  
   > "In 2008 Thyssen was elected leader of CD&V party."
-  > Source: [Marianne Thyssen](../sources/wikipedia-marianne-thyssen.md) · grade C
+  > Source: [[sources/wikipedia-marianne-thyssen|Marianne Thyssen]] · grade C

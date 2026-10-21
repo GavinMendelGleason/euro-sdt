@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Paolo Scaroni](../people/paolo-scaroni.md) — employed_by  
+- [[people/paolo-scaroni|Paolo Scaroni]] — employed_by  
   > "In 1996, he moved to the United Kingdom to become chief executive officer of Pilkington ."
-  > Source: [Paolo Scaroni](../sources/wikipedia-paolo-scaroni.md) · grade A
+  > Source: [[sources/wikipedia-paolo-scaroni|Paolo Scaroni]] · grade A

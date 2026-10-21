@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Violeta Bulc](../people/violeta-bulc.md)  
+- [[people/violeta-bulc|Violeta Bulc]]  
   > "Early life Bulc earned a bachelor's degree in computer science and informatics at the Faculty of Electrical Engineering, University of Ljubljana, Slovenia, as well as a master's degree in information technology at the Golden Gate University of San Francisco."
-  > Source: [Violeta Bulc](../sources/wikipedia-violeta-bulc.md) · grade A
+  > Source: [[sources/wikipedia-violeta-bulc|Violeta Bulc]] · grade A

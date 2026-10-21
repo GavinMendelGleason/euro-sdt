@@ -18,24 +18,24 @@ Mep
 
 ## Membership
 
-- [Finnish Parliament](../organisations/finnish-parliament.md)  
+- [[organisations/finnish-parliament|Finnish Parliament]]  
   > "She was also a member of the Finnish parliament from 1979 until 2009, when she was elected as a Member of the European Parliament (MEP)."
-  > Source: [Liisa Jaakonsaari](../sources/wikipedia-liisa-jaakonsaari.md) · grade A
+  > Source: [[sources/wikipedia-liisa-jaakonsaari|Liisa Jaakonsaari]] · grade A
 
-- [Social Democratic Party](../organisations/social-democratic-party.md)  
+- [[organisations/social-democratic-party|Social Democratic Party]]  
   > "She is a member of the Social Democratic Party , part of the Progressive Alliance of Socialists and Democrats ."
-  > Source: [Liisa Jaakonsaari](../sources/wikipedia-liisa-jaakonsaari.md) · grade A
+  > Source: [[sources/wikipedia-liisa-jaakonsaari|Liisa Jaakonsaari]] · grade A
 
 ## Affiliation
 
-- [Finnish Government (Paavo Lipponen's first cabinet)](../organisations/finnish-government-paavo-lipponen-s-first-cabinet.md)  
+- [[organisations/finnish-government-paavo-lipponen-s-first-cabinet|Finnish Government (Paavo Lipponen's first cabinet)]]  
   > "Jaakonsaari was the Minister of Labour in Paavo Lipponen's first cabinet (1995–1999)."
-  > Source: [Liisa Jaakonsaari](../sources/wikipedia-liisa-jaakonsaari.md) · grade C
+  > Source: [[sources/wikipedia-liisa-jaakonsaari|Liisa Jaakonsaari]] · grade C
 
-- [Oulu City Council](../organisations/oulu-city-council.md)  
+- [[organisations/oulu-city-council|Oulu City Council]]  
   > "Jaakonsaari was a city councillor in Oulu from 1972 until 1995."
-  > Source: [Liisa Jaakonsaari](../sources/wikipedia-liisa-jaakonsaari.md) · grade B
+  > Source: [[sources/wikipedia-liisa-jaakonsaari|Liisa Jaakonsaari]] · grade B
 
-- [Progressive Alliance of Socialists and Democrats](../organisations/progressive-alliance-of-socialists-and-democrats.md)  
+- [[organisations/progressive-alliance-of-socialists-and-democrats|Progressive Alliance of Socialists and Democrats]]  
   > "She is a member of the Social Democratic Party , part of the Progressive Alliance of Socialists and Democrats ."
-  > Source: [Liisa Jaakonsaari](../sources/wikipedia-liisa-jaakonsaari.md) · grade A
+  > Source: [[sources/wikipedia-liisa-jaakonsaari|Liisa Jaakonsaari]] · grade A

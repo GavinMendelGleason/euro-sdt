@@ -16,27 +16,27 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (12)
 
-- [Michael McGrath](../people/michael-mcgrath.md) — affiliated_with — KPMG
+- [[people/michael-mcgrath|Michael McGrath]] — affiliated_with — KPMG
   > "He studied commerce at University College Cork and later qualified as a chartered accountant with KPMG and worked subsequently as Financial Controller of RedFM and Head of Management Information and Systems, University College Cork."
-- [Michael McGrath](../people/michael-mcgrath.md) — educated_at — University College Cork
+- [[people/michael-mcgrath|Michael McGrath]] — educated_at — University College Cork
   > "He studied commerce at University College Cork and later qualified as a chartered accountant with KPMG and worked subsequently as Financial Controller of RedFM and Head of Management Information and Systems, University College Cork."
-- [Michael McGrath](../people/michael-mcgrath.md) — employed_by — KPMG
+- [[people/michael-mcgrath|Michael McGrath]] — employed_by — KPMG
   > "He studied commerce at University College Cork and later qualified as a chartered accountant with KPMG and worked subsequently as Financial Controller of RedFM and Head of Management Information and Systems, University College Cork."
-- [Michael McGrath](../people/michael-mcgrath.md) — employed_by — RedFM
+- [[people/michael-mcgrath|Michael McGrath]] — employed_by — RedFM
   > "He studied commerce at University College Cork and later qualified as a chartered accountant with KPMG and worked subsequently as Financial Controller of RedFM and Head of Management Information and Systems, University College Cork."
-- [Michael McGrath](../people/michael-mcgrath.md) — from_country — Ireland
+- [[people/michael-mcgrath|Michael McGrath]] — from_country — Ireland
   > "Michael McGrath (; born 23 August 1976) is an Irish Fianna Fáil politician and EU Commissioner for Democracy, Justice, the Rule of Law and Consumer Protection."
-- [Michael McGrath](../people/michael-mcgrath.md) — held_portfolio — European Commissioner for Democracy, Justice, the Rule of Law and Consumer Protection
+- [[people/michael-mcgrath|Michael McGrath]] — held_portfolio — European Commissioner for Democracy, Justice, the Rule of Law and Consumer Protection
   > "As of May 2025, his portfolio as Commissioner was defined as Democracy, Justice, the Rule of Law and Consumer Protection."
-- [Michael McGrath](../people/michael-mcgrath.md) — member — Passage West Town Council
+- [[people/michael-mcgrath|Michael McGrath]] — member — Passage West Town Council
   > "Political career He was a member of Passage West Town Council from 1999 to 2007, and a member of Cork County Council for the Carrigaline local electoral area from 2004 to 2007."
-- [Michael McGrath](../people/michael-mcgrath.md) — member — Cork County Council
+- [[people/michael-mcgrath|Michael McGrath]] — member — Cork County Council
   > "Political career He was a member of Passage West Town Council from 1999 to 2007, and a member of Cork County Council for the Carrigaline local electoral area from 2004 to 2007."
-- [Michael McGrath](../people/michael-mcgrath.md) — member — Fianna Fáil
+- [[people/michael-mcgrath|Michael McGrath]] — member — Fianna Fáil
   > "Michael McGrath (; born 23 August 1976) is an Irish Fianna Fáil politician and EU Commissioner for Democracy, Justice, the Rule of Law and Consumer Protection."
-- [Michael McGrath](../people/michael-mcgrath.md) — member — Passage West Town Council
+- [[people/michael-mcgrath|Michael McGrath]] — member — Passage West Town Council
   > "He was a member of Passage West Town Council from 1999 to 2007, and a member of Cork County Council for the Carrigaline local electoral area from 2004 to 2007."
-- [Michael McGrath](../people/michael-mcgrath.md) — member — Cork County Council
+- [[people/michael-mcgrath|Michael McGrath]] — member — Cork County Council
   > "He was a member of Passage West Town Council from 1999 to 2007, and a member of Cork County Council for the Carrigaline local electoral area from 2004 to 2007."
-- [Michael McGrath](../people/michael-mcgrath.md) — nominated_by — IRL
+- [[people/michael-mcgrath|Michael McGrath]] — nominated_by — IRL
   > "European Commissioner On 25 June 2024, he was named by the government as Ireland's nominee for European Commissioner."

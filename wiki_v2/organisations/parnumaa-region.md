@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Kadri Simson](../people/kadri-simson.md) — chair  
+- [[people/kadri-simson|Kadri Simson]] — chair  
   > "Simson served as chairwoman of the Pärnumaa region from 2011 until 2021."
-  > Source: [Kadri Simson](../sources/wikipedia-kadri-simson.md) · grade A
+  > Source: [[sources/wikipedia-kadri-simson|Kadri Simson]] · grade A

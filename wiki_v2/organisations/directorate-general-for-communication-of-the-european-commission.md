@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Margaritis Schinas](../people/margaritis-schinas.md) — employed_by  
+- [[people/margaritis-schinas|Margaritis Schinas]] — employed_by  
   > "On 16 December 2015, he was appointed Deputy Director-General of the Directorate-General for Communication of the European Commission."
-  > Source: [Margaritis Schinas](../sources/wikipedia-margaritis-schinas.md) · grade A
+  > Source: [[sources/wikipedia-margaritis-schinas|Margaritis Schinas]] · grade A

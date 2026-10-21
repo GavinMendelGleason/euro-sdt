@@ -14,12 +14,12 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Cecilia Malmström](../people/cecilia-malmstrom.md)  
+- [[people/cecilia-malmstrom|Cecilia Malmström]]  
   > "Since 2023, she has been part of the Centre for European Policy Studies/Heinrich Böll Foundation High-Level Group on Bolstering EU Democracy, chaired by Kalypso Nicolaïdis."
-  > Source: [Cecilia Malmstrom](../sources/wikipedia-cecilia-malmstrom.md) · grade A
-- [Danuta Hübner](../people/danuta-hubner.md) — board_member  
+  > Source: [[sources/wikipedia-cecilia-malmstrom|Cecilia Malmstrom]] · grade A
+- [[people/danuta-hubner|Danuta Hübner]] — board_member  
   > "Other activities Centre for European Policy Studies (CEPS), Member of the Board of Directors European Council on Foreign Relations (ECFR), Member European Policy Centre (EPC), Member of the Strategic Council New Pact for Europe, Member of the Advisory Group Policy Network, Member of the Board of Directors Polish Academy of Sciences, Member of the Scientific Board of Economic Sciences Institute (19 […]"
-  > Source: [Danuta Hubner](../sources/wikipedia-danuta-hubner.md) · grade A
-- [Joaquín Almunia](../people/joaquin-almunia.md) — chair  
+  > Source: [[sources/wikipedia-danuta-hubner|Danuta Hubner]] · grade A
+- [[people/joaquin-almunia|Joaquín Almunia]] — chair  
   > "Centre for European Policy Studies (CEPS), Chairman"
-  > Source: [Joaquin Almunia](../sources/wikipedia-joaquin-almunia.md) · grade A
+  > Source: [[sources/wikipedia-joaquin-almunia|Joaquin Almunia]] · grade A

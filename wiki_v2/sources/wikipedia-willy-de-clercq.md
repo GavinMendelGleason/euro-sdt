@@ -16,7 +16,7 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (2)
 
-- [Q531313](../people/q531313.md) — educated_at — Syracuse University
+- [[people/q531313|Q531313]] — educated_at — Syracuse University
   > "&#91; 2 &#93; After his law and notariat studies at the University of Ghent and a scholarship at Syracuse University ( Syracuse , United States), De Clerq became a lawyer at the Court of appeal in Ghent and a professor at Ghent University and the Vrije Universiteit Brussel ."
-- [Q531313](../people/q531313.md) — educated_at — Ghent University
+- [[people/q531313|Q531313]] — educated_at — Ghent University
   > "After his law and notariat studies at the University of Ghent and a scholarship at Syracuse University (Syracuse, United States), De Clerq became a lawyer at the Court of appeal in Ghent and a professor at Ghent University and the Vrije Universiteit Brussel."

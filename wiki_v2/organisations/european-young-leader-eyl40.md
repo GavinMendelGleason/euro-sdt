@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Kaja Kallas](../people/kaja-kallas.md)  
+- [[people/kaja-kallas|Kaja Kallas]]  
   > "During her time in Parliament, she was also nominated as a European Young Leader (EYL40)."
-  > Source: [Kaja Kallas](../sources/wikipedia-kaja-kallas.md) · grade B
+  > Source: [[sources/wikipedia-kaja-kallas|Kaja Kallas]] · grade B

@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Tonio Borg](../people/tonio-borg.md)  
+- [[people/tonio-borg|Tonio Borg]]  
   > "Tonio Borg (born 12 May 1957) is a Maltese lawyer, law professor, and former politician who served as the European Commissioner for Health and Consumer Policy replacing John Dalli as member of the College of the European Commission in the second Barroso Commission."
-  > Source: [Tonio Borg](../sources/wikipedia-tonio-borg.md) · grade A
+  > Source: [[sources/wikipedia-tonio-borg|Tonio Borg]] · grade A

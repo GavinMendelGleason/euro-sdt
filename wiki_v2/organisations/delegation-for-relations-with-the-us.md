@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Christos Stylianides](../people/christos-stylianides.md)  
+- [[people/christos-stylianides|Christos Stylianides]]  
   > "He was also a member of the Delegation for relations with the US and Substitute Member of the Delegation for relations with Israel."
-  > Source: [Christos Stylianides](../sources/wikipedia-christos-stylianides.md) · grade A
+  > Source: [[sources/wikipedia-christos-stylianides|Christos Stylianides]] · grade A

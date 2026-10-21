@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Thierry Breton](../people/thierry-breton.md) — chair  
+- [[people/thierry-breton|Thierry Breton]] — chair  
   > "Furthermore, he participated in other European institutional projects in which the Franco-German partnership played a central role such as the European Commission's European Cloud Partnership (2012–2014), over which he co-presided with Jim Snabe, the co-CEO of the German software company SAP."
-  > Source: [Thierry Breton](../sources/wikipedia-thierry-breton.md) · grade C
+  > Source: [[sources/wikipedia-thierry-breton|Thierry Breton]] · grade C

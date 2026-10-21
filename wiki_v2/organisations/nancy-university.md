@@ -15,9 +15,9 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Frans Timmermans](../people/frans-timmermans.md)  
+- [[people/frans-timmermans|Frans Timmermans]]  
   > "During his studies, in 1984, he also attended Nancy University in Nancy, France, where he pursued European law, history and French literature, earning both a Master of Laws in European Law and an additional MA degree in 1985."
-  > Source: [Frans Timmermans](../sources/wikipedia-frans-timmermans.md) · grade A
-- [Manuel Marin](../people/manuel-marin.md)  
+  > Source: [[sources/wikipedia-frans-timmermans|Frans Timmermans]] · grade A
+- [[people/manuel-marin|Manuel Marin]]  
   > "He studied law at Madrid's Complutense University , then went on to take a Diploma in European Community Law at Nancy University , France, and the Certificate of Advanced European Studies at the College of Europe , Bruges , Belgium."
-  > Source: [Manuel Marin](../sources/wikipedia-manuel-marin.md) · grade A
+  > Source: [[sources/wikipedia-manuel-marin|Manuel Marin]] · grade A

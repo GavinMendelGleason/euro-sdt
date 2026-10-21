@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Hadja Lahbib](../people/hadja-lahbib.md)  
+- [[people/hadja-lahbib|Hadja Lahbib]]  
   > "Prior to this nomination, Lahbib was only politically active with the socialist organisation, Solidaris, and she was not a member of the liberal Reformist Movement (MR), whose leader Georges-Louis Bouchez unexpectedly nominated her for the post of Belgian Federal Minister for Foreign Affairs to replace Sophie Wilmès."
-  > Source: [Hadja Lahbib](../sources/wikipedia-hadja-lahbib.md) · grade A
+  > Source: [[sources/wikipedia-hadja-lahbib|Hadja Lahbib]] · grade A

@@ -15,11 +15,11 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (4)
 
-- [Charlina Vitcheva](../people/charlina-vitcheva.md) — educated_at — University Of National And World Economy
+- [[people/charlina-vitcheva|Charlina Vitcheva]] — educated_at — University Of National And World Economy
   > " 09/1981 – 07/1986: Master of International Economic Relations - University of National and World Economy – Bulgaria."
-- [Charlina Vitcheva](../people/charlina-vitcheva.md) — held_position — Director-General → Directorate-General for Maritime Affairs and Fisheries
+- [[people/charlina-vitcheva|Charlina Vitcheva]] — held_position — Director-General → Directorate-General for Maritime Affairs and Fisheries
   > " 09/2016 – 05/2020: Deputy Director-General – Joint Research Centre (JRC)"
-- [Charlina Vitcheva](../people/charlina-vitcheva.md) — member — Special Committee on Agriculture (SCA) of the Council
+- [[people/charlina-vitcheva|Charlina Vitcheva]] — member — Special Committee on Agriculture (SCA) of the Council
   > "Professional experience before joining the European Institutions:  08/1999 – 03/2009: Mission/Permanent Representation of Bulgaria to the EU in Brussels  Minister Plenipotentiary (since 07/2003)  Head of \"Agriculture, Food Safety and Fisheries\" Division (since 04/2005)  Spokesperson of Bulgaria in the Special Committee on Agriculture (SCA) of the Council (since 04/ 2005)  Counsellor (08/1999 […]"
-- [Charlina Vitcheva](../people/charlina-vitcheva.md) — studied_field — Economics
+- [[people/charlina-vitcheva|Charlina Vitcheva]] — studied_field — Economics
   > "Bulgarian Academic qualifications:  09/1993 – 12/1994: Master of European Integration (EU Politics, Economics and Law) - Limerick University, the Republic of Ireland."

@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Heribert Barrera i Costa](../people/heribert-barrera-i-costa.md) — employed_by  
+- [[people/heribert-barrera-i-costa|Heribert Barrera i Costa]] — employed_by  
   > "&#91; 3 &#93; He was responsible for the theoretical chemistry section of the Gran Enciclopèdia Catalana ."
-  > Source: [Heribert Barrera](../sources/wikipedia-heribert-barrera.md) · grade C
+  > Source: [[sources/wikipedia-heribert-barrera|Heribert Barrera]] · grade C

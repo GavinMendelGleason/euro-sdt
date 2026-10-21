@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Thierry Breton](../people/thierry-breton.md) — advisory_board  
+- [[people/thierry-breton|Thierry Breton]] — advisory_board  
   > "Global Talent Competitiveness Index (GTCI), INSEAD, Member of the Advisory Board (2013)"
-  > Source: [Thierry Breton](../sources/wikipedia-thierry-breton.md) · grade A
+  > Source: [[sources/wikipedia-thierry-breton|Thierry Breton]] · grade A

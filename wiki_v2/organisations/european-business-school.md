@@ -15,9 +15,9 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Godelieve Quisthoudt-Rowohl](../people/godelieve-quisthoudt-rowohl.md) — attendee  
+- [[people/godelieve-quisthoudt-rowohl|Godelieve Quisthoudt-Rowohl]] — attendee  
   > "&#91; 2 &#93; &#91; 6 &#93; She gave guest lectures at the University of Kaliningrad, at the European Business School and at Harvard University."
-  > Source: [Godelieve Quisthoudt Rowohl](../sources/wikipedia-godelieve-quisthoudt-rowohl.md) · grade A
-- [Marta Ortega](../people/marta-ortega.md)  
+  > Source: [[sources/wikipedia-godelieve-quisthoudt-rowohl|Godelieve Quisthoudt Rowohl]] · grade A
+- [[people/marta-ortega|Marta Ortega]]  
   > "She studied business at the European Business School in London and graduated in 2007, with a specialty in international entrepreneurship."
-  > Source: [Corp Marta Ortega](../sources/wikipedia-corp-marta-ortega.md) · grade A
+  > Source: [[sources/wikipedia-corp-marta-ortega|Corp Marta Ortega]] · grade A

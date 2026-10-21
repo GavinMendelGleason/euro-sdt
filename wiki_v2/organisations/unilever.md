@@ -15,9 +15,9 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Ian Meakins](../people/ian-meakins.md)  
+- [[people/ian-meakins|Ian Meakins]]  
   > "He is the chairman of Unilever since December 2023, chairman of Compass Group since December 2020, and former chairman of Rexel."
-  > Source: [Corp Ian Meakins](../sources/wikipedia-corp-ian-meakins.md) · grade A
-- [Sir Leon Brittan](../people/sir-leon-brittan.md) — board_member  
+  > Source: [[sources/wikipedia-corp-ian-meakins|Corp Ian Meakins]] · grade A
+- [[people/sir-leon-brittan|Sir Leon Brittan]] — board_member  
   > "He was vice-chairman of UBS AG Investment Bank, non-executive director of Unilever and member of the international advisory committee for Total."
-  > Source: [Sir Leon Brittan](../sources/wikipedia-sir-leon-brittan.md) · grade A
+  > Source: [[sources/wikipedia-sir-leon-brittan|Sir Leon Brittan]] · grade A

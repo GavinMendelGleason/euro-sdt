@@ -16,9 +16,9 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (3)
 
-- [Börje Ekholm](../people/borje-ekholm.md) — educated_at — Royal Institute of Technology (KTH)
+- [[people/borje-ekholm|Börje Ekholm]] — educated_at — Royal Institute of Technology (KTH)
   > "He graduated in 1988 with an MSc in Electrical Engineering from the Royal Institute of Technology (KTH) in Stockholm, undertook exchange studies in Boston, and holds a Master of Business Administration degree from INSEAD."
-- [Börje Ekholm](../people/borje-ekholm.md) — educated_at — Insead
+- [[people/borje-ekholm|Börje Ekholm]] — educated_at — Insead
   > "He graduated in 1988 with an MSc in Electrical Engineering from the Royal Institute of Technology (KTH) in Stockholm, undertook exchange studies in Boston, and holds a Master of Business Administration degree from INSEAD."
-- [Börje Ekholm](../people/borje-ekholm.md) — employed_by — Ericsson
+- [[people/borje-ekholm|Börje Ekholm]] — employed_by — Ericsson
   > "Börje Ekholm (born 1963) is a Swedish-American business executive and CEO of Ericsson."

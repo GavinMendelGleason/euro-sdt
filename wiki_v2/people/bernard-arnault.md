@@ -18,14 +18,14 @@ Corporate Elite
 
 ## Education
 
-- [Lycée Faidherbe](../organisations/lycee-faidherbe.md)  
+- [[organisations/lycee-faidherbe|Lycée Faidherbe]]  
   > "&#91; 8 &#93; Raised in a \"strict Catholic-Auvergne\" style by his devoutly Catholic grandmother, Arnault took classical piano lessons as a child and was educated at Catholic schools, &#91; 9 &#93; &#91; 10 &#93; the Lycée Maxence Van Der Meersch in Roubaix and the Lycée Faidherbe in Lille , &#91; 11 &#93; &#91; 12 &#93; which takes boarders and prepares them for the grandes écoles ."
-  > Source: [Bernard Arnault](../sources/wikipedia-bernard-arnault.md) · grade A
+  > Source: [[sources/wikipedia-bernard-arnault|Bernard Arnault]] · grade A
 
-- [Lycée Maxence Van Der Meersch](../organisations/lycee-maxence-van-der-meersch.md)  
+- [[organisations/lycee-maxence-van-der-meersch|Lycée Maxence Van Der Meersch]]  
   > "&#91; 8 &#93; Raised in a \"strict Catholic-Auvergne\" style by his devoutly Catholic grandmother, Arnault took classical piano lessons as a child and was educated at Catholic schools, &#91; 9 &#93; &#91; 10 &#93; the Lycée Maxence Van Der Meersch in Roubaix and the Lycée Faidherbe in Lille , &#91; 11 &#93; &#91; 12 &#93; which takes boarders and prepares them for the grandes écoles ."
-  > Source: [Bernard Arnault](../sources/wikipedia-bernard-arnault.md) · grade A
+  > Source: [[sources/wikipedia-bernard-arnault|Bernard Arnault]] · grade A
 
-- [École Polytechnique](../organisations/ecole-polytechnique.md)  
+- [[organisations/ecole-polytechnique|École Polytechnique]]  
   > "He studied civil engineering and mathematics at École Polytechnique , graduating in 1971."
-  > Source: [Bernard Arnault](../sources/wikipedia-bernard-arnault.md) · grade A
+  > Source: [[sources/wikipedia-bernard-arnault|Bernard Arnault]] · grade A

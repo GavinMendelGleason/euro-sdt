@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Monica Frassoni](../people/monica-frassoni.md)  
+- [[people/monica-frassoni|Monica Frassoni]]  
   > "In 2018, she was elected at the local Council of Ixelles in the Brussels Region, representing the Ecolo party."
-  > Source: [Monica Frassoni](../sources/wikipedia-monica-frassoni.md) · grade B
+  > Source: [[sources/wikipedia-monica-frassoni|Monica Frassoni]] · grade B

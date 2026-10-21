@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Michael McGrath](../people/michael-mcgrath.md)  
+- [[people/michael-mcgrath|Michael McGrath]]  
   > "He was a member of Passage West Town Council from 1999 to 2007, and a member of Cork County Council for the Carrigaline local electoral area from 2004 to 2007."
-  > Source: [Michael Mcgrath](../sources/wikipedia-michael-mcgrath.md) · grade A
+  > Source: [[sources/wikipedia-michael-mcgrath|Michael Mcgrath]] · grade A

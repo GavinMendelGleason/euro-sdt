@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Roxana Mînzatu](../people/roxana-minzatu.md)  
+- [[people/roxana-minzatu|Roxana Mînzatu]]  
   > "and an MA in European integration in 2005, from the Dimitrie Cantemir Christian University."
-  > Source: [Roxana Minzatu](../sources/wikipedia-roxana-minzatu.md) · grade A
+  > Source: [[sources/wikipedia-roxana-minzatu|Roxana Minzatu]] · grade A

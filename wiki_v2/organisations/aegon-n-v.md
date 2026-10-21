@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Alexander Wynaendts](../people/alexander-wynaendts.md) — board_member  
+- [[people/alexander-wynaendts|Alexander Wynaendts]] — board_member  
   > "Dutch businessman (born 1960) Alexander Rijn Wynaendts (born 1 August 1960) &#91; 1 &#93; is a Dutch businessman who was CEO and chairman of the board of Aegon N.V."
-  > Source: [Alexander Wynaendts](../sources/wikipedia-alexander-wynaendts.md) · grade A
+  > Source: [[sources/wikipedia-alexander-wynaendts|Alexander Wynaendts]] · grade A

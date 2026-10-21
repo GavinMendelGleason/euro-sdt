@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Ján Figeľ](../people/jan-figel.md)  
+- [[people/jan-figel|Ján Figeľ]]  
   > "Controversies In a 2021 report by the European Parliament Forum (EPF), Figeľ was identified as a key figure of Agenda Europe."
-  > Source: [Jan Figel](../sources/wikipedia-jan-figel.md) · grade B
+  > Source: [[sources/wikipedia-jan-figel|Jan Figel]] · grade B

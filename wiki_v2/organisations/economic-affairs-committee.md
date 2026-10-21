@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Kaja Kallas](../people/kaja-kallas.md) — chair  
+- [[people/kaja-kallas|Kaja Kallas]] — chair  
   > "She was a member of the 12th Parliament of Estonia and chaired the Economic Affairs Committee from 2011 to 2014."
-  > Source: [Kaja Kallas](../sources/wikipedia-kaja-kallas.md) · grade C
+  > Source: [[sources/wikipedia-kaja-kallas|Kaja Kallas]] · grade C

@@ -14,9 +14,9 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Andrius Kubilius](../people/andrius-kubilius.md)  
+- [[people/andrius-kubilius|Andrius Kubilius]]  
   > "Kubilius became a member of the pro-independence Sąjūdis movement, who favoured separation from the Soviet Union."
-  > Source: [Andrius Kubilius](../sources/wikipedia-andrius-kubilius.md) · grade A
-- [Dalia Grybauskaitė](../people/dalia-grybauskaite.md)  
+  > Source: [[sources/wikipedia-andrius-kubilius|Andrius Kubilius]] · grade A
+- [[people/dalia-grybauskaite|Dalia Grybauskaitė]]  
   > "She ran as an independent, although she was supported by the dominant Christian Democrats as well as by NGOs, including Sąjūdis."
-  > Source: [Dalia Grybauskaite](../sources/wikipedia-dalia-grybauskaite.md) · grade B
+  > Source: [[sources/wikipedia-dalia-grybauskaite|Dalia Grybauskaite]] · grade B

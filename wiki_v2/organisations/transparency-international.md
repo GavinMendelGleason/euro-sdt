@@ -14,9 +14,9 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Mario Monti](../people/mario-monti.md) — advisory_board; chair  
+- [[people/mario-monti|Mario Monti]] — advisory_board; chair  
   > "Transparency International, Chairman of the European Advisory Board (since 2015)"
-  > Source: [Mario Monti](../sources/wikipedia-mario-monti.md) · grade A
-- [Pascal Lamy](../people/pascal-lamy.md) — advisory_board  
+  > Source: [[sources/wikipedia-mario-monti|Mario Monti]] · grade A
+- [[people/pascal-lamy|Pascal Lamy]] — advisory_board  
   > "Transparency International, Member of the Advisory Council"
-  > Source: [Pascal Lamy](../sources/wikipedia-pascal-lamy.md) · grade A
+  > Source: [[sources/wikipedia-pascal-lamy|Pascal Lamy]] · grade A

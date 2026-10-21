@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Ursula von der Leyen](../people/ursula-von-der-leyen.md)  
+- [[people/ursula-von-der-leyen|Ursula von der Leyen]]  
   > "She was a member of the committee on social policy of CDU in Lower Saxony from 1996, and also became active in the association of medical doctors in the CDU party."
-  > Source: [Ursula Von Der Leyen](../sources/wikipedia-ursula-von-der-leyen.md) · grade A
+  > Source: [[sources/wikipedia-ursula-von-der-leyen|Ursula Von Der Leyen]] · grade A

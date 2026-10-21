@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Michel Barnier](../people/michel-barnier.md) — employed_by  
+- [[people/michel-barnier|Michel Barnier]] — employed_by  
   > "From 2019 to 2021, Barnier led the European Commission's Task Force for Relations with the United Kingdom (UK Task Force/UKTF)."
-  > Source: [Michel Barnier](../sources/wikipedia-michel-barnier.md) · grade C
+  > Source: [[sources/wikipedia-michel-barnier|Michel Barnier]] · grade C

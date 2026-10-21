@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Janusz Wojciechowski](../people/janusz-wojciechowski.md) — party_member  
+- [[people/janusz-wojciechowski|Janusz Wojciechowski]] — party_member  
   > "Wojciechowski was member of United People's Party, a Member of the Bureau of the European People's Party (EPP) from 2004 to 2006 and was vice-chair of the European Parliament's Committee on Agriculture and Rural Development."
-  > Source: [Janusz Wojciechowski](../sources/wikipedia-janusz-wojciechowski.md) · grade A
+  > Source: [[sources/wikipedia-janusz-wojciechowski|Janusz Wojciechowski]] · grade A

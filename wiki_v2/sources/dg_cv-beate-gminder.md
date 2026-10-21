@@ -15,7 +15,7 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (2)
 
-- [Beate Gminder](../people/beate-gminder.md) — educated_at — Harvard
+- [[people/beate-gminder|Beate Gminder]] — educated_at — Harvard
   > ": Leadership course at Harvard Kennedy School, Cambridge ➢ 1995-201"
-- [Beate Gminder](../people/beate-gminder.md) — held_position — Director-General → Directorate-General for Migration and Home Affairs
+- [[people/beate-gminder|Beate Gminder]] — held_position — Director-General → Directorate-General for Migration and Home Affairs
   > "7/2025: Director-General in DG Migration and Home Affairs (HOME) ➢ 16/11/2020 – 30/"

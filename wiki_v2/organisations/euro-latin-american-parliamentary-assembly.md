@@ -15,12 +15,12 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Astrid Lulling](../people/astrid-lulling.md)  
+- [[people/astrid-lulling|Astrid Lulling]]  
   > "Member of the Delegation to the Euro-Latin American Parliamentary Assembly."
-  > Source: [Astrid Lulling](../sources/wikipedia-astrid-lulling.md) · grade A
-- [Jim Higgins (Irish politician)](../people/jim-higgins-irish-politician.md)  
+  > Source: [[sources/wikipedia-astrid-lulling|Astrid Lulling]] · grade A
+- [[people/jim-higgins-irish-politician|Jim Higgins (Irish politician)]]  
   > "Higgins's other duties included membership of the EU-Chile Joint Parliamentary Committee, the Euro-Latin American Parliamentary Assembly and he was a substitute member of the Delegation for Relations with Japan."
-  > Source: [Jim Higgins Irish Politician](../sources/wikipedia-jim-higgins-irish-politician.md) · grade A
-- [Valdis Dombrovskis](../people/valdis-dombrovskis.md)  
+  > Source: [[sources/wikipedia-jim-higgins-irish-politician|Jim Higgins Irish Politician]] · grade A
+- [[people/valdis-dombrovskis|Valdis Dombrovskis]]  
   > "Member of the European Parliament, 2004–2009 As Member of the European Parliament, Dombrovskis was a member of three European Parliament Committees: Committee on Budgets, Delegation to the ACP-EU Joint Parliamentary Assembly, Delegation to the Euro-Latin American Parliamentary Assembly."
-  > Source: [Valdis Dombrovskis](../sources/wikipedia-valdis-dombrovskis.md) · grade A
+  > Source: [[sources/wikipedia-valdis-dombrovskis|Valdis Dombrovskis]] · grade A

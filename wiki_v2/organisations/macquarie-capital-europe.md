@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Ross McInnes](../people/ross-mcinnes.md) — chair  
+- [[people/ross-mcinnes|Ross McInnes]] — chair  
   > "He was then named vice chairman of Macquarie Capital Europe, a company specialized in infrastructure investments."
-  > Source: [Ross Mcinnes](../sources/wikipedia-ross-mcinnes.md) · grade A
+  > Source: [[sources/wikipedia-ross-mcinnes|Ross Mcinnes]] · grade A

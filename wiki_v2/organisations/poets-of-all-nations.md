@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Neelie Kroes](../people/neelie-kroes.md) — chair  
+- [[people/neelie-kroes|Neelie Kroes]] — chair  
   > "She is chairperson of Poets of all Nations, the Delta Psychiatric Hospital and of the board of the Rembrandt House Museum."
-  > Source: [Neelie Kroes](../sources/wikipedia-neelie-kroes.md) · grade A
+  > Source: [[sources/wikipedia-neelie-kroes|Neelie Kroes]] · grade A

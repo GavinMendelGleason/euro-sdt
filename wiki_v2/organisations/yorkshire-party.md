@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Diana Wallis](../people/diana-wallis.md)  
+- [[people/diana-wallis|Diana Wallis]]  
   > "Wallis contested Haltemprice and Howden as a Yorkshire Party candidate in the 2015 and 2017 UK General Elections and subsequently left that party in March 2019."
-  > Source: [Diana Wallis](../sources/wikipedia-diana-wallis.md) · grade B
+  > Source: [[sources/wikipedia-diana-wallis|Diana Wallis]] · grade B

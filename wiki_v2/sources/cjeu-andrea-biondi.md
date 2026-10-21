@@ -15,5 +15,5 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (1)
 
-- [Andrea Biondi](../people/andrea-biondi.md) — educated_at — Università degli Studi di Firenze (University of Florence, Italy)
+- [[people/andrea-biondi|Andrea Biondi]] — educated_at — Università degli Studi di Firenze (University of Florence, Italy)
   > "Born in 1965 in Florence (Italy), Andrea Biondi studied at the Università degli Studi di Firenze (University of Florence, Italy), where he obtained a master’s degree in law in 1990, followed by a doctorate in comparative law in 1996."

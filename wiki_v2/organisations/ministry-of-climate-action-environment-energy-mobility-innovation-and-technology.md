@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Magnus Brunner](../people/magnus-brunner.md) — employed_by  
+- [[people/magnus-brunner|Magnus Brunner]] — employed_by  
   > "He served as state secretary (Staatssekretär) in the Ministry of Climate Action, Environment, Energy, Mobility, Innovation, and Technology in the government of Chancellor Sebastian Kurz."
-  > Source: [Magnus Brunner](../sources/wikipedia-magnus-brunner.md) · grade C
+  > Source: [[sources/wikipedia-magnus-brunner|Magnus Brunner]] · grade C

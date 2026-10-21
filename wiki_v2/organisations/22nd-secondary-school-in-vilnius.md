@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Andrius Kubilius](../people/andrius-kubilius.md)  
+- [[people/andrius-kubilius|Andrius Kubilius]]  
   > "After graduation from the 22nd secondary school in Vilnius, Kubilius was accepted to Vilnius University and studied in the Faculty of Physics until 1979."
-  > Source: [Andrius Kubilius](../sources/wikipedia-andrius-kubilius.md) · grade A
+  > Source: [[sources/wikipedia-andrius-kubilius|Andrius Kubilius]] · grade A

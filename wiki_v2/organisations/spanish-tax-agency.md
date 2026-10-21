@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Miguel Arias Cañete](../people/miguel-arias-canete.md) — employed_by  
+- [[people/miguel-arias-canete|Miguel Arias Cañete]] — employed_by  
   > "His first position was in the Spanish Tax Agency at Jerez de la Frontera, before transferring to the Cádiz office."
-  > Source: [Miguel Arias Canete](../sources/wikipedia-miguel-arias-canete.md) · grade C
+  > Source: [[sources/wikipedia-miguel-arias-canete|Miguel Arias Canete]] · grade C

@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Pascal Lamy](../people/pascal-lamy.md) — chair  
+- [[people/pascal-lamy|Pascal Lamy]] — chair  
   > "Les Musiciens du Louvre, President of the Board of Directors"
-  > Source: [Pascal Lamy](../sources/wikipedia-pascal-lamy.md) · grade A
+  > Source: [[sources/wikipedia-pascal-lamy|Pascal Lamy]] · grade A

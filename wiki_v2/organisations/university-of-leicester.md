@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Jyrki Katainen](../people/jyrki-katainen.md)  
+- [[people/jyrki-katainen|Jyrki Katainen]]  
   > "He obtained a Master's degree in political science from the University of Tampere, spending one year at the University of Leicester as an Erasmus exchange student."
-  > Source: [Jyrki Katainen](../sources/wikipedia-jyrki-katainen.md) · grade A
+  > Source: [[sources/wikipedia-jyrki-katainen|Jyrki Katainen]] · grade A

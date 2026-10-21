@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Ryszard Czarnecki](../people/ryszard-czarnecki.md)  
+- [[people/ryszard-czarnecki|Ryszard Czarnecki]]  
   > "Prior to 2008, he was a member of the Self-Defense party."
-  > Source: [Ryszard Czarnecki](../sources/wikipedia-ryszard-czarnecki.md) · grade A
+  > Source: [[sources/wikipedia-ryszard-czarnecki|Ryszard Czarnecki]] · grade A

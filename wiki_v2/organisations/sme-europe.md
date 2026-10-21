@@ -15,9 +15,9 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Ingo Friedrich](../people/ingo-friedrich.md)  
+- [[people/ingo-friedrich|Ingo Friedrich]]  
   > "On 20 February 2013 Friedrich became Honorary Member of SME Europe, the pro-business organization within the European People's Party, which aims at improving the situation of small and medium-sized enterprises all across Europe."
-  > Source: [Ingo Friedrich](../sources/wikipedia-ingo-friedrich.md) · grade A
-- [Jacques Santer](../people/jacques-santer.md)  
+  > Source: [[sources/wikipedia-ingo-friedrich|Ingo Friedrich]] · grade A
+- [[people/jacques-santer|Jacques Santer]]  
   > "In May 2013, Santer became an Honorary Member of SME Europe, the official pro-business organisation of the European People's Party."
-  > Source: [Jacques Santer](../sources/wikipedia-jacques-santer.md) · grade A
+  > Source: [[sources/wikipedia-jacques-santer|Jacques Santer]] · grade A

@@ -15,9 +15,9 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Alejo Vidal-Quadras](../people/alejo-vidal-quadras.md)  
+- [[people/alejo-vidal-quadras|Alejo Vidal-Quadras]]  
   > "He is a member of the European Friends of Israel, a lobby group aiming to defend Israel's interests within the European Union."
-  > Source: [Alejo Vidal Quadras Roca](../sources/wikipedia-alejo-vidal-quadras-roca.md) · grade C
-- [Marek Siwiec](../people/marek-siwiec.md) — chair  
+  > Source: [[sources/wikipedia-alejo-vidal-quadras-roca|Alejo Vidal Quadras Roca]] · grade C
+- [[people/marek-siwiec|Marek Siwiec]] — chair  
   > "He was&#160;a member of the Board of Yalta European Strategy foundation, President of European Friends of Israel , and a member of the Global Leadership Council of Colorado State University."
-  > Source: [Marek Siwiec](../sources/wikipedia-marek-siwiec.md) · grade A
+  > Source: [[sources/wikipedia-marek-siwiec|Marek Siwiec]] · grade A

@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Paul-Henry Gendebien](../people/paul-henry-gendebien.md)  
+- [[people/paul-henry-gendebien|Paul-Henry Gendebien]]  
   > "After his studies, he became a researcher at the Center for Socio-Political Research and Information &#160;&#91; fr &#93; and was an assistant professor at the University of Kinshasa from 1965 to 1967."
-  > Source: [Paul Henry Gendebien](../sources/wikipedia-paul-henry-gendebien.md) · grade B
+  > Source: [[sources/wikipedia-paul-henry-gendebien|Paul Henry Gendebien]] · grade B

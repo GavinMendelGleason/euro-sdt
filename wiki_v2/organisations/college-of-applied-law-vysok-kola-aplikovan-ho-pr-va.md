@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Filip Turek](../people/filip-turek.md)  
+- [[people/filip-turek|Filip Turek]]  
   > "&#91; 2 &#93; He received his bachelor degree in commercial law from the private, now-defunct College of Applied Law ( Vysoká škola aplikovaného práva &#160;&#91; cs &#93; ), &#91; 3 &#93; and his master's degree from the private University College Prague &#160;&#91; cs &#93; ."
-  > Source: [Filip Turek](../sources/wikipedia-filip-turek.md) · grade C
+  > Source: [[sources/wikipedia-filip-turek|Filip Turek]] · grade C

@@ -18,16 +18,16 @@ Corporate Elite
 
 ## Education
 
-- [A Coruña](../organisations/a-coruna.md)  
+- [[organisations/a-coruna|A Coruña]]  
   > "She studied at A Coruña and continued her baccalaureate education in Switzerland."
-  > Source: [Corp Marta Ortega](../sources/wikipedia-corp-marta-ortega.md) · grade A
+  > Source: [[sources/wikipedia-corp-marta-ortega|Corp Marta Ortega]] · grade A
 
-- [European Business School](../organisations/european-business-school.md)  
+- [[organisations/european-business-school|European Business School]]  
   > "She studied business at the European Business School in London and graduated in 2007, with a specialty in international entrepreneurship."
-  > Source: [Corp Marta Ortega](../sources/wikipedia-corp-marta-ortega.md) · grade A
+  > Source: [[sources/wikipedia-corp-marta-ortega|Corp Marta Ortega]] · grade A
 
 ## Employment
 
-- [Inditex](../organisations/inditex.md)  
+- [[organisations/inditex|Inditex]]  
   > "Ortega replaced Pablo Isla, who was chair and CEO of Inditex since 2011, in April 2022."
-  > Source: [Corp Marta Ortega](../sources/wikipedia-corp-marta-ortega.md) · grade A
+  > Source: [[sources/wikipedia-corp-marta-ortega|Corp Marta Ortega]] · grade A

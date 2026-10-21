@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Hans van Baalen](../people/hans-van-baalen.md)  
+- [[people/hans-van-baalen|Hans van Baalen]]  
   > "&#91; 1 &#93; He studied Dutch law (1979–1986), and international law (1986–1988) at Leiden University ."
-  > Source: [Hans Van Baalen](../sources/wikipedia-hans-van-baalen.md) · grade A
+  > Source: [[sources/wikipedia-hans-van-baalen|Hans Van Baalen]] · grade A

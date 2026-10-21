@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Thomas Skordas](../people/thomas-skordas.md)  
+- [[people/thomas-skordas|Thomas Skordas]]  
   > " 1979 - 1984 Advanced University Degree in Electrical Engineering - Aristotle University of Thessaloniki, Technology School, Department of Electrical Engineering, Thessaloniki, Greece"
-  > Source: [Thomas Skordas](../sources/dg_cv-thomas-skordas.md) · grade A
+  > Source: [[sources/dg_cv-thomas-skordas|Thomas Skordas]] · grade A

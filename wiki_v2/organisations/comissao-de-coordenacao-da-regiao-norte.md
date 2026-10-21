@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Elisa Ferreira](../people/elisa-ferreira.md) — chair; employed_by  
+- [[people/elisa-ferreira|Elisa Ferreira]] — chair; employed_by  
   > "Comissão de Coordenação da Região Norte, Vice-President (1988–1992)"
-  > Source: [Elisa Ferreira](../sources/wikipedia-elisa-ferreira.md) · grade A
+  > Source: [[sources/wikipedia-elisa-ferreira|Elisa Ferreira]] · grade A

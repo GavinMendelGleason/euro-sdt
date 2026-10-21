@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Pat Cox](../people/pat-cox.md) — founder  
+- [[people/pat-cox|Pat Cox]] — founder  
   > "Also in 2009, Cox co-founded the European Privacy Association ."
-  > Source: [Pat Cox](../sources/wikipedia-pat-cox.md) · grade A
+  > Source: [[sources/wikipedia-pat-cox|Pat Cox]] · grade A

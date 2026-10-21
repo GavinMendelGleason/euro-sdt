@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [José Manuel Barroso](../people/jose-manuel-barroso.md)  
+- [[people/jose-manuel-barroso|José Manuel Barroso]]  
   > "International Commission on Financing Global Education Opportunity (led by Gordon Brown ), Member (since 2015)"
-  > Source: [Jose Manuel Barroso](../sources/wikipedia-jose-manuel-barroso.md) · grade A
+  > Source: [[sources/wikipedia-jose-manuel-barroso|Jose Manuel Barroso]] · grade A

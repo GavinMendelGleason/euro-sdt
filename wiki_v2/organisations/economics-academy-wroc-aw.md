@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Lidia Geringer de Oedenberg](../people/lidia-geringer-de-oedenberg.md)  
+- [[people/lidia-geringer-de-oedenberg|Lidia Geringer de Oedenberg]]  
   > "Education [ edit ] 1981: Master of Economics, Economics Academy, Wrocław, Department of Administration and Information Sciences, Economic Cybernetics and Statistics studies 1997: Marketing Studies in Culture at the World Economy Institute, Warsaw School of Economics 1999: French Institute of Administration in Warsaw 2001: Advanced diploma of proficiency in the French language - DALF Career [ edit […]"
-  > Source: [Lidia Geringer De Oedenberg](../sources/wikipedia-lidia-geringer-de-oedenberg.md) · grade C
+  > Source: [[sources/wikipedia-lidia-geringer-de-oedenberg|Lidia Geringer De Oedenberg]] · grade C

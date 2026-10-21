@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Magnus Brunner](../people/magnus-brunner.md) — board_member  
+- [[people/magnus-brunner|Magnus Brunner]] — board_member  
   > "Inter-American Development Bank (IDB), Ex-Officio Member of the Board of Governors (since 2021)"
-  > Source: [Magnus Brunner](../sources/wikipedia-magnus-brunner.md) · grade A
+  > Source: [[sources/wikipedia-magnus-brunner|Magnus Brunner]] · grade A

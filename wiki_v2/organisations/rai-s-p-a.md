@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Flavio Cattaneo](../people/flavio-cattaneo.md) — board_member  
+- [[people/flavio-cattaneo|Flavio Cattaneo]] — board_member  
   > "He was the youngest managing director of RAI S.p.A., the Italian public service broadcaster."
-  > Source: [Flavio Cattaneo](../sources/wikipedia-flavio-cattaneo.md) · grade A
+  > Source: [[sources/wikipedia-flavio-cattaneo|Flavio Cattaneo]] · grade A

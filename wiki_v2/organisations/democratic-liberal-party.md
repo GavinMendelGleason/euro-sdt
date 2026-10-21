@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Eugen Tomac](../people/eugen-tomac.md)  
+- [[people/eugen-tomac|Eugen Tomac]]  
   > "Political activity [ edit ] Tomac started his political formal political career as a member of the Democratic Liberal Party (PDL)."
-  > Source: [Eugen Tomac](../sources/wikipedia-eugen-tomac.md) · grade A
+  > Source: [[sources/wikipedia-eugen-tomac|Eugen Tomac]] · grade A

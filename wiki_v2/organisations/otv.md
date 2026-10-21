@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Monika Wulf-Mathies](../people/monika-wulf-mathies.md) — board_member  
+- [[people/monika-wulf-mathies|Monika Wulf-Mathies]] — board_member  
   > "In 1976, Wulf-Mathies left the chancellor’s office to join the managing board of the public service trade union ÖTV."
-  > Source: [Monika Wulf Mathies](../sources/wikipedia-monika-wulf-mathies.md) · grade A
+  > Source: [[sources/wikipedia-monika-wulf-mathies|Monika Wulf Mathies]] · grade A

@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Pál Schmitt](../people/pal-schmitt.md)  
+- [[people/pal-schmitt|Pál Schmitt]]  
   > "Political career [ edit ] Pál Schmitt in 2011 Between 1983 and 1989, Schmitt was the general secretary of the Hungarian Olympic Committee and under-secretary of sports between 1981 and 1990."
-  > Source: [P L Schmitt](../sources/wikipedia-p-l-schmitt.md) · grade B
+  > Source: [[sources/wikipedia-p-l-schmitt|P L Schmitt]] · grade B

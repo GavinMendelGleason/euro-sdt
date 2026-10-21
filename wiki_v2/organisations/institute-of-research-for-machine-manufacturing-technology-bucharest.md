@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Leonard Orban](../people/leonard-orban.md) — employed_by  
+- [[people/leonard-orban|Leonard Orban]] — employed_by  
   > "București) and Institute of Research for Machine Manufacturing Technology Bucharest (1990–1993, Romanian: Institutul de Cercetare Tehnologia Construcţiilor de Maşini (I.C.T.C.M.)"
-  > Source: [Leonard Orban](../sources/wikipedia-leonard-orban.md) · grade C
+  > Source: [[sources/wikipedia-leonard-orban|Leonard Orban]] · grade C

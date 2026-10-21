@@ -18,20 +18,20 @@ Corporate Elite
 
 ## Education
 
-- [International Institute for Management Development](../organisations/international-institute-for-management-development.md)  
+- [[organisations/international-institute-for-management-development|International Institute for Management Development]]  
   > "He also attended the program for executive development at the Swiss leading business school International Institute for Management Development (IMD) in Lausanne."
-  > Source: [Corp Paul Bulcke](../sources/wikipedia-corp-paul-bulcke.md) · grade A
+  > Source: [[sources/wikipedia-corp-paul-bulcke|Corp Paul Bulcke]] · grade A
 
-- [Katholieke Universiteit Leuven](../organisations/katholieke-universiteit-leuven.md)  
+- [[organisations/katholieke-universiteit-leuven|Katholieke Universiteit Leuven]]  
   > "== Early life == He graduated as a commercial engineer at the Katholieke Universiteit Leuven and is an alumnus of the Vlerick Leuven Gent Management School."
-  > Source: [Corp Paul Bulcke](../sources/wikipedia-corp-paul-bulcke.md) · grade A
+  > Source: [[sources/wikipedia-corp-paul-bulcke|Corp Paul Bulcke]] · grade A
 
-- [Vlerick Leuven Gent Management School](../organisations/vlerick-leuven-gent-management-school.md)  
+- [[organisations/vlerick-leuven-gent-management-school|Vlerick Leuven Gent Management School]]  
   > "== Early life == He graduated as a commercial engineer at the Katholieke Universiteit Leuven and is an alumnus of the Vlerick Leuven Gent Management School."
-  > Source: [Corp Paul Bulcke](../sources/wikipedia-corp-paul-bulcke.md) · grade A
+  > Source: [[sources/wikipedia-corp-paul-bulcke|Corp Paul Bulcke]] · grade A
 
 ## Employment
 
-- [Nestlé](../organisations/nestle.md)  
+- [[organisations/nestle|Nestlé]]  
   > "He was CEO of Nestlé from 2008 to 2016."
-  > Source: [Corp Paul Bulcke](../sources/wikipedia-corp-paul-bulcke.md) · grade A
+  > Source: [[sources/wikipedia-corp-paul-bulcke|Corp Paul Bulcke]] · grade A

@@ -15,9 +15,9 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Franz Fischler](../people/franz-fischler.md) — chair  
+- [[people/franz-fischler|Franz Fischler]] — chair  
   > "He also was President of the European Forum Alpbach."
-  > Source: [Franz Fischler](../sources/wikipedia-franz-fischler.md) · grade A
-- [Mairead McGuinness](../people/mairead-mcguinness.md) — advisory_board; chair  
+  > Source: [[sources/wikipedia-franz-fischler|Franz Fischler]] · grade A
+- [[people/mairead-mcguinness|Mairead McGuinness]] — advisory_board; chair  
   > "European Forum Alpbach, Co-Chair of the Strategic Advisory Council (since 2024)"
-  > Source: [Mairead Mcguinness](../sources/wikipedia-mairead-mcguinness.md) · grade A
+  > Source: [[sources/wikipedia-mairead-mcguinness|Mairead Mcguinness]] · grade A

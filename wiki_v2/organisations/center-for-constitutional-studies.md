@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Teresa Ribera](../people/teresa-ribera.md)  
+- [[people/teresa-ribera|Teresa Ribera]]  
   > "She graduated with a Bachelor of Laws from the Complutense University of Madrid in 1992, with further studies at the Center for Constitutional Studies attaining her another degree in constitutional law and political science."
-  > Source: [Teresa Ribera](../sources/wikipedia-teresa-ribera.md) · grade A
+  > Source: [[sources/wikipedia-teresa-ribera|Teresa Ribera]] · grade A

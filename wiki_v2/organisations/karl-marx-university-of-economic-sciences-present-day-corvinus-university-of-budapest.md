@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Szabolcs Fazakas](../people/szabolcs-fazakas.md)  
+- [[people/szabolcs-fazakas|Szabolcs Fazakas]]  
   > "Profession [ edit ] Fazakas was born in Budapest , and earned a degree of external trade in 1971, graduating from Karl Marx University of Economic Sciences (present-day Corvinus University of Budapest )."
-  > Source: [Szabolcs Fazakas](../sources/wikipedia-szabolcs-fazakas.md) · grade A
+  > Source: [[sources/wikipedia-szabolcs-fazakas|Szabolcs Fazakas]] · grade A

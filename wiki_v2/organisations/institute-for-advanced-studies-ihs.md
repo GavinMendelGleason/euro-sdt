@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Franz Fischler](../people/franz-fischler.md) — board_member; chair  
+- [[people/franz-fischler|Franz Fischler]] — board_member; chair  
   > "Institute for Advanced Studies (IHS), Chair of the Board of Trustees"
-  > Source: [Franz Fischler](../sources/wikipedia-franz-fischler.md) · grade A
+  > Source: [[sources/wikipedia-franz-fischler|Franz Fischler]] · grade A

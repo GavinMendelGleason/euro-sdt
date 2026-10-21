@@ -18,20 +18,20 @@ Mep
 
 ## Education
 
-- [lausanne](../organisations/lausanne.md)  
+- [[organisations/lausanne|lausanne]]  
   > "After the war, he initially studied medicine in Montpellier , then switched to law, and continued his studies in Lausanne and Paris, &#91; 2 &#93; and practised law in Luxembourg from 1955."
-  > Source: [Gaston Thorn](../sources/wikipedia-gaston-thorn.md) · grade A
+  > Source: [[sources/wikipedia-gaston-thorn|Gaston Thorn]] · grade A
 
-- [montpellier](../organisations/montpellier.md)  
+- [[organisations/montpellier|montpellier]]  
   > "After the war, he initially studied medicine in Montpellier , then switched to law, and continued his studies in Lausanne and Paris, &#91; 2 &#93; and practised law in Luxembourg from 1955."
-  > Source: [Gaston Thorn](../sources/wikipedia-gaston-thorn.md) · grade A
+  > Source: [[sources/wikipedia-gaston-thorn|Gaston Thorn]] · grade A
 
-- [paris](../organisations/paris.md)  
+- [[organisations/paris|paris]]  
   > "After the war, he initially studied medicine in Montpellier , then switched to law, and continued his studies in Lausanne and Paris, &#91; 2 &#93; and practised law in Luxembourg from 1955."
-  > Source: [Gaston Thorn](../sources/wikipedia-gaston-thorn.md) · grade A
+  > Source: [[sources/wikipedia-gaston-thorn|Gaston Thorn]] · grade A
 
 ## Chair / president
 
-- [United Nations General Assembly](../organisations/united-nations-general-assembly.md) — chair  
+- [[organisations/united-nations-general-assembly|United Nations General Assembly]] — chair  
   > "He most prominently served as prime minister of Luxembourg (1974–1979), President of the United Nations General Assembly (1975), and president of the European Commission (1981–1985)."
-  > Source: [Gaston Thorn](../sources/wikipedia-gaston-thorn.md) · grade A
+  > Source: [[sources/wikipedia-gaston-thorn|Gaston Thorn]] · grade A

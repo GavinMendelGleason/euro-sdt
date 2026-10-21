@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Ineta Ziemele](../people/ineta-ziemele.md)  
+- [[people/ineta-ziemele|Ineta Ziemele]]  
   > "She graduated from the law faculty of the University of Latvia in 1993 and continued her studies in Sweden, where she earned a master's degree in International law."
-  > Source: [Ineta Ziemele](../sources/wikipedia-ineta-ziemele.md) · grade A
+  > Source: [[sources/wikipedia-ineta-ziemele|Ineta Ziemele]] · grade A

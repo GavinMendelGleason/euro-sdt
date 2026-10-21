@@ -16,5 +16,5 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (1)
 
-- [Laurent Freixe](../people/laurent-freixe.md) — employed_by — Nestlé
+- [[people/laurent-freixe|Laurent Freixe]] — employed_by — Nestlé
   > "After nearly more than four decades at Nestlé, he became its chief executive in 2024, until losing the position about a year later, in September 2025."

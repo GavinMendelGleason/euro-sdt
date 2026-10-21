@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Dalia Grybauskaitė](../people/dalia-grybauskaite.md) — employed_by  
+- [[people/dalia-grybauskaite|Dalia Grybauskaitė]] — employed_by  
   > "Soon afterwards, she was named Extraordinary Envoy and Plenipotentiary Minister at the Lithuanian Mission to the EU."
-  > Source: [Dalia Grybauskaite](../sources/wikipedia-dalia-grybauskaite.md) · grade A
+  > Source: [[sources/wikipedia-dalia-grybauskaite|Dalia Grybauskaite]] · grade A

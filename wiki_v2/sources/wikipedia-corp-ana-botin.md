@@ -16,7 +16,7 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (2)
 
-- [Ana Botín](../people/ana-botin.md) — educated_at — Bryn Mawr College
+- [[people/ana-botin|Ana Botín]] — educated_at — Bryn Mawr College
   > "She studied economics at Bryn Mawr College."
-- [Ana Botín](../people/ana-botin.md) — employed_by — Santander
+- [[people/ana-botin|Ana Botín]] — employed_by — Santander
   > "Ana Patricia Botín-Sanz de Sautuola O'Shea (born 4 October 1960) is a Spanish banker who has been the executive chairman of Santander Group since 2014."

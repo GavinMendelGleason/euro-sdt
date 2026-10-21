@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Gabrielius Landsbergis](../people/gabrielius-landsbergis.md)  
+- [[people/gabrielius-landsbergis|Gabrielius Landsbergis]]  
   > "In 2005, he completed a master's degree in International Relations at the Vilnius University Institute of International Relations and Political Science."
-  > Source: [Gabrielius Landsbergis](../sources/wikipedia-gabrielius-landsbergis.md) · grade C
+  > Source: [[sources/wikipedia-gabrielius-landsbergis|Gabrielius Landsbergis]] · grade C

@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Erkki Liikanen](../people/erkki-liikanen.md) — board_member; chair  
+- [[people/erkki-liikanen|Erkki Liikanen]] — board_member; chair  
   > "Since 2018 he has been chair of the Trustees of the IFRS Foundation and Chairman of the Board of the Helsinki Graduate School of Economics at University of Helsinki, and since 2020 chairman of Bruegel."
-  > Source: [Erkki Liikanen](../sources/wikipedia-erkki-liikanen.md) · grade A
+  > Source: [[sources/wikipedia-erkki-liikanen|Erkki Liikanen]] · grade A

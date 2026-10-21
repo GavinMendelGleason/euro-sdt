@@ -15,9 +15,9 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Andrius Kubilius](../people/andrius-kubilius.md)  
+- [[people/andrius-kubilius|Andrius Kubilius]]  
   > "In addition to his committee assignments, Kubilius was part of the parliament's delegations to the Euronest Parliamentary Assembly and to the EU-Ukraine Parliamentary Association Committee."
-  > Source: [Andrius Kubilius](../sources/wikipedia-andrius-kubilius.md) · grade A
-- [Patryk Jaki](../people/patryk-jaki.md) — chair  
+  > Source: [[sources/wikipedia-andrius-kubilius|Andrius Kubilius]] · grade A
+- [[people/patryk-jaki|Patryk Jaki]] — chair  
   > "He served as Secretary of State in the Ministry of Justice (2015–2019) and has been the vice-chairman of the Euronest Parliamentary Assembly since 2019."
-  > Source: [Patryk Jaki](../sources/wikipedia-patryk-jaki.md) · grade A
+  > Source: [[sources/wikipedia-patryk-jaki|Patryk Jaki]] · grade A

@@ -18,122 +18,122 @@ Commissioner · ITA
 
 ## Commission service
 
-- [Barroso I](../commissions/barroso-i.md)  
+- [[commissions/barroso-i|Barroso I]]  
   > "| Commissioner | Portrait | Portfolio | State | Party | Notes | BarrosoJosé Durão Barroso | | President | Portugal | EPPNational:PSD | | WallstromMargot Wallström | | Institutional RelationsFirst Vice-President;Institutional Relations and Communication Strategy | Sweden | PESNational:SAP | | VerheugenGünter Verheugen | | Enterprise and IndustryVice-President;Enterprise and Industry | Germany | PESNational:SPD | | FrattiniFranco Frattini | | Justice, Freedom and SecurityVice-President;Justice, Freedom and Security | Italy | EPPNational:PDL | Served until 23 April 2008 | TajaniAntonio Tajani | | […]"
-  > Source: [Commission Barroso I Tables](../sources/wikipedia-commission-barroso-i-tables.md) · grade A
+  > Source: [[sources/wikipedia-commission-barroso-i-tables|Commission Barroso I Tables]] · grade A
 
-- [Barroso II](../commissions/barroso-ii.md)  
+- [[commissions/barroso-ii|Barroso II]]  
   > "European Commissioner for Industry and Entrepreneurship In 2009, Tajani was reappointed as a member of Italian nationality of the second Barroso Commission, as European Commissioner for Industry and Entrepreneurship; he remained one of the four Vice-Presidents of the Commission."
-  > Source: [Antonio Tajani](../sources/wikipedia-antonio-tajani.md) · grade A
+  > Source: [[sources/wikipedia-antonio-tajani|Antonio Tajani]] · grade A
 
 ## Portfolio
 
 - Industry and Entrepreneurship  
   > "European Commissioner for Industry and Entrepreneurship In 2009, Tajani was reappointed as a member of Italian nationality of the second Barroso Commission, as European Commissioner for Industry and Entrepreneurship; he remained one of the four Vice-Presidents of the Commission."
-  > Source: [Antonio Tajani](../sources/wikipedia-antonio-tajani.md) · grade A
+  > Source: [[sources/wikipedia-antonio-tajani|Antonio Tajani]] · grade A
 
 - Transport (replaced Barrot)  
   > "Tajani received the Commissioner for Transport portfolio."
-  > Source: [Antonio Tajani](../sources/wikipedia-antonio-tajani.md) · grade C
+  > Source: [[sources/wikipedia-antonio-tajani|Antonio Tajani]] · grade C
 
 ## Nominated by
 
 - ITA  
   > "On 8 May 2008, Tajani was appointed as Italy's EU Commissioner by newly elected Italian Prime Minister Silvio Berlusconi, replacing Franco Frattini, who became the new Italian foreign minister."
-  > Source: [Antonio Tajani](../sources/wikipedia-antonio-tajani.md) · grade C
+  > Source: [[sources/wikipedia-antonio-tajani|Antonio Tajani]] · grade C
 
 ## Country
 
 - Italy  
   > "Antonio Tajani (Italian pronunciation: [anˈtɔːnjo taˈjaːni]; born 4 August 1953) is an Italian politician who has been serving as Deputy Prime Minister of Italy and Minister of Foreign Affairs since 22 October 2022."
-  > Source: [Antonio Tajani](../sources/wikipedia-antonio-tajani.md) · grade A
+  > Source: [[sources/wikipedia-antonio-tajani|Antonio Tajani]] · grade A
 
 ## Education
 
-- [Borgo Piave Di Latina](../organisations/borgo-piave-di-latina.md)  
+- [[organisations/borgo-piave-di-latina|Borgo Piave Di Latina]]  
   > "After attending the high specialization course in air defense at Borgo Piave di Latina, he was air defense controller at the San Giovanni Teatino radar base."
-  > Source: [Antonio Tajani](../sources/wikipedia-antonio-tajani.md) · grade B
+  > Source: [[sources/wikipedia-antonio-tajani|Antonio Tajani]] · grade B
 
-- [Liceo Torquato Tasso In Rome](../organisations/liceo-torquato-tasso-in-rome.md)  
+- [[organisations/liceo-torquato-tasso-in-rome|Liceo Torquato Tasso In Rome]]  
   > "Tajani attended the Liceo Torquato Tasso in Rome and graduated in law from the Sapienza University of Rome; he was a reserve officer of the Italian Air Force."
-  > Source: [Antonio Tajani](../sources/wikipedia-antonio-tajani.md) · grade A
+  > Source: [[sources/wikipedia-antonio-tajani|Antonio Tajani]] · grade A
 
-- [Sapienza University Of Rome](../organisations/sapienza-university-of-rome.md)  
+- [[organisations/sapienza-university-of-rome|Sapienza University Of Rome]]  
   > "Tajani attended the Liceo Torquato Tasso in Rome and graduated in law from the Sapienza University of Rome; he was a reserve officer of the Italian Air Force."
-  > Source: [Antonio Tajani](../sources/wikipedia-antonio-tajani.md) · grade A
+  > Source: [[sources/wikipedia-antonio-tajani|Antonio Tajani]] · grade A
 
 ## Membership
 
-- [Committee on Civil Liberties, Justice and Home Affairs](../organisations/committee-on-civil-liberties-justice-and-home-affairs.md)  
+- [[organisations/committee-on-civil-liberties-justice-and-home-affairs|Committee on Civil Liberties, Justice and Home Affairs]]  
   > "He was a substitute for the Committee on Civil Liberties, Justice and Home Affairs and a member of the Delegation for relations with Israel."
-  > Source: [Antonio Tajani](../sources/wikipedia-antonio-tajani.md) · grade A
+  > Source: [[sources/wikipedia-antonio-tajani|Antonio Tajani]] · grade A
 
-- [Delegation for relations with Israel](../organisations/delegation-for-relations-with-israel.md)  
+- [[organisations/delegation-for-relations-with-israel|Delegation for relations with Israel]]  
   > "He was a substitute for the Committee on Civil Liberties, Justice and Home Affairs and a member of the Delegation for relations with Israel."
-  > Source: [Antonio Tajani](../sources/wikipedia-antonio-tajani.md) · grade A
+  > Source: [[sources/wikipedia-antonio-tajani|Antonio Tajani]] · grade A
 
-- [European Convention](../organisations/european-convention.md)  
+- [[organisations/european-convention|European Convention]]  
   > "He was a member of the European Convention, which drafted the text of the European Constitution that never entered into force."
-  > Source: [Antonio Tajani](../sources/wikipedia-antonio-tajani.md) · grade A
+  > Source: [[sources/wikipedia-antonio-tajani|Antonio Tajani]] · grade A
 
-- [European People's Party](../organisations/european-peoples-party.md)  
+- [[organisations/european-peoples-party|European People's Party]]  
   > "He was admitted to the European People's Party."
-  > Source: [Antonio Tajani](../sources/wikipedia-antonio-tajani.md) · grade B
+  > Source: [[sources/wikipedia-antonio-tajani|Antonio Tajani]] · grade B
 
-- [Fronte Monarchico Giovanile (Youth Monarchist Front)](../organisations/fronte-monarchico-giovanile-youth-monarchist-front.md)  
+- [[organisations/fronte-monarchico-giovanile-youth-monarchist-front|Fronte Monarchico Giovanile (Youth Monarchist Front)]]  
   > "In his youth Tajani was a militant of Fronte Monarchico Giovanile (Youth Monarchist Front), a student organization of the Italian Monarchist Union (UMI)."
-  > Source: [Antonio Tajani](../sources/wikipedia-antonio-tajani.md) · grade B
+  > Source: [[sources/wikipedia-antonio-tajani|Antonio Tajani]] · grade B
 
-- [Italian Monarchist Union (UMI)](../organisations/italian-monarchist-union-umi.md)  
+- [[organisations/italian-monarchist-union-umi|Italian Monarchist Union (UMI)]]  
   > "In his youth Tajani was a militant of Fronte Monarchico Giovanile (Youth Monarchist Front), a student organization of the Italian Monarchist Union (UMI)."
-  > Source: [Antonio Tajani](../sources/wikipedia-antonio-tajani.md) · grade B
+  > Source: [[sources/wikipedia-antonio-tajani|Antonio Tajani]] · grade B
 
-- [Working Group on the Conference on the Future of Europe](../organisations/working-group-on-the-conference-on-the-future-of-europe.md)  
+- [[organisations/working-group-on-the-conference-on-the-future-of-europe|Working Group on the Conference on the Future of Europe]]  
   > "He was a member of the Working Group on the Conference on the Future of Europe."
-  > Source: [Antonio Tajani](../sources/wikipedia-antonio-tajani.md) · grade A
+  > Source: [[sources/wikipedia-antonio-tajani|Antonio Tajani]] · grade A
 
 ## Chair / president
 
-- [EU-Brazil working group](../organisations/eu-brazil-working-group.md) — chair  
+- [[organisations/eu-brazil-working-group|EU-Brazil working group]] — chair  
   > "In March 2013 the President of the European Commission José Manuel Barroso has appointed Tajani to lead the new EU-Brazil working group, which will also include the European Commissioner for Trade Karel De Gucht and European Commissioner for Research, Innovation and Science Máire Geoghegan-Quinn."
-  > Source: [Antonio Tajani](../sources/wikipedia-antonio-tajani.md) · grade A
+  > Source: [[sources/wikipedia-antonio-tajani|Antonio Tajani]] · grade A
 
-- [Forza Italia](../organisations/forza-italia.md) — chair; founder; party_member  
+- [[organisations/forza-italia|Forza Italia]] — chair; founder; party_member  
   > "He was chairman of the delegation of Forza Italia to the European Parliament from June 1999 until May 2008."
-  > Source: [Antonio Tajani](../sources/wikipedia-antonio-tajani.md) · grade A
+  > Source: [[sources/wikipedia-antonio-tajani|Antonio Tajani]] · grade A
 
 ## Affiliation
 
-- [Berlusconi's first government (1994–95)](../organisations/berlusconi-s-first-government-199495.md)  
+- [[organisations/berlusconi-s-first-government-199495|Berlusconi's first government (1994–95)]]  
   > "In Berlusconi's first government (1994–95), he was a spokesman for the Prime Minister."
-  > Source: [Antonio Tajani](../sources/wikipedia-antonio-tajani.md) · grade B
+  > Source: [[sources/wikipedia-antonio-tajani|Antonio Tajani]] · grade B
 
-- [European Commission](../organisations/european-commission.md)  
+- [[organisations/european-commission|European Commission]]  
   > "He also served as Vice-President of the European Commission."
-  > Source: [Antonio Tajani](../sources/wikipedia-antonio-tajani.md) · grade A
+  > Source: [[sources/wikipedia-antonio-tajani|Antonio Tajani]] · grade A
 
-- [Il Settimanale](../organisations/il-settimanale.md)  
+- [[organisations/il-settimanale|Il Settimanale]]  
   > "A professional journalist since 1980, he was parliamentary reporter, editor of Il Settimanale, presenter on Rai of Gr1, and head of the Roman editorial staff of Il Giornale newspaper under the direction of Indro Montanelli."
-  > Source: [Antonio Tajani](../sources/wikipedia-antonio-tajani.md) · grade B
+  > Source: [[sources/wikipedia-antonio-tajani|Antonio Tajani]] · grade B
 
-- [ILGA-Europe](../organisations/ilga-europe.md)  
+- [[organisations/ilga-europe|ILGA-Europe]]  
   > "In the eve of his election as President of the European Parliament, the LGBTQ rights-group ILGA-Europe expressed its disappointment with Tajani's new political post and his political backing from the European People's Party (EPP) and Alliance of Liberals and Democrats for Europe (ALDE)."
-  > Source: [Antonio Tajani](../sources/wikipedia-antonio-tajani.md) · grade A
+  > Source: [[sources/wikipedia-antonio-tajani|Antonio Tajani]] · grade A
 
-- [Initiative Group of the Italians in Brussels (GII)](../organisations/initiative-group-of-the-italians-in-brussels-gii.md)  
+- [[organisations/initiative-group-of-the-italians-in-brussels-gii|Initiative Group of the Italians in Brussels (GII)]]  
   > "19 March 2012 – Europe Prize 2011 by the Initiative Group of the Italians in Brussels (GII) for his strong commitment for the business community - in particular SMEs - and the promotion of the image of Italy in Europe."
-  > Source: [Antonio Tajani](../sources/wikipedia-antonio-tajani.md) · grade B
+  > Source: [[sources/wikipedia-antonio-tajani|Antonio Tajani]] · grade B
 
-- [Rai](../organisations/rai.md)  
+- [[organisations/rai|Rai]]  
   > "A professional journalist since 1980, he was parliamentary reporter, editor of Il Settimanale, presenter on Rai of Gr1, and head of the Roman editorial staff of Il Giornale newspaper under the direction of Indro Montanelli."
-  > Source: [Antonio Tajani](../sources/wikipedia-antonio-tajani.md) · grade B
+  > Source: [[sources/wikipedia-antonio-tajani|Antonio Tajani]] · grade B
 
-- [Spanish Royal Institute of European Studies](../organisations/spanish-royal-institute-of-european-studies.md)  
+- [[organisations/spanish-royal-institute-of-european-studies|Spanish Royal Institute of European Studies]]  
   > "Recognitions 2 April 2014 - Aragon Empresa Award received by His Royal Highness Felipe the Prince of Asturias for his efforts in favour of industry and entrepreneurship 10 February 2014 - Innovadores Award received by El Mundo in recognition of his support for the industry, entrepreneurship and innovation 17 April 2012 – Honors for the commitment for SMEs and EU integration, Spanish Royal Institute of European Studies."
-  > Source: [Antonio Tajani](../sources/wikipedia-antonio-tajani.md) · grade B
+  > Source: [[sources/wikipedia-antonio-tajani|Antonio Tajani]] · grade B
 
 ## Employment
 
-- [Il Giornale](../organisations/il-giornale.md) — employed_by  
+- [[organisations/il-giornale|Il Giornale]] — employed_by  
   > "A professional journalist since 1980, he was parliamentary reporter, editor of Il Settimanale, presenter on Rai of Gr1, and head of the Roman editorial staff of Il Giornale newspaper under the direction of Indro Montanelli."
-  > Source: [Antonio Tajani](../sources/wikipedia-antonio-tajani.md) · grade A
+  > Source: [[sources/wikipedia-antonio-tajani|Antonio Tajani]] · grade A

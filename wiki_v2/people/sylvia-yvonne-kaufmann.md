@@ -18,44 +18,44 @@ Mep
 
 ## Membership
 
-- [Bundestag](../organisations/bundestag.md)  
+- [[organisations/bundestag|Bundestag]]  
   > "She was Deputy Chairman of the PDS 1993–2000 and sat in the Volkskammer of the German Democratic Republic before reunification and the Bundestag thereafter."
-  > Source: [Sylvia Yvonne Kaufmann](../sources/wikipedia-sylvia-yvonne-kaufmann.md) · grade B
+  > Source: [[sources/wikipedia-sylvia-yvonne-kaufmann|Sylvia Yvonne Kaufmann]] · grade B
 
-- [Left Party](../organisations/left-party.md)  
+- [[organisations/left-party|Left Party]]  
   > "On 14 May 2009 she left the Left Party after she failed to be reselected for the list of candidates for the European elections and joined the Social Democrats ."
-  > Source: [Sylvia Yvonne Kaufmann](../sources/wikipedia-sylvia-yvonne-kaufmann.md) · grade A
+  > Source: [[sources/wikipedia-sylvia-yvonne-kaufmann|Sylvia Yvonne Kaufmann]] · grade A
 
-- [Social Democratic Party](../organisations/social-democratic-party.md)  
+- [[organisations/social-democratic-party|Social Democratic Party]]  
   > "She is a member of the Social Democratic Party , part of the Party of European Socialists ."
-  > Source: [Sylvia Yvonne Kaufmann](../sources/wikipedia-sylvia-yvonne-kaufmann.md) · grade A
+  > Source: [[sources/wikipedia-sylvia-yvonne-kaufmann|Sylvia Yvonne Kaufmann]] · grade A
 
-- [Social Democrats](../organisations/social-democrats.md)  
+- [[organisations/social-democrats|Social Democrats]]  
   > "On 14 May 2009 she left the Left Party after she failed to be reselected for the list of candidates for the European elections and joined the Social Democrats ."
-  > Source: [Sylvia Yvonne Kaufmann](../sources/wikipedia-sylvia-yvonne-kaufmann.md) · grade A
+  > Source: [[sources/wikipedia-sylvia-yvonne-kaufmann|Sylvia Yvonne Kaufmann]] · grade A
 
-- [Union of European Federalists](../organisations/union-of-european-federalists.md)  
+- [[organisations/union-of-european-federalists|Union of European Federalists]]  
   > "Kaufmann is member of the executive board of Europa-Union Deutschland , the German section of the Union of European Federalists ."
-  > Source: [Sylvia Yvonne Kaufmann](../sources/wikipedia-sylvia-yvonne-kaufmann.md) · grade A
+  > Source: [[sources/wikipedia-sylvia-yvonne-kaufmann|Sylvia Yvonne Kaufmann]] · grade A
 
-- [Volkskammer of the German Democratic Republic](../organisations/volkskammer-of-the-german-democratic-republic.md)  
+- [[organisations/volkskammer-of-the-german-democratic-republic|Volkskammer of the German Democratic Republic]]  
   > "She was Deputy Chairman of the PDS 1993–2000 and sat in the Volkskammer of the German Democratic Republic before reunification and the Bundestag thereafter."
-  > Source: [Sylvia Yvonne Kaufmann](../sources/wikipedia-sylvia-yvonne-kaufmann.md) · grade B
+  > Source: [[sources/wikipedia-sylvia-yvonne-kaufmann|Sylvia Yvonne Kaufmann]] · grade B
 
 ## Board / trustee
 
-- [Europa-Union Deutschland](../organisations/europa-union-deutschland.md) — board_member  
+- [[organisations/europa-union-deutschland|Europa-Union Deutschland]] — board_member  
   > "Kaufmann is member of the executive board of Europa-Union Deutschland , the German section of the Union of European Federalists ."
-  > Source: [Sylvia Yvonne Kaufmann](../sources/wikipedia-sylvia-yvonne-kaufmann.md) · grade A
+  > Source: [[sources/wikipedia-sylvia-yvonne-kaufmann|Sylvia Yvonne Kaufmann]] · grade A
 
 ## Chair / president
 
-- [PDS (Party of Democratic Socialism)](../organisations/pds-party-of-democratic-socialism.md) — chair  
+- [[organisations/pds-party-of-democratic-socialism|PDS (Party of Democratic Socialism)]] — chair  
   > "She was Deputy Chairman of the PDS 1993–2000 and sat in the Volkskammer of the German Democratic Republic before reunification and the Bundestag thereafter."
-  > Source: [Sylvia Yvonne Kaufmann](../sources/wikipedia-sylvia-yvonne-kaufmann.md) · grade C
+  > Source: [[sources/wikipedia-sylvia-yvonne-kaufmann|Sylvia Yvonne Kaufmann]] · grade C
 
 ## Affiliation
 
-- [Party of European Socialists](../organisations/party-of-european-socialists.md)  
+- [[organisations/party-of-european-socialists|Party of European Socialists]]  
   > "She is a member of the Social Democratic Party , part of the Party of European Socialists ."
-  > Source: [Sylvia Yvonne Kaufmann](../sources/wikipedia-sylvia-yvonne-kaufmann.md) · grade A
+  > Source: [[sources/wikipedia-sylvia-yvonne-kaufmann|Sylvia Yvonne Kaufmann]] · grade A

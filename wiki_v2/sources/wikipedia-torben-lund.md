@@ -16,15 +16,15 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (6)
 
-- [Torben Lund](../people/torben-lund.md) — affiliated_with — Poul Nyrup Rasmussen I Cabinet
+- [[people/torben-lund|Torben Lund]] — affiliated_with — Poul Nyrup Rasmussen I Cabinet
   > "&#91; 3 &#93; He served as Health Minister in the Poul Nyrup Rasmussen I Cabinet from 1993 to 1994."
-- [Torben Lund](../people/torben-lund.md) — affiliated_with — Dk4
+- [[people/torben-lund|Torben Lund]] — affiliated_with — Dk4
   > "&#91; 4 &#93; After his retirement from politics, he joined the Danish television network Dk4 ."
-- [Torben Lund](../people/torben-lund.md) — affiliated_with — Social Democrats
+- [[people/torben-lund|Torben Lund]] — affiliated_with — Social Democrats
   > "&#91; 5 &#93; He remained active in the Social Democrats, but left the party in 2009 due to disagreements with the leadership of Helle Thorning-Schmidt ."
-- [Torben Lund](../people/torben-lund.md) — member — Folketing
+- [[people/torben-lund|Torben Lund]] — member — Folketing
   > "Danish politician (born 1950) Torben Lund (born 6 November 1950) is a Danish politician, who served in the Folketing from 1981 to 1998 &#91; 1 &#93; and in the European Parliament from 1999 to 2004."
-- [Torben Lund](../people/torben-lund.md) — member — Danish Social Democrats
+- [[people/torben-lund|Torben Lund]] — member — Danish Social Democrats
   > "&#91; 2 &#93; He was associated with the Danish Social Democrats in Denmark, and the Progressive Alliance of Socialists and Democrats in the European Parliament."
-- [Torben Lund](../people/torben-lund.md) — member — Progressive Alliance of Socialists and Democrats
+- [[people/torben-lund|Torben Lund]] — member — Progressive Alliance of Socialists and Democrats
   > "&#91; 2 &#93; He was associated with the Danish Social Democrats in Denmark, and the Progressive Alliance of Socialists and Democrats in the European Parliament."

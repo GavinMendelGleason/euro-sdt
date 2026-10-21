@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Gaston Thorn](../people/gaston-thorn.md)  
+- [[people/gaston-thorn|Gaston Thorn]]  
   > "After the war, he initially studied medicine in Montpellier , then switched to law, and continued his studies in Lausanne and Paris, &#91; 2 &#93; and practised law in Luxembourg from 1955."
-  > Source: [Gaston Thorn](../sources/wikipedia-gaston-thorn.md) · grade A
+  > Source: [[sources/wikipedia-gaston-thorn|Gaston Thorn]] · grade A

@@ -15,9 +15,9 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Philippe Busquin](../people/philippe-busquin.md) — chair  
+- [[people/philippe-busquin|Philippe Busquin]] — chair  
   > "1992–1999: Chairman of the PS"
-  > Source: [Philippe Busquin](../sources/wikipedia-philippe-busquin.md) · grade A
-- [Pierre Moscovici](../people/pierre-moscovici.md) — party_member  
+  > Source: [[sources/wikipedia-philippe-busquin|Philippe Busquin]] · grade A
+- [[people/pierre-moscovici|Pierre Moscovici]] — party_member  
   > "Other activities Paris School of International Affairs (PSIA), Member of the Strategic Committee"
-  > Source: [Pierre Moscovici](../sources/wikipedia-pierre-moscovici.md) · grade A
+  > Source: [[sources/wikipedia-pierre-moscovici|Pierre Moscovici]] · grade A

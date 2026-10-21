@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Věra Jourová](../people/vera-jourova.md) — employed_by  
+- [[people/vera-jourova|Věra Jourová]] — employed_by  
   > "She served as a Member of the Chamber of Deputies between 2013 and 2014 and as the Czech Minister for Regional Development in 2014."
-  > Source: [Vera Jourova](../sources/wikipedia-vera-jourova.md) · grade A
+  > Source: [[sources/wikipedia-vera-jourova|Vera Jourova]] · grade A

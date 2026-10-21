@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Élisabeth Morin](../people/elisabeth-morin.md) — chair  
+- [[people/elisabeth-morin|Élisabeth Morin]] — chair  
   > "Political career [ edit ] Morin was Vice President of the Poitou-Charentes Regional Council under Regional President Jean-Pierre Raffarin and assumed the presidency upon Raffarin's nomination as Prime Minister of France ."
-  > Source: [Lisabeth Morin Chartier](../sources/wikipedia-lisabeth-morin-chartier.md) · grade C
+  > Source: [[sources/wikipedia-lisabeth-morin-chartier|Lisabeth Morin Chartier]] · grade C

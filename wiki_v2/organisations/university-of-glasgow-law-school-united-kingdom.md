@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Linsey McCallum](../people/linsey-mccallum.md)  
+- [[people/linsey-mccallum|Linsey McCallum]]  
   > "➢ 1989 – 1990: Diploma in Legal Practice (part of professional qualification) University of Glasgow, Law School, United Kingdom"
-  > Source: [Linsey Mccallum](../sources/dg_cv-linsey-mccallum.md) · grade A
+  > Source: [[sources/dg_cv-linsey-mccallum|Linsey Mccallum]] · grade A

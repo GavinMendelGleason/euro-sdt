@@ -16,7 +16,7 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (2)
 
-- [Rupert Lowe](../people/rupert-lowe.md) — educated_at — Dragon School
+- [[people/rupert-lowe|Rupert Lowe]] — educated_at — Dragon School
   > "&#91; 4 &#93; He was educated at Dragon School , then Radley College , &#91; 5 &#93; an all-boys independent boarding school , and the University of Reading ."
-- [Rupert Lowe](../people/rupert-lowe.md) — educated_at — radley-college
+- [[people/rupert-lowe|Rupert Lowe]] — educated_at — radley-college
   > "&#91; 4 &#93; He was educated at Dragon School , then Radley College , &#91; 5 &#93; an all-boys independent boarding school , and the University of Reading ."

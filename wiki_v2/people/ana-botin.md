@@ -18,12 +18,12 @@ Corporate Elite
 
 ## Education
 
-- [Bryn Mawr College](../organisations/bryn-mawr-college.md)  
+- [[organisations/bryn-mawr-college|Bryn Mawr College]]  
   > "She studied economics at Bryn Mawr College."
-  > Source: [Corp Ana Botin](../sources/wikipedia-corp-ana-botin.md) · grade A
+  > Source: [[sources/wikipedia-corp-ana-botin|Corp Ana Botin]] · grade A
 
 ## Employment
 
-- [Santander](../organisations/santander.md)  
+- [[organisations/santander|Santander]]  
   > "Ana Patricia Botín-Sanz de Sautuola O'Shea (born 4 October 1960) is a Spanish banker who has been the executive chairman of Santander Group since 2014."
-  > Source: [Corp Ana Botin](../sources/wikipedia-corp-ana-botin.md) · grade A
+  > Source: [[sources/wikipedia-corp-ana-botin|Corp Ana Botin]] · grade A

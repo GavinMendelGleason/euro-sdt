@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [René Obermann](../people/rene-obermann.md) — employed_by  
+- [[people/rene-obermann|René Obermann]] — employed_by  
   > "From March 2000 to March 2002 he was CEO of T-Mobile Deutschland."
-  > Source: [Ren Obermann](../sources/wikipedia-ren-obermann.md) · grade C
+  > Source: [[sources/wikipedia-ren-obermann|Ren Obermann]] · grade C

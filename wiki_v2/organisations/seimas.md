@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Virginijus Sinkevičius](../people/virginijus-sinkevicius.md)  
+- [[people/virginijus-sinkevicius|Virginijus Sinkevičius]]  
   > "He was previously a Member of the Seimas and Minister of Economy and Innovation."
-  > Source: [Virginijus Sinkevicius](../sources/wikipedia-virginijus-sinkevicius.md) · grade A
+  > Source: [[sources/wikipedia-virginijus-sinkevicius|Virginijus Sinkevicius]] · grade A

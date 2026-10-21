@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Raffaele Fitto](../people/raffaele-fitto.md) — party_member  
+- [[people/raffaele-fitto|Raffaele Fitto]] — party_member  
   > "When the DC was dissolved and with the birth of the Second Italian Republic, he joined the DC's successor political parties and Christian democratic parties, such as Italian People's Party (PPI), the United Christian Democrats (CDU), and the Christian Democrats for Freedom (CDL)."
-  > Source: [Raffaele Fitto](../sources/wikipedia-raffaele-fitto.md) · grade A
+  > Source: [[sources/wikipedia-raffaele-fitto|Raffaele Fitto]] · grade A

@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Kadri Simson](../people/kadri-simson.md)  
+- [[people/kadri-simson|Kadri Simson]]  
   > "Simson graduated from Tartu 10th Middle School in 1995, Tartu University in 2000, (majoring in history)."
-  > Source: [Kadri Simson](../sources/wikipedia-kadri-simson.md) · grade A
+  > Source: [[sources/wikipedia-kadri-simson|Kadri Simson]] · grade A

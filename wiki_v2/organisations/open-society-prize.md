@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Emma Bonino](../people/emma-bonino.md)  
+- [[people/emma-bonino|Emma Bonino]]  
   > "For her battles and engagements with controversial issues, her engagement in the promotion of human rights and civil rights in the world, she received the \"Open Society Prize 2004\" and \"Prix Femmes d'Europe 2004\" for Italy."
-  > Source: [Emma Bonino](../sources/wikipedia-emma-bonino.md) · grade B
+  > Source: [[sources/wikipedia-emma-bonino|Emma Bonino]] · grade B

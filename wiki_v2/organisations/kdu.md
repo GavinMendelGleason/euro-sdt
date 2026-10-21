@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Charlie Weimers](../people/charlie-weimers.md) — board_member  
+- [[people/charlie-weimers|Charlie Weimers]] — board_member  
   > "He was elected to the KDU national board in 2003."
-  > Source: [Charlie Weimers](../sources/wikipedia-charlie-weimers.md) · grade A
+  > Source: [[sources/wikipedia-charlie-weimers|Charlie Weimers]] · grade A

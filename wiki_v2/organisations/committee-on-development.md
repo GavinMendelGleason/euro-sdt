@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Godelieve Quisthoudt-Rowohl](../people/godelieve-quisthoudt-rowohl.md)  
+- [[people/godelieve-quisthoudt-rowohl|Godelieve Quisthoudt-Rowohl]]  
   > "Finally she urged Turkey to enforce copyrights effectively and so to stop brand piracy . &#91; 11 &#93; Quisthoudt-Rowohl holds the European ban on incandescent lamps for patronizing and undemocratic, because the parliament and the public were not involved. &#91; 12 &#93; Ms Quisthoudt-Rowohl was also involved in the ceilings for the mobile phone fees in the EU. &#91; 13 &#93; She wants to strengt […]"
-  > Source: [Godelieve Quisthoudt Rowohl](../sources/wikipedia-godelieve-quisthoudt-rowohl.md) · grade A
+  > Source: [[sources/wikipedia-godelieve-quisthoudt-rowohl|Godelieve Quisthoudt Rowohl]] · grade A

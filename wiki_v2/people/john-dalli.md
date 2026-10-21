@@ -20,4 +20,4 @@ Commissioner · MLT
 
 - Health and Consumer Policy  
   > "He was European Commissioner for Health and Consumer Policy between 2010 and 2012."
-  > Source: [John Dalli](../sources/wikipedia-john-dalli.md) · grade A
+  > Source: [[sources/wikipedia-john-dalli|John Dalli]] · grade A

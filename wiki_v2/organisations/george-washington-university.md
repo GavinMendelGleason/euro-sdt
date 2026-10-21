@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [László Andor](../people/laszlo-andor.md)  
+- [[people/laszlo-andor|László Andor]]  
   > "He also studied at the George Washington University in Washington, D.C., and in 1993 earned a master's degree in Development Economics at the University of Manchester."
-  > Source: [Laszlo Andor](../sources/wikipedia-laszlo-andor.md) · grade A
+  > Source: [[sources/wikipedia-laszlo-andor|Laszlo Andor]] · grade A

@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Rainer Wieland](../people/rainer-wieland.md)  
+- [[people/rainer-wieland|Rainer Wieland]]  
   > "&#91; 2 &#93; Furthermore, he is a member of the presidium of CDU Baden-Württemberg."
-  > Source: [Rainer Wieland](../sources/wikipedia-rainer-wieland.md) · grade A
+  > Source: [[sources/wikipedia-rainer-wieland|Rainer Wieland]] · grade A

@@ -16,7 +16,7 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (2)
 
-- [Danuta Hübner](../people/danuta-hubner.md) — served_on_commission — Barroso I
+- [[people/danuta-hubner|Danuta Hübner]] — served_on_commission — Barroso I
   > "Following the 2009 election two commissioners stood down to accept seats in the European Parliament: Danuta Hübner (Poland) and Louis Michel (Belgium) who were replaced by Paweł Samecki (4 July) and Karel De Gucht (17 July) respectively."
-- [Louis Michel](../people/louis-michel.md) — served_on_commission — Barroso I
+- [[people/louis-michel|Louis Michel]] — served_on_commission — Barroso I
   > "Following the 2009 election two commissioners stood down to accept seats in the European Parliament: Danuta Hübner (Poland) and Louis Michel (Belgium) who were replaced by Paweł Samecki (4 July) and Karel De Gucht (17 July) respectively."

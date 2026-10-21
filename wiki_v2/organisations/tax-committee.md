@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Jessika Roswall](../people/jessika-roswall.md)  
+- [[people/jessika-roswall|Jessika Roswall]]  
   > "As a newly appointed member of parliament, she became a member of the tax committee."
-  > Source: [Jessika Roswall](../sources/wikipedia-jessika-roswall.md) · grade A
+  > Source: [[sources/wikipedia-jessika-roswall|Jessika Roswall]] · grade A

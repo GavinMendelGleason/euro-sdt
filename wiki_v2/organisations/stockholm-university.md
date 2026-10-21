@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Karin Karlsbro](../people/karin-karlsbro.md)  
+- [[people/karin-karlsbro|Karin Karlsbro]]  
   > "Education [ edit ] Karlsbro holds a law degree from Stockholm University and has studied at the London School of Economics and Political Science (LSE)."
-  > Source: [Karin Karlsbro](../sources/wikipedia-karin-karlsbro.md) · grade A
+  > Source: [[sources/wikipedia-karin-karlsbro|Karin Karlsbro]] · grade A

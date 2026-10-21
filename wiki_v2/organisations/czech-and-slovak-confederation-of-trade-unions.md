@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Richard Falbr](../people/richard-falbr.md) — chair  
+- [[people/richard-falbr|Richard Falbr]] — chair  
   > "Post-communist career [ edit ] From 1990, Falbr was active in trade union politics, as vice-chair of the Czech and Slovak Confederation of Trade Unions (1990–1994) and chair of the Bohemian-Moravian Service Workers' Trade Union (1990–1998), going on to serve as chair of the Bohemian-Moravian Confederation of Trade Unions from 1994 until 2002."
-  > Source: [Richard Falbr](../sources/wikipedia-richard-falbr.md) · grade A
+  > Source: [[sources/wikipedia-richard-falbr|Richard Falbr]] · grade A

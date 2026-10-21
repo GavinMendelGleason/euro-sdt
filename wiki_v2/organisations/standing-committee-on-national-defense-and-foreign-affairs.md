@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Apostolos Tzitzikostas](../people/apostolos-tzitzikostas.md)  
+- [[people/apostolos-tzitzikostas|Apostolos Tzitzikostas]]  
   > "As MP, he served as Secretary of the Hellenic Parliament, member of the Standing Committee on National Defense and Foreign Affairs, and member of the Standing Committee on Financial Affairs."
-  > Source: [Apostolos Tzitzikostas](../sources/wikipedia-apostolos-tzitzikostas.md) · grade A
+  > Source: [[sources/wikipedia-apostolos-tzitzikostas|Apostolos Tzitzikostas]] · grade A

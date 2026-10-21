@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Jean Lemierre](../people/jean-lemierre.md) — board_member  
+- [[people/jean-lemierre|Jean Lemierre]] — board_member  
   > "&#91; 8 &#93; Other activities [ edit ] Government agencies [ edit ] Monetary Authority of Singapore (MAS), Member of the International Advisory Panel &#91; 9 &#93; Corporate boards [ edit ] Türk Ekonomi Bankası (TBE), Member of the Board of Directors &#91; 10 &#93; Total S.A."
-  > Source: [Jean Lemierre](../sources/wikipedia-jean-lemierre.md) · grade A
+  > Source: [[sources/wikipedia-jean-lemierre|Jean Lemierre]] · grade A

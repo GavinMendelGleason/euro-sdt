@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Hanne Dahl](../people/hanne-dahl.md)  
+- [[people/hanne-dahl|Hanne Dahl]]  
   > "( March 2026 ) ( Learn how and when to remove this message ) Hanne Dahl has been a member of the Social Liberal Party."
-  > Source: [Hanne Dahl](../sources/wikipedia-hanne-dahl.md) · grade A
+  > Source: [[sources/wikipedia-hanne-dahl|Hanne Dahl]] · grade A

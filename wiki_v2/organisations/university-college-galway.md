@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Jim Higgins (Irish politician)](../people/jim-higgins-irish-politician.md)  
+- [[people/jim-higgins-irish-politician|Jim Higgins (Irish politician)]]  
   > "Jarlath's College , Tuam and at University College Galway ."
-  > Source: [Jim Higgins Irish Politician](../sources/wikipedia-jim-higgins-irish-politician.md) · grade C
+  > Source: [[sources/wikipedia-jim-higgins-irish-politician|Jim Higgins Irish Politician]] · grade C

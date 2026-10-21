@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Stavros Lambrinidis](../people/stavros-lambrinidis.md)  
+- [[people/stavros-lambrinidis|Stavros Lambrinidis]]  
   > "A few months later, he was elected as the vice president of the Party of European Socialists and, in April 2005, as head of the parliamentary delegation of Panhellenic Socialist Movement (PA.SO.K.) to the European Parliament ."
-  > Source: [Stavros Lambrinidis](../sources/wikipedia-stavros-lambrinidis.md) · grade C
+  > Source: [[sources/wikipedia-stavros-lambrinidis|Stavros Lambrinidis]] · grade C

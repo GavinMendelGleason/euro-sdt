@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Luisa Morgantini](../people/luisa-morgantini.md) — attendee  
+- [[people/luisa-morgantini|Luisa Morgantini]] — attendee  
   > "&#91; 3 &#93; She was among the founders of the international network Women in Black against war and violence, and took part in the national coordination of the Association for Peace , a nonviolent movement."
-  > Source: [Luisa Morgantini](../sources/wikipedia-luisa-morgantini.md) · grade C
+  > Source: [[sources/wikipedia-luisa-morgantini|Luisa Morgantini]] · grade C

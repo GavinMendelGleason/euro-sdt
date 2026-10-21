@@ -18,12 +18,12 @@ Dg
 
 ## Education
 
-- [University Of Montpellier](../organisations/university-of-montpellier.md)  
+- [[organisations/university-of-montpellier|University Of Montpellier]]  
   > " 1987 – 1989: Maîtrise et Licence en Sciences économiques, Économie monétaire et financière – University of Montpellier, France"
-  > Source: [Mechthild Worsdorfer](../sources/dg_cv-mechthild-worsdorfer.md) · grade A
+  > Source: [[sources/dg_cv-mechthild-worsdorfer|Mechthild Worsdorfer]] · grade A
 
 ## Position
 
 - Deputy Director-General → Directorate-General for Energy  
   > "Professional experience in the European Institutions  Since 1 October 2021: Deputy Director-General – Directorate-General Energy (DG ENER)"
-  > Source: [Mechthild Worsdorfer](../sources/dg_cv-mechthild-worsdorfer.md) · grade A
+  > Source: [[sources/dg_cv-mechthild-worsdorfer|Mechthild Worsdorfer]] · grade A

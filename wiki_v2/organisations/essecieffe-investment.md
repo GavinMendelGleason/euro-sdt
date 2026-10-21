@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Flavio Cattaneo](../people/flavio-cattaneo.md) — founder  
+- [[people/flavio-cattaneo|Flavio Cattaneo]] — founder  
   > "&#91; 16 &#93; Flavio Cattaneo established Itabus through Essecieffe Investment, a company he founded in 2014 to focus on entrepreneurial ventures, and which was already a shareholder in Italo."
-  > Source: [Flavio Cattaneo](../sources/wikipedia-flavio-cattaneo.md) · grade A
+  > Source: [[sources/wikipedia-flavio-cattaneo|Flavio Cattaneo]] · grade A

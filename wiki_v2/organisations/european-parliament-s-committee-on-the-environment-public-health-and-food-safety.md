@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Catherine Bearder](../people/catherine-bearder.md)  
+- [[people/catherine-bearder|Catherine Bearder]]  
   > "&#91; 9 &#93; She focused on environmental issues, especially wildlife conservation and biodiversity, and has founded the cross-party \"MEPs for Wildlife group\" which is calling for an EU Action Plan against Wildlife Trafficking."
-  > Source: [Catherine Bearder](../sources/wikipedia-catherine-bearder.md) · grade A
+  > Source: [[sources/wikipedia-catherine-bearder|Catherine Bearder]] · grade A

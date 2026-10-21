@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Francesco Speroni](../people/francesco-speroni.md)  
+- [[people/francesco-speroni|Francesco Speroni]]  
   > "He sat also on the European Parliament Committee on Legal Affairs and has been a substitute for the Committee on Foreign Affairs and a member of the Delegation to the EU - Mexico Joint Parliamentary Committee."
-  > Source: [Francesco Speroni](../sources/wikipedia-francesco-speroni.md) · grade A
+  > Source: [[sources/wikipedia-francesco-speroni|Francesco Speroni]] · grade A

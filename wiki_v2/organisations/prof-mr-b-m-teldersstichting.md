@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Neelie Kroes](../people/neelie-kroes.md) — advisory_board  
+- [[people/neelie-kroes|Neelie Kroes]] — advisory_board  
   > "During this period Kroes also was a member of the Advisory Board of the Prof.Mr. B.M. Teldersstichting, the scientific bureau of VVD."
-  > Source: [Neelie Kroes](../sources/wikipedia-neelie-kroes.md) · grade A
+  > Source: [[sources/wikipedia-neelie-kroes|Neelie Kroes]] · grade A

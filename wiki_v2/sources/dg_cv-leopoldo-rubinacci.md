@@ -15,7 +15,7 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (2)
 
-- [Leopoldo Rubinacci](../people/leopoldo-rubinacci.md) — educated_at — Ecole De Commerce Solvay, Université Libre De Bruxelles
+- [[people/leopoldo-rubinacci|Leopoldo Rubinacci]] — educated_at — Ecole De Commerce Solvay, Université Libre De Bruxelles
   > "Italian Academic qualifications ➢ 09/1985 – 06/1991 : Ingénieur Commercial, Ecole de commerce Solvay, Université Libre de Bruxelles, Belgium"
-- [Leopoldo Rubinacci](../people/leopoldo-rubinacci.md) — held_position — Deputy Director-General → Directorate-General for Trade and Economic Security
+- [[people/leopoldo-rubinacci|Leopoldo Rubinacci]] — held_position — Deputy Director-General → Directorate-General for Trade and Economic Security
   > "Professional experience in the European Institutions ➢ Since 16/10/2022: Deputy Director-General – Directorate-General Trade (DG TRADE)"

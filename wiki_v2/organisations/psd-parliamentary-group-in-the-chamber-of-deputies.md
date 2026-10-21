@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Astrid Lulling](../people/astrid-lulling.md) — chair  
+- [[people/astrid-lulling|Astrid Lulling]] — chair  
   > "Chairwoman of the PSD parliamentary group in the Chamber of Deputies (1974–1979)."
-  > Source: [Astrid Lulling](../sources/wikipedia-astrid-lulling.md) · grade A
+  > Source: [[sources/wikipedia-astrid-lulling|Astrid Lulling]] · grade A

@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Antonio Tajani](../people/antonio-tajani.md) — chair  
+- [[people/antonio-tajani|Antonio Tajani]] — chair  
   > "In March 2013 the President of the European Commission José Manuel Barroso has appointed Tajani to lead the new EU-Brazil working group, which will also include the European Commissioner for Trade Karel De Gucht and European Commissioner for Research, Innovation and Science Máire Geoghegan-Quinn."
-  > Source: [Antonio Tajani](../sources/wikipedia-antonio-tajani.md) · grade A
+  > Source: [[sources/wikipedia-antonio-tajani|Antonio Tajani]] · grade A

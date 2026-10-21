@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Marta Kos](../people/marta-kos.md) — employed_by  
+- [[people/marta-kos|Marta Kos]] — employed_by  
   > "From 1997 to 1999, she served as director of the Slovenian government information office and as spokesperson of the government."
-  > Source: [Marta Kos](../sources/wikipedia-marta-kos.md) · grade A
+  > Source: [[sources/wikipedia-marta-kos|Marta Kos]] · grade A

@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Günther Oettinger](../people/gunther-oettinger.md) — chair  
+- [[people/gunther-oettinger|Günther Oettinger]] — chair  
   > "He served as Minister-President of Baden-Württemberg between 2005 and 2010 and as chairman of the CDU Baden-Württemberg from 2005 until 2010."
-  > Source: [Gunther Oettinger](../sources/wikipedia-gunther-oettinger.md) · grade A
+  > Source: [[sources/wikipedia-gunther-oettinger|Gunther Oettinger]] · grade A

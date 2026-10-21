@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Věra Jourová](../people/vera-jourova.md) — chair; party_member  
+- [[people/vera-jourova|Věra Jourová]] — chair; party_member  
   > "Jourová has been a member of the ANO political party since 2012, and from 2013, she was the movement's deputy chair."
-  > Source: [Vera Jourova](../sources/wikipedia-vera-jourova.md) · grade A
+  > Source: [[sources/wikipedia-vera-jourova|Vera Jourova]] · grade A

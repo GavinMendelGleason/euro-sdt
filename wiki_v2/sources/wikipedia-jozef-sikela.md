@@ -16,13 +16,13 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (5)
 
-- [Jozef Síkela](../people/jozef-sikela.md) — chair — Foreign Affairs Council
+- [[people/jozef-sikela|Jozef Síkela]] — chair — Foreign Affairs Council
   > "European level When the Czech Republic held the rotating Presidency of the Council of the European Union in 2022, Síkela chaired ministerial meetings of the Foreign Affairs Council, the Competitiveness Council (COMPET) and the Transport, Telecommunications and Energy Council, while the latter was coordinating the EU's response to disruption on the energy markets due to the War in Ukraine."
-- [Jozef Síkela](../people/jozef-sikela.md) — chair — Competitiveness Council (COMPET)
+- [[people/jozef-sikela|Jozef Síkela]] — chair — Competitiveness Council (COMPET)
   > "European level When the Czech Republic held the rotating Presidency of the Council of the European Union in 2022, Síkela chaired ministerial meetings of the Foreign Affairs Council, the Competitiveness Council (COMPET) and the Transport, Telecommunications and Energy Council, while the latter was coordinating the EU's response to disruption on the energy markets due to the War in Ukraine."
-- [Jozef Síkela](../people/jozef-sikela.md) — chair — Transport, Telecommunications and Energy Council
+- [[people/jozef-sikela|Jozef Síkela]] — chair — Transport, Telecommunications and Energy Council
   > "European level When the Czech Republic held the rotating Presidency of the Council of the European Union in 2022, Síkela chaired ministerial meetings of the Foreign Affairs Council, the Competitiveness Council (COMPET) and the Transport, Telecommunications and Energy Council, while the latter was coordinating the EU's response to disruption on the energy markets due to the War in Ukraine."
-- [Jozef Síkela](../people/jozef-sikela.md) — from_country — Czechia
+- [[people/jozef-sikela|Jozef Síkela]] — from_country — Czechia
   > "Jozef Síkela (Czech pronunciation: [ˈjozɛf ˈsiːkɛla]; born 17 June 1967) is a Czech politician and investment banker who is the European Commissioner for International Partnerships under President Urs"
-- [Jozef Síkela](../people/jozef-sikela.md) — held_portfolio — European Commissioner for International Partnerships
+- [[people/jozef-sikela|Jozef Síkela]] — held_portfolio — European Commissioner for International Partnerships
   > "In December 2024, Jozef Síkela was appointed European Commissioner for International Partnerships, responsible for the European Union's partnerships with non-EU countries, focusing on sustainable econ"

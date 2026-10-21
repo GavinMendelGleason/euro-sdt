@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Pál Schmitt](../people/pal-schmitt.md) — chair  
+- [[people/pal-schmitt|Pál Schmitt]] — chair  
   > "Schmitt chaired the Delegation to the EU– Croatia Joint Parliamentary Committee."
-  > Source: [P L Schmitt](../sources/wikipedia-p-l-schmitt.md) · grade C
+  > Source: [[sources/wikipedia-p-l-schmitt|P L Schmitt]] · grade C

@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Maciej Popowski](../people/maciej-popowski.md)  
+- [[people/maciej-popowski|Maciej Popowski]]  
   > " 03/1991 – 06/1991: Postgraduate Foreign Service Training Polish Institute for International Relations (PISM) - Warsaw, Poland"
-  > Source: [Maciej Popowski](../sources/dg_cv-maciej-popowski.md) · grade A
+  > Source: [[sources/dg_cv-maciej-popowski|Maciej Popowski]] · grade A

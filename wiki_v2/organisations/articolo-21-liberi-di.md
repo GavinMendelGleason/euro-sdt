@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [David Sassoli](../people/david-sassoli.md)  
+- [[people/david-sassoli|David Sassoli]]  
   > "&#91; 8 &#93; Sassoli was also a supporter of Articolo 21, liberi di..."
-  > Source: [David Sassoli](../sources/wikipedia-david-sassoli.md) · grade B
+  > Source: [[sources/wikipedia-david-sassoli|David Sassoli]] · grade B

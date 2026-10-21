@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Andris Piebalgs](../people/andris-piebalgs.md) — employed_by  
+- [[people/andris-piebalgs|Andris Piebalgs]] — employed_by  
   > "From 2003 to 2004, he was appointed Deputy Secretary of State for EU affairs at the Ministry of Foreign Affairs of Latvia."
-  > Source: [Andris Piebalgs](../sources/wikipedia-andris-piebalgs.md) · grade C
+  > Source: [[sources/wikipedia-andris-piebalgs|Andris Piebalgs]] · grade C

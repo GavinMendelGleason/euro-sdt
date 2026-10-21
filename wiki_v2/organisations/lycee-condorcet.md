@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Pierre Moscovici](../people/pierre-moscovici.md)  
+- [[people/pierre-moscovici|Pierre Moscovici]]  
   > "Moscovici obtained his Baccalauréat at the Lycée Condorcet in 1974, a DEA in economics and in philosophy, and he graduated from Sciences Po Paris and the École nationale d'administration, where he studied under Dominique Strauss-Kahn, who became a friend and mentor in politics."
-  > Source: [Pierre Moscovici](../sources/wikipedia-pierre-moscovici.md) · grade A
+  > Source: [[sources/wikipedia-pierre-moscovici|Pierre Moscovici]] · grade A

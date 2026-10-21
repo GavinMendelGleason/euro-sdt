@@ -20,14 +20,14 @@ Dg
 
 - European Studies  
   > " 1986: Diploma of Advanced European Studies, College of Bruges ( Law)"
-  > Source: [Kerstin Jorna](../sources/dg_cv-kerstin-jorna.md) · grade B
+  > Source: [[sources/dg_cv-kerstin-jorna|Kerstin Jorna]] · grade B
 
 - Law  
   > " 1986: Diploma of Advanced European Studies, College of Bruges ( Law)"
-  > Source: [Kerstin Jorna](../sources/dg_cv-kerstin-jorna.md) · grade B
+  > Source: [[sources/dg_cv-kerstin-jorna|Kerstin Jorna]] · grade B
 
 ## Position
 
 - Director-General → Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs  
   > " 1996 – 1998: Assistant to the Director-General – DG MARKT."
-  > Source: [Kerstin Jorna](../sources/dg_cv-kerstin-jorna.md) · grade A
+  > Source: [[sources/dg_cv-kerstin-jorna|Kerstin Jorna]] · grade A

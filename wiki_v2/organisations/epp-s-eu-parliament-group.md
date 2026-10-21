@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Dubravka Šuica](../people/dubravka-suica.md) — chair  
+- [[people/dubravka-suica|Dubravka Šuica]] — chair  
   > "In October 2012, she was elected vice-president of the EPP Women's association and in June 2019 vice-president of the EPP's EU parliament group."
-  > Source: [Dubravka Suica](../sources/wikipedia-dubravka-suica.md) · grade A
+  > Source: [[sources/wikipedia-dubravka-suica|Dubravka Suica]] · grade A

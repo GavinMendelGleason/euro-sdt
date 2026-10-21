@@ -15,5 +15,5 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (1)
 
-- [Thomas Skordas](../people/thomas-skordas.md) — educated_at — Aristotle University Of Thessaloniki, Technology School, Department Of Electrica
+- [[people/thomas-skordas|Thomas Skordas]] — educated_at — Aristotle University Of Thessaloniki, Technology School, Department Of Electrica
   > " 1979 - 1984 Advanced University Degree in Electrical Engineering - Aristotle University of Thessaloniki, Technology School, Department of Electrical Engineering, Thessaloniki, Greece"

@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Karol Karski](../people/karol-karski.md)  
+- [[people/karol-karski|Karol Karski]]  
   > "Karski has taught at the University of Warsaw, the Warsaw University of Humanities, and the Academy of Economics in Białystok."
-  > Source: [Karol Karski](../sources/wikipedia-karol-karski.md) · grade B
+  > Source: [[sources/wikipedia-karol-karski|Karol Karski]] · grade B

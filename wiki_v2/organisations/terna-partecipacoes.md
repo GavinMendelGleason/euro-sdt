@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Flavio Cattaneo](../people/flavio-cattaneo.md) — chair  
+- [[people/flavio-cattaneo|Flavio Cattaneo]] — chair  
   > "From 2007 to 2011, Cattaneo was also chairman of the Brazilian subsidiary TERNA Partecipaçoes, a private electricity grid operator."
-  > Source: [Flavio Cattaneo](../sources/wikipedia-flavio-cattaneo.md) · grade A
+  > Source: [[sources/wikipedia-flavio-cattaneo|Flavio Cattaneo]] · grade A

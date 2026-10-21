@@ -18,106 +18,106 @@ Commissioner · NLD
 
 ## Education
 
-- [Lyceum Voor Het Gooi](../organisations/lyceum-voor-het-gooi.md)  
+- [[organisations/lyceum-voor-het-gooi|Lyceum Voor Het Gooi]]  
   > "Van den Broek went to the Roman Catholic secondary school Lyceum voor het Gooi in Hilversum."
-  > Source: [Hans Van Den Broek](../sources/wikipedia-hans-van-den-broek.md) · grade A
+  > Source: [[sources/wikipedia-hans-van-den-broek|Hans Van Den Broek]] · grade A
 
-- [Utrecht University](../organisations/utrecht-university.md)  
+- [[organisations/utrecht-university|Utrecht University]]  
   > "He studied Dutch law at Utrecht University, where he received his master's degree (Master of Law) in 1965."
-  > Source: [Hans Van Den Broek](../sources/wikipedia-hans-van-den-broek.md) · grade A
+  > Source: [[sources/wikipedia-hans-van-den-broek|Hans Van Den Broek]] · grade A
 
 ## Membership
 
-- [Catholic People's Party (KVP)](../organisations/catholic-people-s-party-kvp.md) — party_member  
+- [[organisations/catholic-people-s-party-kvp|Catholic People's Party (KVP)]] — party_member  
   > "He began his career as a lawyer joining the Katholieke Volkspartij (KVP) and was member of the municipal council of Rheden between 1970 and 1974."
-  > Source: [Hans Van Den Broek](../sources/wikipedia-hans-van-den-broek.md) · grade C
+  > Source: [[sources/wikipedia-hans-van-den-broek|Hans Van Den Broek]] · grade C
 
-- [Christen-Democratisch Appèl (CDA)](../organisations/christen-democratisch-appel-cda.md) — party_member  
+- [[organisations/christen-democratisch-appel-cda|Christen-Democratisch Appèl (CDA)]] — party_member  
   > "Between 1976 and 1981 he was member of the House of Representatives, the lower house of the Dutch parliament, as representative of the KVP and later of the Christen-Democratisch Appèl (CDA)."
-  > Source: [Hans Van Den Broek](../sources/wikipedia-hans-van-den-broek.md) · grade A
+  > Source: [[sources/wikipedia-hans-van-den-broek|Hans Van Den Broek]] · grade A
 
-- [European Commission](../organisations/european-commission.md)  
+- [[organisations/european-commission|European Commission]]  
   > "On 6 January 1993 he became a member of the European Commission, once again with responsibility for foreign relations, especially the Enlargement of the European Union."
-  > Source: [Hans Van Den Broek](../sources/wikipedia-hans-van-den-broek.md) · grade A
+  > Source: [[sources/wikipedia-hans-van-den-broek|Hans Van Den Broek]] · grade A
 
-- [European Leadership Network](../organisations/european-leadership-network.md)  
+- [[organisations/european-leadership-network|European Leadership Network]]  
   > "He was a Senior Network Member at the European Leadership Network (ELN)."
-  > Source: [Hans Van Den Broek](../sources/wikipedia-hans-van-den-broek.md) · grade A
+  > Source: [[sources/wikipedia-hans-van-den-broek|Hans Van Den Broek]] · grade A
 
 - european-leadership-network-eln  
   > "He was a Senior Network Member at the European Leadership Network (ELN)."
-  > Source: [Hans Van Den Broek](../sources/wikipedia-hans-van-den-broek.md) · grade A
+  > Source: [[sources/wikipedia-hans-van-den-broek|Hans Van Den Broek]] · grade A
 
-- [House of Representatives](../organisations/house-of-representatives.md)  
+- [[organisations/house-of-representatives|House of Representatives]]  
   > "After the election of 1989 Van den Broek once again returned as a Member of the House of Representatives, taking office on 14 September 1989."
-  > Source: [Hans Van Den Broek](../sources/wikipedia-hans-van-den-broek.md) · grade A
+  > Source: [[sources/wikipedia-hans-van-den-broek|Hans Van Den Broek]] · grade A
 
-- [Katholieke Volkspartij (KVP)](../organisations/katholieke-volkspartij-kvp.md) — party_member  
+- [[organisations/katholieke-volkspartij-kvp|Katholieke Volkspartij (KVP)]] — party_member  
   > "He began his career as a lawyer joining the Katholieke Volkspartij (KVP) and was member of the municipal council of Rheden between 1970 and 1974."
-  > Source: [Hans Van Den Broek](../sources/wikipedia-hans-van-den-broek.md) · grade A
+  > Source: [[sources/wikipedia-hans-van-den-broek|Hans Van Den Broek]] · grade A
 
-- [municipal council of Rheden](../organisations/municipal-council-of-rheden.md)  
+- [[organisations/municipal-council-of-rheden|municipal council of Rheden]]  
   > "Van den Broek served on the Municipal Council of Rheden from 1 September 1970 until 21 August 1974."
-  > Source: [Hans Van Den Broek](../sources/wikipedia-hans-van-den-broek.md) · grade A
+  > Source: [[sources/wikipedia-hans-van-den-broek|Hans Van Den Broek]] · grade A
 
 ## Board / trustee
 
-- [Carnegie Foundation](../organisations/carnegie-foundation.md) — board_member  
+- [[organisations/carnegie-foundation|Carnegie Foundation]] — board_member  
   > "Van den Broek retired after spending 23 years in national politics and became active in the private sector and public sector and occupied numerous seats as a corporate director and nonprofit director on several boards of directors and supervisory boards (Institute of International Relations Clingendael, Carnegie Foundation, Radio Netherlands Worldwide and the Schiphol Group) and served as a diplomat and lobbyist for several economic delegations on behalf of the government and as an advocate and"
-  > Source: [Hans Van Den Broek](../sources/wikipedia-hans-van-den-broek.md) · grade A
+  > Source: [[sources/wikipedia-hans-van-den-broek|Hans Van Den Broek]] · grade A
 
-- [Institute of International Relations Clingendael](../organisations/institute-of-international-relations-clingendael.md) — board_member  
+- [[organisations/institute-of-international-relations-clingendael|Institute of International Relations Clingendael]] — board_member  
   > "Van den Broek was president of the Netherlands Institute of International Relations (Clingendael) and also of Radio Netherlands."
-  > Source: [Hans Van Den Broek](../sources/wikipedia-hans-van-den-broek.md) · grade A
+  > Source: [[sources/wikipedia-hans-van-den-broek|Hans Van Den Broek]] · grade A
 
-- [Radio Netherlands Worldwide](../organisations/radio-netherlands-worldwide.md) — board_member  
+- [[organisations/radio-netherlands-worldwide|Radio Netherlands Worldwide]] — board_member  
   > "Van den Broek retired after spending 23 years in national politics and became active in the private sector and public sector and occupied numerous seats as a corporate director and nonprofit director on several boards of directors and supervisory boards (Institute of International Relations Clingendael, Carnegie Foundation, Radio Netherlands Worldwide and the Schiphol Group) and served as a diplomat and lobbyist for several economic delegations on behalf of the government and as an advocate and activist for Human rights, European integration and Nuclear disarmament."
-  > Source: [Hans Van Den Broek](../sources/wikipedia-hans-van-den-broek.md) · grade A
+  > Source: [[sources/wikipedia-hans-van-den-broek|Hans Van Den Broek]] · grade A
 
-- [Schiphol Group](../organisations/schiphol-group.md) — board_member  
+- [[organisations/schiphol-group|Schiphol Group]] — board_member  
   > "Van den Broek retired after spending 23 years in national politics and became active in the private sector and public sector and occupied numerous seats as a corporate director and nonprofit director on several boards of directors and supervisory boards (Institute of International Relations Clingendael, Carnegie Foundation, Radio Netherlands Worldwide and the Schiphol Group) and served as a diplomat and lobbyist for several economic delegations on behalf of the government and as an advocate and activist for Human rights, European integration and Nuclear disarmament."
-  > Source: [Hans Van Den Broek](../sources/wikipedia-hans-van-den-broek.md) · grade A
+  > Source: [[sources/wikipedia-hans-van-den-broek|Hans Van Den Broek]] · grade A
 
 ## Advisory board
 
-- [Global Panel Foundation](../organisations/global-panel-foundation.md) — advisory_board  
+- [[organisations/global-panel-foundation|Global Panel Foundation]] — advisory_board  
   > "He was a Member of the Board of Advisors of the Global Panel Foundation, a NGO that works behind the scenes in crisis areas around the world."
-  > Source: [Hans Van Den Broek](../sources/wikipedia-hans-van-den-broek.md) · grade C
+  > Source: [[sources/wikipedia-hans-van-den-broek|Hans Van Den Broek]] · grade C
 
 ## Chair / president
 
-- [Netherlands Institute of International Relations (Clingendael)](../organisations/netherlands-institute-of-international-relations-clingendael.md) — chair  
+- [[organisations/netherlands-institute-of-international-relations-clingendael|Netherlands Institute of International Relations (Clingendael)]] — chair  
   > "Van den Broek was president of the Netherlands Institute of International Relations (Clingendael) and also of Radio Netherlands."
-  > Source: [Hans Van Den Broek](../sources/wikipedia-hans-van-den-broek.md) · grade A
+  > Source: [[sources/wikipedia-hans-van-den-broek|Hans Van Den Broek]] · grade A
 
-- [Radio Netherlands](../organisations/radio-netherlands.md) — chair  
+- [[organisations/radio-netherlands|Radio Netherlands]] — chair  
   > "Van den Broek was president of the Netherlands Institute of International Relations (Clingendael) and also of Radio Netherlands."
-  > Source: [Hans Van Den Broek](../sources/wikipedia-hans-van-den-broek.md) · grade A
+  > Source: [[sources/wikipedia-hans-van-den-broek|Hans Van Den Broek]] · grade A
 
 ## Affiliation
 
-- [Global Zero](../organisations/global-zero.md)  
+- [[organisations/global-zero|Global Zero]]  
   > "He was a signatory of Global Zero, a non-profit international initiative for the elimination of all nuclear weapons worldwide."
-  > Source: [Hans Van Den Broek](../sources/wikipedia-hans-van-den-broek.md) · grade B
+  > Source: [[sources/wikipedia-hans-van-den-broek|Hans Van Den Broek]] · grade B
 
 ## Employment
 
-- [Blom & Dutilh](../organisations/blom-dutilh.md) — employed_by  
+- [[organisations/blom-dutilh|Blom & Dutilh]] — employed_by  
   > "Van den Broek worked as a lawyer and prosecutor at Blom & Dutilh in Rotterdam from August 1965 until May 1968 and as a corporate director at the synthetic fiber company ENKA in Arnhem from May 1968 until 12 October 1976."
-  > Source: [Hans Van Den Broek](../sources/wikipedia-hans-van-den-broek.md) · grade A
+  > Source: [[sources/wikipedia-hans-van-den-broek|Hans Van Den Broek]] · grade A
 
-- [Cabinet Lubbers III](../organisations/cabinet-lubbers-iii.md) — employed_by  
+- [[organisations/cabinet-lubbers-iii|Cabinet Lubbers III]] — employed_by  
   > "Following the cabinet formation of 1989 Van den Broek remained as Minister of Foreign Affairs in the Cabinet Lubbers III, taking office on 7 November 1989."
-  > Source: [Hans Van Den Broek](../sources/wikipedia-hans-van-den-broek.md) · grade C
+  > Source: [[sources/wikipedia-hans-van-den-broek|Hans Van Den Broek]] · grade C
 
-- [ENKA](../organisations/enka.md) — employed_by  
+- [[organisations/enka|ENKA]] — employed_by  
   > "Van den Broek worked as a lawyer and prosecutor at Blom & Dutilh in Rotterdam from August 1965 until May 1968 and as a corporate director at the synthetic fiber company ENKA in Arnhem from May 1968 until 12 October 1976."
-  > Source: [Hans Van Den Broek](../sources/wikipedia-hans-van-den-broek.md) · grade A
+  > Source: [[sources/wikipedia-hans-van-den-broek|Hans Van Den Broek]] · grade A
 
-- [Santer Commission](../commissions/santer-commission.md) — employed_by  
+- [[commissions/santer-commission|Santer Commission]] — employed_by  
   > "He kept the portfolios of External Relations and Enlargement and got the additional portfolio of Neighbourhood Policy in the Santer Commission, serving from 23 January 1995 until 16 September 1999."
-  > Source: [Hans Van Den Broek](../sources/wikipedia-hans-van-den-broek.md) · grade C
+  > Source: [[sources/wikipedia-hans-van-den-broek|Hans Van Den Broek]] · grade C
 
-- [Third Delors Commission](../organisations/third-delors-commission.md) — employed_by  
+- [[organisations/third-delors-commission|Third Delors Commission]] — employed_by  
   > "Van den Broek was giving the heavy portfolios of External Relations and Enlargement in the Third Delors Commission, he resigned as a Minister of Foreign Affairs on 3 January 1993 and was installed as European Commissioner, taking office on 6 January 1993."
-  > Source: [Hans Van Den Broek](../sources/wikipedia-hans-van-den-broek.md) · grade C
+  > Source: [[sources/wikipedia-hans-van-den-broek|Hans Van Den Broek]] · grade C

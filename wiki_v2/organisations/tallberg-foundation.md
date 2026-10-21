@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Anders Wijkman](../people/anders-wijkman.md) — chair  
+- [[people/anders-wijkman|Anders Wijkman]] — chair  
   > "Anders Wijkman is Co-President of Club of Rome and the Tällberg Foundation, and is a member of the Royal Swedish Academy of Sciences ."
-  > Source: [Anders Wijkman](../sources/wikipedia-anders-wijkman.md) · grade A
+  > Source: [[sources/wikipedia-anders-wijkman|Anders Wijkman]] · grade A

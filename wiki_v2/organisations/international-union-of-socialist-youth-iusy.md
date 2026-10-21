@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Karmenu Vella](../people/karmenu-vella.md)  
+- [[people/karmenu-vella|Karmenu Vella]]  
   > "He started with the Labour Party in 1968 as a member of the National Executive Committee of the Labour Youth Movement and later a member of the International Union of Socialist Youth (IUSY)."
-  > Source: [Karmenu Vella](../sources/wikipedia-karmenu-vella.md) · grade A
+  > Source: [[sources/wikipedia-karmenu-vella|Karmenu Vella]] · grade A

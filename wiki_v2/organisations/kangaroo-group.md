@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Rainer Wieland](../people/rainer-wieland.md)  
+- [[people/rainer-wieland|Rainer Wieland]]  
   > "&#91; 8 &#93; He was also a member of the Kangaroo Group."
-  > Source: [Rainer Wieland](../sources/wikipedia-rainer-wieland.md) · grade A
+  > Source: [[sources/wikipedia-rainer-wieland|Rainer Wieland]] · grade A

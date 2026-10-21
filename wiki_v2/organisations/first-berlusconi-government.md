@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Francesco Speroni](../people/francesco-speroni.md)  
+- [[people/francesco-speroni|Francesco Speroni]]  
   > "He served as Minister for Institutional Reforms in first Berlusconi government , from 1994 to 1995."
-  > Source: [Francesco Speroni](../sources/wikipedia-francesco-speroni.md) · grade B
+  > Source: [[sources/wikipedia-francesco-speroni|Francesco Speroni]] · grade B

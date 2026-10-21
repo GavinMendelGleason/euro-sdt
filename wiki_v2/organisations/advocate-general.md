@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Maciej Szpunar](../people/maciej-szpunar.md)  
+- [[people/maciej-szpunar|Maciej Szpunar]]  
   > "First Advocate General"
-  > Source: [Maciej Szpunar](../sources/cjeu-maciej-szpunar.md) · grade C
+  > Source: [[sources/cjeu-maciej-szpunar|Maciej Szpunar]] · grade C

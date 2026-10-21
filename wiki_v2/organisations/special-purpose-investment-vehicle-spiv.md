@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Jacques Santer](../people/jacques-santer.md) — chair  
+- [[people/jacques-santer|Jacques Santer]] — chair  
   > "In January 2012, Santer was appointed to head the board of the Special Purpose Investment Vehicle (SPIV), which was designed to boost the firepower of the European Financial Stability Facility, the eurozone rescue fund."
-  > Source: [Jacques Santer](../sources/wikipedia-jacques-santer.md) · grade C
+  > Source: [[sources/wikipedia-jacques-santer|Jacques Santer]] · grade C

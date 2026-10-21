@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Alejo Vidal-Quadras](../people/alejo-vidal-quadras.md)  
+- [[people/alejo-vidal-quadras|Alejo Vidal-Quadras]]  
   > "&#91; 2 &#93; After 2014, Vidal-Quadras operated pro bono the International Committee in Search of Justice (ISJ), a Brussels-based lobby supporting the NCRI against the Iranian government."
-  > Source: [Alejo Vidal Quadras Roca](../sources/wikipedia-alejo-vidal-quadras-roca.md) · grade C
+  > Source: [[sources/wikipedia-alejo-vidal-quadras-roca|Alejo Vidal Quadras Roca]] · grade C

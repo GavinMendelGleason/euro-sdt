@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Sari Essayah](../people/sari-essayah.md)  
+- [[people/sari-essayah|Sari Essayah]]  
   > "Essayah holds an M.Sc (Econ) in business administration and accounting from the University of Vaasa ."
-  > Source: [Sari Essayah](../sources/wikipedia-sari-essayah.md) · grade C
+  > Source: [[sources/wikipedia-sari-essayah|Sari Essayah]] · grade C

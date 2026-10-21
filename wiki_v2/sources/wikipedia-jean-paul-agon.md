@@ -16,7 +16,7 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (2)
 
-- [Jean-Paul Agon](../people/jean-paul-agon.md) — educated_at — Hec Paris
+- [[people/jean-paul-agon|Jean-Paul Agon]] — educated_at — Hec Paris
   > "&#91; 2 &#93; He graduated from HEC Paris in 1978."
-- [Jean-Paul Agon](../people/jean-paul-agon.md) — educated_at — HEC International Business School
+- [[people/jean-paul-agon|Jean-Paul Agon]] — educated_at — HEC International Business School
   > "Career [ edit ] Early career [ edit ] Agon joined L’Oréal in 1978 after completing his studies at the HEC International Business School."

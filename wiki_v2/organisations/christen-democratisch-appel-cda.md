@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Hans van den Broek](../people/hans-van-den-broek.md) — party_member  
+- [[people/hans-van-den-broek|Hans van den Broek]] — party_member  
   > "Between 1976 and 1981 he was member of the House of Representatives, the lower house of the Dutch parliament, as representative of the KVP and later of the Christen-Democratisch Appèl (CDA)."
-  > Source: [Hans Van Den Broek](../sources/wikipedia-hans-van-den-broek.md) · grade A
+  > Source: [[sources/wikipedia-hans-van-den-broek|Hans Van Den Broek]] · grade A

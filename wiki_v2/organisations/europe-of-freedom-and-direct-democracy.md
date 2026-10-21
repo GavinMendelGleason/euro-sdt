@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Nigel Farage](../people/nigel-farage.md) — chair  
+- [[people/nigel-farage|Nigel Farage]] — chair  
   > "In 2004 he became the president of Europe of Freedom and Direct Democracy."
-  > Source: [Nigel Farage](../sources/wikipedia-nigel-farage.md) · grade A
+  > Source: [[sources/wikipedia-nigel-farage|Nigel Farage]] · grade A

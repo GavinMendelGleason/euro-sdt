@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Hans van Baalen](../people/hans-van-baalen.md)  
+- [[people/hans-van-baalen|Hans van Baalen]]  
   > "He was previously a member of the delegations with Afghanistan (2010-2014), the United States (2010-2014) and Japan (2009-2014)."
-  > Source: [Hans Van Baalen](../sources/wikipedia-hans-van-baalen.md) · grade A
+  > Source: [[sources/wikipedia-hans-van-baalen|Hans Van Baalen]] · grade A

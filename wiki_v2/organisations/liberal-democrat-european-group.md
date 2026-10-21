@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Catherine Bearder](../people/catherine-bearder.md) — chair  
+- [[people/catherine-bearder|Catherine Bearder]] — chair  
   > "&#91; 4 &#93; She is also President of the Liberal Democrat European Group (LDEG)."
-  > Source: [Catherine Bearder](../sources/wikipedia-catherine-bearder.md) · grade A
+  > Source: [[sources/wikipedia-catherine-bearder|Catherine Bearder]] · grade A

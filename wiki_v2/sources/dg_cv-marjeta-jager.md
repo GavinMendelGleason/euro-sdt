@@ -15,5 +15,5 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (1)
 
-- [Marjeta Jager](../people/marjeta-jager.md) — educated_at — University Of Ljubljana - Faculty Of Law
+- [[people/marjeta-jager|Marjeta Jager]] — educated_at — University Of Ljubljana - Faculty Of Law
   > "Slovenian Academic qualifications:  1/10/1986 – 30/06/1991: Bachelor of Law + Bar exam (International Law) - University of Ljubljana - Faculty of Law"

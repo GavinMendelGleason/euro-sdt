@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Rainer Wieland](../people/rainer-wieland.md) — chair  
+- [[people/rainer-wieland|Rainer Wieland]] — chair  
   > "He has been chairman of the CDU Ludwigsburg since 1993."
-  > Source: [Rainer Wieland](../sources/wikipedia-rainer-wieland.md) · grade A
+  > Source: [[sources/wikipedia-rainer-wieland|Rainer Wieland]] · grade A

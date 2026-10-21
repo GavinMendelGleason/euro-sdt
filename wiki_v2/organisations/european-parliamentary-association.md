@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Joseph Daul](../people/joseph-daul.md) — chair  
+- [[people/joseph-daul|Joseph Daul]] — chair  
   > "He is also chairman of the European Parliamentary Association (EPA)."
-  > Source: [Joseph Daul](../sources/wikipedia-joseph-daul.md) · grade A
+  > Source: [[sources/wikipedia-joseph-daul|Joseph Daul]] · grade A

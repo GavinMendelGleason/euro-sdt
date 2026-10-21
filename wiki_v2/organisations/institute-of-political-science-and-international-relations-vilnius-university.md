@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Kestutis Sadauskas](../people/kestutis-sadauskas.md)  
+- [[people/kestutis-sadauskas|Kestutis Sadauskas]]  
   > "Lithuanian Academic qualifications  1992 – 1994: Master Degree in International Relations – Institute of Political Science and International Relations, Vilnius University – Vilnius, Lithuania"
-  > Source: [Kestutis Sadauskas](../sources/dg_cv-kestutis-sadauskas.md) · grade A
+  > Source: [[sources/dg_cv-kestutis-sadauskas|Kestutis Sadauskas]] · grade A

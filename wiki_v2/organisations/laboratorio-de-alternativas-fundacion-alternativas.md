@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Joaquín Almunia](../people/joaquin-almunia.md) — board_member; founder  
+- [[people/joaquin-almunia|Joaquín Almunia]] — board_member; founder  
   > "In 2002 he founded and served as director of a progressive think tank called Laboratorio de Alternativas (Fundación Alternativas)."
-  > Source: [Joaquin Almunia](../sources/wikipedia-joaquin-almunia.md) · grade A
+  > Source: [[sources/wikipedia-joaquin-almunia|Joaquin Almunia]] · grade A

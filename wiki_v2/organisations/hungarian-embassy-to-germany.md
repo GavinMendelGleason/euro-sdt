@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Szabolcs Fazakas](../people/szabolcs-fazakas.md)  
+- [[people/szabolcs-fazakas|Szabolcs Fazakas]]  
   > "After that, he briefly served as Hungarian Ambassador to Germany from 30 August to 29 October 1996."
-  > Source: [Szabolcs Fazakas](../sources/wikipedia-szabolcs-fazakas.md) · grade C
+  > Source: [[sources/wikipedia-szabolcs-fazakas|Szabolcs Fazakas]] · grade C

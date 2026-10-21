@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Torben Lund](../people/torben-lund.md)  
+- [[people/torben-lund|Torben Lund]]  
   > "&#91; 3 &#93; He served as Health Minister in the Poul Nyrup Rasmussen I Cabinet from 1993 to 1994."
-  > Source: [Torben Lund](../sources/wikipedia-torben-lund.md) · grade A
+  > Source: [[sources/wikipedia-torben-lund|Torben Lund]] · grade A

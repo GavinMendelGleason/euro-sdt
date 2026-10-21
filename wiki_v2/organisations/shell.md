@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Wopke Hoekstra](../people/wopke-hoekstra.md) — employed_by  
+- [[people/wopke-hoekstra|Wopke Hoekstra]] — employed_by  
   > "Until 2006, he worked for Shell in Berlin, Hamburg and Rotterdam."
-  > Source: [Wopke Hoekstra](../sources/wikipedia-wopke-hoekstra.md) · grade A
+  > Source: [[sources/wikipedia-wopke-hoekstra|Wopke Hoekstra]] · grade A

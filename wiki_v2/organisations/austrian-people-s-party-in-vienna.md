@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Johannes Hahn](../people/johannes-hahn.md) — chair  
+- [[people/johannes-hahn|Johannes Hahn]] — chair  
   > "Since 2004 Hahn has been Chairman of the Austrian People's Party in Vienna and, as such, was the party frontrunner in the October 2005 regional elections in which an increase in votes for the ÖVP (and a slight loss in votes for the FPÖ) made the ÖVP the second strongest party in the regional parliament, with 18 seats."
-  > Source: [Johannes Hahn](../sources/wikipedia-johannes-hahn.md) · grade A
+  > Source: [[sources/wikipedia-johannes-hahn|Johannes Hahn]] · grade A

@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Libor Rouček](../people/libor-roucek.md) — chair  
+- [[people/libor-roucek|Libor Rouček]] — chair  
   > "Other activities [ edit ] Since 2015, Rouček has been co-chair of the Czech-German Discussion Forum to promote dialogue between Czechs and Germans."
-  > Source: [Libor Rouek](../sources/wikipedia-libor-rouek.md) · grade C
+  > Source: [[sources/wikipedia-libor-rouek|Libor Rouek]] · grade C

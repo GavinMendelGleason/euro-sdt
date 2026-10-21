@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Cecilia Malmström](../people/cecilia-malmstrom.md)  
+- [[people/cecilia-malmstrom|Cecilia Malmström]]  
   > "1999–2006: Member of the ELDR/ALDE Group Bureau"
-  > Source: [Cecilia Malmstrom](../sources/wikipedia-cecilia-malmstrom.md) · grade A
+  > Source: [[sources/wikipedia-cecilia-malmstrom|Cecilia Malmstrom]] · grade A

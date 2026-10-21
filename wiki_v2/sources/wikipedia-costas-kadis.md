@@ -16,9 +16,9 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (3)
 
-- [Costas Kadis](../people/costas-kadis.md) — affiliated_with — Research Promotion Foundation of Cyprus
+- [[people/costas-kadis|Costas Kadis]] — affiliated_with — Research Promotion Foundation of Cyprus
   > "Career Kadis started his career in academia at the University of Athens and then moved back to his home country to work at the Research Promotion Foundation of Cyprus."
-- [Costas Kadis](../people/costas-kadis.md) — from_country — Cyprus
+- [[people/costas-kadis|Costas Kadis]] — from_country — Cyprus
   > "Career Kadis started his career in academia at the University of Athens and then moved back to his home country to work at the Research Promotion Foundation of Cyprus."
-- [Costas Kadis](../people/costas-kadis.md) — held_portfolio — European Commissioner for Fisheries and Oceans
+- [[people/costas-kadis|Costas Kadis]] — held_portfolio — European Commissioner for Fisheries and Oceans
   > "Costas Kadis (Greek: Κώστας Καδής, pronounced [ˈkostas kaˈðis]; born 30 August 1967) is a Cypriot biologist and politician who has been serving as the European Commissioner for Fisheries and Oceans since December 2024."

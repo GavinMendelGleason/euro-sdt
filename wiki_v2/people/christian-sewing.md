@@ -18,12 +18,12 @@ Corporate Elite
 
 ## Education
 
-- [Frankfurt School of Finance & Management](../organisations/frankfurt-school-of-finance-management.md)  
+- [[organisations/frankfurt-school-of-finance-management|Frankfurt School of Finance & Management]]  
   > "He then studied business administration at the Frankfurt School of Finance & Management, in Frankfurt."
-  > Source: [Corp Christian Sewing](../sources/wikipedia-corp-christian-sewing.md) · grade A
+  > Source: [[sources/wikipedia-corp-christian-sewing|Corp Christian Sewing]] · grade A
 
 ## Employment
 
-- [Deutsche Bank](../organisations/deutsche-bank.md) — employed_by  
+- [[organisations/deutsche-bank|Deutsche Bank]] — employed_by  
   > "Christian Sewing (German pronunciation: ['krɪsti̯an 'ze:vɪŋ]; born 24 April 1970 in Bünde) is a German banker who is the chief executive officer (CEO) of Deutsche Bank."
-  > Source: [Christian Sewing](../sources/wikipedia-christian-sewing.md) · grade A
+  > Source: [[sources/wikipedia-christian-sewing|Christian Sewing]] · grade A

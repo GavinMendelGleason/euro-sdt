@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Ulrike Lunacek](../people/ulrike-lunacek.md)  
+- [[people/ulrike-lunacek|Ulrike Lunacek]]  
   > "She is a member of the Austrian Green party The Greens – The Green Alternative, part of the European Green Party."
-  > Source: [Ulrike Lunacek](../sources/wikipedia-ulrike-lunacek.md) · grade A
+  > Source: [[sources/wikipedia-ulrike-lunacek|Ulrike Lunacek]] · grade A

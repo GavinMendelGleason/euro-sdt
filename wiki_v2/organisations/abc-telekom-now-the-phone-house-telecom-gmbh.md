@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [René Obermann](../people/rene-obermann.md) — founder  
+- [[people/rene-obermann|René Obermann]] — founder  
   > "Career [ edit ] Also in 1986, Obermann founded his own company ABC Telekom (now The Phone House Telecom GmbH ), located in Münster, Germany."
-  > Source: [Ren Obermann](../sources/wikipedia-ren-obermann.md) · grade C
+  > Source: [[sources/wikipedia-ren-obermann|Ren Obermann]] · grade C

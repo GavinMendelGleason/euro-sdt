@@ -15,5 +15,5 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (1)
 
-- [Philippe Van Damme](../people/philippe-van-damme.md) — educated_at — University of Ghent
+- [[people/philippe-van-damme|Philippe Van Damme]] — educated_at — University of Ghent
   > "Industrial Management, Vlerick Business School – Ghent, Belgium ➢ 1993 M.Sc."

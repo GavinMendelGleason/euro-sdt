@@ -15,5 +15,5 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (1)
 
-- [Elisa Ferreira](../people/elisa-ferreira.md) — member — ACP-EU Joint Parliamentary Assembly
+- [[people/elisa-ferreira|Elisa Ferreira]] — member — ACP-EU Joint Parliamentary Assembly
   > "From 2004 to 2014, Ferreira was a member of the parliament's delegation to the ACP–EU Joint Parliamentary Assembly."

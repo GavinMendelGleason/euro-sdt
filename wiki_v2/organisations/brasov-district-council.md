@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Roxana Mînzatu](../people/roxana-minzatu.md)  
+- [[people/roxana-minzatu|Roxana Mînzatu]]  
   > "She was a member of the Brasov district council (2004–2008, 2011–2012, 2016)."
-  > Source: [Roxana Minzatu](../sources/wikipedia-roxana-minzatu.md) · grade A
+  > Source: [[sources/wikipedia-roxana-minzatu|Roxana Minzatu]] · grade A

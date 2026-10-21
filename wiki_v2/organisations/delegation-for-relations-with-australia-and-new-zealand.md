@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Mairead McGuinness](../people/mairead-mcguinness.md)  
+- [[people/mairead-mcguinness|Mairead McGuinness]]  
   > "During her time in parliament, McGuinness served on several European Parliament committees, including the Committee on Agriculture and Rural Development and the delegation for relations with Australia and New Zealand."
-  > Source: [Mairead Mcguinness](../sources/wikipedia-mairead-mcguinness.md) · grade B
+  > Source: [[sources/wikipedia-mairead-mcguinness|Mairead Mcguinness]] · grade B

@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Flavio Cattaneo](../people/flavio-cattaneo.md) — founder  
+- [[people/flavio-cattaneo|Flavio Cattaneo]] — founder  
   > "&#91; 14 &#93; On 27 April 2021, Itabus was launched, a private long-distance bus transport company of which Flavio Cattaneo is founder and majority shareholder."
-  > Source: [Flavio Cattaneo](../sources/wikipedia-flavio-cattaneo.md) · grade A
+  > Source: [[sources/wikipedia-flavio-cattaneo|Flavio Cattaneo]] · grade A

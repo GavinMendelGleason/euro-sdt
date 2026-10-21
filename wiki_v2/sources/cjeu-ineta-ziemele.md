@@ -15,5 +15,5 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (1)
 
-- [Ineta Ziemele](../people/ineta-ziemele.md) — educated_at — Aarhus University
+- [[people/ineta-ziemele|Ineta Ziemele]] — educated_at — Aarhus University
   > "Born in 1970 in Jelgava (Latvia), Ineta Ziemele obtained a law degree from the Latvijas Universitāte (University of Latvia) in 1993, which she supplemented that year with postgraduate studies in the American legal system, the law and politics of the European Communities and political science at the Aarhus Universitet (Aarhus University, Denmark)."

@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Vytenis Andriukaitis](../people/vytenis-andriukaitis.md)  
+- [[people/vytenis-andriukaitis|Vytenis Andriukaitis]]  
   > "After excelling at school, he enrolled at Kaunas Medical Institute, graduating in 1975."
-  > Source: [Vytenis Andriukaitis](../sources/wikipedia-vytenis-andriukaitis.md) · grade A
+  > Source: [[sources/wikipedia-vytenis-andriukaitis|Vytenis Andriukaitis]] · grade A

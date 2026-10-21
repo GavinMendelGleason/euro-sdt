@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Chris Patten](../people/chris-patten.md) — employed_by  
+- [[people/chris-patten|Chris Patten]] — employed_by  
   > "He worked for the Conservative Party from 1966, first as desk officer and then director (from 1974 to 1979) of the Conservative Research Department."
-  > Source: [Chris Patten](../sources/wikipedia-chris-patten.md) · grade A
+  > Source: [[sources/wikipedia-chris-patten|Chris Patten]] · grade A

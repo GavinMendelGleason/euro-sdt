@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Stavros Lambrinidis](../people/stavros-lambrinidis.md) — chair  
+- [[people/stavros-lambrinidis|Stavros Lambrinidis]] — chair  
   > "Candidate of the Year 2006 Former President of the District of Columbia Bar Association's Human Rights Committee Board Member of the American Bar Association's Trade Committee Editor of the A.B.A."
-  > Source: [Stavros Lambrinidis](../sources/wikipedia-stavros-lambrinidis.md) · grade A
+  > Source: [[sources/wikipedia-stavros-lambrinidis|Stavros Lambrinidis]] · grade A

@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Karel De Gucht](../people/karel-de-gucht.md) — chair  
+- [[people/karel-de-gucht|Karel De Gucht]] — chair  
   > "He was Chairman-in-Office of the OSCE in 2006."
-  > Source: [Karel De Gucht](../sources/wikipedia-karel-de-gucht.md) · grade A
+  > Source: [[sources/wikipedia-karel-de-gucht|Karel De Gucht]] · grade A

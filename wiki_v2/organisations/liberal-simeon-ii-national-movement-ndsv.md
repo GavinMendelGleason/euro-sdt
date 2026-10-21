@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Meglena Kuneva](../people/meglena-kuneva.md) — founder  
+- [[people/meglena-kuneva|Meglena Kuneva]] — founder  
   > "In June 2001 Kuneva was elected a deputy (Member of Bulgarian Parliament) as a founding member of the Liberal Simeon II National Movement (NDSV) party."
-  > Source: [Meglena Kuneva](../sources/wikipedia-meglena-kuneva.md) · grade C
+  > Source: [[sources/wikipedia-meglena-kuneva|Meglena Kuneva]] · grade C

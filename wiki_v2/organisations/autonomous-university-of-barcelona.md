@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Heribert Barrera i Costa](../people/heribert-barrera-i-costa.md)  
+- [[people/heribert-barrera-i-costa|Heribert Barrera i Costa]]  
   > "&#91; 15 &#93; He returned to Catalonia in 1968 to work as a chemistry professor at the Autonomous University of Barcelona , &#91; 4 &#93; and in 1969 returned to the United States to work at an American engineering firm."
-  > Source: [Heribert Barrera](../sources/wikipedia-heribert-barrera.md) · grade C
+  > Source: [[sources/wikipedia-heribert-barrera|Heribert Barrera]] · grade C

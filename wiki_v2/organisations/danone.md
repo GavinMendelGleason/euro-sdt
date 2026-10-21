@@ -15,9 +15,9 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Gilles Schnepp](../people/gilles-schnepp.md)  
+- [[people/gilles-schnepp|Gilles Schnepp]]  
   > "In March 2021, he was appointed chairman of Danone's board of directors."
-  > Source: [Corp Gilles Schnepp](../sources/wikipedia-corp-gilles-schnepp.md) · grade A
-- [Pascal Lamy](../people/pascal-lamy.md)  
+  > Source: [[sources/wikipedia-corp-gilles-schnepp|Corp Gilles Schnepp]] · grade A
+- [[people/pascal-lamy|Pascal Lamy]]  
   > "Danone, Member of the Mission Committee (since 2020)"
-  > Source: [Pascal Lamy](../sources/wikipedia-pascal-lamy.md) · grade A
+  > Source: [[sources/wikipedia-pascal-lamy|Pascal Lamy]] · grade A

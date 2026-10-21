@@ -18,12 +18,12 @@ Dg
 
 ## Education
 
-- [Institut D'Études Politiques](../organisations/institut-d-etudes-politiques.md)  
+- [[organisations/institut-d-etudes-politiques|Institut D'Études Politiques]]  
   > " 1988-1991 - Institut d'Études Politiques de Paris"
-  > Source: [Denis Redonnet](../sources/dg_cv-denis-redonnet.md) · grade B
+  > Source: [[sources/dg_cv-denis-redonnet|Denis Redonnet]] · grade B
 
 ## Position
 
 - Deputy Director-General → Directorate-General for Trade and Economic Security  
   > "Professional experience in the European Institutions  Since 1 August 2020: Deputy Director-General – Chief Trade Enforcement Officer (in charge of Directorates F and G) - Directorate-General TRADE"
-  > Source: [Denis Redonnet](../sources/dg_cv-denis-redonnet.md) · grade A
+  > Source: [[sources/dg_cv-denis-redonnet|Denis Redonnet]] · grade A

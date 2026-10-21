@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Nicolas Hieronimus](../people/nicolas-hieronimus.md) — chair  
+- [[people/nicolas-hieronimus|Nicolas Hieronimus]] — chair  
   > "&#91; 11 &#93; In January 2011, he was named President of L’Oréal Luxe, which he helped to transform by upgrading and modernizing its major brands, and by focusing on consumer experience, service and retail."
-  > Source: [Nicolas Hieronimus](../sources/wikipedia-nicolas-hieronimus.md) · grade A
+  > Source: [[sources/wikipedia-nicolas-hieronimus|Nicolas Hieronimus]] · grade A

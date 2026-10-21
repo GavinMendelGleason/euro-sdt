@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Anita Gradin](../people/anita-gradin.md)  
+- [[people/anita-gradin|Anita Gradin]]  
   > "Gradin graduated in 1950, studied at the Swedish School of 1953, at the 1954 British School of Economics, at the Nordic Folk High School in Geneva in 1958, and became a socialist in Stockholm in 1960."
-  > Source: [Anita Gradin](../sources/wikipedia-anita-gradin.md) · grade A
+  > Source: [[sources/wikipedia-anita-gradin|Anita Gradin]] · grade A

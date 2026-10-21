@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Carlo Tognoli](../people/carlo-tognoli.md) — board_member  
+- [[people/carlo-tognoli|Carlo Tognoli]] — board_member  
   > "From 1981 to 1992, Tognoli was a journalist and director of the monthly newspaper Critica Sociale ."
-  > Source: [Carlo Tognoli](../sources/wikipedia-carlo-tognoli.md) · grade A
+  > Source: [[sources/wikipedia-carlo-tognoli|Carlo Tognoli]] · grade A

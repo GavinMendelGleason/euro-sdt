@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Stavros Dimas](../people/stavros-dimas.md)  
+- [[people/stavros-dimas|Stavros Dimas]]  
   > "In 1975 he returned to Greece to take up the post of deputy governor of the Hellenic Industrial Development Bank (ETVA), while also being a member of the committee preparing Greek accession to the EEC."
-  > Source: [Stavros Dimas](../sources/wikipedia-stavros-dimas.md) · grade A
+  > Source: [[sources/wikipedia-stavros-dimas|Stavros Dimas]] · grade A

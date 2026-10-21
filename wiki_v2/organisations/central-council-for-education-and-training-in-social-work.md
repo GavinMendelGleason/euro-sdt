@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Catherine Ashton](../people/catherine-ashton.md) — employed_by  
+- [[people/catherine-ashton|Catherine Ashton]] — employed_by  
   > "As of 1983 she worked for the Central Council for Education and Training in Social Work."
-  > Source: [Catherine Ashton](../sources/wikipedia-catherine-ashton.md) · grade A
+  > Source: [[sources/wikipedia-catherine-ashton|Catherine Ashton]] · grade A

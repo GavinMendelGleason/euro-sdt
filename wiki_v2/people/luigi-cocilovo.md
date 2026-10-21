@@ -18,10 +18,10 @@ Mep
 
 ## Membership
 
-- [Alliance of Liberals and Democrats for Europe Group](../organisations/alliance-of-liberals-and-democrats-for-europe-group.md)  
+- [[organisations/alliance-of-liberals-and-democrats-for-europe-group|Alliance of Liberals and Democrats for Europe Group]]  
   > "He was elected on the Olive Tree ticket and sits with the Alliance of Liberals and Democrats for Europe group."
-  > Source: [Luigi Cocilovo](../sources/wikipedia-luigi-cocilovo.md) · grade B
+  > Source: [[sources/wikipedia-luigi-cocilovo|Luigi Cocilovo]] · grade B
 
-- [Olive Tree](../organisations/olive-tree.md)  
+- [[organisations/olive-tree|Olive Tree]]  
   > "He was elected on the Olive Tree ticket and sits with the Alliance of Liberals and Democrats for Europe group."
-  > Source: [Luigi Cocilovo](../sources/wikipedia-luigi-cocilovo.md) · grade B
+  > Source: [[sources/wikipedia-luigi-cocilovo|Luigi Cocilovo]] · grade B

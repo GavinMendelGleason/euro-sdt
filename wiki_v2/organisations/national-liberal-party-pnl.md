@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Adina-Ioana Vălean](../people/adina-ioana-valean.md) — party_member  
+- [[people/adina-ioana-valean|Adina-Ioana Vălean]] — party_member  
   > "A member of the National Liberal Party (PNL), and a member of the European Peoples Party , Vălean was elected to the Chamber of Deputies on the Justice and Truth list for Călărași County (during the 2004 elections )."
-  > Source: [Adina Ioana Vălean](../sources/wikipedia-adina-ioana-vălean.md) · grade A
+  > Source: [[sources/wikipedia-adina-ioana-vălean|Adina Ioana Vălean]] · grade A

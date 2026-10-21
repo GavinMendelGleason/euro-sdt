@@ -20,46 +20,46 @@ Commissioner · PRT
 
 - European Commissioner for Financial Services and the Savings and Investments Union  
   > "Maria Luís Casanova Morgado Dias de Albuquerque (European Portuguese pronunciation: [mɐˈɾi.ɐ luˈiz alβuˈkɛɾkɨ]; born 16 September 1967) is a Portuguese politician who is the European Commissioner for"
-  > Source: [Maria Luis Albuquerque](../sources/wikipedia-maria-luis-albuquerque.md) · grade A
+  > Source: [[sources/wikipedia-maria-luis-albuquerque|Maria Luis Albuquerque]] · grade A
 
 ## Education
 
-- [Iseg, Technical University Of Lisbon](../organisations/iseg-technical-university-of-lisbon.md)  
+- [[organisations/iseg-technical-university-of-lisbon|Iseg, Technical University Of Lisbon]]  
   > "She graduated in economics in 1991 from Universidade Lusíada, in Lisbon, and holds a Master's degree (1997) in Monetary and Financial Economics from ISEG, Technical University of Lisbon."
-  > Source: [Maria Luis Albuquerque](../sources/wikipedia-maria-luis-albuquerque.md) · grade A
+  > Source: [[sources/wikipedia-maria-luis-albuquerque|Maria Luis Albuquerque]] · grade A
 
-- [Universidade Lusíada](../organisations/universidade-lusiada.md)  
+- [[organisations/universidade-lusiada|Universidade Lusíada]]  
   > "She graduated in economics in 1991 from Universidade Lusíada, in Lisbon, and holds a Master's degree (1997) in Monetary and Financial Economics from ISEG, Technical University of Lisbon."
-  > Source: [Maria Luis Albuquerque](../sources/wikipedia-maria-luis-albuquerque.md) · grade A
+  > Source: [[sources/wikipedia-maria-luis-albuquerque|Maria Luis Albuquerque]] · grade A
 
 ## Board / trustee
 
-- [African Development Bank](../organisations/african-development-bank.md) — board_member  
+- [[organisations/african-development-bank|African Development Bank]] — board_member  
   > "African Development Bank, ex-officio member of the board of governors (2013–2015)"
-  > Source: [Maria Luis Albuquerque](../sources/wikipedia-maria-luis-albuquerque.md) · grade A
+  > Source: [[sources/wikipedia-maria-luis-albuquerque|Maria Luis Albuquerque]] · grade A
 
-- [Arrow Global](../organisations/arrow-global.md) — board_member  
+- [[organisations/arrow-global|Arrow Global]] — board_member  
   > "Arrow Global, independent non-executive member of the board of directors (2016–2021)"
-  > Source: [Maria Luis Albuquerque](../sources/wikipedia-maria-luis-albuquerque.md) · grade A
+  > Source: [[sources/wikipedia-maria-luis-albuquerque|Maria Luis Albuquerque]] · grade A
 
-- [European Investment Bank (EIB)](../organisations/european-investment-bank-eib.md) — board_member  
+- [[organisations/european-investment-bank-eib|European Investment Bank (EIB)]] — board_member  
   > "European Investment Bank, ex-officio member of the board of governors (2013–2015)"
-  > Source: [Maria Luis Albuquerque](../sources/wikipedia-maria-luis-albuquerque.md) · grade C
+  > Source: [[sources/wikipedia-maria-luis-albuquerque|Maria Luis Albuquerque]] · grade C
 
-- [European Stability Mechanism (ESM)](../organisations/european-stability-mechanism-esm.md) — board_member  
+- [[organisations/european-stability-mechanism-esm|European Stability Mechanism (ESM)]] — board_member  
   > "European Stability Mechanism, ex-officio member of the board of governors (2013–2015)"
-  > Source: [Maria Luis Albuquerque](../sources/wikipedia-maria-luis-albuquerque.md) · grade A
+  > Source: [[sources/wikipedia-maria-luis-albuquerque|Maria Luis Albuquerque]] · grade A
 
-- [Morgan Stanley Europe](../organisations/morgan-stanley-europe.md) — board_member  
+- [[organisations/morgan-stanley-europe|Morgan Stanley Europe]] — board_member  
   > "Morgan Stanley Europe, independent non-executive member of the board of directors (since 2022)"
-  > Source: [Maria Luis Albuquerque](../sources/wikipedia-maria-luis-albuquerque.md) · grade A
+  > Source: [[sources/wikipedia-maria-luis-albuquerque|Maria Luis Albuquerque]] · grade A
 
 ## Employment
 
-- [Portuguese Debt Management Agency](../organisations/portuguese-debt-management-agency.md) — employed_by  
+- [[organisations/portuguese-debt-management-agency|Portuguese Debt Management Agency]] — employed_by  
   > "From 2007 to 2011 she was head of Issuing and Markets Department at the Portuguese Debt Management Agency."
-  > Source: [Maria Luis Albuquerque](../sources/wikipedia-maria-luis-albuquerque.md) · grade A
+  > Source: [[sources/wikipedia-maria-luis-albuquerque|Maria Luis Albuquerque]] · grade A
 
-- [REFER](../organisations/refer.md) — employed_by  
+- [[organisations/refer|REFER]] — employed_by  
   > "Between 2001 and 2007 she was director of the Department of Financial Management of REFER, the railway infrastructure public company."
-  > Source: [Maria Luis Albuquerque](../sources/wikipedia-maria-luis-albuquerque.md) · grade A
+  > Source: [[sources/wikipedia-maria-luis-albuquerque|Maria Luis Albuquerque]] · grade A

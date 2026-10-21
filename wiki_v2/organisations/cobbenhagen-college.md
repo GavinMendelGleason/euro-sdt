@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Bas Eickhout](../people/bas-eickhout.md)  
+- [[people/bas-eickhout|Bas Eickhout]]  
   > "Education and early career [ edit ] Eickhout was born in 1976 in Groesbeek , Gelderland , &#91; 1 &#93; and he attended high school at the Cobbenhagen College in Tilburg ."
-  > Source: [Bas Eickhout](../sources/wikipedia-bas-eickhout.md) · grade C
+  > Source: [[sources/wikipedia-bas-eickhout|Bas Eickhout]] · grade C

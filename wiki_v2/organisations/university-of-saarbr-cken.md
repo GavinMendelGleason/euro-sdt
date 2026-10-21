@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Astrid Lulling](../people/astrid-lulling.md)  
+- [[people/astrid-lulling|Astrid Lulling]]  
   > "Curriculum vitae [ edit ] Studied political economy at the University of Saarbrücken (1953–1955)."
-  > Source: [Astrid Lulling](../sources/wikipedia-astrid-lulling.md) · grade C
+  > Source: [[sources/wikipedia-astrid-lulling|Astrid Lulling]] · grade C

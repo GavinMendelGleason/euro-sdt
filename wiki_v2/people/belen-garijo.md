@@ -18,6 +18,6 @@ Corporate Elite
 
 ## Education
 
-- [University of Alcalá](../organisations/university-of-alcala.md)  
+- [[organisations/university-of-alcala|University of Alcalá]]  
   > "&#91; 3 &#93; She graduated from the University of Alcalá in 1983 with a degree in medicine."
-  > Source: [Bel N Garijo](../sources/wikipedia-bel-n-garijo.md) · grade C
+  > Source: [[sources/wikipedia-bel-n-garijo|Bel N Garijo]] · grade C

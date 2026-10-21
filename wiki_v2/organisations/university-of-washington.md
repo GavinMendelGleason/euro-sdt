@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Dan Jørgensen](../people/dan-jrgensen.md)  
+- [[people/dan-jrgensen|Dan Jørgensen]]  
   > "He also studied political science at the University of Washington ."
-  > Source: [Dan Jrgensen](../sources/wikipedia-dan-jrgensen.md) · grade C
+  > Source: [[sources/wikipedia-dan-jrgensen|Dan Jrgensen]] · grade C

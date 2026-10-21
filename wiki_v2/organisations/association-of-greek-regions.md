@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Apostolos Tzitzikostas](../people/apostolos-tzitzikostas.md) — chair  
+- [[people/apostolos-tzitzikostas|Apostolos Tzitzikostas]] — chair  
   > "In November 2019, he was elected President of the Association of Greek Regions and was unanimously re-elected President in February 2024, for the first time in the institution's history."
-  > Source: [Apostolos Tzitzikostas](../sources/wikipedia-apostolos-tzitzikostas.md) · grade A
+  > Source: [[sources/wikipedia-apostolos-tzitzikostas|Apostolos Tzitzikostas]] · grade A

@@ -16,7 +16,7 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (2)
 
-- [Philippe Brassac](../people/philippe-brassac.md) — educated_at — Ecole Nationale de la Statistique et de l'Administration Economique
+- [[people/philippe-brassac|Philippe Brassac]] — educated_at — Ecole Nationale de la Statistique et de l'Administration Economique
   > "== Early life == A graduate of the Ecole Nationale de la Statistique et de l'Administration Economique in 1981, he holds an advanced diploma in mathematics."
-- [Philippe Brassac](../people/philippe-brassac.md) — employed_by — Crédit Agricole
+- [[people/philippe-brassac|Philippe Brassac]] — employed_by — Crédit Agricole
   > "Philippe Brassac (born August 1959) is a French business executive, currently the chief executive of Crédit Agricole, having succeeded Jean-Paul Chifflet to the role in May 2015."

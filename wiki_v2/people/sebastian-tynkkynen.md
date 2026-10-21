@@ -18,24 +18,24 @@ Mep
 
 ## Membership
 
-- [City Council of Oulu](../organisations/city-council-of-oulu.md)  
+- [[organisations/city-council-of-oulu|City Council of Oulu]]  
   > "&#91; 12 &#93; In April 2017 Tynkkynen was elected to the City Council of Oulu with 680 votes."
-  > Source: [Sebastian Tynkkynen](../sources/wikipedia-sebastian-tynkkynen.md) · grade B
+  > Source: [[sources/wikipedia-sebastian-tynkkynen|Sebastian Tynkkynen]] · grade B
 
-- [Finnish Parliament](../organisations/finnish-parliament.md)  
+- [[organisations/finnish-parliament|Finnish Parliament]]  
   > "&#91; 1 &#93; He was elected as a member of Finnish Parliament in April 2019 and was a candidate as Member of European Parliament for the 2019 elections ."
-  > Source: [Sebastian Tynkkynen](../sources/wikipedia-sebastian-tynkkynen.md) · grade A
+  > Source: [[sources/wikipedia-sebastian-tynkkynen|Sebastian Tynkkynen]] · grade A
 
-- [Pentecostal Church](../organisations/pentecostal-church.md)  
+- [[organisations/pentecostal-church|Pentecostal Church]]  
   > "&#91; 20 &#93; Since childhood he had been a Pentecostal , but he was excommunicated in 2018, because he sees same-sex marriage as backed by the Bible."
-  > Source: [Sebastian Tynkkynen](../sources/wikipedia-sebastian-tynkkynen.md) · grade C
+  > Source: [[sources/wikipedia-sebastian-tynkkynen|Sebastian Tynkkynen]] · grade C
 
 ## Chair / president
 
-- [Finns Party](../organisations/finns-party.md) — chair  
+- [[organisations/finns-party|Finns Party]] — chair  
   > "He has been chairman of the Finns Party Youth and third vice chairman of the Finns Party ."
-  > Source: [Sebastian Tynkkynen](../sources/wikipedia-sebastian-tynkkynen.md) · grade A
+  > Source: [[sources/wikipedia-sebastian-tynkkynen|Sebastian Tynkkynen]] · grade A
 
-- [Finns Party Youth](../organisations/finns-party-youth.md) — chair  
+- [[organisations/finns-party-youth|Finns Party Youth]] — chair  
   > "He has been chairman of the Finns Party Youth and third vice chairman of the Finns Party ."
-  > Source: [Sebastian Tynkkynen](../sources/wikipedia-sebastian-tynkkynen.md) · grade A
+  > Source: [[sources/wikipedia-sebastian-tynkkynen|Sebastian Tynkkynen]] · grade A

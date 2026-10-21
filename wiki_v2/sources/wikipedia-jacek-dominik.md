@@ -16,25 +16,25 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (11)
 
-- [Jacek Dominik](../people/jacek-dominik.md) — board_member — Council of Europe Development Bank
+- [[people/jacek-dominik|Jacek Dominik]] — board_member — Council of Europe Development Bank
   > "He was also a member of the Administrative Council of the Council of Europe Development Bank, an Alternate Governor of the European Bank for Reconstruction and Development and a Director of the European Investment Bank."
-- [Jacek Dominik](../people/jacek-dominik.md) — board_member — European Bank for Reconstruction and Development (EBRD)
+- [[people/jacek-dominik|Jacek Dominik]] — board_member — European Bank for Reconstruction and Development (EBRD)
   > "He was also a member of the Administrative Council of the Council of Europe Development Bank, an Alternate Governor of the European Bank for Reconstruction and Development and a Director of the European Investment Bank."
-- [Jacek Dominik](../people/jacek-dominik.md) — board_member — European Investment Bank (EIB)
+- [[people/jacek-dominik|Jacek Dominik]] — board_member — European Investment Bank (EIB)
   > "He was also a member of the Administrative Council of the Council of Europe Development Bank, an Alternate Governor of the European Bank for Reconstruction and Development and a Director of the European Investment Bank."
-- [Jacek Dominik](../people/jacek-dominik.md) — educated_at — At Warsaw University
+- [[people/jacek-dominik|Jacek Dominik]] — educated_at — At Warsaw University
   > "At Warsaw University, Dominik took a bachelor's degree in law and administration, where he also later earned a post-graduate degree in law and economies of the European Communities."
-- [Jacek Dominik](../people/jacek-dominik.md) — employed_by — Ministry of Finance
+- [[people/jacek-dominik|Jacek Dominik]] — employed_by — Ministry of Finance
   > "From 1993 to 1998 he was an official of the Ministry of Finance, before becoming a financial advisor to Poland's permanent representative to the European Union in 1998."
-- [Jacek Dominik](../people/jacek-dominik.md) — employed_by — Ministry of Finance
+- [[people/jacek-dominik|Jacek Dominik]] — employed_by — Ministry of Finance
   > "He returned to Poland in 2004 to be an adviser to the Ministry of Finance, from 2004 to 2006, when he became an Under-Secretary of State in the Ministry of Finance."
-- [Jacek Dominik](../people/jacek-dominik.md) — employed_by — European Commission
+- [[people/jacek-dominik|Jacek Dominik]] — employed_by — European Commission
   > "Dominik was appointed to succeed Lewandowski as Commissioner for Financial Programming and the Budget in the second Barroso Commission, holding the office from 16 July 2014 until the Commission's term ended on 1 November 2014."
-- [Jacek Dominik](../people/jacek-dominik.md) — held_degree — bachelor's degree
+- [[people/jacek-dominik|Jacek Dominik]] — held_degree — bachelor's degree
   > "At Warsaw University, Dominik took a bachelor's degree in law and administration, where he also later earned a post-graduate degree in law and economies of the European Communities."
-- [Jacek Dominik](../people/jacek-dominik.md) — held_degree — post-graduate degree
+- [[people/jacek-dominik|Jacek Dominik]] — held_degree — post-graduate degree
   > "At Warsaw University, Dominik took a bachelor's degree in law and administration, where he also later earned a post-graduate degree in law and economies of the European Communities."
-- [Jacek Dominik](../people/jacek-dominik.md) — studied_field — law and administration
+- [[people/jacek-dominik|Jacek Dominik]] — studied_field — law and administration
   > "At Warsaw University, Dominik took a bachelor's degree in law and administration, where he also later earned a post-graduate degree in law and economies of the European Communities."
-- [Jacek Dominik](../people/jacek-dominik.md) — studied_field — law and economies of the European Communities
+- [[people/jacek-dominik|Jacek Dominik]] — studied_field — law and economies of the European Communities
   > "At Warsaw University, Dominik took a bachelor's degree in law and administration, where he also later earned a post-graduate degree in law and economies of the European Communities."

@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Bas Eickhout](../people/bas-eickhout.md)  
+- [[people/bas-eickhout|Bas Eickhout]]  
   > "&#91; 25 &#93; Since 2021, Eickout has been part of the Parliament's delegation to the EU-UK Parliamentary Assembly, which provides parliamentary oversight over the implementation of the EU–UK Trade and Cooperation Agreement ."
-  > Source: [Bas Eickhout](../sources/wikipedia-bas-eickhout.md) · grade A
+  > Source: [[sources/wikipedia-bas-eickhout|Bas Eickhout]] · grade A

@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Mariya Gabriel](../people/mariya-gabriel.md)  
+- [[people/mariya-gabriel|Mariya Gabriel]]  
   > "In 2001 she graduated from the Plovdiv University \"Paisii Hilendarski\"."
-  > Source: [Mariya Gabriel](../sources/wikipedia-mariya-gabriel.md) · grade A
+  > Source: [[sources/wikipedia-mariya-gabriel|Mariya Gabriel]] · grade A

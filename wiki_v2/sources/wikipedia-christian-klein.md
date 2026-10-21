@@ -16,11 +16,11 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (4)
 
-- [Christian Klein](../people/christian-klein.md) — board_member — Adidas
+- [[people/christian-klein|Christian Klein]] — board_member — Adidas
   > "&#91; 5 &#93; Other activities [ edit ] Adidas , Member of the Supervisory Board (since 2020) &#91; 6 &#93; Baden-Badener Unternehmer-Gespräche (BBUG), Member of the Board (since 2019) &#91; 7 &#93; The Business Council , Member &#91; 8 &#93; References [ edit ] ^ Joe Miller (October 30, 2020), Christian Klein: the 'details guy' who has to fix SAP Financial Times ."
-- [Christian Klein](../people/christian-klein.md) — board_member — Baden-Badener Unternehmer-Gespräche (BBUG)
+- [[people/christian-klein|Christian Klein]] — board_member — Baden-Badener Unternehmer-Gespräche (BBUG)
   > "&#91; 5 &#93; Other activities [ edit ] Adidas , Member of the Supervisory Board (since 2020) &#91; 6 &#93; Baden-Badener Unternehmer-Gespräche (BBUG), Member of the Board (since 2019) &#91; 7 &#93; The Business Council , Member &#91; 8 &#93; References [ edit ] ^ Joe Miller (October 30, 2020), Christian Klein: the 'details guy' who has to fix SAP Financial Times ."
-- [Christian Klein](../people/christian-klein.md) — member — Executive Board of SAP
+- [[people/christian-klein|Christian Klein]] — member — Executive Board of SAP
   > "&#91; 4 &#93; Klein is also a member of the Executive Board of SAP."
-- [Christian Klein](../people/christian-klein.md) — member — The Business Council
+- [[people/christian-klein|Christian Klein]] — member — The Business Council
   > "&#91; 5 &#93; Other activities [ edit ] Adidas , Member of the Supervisory Board (since 2020) &#91; 6 &#93; Baden-Badener Unternehmer-Gespräche (BBUG), Member of the Board (since 2019) &#91; 7 &#93; The Business Council , Member &#91; 8 &#93; References [ edit ] ^ Joe Miller (October 30, 2020), Christian Klein: the 'details guy' who has to fix SAP Financial Times ."

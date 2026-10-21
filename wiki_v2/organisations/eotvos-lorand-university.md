@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Tibor Navracsics](../people/tibor-navracsics.md)  
+- [[people/tibor-navracsics|Tibor Navracsics]]  
   > "Education Navracsics holds a degree in law (Eötvös Loránd University 1990) and a higher degree as judge (1992)."
-  > Source: [Tibor Navracsics](../sources/wikipedia-tibor-navracsics.md) · grade A
+  > Source: [[sources/wikipedia-tibor-navracsics|Tibor Navracsics]] · grade A

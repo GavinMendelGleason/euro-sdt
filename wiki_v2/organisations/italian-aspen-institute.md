@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Romano Prodi](../people/romano-prodi.md)  
+- [[people/romano-prodi|Romano Prodi]]  
   > "As of September 2020, he is a member of the Italian Aspen Institute."
-  > Source: [Romano Prodi](../sources/wikipedia-romano-prodi.md) · grade A
+  > Source: [[sources/wikipedia-romano-prodi|Romano Prodi]] · grade A

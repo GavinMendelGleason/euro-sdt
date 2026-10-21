@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Dacian Cioloş](../people/dacian-ciolos.md) — chair  
+- [[people/dacian-ciolos|Dacian Cioloş]] — chair  
   > "Between October 2021 and February 2022, he led the Save Romania Union (USR), into which the party he founded was merged."
-  > Source: [Dacian Ciolos](../sources/wikipedia-dacian-ciolos.md) · grade C
+  > Source: [[sources/wikipedia-dacian-ciolos|Dacian Ciolos]] · grade C

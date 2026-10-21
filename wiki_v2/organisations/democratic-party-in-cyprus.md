@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Markos Kyprianou](../people/markos-kyprianou.md) — chair  
+- [[people/markos-kyprianou|Markos Kyprianou]] — chair  
   > "On 9 February 2014, Kyprianou staged a political comeback as he was elected Deputy President of the Democratic Party in Cyprus."
-  > Source: [Markos Kyprianou](../sources/wikipedia-markos-kyprianou.md) · grade A
+  > Source: [[sources/wikipedia-markos-kyprianou|Markos Kyprianou]] · grade A

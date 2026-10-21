@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Margot Wallström](../people/margot-wallstrom.md) — employed_by  
+- [[people/margot-wallstrom|Margot Wallström]] — employed_by  
   > "In 1973, she started her career as a banking clerk at the Alfa Savings bank in Karlstad."
-  > Source: [Margot Wallstrom](../sources/wikipedia-margot-wallstrom.md) · grade C
+  > Source: [[sources/wikipedia-margot-wallstrom|Margot Wallstrom]] · grade C

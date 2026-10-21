@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Karin Karlsbro](../people/karin-karlsbro.md)  
+- [[people/karin-karlsbro|Karin Karlsbro]]  
   > "She is Vice-Chair of the Committee on International Trade (INTA) and a substitute member of both the Committee on the Environment (ENVI) and the Committee on Fisheries (PECH)."
-  > Source: [Karin Karlsbro](../sources/wikipedia-karin-karlsbro.md) · grade A
+  > Source: [[sources/wikipedia-karin-karlsbro|Karin Karlsbro]] · grade A

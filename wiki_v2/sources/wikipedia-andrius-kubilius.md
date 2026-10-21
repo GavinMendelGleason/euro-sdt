@@ -16,49 +16,49 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (23)
 
-- [Andrius Kubilius](../people/andrius-kubilius.md) — affiliated_with — Euronest Parliamentary Assembly
+- [[people/andrius-kubilius|Andrius Kubilius]] — affiliated_with — Euronest Parliamentary Assembly
   > "In addition to his committee assignments, Kubilius was part of the parliament's delegations to the Euronest Parliamentary Assembly and to the EU-Ukraine Parliamentary Association Committee."
-- [Andrius Kubilius](../people/andrius-kubilius.md) — affiliated_with — EU-Ukraine Parliamentary Association Committee
+- [[people/andrius-kubilius|Andrius Kubilius]] — affiliated_with — EU-Ukraine Parliamentary Association Committee
   > "In addition to his committee assignments, Kubilius was part of the parliament's delegations to the Euronest Parliamentary Assembly and to the EU-Ukraine Parliamentary Association Committee."
-- [Andrius Kubilius](../people/andrius-kubilius.md) — chair — Homeland Union (Lithuanian Christian Democrats)
+- [[people/andrius-kubilius|Andrius Kubilius]] — chair — Homeland Union (Lithuanian Christian Democrats)
   > "He was the leader of the conservative political party Homeland Union from 2003 to 2015, of which he continues to be a member."
-- [Andrius Kubilius](../people/andrius-kubilius.md) — educated_at — 22Nd Secondary School In Vilnius
+- [[people/andrius-kubilius|Andrius Kubilius]] — educated_at — 22Nd Secondary School In Vilnius
   > "After graduation from the 22nd secondary school in Vilnius, Kubilius was accepted to Vilnius University and studied in the Faculty of Physics until 1979."
-- [Andrius Kubilius](../people/andrius-kubilius.md) — educated_at — Vilnius University
+- [[people/andrius-kubilius|Andrius Kubilius]] — educated_at — Vilnius University
   > "He continued his academic career and postgraduate studies at Vilnius University from 1981 to 1984."
-- [Andrius Kubilius](../people/andrius-kubilius.md) — employed_by — s-j-dis-council
+- [[people/andrius-kubilius|Andrius Kubilius]] — employed_by — s-j-dis-council
   > "He later became the Executive Secretary of the Sąjūdis Council."
-- [Andrius Kubilius](../people/andrius-kubilius.md) — employed_by — Sąjūdis Council
+- [[people/andrius-kubilius|Andrius Kubilius]] — employed_by — Sąjūdis Council
   > "He later became the Executive Secretary of the Sąjūdis Council."
-- [Andrius Kubilius](../people/andrius-kubilius.md) — from_country — Lithuania
+- [[people/andrius-kubilius|Andrius Kubilius]] — from_country — Lithuania
   > "He previously served as a Member of the European Parliament (MEP) from 2019 to 2024 and as Prime Minister of Lithuania from 1999 to 2000 and again from 2008 to 2012."
-- [Andrius Kubilius](../people/andrius-kubilius.md) — held_portfolio — European Commissioner for Defence and Space
+- [[people/andrius-kubilius|Andrius Kubilius]] — held_portfolio — European Commissioner for Defence and Space
   > "Andrius Kubilius (Lithuanian pronunciation: [ˈɐnʲdʲrʲʊs kʊˈbɪlʲʊs]; born 8 December 1956) is a Lithuanian politician who is currently serving as the European Commissioner for Defence and Space in the"
-- [Andrius Kubilius](../people/andrius-kubilius.md) — member — s-j-dis
+- [[people/andrius-kubilius|Andrius Kubilius]] — member — s-j-dis
   > "Career in Lithuanian politics Early career Kubilius became a member of the pro-independence Sąjūdis movement, who favoured separation from the Soviet Union."
-- [Andrius Kubilius](../people/andrius-kubilius.md) — member — Spinelli Group
+- [[people/andrius-kubilius|Andrius Kubilius]] — member — Spinelli Group
   > "He was also a member of the Spinelli Group."
-- [Andrius Kubilius](../people/andrius-kubilius.md) — member — Sąjūdis
+- [[people/andrius-kubilius|Andrius Kubilius]] — member — Sąjūdis
   > "Career in Lithuanian politics Early career Kubilius became a member of the pro-independence Sąjūdis movement, who favoured separation from the Soviet Union."
-- [Andrius Kubilius](../people/andrius-kubilius.md) — member — Homeland Union (Lithuanian Christian Democrats)
+- [[people/andrius-kubilius|Andrius Kubilius]] — member — Homeland Union (Lithuanian Christian Democrats)
   > "He was the leader of the conservative political party Homeland Union from 2003 to 2015, of which he continues to be a member."
-- [Andrius Kubilius](../people/andrius-kubilius.md) — member — Sąjūdis
+- [[people/andrius-kubilius|Andrius Kubilius]] — member — Sąjūdis
   > "Kubilius became a member of the pro-independence Sąjūdis movement, who favoured separation from the Soviet Union."
-- [Andrius Kubilius](../people/andrius-kubilius.md) — member — Homeland Union (Lithuanian Christian Democrats)
+- [[people/andrius-kubilius|Andrius Kubilius]] — member — Homeland Union (Lithuanian Christian Democrats)
   > "He became a member of the Homeland Union – Lithuanian Christian Democrats in 1993."
-- [Andrius Kubilius](../people/andrius-kubilius.md) — member — European People's Party Group
+- [[people/andrius-kubilius|Andrius Kubilius]] — member — European People's Party Group
   > "In 2019, Kubilius was elected a Member of the European Parliament for Homeland Union and served as a member of the European People's Party Group."
-- [Andrius Kubilius](../people/andrius-kubilius.md) — member — European Parliament
+- [[people/andrius-kubilius|Andrius Kubilius]] — member — European Parliament
   > "In 2019, Kubilius was elected a Member of the European Parliament for Homeland Union and served as a member of the European People's Party Group."
-- [Andrius Kubilius](../people/andrius-kubilius.md) — member — Homeland Union (Lithuanian Christian Democrats)
+- [[people/andrius-kubilius|Andrius Kubilius]] — member — Homeland Union (Lithuanian Christian Democrats)
   > "In 2019, Kubilius was elected a Member of the European Parliament for Homeland Union and served as a member of the European People's Party Group."
-- [Andrius Kubilius](../people/andrius-kubilius.md) — member — Committee on Foreign Affairs
+- [[people/andrius-kubilius|Andrius Kubilius]] — member — Committee on Foreign Affairs
   > "He served on the Committee on Foreign Affairs and the Committee on Industry, Research and Energy."
-- [Andrius Kubilius](../people/andrius-kubilius.md) — member — Committee on Industry, Research and Energy
+- [[people/andrius-kubilius|Andrius Kubilius]] — member — Committee on Industry, Research and Energy
   > "He served on the Committee on Foreign Affairs and the Committee on Industry, Research and Energy."
-- [Andrius Kubilius](../people/andrius-kubilius.md) — member — Euronest Parliamentary Assembly
+- [[people/andrius-kubilius|Andrius Kubilius]] — member — Euronest Parliamentary Assembly
   > "In addition to his committee assignments, Kubilius was part of the parliament's delegations to the Euronest Parliamentary Assembly and to the EU-Ukraine Parliamentary Association Committee."
-- [Andrius Kubilius](../people/andrius-kubilius.md) — member — EU-Ukraine Parliamentary Association Committee
+- [[people/andrius-kubilius|Andrius Kubilius]] — member — EU-Ukraine Parliamentary Association Committee
   > "In addition to his committee assignments, Kubilius was part of the parliament's delegations to the Euronest Parliamentary Assembly and to the EU-Ukraine Parliamentary Association Committee."
-- [Andrius Kubilius](../people/andrius-kubilius.md) — nominated_by — LTU
+- [[people/andrius-kubilius|Andrius Kubilius]] — nominated_by — LTU
   > "Andrius Kubilius (Lithuanian pronunciation: [ˈɐnʲdʲrʲʊs kʊˈbɪlʲʊs]; born 8 December 1956) is a Lithuanian politician who is currently serving as the European Commissioner for Defence and Space in the Second von der Leyen Commission."

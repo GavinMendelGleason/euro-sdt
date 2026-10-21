@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Antonio Tajani](../people/antonio-tajani.md)  
+- [[people/antonio-tajani|Antonio Tajani]]  
   > "In his youth Tajani was a militant of Fronte Monarchico Giovanile (Youth Monarchist Front), a student organization of the Italian Monarchist Union (UMI)."
-  > Source: [Antonio Tajani](../sources/wikipedia-antonio-tajani.md) · grade B
+  > Source: [[sources/wikipedia-antonio-tajani|Antonio Tajani]] · grade B

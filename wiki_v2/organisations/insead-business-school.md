@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Bill Newton Dunn](../people/bill-newton-dunn.md)  
+- [[people/bill-newton-dunn|Bill Newton Dunn]]  
   > "He then received a tri-lingual MBA from the INSEAD Business school at Fontainebleau , where he studied from 1965 to 1966."
-  > Source: [Bill Newton Dunn](../sources/wikipedia-bill-newton-dunn.md) · grade C
+  > Source: [[sources/wikipedia-bill-newton-dunn|Bill Newton Dunn]] · grade C

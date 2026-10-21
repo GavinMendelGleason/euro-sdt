@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Danuta Hübner](../people/danuta-hubner.md)  
+- [[people/danuta-hubner|Danuta Hübner]]  
   > "In 2012 Hübner became a member of the International Honorary Council of the European Academy of Diplomacy."
-  > Source: [Danuta Hubner](../sources/wikipedia-danuta-hubner.md) · grade A
+  > Source: [[sources/wikipedia-danuta-hubner|Danuta Hubner]] · grade A

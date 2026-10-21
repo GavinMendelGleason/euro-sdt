@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Markos Kyprianou](../people/markos-kyprianou.md) — employed_by  
+- [[people/markos-kyprianou|Markos Kyprianou]] — employed_by  
   > "1985–1991 associate with the law firm of Antis Triantafyllides & Sons"
-  > Source: [Markos Kyprianou](../sources/wikipedia-markos-kyprianou.md) · grade C
+  > Source: [[sources/wikipedia-markos-kyprianou|Markos Kyprianou]] · grade C

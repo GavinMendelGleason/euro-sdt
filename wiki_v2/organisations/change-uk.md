@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Diana Wallis](../people/diana-wallis.md)  
+- [[people/diana-wallis|Diana Wallis]]  
   > "She later joined Change UK and was selected as the lead candidate for Yorkshire and the Humber at the 2019 European Parliament elections."
-  > Source: [Diana Wallis](../sources/wikipedia-diana-wallis.md) · grade B
+  > Source: [[sources/wikipedia-diana-wallis|Diana Wallis]] · grade B

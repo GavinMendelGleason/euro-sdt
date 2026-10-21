@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Fredrick Federley](../people/fredrick-federley.md) — chair  
+- [[people/fredrick-federley|Fredrick Federley]] — chair  
   > "&#91; 9 &#93; He later stepped down to candidate as vice president along with the presidential candidate Siim Kallas ; Kallas did not make it, but Federley was elected vice president under the new president Hans van Baalen ."
-  > Source: [Fredrick Federley](../sources/wikipedia-fredrick-federley.md) · grade A
+  > Source: [[sources/wikipedia-fredrick-federley|Fredrick Federley]] · grade A

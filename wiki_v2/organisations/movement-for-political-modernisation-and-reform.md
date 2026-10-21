@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Christos Stylianides](../people/christos-stylianides.md) — founder  
+- [[people/christos-stylianides|Christos Stylianides]] — founder  
   > "Considered a \"hardcore Europeanist\", Stylianides advocated Cyprus's accession to the European Union as far back as the mid-1990s, when he co-founded the Movement for Political Modernisation and Reform, despite the initial scepticism of many on the political scene."
-  > Source: [Christos Stylianides](../sources/wikipedia-christos-stylianides.md) · grade A
+  > Source: [[sources/wikipedia-christos-stylianides|Christos Stylianides]] · grade A

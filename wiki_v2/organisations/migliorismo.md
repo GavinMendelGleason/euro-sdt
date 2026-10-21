@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Giorgio Napolitano](../people/giorgio-napolitano.md)  
+- [[people/giorgio-napolitano|Giorgio Napolitano]]  
   > "He was a leading member of migliorismo, a reformist, moderate, and modernizing faction on the right wing of the PCI, which was inspired by the values of democratic socialism, looked favourably to social democracy, and was interested in revisionist Marxism."
-  > Source: [Giorgio Napolitano](../sources/wikipedia-giorgio-napolitano.md) · grade A
+  > Source: [[sources/wikipedia-giorgio-napolitano|Giorgio Napolitano]] · grade A

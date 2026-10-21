@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Antonio Tajani](../people/antonio-tajani.md)  
+- [[people/antonio-tajani|Antonio Tajani]]  
   > "In Berlusconi's first government (1994–95), he was a spokesman for the Prime Minister."
-  > Source: [Antonio Tajani](../sources/wikipedia-antonio-tajani.md) · grade B
+  > Source: [[sources/wikipedia-antonio-tajani|Antonio Tajani]] · grade B

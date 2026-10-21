@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Wopke Hoekstra](../people/wopke-hoekstra.md) — board_member; chair  
+- [[people/wopke-hoekstra|Wopke Hoekstra]] — board_member; chair  
   > "Hoekstra was also chairman of the supervisory board of the National Maritime Museum in Amsterdam and ambassador for the Prinses Maxima Centrum for pediatric oncology."
-  > Source: [Wopke Hoekstra](../sources/wikipedia-wopke-hoekstra.md) · grade A
+  > Source: [[sources/wikipedia-wopke-hoekstra|Wopke Hoekstra]] · grade A

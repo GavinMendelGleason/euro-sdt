@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Andrius Kubilius](../people/andrius-kubilius.md)  
+- [[people/andrius-kubilius|Andrius Kubilius]]  
   > "In addition to his committee assignments, Kubilius was part of the parliament's delegations to the Euronest Parliamentary Assembly and to the EU-Ukraine Parliamentary Association Committee."
-  > Source: [Andrius Kubilius](../sources/wikipedia-andrius-kubilius.md) · grade A
+  > Source: [[sources/wikipedia-andrius-kubilius|Andrius Kubilius]] · grade A

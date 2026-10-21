@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Neelie Kroes](../people/neelie-kroes.md) — chair  
+- [[people/neelie-kroes|Neelie Kroes]] — chair  
   > "In 1991, Kroes became chairperson of Nyenrode University, a private business school."
-  > Source: [Neelie Kroes](../sources/wikipedia-neelie-kroes.md) · grade C
+  > Source: [[sources/wikipedia-neelie-kroes|Neelie Kroes]] · grade C

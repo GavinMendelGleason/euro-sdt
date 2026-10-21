@@ -16,5 +16,5 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (1)
 
-- [Sigrid Friis Proschowsky](../people/sigrid-friis-proschowsky.md) — educated_at — University Of Copenhagen
+- [[people/sigrid-friis-proschowsky|Sigrid Friis Proschowsky]] — educated_at — University Of Copenhagen
   > "&#91; 3 &#93; She has studied political science at the University of Copenhagen and in 2018 became a bachelor in the subject after writing an assignment on the democratic participation of young people in connection with the school elections."

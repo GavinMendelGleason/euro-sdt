@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Lorenzo Bini Smaghi](../people/lorenzo-bini-smaghi.md) — chair  
+- [[people/lorenzo-bini-smaghi|Lorenzo Bini Smaghi]] — chair  
   > "He has been chairman of Société Générale since 2015."
-  > Source: [Lorenzo Bini Smaghi](../sources/wikipedia-lorenzo-bini-smaghi.md) · grade A
+  > Source: [[sources/wikipedia-lorenzo-bini-smaghi|Lorenzo Bini Smaghi]] · grade A

@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [José Manuel Barroso](../people/jose-manuel-barroso.md)  
+- [[people/jose-manuel-barroso|José Manuel Barroso]]  
   > "Bilderberg Meetings , Member of the Steering Committee"
-  > Source: [Jose Manuel Barroso](../sources/wikipedia-jose-manuel-barroso.md) · grade A
+  > Source: [[sources/wikipedia-jose-manuel-barroso|Jose Manuel Barroso]] · grade A

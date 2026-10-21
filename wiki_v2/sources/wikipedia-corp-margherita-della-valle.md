@@ -16,5 +16,5 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (1)
 
-- [Margherita Della Valle](../people/margherita-della-valle.md) — employed_by — Vodafone
+- [[people/margherita-della-valle|Margherita Della Valle]] — employed_by — Vodafone
   > "Margherita Della Valle (born 13 April 1965, Veneto) is an Italian businesswoman who has been the chief executive officer (CEO) of Vodafone since January 2023."

@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Valdis Dombrovskis](../people/valdis-dombrovskis.md)  
+- [[people/valdis-dombrovskis|Valdis Dombrovskis]]  
   > "As Member of the European Parliament, Dombrovskis was a member of three European Parliament Committees: Committee on Budgets, Delegation to the ACP-EU Joint Parliamentary Assembly, Delegation to the Euro-Latin American Parliamentary Assembly."
-  > Source: [Valdis Dombrovskis](../sources/wikipedia-valdis-dombrovskis.md) · grade A
+  > Source: [[sources/wikipedia-valdis-dombrovskis|Valdis Dombrovskis]] · grade A

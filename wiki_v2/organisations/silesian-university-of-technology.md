@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Jerzy Buzek](../people/jerzy-buzek.md)  
+- [[people/jerzy-buzek|Jerzy Buzek]]  
   > "Buzek's Birth House Professional career [ edit ] In 1963 Jerzy Buzek graduated from the Mechanics-and-Energy Division of the Silesian University of Technology , specialising in chemical engineering ."
-  > Source: [Jerzy Buzek](../sources/wikipedia-jerzy-buzek.md) · grade C
+  > Source: [[sources/wikipedia-jerzy-buzek|Jerzy Buzek]] · grade C

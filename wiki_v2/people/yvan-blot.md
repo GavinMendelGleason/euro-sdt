@@ -18,70 +18,70 @@ Mep
 
 ## Education
 
-- [lyc-e-henri-iv](../organisations/lyc-e-henri-iv.md)  
+- [[organisations/lyc-e-henri-iv|lyc-e-henri-iv]]  
   > "He studied in Lycée Henri IV and graduated from Sciences Po and earned a doctorate in economics at the same university in 2004."
-  > Source: [Yvan Blot](../sources/wikipedia-yvan-blot.md) · grade C
+  > Source: [[sources/wikipedia-yvan-blot|Yvan Blot]] · grade C
 
-- [Sciences Po](../organisations/sciences-po.md)  
+- [[organisations/sciences-po|Sciences Po]]  
   > "He studied in Lycée Henri IV and graduated from Sciences Po and earned a doctorate in economics at the same university in 2004."
-  > Source: [Yvan Blot](../sources/wikipedia-yvan-blot.md) · grade A
+  > Source: [[sources/wikipedia-yvan-blot|Yvan Blot]] · grade A
 
 ## Membership
 
-- [Club d'experts de Valdaï](../organisations/club-d-experts-de-valdai.md)  
+- [[organisations/club-d-experts-de-valdai|Club d'experts de Valdaï]]  
   > "^ Blot, Ivan; ENA; Économiques, Docteur Ès Sciences; L’administration, Inspecteur Général Honoraire De; européen, ancien député du Pas-de-Calais et ancien député; directe&#160;», auteur de nombreux ouvrages dont «&#160;La démocratie; pouvoir&#160;», «&#160;L’oligarchie au; Poutine, «&#160;La Russie de; Valdaï, «&#160;L’homme défiguré&#160;» Il est membre de l’Académie catholique de France Il est aussi membre du comité des experts de Rethinking Russia et du Club d’experts de (2 March 2018)."
-  > Source: [Yvan Blot](../sources/wikipedia-yvan-blot.md) · grade C
+  > Source: [[sources/wikipedia-yvan-blot|Yvan Blot]] · grade C
 
-- [European Parliament](../organisations/european-parliament.md)  
+- [[organisations/european-parliament|European Parliament]]  
   > "&#91; 7 &#93; He joined the Front National in 1989 and was elected to the European Parliament in the 1989 election ."
-  > Source: [Yvan Blot](../sources/wikipedia-yvan-blot.md) · grade A
+  > Source: [[sources/wikipedia-yvan-blot|Yvan Blot]] · grade A
 
-- [French Catholic Academy](../organisations/french-catholic-academy.md)  
+- [[organisations/french-catholic-academy|French Catholic Academy]]  
   > "&#91; citation needed &#93; He was a member of the French Catholic Academy &#91; 12 &#93; and a consultant for the radio station \"Voice of Russia\" in Paris."
-  > Source: [Yvan Blot](../sources/wikipedia-yvan-blot.md) · grade A
+  > Source: [[sources/wikipedia-yvan-blot|Yvan Blot]] · grade A
 
-- [Front National](../organisations/front-national.md)  
+- [[organisations/front-national|Front National]]  
   > "&#91; 7 &#93; He joined the Front National in 1989 and was elected to the European Parliament in the 1989 election ."
-  > Source: [Yvan Blot](../sources/wikipedia-yvan-blot.md) · grade A
+  > Source: [[sources/wikipedia-yvan-blot|Yvan Blot]] · grade A
 
-- [GRECE](../organisations/grece.md)  
+- [[organisations/grece|GRECE]]  
   > "A founding member of the GRECE , he was also the co-creator and president of the Club de l'Horloge ."
-  > Source: [Yvan Blot](../sources/wikipedia-yvan-blot.md) · grade A
+  > Source: [[sources/wikipedia-yvan-blot|Yvan Blot]] · grade A
 
-- [Rethinking Russia](../organisations/rethinking-russia.md)  
+- [[organisations/rethinking-russia|Rethinking Russia]]  
   > "^ Blot, Ivan; ENA; Économiques, Docteur Ès Sciences; L’administration, Inspecteur Général Honoraire De; européen, ancien député du Pas-de-Calais et ancien député; directe&#160;», auteur de nombreux ouvrages dont «&#160;La démocratie; pouvoir&#160;», «&#160;L’oligarchie au; Poutine, «&#160;La Russie de; Valdaï, «&#160;L’homme défiguré&#160;» Il est membre de l’Académie catholique de France Il est aussi membre du comité des experts de Rethinking Russia et du Club d’experts de (2 March 2018)."
-  > Source: [Yvan Blot](../sources/wikipedia-yvan-blot.md) · grade B
+  > Source: [[sources/wikipedia-yvan-blot|Yvan Blot]] · grade B
 
-- [UMP](../organisations/ump.md)  
+- [[organisations/ump|UMP]]  
   > "In the early 2000s, he became a member of the UMP ."
-  > Source: [Yvan Blot](../sources/wikipedia-yvan-blot.md) · grade A
+  > Source: [[sources/wikipedia-yvan-blot|Yvan Blot]] · grade A
 
 ## Chair / president
 
-- [Club de l'Horloge](../organisations/club-de-l-horloge.md) — chair  
+- [[organisations/club-de-l-horloge|Club de l'Horloge]] — chair  
   > "A founding member of the GRECE , he was also the co-creator and president of the Club de l'Horloge ."
-  > Source: [Yvan Blot](../sources/wikipedia-yvan-blot.md) · grade A
+  > Source: [[sources/wikipedia-yvan-blot|Yvan Blot]] · grade A
 
 ## Founder
 
-- [Agir pour la démocratie directe](../organisations/agir-pour-la-democratie-directe.md) — founder  
+- [[organisations/agir-pour-la-democratie-directe|Agir pour la démocratie directe]] — founder  
   > "&#91; 4 &#93; He was the founder of the association \"Agir pour la démocratie directe\" in Paris."
-  > Source: [Yvan Blot](../sources/wikipedia-yvan-blot.md) · grade C
+  > Source: [[sources/wikipedia-yvan-blot|Yvan Blot]] · grade C
 
-- [Cercle Pareto](../organisations/cercle-pareto.md) — founder  
+- [[organisations/cercle-pareto|Cercle Pareto]] — founder  
   > "&#91; 2 &#93; &#91; 3 &#93; &#91; 4 &#93; Blot founded in the Cercle Pareto, a Sciences Po student organization linked to the Nouvelle Droite , and was soon joined by Jean-Yves Le Gallou , Daniel Garrigue and Guillaume Faye ."
-  > Source: [Yvan Blot](../sources/wikipedia-yvan-blot.md) · grade A
+  > Source: [[sources/wikipedia-yvan-blot|Yvan Blot]] · grade A
 
 ## Affiliation
 
-- [Bruges Group](../organisations/bruges-group.md)  
+- [[organisations/bruges-group|Bruges Group]]  
   > "&#91; 8 &#93; A prominent Eurosceptic , Blot played a leading role in establishing a committee to support the Bruges Group in France."
-  > Source: [Yvan Blot](../sources/wikipedia-yvan-blot.md) · grade B
+  > Source: [[sources/wikipedia-yvan-blot|Yvan Blot]] · grade B
 
-- [Idexia](../organisations/idexia.md)  
+- [[organisations/idexia|Idexia]]  
   > "&#91; 13 &#93; He worked for the think tank Idexia with Charles Beigbeder and Guillaume Peltier , a group favouring the return of the former president Nicolas Sarkozy to power."
-  > Source: [Yvan Blot](../sources/wikipedia-yvan-blot.md) · grade A
+  > Source: [[sources/wikipedia-yvan-blot|Yvan Blot]] · grade A
 
-- [Rally for the Republic](../organisations/rally-for-the-republic.md)  
+- [[organisations/rally-for-the-republic|Rally for the Republic]]  
   > "&#91; 6 &#93; &#91; 5 &#93; A former Gaullist parliamentarian (for Rally for the Republic ), Blot also served as a leading civil servant under both Interior Minister Michel Poniatowski and Alain Devaquet ."
-  > Source: [Yvan Blot](../sources/wikipedia-yvan-blot.md) · grade B
+  > Source: [[sources/wikipedia-yvan-blot|Yvan Blot]] · grade B

@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Martin Bangemann](../people/martin-bangemann.md)  
+- [[people/martin-bangemann|Martin Bangemann]]  
   > "He studied law in Tübingen and Munich, and earned a Dr. jur. (not equivalent to J.D., but a PhD in law) in 1962 with a dissertation entitled Bilder und Fiktionen in Recht und Rechtswissenschaft (Imagery and fiction in law and jurisprudence)."
-  > Source: [Martin Bangemann](../sources/wikipedia-martin-bangemann.md) · grade A
+  > Source: [[sources/wikipedia-martin-bangemann|Martin Bangemann]] · grade A

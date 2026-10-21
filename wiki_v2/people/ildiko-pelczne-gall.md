@@ -18,14 +18,14 @@ Mep
 
 ## Membership
 
-- [European Court of Auditors](../organisations/european-court-of-auditors.md)  
+- [[organisations/european-court-of-auditors|European Court of Auditors]]  
   > "Since 2017, she is a Member of the European Court of Auditors ."
-  > Source: [Ildik Pelczn Gll](../sources/wikipedia-ildik-pelczn-gll.md) · grade C
+  > Source: [[sources/wikipedia-ildik-pelczn-gll|Ildik Pelczn Gll]] · grade C
 
-- [European People's Party](../organisations/european-peoples-party.md)  
+- [[organisations/european-peoples-party|European People's Party]]  
   > "She is a member of Fidesz , part of the European People's Party ."
-  > Source: [Ildik Pelczn Gll](../sources/wikipedia-ildik-pelczn-gll.md) · grade C
+  > Source: [[sources/wikipedia-ildik-pelczn-gll|Ildik Pelczn Gll]] · grade C
 
-- [Fidesz](../organisations/fidesz.md)  
+- [[organisations/fidesz|Fidesz]]  
   > "She is a member of Fidesz , part of the European People's Party ."
-  > Source: [Ildik Pelczn Gll](../sources/wikipedia-ildik-pelczn-gll.md) · grade C
+  > Source: [[sources/wikipedia-ildik-pelczn-gll|Ildik Pelczn Gll]] · grade C

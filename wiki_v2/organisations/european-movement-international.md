@@ -15,12 +15,12 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [José Manuel Barroso](../people/jose-manuel-barroso.md)  
+- [[people/jose-manuel-barroso|José Manuel Barroso]]  
   > "European Movement International , Member of the Honorary Council"
-  > Source: [Jose Manuel Barroso](../sources/wikipedia-jose-manuel-barroso.md) · grade A
-- [Rainer Wieland](../people/rainer-wieland.md) — chair  
+  > Source: [[sources/wikipedia-jose-manuel-barroso|Jose Manuel Barroso]] · grade A
+- [[people/rainer-wieland|Rainer Wieland]] — chair  
   > "From 2008 to 2011, Wieland was vice president of the European Movement International."
-  > Source: [Rainer Wieland](../sources/wikipedia-rainer-wieland.md) · grade A
-- [Viviane Reding](../people/viviane-reding.md)  
+  > Source: [[sources/wikipedia-rainer-wieland|Rainer Wieland]] · grade A
+- [[people/viviane-reding|Viviane Reding]]  
   > "European Movement International, Member of the Honorary Council"
-  > Source: [Viviane Reding](../sources/wikipedia-viviane-reding.md) · grade A
+  > Source: [[sources/wikipedia-viviane-reding|Viviane Reding]] · grade A

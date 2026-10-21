@@ -14,9 +14,9 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [László Andor](../people/laszlo-andor.md) — advisory_board  
+- [[people/laszlo-andor|László Andor]] — advisory_board  
   > "László Andor is a member of the advisory board of the Prague European Summit."
-  > Source: [Laszlo Andor](../sources/wikipedia-laszlo-andor.md) · grade A
-- [Pascal Lamy](../people/pascal-lamy.md) — advisory_board  
+  > Source: [[sources/wikipedia-laszlo-andor|Laszlo Andor]] · grade A
+- [[people/pascal-lamy|Pascal Lamy]] — advisory_board  
   > "He is a member of the advisory board of the Prague European Summit."
-  > Source: [Pascal Lamy](../sources/wikipedia-pascal-lamy.md) · grade A
+  > Source: [[sources/wikipedia-pascal-lamy|Pascal Lamy]] · grade A

@@ -18,6 +18,6 @@ Cjeu Judge · Ireland
 
 ## Education
 
-- [Université Libre De Bruxelles](../organisations/universite-libre-de-bruxelles.md)  
+- [[organisations/universite-libre-de-bruxelles|Université Libre De Bruxelles]]  
   > "He completed his university education with a master’s degree in international law and comparative law from the Université libre de Bruxelles (Free University of Brussels, Belgium) in 1979."
-  > Source: [Eugene Regan](../sources/cjeu-eugene-regan.md) · grade A
+  > Source: [[sources/cjeu-eugene-regan|Eugene Regan]] · grade A

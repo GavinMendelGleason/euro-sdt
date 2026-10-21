@@ -18,80 +18,80 @@ Corporate Elite
 
 ## Education
 
-- [Lycée Français de Bruxelles](../organisations/lycee-francais-de-bruxelles.md)  
+- [[organisations/lycee-francais-de-bruxelles|Lycée Français de Bruxelles]]  
   > "In 1974 he graduated from the Lycée Français de Bruxelles."
-  > Source: [Lorenzo Bini Smaghi](../sources/wikipedia-lorenzo-bini-smaghi.md) · grade B
+  > Source: [[sources/wikipedia-lorenzo-bini-smaghi|Lorenzo Bini Smaghi]] · grade B
 
-- [University of Chicago](../organisations/university-of-chicago.md)  
+- [[organisations/university-of-chicago|University of Chicago]]  
   > "With a scholarship from the U.S.-Italy Fulbright Commission , in 1980 he received a master's degree in Economics from the University of Southern California ; and a PhD from the University of Chicago in 1988."
-  > Source: [Lorenzo Bini Smaghi](../sources/wikipedia-lorenzo-bini-smaghi.md) · grade A
+  > Source: [[sources/wikipedia-lorenzo-bini-smaghi|Lorenzo Bini Smaghi]] · grade A
 
-- [University of Southern California](../organisations/university-of-southern-california.md)  
+- [[organisations/university-of-southern-california|University of Southern California]]  
   > "With a scholarship from the U.S.-Italy Fulbright Commission , in 1980 he received a master's degree in Economics from the University of Southern California ; and a PhD from the University of Chicago in 1988."
-  > Source: [Lorenzo Bini Smaghi](../sources/wikipedia-lorenzo-bini-smaghi.md) · grade A
+  > Source: [[sources/wikipedia-lorenzo-bini-smaghi|Lorenzo Bini Smaghi]] · grade A
 
-- [Université Catholique De Louvain](../organisations/universite-catholique-de-louvain.md)  
+- [[organisations/universite-catholique-de-louvain|Université Catholique De Louvain]]  
   > "In 1978 he graduated in Economics from the Université catholique de Louvain (Belgium)."
-  > Source: [Lorenzo Bini Smaghi](../sources/wikipedia-lorenzo-bini-smaghi.md) · grade B
+  > Source: [[sources/wikipedia-lorenzo-bini-smaghi|Lorenzo Bini Smaghi]] · grade B
 
 ## Membership
 
-- [European Financial Services Roundtable (EFR)](../organisations/european-financial-services-roundtable-efr.md)  
+- [[organisations/european-financial-services-roundtable-efr|European Financial Services Roundtable (EFR)]]  
   > "&#91; 8 &#93; Other activities [ edit ] Corporate boards [ edit ] Tages Holding, Member of the Board of Directors (since 2014) &#91; 9 &#93; Italgas , Non-Executive Member and Chair of the Board of Directors (2016-2019) &#91; 10 &#93; ChiantiBanca , Chairman of the Board (2016-2017) Morgan Stanley International , Independent Member of the Board of Directors (2013-2014) &#91; 8 &#93; Snam , Chair of the Board of Directors (2012-2016) &#91; 8 &#93; Non-profit organizations [ edit"
-  > Source: [Lorenzo Bini Smaghi](../sources/wikipedia-lorenzo-bini-smaghi.md) · grade A
+  > Source: [[sources/wikipedia-lorenzo-bini-smaghi|Lorenzo Bini Smaghi]] · grade A
 
-- [Italy-USA Foundation](../organisations/italy-usa-foundation.md)  
+- [[organisations/italy-usa-foundation|Italy-USA Foundation]]  
   > "&#91; 8 &#93; Other activities [ edit ] Corporate boards [ edit ] Tages Holding, Member of the Board of Directors (since 2014) &#91; 9 &#93; Italgas , Non-Executive Member and Chair of the Board of Directors (2016-2019) &#91; 10 &#93; ChiantiBanca , Chairman of the Board (2016-2017) Morgan Stanley International , Independent Member of the Board of Directors (2013-2014) &#91; 8 &#93; Snam , Chair of the Board of Directors (2012-2016) &#91; 8 &#93; Non-profit organizations [ edit"
-  > Source: [Lorenzo Bini Smaghi](../sources/wikipedia-lorenzo-bini-smaghi.md) · grade A
+  > Source: [[sources/wikipedia-lorenzo-bini-smaghi|Lorenzo Bini Smaghi]] · grade A
 
 ## Board / trustee
 
-- [Bretton Woods Committee](../organisations/bretton-woods-committee.md) — board_member  
+- [[organisations/bretton-woods-committee|Bretton Woods Committee]] — board_member  
   > "&#91; 8 &#93; Other activities [ edit ] Corporate boards [ edit ] Tages Holding, Member of the Board of Directors (since 2014) &#91; 9 &#93; Italgas , Non-Executive Member and Chair of the Board of Directors (2016-2019) &#91; 10 &#93; ChiantiBanca , Chairman of the Board (2016-2017) Morgan Stanley International , Independent Member of the Board of Directors (2013-2014) &#91; 8 &#93; Snam , Chair of the Board of Directors (2012-2016) &#91; 8 &#93; Non-profit organizations [ edit"
-  > Source: [Lorenzo Bini Smaghi](../sources/wikipedia-lorenzo-bini-smaghi.md) · grade A
+  > Source: [[sources/wikipedia-lorenzo-bini-smaghi|Lorenzo Bini Smaghi]] · grade A
 
-- [ChiantiBanca](../organisations/chiantibanca.md) — board_member  
+- [[organisations/chiantibanca|ChiantiBanca]] — board_member  
   > "&#91; 8 &#93; Other activities [ edit ] Corporate boards [ edit ] Tages Holding, Member of the Board of Directors (since 2014) &#91; 9 &#93; Italgas , Non-Executive Member and Chair of the Board of Directors (2016-2019) &#91; 10 &#93; ChiantiBanca , Chairman of the Board (2016-2017) Morgan Stanley International , Independent Member of the Board of Directors (2013-2014) &#91; 8 &#93; Snam , Chair of the Board of Directors (2012-2016) &#91; 8 &#93; Non-profit organizations [ edit"
-  > Source: [Lorenzo Bini Smaghi](../sources/wikipedia-lorenzo-bini-smaghi.md) · grade A
+  > Source: [[sources/wikipedia-lorenzo-bini-smaghi|Lorenzo Bini Smaghi]] · grade A
 
-- [Italgas](../organisations/italgas.md) — board_member  
+- [[organisations/italgas|Italgas]] — board_member  
   > "&#91; 8 &#93; Other activities [ edit ] Corporate boards [ edit ] Tages Holding, Member of the Board of Directors (since 2014) &#91; 9 &#93; Italgas , Non-Executive Member and Chair of the Board of Directors (2016-2019) &#91; 10 &#93; ChiantiBanca , Chairman of the Board (2016-2017) Morgan Stanley International , Independent Member of the Board of Directors (2013-2014) &#91; 8 &#93; Snam , Chair of the Board of Directors (2012-2016) &#91; 8 &#93; Non-profit organizations [ edit"
-  > Source: [Lorenzo Bini Smaghi](../sources/wikipedia-lorenzo-bini-smaghi.md) · grade A
+  > Source: [[sources/wikipedia-lorenzo-bini-smaghi|Lorenzo Bini Smaghi]] · grade A
 
-- [Morgan Stanley International](../organisations/morgan-stanley-international.md) — board_member  
+- [[organisations/morgan-stanley-international|Morgan Stanley International]] — board_member  
   > "&#91; 8 &#93; Other activities [ edit ] Corporate boards [ edit ] Tages Holding, Member of the Board of Directors (since 2014) &#91; 9 &#93; Italgas , Non-Executive Member and Chair of the Board of Directors (2016-2019) &#91; 10 &#93; ChiantiBanca , Chairman of the Board (2016-2017) Morgan Stanley International , Independent Member of the Board of Directors (2013-2014) &#91; 8 &#93; Snam , Chair of the Board of Directors (2012-2016) &#91; 8 &#93; Non-profit organizations [ edit"
-  > Source: [Lorenzo Bini Smaghi](../sources/wikipedia-lorenzo-bini-smaghi.md) · grade A
+  > Source: [[sources/wikipedia-lorenzo-bini-smaghi|Lorenzo Bini Smaghi]] · grade A
 
-- [Scope Foundation](../organisations/scope-foundation.md) — board_member  
+- [[organisations/scope-foundation|Scope Foundation]] — board_member  
   > "&#91; 8 &#93; Other activities [ edit ] Corporate boards [ edit ] Tages Holding, Member of the Board of Directors (since 2014) &#91; 9 &#93; Italgas , Non-Executive Member and Chair of the Board of Directors (2016-2019) &#91; 10 &#93; ChiantiBanca , Chairman of the Board (2016-2017) Morgan Stanley International , Independent Member of the Board of Directors (2013-2014) &#91; 8 &#93; Snam , Chair of the Board of Directors (2012-2016) &#91; 8 &#93; Non-profit organizations [ edit"
-  > Source: [Lorenzo Bini Smaghi](../sources/wikipedia-lorenzo-bini-smaghi.md) · grade A
+  > Source: [[sources/wikipedia-lorenzo-bini-smaghi|Lorenzo Bini Smaghi]] · grade A
 
-- [Snam](../organisations/snam.md) — board_member  
+- [[organisations/snam|Snam]] — board_member  
   > "&#91; 8 &#93; Other activities [ edit ] Corporate boards [ edit ] Tages Holding, Member of the Board of Directors (since 2014) &#91; 9 &#93; Italgas , Non-Executive Member and Chair of the Board of Directors (2016-2019) &#91; 10 &#93; ChiantiBanca , Chairman of the Board (2016-2017) Morgan Stanley International , Independent Member of the Board of Directors (2013-2014) &#91; 8 &#93; Snam , Chair of the Board of Directors (2012-2016) &#91; 8 &#93; Non-profit organizations [ edit"
-  > Source: [Lorenzo Bini Smaghi](../sources/wikipedia-lorenzo-bini-smaghi.md) · grade A
+  > Source: [[sources/wikipedia-lorenzo-bini-smaghi|Lorenzo Bini Smaghi]] · grade A
 
-- [Tages Holding](../organisations/tages-holding.md) — board_member  
+- [[organisations/tages-holding|Tages Holding]] — board_member  
   > "&#91; 8 &#93; Other activities [ edit ] Corporate boards [ edit ] Tages Holding, Member of the Board of Directors (since 2014) &#91; 9 &#93; Italgas , Non-Executive Member and Chair of the Board of Directors (2016-2019) &#91; 10 &#93; ChiantiBanca , Chairman of the Board (2016-2017) Morgan Stanley International , Independent Member of the Board of Directors (2013-2014) &#91; 8 &#93; Snam , Chair of the Board of Directors (2012-2016) &#91; 8 &#93; Non-profit organizations [ edit"
-  > Source: [Lorenzo Bini Smaghi](../sources/wikipedia-lorenzo-bini-smaghi.md) · grade A
+  > Source: [[sources/wikipedia-lorenzo-bini-smaghi|Lorenzo Bini Smaghi]] · grade A
 
 ## Advisory board
 
-- [Leibniz Institute for Financial Research (SAFE)](../organisations/leibniz-institute-for-financial-research-safe.md) — advisory_board  
+- [[organisations/leibniz-institute-for-financial-research-safe|Leibniz Institute for Financial Research (SAFE)]] — advisory_board  
   > "&#91; 8 &#93; Other activities [ edit ] Corporate boards [ edit ] Tages Holding, Member of the Board of Directors (since 2014) &#91; 9 &#93; Italgas , Non-Executive Member and Chair of the Board of Directors (2016-2019) &#91; 10 &#93; ChiantiBanca , Chairman of the Board (2016-2017) Morgan Stanley International , Independent Member of the Board of Directors (2013-2014) &#91; 8 &#93; Snam , Chair of the Board of Directors (2012-2016) &#91; 8 &#93; Non-profit organizations [ edit"
-  > Source: [Lorenzo Bini Smaghi](../sources/wikipedia-lorenzo-bini-smaghi.md) · grade A
+  > Source: [[sources/wikipedia-lorenzo-bini-smaghi|Lorenzo Bini Smaghi]] · grade A
 
 ## Chair / president
 
-- [Fondazione Palazzo Strozzi](../organisations/fondazione-palazzo-strozzi.md) — chair  
+- [[organisations/fondazione-palazzo-strozzi|Fondazione Palazzo Strozzi]] — chair  
   > "&#91; 8 &#93; Other activities [ edit ] Corporate boards [ edit ] Tages Holding, Member of the Board of Directors (since 2014) &#91; 9 &#93; Italgas , Non-Executive Member and Chair of the Board of Directors (2016-2019) &#91; 10 &#93; ChiantiBanca , Chairman of the Board (2016-2017) Morgan Stanley International , Independent Member of the Board of Directors (2013-2014) &#91; 8 &#93; Snam , Chair of the Board of Directors (2012-2016) &#91; 8 &#93; Non-profit organizations [ edit"
-  > Source: [Lorenzo Bini Smaghi](../sources/wikipedia-lorenzo-bini-smaghi.md) · grade A
+  > Source: [[sources/wikipedia-lorenzo-bini-smaghi|Lorenzo Bini Smaghi]] · grade A
 
-- [Société Générale](../organisations/societe-generale.md) — chair  
+- [[organisations/societe-generale|Société Générale]] — chair  
   > "He has been chairman of Société Générale since 2015."
-  > Source: [Lorenzo Bini Smaghi](../sources/wikipedia-lorenzo-bini-smaghi.md) · grade A
+  > Source: [[sources/wikipedia-lorenzo-bini-smaghi|Lorenzo Bini Smaghi]] · grade A
 
 ## Fellowship
 
-- [Istituto Affari Internazionali](../organisations/istituto-affari-internazionali.md) — fellow  
+- [[organisations/istituto-affari-internazionali|Istituto Affari Internazionali]] — fellow  
   > "&#91; 4 &#93; Private sector [ edit ] In 2012, Bini Smaghi became a visiting scholar at Harvard's Weatherhead Center for International Affairs and Senior Research Fellow at Istituto Affari Internazionali in Rome."
-  > Source: [Lorenzo Bini Smaghi](../sources/wikipedia-lorenzo-bini-smaghi.md) · grade A
+  > Source: [[sources/wikipedia-lorenzo-bini-smaghi|Lorenzo Bini Smaghi]] · grade A

@@ -16,9 +16,9 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (3)
 
-- [Dagmar Roth-Behrendt](../people/dagmar-roth-behrendt.md) — affiliated_with — Social Democratic Party
+- [[people/dagmar-roth-behrendt|Dagmar Roth-Behrendt]] — affiliated_with — Social Democratic Party
   > "She was elected on the SPD ticket and sat with the Party of European Socialists group."
-- [Dagmar Roth-Behrendt](../people/dagmar-roth-behrendt.md) — affiliated_with — Party of European Socialists
+- [[people/dagmar-roth-behrendt|Dagmar Roth-Behrendt]] — affiliated_with — Party of European Socialists
   > "She was elected on the SPD ticket and sat with the Party of European Socialists group."
-- [Dagmar Roth-Behrendt](../people/dagmar-roth-behrendt.md) — member — Committee on the Environment, Public Health and Food Safety
+- [[people/dagmar-roth-behrendt|Dagmar Roth-Behrendt]] — member — Committee on the Environment, Public Health and Food Safety
   > "Throughout her time in parliament, Roth-Behrendt served on the Committee on the Environment, Public Health and Food Safety ."

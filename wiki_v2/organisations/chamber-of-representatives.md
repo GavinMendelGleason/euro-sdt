@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Paul-Henry Gendebien](../people/paul-henry-gendebien.md)  
+- [[people/paul-henry-gendebien|Paul-Henry Gendebien]]  
   > "In 1971 , he was elected to the Chamber of Representatives and, &#91; 3 &#93; in 1979 , he was elected as a member of the European Parliament ."
-  > Source: [Paul Henry Gendebien](../sources/wikipedia-paul-henry-gendebien.md) · grade A
+  > Source: [[sources/wikipedia-paul-henry-gendebien|Paul Henry Gendebien]] · grade A

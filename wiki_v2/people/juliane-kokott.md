@@ -18,10 +18,10 @@ Cjeu Ag · Germany
 
 ## Education
 
-- [Harvard Law School](../organisations/harvard-law-school.md)  
+- [[organisations/harvard-law-school|Harvard Law School]]  
   > "On her return to Europe she obtained a doctorate in law from the Universität Heidelberg (University of Heidelberg, Germany) in 1985, then from Harvard University (United States) in 1990."
-  > Source: [Juliane Kokott](../sources/cjeu-juliane-kokott.md) · grade A
+  > Source: [[sources/cjeu-juliane-kokott|Juliane Kokott]] · grade A
 
-- [Heidelberg University](../organisations/heidelberg-university.md)  
+- [[organisations/heidelberg-university|Heidelberg University]]  
   > "On her return to Europe she obtained a doctorate in law from the Universität Heidelberg (University of Heidelberg, Germany) in 1985, then from Harvard University (United States) in 1990."
-  > Source: [Juliane Kokott](../sources/cjeu-juliane-kokott.md) · grade A
+  > Source: [[sources/cjeu-juliane-kokott|Juliane Kokott]] · grade A

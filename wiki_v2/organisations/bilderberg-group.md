@@ -28,30 +28,30 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Charlie McCreevy](../people/charlie-mccreevy.md)  
+- [[people/charlie-mccreevy|Charlie McCreevy]]  
   > "McCreevy is a member of the Bilderberg Group."
-  > Source: [Charlie Mccreevy](../sources/wikipedia-charlie-mccreevy.md) · grade A
-- [Connie Hedegaard](../people/connie-hedegaard.md)  
+  > Source: [[sources/wikipedia-charlie-mccreevy|Charlie Mccreevy]] · grade A
+- [[people/connie-hedegaard|Connie Hedegaard]]  
   > "Bilderberg Group, Member of the Steering Committee"
-  > Source: [Connie Hedegaard](../sources/wikipedia-connie-hedegaard.md) · grade A
-- [Emma Bonino](../people/emma-bonino.md) — attendee  
+  > Source: [[sources/wikipedia-connie-hedegaard|Connie Hedegaard]] · grade A
+- [[people/emma-bonino|Emma Bonino]] — attendee  
   > "From 14 to 17 May 1998, she participated in the annual meeting of the Bilderberg Group at Turnberry, Scotland."
-  > Source: [Emma Bonino](../sources/wikipedia-emma-bonino.md) · grade C
-- [Erkki Liikanen](../people/erkki-liikanen.md)  
+  > Source: [[sources/wikipedia-emma-bonino|Emma Bonino]] · grade C
+- [[people/erkki-liikanen|Erkki Liikanen]]  
   > "Bilderberg Group, Member of the Steering Committee"
-  > Source: [Erkki Liikanen](../sources/wikipedia-erkki-liikanen.md) · grade A
-- [Mario Monti](../people/mario-monti.md)  
+  > Source: [[sources/wikipedia-erkki-liikanen|Erkki Liikanen]] · grade A
+- [[people/mario-monti|Mario Monti]]  
   > "Monti is also a leading member of the exclusive Bilderberg Group."
-  > Source: [Mario Monti](../sources/wikipedia-mario-monti.md) · grade A
-- [Neelie Kroes](../people/neelie-kroes.md) — attendee  
+  > Source: [[sources/wikipedia-mario-monti|Mario Monti]] · grade A
+- [[people/neelie-kroes|Neelie Kroes]] — attendee  
   > "Kroes attended conferences organized by the Bilderberg Group every year between 2005 and 2012."
-  > Source: [Neelie Kroes](../sources/wikipedia-neelie-kroes.md) · grade C
-- [Peter Mandelson](../people/peter-mandelson.md) — attendee  
+  > Source: [[sources/wikipedia-neelie-kroes|Neelie Kroes]] · grade C
+- [[people/peter-mandelson|Peter Mandelson]] — attendee  
   > "In 1999, 2008, 2009, 2011, 2012, 2013, and 2014, Mandelson was an invited guest of the Bilderberg Group and attended the annual conferences."
-  > Source: [Peter Mandelson](../sources/wikipedia-peter-mandelson.md) · grade A
-- [Ritt Bjerregaard](../people/ritt-bjerregaard.md) — attendee  
+  > Source: [[sources/wikipedia-peter-mandelson|Peter Mandelson]] · grade A
+- [[people/ritt-bjerregaard|Ritt Bjerregaard]] — attendee  
   > "She has attended at least one Bilderberg Group meeting from 8–11 June 1995."
-  > Source: [Ritt Bjerregaard](../sources/wikipedia-ritt-bjerregaard.md) · grade C
-- [Romano Prodi](../people/romano-prodi.md)  
+  > Source: [[sources/wikipedia-ritt-bjerregaard|Ritt Bjerregaard]] · grade C
+- [[people/romano-prodi|Romano Prodi]]  
   > "He is a former member of the Steering Committee of the Bilderberg Group."
-  > Source: [Romano Prodi](../sources/wikipedia-romano-prodi.md) · grade A
+  > Source: [[sources/wikipedia-romano-prodi|Romano Prodi]] · grade A

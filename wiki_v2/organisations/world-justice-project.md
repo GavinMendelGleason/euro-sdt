@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [António Vitorino](../people/antonio-vitorino.md) — chair  
+- [[people/antonio-vitorino|António Vitorino]] — chair  
   > "World Justice Project, Honorary Co-chair"
-  > Source: [Antonio Vitorino](../sources/wikipedia-antonio-vitorino.md) · grade A
+  > Source: [[sources/wikipedia-antonio-vitorino|Antonio Vitorino]] · grade A

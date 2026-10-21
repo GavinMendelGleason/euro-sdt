@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Mário Soares](../people/mario-soares.md)  
+- [[people/mario-soares|Mário Soares]]  
   > "He was active in resistance groups such as the Movement for Anti-Fascist National Unity and the Movement for Democratic Unity."
-  > Source: [M Rio Soares](../sources/wikipedia-m-rio-soares.md) · grade C
+  > Source: [[sources/wikipedia-m-rio-soares|M Rio Soares]] · grade C

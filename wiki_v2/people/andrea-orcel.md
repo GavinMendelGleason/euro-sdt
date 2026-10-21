@@ -18,44 +18,44 @@ Corporate Elite
 
 ## Education
 
-- [Insead](../organisations/insead.md)  
+- [[organisations/insead|Insead]]  
   > "&#91; 13 &#93; He went on to attend the INSEAD business school in Fontainebleau, France ."
-  > Source: [Andrea Orcel](../sources/wikipedia-andrea-orcel.md) · grade A
+  > Source: [[sources/wikipedia-andrea-orcel|Andrea Orcel]] · grade A
 
-- [University of Rome, Sapienza](../organisations/university-of-rome-sapienza.md)  
+- [[organisations/university-of-rome-sapienza|University of Rome, Sapienza]]  
   > "&#91; 11 &#93; Orcel attended the University of Rome, Sapienza , majoring in economics and commerce."
-  > Source: [Andrea Orcel](../sources/wikipedia-andrea-orcel.md) · grade A
+  > Source: [[sources/wikipedia-andrea-orcel|Andrea Orcel]] · grade A
 
 ## Chair / president
 
-- [UBS Investment Bank](../organisations/ubs-investment-bank.md) — chair  
+- [[organisations/ubs-investment-bank|UBS Investment Bank]] — chair  
   > "&#91; 2 &#93; He was the president of UBS Investment Bank from November 2014 to September 2018."
-  > Source: [Andrea Orcel](../sources/wikipedia-andrea-orcel.md) · grade A
+  > Source: [[sources/wikipedia-andrea-orcel|Andrea Orcel]] · grade A
 
 ## Affiliation
 
-- [Boston Consulting Group](../organisations/boston-consulting-group.md)  
+- [[organisations/boston-consulting-group|Boston Consulting Group]]  
   > "&#91; 15 &#93; A year later, he left the firm to work as a consultant at Boston Consulting Group from 1989 to 1992 in their strategy consulting practice in Paris."
-  > Source: [Andrea Orcel](../sources/wikipedia-andrea-orcel.md) · grade B
+  > Source: [[sources/wikipedia-andrea-orcel|Andrea Orcel]] · grade B
 
-- [Goldman Sachs](../organisations/goldman-sachs.md)  
+- [[organisations/goldman-sachs|Goldman Sachs]]  
   > "Upon his graduation, Orcel was hired by American investment bank Goldman Sachs in 1988, aged 25, to work in their fixed income business in London ."
-  > Source: [Andrea Orcel](../sources/wikipedia-andrea-orcel.md) · grade B
+  > Source: [[sources/wikipedia-andrea-orcel|Andrea Orcel]] · grade B
 
-- [Merrill Lynch & Co.](../organisations/merrill-lynch-co.md)  
+- [[organisations/merrill-lynch-co|Merrill Lynch & Co.]]  
   > "&#91; 14 &#93; Career [ edit ] Merrill Lynch [ edit ] Orcel worked at Merrill Lynch &amp; Co."
-  > Source: [Andrea Orcel](../sources/wikipedia-andrea-orcel.md) · grade B
+  > Source: [[sources/wikipedia-andrea-orcel|Andrea Orcel]] · grade B
 
 ## Employment
 
-- [Banco Santander](../organisations/banco-santander.md) — employed_by  
+- [[organisations/banco-santander|Banco Santander]] — employed_by  
   > "&#91; 2 &#93; He was poised to take on the role of Chief Executive of Banco Santander from September 2018 to January 2019; however, the job offer was withdrawn which resulted in him taking legal action against Santander."
-  > Source: [Andrea Orcel](../sources/wikipedia-andrea-orcel.md) · grade A
+  > Source: [[sources/wikipedia-andrea-orcel|Andrea Orcel]] · grade A
 
-- [European Card Services](../organisations/european-card-services.md) — employed_by  
+- [[organisations/european-card-services|European Card Services]] — employed_by  
   > "&#91; 27 &#93; &#91; 12 &#93; In 2009, Orcel was asked to serve as the executive chairman of the investment bank, eventually being appointed chief executive of European Card Services."
-  > Source: [Andrea Orcel](../sources/wikipedia-andrea-orcel.md) · grade A
+  > Source: [[sources/wikipedia-andrea-orcel|Andrea Orcel]] · grade A
 
-- [UniCredit](../organisations/unicredit.md) — employed_by  
+- [[organisations/unicredit|UniCredit]] — employed_by  
   > "Italian investment banker (born 1963) Andrea Orcel ( Italian: &#91;anˈdrɛːa orˈtʃɛl&#93; ; &#91; 1 &#93; born May 14, 1963) is an Italian investment banker who is CEO of UniCredit ."
-  > Source: [Andrea Orcel](../sources/wikipedia-andrea-orcel.md) · grade A
+  > Source: [[sources/wikipedia-andrea-orcel|Andrea Orcel]] · grade A

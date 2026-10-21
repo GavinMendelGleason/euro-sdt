@@ -16,7 +16,7 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (2)
 
-- [Manuel António Dos Santos](../people/manuel-antonio-dos-santos.md) — member — Socialist Party
+- [[people/manuel-antonio-dos-santos|Manuel António Dos Santos]] — member — Socialist Party
   > "Portuguese politician dos Santos in 1999 Manuel António dos Santos (born 5 December 1943 in Mirandela ) is a Portuguese politician who served as Member of the European Parliament for the Socialist Party , part of the Party of European Socialists , from 2001 until 2019."
-- [Manuel António Dos Santos](../people/manuel-antonio-dos-santos.md) — member — Party of European Socialists
+- [[people/manuel-antonio-dos-santos|Manuel António Dos Santos]] — member — Party of European Socialists
   > "Portuguese politician dos Santos in 1999 Manuel António dos Santos (born 5 December 1943 in Mirandela ) is a Portuguese politician who served as Member of the European Parliament for the Socialist Party , part of the Party of European Socialists , from 2001 until 2019."

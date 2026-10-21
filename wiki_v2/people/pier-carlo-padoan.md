@@ -18,40 +18,40 @@ Corporate Elite
 
 ## Education
 
-- [Sapienza University Of Rome](../organisations/sapienza-university-of-rome.md)  
+- [[organisations/sapienza-university-of-rome|Sapienza University Of Rome]]  
   > "In the 1970s, he graduated in economics at the La Sapienza University in Rome."
-  > Source: [Pier Carlo Padoan](../sources/wikipedia-pier-carlo-padoan.md) · grade C
+  > Source: [[sources/wikipedia-pier-carlo-padoan|Pier Carlo Padoan]] · grade C
 
 ## Board / trustee
 
-- [International Monetary Fund](../organisations/international-monetary-fund.md) — board_member  
+- [[organisations/international-monetary-fund|International Monetary Fund]] — board_member  
   > "&#91; 1 &#93; Padoan was director of the International Monetary Fund for Italy from 2001 to 2005."
-  > Source: [Pier Carlo Padoan](../sources/wikipedia-pier-carlo-padoan.md) · grade A
+  > Source: [[sources/wikipedia-pier-carlo-padoan|Pier Carlo Padoan]] · grade A
 
-- [UniCredit](../organisations/unicredit.md) — board_member  
+- [[organisations/unicredit|UniCredit]] — board_member  
   > "Since April 2021 he is Chairman of the Board of Directors of the Italian bank UniCredit ."
-  > Source: [Pier Carlo Padoan](../sources/wikipedia-pier-carlo-padoan.md) · grade A
+  > Source: [[sources/wikipedia-pier-carlo-padoan|Pier Carlo Padoan]] · grade A
 
 ## Chair / president
 
-- [Party of European Socialists Finance Ministers Network](../organisations/party-of-european-socialists-finance-ministers-network.md) — chair  
+- [[organisations/party-of-european-socialists-finance-ministers-network|Party of European Socialists Finance Ministers Network]] — chair  
   > "&#91; 7 &#93; &#91; 8 &#93; In June 2016, he was also elected chairman of the Party of European Socialists ’ Finance Ministers Network."
-  > Source: [Pier Carlo Padoan](../sources/wikipedia-pier-carlo-padoan.md) · grade C
+  > Source: [[sources/wikipedia-pier-carlo-padoan|Pier Carlo Padoan]] · grade C
 
 ## Affiliation
 
-- [European Central Bank](../organisations/european-central-bank.md)  
+- [[organisations/european-central-bank|European Central Bank]]  
   > "He is a consultant to the World Bank , European Commission and European Central Bank , where he has called for aggressive easing."
-  > Source: [Pier Carlo Padoan](../sources/wikipedia-pier-carlo-padoan.md) · grade B
+  > Source: [[sources/wikipedia-pier-carlo-padoan|Pier Carlo Padoan]] · grade B
 
-- [European Commission](../organisations/european-commission.md)  
+- [[organisations/european-commission|European Commission]]  
   > "He is a consultant to the World Bank , European Commission and European Central Bank , where he has called for aggressive easing."
-  > Source: [Pier Carlo Padoan](../sources/wikipedia-pier-carlo-padoan.md) · grade B
+  > Source: [[sources/wikipedia-pier-carlo-padoan|Pier Carlo Padoan]] · grade B
 
-- [Organisation for Economic Co-operation and Development (OECD)](../organisations/organisation-for-economic-co-operation-and-development-oecd.md)  
+- [[organisations/organisation-for-economic-co-operation-and-development-oecd|Organisation for Economic Co-operation and Development (OECD)]]  
   > "On 1 June 2007, he became Deputy Secretary General of the Organisation for Economic Co-operation and Development (OECD)."
-  > Source: [Pier Carlo Padoan](../sources/wikipedia-pier-carlo-padoan.md) · grade B
+  > Source: [[sources/wikipedia-pier-carlo-padoan|Pier Carlo Padoan]] · grade B
 
-- [World Bank](../organisations/world-bank.md)  
+- [[organisations/world-bank|World Bank]]  
   > "He is a consultant to the World Bank , European Commission and European Central Bank , where he has called for aggressive easing."
-  > Source: [Pier Carlo Padoan](../sources/wikipedia-pier-carlo-padoan.md) · grade B
+  > Source: [[sources/wikipedia-pier-carlo-padoan|Pier Carlo Padoan]] · grade B

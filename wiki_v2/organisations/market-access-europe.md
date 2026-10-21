@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Pia Ahrenkilde Hansen](../people/pia-ahrenkilde-hansen.md) — board_member  
+- [[people/pia-ahrenkilde-hansen|Pia Ahrenkilde Hansen]] — board_member  
   > "Responsible for international aspects, regulation, deregulation, trade and competition, enlargement, industry relations, training – former DG III-A-6 Professional experience before joining the European Institutions  1992 – 1995: MARKET ACCESS EUROPE - EU Public Affairs consultancy - Senior Consultant, Associate Director, member of the Board."
-  > Source: [Pia Ahrenkilde Hansen](../sources/dg_cv-pia-ahrenkilde-hansen.md) · grade A
+  > Source: [[sources/dg_cv-pia-ahrenkilde-hansen|Pia Ahrenkilde Hansen]] · grade A

@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Pierre Moscovici](../people/pierre-moscovici.md) — founder  
+- [[people/pierre-moscovici|Pierre Moscovici]] — founder  
   > "He was a president of À gauche en Europe, a group founded by Strauss-Kahn and Michel Rocard and also created his own group \"Besoin de Gauche\"."
-  > Source: [Pierre Moscovici](../sources/wikipedia-pierre-moscovici.md) · grade A
+  > Source: [[sources/wikipedia-pierre-moscovici|Pierre Moscovici]] · grade A

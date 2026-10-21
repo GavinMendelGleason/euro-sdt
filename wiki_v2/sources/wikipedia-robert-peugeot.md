@@ -16,23 +16,23 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (10)
 
-- [Robert Peugeot](../people/robert-peugeot.md) — board_member — Forvia
+- [[people/robert-peugeot|Robert Peugeot]] — board_member — Forvia
   > "&#91; 6 &#93; &#91; 7 &#93; Other functions and corporate offices [ edit ] Member of the executive committee of PSA Peugeot Citroën (1998–2007) Member of the supervisory board of PSA Peugeot Citroën (since 2007) and chairman of the strategic committee of PSA Peugeot Citroën Member of the board of directors of Forvia Member of the board of directors of Safran Member of the board of directors of Ste […]"
-- [Robert Peugeot](../people/robert-peugeot.md) — board_member — Safran
+- [[people/robert-peugeot|Robert Peugeot]] — board_member — Safran
   > "&#91; 6 &#93; &#91; 7 &#93; Other functions and corporate offices [ edit ] Member of the executive committee of PSA Peugeot Citroën (1998–2007) Member of the supervisory board of PSA Peugeot Citroën (since 2007) and chairman of the strategic committee of PSA Peugeot Citroën Member of the board of directors of Forvia Member of the board of directors of Safran Member of the board of directors of Ste […]"
-- [Robert Peugeot](../people/robert-peugeot.md) — board_member — Stellantis
+- [[people/robert-peugeot|Robert Peugeot]] — board_member — Stellantis
   > "&#91; 6 &#93; &#91; 7 &#93; Other functions and corporate offices [ edit ] Member of the executive committee of PSA Peugeot Citroën (1998–2007) Member of the supervisory board of PSA Peugeot Citroën (since 2007) and chairman of the strategic committee of PSA Peugeot Citroën Member of the board of directors of Forvia Member of the board of directors of Safran Member of the board of directors of Ste […]"
-- [Robert Peugeot](../people/robert-peugeot.md) — chair — Peugeot Invest
+- [[people/robert-peugeot|Robert Peugeot]] — chair — Peugeot Invest
   > "He is chairman of Peugeot Invest , the listed investment company that is one of the two main shareholders in Stellantis and majority-owned by Établissements Peugeot Frères (Peugeot Brothers)."
-- [Robert Peugeot](../people/robert-peugeot.md) — chair — FFP
+- [[people/robert-peugeot|Robert Peugeot]] — chair — FFP
   > "Chairman of the family investment company [ edit ] In February 2002, Robert Peugeot was appointed chairman and chief executive officer of FFP , a listed investment company and Peugeot SA 's largest shareholder (22.1%)."
-- [Robert Peugeot](../people/robert-peugeot.md) — educated_at — Lycée Cuvier
+- [[people/robert-peugeot|Robert Peugeot]] — educated_at — Lycée Cuvier
   > "Early life and family [ edit ] After completing his primary and secondary education at the Lycée Cuvier in Montbéliard and then at Janson-de-Sailly in Paris, Robert Peugeot was accepted at the École Centrale Paris and obtained his Diplôme d'Ingénieur (the engineering degree in France) in 1971, which he completed at INSEAD in 1973."
-- [Robert Peugeot](../people/robert-peugeot.md) — educated_at — Janson-de-Sailly
+- [[people/robert-peugeot|Robert Peugeot]] — educated_at — Janson-de-Sailly
   > "Early life and family [ edit ] After completing his primary and secondary education at the Lycée Cuvier in Montbéliard and then at Janson-de-Sailly in Paris, Robert Peugeot was accepted at the École Centrale Paris and obtained his Diplôme d'Ingénieur (the engineering degree in France) in 1971, which he completed at INSEAD in 1973."
-- [Robert Peugeot](../people/robert-peugeot.md) — educated_at — École Centrale Paris
+- [[people/robert-peugeot|Robert Peugeot]] — educated_at — École Centrale Paris
   > "Early life and family [ edit ] After completing his primary and secondary education at the Lycée Cuvier in Montbéliard and then at Janson-de-Sailly in Paris, Robert Peugeot was accepted at the École Centrale Paris and obtained his Diplôme d'Ingénieur (the engineering degree in France) in 1971, which he completed at INSEAD in 1973."
-- [Robert Peugeot](../people/robert-peugeot.md) — educated_at — Insead
+- [[people/robert-peugeot|Robert Peugeot]] — educated_at — Insead
   > "Early life and family [ edit ] After completing his primary and secondary education at the Lycée Cuvier in Montbéliard and then at Janson-de-Sailly in Paris, Robert Peugeot was accepted at the École Centrale Paris and obtained his Diplôme d'Ingénieur (the engineering degree in France) in 1971, which he completed at INSEAD in 1973."
-- [Robert Peugeot](../people/robert-peugeot.md) — employed_by — PSA Peugeot Citroën
+- [[people/robert-peugeot|Robert Peugeot]] — employed_by — PSA Peugeot Citroën
   > "&#91; 2 &#93; In 2007, Robert Peugeot decided to leave the executive committee of PSA Peugeot Citroën to join the supervisory board of PSA Peugeot Citroën and, given the growth achieved by FFP, to manage the company on a full-time basis."

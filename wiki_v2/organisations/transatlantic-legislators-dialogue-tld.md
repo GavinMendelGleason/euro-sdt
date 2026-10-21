@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Adina-Ioana Vălean](../people/adina-ioana-valean.md)  
+- [[people/adina-ioana-valean|Adina-Ioana Vălean]]  
   > "She was also a member of the Transatlantic Legislators' Dialogue (TLD); the European Internet Forum; and the European Parliament Intergroup on Long Term Investment and Reindustrialisation."
-  > Source: [Adina Ioana Valean](../sources/wikipedia-adina-ioana-valean.md) · grade A
+  > Source: [[sources/wikipedia-adina-ioana-valean|Adina Ioana Valean]] · grade A

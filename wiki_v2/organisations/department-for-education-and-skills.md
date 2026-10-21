@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Catherine Ashton](../people/catherine-ashton.md) — employed_by  
+- [[people/catherine-ashton|Catherine Ashton]] — employed_by  
   > "In June 2001 she was appointed Parliamentary Under-Secretary of State in the Department for Education and Skills."
-  > Source: [Catherine Ashton](../sources/wikipedia-catherine-ashton.md) · grade C
+  > Source: [[sources/wikipedia-catherine-ashton|Catherine Ashton]] · grade C

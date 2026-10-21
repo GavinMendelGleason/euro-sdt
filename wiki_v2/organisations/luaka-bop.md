@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [David Byrne](../people/david-byrne.md) — founder  
+- [[people/david-byrne|David Byrne]] — founder  
   > "David Byrne co-founded the world music record label Luaka Bop with Yale Evelev in 1990."
-  > Source: [David Byrne](../sources/wikipedia-david-byrne.md) · grade A
+  > Source: [[sources/wikipedia-david-byrne|David Byrne]] · grade A

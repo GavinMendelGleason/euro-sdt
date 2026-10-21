@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Eugen Tomac](../people/eugen-tomac.md)  
+- [[people/eugen-tomac|Eugen Tomac]]  
   > "He was the leader of the Parliamentary Group of the People Movement Party from the Chamber of Deputies."
-  > Source: [Eugen Tomac](../sources/wikipedia-eugen-tomac.md) · grade C
+  > Source: [[sources/wikipedia-eugen-tomac|Eugen Tomac]] · grade C

@@ -18,72 +18,72 @@ Commissioner
 
 ## Commission service
 
-- [Barroso II](../commissions/barroso-ii.md)  
+- [[commissions/barroso-ii|Barroso II]]  
   > "He was previously the European Commissioner for Consumer Protection in the Second Barroso Commission from July 2013 until November 2014 and was in that regard the first European Union Commissioner from Croatia following its accession to the European Union."
-  > Source: [Neven Mimica](../sources/wikipedia-neven-mimica.md) · grade A
+  > Source: [[sources/wikipedia-neven-mimica|Neven Mimica]] · grade A
 
-- [Juncker Commission](../commissions/juncker-commission.md)  
+- [[commissions/juncker-commission|Juncker Commission]]  
   > "Neven Mimica (pronounced [nêʋen mîmit͡sa]; born 12 October 1953) is a Croatian politician and diplomat who has been serving as European Commissioner for International Cooperation and Development in the Juncker Commission since 1 November 2014."
-  > Source: [Neven Mimica](../sources/wikipedia-neven-mimica.md) · grade A
+  > Source: [[sources/wikipedia-neven-mimica|Neven Mimica]] · grade A
 
 ## Portfolio
 
 - Consumer Policy  
   > "Member of the European Commission, 2013–2019 On 1 July 2013 Mimica became European Commissioner for Consumer Protection in the European Commission."
-  > Source: [Neven Mimica](../sources/wikipedia-neven-mimica.md) · grade A
+  > Source: [[sources/wikipedia-neven-mimica|Neven Mimica]] · grade A
 
 - International Cooperation and Development  
   > "Neven Mimica (pronounced [nêʋen mîmit͡sa]; born 12 October 1953) is a Croatian politician and diplomat who has been serving as European Commissioner for International Cooperation and Development in the Juncker Commission since 1 November 2014."
-  > Source: [Neven Mimica](../sources/wikipedia-neven-mimica.md) · grade A
+  > Source: [[sources/wikipedia-neven-mimica|Neven Mimica]] · grade A
 
 ## Nominated by
 
 - HRV  
   > "Neven Mimica (pronounced [nêʋen mîmit͡sa]; born 12 October 1953) is a Croatian politician and diplomat who has been serving as European Commissioner for International Cooperation and Development in the Juncker Commission since 1 November 2014."
-  > Source: [Neven Mimica](../sources/wikipedia-neven-mimica.md) · grade A
+  > Source: [[sources/wikipedia-neven-mimica|Neven Mimica]] · grade A
 
 ## Country
 
 - Croatia  
   > "Neven Mimica (pronounced [nêʋen mîmit͡sa]; born 12 October 1953) is a Croatian politician and diplomat who has been serving as European Commissioner for International Cooperation and Development in the Juncker Commission since 1 November 2014."
-  > Source: [Neven Mimica](../sources/wikipedia-neven-mimica.md) · grade A
+  > Source: [[sources/wikipedia-neven-mimica|Neven Mimica]] · grade A
 
 ## Education
 
-- [University Of Zagreb Faculty Of Economics](../organisations/university-of-zagreb-faculty-of-economics.md)  
+- [[organisations/university-of-zagreb-faculty-of-economics|University Of Zagreb Faculty Of Economics]]  
   > "Early life and career The son of primary-school teachers, Mimica graduated from the University of Zagreb Faculty of Economics in 1976."
-  > Source: [Neven Mimica](../sources/wikipedia-neven-mimica.md) · grade A
+  > Source: [[sources/wikipedia-neven-mimica|Neven Mimica]] · grade A
 
 ## Membership
 
-- [Lead Group of the Scaling Up Nutrition Movement](../organisations/lead-group-of-the-scaling-up-nutrition-movement.md)  
+- [[organisations/lead-group-of-the-scaling-up-nutrition-movement|Lead Group of the Scaling Up Nutrition Movement]]  
   > "In September 2016, Mimica was appointed by United Nations Secretary-General Ban Ki-moon to serve as member of the Lead Group of the Scaling Up Nutrition Movement."
-  > Source: [Neven Mimica](../sources/wikipedia-neven-mimica.md) · grade A
+  > Source: [[sources/wikipedia-neven-mimica|Neven Mimica]] · grade A
 
-- [Scaling Up Nutrition (SUN) Movement](../organisations/scaling-up-nutrition-sun-movement.md)  
+- [[organisations/scaling-up-nutrition-sun-movement|Scaling Up Nutrition (SUN) Movement]]  
   > "In September 2016, Mimica was appointed by United Nations Secretary-General Ban Ki-moon to serve as member of the Lead Group of the Scaling Up Nutrition Movement."
-  > Source: [Neven Mimica](../sources/wikipedia-neven-mimica.md) · grade C
+  > Source: [[sources/wikipedia-neven-mimica|Neven Mimica]] · grade C
 
-- [Social Democratic Party](../organisations/social-democratic-party.md) — party_member  
+- [[organisations/social-democratic-party|Social Democratic Party]] — party_member  
   > "Mimica was elected to the Croatian Parliament in the 2003 elections as a representative of the Social Democratic Party, and again in 2007."
-  > Source: [Neven Mimica](../sources/wikipedia-neven-mimica.md) · grade A
+  > Source: [[sources/wikipedia-neven-mimica|Neven Mimica]] · grade A
 
 ## Board / trustee
 
-- [Friends of the Global Fund](../organisations/friends-of-the-global-fund.md) — board_member  
+- [[organisations/friends-of-the-global-fund|Friends of the Global Fund]] — board_member  
   > "Friends of the Global Fund, Member of the Board of Directors (since 2020)"
-  > Source: [Neven Mimica](../sources/wikipedia-neven-mimica.md) · grade A
+  > Source: [[sources/wikipedia-neven-mimica|Neven Mimica]] · grade A
 
 ## Employment
 
-- [Astra](../organisations/astra.md) — employed_by  
+- [[organisations/astra|Astra]] — employed_by  
   > "His first job was to handle agricultural exports for the Croatian company Astra."
-  > Source: [Neven Mimica](../sources/wikipedia-neven-mimica.md) · grade C
+  > Source: [[sources/wikipedia-neven-mimica|Neven Mimica]] · grade C
 
-- [Croatian Parliament](../organisations/croatian-parliament.md) — employed_by  
+- [[organisations/croatian-parliament|Croatian Parliament]] — employed_by  
   > "From January 2008 he served as deputy speaker of the Croatian parliament and also as the chairman of the parliament's Committee for European Integration."
-  > Source: [Neven Mimica](../sources/wikipedia-neven-mimica.md) · grade A
+  > Source: [[sources/wikipedia-neven-mimica|Neven Mimica]] · grade A
 
-- [European Commission](../organisations/european-commission.md) — employed_by  
+- [[organisations/european-commission|European Commission]] — employed_by  
   > "On 1 July 2013 Mimica became European Commissioner for Consumer Protection in the European Commission."
-  > Source: [Neven Mimica](../sources/wikipedia-neven-mimica.md) · grade C
+  > Source: [[sources/wikipedia-neven-mimica|Neven Mimica]] · grade C

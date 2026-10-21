@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Peter Mandelson](../people/peter-mandelson.md)  
+- [[people/peter-mandelson|Peter Mandelson]]  
   > "In 1978, he was delegated to attend the Soviet-organised World Festival of Youth and Students at Havana, Cuba."
-  > Source: [Peter Mandelson](../sources/wikipedia-peter-mandelson.md) · grade B
+  > Source: [[sources/wikipedia-peter-mandelson|Peter Mandelson]] · grade B

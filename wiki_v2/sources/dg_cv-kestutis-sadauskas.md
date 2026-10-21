@@ -15,7 +15,7 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (2)
 
-- [Kestutis Sadauskas](../people/kestutis-sadauskas.md) — educated_at — Institute Of Political Science And International Relations, Vilnius University
+- [[people/kestutis-sadauskas|Kestutis Sadauskas]] — educated_at — Institute Of Political Science And International Relations, Vilnius University
   > "Lithuanian Academic qualifications  1992 – 1994: Master Degree in International Relations – Institute of Political Science and International Relations, Vilnius University – Vilnius, Lithuania"
-- [Kestutis Sadauskas](../people/kestutis-sadauskas.md) — held_position — Deputy Director-General → Directorate-General for Maritime Affairs and Fisheries
+- [[people/kestutis-sadauskas|Kestutis Sadauskas]] — held_position — Deputy Director-General → Directorate-General for Maritime Affairs and Fisheries
   > "Professional experience in the European Institutions  Since April 2022: Deputy Director -General – Directorate-General “Maritime Affairs and Fisheries” (DG MARE)"

@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Viviane Reding](../people/viviane-reding.md) — chair  
+- [[people/viviane-reding|Viviane Reding]] — chair  
   > "From 1986 to 1998, she was President of the Luxembourg Union of Journalists."
-  > Source: [Viviane Reding](../sources/wikipedia-viviane-reding.md) · grade A
+  > Source: [[sources/wikipedia-viviane-reding|Viviane Reding]] · grade A

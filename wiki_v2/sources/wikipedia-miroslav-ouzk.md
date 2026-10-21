@@ -16,15 +16,15 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (6)
 
-- [Miroslav Ouzký](../people/miroslav-ouzky.md) — affiliated_with — Charles University In Prague
+- [[people/miroslav-ouzky|Miroslav Ouzký]] — affiliated_with — Charles University In Prague
   > "Biography [ edit ] He studied medicine at Charles University of Prague ."
-- [Miroslav Ouzký](../people/miroslav-ouzky.md) — educated_at — Charles University In Prague
+- [[people/miroslav-ouzky|Miroslav Ouzký]] — educated_at — Charles University In Prague
   > "Biography [ edit ] He studied medicine at Charles University of Prague ."
-- [Miroslav Ouzký](../people/miroslav-ouzky.md) — member — Civic Democratic Party
+- [[people/miroslav-ouzky|Miroslav Ouzký]] — member — Civic Democratic Party
   > "Find sources: &#160; \"Miroslav Ouzký\" &#160;–&#160; news &#160; · newspapers &#160; · books &#160; · scholar &#160; · JSTOR ( January 2018 ) ( Learn how and when to remove this message ) Ouzký in February 2014 Miroslav Ouzký (born 18 August 1958 in Chlumec nad Cidlinou ) is a retired Czech politician and former Member of the European Parliament for the Civic Democratic Party ( European Conservativ […]"
-- [Miroslav Ouzký](../people/miroslav-ouzky.md) — member — European Conservatives and Reformists Group
+- [[people/miroslav-ouzky|Miroslav Ouzký]] — member — European Conservatives and Reformists Group
   > "Find sources: &#160; \"Miroslav Ouzký\" &#160;–&#160; news &#160; · newspapers &#160; · books &#160; · scholar &#160; · JSTOR ( January 2018 ) ( Learn how and when to remove this message ) Ouzký in February 2014 Miroslav Ouzký (born 18 August 1958 in Chlumec nad Cidlinou ) is a retired Czech politician and former Member of the European Parliament for the Civic Democratic Party ( European Conservativ […]"
-- [Miroslav Ouzký](../people/miroslav-ouzky.md) — member — City council
+- [[people/miroslav-ouzky|Miroslav Ouzký]] — member — City council
   > "Thereafter, he served in a city council."
-- [Miroslav Ouzký](../people/miroslav-ouzky.md) — member — Czech Parliament
+- [[people/miroslav-ouzky|Miroslav Ouzký]] — member — Czech Parliament
   > "In 1998 he was elected as a member of the Czech Parliament until 2004."

@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Sari Essayah](../people/sari-essayah.md) — chair  
+- [[people/sari-essayah|Sari Essayah]] — chair  
   > "She is the president of the Finnish Christian Democrats party."
-  > Source: [Sari Essayah](../sources/wikipedia-sari-essayah.md) · grade A
+  > Source: [[sources/wikipedia-sari-essayah|Sari Essayah]] · grade A

@@ -15,9 +15,9 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Claudio Descalzi](../people/claudio-descalzi.md) — advisory_board  
+- [[people/claudio-descalzi|Claudio Descalzi]] — advisory_board  
   > "&#91; 25 &#93; Other activities [ edit ] President of Assomineraria (from 2006 to 2014) President of Eni UK (from 2010 to 2014) Council on Foreign Relations (CFR), Member of the Global Board of Advisors (since 2015) &#91; 26 &#93; Board member of Fondazione Teatro alla Scala (since 2015) Member of the General Counsel and Advisory Board of Confindustria (since 2016) Member of the National Petroleum […]"
-  > Source: [Claudio Descalzi](../sources/wikipedia-claudio-descalzi.md) · grade A
-- [Oliver Bäte](../people/oliver-bate.md) — advisory_board  
+  > Source: [[sources/wikipedia-claudio-descalzi|Claudio Descalzi]] · grade A
+- [[people/oliver-bate|Oliver Bäte]] — advisory_board  
   > "&#91; 7 &#93; Other activities [ edit ] Government agencies [ edit ] Monetary Authority of Singapore (MAS), Member of the International Advisory Panel (since 2015) &#91; 8 &#93; Non-profit organizations [ edit ] Baden-Badener Unternehmer-Gespräche (BBUG), Member of the Board of Trustees &#91; 9 &#93; Council on Foreign Relations (CFR), Member of the Global Board of Advisors &#91; 10 &#93; Stifterv […]"
-  > Source: [Oliver B Te](../sources/wikipedia-oliver-b-te.md) · grade C
+  > Source: [[sources/wikipedia-oliver-b-te|Oliver B Te]] · grade C

@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Andrea Orcel](../people/andrea-orcel.md)  
+- [[people/andrea-orcel|Andrea Orcel]]  
   > "&#91; 14 &#93; Career [ edit ] Merrill Lynch [ edit ] Orcel worked at Merrill Lynch &amp; Co."
-  > Source: [Andrea Orcel](../sources/wikipedia-andrea-orcel.md) · grade B
+  > Source: [[sources/wikipedia-andrea-orcel|Andrea Orcel]] · grade B

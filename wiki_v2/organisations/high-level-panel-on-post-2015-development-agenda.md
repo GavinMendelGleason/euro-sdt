@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Andris Piebalgs](../people/andris-piebalgs.md) — advisory_board  
+- [[people/andris-piebalgs|Andris Piebalgs]] — advisory_board  
   > "From 2012 to 2013, Piebalgs served – alongside Ellen Johnson Sirleaf, David Cameron and others – on the High-level Panel on Post-2015 Development Agenda, an advisory board established by United Nations Secretary-General Ban Ki-moon to develop the global development agenda beyond 2015, the target date for the Millennium Development Goals."
-  > Source: [Andris Piebalgs](../sources/wikipedia-andris-piebalgs.md) · grade A
+  > Source: [[sources/wikipedia-andris-piebalgs|Andris Piebalgs]] · grade A

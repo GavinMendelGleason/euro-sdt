@@ -18,16 +18,16 @@ Corporate Elite
 
 ## Education
 
-- [École des ponts ParisTech](../organisations/ecole-des-ponts-paristech.md)  
+- [[organisations/ecole-des-ponts-paristech|École des ponts ParisTech]]  
   > "== Early life and education == Huillard graduated from École Polytechnique and École des ponts ParisTech."
-  > Source: [Corp Xavier Huillard](../sources/wikipedia-corp-xavier-huillard.md) · grade A
+  > Source: [[sources/wikipedia-corp-xavier-huillard|Corp Xavier Huillard]] · grade A
 
-- [École Polytechnique](../organisations/ecole-polytechnique.md)  
+- [[organisations/ecole-polytechnique|École Polytechnique]]  
   > "== Early life and education == Huillard graduated from École Polytechnique and École des ponts ParisTech."
-  > Source: [Corp Xavier Huillard](../sources/wikipedia-corp-xavier-huillard.md) · grade A
+  > Source: [[sources/wikipedia-corp-xavier-huillard|Corp Xavier Huillard]] · grade A
 
 ## Employment
 
-- [Vinci](../organisations/vinci.md)  
+- [[organisations/vinci|Vinci]]  
   > "Xavier Huillard (born 27 June 1954) is a French business executive, and the chairman and CEO of Vinci SA. He has been CEO since 2006, and chairman since 2010."
-  > Source: [Corp Xavier Huillard](../sources/wikipedia-corp-xavier-huillard.md) · grade A
+  > Source: [[sources/wikipedia-corp-xavier-huillard|Corp Xavier Huillard]] · grade A

@@ -15,9 +15,9 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Bas Eickhout](../people/bas-eickhout.md) — chair  
+- [[people/bas-eickhout|Bas Eickhout]] — chair  
   > "&#91; 24 &#93; He subsequently served as deputy chairman of the Greens–European Free Alliance (Greens/EFA) group, under the leadership of co-chairmen Keller and Philippe Lamberts ."
-  > Source: [Bas Eickhout](../sources/wikipedia-bas-eickhout.md) · grade A
-- [Virginijus Sinkevičius](../people/virginijus-sinkevicius.md) — chair  
+  > Source: [[sources/wikipedia-bas-eickhout|Bas Eickhout]] · grade A
+- [[people/virginijus-sinkevicius|Virginijus Sinkevičius]] — chair  
   > "In the European Parliament Sinkevičius is serving as deputy chair of the Greens–European Free Alliance (Greens/EFA) group, under the leadership of co-chairs Terry Reintke and Bas Eickhout."
-  > Source: [Virginijus Sinkevicius](../sources/wikipedia-virginijus-sinkevicius.md) · grade A
+  > Source: [[sources/wikipedia-virginijus-sinkevicius|Virginijus Sinkevicius]] · grade A

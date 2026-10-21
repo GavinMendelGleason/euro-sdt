@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Erkki Liikanen](../people/erkki-liikanen.md) — advisory_board  
+- [[people/erkki-liikanen|Erkki Liikanen]] — advisory_board  
   > "Systemic Risk Council (SRC), Member of the Advisory Board"
-  > Source: [Erkki Liikanen](../sources/wikipedia-erkki-liikanen.md) · grade A
+  > Source: [[sources/wikipedia-erkki-liikanen|Erkki Liikanen]] · grade A

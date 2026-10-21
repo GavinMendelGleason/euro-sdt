@@ -15,9 +15,9 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (3)
 
-- [Ilze Juhansone](../people/ilze-juhansone.md) — educated_at — University of Latvia
+- [[people/ilze-juhansone|Ilze Juhansone]] — educated_at — University of Latvia
   > " 1999 - 2005: Master's degree in Law, Faculty of Law, University of Latvia"
-- [Ilze Juhansone](../people/ilze-juhansone.md) — held_position — Secretary-General → Secretariat-General
+- [[people/ilze-juhansone|Ilze Juhansone]] — held_position — Secretary-General → Secretariat-General
   > " 01/08/2019 – 14/01/2020: Acting Secretary-General"
-- [Ilze Juhansone](../people/ilze-juhansone.md) — studied_field — Law
+- [[people/ilze-juhansone|Ilze Juhansone]] — studied_field — Law
   > " 1999 - 2005: Master's degree in Law, Faculty of Law, University of Latvia"

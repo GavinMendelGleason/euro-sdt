@@ -14,9 +14,9 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [José Manuel Barroso](../people/jose-manuel-barroso.md) — board_member  
+- [[people/jose-manuel-barroso|José Manuel Barroso]] — board_member  
   > "UEFA Foundation for Children , Member of the Board of Trustees (2014–2017)"
-  > Source: [Jose Manuel Barroso](../sources/wikipedia-jose-manuel-barroso.md) · grade A
-- [Viviane Reding](../people/viviane-reding.md) — board_member  
+  > Source: [[sources/wikipedia-jose-manuel-barroso|Jose Manuel Barroso]] · grade A
+- [[people/viviane-reding|Viviane Reding]] — board_member  
   > "UEFA Foundation for Children, Member of the Board of Trustees"
-  > Source: [Viviane Reding](../sources/wikipedia-viviane-reding.md) · grade A
+  > Source: [[sources/wikipedia-viviane-reding|Viviane Reding]] · grade A

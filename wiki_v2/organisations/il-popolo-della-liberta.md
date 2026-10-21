@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Mario Mauro](../people/mario-mauro.md)  
+- [[people/mario-mauro|Mario Mauro]]  
   > "&#91; 4 &#93; In 2013, Mauro resigned from Il Popolo della Libertà and joined Civic Choice (SC)."
-  > Source: [Mario Mauro](../sources/wikipedia-mario-mauro.md) · grade A
+  > Source: [[sources/wikipedia-mario-mauro|Mario Mauro]] · grade A

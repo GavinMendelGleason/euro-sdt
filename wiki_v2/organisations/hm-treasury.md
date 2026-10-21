@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Patrick Anthony Child](../people/patrick-anthony-child.md)  
+- [[people/patrick-anthony-child|Patrick Anthony Child]]  
   > "Professional experience before joining the European Institutions: ➢ 09/1988 – 02/1994: Administrator – HM Treasury, UK."
-  > Source: [Patrick Anthony Child](../sources/dg_cv-patrick-anthony-child.md) · grade B
+  > Source: [[sources/dg_cv-patrick-anthony-child|Patrick Anthony Child]] · grade B

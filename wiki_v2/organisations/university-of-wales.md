@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Joe Borg](../people/joe-borg.md)  
+- [[people/joe-borg|Joe Borg]]  
   > "He graduated Doctor of Laws in Malta in 1975 and Master of Laws in Wales in 1988."
-  > Source: [Joe Borg](../sources/wikipedia-joe-borg.md) · grade A
+  > Source: [[sources/wikipedia-joe-borg|Joe Borg]] · grade A

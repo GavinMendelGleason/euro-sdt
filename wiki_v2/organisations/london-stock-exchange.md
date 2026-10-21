@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Paolo Scaroni](../people/paolo-scaroni.md) — chair  
+- [[people/paolo-scaroni|Paolo Scaroni]] — chair  
   > "&#91; 1 &#93; Vice Chairman of the London Stock Exchange &#91; 1 &#93; Chairman of Giuliani Group srl &#91; 10 &#93; Chairman of Sicura SpA Chairman of Alliance Unichem &#91; 1 &#93; President of Vicenza board member of Veolia Environment &#91; 1 &#93; board member of BAE Systems &#91; 11 &#93; board member of ABN AMRO &#91; 12 &#93; board member of Alstom &#91; 12 &#93; board member of Assicurazi […]"
-  > Source: [Paolo Scaroni](../sources/wikipedia-paolo-scaroni.md) · grade A
+  > Source: [[sources/wikipedia-paolo-scaroni|Paolo Scaroni]] · grade A

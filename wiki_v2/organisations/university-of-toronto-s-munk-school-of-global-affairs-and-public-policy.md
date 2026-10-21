@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Graham Watson](../people/graham-watson.md)  
+- [[people/graham-watson|Graham Watson]]  
   > "He is currently an adjunct Professor at the University of Toronto's Munk School of Global Affairs and Public Policy."
-  > Source: [Graham Watson](../sources/wikipedia-graham-watson.md) · grade A
+  > Source: [[sources/wikipedia-graham-watson|Graham Watson]] · grade A

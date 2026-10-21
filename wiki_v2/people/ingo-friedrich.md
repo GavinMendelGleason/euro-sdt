@@ -18,30 +18,30 @@ Mep
 
 ## Membership
 
-- [CSU](../organisations/csu.md)  
+- [[organisations/csu|CSU]]  
   > "He was elected on the CSU ticket and sits with the EPP-ED Group."
-  > Source: [Ingo Friedrich](../sources/wikipedia-ingo-friedrich.md) · grade B
+  > Source: [[sources/wikipedia-ingo-friedrich|Ingo Friedrich]] · grade B
 
-- [EPP-ED Group](../organisations/epp-ed-group.md)  
+- [[organisations/epp-ed-group|EPP-ED Group]]  
   > "He was elected on the CSU ticket and sits with the EPP-ED Group."
-  > Source: [Ingo Friedrich](../sources/wikipedia-ingo-friedrich.md) · grade B
+  > Source: [[sources/wikipedia-ingo-friedrich|Ingo Friedrich]] · grade B
 
-- [SME Europe](../organisations/sme-europe.md)  
+- [[organisations/sme-europe|SME Europe]]  
   > "On 20 February 2013 Friedrich became Honorary Member of SME Europe, the pro-business organization within the European People's Party, which aims at improving the situation of small and medium-sized enterprises all across Europe."
-  > Source: [Ingo Friedrich](../sources/wikipedia-ingo-friedrich.md) · grade A
+  > Source: [[sources/wikipedia-ingo-friedrich|Ingo Friedrich]] · grade A
 
-- [Weißenburg-Gunzenhausen district council](../organisations/weienburg-gunzenhausen-district-council.md)  
+- [[organisations/weienburg-gunzenhausen-district-council|Weißenburg-Gunzenhausen district council]]  
   > "He was a member of Weißenburg-Gunzenhausen district council (1972–1996) and was the head of the CSU delegation to the European Parliament between 1992 and 1999."
-  > Source: [Ingo Friedrich](../sources/wikipedia-ingo-friedrich.md) · grade A
+  > Source: [[sources/wikipedia-ingo-friedrich|Ingo Friedrich]] · grade A
 
 ## Chair / president
 
-- [European Economic Senate](../organisations/european-economic-senate.md) — chair  
+- [[organisations/european-economic-senate|European Economic Senate]] — chair  
   > "Since September 2009 he has been President of the European Economic Senate."
-  > Source: [Ingo Friedrich](../sources/wikipedia-ingo-friedrich.md) · grade A
+  > Source: [[sources/wikipedia-ingo-friedrich|Ingo Friedrich]] · grade A
 
 ## Affiliation
 
-- [European People's Party](../organisations/european-peoples-party.md)  
+- [[organisations/european-peoples-party|European People's Party]]  
   > "From October 2002, he holds the position of Treasurer of the European People's Party (EPP)."
-  > Source: [Ingo Friedrich](../sources/wikipedia-ingo-friedrich.md) · grade B
+  > Source: [[sources/wikipedia-ingo-friedrich|Ingo Friedrich]] · grade B

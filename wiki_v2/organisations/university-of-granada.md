@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Ana Gallego Torres](../people/ana-gallego-torres.md)  
+- [[people/ana-gallego-torres|Ana Gallego Torres]]  
   > "Spanish Academic qualifications  1992 – 1998: Degree in Law – University of Granada, Spain"
-  > Source: [Ana Gallego Torres](../sources/dg_cv-ana-gallego-torres.md) · grade A
+  > Source: [[sources/dg_cv-ana-gallego-torres|Ana Gallego Torres]] · grade A

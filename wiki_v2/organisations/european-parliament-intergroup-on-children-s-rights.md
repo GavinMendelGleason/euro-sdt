@@ -15,9 +15,9 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Gabrielius Landsbergis](../people/gabrielius-landsbergis.md)  
+- [[people/gabrielius-landsbergis|Gabrielius Landsbergis]]  
   > "He was also a member of the European Parliament Intergroup on Children's Rights."
-  > Source: [Gabrielius Landsbergis](../sources/wikipedia-gabrielius-landsbergis.md) · grade A
-- [Mairead McGuinness](../people/mairead-mcguinness.md)  
+  > Source: [[sources/wikipedia-gabrielius-landsbergis|Gabrielius Landsbergis]] · grade A
+- [[people/mairead-mcguinness|Mairead McGuinness]]  
   > "In addition to her committee assignments and duties as vice-president, McGuinness was a member of the European Parliament Intergroup on the Welfare and Conservation of Animals and the European Parliament Intergroup on Children's Rights."
-  > Source: [Mairead Mcguinness](../sources/wikipedia-mairead-mcguinness.md) · grade A
+  > Source: [[sources/wikipedia-mairead-mcguinness|Mairead Mcguinness]] · grade A

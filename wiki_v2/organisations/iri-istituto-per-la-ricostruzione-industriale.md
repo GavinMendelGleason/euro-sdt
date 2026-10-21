@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Romano Prodi](../people/romano-prodi.md) — chair  
+- [[people/romano-prodi|Romano Prodi]] — chair  
   > "In 1993–1994, Prodi was appointed again president of the IRI, by Ciampi, where he oversaw extensive privatization of public assets."
-  > Source: [Romano Prodi](../sources/wikipedia-romano-prodi.md) · grade C
+  > Source: [[sources/wikipedia-romano-prodi|Romano Prodi]] · grade C

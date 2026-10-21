@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Bill Newton Dunn](../people/bill-newton-dunn.md)  
+- [[people/bill-newton-dunn|Bill Newton Dunn]]  
   > "He was educated at Marlborough College , Wiltshire from 1955 to 1959."
-  > Source: [Bill Newton Dunn](../sources/wikipedia-bill-newton-dunn.md) · grade C
+  > Source: [[sources/wikipedia-bill-newton-dunn|Bill Newton Dunn]] · grade C

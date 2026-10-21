@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Pedro Azagra](../people/pedro-azagra.md) — employed_by  
+- [[people/pedro-azagra|Pedro Azagra]] — employed_by  
   > "== Professional career == Pedro Azagra joined the Iberdrola Group in 1997 as Strategy Director."
-  > Source: [Corp Pedro Azagra](../sources/wikipedia-corp-pedro-azagra.md) · grade A
+  > Source: [[sources/wikipedia-corp-pedro-azagra|Corp Pedro Azagra]] · grade A

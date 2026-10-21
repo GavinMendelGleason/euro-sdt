@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Emma Bonino](../people/emma-bonino.md) — board_member  
+- [[people/emma-bonino|Emma Bonino]] — board_member  
   > "Bonino was a board member of DARA until December 2012."
-  > Source: [Emma Bonino](../sources/wikipedia-emma-bonino.md) · grade A
+  > Source: [[sources/wikipedia-emma-bonino|Emma Bonino]] · grade A

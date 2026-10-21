@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Christos Stylianides](../people/christos-stylianides.md)  
+- [[people/christos-stylianides|Christos Stylianides]]  
   > "He was elected Member of the Bureau of the OSCE Parliamentary Assembly in 2012."
-  > Source: [Christos Stylianides](../sources/wikipedia-christos-stylianides.md) · grade A
+  > Source: [[sources/wikipedia-christos-stylianides|Christos Stylianides]] · grade A

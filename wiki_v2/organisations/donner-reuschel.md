@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Günther Oettinger](../people/gunther-oettinger.md) — advisory_board; chair  
+- [[people/gunther-oettinger|Günther Oettinger]] — advisory_board; chair  
   > "Donner & Reuschel, Chair of the Adivsory Board (since 2021)"
-  > Source: [Gunther Oettinger](../sources/wikipedia-gunther-oettinger.md) · grade A
+  > Source: [[sources/wikipedia-gunther-oettinger|Gunther Oettinger]] · grade A

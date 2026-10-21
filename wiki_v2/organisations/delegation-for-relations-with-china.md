@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Mairead McGuinness](../people/mairead-mcguinness.md)  
+- [[people/mairead-mcguinness|Mairead McGuinness]]  
   > "She was a substitute member of the Committee on the Environment, Public Health and Food Safety, the Committee on Petitions and the delegation for relations with China."
-  > Source: [Mairead Mcguinness](../sources/wikipedia-mairead-mcguinness.md) · grade A
+  > Source: [[sources/wikipedia-mairead-mcguinness|Mairead Mcguinness]] · grade A

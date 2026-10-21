@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Vytenis Andriukaitis](../people/vytenis-andriukaitis.md) — founder  
+- [[people/vytenis-andriukaitis|Vytenis Andriukaitis]] — founder  
   > "In 2002, Andriukaitis founded Lithuanian Forum for the Future."
-  > Source: [Vytenis Andriukaitis](../sources/wikipedia-vytenis-andriukaitis.md) · grade A
+  > Source: [[sources/wikipedia-vytenis-andriukaitis|Vytenis Andriukaitis]] · grade A

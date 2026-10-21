@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Élisabeth Morin](../people/elisabeth-morin.md)  
+- [[people/elisabeth-morin|Élisabeth Morin]]  
   > "In this capacity, she was also a member of the Bureau Working Group on Buildings, Transport and Green Parliament and of the Advisory Committee dealing with Harassment Complaints between Accredited Parliamentary Assistants and Members of the European Parliament and its Prevention at the Workplace."
-  > Source: [Lisabeth Morin Chartier](../sources/wikipedia-lisabeth-morin-chartier.md) · grade C
+  > Source: [[sources/wikipedia-lisabeth-morin-chartier|Lisabeth Morin Chartier]] · grade C

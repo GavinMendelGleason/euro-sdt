@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Dubravka Šuica](../people/dubravka-suica.md) — chair  
+- [[people/dubravka-suica|Dubravka Šuica]] — chair  
   > "She was also the president of the Foreign and European Affairs Committee of HDZ."
-  > Source: [Dubravka Suica](../sources/wikipedia-dubravka-suica.md) · grade A
+  > Source: [[sources/wikipedia-dubravka-suica|Dubravka Suica]] · grade A

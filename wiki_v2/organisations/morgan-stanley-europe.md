@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Maria Luís Albuquerque](../people/maria-luis-albuquerque.md) — board_member  
+- [[people/maria-luis-albuquerque|Maria Luís Albuquerque]] — board_member  
   > "Morgan Stanley Europe, independent non-executive member of the board of directors (since 2022)"
-  > Source: [Maria Luis Albuquerque](../sources/wikipedia-maria-luis-albuquerque.md) · grade A
+  > Source: [[sources/wikipedia-maria-luis-albuquerque|Maria Luis Albuquerque]] · grade A

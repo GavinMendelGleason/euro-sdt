@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Peter Mandelson](../people/peter-mandelson.md) — employed_by  
+- [[people/peter-mandelson|Peter Mandelson]] — employed_by  
   > "Mandelson then worked from 1982 to 1985 as a television producer at London Weekend Television on Weekend World, where he formed a friendship with his superior John Birt."
-  > Source: [Peter Mandelson](../sources/wikipedia-peter-mandelson.md) · grade A
+  > Source: [[sources/wikipedia-peter-mandelson|Peter Mandelson]] · grade A

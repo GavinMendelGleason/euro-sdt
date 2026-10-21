@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Libor Rouček](../people/libor-roucek.md)  
+- [[people/libor-roucek|Libor Rouček]]  
   > "After his studies, he first went to Australia where, among other things, he taught at the University of Sydney ."
-  > Source: [Libor Rouek](../sources/wikipedia-libor-rouek.md) · grade C
+  > Source: [[sources/wikipedia-libor-rouek|Libor Rouek]] · grade C

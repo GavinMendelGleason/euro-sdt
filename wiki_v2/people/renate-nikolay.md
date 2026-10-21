@@ -18,6 +18,6 @@ Dg
 
 ## Education
 
-- [Humboldt University Berlin, Germany](../organisations/humboldt-university-berlin-germany.md)  
+- [[organisations/humboldt-university-berlin-germany|Humboldt University Berlin, Germany]]  
   > " 07/1995 – 06/1997: Research Assistant, Humboldt University Berlin, Germany"
-  > Source: [Renate Nikolay](../sources/dg_cv-renate-nikolay.md) · grade A
+  > Source: [[sources/dg_cv-renate-nikolay|Renate Nikolay]] · grade A

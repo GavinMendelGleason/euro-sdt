@@ -15,7 +15,7 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (2)
 
-- [Stefan Olsson](../people/stefan-olsson.md) — educated_at — Stockholm Business School
+- [[people/stefan-olsson|Stefan Olsson]] — educated_at — Stockholm Business School
   > " 1988 – 1989 Economics, Stockholm Business School, Sweden"
-- [Stefan Olsson](../people/stefan-olsson.md) — held_position — Deputy Director-General → Directorate-General for Employment, Social Affairs and Inclusion
+- [[people/stefan-olsson|Stefan Olsson]] — held_position — Deputy Director-General → Directorate-General for Employment, Social Affairs and Inclusion
   > "Professional experience in the European Institutions  09/2022- Deputy-Director General, Directorate-General Employment, Social Affairs and Inclusion (DG EMPL)"

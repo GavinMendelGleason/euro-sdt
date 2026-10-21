@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Wopke Hoekstra](../people/wopke-hoekstra.md) — board_member  
+- [[people/wopke-hoekstra|Wopke Hoekstra]] — board_member  
   > "Hoekstra was the treasurer of the CDA-affiliated foundation Eduardo Freistichting and board member of the local CDA association in Amsterdam."
-  > Source: [Wopke Hoekstra](../sources/wikipedia-wopke-hoekstra.md) · grade A
+  > Source: [[sources/wikipedia-wopke-hoekstra|Wopke Hoekstra]] · grade A

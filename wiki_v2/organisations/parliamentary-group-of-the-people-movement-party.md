@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Eugen Tomac](../people/eugen-tomac.md)  
+- [[people/eugen-tomac|Eugen Tomac]]  
   > "&#91; 4 &#93; In May 2019, he was elected as a Member of the European Parliament representing The National Movement Party, along with former President of Romania, Traian Băsescu."
-  > Source: [Eugen Tomac](../sources/wikipedia-eugen-tomac.md) · grade A
+  > Source: [[sources/wikipedia-eugen-tomac|Eugen Tomac]] · grade A

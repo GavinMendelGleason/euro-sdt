@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [António Costa](../people/antonio-costa.md)  
+- [[people/antonio-costa|António Costa]]  
   > "&#91; 10 &#93; In the 1991 legislative election , Costa was elected as member of the Assembly of the Republic from the district of Lisbon ."
-  > Source: [Ant Nio Costa](../sources/wikipedia-ant-nio-costa.md) · grade A
+  > Source: [[sources/wikipedia-ant-nio-costa|Ant Nio Costa]] · grade A

@@ -16,7 +16,7 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (2)
 
-- [Bill Anderson (businessman)](../people/bill-anderson-businessman.md) — educated_at — University of Texas at Austin
+- [[people/bill-anderson-businessman|Bill Anderson (businessman)]] — educated_at — University of Texas at Austin
   > "&#91; 5 &#93; He holds a bachelor's degree in chemical engineering from the University of Texas at Austin and a master's degree in management and chemical engineering from the Massachusetts Institute of Technology (MIT)."
-- [Bill Anderson (businessman)](../people/bill-anderson-businessman.md) — educated_at — Massachusetts Institute of Technology (MIT)
+- [[people/bill-anderson-businessman|Bill Anderson (businessman)]] — educated_at — Massachusetts Institute of Technology (MIT)
   > "&#91; 5 &#93; He holds a bachelor's degree in chemical engineering from the University of Texas at Austin and a master's degree in management and chemical engineering from the Massachusetts Institute of Technology (MIT)."

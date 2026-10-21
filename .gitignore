@@ -210,3 +210,9 @@ __marimo__/
 # SQLite write-ahead files
 *.db-wal
 *.db-shm
+
+# Obsidian local state for the v2 vault
+wiki_v2/.obsidian/workspace.json
+wiki_v2/.obsidian/app.json
+wiki_v2/.obsidian/appearance.json
+wiki_v2/.obsidian/core-plugins.json

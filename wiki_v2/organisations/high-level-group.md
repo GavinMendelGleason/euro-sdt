@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Martin Bangemann](../people/martin-bangemann.md)  
+- [[people/martin-bangemann|Martin Bangemann]]  
   > "As commissioner, he led a \"high-level group\" that drew up the report \"Europe and the Global Information Society\" in 1994."
-  > Source: [Martin Bangemann](../sources/wikipedia-martin-bangemann.md) · grade B
+  > Source: [[sources/wikipedia-martin-bangemann|Martin Bangemann]] · grade B

@@ -15,7 +15,7 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (2)
 
-- [Themis Christophidou](../people/themis-christophidou.md) — educated_at — Athens National Polytechnic Metsovio
+- [[people/themis-christophidou|Themis Christophidou]] — educated_at — Athens National Polytechnic Metsovio
   > "➢ 1980 – 1986: MSc Civil Engineering, Athens National Polytechnic Metsovio"
-- [Themis Christophidou](../people/themis-christophidou.md) — held_position — Director-General → Directorate-General for Regional and Urban Policy
+- [[people/themis-christophidou|Themis Christophidou]] — held_position — Director-General → Directorate-General for Regional and Urban Policy
   > "Professional experience in the European Institutions ➢ Since 16/09/2023: Director -General – Directorate-General “Regional and Urban Policy” (REGIO)"

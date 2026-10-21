@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Janusz Wojciechowski](../people/janusz-wojciechowski.md)  
+- [[people/janusz-wojciechowski|Janusz Wojciechowski]]  
   > "2004-2016: Member of the EP"
-  > Source: [Janusz Wojciechowski](../sources/wikipedia-janusz-wojciechowski.md) · grade A
+  > Source: [[sources/wikipedia-janusz-wojciechowski|Janusz Wojciechowski]] · grade A

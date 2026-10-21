@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Neelie Kroes](../people/neelie-kroes.md)  
+- [[people/neelie-kroes|Neelie Kroes]]  
   > "Kroes attended a Protestant grammar school in Rotterdam."
-  > Source: [Neelie Kroes](../sources/wikipedia-neelie-kroes.md) · grade A
+  > Source: [[sources/wikipedia-neelie-kroes|Neelie Kroes]] · grade A

@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Leszek Miller](../people/leszek-miller.md)  
+- [[people/leszek-miller|Leszek Miller]]  
   > "Miller was also a co-signatory of \" the letter of 8 \", signed by eight European prime ministers, supporting the US position on Iraq."
-  > Source: [Leszek Miller](../sources/wikipedia-leszek-miller.md) · grade B
+  > Source: [[sources/wikipedia-leszek-miller|Leszek Miller]] · grade B

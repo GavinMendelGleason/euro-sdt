@@ -18,12 +18,12 @@ Corporate Elite
 
 ## Education
 
-- [École nationale supérieure des mines de Paris](../organisations/ecole-nationale-superieure-des-mines-de-paris.md)  
+- [[organisations/ecole-nationale-superieure-des-mines-de-paris|École nationale supérieure des mines de Paris]]  
   > "== Education == Baccalauréat at the Lycée Ampère in Lyon Preparatory classes for the \"Grandes écoles\" at the Lycée du Parc in Lyon École nationale supérieure des mines de Paris (Engineer's degree) Engineer of the \"Corps of Mines\""
-  > Source: [Corp Jacques Aschenbroich](../sources/wikipedia-corp-jacques-aschenbroich.md) · grade A
+  > Source: [[sources/wikipedia-corp-jacques-aschenbroich|Corp Jacques Aschenbroich]] · grade A
 
 ## Employment
 
-- [Orange](../organisations/orange.md)  
+- [[organisations/orange|Orange]]  
   > "Jacques André Aschenbroich (born 3 June 1954) is the Chairman of French telecoms company Orange."
-  > Source: [Corp Jacques Aschenbroich](../sources/wikipedia-corp-jacques-aschenbroich.md) · grade A
+  > Source: [[sources/wikipedia-corp-jacques-aschenbroich|Corp Jacques Aschenbroich]] · grade A

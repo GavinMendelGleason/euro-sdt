@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Kristalina Georgieva](../people/kristalina-georgieva.md) — chair  
+- [[people/kristalina-georgieva|Kristalina Georgieva]] — chair  
   > "Global Commission on Adaptation, co-chair (since 2018)"
-  > Source: [Kristalina Georgieva](../sources/wikipedia-kristalina-georgieva.md) · grade A
+  > Source: [[sources/wikipedia-kristalina-georgieva|Kristalina Georgieva]] · grade A

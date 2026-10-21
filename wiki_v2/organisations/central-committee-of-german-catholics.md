@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Manfred Weber](../people/manfred-weber.md)  
+- [[people/manfred-weber|Manfred Weber]]  
   > "^ Members Archived 17 May 2022 at the Wayback Machine Central Committee of German Catholics ."
-  > Source: [Manfred Weber](../sources/wikipedia-manfred-weber.md) · grade B
+  > Source: [[sources/wikipedia-manfred-weber|Manfred Weber]] · grade B

@@ -15,21 +15,21 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Brian Crowley](../people/brian-crowley.md)  
+- [[people/brian-crowley|Brian Crowley]]  
   > "&#91; 14 &#93; &#91; 15 &#93; In June 2014, he joined the European Conservatives and Reformists group in the European Parliament, against the wishes of the Fianna Fáil leadership."
-  > Source: [Brian Crowley](../sources/wikipedia-brian-crowley.md) · grade A
-- [Charlie Weimers](../people/charlie-weimers.md)  
+  > Source: [[sources/wikipedia-brian-crowley|Brian Crowley]] · grade A
+- [[people/charlie-weimers|Charlie Weimers]]  
   > "&#91; 2 &#93; He is a member of the right-wing populist Sweden Democrats , part of European Conservatives and Reformists ."
-  > Source: [Charlie Weimers](../sources/wikipedia-charlie-weimers.md) · grade A
-- [Jacek Saryusz-Wolski](../people/jacek-saryusz-wolski.md)  
+  > Source: [[sources/wikipedia-charlie-weimers|Charlie Weimers]] · grade A
+- [[people/jacek-saryusz-wolski|Jacek Saryusz-Wolski]]  
   > "&#91; 14 &#93; In March of the same year he joined the parliamentary group of European Conservatives and Reformists ."
-  > Source: [Jacek Saryusz Wolski](../sources/wikipedia-jacek-saryusz-wolski.md) · grade A
-- [Michał Kamiński](../people/micha-kaminski.md) — chair  
+  > Source: [[sources/wikipedia-jacek-saryusz-wolski|Jacek Saryusz Wolski]] · grade A
+- [[people/micha-kaminski|Michał Kamiński]] — chair  
   > "He was chairman of the European Conservatives and Reformists in the European Parliament from July 2009 until March 2011."
-  > Source: [Micha Kamiski](../sources/wikipedia-micha-kamiski.md) · grade C
-- [Raffaele Fitto](../people/raffaele-fitto.md)  
+  > Source: [[sources/wikipedia-micha-kamiski|Micha Kamiski]] · grade C
+- [[people/raffaele-fitto|Raffaele Fitto]]  
   > "On 17 May 2015, Fitto left the new Forza Italia, which he had joined when it was re-founded in 2013, and the European People's Party Group to join the European Conservatives and Reformists."
-  > Source: [Raffaele Fitto](../sources/wikipedia-raffaele-fitto.md) · grade A
-- [Ryszard Czarnecki](../people/ryszard-czarnecki.md)  
+  > Source: [[sources/wikipedia-raffaele-fitto|Raffaele Fitto]] · grade A
+- [[people/ryszard-czarnecki|Ryszard Czarnecki]]  
   > "He is a member of the Law and Justice , part of the European Conservatives and Reformists ."
-  > Source: [Ryszard Czarnecki](../sources/wikipedia-ryszard-czarnecki.md) · grade A
+  > Source: [[sources/wikipedia-ryszard-czarnecki|Ryszard Czarnecki]] · grade A

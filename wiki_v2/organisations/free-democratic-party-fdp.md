@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Martin Bangemann](../people/martin-bangemann.md) — party_member  
+- [[people/martin-bangemann|Martin Bangemann]] — party_member  
   > "Martin Bangemann (15 November 1934 – 28 June 2022) was a German politician and a leader of the Free Democratic Party (FDP) from 1985 to 1988."
-  > Source: [Martin Bangemann](../sources/wikipedia-martin-bangemann.md) · grade B
+  > Source: [[sources/wikipedia-martin-bangemann|Martin Bangemann]] · grade B

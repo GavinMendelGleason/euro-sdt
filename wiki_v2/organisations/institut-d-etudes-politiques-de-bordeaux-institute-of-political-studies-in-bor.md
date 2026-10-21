@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Mariya Gabriel](../people/mariya-gabriel.md)  
+- [[people/mariya-gabriel|Mariya Gabriel]]  
   > "She continued her studies at the Institut d'études politiques de Bordeaux (Institute of Political Studies) in Bordeaux (France), where she obtained a master's degree in 'Comparative Politics and International Relations'."
-  > Source: [Mariya Gabriel](../sources/wikipedia-mariya-gabriel.md) · grade A
+  > Source: [[sources/wikipedia-mariya-gabriel|Mariya Gabriel]] · grade A

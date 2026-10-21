@@ -18,14 +18,14 @@ Mep
 
 ## Membership
 
-- [Municipal Council of Turku](../organisations/municipal-council-of-turku.md)  
+- [[organisations/municipal-council-of-turku|Municipal Council of Turku]]  
   > "Paasio participated in the municipal politics of Turku and was elected into the municipal council in 1965."
-  > Source: [Pertti Paasio](../sources/wikipedia-pertti-paasio.md) · grade B
+  > Source: [[sources/wikipedia-pertti-paasio|Pertti Paasio]] · grade B
 
-- [Parliament of Finland](../organisations/parliament-of-finland.md)  
+- [[organisations/parliament-of-finland|Parliament of Finland]]  
   > "Paasio became member of the Parliament in July 1975, however, he lost the seat in the 1979 parliamentary elections."
-  > Source: [Pertti Paasio](../sources/wikipedia-pertti-paasio.md) · grade C
+  > Source: [[sources/wikipedia-pertti-paasio|Pertti Paasio]] · grade C
 
-- [Social Democratic Party](../organisations/social-democratic-party.md)  
+- [[organisations/social-democratic-party|Social Democratic Party]]  
   > "Finnish politician (1939–2020) Pertti Kullervo Paasio (2 April 1939 – 4 April 2020) was a Finnish politician from the Social Democratic Party ."
-  > Source: [Pertti Paasio](../sources/wikipedia-pertti-paasio.md) · grade B
+  > Source: [[sources/wikipedia-pertti-paasio|Pertti Paasio]] · grade B

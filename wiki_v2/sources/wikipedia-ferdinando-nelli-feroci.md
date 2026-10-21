@@ -16,11 +16,11 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (4)
 
-- [Ferdinando Nelli Feroci](../people/ferdinando-nelli-feroci.md) — affiliated_with — European Union
+- [[people/ferdinando-nelli-feroci|Ferdinando Nelli Feroci]] — affiliated_with — European Union
   > "Then from 2008 to 2013, he was the Permanent Representative of Italy to the European Union ."
-- [Ferdinando Nelli Feroci](../people/ferdinando-nelli-feroci.md) — chair — Istituto Affari Internazionali
+- [[people/ferdinando-nelli-feroci|Ferdinando Nelli Feroci]] — chair — Istituto Affari Internazionali
   > "and President of the Istituto Affari Internazionali ."
-- [Ferdinando Nelli Feroci](../people/ferdinando-nelli-feroci.md) — employed_by — European Commission
+- [[people/ferdinando-nelli-feroci|Ferdinando Nelli Feroci]] — employed_by — European Commission
   > "Ferdinando Nelli Feroci (born 18 December 1946) is an Italian diplomat who served briefly as a European Commissioner in 2014."
-- [Ferdinando Nelli Feroci](../people/ferdinando-nelli-feroci.md) — studied_field — law
+- [[people/ferdinando-nelli-feroci|Ferdinando Nelli Feroci]] — studied_field — law
   > "Biography [ edit ] Nelli Feroci was born in Pisa. &#91; 1 &#93; He graduated from the University of Pisa with a degree in law in 1970, and in 1972 entered the Italian diplomatic service . &#91; 2 &#93; He served with Italy's delegation to the United Nations in New York, and with its embassies in Algeria, the United States, France and China. &#91; 1 &#93; From 2004 to 2006, he was Director-general […]"

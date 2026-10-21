@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Cecilia Malmström](../people/cecilia-malmstrom.md)  
+- [[people/cecilia-malmstrom|Cecilia Malmström]]  
   > "From 2021 to 2022, Malmström was a member of the Trilateral Commission’s Task Force on Global Capitalism in Transition, chaired by Carl Bildt, Kelly Grier and Takeshi Niinami."
-  > Source: [Cecilia Malmstrom](../sources/wikipedia-cecilia-malmstrom.md) · grade A
+  > Source: [[sources/wikipedia-cecilia-malmstrom|Cecilia Malmstrom]] · grade A

@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Heribert Barrera i Costa](../people/heribert-barrera-i-costa.md) — chair  
+- [[people/heribert-barrera-i-costa|Heribert Barrera i Costa]] — chair  
   > "&#91; 16 &#93; He was president of the Catalan Society of Physical, Chemical and Mathematical Sciences from 1976 to 1978, and president of the science section of the Institute for Catalan Studies , of which he later became emeritus member."
-  > Source: [Heribert Barrera](../sources/wikipedia-heribert-barrera.md) · grade C
+  > Source: [[sources/wikipedia-heribert-barrera|Heribert Barrera]] · grade C

@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Gaston Thorn](../people/gaston-thorn.md) — chair  
+- [[people/gaston-thorn|Gaston Thorn]] — chair  
   > "He most prominently served as prime minister of Luxembourg (1974–1979), President of the United Nations General Assembly (1975), and president of the European Commission (1981–1985)."
-  > Source: [Gaston Thorn](../sources/wikipedia-gaston-thorn.md) · grade A
+  > Source: [[sources/wikipedia-gaston-thorn|Gaston Thorn]] · grade A

@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Heribert Barrera i Costa](../people/heribert-barrera-i-costa.md)  
+- [[people/heribert-barrera-i-costa|Heribert Barrera i Costa]]  
   > "&#91; 13 &#93; Since the party had not been legalized by the Suárez government , ERC had to run in the first democratic elections of 1977 in an unusual coalition with the Party of Labour of Spain and some members of the National Front of Catalonia , resulting in Barrera becoming a deputy in the Spanish Congress of Deputies ."
-  > Source: [Heribert Barrera](../sources/wikipedia-heribert-barrera.md) · grade C
+  > Source: [[sources/wikipedia-heribert-barrera|Heribert Barrera]] · grade C

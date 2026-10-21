@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Philippe Busquin](../people/philippe-busquin.md) — employed_by  
+- [[people/philippe-busquin|Philippe Busquin]] — employed_by  
   > "1995–1999: Mayor of Seneffe"
-  > Source: [Philippe Busquin](../sources/wikipedia-philippe-busquin.md) · grade A
+  > Source: [[sources/wikipedia-philippe-busquin|Philippe Busquin]] · grade A

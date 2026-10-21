@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Nicole Fontaine](../people/nicole-fontaine.md) — chair  
+- [[people/nicole-fontaine|Nicole Fontaine]] — chair  
   > "In that capacity, she co-chaired the Conciliation Committee with the president-in-office of the Council of Ministers."
-  > Source: [Nicole Fontaine](../sources/wikipedia-nicole-fontaine.md) · grade A
+  > Source: [[sources/wikipedia-nicole-fontaine|Nicole Fontaine]] · grade A

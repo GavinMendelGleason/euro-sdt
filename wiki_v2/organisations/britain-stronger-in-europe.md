@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Peter Mandelson](../people/peter-mandelson.md) — board_member  
+- [[people/peter-mandelson|Peter Mandelson]] — board_member  
   > "During the 2016 EU referendum, Mandelson sat on the board of Britain Stronger in Europe, the official \"Remain\" campaign, which was unsuccessful."
-  > Source: [Peter Mandelson](../sources/wikipedia-peter-mandelson.md) · grade A
+  > Source: [[sources/wikipedia-peter-mandelson|Peter Mandelson]] · grade A

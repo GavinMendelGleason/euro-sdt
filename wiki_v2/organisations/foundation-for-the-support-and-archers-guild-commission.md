@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Ria Oomen-Ruijten](../people/ria-oomen-ruijten.md) — chair  
+- [[people/ria-oomen-ruijten|Ria Oomen-Ruijten]] — chair  
   > "She is chairwoman of various social welfare and non-governmental organizations such as the Foundation for the Support and Archers Guild Commission (SAS)."
-  > Source: [Ria Oomen Ruijten](../sources/wikipedia-ria-oomen-ruijten.md) · grade A
+  > Source: [[sources/wikipedia-ria-oomen-ruijten|Ria Oomen Ruijten]] · grade A

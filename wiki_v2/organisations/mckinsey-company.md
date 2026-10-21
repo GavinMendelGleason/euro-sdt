@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Paolo Scaroni](../people/paolo-scaroni.md)  
+- [[people/paolo-scaroni|Paolo Scaroni]]  
   > "After obtaining MBA, Scaroni was an associate at McKinsey &amp; Company ."
-  > Source: [Paolo Scaroni](../sources/wikipedia-paolo-scaroni.md) · grade B
+  > Source: [[sources/wikipedia-paolo-scaroni|Paolo Scaroni]] · grade B

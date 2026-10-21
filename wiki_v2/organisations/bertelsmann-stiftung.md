@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Viviane Reding](../people/viviane-reding.md) — board_member  
+- [[people/viviane-reding|Viviane Reding]] — board_member  
   > "Bertelsmann Stiftung, Member of the Board of Trustees"
-  > Source: [Viviane Reding](../sources/wikipedia-viviane-reding.md) · grade A
+  > Source: [[sources/wikipedia-viviane-reding|Viviane Reding]] · grade A

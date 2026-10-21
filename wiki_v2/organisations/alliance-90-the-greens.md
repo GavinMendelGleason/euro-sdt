@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Michaele Schreyer](../people/michaele-schreyer.md) — party_member  
+- [[people/michaele-schreyer|Michaele Schreyer]] — party_member  
   > "Michaele Schreyer (born 9 August 1951) is a German politician of Alliance 90/The Greens who served as a European Commissioner from September 1999 to November 2004, holding the budget portfolio."
-  > Source: [Michaele Schreyer](../sources/wikipedia-michaele-schreyer.md) · grade B
+  > Source: [[sources/wikipedia-michaele-schreyer|Michaele Schreyer]] · grade B

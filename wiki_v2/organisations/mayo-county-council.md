@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Padraig Flynn](../people/padraig-flynn.md)  
+- [[people/padraig-flynn|Padraig Flynn]]  
   > "He first held political office in 1967, when he became a member of Mayo County Council."
-  > Source: [Padraig Flynn](../sources/wikipedia-padraig-flynn.md) · grade A
+  > Source: [[sources/wikipedia-padraig-flynn|Padraig Flynn]] · grade A

@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Jutta Urpilainen](../people/jutta-urpilainen.md) — chair  
+- [[people/jutta-urpilainen|Jutta Urpilainen]] — chair  
   > "In this capacity, she also chaired the meetings of the Nordic Council Ministers of Finance in 2012."
-  > Source: [Jutta Urpilainen](../sources/wikipedia-jutta-urpilainen.md) · grade A
+  > Source: [[sources/wikipedia-jutta-urpilainen|Jutta Urpilainen]] · grade A

@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Meglena Kuneva](../people/meglena-kuneva.md)  
+- [[people/meglena-kuneva|Meglena Kuneva]]  
   > "She graduated in Law from Sofia University in 1981, and in 1984 she became a Doctor of Law."
-  > Source: [Meglena Kuneva](../sources/wikipedia-meglena-kuneva.md) · grade A
+  > Source: [[sources/wikipedia-meglena-kuneva|Meglena Kuneva]] · grade A

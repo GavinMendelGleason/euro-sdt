@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Luisa Morgantini](../people/luisa-morgantini.md) — founder  
+- [[people/luisa-morgantini|Luisa Morgantini]] — founder  
   > "She also founded, and currently leads, the association AssoPacePalestina , which advocates for peace and human rights in Palestine ."
-  > Source: [Luisa Morgantini](../sources/wikipedia-luisa-morgantini.md) · grade A
+  > Source: [[sources/wikipedia-luisa-morgantini|Luisa Morgantini]] · grade A

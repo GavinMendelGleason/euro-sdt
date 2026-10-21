@@ -15,7 +15,7 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (2)
 
-- [Neelie Kroes](../people/neelie-kroes.md) — affiliated_with — R.V.S.V.
+- [[people/neelie-kroes|Neelie Kroes]] — affiliated_with — R.V.S.V.
   > "In 1961, Kroes was praeses of the R.V.S.V."
-- [Neelie Kroes](../people/neelie-kroes.md) — attendee — Bilderberg Group
+- [[people/neelie-kroes|Neelie Kroes]] — attendee — Bilderberg Group
   > "Kroes attended conferences organized by the Bilderberg Group every year between 2005 and 2012."

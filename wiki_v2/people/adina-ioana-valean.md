@@ -18,66 +18,66 @@ Commissioner · ROU
 
 ## Commission service
 
-- [VdL I Commission](../commissions/vdl-i-commission.md)  
+- [[commissions/vdl-i-commission|VdL I Commission]]  
   > "Adina-Ioana Vălean (born 16 February 1968) is a Romanian politician who served as European Commissioner for Transport under the leadership of President of the European Commission Ursula von der Leyen"
-  > Source: [Adina Ioana Valean](../sources/wikipedia-adina-ioana-valean.md) · grade C
+  > Source: [[sources/wikipedia-adina-ioana-valean|Adina Ioana Valean]] · grade C
 
 ## Portfolio
 
 - Transport  
   > "References [ edit ] ^ a b c \"Adina-Ioana Vălean picked for transport commissioner job\" ."
-  > Source: [Adina Ioana Vălean](../sources/wikipedia-adina-ioana-vălean.md) · grade A
+  > Source: [[sources/wikipedia-adina-ioana-vălean|Adina Ioana Vălean]] · grade A
 
 ## Country
 
 - Romania  
   > "Adina-Ioana Vălean (born 16 February 1968) is a Romanian politician who served as European Commissioner for Transport under the leadership of President of the European Commission Ursula von der Leyen from 2019 until June 2024."
-  > Source: [Adina Ioana Valean](../sources/wikipedia-adina-ioana-valean.md) · grade A
+  > Source: [[sources/wikipedia-adina-ioana-valean|Adina Ioana Valean]] · grade A
 
 ## Membership
 
-- [Committee on Petitions](../organisations/committee-on-petitions.md)  
+- [[organisations/committee-on-petitions|Committee on Petitions]]  
   > "She also chaired the Committee on the Environment, Public Health and Food Safety from 2017 until 2019 and served on the Committee on Petitions from 2009 until 2014."
-  > Source: [Adina Ioana Vălean](../sources/wikipedia-adina-ioana-vălean.md) · grade A
+  > Source: [[sources/wikipedia-adina-ioana-vălean|Adina Ioana Vălean]] · grade A
 
-- [European Internet Forum](../organisations/european-internet-forum.md)  
+- [[organisations/european-internet-forum|European Internet Forum]]  
   > "She was also a member of the Transatlantic Legislators' Dialogue (TLD); the European Internet Forum; and the European Parliament Intergroup on Long Term Investment and Reindustrialisation."
-  > Source: [Adina Ioana Valean](../sources/wikipedia-adina-ioana-valean.md) · grade A
+  > Source: [[sources/wikipedia-adina-ioana-valean|Adina Ioana Valean]] · grade A
 
-- [European Parliament Intergroup on Long Term Investment and Reindustrialisation](../organisations/european-parliament-intergroup-on-long-term-investment-and-reindustrialisation.md)  
+- [[organisations/european-parliament-intergroup-on-long-term-investment-and-reindustrialisation|European Parliament Intergroup on Long Term Investment and Reindustrialisation]]  
   > "She was also a member of the Transatlantic Legislators' Dialogue (TLD); &#91; 5 &#93; the European Internet Forum; &#91; 8 &#93; and the European Parliament Intergroup on Long Term Investment and Reindustrialisation."
-  > Source: [Adina Ioana Vălean](../sources/wikipedia-adina-ioana-vălean.md) · grade A
+  > Source: [[sources/wikipedia-adina-ioana-vălean|Adina Ioana Vălean]] · grade A
 
-- [European People's Party](../organisations/european-peoples-party.md) — party_member  
+- [[organisations/european-peoples-party|European People's Party]] — party_member  
   > "A member of the National Liberal Party (PNL), and a member of the European Peoples Party , Vălean was elected to the Chamber of Deputies on the Justice and Truth list for Călărași County (during the 2004 elections )."
-  > Source: [Adina Ioana Vălean](../sources/wikipedia-adina-ioana-vălean.md) · grade A
+  > Source: [[sources/wikipedia-adina-ioana-vălean|Adina Ioana Vălean]] · grade A
 
-- [National Liberal Party (PNL)](../organisations/national-liberal-party-pnl.md) — party_member  
+- [[organisations/national-liberal-party-pnl|National Liberal Party (PNL)]] — party_member  
   > "A member of the National Liberal Party (PNL), and a member of the European Peoples Party , Vălean was elected to the Chamber of Deputies on the Justice and Truth list for Călărași County (during the 2004 elections )."
-  > Source: [Adina Ioana Vălean](../sources/wikipedia-adina-ioana-vălean.md) · grade A
+  > Source: [[sources/wikipedia-adina-ioana-vălean|Adina Ioana Vălean]] · grade A
 
-- [Transatlantic Legislators' Dialogue (TLD)](../organisations/transatlantic-legislators-dialogue-tld.md)  
+- [[organisations/transatlantic-legislators-dialogue-tld|Transatlantic Legislators' Dialogue (TLD)]]  
   > "She was also a member of the Transatlantic Legislators' Dialogue (TLD); the European Internet Forum; and the European Parliament Intergroup on Long Term Investment and Reindustrialisation."
-  > Source: [Adina Ioana Valean](../sources/wikipedia-adina-ioana-valean.md) · grade A
+  > Source: [[sources/wikipedia-adina-ioana-valean|Adina Ioana Valean]] · grade A
 
 ## Board / trustee
 
-- [European Parliament](../organisations/european-parliament.md) — board_member  
+- [[organisations/european-parliament|European Parliament]] — board_member  
   > "In the 2024 European elections , Vălean was re-elected to the European Parliament."
-  > Source: [Adina Ioana Vălean](../sources/wikipedia-adina-ioana-vălean.md) · grade A
+  > Source: [[sources/wikipedia-adina-ioana-vălean|Adina Ioana Vălean]] · grade A
 
 ## Chair / president
 
-- [Committee on Industry, Research and Energy](../organisations/committee-on-industry-research-and-energy.md) — chair  
+- [[organisations/committee-on-industry-research-and-energy|Committee on Industry, Research and Energy]] — chair  
   > "Throughout her time in parliament, she served on the Committee on Industry, Research and Energy ; in 2019, she became the committee's chairwoman."
-  > Source: [Adina Ioana Vălean](../sources/wikipedia-adina-ioana-vălean.md) · grade A
+  > Source: [[sources/wikipedia-adina-ioana-vălean|Adina Ioana Vălean]] · grade A
 
-- [Committee on the Environment, Public Health and Food Safety](../organisations/committee-on-the-environment-public-health-and-food-safety.md) — chair  
+- [[organisations/committee-on-the-environment-public-health-and-food-safety|Committee on the Environment, Public Health and Food Safety]] — chair  
   > "She also chaired the Committee on the Environment, Public Health and Food Safety from 2017 until 2019 and served on the Committee on Petitions from 2009 until 2014."
-  > Source: [Adina Ioana Vălean](../sources/wikipedia-adina-ioana-vălean.md) · grade A
+  > Source: [[sources/wikipedia-adina-ioana-vălean|Adina Ioana Vălean]] · grade A
 
 ## Employment
 
-- [European Commission](../organisations/european-commission.md) — employed_by  
+- [[organisations/european-commission|European Commission]] — employed_by  
   > "Vălean was subsequently picked to be the European Commissioner for Transport by President of the European Commission Ursula von der Leyen ."
-  > Source: [Adina Ioana Vălean](../sources/wikipedia-adina-ioana-vălean.md) · grade C
+  > Source: [[sources/wikipedia-adina-ioana-vălean|Adina Ioana Vălean]] · grade C

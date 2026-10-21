@@ -20,68 +20,68 @@ Commissioner · ESP
 
 - Institutional Relations and Communication  
   > "In 1994 he was appointed European Commissioner for Transport and Energy and then European Commissioner for Institutional Relations and Communication Strategy."
-  > Source: [Marcelino Oreja](../sources/wikipedia-marcelino-oreja.md) · grade A
+  > Source: [[sources/wikipedia-marcelino-oreja|Marcelino Oreja]] · grade A
 
 ## Education
 
-- [Ceu San Pablo University Foundation](../organisations/ceu-san-pablo-university-foundation.md)  
+- [[organisations/ceu-san-pablo-university-foundation|Ceu San Pablo University Foundation]]  
   > "He continued to be active in many fields, being appointed Head of the Institute for European Studies at the CEU San Pablo University Foundation, Vice-chair of the BBV Foundation (1996) and Doctor Honoris Causa at Zaragoza and Seville Universities (1996)."
-  > Source: [Marcelino Oreja](../sources/wikipedia-marcelino-oreja.md) · grade A
+  > Source: [[sources/wikipedia-marcelino-oreja|Marcelino Oreja]] · grade A
 
-- [Seville University](../organisations/seville-university.md)  
+- [[organisations/seville-university|Seville University]]  
   > "He continued to be active in many fields, being appointed Head of the Institute for European Studies at the CEU San Pablo University Foundation, Vice-chair of the BBV Foundation (1996) and Doctor Honoris Causa at Zaragoza and Seville Universities (1996)."
-  > Source: [Marcelino Oreja](../sources/wikipedia-marcelino-oreja.md) · grade A
+  > Source: [[sources/wikipedia-marcelino-oreja|Marcelino Oreja]] · grade A
 
-- [Zaragoza University](../organisations/zaragoza-university.md)  
+- [[organisations/zaragoza-university|Zaragoza University]]  
   > "He continued to be active in many fields, being appointed Head of the Institute for European Studies at the CEU San Pablo University Foundation, Vice-chair of the BBV Foundation (1996) and Doctor Honoris Causa at Zaragoza and Seville Universities (1996)."
-  > Source: [Marcelino Oreja](../sources/wikipedia-marcelino-oreja.md) · grade A
+  > Source: [[sources/wikipedia-marcelino-oreja|Marcelino Oreja]] · grade A
 
 ## Membership
 
-- [European Parliament](../organisations/european-parliament.md)  
+- [[organisations/european-parliament|European Parliament]]  
   > "He was elected to the European Parliament in 1989."
-  > Source: [Marcelino Oreja](../sources/wikipedia-marcelino-oreja.md) · grade A
+  > Source: [[sources/wikipedia-marcelino-oreja|Marcelino Oreja]] · grade A
 
-- [People's Party](../organisations/people-s-party.md) — party_member  
+- [[organisations/people-s-party|People's Party]] — party_member  
   > "Marcelino Oreja Aguirre, 1st Marquess of Oreja (born 13 February 1935) is a Spanish lawyer, diplomat and politician of the People's Party."
-  > Source: [Marcelino Oreja](../sources/wikipedia-marcelino-oreja.md) · grade B
+  > Source: [[sources/wikipedia-marcelino-oreja|Marcelino Oreja]] · grade B
 
-- [Spanish Royal Academy of Jurisprudence and Legislation (RAJL)](../organisations/spanish-royal-academy-of-jurisprudence-and-legislation-rajl.md)  
+- [[organisations/spanish-royal-academy-of-jurisprudence-and-legislation-rajl|Spanish Royal Academy of Jurisprudence and Legislation (RAJL)]]  
   > "Spanish Royal Academy of Jurisprudence and Legislation (RAJL), Member"
-  > Source: [Marcelino Oreja](../sources/wikipedia-marcelino-oreja.md) · grade A
+  > Source: [[sources/wikipedia-marcelino-oreja|Marcelino Oreja]] · grade A
 
-- [Spanish Royal Academy of Moral and Political Sciences (RACMP)](../organisations/spanish-royal-academy-of-moral-and-political-sciences-racmp.md)  
+- [[organisations/spanish-royal-academy-of-moral-and-political-sciences-racmp|Spanish Royal Academy of Moral and Political Sciences (RACMP)]]  
   > "Spanish Royal Academy of Moral and Political Sciences (RACMP), Member"
-  > Source: [Marcelino Oreja](../sources/wikipedia-marcelino-oreja.md) · grade A
+  > Source: [[sources/wikipedia-marcelino-oreja|Marcelino Oreja]] · grade A
 
 ## Board / trustee
 
-- [Elcano Royal Institute for International and Strategic Studies](../organisations/elcano-royal-institute-for-international-and-strategic-studies.md) — board_member  
+- [[organisations/elcano-royal-institute-for-international-and-strategic-studies|Elcano Royal Institute for International and Strategic Studies]] — board_member  
   > "Elcano Royal Institute for International and Strategic Studies, Member of the Board of Trustees"
-  > Source: [Marcelino Oreja](../sources/wikipedia-marcelino-oreja.md) · grade A
+  > Source: [[sources/wikipedia-marcelino-oreja|Marcelino Oreja]] · grade A
 
 ## Chair / president
 
-- [BBV Foundation](../organisations/bbv-foundation.md) — chair  
+- [[organisations/bbv-foundation|BBV Foundation]] — chair  
   > "He continued to be active in many fields, being appointed Head of the Institute for European Studies at the CEU San Pablo University Foundation, Vice-chair of the BBV Foundation (1996) and Doctor Honoris Causa at Zaragoza and Seville Universities (1996)."
-  > Source: [Marcelino Oreja](../sources/wikipedia-marcelino-oreja.md) · grade A
+  > Source: [[sources/wikipedia-marcelino-oreja|Marcelino Oreja]] · grade A
 
 ## Founder
 
-- [Grupo Tácito](../organisations/grupo-tacito.md) — founder  
+- [[organisations/grupo-tacito|Grupo Tácito]] — founder  
   > "In May 1973 he and a number of Madrid-based individuals founded the Grupo Tácito, a group of intellectuals, politicians and journalists, some of them coming from the Franco regime and others from the democratic and monarchist opposition to the dictatorship."
-  > Source: [Marcelino Oreja](../sources/wikipedia-marcelino-oreja.md) · grade A
+  > Source: [[sources/wikipedia-marcelino-oreja|Marcelino Oreja]] · grade A
 
 - grupo-t-cito — founder  
   > "In May 1973 he and a number of Madrid-based individuals founded the Grupo Tácito, a group of intellectuals, politicians and journalists, some of them coming from the Franco regime and others from the democratic and monarchist opposition to the dictatorship."
-  > Source: [Marcelino Oreja](../sources/wikipedia-marcelino-oreja.md) · grade A
+  > Source: [[sources/wikipedia-marcelino-oreja|Marcelino Oreja]] · grade A
 
 ## Employment
 
-- [Council of Europe](../organisations/council-of-europe.md) — employed_by  
+- [[organisations/council-of-europe|Council of Europe]] — employed_by  
   > "He was Secretary General of the Council of Europe from 1984 to 1989."
-  > Source: [Marcelino Oreja](../sources/wikipedia-marcelino-oreja.md) · grade C
+  > Source: [[sources/wikipedia-marcelino-oreja|Marcelino Oreja]] · grade C
 
-- [European Commission](../organisations/european-commission.md) — employed_by  
+- [[organisations/european-commission|European Commission]] — employed_by  
   > "In 1994 he was appointed European Commissioner for Transport and Energy and then European Commissioner for Institutional Relations and Communication Strategy."
-  > Source: [Marcelino Oreja](../sources/wikipedia-marcelino-oreja.md) · grade C
+  > Source: [[sources/wikipedia-marcelino-oreja|Marcelino Oreja]] · grade C

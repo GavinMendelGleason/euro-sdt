@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Raffaele Fitto](../people/raffaele-fitto.md) — party_member  
+- [[people/raffaele-fitto|Raffaele Fitto]] — party_member  
   > "Born in Maglie, Apulia, Fitto began his political career during the 1990s in Christian Democracy (DC), the ruling party of post-war Italy."
-  > Source: [Raffaele Fitto](../sources/wikipedia-raffaele-fitto.md) · grade B
+  > Source: [[sources/wikipedia-raffaele-fitto|Raffaele Fitto]] · grade B

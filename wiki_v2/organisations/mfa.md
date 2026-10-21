@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Piotr Serafin](../people/piotr-serafin.md) — employed_by  
+- [[people/piotr-serafin|Piotr Serafin]] — employed_by  
   > "He served as the Secretary of State at MFA from 22 May 2012 until 24 September 2014."
-  > Source: [Piotr Serafin](../sources/wikipedia-piotr-serafin.md) · grade C
+  > Source: [[sources/wikipedia-piotr-serafin|Piotr Serafin]] · grade C

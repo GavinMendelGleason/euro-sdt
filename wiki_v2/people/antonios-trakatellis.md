@@ -18,18 +18,18 @@ Mep
 
 ## Education
 
-- [Aristotle University Of Thessaloniki](../organisations/aristotle-university-of-thessaloniki.md)  
+- [[organisations/aristotle-university-of-thessaloniki|Aristotle University Of Thessaloniki]]  
   > "&#91; 1 &#93; Trakatellis has been a lecturer at several Greek and American universities, and was Rector of the Aristotle University of Thessaloniki 1988-1994."
-  > Source: [Antonios Trakatellis](../sources/wikipedia-antonios-trakatellis.md) · grade A
+  > Source: [[sources/wikipedia-antonios-trakatellis|Antonios Trakatellis]] · grade A
 
 ## Membership
 
-- [New Democracy](../organisations/new-democracy.md)  
+- [[organisations/new-democracy|New Democracy]]  
   > "He was elected on the New Democracy ticket and sits with the European People's Party group."
-  > Source: [Antonios Trakatellis](../sources/wikipedia-antonios-trakatellis.md) · grade B
+  > Source: [[sources/wikipedia-antonios-trakatellis|Antonios Trakatellis]] · grade B
 
 ## Affiliation
 
-- [New Democracy parliamentary group](../organisations/new-democracy-parliamentary-group.md)  
+- [[organisations/new-democracy-parliamentary-group|New Democracy parliamentary group]]  
   > "He has been leader of the ND parliamentary group since 2000."
-  > Source: [Antonios Trakatellis](../sources/wikipedia-antonios-trakatellis.md) · grade C
+  > Source: [[sources/wikipedia-antonios-trakatellis|Antonios Trakatellis]] · grade C

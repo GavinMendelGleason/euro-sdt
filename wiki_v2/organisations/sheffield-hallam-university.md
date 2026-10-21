@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Karmenu Vella](../people/karmenu-vella.md)  
+- [[people/karmenu-vella|Karmenu Vella]]  
   > "Between 1998 and 2000 he studied at Sheffield Hallam University where he was awarded a Master of Science degree in Tourism."
-  > Source: [Karmenu Vella](../sources/wikipedia-karmenu-vella.md) · grade A
+  > Source: [[sources/wikipedia-karmenu-vella|Karmenu Vella]] · grade A

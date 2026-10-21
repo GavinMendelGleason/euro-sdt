@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Michaele Schreyer](../people/michaele-schreyer.md) — chair  
+- [[people/michaele-schreyer|Michaele Schreyer]] — chair  
   > "Between 1995 and 1997, she served as chairwoman of the Sub-Committee on Public Housing."
-  > Source: [Michaele Schreyer](../sources/wikipedia-michaele-schreyer.md) · grade A
+  > Source: [[sources/wikipedia-michaele-schreyer|Michaele Schreyer]] · grade A

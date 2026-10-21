@@ -15,9 +15,9 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Eugen Tomac](../people/eugen-tomac.md)  
+- [[people/eugen-tomac|Eugen Tomac]]  
   > "Studies [ edit ] Tomac graduated from the History Faculty at the University of Bucharest in 2003 with thesis \"Basarabia, a Romanian Province on the Outskirts of the USSR\"."
-  > Source: [Eugen Tomac](../sources/wikipedia-eugen-tomac.md) · grade A
-- [Roxana Mînzatu](../people/roxana-minzatu.md)  
+  > Source: [[sources/wikipedia-eugen-tomac|Eugen Tomac]] · grade A
+- [[people/roxana-minzatu|Roxana Mînzatu]]  
   > "She obtained a BA in political science in 2002 from the University of Bucharest"
-  > Source: [Roxana Minzatu](../sources/wikipedia-roxana-minzatu.md) · grade A
+  > Source: [[sources/wikipedia-roxana-minzatu|Roxana Minzatu]] · grade A

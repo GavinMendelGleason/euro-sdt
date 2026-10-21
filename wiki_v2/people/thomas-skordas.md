@@ -18,6 +18,6 @@ Dg
 
 ## Education
 
-- [Aristotle University Of Thessaloniki, Technology School, Department Of Electrica](../organisations/aristotle-university-of-thessaloniki-technology-school-department-of-electrica.md)  
+- [[organisations/aristotle-university-of-thessaloniki-technology-school-department-of-electrica|Aristotle University Of Thessaloniki, Technology School, Department Of Electrica]]  
   > " 1979 - 1984 Advanced University Degree in Electrical Engineering - Aristotle University of Thessaloniki, Technology School, Department of Electrical Engineering, Thessaloniki, Greece"
-  > Source: [Thomas Skordas](../sources/dg_cv-thomas-skordas.md) · grade A
+  > Source: [[sources/dg_cv-thomas-skordas|Thomas Skordas]] · grade A

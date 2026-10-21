@@ -18,106 +18,106 @@ Mep
 
 ## Membership
 
-- [Committee of Professional Agricultural Organisations](../organisations/committee-of-professional-agricultural-organisations.md)  
+- [[organisations/committee-of-professional-agricultural-organisations|Committee of Professional Agricultural Organisations]]  
   > "Daul also became a member of the Committee of Professional Agricultural Organisations (COPA) and of the European Economic and Social Committee in Brussels."
-  > Source: [Joseph Daul](../sources/wikipedia-joseph-daul.md) · grade A
+  > Source: [[sources/wikipedia-joseph-daul|Joseph Daul]] · grade A
 
-- [Committee on Agriculture and Rural Development](../organisations/committee-on-agriculture-and-rural-development.md)  
+- [[organisations/committee-on-agriculture-and-rural-development|Committee on Agriculture and Rural Development]]  
   > "Daul became a member of the Committee on Agriculture and Rural Development, appointed chairman in January 2002."
-  > Source: [Joseph Daul](../sources/wikipedia-joseph-daul.md) · grade A
+  > Source: [[sources/wikipedia-joseph-daul|Joseph Daul]] · grade A
 
-- [Committee on International Trade](../organisations/committee-on-international-trade.md)  
+- [[organisations/committee-on-international-trade|Committee on International Trade]]  
   > "He remains member of the Committee on Agriculture and Rural Development and substitute member of the Committee on International Trade and of the Delegation to the ACP-EU Joint Parliamentary Assembly."
-  > Source: [Joseph Daul](../sources/wikipedia-joseph-daul.md) · grade A
+  > Source: [[sources/wikipedia-joseph-daul|Joseph Daul]] · grade A
 
-- [Delegation to the ACP-EU Joint Parliamentary Assembly](../organisations/delegation-to-the-acp-eu-joint-parliamentary-assembly.md)  
+- [[organisations/delegation-to-the-acp-eu-joint-parliamentary-assembly|Delegation to the ACP-EU Joint Parliamentary Assembly]]  
   > "He remains member of the Committee on Agriculture and Rural Development and substitute member of the Committee on International Trade and of the Delegation to the ACP-EU Joint Parliamentary Assembly."
-  > Source: [Joseph Daul](../sources/wikipedia-joseph-daul.md) · grade A
+  > Source: [[sources/wikipedia-joseph-daul|Joseph Daul]] · grade A
 
-- [EPP](../organisations/epp.md)  
+- [[organisations/epp|EPP]]  
   > "He is a member of The Republicans , part of the EPP."
-  > Source: [Joseph Daul](../sources/wikipedia-joseph-daul.md) · grade A
+  > Source: [[sources/wikipedia-joseph-daul|Joseph Daul]] · grade A
 
-- [EPP Group](../organisations/epp-group.md)  
+- [[organisations/epp-group|EPP Group]]  
   > "Member of the European Parliament [ edit ] After having been elected in 1999, Daul joined the then EPP-ED Group, now EPP Group ."
-  > Source: [Joseph Daul](../sources/wikipedia-joseph-daul.md) · grade A
+  > Source: [[sources/wikipedia-joseph-daul|Joseph Daul]] · grade A
 
-- [EPP-ED Group](../organisations/epp-ed-group.md)  
+- [[organisations/epp-ed-group|EPP-ED Group]]  
   > "Member of the European Parliament [ edit ] After having been elected in 1999, Daul joined the then EPP-ED Group, now EPP Group ."
-  > Source: [Joseph Daul](../sources/wikipedia-joseph-daul.md) · grade A
+  > Source: [[sources/wikipedia-joseph-daul|Joseph Daul]] · grade A
 
-- [European Economic and Social Committee](../organisations/european-economic-and-social-committee.md)  
+- [[organisations/european-economic-and-social-committee|European Economic and Social Committee]]  
   > "Daul also became a member of the Committee of Professional Agricultural Organisations (COPA) and of the European Economic and Social Committee in Brussels."
-  > Source: [Joseph Daul](../sources/wikipedia-joseph-daul.md) · grade A
+  > Source: [[sources/wikipedia-joseph-daul|Joseph Daul]] · grade A
 
-- [European Parliament](../organisations/european-parliament.md)  
+- [[organisations/european-parliament|European Parliament]]  
   > "He previously served as Leader of the EPP Group in the European Parliament from 2007 to 2014 and a Member of the European Parliament (MEP) from France from 1999 until 2014."
-  > Source: [Joseph Daul](../sources/wikipedia-joseph-daul.md) · grade A
+  > Source: [[sources/wikipedia-joseph-daul|Joseph Daul]] · grade A
 
-- [European Parliament Delegation for the WTO negotiations](../organisations/european-parliament-delegation-for-the-wto-negotiations.md)  
+- [[organisations/european-parliament-delegation-for-the-wto-negotiations|European Parliament Delegation for the WTO negotiations]]  
   > "As a member of the European Parliament Delegation for the WTO negotiations, Daul formed part of the European Parliament delegation to the ministerial conferences in Seattle (1999), Doha (2001) and Cancun (2003)."
-  > Source: [Joseph Daul](../sources/wikipedia-joseph-daul.md) · grade A
+  > Source: [[sources/wikipedia-joseph-daul|Joseph Daul]] · grade A
 
-- [RPR](../organisations/rpr.md)  
+- [[organisations/rpr|RPR]]  
   > "These activities, together with his experience as mayor of his town (1000 inhabitants) led to a more active role in politics when, in 1999, he was asked to represent the farming and rural communities on the RPR list under Nicolas Sarkozy ."
-  > Source: [Joseph Daul](../sources/wikipedia-joseph-daul.md) · grade B
+  > Source: [[sources/wikipedia-joseph-daul|Joseph Daul]] · grade B
 
-- [The Republicans](../organisations/the-republicans.md)  
+- [[organisations/the-republicans|The Republicans]]  
   > "He is a member of The Republicans , part of the EPP."
-  > Source: [Joseph Daul](../sources/wikipedia-joseph-daul.md) · grade A
+  > Source: [[sources/wikipedia-joseph-daul|Joseph Daul]] · grade A
 
 ## Chair / president
 
-- ['beef' group in Europe](../organisations/beef-group-in-europe.md) — chair  
+- [[organisations/beef-group-in-europe|'beef' group in Europe]] — chair  
   > "In 1997, when the 'mad cow' crisis arose, he was chair of the National Federation of Beef Producers in France and of the 'beef' group in Europe."
-  > Source: [Joseph Daul](../sources/wikipedia-joseph-daul.md) · grade A
+  > Source: [[sources/wikipedia-joseph-daul|Joseph Daul]] · grade A
 
-- [CNJA](../organisations/cnja.md) — chair  
+- [[organisations/cnja|CNJA]] — chair  
   > "He completed his professional training and general education and in 1976 he was appointed national Vice-Chairman of the CNJA with responsibility for European affairs."
-  > Source: [Joseph Daul](../sources/wikipedia-joseph-daul.md) · grade A
+  > Source: [[sources/wikipedia-joseph-daul|Joseph Daul]] · grade A
 
-- [Conference of Committee Chairmen](../organisations/conference-of-committee-chairmen.md) — chair  
+- [[organisations/conference-of-committee-chairmen|Conference of Committee Chairmen]] — chair  
   > "Daul had previously come to prominence as the chairman of the European Parliament 's powerful Committee on Agriculture, a position he was elected to on 23 July 2004, and previously, from 2002, as chairman of the Conference of Committee Chairmen."
-  > Source: [Joseph Daul](../sources/wikipedia-joseph-daul.md) · grade A
+  > Source: [[sources/wikipedia-joseph-daul|Joseph Daul]] · grade A
 
-- [European Parliamentary Association](../organisations/european-parliamentary-association.md) — chair  
+- [[organisations/european-parliamentary-association|European Parliamentary Association]] — chair  
   > "He is also chairman of the European Parliamentary Association (EPA)."
-  > Source: [Joseph Daul](../sources/wikipedia-joseph-daul.md) · grade A
+  > Source: [[sources/wikipedia-joseph-daul|Joseph Daul]] · grade A
 
-- [European People's Party](../organisations/european-peoples-party.md) — chair  
+- [[organisations/european-peoples-party|European People's Party]] — chair  
   > "French politician (born 1947) Joseph Alexander Daul (born 13 April 1947) is a French politician who served as President of the European People's Party (EPP) from 2013 to 2019."
-  > Source: [Joseph Daul](../sources/wikipedia-joseph-daul.md) · grade A
+  > Source: [[sources/wikipedia-joseph-daul|Joseph Daul]] · grade A
 
-- [National Federation of Beef Producers in France](../organisations/national-federation-of-beef-producers-in-france.md) — chair  
+- [[organisations/national-federation-of-beef-producers-in-france|National Federation of Beef Producers in France]] — chair  
   > "In 1997, when the 'mad cow' crisis arose, he was chair of the National Federation of Beef Producers in France and of the 'beef' group in Europe."
-  > Source: [Joseph Daul](../sources/wikipedia-joseph-daul.md) · grade A
+  > Source: [[sources/wikipedia-joseph-daul|Joseph Daul]] · grade A
 
-- [Strasbourg Abattoir Management Cooperative](../organisations/strasbourg-abattoir-management-cooperative.md) — chair  
+- [[organisations/strasbourg-abattoir-management-cooperative|Strasbourg Abattoir Management Cooperative]] — chair  
   > "Daul also became deputy mayor in his home town, vice-president of the Community of Councils and chairman of the Strasbourg Abattoir Management Cooperative (160 employees)."
-  > Source: [Joseph Daul](../sources/wikipedia-joseph-daul.md) · grade A
+  > Source: [[sources/wikipedia-joseph-daul|Joseph Daul]] · grade A
 
 ## Affiliation
 
-- ['Lisbon Strategy' Group](../organisations/lisbon-strategy-group.md)  
+- [[organisations/lisbon-strategy-group|'Lisbon Strategy' Group]]  
   > "The 'Lisbon Strategy' Group headed by Daul explored questions of employment and in this capacity Daul co-chaired two meetings in 2005 and 2006 between the European Parliament and the national parliaments."
-  > Source: [Joseph Daul](../sources/wikipedia-joseph-daul.md) · grade B
+  > Source: [[sources/wikipedia-joseph-daul|Joseph Daul]] · grade B
 
-- [EPP Group in the European Parliament](../organisations/epp-group-in-the-european-parliament.md)  
+- [[organisations/epp-group-in-the-european-parliament|EPP Group in the European Parliament]]  
   > "He previously served as Leader of the EPP Group in the European Parliament from 2007 to 2014 and a Member of the European Parliament (MEP) from France from 1999 until 2014."
-  > Source: [Joseph Daul](../sources/wikipedia-joseph-daul.md) · grade A
+  > Source: [[sources/wikipedia-joseph-daul|Joseph Daul]] · grade A
 
-- [Legion of Honour](../organisations/legion-of-honour.md)  
+- [[organisations/legion-of-honour|Legion of Honour]]  
   > "He has been mayor of Pfettisheim ( Bas-Rhin ) since 1989, and is an officer of the Agricultural Order of Merit, knight of the National Order of Merit and knight of the Legion of Honour ."
-  > Source: [Joseph Daul](../sources/wikipedia-joseph-daul.md) · grade B
+  > Source: [[sources/wikipedia-joseph-daul|Joseph Daul]] · grade B
 
-- [Légion d'Honneur](../organisations/legion-d-honneur.md)  
+- [[organisations/legion-d-honneur|Légion d'Honneur]]  
   > "&#91; 1 &#93; Recognition [ edit ] Among other honours, Daul is an \"Officier de la Légion d'Honneur\", \"Chevalier de l'Ordre National du Mérite\" and \"Officier du Mérite Agricole\"."
-  > Source: [Joseph Daul](../sources/wikipedia-joseph-daul.md) · grade B
+  > Source: [[sources/wikipedia-joseph-daul|Joseph Daul]] · grade B
 
-- [Mérite Agricole](../organisations/merite-agricole.md)  
+- [[organisations/merite-agricole|Mérite Agricole]]  
   > "&#91; 1 &#93; Recognition [ edit ] Among other honours, Daul is an \"Officier de la Légion d'Honneur\", \"Chevalier de l'Ordre National du Mérite\" and \"Officier du Mérite Agricole\"."
-  > Source: [Joseph Daul](../sources/wikipedia-joseph-daul.md) · grade B
+  > Source: [[sources/wikipedia-joseph-daul|Joseph Daul]] · grade B
 
-- [Ordre National du Mérite](../organisations/ordre-national-du-merite.md)  
+- [[organisations/ordre-national-du-merite|Ordre National du Mérite]]  
   > "&#91; 1 &#93; Recognition [ edit ] Among other honours, Daul is an \"Officier de la Légion d'Honneur\", \"Chevalier de l'Ordre National du Mérite\" and \"Officier du Mérite Agricole\"."
-  > Source: [Joseph Daul](../sources/wikipedia-joseph-daul.md) · grade B
+  > Source: [[sources/wikipedia-joseph-daul|Joseph Daul]] · grade B

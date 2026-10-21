@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Dimitris Avramopoulos](../people/dimitris-avramopoulos.md) — employed_by  
+- [[people/dimitris-avramopoulos|Dimitris Avramopoulos]] — employed_by  
   > "In 1993 he was promoted to director of the Prime Minister of Greece's Diplomatic Office."
-  > Source: [Dimitris Avramopoulos](../sources/wikipedia-dimitris-avramopoulos.md) · grade A
+  > Source: [[sources/wikipedia-dimitris-avramopoulos|Dimitris Avramopoulos]] · grade A

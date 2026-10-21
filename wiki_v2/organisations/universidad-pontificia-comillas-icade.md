@@ -15,9 +15,9 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Pedro Azagra](../people/pedro-azagra.md)  
+- [[people/pedro-azagra|Pedro Azagra]]  
   > "== Biography == He holds a degree in Business Administration and Management from Universidad Pontificia Comillas - ICADE (Madrid), and an MBA (Master of Business Administration) from the University of Chicago (Graduate School of Business)."
-  > Source: [Corp Pedro Azagra](../sources/wikipedia-corp-pedro-azagra.md) · grade A
-- [Pedro Azagra Blázquez](../people/pedro-azagra-blazquez.md)  
+  > Source: [[sources/wikipedia-corp-pedro-azagra|Corp Pedro Azagra]] · grade A
+- [[people/pedro-azagra-blazquez|Pedro Azagra Blázquez]]  
   > "&#91; 1 &#93; &#91; 2 &#93; Biography [ edit ] He holds a degree in Business Administration and Management from Universidad Pontificia Comillas - ICADE (Madrid), and an MBA (Master of Business Administration) from the University of Chicago (Graduate School of Business)."
-  > Source: [Pedro Azagra Bl Zquez](../sources/wikipedia-pedro-azagra-bl-zquez.md) · grade B
+  > Source: [[sources/wikipedia-pedro-azagra-bl-zquez|Pedro Azagra Bl Zquez]] · grade B

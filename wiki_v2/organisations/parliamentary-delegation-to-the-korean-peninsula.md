@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Amelia Andersdotter](../people/amelia-andersdotter.md)  
+- [[people/amelia-andersdotter|Amelia Andersdotter]]  
   > "She also served as a full member of the parliamentary delegation to the Korean peninsula , and a substitute member of the delegation for the Andean community ."
-  > Source: [Amelia Andersdotter](../sources/wikipedia-amelia-andersdotter.md) · grade A
+  > Source: [[sources/wikipedia-amelia-andersdotter|Amelia Andersdotter]] · grade A

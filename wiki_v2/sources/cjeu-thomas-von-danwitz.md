@@ -15,9 +15,9 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (3)
 
-- [Thomas von Danwitz](../people/thomas-von-danwitz.md) — educated_at — Rheinische Friedrich-Wilhelms-Universität Bonn
+- [[people/thomas-von-danwitz|Thomas von Danwitz]] — educated_at — Rheinische Friedrich-Wilhelms-Universität Bonn
   > "Born in 1962 in Bedburg/Erft (Germany), Mr Thomas von Danwitz studied at the Rheinische Friedrich-Wilhelms-Universität Bonn (Rhenish Friedrich Wilhelm University of Bonn, Germany) where he passed the First State Law Examination in 1986, and at the université de Genève (University of Geneva, Switzerland)."
-- [Thomas von Danwitz](../people/thomas-von-danwitz.md) — educated_at — université de Genève (University of Geneva, Switzerland)
+- [[people/thomas-von-danwitz|Thomas von Danwitz]] — educated_at — université de Genève (University of Geneva, Switzerland)
   > "Born in 1962 in Bedburg/Erft (Germany), Mr Thomas von Danwitz studied at the Rheinische Friedrich-Wilhelms-Universität Bonn (Rhenish Friedrich Wilhelm University of Bonn, Germany) where he passed the First State Law Examination in 1986, and at the université de Genève (University of Geneva, Switzerland)."
-- [Thomas von Danwitz](../people/thomas-von-danwitz.md) — educated_at — École nationale d'administration
+- [[people/thomas-von-danwitz|Thomas von Danwitz]] — educated_at — École nationale d'administration
   > "In 1990, Mr von Danwitz graduated from the École nationale d'administration (National School of Administration, France) with an international diploma in public administration."

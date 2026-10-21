@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Mário Soares](../people/mario-soares.md)  
+- [[people/mario-soares|Mário Soares]]  
   > "He was first arrested by PIDE , the Portuguese political police, in 1946, when he was a member of the Central Committee of the Movement of Democratic Unity ( Portuguese : Movimento de Unidade Democrática ), at the time chaired by Mário de Azevedo Gomes &#160;&#91; pt &#93; ."
-  > Source: [M Rio Soares](../sources/wikipedia-m-rio-soares.md) · grade C
+  > Source: [[sources/wikipedia-m-rio-soares|M Rio Soares]] · grade C

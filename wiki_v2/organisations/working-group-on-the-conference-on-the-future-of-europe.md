@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Antonio Tajani](../people/antonio-tajani.md)  
+- [[people/antonio-tajani|Antonio Tajani]]  
   > "He was a member of the Working Group on the Conference on the Future of Europe."
-  > Source: [Antonio Tajani](../sources/wikipedia-antonio-tajani.md) · grade A
+  > Source: [[sources/wikipedia-antonio-tajani|Antonio Tajani]] · grade A

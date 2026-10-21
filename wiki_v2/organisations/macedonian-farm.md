@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Apostolos Tzitzikostas](../people/apostolos-tzitzikostas.md) — founder  
+- [[people/apostolos-tzitzikostas|Apostolos Tzitzikostas]] — founder  
   > "In 2001 he created his own company selling organic dairy products called 'MACEDONIAN FARM', which was later marketed by Mevgal."
-  > Source: [Apostolos Tzitzikostas](../sources/wikipedia-apostolos-tzitzikostas.md) · grade C
+  > Source: [[sources/wikipedia-apostolos-tzitzikostas|Apostolos Tzitzikostas]] · grade C

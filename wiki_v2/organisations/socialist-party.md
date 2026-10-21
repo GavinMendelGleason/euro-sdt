@@ -15,27 +15,27 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [António Vitorino](../people/antonio-vitorino.md) — party_member  
+- [[people/antonio-vitorino|António Vitorino]] — party_member  
   > "António Manuel de Carvalho Ferreira Vitorino (born 12 January 1957) is a Portuguese lawyer and politician of the Socialist Party (PS)."
-  > Source: [Antonio Vitorino](../sources/wikipedia-antonio-vitorino.md) · grade B
-- [Elisa Ferreira](../people/elisa-ferreira.md) — party_member  
+  > Source: [[sources/wikipedia-antonio-vitorino|Antonio Vitorino]] · grade B
+- [[people/elisa-ferreira|Elisa Ferreira]] — party_member  
   > "She was as Member of the European Parliament (MEP) for the Socialist Party; part of the Party of European Socialists between 2004 and 2016."
-  > Source: [Elisa Ferreira](../sources/wikipedia-elisa-ferreira.md) · grade A
-- [Manuel António Dos Santos](../people/manuel-antonio-dos-santos.md)  
+  > Source: [[sources/wikipedia-elisa-ferreira|Elisa Ferreira]] · grade A
+- [[people/manuel-antonio-dos-santos|Manuel António Dos Santos]]  
   > "Portuguese politician dos Santos in 1999 Manuel António dos Santos (born 5 December 1943 in Mirandela ) is a Portuguese politician who served as Member of the European Parliament for the Socialist Party , part of the Party of European Socialists , from 2001 until 2019."
-  > Source: [Manuel Antnio Dos Santos](../sources/wikipedia-manuel-antnio-dos-santos.md) · grade A
-- [Max Gallo](../people/max-gallo.md)  
+  > Source: [[sources/wikipedia-manuel-antnio-dos-santos|Manuel Antnio Dos Santos]] · grade A
+- [[people/max-gallo|Max Gallo]]  
   > "In 1974, he joined the Socialist Party ."
-  > Source: [Max Gallo](../sources/wikipedia-max-gallo.md) · grade A
-- [Pascal Lamy](../people/pascal-lamy.md) — party_member  
+  > Source: [[sources/wikipedia-max-gallo|Max Gallo]] · grade A
+- [[people/pascal-lamy|Pascal Lamy]] — party_member  
   > "Lamy has been a member of the Socialist Party since 1969."
-  > Source: [Pascal Lamy](../sources/wikipedia-pascal-lamy.md) · grade A
-- [Stéphane Séjourné](../people/stephane-sejourne.md) — party_member  
+  > Source: [[sources/wikipedia-pascal-lamy|Pascal Lamy]] · grade A
+- [[people/stephane-sejourne|Stéphane Séjourné]] — party_member  
   > "It was in Argentina, in 2001, while the country was sinking into an economic crisis, that he decided to engage in politics within the Socialist Party, “because it was the only organization that had an international structure.”"
-  > Source: [Stephane Sejourne](../sources/wikipedia-stephane-sejourne.md) · grade A
-- [Sylvie Guillaume](../people/sylvie-guillaume.md)  
+  > Source: [[sources/wikipedia-stephane-sejourne|Stephane Sejourne]] · grade A
+- [[people/sylvie-guillaume|Sylvie Guillaume]]  
   > "She is a member of the Socialist Party , part of the Party of European Socialists ."
-  > Source: [Sylvie Guillaume](../sources/wikipedia-sylvie-guillaume.md) · grade A
-- [Teresa Ribera](../people/teresa-ribera.md)  
+  > Source: [[sources/wikipedia-sylvie-guillaume|Sylvie Guillaume]] · grade A
+- [[people/teresa-ribera|Teresa Ribera]]  
   > "In 2015, she joined Pedro Sánchez's expert panel to prepare the Socialist Party's electoral program."
-  > Source: [Teresa Ribera](../sources/wikipedia-teresa-ribera.md) · grade B
+  > Source: [[sources/wikipedia-teresa-ribera|Teresa Ribera]] · grade B

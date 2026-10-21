@@ -16,13 +16,13 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (5)
 
-- [Pekka Ala-Pietilä](../people/pekka-ala-pietila.md) — affiliated_with — Tampere University of Technology
+- [[people/pekka-ala-pietila|Pekka Ala-Pietilä]] — affiliated_with — Tampere University of Technology
   > "Born in Asikkala , he holds an honorary Doctor in Technology from Tampere University of Technology and in Science from the University of Helsinki , and is a Knight 1st Class of the Order of the White Rose of Finland ."
-- [Pekka Ala-Pietilä](../people/pekka-ala-pietila.md) — affiliated_with — University of Helsinki
+- [[people/pekka-ala-pietila|Pekka Ala-Pietilä]] — affiliated_with — University of Helsinki
   > "Born in Asikkala , he holds an honorary Doctor in Technology from Tampere University of Technology and in Science from the University of Helsinki , and is a Knight 1st Class of the Order of the White Rose of Finland ."
-- [Pekka Ala-Pietilä](../people/pekka-ala-pietila.md) — affiliated_with — Order of the White Rose of Finland
+- [[people/pekka-ala-pietila|Pekka Ala-Pietilä]] — affiliated_with — Order of the White Rose of Finland
   > "Born in Asikkala , he holds an honorary Doctor in Technology from Tampere University of Technology and in Science from the University of Helsinki , and is a Knight 1st Class of the Order of the White Rose of Finland ."
-- [Pekka Ala-Pietilä](../people/pekka-ala-pietila.md) — chair — Nokia Mobile Phones
+- [[people/pekka-ala-pietila|Pekka Ala-Pietilä]] — chair — Nokia Mobile Phones
   > "He was also President of Nokia Corporation (1999–2005) and President of Nokia Mobile Phones (1992–1998)."
-- [Pekka Ala-Pietilä](../people/pekka-ala-pietila.md) — founder — Blyk
+- [[people/pekka-ala-pietila|Pekka Ala-Pietilä]] — founder — Blyk
   > "( August 2009 ) ( Learn how and when to remove this message ) Pekka Ala-Pietilä (born 13 January 1957) is CEO and co-founder of Blyk ."

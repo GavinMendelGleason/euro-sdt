@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Christos Papoutsis](../people/christos-papoutsis.md)  
+- [[people/christos-papoutsis|Christos Papoutsis]]  
   > "He was born in Larissa, Greece, in 1953 and later moved to Athens where he studied Economics at the National and Kapodistrian University."
-  > Source: [Christos Papoutsis](../sources/wikipedia-christos-papoutsis.md) · grade C
+  > Source: [[sources/wikipedia-christos-papoutsis|Christos Papoutsis]] · grade C

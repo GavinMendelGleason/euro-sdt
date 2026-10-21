@@ -15,9 +15,9 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Günter Verheugen](../people/gunter-verheugen.md) — party_member  
+- [[people/gunter-verheugen|Günter Verheugen]] — party_member  
   > "In the same year, he joined the Social Democratic Party of Germany (SPD)."
-  > Source: [Gunter Verheugen](../sources/wikipedia-gunter-verheugen.md) · grade A
-- [Mechtild Rothe](../people/mechtild-rothe.md)  
+  > Source: [[sources/wikipedia-gunter-verheugen|Gunter Verheugen]] · grade A
+- [[people/mechtild-rothe|Mechtild Rothe]]  
   > "She is a member of the Social Democratic Party of Germany , part of the Socialist Group ."
-  > Source: [Mechtild Rothe](../sources/wikipedia-mechtild-rothe.md) · grade A
+  > Source: [[sources/wikipedia-mechtild-rothe|Mechtild Rothe]] · grade A

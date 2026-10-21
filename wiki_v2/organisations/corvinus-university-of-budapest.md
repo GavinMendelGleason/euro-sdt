@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [László Andor](../people/laszlo-andor.md)  
+- [[people/laszlo-andor|László Andor]]  
   > "He studied Economics at the Corvinus University of Budapest (then called the Karl Marx University), and later became Associate Professor of Economic Policy at the same institution."
-  > Source: [Laszlo Andor](../sources/wikipedia-laszlo-andor.md) · grade A
+  > Source: [[sources/wikipedia-laszlo-andor|Laszlo Andor]] · grade A

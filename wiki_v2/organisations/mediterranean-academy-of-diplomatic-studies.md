@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Joe Borg](../people/joe-borg.md) — chair  
+- [[people/joe-borg|Joe Borg]] — chair  
   > "Soon after the end of his term as Fisheries Commissioner in 2010, he was appointed chairman of the Mediterranean Academy of Diplomatic Studies and resumed lecturing at the University of Malta."
-  > Source: [Joe Borg](../sources/wikipedia-joe-borg.md) · grade A
+  > Source: [[sources/wikipedia-joe-borg|Joe Borg]] · grade A

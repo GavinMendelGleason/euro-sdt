@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Andris Piebalgs](../people/andris-piebalgs.md) — employed_by  
+- [[people/andris-piebalgs|Andris Piebalgs]] — employed_by  
   > "He also served as director of the department in the Ministry of Education in Latvia."
-  > Source: [Andris Piebalgs](../sources/wikipedia-andris-piebalgs.md) · grade A
+  > Source: [[sources/wikipedia-andris-piebalgs|Andris Piebalgs]] · grade A

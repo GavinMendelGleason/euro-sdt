@@ -14,9 +14,9 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Carlos Moedas](../people/carlos-moedas.md) — board_member; chair  
+- [[people/carlos-moedas|Carlos Moedas]] — board_member; chair  
   > "Jacques Delors Institute, Vice-President (since 2020), Member of the Board of Directors (since 2019)"
-  > Source: [Carlos Moedas](../sources/wikipedia-carlos-moedas.md) · grade A
-- [Joaquín Almunia](../people/joaquin-almunia.md) — board_member  
+  > Source: [[sources/wikipedia-carlos-moedas|Carlos Moedas]] · grade A
+- [[people/joaquin-almunia|Joaquín Almunia]] — board_member  
   > "Jacques Delors Institute, Member of the Board of Directors"
-  > Source: [Joaquin Almunia](../sources/wikipedia-joaquin-almunia.md) · grade A
+  > Source: [[sources/wikipedia-joaquin-almunia|Joaquin Almunia]] · grade A

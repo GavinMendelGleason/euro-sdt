@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Olli Rehn](../people/olli-rehn.md)  
+- [[people/olli-rehn|Olli Rehn]]  
   > "European Systemic Risk Board (ESRB), ex officio member"
-  > Source: [Olli Rehn](../sources/wikipedia-olli-rehn.md) · grade A
+  > Source: [[sources/wikipedia-olli-rehn|Olli Rehn]] · grade A

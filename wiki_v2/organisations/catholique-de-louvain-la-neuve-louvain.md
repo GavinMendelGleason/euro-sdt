@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Kurt Vandenberghe](../people/kurt-vandenberghe.md)  
+- [[people/kurt-vandenberghe|Kurt Vandenberghe]]  
   > " 1988 – 1989 Diploma in Public and International Affairs, Université Catholique de Louvain-la-Neuve, Louvain-la-Neuve, Belgium"
-  > Source: [Kurt Vandenberghe](../sources/dg_cv-kurt-vandenberghe.md) · grade A
+  > Source: [[sources/dg_cv-kurt-vandenberghe|Kurt Vandenberghe]] · grade A

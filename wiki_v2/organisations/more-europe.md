@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Emma Bonino](../people/emma-bonino.md) — chair  
+- [[people/emma-bonino|Emma Bonino]] — chair  
   > "She is the leader of More Europe, a liberal, European federalist party list she launched in December 2017, ahead of the 2018 Italian general election."
-  > Source: [Emma Bonino](../sources/wikipedia-emma-bonino.md) · grade C
+  > Source: [[sources/wikipedia-emma-bonino|Emma Bonino]] · grade C

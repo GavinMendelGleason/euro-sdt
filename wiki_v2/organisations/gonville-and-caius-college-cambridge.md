@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Bill Newton Dunn](../people/bill-newton-dunn.md)  
+- [[people/bill-newton-dunn|Bill Newton Dunn]]  
   > "After going up to read Natural Sciences (Physics and Chemistry) at Gonville and Caius College, Cambridge , he studied at Paris - Sorbonne in 1960, and graduated MA (Cantab) in 1963."
-  > Source: [Bill Newton Dunn](../sources/wikipedia-bill-newton-dunn.md) · grade C
+  > Source: [[sources/wikipedia-bill-newton-dunn|Bill Newton Dunn]] · grade C

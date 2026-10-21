@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Frans Timmermans](../people/frans-timmermans.md)  
+- [[people/frans-timmermans|Frans Timmermans]]  
   > "In 1980, Timmermans enrolled at Radboud University Nijmegen, where he studied French language and literature and graduated with a Master of Arts degree in 1985."
-  > Source: [Frans Timmermans](../sources/wikipedia-frans-timmermans.md) · grade A
+  > Source: [[sources/wikipedia-frans-timmermans|Frans Timmermans]] · grade A

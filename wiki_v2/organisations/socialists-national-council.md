@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Sylvie Guillaume](../people/sylvie-guillaume.md) — chair  
+- [[people/sylvie-guillaume|Sylvie Guillaume]] — chair  
   > "She has held various responsibilities within the party, including that of president of the Socialists' national council between 2000 and 2003."
-  > Source: [Sylvie Guillaume](../sources/wikipedia-sylvie-guillaume.md) · grade A
+  > Source: [[sources/wikipedia-sylvie-guillaume|Sylvie Guillaume]] · grade A

@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Dimitris Avramopoulos](../people/dimitris-avramopoulos.md) — chair  
+- [[people/dimitris-avramopoulos|Dimitris Avramopoulos]] — chair  
   > "From 1995 to 1999 he served as chairman of the Central Union of Local Authorities of Greece."
-  > Source: [Dimitris Avramopoulos](../sources/wikipedia-dimitris-avramopoulos.md) · grade A
+  > Source: [[sources/wikipedia-dimitris-avramopoulos|Dimitris Avramopoulos]] · grade A

@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Kaja Kallas](../people/kaja-kallas.md)  
+- [[people/kaja-kallas|Kaja Kallas]]  
   > "In 2011, she was placed on inactive status as a member of the Estonian Bar Association."
-  > Source: [Kaja Kallas](../sources/wikipedia-kaja-kallas.md) · grade A
+  > Source: [[sources/wikipedia-kaja-kallas|Kaja Kallas]] · grade A

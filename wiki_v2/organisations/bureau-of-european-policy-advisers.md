@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Margaritis Schinas](../people/margaritis-schinas.md) — employed_by  
+- [[people/margaritis-schinas|Margaritis Schinas]] — employed_by  
   > "In 2010, Schinas was appointed Deputy Director of the Bureau of European Policy Advisers by Commission President Barroso."
-  > Source: [Margaritis Schinas](../sources/wikipedia-margaritis-schinas.md) · grade A
+  > Source: [[sources/wikipedia-margaritis-schinas|Margaritis Schinas]] · grade A

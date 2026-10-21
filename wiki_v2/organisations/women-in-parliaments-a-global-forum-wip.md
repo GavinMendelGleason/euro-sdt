@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Silvana Koch-Mehrin](../people/silvana-koch-mehrin.md) — founder  
+- [[people/silvana-koch-mehrin|Silvana Koch-Mehrin]] — founder  
   > "&#91; 16 &#93; &#91; 17 &#93; WIP is an independent, non-partisan and not-for-profit foundation."
-  > Source: [Silvana Koch Mehrin](../sources/wikipedia-silvana-koch-mehrin.md) · grade A
+  > Source: [[sources/wikipedia-silvana-koch-mehrin|Silvana Koch Mehrin]] · grade A

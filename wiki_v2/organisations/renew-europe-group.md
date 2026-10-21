@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Fredrick Federley](../people/fredrick-federley.md) — chair  
+- [[people/fredrick-federley|Fredrick Federley]] — chair  
   > "He was Vice President of the Renew Europe group in the European parliament since July 2019."
-  > Source: [Fredrick Federley](../sources/wikipedia-fredrick-federley.md) · grade A
+  > Source: [[sources/wikipedia-fredrick-federley|Fredrick Federley]] · grade A

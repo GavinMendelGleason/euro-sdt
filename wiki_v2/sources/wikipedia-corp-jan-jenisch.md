@@ -16,9 +16,9 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (3)
 
-- [Jan Jenisch](../people/jan-jenisch.md) — educated_at — University of Fribourg
+- [[people/jan-jenisch|Jan Jenisch]] — educated_at — University of Fribourg
   > "He earned a Master of Business Administration degree from the University of Fribourg in 1993."
-- [Jan Jenisch](../people/jan-jenisch.md) — educated_at — Stetson University
+- [[people/jan-jenisch|Jan Jenisch]] — educated_at — Stetson University
   > "He studied business administration in Switzerland, where he attended the University of Fribourg, and at Stetson University in the U.S. state of Florida."
-- [Jan Jenisch](../people/jan-jenisch.md) — employed_by — Holcim
+- [[people/jan-jenisch|Jan Jenisch]] — employed_by — Holcim
   > "Prior to Holcim, he was the CEO of Sika AG."

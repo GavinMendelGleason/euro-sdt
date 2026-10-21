@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Maria Luís Albuquerque](../people/maria-luis-albuquerque.md) — employed_by  
+- [[people/maria-luis-albuquerque|Maria Luís Albuquerque]] — employed_by  
   > "Between 2001 and 2007 she was director of the Department of Financial Management of REFER, the railway infrastructure public company."
-  > Source: [Maria Luis Albuquerque](../sources/wikipedia-maria-luis-albuquerque.md) · grade A
+  > Source: [[sources/wikipedia-maria-luis-albuquerque|Maria Luis Albuquerque]] · grade A

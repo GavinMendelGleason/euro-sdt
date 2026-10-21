@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Dimitris Avramopoulos](../people/dimitris-avramopoulos.md) — party_member  
+- [[people/dimitris-avramopoulos|Dimitris Avramopoulos]] — party_member  
   > "In March 2001, he split from New Democracy with his Movement of Free Citizens (KEP), but in a surprising move merged back in June 2002."
-  > Source: [Dimitris Avramopoulos](../sources/wikipedia-dimitris-avramopoulos.md) · grade B
+  > Source: [[sources/wikipedia-dimitris-avramopoulos|Dimitris Avramopoulos]] · grade B

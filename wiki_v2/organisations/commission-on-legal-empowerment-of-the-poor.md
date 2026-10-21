@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Jean Lemierre](../people/jean-lemierre.md) — advisory_board  
+- [[people/jean-lemierre|Jean Lemierre]] — advisory_board  
   > "&#91; 5 &#93; From 2005 until 2008, he served on the advisory board of the Commission on Legal Empowerment of the Poor ."
-  > Source: [Jean Lemierre](../sources/wikipedia-jean-lemierre.md) · grade A
+  > Source: [[sources/wikipedia-jean-lemierre|Jean Lemierre]] · grade A

@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Henna Virkkunen](../people/henna-virkkunen.md)  
+- [[people/henna-virkkunen|Henna Virkkunen]]  
   > "She was elected to the Jyväskylä City Council in 1996, where she served until 2016, and held several positions within the National Coalition Party’s youth and regional organisations."
-  > Source: [Henna Virkkunen](../sources/wikipedia-henna-virkkunen.md) · grade B
+  > Source: [[sources/wikipedia-henna-virkkunen|Henna Virkkunen]] · grade B

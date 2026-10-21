@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Sebastian Tynkkynen](../people/sebastian-tynkkynen.md) — chair  
+- [[people/sebastian-tynkkynen|Sebastian Tynkkynen]] — chair  
   > "He has been chairman of the Finns Party Youth and third vice chairman of the Finns Party ."
-  > Source: [Sebastian Tynkkynen](../sources/wikipedia-sebastian-tynkkynen.md) · grade A
+  > Source: [[sources/wikipedia-sebastian-tynkkynen|Sebastian Tynkkynen]] · grade A

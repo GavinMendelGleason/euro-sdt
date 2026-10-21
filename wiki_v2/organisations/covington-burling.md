@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Cecilia Malmström](../people/cecilia-malmstrom.md) — employed_by  
+- [[people/cecilia-malmstrom|Cecilia Malmström]] — employed_by  
   > "In 2022, Malmström joined the Brussels office of law firm Covington & Burling as senior advisor."
-  > Source: [Cecilia Malmstrom](../sources/wikipedia-cecilia-malmstrom.md) · grade C
+  > Source: [[sources/wikipedia-cecilia-malmstrom|Cecilia Malmstrom]] · grade C

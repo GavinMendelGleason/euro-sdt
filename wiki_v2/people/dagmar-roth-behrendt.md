@@ -18,16 +18,16 @@ Mep
 
 ## Membership
 
-- [Committee on the Environment, Public Health and Food Safety](../organisations/committee-on-the-environment-public-health-and-food-safety.md)  
+- [[organisations/committee-on-the-environment-public-health-and-food-safety|Committee on the Environment, Public Health and Food Safety]]  
   > "Throughout her time in parliament, Roth-Behrendt served on the Committee on the Environment, Public Health and Food Safety ."
-  > Source: [Dagmar Roth Behrendt](../sources/wikipedia-dagmar-roth-behrendt.md) · grade B
+  > Source: [[sources/wikipedia-dagmar-roth-behrendt|Dagmar Roth Behrendt]] · grade B
 
 ## Affiliation
 
-- [Party of European Socialists](../organisations/party-of-european-socialists.md)  
+- [[organisations/party-of-european-socialists|Party of European Socialists]]  
   > "She was elected on the SPD ticket and sat with the Party of European Socialists group."
-  > Source: [Dagmar Roth Behrendt](../sources/wikipedia-dagmar-roth-behrendt.md) · grade B
+  > Source: [[sources/wikipedia-dagmar-roth-behrendt|Dagmar Roth Behrendt]] · grade B
 
-- [Social Democratic Party](../organisations/social-democratic-party.md)  
+- [[organisations/social-democratic-party|Social Democratic Party]]  
   > "She was elected on the SPD ticket and sat with the Party of European Socialists group."
-  > Source: [Dagmar Roth Behrendt](../sources/wikipedia-dagmar-roth-behrendt.md) · grade C
+  > Source: [[sources/wikipedia-dagmar-roth-behrendt|Dagmar Roth Behrendt]] · grade C

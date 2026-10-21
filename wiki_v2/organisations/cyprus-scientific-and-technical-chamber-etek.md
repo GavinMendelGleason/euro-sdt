@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Christos Ellinides](../people/christos-ellinides.md) — board_member  
+- [[people/christos-ellinides|Christos Ellinides]] — board_member  
   > "Other professional activities: ➢ 09/1995 – 12/1999: Senior Lecturer (visiting), Higher Technical Institute of Cyprus ➢ 08/1992 – 12/2005: Member of the Board of Directors & Senior Lecturer (visiting), European University of Cyprus ➢ 04/1999 – 03/2004: Director and Member of the Board of the Cyprus Scientific and Technical Chamber (ETEK) Language Skills: ➢ Greek, Modern (mother tongue) ➢ English ➢ […]"
-  > Source: [Christos Ellinides](../sources/dg_cv-christos-ellinides.md) · grade A
+  > Source: [[sources/dg_cv-christos-ellinides|Christos Ellinides]] · grade A

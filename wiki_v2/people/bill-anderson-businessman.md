@@ -18,10 +18,10 @@ Corporate Elite
 
 ## Education
 
-- [Massachusetts Institute of Technology (MIT)](../organisations/massachusetts-institute-of-technology-mit.md)  
+- [[organisations/massachusetts-institute-of-technology-mit|Massachusetts Institute of Technology (MIT)]]  
   > "&#91; 5 &#93; He holds a bachelor's degree in chemical engineering from the University of Texas at Austin and a master's degree in management and chemical engineering from the Massachusetts Institute of Technology (MIT)."
-  > Source: [Bill Anderson Businessman](../sources/wikipedia-bill-anderson-businessman.md) · grade A
+  > Source: [[sources/wikipedia-bill-anderson-businessman|Bill Anderson Businessman]] · grade A
 
-- [University of Texas at Austin](../organisations/university-of-texas-at-austin.md)  
+- [[organisations/university-of-texas-at-austin|University of Texas at Austin]]  
   > "&#91; 5 &#93; He holds a bachelor's degree in chemical engineering from the University of Texas at Austin and a master's degree in management and chemical engineering from the Massachusetts Institute of Technology (MIT)."
-  > Source: [Bill Anderson Businessman](../sources/wikipedia-bill-anderson-businessman.md) · grade A
+  > Source: [[sources/wikipedia-bill-anderson-businessman|Bill Anderson Businessman]] · grade A

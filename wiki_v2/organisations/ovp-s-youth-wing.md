@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Johannes Hahn](../people/johannes-hahn.md)  
+- [[people/johannes-hahn|Johannes Hahn]]  
   > "In the 1980s, Hahn drafted the first European manifesto of the ÖVP's youth wing, where he was deputy leader."
-  > Source: [Johannes Hahn](../sources/wikipedia-johannes-hahn.md) · grade B
+  > Source: [[sources/wikipedia-johannes-hahn|Johannes Hahn]] · grade B

@@ -18,18 +18,18 @@ Dg
 
 ## Education
 
-- [University of Utrecht](../organisations/university-of-utrecht.md)  
+- [[organisations/university-of-utrecht|University of Utrecht]]  
   > " 05/1986: Lecturer of Economics at the University of Utrecht."
-  > Source: [Gert Jan Koopman](../sources/dg_cv-gert-jan-koopman.md) · grade A
+  > Source: [[sources/dg_cv-gert-jan-koopman|Gert Jan Koopman]] · grade A
 
 ## Membership
 
-- [CPB Netherlands Bureau for Economic Policy Advice](../organisations/cpb-netherlands-bureau-for-economic-policy-advice.md)  
+- [[organisations/cpb-netherlands-bureau-for-economic-policy-advice|CPB Netherlands Bureau for Economic Policy Advice]]  
   > "Professional experience before joining the European Institutions:  05/1987: Member of the CPB Netherlands Bureau for Economic Policy Advice."
-  > Source: [Gert Jan Koopman](../sources/dg_cv-gert-jan-koopman.md) · grade A
+  > Source: [[sources/dg_cv-gert-jan-koopman|Gert Jan Koopman]] · grade A
 
 ## Position
 
 - Director-General → Directorate-General for Enlargement and Eastern Neighbourhood  
   > " 08/2018 – 01/2023: Director-General, Directorate-General Budget (BUDG)"
-  > Source: [Gert Jan Koopman](../sources/dg_cv-gert-jan-koopman.md) · grade A
+  > Source: [[sources/dg_cv-gert-jan-koopman|Gert Jan Koopman]] · grade A

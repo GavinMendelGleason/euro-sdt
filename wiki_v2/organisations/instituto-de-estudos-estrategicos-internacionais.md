@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Hugo Sobral](../people/hugo-sobral.md)  
+- [[people/hugo-sobral|Hugo Sobral]]  
   > " 1997 – 1998: Research Assistant, Instituto de Estudos Estratégicos Internacionais, Lisbon/Portugal"
-  > Source: [Hugo Sobral](../sources/dg_cv-hugo-sobral.md) · grade B
+  > Source: [[sources/dg_cv-hugo-sobral|Hugo Sobral]] · grade B

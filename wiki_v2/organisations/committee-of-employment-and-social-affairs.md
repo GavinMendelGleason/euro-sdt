@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Christos Stylianides](../people/christos-stylianides.md)  
+- [[people/christos-stylianides|Christos Stylianides]]  
   > "Member of the Committee on European Affairs, the Committee of Internal Affairs and the Committee of Employment and Social Affairs (2006–2011)."
-  > Source: [Christos Stylianides](../sources/wikipedia-christos-stylianides.md) · grade A
+  > Source: [[sources/wikipedia-christos-stylianides|Christos Stylianides]] · grade A

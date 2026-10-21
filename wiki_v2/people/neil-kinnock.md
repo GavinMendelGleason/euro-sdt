@@ -18,76 +18,76 @@ Commissioner · GBR
 
 ## Commission service
 
-- [Santer Commission](../commissions/santer-commission.md)  
+- [[commissions/santer-commission|Santer Commission]]  
   > "Kinnock was appointed one of the UK's two members of the European Commission, which he served first as Transport Commissioner under President Jacques Santer, in early 1995; marking the end of his 25 years in the House of Commons."
-  > Source: [Neil Kinnock](../sources/wikipedia-neil-kinnock.md) · grade A
+  > Source: [[sources/wikipedia-neil-kinnock|Neil Kinnock]] · grade A
 
 ## Portfolio
 
 - Transport  
   > "Kinnock was appointed one of the UK's two members of the European Commission, which he served first as Transport Commissioner under President Jacques Santer, in early 1995; marking the end of his 25 years in the House of Commons."
-  > Source: [Neil Kinnock](../sources/wikipedia-neil-kinnock.md) · grade A
+  > Source: [[sources/wikipedia-neil-kinnock|Neil Kinnock]] · grade A
 
 - VP – Administrative Reform  
   > "He now became one of the Vice-Presidents of the European Commission, with responsibility for Administrative Reform and the Audit, Linguistics and Logistics Directorates General."
-  > Source: [Neil Kinnock](../sources/wikipedia-neil-kinnock.md) · grade A
+  > Source: [[sources/wikipedia-neil-kinnock|Neil Kinnock]] · grade A
 
 ## Education
 
-- [Lewis School, Pengam](../organisations/lewis-school-pengam.md)  
+- [[organisations/lewis-school-pengam|Lewis School, Pengam]]  
   > "In 1953, aged eleven, Kinnock began his secondary education at Lewis School, Pengam, once described by David Lloyd George as ‘the Eton of the Valleys’, but an institution Kinnock later criticised for its record on corporal punishment."
-  > Source: [Neil Kinnock](../sources/wikipedia-neil-kinnock.md) · grade A
+  > Source: [[sources/wikipedia-neil-kinnock|Neil Kinnock]] · grade A
 
 ## Membership
 
-- [House of Lords](../organisations/house-of-lords.md)  
+- [[organisations/house-of-lords|House of Lords]]  
   > "At the end of October, it was announced that he would become a Member of the House of Lords (intending to be a working peer), when he was able to leave his EU responsibilities."
-  > Source: [Neil Kinnock](../sources/wikipedia-neil-kinnock.md) · grade A
+  > Source: [[sources/wikipedia-neil-kinnock|Neil Kinnock]] · grade A
 
-- [Labour Party](../organisations/labour-party.md) — party_member  
+- [[organisations/labour-party|Labour Party]] — party_member  
   > "At university, Kinnock was active in student politics and became involved with the Labour Party."
-  > Source: [Neil Kinnock](../sources/wikipedia-neil-kinnock.md) · grade B
+  > Source: [[sources/wikipedia-neil-kinnock|Neil Kinnock]] · grade B
 
-- [National Executive Committee of the Labour Party](../organisations/national-executive-committee-of-the-labour-party.md)  
+- [[organisations/national-executive-committee-of-the-labour-party|National Executive Committee of the Labour Party]]  
   > "Kinnock became a member of the National Executive Committee of the Labour Party in October 1978."
-  > Source: [Neil Kinnock](../sources/wikipedia-neil-kinnock.md) · grade A
+  > Source: [[sources/wikipedia-neil-kinnock|Neil Kinnock]] · grade A
 
-- [Tribune Group](../organisations/tribune-group.md)  
+- [[organisations/tribune-group|Tribune Group]]  
   > "On entering Parliament, Kinnock immediately aligned himself with the left wing of the parliamentary Labour Party, joining the Tribune Group."
-  > Source: [Neil Kinnock](../sources/wikipedia-neil-kinnock.md) · grade A
+  > Source: [[sources/wikipedia-neil-kinnock|Neil Kinnock]] · grade A
 
 ## Advisory board
 
-- [Institute for Public Policy Research](../organisations/institute-for-public-policy-research.md) — advisory_board  
+- [[organisations/institute-for-public-policy-research|Institute for Public Policy Research]] — advisory_board  
   > "Kinnock remained on the Advisory Council of the Institute for Public Policy Research, which he helped set up in the 1980s."
-  > Source: [Neil Kinnock](../sources/wikipedia-neil-kinnock.md) · grade A
+  > Source: [[sources/wikipedia-neil-kinnock|Neil Kinnock]] · grade A
 
 ## Chair / president
 
-- [Fabian Society](../organisations/fabian-society.md) — chair  
+- [[organisations/fabian-society|Fabian Society]] — chair  
   > "He is a vice president of the Fabian Society."
-  > Source: [Neil Kinnock](../sources/wikipedia-neil-kinnock.md) · grade A
+  > Source: [[sources/wikipedia-neil-kinnock|Neil Kinnock]] · grade A
 
 ## Affiliation
 
-- [Campaign for Nuclear Disarmament (CND)](../organisations/campaign-for-nuclear-disarmament-cnd.md) — attendee  
+- [[organisations/campaign-for-nuclear-disarmament-cnd|Campaign for Nuclear Disarmament (CND)]] — attendee  
   > "He also participated in Campaign for Nuclear Disarmament activities and anti-apartheid protests."
-  > Source: [Neil Kinnock](../sources/wikipedia-neil-kinnock.md) · grade C
+  > Source: [[sources/wikipedia-neil-kinnock|Neil Kinnock]] · grade C
 
-- [Humanists UK](../organisations/humanists-uk.md)  
+- [[organisations/humanists-uk|Humanists UK]]  
   > "He is a Patron of Humanists UK."
-  > Source: [Neil Kinnock](../sources/wikipedia-neil-kinnock.md) · grade B
+  > Source: [[sources/wikipedia-neil-kinnock|Neil Kinnock]] · grade B
 
 ## Employment
 
-- [British Council](../organisations/british-council.md) — chair; employed_by  
+- [[organisations/british-council|British Council]] — chair; employed_by  
   > "Until the summer of 2009, he was also the chairman of the British Council and the president of Cardiff University."
-  > Source: [Neil Kinnock](../sources/wikipedia-neil-kinnock.md) · grade A
+  > Source: [[sources/wikipedia-neil-kinnock|Neil Kinnock]] · grade A
 
-- [European Commission](../organisations/european-commission.md) — employed_by  
+- [[organisations/european-commission|European Commission]] — employed_by  
   > "He was Vice-President of the European Commission from 1999 to 2004."
-  > Source: [Neil Kinnock](../sources/wikipedia-neil-kinnock.md) · grade C
+  > Source: [[sources/wikipedia-neil-kinnock|Neil Kinnock]] · grade C
 
-- [Workers' Educational Association (WEA)](../organisations/workers-educational-association-wea.md) — employed_by  
+- [[organisations/workers-educational-association-wea|Workers' Educational Association (WEA)]] — employed_by  
   > "From August 1966 to May 1970, he worked as a tutor for a Workers' Educational Association (WEA)."
-  > Source: [Neil Kinnock](../sources/wikipedia-neil-kinnock.md) · grade A
+  > Source: [[sources/wikipedia-neil-kinnock|Neil Kinnock]] · grade A

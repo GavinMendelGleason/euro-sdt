@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Iliana Ivanova](../people/iliana-ivanova.md) — chair  
+- [[people/iliana-ivanova|Iliana Ivanova]] — chair  
   > "Since November 2022, she has been serving as Chair of the Audit quality control committee, with particular responsibility to oversee quality control of all RRF tasks across the ECA."
-  > Source: [Iliana Ivanova](../sources/wikipedia-iliana-ivanova.md) · grade A
+  > Source: [[sources/wikipedia-iliana-ivanova|Iliana Ivanova]] · grade A

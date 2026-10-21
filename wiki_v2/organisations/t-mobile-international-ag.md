@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [René Obermann](../people/rene-obermann.md) — employed_by  
+- [[people/rene-obermann|René Obermann]] — employed_by  
   > "In June 2001, he additionally became CEO Europe at T-Mobile International AG."
-  > Source: [Ren Obermann](../sources/wikipedia-ren-obermann.md) · grade C
+  > Source: [[sources/wikipedia-ren-obermann|Ren Obermann]] · grade C

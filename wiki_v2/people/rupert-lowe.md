@@ -18,10 +18,10 @@ Mep
 
 ## Education
 
-- [Dragon School](../organisations/dragon-school.md)  
+- [[organisations/dragon-school|Dragon School]]  
   > "&#91; 4 &#93; He was educated at Dragon School , then Radley College , &#91; 5 &#93; an all-boys independent boarding school , and the University of Reading ."
-  > Source: [Rupert Lowe](../sources/wikipedia-rupert-lowe.md) · grade A
+  > Source: [[sources/wikipedia-rupert-lowe|Rupert Lowe]] · grade A
 
-- [radley-college](../organisations/radley-college.md)  
+- [[organisations/radley-college|radley-college]]  
   > "&#91; 4 &#93; He was educated at Dragon School , then Radley College , &#91; 5 &#93; an all-boys independent boarding school , and the University of Reading ."
-  > Source: [Rupert Lowe](../sources/wikipedia-rupert-lowe.md) · grade C
+  > Source: [[sources/wikipedia-rupert-lowe|Rupert Lowe]] · grade C

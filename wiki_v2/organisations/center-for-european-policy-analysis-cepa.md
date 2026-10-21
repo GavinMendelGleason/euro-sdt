@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Virginijus Sinkevičius](../people/virginijus-sinkevicius.md) — employed_by  
+- [[people/virginijus-sinkevicius|Virginijus Sinkevičius]] — employed_by  
   > "In 2013–2014, he gained international experience as an Assistant Project Manager at the Center for European Policy Analysis (CEPA) in Washington, D.C., where he worked on transatlantic policy initiatives."
-  > Source: [Virginijus Sinkevicius](../sources/wikipedia-virginijus-sinkevicius.md) · grade A
+  > Source: [[sources/wikipedia-virginijus-sinkevicius|Virginijus Sinkevicius]] · grade A

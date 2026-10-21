@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Szabolcs Fazakas](../people/szabolcs-fazakas.md)  
+- [[people/szabolcs-fazakas|Szabolcs Fazakas]]  
   > "He served as Deputy Minister of Trade, and was also Head of the Secretariat for International Economic Relations from 1989 to 1990."
-  > Source: [Szabolcs Fazakas](../sources/wikipedia-szabolcs-fazakas.md) · grade C
+  > Source: [[sources/wikipedia-szabolcs-fazakas|Szabolcs Fazakas]] · grade C

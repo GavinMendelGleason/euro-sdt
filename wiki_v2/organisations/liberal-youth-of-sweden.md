@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Karin Karlsbro](../people/karin-karlsbro.md) — chair  
+- [[people/karin-karlsbro|Karin Karlsbro]] — chair  
   > "Career [ edit ] Karlsbro served as the chairman of the Liberal Youth of Sweden between 1995 and 1997."
-  > Source: [Karin Karlsbro](../sources/wikipedia-karin-karlsbro.md) · grade A
+  > Source: [[sources/wikipedia-karin-karlsbro|Karin Karlsbro]] · grade A

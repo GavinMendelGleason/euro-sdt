@@ -14,9 +14,9 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Andrus Ansip](../people/andrus-ansip.md)  
+- [[people/andrus-ansip|Andrus Ansip]]  
   > "He is also a member of the European Internet Forum, the European Parliament Intergroup on Artificial Intelligence and Digital and the European Parliament Intergroup on Seas, Rivers, Islands and Coastal Areas."
-  > Source: [Andrus Ansip](../sources/wikipedia-andrus-ansip.md) · grade A
-- [Henna Virkkunen](../people/henna-virkkunen.md)  
+  > Source: [[sources/wikipedia-andrus-ansip|Andrus Ansip]] · grade A
+- [[people/henna-virkkunen|Henna Virkkunen]]  
   > "She is also a member of the European Internet Forum; the European Parliament Intergroup on LGBT Rights; the European Parliament Intergroup on the Welfare and Conservation of Animals; and the European Parliament Intergroup on Seas, Rivers, Islands and Coastal Areas."
-  > Source: [Henna Virkkunen](../sources/wikipedia-henna-virkkunen.md) · grade A
+  > Source: [[sources/wikipedia-henna-virkkunen|Henna Virkkunen]] · grade A

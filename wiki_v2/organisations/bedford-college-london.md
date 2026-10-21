@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Catherine Ashton](../people/catherine-ashton.md)  
+- [[people/catherine-ashton|Catherine Ashton]]  
   > "She graduated with a Bachelor of Science degree in Sociology in 1977 from Bedford College, London (now part of Royal Holloway, University of London)."
-  > Source: [Catherine Ashton](../sources/wikipedia-catherine-ashton.md) · grade A
+  > Source: [[sources/wikipedia-catherine-ashton|Catherine Ashton]] · grade A

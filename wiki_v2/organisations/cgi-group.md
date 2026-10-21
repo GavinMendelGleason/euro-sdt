@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Thierry Breton](../people/thierry-breton.md) — employed_by  
+- [[people/thierry-breton|Thierry Breton]] — employed_by  
   > "From 1990 to 1993, he was managing director of CGI Group, a global information technology company."
-  > Source: [Thierry Breton](../sources/wikipedia-thierry-breton.md) · grade A
+  > Source: [[sources/wikipedia-thierry-breton|Thierry Breton]] · grade A

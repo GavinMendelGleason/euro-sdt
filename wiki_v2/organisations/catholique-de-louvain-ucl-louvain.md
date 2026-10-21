@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Sophia Eriksson Waterschoot](../people/sophia-eriksson-waterschoot.md)  
+- [[people/sophia-eriksson-waterschoot|Sophia Eriksson Waterschoot]]  
   > "Master en études interdisciplinaires européennes, Université Catholique de Louvain (UCL) – Louvain-la-Neuve, Belgium ➢ 1994 – 1995"
-  > Source: [Sophia Eriksson Waterschoot](../sources/dg_cv-sophia-eriksson-waterschoot.md) · grade B
+  > Source: [[sources/dg_cv-sophia-eriksson-waterschoot|Sophia Eriksson Waterschoot]] · grade B

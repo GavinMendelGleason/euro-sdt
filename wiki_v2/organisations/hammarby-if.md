@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Ylva Johansson](../people/ylva-johansson.md)  
+- [[people/ylva-johansson|Ylva Johansson]]  
   > "She is an honorary member of the Swedish football club Hammarby IF."
-  > Source: [Ylva Johansson](../sources/wikipedia-ylva-johansson.md) · grade A
+  > Source: [[sources/wikipedia-ylva-johansson|Ylva Johansson]] · grade A

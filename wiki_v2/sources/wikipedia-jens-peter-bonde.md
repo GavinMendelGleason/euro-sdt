@@ -16,7 +16,7 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (2)
 
-- [Jens-Peter Bonde](../people/jens-peter-bonde.md) — member — June Movement
+- [[people/jens-peter-bonde|Jens-Peter Bonde]] — member — June Movement
   > "Danish politician (1948–2021) Jens-Peter Rossen Bonde (27 March 1948 – 4 April 2021) was a Danish politician who served as Member of the European Parliament (MEP) with the June Movement ."
-- [Jens-Peter Bonde](../people/jens-peter-bonde.md) — member — European Parliament
+- [[people/jens-peter-bonde|Jens-Peter Bonde]] — member — European Parliament
   > "He resigned as an MEP in May 2008."

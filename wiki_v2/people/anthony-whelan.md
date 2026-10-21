@@ -18,12 +18,12 @@ Dg
 
 ## Education
 
-- [Trinity College Dublin](../organisations/trinity-college-dublin.md)  
+- [[organisations/trinity-college-dublin|Trinity College Dublin]]  
   > "(1987) Law School, Trinity College – Dublin, Ireland ➢ 1989 – 1990: LL.M."
-  > Source: [Anthony Whelan](../sources/dg_cv-anthony-whelan.md) · grade A
+  > Source: [[sources/dg_cv-anthony-whelan|Anthony Whelan]] · grade A
 
 ## Membership
 
-- [Law Reform Commission](../organisations/law-reform-commission.md)  
+- [[organisations/law-reform-commission|Law Reform Commission]]  
   > "Society of King's Inns, Dublin – Dublin, Ireland Professional experience in the European Institutions ➢ Since 14/04/2026: Director-General of Directorate-General “Competition” (DG COMP) ➢ 09/2025 – 04/2026: Deputy Director-General State aid – Directorate-General “Competition” (DG COMP) ➢ 12/2019 – 09/2025: Digital Adviser – Member of Cabinet – Cabinet of President Von Der Leyen ➢ 08/2014 – 11/2019: Director for Electronic Communications Networks & Services – Directorate-General for Co"
-  > Source: [Anthony Whelan](../sources/dg_cv-anthony-whelan.md) · grade A
+  > Source: [[sources/dg_cv-anthony-whelan|Anthony Whelan]] · grade A

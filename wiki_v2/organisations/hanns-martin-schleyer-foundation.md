@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Jean-Claude Juncker](../people/jean-claude-juncker.md)  
+- [[people/jean-claude-juncker|Jean-Claude Juncker]]  
   > "en 2010: Hanns Martin Schleyer Foundation"
-  > Source: [Jean Claude Juncker](../sources/wikipedia-jean-claude-juncker.md) · grade B
+  > Source: [[sources/wikipedia-jean-claude-juncker|Jean Claude Juncker]] · grade B

@@ -18,6 +18,6 @@ Corporate Elite
 
 ## Education
 
-- [Bocconi University](../organisations/bocconi-university.md)  
+- [[organisations/bocconi-university|Bocconi University]]  
   > "== Other roles == Teaching fellow at SDA Bocconi School of Management."
-  > Source: [Corp Luca De Meo](../sources/wikipedia-corp-luca-de-meo.md) · grade A
+  > Source: [[sources/wikipedia-corp-luca-de-meo|Corp Luca De Meo]] · grade A

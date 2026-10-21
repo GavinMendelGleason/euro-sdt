@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Neelie Kroes](../people/neelie-kroes.md) — employed_by  
+- [[people/neelie-kroes|Neelie Kroes]] — employed_by  
   > "In November 2009, Kroes was re-nominated for a second term in the Second Barroso Commission, and was given the heavy portfolio of Digital Agenda and was appointed as one of the Vice-Presidents serving from 9 February 2010 until 1 November 2014."
-  > Source: [Neelie Kroes](../sources/wikipedia-neelie-kroes.md) · grade C
+  > Source: [[sources/wikipedia-neelie-kroes|Neelie Kroes]] · grade C

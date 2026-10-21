@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Carlo Tognoli](../people/carlo-tognoli.md)  
+- [[people/carlo-tognoli|Carlo Tognoli]]  
   > "Later he was Minister of Tourism and Spectacles in the 6th and 7th Giulio Andreotti governments."
-  > Source: [Carlo Tognoli](../sources/wikipedia-carlo-tognoli.md) · grade B
+  > Source: [[sources/wikipedia-carlo-tognoli|Carlo Tognoli]] · grade B

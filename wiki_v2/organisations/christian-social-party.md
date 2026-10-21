@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Paul-Henry Gendebien](../people/paul-henry-gendebien.md)  
+- [[people/paul-henry-gendebien|Paul-Henry Gendebien]]  
   > "In response to the Leuven Affair , Gendebien left the Christian Social Party and joined the Walloon Rally (RW)."
-  > Source: [Paul Henry Gendebien](../sources/wikipedia-paul-henry-gendebien.md) · grade A
+  > Source: [[sources/wikipedia-paul-henry-gendebien|Paul Henry Gendebien]] · grade A

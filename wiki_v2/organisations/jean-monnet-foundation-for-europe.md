@@ -15,9 +15,9 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Jean-Claude Juncker](../people/jean-claude-juncker.md)  
+- [[people/jean-claude-juncker|Jean-Claude Juncker]]  
   > "nd Political Sciences 2008: Gold Medal of the Jean Monnet"
-  > Source: [Jean Claude Juncker](../sources/wikipedia-jean-claude-juncker.md) · grade B
-- [José María Gil-Robles](../people/jose-maria-gil-robles.md) — chair  
+  > Source: [[sources/wikipedia-jean-claude-juncker|Jean Claude Juncker]] · grade B
+- [[people/jose-maria-gil-robles|José María Gil-Robles]] — chair  
   > "&#91; 3 &#93; Gil-Robles was president of the Jean Monnet Foundation for Europe between 2009 and 2014."
-  > Source: [Jos Mara Gil Robles](../sources/wikipedia-jos-mara-gil-robles.md) · grade C
+  > Source: [[sources/wikipedia-jos-mara-gil-robles|Jos Mara Gil Robles]] · grade C

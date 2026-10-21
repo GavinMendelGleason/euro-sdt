@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Marcelino Oreja](../people/marcelino-oreja.md)  
+- [[people/marcelino-oreja|Marcelino Oreja]]  
   > "Spanish Royal Academy of Jurisprudence and Legislation (RAJL), Member"
-  > Source: [Marcelino Oreja](../sources/wikipedia-marcelino-oreja.md) · grade A
+  > Source: [[sources/wikipedia-marcelino-oreja|Marcelino Oreja]] · grade A

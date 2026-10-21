@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Luisa Morgantini](../people/luisa-morgantini.md)  
+- [[people/luisa-morgantini|Luisa Morgantini]]  
   > "Career [ edit ] Morgantini was the first woman elected to the secretariat of the FLM in Milan ( Federation of Metalworkers &#160;&#91; it &#93; – FIM , FIOM , UILM , representing FIM- CISL )."
-  > Source: [Luisa Morgantini](../sources/wikipedia-luisa-morgantini.md) · grade C
+  > Source: [[sources/wikipedia-luisa-morgantini|Luisa Morgantini]] · grade C

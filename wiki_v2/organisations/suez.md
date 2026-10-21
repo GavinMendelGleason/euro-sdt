@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Yves-Thibault de Silguy](../people/yves-thibault-de-silguy.md) — employed_by  
+- [[people/yves-thibault-de-silguy|Yves-Thibault de Silguy]] — employed_by  
   > "He was then Executive Vice-President of Suez from 2003 until June 2006."
-  > Source: [Yves Thibault De Silguy](../sources/wikipedia-yves-thibault-de-silguy.md) · grade A
+  > Source: [[sources/wikipedia-yves-thibault-de-silguy|Yves Thibault De Silguy]] · grade A

@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Karmenu Vella](../people/karmenu-vella.md) — chair  
+- [[people/karmenu-vella|Karmenu Vella]] — chair  
   > "as a director and sat on SMS-Mondial Travel Group's Board as chairman until 2013."
-  > Source: [Karmenu Vella](../sources/wikipedia-karmenu-vella.md) · grade A
+  > Source: [[sources/wikipedia-karmenu-vella|Karmenu Vella]] · grade A

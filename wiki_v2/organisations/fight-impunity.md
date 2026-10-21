@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Federica Mogherini](../people/federica-mogherini.md) — board_member  
+- [[people/federica-mogherini|Federica Mogherini]] — board_member  
   > "Fight Impunity, member of the Honorary Board (–2022)"
-  > Source: [Federica Mogherini](../sources/wikipedia-federica-mogherini.md) · grade A
+  > Source: [[sources/wikipedia-federica-mogherini|Federica Mogherini]] · grade A

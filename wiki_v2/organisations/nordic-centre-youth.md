@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Olli Rehn](../people/olli-rehn.md) — employed_by  
+- [[people/olli-rehn|Olli Rehn]] — employed_by  
   > "Finnish politics He began his political career in youth politics as a regular member of the Finnish Centre Youth and soon became the secretary general of the Nordic Centre Youth."
-  > Source: [Olli Rehn](../sources/wikipedia-olli-rehn.md) · grade A
+  > Source: [[sources/wikipedia-olli-rehn|Olli Rehn]] · grade A

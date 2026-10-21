@@ -14,9 +14,9 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Pascal Lamy](../people/pascal-lamy.md) — advisory_board  
+- [[people/pascal-lamy|Pascal Lamy]] — advisory_board  
   > "European Horizons, Advisor"
-  > Source: [Pascal Lamy](../sources/wikipedia-pascal-lamy.md) · grade A
-- [Viviane Reding](../people/viviane-reding.md) — advisory_board  
+  > Source: [[sources/wikipedia-pascal-lamy|Pascal Lamy]] · grade A
+- [[people/viviane-reding|Viviane Reding]] — advisory_board  
   > "European Horizons, Advisor"
-  > Source: [Viviane Reding](../sources/wikipedia-viviane-reding.md) · grade A
+  > Source: [[sources/wikipedia-viviane-reding|Viviane Reding]] · grade A

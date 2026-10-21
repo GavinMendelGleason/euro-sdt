@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Meglena Kuneva](../people/meglena-kuneva.md)  
+- [[people/meglena-kuneva|Meglena Kuneva]]  
   > "Vick Foundation, Member of the Jury for the 2008 Bulgarian Novel of the Year"
-  > Source: [Meglena Kuneva](../sources/wikipedia-meglena-kuneva.md) · grade A
+  > Source: [[sources/wikipedia-meglena-kuneva|Meglena Kuneva]] · grade A

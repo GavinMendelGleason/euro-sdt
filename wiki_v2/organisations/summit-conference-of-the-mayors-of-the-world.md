@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Dimitris Avramopoulos](../people/dimitris-avramopoulos.md) — chair  
+- [[people/dimitris-avramopoulos|Dimitris Avramopoulos]] — chair  
   > "Elected as president of the Summit Conference of the Mayors of the World in 2000, he served until 2002, during which time he founded the \"World Union of Olympic Cities\", \"Athens’ International Prize for Democracy\", and “World Institute of Global and Cities’ Diplomacy”, Rome."
-  > Source: [Dimitris Avramopoulos](../sources/wikipedia-dimitris-avramopoulos.md) · grade A
+  > Source: [[sources/wikipedia-dimitris-avramopoulos|Dimitris Avramopoulos]] · grade A

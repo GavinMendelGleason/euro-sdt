@@ -18,38 +18,38 @@ Corporate Elite
 
 ## Education
 
-- [Fundação Dom Cabral](../organisations/fundacao-dom-cabral.md)  
+- [[organisations/fundacao-dom-cabral|Fundação Dom Cabral]]  
   > "He graduated with a degree in engineering from the Polytechnic University of Milan and later earned an Executive MBA from Fundação Dom Cabral in Brazil."
-  > Source: [Antonio Filosa](../sources/wikipedia-antonio-filosa.md) · grade A
+  > Source: [[sources/wikipedia-antonio-filosa|Antonio Filosa]] · grade A
 
-- [Polytechnic University of Milan](../organisations/polytechnic-university-of-milan.md)  
+- [[organisations/polytechnic-university-of-milan|Polytechnic University of Milan]]  
   > "He graduated with a degree in engineering from the Polytechnic University of Milan and later earned an Executive MBA from Fundação Dom Cabral in Brazil."
-  > Source: [Antonio Filosa](../sources/wikipedia-antonio-filosa.md) · grade A
+  > Source: [[sources/wikipedia-antonio-filosa|Antonio Filosa]] · grade A
 
 ## Affiliation
 
-- [FCA (Fiat Chrysler Automobiles)](../organisations/fca-fiat-chrysler-automobiles.md)  
+- [[organisations/fca-fiat-chrysler-automobiles|FCA (Fiat Chrysler Automobiles)]]  
   > "He previously held leadership roles at Fiat , FCA , and Stellantis, including CEO of the Jeep brand and head of operations in South America."
-  > Source: [Antonio Filosa](../sources/wikipedia-antonio-filosa.md) · grade C
+  > Source: [[sources/wikipedia-antonio-filosa|Antonio Filosa]] · grade C
 
-- [Fiat](../organisations/fiat.md)  
+- [[organisations/fiat|Fiat]]  
   > "He previously held leadership roles at Fiat , FCA , and Stellantis, including CEO of the Jeep brand and head of operations in South America."
-  > Source: [Antonio Filosa](../sources/wikipedia-antonio-filosa.md) · grade B
+  > Source: [[sources/wikipedia-antonio-filosa|Antonio Filosa]] · grade B
 
 ## Employment
 
-- [Fiat Chrysler Automobiles (FCA)](../organisations/fiat-chrysler-automobiles-fca.md) — employed_by  
+- [[organisations/fiat-chrysler-automobiles-fca|Fiat Chrysler Automobiles (FCA)]] — employed_by  
   > "From 2005, he focused on Fiat Chrysler Automobiles (FCA) operations in South America, becoming chief operating officer for the region in 2018."
-  > Source: [Antonio Filosa](../sources/wikipedia-antonio-filosa.md) · grade A
+  > Source: [[sources/wikipedia-antonio-filosa|Antonio Filosa]] · grade A
 
-- [Jeep](../organisations/jeep.md) — employed_by  
+- [[organisations/jeep|Jeep]] — employed_by  
   > "He previously held leadership roles at Fiat , FCA , and Stellantis, including CEO of the Jeep brand and head of operations in South America."
-  > Source: [Antonio Filosa](../sources/wikipedia-antonio-filosa.md) · grade A
+  > Source: [[sources/wikipedia-antonio-filosa|Antonio Filosa]] · grade A
 
-- [Stellantis](../organisations/stellantis.md) — employed_by  
+- [[organisations/stellantis|Stellantis]] — employed_by  
   > "Italian business executive (born 1973) Antonio Filosa (born June 26, 1973) is an Italian business executive who has been chief executive officer (CEO) of the automotive group Stellantis since June 2025, succeeding Carlos Tavares ."
-  > Source: [Antonio Filosa](../sources/wikipedia-antonio-filosa.md) · grade A
+  > Source: [[sources/wikipedia-antonio-filosa|Antonio Filosa]] · grade A
 
-- [Stellantis North America](../organisations/stellantis-north-america.md) — employed_by  
+- [[organisations/stellantis-north-america|Stellantis North America]] — employed_by  
   > "He is also chief operating officer (COO), of Stellantis North America ."
-  > Source: [Antonio Filosa](../sources/wikipedia-antonio-filosa.md) · grade A
+  > Source: [[sources/wikipedia-antonio-filosa|Antonio Filosa]] · grade A

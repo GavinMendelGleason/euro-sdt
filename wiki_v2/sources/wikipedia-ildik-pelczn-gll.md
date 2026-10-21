@@ -16,9 +16,9 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (3)
 
-- [Ildikó Pelczné Gáll](../people/ildiko-pelczne-gall.md) — member — Fidesz
+- [[people/ildiko-pelczne-gall|Ildikó Pelczné Gáll]] — member — Fidesz
   > "She is a member of Fidesz , part of the European People's Party ."
-- [Ildikó Pelczné Gáll](../people/ildiko-pelczne-gall.md) — member — European People's Party
+- [[people/ildiko-pelczne-gall|Ildikó Pelczné Gáll]] — member — European People's Party
   > "She is a member of Fidesz , part of the European People's Party ."
-- [Ildikó Pelczné Gáll](../people/ildiko-pelczne-gall.md) — member — European Court of Auditors
+- [[people/ildiko-pelczne-gall|Ildikó Pelczné Gáll]] — member — European Court of Auditors
   > "Since 2017, she is a Member of the European Court of Auditors ."

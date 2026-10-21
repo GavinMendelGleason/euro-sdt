@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Maroš Šefčovič](../people/maros-sefcovic.md) — chair  
+- [[people/maros-sefcovic|Maroš Šefčovič]] — chair  
   > "From 2021, he served as co-chairman and represented the European Union in the Partnership Council established by the EU-UK Trade and Cooperation Agreement."
-  > Source: [Maros Sefcovic](../sources/wikipedia-maros-sefcovic.md) · grade A
+  > Source: [[sources/wikipedia-maros-sefcovic|Maros Sefcovic]] · grade A

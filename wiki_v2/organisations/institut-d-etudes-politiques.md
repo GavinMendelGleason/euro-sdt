@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Denis Redonnet](../people/denis-redonnet.md)  
+- [[people/denis-redonnet|Denis Redonnet]]  
   > " 1988-1991 - Institut d'Études Politiques de Paris"
-  > Source: [Denis Redonnet](../sources/dg_cv-denis-redonnet.md) · grade B
+  > Source: [[sources/dg_cv-denis-redonnet|Denis Redonnet]] · grade B

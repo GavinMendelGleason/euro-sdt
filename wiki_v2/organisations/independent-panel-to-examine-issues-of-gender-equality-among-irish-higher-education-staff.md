@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Máire Geoghegan-Quinn](../people/maire-geoghegan-quinn.md) — chair  
+- [[people/maire-geoghegan-quinn|Máire Geoghegan-Quinn]] — chair  
   > "In July 2015, it was announced that she would chair an independent panel to examine issues of gender equality among Irish higher education staff."
-  > Source: [Maire Geoghegan Quinn](../sources/wikipedia-maire-geoghegan-quinn.md) · grade A
+  > Source: [[sources/wikipedia-maire-geoghegan-quinn|Maire Geoghegan Quinn]] · grade A

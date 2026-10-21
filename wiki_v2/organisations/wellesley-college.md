@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Colette Flesch](../people/colette-flesch.md)  
+- [[people/colette-flesch|Colette Flesch]]  
   > "&#91; 3 &#93; She gained a Bachelor of Arts degree in political science from Wellesley College in 1960, then earned an M.A."
-  > Source: [Colette Flesch](../sources/wikipedia-colette-flesch.md) · grade C
+  > Source: [[sources/wikipedia-colette-flesch|Colette Flesch]] · grade C

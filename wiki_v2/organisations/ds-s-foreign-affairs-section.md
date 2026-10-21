@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Federica Mogherini](../people/federica-mogherini.md) — employed_by  
+- [[people/federica-mogherini|Federica Mogherini]] — employed_by  
   > "In 2003, Mogherini started working at the DS's Foreign Affairs Section, where she was given responsibility for relations with international movements and parties, later becoming the team's coordinator; after that she was given responsibility for Foreign Affairs and International Relations on the staff of DS Party chairman Piero Fassino."
-  > Source: [Federica Mogherini](../sources/wikipedia-federica-mogherini.md) · grade A
+  > Source: [[sources/wikipedia-federica-mogherini|Federica Mogherini]] · grade A

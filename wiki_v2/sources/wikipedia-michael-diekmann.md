@@ -16,5 +16,5 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (1)
 
-- [Michael Diekmann](../people/michael-diekmann.md) — educated_at — Goettingen University
+- [[people/michael-diekmann|Michael Diekmann]] — educated_at — Goettingen University
   > "&#91; 2 &#93; Instead, he earned his degree from Goettingen University, where he studied law and philosophy."

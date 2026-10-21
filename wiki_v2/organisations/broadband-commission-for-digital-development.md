@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Neelie Kroes](../people/neelie-kroes.md)  
+- [[people/neelie-kroes|Neelie Kroes]]  
   > "Since 2010, she has served as a Commissioner for the Broadband Commission for Digital Development which leverages broadband technologies as a key enabler for social and economic development."
-  > Source: [Neelie Kroes](../sources/wikipedia-neelie-kroes.md) · grade B
+  > Source: [[sources/wikipedia-neelie-kroes|Neelie Kroes]] · grade B

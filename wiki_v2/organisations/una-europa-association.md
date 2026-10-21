@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Elzbieta Bienkowska](../people/elzbieta-bienkowska.md) — advisory_board  
+- [[people/elzbieta-bienkowska|Elzbieta Bienkowska]] — advisory_board  
   > "Una Europa Association, Member of the Advisory Board"
-  > Source: [Elzbieta Bienkowska](../sources/wikipedia-elzbieta-bienkowska.md) · grade A
+  > Source: [[sources/wikipedia-elzbieta-bienkowska|Elzbieta Bienkowska]] · grade A

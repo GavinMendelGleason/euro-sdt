@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Siim Kallas](../people/siim-kallas.md) — employed_by  
+- [[people/siim-kallas|Siim Kallas]] — employed_by  
   > "In October 2017, he started as the municipal mayor of Viimsi Parish."
-  > Source: [Siim Kallas](../sources/wikipedia-siim-kallas.md) · grade C
+  > Source: [[sources/wikipedia-siim-kallas|Siim Kallas]] · grade C

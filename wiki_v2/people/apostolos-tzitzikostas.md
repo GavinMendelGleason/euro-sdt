@@ -18,76 +18,76 @@ Commissioner · GRC
 
 ## Commission service
 
-- [VdL II Commission](../commissions/vdl-ii-commission.md)  
+- [[commissions/vdl-ii-commission|VdL II Commission]]  
   > "In August 2024 the Greek government nominated Tzitzikostas as the country’s European Commissioner in the von der Leyen Commission II."
-  > Source: [Apostolos Tzitzikostas](../sources/wikipedia-apostolos-tzitzikostas.md) · grade C
+  > Source: [[sources/wikipedia-apostolos-tzitzikostas|Apostolos Tzitzikostas]] · grade C
 
 ## Portfolio
 
 - European Commissioner for Sustainable Transport and Tourism  
   > "Apostolos Ioannis Tzitzikostas (Greek: Απόστολος Τζιτζικώστας, pronounced [aˈpostolos d͜zid͜ziˈkostas]; born 2 September 1978) is a Greek politician who has served as the European Commissioner for Sus"
-  > Source: [Apostolos Tzitzikostas](../sources/wikipedia-apostolos-tzitzikostas.md) · grade A
+  > Source: [[sources/wikipedia-apostolos-tzitzikostas|Apostolos Tzitzikostas]] · grade A
 
 ## Nominated by
 
 - GRC  
   > "In August 2024 the Greek government nominated Tzitzikostas as the country’s European Commissioner in the von der Leyen Commission II."
-  > Source: [Apostolos Tzitzikostas](../sources/wikipedia-apostolos-tzitzikostas.md) · grade C
+  > Source: [[sources/wikipedia-apostolos-tzitzikostas|Apostolos Tzitzikostas]] · grade C
 
 ## Education
 
-- [Georgetown University](../organisations/georgetown-university.md)  
+- [[organisations/georgetown-university|Georgetown University]]  
   > "Tzitzikostas studied politics and diplomacy at Georgetown University and worked at the office of the Chair of the United States House Committee on Foreign Affairs."
-  > Source: [Apostolos Tzitzikostas](../sources/wikipedia-apostolos-tzitzikostas.md) · grade A
+  > Source: [[sources/wikipedia-apostolos-tzitzikostas|Apostolos Tzitzikostas]] · grade A
 
-- [University College London](../organisations/university-college-london.md)  
+- [[organisations/university-college-london|University College London]]  
   > "Following his graduation in Public Policy and Economics at the University College of London, he returned to Greece."
-  > Source: [Apostolos Tzitzikostas](../sources/wikipedia-apostolos-tzitzikostas.md) · grade A
+  > Source: [[sources/wikipedia-apostolos-tzitzikostas|Apostolos Tzitzikostas]] · grade A
 
 ## Membership
 
-- [Euro-Mediterranean Parliamentary Assembly](../organisations/euro-mediterranean-parliamentary-assembly.md)  
+- [[organisations/euro-mediterranean-parliamentary-assembly|Euro-Mediterranean Parliamentary Assembly]]  
   > "He represented the Hellenic Parliament in the Euro-Mediterranean Parliamentary Assembly from 2007 to 2009."
-  > Source: [Apostolos Tzitzikostas](../sources/wikipedia-apostolos-tzitzikostas.md) · grade B
+  > Source: [[sources/wikipedia-apostolos-tzitzikostas|Apostolos Tzitzikostas]] · grade B
 
-- [Hellenic Parliament](../organisations/hellenic-parliament.md)  
+- [[organisations/hellenic-parliament|Hellenic Parliament]]  
   > "As MP, he served as Secretary of the Hellenic Parliament, member of the Standing Committee on National Defense and Foreign Affairs, and member of the Standing Committee on Financial Affairs."
-  > Source: [Apostolos Tzitzikostas](../sources/wikipedia-apostolos-tzitzikostas.md) · grade A
+  > Source: [[sources/wikipedia-apostolos-tzitzikostas|Apostolos Tzitzikostas]] · grade A
 
-- [Nea Demokratia](../organisations/nea-demokratia.md) — party_member  
+- [[organisations/nea-demokratia|Nea Demokratia]] — party_member  
   > "In the national elections of September 2007, he was elected Member of the Greek Parliament with the Nea Demokratia party in the 1st Electoral District of Thessaloniki."
-  > Source: [Apostolos Tzitzikostas](../sources/wikipedia-apostolos-tzitzikostas.md) · grade A
+  > Source: [[sources/wikipedia-apostolos-tzitzikostas|Apostolos Tzitzikostas]] · grade A
 
-- [Special Committee for the Reform Treaty of the European Union](../organisations/special-committee-for-the-reform-treaty-of-the-european-union.md)  
+- [[organisations/special-committee-for-the-reform-treaty-of-the-european-union|Special Committee for the Reform Treaty of the European Union]]  
   > "Additionally, he was a member of the Special Standing Committee on European Community Affairs and the Special Committee for the Reform Treaty of the European Union."
-  > Source: [Apostolos Tzitzikostas](../sources/wikipedia-apostolos-tzitzikostas.md) · grade A
+  > Source: [[sources/wikipedia-apostolos-tzitzikostas|Apostolos Tzitzikostas]] · grade A
 
-- [Special Standing Committee on European Community Affairs](../organisations/special-standing-committee-on-european-community-affairs.md)  
+- [[organisations/special-standing-committee-on-european-community-affairs|Special Standing Committee on European Community Affairs]]  
   > "Additionally, he was a member of the Special Standing Committee on European Community Affairs and the Special Committee for the Reform Treaty of the European Union."
-  > Source: [Apostolos Tzitzikostas](../sources/wikipedia-apostolos-tzitzikostas.md) · grade A
+  > Source: [[sources/wikipedia-apostolos-tzitzikostas|Apostolos Tzitzikostas]] · grade A
 
-- [Standing Committee on Financial Affairs](../organisations/standing-committee-on-financial-affairs.md)  
+- [[organisations/standing-committee-on-financial-affairs|Standing Committee on Financial Affairs]]  
   > "As MP, he served as Secretary of the Hellenic Parliament, member of the Standing Committee on National Defense and Foreign Affairs, and member of the Standing Committee on Financial Affairs."
-  > Source: [Apostolos Tzitzikostas](../sources/wikipedia-apostolos-tzitzikostas.md) · grade A
+  > Source: [[sources/wikipedia-apostolos-tzitzikostas|Apostolos Tzitzikostas]] · grade A
 
-- [Standing Committee on National Defense and Foreign Affairs](../organisations/standing-committee-on-national-defense-and-foreign-affairs.md)  
+- [[organisations/standing-committee-on-national-defense-and-foreign-affairs|Standing Committee on National Defense and Foreign Affairs]]  
   > "As MP, he served as Secretary of the Hellenic Parliament, member of the Standing Committee on National Defense and Foreign Affairs, and member of the Standing Committee on Financial Affairs."
-  > Source: [Apostolos Tzitzikostas](../sources/wikipedia-apostolos-tzitzikostas.md) · grade A
+  > Source: [[sources/wikipedia-apostolos-tzitzikostas|Apostolos Tzitzikostas]] · grade A
 
 ## Board / trustee
 
-- [European Committee of the Regions](../organisations/european-committee-of-the-regions.md) — board_member; chair; employed_by  
+- [[organisations/european-committee-of-the-regions|European Committee of the Regions]] — board_member; chair; employed_by  
   > "In July 2022, he was also unanimously elected First Vice-President of the European Committee of the Regions."
-  > Source: [Apostolos Tzitzikostas](../sources/wikipedia-apostolos-tzitzikostas.md) · grade A
+  > Source: [[sources/wikipedia-apostolos-tzitzikostas|Apostolos Tzitzikostas]] · grade A
 
 ## Chair / president
 
-- [Association of Greek Regions](../organisations/association-of-greek-regions.md) — chair  
+- [[organisations/association-of-greek-regions|Association of Greek Regions]] — chair  
   > "In November 2019, he was elected President of the Association of Greek Regions and was unanimously re-elected President in February 2024, for the first time in the institution's history."
-  > Source: [Apostolos Tzitzikostas](../sources/wikipedia-apostolos-tzitzikostas.md) · grade A
+  > Source: [[sources/wikipedia-apostolos-tzitzikostas|Apostolos Tzitzikostas]] · grade A
 
 ## Founder
 
-- [MACEDONIAN FARM](../organisations/macedonian-farm.md) — founder  
+- [[organisations/macedonian-farm|MACEDONIAN FARM]] — founder  
   > "In 2001 he created his own company selling organic dairy products called 'MACEDONIAN FARM', which was later marketed by Mevgal."
-  > Source: [Apostolos Tzitzikostas](../sources/wikipedia-apostolos-tzitzikostas.md) · grade C
+  > Source: [[sources/wikipedia-apostolos-tzitzikostas|Apostolos Tzitzikostas]] · grade C

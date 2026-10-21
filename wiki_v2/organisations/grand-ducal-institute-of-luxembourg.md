@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Jean-Claude Juncker](../people/jean-claude-juncker.md)  
+- [[people/jean-claude-juncker|Jean-Claude Juncker]]  
   > "ersity of Strasbourg 2007: Honorary Member of the Grand Ducal Institute of Luxembourg, Department of Moral a"
-  > Source: [Jean Claude Juncker](../sources/wikipedia-jean-claude-juncker.md) · grade A
+  > Source: [[sources/wikipedia-jean-claude-juncker|Jean Claude Juncker]] · grade A

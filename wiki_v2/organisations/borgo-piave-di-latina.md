@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Antonio Tajani](../people/antonio-tajani.md)  
+- [[people/antonio-tajani|Antonio Tajani]]  
   > "After attending the high specialization course in air defense at Borgo Piave di Latina, he was air defense controller at the San Giovanni Teatino radar base."
-  > Source: [Antonio Tajani](../sources/wikipedia-antonio-tajani.md) · grade B
+  > Source: [[sources/wikipedia-antonio-tajani|Antonio Tajani]] · grade B

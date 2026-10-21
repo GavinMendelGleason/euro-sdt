@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Cecilia Malmström](../people/cecilia-malmstrom.md) — party_member  
+- [[people/cecilia-malmstrom|Cecilia Malmström]] — party_member  
   > "In May 2023, Malmström announced that she had quit the Swedish Liberal Party, due to her opposition to the party's participation in the Tidö Agreement."
-  > Source: [Cecilia Malmstrom](../sources/wikipedia-cecilia-malmstrom.md) · grade B
+  > Source: [[sources/wikipedia-cecilia-malmstrom|Cecilia Malmstrom]] · grade B

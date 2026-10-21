@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Pierre Moscovici](../people/pierre-moscovici.md)  
+- [[people/pierre-moscovici|Pierre Moscovici]]  
   > "Previously a member of the Trotskyist group the Revolutionary Communist League, Moscovici joined the French Socialist Party (PS) in 1984 and has since that time been a member of the Departmental Council of Doubs and of the French Parliament and the European Parliament."
-  > Source: [Pierre Moscovici](../sources/wikipedia-pierre-moscovici.md) · grade A
+  > Source: [[sources/wikipedia-pierre-moscovici|Pierre Moscovici]] · grade A

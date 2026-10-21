@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Frans Timmermans](../people/frans-timmermans.md) — attendee  
+- [[people/frans-timmermans|Frans Timmermans]] — attendee  
   > "In a speech at the Israel Council on Foreign Relations Timmermans explains the interconnectedness between Israel and Europe."
-  > Source: [Frans Timmermans](../sources/wikipedia-frans-timmermans.md) · grade C
+  > Source: [[sources/wikipedia-frans-timmermans|Frans Timmermans]] · grade C

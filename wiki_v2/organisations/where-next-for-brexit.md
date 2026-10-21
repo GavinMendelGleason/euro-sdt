@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Edward McMillan-Scott](../people/edward-mcmillan-scott.md)  
+- [[people/edward-mcmillan-scott|Edward McMillan-Scott]]  
   > "Since 2017 McMillan-Scott has coordinated a forum of operational pro-European organisations known as Where Next for Brexit?"
-  > Source: [Edward Mcmillan Scott](../sources/wikipedia-edward-mcmillan-scott.md) · grade B
+  > Source: [[sources/wikipedia-edward-mcmillan-scott|Edward Mcmillan Scott]] · grade B

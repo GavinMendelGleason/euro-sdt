@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Thierry Breton](../people/thierry-breton.md)  
+- [[people/thierry-breton|Thierry Breton]]  
   > "French Academy of Technologies, Member"
-  > Source: [Thierry Breton](../sources/wikipedia-thierry-breton.md) · grade A
+  > Source: [[sources/wikipedia-thierry-breton|Thierry Breton]] · grade A

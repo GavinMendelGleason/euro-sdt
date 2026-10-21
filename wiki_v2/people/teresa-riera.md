@@ -18,20 +18,20 @@ Mep
 
 ## Membership
 
-- [Parliament of the Balearic Islands](../organisations/parliament-of-the-balearic-islands.md)  
+- [[organisations/parliament-of-the-balearic-islands|Parliament of the Balearic Islands]]  
   > "Riera was elected to the parliament of the Balearic Islands in 1989 and then to the national parliament in 1996 as deputy for The Balearic Islands serving until 2004."
-  > Source: [Teresa Riera](../sources/wikipedia-teresa-riera.md) · grade B
+  > Source: [[sources/wikipedia-teresa-riera|Teresa Riera]] · grade B
 
-- [Party of European Socialists](../organisations/party-of-european-socialists.md)  
+- [[organisations/party-of-european-socialists|Party of European Socialists]]  
   > "She is a member of the Spanish Socialist Workers' Party , part of the Party of European Socialists ."
-  > Source: [Teresa Riera](../sources/wikipedia-teresa-riera.md) · grade A
+  > Source: [[sources/wikipedia-teresa-riera|Teresa Riera]] · grade A
 
-- [Spanish Socialist Workers' Party](../organisations/spanish-socialist-workers-party.md)  
+- [[organisations/spanish-socialist-workers-party|Spanish Socialist Workers' Party]]  
   > "She is a member of the Spanish Socialist Workers' Party , part of the Party of European Socialists ."
-  > Source: [Teresa Riera](../sources/wikipedia-teresa-riera.md) · grade A
+  > Source: [[sources/wikipedia-teresa-riera|Teresa Riera]] · grade A
 
 ## Affiliation
 
-- [National Parliament of Spain (Congress of Deputies)](../organisations/national-parliament-of-spain-congress-of-deputies.md)  
+- [[organisations/national-parliament-of-spain-congress-of-deputies|National Parliament of Spain (Congress of Deputies)]]  
   > "Riera was elected to the parliament of the Balearic Islands in 1989 and then to the national parliament in 1996 as deputy for The Balearic Islands serving until 2004."
-  > Source: [Teresa Riera](../sources/wikipedia-teresa-riera.md) · grade C
+  > Source: [[sources/wikipedia-teresa-riera|Teresa Riera]] · grade C

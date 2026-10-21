@@ -16,15 +16,15 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (6)
 
-- [Lena Ek](../people/lena-ek.md) — affiliated_with — Committee on Women's Rights and Gender Equality
+- [[people/lena-ek|Lena Ek]] — affiliated_with — Committee on Women's Rights and Gender Equality
   > "She was also a substitute for the Committee on Women's Rights and Gender Equality and the Committee on the Environment, Public Health and Food Safety , and a member of the delegation to the ACP-EU Joint Parliamentary Assembly ."
-- [Lena Ek](../people/lena-ek.md) — affiliated_with — Committee on the Environment, Public Health and Food Safety
+- [[people/lena-ek|Lena Ek]] — affiliated_with — Committee on the Environment, Public Health and Food Safety
   > "She was also a substitute for the Committee on Women's Rights and Gender Equality and the Committee on the Environment, Public Health and Food Safety , and a member of the delegation to the ACP-EU Joint Parliamentary Assembly ."
-- [Lena Ek](../people/lena-ek.md) — affiliated_with — European Spallation Source
+- [[people/lena-ek|Lena Ek]] — affiliated_with — European Spallation Source
   > "&#91; 1 &#93; After leaving parliament in 2015, Ek was appointed as the government coordinator for the European Spallation Source ."
-- [Lena Ek](../people/lena-ek.md) — member — Centre Party
+- [[people/lena-ek|Lena Ek]] — member — Centre Party
   > "She is a member of the Centre Party , part of the Alliance of Liberals and Democrats for Europe ."
-- [Lena Ek](../people/lena-ek.md) — member — Alliance of Liberals and Democrats for Europe
+- [[people/lena-ek|Lena Ek]] — member — Alliance of Liberals and Democrats for Europe
   > "She is a member of the Centre Party , part of the Alliance of Liberals and Democrats for Europe ."
-- [Lena Ek](../people/lena-ek.md) — member — ACP-EU Joint Parliamentary Assembly
+- [[people/lena-ek|Lena Ek]] — member — ACP-EU Joint Parliamentary Assembly
   > "She was also a substitute for the Committee on Women's Rights and Gender Equality and the Committee on the Environment, Public Health and Food Safety , and a member of the delegation to the ACP-EU Joint Parliamentary Assembly ."

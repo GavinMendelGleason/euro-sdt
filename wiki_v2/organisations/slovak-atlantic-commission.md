@@ -26,6 +26,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Maroš Šefčovič](../people/maros-sefcovic.md)  
+- [[people/maros-sefcovic|Maroš Šefčovič]]  
   > "Nature of the post (during the above-mentioned period) Name of the body Body's objective/activity Honorary Member of the Committee of the Slovak Atlantic Commission The Slovak Atlantic Commission (SAC, Slovak: Slovenská atlantická komisia) The Slovak independent non-governmental organization was active in the area of domestic and international policy and security I.2."
-  > Source: [Maros Sefcovic](../sources/declaration-doi-maros-sefcovic-en.md) · grade A
+  > Source: [[sources/declaration-doi-maros-sefcovic-en|Maros Sefcovic]] · grade A

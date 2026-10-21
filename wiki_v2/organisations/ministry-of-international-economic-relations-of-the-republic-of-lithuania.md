@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Dalia Grybauskaitė](../people/dalia-grybauskaite.md) — employed_by  
+- [[people/dalia-grybauskaite|Dalia Grybauskaitė]] — employed_by  
   > "Between 1991 and 1993, Grybauskaitė worked as Director of the European Department at the Ministry of International Economic Relations of the Republic of Lithuania."
-  > Source: [Dalia Grybauskaite](../sources/wikipedia-dalia-grybauskaite.md) · grade A
+  > Source: [[sources/wikipedia-dalia-grybauskaite|Dalia Grybauskaite]] · grade A

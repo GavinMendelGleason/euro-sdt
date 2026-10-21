@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Sir Julian King](../people/sir-julian-king.md) — employed_by  
+- [[people/sir-julian-king|Sir Julian King]] — employed_by  
   > "He joined the Foreign and Commonwealth Office in 1985."
-  > Source: [Sir Julian King](../sources/wikipedia-sir-julian-king.md) · grade A
+  > Source: [[sources/wikipedia-sir-julian-king|Sir Julian King]] · grade A

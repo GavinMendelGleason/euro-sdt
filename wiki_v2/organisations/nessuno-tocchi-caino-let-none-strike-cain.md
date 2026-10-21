@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Emma Bonino](../people/emma-bonino.md) — founder  
+- [[people/emma-bonino|Emma Bonino]] — founder  
   > "She is a founder of the nongovernmental organizations No Peace Without Justice, which supports the international protection and promotion of human rights and democracy, and Nessuno Tocchi Caino (Let None Strike Cain), which is an international league that fights for the abolition of the death penalty."
-  > Source: [Emma Bonino](../sources/wikipedia-emma-bonino.md) · grade C
+  > Source: [[sources/wikipedia-emma-bonino|Emma Bonino]] · grade C

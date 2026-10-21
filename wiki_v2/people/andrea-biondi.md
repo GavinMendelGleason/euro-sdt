@@ -18,6 +18,6 @@ Cjeu Ag · Italy
 
 ## Education
 
-- [Università degli Studi di Firenze (University of Florence, Italy)](../organisations/universita-degli-studi-di-firenze-university-of-florence-italy.md)  
+- [[organisations/universita-degli-studi-di-firenze-university-of-florence-italy|Università degli Studi di Firenze (University of Florence, Italy)]]  
   > "Born in 1965 in Florence (Italy), Andrea Biondi studied at the Università degli Studi di Firenze (University of Florence, Italy), where he obtained a master’s degree in law in 1990, followed by a doctorate in comparative law in 1996."
-  > Source: [Andrea Biondi](../sources/cjeu-andrea-biondi.md) · grade A
+  > Source: [[sources/cjeu-andrea-biondi|Andrea Biondi]] · grade A

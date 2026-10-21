@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Sari Essayah](../people/sari-essayah.md) — attendee  
+- [[people/sari-essayah|Sari Essayah]] — attendee  
   > "&#91; 5 &#93; She was later chosen to be the vice speaker of the Christian Democrats' Parliamentary group."
-  > Source: [Sari Essayah](../sources/wikipedia-sari-essayah.md) · grade A
+  > Source: [[sources/wikipedia-sari-essayah|Sari Essayah]] · grade A

@@ -18,6 +18,6 @@ Dg
 
 ## Education
 
-- [University Of Ljubljana - Faculty Of Law](../organisations/university-of-ljubljana-faculty-of-law.md)  
+- [[organisations/university-of-ljubljana-faculty-of-law|University Of Ljubljana - Faculty Of Law]]  
   > "Slovenian Academic qualifications:  1/10/1986 – 30/06/1991: Bachelor of Law + Bar exam (International Law) - University of Ljubljana - Faculty of Law"
-  > Source: [Marjeta Jager](../sources/dg_cv-marjeta-jager.md) · grade A
+  > Source: [[sources/dg_cv-marjeta-jager|Marjeta Jager]] · grade A

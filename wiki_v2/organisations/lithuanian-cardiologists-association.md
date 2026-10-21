@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Vytenis Andriukaitis](../people/vytenis-andriukaitis.md)  
+- [[people/vytenis-andriukaitis|Vytenis Andriukaitis]]  
   > "In 1989 Andriukaitis was appointed a cardiovascular surgeon (first category) and became a member of the Lithuanian Physicians' Association (until 1996) and Lithuanian Cardiologists' Association."
-  > Source: [Vytenis Andriukaitis](../sources/wikipedia-vytenis-andriukaitis.md) · grade A
+  > Source: [[sources/wikipedia-vytenis-andriukaitis|Vytenis Andriukaitis]] · grade A

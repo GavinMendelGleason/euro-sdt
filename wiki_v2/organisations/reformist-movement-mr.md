@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Hadja Lahbib](../people/hadja-lahbib.md) — party_member  
+- [[people/hadja-lahbib|Hadja Lahbib]] — party_member  
   > "After the interview, Georges-Louis Bouchez asked her to join MR, and she did so."
-  > Source: [Hadja Lahbib](../sources/wikipedia-hadja-lahbib.md) · grade C
+  > Source: [[sources/wikipedia-hadja-lahbib|Hadja Lahbib]] · grade C

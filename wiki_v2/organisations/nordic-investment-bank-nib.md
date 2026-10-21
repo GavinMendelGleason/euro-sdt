@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Jutta Urpilainen](../people/jutta-urpilainen.md) — board_member  
+- [[people/jutta-urpilainen|Jutta Urpilainen]] — board_member  
   > "Nordic Investment Bank (NIB), Ex-Officio Member of the Board of Governors (2011–2014)"
-  > Source: [Jutta Urpilainen](../sources/wikipedia-jutta-urpilainen.md) · grade A
+  > Source: [[sources/wikipedia-jutta-urpilainen|Jutta Urpilainen]] · grade A

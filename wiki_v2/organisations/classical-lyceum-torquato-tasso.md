@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Paolo Gentiloni](../people/paolo-gentiloni.md)  
+- [[people/paolo-gentiloni|Paolo Gentiloni]]  
   > "During the early 1970s he attended the Classical Lyceum Torquato Tasso in Rome; he graduated in political sciences at the Sapienza University of Rome."
-  > Source: [Paolo Gentiloni](../sources/wikipedia-paolo-gentiloni.md) · grade A
+  > Source: [[sources/wikipedia-paolo-gentiloni|Paolo Gentiloni]] · grade A

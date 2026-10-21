@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Giovanni Pittella](../people/giovanni-pittella.md)  
+- [[people/giovanni-pittella|Giovanni Pittella]]  
   > "He and his brother later joined the Labour Federation and the Democrats of the Left within the centre-left coalition, at that time known as The Olive Tree."
-  > Source: [Giovanni Pittella](../sources/wikipedia-giovanni-pittella.md) · grade A
+  > Source: [[sources/wikipedia-giovanni-pittella|Giovanni Pittella]] · grade A

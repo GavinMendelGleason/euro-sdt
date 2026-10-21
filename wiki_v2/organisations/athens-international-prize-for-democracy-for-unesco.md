@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Dimitris Avramopoulos](../people/dimitris-avramopoulos.md) — chair  
+- [[people/dimitris-avramopoulos|Dimitris Avramopoulos]] — chair  
   > "From the outset of his political career, Avramopoulos served for twenty years as Honorary President of the Athens’ International Prize for Democracy for UNESCO in Paris (until 2013)."
-  > Source: [Dimitris Avramopoulos](../sources/wikipedia-dimitris-avramopoulos.md) · grade A
+  > Source: [[sources/wikipedia-dimitris-avramopoulos|Dimitris Avramopoulos]] · grade A

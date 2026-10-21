@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Dick Erixon](../people/dick-erixon.md)  
+- [[people/dick-erixon|Dick Erixon]]  
   > "He was also an editorial writer for Finanstidningen from 1999 to 2002."
-  > Source: [Dick Erixon](../sources/wikipedia-dick-erixon.md) · grade B
+  > Source: [[sources/wikipedia-dick-erixon|Dick Erixon]] · grade B

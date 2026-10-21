@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Marta Kos](../people/marta-kos.md) — party_member  
+- [[people/marta-kos|Marta Kos]] — party_member  
   > "Following the withdrawal she resigned as Freedom Movement vice president."
-  > Source: [Marta Kos](../sources/wikipedia-marta-kos.md) · grade A
+  > Source: [[sources/wikipedia-marta-kos|Marta Kos]] · grade A

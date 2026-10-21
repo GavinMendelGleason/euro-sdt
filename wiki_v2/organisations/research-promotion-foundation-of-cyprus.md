@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Costas Kadis](../people/costas-kadis.md)  
+- [[people/costas-kadis|Costas Kadis]]  
   > "Career Kadis started his career in academia at the University of Athens and then moved back to his home country to work at the Research Promotion Foundation of Cyprus."
-  > Source: [Costas Kadis](../sources/wikipedia-costas-kadis.md) · grade B
+  > Source: [[sources/wikipedia-costas-kadis|Costas Kadis]] · grade B

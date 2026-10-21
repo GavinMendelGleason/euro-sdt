@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Pia Ahrenkilde Hansen](../people/pia-ahrenkilde-hansen.md)  
+- [[people/pia-ahrenkilde-hansen|Pia Ahrenkilde Hansen]]  
   > "Thesis on European Identity - the impact of cultural factors on European political co-operation.  1984 - 1987: Bachelor of Science in Business Administration and Modern Languages, COPENHAGEN BUSINESS SCHOOL  1982 - 1983: Certificat d’Etudes Politiques, INSTITUT D’ETUDES POLITIQUES DE PARIS Professional experience in the European Institutions  Since 16/09/2023: Director General – DG Education, Y […]"
-  > Source: [Pia Ahrenkilde Hansen](../sources/dg_cv-pia-ahrenkilde-hansen.md) · grade A
+  > Source: [[sources/dg_cv-pia-ahrenkilde-hansen|Pia Ahrenkilde Hansen]] · grade A

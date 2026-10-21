@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Virginijus Sinkevičius](../people/virginijus-sinkevicius.md)  
+- [[people/virginijus-sinkevicius|Virginijus Sinkevičius]]  
   > "In 2013, he received a Master of Arts in European Studies from Maastricht University."
-  > Source: [Virginijus Sinkevicius](../sources/wikipedia-virginijus-sinkevicius.md) · grade A
+  > Source: [[sources/wikipedia-virginijus-sinkevicius|Virginijus Sinkevicius]] · grade A

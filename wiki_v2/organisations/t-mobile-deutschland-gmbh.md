@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [René Obermann](../people/rene-obermann.md) — board_member  
+- [[people/rene-obermann|René Obermann]] — board_member  
   > "After having sold his remaining shares, Obermann started his career at Deutsche Telekom Group, first at T-Mobile Deutschland GmbH as a Member of the Executive Board."
-  > Source: [Ren Obermann](../sources/wikipedia-ren-obermann.md) · grade C
+  > Source: [[sources/wikipedia-ren-obermann|Ren Obermann]] · grade C

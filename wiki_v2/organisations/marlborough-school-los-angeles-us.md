@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Genoveva Ruiz Calavera](../people/genoveva-ruiz-calavera.md)  
+- [[people/genoveva-ruiz-calavera|Genoveva Ruiz Calavera]]  
   > " 1980 - 1981: Senior Year, Marlborough School, Los Angeles, US"
-  > Source: [Genoveva Ruiz Calavera](../sources/dg_cv-genoveva-ruiz-calavera.md) · grade A
+  > Source: [[sources/dg_cv-genoveva-ruiz-calavera|Genoveva Ruiz Calavera]] · grade A

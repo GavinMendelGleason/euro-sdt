@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Erkki Liikanen](../people/erkki-liikanen.md) — board_member  
+- [[people/erkki-liikanen|Erkki Liikanen]] — board_member  
   > "1980–1989 Member and subsequently Chairman of the Supervisory Board of the Outokumpu (steel)"
-  > Source: [Erkki Liikanen](../sources/wikipedia-erkki-liikanen.md) · grade A
+  > Source: [[sources/wikipedia-erkki-liikanen|Erkki Liikanen]] · grade A

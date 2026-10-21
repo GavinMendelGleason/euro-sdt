@@ -16,15 +16,15 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (6)
 
-- [Ekaterina Zaharieva](../people/ekaterina-zaharieva.md) — affiliated_with — Government of Bulgaria
+- [[people/ekaterina-zaharieva|Ekaterina Zaharieva]] — affiliated_with — Government of Bulgaria
   > "She served as Deputy Prime Minister of Bulgaria from 2017 to 2021 and on two occasions from 2013 to 2014."
-- [Ekaterina Zaharieva](../people/ekaterina-zaharieva.md) — educated_at — University Of Plovdiv
+- [[people/ekaterina-zaharieva|Ekaterina Zaharieva]] — educated_at — University Of Plovdiv
   > "She became fluent in German at her local college, then attended the University of Plovdiv where she graduated in law."
-- [Ekaterina Zaharieva](../people/ekaterina-zaharieva.md) — from_country — Bulgaria
+- [[people/ekaterina-zaharieva|Ekaterina Zaharieva]] — from_country — Bulgaria
   > "Ekaterina Spasova Gecheva-Zaharieva (Bulgarian: Екатерина Спасова Гечева-Захариева, born 8 August 1975) is a Bulgarian politician serving as European Commissioner for Startups, Research and Innovation"
-- [Ekaterina Zaharieva](../people/ekaterina-zaharieva.md) — held_portfolio — European Commissioner for Startups, Research and Innovation
+- [[people/ekaterina-zaharieva|Ekaterina Zaharieva]] — held_portfolio — European Commissioner for Startups, Research and Innovation
   > "Ekaterina Spasova Gecheva-Zaharieva (Bulgarian: Екатерина Спасова Гечева-Захариева, born 8 August 1975) is a Bulgarian politician serving as European Commissioner for Startups, Research and Innovation"
-- [Ekaterina Zaharieva](../people/ekaterina-zaharieva.md) — member — National Assembly of Bulgaria
+- [[people/ekaterina-zaharieva|Ekaterina Zaharieva]] — member — National Assembly of Bulgaria
   > "A member of the GERB party, she also served as Minister of Foreign Affairs from 2017 to 2021, Minister of Justice from 2015 to 2017, Minister of Regional Development on two occasions from 2013 to 2014 and Member of the National Assembly from 2021 to 2024."
-- [Ekaterina Zaharieva](../people/ekaterina-zaharieva.md) — member — GERB
+- [[people/ekaterina-zaharieva|Ekaterina Zaharieva]] — member — GERB
   > "A member of the GERB party, she also served as Minister of Foreign Affairs from 2017 to 2021, Minister of Justice from 2015 to 2017, Minister of Regional Development on two occasions from 2013 to 2014 and Member of the National Assembly from 2021 to 2024."

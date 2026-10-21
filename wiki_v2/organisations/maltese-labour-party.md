@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Karmenu Vella](../people/karmenu-vella.md) — party_member  
+- [[people/karmenu-vella|Karmenu Vella]] — party_member  
   > "He has been one of the longest serving Maltese Parliamentarian with the Maltese Labour Party."
-  > Source: [Karmenu Vella](../sources/wikipedia-karmenu-vella.md) · grade B
+  > Source: [[sources/wikipedia-karmenu-vella|Karmenu Vella]] · grade B

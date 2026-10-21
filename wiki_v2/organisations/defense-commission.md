@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Hans van Baalen](../people/hans-van-baalen.md)  
+- [[people/hans-van-baalen|Hans van Baalen]]  
   > "In the Dutch House of Representatives , van Baalen was a member of the Foreign Affairs commission, European Affairs commission and the Defense commission."
-  > Source: [Hans Van Baalen](../sources/wikipedia-hans-van-baalen.md) · grade A
+  > Source: [[sources/wikipedia-hans-van-baalen|Hans Van Baalen]] · grade A

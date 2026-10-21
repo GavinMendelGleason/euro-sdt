@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Bas Eickhout](../people/bas-eickhout.md)  
+- [[people/bas-eickhout|Bas Eickhout]]  
   > "&#91; 3 &#93; &#91; 4 &#93; Since 2000, Eickhout has worked as a researcher at the Netherlands National Institute for Public Health and the Environment ."
-  > Source: [Bas Eickhout](../sources/wikipedia-bas-eickhout.md) · grade A
+  > Source: [[sources/wikipedia-bas-eickhout|Bas Eickhout]] · grade A

@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Szabolcs Fazakas](../people/szabolcs-fazakas.md) — board_member  
+- [[people/szabolcs-fazakas|Szabolcs Fazakas]] — board_member  
   > "He functioned as Chairman of the Board of GarAgent-Excel from 2000."
-  > Source: [Szabolcs Fazakas](../sources/wikipedia-szabolcs-fazakas.md) · grade A
+  > Source: [[sources/wikipedia-szabolcs-fazakas|Szabolcs Fazakas]] · grade A

@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Elzbieta Bienkowska](../people/elzbieta-bienkowska.md)  
+- [[people/elzbieta-bienkowska|Elzbieta Bienkowska]]  
   > "She has also received a post-graduate Diploma from the Polish National School of Public Administration and afterwards a postgraduate studies MBA from SGH Warsaw School of Economics."
-  > Source: [Elzbieta Bienkowska](../sources/wikipedia-elzbieta-bienkowska.md) · grade A
+  > Source: [[sources/wikipedia-elzbieta-bienkowska|Elzbieta Bienkowska]] · grade A

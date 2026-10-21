@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Franz Josef Strauß](../people/franz-josef-strau.md)  
+- [[people/franz-josef-strau|Franz Josef Strauß]]  
   > "He was an active member of a Roman Catholic youth organization that clashed with the Nazi Party."
-  > Source: [Franz Josef Strauss](../sources/wikipedia-franz-josef-strauss.md) · grade C
+  > Source: [[sources/wikipedia-franz-josef-strauss|Franz Josef Strauss]] · grade C

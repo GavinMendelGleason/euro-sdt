@@ -26,27 +26,27 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [António Vitorino](../people/antonio-vitorino.md)  
+- [[people/antonio-vitorino|António Vitorino]]  
   > "Trilateral Commission, Member of the European Group"
-  > Source: [Antonio Vitorino](../sources/wikipedia-antonio-vitorino.md) · grade A
-- [Cecilia Malmström](../people/cecilia-malmstrom.md)  
+  > Source: [[sources/wikipedia-antonio-vitorino|Antonio Vitorino]] · grade A
+- [[people/cecilia-malmstrom|Cecilia Malmström]]  
   > "Trilateral Commission, Member of the European Group (since 2020)"
-  > Source: [Cecilia Malmstrom](../sources/wikipedia-cecilia-malmstrom.md) · grade A
-- [Erkki Liikanen](../people/erkki-liikanen.md)  
+  > Source: [[sources/wikipedia-cecilia-malmstrom|Cecilia Malmstrom]] · grade A
+- [[people/erkki-liikanen|Erkki Liikanen]]  
   > "Trilateral Commission, Member of the European Group"
-  > Source: [Erkki Liikanen](../sources/wikipedia-erkki-liikanen.md) · grade A
-- [Franz Fischler](../people/franz-fischler.md)  
+  > Source: [[sources/wikipedia-erkki-liikanen|Erkki Liikanen]] · grade A
+- [[people/franz-fischler|Franz Fischler]]  
   > "Trilateral Commission, Member of the European Group."
-  > Source: [Franz Fischler](../sources/wikipedia-franz-fischler.md) · grade A
-- [Jean Lemierre](../people/jean-lemierre.md)  
+  > Source: [[sources/wikipedia-franz-fischler|Franz Fischler]] · grade A
+- [[people/jean-lemierre|Jean Lemierre]]  
   > ", Independent Member of the Board of Directors &#91; 11 &#93; China Investment Corporation (CIC), Member of the International Advisory Council China Development Bank (CDB), Member of the International Advisory Council Non-profit organizations [ edit ] Institut de la Finance Durable (IFD), Member of the Board of Directors (since 2022) &#91; 12 &#93; Atlantic Council , Member of the International Ad […]"
-  > Source: [Jean Lemierre](../sources/wikipedia-jean-lemierre.md) · grade A
-- [Mario Monti](../people/mario-monti.md) — chair  
+  > Source: [[sources/wikipedia-jean-lemierre|Jean Lemierre]] · grade A
+- [[people/mario-monti|Mario Monti]] — chair  
   > "Trilateral Commission, European Chairman (-2011)"
-  > Source: [Mario Monti](../sources/wikipedia-mario-monti.md) · grade A
-- [Olli Rehn](../people/olli-rehn.md)  
+  > Source: [[sources/wikipedia-mario-monti|Mario Monti]] · grade A
+- [[people/olli-rehn|Olli Rehn]]  
   > "Trilateral Commission, member of the European Group"
-  > Source: [Olli Rehn](../sources/wikipedia-olli-rehn.md) · grade A
-- [Ritt Bjerregaard](../people/ritt-bjerregaard.md) — attendee  
+  > Source: [[sources/wikipedia-olli-rehn|Olli Rehn]] · grade A
+- [[people/ritt-bjerregaard|Ritt Bjerregaard]] — attendee  
   > "She has also attended Trilateral Commission meetings in 1992, 1998 and 2002."
-  > Source: [Ritt Bjerregaard](../sources/wikipedia-ritt-bjerregaard.md) · grade C
+  > Source: [[sources/wikipedia-ritt-bjerregaard|Ritt Bjerregaard]] · grade C

@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Manuel Marin](../people/manuel-marin.md)  
+- [[people/manuel-marin|Manuel Marin]]  
   > "During this period in the Congress, he was a member of both the Defence and Foreign Affairs Committees of the Congress and became Spokesman for the PSOE in the Foreign Affairs Committee."
-  > Source: [Manuel Marin](../sources/wikipedia-manuel-marin.md) · grade A
+  > Source: [[sources/wikipedia-manuel-marin|Manuel Marin]] · grade A

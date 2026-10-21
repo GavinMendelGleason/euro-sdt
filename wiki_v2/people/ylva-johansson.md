@@ -18,58 +18,58 @@ Commissioner · SWE
 
 ## Commission service
 
-- [VdL I Commission](../commissions/vdl-i-commission.md)  
+- [[commissions/vdl-i-commission|VdL I Commission]]  
   > "Ylva Julia Margareta Johansson (born 13 February 1964) is a Swedish politician who served as European Commissioner for Home Affairs and Sweden's European Commissioner in the von der Leyen Commission f"
-  > Source: [Ylva Johansson](../sources/wikipedia-ylva-johansson.md) · grade C
+  > Source: [[sources/wikipedia-ylva-johansson|Ylva Johansson]] · grade C
 
 ## Portfolio
 
 - Home Affairs  
   > "Ylva Julia Margareta Johansson (born 13 February 1964) is a Swedish politician who served as European Commissioner for Home Affairs and Sweden's European Commissioner in the von der Leyen Commission from 1 December 2019 to 30 November 2024."
-  > Source: [Ylva Johansson](../sources/wikipedia-ylva-johansson.md) · grade A
+  > Source: [[sources/wikipedia-ylva-johansson|Ylva Johansson]] · grade A
 
 ## Nominated by
 
 - SWE  
   > "Ylva Julia Margareta Johansson (born 13 February 1964) is a Swedish politician who served as European Commissioner for Home Affairs and Sweden's European Commissioner in the von der Leyen Commission from 1 December 2019 to 30 November 2024."
-  > Source: [Ylva Johansson](../sources/wikipedia-ylva-johansson.md) · grade A
+  > Source: [[sources/wikipedia-ylva-johansson|Ylva Johansson]] · grade A
 
 ## Country
 
 - Sweden  
   > "Ylva Julia Margareta Johansson (born 13 February 1964) is a Swedish politician who served as European Commissioner for Home Affairs and Sweden's European Commissioner in the von der Leyen Commission from 1 December 2019 to 30 November 2024."
-  > Source: [Ylva Johansson](../sources/wikipedia-ylva-johansson.md) · grade A
+  > Source: [[sources/wikipedia-ylva-johansson|Ylva Johansson]] · grade A
 
 ## Education
 
-- [Lund University](../organisations/lund-university.md)  
+- [[organisations/lund-university|Lund University]]  
   > "Johansson studied at Lund University and the Stockholm Institute of Education between 1983–88 and 1991–92 respectively, and holds a Master of Science degree in education."
-  > Source: [Ylva Johansson](../sources/wikipedia-ylva-johansson.md) · grade A
+  > Source: [[sources/wikipedia-ylva-johansson|Ylva Johansson]] · grade A
 
-- [Stockholm Institute Of Education](../organisations/stockholm-institute-of-education.md)  
+- [[organisations/stockholm-institute-of-education|Stockholm Institute Of Education]]  
   > "Johansson studied at Lund University and the Stockholm Institute of Education between 1983–88 and 1991–92 respectively, and holds a Master of Science degree in education."
-  > Source: [Ylva Johansson](../sources/wikipedia-ylva-johansson.md) · grade A
+  > Source: [[sources/wikipedia-ylva-johansson|Ylva Johansson]] · grade A
 
 ## Membership
 
-- [Hammarby IF](../organisations/hammarby-if.md)  
+- [[organisations/hammarby-if|Hammarby IF]]  
   > "She is an honorary member of the Swedish football club Hammarby IF."
-  > Source: [Ylva Johansson](../sources/wikipedia-ylva-johansson.md) · grade A
+  > Source: [[sources/wikipedia-ylva-johansson|Ylva Johansson]] · grade A
 
-- [Left Party – Communists](../organisations/left-party-communists.md) — party_member  
+- [[organisations/left-party-communists|Left Party – Communists]] — party_member  
   > "In the 1988 general elections Johansson was elected as a member of the Riksdag for the Left Party – Communists (VPK)."
-  > Source: [Ylva Johansson](../sources/wikipedia-ylva-johansson.md) · grade A
+  > Source: [[sources/wikipedia-ylva-johansson|Ylva Johansson]] · grade A
 
-- [Riksdag](../organisations/riksdag.md)  
+- [[organisations/riksdag|Riksdag]]  
   > "In the 1988 general elections Johansson was elected as a member of the Riksdag for the Left Party – Communists (VPK)."
-  > Source: [Ylva Johansson](../sources/wikipedia-ylva-johansson.md) · grade A
+  > Source: [[sources/wikipedia-ylva-johansson|Ylva Johansson]] · grade A
 
-- [Social Democrats](../organisations/social-democrats.md) — party_member  
+- [[organisations/social-democrats|Social Democrats]] — party_member  
   > "She later left the party and joined the Social Democrats."
-  > Source: [Ylva Johansson](../sources/wikipedia-ylva-johansson.md) · grade A
+  > Source: [[sources/wikipedia-ylva-johansson|Ylva Johansson]] · grade A
 
 ## Affiliation
 
-- [European Commission](../organisations/european-commission.md)  
+- [[organisations/european-commission|European Commission]]  
   > "On June 17, 2025, after leaving her post as a commissioner, the European Commission appointed Johansson to be a special envoy for Ukrainians in the European Union."
-  > Source: [Ylva Johansson](../sources/wikipedia-ylva-johansson.md) · grade B
+  > Source: [[sources/wikipedia-ylva-johansson|Ylva Johansson]] · grade B

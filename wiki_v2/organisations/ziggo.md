@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [René Obermann](../people/rene-obermann.md) — employed_by  
+- [[people/rene-obermann|René Obermann]] — employed_by  
   > "&#91; 10 &#93; Obermann left Deutsche Telekom in December 2013 and assumed the role of CEO of the Dutch cable and internet provider, Ziggo ."
-  > Source: [Ren Obermann](../sources/wikipedia-ren-obermann.md) · grade C
+  > Source: [[sources/wikipedia-ren-obermann|Ren Obermann]] · grade C

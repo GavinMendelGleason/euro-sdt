@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Meglena Kuneva](../people/meglena-kuneva.md) — founder  
+- [[people/meglena-kuneva|Meglena Kuneva]] — founder  
   > "Later that year she founded a political party Bulgaria for Citizens movement, which in 2014 secured places in the parliaments as part of the bigger right centrist alliance Reformist bloc."
-  > Source: [Meglena Kuneva](../sources/wikipedia-meglena-kuneva.md) · grade A
+  > Source: [[sources/wikipedia-meglena-kuneva|Meglena Kuneva]] · grade A

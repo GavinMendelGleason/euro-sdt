@@ -15,9 +15,9 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Ingo Friedrich](../people/ingo-friedrich.md)  
+- [[people/ingo-friedrich|Ingo Friedrich]]  
   > "He was elected on the CSU ticket and sits with the EPP-ED Group."
-  > Source: [Ingo Friedrich](../sources/wikipedia-ingo-friedrich.md) · grade B
-- [Joseph Daul](../people/joseph-daul.md)  
+  > Source: [[sources/wikipedia-ingo-friedrich|Ingo Friedrich]] · grade B
+- [[people/joseph-daul|Joseph Daul]]  
   > "Member of the European Parliament [ edit ] After having been elected in 1999, Daul joined the then EPP-ED Group, now EPP Group ."
-  > Source: [Joseph Daul](../sources/wikipedia-joseph-daul.md) · grade A
+  > Source: [[sources/wikipedia-joseph-daul|Joseph Daul]] · grade A

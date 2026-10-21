@@ -18,12 +18,12 @@ Dg
 
 ## Education
 
-- [College of Europe](../organisations/college-of-europe.md)  
+- [[organisations/college-of-europe|College of Europe]]  
   > "College of Europe in Bruges, Belgium"
-  > Source: [Joanna Drake](../sources/dg_cv-joanna-drake.md) · grade A
+  > Source: [[sources/dg_cv-joanna-drake|Joanna Drake]] · grade A
 
 ## Position
 
 - Deputy Director-General → Directorate-General for Research and Innovation  
   > "University of Malta Professional experience in the European Institutions:  Since 1 st October 2021: Deputy Director -General in charge of Implementation, Impact & Sustainable Investment Strategies – Directorate-General Research and Innovation (RTD)"
-  > Source: [Joanna Drake](../sources/dg_cv-joanna-drake.md) · grade A
+  > Source: [[sources/dg_cv-joanna-drake|Joanna Drake]] · grade A

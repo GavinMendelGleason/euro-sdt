@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Margot Wallström](../people/margot-wallstrom.md) — employed_by  
+- [[people/margot-wallstrom|Margot Wallström]] — employed_by  
   > "Before taking up her appointment as EU Commissioner she was executive vice-president of Worldview Global Media in Colombo, Sri Lanka."
-  > Source: [Margot Wallstrom](../sources/wikipedia-margot-wallstrom.md) · grade A
+  > Source: [[sources/wikipedia-margot-wallstrom|Margot Wallstrom]] · grade A

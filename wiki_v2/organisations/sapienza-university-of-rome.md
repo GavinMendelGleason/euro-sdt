@@ -15,18 +15,18 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Antonio Tajani](../people/antonio-tajani.md)  
+- [[people/antonio-tajani|Antonio Tajani]]  
   > "Tajani attended the Liceo Torquato Tasso in Rome and graduated in law from the Sapienza University of Rome; he was a reserve officer of the Italian Air Force."
-  > Source: [Antonio Tajani](../sources/wikipedia-antonio-tajani.md) · grade A
-- [David Sassoli](../people/david-sassoli.md)  
+  > Source: [[sources/wikipedia-antonio-tajani|Antonio Tajani]] · grade A
+- [[people/david-sassoli|David Sassoli]]  
   > "&#91; 2 &#93; He studied at the department of political science at the Sapienza University of Rome ."
-  > Source: [David Sassoli](../sources/wikipedia-david-sassoli.md) · grade A
-- [Federica Mogherini](../people/federica-mogherini.md)  
+  > Source: [[sources/wikipedia-david-sassoli|David Sassoli]] · grade A
+- [[people/federica-mogherini|Federica Mogherini]]  
   > "Mogherini attended the Sapienza University of Rome where she studied political science graduating with a specialization in political philosophy with a final dissertation on Islam and politics, which she wrote while she was on the Erasmus programme at Sciences Po Aix in Aix-en-Provence, France."
-  > Source: [Federica Mogherini](../sources/wikipedia-federica-mogherini.md) · grade A
-- [Paolo Gentiloni](../people/paolo-gentiloni.md)  
+  > Source: [[sources/wikipedia-federica-mogherini|Federica Mogherini]] · grade A
+- [[people/paolo-gentiloni|Paolo Gentiloni]]  
   > "During the early 1970s he attended the Classical Lyceum Torquato Tasso in Rome; he graduated in political sciences at the Sapienza University of Rome."
-  > Source: [Paolo Gentiloni](../sources/wikipedia-paolo-gentiloni.md) · grade A
-- [Pier Carlo Padoan](../people/pier-carlo-padoan.md)  
+  > Source: [[sources/wikipedia-paolo-gentiloni|Paolo Gentiloni]] · grade A
+- [[people/pier-carlo-padoan|Pier Carlo Padoan]]  
   > "In the 1970s, he graduated in economics at the La Sapienza University in Rome."
-  > Source: [Pier Carlo Padoan](../sources/wikipedia-pier-carlo-padoan.md) · grade C
+  > Source: [[sources/wikipedia-pier-carlo-padoan|Pier Carlo Padoan]] · grade C

@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Hadar Cars](../people/hadar-cars.md)  
+- [[people/hadar-cars|Hadar Cars]]  
   > "&#91; 1 &#93; He headed the Nordic Liberal Student Council."
-  > Source: [Hadar Cars](../sources/wikipedia-hadar-cars.md) · grade A
+  > Source: [[sources/wikipedia-hadar-cars|Hadar Cars]] · grade A

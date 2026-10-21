@@ -16,13 +16,13 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (5)
 
-- [Janusz Onyszkiewicz](../people/janusz-onyszkiewicz.md) — board_member — ICDT
+- [[people/janusz-onyszkiewicz|Janusz Onyszkiewicz]] — board_member — ICDT
   > "&#91; 11 &#93; References [ edit ] ^ a b c Europa Publications, \"The International Who's Who 2004\", Routledge, 2003, pg."
-- [Janusz Onyszkiewicz](../people/janusz-onyszkiewicz.md) — educated_at — Warsaw University
+- [[people/janusz-onyszkiewicz|Janusz Onyszkiewicz]] — educated_at — Warsaw University
   > "&#91; 4 &#93; He graduated in mathematics from Warsaw University ."
-- [Janusz Onyszkiewicz](../people/janusz-onyszkiewicz.md) — member — Democratic Union
+- [[people/janusz-onyszkiewicz|Janusz Onyszkiewicz]] — member — Democratic Union
   > "Today, he is a member of the Democratic Party , the continuation of Democratic Union."
-- [Janusz Onyszkiewicz](../people/janusz-onyszkiewicz.md) — member — Democratic Party
+- [[people/janusz-onyszkiewicz|Janusz Onyszkiewicz]] — member — Democratic Party
   > "&#91; 4 &#93; In 1999, Onyszkiewicz was awarded the Manfred Wörner Medal by the German Minister of Defence."
-- [Janusz Onyszkiewicz](../people/janusz-onyszkiewicz.md) — member — European Parliament
+- [[people/janusz-onyszkiewicz|Janusz Onyszkiewicz]] — member — European Parliament
   > "On 20 July 2004 he was elected a vice-president of the European Parliament."

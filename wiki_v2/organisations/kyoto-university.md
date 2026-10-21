@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Bruno Gollnisch](../people/bruno-gollnisch.md)  
+- [[people/bruno-gollnisch|Bruno Gollnisch]]  
   > "In 1974, he began doctoral studies in Law at Kyoto University (Japan)."
-  > Source: [Bruno Gollnisch](../sources/wikipedia-bruno-gollnisch.md) · grade C
+  > Source: [[sources/wikipedia-bruno-gollnisch|Bruno Gollnisch]] · grade C

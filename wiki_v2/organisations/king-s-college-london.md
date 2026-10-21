@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Magnus Brunner](../people/magnus-brunner.md)  
+- [[people/magnus-brunner|Magnus Brunner]]  
   > "and King's College London (LLM)."
-  > Source: [Magnus Brunner](../sources/wikipedia-magnus-brunner.md) · grade A
+  > Source: [[sources/wikipedia-magnus-brunner|Magnus Brunner]] · grade A

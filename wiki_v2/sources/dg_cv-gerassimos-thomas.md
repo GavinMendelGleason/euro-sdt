@@ -15,11 +15,11 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (4)
 
-- [Gerassimos Thomas](../people/gerassimos-thomas.md) — educated_at — Essec Business School
+- [[people/gerassimos-thomas|Gerassimos Thomas]] — educated_at — Essec Business School
   > "➢ 1981-1985 B.Sc. in Economics and Business Administration; major in Finance - Athens School of Economics and Business; Athens, Greece ➢ 2005: International Negotiations - ESSEC Business School Professional experience: ➢ 16/8/2020: Director General Taxation and Customs Union – DG TAXUD"
-- [Gerassimos Thomas](../people/gerassimos-thomas.md) — held_position — Director-General → Directorate-General for Taxation and Customs Union
+- [[people/gerassimos-thomas|Gerassimos Thomas]] — held_position — Director-General → Directorate-General for Taxation and Customs Union
   > "➢ 9/2014-7/2019: Deputy Director-General – DG ENER"
-- [Gerassimos Thomas](../people/gerassimos-thomas.md) — member — TOYP (The Outstanding Young People) Programme
+- [[people/gerassimos-thomas|Gerassimos Thomas]] — member — TOYP (The Outstanding Young People) Programme
   > "➢ TOYP (The Outstanding Young People) Programme; Osaka, Japan; July 1994 ➢ US International Visitors' Programme; October 1994 ➢ UK Registered Representative for International Securities (1988) Language Skills: ➢ Greek (mother tongue) ➢ English, Italian, French (fluent) ➢ German (good) ➢ Spanish (basic)"
-- [Gerassimos Thomas](../people/gerassimos-thomas.md) — member — US International Visitors' Programme
+- [[people/gerassimos-thomas|Gerassimos Thomas]] — member — US International Visitors' Programme
   > "➢ TOYP (The Outstanding Young People) Programme; Osaka, Japan; July 1994 ➢ US International Visitors' Programme; October 1994 ➢ UK Registered Representative for International Securities (1988) Language Skills: ➢ Greek (mother tongue) ➢ English, Italian, French (fluent) ➢ German (good) ➢ Spanish (basic)"

@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Dalia Grybauskaitė](../people/dalia-grybauskaite.md) — employed_by  
+- [[people/dalia-grybauskaite|Dalia Grybauskaitė]] — employed_by  
   > "During 1993, she was employed in the Foreign Ministry as director of the Economic Relations Department, and represented Lithuania when it entered the European Union free trade agreements."
-  > Source: [Dalia Grybauskaite](../sources/wikipedia-dalia-grybauskaite.md) · grade A
+  > Source: [[sources/wikipedia-dalia-grybauskaite|Dalia Grybauskaite]] · grade A

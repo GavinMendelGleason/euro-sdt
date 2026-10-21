@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Élisabeth Morin](../people/elisabeth-morin.md)  
+- [[people/elisabeth-morin|Élisabeth Morin]]  
   > "Morin was also a member of the French Economic and Social Council between September 2004 and May 2007."
-  > Source: [Lisabeth Morin Chartier](../sources/wikipedia-lisabeth-morin-chartier.md) · grade C
+  > Source: [[sources/wikipedia-lisabeth-morin-chartier|Lisabeth Morin Chartier]] · grade C

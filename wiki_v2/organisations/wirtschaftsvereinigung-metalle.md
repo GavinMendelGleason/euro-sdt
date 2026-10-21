@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Ulrich Grillo](../people/ulrich-grillo.md) — chair  
+- [[people/ulrich-grillo|Ulrich Grillo]] — chair  
   > "&#91; 5 &#93; From November 2006 to the end of 2012, Grillo was president of the Wirtschaftsvereinigung Metalle , representing Germany's non-ferrous metal industry."
-  > Source: [Ulrich Grillo](../sources/wikipedia-ulrich-grillo.md) · grade A
+  > Source: [[sources/wikipedia-ulrich-grillo|Ulrich Grillo]] · grade A

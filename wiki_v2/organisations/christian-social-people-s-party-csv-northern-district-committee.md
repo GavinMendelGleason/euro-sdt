@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Christophe Hansen](../people/christophe-hansen.md) — chair  
+- [[people/christophe-hansen|Christophe Hansen]] — chair  
   > "In 2018, he was elected chair of the Christian Social People's Party (CSV) northern district committee, serving in that position until 2021."
-  > Source: [Christophe Hansen](../sources/wikipedia-christophe-hansen.md) · grade A
+  > Source: [[sources/wikipedia-christophe-hansen|Christophe Hansen]] · grade A

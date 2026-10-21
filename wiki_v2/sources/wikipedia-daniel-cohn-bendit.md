@@ -16,7 +16,7 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (2)
 
-- [Daniel Cohn-Bendit](../people/daniel-cohn-bendit.md) — chair — European Greens–European Free Alliance
+- [[people/daniel-cohn-bendit|Daniel Cohn-Bendit]] — chair — European Greens–European Free Alliance
   > "He was co-president of the group European Greens–European Free Alliance in the European Parliament."
-- [Daniel Cohn-Bendit](../people/daniel-cohn-bendit.md) — chair — Spinelli Group
+- [[people/daniel-cohn-bendit|Daniel Cohn-Bendit]] — chair — Spinelli Group
   > "He co-chairs the Spinelli Group, a European Parliament inter-group aiming at relaunching the federalist project in Europe."

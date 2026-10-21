@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Frans Timmermans](../people/frans-timmermans.md) — chair  
+- [[people/frans-timmermans|Frans Timmermans]] — chair  
   > "After disappointing results at the 2025 general election, Timmermans announced his resignation as leader of the alliance."
-  > Source: [Frans Timmermans](../sources/wikipedia-frans-timmermans.md) · grade C
+  > Source: [[sources/wikipedia-frans-timmermans|Frans Timmermans]] · grade C

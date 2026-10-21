@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Federica Mogherini](../people/federica-mogherini.md) — fellow  
+- [[people/federica-mogherini|Federica Mogherini]] — fellow  
   > "Mogherini was also a Fellow of the German Marshall Fund of the United States in 2007."
-  > Source: [Federica Mogherini](../sources/wikipedia-federica-mogherini.md) · grade A
+  > Source: [[sources/wikipedia-federica-mogherini|Federica Mogherini]] · grade A

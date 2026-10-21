@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Philippe Busquin](../people/philippe-busquin.md)  
+- [[people/philippe-busquin|Philippe Busquin]]  
   > "1994–1999: Senator"
-  > Source: [Philippe Busquin](../sources/wikipedia-philippe-busquin.md) · grade A
+  > Source: [[sources/wikipedia-philippe-busquin|Philippe Busquin]] · grade A

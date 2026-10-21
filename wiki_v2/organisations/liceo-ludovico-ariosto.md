@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Romano Prodi](../people/romano-prodi.md)  
+- [[people/romano-prodi|Romano Prodi]]  
   > "After completing his secondary education at the Liceo Ludovico Ariosto in Reggio Emilia, Prodi graduated in law at Milan's Università Cattolica in 1961 with a thesis on the role of protectionism in the development of Italian industry."
-  > Source: [Romano Prodi](../sources/wikipedia-romano-prodi.md) · grade B
+  > Source: [[sources/wikipedia-romano-prodi|Romano Prodi]] · grade B

@@ -18,46 +18,46 @@ Corporate Elite
 
 ## Membership
 
-- [National Petroleum Council](../organisations/national-petroleum-council.md)  
+- [[organisations/national-petroleum-council|National Petroleum Council]]  
   > "&#91; 25 &#93; Other activities [ edit ] President of Assomineraria (from 2006 to 2014) President of Eni UK (from 2010 to 2014) Council on Foreign Relations (CFR), Member of the Global Board of Advisors (since 2015) &#91; 26 &#93; Board member of Fondazione Teatro alla Scala (since 2015) Member of the General Counsel and Advisory Board of Confindustria (since 2016) Member of the National Petroleum Council (in 2016 and 2017) &#91; 27 &#93; Visiting Fellow of the University of Ox"
-  > Source: [Claudio Descalzi](../sources/wikipedia-claudio-descalzi.md) · grade A
+  > Source: [[sources/wikipedia-claudio-descalzi|Claudio Descalzi]] · grade A
 
 ## Board / trustee
 
-- [Fondazione Teatro alla Scala](../organisations/fondazione-teatro-alla-scala.md) — board_member  
+- [[organisations/fondazione-teatro-alla-scala|Fondazione Teatro alla Scala]] — board_member  
   > "&#91; 25 &#93; Other activities [ edit ] President of Assomineraria (from 2006 to 2014) President of Eni UK (from 2010 to 2014) Council on Foreign Relations (CFR), Member of the Global Board of Advisors (since 2015) &#91; 26 &#93; Board member of Fondazione Teatro alla Scala (since 2015) Member of the General Counsel and Advisory Board of Confindustria (since 2016) Member of the National Petroleum Council (in 2016 and 2017) &#91; 27 &#93; Visiting Fellow of the University of Ox"
-  > Source: [Claudio Descalzi](../sources/wikipedia-claudio-descalzi.md) · grade A
+  > Source: [[sources/wikipedia-claudio-descalzi|Claudio Descalzi]] · grade A
 
 ## Advisory board
 
-- [Atlantic Council](../organisations/atlantic-council.md) — advisory_board  
+- [[organisations/atlantic-council|Atlantic Council]] — advisory_board  
   > "&#91; 25 &#93; Other activities [ edit ] President of Assomineraria (from 2006 to 2014) President of Eni UK (from 2010 to 2014) Council on Foreign Relations (CFR), Member of the Global Board of Advisors (since 2015) &#91; 26 &#93; Board member of Fondazione Teatro alla Scala (since 2015) Member of the General Counsel and Advisory Board of Confindustria (since 2016) Member of the National Petroleum Council (in 2016 and 2017) &#91; 27 &#93; Visiting Fellow of the University of Ox"
-  > Source: [Claudio Descalzi](../sources/wikipedia-claudio-descalzi.md) · grade A
+  > Source: [[sources/wikipedia-claudio-descalzi|Claudio Descalzi]] · grade A
 
-- [Confindustria](../organisations/confindustria.md) — advisory_board  
+- [[organisations/confindustria|Confindustria]] — advisory_board  
   > "&#91; 25 &#93; Other activities [ edit ] President of Assomineraria (from 2006 to 2014) President of Eni UK (from 2010 to 2014) Council on Foreign Relations (CFR), Member of the Global Board of Advisors (since 2015) &#91; 26 &#93; Board member of Fondazione Teatro alla Scala (since 2015) Member of the General Counsel and Advisory Board of Confindustria (since 2016) Member of the National Petroleum Council (in 2016 and 2017) &#91; 27 &#93; Visiting Fellow of the University of Ox"
-  > Source: [Claudio Descalzi](../sources/wikipedia-claudio-descalzi.md) · grade A
+  > Source: [[sources/wikipedia-claudio-descalzi|Claudio Descalzi]] · grade A
 
-- [Council on Foreign Relations (CFR)](../organisations/council-on-foreign-relations-cfr.md) — advisory_board  
+- [[organisations/council-on-foreign-relations-cfr|Council on Foreign Relations (CFR)]] — advisory_board  
   > "&#91; 25 &#93; Other activities [ edit ] President of Assomineraria (from 2006 to 2014) President of Eni UK (from 2010 to 2014) Council on Foreign Relations (CFR), Member of the Global Board of Advisors (since 2015) &#91; 26 &#93; Board member of Fondazione Teatro alla Scala (since 2015) Member of the General Counsel and Advisory Board of Confindustria (since 2016) Member of the National Petroleum Council (in 2016 and 2017) &#91; 27 &#93; Visiting Fellow of the University of Ox"
-  > Source: [Claudio Descalzi](../sources/wikipedia-claudio-descalzi.md) · grade A
+  > Source: [[sources/wikipedia-claudio-descalzi|Claudio Descalzi]] · grade A
 
 ## Chair / president
 
-- [Assomineraria](../organisations/assomineraria.md) — chair  
+- [[organisations/assomineraria|Assomineraria]] — chair  
   > "&#91; 25 &#93; Other activities [ edit ] President of Assomineraria (from 2006 to 2014) President of Eni UK (from 2010 to 2014) Council on Foreign Relations (CFR), Member of the Global Board of Advisors (since 2015) &#91; 26 &#93; Board member of Fondazione Teatro alla Scala (since 2015) Member of the General Counsel and Advisory Board of Confindustria (since 2016) Member of the National Petroleum Council (in 2016 and 2017) &#91; 27 &#93; Visiting Fellow of the University of Ox"
-  > Source: [Claudio Descalzi](../sources/wikipedia-claudio-descalzi.md) · grade A
+  > Source: [[sources/wikipedia-claudio-descalzi|Claudio Descalzi]] · grade A
 
-- [Eni UK](../organisations/eni-uk.md) — chair  
+- [[organisations/eni-uk|Eni UK]] — chair  
   > "&#91; 25 &#93; Other activities [ edit ] President of Assomineraria (from 2006 to 2014) President of Eni UK (from 2010 to 2014) Council on Foreign Relations (CFR), Member of the Global Board of Advisors (since 2015) &#91; 26 &#93; Board member of Fondazione Teatro alla Scala (since 2015) Member of the General Counsel and Advisory Board of Confindustria (since 2016) Member of the National Petroleum Council (in 2016 and 2017) &#91; 27 &#93; Visiting Fellow of the University of Ox"
-  > Source: [Claudio Descalzi](../sources/wikipedia-claudio-descalzi.md) · grade A
+  > Source: [[sources/wikipedia-claudio-descalzi|Claudio Descalzi]] · grade A
 
-- [World Economic Forum](../organisations/world-economic-forum.md) — chair  
+- [[organisations/world-economic-forum|World Economic Forum]] — chair  
   > "&#91; 25 &#93; Other activities [ edit ] President of Assomineraria (from 2006 to 2014) President of Eni UK (from 2010 to 2014) Council on Foreign Relations (CFR), Member of the Global Board of Advisors (since 2015) &#91; 26 &#93; Board member of Fondazione Teatro alla Scala (since 2015) Member of the General Counsel and Advisory Board of Confindustria (since 2016) Member of the National Petroleum Council (in 2016 and 2017) &#91; 27 &#93; Visiting Fellow of the University of Ox"
-  > Source: [Claudio Descalzi](../sources/wikipedia-claudio-descalzi.md) · grade A
+  > Source: [[sources/wikipedia-claudio-descalzi|Claudio Descalzi]] · grade A
 
 ## Fellowship
 
-- [University Of Oxford](../organisations/university-of-oxford.md) — fellow  
+- [[organisations/university-of-oxford|University Of Oxford]] — fellow  
   > "&#91; 25 &#93; Other activities [ edit ] President of Assomineraria (from 2006 to 2014) President of Eni UK (from 2010 to 2014) Council on Foreign Relations (CFR), Member of the Global Board of Advisors (since 2015) &#91; 26 &#93; Board member of Fondazione Teatro alla Scala (since 2015) Member of the General Counsel and Advisory Board of Confindustria (since 2016) Member of the National Petroleum Council (in 2016 and 2017) &#91; 27 &#93; Visiting Fellow of the University of Ox"
-  > Source: [Claudio Descalzi](../sources/wikipedia-claudio-descalzi.md) · grade A
+  > Source: [[sources/wikipedia-claudio-descalzi|Claudio Descalzi]] · grade A

@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Outi Ojala](../people/outi-ojala.md)  
+- [[people/outi-ojala|Outi Ojala]]  
   > "&#91; 4 &#93; Ojala trained as a nurse and was involved in trade unions and local politics in Helsinki , where she was a city councillor 1989–1996 and 2001–2012."
-  > Source: [Outi Ojala](../sources/wikipedia-outi-ojala.md) · grade A
+  > Source: [[sources/wikipedia-outi-ojala|Outi Ojala]] · grade A

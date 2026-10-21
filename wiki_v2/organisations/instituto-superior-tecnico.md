@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [João de Deus Pinheiro](../people/joao-de-deus-pinheiro.md)  
+- [[people/joao-de-deus-pinheiro|João de Deus Pinheiro]]  
   > "João de Deus Pinheiro has a licentiate degree in chemical-industrial engineering by the Instituto Superior Técnico (1970)"
-  > Source: [Joao De Deus Pinheiro](../sources/wikipedia-joao-de-deus-pinheiro.md) · grade A
+  > Source: [[sources/wikipedia-joao-de-deus-pinheiro|Joao De Deus Pinheiro]] · grade A

@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Margaritis Schinas](../people/margaritis-schinas.md) — employed_by  
+- [[people/margaritis-schinas|Margaritis Schinas]] — employed_by  
   > "A member of the New Democracy party, he previously was a Member of the European Parliament (MEP) from 2007 to 2009 and served as chief spokesperson of the European Commission from 2014 to 2019, and as a deputy director-general of the European Commission's Directorate-General for Communication between 2015 and 2019."
-  > Source: [Margaritis Schinas](../sources/wikipedia-margaritis-schinas.md) · grade A
+  > Source: [[sources/wikipedia-margaritis-schinas|Margaritis Schinas]] · grade A

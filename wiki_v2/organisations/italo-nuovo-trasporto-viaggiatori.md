@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Flavio Cattaneo](../people/flavio-cattaneo.md) — employed_by  
+- [[people/flavio-cattaneo|Flavio Cattaneo]] — employed_by  
   > "Cattaneo returned to Italo-Nuovo Trasporto Viaggiatori as CEO, from September 2017 to December 2018."
-  > Source: [Flavio Cattaneo](../sources/wikipedia-flavio-cattaneo.md) · grade A
+  > Source: [[sources/wikipedia-flavio-cattaneo|Flavio Cattaneo]] · grade A

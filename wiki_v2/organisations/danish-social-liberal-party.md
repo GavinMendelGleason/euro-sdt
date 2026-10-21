@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Margrethe Vestager](../people/margrethe-vestager.md) — party_member  
+- [[people/margrethe-vestager|Margrethe Vestager]] — party_member  
   > "Vestager is a member of the Danish Social Liberal Party, and of the Alliance of Liberals and Democrats for Europe Party (ALDE) on the European level."
-  > Source: [Margrethe Vestager](../sources/wikipedia-margrethe-vestager.md) · grade A
+  > Source: [[sources/wikipedia-margrethe-vestager|Margrethe Vestager]] · grade A

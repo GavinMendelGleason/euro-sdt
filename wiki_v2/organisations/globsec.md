@@ -28,6 +28,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Maroš Šefčovič](../people/maros-sefcovic.md) — advisory_board  
+- [[people/maros-sefcovic|Maroš Šefčovič]] — advisory_board  
   > "GLOBSEC, Member of the International Advisory Council"
-  > Source: [Maros Sefcovic](../sources/wikipedia-maros-sefcovic.md) · grade A
+  > Source: [[sources/wikipedia-maros-sefcovic|Maros Sefcovic]] · grade A

@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [José Manuel Barroso](../people/jose-manuel-barroso.md)  
+- [[people/jose-manuel-barroso|José Manuel Barroso]]  
   > "He subsequently obtained a Diploma in European Studies from the European University Institute , and received a master's with honours in political science from the University of Geneva in Switzerland."
-  > Source: [Jose Manuel Barroso](../sources/wikipedia-jose-manuel-barroso.md) · grade C
+  > Source: [[sources/wikipedia-jose-manuel-barroso|Jose Manuel Barroso]] · grade C

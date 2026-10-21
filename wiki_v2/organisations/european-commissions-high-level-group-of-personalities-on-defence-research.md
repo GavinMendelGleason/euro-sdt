@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Federica Mogherini](../people/federica-mogherini.md)  
+- [[people/federica-mogherini|Federica Mogherini]]  
   > "Since 2015, Mogherini also began serving as a member of the European Commission’s High-level Group of Personalities on Defence Research chaired by Elżbieta Bieńkowska."
-  > Source: [Federica Mogherini](../sources/wikipedia-federica-mogherini.md) · grade A
+  > Source: [[sources/wikipedia-federica-mogherini|Federica Mogherini]] · grade A

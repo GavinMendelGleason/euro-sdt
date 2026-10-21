@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Wopke Hoekstra](../people/wopke-hoekstra.md)  
+- [[people/wopke-hoekstra|Wopke Hoekstra]]  
   > "He is a member of the Remonstrant Brotherhood."
-  > Source: [Wopke Hoekstra](../sources/wikipedia-wopke-hoekstra.md) · grade A
+  > Source: [[sources/wikipedia-wopke-hoekstra|Wopke Hoekstra]] · grade A

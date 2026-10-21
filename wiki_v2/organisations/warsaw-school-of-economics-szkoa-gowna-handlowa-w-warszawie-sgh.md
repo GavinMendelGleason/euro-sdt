@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Bogusław Liberadzki](../people/bogusaw-liberadzki.md) — chair  
+- [[people/bogusaw-liberadzki|Bogusław Liberadzki]] — chair  
   > "He holds the Chair of Transportation at the Warsaw School of Economics in Warsaw ( Szkoła Główna Handlowa w Warszawie - SGH ) and is also a professor in the Maritime University of Szczecin ( Akademia Morska w Szczecinie )."
-  > Source: [Bogusaw Liberadzki](../sources/wikipedia-bogusaw-liberadzki.md) · grade A
+  > Source: [[sources/wikipedia-bogusaw-liberadzki|Bogusaw Liberadzki]] · grade A

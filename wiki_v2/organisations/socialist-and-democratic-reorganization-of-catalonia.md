@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Heribert Barrera i Costa](../people/heribert-barrera-i-costa.md)  
+- [[people/heribert-barrera-i-costa|Heribert Barrera i Costa]]  
   > "Like many other left-wing politicians, he joined the Socialist and Democratic Reorganization of Catalonia led by Josep Pallach in November 1974, &#91; 13 &#93; although he eventually abandoned the project due to reluctance within the bases of his party, ERC ."
-  > Source: [Heribert Barrera](../sources/wikipedia-heribert-barrera.md) · grade C
+  > Source: [[sources/wikipedia-heribert-barrera|Heribert Barrera]] · grade C

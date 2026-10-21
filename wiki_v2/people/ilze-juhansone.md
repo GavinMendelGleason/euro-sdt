@@ -18,18 +18,18 @@ Dg
 
 ## Education
 
-- [University of Latvia](../organisations/university-of-latvia.md)  
+- [[organisations/university-of-latvia|University of Latvia]]  
   > " 1999 - 2005: Master's degree in Law, Faculty of Law, University of Latvia"
-  > Source: [Ilze Juhansone](../sources/dg_cv-ilze-juhansone.md) · grade A
+  > Source: [[sources/dg_cv-ilze-juhansone|Ilze Juhansone]] · grade A
 
 ## Field of study
 
 - Law  
   > " 1999 - 2005: Master's degree in Law, Faculty of Law, University of Latvia"
-  > Source: [Ilze Juhansone](../sources/dg_cv-ilze-juhansone.md) · grade A
+  > Source: [[sources/dg_cv-ilze-juhansone|Ilze Juhansone]] · grade A
 
 ## Position
 
 - Secretary-General → Secretariat-General  
   > " 01/08/2019 – 14/01/2020: Acting Secretary-General"
-  > Source: [Ilze Juhansone](../sources/dg_cv-ilze-juhansone.md) · grade A
+  > Source: [[sources/dg_cv-ilze-juhansone|Ilze Juhansone]] · grade A

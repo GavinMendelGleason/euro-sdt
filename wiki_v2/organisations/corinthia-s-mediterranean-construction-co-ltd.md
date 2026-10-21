@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Karmenu Vella](../people/karmenu-vella.md) — chair  
+- [[people/karmenu-vella|Karmenu Vella]] — chair  
   > "In 2001 he was appointed executive chairman of Corinthia Hotels International until 2007 and then executive chairman of Corinthia's Mediterranean Construction Co Ltd., until 2010."
-  > Source: [Karmenu Vella](../sources/wikipedia-karmenu-vella.md) · grade A
+  > Source: [[sources/wikipedia-karmenu-vella|Karmenu Vella]] · grade A

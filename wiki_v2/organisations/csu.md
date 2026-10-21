@@ -15,9 +15,9 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Ingo Friedrich](../people/ingo-friedrich.md)  
+- [[people/ingo-friedrich|Ingo Friedrich]]  
   > "He was elected on the CSU ticket and sits with the EPP-ED Group."
-  > Source: [Ingo Friedrich](../sources/wikipedia-ingo-friedrich.md) · grade B
-- [Manfred Weber](../people/manfred-weber.md) — chair  
+  > Source: [[sources/wikipedia-ingo-friedrich|Ingo Friedrich]] · grade B
+- [[people/manfred-weber|Manfred Weber]] — chair  
   > "Role in national politics [ edit ] In 2015, Bavaria 's Minister President Horst Seehofer nominated Weber as one of his deputies in the office of CSU chairman, making him part of the party's leadership."
-  > Source: [Manfred Weber](../sources/wikipedia-manfred-weber.md) · grade A
+  > Source: [[sources/wikipedia-manfred-weber|Manfred Weber]] · grade A

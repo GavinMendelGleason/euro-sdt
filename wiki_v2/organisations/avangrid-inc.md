@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Pedro Azagra Blázquez](../people/pedro-azagra-blazquez.md) — employed_by  
+- [[people/pedro-azagra-blazquez|Pedro Azagra Blázquez]] — employed_by  
   > "&#91; 7 &#93; &#91; 8 &#93; &#91; 9 &#93; In June 2022, he was appointed CEO of the subholding company Avangrid , Inc."
-  > Source: [Pedro Azagra Bl Zquez](../sources/wikipedia-pedro-azagra-bl-zquez.md) · grade C
+  > Source: [[sources/wikipedia-pedro-azagra-bl-zquez|Pedro Azagra Bl Zquez]] · grade C

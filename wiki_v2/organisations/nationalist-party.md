@@ -14,9 +14,9 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Joe Borg](../people/joe-borg.md) — party_member  
+- [[people/joe-borg|Joe Borg]] — party_member  
   > "He was elected to Parliament in 1995 as a member of the Nationalist Party."
-  > Source: [Joe Borg](../sources/wikipedia-joe-borg.md) · grade A
-- [Tonio Borg](../people/tonio-borg.md) — party_member  
+  > Source: [[sources/wikipedia-joe-borg|Joe Borg]] · grade A
+- [[people/tonio-borg|Tonio Borg]] — party_member  
   > "After the Nationalist Party lost the 1996 election, he became a shadow minister to the Alfred Sant administration."
-  > Source: [Tonio Borg](../sources/wikipedia-tonio-borg.md) · grade B
+  > Source: [[sources/wikipedia-tonio-borg|Tonio Borg]] · grade B

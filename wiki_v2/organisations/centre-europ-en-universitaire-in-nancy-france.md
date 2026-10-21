@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Jacek Saryusz-Wolski](../people/jacek-saryusz-wolski.md)  
+- [[people/jacek-saryusz-wolski|Jacek Saryusz-Wolski]]  
   > "He also completed postgraduate studies at the Centre Européen Universitaire in Nancy, France ."
-  > Source: [Jacek Saryusz Wolski](../sources/wikipedia-jacek-saryusz-wolski.md) · grade C
+  > Source: [[sources/wikipedia-jacek-saryusz-wolski|Jacek Saryusz Wolski]] · grade C

@@ -15,9 +15,9 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (3)
 
-- [Janusz Wojciechowski](../people/janusz-wojciechowski.md) — member — European People's Party
+- [[people/janusz-wojciechowski|Janusz Wojciechowski]] — member — European People's Party
   > "Wojciechowski was member of United People's Party, a Member of the Bureau of the European People's Party (EPP) from 2004 to 2006 and was vice-chair of the European Parliament's Committee on Agriculture and Rural Development."
-- [Janusz Wojciechowski](../people/janusz-wojciechowski.md) — member — Union for Europe of the Nations
+- [[people/janusz-wojciechowski|Janusz Wojciechowski]] — member — Union for Europe of the Nations
   > "He was dismissed from the PSL following his decision to leave the EPP for the Union for Europe of the Nations EU parliamentary grouping."
-- [Janusz Wojciechowski](../people/janusz-wojciechowski.md) — member — Delegation to the EU-Kazakhstan, EU-Kyrgyzstan and EU-Uzbekistan Parliamentary Cooperation Committees, and for relations with Tajikistan, Turkmenistan and Mongolia
+- [[people/janusz-wojciechowski|Janusz Wojciechowski]] — member — Delegation to the EU-Kazakhstan, EU-Kyrgyzstan and EU-Uzbekistan Parliamentary Cooperation Committees, and for relations with Tajikistan, Turkmenistan and Mongolia
   > "Wojciechowski was a substitute for the Committee on Budgetary Control and a member of the Delegation to the EU-Kazakhstan, EU-Kyrgyzstan and EU-Uzbekistan Parliamentary Cooperation Committees, and for relations with Tajikistan, Turkmenistan and Mongolia."

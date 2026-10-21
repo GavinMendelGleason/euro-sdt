@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Neelie Kroes](../people/neelie-kroes.md) — chair  
+- [[people/neelie-kroes|Neelie Kroes]] — chair  
   > "In 1961, Kroes was praeses of the R.V.S.V."
-  > Source: [Neelie Kroes](../sources/wikipedia-neelie-kroes.md) · grade B
+  > Source: [[sources/wikipedia-neelie-kroes|Neelie Kroes]] · grade B

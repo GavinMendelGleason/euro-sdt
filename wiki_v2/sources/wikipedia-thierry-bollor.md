@@ -16,5 +16,5 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (1)
 
-- [Thierry Bolloré](../people/thierry-bollore.md) — educated_at — Paris Dauphine University
+- [[people/thierry-bollore|Thierry Bolloré]] — educated_at — Paris Dauphine University
   > "French businessman (born 1963) .mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent;color:inherit}.mw-parser-output .infobox-3cols-child{margin:-3px}.mw-parser-output .infobox .navbar{font-size:100%}@media screen{html.skin-theme-clientpref-night .mw-parser-output .infobox-full-data:not(.nothe […]"

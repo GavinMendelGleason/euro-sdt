@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Lidia Geringer de Oedenberg](../people/lidia-geringer-de-oedenberg.md) — board_member  
+- [[people/lidia-geringer-de-oedenberg|Lidia Geringer de Oedenberg]] — board_member  
   > "somce 2006: Member of the Democratic Left Alliance (SLD) party since 2008: Member of the National Council of the SLD 2009: Re-elected as Member of the European Parliament."
-  > Source: [Lidia Geringer De Oedenberg](../sources/wikipedia-lidia-geringer-de-oedenberg.md) · grade A
+  > Source: [[sources/wikipedia-lidia-geringer-de-oedenberg|Lidia Geringer De Oedenberg]] · grade A

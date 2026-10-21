@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Carlos Moedas](../people/carlos-moedas.md) — employed_by  
+- [[people/carlos-moedas|Carlos Moedas]] — employed_by  
   > "After leaving university, Moedas worked as a project manager for the Suez Group in France between 1993 and 1998."
-  > Source: [Carlos Moedas](../sources/wikipedia-carlos-moedas.md) · grade A
+  > Source: [[sources/wikipedia-carlos-moedas|Carlos Moedas]] · grade A

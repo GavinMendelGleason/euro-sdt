@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Frans Timmermans](../people/frans-timmermans.md) — employed_by  
+- [[people/frans-timmermans|Frans Timmermans]] — employed_by  
   > "Earlier in his career, from 1987 to 1998, he worked as a diplomat in the Dutch foreign service."
-  > Source: [Frans Timmermans](../sources/wikipedia-frans-timmermans.md) · grade A
+  > Source: [[sources/wikipedia-frans-timmermans|Frans Timmermans]] · grade A

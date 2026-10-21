@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Cecilia Malmström](../people/cecilia-malmstrom.md)  
+- [[people/cecilia-malmstrom|Cecilia Malmström]]  
   > "Since 2023, she has been part of the Centre for European Policy Studies/Heinrich Böll Foundation High-Level Group on Bolstering EU Democracy, chaired by Kalypso Nicolaïdis."
-  > Source: [Cecilia Malmstrom](../sources/wikipedia-cecilia-malmstrom.md) · grade A
+  > Source: [[sources/wikipedia-cecilia-malmstrom|Cecilia Malmstrom]] · grade A

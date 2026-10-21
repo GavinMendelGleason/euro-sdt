@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Karmenu Vella](../people/karmenu-vella.md)  
+- [[people/karmenu-vella|Karmenu Vella]]  
   > "More recently, apart from being a member on the Labour Party's National Executive, Karmenu Vella held the post of Member and Group Co-ordinator for the Labour Party Parliamentary Group."
-  > Source: [Karmenu Vella](../sources/wikipedia-karmenu-vella.md) · grade A
+  > Source: [[sources/wikipedia-karmenu-vella|Karmenu Vella]] · grade A

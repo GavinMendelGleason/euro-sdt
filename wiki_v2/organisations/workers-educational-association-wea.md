@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Neil Kinnock](../people/neil-kinnock.md) — employed_by  
+- [[people/neil-kinnock|Neil Kinnock]] — employed_by  
   > "From August 1966 to May 1970, he worked as a tutor for a Workers' Educational Association (WEA)."
-  > Source: [Neil Kinnock](../sources/wikipedia-neil-kinnock.md) · grade A
+  > Source: [[sources/wikipedia-neil-kinnock|Neil Kinnock]] · grade A

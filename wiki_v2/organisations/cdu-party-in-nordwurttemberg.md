@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Günther Oettinger](../people/gunther-oettinger.md) — chair  
+- [[people/gunther-oettinger|Günther Oettinger]] — chair  
   > "From 2001 to 2005 he served as Chairman of the CDU Party in Nordwürttemberg (North Württemberg), and has also been CDU Chairman of the Federal Committee for Media Politics."
-  > Source: [Gunther Oettinger](../sources/wikipedia-gunther-oettinger.md) · grade A
+  > Source: [[sources/wikipedia-gunther-oettinger|Gunther Oettinger]] · grade A

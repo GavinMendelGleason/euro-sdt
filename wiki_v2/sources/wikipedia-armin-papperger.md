@@ -16,5 +16,5 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (1)
 
-- [Armin Papperger](../people/armin-papperger.md) — employed_by — Rheinmetall AG
+- [[people/armin-papperger|Armin Papperger]] — employed_by — Rheinmetall AG
   > "Armin Theodor Papperger (born 30 January 1963) is a German business executive, CEO of Rheinmetall AG, an automotive and arms manufacturer."

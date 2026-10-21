@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Dubravka Šuica](../people/dubravka-suica.md) — employed_by  
+- [[people/dubravka-suica|Dubravka Šuica]] — employed_by  
   > "Since 1998, she served as head of HDZ Dubrovnik branch up until 2014."
-  > Source: [Dubravka Suica](../sources/wikipedia-dubravka-suica.md) · grade A
+  > Source: [[sources/wikipedia-dubravka-suica|Dubravka Suica]] · grade A

@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Dacian Cioloş](../people/dacian-ciolos.md) — founder  
+- [[people/dacian-ciolos|Dacian Cioloş]] — founder  
   > "Cioloș is the founder of the Freedom, Unity and Solidarity Party (PLUS) within the larger former political construction USR PLUS (2019–2021)."
-  > Source: [Dacian Ciolos](../sources/wikipedia-dacian-ciolos.md) · grade C
+  > Source: [[sources/wikipedia-dacian-ciolos|Dacian Ciolos]] · grade C

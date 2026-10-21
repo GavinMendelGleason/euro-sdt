@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Margot Wallström](../people/margot-wallstrom.md) — chair  
+- [[people/margot-wallstrom|Margot Wallström]] — chair  
   > "On 16 November 2007, Margot Wallström, became Chair of the Council of Women World Leaders Ministerial Initiative."
-  > Source: [Margot Wallstrom](../sources/wikipedia-margot-wallstrom.md) · grade A
+  > Source: [[sources/wikipedia-margot-wallstrom|Margot Wallstrom]] · grade A

@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Thierry Breton](../people/thierry-breton.md) — advisory_board  
+- [[people/thierry-breton|Thierry Breton]] — advisory_board  
   > "Bank of America, Member of the Global Advisory Council (2013–2019)"
-  > Source: [Thierry Breton](../sources/wikipedia-thierry-breton.md) · grade A
+  > Source: [[sources/wikipedia-thierry-breton|Thierry Breton]] · grade A

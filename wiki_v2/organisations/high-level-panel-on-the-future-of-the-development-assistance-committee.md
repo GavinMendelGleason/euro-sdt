@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Emma Bonino](../people/emma-bonino.md)  
+- [[people/emma-bonino|Emma Bonino]]  
   > "In 2016, she was appointed by Erik Solheim, the Chairman of the Development Assistance Committee, to serve on the High Level Panel on the Future of the Development Assistance Committee under the leadership of Mary Robinson."
-  > Source: [Emma Bonino](../sources/wikipedia-emma-bonino.md) · grade B
+  > Source: [[sources/wikipedia-emma-bonino|Emma Bonino]] · grade B

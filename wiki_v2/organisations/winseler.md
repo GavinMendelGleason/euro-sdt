@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Christophe Hansen](../people/christophe-hansen.md)  
+- [[people/christophe-hansen|Christophe Hansen]]  
   > "Hansen has been a municipal councillor for Winseler since 2011."
-  > Source: [Christophe Hansen](../sources/wikipedia-christophe-hansen.md) · grade B
+  > Source: [[sources/wikipedia-christophe-hansen|Christophe Hansen]] · grade B

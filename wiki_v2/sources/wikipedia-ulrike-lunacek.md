@@ -16,9 +16,9 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (3)
 
-- [Ulrike Lunacek](../people/ulrike-lunacek.md) — affiliated_with — Government of Chancellor Sebastian Kurz
+- [[people/ulrike-lunacek|Ulrike Lunacek]] — affiliated_with — Government of Chancellor Sebastian Kurz
   > "Lunacek briefly served as State Secretary for Cultural Affairs in the government of Chancellor Sebastian Kurz in early 2020."
-- [Ulrike Lunacek](../people/ulrike-lunacek.md) — member — The Greens – The Green Alternative
+- [[people/ulrike-lunacek|Ulrike Lunacek]] — member — The Greens – The Green Alternative
   > "She is a member of the Austrian Green party The Greens – The Green Alternative, part of the European Green Party."
-- [Ulrike Lunacek](../people/ulrike-lunacek.md) — member — European Green Party
+- [[people/ulrike-lunacek|Ulrike Lunacek]] — member — European Green Party
   > "She is a member of the Austrian Green party The Greens – The Green Alternative, part of the European Green Party."

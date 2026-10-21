@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Karmenu Vella](../people/karmenu-vella.md)  
+- [[people/karmenu-vella|Karmenu Vella]]  
   > "In 1968, at the age of 18, Karmenu Vella was elected as the youngest member of the Zurrieq Civic Council and served as such until 1970."
-  > Source: [Karmenu Vella](../sources/wikipedia-karmenu-vella.md) · grade A
+  > Source: [[sources/wikipedia-karmenu-vella|Karmenu Vella]] · grade A

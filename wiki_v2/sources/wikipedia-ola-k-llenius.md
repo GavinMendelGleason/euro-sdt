@@ -16,7 +16,7 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (2)
 
-- [Ola Källenius](../people/ola-kallenius.md) — educated_at — Stockholm School of Economics
+- [[people/ola-kallenius|Ola Källenius]] — educated_at — Stockholm School of Economics
   > "&#91; 2 &#93; Education [ edit ] Originally planning to follow his older brother's footsteps in studying at KTH , Källenius instead graduated from Stockholm School of Economics with a master's degree, including an exchange semester at University of St."
-- [Ola Källenius](../people/ola-kallenius.md) — educated_at — University of St. Gallen
+- [[people/ola-kallenius|Ola Källenius]] — educated_at — University of St. Gallen
   > "&#91; 2 &#93; Education [ edit ] Originally planning to follow his older brother's footsteps in studying at KTH , Källenius instead graduated from Stockholm School of Economics with a master's degree, including an exchange semester at University of St."

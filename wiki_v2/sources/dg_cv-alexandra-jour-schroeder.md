@@ -15,7 +15,7 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (2)
 
-- [Alexandra Jour-Schroeder](../people/alexandra-jour-schroeder.md) — educated_at — University Of Münster – Faculty Of Law
+- [[people/alexandra-jour-schroeder|Alexandra Jour-Schroeder]] — educated_at — University Of Münster – Faculty Of Law
   > " 1989 – 1990: University of Münster – Faculty of Law: Assistant lecturer"
-- [Alexandra Jour-Schroeder](../people/alexandra-jour-schroeder.md) — held_position — Deputy Director-General → Directorate-General for Financial Stability, Financial Services and Capital Markets Union
+- [[people/alexandra-jour-schroeder|Alexandra Jour-Schroeder]] — held_position — Deputy Director-General → Directorate-General for Financial Stability, Financial Services and Capital Markets Union
   > " 09/2018 – 02/2021: Acting Deputy Director-General – DG JUST"

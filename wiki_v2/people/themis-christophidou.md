@@ -18,12 +18,12 @@ Dg
 
 ## Education
 
-- [Athens National Polytechnic Metsovio](../organisations/athens-national-polytechnic-metsovio.md)  
+- [[organisations/athens-national-polytechnic-metsovio|Athens National Polytechnic Metsovio]]  
   > "➢ 1980 – 1986: MSc Civil Engineering, Athens National Polytechnic Metsovio"
-  > Source: [Themis Christophidou](../sources/dg_cv-themis-christophidou.md) · grade B
+  > Source: [[sources/dg_cv-themis-christophidou|Themis Christophidou]] · grade B
 
 ## Position
 
 - Director-General → Directorate-General for Regional and Urban Policy  
   > "Professional experience in the European Institutions ➢ Since 16/09/2023: Director -General – Directorate-General “Regional and Urban Policy” (REGIO)"
-  > Source: [Themis Christophidou](../sources/dg_cv-themis-christophidou.md) · grade A
+  > Source: [[sources/dg_cv-themis-christophidou|Themis Christophidou]] · grade A

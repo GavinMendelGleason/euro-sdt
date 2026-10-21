@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Karin Karlsbro](../people/karin-karlsbro.md) — board_member  
+- [[people/karin-karlsbro|Karin Karlsbro]] — board_member  
   > "&#91; 2 &#93; Between 2000 and 2006, she was the administrative director at the Parliament Office of the Liberal People's Party (now the Liberals)."
-  > Source: [Karin Karlsbro](../sources/wikipedia-karin-karlsbro.md) · grade A
+  > Source: [[sources/wikipedia-karin-karlsbro|Karin Karlsbro]] · grade A

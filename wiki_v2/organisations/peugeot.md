@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Guillaume Faury](../people/guillaume-faury.md) — chair  
+- [[people/guillaume-faury|Guillaume Faury]] — chair  
   > "In 2010, Faury became executive vice-president for research and development at car maker Peugeot ."
-  > Source: [Guillaume Faury](../sources/wikipedia-guillaume-faury.md) · grade A
+  > Source: [[sources/wikipedia-guillaume-faury|Guillaume Faury]] · grade A

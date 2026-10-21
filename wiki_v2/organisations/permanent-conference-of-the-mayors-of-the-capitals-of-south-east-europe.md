@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Dimitris Avramopoulos](../people/dimitris-avramopoulos.md) — chair; founder  
+- [[people/dimitris-avramopoulos|Dimitris Avramopoulos]] — chair; founder  
   > "In 1995 he founded the “Permanent Conference of the Mayors of the Capitals of South-East Europe” and served as its first President."
-  > Source: [Dimitris Avramopoulos](../sources/wikipedia-dimitris-avramopoulos.md) · grade A
+  > Source: [[sources/wikipedia-dimitris-avramopoulos|Dimitris Avramopoulos]] · grade A

@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Franz Josef Strauß](../people/franz-josef-strau.md)  
+- [[people/franz-josef-strau|Franz Josef Strauß]]  
   > "&#91; 3 &#93; World War II [ edit ] In World War&#160;II , he served in the Wehrmacht on the Western and Eastern Fronts."
-  > Source: [Franz Josef Strauss](../sources/wikipedia-franz-josef-strauss.md) · grade C
+  > Source: [[sources/wikipedia-franz-josef-strauss|Franz Josef Strauss]] · grade C

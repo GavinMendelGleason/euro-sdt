@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Siim Kallas](../people/siim-kallas.md)  
+- [[people/siim-kallas|Siim Kallas]]  
   > "In both Barroso Commissions he was also a Vice-President."
-  > Source: [Siim Kallas](../sources/wikipedia-siim-kallas.md) · grade B
+  > Source: [[sources/wikipedia-siim-kallas|Siim Kallas]] · grade B

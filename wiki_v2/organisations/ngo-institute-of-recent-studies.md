@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Kadri Simson](../people/kadri-simson.md) — board_member  
+- [[people/kadri-simson|Kadri Simson]] — board_member  
   > "Simson was a board member of the NGO Institute of Recent Studies."
-  > Source: [Kadri Simson](../sources/wikipedia-kadri-simson.md) · grade A
+  > Source: [[sources/wikipedia-kadri-simson|Kadri Simson]] · grade A

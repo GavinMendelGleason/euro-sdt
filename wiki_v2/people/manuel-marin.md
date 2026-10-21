@@ -18,94 +18,94 @@ Commissioner · ESP
 
 ## Commission service
 
-- [Santer Commission](../commissions/santer-commission.md)  
+- [[commissions/santer-commission|Santer Commission]]  
   > "Marín's final term in the European Commission was in the Santer Commission from 1995 until 1999."
-  > Source: [Manuel Marin](../sources/wikipedia-manuel-marin.md) · grade A
+  > Source: [[sources/wikipedia-manuel-marin|Manuel Marin]] · grade A
 
 ## Portfolio
 
 - VP – External Relations (South)  
   > "His initial portfolio in this mandate was External relations with Southern Mediterranean countries, the Middle East, Latin America and Asia (except Japan, China, South Korea, Hong Kong, Macao and Taiwan) including development aid; in this period difficulties in implementing the EU's \"Mediterranean strategy\" under his leadership began to lead to complaints -never confirmed- of incompetence and of fraud."
-  > Source: [Manuel Marin](../sources/wikipedia-manuel-marin.md) · grade A
+  > Source: [[sources/wikipedia-manuel-marin|Manuel Marin]] · grade A
 
 ## Nominated by
 
 - ESP  
   > "Following the biting report of the group, &#91; 5 &#93; which (among other things) criticised Marín for his lack of responsibility, the Santer Commission resigned en bloc on 15 March 1999."
-  > Source: [Manuel Marin](../sources/wikipedia-manuel-marin.md) · grade A
+  > Source: [[sources/wikipedia-manuel-marin|Manuel Marin]] · grade A
 
 ## Education
 
-- [College of Europe](../organisations/college-of-europe.md)  
+- [[organisations/college-of-europe|College of Europe]]  
   > "He studied law at Madrid's Complutense University , then went on to take a Diploma in European Community Law at Nancy University , France, and the Certificate of Advanced European Studies at the College of Europe , Bruges , Belgium."
-  > Source: [Manuel Marin](../sources/wikipedia-manuel-marin.md) · grade A
+  > Source: [[sources/wikipedia-manuel-marin|Manuel Marin]] · grade A
 
-- [Complutense University Of Madrid](../organisations/complutense-university-of-madrid.md)  
+- [[organisations/complutense-university-of-madrid|Complutense University Of Madrid]]  
   > "He studied law at Madrid's Complutense University , then went on to take a Diploma in European Community Law at Nancy University , France, and the Certificate of Advanced European Studies at the College of Europe , Bruges , Belgium."
-  > Source: [Manuel Marin](../sources/wikipedia-manuel-marin.md) · grade C
+  > Source: [[sources/wikipedia-manuel-marin|Manuel Marin]] · grade C
 
-- [Nancy University](../organisations/nancy-university.md)  
+- [[organisations/nancy-university|Nancy University]]  
   > "He studied law at Madrid's Complutense University , then went on to take a Diploma in European Community Law at Nancy University , France, and the Certificate of Advanced European Studies at the College of Europe , Bruges , Belgium."
-  > Source: [Manuel Marin](../sources/wikipedia-manuel-marin.md) · grade A
+  > Source: [[sources/wikipedia-manuel-marin|Manuel Marin]] · grade A
 
 ## Field of study
 
 - Advanced European Studies  
   > "He studied law at Madrid's Complutense University , then went on to take a Diploma in European Community Law at Nancy University , France, and the Certificate of Advanced European Studies at the College of Europe , Bruges , Belgium."
-  > Source: [Manuel Marin](../sources/wikipedia-manuel-marin.md) · grade A
+  > Source: [[sources/wikipedia-manuel-marin|Manuel Marin]] · grade A
 
 - European Community Law  
   > "He studied law at Madrid's Complutense University , then went on to take a Diploma in European Community Law at Nancy University , France, and the Certificate of Advanced European Studies at the College of Europe , Bruges , Belgium."
-  > Source: [Manuel Marin](../sources/wikipedia-manuel-marin.md) · grade A
+  > Source: [[sources/wikipedia-manuel-marin|Manuel Marin]] · grade A
 
 - law  
   > "He studied law at Madrid's Complutense University , then went on to take a Diploma in European Community Law at Nancy University , France, and the Certificate of Advanced European Studies at the College of Europe , Bruges , Belgium."
-  > Source: [Manuel Marin](../sources/wikipedia-manuel-marin.md) · grade A
+  > Source: [[sources/wikipedia-manuel-marin|Manuel Marin]] · grade A
 
 ## Degree
 
 - Certificate  
   > "He studied law at Madrid's Complutense University , then went on to take a Diploma in European Community Law at Nancy University , France, and the Certificate of Advanced European Studies at the College of Europe , Bruges , Belgium."
-  > Source: [Manuel Marin](../sources/wikipedia-manuel-marin.md) · grade A
+  > Source: [[sources/wikipedia-manuel-marin|Manuel Marin]] · grade A
 
 - Diploma  
   > "He studied law at Madrid's Complutense University , then went on to take a Diploma in European Community Law at Nancy University , France, and the Certificate of Advanced European Studies at the College of Europe , Bruges , Belgium."
-  > Source: [Manuel Marin](../sources/wikipedia-manuel-marin.md) · grade A
+  > Source: [[sources/wikipedia-manuel-marin|Manuel Marin]] · grade A
 
 ## Membership
 
-- [Congress of Deputies (Spain)](../organisations/congress-of-deputies-spain.md)  
+- [[organisations/congress-of-deputies-spain|Congress of Deputies (Spain)]]  
   > "As from 1974 he was already a member of the Spanish Socialist Workers' Party (the PSOE) and in that connection he was elected in 1977 to the Spanish Congress of Deputies, and re-elected in 1979 and 1982, representing Ciudad Real Province ."
-  > Source: [Manuel Marin](../sources/wikipedia-manuel-marin.md) · grade C
+  > Source: [[sources/wikipedia-manuel-marin|Manuel Marin]] · grade C
 
-- [Defence and Foreign Affairs Committees of the Congress](../organisations/defence-and-foreign-affairs-committees-of-the-congress.md)  
+- [[organisations/defence-and-foreign-affairs-committees-of-the-congress|Defence and Foreign Affairs Committees of the Congress]]  
   > "During this period in the Congress, he was a member of both the Defence and Foreign Affairs Committees of the Congress and became Spokesman for the PSOE in the Foreign Affairs Committee."
-  > Source: [Manuel Marin](../sources/wikipedia-manuel-marin.md) · grade A
+  > Source: [[sources/wikipedia-manuel-marin|Manuel Marin]] · grade A
 
-- [Global Commission on International Migration](../organisations/global-commission-on-international-migration.md)  
+- [[organisations/global-commission-on-international-migration|Global Commission on International Migration]]  
   > "He was also a member of the Global Commission on International Migration."
-  > Source: [Manuel Marin](../sources/wikipedia-manuel-marin.md) · grade A
+  > Source: [[sources/wikipedia-manuel-marin|Manuel Marin]] · grade A
 
-- [Parliamentary Assembly of the Council of Europe](../organisations/parliamentary-assembly-of-the-council-of-europe.md)  
+- [[organisations/parliamentary-assembly-of-the-council-of-europe|Parliamentary Assembly of the Council of Europe]]  
   > "He also became International Policy Secretary of the Federal Committee of the PSOE and vice-chair of the Union of Socialist Parties of the European Community , as well as being a member of the Parliamentary Assembly of the Council of Europe from 1 January 1978 to 1 April 1983."
-  > Source: [Manuel Marin](../sources/wikipedia-manuel-marin.md) · grade A
+  > Source: [[sources/wikipedia-manuel-marin|Manuel Marin]] · grade A
 
-- [Spanish Socialist Workers' Party](../organisations/spanish-socialist-workers-party.md) — party_member  
+- [[organisations/spanish-socialist-workers-party|Spanish Socialist Workers' Party]] — party_member  
   > "As from 1974 he was already a member of the Spanish Socialist Workers' Party (the PSOE) and in that connection he was elected in 1977 to the Spanish Congress of Deputies, and re-elected in 1979 and 1982, representing Ciudad Real Province ."
-  > Source: [Manuel Marin](../sources/wikipedia-manuel-marin.md) · grade A
+  > Source: [[sources/wikipedia-manuel-marin|Manuel Marin]] · grade A
 
 ## Chair / president
 
-- [European Commission](../organisations/european-commission.md) — chair  
+- [[organisations/european-commission|European Commission]] — chair  
   > "He was a long-time member of the European Commission , and acting president during the Santer Commission following the resignation of Jacques Santer ."
-  > Source: [Manuel Marin](../sources/wikipedia-manuel-marin.md) · grade A
+  > Source: [[sources/wikipedia-manuel-marin|Manuel Marin]] · grade A
 
-- [Union of Socialist Parties of the European Community](../organisations/union-of-socialist-parties-of-the-european-community.md) — chair  
+- [[organisations/union-of-socialist-parties-of-the-european-community|Union of Socialist Parties of the European Community]] — chair  
   > "He also became International Policy Secretary of the Federal Committee of the PSOE and vice-chair of the Union of Socialist Parties of the European Community , as well as being a member of the Parliamentary Assembly of the Council of Europe from 1 January 1978 to 1 April 1983."
-  > Source: [Manuel Marin](../sources/wikipedia-manuel-marin.md) · grade A
+  > Source: [[sources/wikipedia-manuel-marin|Manuel Marin]] · grade A
 
 ## Employment
 
-- [Federal Committee of the PSOE](../organisations/federal-committee-of-the-psoe.md) — employed_by  
+- [[organisations/federal-committee-of-the-psoe|Federal Committee of the PSOE]] — employed_by  
   > "He also became International Policy Secretary of the Federal Committee of the PSOE and vice-chair of the Union of Socialist Parties of the European Community , as well as being a member of the Parliamentary Assembly of the Council of Europe from 1 January 1978 to 1 April 1983."
-  > Source: [Manuel Marin](../sources/wikipedia-manuel-marin.md) · grade C
+  > Source: [[sources/wikipedia-manuel-marin|Manuel Marin]] · grade C

@@ -14,9 +14,9 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Jacques Barrot](../people/jacques-barrot.md) — employed_by  
+- [[people/jacques-barrot|Jacques Barrot]] — employed_by  
   > "Barrot joined the Prodi Commission in April 2004 as Commissioner for Regional Policy, before moving in November 2004 to become Commissioner for Transport and a vice-president in the first Barroso Commission."
-  > Source: [Jacques Barrot](../sources/wikipedia-jacques-barrot.md) · grade C
-- [Neelie Kroes](../people/neelie-kroes.md) — employed_by  
+  > Source: [[sources/wikipedia-jacques-barrot|Jacques Barrot]] · grade C
+- [[people/neelie-kroes|Neelie Kroes]] — employed_by  
   > "In October 2004, Kroes was nominated as the next European Commissioner in the First Barroso Commission, and was given the heavy portfolio of Competition taking office on 22 November 2004."
-  > Source: [Neelie Kroes](../sources/wikipedia-neelie-kroes.md) · grade C
+  > Source: [[sources/wikipedia-neelie-kroes|Neelie Kroes]] · grade C

@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Karel De Gucht](../people/karel-de-gucht.md) — board_member  
+- [[people/karel-de-gucht|Karel De Gucht]] — board_member  
   > "ArcelorMittal, Member of the Board of Directors (since 2016)"
-  > Source: [Karel De Gucht](../sources/wikipedia-karel-de-gucht.md) · grade A
+  > Source: [[sources/wikipedia-karel-de-gucht|Karel De Gucht]] · grade A

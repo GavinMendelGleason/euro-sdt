@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Pierre Moscovici](../people/pierre-moscovici.md) — employed_by  
+- [[people/pierre-moscovici|Pierre Moscovici]] — employed_by  
   > "In 1988, he moved on to the Ministry for National Education in Minister Lionel Jospin's cabinet, first as conseiller technique, then as chargé de mission."
-  > Source: [Pierre Moscovici](../sources/wikipedia-pierre-moscovici.md) · grade C
+  > Source: [[sources/wikipedia-pierre-moscovici|Pierre Moscovici]] · grade C

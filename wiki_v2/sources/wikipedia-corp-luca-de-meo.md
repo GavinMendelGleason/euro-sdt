@@ -16,5 +16,5 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (1)
 
-- [Luca De Meo](../people/luca-de-meo.md) — educated_at — Bocconi University
+- [[people/luca-de-meo|Luca De Meo]] — educated_at — Bocconi University
   > "== Other roles == Teaching fellow at SDA Bocconi School of Management."

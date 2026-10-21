@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Paolo Gentiloni](../people/paolo-gentiloni.md)  
+- [[people/paolo-gentiloni|Paolo Gentiloni]]  
   > "Later career In late 2024, United Nations Secretary-General António Guterres appointed Gentiloni to a group of experts to promote actionable policy solutions and galvanize political and public support required to resolve the developing world’s debt crisis, chaired by Mahmoud Mohieldin."
-  > Source: [Paolo Gentiloni](../sources/wikipedia-paolo-gentiloni.md) · grade B
+  > Source: [[sources/wikipedia-paolo-gentiloni|Paolo Gentiloni]] · grade B

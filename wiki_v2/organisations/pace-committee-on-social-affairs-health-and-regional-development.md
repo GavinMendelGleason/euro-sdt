@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Stella Kyriakides](../people/stella-kyriakides.md) — chair  
+- [[people/stella-kyriakides|Stella Kyriakides]] — chair  
   > "From 2016 until 2018, she chaired the PACE Committee on Social Affairs, Health, and Regional Development."
-  > Source: [Stella Kyriakides](../sources/wikipedia-stella-kyriakides.md) · grade C
+  > Source: [[sources/wikipedia-stella-kyriakides|Stella Kyriakides]] · grade C

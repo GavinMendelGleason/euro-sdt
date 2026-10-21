@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Sir Leon Brittan](../people/sir-leon-brittan.md)  
+- [[people/sir-leon-brittan|Sir Leon Brittan]]  
   > "Brittan was educated at the Haberdashers' Aske's Boys' School and Trinity College, Cambridge, where he was President of the Cambridge Union Society and Chairman of the Cambridge University Conservative Association."
-  > Source: [Sir Leon Brittan](../sources/wikipedia-sir-leon-brittan.md) · grade A
+  > Source: [[sources/wikipedia-sir-leon-brittan|Sir Leon Brittan]] · grade A

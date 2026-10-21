@@ -16,11 +16,11 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (4)
 
-- [Severin Schwan](../people/severin-schwan.md) — educated_at — University Of Innsbruck
+- [[people/severin-schwan|Severin Schwan]] — educated_at — University Of Innsbruck
   > "== Early life and education == Severin Schwan graduated from the Akademisches Gymnasium Innsbruck and then studied economics at the University of Innsbruck, University of York, and University of Oxford as well as law at the University of Innsbruck."
-- [Severin Schwan](../people/severin-schwan.md) — educated_at — University Of York
+- [[people/severin-schwan|Severin Schwan]] — educated_at — University Of York
   > "== Early life and education == Severin Schwan graduated from the Akademisches Gymnasium Innsbruck and then studied economics at the University of Innsbruck, University of York, and University of Oxford as well as law at the University of Innsbruck."
-- [Severin Schwan](../people/severin-schwan.md) — educated_at — University Of Oxford
+- [[people/severin-schwan|Severin Schwan]] — educated_at — University Of Oxford
   > "== Early life and education == Severin Schwan graduated from the Akademisches Gymnasium Innsbruck and then studied economics at the University of Innsbruck, University of York, and University of Oxford as well as law at the University of Innsbruck."
-- [Severin Schwan](../people/severin-schwan.md) — employed_by — Roche
+- [[people/severin-schwan|Severin Schwan]] — employed_by — Roche
   > "He is the current chairman of the board and former CEO (2008–2023) of the Roche Group."

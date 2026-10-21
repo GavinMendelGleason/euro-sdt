@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Maciej Popowski](../people/maciej-popowski.md) — chair  
+- [[people/maciej-popowski|Maciej Popowski]] — chair  
   > "Additional responsibilities: member of the Board of Governors of the European Endowment for Democracy, chair of the Tasking Committee of the European Satellite Centre, chair of the international Contact Group on Piracy off the Coast of Somalia (2014- 2015), chief negotiator of the institutional framework EU-Switzerland."
-  > Source: [Maciej Popowski](../sources/dg_cv-maciej-popowski.md) · grade A
+  > Source: [[sources/dg_cv-maciej-popowski|Maciej Popowski]] · grade A

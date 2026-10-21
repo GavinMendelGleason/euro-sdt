@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Stella Kyriakides](../people/stella-kyriakides.md) — party_member  
+- [[people/stella-kyriakides|Stella Kyriakides]] — party_member  
   > "Since 2013, Kyriakides has served as a vice president of the Democratic Rally party, under the leadership of its president Nicos Anastasiades."
-  > Source: [Stella Kyriakides](../sources/wikipedia-stella-kyriakides.md) · grade B
+  > Source: [[sources/wikipedia-stella-kyriakides|Stella Kyriakides]] · grade B

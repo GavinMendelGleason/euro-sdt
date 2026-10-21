@@ -15,7 +15,7 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (2)
 
-- [Juliane Kokott](../people/juliane-kokott.md) — educated_at — Heidelberg University
+- [[people/juliane-kokott|Juliane Kokott]] — educated_at — Heidelberg University
   > "On her return to Europe she obtained a doctorate in law from the Universität Heidelberg (University of Heidelberg, Germany) in 1985, then from Harvard University (United States) in 1990."
-- [Juliane Kokott](../people/juliane-kokott.md) — educated_at — Harvard Law School
+- [[people/juliane-kokott|Juliane Kokott]] — educated_at — Harvard Law School
   > "On her return to Europe she obtained a doctorate in law from the Universität Heidelberg (University of Heidelberg, Germany) in 1985, then from Harvard University (United States) in 1990."

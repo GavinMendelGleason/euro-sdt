@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Federica Mogherini](../people/federica-mogherini.md)  
+- [[people/federica-mogherini|Federica Mogherini]]  
   > "Preparatory Commission for the Comprehensive Nuclear-Test-Ban Treaty Organization, member of the Group of Eminent Persons"
-  > Source: [Federica Mogherini](../sources/wikipedia-federica-mogherini.md) · grade A
+  > Source: [[sources/wikipedia-federica-mogherini|Federica Mogherini]] · grade A

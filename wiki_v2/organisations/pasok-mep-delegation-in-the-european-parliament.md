@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Christos Papoutsis](../people/christos-papoutsis.md) — chair  
+- [[people/christos-papoutsis|Christos Papoutsis]] — chair  
   > "During this period he held the positions of Vice-President of the Socialist Group of the European Parliament (1987–1994) and Head of PASOK MEP delegation in the European Parliament (1989–1994)."
-  > Source: [Christos Papoutsis](../sources/wikipedia-christos-papoutsis.md) · grade A
+  > Source: [[sources/wikipedia-christos-papoutsis|Christos Papoutsis]] · grade A

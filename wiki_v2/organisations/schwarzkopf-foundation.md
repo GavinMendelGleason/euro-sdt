@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Michaele Schreyer](../people/michaele-schreyer.md) — board_member  
+- [[people/michaele-schreyer|Michaele Schreyer]] — board_member  
   > "Schwarzkopf Foundation, Member of the Board"
-  > Source: [Michaele Schreyer](../sources/wikipedia-michaele-schreyer.md) · grade A
+  > Source: [[sources/wikipedia-michaele-schreyer|Michaele Schreyer]] · grade A

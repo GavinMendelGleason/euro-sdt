@@ -15,7 +15,7 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (2)
 
-- [Joanna Drake](../people/joanna-drake.md) — educated_at — College of Europe
+- [[people/joanna-drake|Joanna Drake]] — educated_at — College of Europe
   > "College of Europe in Bruges, Belgium"
-- [Joanna Drake](../people/joanna-drake.md) — held_position — Deputy Director-General → Directorate-General for Research and Innovation
+- [[people/joanna-drake|Joanna Drake]] — held_position — Deputy Director-General → Directorate-General for Research and Innovation
   > "University of Malta Professional experience in the European Institutions:  Since 1 st October 2021: Deputy Director -General in charge of Implementation, Impact & Sustainable Investment Strategies – Directorate-General Research and Innovation (RTD)"

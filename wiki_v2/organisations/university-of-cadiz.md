@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Miguel Arias Cañete](../people/miguel-arias-canete.md)  
+- [[people/miguel-arias-canete|Miguel Arias Cañete]]  
   > "In 1978 he resigned as a civil servant to become a Professor of Law at the University of Cádiz, where he remained until 1982."
-  > Source: [Miguel Arias Canete](../sources/wikipedia-miguel-arias-canete.md) · grade A
+  > Source: [[sources/wikipedia-miguel-arias-canete|Miguel Arias Canete]] · grade A

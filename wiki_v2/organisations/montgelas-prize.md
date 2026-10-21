@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Thierry Breton](../people/thierry-breton.md)  
+- [[people/thierry-breton|Thierry Breton]]  
   > "Awards 2015: Montgelas Prize, for outstanding actions in favor of French-German cooperation, Munich, Germany."
-  > Source: [Thierry Breton](../sources/wikipedia-thierry-breton.md) · grade B
+  > Source: [[sources/wikipedia-thierry-breton|Thierry Breton]] · grade B

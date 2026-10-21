@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Marcelino Oreja](../people/marcelino-oreja.md)  
+- [[people/marcelino-oreja|Marcelino Oreja]]  
   > "He continued to be active in many fields, being appointed Head of the Institute for European Studies at the CEU San Pablo University Foundation, Vice-chair of the BBV Foundation (1996) and Doctor Honoris Causa at Zaragoza and Seville Universities (1996)."
-  > Source: [Marcelino Oreja](../sources/wikipedia-marcelino-oreja.md) · grade A
+  > Source: [[sources/wikipedia-marcelino-oreja|Marcelino Oreja]] · grade A

@@ -16,9 +16,9 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (3)
 
-- [Marta Ortega](../people/marta-ortega.md) — educated_at — A Coruña
+- [[people/marta-ortega|Marta Ortega]] — educated_at — A Coruña
   > "She studied at A Coruña and continued her baccalaureate education in Switzerland."
-- [Marta Ortega](../people/marta-ortega.md) — educated_at — European Business School
+- [[people/marta-ortega|Marta Ortega]] — educated_at — European Business School
   > "She studied business at the European Business School in London and graduated in 2007, with a specialty in international entrepreneurship."
-- [Marta Ortega](../people/marta-ortega.md) — employed_by — Inditex
+- [[people/marta-ortega|Marta Ortega]] — employed_by — Inditex
   > "Ortega replaced Pablo Isla, who was chair and CEO of Inditex since 2011, in April 2022."

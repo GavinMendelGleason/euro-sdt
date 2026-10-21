@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Kaja Kallas](../people/kaja-kallas.md) — employed_by  
+- [[people/kaja-kallas|Kaja Kallas]] — employed_by  
   > "She became a partner in the law firms Tark & Co and Luiga Mody Hääl Borenius, where she headed the competition law department from 2008 to 2011."
-  > Source: [Kaja Kallas](../sources/wikipedia-kaja-kallas.md) · grade C
+  > Source: [[sources/wikipedia-kaja-kallas|Kaja Kallas]] · grade C

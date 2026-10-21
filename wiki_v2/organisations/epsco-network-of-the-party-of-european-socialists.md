@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Nicolas Schmit](../people/nicolas-schmit.md) — chair  
+- [[people/nicolas-schmit|Nicolas Schmit]] — chair  
   > "He is the chairman of the EPSCO network of the Party of European Socialists."
-  > Source: [Nicolas Schmit](../sources/wikipedia-nicolas-schmit.md) · grade A
+  > Source: [[sources/wikipedia-nicolas-schmit|Nicolas Schmit]] · grade A

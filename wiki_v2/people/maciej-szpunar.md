@@ -18,12 +18,12 @@ Cjeu Ag · Poland
 
 ## Education
 
-- [College of Europe](../organisations/college-of-europe.md)  
+- [[organisations/college-of-europe|College of Europe]]  
   > "Born in 1971 in Cracow (Poland), Mr Maciej Szpunar obtained a master's degree in law from the Uniwersytet Śląski (University of Silesia, Poland) in 1995 and from the College of Europe in Bruges (Belgium) in 1996."
-  > Source: [Maciej Szpunar](../sources/cjeu-maciej-szpunar.md) · grade A
+  > Source: [[sources/cjeu-maciej-szpunar|Maciej Szpunar]] · grade A
 
 ## Position
 
-- [Advocate General](../organisations/advocate-general.md)  
+- [[organisations/advocate-general|Advocate General]]  
   > "First Advocate General"
-  > Source: [Maciej Szpunar](../sources/cjeu-maciej-szpunar.md) · grade C
+  > Source: [[sources/cjeu-maciej-szpunar|Maciej Szpunar]] · grade C

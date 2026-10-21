@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Jean-Dominique Senard](../people/jean-dominique-senard.md) — employed_by  
+- [[people/jean-dominique-senard|Jean-Dominique Senard]] — employed_by  
   > "&#91; 12 &#93; Jean-Dominique Senard in Japan before the 2019 G20 Osaka summit On 24 January 2019, following Carlos Ghosn 's resignation as President of Renault , Jean-Dominique Senard was named the new CEO of the Renault–Nissan–Mitsubishi Alliance ."
-  > Source: [Jean Dominique Senard](../sources/wikipedia-jean-dominique-senard.md) · grade A
+  > Source: [[sources/wikipedia-jean-dominique-senard|Jean Dominique Senard]] · grade A

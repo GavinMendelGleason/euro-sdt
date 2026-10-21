@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Francis Wurtz](../people/francis-wurtz.md)  
+- [[people/francis-wurtz|Francis Wurtz]]  
   > "A university graduate in literature (philosophy), he worked for a time as a State school teacher."
-  > Source: [Francis Wurtz](../sources/wikipedia-francis-wurtz.md) · grade A
+  > Source: [[sources/wikipedia-francis-wurtz|Francis Wurtz]] · grade A

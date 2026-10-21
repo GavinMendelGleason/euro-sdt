@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Tibor Navracsics](../people/tibor-navracsics.md) — board_member  
+- [[people/tibor-navracsics|Tibor Navracsics]] — board_member  
   > "1999– : Member of the Editorial Board, Politikatudományi Szemle (Political Science Review);"
-  > Source: [Tibor Navracsics](../sources/wikipedia-tibor-navracsics.md) · grade A
+  > Source: [[sources/wikipedia-tibor-navracsics|Tibor Navracsics]] · grade A

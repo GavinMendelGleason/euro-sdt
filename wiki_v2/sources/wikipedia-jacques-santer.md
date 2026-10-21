@@ -16,25 +16,25 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (11)
 
-- [Jacques Santer](../people/jacques-santer.md) — board_member — General Mediterranean Holdings
+- [[people/jacques-santer|Jacques Santer]] — board_member — General Mediterranean Holdings
   > "He also was on General Mediterranean Holdings' board, a financial holding owned by Anglo-Iraqi Nadhmi Auchi."
-- [Jacques Santer](../people/jacques-santer.md) — chair — European Commission
+- [[people/jacques-santer|Jacques Santer]] — chair — European Commission
   > "Santer became the ninth President of the European Commission in 1995 as a compromise choice between the United Kingdom and a Franco-German alliance, after the Franco-German nominee Jean-Luc Dehaene was vetoed by British prime minister John Major."
-- [Jacques Santer](../people/jacques-santer.md) — chair — Special Purpose Investment Vehicle (SPIV)
+- [[people/jacques-santer|Jacques Santer]] — chair — Special Purpose Investment Vehicle (SPIV)
   > "In January 2012, Santer was appointed to head the board of the Special Purpose Investment Vehicle (SPIV), which was designed to boost the firepower of the European Financial Stability Facility, the eurozone rescue fund."
-- [Jacques Santer](../people/jacques-santer.md) — educated_at — Sciences Po
+- [[people/jacques-santer|Jacques Santer]] — educated_at — Sciences Po
   > "Santer graduated in 1959 from Sciences Po, before receiving his doctorate in law from the University of Strasbourg in 1961."
-- [Jacques Santer](../people/jacques-santer.md) — educated_at — University Of Strasbourg
+- [[people/jacques-santer|Jacques Santer]] — educated_at — University Of Strasbourg
   > "Santer graduated in 1959 from Sciences Po, before receiving his doctorate in law from the University of Strasbourg in 1961."
-- [Jacques Santer](../people/jacques-santer.md) — from_country — Luxembourg
+- [[people/jacques-santer|Jacques Santer]] — from_country — Luxembourg
   > "Jacques Louis Santer (born 18 May 1937) is a Luxembourgish politician who served as president of the European Commission from 1995 to 1999 before resigning amidst allegations of corruption."
-- [Jacques Santer](../people/jacques-santer.md) — held_portfolio — President
+- [[people/jacques-santer|Jacques Santer]] — held_portfolio — President
   > "Jacques Louis Santer (born 18 May 1937) is a Luxembourgish politician who served as president of the European Commission from 1995 to 1999 before resigning amidst allegations of corruption."
-- [Jacques Santer](../people/jacques-santer.md) — member — SME Europe
+- [[people/jacques-santer|Jacques Santer]] — member — SME Europe
   > "In May 2013, Santer became an Honorary Member of SME Europe, the official pro-business organisation of the European People's Party."
-- [Jacques Santer](../people/jacques-santer.md) — member — Christian Social People's Party
+- [[people/jacques-santer|Jacques Santer]] — member — Christian Social People's Party
   > "He served as the finance minister of Luxembourg from 1979 until 1989, and as prime minister of Luxembourg from 1984 to 1995, as a member of the Christian Social People's Party (CSV), which was the leading party in the Luxembourgish government between 1979 and 2013."
-- [Jacques Santer](../people/jacques-santer.md) — nominated_by — LUX
+- [[people/jacques-santer|Jacques Santer]] — nominated_by — LUX
   > "Jacques Louis Santer (born 18 May 1937) is a Luxembourgish politician who served as president of the European Commission from 1995 to 1999 before resigning amidst allegations of corruption."
-- [Jacques Santer](../people/jacques-santer.md) — served_on_commission — Santer Commission
+- [[people/jacques-santer|Jacques Santer]] — served_on_commission — Santer Commission
   > "Because the implicated commissioners refused to resign and the president of the European Commission did not have the power to dismiss individual commissioners, Santer and his entire commission resigne"

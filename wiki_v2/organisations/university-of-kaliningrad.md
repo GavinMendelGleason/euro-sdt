@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Godelieve Quisthoudt-Rowohl](../people/godelieve-quisthoudt-rowohl.md) — attendee  
+- [[people/godelieve-quisthoudt-rowohl|Godelieve Quisthoudt-Rowohl]] — attendee  
   > "From 2002, she was teaching at its Institute of Social Sciences. &#91; 4 &#93; &#91; 5 &#93; On 6 March 2009, she became a professor at the department of education and social sciences. &#91; 2 &#93; &#91; 6 &#93; She gave guest lectures at the University of Kaliningrad, at the European Business School and at Harvard University."
-  > Source: [Godelieve Quisthoudt Rowohl](../sources/wikipedia-godelieve-quisthoudt-rowohl.md) · grade A
+  > Source: [[sources/wikipedia-godelieve-quisthoudt-rowohl|Godelieve Quisthoudt Rowohl]] · grade A

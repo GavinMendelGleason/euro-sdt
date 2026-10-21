@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Outi Ojala](../people/outi-ojala.md) — chair  
+- [[people/outi-ojala|Outi Ojala]] — chair  
   > "&#91; 5 &#93; Positions [ edit ] Chairperson of the National Advisory Board on Romani Affairs 1996–2001 References [ edit ] ^ \"Kuolleet | Outi Ojala 1946–2017\" ."
-  > Source: [Outi Ojala](../sources/wikipedia-outi-ojala.md) · grade A
+  > Source: [[sources/wikipedia-outi-ojala|Outi Ojala]] · grade A

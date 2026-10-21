@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Thierry Breton](../people/thierry-breton.md)  
+- [[people/thierry-breton|Thierry Breton]]  
   > "Breton received a master's degree in electrical engineering and computer science from École Supérieure d'Électricité (Supélec, now CentraleSupélec) in 1979 and later graduated from the Institut des hautes études de défense nationale (IHEDN)."
-  > Source: [Thierry Breton](../sources/wikipedia-thierry-breton.md) · grade A
+  > Source: [[sources/wikipedia-thierry-breton|Thierry Breton]] · grade A

@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Dalia Grybauskaitė](../people/dalia-grybauskaite.md)  
+- [[people/dalia-grybauskaite|Dalia Grybauskaitė]]  
   > "In 1990, soon after Lithuania reestablished its independence from the Soviet Union, Grybauskaitė continued her studies at the Edmund A. Walsh School of Foreign Service at Georgetown University, Washington D.C., in the Special Programme for senior executives."
-  > Source: [Dalia Grybauskaite](../sources/wikipedia-dalia-grybauskaite.md) · grade A
+  > Source: [[sources/wikipedia-dalia-grybauskaite|Dalia Grybauskaite]] · grade A

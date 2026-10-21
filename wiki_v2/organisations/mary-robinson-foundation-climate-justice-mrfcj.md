@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Margot Wallström](../people/margot-wallstrom.md) — advisory_board  
+- [[people/margot-wallstrom|Margot Wallström]] — advisory_board  
   > "Mary Robinson Foundation – Climate Justice (MRFCJ), Member of the International Advisory Council"
-  > Source: [Margot Wallstrom](../sources/wikipedia-margot-wallstrom.md) · grade A
+  > Source: [[sources/wikipedia-margot-wallstrom|Margot Wallstrom]] · grade A

@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Vytenis Andriukaitis](../people/vytenis-andriukaitis.md)  
+- [[people/vytenis-andriukaitis|Vytenis Andriukaitis]]  
   > "In 1990 he became a delegation member in the Baltic Assembly at the Parliament of the Republic of Lithuania, the position he held until 2004."
-  > Source: [Vytenis Andriukaitis](../sources/wikipedia-vytenis-andriukaitis.md) · grade A
+  > Source: [[sources/wikipedia-vytenis-andriukaitis|Vytenis Andriukaitis]] · grade A

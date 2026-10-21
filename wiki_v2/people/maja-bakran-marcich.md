@@ -18,12 +18,12 @@ Dg
 
 ## Education
 
-- [Faculty Of Natural Sciences, University Of Zagreb](../organisations/faculty-of-natural-sciences-university-of-zagreb.md)  
+- [[organisations/faculty-of-natural-sciences-university-of-zagreb|Faculty Of Natural Sciences, University Of Zagreb]]  
   > " 1992: Graduated from Faculty of Natural Sciences, University of Zagreb Degree in Biological Engineering - Ecology"
-  > Source: [Maja Bakran Marcich](../sources/dg_cv-maja-bakran-marcich.md) · grade A
+  > Source: [[sources/dg_cv-maja-bakran-marcich|Maja Bakran Marcich]] · grade A
 
 ## Position
 
 - Deputy Director-General → Directorate-General for Mobility and Transport  
   > " 04-07/2023: Acting Director-General – Directorate-General Mobility and Transport (MOVE)"
-  > Source: [Maja Bakran Marcich](../sources/dg_cv-maja-bakran-marcich.md) · grade A
+  > Source: [[sources/dg_cv-maja-bakran-marcich|Maja Bakran Marcich]] · grade A

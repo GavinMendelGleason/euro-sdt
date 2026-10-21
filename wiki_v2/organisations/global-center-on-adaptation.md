@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Dan Jørgensen](../people/dan-jrgensen.md) — advisory_board  
+- [[people/dan-jrgensen|Dan Jørgensen]] — advisory_board  
   > "On 16 May 2023, Jørgensen joined the Advisory Board of the Global Center on Adaptation ."
-  > Source: [Dan Jrgensen](../sources/wikipedia-dan-jrgensen.md) · grade A
+  > Source: [[sources/wikipedia-dan-jrgensen|Dan Jrgensen]] · grade A

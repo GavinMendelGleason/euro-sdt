@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Bill Newton Dunn](../people/bill-newton-dunn.md)  
+- [[people/bill-newton-dunn|Bill Newton Dunn]]  
   > "In May 2018, he was elected to Richmond London Borough Council as a councillor for the South Richmond ward."
-  > Source: [Bill Newton Dunn](../sources/wikipedia-bill-newton-dunn.md) · grade B
+  > Source: [[sources/wikipedia-bill-newton-dunn|Bill Newton Dunn]] · grade B

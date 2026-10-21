@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Christos Stylianides](../people/christos-stylianides.md) — party_member  
+- [[people/christos-stylianides|Christos Stylianides]] — party_member  
   > "(Elected in 2006 and 2011 with Democratic Rally/DISY)."
-  > Source: [Christos Stylianides](../sources/wikipedia-christos-stylianides.md) · grade A
+  > Source: [[sources/wikipedia-christos-stylianides|Christos Stylianides]] · grade A

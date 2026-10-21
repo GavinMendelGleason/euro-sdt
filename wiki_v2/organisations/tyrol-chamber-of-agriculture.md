@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Franz Fischler](../people/franz-fischler.md) — employed_by  
+- [[people/franz-fischler|Franz Fischler]] — employed_by  
   > "He worked as University assistant from 1973 to 1979, then for the Tyrol Chamber of Agriculture, finally as its director from 1985 to 1989."
-  > Source: [Franz Fischler](../sources/wikipedia-franz-fischler.md) · grade A
+  > Source: [[sources/wikipedia-franz-fischler|Franz Fischler]] · grade A

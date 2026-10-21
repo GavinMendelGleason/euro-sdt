@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [David Byrne](../people/david-byrne.md) — board_member  
+- [[people/david-byrne|David Byrne]] — board_member  
   > "Byrne serves on the board of directors of SoundExchange, an organization designated by the United States Congress to collect and distribute digital performance royalties for sound recordings."
-  > Source: [David Byrne](../sources/wikipedia-david-byrne.md) · grade A
+  > Source: [[sources/wikipedia-david-byrne|David Byrne]] · grade A

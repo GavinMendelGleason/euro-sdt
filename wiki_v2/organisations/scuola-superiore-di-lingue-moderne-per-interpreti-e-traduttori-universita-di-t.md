@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Sandra Gallina](../people/sandra-gallina.md)  
+- [[people/sandra-gallina|Sandra Gallina]]  
   > "Italian Academic qualifications  11/1981 – 07/1987: Laurea in Interpretazione – Summa cum laude Scuola Superiore di Lingue Moderne per Interpreti e TraduttoriScuola Superiore di Lingue Moderne per Interpreti e Traduttori – Università di Trieste – Trieste, Italy"
-  > Source: [Sandra Gallina](../sources/dg_cv-sandra-gallina.md) · grade B
+  > Source: [[sources/dg_cv-sandra-gallina|Sandra Gallina]] · grade B

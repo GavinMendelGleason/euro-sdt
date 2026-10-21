@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Bruno Gollnisch](../people/bruno-gollnisch.md)  
+- [[people/bruno-gollnisch|Bruno Gollnisch]]  
   > "In 1978, he obtained a doctorate in law at Panthéon-Assas University ."
-  > Source: [Bruno Gollnisch](../sources/wikipedia-bruno-gollnisch.md) · grade C
+  > Source: [[sources/wikipedia-bruno-gollnisch|Bruno Gollnisch]] · grade C

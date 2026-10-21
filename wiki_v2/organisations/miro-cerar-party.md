@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Violeta Bulc](../people/violeta-bulc.md)  
+- [[people/violeta-bulc|Violeta Bulc]]  
   > "Bulc joined Slovenian politics together with Miro Cerar in 2013, and she was appointed head of the program committee of the Miro Cerar Party."
-  > Source: [Violeta Bulc](../sources/wikipedia-violeta-bulc.md) · grade B
+  > Source: [[sources/wikipedia-violeta-bulc|Violeta Bulc]] · grade B

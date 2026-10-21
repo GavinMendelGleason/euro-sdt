@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Heribert Barrera i Costa](../people/heribert-barrera-i-costa.md) — advisory_board  
+- [[people/heribert-barrera-i-costa|Heribert Barrera i Costa]] — advisory_board  
   > "In his later years, he was a member of the advisory council of Òmnium Cultural ."
-  > Source: [Heribert Barrera](../sources/wikipedia-heribert-barrera.md) · grade C
+  > Source: [[sources/wikipedia-heribert-barrera|Heribert Barrera]] · grade C

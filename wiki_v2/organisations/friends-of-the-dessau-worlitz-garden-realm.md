@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Günther Oettinger](../people/gunther-oettinger.md) — board_member  
+- [[people/gunther-oettinger|Günther Oettinger]] — board_member  
   > "Friends of the Dessau-Wörlitz Garden Realm, Member of the Board of Trustees"
-  > Source: [Gunther Oettinger](../sources/wikipedia-gunther-oettinger.md) · grade A
+  > Source: [[sources/wikipedia-gunther-oettinger|Gunther Oettinger]] · grade A

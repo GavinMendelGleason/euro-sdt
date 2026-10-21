@@ -16,17 +16,17 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (7)
 
-- [Hadja Lahbib](../people/hadja-lahbib.md) — affiliated_with — Solidaris
+- [[people/hadja-lahbib|Hadja Lahbib]] — affiliated_with — Solidaris
   > "Prior to this nomination, Lahbib was only politically active with the socialist organisation, Solidaris, and she was not a member of the liberal Reformist Movement (MR), whose leader Georges-Louis Bouchez unexpectedly nominated her for the post of Belgian Federal Minister for Foreign Affairs to replace Sophie Wilmès."
-- [Hadja Lahbib](../people/hadja-lahbib.md) — educated_at — Université Libre De Bruxelles
+- [[people/hadja-lahbib|Hadja Lahbib]] — educated_at — Université Libre De Bruxelles
   > "Lahbib graduated in journalism from the Free University of Brussels"
-- [Hadja Lahbib](../people/hadja-lahbib.md) — employed_by — RTBF
+- [[people/hadja-lahbib|Hadja Lahbib]] — employed_by — RTBF
   > "Lahbib graduated in journalism from the Free University of Brussels and worked for a long time for the Belgian Radio-Television of the French Community (RTBF)."
-- [Hadja Lahbib](../people/hadja-lahbib.md) — from_country — Belgium
+- [[people/hadja-lahbib|Hadja Lahbib]] — from_country — Belgium
   > "Hadja Lahbib (French pronunciation: [adʒa labib]; born 21 June 1970) is a Belgian journalist, television presenter, director and politician, who has been serving as the European Commissioner for Prepa"
-- [Hadja Lahbib](../people/hadja-lahbib.md) — held_portfolio — European Commissioner for Preparedness and Crisis Management, and Commissioner for Equality
+- [[people/hadja-lahbib|Hadja Lahbib]] — held_portfolio — European Commissioner for Preparedness and Crisis Management, and Commissioner for Equality
   > "On 17 September 2024, Ursula von der Leyen nominated Hadja Lahbib as the European Commissioner for Preparedness, Crisis Management, and Equality."
-- [Hadja Lahbib](../people/hadja-lahbib.md) — member — Solidaris
+- [[people/hadja-lahbib|Hadja Lahbib]] — member — Solidaris
   > "Prior to this nomination, Lahbib was only politically active with the socialist organisation, Solidaris, and she was not a member of the liberal Reformist Movement (MR), whose leader Georges-Louis Bouchez unexpectedly nominated her for the post of Belgian Federal Minister for Foreign Affairs to replace Sophie Wilmès."
-- [Hadja Lahbib](../people/hadja-lahbib.md) — member — Reformist Movement (MR)
+- [[people/hadja-lahbib|Hadja Lahbib]] — member — Reformist Movement (MR)
   > "After the interview, Georges-Louis Bouchez asked her to join MR, and she did so."

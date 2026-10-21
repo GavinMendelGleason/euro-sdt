@@ -16,9 +16,9 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (3)
 
-- [Xavier Huillard](../people/xavier-huillard.md) — educated_at — École Polytechnique
+- [[people/xavier-huillard|Xavier Huillard]] — educated_at — École Polytechnique
   > "== Early life and education == Huillard graduated from École Polytechnique and École des ponts ParisTech."
-- [Xavier Huillard](../people/xavier-huillard.md) — educated_at — École des ponts ParisTech
+- [[people/xavier-huillard|Xavier Huillard]] — educated_at — École des ponts ParisTech
   > "== Early life and education == Huillard graduated from École Polytechnique and École des ponts ParisTech."
-- [Xavier Huillard](../people/xavier-huillard.md) — employed_by — Vinci
+- [[people/xavier-huillard|Xavier Huillard]] — employed_by — Vinci
   > "Xavier Huillard (born 27 June 1954) is a French business executive, and the chairman and CEO of Vinci SA. He has been CEO since 2006, and chairman since 2010."

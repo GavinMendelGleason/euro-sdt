@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Elisa Ferreira](../people/elisa-ferreira.md) — board_member  
+- [[people/elisa-ferreira|Elisa Ferreira]] — board_member  
   > "Instituto Nacional de Estatística (INE), Member of the Administrative Board (1989–1992)"
-  > Source: [Elisa Ferreira](../sources/wikipedia-elisa-ferreira.md) · grade A
+  > Source: [[sources/wikipedia-elisa-ferreira|Elisa Ferreira]] · grade A

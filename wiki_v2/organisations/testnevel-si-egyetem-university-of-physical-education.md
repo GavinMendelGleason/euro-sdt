@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Pál Schmitt](../people/pal-schmitt.md)  
+- [[people/pal-schmitt|Pál Schmitt]]  
   > "&#91; 30 &#93; Academic misconduct and resignation [ edit ] Main article: Pál Schmitt academic misconduct controversy In 1992 Pál Schmitt defended his dissertation for a doctor of philosophy degree summa cum laude at the Testnevelési Egyetem (University of Physical Education)."
-  > Source: [Pl Schmitt](../sources/wikipedia-pl-schmitt.md) · grade C
+  > Source: [[sources/wikipedia-pl-schmitt|Pl Schmitt]] · grade C

@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [José Manuel Barroso](../people/jose-manuel-barroso.md) — chair; party_member  
+- [[people/jose-manuel-barroso|José Manuel Barroso]] — chair; party_member  
   > "In 1999 he was elected president of the PSD, succeeding Marcelo Rebelo de Sousa (a professor of law), and thus became Leader of the Opposition."
-  > Source: [Jose Manuel Barroso](../sources/wikipedia-jose-manuel-barroso.md) · grade A
+  > Source: [[sources/wikipedia-jose-manuel-barroso|Jose Manuel Barroso]] · grade A

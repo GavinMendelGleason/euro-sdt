@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Fredrick Federley](../people/fredrick-federley.md)  
+- [[people/fredrick-federley|Fredrick Federley]]  
   > "&#91; 10 &#93; Second mandate in the European Parliament 2019–2020 [ edit ] In the 2019 European Parliament election Fredrick Federley was re-elected for a second term."
-  > Source: [Fredrick Federley](../sources/wikipedia-fredrick-federley.md) · grade A
+  > Source: [[sources/wikipedia-fredrick-federley|Fredrick Federley]] · grade A

@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Joseph Daul](../people/joseph-daul.md)  
+- [[people/joseph-daul|Joseph Daul]]  
   > "Daul also became a member of the Committee of Professional Agricultural Organisations (COPA) and of the European Economic and Social Committee in Brussels."
-  > Source: [Joseph Daul](../sources/wikipedia-joseph-daul.md) · grade A
+  > Source: [[sources/wikipedia-joseph-daul|Joseph Daul]] · grade A

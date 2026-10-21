@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Pat Cox](../people/pat-cox.md)  
+- [[people/pat-cox|Pat Cox]]  
   > "Later career [ edit ] Cox is a member of the Comite d'Honneur of the Institute of European Affairs ."
-  > Source: [Pat Cox](../sources/wikipedia-pat-cox.md) · grade A
+  > Source: [[sources/wikipedia-pat-cox|Pat Cox]] · grade A

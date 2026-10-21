@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Ján Figeľ](../people/jan-figel.md)  
+- [[people/jan-figel|Ján Figeľ]]  
   > "Around 2022, Figeľ became involved with the Clementy Schuman Legacy Foundation, led by Pierre Louvrier, who has been linked to the Russian oligarch Konstantin Malofeev."
-  > Source: [Jan Figel](../sources/wikipedia-jan-figel.md) · grade B
+  > Source: [[sources/wikipedia-jan-figel|Jan Figel]] · grade B

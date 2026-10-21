@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Günther Oettinger](../people/gunther-oettinger.md) — chair  
+- [[people/gunther-oettinger|Günther Oettinger]] — chair  
   > "Between 2007 and 2009, he served as co-chair (alongside Peter Struck) of the Second Commission on the modernization of the federal state (Föderalismuskommission II), which had been established to reform the division of powers between federal and state authorities in Germany."
-  > Source: [Gunther Oettinger](../sources/wikipedia-gunther-oettinger.md) · grade A
+  > Source: [[sources/wikipedia-gunther-oettinger|Gunther Oettinger]] · grade A

@@ -16,11 +16,11 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (4)
 
-- [Helena Dalli](../people/helena-dalli.md) — founder — LGBTIQ Consultative Council
+- [[people/helena-dalli|Helena Dalli]] — founder — LGBTIQ Consultative Council
   > "She also set up an LGBTIQ Consultative Council, a Consultative Council for Women's Rights and a Forum on Integration Affairs."
-- [Helena Dalli](../people/helena-dalli.md) — founder — Consultative Council for Women's Rights
+- [[people/helena-dalli|Helena Dalli]] — founder — Consultative Council for Women's Rights
   > "She also set up an LGBTIQ Consultative Council, a Consultative Council for Women's Rights and a Forum on Integration Affairs."
-- [Helena Dalli](../people/helena-dalli.md) — founder — Forum on Integration Affairs
+- [[people/helena-dalli|Helena Dalli]] — founder — Forum on Integration Affairs
   > "She also set up an LGBTIQ Consultative Council, a Consultative Council for Women's Rights and a Forum on Integration Affairs."
-- [Helena Dalli](../people/helena-dalli.md) — nominated_by — MLT
+- [[people/helena-dalli|Helena Dalli]] — nominated_by — MLT
   > "Following the 2019 European elections, Dalli was nominated by the government of Prime Minister Muscat as Malta's candidate for the subsequent European Commission."

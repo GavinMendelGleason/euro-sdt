@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Margaritis Schinas](../people/margaritis-schinas.md) — chair  
+- [[people/margaritis-schinas|Margaritis Schinas]] — chair  
   > "He also leads the Chair on Strategic Autonomy at the Comillas Pontifical University, in Madrid."
-  > Source: [Margaritis Schinas](../sources/wikipedia-margaritis-schinas.md) · grade A
+  > Source: [[sources/wikipedia-margaritis-schinas|Margaritis Schinas]] · grade A

@@ -15,5 +15,5 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (1)
 
-- [Viviane Reding](../people/viviane-reding.md) — member — European Movement International
+- [[people/viviane-reding|Viviane Reding]] — member — European Movement International
   > "Other activities Agfa-Gevaert, Member of the Supervisory Board Bertelsmann Stiftung, Member of the Board of Trustees Global Economic Symposium, Member of the Advisory Board Women in Parliaments Global Forum (WIP), Member of the Advisory Board UEFA Foundation for Children, Member of the Board of Trustees European Movement International, Member of the Honorary Council European Horizons, Advisor Ther […]"

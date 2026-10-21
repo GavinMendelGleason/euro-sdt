@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Jessika Roswall](../people/jessika-roswall.md)  
+- [[people/jessika-roswall|Jessika Roswall]]  
   > "At the same time, Roswall was a deputy in the municipal council of Enköping."
-  > Source: [Jessika Roswall](../sources/wikipedia-jessika-roswall.md) · grade B
+  > Source: [[sources/wikipedia-jessika-roswall|Jessika Roswall]] · grade B

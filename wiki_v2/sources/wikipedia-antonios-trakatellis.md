@@ -16,11 +16,11 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (4)
 
-- [Antonios Trakatellis](../people/antonios-trakatellis.md) — affiliated_with — New Democracy parliamentary group
+- [[people/antonios-trakatellis|Antonios Trakatellis]] — affiliated_with — New Democracy parliamentary group
   > "He has been leader of the ND parliamentary group since 2000."
-- [Antonios Trakatellis](../people/antonios-trakatellis.md) — affiliated_with — Aristotle University Of Thessaloniki
+- [[people/antonios-trakatellis|Antonios Trakatellis]] — affiliated_with — Aristotle University Of Thessaloniki
   > "&#91; 1 &#93; Trakatellis has been a lecturer at several Greek and American universities, and was Rector of the Aristotle University of Thessaloniki 1988-1994."
-- [Antonios Trakatellis](../people/antonios-trakatellis.md) — educated_at — Aristotle University Of Thessaloniki
+- [[people/antonios-trakatellis|Antonios Trakatellis]] — educated_at — Aristotle University Of Thessaloniki
   > "&#91; 1 &#93; Trakatellis has been a lecturer at several Greek and American universities, and was Rector of the Aristotle University of Thessaloniki 1988-1994."
-- [Antonios Trakatellis](../people/antonios-trakatellis.md) — member — New Democracy
+- [[people/antonios-trakatellis|Antonios Trakatellis]] — member — New Democracy
   > "He was elected on the New Democracy ticket and sits with the European People's Party group."

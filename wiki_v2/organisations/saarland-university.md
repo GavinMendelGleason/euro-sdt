@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Andrey Kovatchev](../people/andrey-kovatchev.md)  
+- [[people/andrey-kovatchev|Andrey Kovatchev]]  
   > "&#91; 2 &#93; He has a degree in Biology form Saarland University , Germany (1990–1995)."
-  > Source: [Andrey Kovatchev](../sources/wikipedia-andrey-kovatchev.md) · grade C
+  > Source: [[sources/wikipedia-andrey-kovatchev|Andrey Kovatchev]] · grade C

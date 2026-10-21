@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Mario Monti](../people/mario-monti.md)  
+- [[people/mario-monti|Mario Monti]]  
   > "Monti studied at the private Leo XIII High School and attended Bocconi University of Milan, where he obtained a degree in economics in 1965."
-  > Source: [Mario Monti](../sources/wikipedia-mario-monti.md) · grade A
+  > Source: [[sources/wikipedia-mario-monti|Mario Monti]] · grade A

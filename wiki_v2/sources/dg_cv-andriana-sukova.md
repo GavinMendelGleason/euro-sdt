@@ -15,7 +15,7 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (2)
 
-- [Andriana Sukova](../people/andriana-sukova.md) — educated_at — University Of National And World Economy
+- [[people/andriana-sukova|Andriana Sukova]] — educated_at — University Of National And World Economy
   > "➢ Bulgarian Academic qualifications ➢ 2001: Certificate _ Managing Successful Programmes – Certified Practitioner – Civil Service College, Sunningdale, UK ➢ 1998: Certificate _ Managing projects under PRINCE - Civil Service College, Sunningdale, UK ➢ 1996: Certificate – Course on project formulation and project preparation – FAO Rome ➢ 09/1994 – 10/1994: Certificate – Farm Produce Marketing in Jap […]"
-- [Andriana Sukova](../people/andriana-sukova.md) — studied_field — Economics
+- [[people/andriana-sukova|Andriana Sukova]] — studied_field — Economics
   > "➢ Bulgarian Academic qualifications ➢ 2001: Certificate _ Managing Successful Programmes – Certified Practitioner – Civil Service College, Sunningdale, UK ➢ 1998: Certificate _ Managing projects under PRINCE - Civil Service College, Sunningdale, UK ➢ 1996: Certificate – Course on project formulation and project preparation – FAO Rome ➢ 09/1994 – 10/1994: Certificate – Farm Produce Marketing in Jap […]"

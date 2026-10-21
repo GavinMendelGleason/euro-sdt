@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Alain Cadec](../people/alain-cadec.md)  
+- [[people/alain-cadec|Alain Cadec]]  
   > "He has also been general councillor for the Canton of Saint-Brieuc-Nord since 2001."
-  > Source: [Alain Cadec](../sources/wikipedia-alain-cadec.md) · grade B
+  > Source: [[sources/wikipedia-alain-cadec|Alain Cadec]] · grade B

@@ -18,12 +18,12 @@ Dg
 
 ## Education
 
-- [University of Warsaw](../organisations/university-of-warsaw.md)  
+- [[organisations/university-of-warsaw|University of Warsaw]]  
   > "➢ 2000 – 2002 Doctoral Studies in Management, University of Warsaw, Poland"
-  > Source: [Agnieszka Kazmierczak](../sources/dg_cv-agnieszka-kazmierczak.md) · grade A
+  > Source: [[sources/dg_cv-agnieszka-kazmierczak|Agnieszka Kazmierczak]] · grade A
 
 ## Position
 
 - Director-General → Internal Audit Service  
   > "➢ 01/2007 – 05/2014: Director for Horizontal Affairs and Audit in Agencies (IAS)"
-  > Source: [Agnieszka Kazmierczak](../sources/dg_cv-agnieszka-kazmierczak.md) · grade A
+  > Source: [[sources/dg_cv-agnieszka-kazmierczak|Agnieszka Kazmierczak]] · grade A

@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Fredrick Federley](../people/fredrick-federley.md) — chair  
+- [[people/fredrick-federley|Fredrick Federley]] — chair  
   > "From 2002 to 2007, he was the chairman of the youth league, Centre Party Youth (CUF)."
-  > Source: [Fredrick Federley](../sources/wikipedia-fredrick-federley.md) · grade A
+  > Source: [[sources/wikipedia-fredrick-federley|Fredrick Federley]] · grade A

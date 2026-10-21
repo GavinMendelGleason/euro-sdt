@@ -15,15 +15,15 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Alejo Vidal-Quadras](../people/alejo-vidal-quadras.md)  
+- [[people/alejo-vidal-quadras|Alejo Vidal-Quadras]]  
   > "Career [ edit ] Vidal-Quadras was elected on the People's Party ticket and sat with the European People's Party group."
-  > Source: [Alejo Vidal Quadras Roca](../sources/wikipedia-alejo-vidal-quadras-roca.md) · grade C
-- [Juan Ignacio Zoido](../people/juan-ignacio-zoido.md)  
+  > Source: [[sources/wikipedia-alejo-vidal-quadras-roca|Alejo Vidal Quadras Roca]] · grade C
+- [[people/juan-ignacio-zoido|Juan Ignacio Zoido]]  
   > "Juan Ignacio Zoido Álvarez ( pronounced &#91;xwaniɣ'naθjo 'θojðo&#93; ; born 21 January 1957) is a Spanish former judge and politician of the People's Party , who has been serving as Member of the European Parliament since 2019."
-  > Source: [Juan Ignacio Zoido](../sources/wikipedia-juan-ignacio-zoido.md) · grade A
-- [Marcelino Oreja](../people/marcelino-oreja.md) — party_member  
+  > Source: [[sources/wikipedia-juan-ignacio-zoido|Juan Ignacio Zoido]] · grade A
+- [[people/marcelino-oreja|Marcelino Oreja]] — party_member  
   > "Marcelino Oreja Aguirre, 1st Marquess of Oreja (born 13 February 1935) is a Spanish lawyer, diplomat and politician of the People's Party."
-  > Source: [Marcelino Oreja](../sources/wikipedia-marcelino-oreja.md) · grade B
-- [Miguel Arias Cañete](../people/miguel-arias-canete.md) — chair; employed_by  
+  > Source: [[sources/wikipedia-marcelino-oreja|Marcelino Oreja]] · grade B
+- [[people/miguel-arias-canete|Miguel Arias Cañete]] — chair; employed_by  
   > "During the same period, he ascended inside the People's Party to \"Economic Secretary\" and president of its Electoral Committee."
-  > Source: [Miguel Arias Canete](../sources/wikipedia-miguel-arias-canete.md) · grade A
+  > Source: [[sources/wikipedia-miguel-arias-canete|Miguel Arias Canete]] · grade A

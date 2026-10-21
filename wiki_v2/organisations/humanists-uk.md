@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Neil Kinnock](../people/neil-kinnock.md)  
+- [[people/neil-kinnock|Neil Kinnock]]  
   > "He is a Patron of Humanists UK."
-  > Source: [Neil Kinnock](../sources/wikipedia-neil-kinnock.md) · grade B
+  > Source: [[sources/wikipedia-neil-kinnock|Neil Kinnock]] · grade B

@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Frans Timmermans](../people/frans-timmermans.md)  
+- [[people/frans-timmermans|Frans Timmermans]]  
   > "Timmermans attended elementary school in Sint-Stevens-Woluwe, Belgium, before attending, from 1972 to 1975, the private Saint George's English School in Rome."
-  > Source: [Frans Timmermans](../sources/wikipedia-frans-timmermans.md) · grade A
+  > Source: [[sources/wikipedia-frans-timmermans|Frans Timmermans]] · grade A

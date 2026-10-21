@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Ritt Bjerregaard](../people/ritt-bjerregaard.md)  
+- [[people/ritt-bjerregaard|Ritt Bjerregaard]]  
   > "On 5 November 1975, Bjerregaard hired an external chancellor for Roskilde University."
-  > Source: [Ritt Bjerregaard](../sources/wikipedia-ritt-bjerregaard.md) · grade A
+  > Source: [[sources/wikipedia-ritt-bjerregaard|Ritt Bjerregaard]] · grade A

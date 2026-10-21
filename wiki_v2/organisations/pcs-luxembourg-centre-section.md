@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Astrid Lulling](../people/astrid-lulling.md) — chair  
+- [[people/astrid-lulling|Astrid Lulling]] — chair  
   > "Member and vice-chairwoman of the Luxembourg-Centre section of the PCS (1984–2004)."
-  > Source: [Astrid Lulling](../sources/wikipedia-astrid-lulling.md) · grade A
+  > Source: [[sources/wikipedia-astrid-lulling|Astrid Lulling]] · grade A

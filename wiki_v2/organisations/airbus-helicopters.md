@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Guillaume Faury](../people/guillaume-faury.md) — employed_by  
+- [[people/guillaume-faury|Guillaume Faury]] — employed_by  
   > "&#91; 6 &#93; In March 2013, Faury replaced Lutz Bertling as the CEO of Airbus Helicopters."
-  > Source: [Guillaume Faury](../sources/wikipedia-guillaume-faury.md) · grade A
+  > Source: [[sources/wikipedia-guillaume-faury|Guillaume Faury]] · grade A

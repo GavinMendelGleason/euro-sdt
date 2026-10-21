@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Elzbieta Bienkowska](../people/elzbieta-bienkowska.md)  
+- [[people/elzbieta-bienkowska|Elzbieta Bienkowska]]  
   > "Education Bieńkowska graduated from Jagiellonian University with a Master's degree in Oriental Philology in 1989."
-  > Source: [Elzbieta Bienkowska](../sources/wikipedia-elzbieta-bienkowska.md) · grade A
+  > Source: [[sources/wikipedia-elzbieta-bienkowska|Elzbieta Bienkowska]] · grade A

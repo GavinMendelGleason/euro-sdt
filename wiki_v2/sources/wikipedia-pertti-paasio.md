@@ -16,9 +16,9 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (3)
 
-- [Pertti Paasio](../people/pertti-paasio.md) — member — Social Democratic Party
+- [[people/pertti-paasio|Pertti Paasio]] — member — Social Democratic Party
   > "Finnish politician (1939–2020) Pertti Kullervo Paasio (2 April 1939 – 4 April 2020) was a Finnish politician from the Social Democratic Party ."
-- [Pertti Paasio](../people/pertti-paasio.md) — member — Municipal Council of Turku
+- [[people/pertti-paasio|Pertti Paasio]] — member — Municipal Council of Turku
   > "Paasio participated in the municipal politics of Turku and was elected into the municipal council in 1965."
-- [Pertti Paasio](../people/pertti-paasio.md) — member — Parliament of Finland
+- [[people/pertti-paasio|Pertti Paasio]] — member — Parliament of Finland
   > "Paasio became member of the Parliament in July 1975, however, he lost the seat in the 1979 parliamentary elections."

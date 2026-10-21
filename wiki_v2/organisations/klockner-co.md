@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Ulrich Grillo](../people/ulrich-grillo.md) — board_member  
+- [[people/ulrich-grillo|Ulrich Grillo]] — board_member  
   > "&#91; 7 &#93; He has served on the supervisory board of steel and metal trading company Klöckner &amp; Co ."
-  > Source: [Ulrich Grillo](../sources/wikipedia-ulrich-grillo.md) · grade A
+  > Source: [[sources/wikipedia-ulrich-grillo|Ulrich Grillo]] · grade A

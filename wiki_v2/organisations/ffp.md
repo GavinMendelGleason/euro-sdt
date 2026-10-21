@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Robert Peugeot](../people/robert-peugeot.md) — chair  
+- [[people/robert-peugeot|Robert Peugeot]] — chair  
   > "Chairman of the family investment company [ edit ] In February 2002, Robert Peugeot was appointed chairman and chief executive officer of FFP , a listed investment company and Peugeot SA 's largest shareholder (22.1%)."
-  > Source: [Robert Peugeot](../sources/wikipedia-robert-peugeot.md) · grade A
+  > Source: [[sources/wikipedia-robert-peugeot|Robert Peugeot]] · grade A

@@ -15,9 +15,9 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Flavio Cattaneo](../people/flavio-cattaneo.md) — employed_by  
+- [[people/flavio-cattaneo|Flavio Cattaneo]] — employed_by  
   > "Since 2023, he has been CEO and General Manager of Enel and vice chair of Endesa ."
-  > Source: [Flavio Cattaneo](../sources/wikipedia-flavio-cattaneo.md) · grade A
-- [Paolo Scaroni](../people/paolo-scaroni.md) — chair  
+  > Source: [[sources/wikipedia-flavio-cattaneo|Flavio Cattaneo]] · grade A
+- [[people/paolo-scaroni|Paolo Scaroni]] — chair  
   > "Italian businessman Paolo Scaroni (born 28 November 1946) is an Italian businessman and banker, currently the chairman of Enel and A.C."
-  > Source: [Paolo Scaroni](../sources/wikipedia-paolo-scaroni.md) · grade A
+  > Source: [[sources/wikipedia-paolo-scaroni|Paolo Scaroni]] · grade A

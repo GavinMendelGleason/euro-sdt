@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Richard Falbr](../people/richard-falbr.md)  
+- [[people/richard-falbr|Richard Falbr]]  
   > "He was the vice-chair of the Czech Social Democratic Party (ČSSD) for 1991–1992, and in 1996 was elected to the Czech Senate representing the city of Most ."
-  > Source: [Richard Falbr](../sources/wikipedia-richard-falbr.md) · grade B
+  > Source: [[sources/wikipedia-richard-falbr|Richard Falbr]] · grade B

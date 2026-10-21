@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Szabolcs Fazakas](../people/szabolcs-fazakas.md)  
+- [[people/szabolcs-fazakas|Szabolcs Fazakas]]  
   > "He was regional representative of the DaimlerChrysler automotive corporation between 1998 and 2002."
-  > Source: [Szabolcs Fazakas](../sources/wikipedia-szabolcs-fazakas.md) · grade B
+  > Source: [[sources/wikipedia-szabolcs-fazakas|Szabolcs Fazakas]] · grade B

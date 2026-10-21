@@ -83,6 +83,12 @@ def _safe(text: str) -> str:
     return re.sub(r"\s+", " ", str(text or "")).strip()
 
 
+def _wl(path: str, label: str) -> str:
+    """Obsidian wikilink, so the graph view recognises the edge."""
+    clean = _safe(label).replace("|", "-").replace("]", "")
+    return f"[[{path}|{clean}]]"
+
+
 def _quote(text: str, limit: int = 600) -> str:
     text = _safe(text)
     if len(text) > limit:
@@ -178,7 +184,7 @@ def person_page(db: sqlite3.Connection, entity_id: str) -> str:
                 kind_row = db.execute("SELECT kind FROM entity WHERE id=?", (best["object_id"],)).fetchone()
                 kind = kind_row["kind"] if kind_row else "organisation"
                 subdir = "commissions" if kind == "commission" else "organisations"
-                obj = f"[{key}](../{subdir}/{best['object_id']}.md)"
+                obj = _wl(f"{subdir}/{best['object_id']}", key)
             roles = _roles(group, key)
             role_text = "; ".join(roles)
             dates = ""
@@ -188,7 +194,7 @@ def person_page(db: sqlite3.Connection, entity_id: str) -> str:
             if best["quote"]:
                 lines.append(f'  > "{_quote(best["quote"])}"')
             if best["doc_id"]:
-                lines.append(f"  > Source: [{best['doc_title']}](../sources/{best['doc_id']}.md) · grade {best['evidence_grade']}")
+                lines.append(f"  > Source: {_wl('sources/' + best['doc_id'], best['doc_title'])} · grade {best['evidence_grade']}")
             lines.append("")
     return "\n".join(lines)
 
@@ -231,11 +237,11 @@ def organisation_page(db: sqlite3.Connection, entity_id: str) -> str:
             roles = _roles(group, ent["name"])
             role_text = "; ".join(roles)
             dates = f" ({best['start_date'] or ''}–{best['end_date'] or ''})".replace("–)", ")") if (best["start_date"] or best["end_date"]) else ""
-            lines.append(f"- [{name}](../people/{best['subject_id']}.md){(' — ' + role_text) if role_text else ''}{dates}  ")
+            lines.append(f"- {_wl('people/' + best['subject_id'], name)}{(' — ' + role_text) if role_text else ''}{dates}  ")
             if best["quote"]:
                 lines.append(f"  > \"{_quote(best['quote'], 400)}\"")
             if best["doc_id"]:
-                lines.append(f"  > Source: [{best['doc_title']}](../sources/{best['doc_id']}.md) · grade {best['evidence_grade']}")
+                lines.append(f"  > Source: {_wl('sources/' + best['doc_id'], best['doc_title'])} · grade {best['evidence_grade']}")
         lines.append("")
     return "\n".join(lines)
 
@@ -272,7 +278,7 @@ def source_page(db: sqlite3.Connection, doc_id: str) -> str:
     lines.append("")
     for row in rows:
         obj = row["object_name"] or ""
-        lines.append(f"- [{row['subject_name']}](../people/{row['subject_id']}.md) — {row['predicate']} — {obj}")
+        lines.append(f"- {_wl('people/' + row['subject_id'], row['subject_name'])} — {row['predicate']} — {obj}")
         if row["quote"]:
             lines.append(f"  > \"{_quote(row['quote'], 400)}\"")
     return "\n".join(lines)
@@ -287,11 +293,11 @@ def commission_page(db: sqlite3.Connection, entity_id: str) -> str:
                        "tags": ["commission", "verified"], "generated": now()[:10]})
     lines = [fm, f"# {ent['name']}", "", f"*Verified members: {len({r['subject_id'] for r in rows})}*", ""]
     for row in rows:
-        lines.append(f"- [{row['subject_name']}](../people/{row['subject_id']}.md)")
+        lines.append(f"- {_wl('people/' + row['subject_id'], row['subject_name'])}")
         if row["quote"]:
             lines.append(f"  > \"{_quote(row['quote'], 400)}\"")
         if row["doc_id"]:
-            lines.append(f"  > Source: [{row['doc_title']}](../sources/{row['doc_id']}.md) · grade {row['evidence_grade']}")
+            lines.append(f"  > Source: {_wl('sources/' + row['doc_id'], row['doc_title'])} · grade {row['evidence_grade']}")
     return "\n".join(lines)
 
 
@@ -344,6 +350,7 @@ def generate_wiki(db: sqlite3.Connection, output_dir: Path = WIKI_V2_DIR) -> dic
             counts["sources"] += 1
 
     _index(db, output_dir)
+    _start_here(output_dir)
     _citations(db, output_dir)
     _stats(db, output_dir)
     return dict(counts)
@@ -357,9 +364,49 @@ def _index(db: sqlite3.Connection, output_dir: Path) -> None:
         + "\n\n# Euro-SDT v2\n\n"
         + "Verified-only citation-anchored elite graph.\n\n"
         + f"Assertions: {summary}\n\n"
-        + "- [Statistics](stats.md)\n- [Citations](citations.md)\n",
+        + "- [[stats|Statistics]]\n- [[citations|Citations]]\n",
         encoding="utf-8",
     )
+
+
+def _start_here(output_dir: Path) -> None:
+    text = """---
+id: start-here
+title: Start Here
+type: index
+tags: [index]
+---
+
+# Start Here
+
+This vault is the verified-only Euro-SDT wiki.
+
+## Open the graph
+
+Press **Ctrl+G** (or **Cmd+G** on macOS), or open the command palette and run
+**Graph view: Open graph view**. Close any Canvas tab first.
+
+If the graph looks empty:
+
+1. Open the graph view's filter panel.
+2. Clear the search box.
+3. Turn **Orphans** on.
+4. Make sure the vault is `wiki_v2`, not a subfolder or a new vault.
+
+The Obsidian graph is a **page-link** view. The typed person–organisation graph
+with edge classes, grades, quotes, and source locators is in `graph/`:
+
+- `graph/graph.graphml` — Gephi / Cytoscape
+- `graph/edges.csv` — analysis
+- `graph/graph_overview.png` — static overview
+
+## Browse
+
+- [[index|Index]]
+- [[stats|Statistics]]
+- [[citations|Citations]]
+"""
+    (output_dir / "Start Here.md").write_text(text, encoding="utf-8")
 
 
 def _citations(db: sqlite3.Connection, output_dir: Path) -> None:
@@ -373,7 +420,7 @@ def _citations(db: sqlite3.Connection, output_dir: Path) -> None:
     lines = [_frontmatter({"id": "citations", "title": "Citations", "type": "index", "tags": ["citations"]}),
              "# Citations", "", "| Source | Kind | Verified claims |", "|---|---|---:|"]
     for row in rows:
-        lines.append(f"| [{row['title']}](sources/{row['id']}.md) | {row['kind']} | {row['claims']} |")
+        lines.append(f"| {_wl('sources/' + row['id'], row['title'])} | {row['kind']} | {row['claims']} |")
     (output_dir / "citations.md").write_text("\n".join(lines), encoding="utf-8")
 
 

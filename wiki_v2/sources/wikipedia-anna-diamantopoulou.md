@@ -16,13 +16,13 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (5)
 
-- [Anna Diamantopoulou](../people/anna-diamantopoulou.md) — chair — DIKTIO
+- [[people/anna-diamantopoulou|Anna Diamantopoulou]] — chair — DIKTIO
   > "Anna Diamantopoulou (Greek: Άννα Διαμαντοπούλου; born 26 February 1959) is a Greek civil engineer and politician of the Panhellenic Socialist Movement (PASOK) who currently serves as president of the Athens-based think tank \"DIKTIO\" Network for Reform in Greece and Europe."
-- [Anna Diamantopoulou](../people/anna-diamantopoulou.md) — from_country — Greece
+- [[people/anna-diamantopoulou|Anna Diamantopoulou]] — from_country — Greece
   > "Anna Diamantopoulou (Greek: Άννα Διαμαντοπούλου; born 26 February 1959) is a Greek civil engineer and politician of the Panhellenic Socialist Movement (PASOK) who currently serves as president of the Athens-based think tank \"DIKTIO\" Network for Reform in Greece and Europe."
-- [Anna Diamantopoulou](../people/anna-diamantopoulou.md) — held_portfolio — Employment and Social Affairs
+- [[people/anna-diamantopoulou|Anna Diamantopoulou]] — held_portfolio — Employment and Social Affairs
   > "She also served as European Commissioner for Employment, Social Affairs and Equal Opportunities in the Prodi Commission, a post she held between 1999 and 2004."
-- [Anna Diamantopoulou](../people/anna-diamantopoulou.md) — member — Panhellenic Socialist Movement
+- [[people/anna-diamantopoulou|Anna Diamantopoulou]] — member — Panhellenic Socialist Movement
   > "Anna Diamantopoulou (Greek: Άννα Διαμαντοπούλου; born 26 February 1959) is a Greek civil engineer and politician of the Panhellenic Socialist Movement (PASOK) who currently serves as president of the Athens-based think tank \"DIKTIO\" Network for Reform in Greece and Europe."
-- [Anna Diamantopoulou](../people/anna-diamantopoulou.md) — served_on_commission — Prodi Commission
+- [[people/anna-diamantopoulou|Anna Diamantopoulou]] — served_on_commission — Prodi Commission
   > "She also served as European Commissioner for Employment, Social Affairs and Equal Opportunities in the Prodi Commission, a post she held between 1999 and 2004."

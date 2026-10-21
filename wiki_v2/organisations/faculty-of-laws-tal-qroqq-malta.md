@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Colin Scicluna](../people/colin-scicluna.md)  
+- [[people/colin-scicluna|Colin Scicluna]]  
   > "93: Doctor of Laws, Faculty of Laws – Tal-Qroqq, Malta ¾ 1987 – 1"
-  > Source: [Colin Scicluna](../sources/dg_cv-colin-scicluna.md) · grade A
+  > Source: [[sources/dg_cv-colin-scicluna|Colin Scicluna]] · grade A

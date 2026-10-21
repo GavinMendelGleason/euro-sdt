@@ -18,18 +18,18 @@ Mep
 
 ## Education
 
-- [inalco](../organisations/inalco.md)  
+- [[organisations/inalco|inalco]]  
   > "In 1971–1973, he was granted degrees in Japanese and Malaysian - Indonesian by the INALCO ."
-  > Source: [Bruno Gollnisch](../sources/wikipedia-bruno-gollnisch.md) · grade B
+  > Source: [[sources/wikipedia-bruno-gollnisch|Bruno Gollnisch]] · grade B
 
-- [institut-d-etudes-politiques-de-paris-sciences-po](../organisations/institut-d-etudes-politiques-de-paris-sciences-po.md)  
+- [[organisations/institut-d-etudes-politiques-de-paris-sciences-po|institut-d-etudes-politiques-de-paris-sciences-po]]  
   > "In 1973, he was awarded a degree in political sciences at Institut d'Etudes Politiques de Paris (Sciences Po) ."
-  > Source: [Bruno Gollnisch](../sources/wikipedia-bruno-gollnisch.md) · grade C
+  > Source: [[sources/wikipedia-bruno-gollnisch|Bruno Gollnisch]] · grade C
 
-- [kyoto-university](../organisations/kyoto-university.md)  
+- [[organisations/kyoto-university|kyoto-university]]  
   > "In 1974, he began doctoral studies in Law at Kyoto University (Japan)."
-  > Source: [Bruno Gollnisch](../sources/wikipedia-bruno-gollnisch.md) · grade C
+  > Source: [[sources/wikipedia-bruno-gollnisch|Bruno Gollnisch]] · grade C
 
-- [panth-on-assas-university](../organisations/panth-on-assas-university.md)  
+- [[organisations/panth-on-assas-university|panth-on-assas-university]]  
   > "In 1978, he obtained a doctorate in law at Panthéon-Assas University ."
-  > Source: [Bruno Gollnisch](../sources/wikipedia-bruno-gollnisch.md) · grade C
+  > Source: [[sources/wikipedia-bruno-gollnisch|Bruno Gollnisch]] · grade C

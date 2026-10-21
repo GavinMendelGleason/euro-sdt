@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Alain Cadec](../people/alain-cadec.md) — board_member  
+- [[people/alain-cadec|Alain Cadec]] — board_member  
   > "&#91; 4 &#93; Other activities [ edit ] Robert Schuman Foundation , Member of the Board of Directors &#91; 5 &#93; References [ edit ] ^ \"Your MEPs&#160;: Alain CADEC\" ."
-  > Source: [Alain Cadec](../sources/wikipedia-alain-cadec.md) · grade A
+  > Source: [[sources/wikipedia-alain-cadec|Alain Cadec]] · grade A

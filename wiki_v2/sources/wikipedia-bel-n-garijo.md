@@ -16,5 +16,5 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (1)
 
-- [Belén Garijo](../people/belen-garijo.md) — educated_at — University of Alcalá
+- [[people/belen-garijo|Belén Garijo]] — educated_at — University of Alcalá
   > "&#91; 3 &#93; She graduated from the University of Alcalá in 1983 with a degree in medicine."

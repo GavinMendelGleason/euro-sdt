@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [László Andor](../people/laszlo-andor.md) — employed_by  
+- [[people/laszlo-andor|László Andor]] — employed_by  
   > "Since 1993, he has been editor of a progressive (leftist) Hungarian quarterly social science journal, Eszmélet (Consciousness)."
-  > Source: [Laszlo Andor](../sources/wikipedia-laszlo-andor.md) · grade B
+  > Source: [[sources/wikipedia-laszlo-andor|Laszlo Andor]] · grade B

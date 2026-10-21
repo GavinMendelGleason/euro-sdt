@@ -18,16 +18,16 @@ Mep
 
 ## Membership
 
-- [European Liberal, Democrat and Reform Party](../organisations/european-liberal-democrat-and-reform-party.md)  
+- [[organisations/european-liberal-democrat-and-reform-party|European Liberal, Democrat and Reform Party]]  
   > "&#91; 6 &#93; Cars was elected to the European Parliament in 1995 and served there as part of the European Liberal, Democrat and Reform Party until 1999."
-  > Source: [Hadar Cars](../sources/wikipedia-hadar-cars.md) · grade A
+  > Source: [[sources/wikipedia-hadar-cars|Hadar Cars]] · grade A
 
-- [Liberals](../organisations/liberals.md)  
+- [[organisations/liberals|Liberals]]  
   > "&#91; 2 &#93; Cars is a member of the Liberals ."
-  > Source: [Hadar Cars](../sources/wikipedia-hadar-cars.md) · grade A
+  > Source: [[sources/wikipedia-hadar-cars|Hadar Cars]] · grade A
 
 ## Affiliation
 
-- [Nordic Liberal Student Council](../organisations/nordic-liberal-student-council.md)  
+- [[organisations/nordic-liberal-student-council|Nordic Liberal Student Council]]  
   > "&#91; 1 &#93; He headed the Nordic Liberal Student Council."
-  > Source: [Hadar Cars](../sources/wikipedia-hadar-cars.md) · grade A
+  > Source: [[sources/wikipedia-hadar-cars|Hadar Cars]] · grade A

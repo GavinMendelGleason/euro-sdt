@@ -16,9 +16,9 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (3)
 
-- [Frank Appel](../people/frank-appel.md) — educated_at — University of Munich
+- [[people/frank-appel|Frank Appel]] — educated_at — University of Munich
   > "== Education == 1989 - MSc in chemistry, University of Munich, Munich, Germany."
-- [Frank Appel](../people/frank-appel.md) — educated_at — Swiss Federal Institute of Technology (ETH)
+- [[people/frank-appel|Frank Appel]] — educated_at — Swiss Federal Institute of Technology (ETH)
   > "1993 - PhD in neurobiology at Swiss Federal Institute of Technology (ETH), Zurich, Switzerland."
-- [Frank Appel](../people/frank-appel.md) — employed_by — Deutsche Telekom
+- [[people/frank-appel|Frank Appel]] — employed_by — Deutsche Telekom
   > "=== Corporate boards === RWE, Chair of the Supervisory Board (since 2025) Deutsche Telekom AG, Member and Chair of the Supervisory Board (since 2022) Fresenius, Member of the Supervisory Board (since 2021) DHL Global Forwarding, Chair of the Supervisory Board Adidas, Member of the supervisory board (2018–2019) Deutsche Postbank, Chair of the Supervisory Board (2008–2011)"

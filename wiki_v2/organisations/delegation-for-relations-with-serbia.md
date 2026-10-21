@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Eugen Tomac](../people/eugen-tomac.md)  
+- [[people/eugen-tomac|Eugen Tomac]]  
   > "and the Delegation for Relations with South Caucasus."
-  > Source: [Eugen Tomac](../sources/wikipedia-eugen-tomac.md) · grade A
+  > Source: [[sources/wikipedia-eugen-tomac|Eugen Tomac]] · grade A

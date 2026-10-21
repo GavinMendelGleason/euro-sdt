@@ -15,9 +15,9 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (3)
 
-- [Kerstin Jorna](../people/kerstin-jorna.md) — held_position — Director-General → Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs
+- [[people/kerstin-jorna|Kerstin Jorna]] — held_position — Director-General → Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs
   > " 1996 – 1998: Assistant to the Director-General – DG MARKT."
-- [Kerstin Jorna](../people/kerstin-jorna.md) — studied_field — Law
+- [[people/kerstin-jorna|Kerstin Jorna]] — studied_field — Law
   > " 1986: Diploma of Advanced European Studies, College of Bruges ( Law)"
-- [Kerstin Jorna](../people/kerstin-jorna.md) — studied_field — European Studies
+- [[people/kerstin-jorna|Kerstin Jorna]] — studied_field — European Studies
   > " 1986: Diploma of Advanced European Studies, College of Bruges ( Law)"

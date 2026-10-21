@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Gert Jan Koopman](../people/gert-jan-koopman.md)  
+- [[people/gert-jan-koopman|Gert Jan Koopman]]  
   > "Professional experience before joining the European Institutions:  05/1987: Member of the CPB Netherlands Bureau for Economic Policy Advice."
-  > Source: [Gert Jan Koopman](../sources/dg_cv-gert-jan-koopman.md) · grade A
+  > Source: [[sources/dg_cv-gert-jan-koopman|Gert Jan Koopman]] · grade A

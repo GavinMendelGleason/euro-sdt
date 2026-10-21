@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Fredrick Federley](../people/fredrick-federley.md)  
+- [[people/fredrick-federley|Fredrick Federley]]  
   > "He later went on to study legal - and political science at Örebro University ."
-  > Source: [Fredrick Federley](../sources/wikipedia-fredrick-federley.md) · grade C
+  > Source: [[sources/wikipedia-fredrick-federley|Fredrick Federley]] · grade C

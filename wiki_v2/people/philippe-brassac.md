@@ -18,12 +18,12 @@ Corporate Elite
 
 ## Education
 
-- [Ecole Nationale de la Statistique et de l'Administration Economique](../organisations/ecole-nationale-de-la-statistique-et-de-l-administration-economique.md)  
+- [[organisations/ecole-nationale-de-la-statistique-et-de-l-administration-economique|Ecole Nationale de la Statistique et de l'Administration Economique]]  
   > "== Early life == A graduate of the Ecole Nationale de la Statistique et de l'Administration Economique in 1981, he holds an advanced diploma in mathematics."
-  > Source: [Corp Philippe Brassac](../sources/wikipedia-corp-philippe-brassac.md) · grade A
+  > Source: [[sources/wikipedia-corp-philippe-brassac|Corp Philippe Brassac]] · grade A
 
 ## Employment
 
-- [Crédit Agricole](../organisations/credit-agricole.md)  
+- [[organisations/credit-agricole|Crédit Agricole]]  
   > "Philippe Brassac (born August 1959) is a French business executive, currently the chief executive of Crédit Agricole, having succeeded Jean-Paul Chifflet to the role in May 2015."
-  > Source: [Corp Philippe Brassac](../sources/wikipedia-corp-philippe-brassac.md) · grade A
+  > Source: [[sources/wikipedia-corp-philippe-brassac|Corp Philippe Brassac]] · grade A

@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Jean-Claude Juncker](../people/jean-claude-juncker.md)  
+- [[people/jean-claude-juncker|Jean-Claude Juncker]]  
   > "In 2009, he denounced the lifting of the excommunication of controversial Bishop Richard Williamson, a member of the Society of Saint Pius X."
-  > Source: [Jean Claude Juncker](../sources/wikipedia-jean-claude-juncker.md) · grade A
+  > Source: [[sources/wikipedia-jean-claude-juncker|Jean Claude Juncker]] · grade A

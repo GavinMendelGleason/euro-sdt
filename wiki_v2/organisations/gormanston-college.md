@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Charlie McCreevy](../people/charlie-mccreevy.md)  
+- [[people/charlie-mccreevy|Charlie McCreevy]]  
   > "Born in Sallins, County Kildare, McCreevy was educated locally at Naas by the Congregation of Christian Brothers at Naas C.B.S., and later at Gormanston College."
-  > Source: [Charlie Mccreevy](../sources/wikipedia-charlie-mccreevy.md) · grade A
+  > Source: [[sources/wikipedia-charlie-mccreevy|Charlie Mccreevy]] · grade A

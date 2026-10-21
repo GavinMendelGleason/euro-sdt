@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Hans van den Broek](../people/hans-van-den-broek.md) — employed_by  
+- [[people/hans-van-den-broek|Hans van den Broek]] — employed_by  
   > "Following the cabinet formation of 1989 Van den Broek remained as Minister of Foreign Affairs in the Cabinet Lubbers III, taking office on 7 November 1989."
-  > Source: [Hans Van Den Broek](../sources/wikipedia-hans-van-den-broek.md) · grade C
+  > Source: [[sources/wikipedia-hans-van-den-broek|Hans Van Den Broek]] · grade C

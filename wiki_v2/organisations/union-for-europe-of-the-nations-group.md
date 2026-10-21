@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Cristiana Muscardini](../people/cristiana-muscardini.md) — chair  
+- [[people/cristiana-muscardini|Cristiana Muscardini]] — chair  
   > "From 2000 to 2004 she was Vice-Chairwoman of the Union for Europe of the Nations Group and from 2001 to 2009 General Secretary of the Alliance for Europe of the Nations."
-  > Source: [Cristiana Muscardini](../sources/wikipedia-cristiana-muscardini.md) · grade A
+  > Source: [[sources/wikipedia-cristiana-muscardini|Cristiana Muscardini]] · grade A

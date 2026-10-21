@@ -15,9 +15,9 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Henna Virkkunen](../people/henna-virkkunen.md)  
+- [[people/henna-virkkunen|Henna Virkkunen]]  
   > "She studied at the University of Jyväskylä, earning a Master of Philosophy degree in 1999, specialising in journalism and communication, and later a Licentiate in Philosophy majoring in communication in 2007."
-  > Source: [Henna Virkkunen](../sources/wikipedia-henna-virkkunen.md) · grade A
-- [Jutta Urpilainen](../people/jutta-urpilainen.md)  
+  > Source: [[sources/wikipedia-henna-virkkunen|Henna Virkkunen]] · grade A
+- [[people/jutta-urpilainen|Jutta Urpilainen]]  
   > "She studied at the University of Jyväskylä, where she graduated with a Master's of Education in 2002."
-  > Source: [Jutta Urpilainen](../sources/wikipedia-jutta-urpilainen.md) · grade A
+  > Source: [[sources/wikipedia-jutta-urpilainen|Jutta Urpilainen]] · grade A

@@ -15,15 +15,15 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (6)
 
-- [Connie Hedegaard](../people/connie-hedegaard.md) — advisory_board — European Policy Centre
+- [[people/connie-hedegaard|Connie Hedegaard]] — advisory_board — European Policy Centre
   > "Other activities International organizations European Investment Bank (EIB), Member of the Climate and Environment Advisory Council (since 2021) Corporate boards Danfoss Group, Member of the Board Volkswagen, Member of the Sustainability Council Nordex, Member of the Supervisory Board BBVA, Member of the Board Non-profit organizations Africa Europe Foundation (AEF), Member of the High-Level Group […]"
-- [Connie Hedegaard](../people/connie-hedegaard.md) — board_member — Friends of Europe
+- [[people/connie-hedegaard|Connie Hedegaard]] — board_member — Friends of Europe
   > "Other activities International organizations European Investment Bank (EIB), Member of the Climate and Environment Advisory Council (since 2021) Corporate boards Danfoss Group, Member of the Board Volkswagen, Member of the Sustainability Council Nordex, Member of the Supervisory Board BBVA, Member of the Board Non-profit organizations Africa Europe Foundation (AEF), Member of the High-Level Group […]"
-- [Connie Hedegaard](../people/connie-hedegaard.md) — board_member — Aarhus University
+- [[people/connie-hedegaard|Connie Hedegaard]] — board_member — Aarhus University
   > "Other activities International organizations European Investment Bank (EIB), Member of the Climate and Environment Advisory Council (since 2021) Corporate boards Danfoss Group, Member of the Board Volkswagen, Member of the Sustainability Council Nordex, Member of the Supervisory Board BBVA, Member of the Board Non-profit organizations Africa Europe Foundation (AEF), Member of the High-Level Group […]"
-- [Connie Hedegaard](../people/connie-hedegaard.md) — member — Bilderberg Group
+- [[people/connie-hedegaard|Connie Hedegaard]] — member — Bilderberg Group
   > "Connie Hedegaard → bilderberg (from Wikipedia/Wikidata)"
-- [Connie Hedegaard](../people/connie-hedegaard.md) — member — Africa Europe Foundation (AEF), High-Level Group of Personalities on Africa-Europe Relations
+- [[people/connie-hedegaard|Connie Hedegaard]] — member — Africa Europe Foundation (AEF), High-Level Group of Personalities on Africa-Europe Relations
   > "Other activities International organizations European Investment Bank (EIB), Member of the Climate and Environment Advisory Council (since 2021) Corporate boards Danfoss Group, Member of the Board Volkswagen, Member of the Sustainability Council Nordex, Member of the Supervisory Board BBVA, Member of the Board Non-profit organizations Africa Europe Foundation (AEF), Member of the High-Level Group […]"
-- [Connie Hedegaard](../people/connie-hedegaard.md) — member — Bilderberg Group
+- [[people/connie-hedegaard|Connie Hedegaard]] — member — Bilderberg Group
   > "Other activities International organizations European Investment Bank (EIB), Member of the Climate and Environment Advisory Council (since 2021) Corporate boards Danfoss Group, Member of the Board Volkswagen, Member of the Sustainability Council Nordex, Member of the Supervisory Board BBVA, Member of the Board Non-profit organizations Africa Europe Foundation (AEF), Member of the High-Level Group […]"

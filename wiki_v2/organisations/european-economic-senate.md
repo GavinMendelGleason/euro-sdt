@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Ingo Friedrich](../people/ingo-friedrich.md) — chair  
+- [[people/ingo-friedrich|Ingo Friedrich]] — chair  
   > "Since September 2009 he has been President of the European Economic Senate."
-  > Source: [Ingo Friedrich](../sources/wikipedia-ingo-friedrich.md) · grade A
+  > Source: [[sources/wikipedia-ingo-friedrich|Ingo Friedrich]] · grade A

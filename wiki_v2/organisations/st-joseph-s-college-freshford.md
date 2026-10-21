@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Phil Hogan](../people/phil-hogan.md)  
+- [[people/phil-hogan|Phil Hogan]]  
   > "He was educated locally in St. Joseph's College, Freshford, and St. Kieran's College, Kilkenny."
-  > Source: [Phil Hogan](../sources/wikipedia-phil-hogan.md) · grade A
+  > Source: [[sources/wikipedia-phil-hogan|Phil Hogan]] · grade A

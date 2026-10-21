@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Yvan Blot](../people/yvan-blot.md)  
+- [[people/yvan-blot|Yvan Blot]]  
   > "^ Blot, Ivan; ENA; Économiques, Docteur Ès Sciences; L’administration, Inspecteur Général Honoraire De; européen, ancien député du Pas-de-Calais et ancien député; directe&#160;», auteur de nombreux ouvrages dont «&#160;La démocratie; pouvoir&#160;», «&#160;L’oligarchie au; Poutine, «&#160;La Russie de; Valdaï, «&#160;L’homme défiguré&#160;» Il est membre de l’Académie catholique de France Il est a […]"
-  > Source: [Yvan Blot](../sources/wikipedia-yvan-blot.md) · grade B
+  > Source: [[sources/wikipedia-yvan-blot|Yvan Blot]] · grade B

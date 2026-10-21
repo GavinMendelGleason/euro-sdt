@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Henna Virkkunen](../people/henna-virkkunen.md)  
+- [[people/henna-virkkunen|Henna Virkkunen]]  
   > "Before her ministerial appointments, Virkkunen served as a member of the Education and Culture Committee and the Environment Committee in the Parliament."
-  > Source: [Henna Virkkunen](../sources/wikipedia-henna-virkkunen.md) · grade A
+  > Source: [[sources/wikipedia-henna-virkkunen|Henna Virkkunen]] · grade A

@@ -14,9 +14,9 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Dalia Grybauskaitė](../people/dalia-grybauskaite.md) — party_member  
+- [[people/dalia-grybauskaite|Dalia Grybauskaitė]] — party_member  
   > "From 1983 to December 1989, she was a member of the Communist Party of the Soviet Union and after the Communist Party of Lithuania broke away from the CPSU in December 1989, she was member of the CPL until June 1990."
-  > Source: [Dalia Grybauskaite](../sources/wikipedia-dalia-grybauskaite.md) · grade A
-- [Siim Kallas](../people/siim-kallas.md) — party_member  
+  > Source: [[sources/wikipedia-dalia-grybauskaite|Dalia Grybauskaite]] · grade A
+- [[people/siim-kallas|Siim Kallas]] — party_member  
   > "From 1972 to 1990 Kallas was a member of the Communist Party of the Soviet Union."
-  > Source: [Siim Kallas](../sources/wikipedia-siim-kallas.md) · grade A
+  > Source: [[sources/wikipedia-siim-kallas|Siim Kallas]] · grade A

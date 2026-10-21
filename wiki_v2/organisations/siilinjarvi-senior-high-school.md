@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Jyrki Katainen](../people/jyrki-katainen.md)  
+- [[people/jyrki-katainen|Jyrki Katainen]]  
   > "He graduated from Siilinjärvi Senior High School in 1990."
-  > Source: [Jyrki Katainen](../sources/wikipedia-jyrki-katainen.md) · grade A
+  > Source: [[sources/wikipedia-jyrki-katainen|Jyrki Katainen]] · grade A

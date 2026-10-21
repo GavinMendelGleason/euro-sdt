@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Pascal Lamy](../people/pascal-lamy.md)  
+- [[people/pascal-lamy|Pascal Lamy]]  
   > "Lamy studied at Sciences Po, HEC Paris and the École nationale d'administration, graduating second in his year of those specialising in economics."
-  > Source: [Pascal Lamy](../sources/wikipedia-pascal-lamy.md) · grade C
+  > Source: [[sources/wikipedia-pascal-lamy|Pascal Lamy]] · grade C

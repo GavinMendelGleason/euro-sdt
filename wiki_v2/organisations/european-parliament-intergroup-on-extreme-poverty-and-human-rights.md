@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [David Sassoli](../people/david-sassoli.md)  
+- [[people/david-sassoli|David Sassoli]]  
   > "&#91; 17 &#93; &#91; 18 &#93; In addition to his committee assignments, he was a member of the European Parliament Intergroup on Extreme Poverty and Human Rights."
-  > Source: [David Sassoli](../sources/wikipedia-david-sassoli.md) · grade A
+  > Source: [[sources/wikipedia-david-sassoli|David Sassoli]] · grade A

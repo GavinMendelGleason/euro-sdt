@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Kristalina Georgieva](../people/kristalina-georgieva.md) — chair  
+- [[people/kristalina-georgieva|Kristalina Georgieva]] — chair  
   > "Amid the pandemic, she co-founded and co-chaired the Multilateral Leaders Task Force on COVID-19 Vaccines, Therapeutics, and Diagnostics for Developing Countries."
-  > Source: [Kristalina Georgieva](../sources/wikipedia-kristalina-georgieva.md) · grade C
+  > Source: [[sources/wikipedia-kristalina-georgieva|Kristalina Georgieva]] · grade C

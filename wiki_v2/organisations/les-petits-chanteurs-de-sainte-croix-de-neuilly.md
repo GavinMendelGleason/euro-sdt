@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Jean-Dominique Senard](../people/jean-dominique-senard.md)  
+- [[people/jean-dominique-senard|Jean-Dominique Senard]]  
   > "&#91; 3 &#93; As a child, Jean-Dominique Senard joined the choir known as Les Petits Chanteurs de Sainte-Croix de Neuilly , &#91; 4 &#93; where he had a classical music training under the direction of Louis Prudhomme Senard."
-  > Source: [Jean Dominique Senard](../sources/wikipedia-jean-dominique-senard.md) · grade A
+  > Source: [[sources/wikipedia-jean-dominique-senard|Jean Dominique Senard]] · grade A

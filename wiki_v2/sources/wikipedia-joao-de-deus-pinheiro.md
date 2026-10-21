@@ -16,9 +16,9 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (3)
 
-- [João de Deus Pinheiro](../people/joao-de-deus-pinheiro.md) — educated_at — Instituto Superior Técnico
+- [[people/joao-de-deus-pinheiro|João de Deus Pinheiro]] — educated_at — Instituto Superior Técnico
   > "João de Deus Pinheiro has a licentiate degree in chemical-industrial engineering by the Instituto Superior Técnico (1970)"
-- [João de Deus Pinheiro](../people/joao-de-deus-pinheiro.md) — educated_at — University Of Birmingham
+- [[people/joao-de-deus-pinheiro|João de Deus Pinheiro]] — educated_at — University Of Birmingham
   > "and a doctorate degree in the same field by the University of Birmingham (1976)"
-- [João de Deus Pinheiro](../people/joao-de-deus-pinheiro.md) — member — European People's Party - European Democrats
+- [[people/joao-de-deus-pinheiro|João de Deus Pinheiro]] — member — European People's Party - European Democrats
   > "João de Deus Rogado Salvador Pinheiro, GCC GCIH (born 11 July 1945), is a Portuguese politician and former Member of the European Parliament for the Social Democratic Party–People's Party coalition; part of the European People's Party–European Democrats group."

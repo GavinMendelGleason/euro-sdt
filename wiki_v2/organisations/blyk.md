@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Pekka Ala-Pietilä](../people/pekka-ala-pietila.md) — founder  
+- [[people/pekka-ala-pietila|Pekka Ala-Pietilä]] — founder  
   > "( August 2009 ) ( Learn how and when to remove this message ) Pekka Ala-Pietilä (born 13 January 1957) is CEO and co-founder of Blyk ."
-  > Source: [Pekka Ala Pietil](../sources/wikipedia-pekka-ala-pietil.md) · grade C
+  > Source: [[sources/wikipedia-pekka-ala-pietil|Pekka Ala Pietil]] · grade C

@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Andrea Orcel](../people/andrea-orcel.md)  
+- [[people/andrea-orcel|Andrea Orcel]]  
   > "&#91; 15 &#93; A year later, he left the firm to work as a consultant at Boston Consulting Group from 1989 to 1992 in their strategy consulting practice in Paris."
-  > Source: [Andrea Orcel](../sources/wikipedia-andrea-orcel.md) · grade B
+  > Source: [[sources/wikipedia-andrea-orcel|Andrea Orcel]] · grade B

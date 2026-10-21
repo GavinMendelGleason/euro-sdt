@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Hadja Lahbib](../people/hadja-lahbib.md) — employed_by  
+- [[people/hadja-lahbib|Hadja Lahbib]] — employed_by  
   > "Lahbib graduated in journalism from the Free University of Brussels and worked for a long time for the Belgian Radio-Television of the French Community (RTBF)."
-  > Source: [Hadja Lahbib](../sources/wikipedia-hadja-lahbib.md) · grade A
+  > Source: [[sources/wikipedia-hadja-lahbib|Hadja Lahbib]] · grade A

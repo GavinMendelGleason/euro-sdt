@@ -18,12 +18,12 @@ Mep
 
 ## Education
 
-- [University Of Deusto](../organisations/university-of-deusto.md)  
+- [[organisations/university-of-deusto|University Of Deusto]]  
   > "Gil-Robles, in 1953, returned to Spain to study Law at the University of Deusto , from which he graduated with an Extraordinary Prize."
-  > Source: [Jos Mara Gil Robles](../sources/wikipedia-jos-mara-gil-robles.md) · grade C
+  > Source: [[sources/wikipedia-jos-mara-gil-robles|Jos Mara Gil Robles]] · grade C
 
 ## Chair / president
 
-- [Jean Monnet Foundation for Europe](../organisations/jean-monnet-foundation-for-europe.md) — chair  
+- [[organisations/jean-monnet-foundation-for-europe|Jean Monnet Foundation for Europe]] — chair  
   > "&#91; 3 &#93; Gil-Robles was president of the Jean Monnet Foundation for Europe between 2009 and 2014."
-  > Source: [Jos Mara Gil Robles](../sources/wikipedia-jos-mara-gil-robles.md) · grade C
+  > Source: [[sources/wikipedia-jos-mara-gil-robles|Jos Mara Gil Robles]] · grade C

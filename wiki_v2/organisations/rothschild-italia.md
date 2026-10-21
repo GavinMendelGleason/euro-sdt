@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Paolo Scaroni](../people/paolo-scaroni.md) — chair  
+- [[people/paolo-scaroni|Paolo Scaroni]] — chair  
   > "Among other issues, Li cited Scaroni's position as deputy chairman of Rothschild Italia (which advised on the acquisition of the club), as well as his prior business relationship with Elliott."
-  > Source: [Paolo Scaroni](../sources/wikipedia-paolo-scaroni.md) · grade A
+  > Source: [[sources/wikipedia-paolo-scaroni|Paolo Scaroni]] · grade A

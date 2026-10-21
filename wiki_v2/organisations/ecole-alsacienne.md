@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Thierry Breton](../people/thierry-breton.md)  
+- [[people/thierry-breton|Thierry Breton]]  
   > "He completed his middle and high school education at the École alsacienne in Paris and university-preparatory school classes for the grandes écoles at Lycée Louis-le-Grand."
-  > Source: [Thierry Breton](../sources/wikipedia-thierry-breton.md) · grade A
+  > Source: [[sources/wikipedia-thierry-breton|Thierry Breton]] · grade A

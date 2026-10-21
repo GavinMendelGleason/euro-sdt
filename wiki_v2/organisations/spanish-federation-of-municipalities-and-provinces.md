@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Juan Ignacio Zoido](../people/juan-ignacio-zoido.md) — chair  
+- [[people/juan-ignacio-zoido|Juan Ignacio Zoido]] — chair  
   > "&#91; 6 &#93; Between 2011 and 2012, he was the President of the Spanish Federation of Municipalities and Provinces ."
-  > Source: [Juan Ignacio Zoido](../sources/wikipedia-juan-ignacio-zoido.md) · grade A
+  > Source: [[sources/wikipedia-juan-ignacio-zoido|Juan Ignacio Zoido]] · grade A

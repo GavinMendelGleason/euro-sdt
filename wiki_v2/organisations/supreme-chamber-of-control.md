@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Janusz Wojciechowski](../people/janusz-wojciechowski.md) — chair  
+- [[people/janusz-wojciechowski|Janusz Wojciechowski]] — chair  
   > "1995–2001: President of the Supreme Chamber of Control"
-  > Source: [Janusz Wojciechowski](../sources/wikipedia-janusz-wojciechowski.md) · grade A
+  > Source: [[sources/wikipedia-janusz-wojciechowski|Janusz Wojciechowski]] · grade A

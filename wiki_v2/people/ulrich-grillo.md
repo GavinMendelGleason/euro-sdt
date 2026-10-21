@@ -18,44 +18,44 @@ Corporate Elite
 
 ## Education
 
-- [Westfälische Wilhelms-Universität in Münster](../organisations/westfalische-wilhelms-universitat-in-munster.md)  
+- [[organisations/westfalische-wilhelms-universitat-in-munster|Westfälische Wilhelms-Universität in Münster]]  
   > "Starting in 1982, he studied business administration at the Westfälische Wilhelms-Universität in Münster , graduating in 1987 with a degree in business administration (Diplom-Kaufmann) ."
-  > Source: [Ulrich Grillo](../sources/wikipedia-ulrich-grillo.md) · grade A
+  > Source: [[sources/wikipedia-ulrich-grillo|Ulrich Grillo]] · grade A
 
 ## Board / trustee
 
-- [E.ON SE](../organisations/e-on-se.md) — board_member  
+- [[organisations/e-on-se|E.ON SE]] — board_member  
   > "He is currently chairman of the supervisory board at Rheinmetall AG and deputy chairman of the supervisory board at E.ON SE ."
-  > Source: [Ulrich Grillo](../sources/wikipedia-ulrich-grillo.md) · grade A
+  > Source: [[sources/wikipedia-ulrich-grillo|Ulrich Grillo]] · grade A
 
-- [Klöckner & Co](../organisations/klockner-co.md) — board_member  
+- [[organisations/klockner-co|Klöckner & Co]] — board_member  
   > "&#91; 7 &#93; He has served on the supervisory board of steel and metal trading company Klöckner &amp; Co ."
-  > Source: [Ulrich Grillo](../sources/wikipedia-ulrich-grillo.md) · grade A
+  > Source: [[sources/wikipedia-ulrich-grillo|Ulrich Grillo]] · grade A
 
-- [Rheinmetall](../organisations/rheinmetall.md) — board_member  
+- [[organisations/rheinmetall|Rheinmetall]] — board_member  
   > "By 1998, he was granted full power of attorney (Generalvollmacht) . &#91; 1 &#93; Between July 1999 and July 2001, Grillo served as a board member responsible for finance and controlling at Rheinmetall DeTec AG, Ratingen ."
-  > Source: [Ulrich Grillo](../sources/wikipedia-ulrich-grillo.md) · grade A
+  > Source: [[sources/wikipedia-ulrich-grillo|Ulrich Grillo]] · grade A
 
-- [Rheinmetall AG](../organisations/rheinmetall-ag.md) — board_member  
+- [[organisations/rheinmetall-ag|Rheinmetall AG]] — board_member  
   > "He is currently chairman of the supervisory board at Rheinmetall AG and deputy chairman of the supervisory board at E.ON SE ."
-  > Source: [Ulrich Grillo](../sources/wikipedia-ulrich-grillo.md) · grade A
+  > Source: [[sources/wikipedia-ulrich-grillo|Ulrich Grillo]] · grade A
 
 ## Chair / president
 
-- [BDI's raw materials committee](../organisations/bdi-s-raw-materials-committee.md) — chair  
+- [[organisations/bdi-s-raw-materials-committee|BDI's raw materials committee]] — chair  
   > "In 2006, he also became chairman of the BDI's raw materials committee."
-  > Source: [Ulrich Grillo](../sources/wikipedia-ulrich-grillo.md) · grade A
+  > Source: [[sources/wikipedia-ulrich-grillo|Ulrich Grillo]] · grade A
 
-- [Federation of German Industries (BDI)](../organisations/federation-of-german-industries-bdi.md) — chair  
+- [[organisations/federation-of-german-industries-bdi|Federation of German Industries (BDI)]] — chair  
   > "German entrepreneur Ulrich Grillo (born 2 September 1959) is a German entrepreneur and former president of the Federation of German Industries (BDI) ."
-  > Source: [Ulrich Grillo](../sources/wikipedia-ulrich-grillo.md) · grade A
+  > Source: [[sources/wikipedia-ulrich-grillo|Ulrich Grillo]] · grade A
 
-- [Wirtschaftsvereinigung Metalle](../organisations/wirtschaftsvereinigung-metalle.md) — chair  
+- [[organisations/wirtschaftsvereinigung-metalle|Wirtschaftsvereinigung Metalle]] — chair  
   > "&#91; 5 &#93; From November 2006 to the end of 2012, Grillo was president of the Wirtschaftsvereinigung Metalle , representing Germany's non-ferrous metal industry."
-  > Source: [Ulrich Grillo](../sources/wikipedia-ulrich-grillo.md) · grade A
+  > Source: [[sources/wikipedia-ulrich-grillo|Ulrich Grillo]] · grade A
 
 ## Attendance
 
-- [Bilderberg conference](../organisations/bilderberg-conference.md) — attendee  
+- [[organisations/bilderberg-conference|Bilderberg conference]] — attendee  
   > "&#91; 6 &#93; Grillo participated in the 2013 Bilderberg Conference in Hertfordshire ."
-  > Source: [Ulrich Grillo](../sources/wikipedia-ulrich-grillo.md) · grade C
+  > Source: [[sources/wikipedia-ulrich-grillo|Ulrich Grillo]] · grade C

@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Neelie Kroes](../people/neelie-kroes.md)  
+- [[people/neelie-kroes|Neelie Kroes]]  
   > "Kroes studied Economics at the Rotterdam School of Economics obtaining a Master of Economics degree."
-  > Source: [Neelie Kroes](../sources/wikipedia-neelie-kroes.md) · grade A
+  > Source: [[sources/wikipedia-neelie-kroes|Neelie Kroes]] · grade A

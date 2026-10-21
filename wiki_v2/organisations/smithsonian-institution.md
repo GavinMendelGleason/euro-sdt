@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Libor Rouček](../people/libor-roucek.md) — fellow  
+- [[people/libor-roucek|Libor Rouček]] — fellow  
   > "In 1987, he was a fellow at the Smithsonian Institution in Washington, D.C."
-  > Source: [Libor Rouek](../sources/wikipedia-libor-rouek.md) · grade C
+  > Source: [[sources/wikipedia-libor-rouek|Libor Rouek]] · grade C

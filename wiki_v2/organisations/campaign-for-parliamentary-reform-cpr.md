@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Cecilia Malmström](../people/cecilia-malmstrom.md) — founder  
+- [[people/cecilia-malmstrom|Cecilia Malmström]] — founder  
   > "In 2001, Malmström and nine fellow MEPs – including Nick Clegg and Helle Thorning-Schmidt – founded the Campaign for Parliamentary Reform (CPR) to press for changes to the way the European Parliament functions on a day-to-day basis."
-  > Source: [Cecilia Malmstrom](../sources/wikipedia-cecilia-malmstrom.md) · grade A
+  > Source: [[sources/wikipedia-cecilia-malmstrom|Cecilia Malmstrom]] · grade A

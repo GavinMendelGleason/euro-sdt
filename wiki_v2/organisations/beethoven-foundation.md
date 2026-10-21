@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Monika Wulf-Mathies](../people/monika-wulf-mathies.md) — board_member; chair  
+- [[people/monika-wulf-mathies|Monika Wulf-Mathies]] — board_member; chair  
   > "Beethoven Foundation, Chairwoman of the Board of Trustees (since 2004)"
-  > Source: [Monika Wulf Mathies](../sources/wikipedia-monika-wulf-mathies.md) · grade A
+  > Source: [[sources/wikipedia-monika-wulf-mathies|Monika Wulf Mathies]] · grade A

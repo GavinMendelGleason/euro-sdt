@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Amelia Andersdotter](../people/amelia-andersdotter.md)  
+- [[people/amelia-andersdotter|Amelia Andersdotter]]  
   > "After graduating at Rosendalsgymnasiet in Uppsala, she attended university in Lund, where she studied mathematics , physics , Spanish and business law ."
-  > Source: [Amelia Andersdotter](../sources/wikipedia-amelia-andersdotter.md) · grade C
+  > Source: [[sources/wikipedia-amelia-andersdotter|Amelia Andersdotter]] · grade C

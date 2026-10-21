@@ -15,7 +15,7 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (2)
 
-- [John Watson](../people/john-watson.md) — educated_at — University of Cambridge
+- [[people/john-watson|John Watson]] — educated_at — University of Cambridge
   > " 1985 – 1988: Masters in Economics University of Cambridge, Pembroke College"
-- [John Watson](../people/john-watson.md) — held_position — Deputy Secretary-General → Secretariat-General
+- [[people/john-watson|John Watson]] — held_position — Deputy Secretary-General → Secretariat-General
   > " 07/2017 – 09/2018: Director “Better Regulation and Work Programme” – Secretariat-General"

@@ -15,9 +15,9 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (3)
 
-- [Myriam Ferran](../people/myriam-ferran.md) — educated_at — Institut National Agronomique Paris-Grignon (Inapg)
+- [[people/myriam-ferran|Myriam Ferran]] — educated_at — Institut National Agronomique Paris-Grignon (Inapg)
   > " 09/1988 - 07/1990 : Engineer in Agronomics – Institut National Agronomique Paris-Grignon (INAPG)"
-- [Myriam Ferran](../people/myriam-ferran.md) — held_position — Deputy Director-General → Directorate-General for International Partnerships
+- [[people/myriam-ferran|Myriam Ferran]] — held_position — Deputy Director-General → Directorate-General for International Partnerships
   > "Professional experience in the European Institutions  Since 1 November 2021: Deputy Director -General – Directorate-General International Partnerships (DG INTPA)"
-- [Myriam Ferran](../people/myriam-ferran.md) — member — École du Génie Rural des Eaux et Forêts (ENGREF)
+- [[people/myriam-ferran|Myriam Ferran]] — member — École du Génie Rural des Eaux et Forêts (ENGREF)
   > " 09/1990 – 12/1992: Ingénieur du corps du génie rural des eaux et forêts (IGREF) – École du Génie Rural des Eaux et Forêts (ENGREF)"

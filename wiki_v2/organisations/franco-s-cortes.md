@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Leopoldo Calvo-Sotelo](../people/leopoldo-calvo-sotelo.md)  
+- [[people/leopoldo-calvo-sotelo|Leopoldo Calvo-Sotelo]]  
   > "Calvo-Sotelo was elected solicitor (Deputy) of Franco's Cortes, representing industrialists in the Union of Chemical Industries, in 1971."
-  > Source: [Leopoldo Calvo Sotelo](../sources/wikipedia-leopoldo-calvo-sotelo.md) · grade B
+  > Source: [[sources/wikipedia-leopoldo-calvo-sotelo|Leopoldo Calvo Sotelo]] · grade B

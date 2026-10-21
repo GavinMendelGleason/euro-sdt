@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Nicolas Schmit](../people/nicolas-schmit.md)  
+- [[people/nicolas-schmit|Nicolas Schmit]]  
   > "Schmit studied economics in France at the Institut d'études politiques d'Aix-en-Provence."
-  > Source: [Nicolas Schmit](../sources/wikipedia-nicolas-schmit.md) · grade A
+  > Source: [[sources/wikipedia-nicolas-schmit|Nicolas Schmit]] · grade A

@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Philippe Malaud](../people/philippe-malaud.md)  
+- [[people/philippe-malaud|Philippe Malaud]]  
   > "From 1968 until 1978, he was a member of the Independent Republicans ."
-  > Source: [Philippe Malaud](../sources/wikipedia-philippe-malaud.md) · grade A
+  > Source: [[sources/wikipedia-philippe-malaud|Philippe Malaud]] · grade A

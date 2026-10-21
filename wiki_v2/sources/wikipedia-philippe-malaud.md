@@ -16,9 +16,9 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (3)
 
-- [Philippe Malaud](../people/philippe-malaud.md) — educated_at — École nationale d'administration
+- [[people/philippe-malaud|Philippe Malaud]] — educated_at — École nationale d'administration
   > "He graduated from the École nationale d'administration in 1956."
-- [Philippe Malaud](../people/philippe-malaud.md) — member — Independent Republicans
+- [[people/philippe-malaud|Philippe Malaud]] — member — Independent Republicans
   > "From 1968 until 1978, he was a member of the Independent Republicans ."
-- [Philippe Malaud](../people/philippe-malaud.md) — member — Parliament
+- [[people/philippe-malaud|Philippe Malaud]] — member — Parliament
   > "Between 1973 and 1981, he was a member of the Parliament ."

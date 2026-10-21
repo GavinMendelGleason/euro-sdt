@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Nils Behrndt](../people/nils-behrndt.md)  
+- [[people/nils-behrndt|Nils Behrndt]]  
   > "➢ 1992: L.L.M in International Law, public international law, EU law and human rights law, University of Kingston-upon-Hull, United Kingdom"
-  > Source: [Nils Behrndt](../sources/dg_cv-nils-behrndt.md) · grade A
+  > Source: [[sources/dg_cv-nils-behrndt|Nils Behrndt]] · grade A

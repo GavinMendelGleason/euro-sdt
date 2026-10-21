@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Slawomir Krupa](../people/slawomir-krupa.md) — chair  
+- [[people/slawomir-krupa|Slawomir Krupa]] — chair  
   > "He has also been chairperson of the European Banking Federation since 2025."
-  > Source: [Slawomir Krupa](../sources/wikipedia-slawomir-krupa.md) · grade C
+  > Source: [[sources/wikipedia-slawomir-krupa|Slawomir Krupa]] · grade C

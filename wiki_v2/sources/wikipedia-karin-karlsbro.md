@@ -16,33 +16,33 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (15)
 
-- [Karin Karlsbro](../people/karin-karlsbro.md) — affiliated_with — Norrtälje
+- [[people/karin-karlsbro|Karin Karlsbro]] — affiliated_with — Norrtälje
   > "Karlsbro has held a number of political offices in Stockholm and most recently she has served as the group leader in Norrtälje between 2014 and 2018."
-- [Karin Karlsbro](../people/karin-karlsbro.md) — affiliated_with — Grayling
+- [[people/karin-karlsbro|Karin Karlsbro]] — affiliated_with — Grayling
   > "In her professional life, Karlsbro has worked as a consultant in her own company and as a sustainability expert at the PR firm Grayling &#91; 3 &#93; and between 2015-2019 as Chief Sustainability Officer at Fastighetsägarna Stockholm."
-- [Karin Karlsbro](../people/karin-karlsbro.md) — board_member — Liberal People's Party
+- [[people/karin-karlsbro|Karin Karlsbro]] — board_member — Liberal People's Party
   > "&#91; 2 &#93; Between 2000 and 2006, she was the administrative director at the Parliament Office of the Liberal People's Party (now the Liberals)."
-- [Karin Karlsbro](../people/karin-karlsbro.md) — chair — Committee on International Trade
+- [[people/karin-karlsbro|Karin Karlsbro]] — chair — Committee on International Trade
   > "She is Vice-Chair of the Committee on International Trade (INTA) and a substitute member of both the Committee on the Environment (ENVI) and the Committee on Fisheries (PECH)."
-- [Karin Karlsbro](../people/karin-karlsbro.md) — chair — Liberal Youth of Sweden
+- [[people/karin-karlsbro|Karin Karlsbro]] — chair — Liberal Youth of Sweden
   > "Career [ edit ] Karlsbro served as the chairman of the Liberal Youth of Sweden between 1995 and 1997."
-- [Karin Karlsbro](../people/karin-karlsbro.md) — educated_at — Stockholm University
+- [[people/karin-karlsbro|Karin Karlsbro]] — educated_at — Stockholm University
   > "Education [ edit ] Karlsbro holds a law degree from Stockholm University and has studied at the London School of Economics and Political Science (LSE)."
-- [Karin Karlsbro](../people/karin-karlsbro.md) — employed_by — Fastighetsägarna Stockholm
+- [[people/karin-karlsbro|Karin Karlsbro]] — employed_by — Fastighetsägarna Stockholm
   > "In her professional life, Karlsbro has worked as a consultant in her own company and as a sustainability expert at the PR firm Grayling &#91; 3 &#93; and between 2015-2019 as Chief Sustainability Officer at Fastighetsägarna Stockholm."
-- [Karin Karlsbro](../people/karin-karlsbro.md) — member — Liberals
+- [[people/karin-karlsbro|Karin Karlsbro]] — member — Liberals
   > "Swedish politician (born 1970) Karin Sonja Charlotta Karlsbro (born 23 September 1970) &#91; 1 &#93; is a Swedish politician of the Liberals ."
-- [Karin Karlsbro](../people/karin-karlsbro.md) — member — European Parliament
+- [[people/karin-karlsbro|Karin Karlsbro]] — member — European Parliament
   > "Since 2019, Karlsbro has served as a Member of the European Parliament."
-- [Karin Karlsbro](../people/karin-karlsbro.md) — member — Renew Europe
+- [[people/karin-karlsbro|Karin Karlsbro]] — member — Renew Europe
   > "In the European Parliament, Karlsbro belongs to the centrist-liberal political group Renew Europe."
-- [Karin Karlsbro](../people/karin-karlsbro.md) — member — Committee on the Environment
+- [[people/karin-karlsbro|Karin Karlsbro]] — member — Committee on the Environment
   > "She is Vice-Chair of the Committee on International Trade (INTA) and a substitute member of both the Committee on the Environment (ENVI) and the Committee on Fisheries (PECH)."
-- [Karin Karlsbro](../people/karin-karlsbro.md) — member — Committee on Fisheries
+- [[people/karin-karlsbro|Karin Karlsbro]] — member — Committee on Fisheries
   > "She is Vice-Chair of the Committee on International Trade (INTA) and a substitute member of both the Committee on the Environment (ENVI) and the Committee on Fisheries (PECH)."
-- [Karin Karlsbro](../people/karin-karlsbro.md) — member — Riksdag
+- [[people/karin-karlsbro|Karin Karlsbro]] — member — Riksdag
   > "She served a Deputy Cabinet Member of the Riksdag between 29 September 2014 until 3 October 2014."
-- [Karin Karlsbro](../people/karin-karlsbro.md) — member — Subcommittee on Human Rights
+- [[people/karin-karlsbro|Karin Karlsbro]] — member — Subcommittee on Human Rights
   > "Previously she has been a member of the European Parliament’s Subcommittee on Human Rights (DROI) where she advocated for LGBTQ+ rights."
-- [Karin Karlsbro](../people/karin-karlsbro.md) — member — Committee on the Environment, Public Health and Food Safety
+- [[people/karin-karlsbro|Karin Karlsbro]] — member — Committee on the Environment, Public Health and Food Safety
   > "The mechanism is a proposal by the European Commission requiring that goods imported into the EU be taxed for carbon emissions in the same way as goods produced within the EU. Since 2019, Karlsbro has alternated between serving as a substitute and full member of the Committee on the Environment, Public Health and Food Safety (ENVI)."

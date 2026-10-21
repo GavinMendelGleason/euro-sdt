@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Teresa Ribera](../people/teresa-ribera.md) — advisory_board  
+- [[people/teresa-ribera|Teresa Ribera]] — advisory_board  
   > "International work Ribera is also a member of several advisory councils, including the Global Leadership Council of the United Nations Sustainable Development Solutions Network (UNSDSN), the global climate change advisory council of the World Economic Forum, and the Momentum For Change initiative of United Nations Framework Convention on Climate Change (UNFCCC); belongs to the international counci […]"
-  > Source: [Teresa Ribera](../sources/wikipedia-teresa-ribera.md) · grade A
+  > Source: [[sources/wikipedia-teresa-ribera|Teresa Ribera]] · grade A

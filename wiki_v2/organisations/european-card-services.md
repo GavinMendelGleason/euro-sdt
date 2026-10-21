@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Andrea Orcel](../people/andrea-orcel.md) — employed_by  
+- [[people/andrea-orcel|Andrea Orcel]] — employed_by  
   > "&#91; 27 &#93; &#91; 12 &#93; In 2009, Orcel was asked to serve as the executive chairman of the investment bank, eventually being appointed chief executive of European Card Services."
-  > Source: [Andrea Orcel](../sources/wikipedia-andrea-orcel.md) · grade A
+  > Source: [[sources/wikipedia-andrea-orcel|Andrea Orcel]] · grade A

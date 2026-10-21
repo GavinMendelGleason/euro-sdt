@@ -16,21 +16,21 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (9)
 
-- [Jonathan Hill](../people/jonathan-hill.md) — affiliated_with — Taylor & Francis
+- [[people/jonathan-hill|Jonathan Hill]] — affiliated_with — Taylor & Francis
   > "Work Jonathan Hill published a number of books including: The Illegal Architect (1998) Actions of Architecture: Architects and Creative Users (Taylor & Francis, 2003, ISBN 978-1134437054) Drawing Research (2006) Immaterial Architecture (Routledge, 2006, ISBN 978-0415363242) Weather Architecture (Routledge, 2012, ISBN 978-0415668613) A Landscape of Architecture, History and Fiction (Routledge, 2015 […]"
-- [Jonathan Hill](../people/jonathan-hill.md) — affiliated_with — Routledge
+- [[people/jonathan-hill|Jonathan Hill]] — affiliated_with — Routledge
   > "Work Jonathan Hill published a number of books including: The Illegal Architect (1998) Actions of Architecture: Architects and Creative Users (Taylor & Francis, 2003, ISBN 978-1134437054) Drawing Research (2006) Immaterial Architecture (Routledge, 2006, ISBN 978-0415363242) Weather Architecture (Routledge, 2012, ISBN 978-0415668613) A Landscape of Architecture, History and Fiction (Routledge, 2015 […]"
-- [Jonathan Hill](../people/jonathan-hill.md) — affiliated_with — Ashgate
+- [[people/jonathan-hill|Jonathan Hill]] — affiliated_with — Ashgate
   > "Work Jonathan Hill published a number of books including: The Illegal Architect (1998) Actions of Architecture: Architects and Creative Users (Taylor & Francis, 2003, ISBN 978-1134437054) Drawing Research (2006) Immaterial Architecture (Routledge, 2006, ISBN 978-0415363242) Weather Architecture (Routledge, 2012, ISBN 978-0415668613) A Landscape of Architecture, History and Fiction (Routledge, 2015 […]"
-- [Jonathan Hill](../people/jonathan-hill.md) — affiliated_with — Taylor & Francis
+- [[people/jonathan-hill|Jonathan Hill]] — affiliated_with — Taylor & Francis
   > "The Illegal Architect (1998) Actions of Architecture: Architects and Creative Users (Taylor & Francis, 2003, ISBN 978-1134437054) Drawing Research (2006) Immaterial Architecture (Routledge, 2006, ISBN 978-0415363242) Weather Architecture (Routledge, 2012, ISBN 978-0415668613) A Landscape of Architecture, History and Fiction (Routledge, 2015, ISBN 978-1138852297) The Architecture of Ruins: Designs […]"
-- [Jonathan Hill](../people/jonathan-hill.md) — affiliated_with — Routledge
+- [[people/jonathan-hill|Jonathan Hill]] — affiliated_with — Routledge
   > "Architecture: The Subject is Matter (Routledge, 2001, ISBN 978-0415235457 Occupying Architecture: Between the Architect and the User (Routledge, 2006, ISBN 978-0203983829) Hill was also series co-editor of the Design Research in Architecture book series published by Ashgate."
-- [Jonathan Hill](../people/jonathan-hill.md) — affiliated_with — Ashgate
+- [[people/jonathan-hill|Jonathan Hill]] — affiliated_with — Ashgate
   > "Architecture: The Subject is Matter (Routledge, 2001, ISBN 978-0415235457 Occupying Architecture: Between the Architect and the User (Routledge, 2006, ISBN 978-0203983829) Hill was also series co-editor of the Design Research in Architecture book series published by Ashgate."
-- [Jonathan Hill](../people/jonathan-hill.md) — educated_at — University College London
+- [[people/jonathan-hill|Jonathan Hill]] — educated_at — University College London
   > "Biography Jonathan Hill received a Diploma from the Architectural Association School of Architecture in 1983, a Master of Science degree from University College London in 1990, and a Doctor of Philosophy degree from the University of London in 2000."
-- [Jonathan Hill](../people/jonathan-hill.md) — educated_at — Architectural Association School Of Architecture
+- [[people/jonathan-hill|Jonathan Hill]] — educated_at — Architectural Association School Of Architecture
   > "Biography Jonathan Hill received a Diploma from the Architectural Association School of Architecture in 1983, a Master of Science degree from University College London in 1990, and a Doctor of Philosophy degree from the University of London in 2000."
-- [Jonathan Hill](../people/jonathan-hill.md) — held_degree — PhD
+- [[people/jonathan-hill|Jonathan Hill]] — held_degree — PhD
   > "The Jonathan Hill Architectural Design PhD Fund was announced in January 2026."

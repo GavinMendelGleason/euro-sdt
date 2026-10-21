@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Fredrick Federley](../people/fredrick-federley.md) — chair  
+- [[people/fredrick-federley|Fredrick Federley]] — chair  
   > "&#91; 8 &#93; On 1 September 2015 Federley announced that he was running for President of the ALDE Party ."
-  > Source: [Fredrick Federley](../sources/wikipedia-fredrick-federley.md) · grade A
+  > Source: [[sources/wikipedia-fredrick-federley|Fredrick Federley]] · grade A

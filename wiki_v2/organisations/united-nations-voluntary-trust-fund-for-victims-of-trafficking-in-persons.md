@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Benita Ferrero-Waldner](../people/benita-ferrero-waldner.md) — chair  
+- [[people/benita-ferrero-waldner|Benita Ferrero-Waldner]] — chair  
   > "United Nations Voluntary Trust Fund for Victims of Trafficking in Persons, President of the Board of Trustees (2017–2020)"
-  > Source: [Benita Ferrero Waldner](../sources/wikipedia-benita-ferrero-waldner.md) · grade A
+  > Source: [[sources/wikipedia-benita-ferrero-waldner|Benita Ferrero Waldner]] · grade A

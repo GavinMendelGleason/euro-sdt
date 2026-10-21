@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Věra Jourová](../people/vera-jourova.md) — employed_by  
+- [[people/vera-jourova|Věra Jourová]] — employed_by  
   > "Jourová served as secretary and spokesperson of the Třebíč municipal office from 1995 until 2000."
-  > Source: [Vera Jourova](../sources/wikipedia-vera-jourova.md) · grade C
+  > Source: [[sources/wikipedia-vera-jourova|Vera Jourova]] · grade C

@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Leonard Orban](../people/leonard-orban.md) — employed_by  
+- [[people/leonard-orban|Leonard Orban]] — employed_by  
   > "Between May 2001 and December 2004, he served as Deputy Chief Negotiator and from December 2004 to December 2006, as Chief Negotiator with the EU and as Secretary of State of the Ministry of European Integration of Romania, directly responsible for coordinating Romania's preparation for accession to the EU, as well as drafting the Treaty of Accession."
-  > Source: [Leonard Orban](../sources/wikipedia-leonard-orban.md) · grade A
+  > Source: [[sources/wikipedia-leonard-orban|Leonard Orban]] · grade A

@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Teresa Ribera](../people/teresa-ribera.md)  
+- [[people/teresa-ribera|Teresa Ribera]]  
   > "Ribera has been an adjunct professor of the Department of Public Law and Philosophy of Law at the Autonomous University of Madrid."
-  > Source: [Teresa Ribera](../sources/wikipedia-teresa-ribera.md) · grade A
+  > Source: [[sources/wikipedia-teresa-ribera|Teresa Ribera]] · grade A

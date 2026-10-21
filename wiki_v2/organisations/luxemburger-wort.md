@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Viviane Reding](../people/viviane-reding.md) — employed_by  
+- [[people/viviane-reding|Viviane Reding]] — employed_by  
   > "Before starting a professional career as a journalist for the leading newspaper in Luxembourg, the Luxemburger Wort, Reding obtained a doctorate in human sciences at the Sorbonne."
-  > Source: [Viviane Reding](../sources/wikipedia-viviane-reding.md) · grade C
+  > Source: [[sources/wikipedia-viviane-reding|Viviane Reding]] · grade C

@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Peter Mandelson](../people/peter-mandelson.md) — founder  
+- [[people/peter-mandelson|Peter Mandelson]] — founder  
   > "After Labour lost the 2010 general election, Mandelson co-founded the lobbying firm Global Counsel."
-  > Source: [Peter Mandelson](../sources/wikipedia-peter-mandelson.md) · grade A
+  > Source: [[sources/wikipedia-peter-mandelson|Peter Mandelson]] · grade A

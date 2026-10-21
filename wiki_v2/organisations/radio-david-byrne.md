@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [David Byrne](../people/david-byrne.md) — founder  
+- [[people/david-byrne|David Byrne]] — founder  
   > "In 2005, he initiated his own Internet radio station, Radio David Byrne."
-  > Source: [David Byrne](../sources/wikipedia-david-byrne.md) · grade C
+  > Source: [[sources/wikipedia-david-byrne|David Byrne]] · grade C

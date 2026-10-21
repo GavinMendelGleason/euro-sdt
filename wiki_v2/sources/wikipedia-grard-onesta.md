@@ -16,7 +16,7 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (2)
 
-- [Gérard Onesta](../people/gerard-onesta.md) — affiliated_with — Europe Écologie–The Greens in Midi-Pyrénées
+- [[people/gerard-onesta|Gérard Onesta]] — affiliated_with — Europe Écologie–The Greens in Midi-Pyrénées
   > "In March 2010 regional election, he is the leader of Europe Écologie–The Greens in Midi-Pyrénées."
-- [Gérard Onesta](../people/gerard-onesta.md) — member — European Greens
+- [[people/gerard-onesta|Gérard Onesta]] — member — European Greens
   > "He is a member of Europe Écologie–The Greens , part of the European Greens ."

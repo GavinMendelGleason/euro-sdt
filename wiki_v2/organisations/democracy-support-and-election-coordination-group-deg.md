@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Alexander Graf Lambsdorff](../people/alexander-graf-lambsdorff.md)  
+- [[people/alexander-graf-lambsdorff|Alexander Graf Lambsdorff]]  
   > "&#91; 10 &#93; In addition, he was a member of the Democracy Support and Election Coordination Group (DEG), which oversees the Parliament's election observation missions."
-  > Source: [Alexander Graf Lambsdorff](../sources/wikipedia-alexander-graf-lambsdorff.md) · grade A
+  > Source: [[sources/wikipedia-alexander-graf-lambsdorff|Alexander Graf Lambsdorff]] · grade A

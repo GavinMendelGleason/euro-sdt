@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Valdis Dombrovskis](../people/valdis-dombrovskis.md)  
+- [[people/valdis-dombrovskis|Valdis Dombrovskis]]  
   > "Supporter of the University of Latvia Foundation Dombrovskis is a supporter of the University of Latvia Foundation."
-  > Source: [Valdis Dombrovskis](../sources/wikipedia-valdis-dombrovskis.md) · grade B
+  > Source: [[sources/wikipedia-valdis-dombrovskis|Valdis Dombrovskis]] · grade B

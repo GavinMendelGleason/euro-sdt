@@ -18,12 +18,12 @@ Dg
 
 ## Education
 
-- [Harvard](../organisations/harvard.md)  
+- [[organisations/harvard|Harvard]]  
   > ": Leadership course at Harvard Kennedy School, Cambridge ➢ 1995-201"
-  > Source: [Beate Gminder](../sources/dg_cv-beate-gminder.md) · grade A
+  > Source: [[sources/dg_cv-beate-gminder|Beate Gminder]] · grade A
 
 ## Position
 
 - Director-General → Directorate-General for Migration and Home Affairs  
   > "7/2025: Director-General in DG Migration and Home Affairs (HOME) ➢ 16/11/2020 – 30/"
-  > Source: [Beate Gminder](../sources/dg_cv-beate-gminder.md) · grade A
+  > Source: [[sources/dg_cv-beate-gminder|Beate Gminder]] · grade A

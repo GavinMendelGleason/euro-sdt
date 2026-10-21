@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Margot Wallström](../people/margot-wallstrom.md) — board_member  
+- [[people/margot-wallstrom|Margot Wallström]] — board_member  
   > "Centre for Humanitarian Dialogue (HD), Member of the Board (since 2020)"
-  > Source: [Margot Wallstrom](../sources/wikipedia-margot-wallstrom.md) · grade A
+  > Source: [[sources/wikipedia-margot-wallstrom|Margot Wallstrom]] · grade A

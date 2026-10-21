@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Ekaterina Zaharieva](../people/ekaterina-zaharieva.md)  
+- [[people/ekaterina-zaharieva|Ekaterina Zaharieva]]  
   > "She became fluent in German at her local college, then attended the University of Plovdiv where she graduated in law."
-  > Source: [Ekaterina Zaharieva](../sources/wikipedia-ekaterina-zaharieva.md) · grade A
+  > Source: [[sources/wikipedia-ekaterina-zaharieva|Ekaterina Zaharieva]] · grade A

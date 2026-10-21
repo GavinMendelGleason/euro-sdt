@@ -15,7 +15,7 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (2)
 
-- [Denis Redonnet](../people/denis-redonnet.md) — educated_at — Institut D'Études Politiques
+- [[people/denis-redonnet|Denis Redonnet]] — educated_at — Institut D'Études Politiques
   > " 1988-1991 - Institut d'Études Politiques de Paris"
-- [Denis Redonnet](../people/denis-redonnet.md) — held_position — Deputy Director-General → Directorate-General for Trade and Economic Security
+- [[people/denis-redonnet|Denis Redonnet]] — held_position — Deputy Director-General → Directorate-General for Trade and Economic Security
   > "Professional experience in the European Institutions  Since 1 August 2020: Deputy Director-General – Chief Trade Enforcement Officer (in charge of Directorates F and G) - Directorate-General TRADE"

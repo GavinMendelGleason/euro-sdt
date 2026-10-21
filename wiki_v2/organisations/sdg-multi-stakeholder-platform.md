@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Janez Potocnik](../people/janez-potocnik.md)  
+- [[people/janez-potocnik|Janez Potocnik]]  
   > "SDG multi-stakeholder platform, hosted by European Commission, Member"
-  > Source: [Janez Potocnik](../sources/wikipedia-janez-potocnik.md) · grade A
+  > Source: [[sources/wikipedia-janez-potocnik|Janez Potocnik]] · grade A

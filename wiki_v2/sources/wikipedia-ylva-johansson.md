@@ -16,29 +16,29 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (13)
 
-- [Ylva Johansson](../people/ylva-johansson.md) — affiliated_with — European Commission
+- [[people/ylva-johansson|Ylva Johansson]] — affiliated_with — European Commission
   > "On June 17, 2025, after leaving her post as a commissioner, the European Commission appointed Johansson to be a special envoy for Ukrainians in the European Union."
-- [Ylva Johansson](../people/ylva-johansson.md) — educated_at — Lund University
+- [[people/ylva-johansson|Ylva Johansson]] — educated_at — Lund University
   > "Johansson studied at Lund University and the Stockholm Institute of Education between 1983–88 and 1991–92 respectively, and holds a Master of Science degree in education."
-- [Ylva Johansson](../people/ylva-johansson.md) — educated_at — Stockholm Institute Of Education
+- [[people/ylva-johansson|Ylva Johansson]] — educated_at — Stockholm Institute Of Education
   > "Johansson studied at Lund University and the Stockholm Institute of Education between 1983–88 and 1991–92 respectively, and holds a Master of Science degree in education."
-- [Ylva Johansson](../people/ylva-johansson.md) — from_country — Sweden
+- [[people/ylva-johansson|Ylva Johansson]] — from_country — Sweden
   > "Ylva Julia Margareta Johansson (born 13 February 1964) is a Swedish politician who served as European Commissioner for Home Affairs and Sweden's European Commissioner in the von der Leyen Commission from 1 December 2019 to 30 November 2024."
-- [Ylva Johansson](../people/ylva-johansson.md) — held_portfolio — Home Affairs
+- [[people/ylva-johansson|Ylva Johansson]] — held_portfolio — Home Affairs
   > "Ylva Julia Margareta Johansson (born 13 February 1964) is a Swedish politician who served as European Commissioner for Home Affairs and Sweden's European Commissioner in the von der Leyen Commission from 1 December 2019 to 30 November 2024."
-- [Ylva Johansson](../people/ylva-johansson.md) — member — Hammarby IF
+- [[people/ylva-johansson|Ylva Johansson]] — member — Hammarby IF
   > "She is an honorary member of the Swedish football club Hammarby IF."
-- [Ylva Johansson](../people/ylva-johansson.md) — member — Left Party – Communists
+- [[people/ylva-johansson|Ylva Johansson]] — member — Left Party – Communists
   > "She was Member of Parliament representing Stockholm Municipality, from 1988 to 1991 for the Left Party – Communists and from 2006 to 2019 for the Social Democrats."
-- [Ylva Johansson](../people/ylva-johansson.md) — member — Social Democrats
+- [[people/ylva-johansson|Ylva Johansson]] — member — Social Democrats
   > "She was Member of Parliament representing Stockholm Municipality, from 1988 to 1991 for the Left Party – Communists and from 2006 to 2019 for the Social Democrats."
-- [Ylva Johansson](../people/ylva-johansson.md) — member — Riksdag
+- [[people/ylva-johansson|Ylva Johansson]] — member — Riksdag
   > "In the 1988 general elections Johansson was elected as a member of the Riksdag for the Left Party – Communists (VPK)."
-- [Ylva Johansson](../people/ylva-johansson.md) — member — Left Party – Communists
+- [[people/ylva-johansson|Ylva Johansson]] — member — Left Party – Communists
   > "In the 1988 general elections Johansson was elected as a member of the Riksdag for the Left Party – Communists (VPK)."
-- [Ylva Johansson](../people/ylva-johansson.md) — member — Social Democrats
+- [[people/ylva-johansson|Ylva Johansson]] — member — Social Democrats
   > "She later left the party and joined the Social Democrats."
-- [Ylva Johansson](../people/ylva-johansson.md) — nominated_by — SWE
+- [[people/ylva-johansson|Ylva Johansson]] — nominated_by — SWE
   > "Ylva Julia Margareta Johansson (born 13 February 1964) is a Swedish politician who served as European Commissioner for Home Affairs and Sweden's European Commissioner in the von der Leyen Commission from 1 December 2019 to 30 November 2024."
-- [Ylva Johansson](../people/ylva-johansson.md) — served_on_commission — VdL I Commission
+- [[people/ylva-johansson|Ylva Johansson]] — served_on_commission — VdL I Commission
   > "Ylva Julia Margareta Johansson (born 13 February 1964) is a Swedish politician who served as European Commissioner for Home Affairs and Sweden's European Commissioner in the von der Leyen Commission f"

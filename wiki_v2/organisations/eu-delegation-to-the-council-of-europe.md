@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Meglena Kuneva](../people/meglena-kuneva.md) — chair  
+- [[people/meglena-kuneva|Meglena Kuneva]] — chair  
   > "In 2018 Kuneva was appointed head of the EU Delegation to the Council of Europe, where she collaborated to establish a common European stance in conjunction with the Council of Europe and optimal coordination between the two organizations."
-  > Source: [Meglena Kuneva](../sources/wikipedia-meglena-kuneva.md) · grade C
+  > Source: [[sources/wikipedia-meglena-kuneva|Meglena Kuneva]] · grade C

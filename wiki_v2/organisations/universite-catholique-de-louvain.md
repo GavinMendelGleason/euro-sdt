@@ -15,9 +15,9 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Isabelle Durant](../people/isabelle-durant.md)  
+- [[people/isabelle-durant|Isabelle Durant]]  
   > "She later complemented her nursing degree with a bachelor's degree in social and economic politics from the Université catholique de Louvain ."
-  > Source: [Isabelle Durant](../sources/wikipedia-isabelle-durant.md) · grade A
-- [Lorenzo Bini Smaghi](../people/lorenzo-bini-smaghi.md)  
+  > Source: [[sources/wikipedia-isabelle-durant|Isabelle Durant]] · grade A
+- [[people/lorenzo-bini-smaghi|Lorenzo Bini Smaghi]]  
   > "In 1978 he graduated in Economics from the Université catholique de Louvain (Belgium)."
-  > Source: [Lorenzo Bini Smaghi](../sources/wikipedia-lorenzo-bini-smaghi.md) · grade B
+  > Source: [[sources/wikipedia-lorenzo-bini-smaghi|Lorenzo Bini Smaghi]] · grade B

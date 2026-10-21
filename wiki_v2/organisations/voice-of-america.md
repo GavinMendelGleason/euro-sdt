@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Libor Rouček](../people/libor-roucek.md)  
+- [[people/libor-roucek|Libor Rouček]]  
   > "From 1988 to 1991, he was employed as an editor at the Voice of America in Washington, D.C."
-  > Source: [Libor Rouek](../sources/wikipedia-libor-rouek.md) · grade C
+  > Source: [[sources/wikipedia-libor-rouek|Libor Rouek]] · grade C

@@ -16,7 +16,7 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (2)
 
-- [Christel Heydemann](../people/christel-heydemann.md) — educated_at — École nationale des ponts et chaussées
+- [[people/christel-heydemann|Christel Heydemann]] — educated_at — École nationale des ponts et chaussées
   > "She earned her bachelor's degree in engineering from École nationale des ponts et chaussées in 1999."
-- [Christel Heydemann](../people/christel-heydemann.md) — employed_by — Orange
+- [[people/christel-heydemann|Christel Heydemann]] — employed_by — Orange
   > "Christel Heydemann (born 9 October 1974) is a French businesswoman and the chief executive officer (CEO) of the French telecommunications company Orange S.A. since April 2022."

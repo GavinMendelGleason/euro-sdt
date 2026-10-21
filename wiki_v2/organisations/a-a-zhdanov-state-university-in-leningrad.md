@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Dalia Grybauskaitė](../people/dalia-grybauskaite.md)  
+- [[people/dalia-grybauskaite|Dalia Grybauskaitė]]  
   > "She then enrolled in A. A. Zhdanov State University in Leningrad, as a student of political economy."
-  > Source: [Dalia Grybauskaite](../sources/wikipedia-dalia-grybauskaite.md) · grade A
+  > Source: [[sources/wikipedia-dalia-grybauskaite|Dalia Grybauskaite]] · grade A

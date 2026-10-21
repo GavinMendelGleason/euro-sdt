@@ -18,172 +18,172 @@ Commissioner
 
 ## Commission service
 
-- [Barroso II](../commissions/barroso-ii.md)  
+- [[commissions/barroso-ii|Barroso II]]  
   > "In the Second Barroso Commission, Oettinger was allocated the Energy portfolio, which had just grown in importance after the Lisbon Treaty gave the EU complete authority in the area."
-  > Source: [Gunther Oettinger](../sources/wikipedia-gunther-oettinger.md) · grade A
+  > Source: [[sources/wikipedia-gunther-oettinger|Gunther Oettinger]] · grade A
 
-- [Juncker Commission](../commissions/juncker-commission.md)  
+- [[commissions/juncker-commission|Juncker Commission]]  
   > "Instead, Jean-Claude Juncker, President-elect of the European Commission, nominated Oettinger as Commissioner for Digital Economy and Society."
-  > Source: [Gunther Oettinger](../sources/wikipedia-gunther-oettinger.md) · grade A
+  > Source: [[sources/wikipedia-gunther-oettinger|Gunther Oettinger]] · grade A
 
 ## Portfolio
 
 - Digital Economy and Society (prev. Energy)  
   > "Instead, Jean-Claude Juncker, President-elect of the European Commission, nominated Oettinger as Commissioner for Digital Economy and Society."
-  > Source: [Gunther Oettinger](../sources/wikipedia-gunther-oettinger.md) · grade C
+  > Source: [[sources/wikipedia-gunther-oettinger|Gunther Oettinger]] · grade C
 
 - Energy  
   > "In the Second Barroso Commission, Oettinger was allocated the Energy portfolio, which had just grown in importance after the Lisbon Treaty gave the EU complete authority in the area."
-  > Source: [Gunther Oettinger](../sources/wikipedia-gunther-oettinger.md) · grade A
+  > Source: [[sources/wikipedia-gunther-oettinger|Gunther Oettinger]] · grade A
 
 ## Nominated by
 
 - DEU  
   > "Between 2007 and 2009, he served as co-chair (alongside Peter Struck) of the Second Commission on the modernization of the federal state (Föderalismuskommission II), which had been established to reform the division of powers between federal and state authorities in Germany."
-  > Source: [Gunther Oettinger](../sources/wikipedia-gunther-oettinger.md) · grade A
+  > Source: [[sources/wikipedia-gunther-oettinger|Gunther Oettinger]] · grade A
 
 ## Education
 
-- [Economics at the University of Tübingen](../organisations/economics-at-the-university-of-tubingen.md)  
+- [[organisations/economics-at-the-university-of-tubingen|Economics at the University of Tübingen]]  
   > "He studied law and Economics at the University of Tübingen."
-  > Source: [Gunther Oettinger](../sources/wikipedia-gunther-oettinger.md) · grade A
+  > Source: [[sources/wikipedia-gunther-oettinger|Gunther Oettinger]] · grade A
 
-- [Gymnasium Korntal-Münchingen](../organisations/gymnasium-korntal-munchingen.md)  
+- [[organisations/gymnasium-korntal-munchingen|Gymnasium Korntal-Münchingen]]  
   > "He grew up in Ditzingen, and attended school at Gymnasium Korntal-Münchingen."
-  > Source: [Gunther Oettinger](../sources/wikipedia-gunther-oettinger.md) · grade A
+  > Source: [[sources/wikipedia-gunther-oettinger|Gunther Oettinger]] · grade A
 
-- [He studied law](../organisations/he-studied-law.md)  
+- [[organisations/he-studied-law|He studied law]]  
   > "He studied law and Economics at the University of Tübingen."
-  > Source: [Gunther Oettinger](../sources/wikipedia-gunther-oettinger.md) · grade A
+  > Source: [[sources/wikipedia-gunther-oettinger|Gunther Oettinger]] · grade A
 
 ## Field of study
 
 - Law  
   > "He studied law and Economics at the University of Tübingen."
-  > Source: [Gunther Oettinger](../sources/wikipedia-gunther-oettinger.md) · grade A
+  > Source: [[sources/wikipedia-gunther-oettinger|Gunther Oettinger]] · grade A
 
 ## Membership
 
-- [CDU/CSU](../organisations/cdu-csu.md)  
+- [[organisations/cdu-csu|CDU/CSU]]  
   > "Following the 2009 federal elections, Oettinger was part of the CDU/CSU team in the negotiations with the FDP on a coalition agreement; he joined the working group on economic affairs and energy policy, led by Karl-Theodor zu Guttenberg and Rainer Brüderle."
-  > Source: [Gunther Oettinger](../sources/wikipedia-gunther-oettinger.md) · grade A
+  > Source: [[sources/wikipedia-gunther-oettinger|Gunther Oettinger]] · grade A
 
-- [Christian Democratic Union](../organisations/christian-democratic-union.md) — party_member  
+- [[organisations/christian-democratic-union|Christian Democratic Union]] — party_member  
   > "Following the 2014 European elections, both governing parties in Germany – the Christian Democratic Union (CDU) and the Social Democratic Party (SPD) – backed Oettinger to remain as the German EU Commissioner in the incoming European Commission."
-  > Source: [Gunther Oettinger](../sources/wikipedia-gunther-oettinger.md) · grade B
+  > Source: [[sources/wikipedia-gunther-oettinger|Gunther Oettinger]] · grade B
 
-- [German Council on Foreign Relations (DGAP)](../organisations/german-council-on-foreign-relations-dgap.md)  
+- [[organisations/german-council-on-foreign-relations-dgap|German Council on Foreign Relations (DGAP)]]  
   > "German Council on Foreign Relations (DGAP), Member of the Presidium (since 2020)"
-  > Source: [Gunther Oettinger](../sources/wikipedia-gunther-oettinger.md) · grade A
+  > Source: [[sources/wikipedia-gunther-oettinger|Gunther Oettinger]] · grade A
 
 ## Board / trustee
 
-- [Amundi Deutschland](../organisations/amundi-deutschland.md) — board_member  
+- [[organisations/amundi-deutschland|Amundi Deutschland]] — board_member  
   > "Amundi Deutschland, Member of the Supervisory Board (since 2020)"
-  > Source: [Gunther Oettinger](../sources/wikipedia-gunther-oettinger.md) · grade A
+  > Source: [[sources/wikipedia-gunther-oettinger|Gunther Oettinger]] · grade A
 
-- [CG Elementum](../organisations/cg-elementum.md) — board_member  
+- [[organisations/cg-elementum|CG Elementum]] — board_member  
   > "CG Elementum, Member of the Supervisory Board (since 2020)"
-  > Source: [Gunther Oettinger](../sources/wikipedia-gunther-oettinger.md) · grade A
+  > Source: [[sources/wikipedia-gunther-oettinger|Gunther Oettinger]] · grade A
 
-- [Friends of the Dessau-Wörlitz Garden Realm](../organisations/friends-of-the-dessau-worlitz-garden-realm.md) — board_member  
+- [[organisations/friends-of-the-dessau-worlitz-garden-realm|Friends of the Dessau-Wörlitz Garden Realm]] — board_member  
   > "Friends of the Dessau-Wörlitz Garden Realm, Member of the Board of Trustees"
-  > Source: [Gunther Oettinger](../sources/wikipedia-gunther-oettinger.md) · grade A
+  > Source: [[sources/wikipedia-gunther-oettinger|Gunther Oettinger]] · grade A
 
-- [Herrenknecht](../organisations/herrenknecht.md) — board_member  
+- [[organisations/herrenknecht|Herrenknecht]] — board_member  
   > "Herrenknecht, Member of the Supervisory Board (since 2021)"
-  > Source: [Gunther Oettinger](../sources/wikipedia-gunther-oettinger.md) · grade A
+  > Source: [[sources/wikipedia-gunther-oettinger|Gunther Oettinger]] · grade A
 
-- [Medien- und Filmgesellschaft Baden-Württemberg (MFG)](../organisations/medien-und-filmgesellschaft-baden-wurttemberg-mfg.md) — board_member  
+- [[organisations/medien-und-filmgesellschaft-baden-wurttemberg-mfg|Medien- und Filmgesellschaft Baden-Württemberg (MFG)]] — board_member  
   > "Medien- und Filmgesellschaft Baden-Württemberg (MFG), Member of the Supervisory Board (−2005)"
-  > Source: [Gunther Oettinger](../sources/wikipedia-gunther-oettinger.md) · grade A
+  > Source: [[sources/wikipedia-gunther-oettinger|Gunther Oettinger]] · grade A
 
-- [Schule Schloss Salem](../organisations/schule-schloss-salem.md) — board_member  
+- [[organisations/schule-schloss-salem|Schule Schloss Salem]] — board_member  
   > "By referring to actual market developments in Italy, I did not mean to be disrespectful.\" Other activities Corporate boards Gröner Group, Member of the Advisory Board (since 2022) Donner & Reuschel, Chair of the Adivsory Board (since 2021) HAM-LOG Gruppe, Member of the Advisory Board (since 2021) Herrenknecht, Member of the Supervisory Board (since 2021) Kekst CNC, Member of the Global Advisory Board (since 2020) Deloitte Deutschland, Member of the Advisory Council (since 2020) Amundi Deutsc"
-  > Source: [Gunther Oettinger](../sources/wikipedia-gunther-oettinger.md) · grade A
+  > Source: [[sources/wikipedia-gunther-oettinger|Gunther Oettinger]] · grade A
 
 ## Advisory board
 
-- [Deloitte Deutschland](../organisations/deloitte-deutschland.md) — advisory_board; Juncker (2014-2019)  
+- [[organisations/deloitte-deutschland|Deloitte Deutschland]] — advisory_board; Juncker (2014-2019)  
   > "Deloitte Deutschland, Member of the Advisory Council (since 2020)"
-  > Source: [Gunther Oettinger](../sources/wikipedia-gunther-oettinger.md) · grade A
+  > Source: [[sources/wikipedia-gunther-oettinger|Gunther Oettinger]] · grade A
 
-- [Donner & Reuschel](../organisations/donner-reuschel.md) — advisory_board; chair  
+- [[organisations/donner-reuschel|Donner & Reuschel]] — advisory_board; chair  
   > "Donner & Reuschel, Chair of the Adivsory Board (since 2021)"
-  > Source: [Gunther Oettinger](../sources/wikipedia-gunther-oettinger.md) · grade A
+  > Source: [[sources/wikipedia-gunther-oettinger|Gunther Oettinger]] · grade A
 
-- [European Partnership for an Innovative Campus Unifying Regions (EPICUR)](../organisations/european-partnership-for-an-innovative-campus-unifying-regions-epicur.md) — advisory_board  
+- [[organisations/european-partnership-for-an-innovative-campus-unifying-regions-epicur|European Partnership for an Innovative Campus Unifying Regions (EPICUR)]] — advisory_board  
   > "European Partnership for an Innovative Campus Unifying Regions (EPICUR), Member of the Advisory Board (since 2021)"
-  > Source: [Gunther Oettinger](../sources/wikipedia-gunther-oettinger.md) · grade A
+  > Source: [[sources/wikipedia-gunther-oettinger|Gunther Oettinger]] · grade A
 
 - gr-ner-group — advisory_board  
   > "By referring to actual market developments in Italy, I did not mean to be disrespectful.\" Other activities Corporate boards Gröner Group, Member of the Advisory Board (since 2022) Donner & Reuschel, Chair of the Adivsory Board (since 2021) HAM-LOG Gruppe, Member of the Advisory Board (since 2021) Herrenknecht, Member of the Supervisory Board (since 2021) Kekst CNC, Member of the Global Advisory Board (since 2020) Deloitte Deutschland, Member of the Advisory Council (since 2020) Amundi Deutsc"
-  > Source: [Gunther Oettinger](../sources/wikipedia-gunther-oettinger.md) · grade A
+  > Source: [[sources/wikipedia-gunther-oettinger|Gunther Oettinger]] · grade A
 
-- [Gröner Group](../organisations/groner-group.md) — advisory_board  
+- [[organisations/groner-group|Gröner Group]] — advisory_board  
   > "Gröner Group, Member of the Advisory Board (since 2022)"
-  > Source: [Gunther Oettinger](../sources/wikipedia-gunther-oettinger.md) · grade A
+  > Source: [[sources/wikipedia-gunther-oettinger|Gunther Oettinger]] · grade A
 
-- [HAM-LOG Gruppe](../organisations/ham-log-gruppe.md) — advisory_board; Juncker (2014-2019)  
+- [[organisations/ham-log-gruppe|HAM-LOG Gruppe]] — advisory_board; Juncker (2014-2019)  
   > "HAM-LOG Gruppe, Member of the Advisory Board (since 2021)"
-  > Source: [Gunther Oettinger](../sources/wikipedia-gunther-oettinger.md) · grade A
+  > Source: [[sources/wikipedia-gunther-oettinger|Gunther Oettinger]] · grade A
 
-- [Initiative D21](../organisations/initiative-d21.md) — advisory_board  
+- [[organisations/initiative-d21|Initiative D21]] — advisory_board  
   > "Initiative D21, Member of the Advisory Board"
-  > Source: [Gunther Oettinger](../sources/wikipedia-gunther-oettinger.md) · grade A
+  > Source: [[sources/wikipedia-gunther-oettinger|Gunther Oettinger]] · grade A
 
-- [Kekst CNC](../organisations/kekst-cnc.md) — advisory_board; Juncker (2014-2019)  
+- [[organisations/kekst-cnc|Kekst CNC]] — advisory_board; Juncker (2014-2019)  
   > "Kekst CNC, Member of the Global Advisory Board (since 2020)"
-  > Source: [Gunther Oettinger](../sources/wikipedia-gunther-oettinger.md) · grade A
+  > Source: [[sources/wikipedia-gunther-oettinger|Gunther Oettinger]] · grade A
 
 ## Chair / president
 
-- [CDU](../organisations/cdu.md) — chair  
+- [[organisations/cdu|CDU]] — chair  
   > "On 29 April 2005, Oettinger became Chairman of the CDU in Baden-Württemberg, eight days after succeeding Teufel as Minister President."
-  > Source: [Gunther Oettinger](../sources/wikipedia-gunther-oettinger.md) · grade A
+  > Source: [[sources/wikipedia-gunther-oettinger|Gunther Oettinger]] · grade A
 
-- [CDU Baden-Württemberg](../organisations/cdu-baden-wurttemberg.md) — chair  
+- [[organisations/cdu-baden-wurttemberg|CDU Baden-Württemberg]] — chair  
   > "He served as Minister-President of Baden-Württemberg between 2005 and 2010 and as chairman of the CDU Baden-Württemberg from 2005 until 2010."
-  > Source: [Gunther Oettinger](../sources/wikipedia-gunther-oettinger.md) · grade A
+  > Source: [[sources/wikipedia-gunther-oettinger|Gunther Oettinger]] · grade A
 
-- [CDU Federal Committee for Media Politics](../organisations/cdu-federal-committee-for-media-politics.md) — chair  
+- [[organisations/cdu-federal-committee-for-media-politics|CDU Federal Committee for Media Politics]] — chair  
   > "From 2001 to 2005 he served as Chairman of the CDU Party in Nordwürttemberg (North Württemberg), and has also been CDU Chairman of the Federal Committee for Media Politics."
-  > Source: [Gunther Oettinger](../sources/wikipedia-gunther-oettinger.md) · grade C
+  > Source: [[sources/wikipedia-gunther-oettinger|Gunther Oettinger]] · grade C
 
-- [CDU Party in Nordwürttemberg](../organisations/cdu-party-in-nordwurttemberg.md) — chair  
+- [[organisations/cdu-party-in-nordwurttemberg|CDU Party in Nordwürttemberg]] — chair  
   > "From 2001 to 2005 he served as Chairman of the CDU Party in Nordwürttemberg (North Württemberg), and has also been CDU Chairman of the Federal Committee for Media Politics."
-  > Source: [Gunther Oettinger](../sources/wikipedia-gunther-oettinger.md) · grade A
+  > Source: [[sources/wikipedia-gunther-oettinger|Gunther Oettinger]] · grade A
 
-- [Junge Union](../organisations/junge-union.md) — chair  
+- [[organisations/junge-union|Junge Union]] — chair  
   > "Oettinger embarked in politics as a member of the Junge Union, the youth organisation of the CDU; he was chairman of the organization in Baden-Württemberg from 1983 to 1989."
-  > Source: [Gunther Oettinger](../sources/wikipedia-gunther-oettinger.md) · grade A
+  > Source: [[sources/wikipedia-gunther-oettinger|Gunther Oettinger]] · grade A
 
-- [Second Commission on the modernization of the federal state (Föderalismuskommission II)](../organisations/second-commission-on-the-modernization-of-the-federal-state-foderalismuskommission-ii.md) — chair  
+- [[organisations/second-commission-on-the-modernization-of-the-federal-state-foderalismuskommission-ii|Second Commission on the modernization of the federal state (Föderalismuskommission II)]] — chair  
   > "Between 2007 and 2009, he served as co-chair (alongside Peter Struck) of the Second Commission on the modernization of the federal state (Föderalismuskommission II), which had been established to reform the division of powers between federal and state authorities in Germany."
-  > Source: [Gunther Oettinger](../sources/wikipedia-gunther-oettinger.md) · grade A
+  > Source: [[sources/wikipedia-gunther-oettinger|Gunther Oettinger]] · grade A
 
 - second-commission-on-the-modernization-of-the-federal-state-f-deralismuskommission-ii — chair  
   > "Between 2007 and 2009, he served as co-chair (alongside Peter Struck) of the Second Commission on the modernization of the federal state (Föderalismuskommission II), which had been established to reform the division of powers between federal and state authorities in Germany."
-  > Source: [Gunther Oettinger](../sources/wikipedia-gunther-oettinger.md) · grade A
+  > Source: [[sources/wikipedia-gunther-oettinger|Gunther Oettinger]] · grade A
 
 ## Founder
 
-- [Oettinger Consulting](../organisations/oettinger-consulting.md) — founder  
+- [[organisations/oettinger-consulting|Oettinger Consulting]] — founder  
   > "In 2019, Oettinger and his partner Friederike Beyer jointly set up Oettinger Consulting, a Hamburg-based advisory firm."
-  > Source: [Gunther Oettinger](../sources/wikipedia-gunther-oettinger.md) · grade C
+  > Source: [[sources/wikipedia-gunther-oettinger|Gunther Oettinger]] · grade C
 
 ## Affiliation
 
-- [European People's Party](../organisations/european-peoples-party.md)  
+- [[organisations/european-peoples-party|European People's Party]]  
   > "He is affiliated with the liberal-conservative European People's Party (EPP)."
-  > Source: [Gunther Oettinger](../sources/wikipedia-gunther-oettinger.md) · grade A
+  > Source: [[sources/wikipedia-gunther-oettinger|Gunther Oettinger]] · grade A
 
 ## Post-mandate occupation
 
 - CG Elementum AG — Juncker (2014-2019) (2020)  
   > "Other activities Corporate boards Gröner Group, Member of the Advisory Board (since 2022) Donner & Reuschel, Chair of the Adivsory Board (since 2021) HAM-LOG Gruppe, Member of the Advisory Board (since 2021) Herrenknecht, Member of the Supervisory Board (since 2021) Kekst CNC, Member of the Global Advisory Board (since 2020) Deloitte Deutschland, Member of the Advisory Council (since 2020) Amundi Deutschland, Member of the Supervisory Board (since 2020) CG Elementum, Member of the Supervisory Board (since 2020)"
-  > Source: [Gunther Oettinger](../sources/wikipedia-gunther-oettinger.md) · grade C
+  > Source: [[sources/wikipedia-gunther-oettinger|Gunther Oettinger]] · grade C
 
 - EBS University of Business and Law — Juncker (2014-2019) (2021)  
   > "Since 2021, Oettinger has been serving as the president of EBS University of Business and Law."
-  > Source: [Gunther Oettinger](../sources/wikipedia-gunther-oettinger.md) · grade C
+  > Source: [[sources/wikipedia-gunther-oettinger|Gunther Oettinger]] · grade C

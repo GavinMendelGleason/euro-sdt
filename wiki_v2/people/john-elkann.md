@@ -18,28 +18,28 @@ Corporate Elite
 
 ## Education
 
-- [Polytechnic University of Turin](../organisations/polytechnic-university-of-turin.md)  
+- [[organisations/polytechnic-university-of-turin|Polytechnic University of Turin]]  
   > "In 2000, after graduating in engineering from the Polytechnic University of Turin, he joined General Electric's Corporate Audit program."
-  > Source: [Corp John Elkann](../sources/wikipedia-corp-john-elkann.md) · grade A
+  > Source: [[sources/wikipedia-corp-john-elkann|Corp John Elkann]] · grade A
 
 ## Chair / president
 
-- [Stellantis](../organisations/stellantis.md) — chair  
+- [[organisations/stellantis|Stellantis]] — chair  
   > "Elkann chairs the automaker Stellantis and is the chief executive officer (CEO) of Exor, the holding company controlled by the Agnelli family, which also holds a controlling stake in Ferrari, CNH Industrial, Iveco, Juventus FC and The Economist Group."
-  > Source: [John Elkann](../sources/wikipedia-john-elkann.md) · grade C
+  > Source: [[sources/wikipedia-john-elkann|John Elkann]] · grade C
 
 ## Affiliation
 
-- [CNH Industrial](../organisations/cnh-industrial.md)  
+- [[organisations/cnh-industrial|CNH Industrial]]  
   > "Elkann chairs the automaker Stellantis and is the chief executive officer (CEO) of Exor, the holding company controlled by the Agnelli family, which also holds a controlling stake in Ferrari, CNH Industrial, Iveco, Juventus FC and The Economist Group."
-  > Source: [John Elkann](../sources/wikipedia-john-elkann.md) · grade B
+  > Source: [[sources/wikipedia-john-elkann|John Elkann]] · grade B
 
-- [Juventus FC](../organisations/juventus-fc.md)  
+- [[organisations/juventus-fc|Juventus FC]]  
   > "Elkann chairs the automaker Stellantis and is the chief executive officer (CEO) of Exor, the holding company controlled by the Agnelli family, which also holds a controlling stake in Ferrari, CNH Industrial, Iveco, Juventus FC and The Economist Group."
-  > Source: [John Elkann](../sources/wikipedia-john-elkann.md) · grade B
+  > Source: [[sources/wikipedia-john-elkann|John Elkann]] · grade B
 
 ## Employment
 
-- [Exor](../organisations/exor.md) — employed_by  
+- [[organisations/exor|Exor]] — employed_by  
   > "Elkann chairs the automaker Stellantis and is the chief executive officer (CEO) of Exor, the holding company controlled by the Agnelli family, which also holds a controlling stake in Ferrari, CNH Industrial, Iveco, Juventus FC and The Economist Group."
-  > Source: [John Elkann](../sources/wikipedia-john-elkann.md) · grade A
+  > Source: [[sources/wikipedia-john-elkann|John Elkann]] · grade A

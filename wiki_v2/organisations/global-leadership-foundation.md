@@ -14,9 +14,9 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Catherine Ashton](../people/catherine-ashton.md)  
+- [[people/catherine-ashton|Catherine Ashton]]  
   > "Catherine Ashton is a member of the Global Leadership Foundation, an organisation that works to support democratic leadership, prevent and resolve conflict through mediation and promote good governance in the form of democratic institutions, open markets, human rights and the rule of law."
-  > Source: [Catherine Ashton](../sources/wikipedia-catherine-ashton.md) · grade A
-- [Chris Patten](../people/chris-patten.md)  
+  > Source: [[sources/wikipedia-catherine-ashton|Catherine Ashton]] · grade A
+- [[people/chris-patten|Chris Patten]]  
   > "He is also a member of the Global Leadership Foundation, an organisation which works to promote good governance around the world."
-  > Source: [Chris Patten](../sources/wikipedia-chris-patten.md) · grade A
+  > Source: [[sources/wikipedia-chris-patten|Chris Patten]] · grade A

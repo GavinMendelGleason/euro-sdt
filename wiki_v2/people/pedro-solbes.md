@@ -20,28 +20,28 @@ Commissioner · ESP
 
 - Economic and Monetary Affairs  
   > "Appointed by Spanish premier José María Aznar (of the main competing party, the People's Party), Solbes was a European commissioner for economic and monetary affairs in the European Commission preside"
-  > Source: [Pedro Solbes](../sources/wikipedia-pedro-solbes.md) · grade A
+  > Source: [[sources/wikipedia-pedro-solbes|Pedro Solbes]] · grade A
 
 ## Board / trustee
 
-- [African Development Bank](../organisations/african-development-bank.md) — board_member  
+- [[organisations/african-development-bank|African Development Bank]] — board_member  
   > "African Development Bank (AfDB), ex-officio member of the Board of Governors (2004–2009)"
-  > Source: [Pedro Solbes](../sources/wikipedia-pedro-solbes.md) · grade A
+  > Source: [[sources/wikipedia-pedro-solbes|Pedro Solbes]] · grade A
 
-- [Asian Development Bank (ADB)](../organisations/asian-development-bank-adb.md) — board_member  
+- [[organisations/asian-development-bank-adb|Asian Development Bank (ADB)]] — board_member  
   > "Asian Development Bank (ADB), ex-officio member of the Board of Governors (2004–2009)"
-  > Source: [Pedro Solbes](../sources/wikipedia-pedro-solbes.md) · grade A
+  > Source: [[sources/wikipedia-pedro-solbes|Pedro Solbes]] · grade A
 
-- [European Bank for Reconstruction and Development (EBRD)](../organisations/european-bank-for-reconstruction-and-development-ebrd.md) — board_member  
+- [[organisations/european-bank-for-reconstruction-and-development-ebrd|European Bank for Reconstruction and Development (EBRD)]] — board_member  
   > "European Bank for Reconstruction and Development (EBRD), ex-officio member of the Board of Governors (2004-2009)"
-  > Source: [Pedro Solbes](../sources/wikipedia-pedro-solbes.md) · grade A
+  > Source: [[sources/wikipedia-pedro-solbes|Pedro Solbes]] · grade A
 
-- [European Investment Bank (EIB)](../organisations/european-investment-bank-eib.md) — board_member  
+- [[organisations/european-investment-bank-eib|European Investment Bank (EIB)]] — board_member  
   > "European Investment Bank (EIB), ex-officio member of the Board of Governors (2004–2009)"
-  > Source: [Pedro Solbes](../sources/wikipedia-pedro-solbes.md) · grade A
+  > Source: [[sources/wikipedia-pedro-solbes|Pedro Solbes]] · grade A
 
 ## Chair / president
 
-- [FRIDE](../organisations/fride.md) — chair  
+- [[organisations/fride|FRIDE]] — chair  
   > "He was the president of FRIDE, Madrid-based think tank."
-  > Source: [Pedro Solbes](../sources/wikipedia-pedro-solbes.md) · grade A
+  > Source: [[sources/wikipedia-pedro-solbes|Pedro Solbes]] · grade A

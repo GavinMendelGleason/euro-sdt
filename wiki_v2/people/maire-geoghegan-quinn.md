@@ -20,78 +20,78 @@ Commissioner
 
 - Research, Innovation and Science  
   > "She was nominated in November 2009 by the Taoiseach Brian Cowen to become Ireland's European Commissioner, and was subsequently allocated the Research, Innovation and Science portfolio."
-  > Source: [Maire Geoghegan Quinn](../sources/wikipedia-maire-geoghegan-quinn.md) · grade A
+  > Source: [[sources/wikipedia-maire-geoghegan-quinn|Maire Geoghegan Quinn]] · grade A
 
 ## Nominated by
 
 - IRL  
   > "She was nominated in November 2009 by the Taoiseach Brian Cowen to become Ireland's European Commissioner, and was subsequently allocated the Research, Innovation and Science portfolio."
-  > Source: [Maire Geoghegan Quinn](../sources/wikipedia-maire-geoghegan-quinn.md) · grade C
+  > Source: [[sources/wikipedia-maire-geoghegan-quinn|Maire Geoghegan Quinn]] · grade C
 
 ## Country
 
 - Ireland  
   > "Máire Geoghegan-Quinn (; née Geoghegan; born 5 September 1950) is an Irish former Fianna Fáil politician who served as a European Commissioner from 2010 to 2014, and as a cabinet minister in various p"
-  > Source: [Maire Geoghegan Quinn](../sources/wikipedia-maire-geoghegan-quinn.md) · grade C
+  > Source: [[sources/wikipedia-maire-geoghegan-quinn|Maire Geoghegan Quinn]] · grade C
 
 ## Education
 
-- [Carysfort College](../organisations/carysfort-college.md)  
+- [[organisations/carysfort-college|Carysfort College]]  
   > "She was educated at Coláiste Muire, Tourmakeady, in County Mayo and at Carysfort College in Blackrock, Dublin, from where she qualified as a teacher."
-  > Source: [Maire Geoghegan Quinn](../sources/wikipedia-maire-geoghegan-quinn.md) · grade A
+  > Source: [[sources/wikipedia-maire-geoghegan-quinn|Maire Geoghegan Quinn]] · grade A
 
-- [Coláiste Muire, Tourmakeady](../organisations/colaiste-muire-tourmakeady.md)  
+- [[organisations/colaiste-muire-tourmakeady|Coláiste Muire, Tourmakeady]]  
   > "She was educated at Coláiste Muire, Tourmakeady, in County Mayo and at Carysfort College in Blackrock, Dublin, from where she qualified as a teacher."
-  > Source: [Maire Geoghegan Quinn](../sources/wikipedia-maire-geoghegan-quinn.md) · grade A
+  > Source: [[sources/wikipedia-maire-geoghegan-quinn|Maire Geoghegan Quinn]] · grade A
 
 ## Membership
 
-- [Fianna Fáil](../organisations/fianna-fail.md) — party_member  
+- [[organisations/fianna-fail|Fianna Fáil]] — party_member  
   > "In the early 1990s, Geoghegan-Quinn was considered one of the \"socially liberal elements\" within Fianna Fáil due to her support of both the 1992 X-Case referendums and gay law reform (Sexual Offences Bill 1993)."
-  > Source: [Maire Geoghegan Quinn](../sources/wikipedia-maire-geoghegan-quinn.md) · grade B
+  > Source: [[sources/wikipedia-maire-geoghegan-quinn|Maire Geoghegan Quinn]] · grade B
 
-- [Galway City Council](../organisations/galway-city-council.md)  
+- [[organisations/galway-city-council|Galway City Council]]  
   > "She served as a member of Galway City Council from 1985 to 1991."
-  > Source: [Maire Geoghegan Quinn](../sources/wikipedia-maire-geoghegan-quinn.md) · grade A
+  > Source: [[sources/wikipedia-maire-geoghegan-quinn|Maire Geoghegan Quinn]] · grade A
 
-- [Joint Committee on Marriage Breakdown](../organisations/joint-committee-on-marriage-breakdown.md)  
+- [[organisations/joint-committee-on-marriage-breakdown|Joint Committee on Marriage Breakdown]]  
   > "In opposition, she became chair of the first Joint Committee on Women's Rights in 1983 and a member of the Joint Committee on Marriage Breakdown."
-  > Source: [Maire Geoghegan Quinn](../sources/wikipedia-maire-geoghegan-quinn.md) · grade A
+  > Source: [[sources/wikipedia-maire-geoghegan-quinn|Maire Geoghegan Quinn]] · grade A
 
 ## Board / trustee
 
-- [Aer Lingus](../organisations/aer-lingus.md) — board_member  
+- [[organisations/aer-lingus|Aer Lingus]] — board_member  
   > "She became a non-executive director of Aer Lingus, a member of the board of the Declan Ganley-owned Ganley Group, and wrote a column for The Irish Times."
-  > Source: [Maire Geoghegan Quinn](../sources/wikipedia-maire-geoghegan-quinn.md) · grade A
+  > Source: [[sources/wikipedia-maire-geoghegan-quinn|Maire Geoghegan Quinn]] · grade A
 
-- [Ganley Group](../organisations/ganley-group.md) — board_member  
+- [[organisations/ganley-group|Ganley Group]] — board_member  
   > "She became a non-executive director of Aer Lingus, a member of the board of the Declan Ganley-owned Ganley Group, and wrote a column for The Irish Times."
-  > Source: [Maire Geoghegan Quinn](../sources/wikipedia-maire-geoghegan-quinn.md) · grade A
+  > Source: [[sources/wikipedia-maire-geoghegan-quinn|Maire Geoghegan Quinn]] · grade A
 
 ## Chair / president
 
 - dar-s-na-hollscoile — chair  
   > "In March 2021, NUI Galway announced her appointment as chairperson of Údarás na hOllscoile, the university's governing authority, on a four-year term until 2025."
-  > Source: [Maire Geoghegan Quinn](../sources/wikipedia-maire-geoghegan-quinn.md) · grade C
+  > Source: [[sources/wikipedia-maire-geoghegan-quinn|Maire Geoghegan Quinn]] · grade C
 
-- [independent panel to examine issues of gender equality among Irish higher education staff](../organisations/independent-panel-to-examine-issues-of-gender-equality-among-irish-higher-education-staff.md) — chair  
+- [[organisations/independent-panel-to-examine-issues-of-gender-equality-among-irish-higher-education-staff|independent panel to examine issues of gender equality among Irish higher education staff]] — chair  
   > "In July 2015, it was announced that she would chair an independent panel to examine issues of gender equality among Irish higher education staff."
-  > Source: [Maire Geoghegan Quinn](../sources/wikipedia-maire-geoghegan-quinn.md) · grade A
+  > Source: [[sources/wikipedia-maire-geoghegan-quinn|Maire Geoghegan Quinn]] · grade A
 
-- [Joint Committee on Women's Rights](../organisations/joint-committee-on-women-s-rights.md) — chair  
+- [[organisations/joint-committee-on-women-s-rights|Joint Committee on Women's Rights]] — chair  
   > "In opposition, she became chair of the first Joint Committee on Women's Rights in 1983 and a member of the Joint Committee on Marriage Breakdown."
-  > Source: [Maire Geoghegan Quinn](../sources/wikipedia-maire-geoghegan-quinn.md) · grade A
+  > Source: [[sources/wikipedia-maire-geoghegan-quinn|Maire Geoghegan Quinn]] · grade A
 
-- [Údarás na hOllscoile](../organisations/udaras-na-hollscoile.md) — chair  
+- [[organisations/udaras-na-hollscoile|Údarás na hOllscoile]] — chair  
   > "In March 2021, NUI Galway announced her appointment as chairperson of Údarás na hOllscoile, the university's governing authority, on a four-year term until 2025."
-  > Source: [Maire Geoghegan Quinn](../sources/wikipedia-maire-geoghegan-quinn.md) · grade C
+  > Source: [[sources/wikipedia-maire-geoghegan-quinn|Maire Geoghegan Quinn]] · grade C
 
 ## Employment
 
-- [European Court of Auditors](../organisations/european-court-of-auditors.md) — employed_by  
+- [[organisations/european-court-of-auditors|European Court of Auditors]] — employed_by  
   > "Geoghegan-Quinn was appointed to the European Court of Auditors in 1999, replacing former Labour Party politician and Minister Barry Desmond."
-  > Source: [Maire Geoghegan Quinn](../sources/wikipedia-maire-geoghegan-quinn.md) · grade C
+  > Source: [[sources/wikipedia-maire-geoghegan-quinn|Maire Geoghegan Quinn]] · grade C
 
-- [The Irish Times](../organisations/the-irish-times.md) — employed_by  
+- [[organisations/the-irish-times|The Irish Times]] — employed_by  
   > "She became a non-executive director of Aer Lingus, a member of the board of the Declan Ganley-owned Ganley Group, and wrote a column for The Irish Times."
-  > Source: [Maire Geoghegan Quinn](../sources/wikipedia-maire-geoghegan-quinn.md) · grade A
+  > Source: [[sources/wikipedia-maire-geoghegan-quinn|Maire Geoghegan Quinn]] · grade A

@@ -16,5 +16,5 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (1)
 
-- [Pekka Ala-Pietilä](../people/pekka-ala-pietila.md) — educated_at — University of Helsinki
+- [[people/pekka-ala-pietila|Pekka Ala-Pietilä]] — educated_at — University of Helsinki
   > "Born in Asikkala, he holds an honorary Doctor in Technology from Tampere University of Technology and in Science from the University of Helsinki, and is a Knight 1st Class of the Order of the White Rose of Finland."

@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Paolo Gentiloni](../people/paolo-gentiloni.md) — chair  
+- [[people/paolo-gentiloni|Paolo Gentiloni]] — chair  
   > "From 2005 until 2006, he was Chairman of the Broadcasting Services Watchdog Committee; the committee oversees the activity of state broadcaster RAI, which is publicly funded."
-  > Source: [Paolo Gentiloni](../sources/wikipedia-paolo-gentiloni.md) · grade A
+  > Source: [[sources/wikipedia-paolo-gentiloni|Paolo Gentiloni]] · grade A

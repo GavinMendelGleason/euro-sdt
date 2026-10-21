@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Adam Bielan](../people/adam-bielan.md) — chair  
+- [[people/adam-bielan|Adam Bielan]] — chair  
   > "In 1999, he became vice-chairman of the European Democrat Students , in which capacity he served for one year."
-  > Source: [Adam Bielan](../sources/wikipedia-adam-bielan.md) · grade A
+  > Source: [[sources/wikipedia-adam-bielan|Adam Bielan]] · grade A

@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Helena Dalli](../people/helena-dalli.md) — founder  
+- [[people/helena-dalli|Helena Dalli]] — founder  
   > "She also set up an LGBTIQ Consultative Council, a Consultative Council for Women's Rights and a Forum on Integration Affairs."
-  > Source: [Helena Dalli](../sources/wikipedia-helena-dalli.md) · grade C
+  > Source: [[sources/wikipedia-helena-dalli|Helena Dalli]] · grade C

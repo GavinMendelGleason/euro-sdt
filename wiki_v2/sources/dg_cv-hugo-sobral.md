@@ -15,7 +15,7 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (2)
 
-- [Hugo Sobral](../people/hugo-sobral.md) — affiliated_with — Instituto de Estudos Estratégicos Internacionais
+- [[people/hugo-sobral|Hugo Sobral]] — affiliated_with — Instituto de Estudos Estratégicos Internacionais
   > " 1997 – 1998: Research Assistant, Instituto de Estudos Estratégicos Internacionais, Lisbon/Portugal"
-- [Hugo Sobral](../people/hugo-sobral.md) — held_position — Deputy Director-General → Directorate-General for Regional and Urban Policy
+- [[people/hugo-sobral|Hugo Sobral]] — held_position — Deputy Director-General → Directorate-General for Regional and Urban Policy
   > " Since June 2025 Deputy Director-General for Programme Implementation, DG REGIO"

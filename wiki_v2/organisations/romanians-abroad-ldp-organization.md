@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Eugen Tomac](../people/eugen-tomac.md) — chair  
+- [[people/eugen-tomac|Eugen Tomac]] — chair  
   > "As first Vice-Chair of the Romanians Abroad LDP organization, he was proposed to run the campaign for the Parliamentary elections in 2008, applying for the seat of Deputy, representing the Romanians from Eastern Europe and Asia."
-  > Source: [Eugen Tomac](../sources/wikipedia-eugen-tomac.md) · grade A
+  > Source: [[sources/wikipedia-eugen-tomac|Eugen Tomac]] · grade A

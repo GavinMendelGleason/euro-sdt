@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Christos Stylianides](../people/christos-stylianides.md)  
+- [[people/christos-stylianides|Christos Stylianides]]  
   > "In 1984, he received his degree as dental surgeon from Aristotelian University in Thessaloniki, Greece."
-  > Source: [Christos Stylianides](../sources/wikipedia-christos-stylianides.md) · grade A
+  > Source: [[sources/wikipedia-christos-stylianides|Christos Stylianides]] · grade A

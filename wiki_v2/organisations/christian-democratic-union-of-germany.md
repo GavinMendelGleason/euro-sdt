@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Wopke Hoekstra](../people/wopke-hoekstra.md) — attendee  
+- [[people/wopke-hoekstra|Wopke Hoekstra]] — attendee  
   > "Hoekstra reiterated his reluctance on eurozone reform at a meeting of the financial council of the Christian Democratic Union of Germany in 2018, warning against reforms initiated by Germany and France without the support of other member states or the public."
-  > Source: [Wopke Hoekstra](../sources/wikipedia-wopke-hoekstra.md) · grade C
+  > Source: [[sources/wikipedia-wopke-hoekstra|Wopke Hoekstra]] · grade C

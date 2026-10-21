@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Mario Monti](../people/mario-monti.md)  
+- [[people/mario-monti|Mario Monti]]  
   > "On 7 May 2013, he became a member of the Commission for Foreign Affairs and Emigration."
-  > Source: [Mario Monti](../sources/wikipedia-mario-monti.md) · grade A
+  > Source: [[sources/wikipedia-mario-monti|Mario Monti]] · grade A

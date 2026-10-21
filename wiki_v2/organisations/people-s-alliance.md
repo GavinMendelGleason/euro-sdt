@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Miguel Arias Cañete](../people/miguel-arias-canete.md) — party_member  
+- [[people/miguel-arias-canete|Miguel Arias Cañete]] — party_member  
   > "Arias entered politics with the People's Alliance (AP) in 1982, serving as a member of the Parliament of Andalusia from 1982 to 1986, representing Cádiz."
-  > Source: [Miguel Arias Canete](../sources/wikipedia-miguel-arias-canete.md) · grade A
+  > Source: [[sources/wikipedia-miguel-arias-canete|Miguel Arias Canete]] · grade A

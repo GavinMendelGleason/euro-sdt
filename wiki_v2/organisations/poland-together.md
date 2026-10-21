@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Adam Bielan](../people/adam-bielan.md)  
+- [[people/adam-bielan|Adam Bielan]]  
   > "He joined the newly found Poland Together party in January, 2014."
-  > Source: [Adam Bielan](../sources/wikipedia-adam-bielan.md) · grade A
+  > Source: [[sources/wikipedia-adam-bielan|Adam Bielan]] · grade A

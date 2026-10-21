@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Godelieve Quisthoudt-Rowohl](../people/godelieve-quisthoudt-rowohl.md)  
+- [[people/godelieve-quisthoudt-rowohl|Godelieve Quisthoudt-Rowohl]]  
   > "After graduating, she did a PhD at the Max Planck Institute for Biophysical Chemistry in Göttingen from 1972 to 1973."
-  > Source: [Godelieve Quisthoudt Rowohl](../sources/wikipedia-godelieve-quisthoudt-rowohl.md) · grade B
+  > Source: [[sources/wikipedia-godelieve-quisthoudt-rowohl|Godelieve Quisthoudt Rowohl]] · grade B

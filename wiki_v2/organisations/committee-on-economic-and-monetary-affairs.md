@@ -15,21 +15,21 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Christophe Hansen](../people/christophe-hansen.md)  
+- [[people/christophe-hansen|Christophe Hansen]]  
   > "as a member of the Committee on International Trade (INTA) as a substitute on the Committee on Economic and Monetary Affairs (ECON) as a substitute on the Committee on the Environment, Public Health and Food Safety (ENVI) As part of his committee assignments, Hansen served as rapporteur on the European Parliament recommendation of 18 June 2020 on the negotiations for a new partnership with the Uni […]"
-  > Source: [Christophe Hansen](../sources/wikipedia-christophe-hansen.md) · grade A
-- [Dan Jørgensen](../people/dan-jrgensen.md)  
+  > Source: [[sources/wikipedia-christophe-hansen|Christophe Hansen]] · grade A
+- [[people/dan-jrgensen|Dan Jørgensen]]  
   > "He served as vice-chair of the Committee on the Environment, Public Health and Food Safety from 2004, and was a substitute on the Committee on Economic and Monetary Affairs ."
-  > Source: [Dan Jrgensen](../sources/wikipedia-dan-jrgensen.md) · grade B
-- [Elisa Ferreira](../people/elisa-ferreira.md)  
+  > Source: [[sources/wikipedia-dan-jrgensen|Dan Jrgensen]] · grade B
+- [[people/elisa-ferreira|Elisa Ferreira]]  
   > "Throughout her time in parliament, she served as a member of the Committee on Economic and Monetary Affairs."
-  > Source: [Elisa Ferreira](../sources/wikipedia-elisa-ferreira.md) · grade A
-- [Iliana Ivanova](../people/iliana-ivanova.md)  
+  > Source: [[sources/wikipedia-elisa-ferreira|Elisa Ferreira]] · grade A
+- [[people/iliana-ivanova|Iliana Ivanova]]  
   > "During that period, she served as vice-chair of the Committee on Budgetary Control, Vice-chair of the Special Committee on the Economic, Financial and Social crisis, member of the Committee on the Internal Market and Consumer Protection and as substitute member of the Committee on Economic and Monetary Affairs."
-  > Source: [Iliana Ivanova](../sources/wikipedia-iliana-ivanova.md) · grade A
-- [Mia De Vits](../people/mia-de-vits.md)  
+  > Source: [[sources/wikipedia-iliana-ivanova|Iliana Ivanova]] · grade A
+- [[people/mia-de-vits|Mia De Vits]]  
   > "She was a substitute for the Committee on Economic and Monetary Affairs ."
-  > Source: [Mia De Vits](../sources/wikipedia-mia-de-vits.md) · grade B
-- [Valdis Dombrovskis](../people/valdis-dombrovskis.md)  
+  > Source: [[sources/wikipedia-mia-de-vits|Mia De Vits]] · grade B
+- [[people/valdis-dombrovskis|Valdis Dombrovskis]]  
   > "He is also a Substitute at Committee on Economic and Monetary Affairs, Committee on Budgetary Control and delegation to the EU-Kazakhstan, EU-Kyrgyzstan, and EU-Uzbekistan Parliamentary Cooperation Committees, and for relations with Tajikistan, Turkmenistan and Mongolia."
-  > Source: [Valdis Dombrovskis](../sources/wikipedia-valdis-dombrovskis.md) · grade B
+  > Source: [[sources/wikipedia-valdis-dombrovskis|Valdis Dombrovskis]] · grade B

@@ -20,46 +20,46 @@ Commissioner · IRL
 
 - Internal Market and Services  
   > "He was appointed to the Internal Market and Services portfolio, by President of the European Commission José Manuel Barroso."
-  > Source: [Charlie Mccreevy](../sources/wikipedia-charlie-mccreevy.md) · grade A
+  > Source: [[sources/wikipedia-charlie-mccreevy|Charlie Mccreevy]] · grade A
 
 ## Nominated by
 
 - IRL  
   > "European Commissioner In 2004, McCreevy was selected by the Government of Ireland to replace David Byrne as Ireland's European Commissioner."
-  > Source: [Charlie Mccreevy](../sources/wikipedia-charlie-mccreevy.md) · grade C
+  > Source: [[sources/wikipedia-charlie-mccreevy|Charlie Mccreevy]] · grade C
 
 ## Education
 
-- [Gormanston College](../organisations/gormanston-college.md)  
+- [[organisations/gormanston-college|Gormanston College]]  
   > "Born in Sallins, County Kildare, McCreevy was educated locally at Naas by the Congregation of Christian Brothers at Naas C.B.S., and later at Gormanston College."
-  > Source: [Charlie Mccreevy](../sources/wikipedia-charlie-mccreevy.md) · grade A
+  > Source: [[sources/wikipedia-charlie-mccreevy|Charlie Mccreevy]] · grade A
 
-- [Naas C.B.S.](../organisations/naas-c-b-s.md)  
+- [[organisations/naas-c-b-s|Naas C.B.S.]]  
   > "Born in Sallins, County Kildare, McCreevy was educated locally at Naas by the Congregation of Christian Brothers at Naas C.B.S., and later at Gormanston College."
-  > Source: [Charlie Mccreevy](../sources/wikipedia-charlie-mccreevy.md) · grade A
+  > Source: [[sources/wikipedia-charlie-mccreevy|Charlie Mccreevy]] · grade A
 
 ## Membership
 
-- [Bilderberg Group](../organisations/bilderberg-group.md)  
+- [[organisations/bilderberg-group|Bilderberg Group]]  
   > "McCreevy is a member of the Bilderberg Group."
-  > Source: [Charlie Mccreevy](../sources/wikipedia-charlie-mccreevy.md) · grade A
+  > Source: [[sources/wikipedia-charlie-mccreevy|Charlie Mccreevy]] · grade A
 
 ## Board / trustee
 
-- [NBNK Investments](../organisations/nbnk-investments.md) — board_member  
+- [[organisations/nbnk-investments|NBNK Investments]] — board_member  
   > "Following his departure from the commission, McCreevy was forced to resign from the board of a new banking firm, NBNK Investments, after an EU ethics committee found a conflict of interest with his work as a European Commissioner in charge of financial regulation."
-  > Source: [Charlie Mccreevy](../sources/wikipedia-charlie-mccreevy.md) · grade A
+  > Source: [[sources/wikipedia-charlie-mccreevy|Charlie Mccreevy]] · grade A
 
-- [Ryanair](../organisations/ryanair.md) — board_member  
+- [[organisations/ryanair|Ryanair]] — board_member  
   > "McCreevy joined the board of Sports Direct International plc on 31 March 2011 and is also a director of Ryanair."
-  > Source: [Charlie Mccreevy](../sources/wikipedia-charlie-mccreevy.md) · grade A
+  > Source: [[sources/wikipedia-charlie-mccreevy|Charlie Mccreevy]] · grade A
 
-- [Sports Direct International plc](../organisations/sports-direct-international-plc.md) — board_member  
+- [[organisations/sports-direct-international-plc|Sports Direct International plc]] — board_member  
   > "McCreevy joined the board of Sports Direct International plc on 31 March 2011 and is also a director of Ryanair."
-  > Source: [Charlie Mccreevy](../sources/wikipedia-charlie-mccreevy.md) · grade A
+  > Source: [[sources/wikipedia-charlie-mccreevy|Charlie Mccreevy]] · grade A
 
 ## Employment
 
-- [European Commission](../organisations/european-commission.md) — employed_by  
+- [[organisations/european-commission|European Commission]] — employed_by  
   > "In 2004, McCreevy was selected by the Government of Ireland to replace David Byrne as Ireland's European Commissioner."
-  > Source: [Charlie Mccreevy](../sources/wikipedia-charlie-mccreevy.md) · grade C
+  > Source: [[sources/wikipedia-charlie-mccreevy|Charlie Mccreevy]] · grade C

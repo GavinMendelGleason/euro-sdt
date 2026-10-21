@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Hanne Dahl](../people/hanne-dahl.md)  
+- [[people/hanne-dahl|Hanne Dahl]]  
   > "&#160;Since 2014, she has been a student chaplain at Aalborg Budolfi Deanery."
-  > Source: [Hanne Dahl](../sources/wikipedia-hanne-dahl.md) · grade B
+  > Source: [[sources/wikipedia-hanne-dahl|Hanne Dahl]] · grade B

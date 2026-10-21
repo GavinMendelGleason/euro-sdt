@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Olli Rehn](../people/olli-rehn.md) — board_member  
+- [[people/olli-rehn|Olli Rehn]] — board_member  
   > "Academy of European Law (ERA), member of the board of trustees"
-  > Source: [Olli Rehn](../sources/wikipedia-olli-rehn.md) · grade A
+  > Source: [[sources/wikipedia-olli-rehn|Olli Rehn]] · grade A

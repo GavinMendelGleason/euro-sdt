@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Ján Figeľ](../people/jan-figel.md) — chair  
+- [[people/jan-figel|Ján Figeľ]] — chair  
   > "Following his election as the leader of the Christian Democratic Movement in Slovakia, Figeľ announced his resignation from the Commission on 21 September 2009."
-  > Source: [Jan Figel](../sources/wikipedia-jan-figel.md) · grade A
+  > Source: [[sources/wikipedia-jan-figel|Jan Figel]] · grade A

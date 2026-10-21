@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Kristalina Georgieva](../people/kristalina-georgieva.md)  
+- [[people/kristalina-georgieva|Kristalina Georgieva]]  
   > "Georgieva holds a PhD in economics and an MA in Political Economy and Sociology from the Karl Marx Higher Institute of Economics (now called University of National and World Economy) in Sofia."
-  > Source: [Kristalina Georgieva](../sources/wikipedia-kristalina-georgieva.md) · grade A
+  > Source: [[sources/wikipedia-kristalina-georgieva|Kristalina Georgieva]] · grade A

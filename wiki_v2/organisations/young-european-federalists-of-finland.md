@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Jutta Urpilainen](../people/jutta-urpilainen.md) — chair  
+- [[people/jutta-urpilainen|Jutta Urpilainen]] — chair  
   > "Urpilainen served as president of the Young European Federalists of Finland in 2001."
-  > Source: [Jutta Urpilainen](../sources/wikipedia-jutta-urpilainen.md) · grade A
+  > Source: [[sources/wikipedia-jutta-urpilainen|Jutta Urpilainen]] · grade A

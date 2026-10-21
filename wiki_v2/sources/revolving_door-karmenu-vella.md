@@ -15,5 +15,5 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (1)
 
-- [Karmenu Vella](../people/karmenu-vella.md) — board_member — Mid Med Bank - Malta
+- [[people/karmenu-vella|Karmenu Vella]] — board_member — Mid Med Bank - Malta
   > "In 1973 he started his own private practice as an Architect and Civil Engineer, and during that same year he was appointed a director until 1976 on Mid Med Bank - Malta."

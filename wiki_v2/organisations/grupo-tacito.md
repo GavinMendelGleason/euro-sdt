@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Marcelino Oreja](../people/marcelino-oreja.md) — founder  
+- [[people/marcelino-oreja|Marcelino Oreja]] — founder  
   > "In May 1973 he and a number of Madrid-based individuals founded the Grupo Tácito, a group of intellectuals, politicians and journalists, some of them coming from the Franco regime and others from the democratic and monarchist opposition to the dictatorship."
-  > Source: [Marcelino Oreja](../sources/wikipedia-marcelino-oreja.md) · grade A
+  > Source: [[sources/wikipedia-marcelino-oreja|Marcelino Oreja]] · grade A

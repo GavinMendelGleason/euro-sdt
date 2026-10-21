@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Flavio Cattaneo](../people/flavio-cattaneo.md) — employed_by  
+- [[people/flavio-cattaneo|Flavio Cattaneo]] — employed_by  
   > "From March 2016 to July 2017 Cattaneo held the title of CEO of Telecom Italia , replacing the resigning Marco Patuano."
-  > Source: [Flavio Cattaneo](../sources/wikipedia-flavio-cattaneo.md) · grade A
+  > Source: [[sources/wikipedia-flavio-cattaneo|Flavio Cattaneo]] · grade A

@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Christos Papoutsis](../people/christos-papoutsis.md)  
+- [[people/christos-papoutsis|Christos Papoutsis]]  
   > "Secretary of PASOK parliamentary group(2009-2010)."
-  > Source: [Christos Papoutsis](../sources/wikipedia-christos-papoutsis.md) · grade A
+  > Source: [[sources/wikipedia-christos-papoutsis|Christos Papoutsis]] · grade A

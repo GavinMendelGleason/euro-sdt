@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Timo Soini](../people/timo-soini.md)  
+- [[people/timo-soini|Timo Soini]]  
   > "Soini was a member of the Finnish Rural Party , and was its secretary-general from 1992."
-  > Source: [Timo Soini](../sources/wikipedia-timo-soini.md) · grade A
+  > Source: [[sources/wikipedia-timo-soini|Timo Soini]] · grade A

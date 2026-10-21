@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Elisa Ferreira](../people/elisa-ferreira.md)  
+- [[people/elisa-ferreira|Elisa Ferreira]]  
   > "Fundação Futebol Clube do Porto, Member of the Council (since 2026)"
-  > Source: [Elisa Ferreira](../sources/wikipedia-elisa-ferreira.md) · grade A
+  > Source: [[sources/wikipedia-elisa-ferreira|Elisa Ferreira]] · grade A

@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Johannes Hahn](../people/johannes-hahn.md) — chair  
+- [[people/johannes-hahn|Johannes Hahn]] — chair  
   > "Early life Hahn studied at the University of Vienna and began his political career in the youth organisation of the Austrian People's Party (JVP), where he was chairman of the Vienna group from 1980 to 1985."
-  > Source: [Johannes Hahn](../sources/wikipedia-johannes-hahn.md) · grade A
+  > Source: [[sources/wikipedia-johannes-hahn|Johannes Hahn]] · grade A

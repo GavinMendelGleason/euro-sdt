@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Kristalina Georgieva](../people/kristalina-georgieva.md) — chair  
+- [[people/kristalina-georgieva|Kristalina Georgieva]] — chair  
   > "Co-chair of World Economic Forum High-Level Group on Humanitarian Investing"
-  > Source: [Kristalina Georgieva](../sources/wikipedia-kristalina-georgieva.md) · grade A
+  > Source: [[sources/wikipedia-kristalina-georgieva|Kristalina Georgieva]] · grade A

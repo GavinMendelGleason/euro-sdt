@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Sir Leon Brittan](../people/sir-leon-brittan.md) — employed_by  
+- [[people/sir-leon-brittan|Sir Leon Brittan]] — employed_by  
   > "Between 1979 and 1981, he was Minister of State at the Home Office."
-  > Source: [Sir Leon Brittan](../sources/wikipedia-sir-leon-brittan.md) · grade C
+  > Source: [[sources/wikipedia-sir-leon-brittan|Sir Leon Brittan]] · grade C

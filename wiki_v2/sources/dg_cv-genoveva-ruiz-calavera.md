@@ -15,7 +15,7 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (2)
 
-- [Genoveva Ruiz Calavera](../people/genoveva-ruiz-calavera.md) — educated_at — Marlborough School, Los Angeles, Us
+- [[people/genoveva-ruiz-calavera|Genoveva Ruiz Calavera]] — educated_at — Marlborough School, Los Angeles, Us
   > " 1980 - 1981: Senior Year, Marlborough School, Los Angeles, US"
-- [Genoveva Ruiz Calavera](../people/genoveva-ruiz-calavera.md) — held_position — Director-General → Directorate-General for Interpretation
+- [[people/genoveva-ruiz-calavera|Genoveva Ruiz Calavera]] — held_position — Director-General → Directorate-General for Interpretation
   > "Professional experience in the European Institutions  Since 1 April 2021: Director-General – Directorate-General Interpretation (SCIC)"

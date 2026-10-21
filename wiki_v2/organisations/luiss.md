@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Wopke Hoekstra](../people/wopke-hoekstra.md)  
+- [[people/wopke-hoekstra|Wopke Hoekstra]]  
   > "Hoekstra took elective courses in law and economics at LUISS in Rome in 2000, before he obtained an MBA degree at INSEAD in Fontainebleau, France and Singapore in 2005."
-  > Source: [Wopke Hoekstra](../sources/wikipedia-wopke-hoekstra.md) · grade A
+  > Source: [[sources/wikipedia-wopke-hoekstra|Wopke Hoekstra]] · grade A

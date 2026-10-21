@@ -15,5 +15,5 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (1)
 
-- [Colin Scicluna](../people/colin-scicluna.md) — educated_at — Faculty Of Laws – Tal-Qroqq, Malta
+- [[people/colin-scicluna|Colin Scicluna]] — educated_at — Faculty Of Laws – Tal-Qroqq, Malta
   > "93: Doctor of Laws, Faculty of Laws – Tal-Qroqq, Malta ¾ 1987 – 1"

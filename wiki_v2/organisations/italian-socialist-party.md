@@ -15,9 +15,9 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Carlo Tognoli](../people/carlo-tognoli.md)  
+- [[people/carlo-tognoli|Carlo Tognoli]]  
   > "Biography [ edit ] Tognoli was born at Milan and joined the Italian Socialist Party (Partito Socialista Italiano, or PSI) in 1958."
-  > Source: [Carlo Tognoli](../sources/wikipedia-carlo-tognoli.md) · grade A
-- [Giovanni Pittella](../people/giovanni-pittella.md)  
+  > Source: [[sources/wikipedia-carlo-tognoli|Carlo Tognoli]] · grade A
+- [[people/giovanni-pittella|Giovanni Pittella]]  
   > "Like his father and younger brother, Pittella began his political career in the Italian Socialist Party."
-  > Source: [Giovanni Pittella](../sources/wikipedia-giovanni-pittella.md) · grade B
+  > Source: [[sources/wikipedia-giovanni-pittella|Giovanni Pittella]] · grade B

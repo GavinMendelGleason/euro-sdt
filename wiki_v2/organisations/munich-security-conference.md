@@ -28,9 +28,9 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Federica Mogherini](../people/federica-mogherini.md) — advisory_board  
+- [[people/federica-mogherini|Federica Mogherini]] — advisory_board  
   > "Munich Security Conference, member of the Advisory Council"
-  > Source: [Federica Mogherini](../sources/wikipedia-federica-mogherini.md) · grade A
-- [Ursula von der Leyen](../people/ursula-von-der-leyen.md) — advisory_board  
+  > Source: [[sources/wikipedia-federica-mogherini|Federica Mogherini]] · grade A
+- [[people/ursula-von-der-leyen|Ursula von der Leyen]] — advisory_board  
   > "Munich Security Conference, Member of the Advisory Council (2013–2019)"
-  > Source: [Ursula Von Der Leyen](../sources/wikipedia-ursula-von-der-leyen.md) · grade A
+  > Source: [[sources/wikipedia-ursula-von-der-leyen|Ursula Von Der Leyen]] · grade A

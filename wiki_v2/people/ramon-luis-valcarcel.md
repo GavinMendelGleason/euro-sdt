@@ -18,6 +18,6 @@ Mep
 
 ## Chair / president
 
-- [Committee of the Regions (CoR) of the European Union](../organisations/committee-of-the-regions-cor-of-the-european-union.md) — chair  
+- [[organisations/committee-of-the-regions-cor-of-the-european-union|Committee of the Regions (CoR) of the European Union]] — chair  
   > "Prior to his service in the European Parliament, he served as President of the Autonomous Community of the Region of Murcia from 1995 to 2014, and as a former president of the Committee of the Regions (CoR) of the European Union ."
-  > Source: [Ramn Luis Valcrcel](../sources/wikipedia-ramn-luis-valcrcel.md) · grade C
+  > Source: [[sources/wikipedia-ramn-luis-valcrcel|Ramn Luis Valcrcel]] · grade C

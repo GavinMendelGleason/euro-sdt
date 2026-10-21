@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Karel Van Miert](../people/karel-van-miert.md) — employed_by  
+- [[people/karel-van-miert|Karel Van Miert]] — employed_by  
   > "He also worked with Eli Lilly and Company, a global pharmaceutical corporation."
-  > Source: [Karel Van Miert](../sources/wikipedia-karel-van-miert.md) · grade A
+  > Source: [[sources/wikipedia-karel-van-miert|Karel Van Miert]] · grade A

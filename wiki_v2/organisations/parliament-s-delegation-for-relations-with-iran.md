@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Dan Jørgensen](../people/dan-jrgensen.md)  
+- [[people/dan-jrgensen|Dan Jørgensen]]  
   > "In addition to his committee assignments, he was also a member of the parliament's delegation for relations with Iran and a substitute on the delegation for relations with the United States."
-  > Source: [Dan Jrgensen](../sources/wikipedia-dan-jrgensen.md) · grade A
+  > Source: [[sources/wikipedia-dan-jrgensen|Dan Jrgensen]] · grade A

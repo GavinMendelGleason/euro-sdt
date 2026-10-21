@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Pascal Lamy](../people/pascal-lamy.md) — fellow  
+- [[people/pascal-lamy|Pascal Lamy]] — fellow  
   > "Other activities Corporate boards Danone, Member of the Mission Committee (since 2020) Bosch, Member of the International Advisory Committee (since 2015) Non-profit organizations Africa Europe Foundation (AEF), Member of the High-Level Group of Personalities on Africa-Europe Relations (since 2020) Berggruen Institute, Member of the Council for the Future of Europe Broader European Leadership Agend […]"
-  > Source: [Pascal Lamy](../sources/wikipedia-pascal-lamy.md) · grade A
+  > Source: [[sources/wikipedia-pascal-lamy|Pascal Lamy]] · grade A

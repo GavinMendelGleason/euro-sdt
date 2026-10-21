@@ -18,42 +18,42 @@ Commissioner · SVN
 
 ## Commission service
 
-- [VdL II Commission](../commissions/vdl-ii-commission.md)  
+- [[commissions/vdl-ii-commission|VdL II Commission]]  
   > "Since December 2024, she is the European Commissioner for Enlargement in the second von der Leyen's Commission."
-  > Source: [Marta Kos](../sources/wikipedia-marta-kos.md) · grade C
+  > Source: [[sources/wikipedia-marta-kos|Marta Kos]] · grade C
 
 ## Portfolio
 
 - European Commissioner for Enlargement  
   > "Since December 2024, she is the European Commissioner for Enlargement in the second von der Leyen's Commission."
-  > Source: [Marta Kos](../sources/wikipedia-marta-kos.md) · grade A
+  > Source: [[sources/wikipedia-marta-kos|Marta Kos]] · grade A
 
 ## Country
 
 - Slovenia  
   > "Marta Kos (Slovene pronunciation: [ˈmáːrta ˈkóːs]; born 28 June 1965) is a Slovenian diplomat and politician."
-  > Source: [Marta Kos](../sources/wikipedia-marta-kos.md) · grade A
+  > Source: [[sources/wikipedia-marta-kos|Marta Kos]] · grade A
 
 ## Membership
 
-- [Freedom Movement](../organisations/freedom-movement.md) — party_member  
+- [[organisations/freedom-movement|Freedom Movement]] — party_member  
   > "Following the withdrawal she resigned as Freedom Movement vice president."
-  > Source: [Marta Kos](../sources/wikipedia-marta-kos.md) · grade A
+  > Source: [[sources/wikipedia-marta-kos|Marta Kos]] · grade A
 
 ## Employment
 
-- [Chamber of Commerce and Industry](../organisations/chamber-of-commerce-and-industry.md) — chair; employed_by  
+- [[organisations/chamber-of-commerce-and-industry|Chamber of Commerce and Industry]] — chair; employed_by  
   > "In 2000, she was appointed vice president of the Chamber of Commerce and Industry."
-  > Source: [Marta Kos](../sources/wikipedia-marta-kos.md) · grade A
+  > Source: [[sources/wikipedia-marta-kos|Marta Kos]] · grade A
 
-- [Deutsche Welle](../organisations/deutsche-welle.md) — employed_by  
+- [[organisations/deutsche-welle|Deutsche Welle]] — employed_by  
   > "She studied journalism and joined the sports division of RTV, and later moved to Germany where she worked for Deutsche Welle and as Bonn correspondent for RTV starting in 1993."
-  > Source: [Marta Kos](../sources/wikipedia-marta-kos.md) · grade A
+  > Source: [[sources/wikipedia-marta-kos|Marta Kos]] · grade A
 
-- [RTV](../organisations/rtv.md) — employed_by  
+- [[organisations/rtv|RTV]] — employed_by  
   > "She studied journalism and joined the sports division of RTV, and later moved to Germany where she worked for Deutsche Welle and as Bonn correspondent for RTV starting in 1993."
-  > Source: [Marta Kos](../sources/wikipedia-marta-kos.md) · grade A
+  > Source: [[sources/wikipedia-marta-kos|Marta Kos]] · grade A
 
-- [Slovenian government information office](../organisations/slovenian-government-information-office.md) — employed_by  
+- [[organisations/slovenian-government-information-office|Slovenian government information office]] — employed_by  
   > "From 1997 to 1999, she served as director of the Slovenian government information office and as spokesperson of the government."
-  > Source: [Marta Kos](../sources/wikipedia-marta-kos.md) · grade A
+  > Source: [[sources/wikipedia-marta-kos|Marta Kos]] · grade A

@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Pascal Lamy](../people/pascal-lamy.md) — employed_by  
+- [[people/pascal-lamy|Pascal Lamy]] — employed_by  
   > "Lamy briefly moved into business at Crédit Lyonnais."
-  > Source: [Pascal Lamy](../sources/wikipedia-pascal-lamy.md) · grade C
+  > Source: [[sources/wikipedia-pascal-lamy|Pascal Lamy]] · grade C

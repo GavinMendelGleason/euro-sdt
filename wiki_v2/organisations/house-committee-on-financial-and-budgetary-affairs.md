@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Markos Kyprianou](../people/markos-kyprianou.md) — chair  
+- [[people/markos-kyprianou|Markos Kyprianou]] — chair  
   > "1999–2003 Chairman of the House Committee on Financial and Budgetary Affairs"
-  > Source: [Markos Kyprianou](../sources/wikipedia-markos-kyprianou.md) · grade A
+  > Source: [[sources/wikipedia-markos-kyprianou|Markos Kyprianou]] · grade A

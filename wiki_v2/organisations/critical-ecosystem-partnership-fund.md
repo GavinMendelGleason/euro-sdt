@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Janez Potocnik](../people/janez-potocnik.md) — chair  
+- [[people/janez-potocnik|Janez Potocnik]] — chair  
   > "Critical Ecosystem Partnership Fund (CEPF), President of the long-term vision for the Balkans sub-region of the Mediterranean Biodiversity Hotspot"
-  > Source: [Janez Potocnik](../sources/wikipedia-janez-potocnik.md) · grade A
+  > Source: [[sources/wikipedia-janez-potocnik|Janez Potocnik]] · grade A

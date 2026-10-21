@@ -16,23 +16,23 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (10)
 
-- [Pál Schmitt](../people/pal-schmitt.md) — affiliated_with — Hungarian Olympic Committee
+- [[people/pal-schmitt|Pál Schmitt]] — affiliated_with — Hungarian Olympic Committee
   > "Political career [ edit ] Pál Schmitt in 2011 Between 1983 and 1989, Schmitt was the general secretary of the Hungarian Olympic Committee and under-secretary of sports between 1981 and 1990."
-- [Pál Schmitt](../people/pal-schmitt.md) — attendee — National Assembly of Hungary
+- [[people/pal-schmitt|Pál Schmitt]] — attendee — National Assembly of Hungary
   > "He became the Speaker of the National Assembly of Hungary after the Hungarian parliamentary election in 2010 ."
-- [Pál Schmitt](../people/pal-schmitt.md) — attendee — Hungarian Parliament
+- [[people/pal-schmitt|Pál Schmitt]] — attendee — Hungarian Parliament
   > "&#91; 12 &#93; Schmitt had been the deputy president of Fidesz and the speaker of the Hungarian Parliament."
-- [Pál Schmitt](../people/pal-schmitt.md) — chair — World Olympians Association
+- [[people/pal-schmitt|Pál Schmitt]] — chair — World Olympians Association
   > "He later became the Chief of Protocol of the International Olympic Committee (IOC) and presided over the World Olympians Association between 1999 and 2007."
-- [Pál Schmitt](../people/pal-schmitt.md) — chair — Delegation to the EU–Croatia Joint Parliamentary Committee
+- [[people/pal-schmitt|Pál Schmitt]] — chair — Delegation to the EU–Croatia Joint Parliamentary Committee
   > "Schmitt chaired the Delegation to the EU– Croatia Joint Parliamentary Committee."
-- [Pál Schmitt](../people/pal-schmitt.md) — employed_by — International Olympic Committee
+- [[people/pal-schmitt|Pál Schmitt]] — employed_by — International Olympic Committee
   > "He later became the Chief of Protocol of the International Olympic Committee (IOC) and presided over the World Olympians Association between 1999 and 2007."
-- [Pál Schmitt](../people/pal-schmitt.md) — member — MTK-VM
+- [[people/pal-schmitt|Pál Schmitt]] — member — MTK-VM
   > "&#91; 4 &#93; Sporting career [ edit ] Schmitt started a successful fencing career in 1955 competing for MTK-VM."
-- [Pál Schmitt](../people/pal-schmitt.md) — member — Hungarian National Fencing Team
+- [[people/pal-schmitt|Pál Schmitt]] — member — Hungarian National Fencing Team
   > "After winning two Hungarian Championship titles in individual competitions he participated as part of the Hungarian National Fencing Team 130 times between 1965 and 1977."
-- [Pál Schmitt](../people/pal-schmitt.md) — member — Fidesz – Hungarian Civic Union
+- [[people/pal-schmitt|Pál Schmitt]] — member — Fidesz – Hungarian Civic Union
   > "He led the party list of Fidesz in the 2009 European elections in Hungary and was elected as a Member of the European Parliament with the Fidesz – Hungarian Civic Union , to the Bureau of the European People's Party and was vice-chair of the European Parliament 's Committee on Culture and Education ."
-- [Pál Schmitt](../people/pal-schmitt.md) — member — European People's Party
+- [[people/pal-schmitt|Pál Schmitt]] — member — European People's Party
   > "He led the party list of Fidesz in the 2009 European elections in Hungary and was elected as a Member of the European Parliament with the Fidesz – Hungarian Civic Union , to the Bureau of the European People's Party and was vice-chair of the European Parliament 's Committee on Culture and Education ."

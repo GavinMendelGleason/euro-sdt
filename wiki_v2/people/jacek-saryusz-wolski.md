@@ -18,74 +18,74 @@ Mep
 
 ## Education
 
-- [centre-europ-en-universitaire-in-nancy-france](../organisations/centre-europ-en-universitaire-in-nancy-france.md)  
+- [[organisations/centre-europ-en-universitaire-in-nancy-france|centre-europ-en-universitaire-in-nancy-france]]  
   > "He also completed postgraduate studies at the Centre Européen Universitaire in Nancy, France ."
-  > Source: [Jacek Saryusz Wolski](../sources/wikipedia-jacek-saryusz-wolski.md) · grade C
+  > Source: [[sources/wikipedia-jacek-saryusz-wolski|Jacek Saryusz Wolski]] · grade C
 
-- [first-high-school-of-nicolaus-copernicus-in-d](../organisations/first-high-school-of-nicolaus-copernicus-in-d.md)  
+- [[organisations/first-high-school-of-nicolaus-copernicus-in-d|first-high-school-of-nicolaus-copernicus-in-d]]  
   > "&#91; 3 &#93; He graduated from the First High School of \"Nicolaus Copernicus\" in Łódź and he obtained a degree in economics from the University of Łódź ."
-  > Source: [Jacek Saryusz Wolski](../sources/wikipedia-jacek-saryusz-wolski.md) · grade C
+  > Source: [[sources/wikipedia-jacek-saryusz-wolski|Jacek Saryusz Wolski]] · grade C
 
-- [University Of Łódź](../organisations/university-of-odz.md)  
+- [[organisations/university-of-odz|University Of Łódź]]  
   > "&#91; 3 &#93; He graduated from the First High School of \"Nicolaus Copernicus\" in Łódź and he obtained a degree in economics from the University of Łódź ."
-  > Source: [Jacek Saryusz Wolski](../sources/wikipedia-jacek-saryusz-wolski.md) · grade A
+  > Source: [[sources/wikipedia-jacek-saryusz-wolski|Jacek Saryusz Wolski]] · grade A
 
 ## Membership
 
-- [Euro-Atlantic Association](../organisations/euro-atlantic-association.md)  
+- [[organisations/euro-atlantic-association|Euro-Atlantic Association]]  
   > "&#91; 18 &#93; &#91; 19 &#93; Other activities [ edit ] European Policy Centre , member of the Strategic Council European Union Institute at Collegium Civitas , director Natolin European Centre , chairman College of Europe Foundation at the College of Europe campus in Natolin , chairman Euro-Atlantic Association , member Polish Institute of International Affairs (PISM), deputy chairman German-Polish-Ukrainian Society (GPUS), member &#91; 20 &#93; Recognition [ edit ] Saryus"
-  > Source: [Jacek Saryusz Wolski](../sources/wikipedia-jacek-saryusz-wolski.md) · grade A
+  > Source: [[sources/wikipedia-jacek-saryusz-wolski|Jacek Saryusz Wolski]] · grade A
 
-- [European Conservatives and Reformists](../organisations/european-conservatives-and-reformists.md)  
+- [[organisations/european-conservatives-and-reformists|European Conservatives and Reformists]]  
   > "&#91; 14 &#93; In March of the same year he joined the parliamentary group of European Conservatives and Reformists ."
-  > Source: [Jacek Saryusz Wolski](../sources/wikipedia-jacek-saryusz-wolski.md) · grade A
+  > Source: [[sources/wikipedia-jacek-saryusz-wolski|Jacek Saryusz Wolski]] · grade A
 
-- [European Policy Centre](../organisations/european-policy-centre.md)  
+- [[organisations/european-policy-centre|European Policy Centre]]  
   > "&#91; 18 &#93; &#91; 19 &#93; Other activities [ edit ] European Policy Centre , member of the Strategic Council European Union Institute at Collegium Civitas , director Natolin European Centre , chairman College of Europe Foundation at the College of Europe campus in Natolin , chairman Euro-Atlantic Association , member Polish Institute of International Affairs (PISM), deputy chairman German-Polish-Ukrainian Society (GPUS), member &#91; 20 &#93; Recognition [ edit ] Saryus"
-  > Source: [Jacek Saryusz Wolski](../sources/wikipedia-jacek-saryusz-wolski.md) · grade A
+  > Source: [[sources/wikipedia-jacek-saryusz-wolski|Jacek Saryusz Wolski]] · grade A
 
-- [Friends of the EEAS](../organisations/friends-of-the-eeas.md)  
+- [[organisations/friends-of-the-eeas|Friends of the EEAS]]  
   > "&#91; 8 &#93; In 2010, Saryusz-Wolski joined the Friends of the EEAS , a unofficial and independent pressure group formed because of concerns that the High Representative of the Union for Foreign Affairs and Security Policy Catherine Ashton was not paying sufficient attention to the Parliament and was sharing too little information on the formation of the European External Action Service ."
-  > Source: [Jacek Saryusz Wolski](../sources/wikipedia-jacek-saryusz-wolski.md) · grade A
+  > Source: [[sources/wikipedia-jacek-saryusz-wolski|Jacek Saryusz Wolski]] · grade A
 
-- [German-Polish-Ukrainian Society (GPUS)](../organisations/german-polish-ukrainian-society-gpus.md)  
+- [[organisations/german-polish-ukrainian-society-gpus|German-Polish-Ukrainian Society (GPUS)]]  
   > "&#91; 18 &#93; &#91; 19 &#93; Other activities [ edit ] European Policy Centre , member of the Strategic Council European Union Institute at Collegium Civitas , director Natolin European Centre , chairman College of Europe Foundation at the College of Europe campus in Natolin , chairman Euro-Atlantic Association , member Polish Institute of International Affairs (PISM), deputy chairman German-Polish-Ukrainian Society (GPUS), member &#91; 20 &#93; Recognition [ edit ] Saryus"
-  > Source: [Jacek Saryusz Wolski](../sources/wikipedia-jacek-saryusz-wolski.md) · grade A
+  > Source: [[sources/wikipedia-jacek-saryusz-wolski|Jacek Saryusz Wolski]] · grade A
 
 ## Board / trustee
 
-- [College of Europe](../organisations/college-of-europe.md) — board_member  
+- [[organisations/college-of-europe|College of Europe]] — board_member  
   > "Saryusz-Wolski is chairman of the executive board of the “Foundation College of Europe”, in charge of the Natolin campus of the College of Europe ."
-  > Source: [Jacek Saryusz Wolski](../sources/wikipedia-jacek-saryusz-wolski.md) · grade A
+  > Source: [[sources/wikipedia-jacek-saryusz-wolski|Jacek Saryusz Wolski]] · grade A
 
-- [European Union Institute at Collegium Civitas](../organisations/european-union-institute-at-collegium-civitas.md) — board_member  
+- [[organisations/european-union-institute-at-collegium-civitas|European Union Institute at Collegium Civitas]] — board_member  
   > "&#91; 18 &#93; &#91; 19 &#93; Other activities [ edit ] European Policy Centre , member of the Strategic Council European Union Institute at Collegium Civitas , director Natolin European Centre , chairman College of Europe Foundation at the College of Europe campus in Natolin , chairman Euro-Atlantic Association , member Polish Institute of International Affairs (PISM), deputy chairman German-Polish-Ukrainian Society (GPUS), member &#91; 20 &#93; Recognition [ edit ] Saryus"
-  > Source: [Jacek Saryusz Wolski](../sources/wikipedia-jacek-saryusz-wolski.md) · grade A
+  > Source: [[sources/wikipedia-jacek-saryusz-wolski|Jacek Saryusz Wolski]] · grade A
 
 ## Chair / president
 
-- [EPP Energy Ministers Meeting](../organisations/epp-energy-ministers-meeting.md) — chair  
+- [[organisations/epp-energy-ministers-meeting|EPP Energy Ministers Meeting]] — chair  
   > "&#91; 9 &#93; In addition to his parliamentary assignments, Saryusz-Wolski chaired the EPP Energy Ministers Meeting until 2017."
-  > Source: [Jacek Saryusz Wolski](../sources/wikipedia-jacek-saryusz-wolski.md) · grade A
+  > Source: [[sources/wikipedia-jacek-saryusz-wolski|Jacek Saryusz Wolski]] · grade A
 
-- [Natolin European Centre](../organisations/natolin-european-centre.md) — chair  
+- [[organisations/natolin-european-centre|Natolin European Centre]] — chair  
   > "&#91; 18 &#93; &#91; 19 &#93; Other activities [ edit ] European Policy Centre , member of the Strategic Council European Union Institute at Collegium Civitas , director Natolin European Centre , chairman College of Europe Foundation at the College of Europe campus in Natolin , chairman Euro-Atlantic Association , member Polish Institute of International Affairs (PISM), deputy chairman German-Polish-Ukrainian Society (GPUS), member &#91; 20 &#93; Recognition [ edit ] Saryus"
-  > Source: [Jacek Saryusz Wolski](../sources/wikipedia-jacek-saryusz-wolski.md) · grade A
+  > Source: [[sources/wikipedia-jacek-saryusz-wolski|Jacek Saryusz Wolski]] · grade A
 
-- [Polish Institute of International Affairs (PISM)](../organisations/polish-institute-of-international-affairs-pism.md) — chair  
+- [[organisations/polish-institute-of-international-affairs-pism|Polish Institute of International Affairs (PISM)]] — chair  
   > "&#91; 18 &#93; &#91; 19 &#93; Other activities [ edit ] European Policy Centre , member of the Strategic Council European Union Institute at Collegium Civitas , director Natolin European Centre , chairman College of Europe Foundation at the College of Europe campus in Natolin , chairman Euro-Atlantic Association , member Polish Institute of International Affairs (PISM), deputy chairman German-Polish-Ukrainian Society (GPUS), member &#91; 20 &#93; Recognition [ edit ] Saryus"
-  > Source: [Jacek Saryusz Wolski](../sources/wikipedia-jacek-saryusz-wolski.md) · grade A
+  > Source: [[sources/wikipedia-jacek-saryusz-wolski|Jacek Saryusz Wolski]] · grade A
 
 ## Affiliation
 
-- [Civic Platform](../organisations/civic-platform.md)  
+- [[organisations/civic-platform|Civic Platform]]  
   > "Member of the European Parliament [ edit ] Saryusz-Wolski was elected an MEP at the European Parliament election on 13 June 2004 , as a candidate of Civic Platform , in the constituency #6 ( Łódź Voivodship ) receiving 66,589 votes (that is 16.92%, the best result in the region)."
-  > Source: [Jacek Saryusz Wolski](../sources/wikipedia-jacek-saryusz-wolski.md) · grade A
+  > Source: [[sources/wikipedia-jacek-saryusz-wolski|Jacek Saryusz Wolski]] · grade A
 
-- [Law and Justice](../organisations/law-and-justice.md)  
+- [[organisations/law-and-justice|Law and Justice]]  
   > "Polish diplomat and politician Jacek Emil Saryusz-Wolski (born 19 September 1948) is a Polish diplomat and PiS ( Law and Justice ) politician."
-  > Source: [Jacek Saryusz Wolski](../sources/wikipedia-jacek-saryusz-wolski.md) · grade B
+  > Source: [[sources/wikipedia-jacek-saryusz-wolski|Jacek Saryusz Wolski]] · grade B
 
-- [Polish delegation of centre-right MEPs](../organisations/polish-delegation-of-centre-right-meps.md)  
+- [[organisations/polish-delegation-of-centre-right-meps|Polish delegation of centre-right MEPs]]  
   > "He also served as vice-president and member of the national board of Civic Platform until October 2010 and as leader of the Polish delegation of centre-right MEPs until 2012."
-  > Source: [Jacek Saryusz Wolski](../sources/wikipedia-jacek-saryusz-wolski.md) · grade A
+  > Source: [[sources/wikipedia-jacek-saryusz-wolski|Jacek Saryusz Wolski]] · grade A

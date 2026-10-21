@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [David Byrne](../people/david-byrne.md) — founder  
+- [[people/david-byrne|David Byrne]] — founder  
   > "He co-founded Talking Heads in 1975 in New York City."
-  > Source: [David Byrne](../sources/wikipedia-david-byrne.md) · grade A
+  > Source: [[sources/wikipedia-david-byrne|David Byrne]] · grade A

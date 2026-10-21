@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Libor Rouček](../people/libor-roucek.md)  
+- [[people/libor-roucek|Libor Rouček]]  
   > "He was a former member of the Chamber of Deputies of the Czech Republic from 2002 to 2004 and spokesperson for the Government of the Czech Republic from 1998 to 2002."
-  > Source: [Libor Rouek](../sources/wikipedia-libor-rouek.md) · grade C
+  > Source: [[sources/wikipedia-libor-rouek|Libor Rouek]] · grade C

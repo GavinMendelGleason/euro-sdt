@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Josep Borrell](../people/josep-borrell.md)  
+- [[people/josep-borrell|Josep Borrell]]  
   > "Josep Borrell Fontelles (born 24 April 1947) is a Spanish politician who served as High Representative of the Union for Foreign Affairs and Security Policy and Vice-President of the European Commission from 2019 to 2024."
-  > Source: [Josep Borrell](../sources/wikipedia-josep-borrell.md) · grade A
+  > Source: [[sources/wikipedia-josep-borrell|Josep Borrell]] · grade A

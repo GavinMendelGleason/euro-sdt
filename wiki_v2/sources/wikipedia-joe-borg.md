@@ -16,13 +16,13 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (5)
 
-- [Joe Borg](../people/joe-borg.md) — board_member — Maltese Central Bank
+- [[people/joe-borg|Joe Borg]] — board_member — Maltese Central Bank
   > "From 1992 until 1995 he also served as member of the board of directors of the Maltese Central Bank."
-- [Joe Borg](../people/joe-borg.md) — chair — Mediterranean Academy of Diplomatic Studies
+- [[people/joe-borg|Joe Borg]] — chair — Mediterranean Academy of Diplomatic Studies
   > "Soon after the end of his term as Fisheries Commissioner in 2010, he was appointed chairman of the Mediterranean Academy of Diplomatic Studies and resumed lecturing at the University of Malta."
-- [Joe Borg](../people/joe-borg.md) — educated_at — University Of Wales
+- [[people/joe-borg|Joe Borg]] — educated_at — University Of Wales
   > "He graduated Doctor of Laws in Malta in 1975 and Master of Laws in Wales in 1988."
-- [Joe Borg](../people/joe-borg.md) — held_portfolio — Fisheries and Maritime Affairs
+- [[people/joe-borg|Joe Borg]] — held_portfolio — Fisheries and Maritime Affairs
   > "Prior to taking up the post of Commissioner for Fisheries and Maritime Affairs, he was Minister of Foreign Affairs and led Malta's EU-accession negotiations."
-- [Joe Borg](../people/joe-borg.md) — member — Nationalist Party
+- [[people/joe-borg|Joe Borg]] — member — Nationalist Party
   > "He was elected to Parliament in 1995 as a member of the Nationalist Party."

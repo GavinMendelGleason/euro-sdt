@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Iliana Ivanova](../people/iliana-ivanova.md) — chair  
+- [[people/iliana-ivanova|Iliana Ivanova]] — chair  
   > "In addition to her committee assignments, she was one of the vice-chairs of the parliament's delegation to China."
-  > Source: [Iliana Ivanova](../sources/wikipedia-iliana-ivanova.md) · grade C
+  > Source: [[sources/wikipedia-iliana-ivanova|Iliana Ivanova]] · grade C

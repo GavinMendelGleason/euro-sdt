@@ -16,17 +16,17 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (7)
 
-- [Patrick Pouyanné](../people/patrick-pouyanne.md) — board_member — Total
+- [[people/patrick-pouyanne|Patrick Pouyanné]] — board_member — Total
   > "&#91; 2 &#93; In May 2015, Pouyanné was elected as a member of the board of directors of Total."
-- [Patrick Pouyanné](../people/patrick-pouyanne.md) — board_member — Capgemini
+- [[people/patrick-pouyanne|Patrick Pouyanné]] — board_member — Capgemini
   > "&#91; 4 &#93; Other activities [ edit ] Corporate boards [ edit ] Capgemini , Member of the Board of Directors (since 2017) &#91; 5 &#93; Non-profit organizations [ edit ] Brookings Institution , Member of the Board of Trustees &#91; 6 &#93; European Round Table of Industrialists (ERT), Member &#91; 7 &#93; Polytechnic Institute of Paris , Member of the Board of Directors (since 2019) &#91; 8 &#93 […]"
-- [Patrick Pouyanné](../people/patrick-pouyanne.md) — board_member — Brookings Institution
+- [[people/patrick-pouyanne|Patrick Pouyanné]] — board_member — Brookings Institution
   > "&#91; 4 &#93; Other activities [ edit ] Corporate boards [ edit ] Capgemini , Member of the Board of Directors (since 2017) &#91; 5 &#93; Non-profit organizations [ edit ] Brookings Institution , Member of the Board of Trustees &#91; 6 &#93; European Round Table of Industrialists (ERT), Member &#91; 7 &#93; Polytechnic Institute of Paris , Member of the Board of Directors (since 2019) &#91; 8 &#93 […]"
-- [Patrick Pouyanné](../people/patrick-pouyanne.md) — board_member — Polytechnic Institute of Paris
+- [[people/patrick-pouyanne|Patrick Pouyanné]] — board_member — Polytechnic Institute of Paris
   > "&#91; 4 &#93; Other activities [ edit ] Corporate boards [ edit ] Capgemini , Member of the Board of Directors (since 2017) &#91; 5 &#93; Non-profit organizations [ edit ] Brookings Institution , Member of the Board of Trustees &#91; 6 &#93; European Round Table of Industrialists (ERT), Member &#91; 7 &#93; Polytechnic Institute of Paris , Member of the Board of Directors (since 2019) &#91; 8 &#93 […]"
-- [Patrick Pouyanné](../people/patrick-pouyanne.md) — educated_at — École Polytechnique
+- [[people/patrick-pouyanne|Patrick Pouyanné]] — educated_at — École Polytechnique
   > "At 20, he entered the École Polytechnique where he graduated with an engineering degree."
-- [Patrick Pouyanné](../people/patrick-pouyanne.md) — member — European Round Table of Industrialists (ERT)
+- [[people/patrick-pouyanne|Patrick Pouyanné]] — member — European Round Table of Industrialists (ERT)
   > "&#91; 4 &#93; Other activities [ edit ] Corporate boards [ edit ] Capgemini , Member of the Board of Directors (since 2017) &#91; 5 &#93; Non-profit organizations [ edit ] Brookings Institution , Member of the Board of Trustees &#91; 6 &#93; European Round Table of Industrialists (ERT), Member &#91; 7 &#93; Polytechnic Institute of Paris , Member of the Board of Directors (since 2019) &#91; 8 &#93 […]"
-- [Patrick Pouyanné](../people/patrick-pouyanne.md) — member — The Business Council
+- [[people/patrick-pouyanne|Patrick Pouyanné]] — member — The Business Council
   > "&#91; 4 &#93; Other activities [ edit ] Corporate boards [ edit ] Capgemini , Member of the Board of Directors (since 2017) &#91; 5 &#93; Non-profit organizations [ edit ] Brookings Institution , Member of the Board of Trustees &#91; 6 &#93; European Round Table of Industrialists (ERT), Member &#91; 7 &#93; Polytechnic Institute of Paris , Member of the Board of Directors (since 2019) &#91; 8 &#93 […]"

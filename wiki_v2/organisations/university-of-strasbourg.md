@@ -15,9 +15,9 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Jacques Santer](../people/jacques-santer.md)  
+- [[people/jacques-santer|Jacques Santer]]  
   > "Santer graduated in 1959 from Sciences Po, before receiving his doctorate in law from the University of Strasbourg in 1961."
-  > Source: [Jacques Santer](../sources/wikipedia-jacques-santer.md) · grade A
-- [Jean-Claude Juncker](../people/jean-claude-juncker.md)  
+  > Source: [[sources/wikipedia-jacques-santer|Jacques Santer]] · grade A
+- [[people/jean-claude-juncker|Jean-Claude Juncker]]  
   > "He studied law at the University of Strasbourg, graduating with a master's degree in 1979; although he was sworn into the Luxembourg Bar Council in 1980, he never practised as a lawyer."
-  > Source: [Jean Claude Juncker](../sources/wikipedia-jean-claude-juncker.md) · grade A
+  > Source: [[sources/wikipedia-jean-claude-juncker|Jean Claude Juncker]] · grade A

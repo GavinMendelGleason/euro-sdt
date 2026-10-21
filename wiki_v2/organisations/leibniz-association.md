@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Monika Wulf-Mathies](../people/monika-wulf-mathies.md)  
+- [[people/monika-wulf-mathies|Monika Wulf-Mathies]]  
   > "Leibniz Association, Member of the Senate (since 2010)"
-  > Source: [Monika Wulf Mathies](../sources/wikipedia-monika-wulf-mathies.md) · grade A
+  > Source: [[sources/wikipedia-monika-wulf-mathies|Monika Wulf Mathies]] · grade A

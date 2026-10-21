@@ -16,33 +16,33 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (15)
 
-- [Maria Luís Albuquerque](../people/maria-luis-albuquerque.md) — board_member — African Development Bank
+- [[people/maria-luis-albuquerque|Maria Luís Albuquerque]] — board_member — African Development Bank
   > "Other activities International organizations African Development Bank, ex-officio member of the board of governors (2013–2015) European Stability Mechanism, ex-officio member of the board of governors (2013–2015) European Investment Bank, ex-officio member of the board of governors (2013–2015) Corporate boards Morgan Stanley Europe, independent non-executive member of the board of directors (since […]"
-- [Maria Luís Albuquerque](../people/maria-luis-albuquerque.md) — board_member — European Stability Mechanism (ESM)
+- [[people/maria-luis-albuquerque|Maria Luís Albuquerque]] — board_member — European Stability Mechanism (ESM)
   > "Other activities International organizations African Development Bank, ex-officio member of the board of governors (2013–2015) European Stability Mechanism, ex-officio member of the board of governors (2013–2015) European Investment Bank, ex-officio member of the board of governors (2013–2015) Corporate boards Morgan Stanley Europe, independent non-executive member of the board of directors (since […]"
-- [Maria Luís Albuquerque](../people/maria-luis-albuquerque.md) — board_member — European Investment Bank (EIB)
+- [[people/maria-luis-albuquerque|Maria Luís Albuquerque]] — board_member — European Investment Bank (EIB)
   > "Other activities International organizations African Development Bank, ex-officio member of the board of governors (2013–2015) European Stability Mechanism, ex-officio member of the board of governors (2013–2015) European Investment Bank, ex-officio member of the board of governors (2013–2015) Corporate boards Morgan Stanley Europe, independent non-executive member of the board of directors (since […]"
-- [Maria Luís Albuquerque](../people/maria-luis-albuquerque.md) — board_member — African Development Bank
+- [[people/maria-luis-albuquerque|Maria Luís Albuquerque]] — board_member — African Development Bank
   > "Other activities International organizations African Development Bank, ex-officio member of the board of governors (2013–2015) European Stability Mechanism, ex-officio member of the board of governors (2013–2015) European Investment Bank, ex-officio member of the board of governors (2013–2015) Corporate boards Morgan Stanley Europe, independent non-executive member of the board of directors (since […]"
-- [Maria Luís Albuquerque](../people/maria-luis-albuquerque.md) — board_member — European Stability Mechanism (ESM)
+- [[people/maria-luis-albuquerque|Maria Luís Albuquerque]] — board_member — European Stability Mechanism (ESM)
   > "Other activities International organizations African Development Bank, ex-officio member of the board of governors (2013–2015) European Stability Mechanism, ex-officio member of the board of governors (2013–2015) European Investment Bank, ex-officio member of the board of governors (2013–2015) Corporate boards Morgan Stanley Europe, independent non-executive member of the board of directors (since […]"
-- [Maria Luís Albuquerque](../people/maria-luis-albuquerque.md) — board_member — African Development Bank
+- [[people/maria-luis-albuquerque|Maria Luís Albuquerque]] — board_member — African Development Bank
   > "African Development Bank, ex-officio member of the board of governors (2013–2015)"
-- [Maria Luís Albuquerque](../people/maria-luis-albuquerque.md) — board_member — European Stability Mechanism (ESM)
+- [[people/maria-luis-albuquerque|Maria Luís Albuquerque]] — board_member — European Stability Mechanism (ESM)
   > "European Stability Mechanism, ex-officio member of the board of governors (2013–2015)"
-- [Maria Luís Albuquerque](../people/maria-luis-albuquerque.md) — board_member — European Investment Bank (EIB)
+- [[people/maria-luis-albuquerque|Maria Luís Albuquerque]] — board_member — European Investment Bank (EIB)
   > "European Investment Bank, ex-officio member of the board of governors (2013–2015)"
-- [Maria Luís Albuquerque](../people/maria-luis-albuquerque.md) — board_member — Morgan Stanley Europe
+- [[people/maria-luis-albuquerque|Maria Luís Albuquerque]] — board_member — Morgan Stanley Europe
   > "Morgan Stanley Europe, independent non-executive member of the board of directors (since 2022)"
-- [Maria Luís Albuquerque](../people/maria-luis-albuquerque.md) — board_member — Arrow Global
+- [[people/maria-luis-albuquerque|Maria Luís Albuquerque]] — board_member — Arrow Global
   > "Arrow Global, independent non-executive member of the board of directors (2016–2021)"
-- [Maria Luís Albuquerque](../people/maria-luis-albuquerque.md) — educated_at — Universidade Lusíada
+- [[people/maria-luis-albuquerque|Maria Luís Albuquerque]] — educated_at — Universidade Lusíada
   > "She graduated in economics in 1991 from Universidade Lusíada, in Lisbon, and holds a Master's degree (1997) in Monetary and Financial Economics from ISEG, Technical University of Lisbon."
-- [Maria Luís Albuquerque](../people/maria-luis-albuquerque.md) — educated_at — Iseg, Technical University Of Lisbon
+- [[people/maria-luis-albuquerque|Maria Luís Albuquerque]] — educated_at — Iseg, Technical University Of Lisbon
   > "She graduated in economics in 1991 from Universidade Lusíada, in Lisbon, and holds a Master's degree (1997) in Monetary and Financial Economics from ISEG, Technical University of Lisbon."
-- [Maria Luís Albuquerque](../people/maria-luis-albuquerque.md) — employed_by — REFER
+- [[people/maria-luis-albuquerque|Maria Luís Albuquerque]] — employed_by — REFER
   > "Between 2001 and 2007 she was director of the Department of Financial Management of REFER, the railway infrastructure public company."
-- [Maria Luís Albuquerque](../people/maria-luis-albuquerque.md) — employed_by — Portuguese Debt Management Agency
+- [[people/maria-luis-albuquerque|Maria Luís Albuquerque]] — employed_by — Portuguese Debt Management Agency
   > "From 2007 to 2011 she was head of Issuing and Markets Department at the Portuguese Debt Management Agency."
-- [Maria Luís Albuquerque](../people/maria-luis-albuquerque.md) — held_portfolio — European Commissioner for Financial Services and the Savings and Investments Union
+- [[people/maria-luis-albuquerque|Maria Luís Albuquerque]] — held_portfolio — European Commissioner for Financial Services and the Savings and Investments Union
   > "Maria Luís Casanova Morgado Dias de Albuquerque (European Portuguese pronunciation: [mɐˈɾi.ɐ luˈiz alβuˈkɛɾkɨ]; born 16 September 1967) is a Portuguese politician who is the European Commissioner for"

@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Valdis Dombrovskis](../people/valdis-dombrovskis.md) — board_member  
+- [[people/valdis-dombrovskis|Valdis Dombrovskis]] — board_member  
   > "In 2002, Dombrovskis became a board member of the New Era Party."
-  > Source: [Valdis Dombrovskis](../sources/wikipedia-valdis-dombrovskis.md) · grade A
+  > Source: [[sources/wikipedia-valdis-dombrovskis|Valdis Dombrovskis]] · grade A

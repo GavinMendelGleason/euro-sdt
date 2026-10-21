@@ -14,9 +14,9 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Erkki Liikanen](../people/erkki-liikanen.md) — chair  
+- [[people/erkki-liikanen|Erkki Liikanen]] — chair  
   > "Bruegel, Chair of the Board (since 2020)"
-  > Source: [Erkki Liikanen](../sources/wikipedia-erkki-liikanen.md) · grade A
-- [Mario Monti](../people/mario-monti.md) — chair; founder  
+  > Source: [[sources/wikipedia-erkki-liikanen|Erkki Liikanen]] · grade A
+- [[people/mario-monti|Mario Monti]] — chair; founder  
   > "From 2005 to 2008, he was the first president of the Bruegel."
-  > Source: [Mario Monti](../sources/wikipedia-mario-monti.md) · grade A
+  > Source: [[sources/wikipedia-mario-monti|Mario Monti]] · grade A

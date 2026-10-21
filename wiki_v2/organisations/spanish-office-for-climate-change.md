@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Teresa Ribera](../people/teresa-ribera.md) — employed_by  
+- [[people/teresa-ribera|Teresa Ribera]] — employed_by  
   > "Earlier in her career, from 2005 to 2008, Ribera served as Director of the Spanish Office for Climate Change."
-  > Source: [Teresa Ribera](../sources/wikipedia-teresa-ribera.md) · grade A
+  > Source: [[sources/wikipedia-teresa-ribera|Teresa Ribera]] · grade A

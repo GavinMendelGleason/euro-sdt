@@ -18,6 +18,6 @@ Mep
 
 ## Affiliation
 
-- [Mediahuis](../organisations/mediahuis.md)  
+- [[organisations/mediahuis|Mediahuis]]  
   > "&#91; 2 &#93; In May 2023, Euractiv was acquired by Belgian media company Mediahuis in what became the company's first international media platform acquisition."
-  > Source: [Euractiv](../sources/wikipedia-euractiv.md) · grade B
+  > Source: [[sources/wikipedia-euractiv|Euractiv]] · grade B

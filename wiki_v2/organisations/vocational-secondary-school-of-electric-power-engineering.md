@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Leszek Miller](../people/leszek-miller.md)  
+- [[people/leszek-miller|Leszek Miller]]  
   > "&#91; 1 &#93; After graduating from school, 17-year-old Miller got a job in the Textile Linen Plant in Żyrardów while continuing his education in the evenings at the Vocational Secondary School of Electric Power Engineering."
-  > Source: [Leszek Miller](../sources/wikipedia-leszek-miller.md) · grade C
+  > Source: [[sources/wikipedia-leszek-miller|Leszek Miller]] · grade C

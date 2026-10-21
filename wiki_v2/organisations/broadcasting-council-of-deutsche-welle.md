@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Günter Verheugen](../people/gunter-verheugen.md) — chair  
+- [[people/gunter-verheugen|Günter Verheugen]] — chair  
   > "In addition to his parliamentary work, he chaired the Broadcasting Council of Deutsche Welle from 1994 until 1998."
-  > Source: [Gunter Verheugen](../sources/wikipedia-gunter-verheugen.md) · grade C
+  > Source: [[sources/wikipedia-gunter-verheugen|Gunter Verheugen]] · grade C

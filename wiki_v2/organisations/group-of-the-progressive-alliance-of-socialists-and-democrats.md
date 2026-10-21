@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Marek Siwiec](../people/marek-siwiec.md)  
+- [[people/marek-siwiec|Marek Siwiec]]  
   > "During his tenure in the European Parliament Siwiec also served as a coordinator of the Group of the Progressive Alliance of Socialists and Democrats for the Euronest Parliamentary Assembly ."
-  > Source: [Marek Siwiec](../sources/wikipedia-marek-siwiec.md) · grade B
+  > Source: [[sources/wikipedia-marek-siwiec|Marek Siwiec]] · grade B

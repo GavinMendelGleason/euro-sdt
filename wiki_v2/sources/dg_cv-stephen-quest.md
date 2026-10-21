@@ -15,5 +15,5 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (1)
 
-- [Stephen Quest](../people/stephen-quest.md) — educated_at — University Of York
+- [[people/stephen-quest|Stephen Quest]] — educated_at — University Of York
   > "French and British Academic qualifications: ➢ 09/1983 – 06/1986 BA (Hons) 2.1 in History University of York - United Kingdom"

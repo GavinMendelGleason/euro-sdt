@@ -18,18 +18,18 @@ Mep
 
 ## Education
 
-- [university](../organisations/university.md)  
+- [[organisations/university|university]]  
   > "A university graduate in literature (philosophy), he worked for a time as a State school teacher."
-  > Source: [Francis Wurtz](../sources/wikipedia-francis-wurtz.md) · grade A
+  > Source: [[sources/wikipedia-francis-wurtz|Francis Wurtz]] · grade A
 
 ## Membership
 
-- [French Communist Party](../organisations/french-communist-party.md)  
+- [[organisations/french-communist-party|French Communist Party]]  
   > "Elected in the Île-de-France constituency on the French Communist Party (PCF) ticket, he sat with the European United Left - Nordic Green Left (GUE/NGL) group, and was its President ."
-  > Source: [Francis Wurtz](../sources/wikipedia-francis-wurtz.md) · grade B
+  > Source: [[sources/wikipedia-francis-wurtz|Francis Wurtz]] · grade B
 
 ## Chair / president
 
-- [European United Left–Nordic Green Left](../organisations/european-united-leftnordic-green-left.md) — chair  
+- [[organisations/european-united-leftnordic-green-left|European United Left–Nordic Green Left]] — chair  
   > "Elected in the Île-de-France constituency on the French Communist Party (PCF) ticket, he sat with the European United Left - Nordic Green Left (GUE/NGL) group, and was its President ."
-  > Source: [Francis Wurtz](../sources/wikipedia-francis-wurtz.md) · grade A
+  > Source: [[sources/wikipedia-francis-wurtz|Francis Wurtz]] · grade A

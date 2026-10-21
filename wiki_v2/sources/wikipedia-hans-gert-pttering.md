@@ -16,5 +16,5 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (1)
 
-- [Hans-Gert Pöttering](../people/hans-gert-pottering.md) — educated_at — University of Bonn
+- [[people/hans-gert-pottering|Hans-Gert Pöttering]] — educated_at — University of Bonn
   > "After Abitur and military service, he studied law, political science and history at the University of Bonn , the University of Geneva , the Graduate Institute of International Studies in Geneva and at Columbia University in New York."

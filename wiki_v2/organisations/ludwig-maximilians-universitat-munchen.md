@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Martin Bangemann](../people/martin-bangemann.md)  
+- [[people/martin-bangemann|Martin Bangemann]]  
   > "He studied law in Tübingen and Munich, and earned a Dr. jur."
-  > Source: [Martin Bangemann](../sources/wikipedia-martin-bangemann.md) · grade C
+  > Source: [[sources/wikipedia-martin-bangemann|Martin Bangemann]] · grade C

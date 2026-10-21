@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Liisa Jaakonsaari](../people/liisa-jaakonsaari.md)  
+- [[people/liisa-jaakonsaari|Liisa Jaakonsaari]]  
   > "Jaakonsaari was a city councillor in Oulu from 1972 until 1995."
-  > Source: [Liisa Jaakonsaari](../sources/wikipedia-liisa-jaakonsaari.md) · grade B
+  > Source: [[sources/wikipedia-liisa-jaakonsaari|Liisa Jaakonsaari]] · grade B

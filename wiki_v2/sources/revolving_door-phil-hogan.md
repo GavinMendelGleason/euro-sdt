@@ -15,5 +15,5 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (1)
 
-- [Phil Hogan](../people/phil-hogan.md) — member — South-Eastern Health Board
+- [[people/phil-hogan|Phil Hogan]] — member — South-Eastern Health Board
   > "In addition to his local political activities, Hogan was also a member of the South-Eastern Health Board between 1991 and 1999."

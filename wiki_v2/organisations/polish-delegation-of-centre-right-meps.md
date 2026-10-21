@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Jacek Saryusz-Wolski](../people/jacek-saryusz-wolski.md)  
+- [[people/jacek-saryusz-wolski|Jacek Saryusz-Wolski]]  
   > "He also served as vice-president and member of the national board of Civic Platform until October 2010 and as leader of the Polish delegation of centre-right MEPs until 2012."
-  > Source: [Jacek Saryusz Wolski](../sources/wikipedia-jacek-saryusz-wolski.md) · grade A
+  > Source: [[sources/wikipedia-jacek-saryusz-wolski|Jacek Saryusz Wolski]] · grade A

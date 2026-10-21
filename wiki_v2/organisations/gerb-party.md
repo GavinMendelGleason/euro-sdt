@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Mariya Gabriel](../people/mariya-gabriel.md) — party_member  
+- [[people/mariya-gabriel|Mariya Gabriel]] — party_member  
   > "A member of the GERB party, she previously served as European Commissioner for Innovation, Research, Culture, Education and Youth from 2019 to 2023, European Commissioner for Digital Economy and Society from 2017 to 2019 and Member of the European Parliament from 2009 to 2017."
-  > Source: [Mariya Gabriel](../sources/wikipedia-mariya-gabriel.md) · grade A
+  > Source: [[sources/wikipedia-mariya-gabriel|Mariya Gabriel]] · grade A

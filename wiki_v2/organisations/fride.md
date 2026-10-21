@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Pedro Solbes](../people/pedro-solbes.md) — chair  
+- [[people/pedro-solbes|Pedro Solbes]] — chair  
   > "He was the president of FRIDE, Madrid-based think tank."
-  > Source: [Pedro Solbes](../sources/wikipedia-pedro-solbes.md) · grade A
+  > Source: [[sources/wikipedia-pedro-solbes|Pedro Solbes]] · grade A

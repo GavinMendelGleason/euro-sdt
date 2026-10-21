@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Colette Flesch](../people/colette-flesch.md) — chair  
+- [[people/colette-flesch|Colette Flesch]] — chair  
   > "She was also the president of the European Institute of Cultural Routes (EICR) ."
-  > Source: [Colette Flesch](../sources/wikipedia-colette-flesch.md) · grade A
+  > Source: [[sources/wikipedia-colette-flesch|Colette Flesch]] · grade A

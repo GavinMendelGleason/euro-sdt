@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Mariya Gabriel](../people/mariya-gabriel.md)  
+- [[people/mariya-gabriel|Mariya Gabriel]]  
   > "In 1997, she graduated from the Dr Petar Beron language high school in Kyustendil."
-  > Source: [Mariya Gabriel](../sources/wikipedia-mariya-gabriel.md) · grade A
+  > Source: [[sources/wikipedia-mariya-gabriel|Mariya Gabriel]] · grade A

@@ -16,27 +16,27 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (12)
 
-- [Mario Mauro](../people/mario-mauro.md) — affiliated_with — Organization for Security and Cooperation in Europe (OSCE)
+- [[people/mario-mauro|Mario Mauro]] — affiliated_with — Organization for Security and Cooperation in Europe (OSCE)
   > "&#91; 6 &#93; In addition to his position as European Parliamentary, he held the following positions: representative of the Organization for Security and Cooperation in Europe (OSCE) against racism, xenophobia, and discrimination, concerning discrimination against Christians from 2009 to 2011, &#91; 7 &#93; and adjunct professor at the European University of Rome from 2007 to 2009."
-- [Mario Mauro](../people/mario-mauro.md) — affiliated_with — SC parliamentary group
+- [[people/mario-mauro|Mario Mauro]] — affiliated_with — SC parliamentary group
   > "He was elected the leader of the SC parliamentary group in the Senate."
-- [Mario Mauro](../people/mario-mauro.md) — affiliated_with — People of Freedom in the European Parliament
+- [[people/mario-mauro|Mario Mauro]] — affiliated_with — People of Freedom in the European Parliament
   > "Party political offices New office Leader of the People of Freedom in the European Parliament 2009–2013 Succeeded&#160;by Giovanni La Via Leader of the Civic Choice in the Senate 2013 Succeeded&#160;by Gianluca Susta Political offices Preceded&#160;by Giampaolo Di Paola Minister of Defence 2013–2014 Succeeded&#160;by Roberta Pinotti Mario Mauro v t e Letta Cabinet (2013–14) Alfano Bonino Bray Canc […]"
-- [Mario Mauro](../people/mario-mauro.md) — affiliated_with — Civic Choice in the Senate
+- [[people/mario-mauro|Mario Mauro]] — affiliated_with — Civic Choice in the Senate
   > "Party political offices New office Leader of the People of Freedom in the European Parliament 2009–2013 Succeeded&#160;by Giovanni La Via Leader of the Civic Choice in the Senate 2013 Succeeded&#160;by Gianluca Susta Political offices Preceded&#160;by Giampaolo Di Paola Minister of Defence 2013–2014 Succeeded&#160;by Roberta Pinotti Mario Mauro v t e Letta Cabinet (2013–14) Alfano Bonino Bray Canc […]"
-- [Mario Mauro](../people/mario-mauro.md) — educated_at — universit-cattolica-del-sacro-cuore-ucsc
+- [[people/mario-mauro|Mario Mauro]] — educated_at — universit-cattolica-del-sacro-cuore-ucsc
   > "He studied literature and philosophy at the Università Cattolica del Sacro Cuore (UCSC) in Milan and received a degree in 1985."
-- [Mario Mauro](../people/mario-mauro.md) — founder — Populars for Italy
+- [[people/mario-mauro|Mario Mauro]] — founder — Populars for Italy
   > "&#91; 8 &#93; After internal rifts inside the Civic Choice party, Mauro left it in November 2013 and launched the new Populars for Italy ."
-- [Mario Mauro](../people/mario-mauro.md) — member — Communion and Liberation
+- [[people/mario-mauro|Mario Mauro]] — member — Communion and Liberation
   > "From 1999 to 2013, he was a member of the European Parliament , and he is a member of Communion and Liberation ."
-- [Mario Mauro](../people/mario-mauro.md) — member — PPE-DE group
+- [[people/mario-mauro|Mario Mauro]] — member — PPE-DE group
   > "&#91; 4 &#93; He was first elected to the European Parliament in 1999 with the PPE-DE group."
-- [Mario Mauro](../people/mario-mauro.md) — member — Il Popolo della Libertà
+- [[people/mario-mauro|Mario Mauro]] — member — Il Popolo della Libertà
   > "&#91; 4 &#93; In 2013, Mauro resigned from Il Popolo della Libertà and joined Civic Choice (SC)."
-- [Mario Mauro](../people/mario-mauro.md) — member — Civic Choice
+- [[people/mario-mauro|Mario Mauro]] — member — Civic Choice
   > "&#91; 4 &#93; In 2013, Mauro resigned from Il Popolo della Libertà and joined Civic Choice (SC)."
-- [Mario Mauro](../people/mario-mauro.md) — member — With Monti for Italy
+- [[people/mario-mauro|Mario Mauro]] — member — With Monti for Italy
   > "He was elected senator on With Monti for Italy 's lists, a coalition between Civic Choice, Union of the Centre and Future and Freedom ."
-- [Mario Mauro](../people/mario-mauro.md) — member — Civic Choice
+- [[people/mario-mauro|Mario Mauro]] — member — Civic Choice
   > "He was elected senator on With Monti for Italy 's lists, a coalition between Civic Choice, Union of the Centre and Future and Freedom ."

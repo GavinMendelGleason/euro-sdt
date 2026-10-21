@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Silvana Koch-Mehrin](../people/silvana-koch-mehrin.md)  
+- [[people/silvana-koch-mehrin|Silvana Koch-Mehrin]]  
   > "&#91; 3 &#93; Until May 2011, Koch-Mehrin served as Vice Chairwoman of the Alliance of Liberals and Democrats for Europe ."
-  > Source: [Silvana Koch Mehrin](../sources/wikipedia-silvana-koch-mehrin.md) · grade A
+  > Source: [[sources/wikipedia-silvana-koch-mehrin|Silvana Koch Mehrin]] · grade A

@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Mario Mauro](../people/mario-mauro.md)  
+- [[people/mario-mauro|Mario Mauro]]  
   > "He was elected senator on With Monti for Italy 's lists, a coalition between Civic Choice, Union of the Centre and Future and Freedom ."
-  > Source: [Mario Mauro](../sources/wikipedia-mario-mauro.md) · grade B
+  > Source: [[sources/wikipedia-mario-mauro|Mario Mauro]] · grade B

@@ -16,9 +16,9 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (3)
 
-- [Martin Schulz](../people/martin-schulz.md) — affiliated_with — Progressive Alliance of Socialists and Democrats
+- [[people/martin-schulz|Martin Schulz]] — affiliated_with — Progressive Alliance of Socialists and Democrats
   > "During his tenure he was Leader of the Progressive Alliance of Socialists and Democrats from 2004 to 2012, President of the European Parliament from 2012 to 2017 and Leader of the Social Democratic Party from 2017 to 2018."
-- [Martin Schulz](../people/martin-schulz.md) — affiliated_with — Social Democratic Party
+- [[people/martin-schulz|Martin Schulz]] — affiliated_with — Social Democratic Party
   > "During his tenure he was Leader of the Progressive Alliance of Socialists and Democrats from 2004 to 2012, President of the European Parliament from 2012 to 2017 and Leader of the Social Democratic Party from 2017 to 2018."
-- [Martin Schulz](../people/martin-schulz.md) — member — Bundestag
+- [[people/martin-schulz|Martin Schulz]] — member — Bundestag
   > "Martin Schulz (born 20 December 1955) is a German politician who was a Member of the European Parliament (MEP) from Germany from 1994 to 2017 and a Member of the Bundestag (MdB) from 2017 to 2021."

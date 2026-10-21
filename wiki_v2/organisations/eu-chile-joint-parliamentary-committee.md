@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Jim Higgins (Irish politician)](../people/jim-higgins-irish-politician.md)  
+- [[people/jim-higgins-irish-politician|Jim Higgins (Irish politician)]]  
   > "Higgins's other duties included membership of the EU-Chile Joint Parliamentary Committee, the Euro-Latin American Parliamentary Assembly and he was a substitute member of the Delegation for Relations with Japan."
-  > Source: [Jim Higgins Irish Politician](../sources/wikipedia-jim-higgins-irish-politician.md) · grade A
+  > Source: [[sources/wikipedia-jim-higgins-irish-politician|Jim Higgins Irish Politician]] · grade A

@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Hans van den Broek](../people/hans-van-den-broek.md) — chair  
+- [[people/hans-van-den-broek|Hans van den Broek]] — chair  
   > "Van den Broek was president of the Netherlands Institute of International Relations (Clingendael) and also of Radio Netherlands."
-  > Source: [Hans Van Den Broek](../sources/wikipedia-hans-van-den-broek.md) · grade A
+  > Source: [[sources/wikipedia-hans-van-den-broek|Hans Van Den Broek]] · grade A

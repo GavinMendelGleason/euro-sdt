@@ -15,5 +15,5 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (1)
 
-- [Janez Lenarčič](../people/janez-lenarcic.md) — chair — Organization for Security and Co-operation in Europe (OSCE)
+- [[people/janez-lenarcic|Janez Lenarčič]] — chair — Organization for Security and Co-operation in Europe (OSCE)
   > "Lenarčič was ambassador of Slovenia to the Organization for Security and Co-operation in Europe (OSCE) in Vienna from 2003 to 2006, and chaired the OSCE Permanent Council in 2005 during the Slovenian chairmanship."

@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Jutta Urpilainen](../people/jutta-urpilainen.md) — chair  
+- [[people/jutta-urpilainen|Jutta Urpilainen]] — chair  
   > "She was the first female chair of the Social Democratic Party of Finland, which she led from 2008 to 2014."
-  > Source: [Jutta Urpilainen](../sources/wikipedia-jutta-urpilainen.md) · grade A
+  > Source: [[sources/wikipedia-jutta-urpilainen|Jutta Urpilainen]] · grade A

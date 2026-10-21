@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [António Vitorino](../people/antonio-vitorino.md) — employed_by  
+- [[people/antonio-vitorino|António Vitorino]] — employed_by  
   > "In 2005, Vitorino became a partner at Cuatrecasas, Gonçalves Pereira & Associados, one of the most influential law firms in the Iberian Peninsula."
-  > Source: [Antonio Vitorino](../sources/wikipedia-antonio-vitorino.md) · grade C
+  > Source: [[sources/wikipedia-antonio-vitorino|Antonio Vitorino]] · grade C

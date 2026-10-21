@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Edward McMillan-Scott](../people/edward-mcmillan-scott.md)  
+- [[people/edward-mcmillan-scott|Edward McMillan-Scott]]  
   > "After losing his seat as an MEP he became active in campaigning against Brexit and coordinates the largest pro EU forum in the UK."
-  > Source: [Edward Mcmillan Scott](../sources/wikipedia-edward-mcmillan-scott.md) · grade B
+  > Source: [[sources/wikipedia-edward-mcmillan-scott|Edward Mcmillan Scott]] · grade B

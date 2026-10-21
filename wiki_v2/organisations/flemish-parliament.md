@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Mia De Vits](../people/mia-de-vits.md)  
+- [[people/mia-de-vits|Mia De Vits]]  
   > "In 2009 she was elected to the Flemish Parliament and served from 2009 to 2014."
-  > Source: [Mia De Vits](../sources/wikipedia-mia-de-vits.md) · grade B
+  > Source: [[sources/wikipedia-mia-de-vits|Mia De Vits]] · grade B

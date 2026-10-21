@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Stella Kyriakides](../people/stella-kyriakides.md) — chair  
+- [[people/stella-kyriakides|Stella Kyriakides]] — chair  
   > "In addition to her parliamentary duties in Cyprus, from 2012 until 2019 Kyriakides served as the chairperson of the Cyprus delegation to the Parliamentary Assembly of the Council of Europe (PACE)."
-  > Source: [Stella Kyriakides](../sources/wikipedia-stella-kyriakides.md) · grade C
+  > Source: [[sources/wikipedia-stella-kyriakides|Stella Kyriakides]] · grade C

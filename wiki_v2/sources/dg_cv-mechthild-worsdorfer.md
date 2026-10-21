@@ -15,7 +15,7 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (2)
 
-- [Mechthild Wörsdörfer](../people/mechthild-worsdorfer.md) — educated_at — University Of Montpellier
+- [[people/mechthild-worsdorfer|Mechthild Wörsdörfer]] — educated_at — University Of Montpellier
   > " 1987 – 1989: Maîtrise et Licence en Sciences économiques, Économie monétaire et financière – University of Montpellier, France"
-- [Mechthild Wörsdörfer](../people/mechthild-worsdorfer.md) — held_position — Deputy Director-General → Directorate-General for Energy
+- [[people/mechthild-worsdorfer|Mechthild Wörsdörfer]] — held_position — Deputy Director-General → Directorate-General for Energy
   > "Professional experience in the European Institutions  Since 1 October 2021: Deputy Director-General – Directorate-General Energy (DG ENER)"

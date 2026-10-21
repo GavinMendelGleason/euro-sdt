@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Dan Jørgensen](../people/dan-jrgensen.md)  
+- [[people/dan-jrgensen|Dan Jørgensen]]  
   > "Early life and education [ edit ] Jørgensen grew up in Morud on the Danish island of Funen , attended high school at Nordfyns Gymnasium, and university at the University of Aarhus , from which he holds a master's degree in political science."
-  > Source: [Dan Jrgensen](../sources/wikipedia-dan-jrgensen.md) · grade C
+  > Source: [[sources/wikipedia-dan-jrgensen|Dan Jrgensen]] · grade C

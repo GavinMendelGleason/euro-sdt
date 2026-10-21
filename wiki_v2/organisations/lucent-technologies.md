@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Neelie Kroes](../people/neelie-kroes.md) — board_member  
+- [[people/neelie-kroes|Neelie Kroes]] — board_member  
   > "Also, she was a member of several boards of commissioners, for instance at Nedlloyd (a shipping company) and Lucent Technologies (an information and communication technologies company)."
-  > Source: [Neelie Kroes](../sources/wikipedia-neelie-kroes.md) · grade C
+  > Source: [[sources/wikipedia-neelie-kroes|Neelie Kroes]] · grade C

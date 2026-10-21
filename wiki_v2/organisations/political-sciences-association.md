@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Tibor Navracsics](../people/tibor-navracsics.md)  
+- [[people/tibor-navracsics|Tibor Navracsics]]  
   > "Member of the Political Sciences Association"
-  > Source: [Tibor Navracsics](../sources/wikipedia-tibor-navracsics.md) · grade A
+  > Source: [[sources/wikipedia-tibor-navracsics|Tibor Navracsics]] · grade A

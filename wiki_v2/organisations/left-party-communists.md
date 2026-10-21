@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Ylva Johansson](../people/ylva-johansson.md) — party_member  
+- [[people/ylva-johansson|Ylva Johansson]] — party_member  
   > "In the 1988 general elections Johansson was elected as a member of the Riksdag for the Left Party – Communists (VPK)."
-  > Source: [Ylva Johansson](../sources/wikipedia-ylva-johansson.md) · grade A
+  > Source: [[sources/wikipedia-ylva-johansson|Ylva Johansson]] · grade A

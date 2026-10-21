@@ -18,18 +18,18 @@ Dg
 
 ## Education
 
-- [Catholique De Louvain-La-Neuve, Louvain](../organisations/catholique-de-louvain-la-neuve-louvain.md)  
+- [[organisations/catholique-de-louvain-la-neuve-louvain|Catholique De Louvain-La-Neuve, Louvain]]  
   > " 1988 – 1989 Diploma in Public and International Affairs, Université Catholique de Louvain-la-Neuve, Louvain-la-Neuve, Belgium"
-  > Source: [Kurt Vandenberghe](../sources/dg_cv-kurt-vandenberghe.md) · grade A
+  > Source: [[sources/dg_cv-kurt-vandenberghe|Kurt Vandenberghe]] · grade A
 
 ## Field of study
 
 - Economics  
   > "Belgian Academic qualifications  1990 – 1992 M.A. in International Relations, International Economics and Conflict Management, The John Hopkins University, Paul H."
-  > Source: [Kurt Vandenberghe](../sources/dg_cv-kurt-vandenberghe.md) · grade B
+  > Source: [[sources/dg_cv-kurt-vandenberghe|Kurt Vandenberghe]] · grade B
 
 ## Position
 
 - Director-General → Directorate-General for Climate Action  
   > " 01/1999 – 09/1999: Parliamentary Coordinator reporting to the Director-General (DG Transport)"
-  > Source: [Kurt Vandenberghe](../sources/dg_cv-kurt-vandenberghe.md) · grade A
+  > Source: [[sources/dg_cv-kurt-vandenberghe|Kurt Vandenberghe]] · grade A

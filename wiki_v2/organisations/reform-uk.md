@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Nigel Farage](../people/nigel-farage.md)  
+- [[people/nigel-farage|Nigel Farage]]  
   > "Nigel Paul Farage (born 3 April 1964) is a British politician who has been Leader of Reform UK since 2024."
-  > Source: [Nigel Farage](../sources/wikipedia-nigel-farage.md) · grade B
+  > Source: [[sources/wikipedia-nigel-farage|Nigel Farage]] · grade B

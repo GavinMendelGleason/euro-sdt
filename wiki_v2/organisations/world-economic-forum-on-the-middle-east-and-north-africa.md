@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Ursula von der Leyen](../people/ursula-von-der-leyen.md) — chair  
+- [[people/ursula-von-der-leyen|Ursula von der Leyen]] — chair  
   > "World Economic Forum on the Middle East and North Africa, Co-chair (2017)"
-  > Source: [Ursula Von Der Leyen](../sources/wikipedia-ursula-von-der-leyen.md) · grade A
+  > Source: [[sources/wikipedia-ursula-von-der-leyen|Ursula Von Der Leyen]] · grade A

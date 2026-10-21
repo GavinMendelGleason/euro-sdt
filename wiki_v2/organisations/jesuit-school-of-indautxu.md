@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Joaquín Almunia](../people/joaquin-almunia.md)  
+- [[people/joaquin-almunia|Joaquín Almunia]]  
   > "Almunia attended the Jesuit School of Indautxu in Bilbao."
-  > Source: [Joaquin Almunia](../sources/wikipedia-joaquin-almunia.md) · grade A
+  > Source: [[sources/wikipedia-joaquin-almunia|Joaquin Almunia]] · grade A

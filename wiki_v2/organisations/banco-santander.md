@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Andrea Orcel](../people/andrea-orcel.md) — employed_by  
+- [[people/andrea-orcel|Andrea Orcel]] — employed_by  
   > "&#91; 2 &#93; He was poised to take on the role of Chief Executive of Banco Santander from September 2018 to January 2019; however, the job offer was withdrawn which resulted in him taking legal action against Santander."
-  > Source: [Andrea Orcel](../sources/wikipedia-andrea-orcel.md) · grade A
+  > Source: [[sources/wikipedia-andrea-orcel|Andrea Orcel]] · grade A

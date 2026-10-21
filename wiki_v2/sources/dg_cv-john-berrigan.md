@@ -15,7 +15,7 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (2)
 
-- [John Berrigan](../people/john-berrigan.md) — held_position — Director-General → Directorate-General for Financial Stability, Financial Services and Capital Markets Union
+- [[people/john-berrigan|John Berrigan]] — held_position — Director-General → Directorate-General for Financial Stability, Financial Services and Capital Markets Union
   > " 16/12/2015 - 03/03/2020: Deputy Director-General in charge of Directorates B, C, D and E in DG FISMA"
-- [John Berrigan](../people/john-berrigan.md) — studied_field — Economics
+- [[people/john-berrigan|John Berrigan]] — studied_field — Economics
   > "(Economics) awarded October - University College Dublin, Republic of Ireland  1983 - B.A."

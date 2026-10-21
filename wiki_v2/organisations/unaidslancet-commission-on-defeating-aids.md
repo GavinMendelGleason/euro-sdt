@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Pascal Lamy](../people/pascal-lamy.md)  
+- [[people/pascal-lamy|Pascal Lamy]]  
   > "UNAIDS–Lancet Commission on Defeating AIDS, Member (2013-2015)"
-  > Source: [Pascal Lamy](../sources/wikipedia-pascal-lamy.md) · grade A
+  > Source: [[sources/wikipedia-pascal-lamy|Pascal Lamy]] · grade A

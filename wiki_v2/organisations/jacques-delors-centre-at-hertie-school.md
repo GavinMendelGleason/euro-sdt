@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Pascal Lamy](../people/pascal-lamy.md) — advisory_board  
+- [[people/pascal-lamy|Pascal Lamy]] — advisory_board  
   > "Jacques Delors Centre at Hertie School, Member of the Advisory Board"
-  > Source: [Pascal Lamy](../sources/wikipedia-pascal-lamy.md) · grade A
+  > Source: [[sources/wikipedia-pascal-lamy|Pascal Lamy]] · grade A

@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Emma Bonino](../people/emma-bonino.md) — party_member  
+- [[people/emma-bonino|Emma Bonino]] — party_member  
   > "Along with Marco Pannella, another member of the Radical Party, Bonino has fought numerous battles for civil rights and individual liberty, mainly concerned with divorce, the legalisation of abortion, the legalisation of drugs, and for sexual and religious freedoms."
-  > Source: [Emma Bonino](../sources/wikipedia-emma-bonino.md) · grade A
+  > Source: [[sources/wikipedia-emma-bonino|Emma Bonino]] · grade A

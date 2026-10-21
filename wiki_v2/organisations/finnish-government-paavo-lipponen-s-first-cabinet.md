@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Liisa Jaakonsaari](../people/liisa-jaakonsaari.md)  
+- [[people/liisa-jaakonsaari|Liisa Jaakonsaari]]  
   > "Jaakonsaari was the Minister of Labour in Paavo Lipponen's first cabinet (1995–1999)."
-  > Source: [Liisa Jaakonsaari](../sources/wikipedia-liisa-jaakonsaari.md) · grade C
+  > Source: [[sources/wikipedia-liisa-jaakonsaari|Liisa Jaakonsaari]] · grade C

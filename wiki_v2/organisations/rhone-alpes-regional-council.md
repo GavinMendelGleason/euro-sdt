@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Sylvie Guillaume](../people/sylvie-guillaume.md)  
+- [[people/sylvie-guillaume|Sylvie Guillaume]]  
   > "In 1998 , she was elected a regional councillor in the Rhône-Alpes Regional Council ."
-  > Source: [Sylvie Guillaume](../sources/wikipedia-sylvie-guillaume.md) · grade B
+  > Source: [[sources/wikipedia-sylvie-guillaume|Sylvie Guillaume]] · grade B

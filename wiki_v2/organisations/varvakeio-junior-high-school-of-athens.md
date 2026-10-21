@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Dimitrios Papadimoulis](../people/dimitrios-papadimoulis.md)  
+- [[people/dimitrios-papadimoulis|Dimitrios Papadimoulis]]  
   > "He attended the Varvakeio Junior High School of Athens and studied the School of Civil Engineering of the National Technical University of Athens ."
-  > Source: [Dimitrios Papadimoulis](../sources/wikipedia-dimitrios-papadimoulis.md) · grade C
+  > Source: [[sources/wikipedia-dimitrios-papadimoulis|Dimitrios Papadimoulis]] · grade C

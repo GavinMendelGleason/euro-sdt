@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Martin Bangemann](../people/martin-bangemann.md) — chair  
+- [[people/martin-bangemann|Martin Bangemann]] — chair  
   > "Bangemann was a member of the European Parliament from 1973 to 1984; from 1976 to 1979 he was vice-chairman, from 1979 to 1984 chairman of the Liberal and Democratic Group."
-  > Source: [Martin Bangemann](../sources/wikipedia-martin-bangemann.md) · grade A
+  > Source: [[sources/wikipedia-martin-bangemann|Martin Bangemann]] · grade A

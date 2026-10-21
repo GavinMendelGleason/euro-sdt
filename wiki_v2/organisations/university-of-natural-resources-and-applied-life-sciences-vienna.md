@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Franz Fischler](../people/franz-fischler.md)  
+- [[people/franz-fischler|Franz Fischler]]  
   > "Born in Absam, Tyrol Fischler studied agriculture at the University of Natural Resources and Applied Life Sciences Vienna, and finished as Dr rer.nat.oec. in 1978."
-  > Source: [Franz Fischler](../sources/wikipedia-franz-fischler.md) · grade A
+  > Source: [[sources/wikipedia-franz-fischler|Franz Fischler]] · grade A

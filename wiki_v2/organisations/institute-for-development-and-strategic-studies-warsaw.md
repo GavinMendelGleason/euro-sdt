@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Danuta Hübner](../people/danuta-hubner.md) — board_member  
+- [[people/danuta-hubner|Danuta Hübner]] — board_member  
   > "For 1991–1994 she was Deputy Director, Institute for Development and Strategic Studies, Warsaw."
-  > Source: [Danuta Hubner](../sources/wikipedia-danuta-hubner.md) · grade A
+  > Source: [[sources/wikipedia-danuta-hubner|Danuta Hubner]] · grade A

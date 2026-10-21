@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Eugen Tomac](../people/eugen-tomac.md) — founder  
+- [[people/eugen-tomac|Eugen Tomac]] — founder  
   > "In July 2013, he resigned from the PLD and founded a new party, the Popular Movement Party (PMP), supported by Romania's former President Traian Băsescu ."
-  > Source: [Eugen Tomac](../sources/wikipedia-eugen-tomac.md) · grade A
+  > Source: [[sources/wikipedia-eugen-tomac|Eugen Tomac]] · grade A

@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Piotr Serafin](../people/piotr-serafin.md) — employed_by  
+- [[people/piotr-serafin|Piotr Serafin]] — employed_by  
   > "In 2004 he became director of the Analysis and Strategy Department."
-  > Source: [Piotr Serafin](../sources/wikipedia-piotr-serafin.md) · grade A
+  > Source: [[sources/wikipedia-piotr-serafin|Piotr Serafin]] · grade A

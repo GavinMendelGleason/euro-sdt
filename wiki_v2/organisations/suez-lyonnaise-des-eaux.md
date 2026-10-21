@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Yves-Thibault de Silguy](../people/yves-thibault-de-silguy.md) — board_member  
+- [[people/yves-thibault-de-silguy|Yves-Thibault de Silguy]] — board_member  
   > "In 2000, de Silguy became a member of the Executive Board of Suez Lyonnaise des Eaux and later served as Chief Executive Officer of Suez from 2001 to 2003."
-  > Source: [Yves Thibault De Silguy](../sources/wikipedia-yves-thibault-de-silguy.md) · grade A
+  > Source: [[sources/wikipedia-yves-thibault-de-silguy|Yves Thibault De Silguy]] · grade A

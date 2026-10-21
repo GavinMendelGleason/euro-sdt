@@ -15,9 +15,9 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (3)
 
-- [Timo Pesonen](../people/timo-pesonen.md) — advisory_board — Kosovo peace negotiations
+- [[people/timo-pesonen|Timo Pesonen]] — advisory_board — Kosovo peace negotiations
   > "He also undertook an advisory mission during the Kosovo peace negotiations for the President of Finland, Martti Ahtisaari."
-- [Timo Pesonen](../people/timo-pesonen.md) — educated_at — University of Tampere
+- [[people/timo-pesonen|Timo Pesonen]] — educated_at — University of Tampere
   > "After graduating in 1989 in International Politics from the University of Tampere, he stayed in his home country to serve at the Ministry for Foreign Affairs."
-- [Timo Pesonen](../people/timo-pesonen.md) — held_position — Director-General → Directorate-General for Defence Industry and Space
+- [[people/timo-pesonen|Timo Pesonen]] — held_position — Director-General → Directorate-General for Defence Industry and Space
   > "TIMO PESONEN Timo Pesonen is the current Director-General of DG Defence Industry and Space in the European Commission."

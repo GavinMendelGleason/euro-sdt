@@ -14,9 +14,9 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [António Vitorino](../people/antonio-vitorino.md)  
+- [[people/antonio-vitorino|António Vitorino]]  
   > "Migration Policy Institute (MPI), Member of the Transatlantic Council on Migration (since 2007)"
-  > Source: [Antonio Vitorino](../sources/wikipedia-antonio-vitorino.md) · grade A
-- [Cecilia Malmström](../people/cecilia-malmstrom.md) — board_member  
+  > Source: [[sources/wikipedia-antonio-vitorino|Antonio Vitorino]] · grade A
+- [[people/cecilia-malmstrom|Cecilia Malmström]] — board_member  
   > "Migration Policy Institute (MPI), Member of the Board of Trustees (since 2020)"
-  > Source: [Cecilia Malmstrom](../sources/wikipedia-cecilia-malmstrom.md) · grade A
+  > Source: [[sources/wikipedia-cecilia-malmstrom|Cecilia Malmstrom]] · grade A

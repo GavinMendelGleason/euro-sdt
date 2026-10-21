@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Dimitris Avramopoulos](../people/dimitris-avramopoulos.md)  
+- [[people/dimitris-avramopoulos|Dimitris Avramopoulos]]  
   > "In November 2017, he became Honorary Member of the Propeller Club of the United States Port of Piraeus and he received the Award of Excellence of the Propeller Club of the United States Port of Piraeus for his strenuous effort and impact on developing a new European Policy on regular Migration."
-  > Source: [Dimitris Avramopoulos](../sources/wikipedia-dimitris-avramopoulos.md) · grade A
+  > Source: [[sources/wikipedia-dimitris-avramopoulos|Dimitris Avramopoulos]] · grade A

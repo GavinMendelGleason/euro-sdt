@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Lidia Geringer de Oedenberg](../people/lidia-geringer-de-oedenberg.md)  
+- [[people/lidia-geringer-de-oedenberg|Lidia Geringer de Oedenberg]]  
   > "Activism [ edit ] Single Seat Lidia Geringer de Oedenberg is a member of the Pro-Single Seat MEP Alliance in the European Parliament."
-  > Source: [Lidia Geringer De Oedenberg](../sources/wikipedia-lidia-geringer-de-oedenberg.md) · grade A
+  > Source: [[sources/wikipedia-lidia-geringer-de-oedenberg|Lidia Geringer De Oedenberg]] · grade A

@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Bas Eickhout](../people/bas-eickhout.md)  
+- [[people/bas-eickhout|Bas Eickhout]]  
   > "&#91; 5 &#93; He also worked for the United Nation's Intergovernmental Panel on Climate Change (IPCC)."
-  > Source: [Bas Eickhout](../sources/wikipedia-bas-eickhout.md) · grade B
+  > Source: [[sources/wikipedia-bas-eickhout|Bas Eickhout]] · grade B

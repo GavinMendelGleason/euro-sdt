@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Karmenu Vella](../people/karmenu-vella.md)  
+- [[people/karmenu-vella|Karmenu Vella]]  
   > "Karmenu Vella attended the Royal University of Malta where he was conferred with a Bachelor of Arts in Architectural Studies in 1970, and then graduated as an Architect and Civil Engineer in 1973."
-  > Source: [Karmenu Vella](../sources/wikipedia-karmenu-vella.md) · grade A
+  > Source: [[sources/wikipedia-karmenu-vella|Karmenu Vella]] · grade A

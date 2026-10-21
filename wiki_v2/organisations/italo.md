@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Flavio Cattaneo](../people/flavio-cattaneo.md) — chair  
+- [[people/flavio-cattaneo|Flavio Cattaneo]] — chair  
   > "&#91; 20 &#93; Flavio Cattaneo remained a shareholder and Vice President of the company, while stepping down from all executive responsibilities."
-  > Source: [Flavio Cattaneo](../sources/wikipedia-flavio-cattaneo.md) · grade A
+  > Source: [[sources/wikipedia-flavio-cattaneo|Flavio Cattaneo]] · grade A

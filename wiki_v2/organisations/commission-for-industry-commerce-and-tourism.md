@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Mario Monti](../people/mario-monti.md)  
+- [[people/mario-monti|Mario Monti]]  
   > "He was a member of the Commission for Industry, Commerce and Tourism from 30 November 2011 to 14 March 2013 in the sixteenth legislature."
-  > Source: [Mario Monti](../sources/wikipedia-mario-monti.md) · grade A
+  > Source: [[sources/wikipedia-mario-monti|Mario Monti]] · grade A

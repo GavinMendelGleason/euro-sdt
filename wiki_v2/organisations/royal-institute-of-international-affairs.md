@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Libor Rouček](../people/libor-roucek.md) — fellow  
+- [[people/libor-roucek|Libor Rouček]] — fellow  
   > "From 1991 to 1992, he was a research fellow at the Royal Institute of International Affairs in London ."
-  > Source: [Libor Rouek](../sources/wikipedia-libor-rouek.md) · grade C
+  > Source: [[sources/wikipedia-libor-rouek|Libor Rouek]] · grade C

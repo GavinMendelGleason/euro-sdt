@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Pascal Lamy](../people/pascal-lamy.md) — board_member; chair  
+- [[people/pascal-lamy|Pascal Lamy]] — board_member; chair  
   > "Fondation européenne d'études progressistes (FEPS), vice-president of the Bureau"
-  > Source: [Pascal Lamy](../sources/wikipedia-pascal-lamy.md) · grade A
+  > Source: [[sources/wikipedia-pascal-lamy|Pascal Lamy]] · grade A

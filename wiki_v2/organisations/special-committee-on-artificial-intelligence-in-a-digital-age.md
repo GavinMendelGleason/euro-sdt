@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Andrus Ansip](../people/andrus-ansip.md)  
+- [[people/andrus-ansip|Andrus Ansip]]  
   > "In 2020, he also joined the Committee on Petitions and the Special Committee on Artificial Intelligence in a Digital Age."
-  > Source: [Andrus Ansip](../sources/wikipedia-andrus-ansip.md) · grade A
+  > Source: [[sources/wikipedia-andrus-ansip|Andrus Ansip]] · grade A

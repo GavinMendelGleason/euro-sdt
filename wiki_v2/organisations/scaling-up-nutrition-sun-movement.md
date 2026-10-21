@@ -14,9 +14,9 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Jutta Urpilainen](../people/jutta-urpilainen.md)  
+- [[people/jutta-urpilainen|Jutta Urpilainen]]  
   > "In 2023, United Nations Secretary-General António Guterres appointed Urpilainen as one of 22 members of the Scaling Up Nutrition (SUN) Movement's lead group."
-  > Source: [Jutta Urpilainen](../sources/wikipedia-jutta-urpilainen.md) · grade B
-- [Neven Mimica](../people/neven-mimica.md)  
+  > Source: [[sources/wikipedia-jutta-urpilainen|Jutta Urpilainen]] · grade B
+- [[people/neven-mimica|Neven Mimica]]  
   > "In September 2016, Mimica was appointed by United Nations Secretary-General Ban Ki-moon to serve as member of the Lead Group of the Scaling Up Nutrition Movement."
-  > Source: [Neven Mimica](../sources/wikipedia-neven-mimica.md) · grade C
+  > Source: [[sources/wikipedia-neven-mimica|Neven Mimica]] · grade C

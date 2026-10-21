@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Dan Jørgensen](../people/dan-jrgensen.md) — chair  
+- [[people/dan-jrgensen|Dan Jørgensen]] — chair  
   > "Jørgensen was chairman of the Social Democratic student organization Frit Forum Aarhus."
-  > Source: [Dan Jrgensen](../sources/wikipedia-dan-jrgensen.md) · grade A
+  > Source: [[sources/wikipedia-dan-jrgensen|Dan Jrgensen]] · grade A

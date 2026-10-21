@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Juan Carlos Girauta](../people/juan-carlos-girauta.md)  
+- [[people/juan-carlos-girauta|Juan Carlos Girauta]]  
   > "He also started, but did not complete, a PhD in Philosophy ."
-  > Source: [Juan Carlos Girauta](../sources/wikipedia-juan-carlos-girauta.md) · grade C
+  > Source: [[sources/wikipedia-juan-carlos-girauta|Juan Carlos Girauta]] · grade C

@@ -20,28 +20,28 @@ Commissioner · MLT
 
 - Fisheries and Maritime Affairs  
   > "Prior to taking up the post of Commissioner for Fisheries and Maritime Affairs, he was Minister of Foreign Affairs and led Malta's EU-accession negotiations."
-  > Source: [Joe Borg](../sources/wikipedia-joe-borg.md) · grade A
+  > Source: [[sources/wikipedia-joe-borg|Joe Borg]] · grade A
 
 ## Education
 
-- [University Of Wales](../organisations/university-of-wales.md)  
+- [[organisations/university-of-wales|University Of Wales]]  
   > "He graduated Doctor of Laws in Malta in 1975 and Master of Laws in Wales in 1988."
-  > Source: [Joe Borg](../sources/wikipedia-joe-borg.md) · grade A
+  > Source: [[sources/wikipedia-joe-borg|Joe Borg]] · grade A
 
 ## Membership
 
-- [Nationalist Party](../organisations/nationalist-party.md) — party_member  
+- [[organisations/nationalist-party|Nationalist Party]] — party_member  
   > "He was elected to Parliament in 1995 as a member of the Nationalist Party."
-  > Source: [Joe Borg](../sources/wikipedia-joe-borg.md) · grade A
+  > Source: [[sources/wikipedia-joe-borg|Joe Borg]] · grade A
 
 ## Board / trustee
 
-- [Maltese Central Bank](../organisations/maltese-central-bank.md) — board_member  
+- [[organisations/maltese-central-bank|Maltese Central Bank]] — board_member  
   > "From 1992 until 1995 he also served as member of the board of directors of the Maltese Central Bank."
-  > Source: [Joe Borg](../sources/wikipedia-joe-borg.md) · grade A
+  > Source: [[sources/wikipedia-joe-borg|Joe Borg]] · grade A
 
 ## Chair / president
 
-- [Mediterranean Academy of Diplomatic Studies](../organisations/mediterranean-academy-of-diplomatic-studies.md) — chair  
+- [[organisations/mediterranean-academy-of-diplomatic-studies|Mediterranean Academy of Diplomatic Studies]] — chair  
   > "Soon after the end of his term as Fisheries Commissioner in 2010, he was appointed chairman of the Mediterranean Academy of Diplomatic Studies and resumed lecturing at the University of Malta."
-  > Source: [Joe Borg](../sources/wikipedia-joe-borg.md) · grade A
+  > Source: [[sources/wikipedia-joe-borg|Joe Borg]] · grade A

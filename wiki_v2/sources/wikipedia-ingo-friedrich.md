@@ -16,15 +16,15 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (6)
 
-- [Ingo Friedrich](../people/ingo-friedrich.md) — affiliated_with — European People's Party
+- [[people/ingo-friedrich|Ingo Friedrich]] — affiliated_with — European People's Party
   > "From October 2002, he holds the position of Treasurer of the European People's Party (EPP)."
-- [Ingo Friedrich](../people/ingo-friedrich.md) — chair — European Economic Senate
+- [[people/ingo-friedrich|Ingo Friedrich]] — chair — European Economic Senate
   > "Since September 2009 he has been President of the European Economic Senate."
-- [Ingo Friedrich](../people/ingo-friedrich.md) — member — CSU
+- [[people/ingo-friedrich|Ingo Friedrich]] — member — CSU
   > "He was elected on the CSU ticket and sits with the EPP-ED Group."
-- [Ingo Friedrich](../people/ingo-friedrich.md) — member — EPP-ED Group
+- [[people/ingo-friedrich|Ingo Friedrich]] — member — EPP-ED Group
   > "He was elected on the CSU ticket and sits with the EPP-ED Group."
-- [Ingo Friedrich](../people/ingo-friedrich.md) — member — Weißenburg-Gunzenhausen district council
+- [[people/ingo-friedrich|Ingo Friedrich]] — member — Weißenburg-Gunzenhausen district council
   > "He was a member of Weißenburg-Gunzenhausen district council (1972–1996) and was the head of the CSU delegation to the European Parliament between 1992 and 1999."
-- [Ingo Friedrich](../people/ingo-friedrich.md) — member — SME Europe
+- [[people/ingo-friedrich|Ingo Friedrich]] — member — SME Europe
   > "On 20 February 2013 Friedrich became Honorary Member of SME Europe, the pro-business organization within the European People's Party, which aims at improving the situation of small and medium-sized enterprises all across Europe."

@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Stefan Füle](../people/stefan-fule.md) — employed_by  
+- [[people/stefan-fule|Stefan Füle]] — employed_by  
   > "In 2000, Füle accepted the position of the First Deputy Minister of Defense but later returned to diplomatic work."
-  > Source: [Stefan Fule](../sources/wikipedia-stefan-fule.md) · grade C
+  > Source: [[sources/wikipedia-stefan-fule|Stefan Fule]] · grade C

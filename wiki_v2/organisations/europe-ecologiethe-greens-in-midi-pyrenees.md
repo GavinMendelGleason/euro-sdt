@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Gérard Onesta](../people/gerard-onesta.md)  
+- [[people/gerard-onesta|Gérard Onesta]]  
   > "In March 2010 regional election, he is the leader of Europe Écologie–The Greens in Midi-Pyrénées."
-  > Source: [Grard Onesta](../sources/wikipedia-grard-onesta.md) · grade C
+  > Source: [[sources/wikipedia-grard-onesta|Grard Onesta]] · grade C

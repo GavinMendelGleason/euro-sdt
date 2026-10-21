@@ -15,7 +15,7 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (2)
 
-- [Florika Fink-Hooijer](../people/florika-fink-hooijer.md) — educated_at — Université De Lausanne
+- [[people/florika-fink-hooijer|Florika Fink-Hooijer]] — educated_at — Université De Lausanne
   > "Juristisches Staatsexamen), Rheinische Friedrich Wilhelms Universität Bonn, Germany, Université de Lausanne (Switzerland) (1980-1985) Professional experience in the European Institutions  Since 04/2025: Director-General, DG Health Emergency Preparedness and Response Authority (HERA)  09/2020 – 03/2025: Director General, DG Environment (ENV) – Circularity, Zero Pollution incl."
-- [Florika Fink-Hooijer](../people/florika-fink-hooijer.md) — held_position — Director-General → Health Emergency Preparedness and Response Authority
+- [[people/florika-fink-hooijer|Florika Fink-Hooijer]] — held_position — Director-General → Health Emergency Preparedness and Response Authority
   > "Juristisches Staatsexamen), Rheinische Friedrich Wilhelms Universität Bonn, Germany, Université de Lausanne (Switzerland) (1980-1985) Professional experience in the European Institutions  Since 04/2025: Director-General, DG Health Emergency Preparedness and Response Authority (HERA)  09/2020 – 03/2025: Director General, DG Environment (ENV) – Circularity, Zero Pollution incl."

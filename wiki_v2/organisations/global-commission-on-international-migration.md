@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Manuel Marin](../people/manuel-marin.md)  
+- [[people/manuel-marin|Manuel Marin]]  
   > "He was also a member of the Global Commission on International Migration."
-  > Source: [Manuel Marin](../sources/wikipedia-manuel-marin.md) · grade A
+  > Source: [[sources/wikipedia-manuel-marin|Manuel Marin]] · grade A

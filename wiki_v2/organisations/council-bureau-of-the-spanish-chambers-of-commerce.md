@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Joaquín Almunia](../people/joaquin-almunia.md) — employed_by  
+- [[people/joaquin-almunia|Joaquín Almunia]] — employed_by  
   > "He was economist at the Council Bureau of the Spanish Chambers of Commerce in Brussels from 1972 to 1975."
-  > Source: [Joaquin Almunia](../sources/wikipedia-joaquin-almunia.md) · grade B
+  > Source: [[sources/wikipedia-joaquin-almunia|Joaquin Almunia]] · grade B

@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Iliana Ivanova](../people/iliana-ivanova.md) — chair  
+- [[people/iliana-ivanova|Iliana Ivanova]] — chair  
   > "She was elected Dean of Chamber II, responsible for auditing structural policies, transport, for three consecutive mandates."
-  > Source: [Iliana Ivanova](../sources/wikipedia-iliana-ivanova.md) · grade C
+  > Source: [[sources/wikipedia-iliana-ivanova|Iliana Ivanova]] · grade C

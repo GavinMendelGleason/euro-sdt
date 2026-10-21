@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Margaritis Schinas](../people/margaritis-schinas.md) — employed_by  
+- [[people/margaritis-schinas|Margaritis Schinas]] — employed_by  
   > "From 2004 to 2007 Schinas was head of cabinet of the European Commissioner Markos Kyprianou."
-  > Source: [Margaritis Schinas](../sources/wikipedia-margaritis-schinas.md) · grade A
+  > Source: [[sources/wikipedia-margaritis-schinas|Margaritis Schinas]] · grade A

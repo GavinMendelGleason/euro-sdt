@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Virginijus Sinkevičius](../people/virginijus-sinkevicius.md) — party_member  
+- [[people/virginijus-sinkevicius|Virginijus Sinkevičius]] — party_member  
   > "Sinkevičius ran in the 2024 Lithuanian parliamentary election as a member of Saulius Skvernelis's party Union of Democrats \"For Lithuania\" (DSVL), winning a Seimas seat in the multi-member constituency through his position in the party list."
-  > Source: [Virginijus Sinkevicius](../sources/wikipedia-virginijus-sinkevicius.md) · grade A
+  > Source: [[sources/wikipedia-virginijus-sinkevicius|Virginijus Sinkevicius]] · grade A

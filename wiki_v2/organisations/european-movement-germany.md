@@ -14,9 +14,9 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Michaele Schreyer](../people/michaele-schreyer.md) — chair  
+- [[people/michaele-schreyer|Michaele Schreyer]] — chair  
   > "European Movement Germany, Vice President"
-  > Source: [Michaele Schreyer](../sources/wikipedia-michaele-schreyer.md) · grade A
-- [Monika Wulf-Mathies](../people/monika-wulf-mathies.md) — chair  
+  > Source: [[sources/wikipedia-michaele-schreyer|Michaele Schreyer]] · grade A
+- [[people/monika-wulf-mathies|Monika Wulf-Mathies]] — chair  
   > "European Movement Germany, Honorary President"
-  > Source: [Monika Wulf Mathies](../sources/wikipedia-monika-wulf-mathies.md) · grade A
+  > Source: [[sources/wikipedia-monika-wulf-mathies|Monika Wulf Mathies]] · grade A

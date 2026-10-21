@@ -15,9 +15,9 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (3)
 
-- [Clemens Ladenburger](../people/clemens-ladenburger.md) — educated_at — University Of Freiburg
+- [[people/clemens-ladenburger|Clemens Ladenburger]] — educated_at — University Of Freiburg
   > "German Academic qualifications  1999: Doctor iur., - University of Heidelberg with “summa cum laude”  1995: Second State Exam in Law (Freiburg i.Br.)  1993: Master of Laws (LL.M.) with “high honors” – University of Chicago  1992: First State Exam in Law – University of Freiburg i."
-- [Clemens Ladenburger](../people/clemens-ladenburger.md) — held_position — Deputy Director-General → Legal service
+- [[people/clemens-ladenburger|Clemens Ladenburger]] — held_position — Deputy Director-General → Legal service
   > " 11/2017 – 02/2022: Principal Legal Adviser (Director) leading the Team “Justice, Freedom and Security, Private Law, Criminal Law” – Legal Service (SJ)"
-- [Clemens Ladenburger](../people/clemens-ladenburger.md) — studied_field — Law
+- [[people/clemens-ladenburger|Clemens Ladenburger]] — studied_field — Law
   > "Br.  1987 – 1992: Studies of Law in Freiburg i."

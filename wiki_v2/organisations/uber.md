@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Neelie Kroes](../people/neelie-kroes.md) — advisory_board; employed_by  
+- [[people/neelie-kroes|Neelie Kroes]] — advisory_board; employed_by  
   > "Uber, Member of the Public Policy Advisory Board"
-  > Source: [Neelie Kroes](../sources/wikipedia-neelie-kroes.md) · grade A
+  > Source: [[sources/wikipedia-neelie-kroes|Neelie Kroes]] · grade A

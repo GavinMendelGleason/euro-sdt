@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Margot Wallström](../people/margot-wallstrom.md) — advisory_board; chair  
+- [[people/margot-wallstrom|Margot Wallström]] — advisory_board; chair  
   > "Institute for Human Rights and Business, Advisor (2012–2014), Chair (2020–present)"
-  > Source: [Margot Wallstrom](../sources/wikipedia-margot-wallstrom.md) · grade A
+  > Source: [[sources/wikipedia-margot-wallstrom|Margot Wallstrom]] · grade A

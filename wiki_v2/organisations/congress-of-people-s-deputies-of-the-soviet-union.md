@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Siim Kallas](../people/siim-kallas.md)  
+- [[people/siim-kallas|Siim Kallas]]  
   > "He was elected a member of the Congress of People's Deputies of the Soviet Union in the 1989 Soviet Union legislative election, the first partially free elections in the Soviet Union."
-  > Source: [Siim Kallas](../sources/wikipedia-siim-kallas.md) · grade A
+  > Source: [[sources/wikipedia-siim-kallas|Siim Kallas]] · grade A

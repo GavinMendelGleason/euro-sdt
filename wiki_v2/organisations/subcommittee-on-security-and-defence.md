@@ -15,9 +15,9 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Gabrielius Landsbergis](../people/gabrielius-landsbergis.md)  
+- [[people/gabrielius-landsbergis|Gabrielius Landsbergis]]  
   > "During his tenure in the European Parliament, Landsbergis served on the Committee on International Trade and the Subcommittee on Security and Defence , focusing on global trade and defense policy."
-  > Source: [Gabrielius Landsbergis](../sources/wikipedia-gabrielius-landsbergis.md) · grade B
-- [Hans van Baalen](../people/hans-van-baalen.md)  
+  > Source: [[sources/wikipedia-gabrielius-landsbergis|Gabrielius Landsbergis]] · grade B
+- [[people/hans-van-baalen|Hans van Baalen]]  
   > "He served as a member of the Committee on Foreign Affairs and its Subcommittee on Security and Defence from 2009."
-  > Source: [Hans Van Baalen](../sources/wikipedia-hans-van-baalen.md) · grade A
+  > Source: [[sources/wikipedia-hans-van-baalen|Hans Van Baalen]] · grade A

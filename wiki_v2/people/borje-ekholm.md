@@ -18,16 +18,16 @@ Corporate Elite
 
 ## Education
 
-- [Insead](../organisations/insead.md)  
+- [[organisations/insead|Insead]]  
   > "He graduated in 1988 with an MSc in Electrical Engineering from the Royal Institute of Technology (KTH) in Stockholm, undertook exchange studies in Boston, and holds a Master of Business Administration degree from INSEAD."
-  > Source: [Corp Borje Ekholm](../sources/wikipedia-corp-borje-ekholm.md) · grade A
+  > Source: [[sources/wikipedia-corp-borje-ekholm|Corp Borje Ekholm]] · grade A
 
-- [Royal Institute of Technology (KTH)](../organisations/royal-institute-of-technology-kth.md)  
+- [[organisations/royal-institute-of-technology-kth|Royal Institute of Technology (KTH)]]  
   > "He graduated in 1988 with an MSc in Electrical Engineering from the Royal Institute of Technology (KTH) in Stockholm, undertook exchange studies in Boston, and holds a Master of Business Administration degree from INSEAD."
-  > Source: [Corp Borje Ekholm](../sources/wikipedia-corp-borje-ekholm.md) · grade A
+  > Source: [[sources/wikipedia-corp-borje-ekholm|Corp Borje Ekholm]] · grade A
 
 ## Employment
 
-- [Ericsson](../organisations/ericsson.md)  
+- [[organisations/ericsson|Ericsson]]  
   > "Börje Ekholm (born 1963) is a Swedish-American business executive and CEO of Ericsson."
-  > Source: [Corp Borje Ekholm](../sources/wikipedia-corp-borje-ekholm.md) · grade A
+  > Source: [[sources/wikipedia-corp-borje-ekholm|Corp Borje Ekholm]] · grade A

@@ -16,7 +16,7 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (2)
 
-- [Luigi Cocilovo](../people/luigi-cocilovo.md) — member — Olive Tree
+- [[people/luigi-cocilovo|Luigi Cocilovo]] — member — Olive Tree
   > "He was elected on the Olive Tree ticket and sits with the Alliance of Liberals and Democrats for Europe group."
-- [Luigi Cocilovo](../people/luigi-cocilovo.md) — member — Alliance of Liberals and Democrats for Europe Group
+- [[people/luigi-cocilovo|Luigi Cocilovo]] — member — Alliance of Liberals and Democrats for Europe Group
   > "He was elected on the Olive Tree ticket and sits with the Alliance of Liberals and Democrats for Europe group."

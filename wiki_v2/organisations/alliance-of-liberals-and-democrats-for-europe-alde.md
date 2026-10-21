@@ -15,9 +15,9 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Brian Crowley](../people/brian-crowley.md)  
+- [[people/brian-crowley|Brian Crowley]]  
   > "He was a member of the ALDE group in the European Parliament from 2009 to 2014."
-  > Source: [Brian Crowley](../sources/wikipedia-brian-crowley.md) · grade A
-- [Leonard Orban](../people/leonard-orban.md)  
+  > Source: [[sources/wikipedia-brian-crowley|Brian Crowley]] · grade A
+- [[people/leonard-orban|Leonard Orban]]  
   > "He participated as an independent in the European Parliament political group Alliance of Liberals and Democrats for Europe (ALDE)."
-  > Source: [Leonard Orban](../sources/wikipedia-leonard-orban.md) · grade B
+  > Source: [[sources/wikipedia-leonard-orban|Leonard Orban]] · grade B

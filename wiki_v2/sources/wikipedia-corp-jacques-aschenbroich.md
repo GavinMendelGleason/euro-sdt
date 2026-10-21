@@ -16,7 +16,7 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (2)
 
-- [Jacques Aschenbroich](../people/jacques-aschenbroich.md) — educated_at — École nationale supérieure des mines de Paris
+- [[people/jacques-aschenbroich|Jacques Aschenbroich]] — educated_at — École nationale supérieure des mines de Paris
   > "== Education == Baccalauréat at the Lycée Ampère in Lyon Preparatory classes for the \"Grandes écoles\" at the Lycée du Parc in Lyon École nationale supérieure des mines de Paris (Engineer's degree) Engineer of the \"Corps of Mines\""
-- [Jacques Aschenbroich](../people/jacques-aschenbroich.md) — employed_by — Orange
+- [[people/jacques-aschenbroich|Jacques Aschenbroich]] — employed_by — Orange
   > "Jacques André Aschenbroich (born 3 June 1954) is the Chairman of French telecoms company Orange."

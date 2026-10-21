@@ -16,5 +16,5 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (1)
 
-- [John Dalli](../people/john-dalli.md) — held_portfolio — Health and Consumer Policy
+- [[people/john-dalli|John Dalli]] — held_portfolio — Health and Consumer Policy
   > "He was European Commissioner for Health and Consumer Policy between 2010 and 2012."

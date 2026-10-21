@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Lorena Boix Alonso](../people/lorena-boix-alonso.md)  
+- [[people/lorena-boix-alonso|Lorena Boix Alonso]]  
   > "Antitrust and merger control, pharma licensing agreements - Brussels, Belgium ➢ 01 – 07/1995: Intern, Boden de Bandt de Braw Jeantet Lagerlof and Uría ➢ 09/1993 – 12/1994: Legal Consultant, IRELCO (International Relations Consulting Company Lan"
-  > Source: [Lorena Boix Alonso](../sources/dg_cv-lorena-boix-alonso.md) · grade B
+  > Source: [[sources/dg_cv-lorena-boix-alonso|Lorena Boix Alonso]] · grade B

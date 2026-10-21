@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Godelieve Quisthoudt-Rowohl](../people/godelieve-quisthoudt-rowohl.md) — board_member  
+- [[people/godelieve-quisthoudt-rowohl|Godelieve Quisthoudt-Rowohl]] — board_member  
   > "From 1990 to 1996 Quisthoudt-Rowohl was a national board member of the Frauen Union for the CDU."
-  > Source: [Godelieve Quisthoudt Rowohl](../sources/wikipedia-godelieve-quisthoudt-rowohl.md) · grade A
+  > Source: [[sources/wikipedia-godelieve-quisthoudt-rowohl|Godelieve Quisthoudt Rowohl]] · grade A

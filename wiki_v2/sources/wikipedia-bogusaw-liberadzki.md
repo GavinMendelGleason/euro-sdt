@@ -16,21 +16,21 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (9)
 
-- [Bogusław Liberadzki](../people/bogusaw-liberadzki.md) — affiliated_with — Main School of Planning and Statistics (now Warsaw School of Economics)
+- [[people/bogusaw-liberadzki|Bogusław Liberadzki]] — affiliated_with — Main School of Planning and Statistics (now Warsaw School of Economics)
   > "He was educated at Main School of Planning and Statistics (now Warsaw School of Economics ) and the University of Illinois ."
-- [Bogusław Liberadzki](../people/bogusaw-liberadzki.md) — affiliated_with — University of Illinois
+- [[people/bogusaw-liberadzki|Bogusław Liberadzki]] — affiliated_with — University of Illinois
   > "He was educated at Main School of Planning and Statistics (now Warsaw School of Economics ) and the University of Illinois ."
-- [Bogusław Liberadzki](../people/bogusaw-liberadzki.md) — affiliated_with — Maritime University of Szczecin (Akademia Morska w Szczecinie)
+- [[people/bogusaw-liberadzki|Bogusław Liberadzki]] — affiliated_with — Maritime University of Szczecin (Akademia Morska w Szczecinie)
   > "He holds the Chair of Transportation at the Warsaw School of Economics in Warsaw ( Szkoła Główna Handlowa w Warszawie - SGH ) and is also a professor in the Maritime University of Szczecin ( Akademia Morska w Szczecinie )."
-- [Bogusław Liberadzki](../people/bogusaw-liberadzki.md) — affiliated_with — Ministry of Transportation and Maritime Economy (Poland)
+- [[people/bogusaw-liberadzki|Bogusław Liberadzki]] — affiliated_with — Ministry of Transportation and Maritime Economy (Poland)
   > "He was an under secretary (vice minister) in the Ministry of Transportation and Maritime Economy 1989–1993 and minister in that ministry 1993–1997."
-- [Bogusław Liberadzki](../people/bogusaw-liberadzki.md) — chair — Warsaw School of Economics (Szkoła Główna Handlowa w Warszawie - SGH)
+- [[people/bogusaw-liberadzki|Bogusław Liberadzki]] — chair — Warsaw School of Economics (Szkoła Główna Handlowa w Warszawie - SGH)
   > "He holds the Chair of Transportation at the Warsaw School of Economics in Warsaw ( Szkoła Główna Handlowa w Warszawie - SGH ) and is also a professor in the Maritime University of Szczecin ( Akademia Morska w Szczecinie )."
-- [Bogusław Liberadzki](../people/bogusaw-liberadzki.md) — educated_at — Main School of Planning and Statistics (now Warsaw School of Economics)
+- [[people/bogusaw-liberadzki|Bogusław Liberadzki]] — educated_at — Main School of Planning and Statistics (now Warsaw School of Economics)
   > "He was educated at Main School of Planning and Statistics (now Warsaw School of Economics ) and the University of Illinois ."
-- [Bogusław Liberadzki](../people/bogusaw-liberadzki.md) — educated_at — University of Illinois
+- [[people/bogusaw-liberadzki|Bogusław Liberadzki]] — educated_at — University of Illinois
   > "He was educated at Main School of Planning and Statistics (now Warsaw School of Economics ) and the University of Illinois ."
-- [Bogusław Liberadzki](../people/bogusaw-liberadzki.md) — member — Sejm
+- [[people/bogusaw-liberadzki|Bogusław Liberadzki]] — member — Sejm
   > "Between 1997 and 2003 he was an MP (member of Sejm , lower house of Polish parliament) representing Democratic Left Alliance ."
-- [Bogusław Liberadzki](../people/bogusaw-liberadzki.md) — member — Democratic Left Alliance
+- [[people/bogusaw-liberadzki|Bogusław Liberadzki]] — member — Democratic Left Alliance
   > "Between 1997 and 2003 he was an MP (member of Sejm , lower house of Polish parliament) representing Democratic Left Alliance ."

@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Piotr Serafin](../people/piotr-serafin.md) — employed_by  
+- [[people/piotr-serafin|Piotr Serafin]] — employed_by  
   > "On 1 December 2014, Serafin took the position of the Head of the Cabinet of the President of the European Council, Donald Tusk."
-  > Source: [Piotr Serafin](../sources/wikipedia-piotr-serafin.md) · grade A
+  > Source: [[sources/wikipedia-piotr-serafin|Piotr Serafin]] · grade A

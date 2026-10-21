@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Peter Mandelson](../people/peter-mandelson.md) — fellow  
+- [[people/peter-mandelson|Peter Mandelson]] — fellow  
   > "Mandelson was appointed as an honorary fellow of his alma mater, St Catherine's College, Oxford in April 2018."
-  > Source: [Peter Mandelson](../sources/wikipedia-peter-mandelson.md) · grade A
+  > Source: [[sources/wikipedia-peter-mandelson|Peter Mandelson]] · grade A

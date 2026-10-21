@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Jonathan Hill](../people/jonathan-hill.md)  
+- [[people/jonathan-hill|Jonathan Hill]]  
   > "Architecture: The Subject is Matter (Routledge, 2001, ISBN 978-0415235457 Occupying Architecture: Between the Architect and the User (Routledge, 2006, ISBN 978-0203983829) Hill was also series co-editor of the Design Research in Architecture book series published by Ashgate."
-  > Source: [Jonathan Hill](../sources/wikipedia-jonathan-hill.md) · grade B
+  > Source: [[sources/wikipedia-jonathan-hill|Jonathan Hill]] · grade B

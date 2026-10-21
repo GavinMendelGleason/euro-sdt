@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Virginijus Sinkevičius](../people/virginijus-sinkevicius.md) — attendee  
+- [[people/virginijus-sinkevicius|Virginijus Sinkevičius]] — attendee  
   > "From 2014 to 2015, he participated in the government’s “Create Lithuania” program, an initiative designed to attract young professionals to contribute innovative ideas to public sector development."
-  > Source: [Virginijus Sinkevicius](../sources/wikipedia-virginijus-sinkevicius.md) · grade C
+  > Source: [[sources/wikipedia-virginijus-sinkevicius|Virginijus Sinkevicius]] · grade C

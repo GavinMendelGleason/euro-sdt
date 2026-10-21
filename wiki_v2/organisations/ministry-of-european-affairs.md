@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Leonard Orban](../people/leonard-orban.md) — employed_by  
+- [[people/leonard-orban|Leonard Orban]] — employed_by  
   > "Between 2011 and 2012 he was the Romanian Minister of European Affairs in the second Boc, Ungureanu and first Ponta cabinets."
-  > Source: [Leonard Orban](../sources/wikipedia-leonard-orban.md) · grade C
+  > Source: [[sources/wikipedia-leonard-orban|Leonard Orban]] · grade C

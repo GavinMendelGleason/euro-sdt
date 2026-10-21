@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Elisa Ferreira](../people/elisa-ferreira.md)  
+- [[people/elisa-ferreira|Elisa Ferreira]]  
   > "In 2015, she joined the Special Committee on Tax Rulings and Other Measures Similar in Nature or Effect."
-  > Source: [Elisa Ferreira](../sources/wikipedia-elisa-ferreira.md) · grade A
+  > Source: [[sources/wikipedia-elisa-ferreira|Elisa Ferreira]] · grade A

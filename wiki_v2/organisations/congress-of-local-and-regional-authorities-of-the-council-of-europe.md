@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Dubravka Šuica](../people/dubravka-suica.md) — chair  
+- [[people/dubravka-suica|Dubravka Šuica]] — chair  
   > "In 2004, Dubravka Šuica was elected one of the vice-presidents of the Congress of Local and Regional Authorities of the Council of Europe."
-  > Source: [Dubravka Suica](../sources/wikipedia-dubravka-suica.md) · grade A
+  > Source: [[sources/wikipedia-dubravka-suica|Dubravka Suica]] · grade A

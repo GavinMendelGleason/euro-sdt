@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Ján Figeľ](../people/jan-figel.md) — attendee  
+- [[people/jan-figel|Ján Figeľ]] — attendee  
   > "Figeľ has long maintained close cooperation with the Unification Church, participates in its events, and has been listed among the movement’s VIP politicians."
-  > Source: [Jan Figel](../sources/wikipedia-jan-figel.md) · grade C
+  > Source: [[sources/wikipedia-jan-figel|Jan Figel]] · grade C

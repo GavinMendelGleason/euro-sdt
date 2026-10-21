@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Jean-Claude Juncker](../people/jean-claude-juncker.md) — chair  
+- [[people/jean-claude-juncker|Jean-Claude Juncker]] — chair  
   > "In 2005, he became the first permanent President of the Eurogroup."
-  > Source: [Jean Claude Juncker](../sources/wikipedia-jean-claude-juncker.md) · grade A
+  > Source: [[sources/wikipedia-jean-claude-juncker|Jean Claude Juncker]] · grade A

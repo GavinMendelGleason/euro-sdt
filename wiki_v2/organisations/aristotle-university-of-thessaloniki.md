@@ -15,9 +15,9 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Antonios Trakatellis](../people/antonios-trakatellis.md)  
+- [[people/antonios-trakatellis|Antonios Trakatellis]]  
   > "&#91; 1 &#93; Trakatellis has been a lecturer at several Greek and American universities, and was Rector of the Aristotle University of Thessaloniki 1988-1994."
-  > Source: [Antonios Trakatellis](../sources/wikipedia-antonios-trakatellis.md) · grade A
-- [Margaritis Schinas](../people/margaritis-schinas.md)  
+  > Source: [[sources/wikipedia-antonios-trakatellis|Antonios Trakatellis]] · grade A
+- [[people/margaritis-schinas|Margaritis Schinas]]  
   > "Early life and education Stemming from a family from Fourka, Chalkidiki, Schinas studied at Aristotle University of Thessaloniki, where he received a Bachelor of Laws in 1985."
-  > Source: [Margaritis Schinas](../sources/wikipedia-margaritis-schinas.md) · grade A
+  > Source: [[sources/wikipedia-margaritis-schinas|Margaritis Schinas]] · grade A

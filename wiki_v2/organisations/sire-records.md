@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [David Byrne](../people/david-byrne.md)  
+- [[people/david-byrne|David Byrne]]  
   > "In May 1976, Byrne quit his day job, and the three-piece band signed to Sire Records in November of that year."
-  > Source: [David Byrne](../sources/wikipedia-david-byrne.md) · grade B
+  > Source: [[sources/wikipedia-david-byrne|David Byrne]] · grade B

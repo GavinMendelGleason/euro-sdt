@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Jacques Barrot](../people/jacques-barrot.md)  
+- [[people/jacques-barrot|Jacques Barrot]]  
   > "In France, he held several ministerial posts and was later a member of the Constitutional Council from 2010 until his death in 2014."
-  > Source: [Jacques Barrot](../sources/wikipedia-jacques-barrot.md) · grade A
+  > Source: [[sources/wikipedia-jacques-barrot|Jacques Barrot]] · grade A

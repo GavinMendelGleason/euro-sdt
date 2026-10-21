@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Kaja Kallas](../people/kaja-kallas.md) — chair  
+- [[people/kaja-kallas|Kaja Kallas]] — chair  
   > "In addition to her committee assignments, Kallas was a member of the European Parliament Intergroup on the Digital Agenda, and was also a vice-chair of the Youth Intergroup."
-  > Source: [Kaja Kallas](../sources/wikipedia-kaja-kallas.md) · grade A
+  > Source: [[sources/wikipedia-kaja-kallas|Kaja Kallas]] · grade A

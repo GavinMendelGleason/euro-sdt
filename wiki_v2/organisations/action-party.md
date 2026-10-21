@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Giovanni Pittella](../people/giovanni-pittella.md)  
+- [[people/giovanni-pittella|Giovanni Pittella]]  
   > "In 2022, he and his brother left the Democratic Party after not being selected among the candidates for the snap election and joined the Action party."
-  > Source: [Giovanni Pittella](../sources/wikipedia-giovanni-pittella.md) · grade A
+  > Source: [[sources/wikipedia-giovanni-pittella|Giovanni Pittella]] · grade A

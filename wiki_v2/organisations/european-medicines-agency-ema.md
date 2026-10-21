@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Tonio Borg](../people/tonio-borg.md) — board_member  
+- [[people/tonio-borg|Tonio Borg]] — board_member  
   > "European Medicines Agency (EMA), Member of the Management Board"
-  > Source: [Tonio Borg](../sources/wikipedia-tonio-borg.md) · grade A
+  > Source: [[sources/wikipedia-tonio-borg|Tonio Borg]] · grade A

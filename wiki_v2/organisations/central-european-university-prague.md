@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Irena Moozová](../people/irena-moozova.md)  
+- [[people/irena-moozova|Irena Moozová]]  
   > "2: International Summer Academy, Oxford University and Central European University, Prague Professional experience in the European Institutions ➢ Since 01/10/20"
-  > Source: [Irena Moozova](../sources/dg_cv-irena-moozova.md) · grade A
+  > Source: [[sources/dg_cv-irena-moozova|Irena Moozova]] · grade A

@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Henna Virkkunen](../people/henna-virkkunen.md)  
+- [[people/henna-virkkunen|Henna Virkkunen]]  
   > "In 2022, she joined the European Parliament Committee of Inquiry to investigate the use of Pegasus and equivalent surveillance spyware."
-  > Source: [Henna Virkkunen](../sources/wikipedia-henna-virkkunen.md) · grade A
+  > Source: [[sources/wikipedia-henna-virkkunen|Henna Virkkunen]] · grade A

@@ -18,60 +18,60 @@ Mep
 
 ## Membership
 
-- [Espoo City Board](../organisations/espoo-city-board.md)  
+- [[organisations/espoo-city-board|Espoo City Board]]  
   > "&#91; 23 &#93; Positions held [ edit ] His curriculum vitae on the European Parliament webpage and the Finnish Parliament webpage list the following: &#91; 24 &#93; &#91; 25 &#93; Pre-university school-leaving certificate (1981) Master of Political Science (1988) Youth League of Developing Finland, special correspondent of Suomen Uutiset (1983–89) Vice-chair, Finnish Rural Party (1989–92) Party Secretary, Finnish Rural Party (1992–95) Chair, The Finns Party (1997–present) M"
-  > Source: [Timo Soini](../sources/wikipedia-timo-soini.md) · grade A
+  > Source: [[sources/wikipedia-timo-soini|Timo Soini]] · grade A
 
-- [Espoo city council](../organisations/espoo-city-council.md)  
+- [[organisations/espoo-city-council|Espoo city council]]  
   > "&#91; 2 &#93; He was elected as a member of the Espoo city council in 2000, and the Parliament of Finland in 2003."
-  > Source: [Timo Soini](../sources/wikipedia-timo-soini.md) · grade A
+  > Source: [[sources/wikipedia-timo-soini|Timo Soini]] · grade A
 
-- [European Parliament](../organisations/european-parliament.md)  
+- [[organisations/european-parliament|European Parliament]]  
   > "In the 2009 European Parliament election , he won a seat in the European Parliament with Finland's highest personal vote share (nearly 10% of all votes), becoming the first member of the Finns Party in the European Parliament."
-  > Source: [Timo Soini](../sources/wikipedia-timo-soini.md) · grade A
+  > Source: [[sources/wikipedia-timo-soini|Timo Soini]] · grade A
 
-- [Finnish Parliament](../organisations/finnish-parliament.md)  
+- [[organisations/finnish-parliament|Finnish Parliament]]  
   > "&#91; 23 &#93; Positions held [ edit ] His curriculum vitae on the European Parliament webpage and the Finnish Parliament webpage list the following: &#91; 24 &#93; &#91; 25 &#93; Pre-university school-leaving certificate (1981) Master of Political Science (1988) Youth League of Developing Finland, special correspondent of Suomen Uutiset (1983–89) Vice-chair, Finnish Rural Party (1989–92) Party Secretary, Finnish Rural Party (1992–95) Chair, The Finns Party (1997–present) M"
-  > Source: [Timo Soini](../sources/wikipedia-timo-soini.md) · grade A
+  > Source: [[sources/wikipedia-timo-soini|Timo Soini]] · grade A
 
-- [Finnish Rural Party](../organisations/finnish-rural-party.md)  
+- [[organisations/finnish-rural-party|Finnish Rural Party]]  
   > "Soini was a member of the Finnish Rural Party , and was its secretary-general from 1992."
-  > Source: [Timo Soini](../sources/wikipedia-timo-soini.md) · grade A
+  > Source: [[sources/wikipedia-timo-soini|Timo Soini]] · grade A
 
-- [Grand Committee of the Finnish Parliament](../organisations/grand-committee-of-the-finnish-parliament.md)  
+- [[organisations/grand-committee-of-the-finnish-parliament|Grand Committee of the Finnish Parliament]]  
   > "&#91; 23 &#93; Positions held [ edit ] His curriculum vitae on the European Parliament webpage and the Finnish Parliament webpage list the following: &#91; 24 &#93; &#91; 25 &#93; Pre-university school-leaving certificate (1981) Master of Political Science (1988) Youth League of Developing Finland, special correspondent of Suomen Uutiset (1983–89) Vice-chair, Finnish Rural Party (1989–92) Party Secretary, Finnish Rural Party (1992–95) Chair, The Finns Party (1997–present) M"
-  > Source: [Timo Soini](../sources/wikipedia-timo-soini.md) · grade A
+  > Source: [[sources/wikipedia-timo-soini|Timo Soini]] · grade A
 
-- [Legal Affairs Committee of the Finnish Parliament](../organisations/legal-affairs-committee-of-the-finnish-parliament.md)  
+- [[organisations/legal-affairs-committee-of-the-finnish-parliament|Legal Affairs Committee of the Finnish Parliament]]  
   > "&#91; 23 &#93; Positions held [ edit ] His curriculum vitae on the European Parliament webpage and the Finnish Parliament webpage list the following: &#91; 24 &#93; &#91; 25 &#93; Pre-university school-leaving certificate (1981) Master of Political Science (1988) Youth League of Developing Finland, special correspondent of Suomen Uutiset (1983–89) Vice-chair, Finnish Rural Party (1989–92) Party Secretary, Finnish Rural Party (1992–95) Chair, The Finns Party (1997–present) M"
-  > Source: [Timo Soini](../sources/wikipedia-timo-soini.md) · grade A
+  > Source: [[sources/wikipedia-timo-soini|Timo Soini]] · grade A
 
-- [Parliament of Finland](../organisations/parliament-of-finland.md)  
+- [[organisations/parliament-of-finland|Parliament of Finland]]  
   > "&#91; 2 &#93; He was elected as a member of the Espoo city council in 2000, and the Parliament of Finland in 2003."
-  > Source: [Timo Soini](../sources/wikipedia-timo-soini.md) · grade A
+  > Source: [[sources/wikipedia-timo-soini|Timo Soini]] · grade A
 
 ## Chair / president
 
-- [Foreign Affairs Committee of the Finnish Parliament](../organisations/foreign-affairs-committee-of-the-finnish-parliament.md) — chair  
+- [[organisations/foreign-affairs-committee-of-the-finnish-parliament|Foreign Affairs Committee of the Finnish Parliament]] — chair  
   > "&#91; 23 &#93; Positions held [ edit ] His curriculum vitae on the European Parliament webpage and the Finnish Parliament webpage list the following: &#91; 24 &#93; &#91; 25 &#93; Pre-university school-leaving certificate (1981) Master of Political Science (1988) Youth League of Developing Finland, special correspondent of Suomen Uutiset (1983–89) Vice-chair, Finnish Rural Party (1989–92) Party Secretary, Finnish Rural Party (1992–95) Chair, The Finns Party (1997–present) M"
-  > Source: [Timo Soini](../sources/wikipedia-timo-soini.md) · grade A
+  > Source: [[sources/wikipedia-timo-soini|Timo Soini]] · grade A
 
-- [The Finns Party](../organisations/the-finns-party.md) — chair  
+- [[organisations/the-finns-party|The Finns Party]] — chair  
   > "&#91; 23 &#93; Positions held [ edit ] His curriculum vitae on the European Parliament webpage and the Finnish Parliament webpage list the following: &#91; 24 &#93; &#91; 25 &#93; Pre-university school-leaving certificate (1981) Master of Political Science (1988) Youth League of Developing Finland, special correspondent of Suomen Uutiset (1983–89) Vice-chair, Finnish Rural Party (1989–92) Party Secretary, Finnish Rural Party (1992–95) Chair, The Finns Party (1997–present) M"
-  > Source: [Timo Soini](../sources/wikipedia-timo-soini.md) · grade A
+  > Source: [[sources/wikipedia-timo-soini|Timo Soini]] · grade A
 
-- [True Finns Party](../organisations/true-finns-party.md) — chair  
+- [[organisations/true-finns-party|True Finns Party]] — chair  
   > "It was, instead, founded as the True Finns Party (later the Finns Party) and two years later Soini succeeded Raimo Vistbacka as chairman, a position he has held ever since."
-  > Source: [Timo Soini](../sources/wikipedia-timo-soini.md) · grade A
+  > Source: [[sources/wikipedia-timo-soini|Timo Soini]] · grade A
 
 ## Founder
 
-- [Finns Party](../organisations/finns-party.md) — founder  
+- [[organisations/finns-party|Finns Party]] — founder  
   > "Finnish politician (born 1962) Timo Juhani Soini (born 30 May 1962) is a Finnish politician who is the co-founder and former leader of the Finns Party ."
-  > Source: [Timo Soini](../sources/wikipedia-timo-soini.md) · grade C
+  > Source: [[sources/wikipedia-timo-soini|Timo Soini]] · grade C
 
 ## Affiliation
 
-- [Youth League of Developing Finland](../organisations/youth-league-of-developing-finland.md)  
+- [[organisations/youth-league-of-developing-finland|Youth League of Developing Finland]]  
   > "&#91; 23 &#93; Positions held [ edit ] His curriculum vitae on the European Parliament webpage and the Finnish Parliament webpage list the following: &#91; 24 &#93; &#91; 25 &#93; Pre-university school-leaving certificate (1981) Master of Political Science (1988) Youth League of Developing Finland, special correspondent of Suomen Uutiset (1983–89) Vice-chair, Finnish Rural Party (1989–92) Party Secretary, Finnish Rural Party (1992–95) Chair, The Finns Party (1997–present) M"
-  > Source: [Timo Soini](../sources/wikipedia-timo-soini.md) · grade A
+  > Source: [[sources/wikipedia-timo-soini|Timo Soini]] · grade A

@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Tibor Navracsics](../people/tibor-navracsics.md) — party_member  
+- [[people/tibor-navracsics|Tibor Navracsics]] — party_member  
   > "He is a member of the Christian Democratic People's Party and was the European Commissioner for Education, Culture, Youth and Sport in the Juncker Commission."
-  > Source: [Tibor Navracsics](../sources/wikipedia-tibor-navracsics.md) · grade A
+  > Source: [[sources/wikipedia-tibor-navracsics|Tibor Navracsics]] · grade A

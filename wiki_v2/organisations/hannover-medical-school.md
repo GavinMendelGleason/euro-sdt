@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Godelieve Quisthoudt-Rowohl](../people/godelieve-quisthoudt-rowohl.md)  
+- [[people/godelieve-quisthoudt-rowohl|Godelieve Quisthoudt-Rowohl]]  
   > "&#91; 2 &#93; From 1974 to 1978 Quisthoudt-Rowohl continued researching at the Hannover Medical School ."
-  > Source: [Godelieve Quisthoudt Rowohl](../sources/wikipedia-godelieve-quisthoudt-rowohl.md) · grade B
+  > Source: [[sources/wikipedia-godelieve-quisthoudt-rowohl|Godelieve Quisthoudt Rowohl]] · grade B

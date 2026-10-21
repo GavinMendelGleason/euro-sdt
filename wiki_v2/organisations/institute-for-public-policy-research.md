@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Neil Kinnock](../people/neil-kinnock.md) — advisory_board  
+- [[people/neil-kinnock|Neil Kinnock]] — advisory_board  
   > "Kinnock remained on the Advisory Council of the Institute for Public Policy Research, which he helped set up in the 1980s."
-  > Source: [Neil Kinnock](../sources/wikipedia-neil-kinnock.md) · grade A
+  > Source: [[sources/wikipedia-neil-kinnock|Neil Kinnock]] · grade A

@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Mario Mauro](../people/mario-mauro.md)  
+- [[people/mario-mauro|Mario Mauro]]  
   > "He was elected the leader of the SC parliamentary group in the Senate."
-  > Source: [Mario Mauro](../sources/wikipedia-mario-mauro.md) · grade B
+  > Source: [[sources/wikipedia-mario-mauro|Mario Mauro]] · grade B

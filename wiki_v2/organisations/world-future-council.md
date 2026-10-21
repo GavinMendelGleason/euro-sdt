@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Anders Wijkman](../people/anders-wijkman.md)  
+- [[people/anders-wijkman|Anders Wijkman]]  
   > "&#91; 1 &#93; He is also a councillor for the World Future Council ."
-  > Source: [Anders Wijkman](../sources/wikipedia-anders-wijkman.md) · grade A
+  > Source: [[sources/wikipedia-anders-wijkman|Anders Wijkman]] · grade A

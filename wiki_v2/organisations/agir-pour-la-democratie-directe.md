@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Yvan Blot](../people/yvan-blot.md) — founder  
+- [[people/yvan-blot|Yvan Blot]] — founder  
   > "&#91; 4 &#93; He was the founder of the association \"Agir pour la démocratie directe\" in Paris."
-  > Source: [Yvan Blot](../sources/wikipedia-yvan-blot.md) · grade C
+  > Source: [[sources/wikipedia-yvan-blot|Yvan Blot]] · grade C

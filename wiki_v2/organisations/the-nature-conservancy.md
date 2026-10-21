@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Maria Damanaki](../people/maria-damanaki.md) — employed_by  
+- [[people/maria-damanaki|Maria Damanaki]] — employed_by  
   > "She served as the Global Managing Director for Oceans at The Nature Conservancy."
-  > Source: [Maria Damanaki](../sources/wikipedia-maria-damanaki.md) · grade A
+  > Source: [[sources/wikipedia-maria-damanaki|Maria Damanaki]] · grade A

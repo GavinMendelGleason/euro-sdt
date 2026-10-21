@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Dacian Cioloş](../people/dacian-ciolos.md) — founder  
+- [[people/dacian-ciolos|Dacian Cioloş]] — founder  
   > "The following year in May, he quit USR and launched a new party, REPER."
-  > Source: [Dacian Ciolos](../sources/wikipedia-dacian-ciolos.md) · grade C
+  > Source: [[sources/wikipedia-dacian-ciolos|Dacian Ciolos]] · grade C

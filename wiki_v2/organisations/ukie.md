@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Piotr Serafin](../people/piotr-serafin.md) — employed_by  
+- [[people/piotr-serafin|Piotr Serafin]] — employed_by  
   > "Between 16 January 2008 and 31 December 2009, he was Undersecretary of State at UKIE and National Aid Coordinator for the Phare and Transition Facility programmes."
-  > Source: [Piotr Serafin](../sources/wikipedia-piotr-serafin.md) · grade C
+  > Source: [[sources/wikipedia-piotr-serafin|Piotr Serafin]] · grade C

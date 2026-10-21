@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Cecilia Malmström](../people/cecilia-malmstrom.md) — party_member  
+- [[people/cecilia-malmstrom|Cecilia Malmström]] — party_member  
   > "She was a member of the Swedish Liberals (part of the Alliance of Liberals and Democrats for Europe) until 2023."
-  > Source: [Cecilia Malmstrom](../sources/wikipedia-cecilia-malmstrom.md) · grade A
+  > Source: [[sources/wikipedia-cecilia-malmstrom|Cecilia Malmstrom]] · grade A

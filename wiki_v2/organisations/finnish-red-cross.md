@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Erkki Liikanen](../people/erkki-liikanen.md) — chair  
+- [[people/erkki-liikanen|Erkki Liikanen]] — chair  
   > "Liikanen was also the chairman of Finnish Red Cross between June 2008 and June 2014."
-  > Source: [Erkki Liikanen](../sources/wikipedia-erkki-liikanen.md) · grade A
+  > Source: [[sources/wikipedia-erkki-liikanen|Erkki Liikanen]] · grade A

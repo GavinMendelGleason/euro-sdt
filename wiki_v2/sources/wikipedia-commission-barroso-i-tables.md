@@ -16,15 +16,15 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (6)
 
-- [Antonio Tajani](../people/antonio-tajani.md) — served_on_commission — Barroso I
+- [[people/antonio-tajani|Antonio Tajani]] — served_on_commission — Barroso I
   > "| Commissioner | Portrait | Portfolio | State | Party | Notes | BarrosoJosé Durão Barroso | | President | Portugal | EPPNational:PSD | | WallstromMargot Wallström | | Institutional RelationsFirst Vice-President;Institutional Relations and Communication Strategy | Sweden | PESNational:SAP | | VerheugenGünter Verheugen | | Enterprise and IndustryVice-President;Enterprise and Industry | Germany | PES […]"
-- [Franco Frattini](../people/franco-frattini.md) — served_on_commission — Barroso I
+- [[people/franco-frattini|Franco Frattini]] — served_on_commission — Barroso I
   > "| Commissioner | Portrait | Portfolio | State | Party | Notes | BarrosoJosé Durão Barroso | | President | Portugal | EPPNational:PSD | | WallstromMargot Wallström | | Institutional RelationsFirst Vice-President;Institutional Relations and Communication Strategy | Sweden | PESNational:SAP | | VerheugenGünter Verheugen | | Enterprise and IndustryVice-President;Enterprise and Industry | Germany | PES […]"
-- [Günter Verheugen](../people/gunter-verheugen.md) — served_on_commission — Barroso I
+- [[people/gunter-verheugen|Günter Verheugen]] — served_on_commission — Barroso I
   > "| Commissioner | Portrait | Portfolio | State | Party | Notes | BarrosoJosé Durão Barroso | | President | Portugal | EPPNational:PSD | | WallstromMargot Wallström | | Institutional RelationsFirst Vice-President;Institutional Relations and Communication Strategy | Sweden | PESNational:SAP | | VerheugenGünter Verheugen | | Enterprise and IndustryVice-President;Enterprise and Industry | Germany | PES […]"
-- [Jacques Barrot](../people/jacques-barrot.md) — served_on_commission — Barroso I
+- [[people/jacques-barrot|Jacques Barrot]] — served_on_commission — Barroso I
   > "| Commissioner | Portrait | Portfolio | State | Party | Notes | BarrosoJosé Durão Barroso | | President | Portugal | EPPNational:PSD | | WallstromMargot Wallström | | Institutional RelationsFirst Vice-President;Institutional Relations and Communication Strategy | Sweden | PESNational:SAP | | VerheugenGünter Verheugen | | Enterprise and IndustryVice-President;Enterprise and Industry | Germany | PES […]"
-- [Margot Wallström](../people/margot-wallstrom.md) — served_on_commission — Barroso I
+- [[people/margot-wallstrom|Margot Wallström]] — served_on_commission — Barroso I
   > "| Commissioner | Portrait | Portfolio | State | Party | Notes | BarrosoJosé Durão Barroso | | President | Portugal | EPPNational:PSD | | WallstromMargot Wallström | | Institutional RelationsFirst Vice-President;Institutional Relations and Communication Strategy | Sweden | PESNational:SAP | | VerheugenGünter Verheugen | | Enterprise and IndustryVice-President;Enterprise and Industry | Germany | PES […]"
-- [Viviane Reding](../people/viviane-reding.md) — served_on_commission — Barroso I
+- [[people/viviane-reding|Viviane Reding]] — served_on_commission — Barroso I
   > "Prior to 2007, this portfolio was part ofEducation, Training and Culture | Commissioner | Portrait | Portfolio | State | Party | Notes | BarrosoJosé Durão Barroso | | President | Portugal | EPPNational:PSD | Acting Inter-Institutional Relations and Administration Commissioner from 19 April 2014 – 25 May 2014. | AshtonCatherine Ashton | | High RepresentativeFirst Vice-President;Foreign Affairs and […]"

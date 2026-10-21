@@ -15,5 +15,5 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (1)
 
-- [Mario Nava](../people/mario-nava.md) — studied_field — Economics
+- [[people/mario-nava|Mario Nava]] — studied_field — Economics
   > "Italian Academic qualifications ➢ 07/2012: Leading with Impact, one -week residential management course - Harvard Business School ➢ 09/1992 – 07/1996: PhD in Economics – London School of Economics ➢ 09/1991 – 09/1992: Master of Arts in E conomics – Université Catholique de Louvain ➢ 09/1985 – 09/1989: Undergraduate degree in Economics (Laurea summa cum laude) - Università Commerciale Luigi Bocconi […]"

@@ -16,11 +16,11 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (4)
 
-- [Gaston Thorn](../people/gaston-thorn.md) — chair — United Nations General Assembly
+- [[people/gaston-thorn|Gaston Thorn]] — chair — United Nations General Assembly
   > "He most prominently served as prime minister of Luxembourg (1974–1979), President of the United Nations General Assembly (1975), and president of the European Commission (1981–1985)."
-- [Gaston Thorn](../people/gaston-thorn.md) — educated_at — montpellier
+- [[people/gaston-thorn|Gaston Thorn]] — educated_at — montpellier
   > "After the war, he initially studied medicine in Montpellier , then switched to law, and continued his studies in Lausanne and Paris, &#91; 2 &#93; and practised law in Luxembourg from 1955."
-- [Gaston Thorn](../people/gaston-thorn.md) — educated_at — lausanne
+- [[people/gaston-thorn|Gaston Thorn]] — educated_at — lausanne
   > "After the war, he initially studied medicine in Montpellier , then switched to law, and continued his studies in Lausanne and Paris, &#91; 2 &#93; and practised law in Luxembourg from 1955."
-- [Gaston Thorn](../people/gaston-thorn.md) — educated_at — paris
+- [[people/gaston-thorn|Gaston Thorn]] — educated_at — paris
   > "After the war, he initially studied medicine in Montpellier , then switched to law, and continued his studies in Lausanne and Paris, &#91; 2 &#93; and practised law in Luxembourg from 1955."

@@ -18,34 +18,34 @@ Corporate Elite
 
 ## Education
 
-- [École Polytechnique](../organisations/ecole-polytechnique.md)  
+- [[organisations/ecole-polytechnique|École Polytechnique]]  
   > "At 20, he entered the École Polytechnique where he graduated with an engineering degree."
-  > Source: [Patrick Pouyann](../sources/wikipedia-patrick-pouyann.md) · grade C
+  > Source: [[sources/wikipedia-patrick-pouyann|Patrick Pouyann]] · grade C
 
 ## Membership
 
-- [European Round Table of Industrialists (ERT)](../organisations/european-round-table-of-industrialists-ert.md)  
+- [[organisations/european-round-table-of-industrialists-ert|European Round Table of Industrialists (ERT)]]  
   > "&#91; 4 &#93; Other activities [ edit ] Corporate boards [ edit ] Capgemini , Member of the Board of Directors (since 2017) &#91; 5 &#93; Non-profit organizations [ edit ] Brookings Institution , Member of the Board of Trustees &#91; 6 &#93; European Round Table of Industrialists (ERT), Member &#91; 7 &#93; Polytechnic Institute of Paris , Member of the Board of Directors (since 2019) &#91; 8 &#93; The Business Council , Member &#91; 9 &#93; Recognition [ edit ] Pouyanné wa"
-  > Source: [Patrick Pouyann](../sources/wikipedia-patrick-pouyann.md) · grade C
+  > Source: [[sources/wikipedia-patrick-pouyann|Patrick Pouyann]] · grade C
 
-- [The Business Council](../organisations/the-business-council.md)  
+- [[organisations/the-business-council|The Business Council]]  
   > "&#91; 4 &#93; Other activities [ edit ] Corporate boards [ edit ] Capgemini , Member of the Board of Directors (since 2017) &#91; 5 &#93; Non-profit organizations [ edit ] Brookings Institution , Member of the Board of Trustees &#91; 6 &#93; European Round Table of Industrialists (ERT), Member &#91; 7 &#93; Polytechnic Institute of Paris , Member of the Board of Directors (since 2019) &#91; 8 &#93; The Business Council , Member &#91; 9 &#93; Recognition [ edit ] Pouyanné wa"
-  > Source: [Patrick Pouyann](../sources/wikipedia-patrick-pouyann.md) · grade C
+  > Source: [[sources/wikipedia-patrick-pouyann|Patrick Pouyann]] · grade C
 
 ## Board / trustee
 
-- [Brookings Institution](../organisations/brookings-institution.md) — board_member  
+- [[organisations/brookings-institution|Brookings Institution]] — board_member  
   > "&#91; 4 &#93; Other activities [ edit ] Corporate boards [ edit ] Capgemini , Member of the Board of Directors (since 2017) &#91; 5 &#93; Non-profit organizations [ edit ] Brookings Institution , Member of the Board of Trustees &#91; 6 &#93; European Round Table of Industrialists (ERT), Member &#91; 7 &#93; Polytechnic Institute of Paris , Member of the Board of Directors (since 2019) &#91; 8 &#93; The Business Council , Member &#91; 9 &#93; Recognition [ edit ] Pouyanné wa"
-  > Source: [Patrick Pouyann](../sources/wikipedia-patrick-pouyann.md) · grade C
+  > Source: [[sources/wikipedia-patrick-pouyann|Patrick Pouyann]] · grade C
 
-- [Capgemini](../organisations/capgemini.md) — board_member  
+- [[organisations/capgemini|Capgemini]] — board_member  
   > "&#91; 4 &#93; Other activities [ edit ] Corporate boards [ edit ] Capgemini , Member of the Board of Directors (since 2017) &#91; 5 &#93; Non-profit organizations [ edit ] Brookings Institution , Member of the Board of Trustees &#91; 6 &#93; European Round Table of Industrialists (ERT), Member &#91; 7 &#93; Polytechnic Institute of Paris , Member of the Board of Directors (since 2019) &#91; 8 &#93; The Business Council , Member &#91; 9 &#93; Recognition [ edit ] Pouyanné wa"
-  > Source: [Patrick Pouyann](../sources/wikipedia-patrick-pouyann.md) · grade C
+  > Source: [[sources/wikipedia-patrick-pouyann|Patrick Pouyann]] · grade C
 
-- [Polytechnic Institute of Paris](../organisations/polytechnic-institute-of-paris.md) — board_member  
+- [[organisations/polytechnic-institute-of-paris|Polytechnic Institute of Paris]] — board_member  
   > "&#91; 4 &#93; Other activities [ edit ] Corporate boards [ edit ] Capgemini , Member of the Board of Directors (since 2017) &#91; 5 &#93; Non-profit organizations [ edit ] Brookings Institution , Member of the Board of Trustees &#91; 6 &#93; European Round Table of Industrialists (ERT), Member &#91; 7 &#93; Polytechnic Institute of Paris , Member of the Board of Directors (since 2019) &#91; 8 &#93; The Business Council , Member &#91; 9 &#93; Recognition [ edit ] Pouyanné wa"
-  > Source: [Patrick Pouyann](../sources/wikipedia-patrick-pouyann.md) · grade C
+  > Source: [[sources/wikipedia-patrick-pouyann|Patrick Pouyann]] · grade C
 
-- [Total](../organisations/total.md) — board_member  
+- [[organisations/total|Total]] — board_member  
   > "&#91; 2 &#93; In May 2015, Pouyanné was elected as a member of the board of directors of Total."
-  > Source: [Patrick Pouyann](../sources/wikipedia-patrick-pouyann.md) · grade C
+  > Source: [[sources/wikipedia-patrick-pouyann|Patrick Pouyann]] · grade C

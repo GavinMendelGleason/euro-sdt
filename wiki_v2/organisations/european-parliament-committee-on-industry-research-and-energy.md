@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Henna Virkkunen](../people/henna-virkkunen.md)  
+- [[people/henna-virkkunen|Henna Virkkunen]]  
   > "In parliament, Virkkunen has been serving on the European Parliament Committee on Industry, Research and Energy (since 2014) and the European Parliament Committee on Transport and Tourism (since 2021)."
-  > Source: [Henna Virkkunen](../sources/wikipedia-henna-virkkunen.md) · grade B
+  > Source: [[sources/wikipedia-henna-virkkunen|Henna Virkkunen]] · grade B

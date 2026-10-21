@@ -15,9 +15,9 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Armin Papperger](../people/armin-papperger.md) — employed_by  
+- [[people/armin-papperger|Armin Papperger]] — employed_by  
   > "Armin Theodor Papperger (born 30 January 1963) is a German business executive, CEO of Rheinmetall AG, an automotive and arms manufacturer."
-  > Source: [Armin Papperger](../sources/wikipedia-armin-papperger.md) · grade A
-- [Ulrich Grillo](../people/ulrich-grillo.md) — board_member  
+  > Source: [[sources/wikipedia-armin-papperger|Armin Papperger]] · grade A
+- [[people/ulrich-grillo|Ulrich Grillo]] — board_member  
   > "He is currently chairman of the supervisory board at Rheinmetall AG and deputy chairman of the supervisory board at E.ON SE ."
-  > Source: [Ulrich Grillo](../sources/wikipedia-ulrich-grillo.md) · grade A
+  > Source: [[sources/wikipedia-ulrich-grillo|Ulrich Grillo]] · grade A

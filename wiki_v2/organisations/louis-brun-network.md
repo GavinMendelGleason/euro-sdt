@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Heribert Barrera i Costa](../people/heribert-barrera-i-costa.md) — attendee  
+- [[people/heribert-barrera-i-costa|Heribert Barrera i Costa]] — attendee  
   > "&#91; 10 &#93; While in exile, he is believed to have participated in the French resistance by collaborating with the Louis Brun network , although no documentary evidence confirms this."
-  > Source: [Heribert Barrera](../sources/wikipedia-heribert-barrera.md) · grade C
+  > Source: [[sources/wikipedia-heribert-barrera|Heribert Barrera]] · grade C

@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Leonard Orban](../people/leonard-orban.md)  
+- [[people/leonard-orban|Leonard Orban]]  
   > "Orban gained a bachelor's degree (1981–1986) in engineering at the Faculty of Mechanical Engineering, Transylvania University of Braşov"
-  > Source: [Leonard Orban](../sources/wikipedia-leonard-orban.md) · grade A
+  > Source: [[sources/wikipedia-leonard-orban|Leonard Orban]] · grade A

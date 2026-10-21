@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Ross McInnes](../people/ross-mcinnes.md)  
+- [[people/ross-mcinnes|Ross McInnes]]  
   > "Career [ edit ] McInnes started his career in 1977 in London and then in Rio de Janeiro with the bank Kleinwort Benson , then joined Continental Bank (which became part of Bank of America ) as part of the corporate finance team, working in Chicago and in Paris."
-  > Source: [Ross Mcinnes](../sources/wikipedia-ross-mcinnes.md) · grade B
+  > Source: [[sources/wikipedia-ross-mcinnes|Ross Mcinnes]] · grade B

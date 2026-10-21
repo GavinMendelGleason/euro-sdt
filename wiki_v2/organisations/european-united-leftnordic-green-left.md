@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Francis Wurtz](../people/francis-wurtz.md) — chair  
+- [[people/francis-wurtz|Francis Wurtz]] — chair  
   > "Elected in the Île-de-France constituency on the French Communist Party (PCF) ticket, he sat with the European United Left - Nordic Green Left (GUE/NGL) group, and was its President ."
-  > Source: [Francis Wurtz](../sources/wikipedia-francis-wurtz.md) · grade A
+  > Source: [[sources/wikipedia-francis-wurtz|Francis Wurtz]] · grade A

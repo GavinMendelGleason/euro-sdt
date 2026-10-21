@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Günther Oettinger](../people/gunther-oettinger.md) — advisory_board; Juncker (2014-2019)  
+- [[people/gunther-oettinger|Günther Oettinger]] — advisory_board; Juncker (2014-2019)  
   > "HAM-LOG Gruppe, Member of the Advisory Board (since 2021)"
-  > Source: [Gunther Oettinger](../sources/wikipedia-gunther-oettinger.md) · grade A
+  > Source: [[sources/wikipedia-gunther-oettinger|Gunther Oettinger]] · grade A

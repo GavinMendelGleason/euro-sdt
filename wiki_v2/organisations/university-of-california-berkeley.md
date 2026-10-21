@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Danuta Hübner](../people/danuta-hubner.md)  
+- [[people/danuta-hubner|Danuta Hübner]]  
   > "Hübner was a 1988–1990 Fulbright scholar at the University of California, Berkeley and received an honorary Degree in Laws of Sussex University in 2005."
-  > Source: [Danuta Hubner](../sources/wikipedia-danuta-hubner.md) · grade A
+  > Source: [[sources/wikipedia-danuta-hubner|Danuta Hubner]] · grade A

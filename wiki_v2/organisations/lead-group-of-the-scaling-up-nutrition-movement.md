@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Neven Mimica](../people/neven-mimica.md)  
+- [[people/neven-mimica|Neven Mimica]]  
   > "In September 2016, Mimica was appointed by United Nations Secretary-General Ban Ki-moon to serve as member of the Lead Group of the Scaling Up Nutrition Movement."
-  > Source: [Neven Mimica](../sources/wikipedia-neven-mimica.md) · grade A
+  > Source: [[sources/wikipedia-neven-mimica|Neven Mimica]] · grade A

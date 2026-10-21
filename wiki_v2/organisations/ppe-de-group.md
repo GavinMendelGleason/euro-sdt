@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Mario Mauro](../people/mario-mauro.md)  
+- [[people/mario-mauro|Mario Mauro]]  
   > "&#91; 4 &#93; He was first elected to the European Parliament in 1999 with the PPE-DE group."
-  > Source: [Mario Mauro](../sources/wikipedia-mario-mauro.md) · grade B
+  > Source: [[sources/wikipedia-mario-mauro|Mario Mauro]] · grade B

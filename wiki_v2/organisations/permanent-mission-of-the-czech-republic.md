@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Stefan Füle](../people/stefan-fule.md) — employed_by  
+- [[people/stefan-fule|Stefan Füle]] — employed_by  
   > "Füle served as First Secretary of Permanent Mission of the Czech Republic (until 1993 Czechoslovakia) to the UN in New York City from 1990 t"
-  > Source: [Stefan Fule](../sources/wikipedia-stefan-fule.md) · grade C
+  > Source: [[sources/wikipedia-stefan-fule|Stefan Fule]] · grade C

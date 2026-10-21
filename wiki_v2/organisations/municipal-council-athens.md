@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Christos Papoutsis](../people/christos-papoutsis.md)  
+- [[people/christos-papoutsis|Christos Papoutsis]]  
   > "As Leader of the Opposition he served in the Municipal Council Athens (2002–2006)."
-  > Source: [Christos Papoutsis](../sources/wikipedia-christos-papoutsis.md) · grade B
+  > Source: [[sources/wikipedia-christos-papoutsis|Christos Papoutsis]] · grade B

@@ -18,10 +18,10 @@ Corporate Elite
 
 ## Education
 
-- [HEC International Business School](../organisations/hec-international-business-school.md)  
+- [[organisations/hec-international-business-school|HEC International Business School]]  
   > "Career [ edit ] Early career [ edit ] Agon joined L’Oréal in 1978 after completing his studies at the HEC International Business School."
-  > Source: [Jean Paul Agon](../sources/wikipedia-jean-paul-agon.md) · grade A
+  > Source: [[sources/wikipedia-jean-paul-agon|Jean Paul Agon]] · grade A
 
-- [Hec Paris](../organisations/hec-paris.md)  
+- [[organisations/hec-paris|Hec Paris]]  
   > "&#91; 2 &#93; He graduated from HEC Paris in 1978."
-  > Source: [Jean Paul Agon](../sources/wikipedia-jean-paul-agon.md) · grade B
+  > Source: [[sources/wikipedia-jean-paul-agon|Jean Paul Agon]] · grade B

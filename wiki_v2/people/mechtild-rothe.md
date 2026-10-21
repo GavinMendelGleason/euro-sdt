@@ -18,38 +18,38 @@ Mep
 
 ## Membership
 
-- [Committee on Industry, Research and Energy](../organisations/committee-on-industry-research-and-energy.md)  
+- [[organisations/committee-on-industry-research-and-energy|Committee on Industry, Research and Energy]]  
   > "During her time in parliament, Rothe sat on the European Parliament 's Committee on Industry, Research and Energy ."
-  > Source: [Mechtild Rothe](../sources/wikipedia-mechtild-rothe.md) · grade B
+  > Source: [[sources/wikipedia-mechtild-rothe|Mechtild Rothe]] · grade B
 
-- [Delegation for relations with the countries of south-east Europe](../organisations/delegation-for-relations-with-the-countries-of-south-east-europe.md)  
+- [[organisations/delegation-for-relations-with-the-countries-of-south-east-europe|Delegation for relations with the countries of south-east Europe]]  
   > "She was a substitute for the Committee on Foreign Affairs , a member of the Delegation for relations with the countries of south-east Europe and a substitute for the Delegation to the EU - Turkey Joint Parliamentary Committee."
-  > Source: [Mechtild Rothe](../sources/wikipedia-mechtild-rothe.md) · grade A
+  > Source: [[sources/wikipedia-mechtild-rothe|Mechtild Rothe]] · grade A
 
-- [Group Bureau](../organisations/group-bureau.md)  
+- [[organisations/group-bureau|Group Bureau]]  
   > "Career [ edit ] 1965–1974: Trained and employed as a chemical laboratory technician 1974–1978: studied German and social sciences Education [ edit ] 1978 and 1981: first and second state examination for lower secondary teaching 1978–1984: teacher 1975–1984 1984–2009: Member of the European Parliament Vice-Chair of the SPD group in the European Parliament 1999–2004: Delegation Chair of the EU – Cyprus Joint Parliamentary Committee 2002–2004: Member of the Group Bureau See al"
-  > Source: [Mechtild Rothe](../sources/wikipedia-mechtild-rothe.md) · grade A
+  > Source: [[sources/wikipedia-mechtild-rothe|Mechtild Rothe]] · grade A
 
-- [Social Democratic Party of Germany](../organisations/social-democratic-party-of-germany.md)  
+- [[organisations/social-democratic-party-of-germany|Social Democratic Party of Germany]]  
   > "She is a member of the Social Democratic Party of Germany , part of the Socialist Group ."
-  > Source: [Mechtild Rothe](../sources/wikipedia-mechtild-rothe.md) · grade A
+  > Source: [[sources/wikipedia-mechtild-rothe|Mechtild Rothe]] · grade A
 
 ## Chair / president
 
-- [EU – Cyprus Joint Parliamentary Committee](../organisations/eu-cyprus-joint-parliamentary-committee.md) — chair  
+- [[organisations/eu-cyprus-joint-parliamentary-committee|EU – Cyprus Joint Parliamentary Committee]] — chair  
   > "Career [ edit ] 1965–1974: Trained and employed as a chemical laboratory technician 1974–1978: studied German and social sciences Education [ edit ] 1978 and 1981: first and second state examination for lower secondary teaching 1978–1984: teacher 1975–1984 1984–2009: Member of the European Parliament Vice-Chair of the SPD group in the European Parliament 1999–2004: Delegation Chair of the EU – Cyprus Joint Parliamentary Committee 2002–2004: Member of the Group Bureau See al"
-  > Source: [Mechtild Rothe](../sources/wikipedia-mechtild-rothe.md) · grade A
+  > Source: [[sources/wikipedia-mechtild-rothe|Mechtild Rothe]] · grade A
 
 ## Affiliation
 
-- [Committee on Foreign Affairs](../organisations/committee-on-foreign-affairs.md)  
+- [[organisations/committee-on-foreign-affairs|Committee on Foreign Affairs]]  
   > "She was a substitute for the Committee on Foreign Affairs , a member of the Delegation for relations with the countries of south-east Europe and a substitute for the Delegation to the EU - Turkey Joint Parliamentary Committee."
-  > Source: [Mechtild Rothe](../sources/wikipedia-mechtild-rothe.md) · grade A
+  > Source: [[sources/wikipedia-mechtild-rothe|Mechtild Rothe]] · grade A
 
-- [Delegation to the EU - Turkey Joint Parliamentary Committee](../organisations/delegation-to-the-eu-turkey-joint-parliamentary-committee.md)  
+- [[organisations/delegation-to-the-eu-turkey-joint-parliamentary-committee|Delegation to the EU - Turkey Joint Parliamentary Committee]]  
   > "She was a substitute for the Committee on Foreign Affairs , a member of the Delegation for relations with the countries of south-east Europe and a substitute for the Delegation to the EU - Turkey Joint Parliamentary Committee."
-  > Source: [Mechtild Rothe](../sources/wikipedia-mechtild-rothe.md) · grade A
+  > Source: [[sources/wikipedia-mechtild-rothe|Mechtild Rothe]] · grade A
 
-- [Socialist Group](../organisations/socialist-group.md)  
+- [[organisations/socialist-group|Socialist Group]]  
   > "She is a member of the Social Democratic Party of Germany , part of the Socialist Group ."
-  > Source: [Mechtild Rothe](../sources/wikipedia-mechtild-rothe.md) · grade A
+  > Source: [[sources/wikipedia-mechtild-rothe|Mechtild Rothe]] · grade A

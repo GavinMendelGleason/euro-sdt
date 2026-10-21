@@ -16,19 +16,19 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (8)
 
-- [Sari Essayah](../people/sari-essayah.md) — advisory_board — Finnish Institute of International Affairs (FIIA)
+- [[people/sari-essayah|Sari Essayah]] — advisory_board — Finnish Institute of International Affairs (FIIA)
   > "&#91; 9 &#93; Other activities [ edit ] Finnish Institute of International Affairs (FIIA), Member of the Advisory Council (since 2019) &#91; 10 &#93; Achievements [ edit ] Year Competition Venue Position Event Notes Representing &#160; Finland 1987 World Championships Rome , Italy 19th 10 km 47:30 1989 Universiade Duisburg , West Germany 3rd 5&#160;km 21:34 1990 European Championships Split , Yugo […]"
-- [Sari Essayah](../people/sari-essayah.md) — attendee — Christian Democrats' Parliamentary group
+- [[people/sari-essayah|Sari Essayah]] — attendee — Christian Democrats' Parliamentary group
   > "&#91; 5 &#93; She was later chosen to be the vice speaker of the Christian Democrats' Parliamentary group."
-- [Sari Essayah](../people/sari-essayah.md) — chair — Finnish Christian Democrats
+- [[people/sari-essayah|Sari Essayah]] — chair — Finnish Christian Democrats
   > "She is the president of the Finnish Christian Democrats party."
-- [Sari Essayah](../people/sari-essayah.md) — educated_at — university-of-vaasa
+- [[people/sari-essayah|Sari Essayah]] — educated_at — university-of-vaasa
   > "Essayah holds an M.Sc (Econ) in business administration and accounting from the University of Vaasa ."
-- [Sari Essayah](../people/sari-essayah.md) — member — International Olympic Committee
+- [[people/sari-essayah|Sari Essayah]] — member — International Olympic Committee
   > "In 2016, Essayah became a member of the International Olympic Committee (IOC), and she has been a member of the Ethics Committee of the Finnish Athletics Association since 2014."
-- [Sari Essayah](../people/sari-essayah.md) — member — Ethics Committee of the Finnish Athletics Association
+- [[people/sari-essayah|Sari Essayah]] — member — Ethics Committee of the Finnish Athletics Association
   > "In 2016, Essayah became a member of the International Olympic Committee (IOC), and she has been a member of the Ethics Committee of the Finnish Athletics Association since 2014."
-- [Sari Essayah](../people/sari-essayah.md) — member — Christian Democrats
+- [[people/sari-essayah|Sari Essayah]] — member — Christian Democrats
   > "Political career [ edit ] After retiring from sports Essayah entered politics and represented the Christian Democrats in the Finnish parliament between 2003–2007 but failed to get reelected in the election of 2007."
-- [Sari Essayah](../people/sari-essayah.md) — member — European Parliament
+- [[people/sari-essayah|Sari Essayah]] — member — European Parliament
   > "Essayah was elected to the European Parliament in 2009 but failed to be reelected in 2014 despite her 61&#160;000 votes."

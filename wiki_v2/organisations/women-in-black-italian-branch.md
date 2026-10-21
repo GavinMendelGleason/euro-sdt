@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Luisa Morgantini](../people/luisa-morgantini.md) — founder  
+- [[people/luisa-morgantini|Luisa Morgantini]] — founder  
   > "She is one of the founders of the Italian branch of the Women in Black organisation."
-  > Source: [Luisa Morgantini](../sources/wikipedia-luisa-morgantini.md) · grade C
+  > Source: [[sources/wikipedia-luisa-morgantini|Luisa Morgantini]] · grade C

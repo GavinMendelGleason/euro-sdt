@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Alexandra Jour-Schroeder](../people/alexandra-jour-schroeder.md)  
+- [[people/alexandra-jour-schroeder|Alexandra Jour-Schroeder]]  
   > " 1989 – 1990: University of Münster – Faculty of Law: Assistant lecturer"
-  > Source: [Alexandra Jour Schroeder](../sources/dg_cv-alexandra-jour-schroeder.md) · grade A
+  > Source: [[sources/dg_cv-alexandra-jour-schroeder|Alexandra Jour Schroeder]] · grade A

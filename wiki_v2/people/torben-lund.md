@@ -18,28 +18,28 @@ Mep
 
 ## Membership
 
-- [Danish Social Democrats](../organisations/danish-social-democrats.md)  
+- [[organisations/danish-social-democrats|Danish Social Democrats]]  
   > "&#91; 2 &#93; He was associated with the Danish Social Democrats in Denmark, and the Progressive Alliance of Socialists and Democrats in the European Parliament."
-  > Source: [Torben Lund](../sources/wikipedia-torben-lund.md) · grade B
+  > Source: [[sources/wikipedia-torben-lund|Torben Lund]] · grade B
 
-- [Folketing](../organisations/folketing.md)  
+- [[organisations/folketing|Folketing]]  
   > "Danish politician (born 1950) Torben Lund (born 6 November 1950) is a Danish politician, who served in the Folketing from 1981 to 1998 &#91; 1 &#93; and in the European Parliament from 1999 to 2004."
-  > Source: [Torben Lund](../sources/wikipedia-torben-lund.md) · grade B
+  > Source: [[sources/wikipedia-torben-lund|Torben Lund]] · grade B
 
-- [Progressive Alliance of Socialists and Democrats](../organisations/progressive-alliance-of-socialists-and-democrats.md)  
+- [[organisations/progressive-alliance-of-socialists-and-democrats|Progressive Alliance of Socialists and Democrats]]  
   > "&#91; 2 &#93; He was associated with the Danish Social Democrats in Denmark, and the Progressive Alliance of Socialists and Democrats in the European Parliament."
-  > Source: [Torben Lund](../sources/wikipedia-torben-lund.md) · grade B
+  > Source: [[sources/wikipedia-torben-lund|Torben Lund]] · grade B
 
 ## Affiliation
 
-- [Dk4](../organisations/dk4.md)  
+- [[organisations/dk4|Dk4]]  
   > "&#91; 4 &#93; After his retirement from politics, he joined the Danish television network Dk4 ."
-  > Source: [Torben Lund](../sources/wikipedia-torben-lund.md) · grade B
+  > Source: [[sources/wikipedia-torben-lund|Torben Lund]] · grade B
 
-- [Poul Nyrup Rasmussen I Cabinet](../organisations/poul-nyrup-rasmussen-i-cabinet.md)  
+- [[organisations/poul-nyrup-rasmussen-i-cabinet|Poul Nyrup Rasmussen I Cabinet]]  
   > "&#91; 3 &#93; He served as Health Minister in the Poul Nyrup Rasmussen I Cabinet from 1993 to 1994."
-  > Source: [Torben Lund](../sources/wikipedia-torben-lund.md) · grade A
+  > Source: [[sources/wikipedia-torben-lund|Torben Lund]] · grade A
 
-- [Social Democrats](../organisations/social-democrats.md)  
+- [[organisations/social-democrats|Social Democrats]]  
   > "&#91; 5 &#93; He remained active in the Social Democrats, but left the party in 2009 due to disagreements with the leadership of Helle Thorning-Schmidt ."
-  > Source: [Torben Lund](../sources/wikipedia-torben-lund.md) · grade B
+  > Source: [[sources/wikipedia-torben-lund|Torben Lund]] · grade B

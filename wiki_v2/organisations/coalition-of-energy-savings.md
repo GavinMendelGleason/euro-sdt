@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Monica Frassoni](../people/monica-frassoni.md)  
+- [[people/monica-frassoni|Monica Frassoni]]  
   > "She is also a member of the steering committee of the Coalition of Energy Savings."
-  > Source: [Monica Frassoni](../sources/wikipedia-monica-frassoni.md) · grade A
+  > Source: [[sources/wikipedia-monica-frassoni|Monica Frassoni]] · grade A

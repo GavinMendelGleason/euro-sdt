@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Pierre Moscovici](../people/pierre-moscovici.md)  
+- [[people/pierre-moscovici|Pierre Moscovici]]  
   > "Political career Early political career Initially active in the Revolutionary Communist League, he left in 1984 to join the PS and, in 1986, became secretary of the \"experts' group\" created by Claude Allègre."
-  > Source: [Pierre Moscovici](../sources/wikipedia-pierre-moscovici.md) · grade A
+  > Source: [[sources/wikipedia-pierre-moscovici|Pierre Moscovici]] · grade A

@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Marek Siwiec](../people/marek-siwiec.md)  
+- [[people/marek-siwiec|Marek Siwiec]]  
   > "In the years 1993–1995, he was also a member of the National Broadcasting Council ."
-  > Source: [Marek Siwiec](../sources/wikipedia-marek-siwiec.md) · grade A
+  > Source: [[sources/wikipedia-marek-siwiec|Marek Siwiec]] · grade A

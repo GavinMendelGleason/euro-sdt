@@ -16,21 +16,21 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (9)
 
-- [Nicolas Schmit](../people/nicolas-schmit.md) — affiliated_with — Progressive Alliance of Socialists and Democrats (S&D) group
+- [[people/nicolas-schmit|Nicolas Schmit]] — affiliated_with — Progressive Alliance of Socialists and Democrats (S&D) group
   > "Since the 2019 European elections, Schmit has been a Member of the European Parliament, where he belongs to the Progressive Alliance of Socialists and Democrats (S&D) group."
-- [Nicolas Schmit](../people/nicolas-schmit.md) — chair — EPSCO network of the Party of European Socialists
+- [[people/nicolas-schmit|Nicolas Schmit]] — chair — EPSCO network of the Party of European Socialists
   > "He is the chairman of the EPSCO network of the Party of European Socialists."
-- [Nicolas Schmit](../people/nicolas-schmit.md) — chair — Party of European Socialists
+- [[people/nicolas-schmit|Nicolas Schmit]] — chair — Party of European Socialists
   > "He is the chairman of the EPSCO network of the Party of European Socialists."
-- [Nicolas Schmit](../people/nicolas-schmit.md) — educated_at — Institut D'Études Politiques D'Aix-En-Provence
+- [[people/nicolas-schmit|Nicolas Schmit]] — educated_at — Institut D'Études Politiques D'Aix-En-Provence
   > "Schmit studied economics in France at the Institut d'études politiques d'Aix-en-Provence."
-- [Nicolas Schmit](../people/nicolas-schmit.md) — from_country — Luxembourg
+- [[people/nicolas-schmit|Nicolas Schmit]] — from_country — Luxembourg
   > "Nicolas Schmit (born 10 December 1953) is a Luxembourgish politician who served as European Commissioner for Jobs and Social Rights from 2019 to 2024."
-- [Nicolas Schmit](../people/nicolas-schmit.md) — held_portfolio — Jobs and Social Rights
+- [[people/nicolas-schmit|Nicolas Schmit]] — held_portfolio — Jobs and Social Rights
   > "Nicolas Schmit (born 10 December 1953) is a Luxembourgish politician who served as European Commissioner for Jobs and Social Rights from 2019 to 2024."
-- [Nicolas Schmit](../people/nicolas-schmit.md) — member — Luxembourg Socialist Workers' Party
+- [[people/nicolas-schmit|Nicolas Schmit]] — member — Luxembourg Socialist Workers' Party
   > "A member of the Luxembourg Socialist Workers' Party (LSAP), he was the EU-wide Spitzenkandidat of the centre-left PES at the 2024 EU elections."
-- [Nicolas Schmit](../people/nicolas-schmit.md) — member — European Parliament
+- [[people/nicolas-schmit|Nicolas Schmit]] — member — European Parliament
   > "Since the 2019 European elections, Schmit has been a Member of the European Parliament, where he belongs to the Progressive Alliance of Socialists and Democrats (S&D) group."
-- [Nicolas Schmit](../people/nicolas-schmit.md) — member — Committee on Employment and Social Affairs
+- [[people/nicolas-schmit|Nicolas Schmit]] — member — Committee on Employment and Social Affairs
   > "He has since been serving on the Committee on Employment and Social Affairs."

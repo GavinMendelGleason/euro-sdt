@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Androulla Vassiliou](../people/androulla-vassiliou.md) — chair  
+- [[people/androulla-vassiliou|Androulla Vassiliou]] — chair  
   > "Between 2001 and 2006, she was Vice President of the European Liberal Democrat and Reform Party, and the chairperson of the European Liberal Women's Network."
-  > Source: [Androulla Vassiliou](../sources/wikipedia-androulla-vassiliou.md) · grade A
+  > Source: [[sources/wikipedia-androulla-vassiliou|Androulla Vassiliou]] · grade A

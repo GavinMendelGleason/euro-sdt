@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Henna Virkkunen](../people/henna-virkkunen.md) — employed_by  
+- [[people/henna-virkkunen|Henna Virkkunen]] — employed_by  
   > "During her studies she worked as a freelance journalist for Keskisuomalainen."
-  > Source: [Henna Virkkunen](../sources/wikipedia-henna-virkkunen.md) · grade A
+  > Source: [[sources/wikipedia-henna-virkkunen|Henna Virkkunen]] · grade A

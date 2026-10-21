@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Věra Jourová](../people/vera-jourova.md)  
+- [[people/vera-jourova|Věra Jourová]]  
   > "Jan Karski Foundation, Member of the Award Committee for the Jan Karski Eagle Award (since 2024)"
-  > Source: [Vera Jourova](../sources/wikipedia-vera-jourova.md) · grade A
+  > Source: [[sources/wikipedia-vera-jourova|Vera Jourova]] · grade A

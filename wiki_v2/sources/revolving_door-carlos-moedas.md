@@ -15,9 +15,9 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (3)
 
-- [Carlos Moedas](../people/carlos-moedas.md) — advisory_board — United Nations Educational, Scientific and Cultural Organization (UNESCO)
+- [[people/carlos-moedas|Carlos Moedas]] — advisory_board — United Nations Educational, Scientific and Cultural Organization (UNESCO)
   > "Other activities European Council on Foreign Relations (ECFR), Member (since 2021) Aga Khan University, Member of the Chancellor’s Commission (since 2021) Africa Europe Foundation (AEF), Member of the High-Level Group of Personalities on Africa-Europe Relations (since 2020) Friends of Europe, Member of the Board of Trustees (since 2020) UNESCO, Member of the Advisory Board of the \"Futures of Educa […]"
-- [Carlos Moedas](../people/carlos-moedas.md) — advisory_board — Re-Imagine Europa
+- [[people/carlos-moedas|Carlos Moedas]] — advisory_board — Re-Imagine Europa
   > "Other activities European Council on Foreign Relations (ECFR), Member (since 2021) Aga Khan University, Member of the Chancellor’s Commission (since 2021) Africa Europe Foundation (AEF), Member of the High-Level Group of Personalities on Africa-Europe Relations (since 2020) Friends of Europe, Member of the Board of Trustees (since 2020) UNESCO, Member of the Advisory Board of the \"Futures of Educa […]"
-- [Carlos Moedas](../people/carlos-moedas.md) — board_member — Friends of Europe
+- [[people/carlos-moedas|Carlos Moedas]] — board_member — Friends of Europe
   > "Other activities European Council on Foreign Relations (ECFR), Member (since 2021) Aga Khan University, Member of the Chancellor’s Commission (since 2021) Africa Europe Foundation (AEF), Member of the High-Level Group of Personalities on Africa-Europe Relations (since 2020) Friends of Europe, Member of the Board of Trustees (since 2020) UNESCO, Member of the Advisory Board of the \"Futures of Educa […]"

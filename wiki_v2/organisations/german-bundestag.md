@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Günter Verheugen](../people/gunter-verheugen.md)  
+- [[people/gunter-verheugen|Günter Verheugen]]  
   > "In the 1983 Western German elections, Verheugen became a member of the German Bundestag."
-  > Source: [Gunter Verheugen](../sources/wikipedia-gunter-verheugen.md) · grade A
+  > Source: [[sources/wikipedia-gunter-verheugen|Gunter Verheugen]] · grade A

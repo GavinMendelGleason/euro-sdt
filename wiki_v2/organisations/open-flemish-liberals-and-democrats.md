@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Karel De Gucht](../people/karel-de-gucht.md) — party_member  
+- [[people/karel-de-gucht|Karel De Gucht]] — party_member  
   > "In 1999 he was elected party president of the Flemish liberal party Open Flemish Liberals and Democrats (now Anders)."
-  > Source: [Karel De Gucht](../sources/wikipedia-karel-de-gucht.md) · grade B
+  > Source: [[sources/wikipedia-karel-de-gucht|Karel De Gucht]] · grade B

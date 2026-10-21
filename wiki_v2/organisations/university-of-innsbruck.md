@@ -15,9 +15,9 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Magnus Brunner](../people/magnus-brunner.md)  
+- [[people/magnus-brunner|Magnus Brunner]]  
   > "Brunner studied jurisprudence at the University of Innsbruck, the University of Vienna (Dr. iur.) and King's College London (LLM)."
-  > Source: [Magnus Brunner](../sources/wikipedia-magnus-brunner.md) · grade A
-- [Severin Schwan](../people/severin-schwan.md)  
+  > Source: [[sources/wikipedia-magnus-brunner|Magnus Brunner]] · grade A
+- [[people/severin-schwan|Severin Schwan]]  
   > "== Early life and education == Severin Schwan graduated from the Akademisches Gymnasium Innsbruck and then studied economics at the University of Innsbruck, University of York, and University of Oxford as well as law at the University of Innsbruck."
-  > Source: [Corp Severin Schwan](../sources/wikipedia-corp-severin-schwan.md) · grade A
+  > Source: [[sources/wikipedia-corp-severin-schwan|Corp Severin Schwan]] · grade A

@@ -15,5 +15,5 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (1)
 
-- [Maria Martin-Prat De Abreu](../people/maria-martin-prat-de-abreu.md) — held_position — Deputy Director-General → Directorate-General for Trade and Economic Security
+- [[people/maria-martin-prat-de-abreu|Maria Martin-Prat De Abreu]] — held_position — Deputy Director-General → Directorate-General for Trade and Economic Security
   > "Professional experience in the European Institutions  Since 16/04/2021 : Deputy Director-General in charge of Directorates D and E – Directorate-General Trade (DG TRADE)"

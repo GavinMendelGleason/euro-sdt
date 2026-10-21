@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Christos Stylianides](../people/christos-stylianides.md) — chair  
+- [[people/christos-stylianides|Christos Stylianides]] — chair  
   > "Vice-Chair of the Committee on Foreign and European Affairs (2011–2013)."
-  > Source: [Christos Stylianides](../sources/wikipedia-christos-stylianides.md) · grade A
+  > Source: [[sources/wikipedia-christos-stylianides|Christos Stylianides]] · grade A

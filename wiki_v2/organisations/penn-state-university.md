@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Johannes Luchner](../people/johannes-luchner.md)  
+- [[people/johannes-luchner|Johannes Luchner]]  
   > " Austrian Academic qualifications  1987 – 1992: Ph.D. in international political economy Penn State University - University Park, Pennsylvania, United State Penn State University - University Park, Pennsylvania, United States"
-  > Source: [Johannes Luchner](../sources/dg_cv-johannes-luchner.md) · grade A
+  > Source: [[sources/dg_cv-johannes-luchner|Johannes Luchner]] · grade A

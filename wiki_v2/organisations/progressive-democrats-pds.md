@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Pat Cox](../people/pat-cox.md)  
+- [[people/pat-cox|Pat Cox]]  
   > "&#91; 3 &#93; Member of the European Parliament, 1989–2004 [ edit ] Cox was elected an MEP in 1989 for the constituency of Munster , representing the Progressive Democrats (PDs)."
-  > Source: [Pat Cox](../sources/wikipedia-pat-cox.md) · grade A
+  > Source: [[sources/wikipedia-pat-cox|Pat Cox]] · grade A

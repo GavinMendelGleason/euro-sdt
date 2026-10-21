@@ -16,5 +16,5 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (1)
 
-- [Christian Sewing](../people/christian-sewing.md) — employed_by — Deutsche Bank
+- [[people/christian-sewing|Christian Sewing]] — employed_by — Deutsche Bank
   > "Christian Sewing (German pronunciation: ['krɪsti̯an 'ze:vɪŋ]; born 24 April 1970 in Bünde) is a German banker who is the chief executive officer (CEO) of Deutsche Bank."

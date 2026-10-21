@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Ulrich Grillo](../people/ulrich-grillo.md) — chair  
+- [[people/ulrich-grillo|Ulrich Grillo]] — chair  
   > "In 2006, he also became chairman of the BDI's raw materials committee."
-  > Source: [Ulrich Grillo](../sources/wikipedia-ulrich-grillo.md) · grade A
+  > Source: [[sources/wikipedia-ulrich-grillo|Ulrich Grillo]] · grade A

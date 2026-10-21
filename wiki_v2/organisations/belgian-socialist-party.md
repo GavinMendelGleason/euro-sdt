@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Karel Van Miert](../people/karel-van-miert.md)  
+- [[people/karel-van-miert|Karel Van Miert]]  
   > "In 1976 he became adjunct-national secretary of the – at that time – unitary Belgian socialist party."
-  > Source: [Karel Van Miert](../sources/wikipedia-karel-van-miert.md) · grade B
+  > Source: [[sources/wikipedia-karel-van-miert|Karel Van Miert]] · grade B

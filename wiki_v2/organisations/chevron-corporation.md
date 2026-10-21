@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Paolo Scaroni](../people/paolo-scaroni.md)  
+- [[people/paolo-scaroni|Paolo Scaroni]]  
   > "&#91; 1 &#93; Career [ edit ] In 1969, Scaroni joined Chevron Corporation for three years."
-  > Source: [Paolo Scaroni](../sources/wikipedia-paolo-scaroni.md) · grade B
+  > Source: [[sources/wikipedia-paolo-scaroni|Paolo Scaroni]] · grade B

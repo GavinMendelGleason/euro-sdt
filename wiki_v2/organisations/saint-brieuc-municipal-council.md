@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Alain Cadec](../people/alain-cadec.md)  
+- [[people/alain-cadec|Alain Cadec]]  
   > "&#91; 1 &#93; Career in local politics [ edit ] Cadec has been a municipal councillor in Saint-Brieuc since 1995 and he has been a member of the governing coalition in the city since 2001."
-  > Source: [Alain Cadec](../sources/wikipedia-alain-cadec.md) · grade A
+  > Source: [[sources/wikipedia-alain-cadec|Alain Cadec]] · grade A

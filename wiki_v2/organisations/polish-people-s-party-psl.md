@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Janusz Wojciechowski](../people/janusz-wojciechowski.md)  
+- [[people/janusz-wojciechowski|Janusz Wojciechowski]]  
   > "2003-2002: Member of the Chief Executive Committee of the Polish People's Party (PSL)"
-  > Source: [Janusz Wojciechowski](../sources/wikipedia-janusz-wojciechowski.md) · grade A
+  > Source: [[sources/wikipedia-janusz-wojciechowski|Janusz Wojciechowski]] · grade A

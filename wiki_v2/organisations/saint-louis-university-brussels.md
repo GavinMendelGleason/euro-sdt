@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Paul-Henry Gendebien](../people/paul-henry-gendebien.md)  
+- [[people/paul-henry-gendebien|Paul-Henry Gendebien]]  
   > "He earned a Doctor of Laws in 1962 and a licentiate in economic sciences in 1964 from Saint-Louis University, Brussels and subsequently studied at the Catholic University of Louvain ."
-  > Source: [Paul Henry Gendebien](../sources/wikipedia-paul-henry-gendebien.md) · grade C
+  > Source: [[sources/wikipedia-paul-henry-gendebien|Paul Henry Gendebien]] · grade C

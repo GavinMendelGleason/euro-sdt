@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Antonios Trakatellis](../people/antonios-trakatellis.md)  
+- [[people/antonios-trakatellis|Antonios Trakatellis]]  
   > "He has been leader of the ND parliamentary group since 2000."
-  > Source: [Antonios Trakatellis](../sources/wikipedia-antonios-trakatellis.md) · grade C
+  > Source: [[sources/wikipedia-antonios-trakatellis|Antonios Trakatellis]] · grade C

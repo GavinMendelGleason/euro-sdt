@@ -20,62 +20,62 @@ Commissioner · POL
 
 - European Commissioner for Budget, Anti-Fraud and Public Administration  
   > "Piotr Arkadiusz Serafin (Polish pronunciation: [ˈpjɔtr arˈkadjuʂ sɛˈrafin]; born 12 January 1974) is a Polish politician and lawyer who has served as European Commissioner for Budget, Anti-Fraud and Public Administration since December 2024."
-  > Source: [Piotr Serafin](../sources/wikipedia-piotr-serafin.md) · grade A
+  > Source: [[sources/wikipedia-piotr-serafin|Piotr Serafin]] · grade A
 
 ## Nominated by
 
 - POL  
   > "In August 2024, he was nominated by the Polish Government to be Poland's next European Commissioner."
-  > Source: [Piotr Serafin](../sources/wikipedia-piotr-serafin.md) · grade C
+  > Source: [[sources/wikipedia-piotr-serafin|Piotr Serafin]] · grade C
 
 ## Country
 
 - Poland  
   > "Piotr Arkadiusz Serafin (Polish pronunciation: [ˈpjɔtr arˈkadjuʂ sɛˈrafin]; born 12 January 1974) is a Polish politician and lawyer who has served as European Commissioner for Budget, Anti-Fraud and P"
-  > Source: [Piotr Serafin](../sources/wikipedia-piotr-serafin.md) · grade C
+  > Source: [[sources/wikipedia-piotr-serafin|Piotr Serafin]] · grade C
 
 ## Education
 
-- [Sgh Warsaw School Of Economics](../organisations/sgh-warsaw-school-of-economics.md)  
+- [[organisations/sgh-warsaw-school-of-economics|Sgh Warsaw School Of Economics]]  
   > "Serafin graduated in economics at the SGH Warsaw School of Economics, and in law at the University of Warsaw."
-  > Source: [Piotr Serafin](../sources/wikipedia-piotr-serafin.md) · grade A
+  > Source: [[sources/wikipedia-piotr-serafin|Piotr Serafin]] · grade A
 
-- [University Of Sussex](../organisations/university-of-sussex.md)  
+- [[organisations/university-of-sussex|University Of Sussex]]  
   > "He was a postgraduate student of European integration at the University of Sussex."
-  > Source: [Piotr Serafin](../sources/wikipedia-piotr-serafin.md) · grade A
+  > Source: [[sources/wikipedia-piotr-serafin|Piotr Serafin]] · grade A
 
 ## Affiliation
 
-- [Phare and Transition Facility programmes](../organisations/phare-and-transition-facility-programmes.md)  
+- [[organisations/phare-and-transition-facility-programmes|Phare and Transition Facility programmes]]  
   > "Between 16 January 2008 and 31 December 2009, he was Undersecretary of State at UKIE and National Aid Coordinator for the Phare and Transition Facility programmes."
-  > Source: [Piotr Serafin](../sources/wikipedia-piotr-serafin.md) · grade B
+  > Source: [[sources/wikipedia-piotr-serafin|Piotr Serafin]] · grade B
 
 ## Employment
 
-- [Analysis and Strategy Department](../organisations/analysis-and-strategy-department.md) — employed_by  
+- [[organisations/analysis-and-strategy-department|Analysis and Strategy Department]] — employed_by  
   > "In 2004 he became director of the Analysis and Strategy Department."
-  > Source: [Piotr Serafin](../sources/wikipedia-piotr-serafin.md) · grade A
+  > Source: [[sources/wikipedia-piotr-serafin|Piotr Serafin]] · grade A
 
-- [Cabinet of the EU Commissioner for Financial Programming and Budget Janusz Lewandowski](../organisations/cabinet-of-the-eu-commissioner-for-financial-programming-and-budget-janusz-lewandowski.md) — employed_by  
+- [[organisations/cabinet-of-the-eu-commissioner-for-financial-programming-and-budget-janusz-lewandowski|Cabinet of the EU Commissioner for Financial Programming and Budget Janusz Lewandowski]] — employed_by  
   > "In February 2010, Serafin was appointed the deputy head of Cabinet of the EU Commissioner for Financial Programming and Budget Janusz Lewandowski."
-  > Source: [Piotr Serafin](../sources/wikipedia-piotr-serafin.md) · grade A
+  > Source: [[sources/wikipedia-piotr-serafin|Piotr Serafin]] · grade A
 
-- [Cabinet of the President of the European Council, Donald Tusk](../organisations/cabinet-of-the-president-of-the-european-council-donald-tusk.md) — employed_by  
+- [[organisations/cabinet-of-the-president-of-the-european-council-donald-tusk|Cabinet of the President of the European Council, Donald Tusk]] — employed_by  
   > "On 1 December 2014, Serafin took the position of the Head of the Cabinet of the President of the European Council, Donald Tusk."
-  > Source: [Piotr Serafin](../sources/wikipedia-piotr-serafin.md) · grade A
+  > Source: [[sources/wikipedia-piotr-serafin|Piotr Serafin]] · grade A
 
-- [MFA](../organisations/mfa.md) — employed_by  
+- [[organisations/mfa|MFA]] — employed_by  
   > "He served as the Secretary of State at MFA from 22 May 2012 until 24 September 2014."
-  > Source: [Piotr Serafin](../sources/wikipedia-piotr-serafin.md) · grade C
+  > Source: [[sources/wikipedia-piotr-serafin|Piotr Serafin]] · grade C
 
-- [Office of the Committee for European Integration (UKIE)](../organisations/office-of-the-committee-for-european-integration-ukie.md) — employed_by  
+- [[organisations/office-of-the-committee-for-european-integration-ukie|Office of the Committee for European Integration (UKIE)]] — employed_by  
   > "Career Serafin began his professional career at the Office of the Committee for European Integration (UKIE) in 1998."
-  > Source: [Piotr Serafin](../sources/wikipedia-piotr-serafin.md) · grade B
+  > Source: [[sources/wikipedia-piotr-serafin|Piotr Serafin]] · grade B
 
-- [Permanent Representative of Poland to the European Union](../organisations/permanent-representative-of-poland-to-the-european-union.md) — employed_by  
+- [[organisations/permanent-representative-of-poland-to-the-european-union|Permanent Representative of Poland to the European Union]] — employed_by  
   > "From 13 December 2023 to October 2024, Serafin served as the acting Permanent Representative of Poland to the European Union."
-  > Source: [Piotr Serafin](../sources/wikipedia-piotr-serafin.md) · grade C
+  > Source: [[sources/wikipedia-piotr-serafin|Piotr Serafin]] · grade C
 
-- [UKIE](../organisations/ukie.md) — employed_by  
+- [[organisations/ukie|UKIE]] — employed_by  
   > "Between 16 January 2008 and 31 December 2009, he was Undersecretary of State at UKIE and National Aid Coordinator for the Phare and Transition Facility programmes."
-  > Source: [Piotr Serafin](../sources/wikipedia-piotr-serafin.md) · grade C
+  > Source: [[sources/wikipedia-piotr-serafin|Piotr Serafin]] · grade C

@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Maria Damanaki](../people/maria-damanaki.md) — chair  
+- [[people/maria-damanaki|Maria Damanaki]] — chair  
   > "She is a former president of the Synaspismos party of the left and former state member of the Hellenic Parliament within the Panhellenic Socialist Movement (PASOK)."
-  > Source: [Maria Damanaki](../sources/wikipedia-maria-damanaki.md) · grade A
+  > Source: [[sources/wikipedia-maria-damanaki|Maria Damanaki]] · grade A

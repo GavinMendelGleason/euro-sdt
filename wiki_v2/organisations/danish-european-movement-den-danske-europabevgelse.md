@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Ritt Bjerregaard](../people/ritt-bjerregaard.md) — chair  
+- [[people/ritt-bjerregaard|Ritt Bjerregaard]] — chair  
   > "After being an opponent for many years, she became chair of the Danish European Movement (Den Danske Europabevægelse)."
-  > Source: [Ritt Bjerregaard](../sources/wikipedia-ritt-bjerregaard.md) · grade A
+  > Source: [[sources/wikipedia-ritt-bjerregaard|Ritt Bjerregaard]] · grade A

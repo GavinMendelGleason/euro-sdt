@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Pierre Moscovici](../people/pierre-moscovici.md)  
+- [[people/pierre-moscovici|Pierre Moscovici]]  
   > "Member of the French National Assembly From 2007 to 2012, Moscovici was a Member of the French National Assembly (4th constituency in the Doubs), serving on the Committee on Foreign Affairs, and subsequently the Finance Committee."
-  > Source: [Pierre Moscovici](../sources/wikipedia-pierre-moscovici.md) · grade A
+  > Source: [[sources/wikipedia-pierre-moscovici|Pierre Moscovici]] · grade A

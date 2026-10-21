@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Dimitris Avramopoulos](../people/dimitris-avramopoulos.md) — employed_by  
+- [[people/dimitris-avramopoulos|Dimitris Avramopoulos]] — employed_by  
   > "In 1992 he became official spokesman of the Greek Ministry of Foreign Affairs and was appointed Consul General of Greece in Geneva."
-  > Source: [Dimitris Avramopoulos](../sources/wikipedia-dimitris-avramopoulos.md) · grade C
+  > Source: [[sources/wikipedia-dimitris-avramopoulos|Dimitris Avramopoulos]] · grade C

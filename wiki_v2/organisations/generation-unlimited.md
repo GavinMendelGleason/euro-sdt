@@ -14,9 +14,9 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Federica Mogherini](../people/federica-mogherini.md) — board_member  
+- [[people/federica-mogherini|Federica Mogherini]] — board_member  
   > "Generation Unlimited, member of the Board (since 2018)"
-  > Source: [Federica Mogherini](../sources/wikipedia-federica-mogherini.md) · grade A
-- [Kristalina Georgieva](../people/kristalina-georgieva.md) — board_member  
+  > Source: [[sources/wikipedia-federica-mogherini|Federica Mogherini]] · grade A
+- [[people/kristalina-georgieva|Kristalina Georgieva]] — board_member  
   > "Generation Unlimited, member of the board (since 2018)"
-  > Source: [Kristalina Georgieva](../sources/wikipedia-kristalina-georgieva.md) · grade A
+  > Source: [[sources/wikipedia-kristalina-georgieva|Kristalina Georgieva]] · grade A

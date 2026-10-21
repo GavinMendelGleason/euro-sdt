@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Wopke Hoekstra](../people/wopke-hoekstra.md) — employed_by  
+- [[people/wopke-hoekstra|Wopke Hoekstra]] — employed_by  
   > "Before he joined the government, Hoekstra was a partner with the consultancy firm McKinsey."
-  > Source: [Wopke Hoekstra](../sources/wikipedia-wopke-hoekstra.md) · grade C
+  > Source: [[sources/wikipedia-wopke-hoekstra|Wopke Hoekstra]] · grade C

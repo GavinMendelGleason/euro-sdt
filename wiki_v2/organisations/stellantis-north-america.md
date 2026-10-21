@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Antonio Filosa](../people/antonio-filosa.md) — employed_by  
+- [[people/antonio-filosa|Antonio Filosa]] — employed_by  
   > "He is also chief operating officer (COO), of Stellantis North America ."
-  > Source: [Antonio Filosa](../sources/wikipedia-antonio-filosa.md) · grade A
+  > Source: [[sources/wikipedia-antonio-filosa|Antonio Filosa]] · grade A

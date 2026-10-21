@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Janez Potocnik](../people/janez-potocnik.md) — chair  
+- [[people/janez-potocnik|Janez Potocnik]] — chair  
   > "Rural Investment for a Sustainable Europe (RISE) Foundation, Chairman (since 2014)"
-  > Source: [Janez Potocnik](../sources/wikipedia-janez-potocnik.md) · grade A
+  > Source: [[sources/wikipedia-janez-potocnik|Janez Potocnik]] · grade A

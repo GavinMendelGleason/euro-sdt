@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Benita Ferrero-Waldner](../people/benita-ferrero-waldner.md) — board_member  
+- [[people/benita-ferrero-waldner|Benita Ferrero-Waldner]] — board_member  
   > "Munich Re, member of the supervisory board (2010–2021)"
-  > Source: [Benita Ferrero Waldner](../sources/wikipedia-benita-ferrero-waldner.md) · grade A
+  > Source: [[sources/wikipedia-benita-ferrero-waldner|Benita Ferrero Waldner]] · grade A

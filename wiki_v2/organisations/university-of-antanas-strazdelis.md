@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Vytenis Andriukaitis](../people/vytenis-andriukaitis.md) — founder  
+- [[people/vytenis-andriukaitis|Vytenis Andriukaitis]] — founder  
   > "He was a founder of the University of Antanas Strazdelis, an underground \"university\", where members of the resistance movement studied works of the prohibited authors, exchanged books from personal libraries and practiced a humanist way of life (1975–1982)."
-  > Source: [Vytenis Andriukaitis](../sources/wikipedia-vytenis-andriukaitis.md) · grade C
+  > Source: [[sources/wikipedia-vytenis-andriukaitis|Vytenis Andriukaitis]] · grade C

@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Dick Erixon](../people/dick-erixon.md) — founder  
+- [[people/dick-erixon|Dick Erixon]] — founder  
   > "&#91; 4 &#93; In November 2020, Erixon together with Samtid &amp; Framtid founded Riks ."
-  > Source: [Dick Erixon](../sources/wikipedia-dick-erixon.md) · grade A
+  > Source: [[sources/wikipedia-dick-erixon|Dick Erixon]] · grade A

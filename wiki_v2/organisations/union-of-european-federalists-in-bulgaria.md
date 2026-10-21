@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Andrey Kovatchev](../people/andrey-kovatchev.md) — chair  
+- [[people/andrey-kovatchev|Andrey Kovatchev]] — chair  
   > "Kovatchev is a chairman of the Union of European Federalists in Bulgaria."
-  > Source: [Andrey Kovatchev](../sources/wikipedia-andrey-kovatchev.md) · grade A
+  > Source: [[sources/wikipedia-andrey-kovatchev|Andrey Kovatchev]] · grade A

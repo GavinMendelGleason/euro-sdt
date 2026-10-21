@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Edward McMillan-Scott](../people/edward-mcmillan-scott.md) — founder  
+- [[people/edward-mcmillan-scott|Edward McMillan-Scott]] — founder  
   > "In 1992, McMillan-Scott founded the EU's Instrument for Human Rights and Democracy (EIDHR) - now the EU's Global Europe Human Rights & Democracy Programme, which remain's the world's largest dedicated programme with an annual budget of Euro 1.5 billion."
-  > Source: [Edward Mcmillan Scott](../sources/wikipedia-edward-mcmillan-scott.md) · grade A
+  > Source: [[sources/wikipedia-edward-mcmillan-scott|Edward Mcmillan Scott]] · grade A

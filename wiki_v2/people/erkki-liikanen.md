@@ -20,76 +20,76 @@ Commissioner · FIN
 
 - Budget and Personnel  
   > "He was Commissioner for Budget, Personnel and administration, which included responsibilities for translation and information technology."
-  > Source: [Erkki Liikanen](../sources/wikipedia-erkki-liikanen.md) · grade A
+  > Source: [[sources/wikipedia-erkki-liikanen|Erkki Liikanen]] · grade A
 
 ## Country
 
 - Finland  
   > "Erkki Antero Liikanen (born 19 September 1950) is a Finnish social democratic politician, former European Commissioner and former Governor of the Bank of Finland."
-  > Source: [Erkki Liikanen](../sources/wikipedia-erkki-liikanen.md) · grade A
+  > Source: [[sources/wikipedia-erkki-liikanen|Erkki Liikanen]] · grade A
 
 ## Membership
 
-- [Bilderberg Group](../organisations/bilderberg-group.md)  
+- [[organisations/bilderberg-group|Bilderberg Group]]  
   > "Bilderberg Group, Member of the Steering Committee"
-  > Source: [Erkki Liikanen](../sources/wikipedia-erkki-liikanen.md) · grade A
+  > Source: [[sources/wikipedia-erkki-liikanen|Erkki Liikanen]] · grade A
 
-- [European Central Bank](../organisations/european-central-bank.md)  
+- [[organisations/european-central-bank|European Central Bank]]  
   > "European Central Bank (ECB), Member of the Ethics Committee (since 2018)"
-  > Source: [Erkki Liikanen](../sources/wikipedia-erkki-liikanen.md) · grade A
+  > Source: [[sources/wikipedia-erkki-liikanen|Erkki Liikanen]] · grade A
 
-- [European Commission](../organisations/european-commission.md)  
+- [[organisations/european-commission|European Commission]]  
   > "1995–2004 Member of the European Commission, Brussels"
-  > Source: [Erkki Liikanen](../sources/wikipedia-erkki-liikanen.md) · grade A
+  > Source: [[sources/wikipedia-erkki-liikanen|Erkki Liikanen]] · grade A
 
-- [Finnish Parliament](../organisations/finnish-parliament.md)  
+- [[organisations/finnish-parliament|Finnish Parliament]]  
   > "Liikanen was elected to the Finnish Parliament in 1972 when he was only 21 years old."
-  > Source: [Erkki Liikanen](../sources/wikipedia-erkki-liikanen.md) · grade B
+  > Source: [[sources/wikipedia-erkki-liikanen|Erkki Liikanen]] · grade B
 
-- [Trilateral Commission](../organisations/trilateral-commission.md)  
+- [[organisations/trilateral-commission|Trilateral Commission]]  
   > "Trilateral Commission, Member of the European Group"
-  > Source: [Erkki Liikanen](../sources/wikipedia-erkki-liikanen.md) · grade A
+  > Source: [[sources/wikipedia-erkki-liikanen|Erkki Liikanen]] · grade A
 
 ## Board / trustee
 
-- [Bank of Finland](../organisations/bank-of-finland.md) — board_member; chair; employed_by  
+- [[organisations/bank-of-finland|Bank of Finland]] — board_member; chair; employed_by  
   > "2004–2018 Chairman of the Board of the Bank of Finland"
-  > Source: [Erkki Liikanen](../sources/wikipedia-erkki-liikanen.md) · grade A
+  > Source: [[sources/wikipedia-erkki-liikanen|Erkki Liikanen]] · grade A
 
-- [IFRS Foundation](../organisations/ifrs-foundation.md) — board_member; chair  
+- [[organisations/ifrs-foundation|IFRS Foundation]] — board_member; chair  
   > "Since 2018 he has been chair of the Trustees of the IFRS Foundation and Chairman of the Board of the Helsinki Graduate School of Economics at University of Helsinki, and since 2020 chairman of Bruegel."
-  > Source: [Erkki Liikanen](../sources/wikipedia-erkki-liikanen.md) · grade A
+  > Source: [[sources/wikipedia-erkki-liikanen|Erkki Liikanen]] · grade A
 
-- [International Monetary Fund](../organisations/international-monetary-fund.md) — board_member; employed_by  
+- [[organisations/international-monetary-fund|International Monetary Fund]] — board_member; employed_by  
   > "International Monetary Fund (IMF), Ex-Officio Member of the Board of Governors"
-  > Source: [Erkki Liikanen](../sources/wikipedia-erkki-liikanen.md) · grade A
+  > Source: [[sources/wikipedia-erkki-liikanen|Erkki Liikanen]] · grade A
 
-- [Outokumpu](../organisations/outokumpu.md) — board_member  
+- [[organisations/outokumpu|Outokumpu]] — board_member  
   > "1980–1989 Member and subsequently Chairman of the Supervisory Board of the Outokumpu (steel)"
-  > Source: [Erkki Liikanen](../sources/wikipedia-erkki-liikanen.md) · grade A
+  > Source: [[sources/wikipedia-erkki-liikanen|Erkki Liikanen]] · grade A
 
 ## Advisory board
 
-- [Systemic Risk Council (SRC)](../organisations/systemic-risk-council-src.md) — advisory_board  
+- [[organisations/systemic-risk-council-src|Systemic Risk Council (SRC)]] — advisory_board  
   > "Systemic Risk Council (SRC), Member of the Advisory Board"
-  > Source: [Erkki Liikanen](../sources/wikipedia-erkki-liikanen.md) · grade A
+  > Source: [[sources/wikipedia-erkki-liikanen|Erkki Liikanen]] · grade A
 
 ## Chair / president
 
-- [Bruegel](../organisations/bruegel.md) — chair  
+- [[organisations/bruegel|Bruegel]] — chair  
   > "Bruegel, Chair of the Board (since 2020)"
-  > Source: [Erkki Liikanen](../sources/wikipedia-erkki-liikanen.md) · grade A
+  > Source: [[sources/wikipedia-erkki-liikanen|Erkki Liikanen]] · grade A
 
-- [Finnish Red Cross](../organisations/finnish-red-cross.md) — chair  
+- [[organisations/finnish-red-cross|Finnish Red Cross]] — chair  
   > "Liikanen was also the chairman of Finnish Red Cross between June 2008 and June 2014."
-  > Source: [Erkki Liikanen](../sources/wikipedia-erkki-liikanen.md) · grade A
+  > Source: [[sources/wikipedia-erkki-liikanen|Erkki Liikanen]] · grade A
 
 ## Employment
 
-- [European Union](../organisations/european-union.md) — employed_by  
+- [[organisations/european-union|European Union]] — employed_by  
   > "He left Parliament in 1990 to become the first Finnish Ambassador to the European Union."
-  > Source: [Erkki Liikanen](../sources/wikipedia-erkki-liikanen.md) · grade A
+  > Source: [[sources/wikipedia-erkki-liikanen|Erkki Liikanen]] · grade A
 
-- [Social Democratic Party](../organisations/social-democratic-party.md) — employed_by  
+- [[organisations/social-democratic-party|Social Democratic Party]] — employed_by  
   > "1981–1987 Secretary-General of the Social Democratic Party"
-  > Source: [Erkki Liikanen](../sources/wikipedia-erkki-liikanen.md) · grade A
+  > Source: [[sources/wikipedia-erkki-liikanen|Erkki Liikanen]] · grade A

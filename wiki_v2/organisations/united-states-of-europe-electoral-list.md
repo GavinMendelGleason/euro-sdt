@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Graham Watson](../people/graham-watson.md) — employed_by  
+- [[people/graham-watson|Graham Watson]] — employed_by  
   > "Sir Graham, who holds Italian citizenship through marriage, was chosen as head of list for the 2024 European Parliament election in North East Italy by the centrist coalition 'United States of Europe' (electoral list)."
-  > Source: [Graham Watson](../sources/wikipedia-graham-watson.md) · grade A
+  > Source: [[sources/wikipedia-graham-watson|Graham Watson]] · grade A

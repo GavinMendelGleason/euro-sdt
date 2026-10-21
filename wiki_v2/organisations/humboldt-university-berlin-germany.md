@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Renate Nikolay](../people/renate-nikolay.md)  
+- [[people/renate-nikolay|Renate Nikolay]]  
   > " 07/1995 – 06/1997: Research Assistant, Humboldt University Berlin, Germany"
-  > Source: [Renate Nikolay](../sources/dg_cv-renate-nikolay.md) · grade A
+  > Source: [[sources/dg_cv-renate-nikolay|Renate Nikolay]] · grade A

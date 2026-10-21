@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [David Byrne](../people/david-byrne.md)  
+- [[people/david-byrne|David Byrne]]  
   > "He attended the Rhode Island School of Design (RISD) in Providence, Rhode Island, during the 1970–71 term"
-  > Source: [David Byrne](../sources/wikipedia-david-byrne.md) · grade A
+  > Source: [[sources/wikipedia-david-byrne|David Byrne]] · grade A

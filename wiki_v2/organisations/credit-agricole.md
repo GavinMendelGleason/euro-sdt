@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Philippe Brassac](../people/philippe-brassac.md)  
+- [[people/philippe-brassac|Philippe Brassac]]  
   > "Philippe Brassac (born August 1959) is a French business executive, currently the chief executive of Crédit Agricole, having succeeded Jean-Paul Chifflet to the role in May 2015."
-  > Source: [Corp Philippe Brassac](../sources/wikipedia-corp-philippe-brassac.md) · grade A
+  > Source: [[sources/wikipedia-corp-philippe-brassac|Corp Philippe Brassac]] · grade A

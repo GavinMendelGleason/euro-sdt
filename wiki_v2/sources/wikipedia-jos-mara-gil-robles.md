@@ -16,7 +16,7 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (2)
 
-- [José María Gil-Robles](../people/jose-maria-gil-robles.md) — chair — Jean Monnet Foundation for Europe
+- [[people/jose-maria-gil-robles|José María Gil-Robles]] — chair — Jean Monnet Foundation for Europe
   > "&#91; 3 &#93; Gil-Robles was president of the Jean Monnet Foundation for Europe between 2009 and 2014."
-- [José María Gil-Robles](../people/jose-maria-gil-robles.md) — educated_at — University Of Deusto
+- [[people/jose-maria-gil-robles|José María Gil-Robles]] — educated_at — University Of Deusto
   > "Gil-Robles, in 1953, returned to Spain to study Law at the University of Deusto , from which he graduated with an Extraordinary Prize."

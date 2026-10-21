@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Loyola de Palacio](../people/loyola-de-palacio.md) — founder  
+- [[people/loyola-de-palacio|Loyola de Palacio]] — founder  
   > "In 1976, Palacio was a founder member of the moderate-wing Alianza Popular (later transformed into the Partido Popular) led initially by Manuel Fraga Iribarne, and she became the first leader of its youth section, Nuevas Generaciones."
-  > Source: [Loyola De Palacio](../sources/wikipedia-loyola-de-palacio.md) · grade C
+  > Source: [[sources/wikipedia-loyola-de-palacio|Loyola De Palacio]] · grade C

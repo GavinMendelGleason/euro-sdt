@@ -15,9 +15,9 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Padraig Flynn](../people/padraig-flynn.md)  
+- [[people/padraig-flynn|Padraig Flynn]]  
   > "He served as a Teachta Dála (TD) for the Mayo West constituency from 1977 to 1994."
-  > Source: [Padraig Flynn](../sources/wikipedia-padraig-flynn.md) · grade C
-- [Pat Cox](../people/pat-cox.md)  
+  > Source: [[sources/wikipedia-padraig-flynn|Padraig Flynn]] · grade C
+- [[people/pat-cox|Pat Cox]]  
   > "He served as a Member of the European Parliament (MEP) for the Munster constituency from 1989 to 2004 and a Teachta Dála (TD) for Cork South-Central from 1992 to 1994."
-  > Source: [Pat Cox](../sources/wikipedia-pat-cox.md) · grade C
+  > Source: [[sources/wikipedia-pat-cox|Pat Cox]] · grade C

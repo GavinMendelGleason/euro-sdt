@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Pekka Ala-Pietilä](../people/pekka-ala-pietila.md) — chair  
+- [[people/pekka-ala-pietila|Pekka Ala-Pietilä]] — chair  
   > "He was also President of Nokia Corporation (1999–2005) and President of Nokia Mobile Phones (1992–1998)."
-  > Source: [Pekka Ala Pietil](../sources/wikipedia-pekka-ala-pietil.md) · grade C
+  > Source: [[sources/wikipedia-pekka-ala-pietil|Pekka Ala Pietil]] · grade C

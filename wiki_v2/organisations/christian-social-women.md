@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Viviane Reding](../people/viviane-reding.md) — chair  
+- [[people/viviane-reding|Viviane Reding]] — chair  
   > "From 1988 to 1993, she was national president of the Christian-Social Women and from 1995 to 1999 and president of the Christian Social People's Party."
-  > Source: [Viviane Reding](../sources/wikipedia-viviane-reding.md) · grade A
+  > Source: [[sources/wikipedia-viviane-reding|Viviane Reding]] · grade A

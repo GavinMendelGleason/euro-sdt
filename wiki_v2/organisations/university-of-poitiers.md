@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Stéphane Séjourné](../people/stephane-sejourne.md)  
+- [[people/stephane-sejourne|Stéphane Séjourné]]  
   > "After obtaining his baccalaureate in 2005, he returned to France, entered the University of Poitiers and obtained a bachelor’s degree in economic and social administration (AES), then a master’s degree in public law and a master’s degree in European law in 2011."
-  > Source: [Stephane Sejourne](../sources/wikipedia-stephane-sejourne.md) · grade A
+  > Source: [[sources/wikipedia-stephane-sejourne|Stephane Sejourne]] · grade A

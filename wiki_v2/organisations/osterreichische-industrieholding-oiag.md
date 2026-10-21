@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Szabolcs Fazakas](../people/szabolcs-fazakas.md)  
+- [[people/szabolcs-fazakas|Szabolcs Fazakas]]  
   > "He functioned as regional representative of the Österreichische Industrieholding (ÖIAG) in Budapest from 1990 to 1995."
-  > Source: [Szabolcs Fazakas](../sources/wikipedia-szabolcs-fazakas.md) · grade B
+  > Source: [[sources/wikipedia-szabolcs-fazakas|Szabolcs Fazakas]] · grade B

@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Fredrick Federley](../people/fredrick-federley.md)  
+- [[people/fredrick-federley|Fredrick Federley]]  
   > "He was a member of the Parliament of Sweden from 2006 to 2014 &#91; 1 &#93; and MEP since 1 July 2014."
-  > Source: [Fredrick Federley](../sources/wikipedia-fredrick-federley.md) · grade A
+  > Source: [[sources/wikipedia-fredrick-federley|Fredrick Federley]] · grade A

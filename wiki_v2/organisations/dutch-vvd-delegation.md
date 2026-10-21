@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Hans van Baalen](../people/hans-van-baalen.md)  
+- [[people/hans-van-baalen|Hans van Baalen]]  
   > "Beginning with the 2009 European elections , van Baalen was a member of European Parliament and faction leader of the Dutch VVD Delegation, and was generally seen as one of the most influential figures within the party."
-  > Source: [Hans Van Baalen](../sources/wikipedia-hans-van-baalen.md) · grade A
+  > Source: [[sources/wikipedia-hans-van-baalen|Hans Van Baalen]] · grade A

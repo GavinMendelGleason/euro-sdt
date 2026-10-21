@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Amelia Andersdotter](../people/amelia-andersdotter.md)  
+- [[people/amelia-andersdotter|Amelia Andersdotter]]  
   > "From June 2007 to March 2010 she was the international coordinator of Ung Pirat , the party's youth wing."
-  > Source: [Amelia Andersdotter](../sources/wikipedia-amelia-andersdotter.md) · grade B
+  > Source: [[sources/wikipedia-amelia-andersdotter|Amelia Andersdotter]] · grade B

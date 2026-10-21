@@ -18,16 +18,16 @@ Commissioner · PRT
 
 ## Education
 
-- [Instituto Superior Técnico](../organisations/instituto-superior-tecnico.md)  
+- [[organisations/instituto-superior-tecnico|Instituto Superior Técnico]]  
   > "João de Deus Pinheiro has a licentiate degree in chemical-industrial engineering by the Instituto Superior Técnico (1970)"
-  > Source: [Joao De Deus Pinheiro](../sources/wikipedia-joao-de-deus-pinheiro.md) · grade A
+  > Source: [[sources/wikipedia-joao-de-deus-pinheiro|Joao De Deus Pinheiro]] · grade A
 
-- [University Of Birmingham](../organisations/university-of-birmingham.md)  
+- [[organisations/university-of-birmingham|University Of Birmingham]]  
   > "and a doctorate degree in the same field by the University of Birmingham (1976)"
-  > Source: [Joao De Deus Pinheiro](../sources/wikipedia-joao-de-deus-pinheiro.md) · grade A
+  > Source: [[sources/wikipedia-joao-de-deus-pinheiro|Joao De Deus Pinheiro]] · grade A
 
 ## Membership
 
-- [European People's Party - European Democrats](../organisations/european-people-s-party-european-democrats.md)  
+- [[organisations/european-people-s-party-european-democrats|European People's Party - European Democrats]]  
   > "João de Deus Rogado Salvador Pinheiro, GCC GCIH (born 11 July 1945), is a Portuguese politician and former Member of the European Parliament for the Social Democratic Party–People's Party coalition; part of the European People's Party–European Democrats group."
-  > Source: [Joao De Deus Pinheiro](../sources/wikipedia-joao-de-deus-pinheiro.md) · grade A
+  > Source: [[sources/wikipedia-joao-de-deus-pinheiro|Joao De Deus Pinheiro]] · grade A

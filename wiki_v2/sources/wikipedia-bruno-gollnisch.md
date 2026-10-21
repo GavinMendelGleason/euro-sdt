@@ -16,11 +16,11 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (4)
 
-- [Bruno Gollnisch](../people/bruno-gollnisch.md) — educated_at — inalco
+- [[people/bruno-gollnisch|Bruno Gollnisch]] — educated_at — inalco
   > "In 1971–1973, he was granted degrees in Japanese and Malaysian - Indonesian by the INALCO ."
-- [Bruno Gollnisch](../people/bruno-gollnisch.md) — educated_at — institut-d-etudes-politiques-de-paris-sciences-po
+- [[people/bruno-gollnisch|Bruno Gollnisch]] — educated_at — institut-d-etudes-politiques-de-paris-sciences-po
   > "In 1973, he was awarded a degree in political sciences at Institut d'Etudes Politiques de Paris (Sciences Po) ."
-- [Bruno Gollnisch](../people/bruno-gollnisch.md) — educated_at — kyoto-university
+- [[people/bruno-gollnisch|Bruno Gollnisch]] — educated_at — kyoto-university
   > "In 1974, he began doctoral studies in Law at Kyoto University (Japan)."
-- [Bruno Gollnisch](../people/bruno-gollnisch.md) — educated_at — panth-on-assas-university
+- [[people/bruno-gollnisch|Bruno Gollnisch]] — educated_at — panth-on-assas-university
   > "In 1978, he obtained a doctorate in law at Panthéon-Assas University ."

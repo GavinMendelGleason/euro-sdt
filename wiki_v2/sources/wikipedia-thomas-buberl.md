@@ -16,9 +16,9 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (3)
 
-- [Thomas Buberl](../people/thomas-buberl.md) — educated_at — WHU – Otto Beisheim School of Management
+- [[people/thomas-buberl|Thomas Buberl]] — educated_at — WHU – Otto Beisheim School of Management
   > "&#91; citation needed &#93; He earned a business degree from WHU – Otto Beisheim School of Management (Germany), an MBA from Lancaster University (UK), and a PhD in economics from the University of St."
-- [Thomas Buberl](../people/thomas-buberl.md) — educated_at — Lancaster University
+- [[people/thomas-buberl|Thomas Buberl]] — educated_at — Lancaster University
   > "&#91; citation needed &#93; He earned a business degree from WHU – Otto Beisheim School of Management (Germany), an MBA from Lancaster University (UK), and a PhD in economics from the University of St."
-- [Thomas Buberl](../people/thomas-buberl.md) — educated_at — University of St. Gallen
+- [[people/thomas-buberl|Thomas Buberl]] — educated_at — University of St. Gallen
   > "&#91; citation needed &#93; He earned a business degree from WHU – Otto Beisheim School of Management (Germany), an MBA from Lancaster University (UK), and a PhD in economics from the University of St."

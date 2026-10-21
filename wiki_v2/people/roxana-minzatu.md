@@ -20,58 +20,58 @@ Commissioner · ROU
 
 - Romania  
   > "Roxana Mînzatu (Romanian pronunciation: [roˈksana mɨnˈzatu]; born 1 April 1980) is a Romanian politician, local government official and manager of European Union projects in Romania."
-  > Source: [Roxana Minzatu](../sources/wikipedia-roxana-minzatu.md) · grade A
+  > Source: [[sources/wikipedia-roxana-minzatu|Roxana Minzatu]] · grade A
 
 ## Education
 
-- [Dimitrie Cantemir Christian University](../organisations/dimitrie-cantemir-christian-university.md)  
+- [[organisations/dimitrie-cantemir-christian-university|Dimitrie Cantemir Christian University]]  
   > "and an MA in European integration in 2005, from the Dimitrie Cantemir Christian University."
-  > Source: [Roxana Minzatu](../sources/wikipedia-roxana-minzatu.md) · grade A
+  > Source: [[sources/wikipedia-roxana-minzatu|Roxana Minzatu]] · grade A
 
-- [University Of Bucharest](../organisations/university-of-bucharest.md)  
+- [[organisations/university-of-bucharest|University Of Bucharest]]  
   > "She obtained a BA in political science in 2002 from the University of Bucharest"
-  > Source: [Roxana Minzatu](../sources/wikipedia-roxana-minzatu.md) · grade A
+  > Source: [[sources/wikipedia-roxana-minzatu|Roxana Minzatu]] · grade A
 
 ## Field of study
 
 - Political Science  
   > "She obtained a BA in political science in 2002 from the University of Bucharest and an MA in European integration in 2005, from the Dimitrie Cantemir Christian University."
-  > Source: [Roxana Minzatu](../sources/wikipedia-roxana-minzatu.md) · grade B
+  > Source: [[sources/wikipedia-roxana-minzatu|Roxana Minzatu]] · grade B
 
 ## Membership
 
-- [Brasov district council](../organisations/brasov-district-council.md)  
+- [[organisations/brasov-district-council|Brasov district council]]  
   > "She was a member of the Brasov district council (2004–2008, 2011–2012, 2016)."
-  > Source: [Roxana Minzatu](../sources/wikipedia-roxana-minzatu.md) · grade A
+  > Source: [[sources/wikipedia-roxana-minzatu|Roxana Minzatu]] · grade A
 
-- [Committee for European Affairs](../organisations/committee-for-european-affairs.md)  
+- [[organisations/committee-for-european-affairs|Committee for European Affairs]]  
   > "In 2016, Mînzatu was elected to the Romanian Chamber of Deputies, where she became secretary of the Committee for Industries and Services and a member of the Committee for European Affairs."
-  > Source: [Roxana Minzatu](../sources/wikipedia-roxana-minzatu.md) · grade A
+  > Source: [[sources/wikipedia-roxana-minzatu|Roxana Minzatu]] · grade A
 
-- [Committee for Industries and Services](../organisations/committee-for-industries-and-services.md)  
+- [[organisations/committee-for-industries-and-services|Committee for Industries and Services]]  
   > "In 2016, Mînzatu was elected to the Romanian Chamber of Deputies, where she became secretary of the Committee for Industries and Services and a member of the Committee for European Affairs."
-  > Source: [Roxana Minzatu](../sources/wikipedia-roxana-minzatu.md) · grade A
+  > Source: [[sources/wikipedia-roxana-minzatu|Roxana Minzatu]] · grade A
 
-- [Committee on Regional Development](../organisations/committee-on-regional-development.md)  
+- [[organisations/committee-on-regional-development|Committee on Regional Development]]  
   > "In the parliament she became part of the Progressive Alliance of Socialists and Democrats grouping and a member of the Committee on Regional Development."
-  > Source: [Roxana Minzatu](../sources/wikipedia-roxana-minzatu.md) · grade A
+  > Source: [[sources/wikipedia-roxana-minzatu|Roxana Minzatu]] · grade A
 
-- [Social Democratic Party](../organisations/social-democratic-party.md) — party_member  
+- [[organisations/social-democratic-party|Social Democratic Party]] — party_member  
   > "Mînzatu became involved in local political activities within the Social Democratic Party (PSD)."
-  > Source: [Roxana Minzatu](../sources/wikipedia-roxana-minzatu.md) · grade B
+  > Source: [[sources/wikipedia-roxana-minzatu|Roxana Minzatu]] · grade B
 
 ## Affiliation
 
-- [Progressive Alliance of Socialists and Democrats](../organisations/progressive-alliance-of-socialists-and-democrats.md)  
+- [[organisations/progressive-alliance-of-socialists-and-democrats|Progressive Alliance of Socialists and Democrats]]  
   > "In the parliament she became part of the Progressive Alliance of Socialists and Democrats grouping and a member of the Committee on Regional Development."
-  > Source: [Roxana Minzatu](../sources/wikipedia-roxana-minzatu.md) · grade A
+  > Source: [[sources/wikipedia-roxana-minzatu|Roxana Minzatu]] · grade A
 
 ## Employment
 
-- [Ministry of European Funds](../organisations/ministry-of-european-funds.md) — employed_by  
+- [[organisations/ministry-of-european-funds|Ministry of European Funds]] — employed_by  
   > "In 2015, she was appointed Secretary of State at the Ministry of European Funds, and then headed the National Agency for Public Procurement (ANAP)."
-  > Source: [Roxana Minzatu](../sources/wikipedia-roxana-minzatu.md) · grade C
+  > Source: [[sources/wikipedia-roxana-minzatu|Roxana Minzatu]] · grade C
 
-- [National Agency for Public Procurement (ANAP)](../organisations/national-agency-for-public-procurement-anap.md) — employed_by  
+- [[organisations/national-agency-for-public-procurement-anap|National Agency for Public Procurement (ANAP)]] — employed_by  
   > "In 2015, she was appointed Secretary of State at the Ministry of European Funds, and then headed the National Agency for Public Procurement (ANAP)."
-  > Source: [Roxana Minzatu](../sources/wikipedia-roxana-minzatu.md) · grade B
+  > Source: [[sources/wikipedia-roxana-minzatu|Roxana Minzatu]] · grade B

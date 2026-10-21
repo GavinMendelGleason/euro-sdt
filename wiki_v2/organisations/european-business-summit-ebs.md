@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [José Manuel Barroso](../people/jose-manuel-barroso.md) — chair  
+- [[people/jose-manuel-barroso|José Manuel Barroso]] — chair  
   > "European Business Summit (EBS), Honorary Chairman of the Honorary Committee (since 2014)"
-  > Source: [Jose Manuel Barroso](../sources/wikipedia-jose-manuel-barroso.md) · grade A
+  > Source: [[sources/wikipedia-jose-manuel-barroso|Jose Manuel Barroso]] · grade A

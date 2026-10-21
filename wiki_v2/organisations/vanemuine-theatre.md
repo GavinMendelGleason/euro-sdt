@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Kaja Kallas](../people/kaja-kallas.md) — employed_by  
+- [[people/kaja-kallas|Kaja Kallas]] — employed_by  
   > "From 1996 to 1997, Kallas worked as advisor to the director of Vanemuine Theatre in Tartu."
-  > Source: [Kaja Kallas](../sources/wikipedia-kaja-kallas.md) · grade A
+  > Source: [[sources/wikipedia-kaja-kallas|Kaja Kallas]] · grade A

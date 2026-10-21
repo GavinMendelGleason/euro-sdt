@@ -18,24 +18,24 @@ Mep
 
 ## Education
 
-- [Charles University In Prague](../organisations/charles-university-in-prague.md)  
+- [[organisations/charles-university-in-prague|Charles University In Prague]]  
   > "Biography [ edit ] He studied medicine at Charles University of Prague ."
-  > Source: [Miroslav Ouzk](../sources/wikipedia-miroslav-ouzk.md) · grade C
+  > Source: [[sources/wikipedia-miroslav-ouzk|Miroslav Ouzk]] · grade C
 
 ## Membership
 
-- [City council](../organisations/city-council.md)  
+- [[organisations/city-council|City council]]  
   > "Thereafter, he served in a city council."
-  > Source: [Miroslav Ouzk](../sources/wikipedia-miroslav-ouzk.md) · grade C
+  > Source: [[sources/wikipedia-miroslav-ouzk|Miroslav Ouzk]] · grade C
 
-- [Civic Democratic Party](../organisations/civic-democratic-party.md)  
+- [[organisations/civic-democratic-party|Civic Democratic Party]]  
   > "Find sources: &#160; \"Miroslav Ouzký\" &#160;–&#160; news &#160; · newspapers &#160; · books &#160; · scholar &#160; · JSTOR ( January 2018 ) ( Learn how and when to remove this message ) Ouzký in February 2014 Miroslav Ouzký (born 18 August 1958 in Chlumec nad Cidlinou ) is a retired Czech politician and former Member of the European Parliament for the Civic Democratic Party ( European Conservatives and Reformists group)."
-  > Source: [Miroslav Ouzk](../sources/wikipedia-miroslav-ouzk.md) · grade A
+  > Source: [[sources/wikipedia-miroslav-ouzk|Miroslav Ouzk]] · grade A
 
-- [Czech Parliament](../organisations/czech-parliament.md)  
+- [[organisations/czech-parliament|Czech Parliament]]  
   > "In 1998 he was elected as a member of the Czech Parliament until 2004."
-  > Source: [Miroslav Ouzk](../sources/wikipedia-miroslav-ouzk.md) · grade C
+  > Source: [[sources/wikipedia-miroslav-ouzk|Miroslav Ouzk]] · grade C
 
-- [European Conservatives and Reformists Group](../organisations/european-conservatives-and-reformists-group.md)  
+- [[organisations/european-conservatives-and-reformists-group|European Conservatives and Reformists Group]]  
   > "Find sources: &#160; \"Miroslav Ouzký\" &#160;–&#160; news &#160; · newspapers &#160; · books &#160; · scholar &#160; · JSTOR ( January 2018 ) ( Learn how and when to remove this message ) Ouzký in February 2014 Miroslav Ouzký (born 18 August 1958 in Chlumec nad Cidlinou ) is a retired Czech politician and former Member of the European Parliament for the Civic Democratic Party ( European Conservatives and Reformists group)."
-  > Source: [Miroslav Ouzk](../sources/wikipedia-miroslav-ouzk.md) · grade A
+  > Source: [[sources/wikipedia-miroslav-ouzk|Miroslav Ouzk]] · grade A

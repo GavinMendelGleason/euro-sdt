@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Iliana Ivanova](../people/iliana-ivanova.md)  
+- [[people/iliana-ivanova|Iliana Ivanova]]  
   > "Ivanova was assigned to Chamber I: Sustainable use of natural resources."
-  > Source: [Iliana Ivanova](../sources/wikipedia-iliana-ivanova.md) · grade B
+  > Source: [[sources/wikipedia-iliana-ivanova|Iliana Ivanova]] · grade B

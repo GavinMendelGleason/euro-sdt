@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Věra Jourová](../people/vera-jourova.md) — employed_by  
+- [[people/vera-jourova|Věra Jourová]] — employed_by  
   > "She later served as head of the Department of Regional Development for the Vysočina Region from 2001 to 2003."
-  > Source: [Vera Jourova](../sources/wikipedia-vera-jourova.md) · grade C
+  > Source: [[sources/wikipedia-vera-jourova|Vera Jourova]] · grade C

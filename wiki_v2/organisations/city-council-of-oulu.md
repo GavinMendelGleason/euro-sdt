@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Sebastian Tynkkynen](../people/sebastian-tynkkynen.md)  
+- [[people/sebastian-tynkkynen|Sebastian Tynkkynen]]  
   > "&#91; 12 &#93; In April 2017 Tynkkynen was elected to the City Council of Oulu with 680 votes."
-  > Source: [Sebastian Tynkkynen](../sources/wikipedia-sebastian-tynkkynen.md) · grade B
+  > Source: [[sources/wikipedia-sebastian-tynkkynen|Sebastian Tynkkynen]] · grade B

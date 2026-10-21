@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Mario Mauro](../people/mario-mauro.md)  
+- [[people/mario-mauro|Mario Mauro]]  
   > "From 1999 to 2013, he was a member of the European Parliament , and he is a member of Communion and Liberation ."
-  > Source: [Mario Mauro](../sources/wikipedia-mario-mauro.md) · grade A
+  > Source: [[sources/wikipedia-mario-mauro|Mario Mauro]] · grade A

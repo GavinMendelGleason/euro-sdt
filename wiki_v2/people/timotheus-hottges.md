@@ -18,6 +18,6 @@ Corporate Elite
 
 ## Employment
 
-- [Deutsche Telekom](../organisations/deutsche-telekom.md)  
+- [[organisations/deutsche-telekom|Deutsche Telekom]]  
   > "Timotheus Höttges (born 18 September 1962, Solingen) is a German businessman who has been serving as chief executive officer of Deutsche Telekom AG, the majority shareholder of T-Mobile US, since 2014."
-  > Source: [Corp Timotheus Hoettges](../sources/wikipedia-corp-timotheus-hoettges.md) · grade A
+  > Source: [[sources/wikipedia-corp-timotheus-hoettges|Corp Timotheus Hoettges]] · grade A

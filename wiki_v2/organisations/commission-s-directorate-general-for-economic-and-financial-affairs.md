@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Margaritis Schinas](../people/margaritis-schinas.md) — employed_by  
+- [[people/margaritis-schinas|Margaritis Schinas]] — employed_by  
   > "In April 2013 he was appointed Director at the Commission's Directorate-General for Economic and Financial Affairs."
-  > Source: [Margaritis Schinas](../sources/wikipedia-margaritis-schinas.md) · grade A
+  > Source: [[sources/wikipedia-margaritis-schinas|Margaritis Schinas]] · grade A

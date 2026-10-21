@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Janusz Wojciechowski](../people/janusz-wojciechowski.md)  
+- [[people/janusz-wojciechowski|Janusz Wojciechowski]]  
   > "1995–1999: Member of the Administration of EUROSAI – European Organisation of Supreme Audit Institutions"
-  > Source: [Janusz Wojciechowski](../sources/wikipedia-janusz-wojciechowski.md) · grade A
+  > Source: [[sources/wikipedia-janusz-wojciechowski|Janusz Wojciechowski]] · grade A

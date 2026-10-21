@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Hans van den Broek](../people/hans-van-den-broek.md) — party_member  
+- [[people/hans-van-den-broek|Hans van den Broek]] — party_member  
   > "He began his career as a lawyer joining the Katholieke Volkspartij (KVP) and was member of the municipal council of Rheden between 1970 and 1974."
-  > Source: [Hans Van Den Broek](../sources/wikipedia-hans-van-den-broek.md) · grade A
+  > Source: [[sources/wikipedia-hans-van-den-broek|Hans Van Den Broek]] · grade A

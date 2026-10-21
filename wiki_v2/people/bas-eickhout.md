@@ -18,52 +18,52 @@ Mep
 
 ## Education
 
-- [cobbenhagen-college](../organisations/cobbenhagen-college.md)  
+- [[organisations/cobbenhagen-college|cobbenhagen-college]]  
   > "Education and early career [ edit ] Eickhout was born in 1976 in Groesbeek , Gelderland , &#91; 1 &#93; and he attended high school at the Cobbenhagen College in Tilburg ."
-  > Source: [Bas Eickhout](../sources/wikipedia-bas-eickhout.md) · grade C
+  > Source: [[sources/wikipedia-bas-eickhout|Bas Eickhout]] · grade C
 
-- [radboud-university](../organisations/radboud-university.md)  
+- [[organisations/radboud-university|radboud-university]]  
   > "Between 1994 and 2000, he studied chemistry and environmental science at Radboud University in Nijmegen."
-  > Source: [Bas Eickhout](../sources/wikipedia-bas-eickhout.md) · grade C
+  > Source: [[sources/wikipedia-bas-eickhout|Bas Eickhout]] · grade C
 
 ## Membership
 
-- [EU-UK Parliamentary Assembly](../organisations/eu-uk-parliamentary-assembly.md)  
+- [[organisations/eu-uk-parliamentary-assembly|EU-UK Parliamentary Assembly]]  
   > "&#91; 25 &#93; Since 2021, Eickout has been part of the Parliament's delegation to the EU-UK Parliamentary Assembly, which provides parliamentary oversight over the implementation of the EU–UK Trade and Cooperation Agreement ."
-  > Source: [Bas Eickhout](../sources/wikipedia-bas-eickhout.md) · grade A
+  > Source: [[sources/wikipedia-bas-eickhout|Bas Eickhout]] · grade A
 
-- [European Green Party](../organisations/european-green-party.md)  
+- [[organisations/european-green-party|European Green Party]]  
   > "He is a member of the GreenLeft , part of the European Green Party ."
-  > Source: [Bas Eickhout](../sources/wikipedia-bas-eickhout.md) · grade A
+  > Source: [[sources/wikipedia-bas-eickhout|Bas Eickhout]] · grade A
 
-- [GreenLeft](../organisations/greenleft.md)  
+- [[organisations/greenleft|GreenLeft]]  
   > "He is a member of the GreenLeft , part of the European Green Party ."
-  > Source: [Bas Eickhout](../sources/wikipedia-bas-eickhout.md) · grade A
+  > Source: [[sources/wikipedia-bas-eickhout|Bas Eickhout]] · grade A
 
-- [GreenLeft party platform committee (chaired by Bram van Ojik)](../organisations/greenleft-party-platform-committee-chaired-by-bram-van-ojik.md)  
+- [[organisations/greenleft-party-platform-committee-chaired-by-bram-van-ojik|GreenLeft party platform committee (chaired by Bram van Ojik)]]  
   > "Between 2008 and 2009, Eickhout was a member of the committee chaired by Bram van Ojik which wrote the new party platform ."
-  > Source: [Bas Eickhout](../sources/wikipedia-bas-eickhout.md) · grade A
+  > Source: [[sources/wikipedia-bas-eickhout|Bas Eickhout]] · grade A
 
-- [Nijmegen University Council](../organisations/nijmegen-university-council.md)  
+- [[organisations/nijmegen-university-council|Nijmegen University Council]]  
   > "He also served as chairman in the Nijmegen Association of Chemistry Students Sigma, &#91; 2 &#93; later a member of the Nijmegen University Council."
-  > Source: [Bas Eickhout](../sources/wikipedia-bas-eickhout.md) · grade A
+  > Source: [[sources/wikipedia-bas-eickhout|Bas Eickhout]] · grade A
 
 ## Chair / president
 
-- [Greens–European Free Alliance (Greens/EFA)](../organisations/greenseuropean-free-alliance-greens-efa.md) — chair  
+- [[organisations/greenseuropean-free-alliance-greens-efa|Greens–European Free Alliance (Greens/EFA)]] — chair  
   > "&#91; 24 &#93; He subsequently served as deputy chairman of the Greens–European Free Alliance (Greens/EFA) group, under the leadership of co-chairmen Keller and Philippe Lamberts ."
-  > Source: [Bas Eickhout](../sources/wikipedia-bas-eickhout.md) · grade A
+  > Source: [[sources/wikipedia-bas-eickhout|Bas Eickhout]] · grade A
 
-- [Nijmegen Association of Chemistry Students Sigma](../organisations/nijmegen-association-of-chemistry-students-sigma.md) — chair  
+- [[organisations/nijmegen-association-of-chemistry-students-sigma|Nijmegen Association of Chemistry Students Sigma]] — chair  
   > "He also served as chairman in the Nijmegen Association of Chemistry Students Sigma, &#91; 2 &#93; later a member of the Nijmegen University Council."
-  > Source: [Bas Eickhout](../sources/wikipedia-bas-eickhout.md) · grade A
+  > Source: [[sources/wikipedia-bas-eickhout|Bas Eickhout]] · grade A
 
 ## Affiliation
 
-- [Intergovernmental Panel on Climate Change (IPCC)](../organisations/intergovernmental-panel-on-climate-change-ipcc.md)  
+- [[organisations/intergovernmental-panel-on-climate-change-ipcc|Intergovernmental Panel on Climate Change (IPCC)]]  
   > "&#91; 5 &#93; He also worked for the United Nation's Intergovernmental Panel on Climate Change (IPCC)."
-  > Source: [Bas Eickhout](../sources/wikipedia-bas-eickhout.md) · grade B
+  > Source: [[sources/wikipedia-bas-eickhout|Bas Eickhout]] · grade B
 
-- [Netherlands National Institute for Public Health and the Environment](../organisations/netherlands-national-institute-for-public-health-and-the-environment.md)  
+- [[organisations/netherlands-national-institute-for-public-health-and-the-environment|Netherlands National Institute for Public Health and the Environment]]  
   > "&#91; 3 &#93; &#91; 4 &#93; Since 2000, Eickhout has worked as a researcher at the Netherlands National Institute for Public Health and the Environment ."
-  > Source: [Bas Eickhout](../sources/wikipedia-bas-eickhout.md) · grade A
+  > Source: [[sources/wikipedia-bas-eickhout|Bas Eickhout]] · grade A

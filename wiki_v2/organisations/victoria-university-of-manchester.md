@@ -15,9 +15,9 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [László Andor](../people/laszlo-andor.md)  
+- [[people/laszlo-andor|László Andor]]  
   > "He also studied at the George Washington University in Washington, D.C., and in 1993 earned a master's degree in Development Economics at the University of Manchester."
-  > Source: [Laszlo Andor](../sources/wikipedia-laszlo-andor.md) · grade C
-- [Stella Kyriakides](../people/stella-kyriakides.md)  
+  > Source: [[sources/wikipedia-laszlo-andor|Laszlo Andor]] · grade C
+- [[people/stella-kyriakides|Stella Kyriakides]]  
   > "Early life and education Born in Nicosia, Kyriakides got a degree in psychology from the University of Reading and a master's degree in child maladjustment at the Victoria University of Manchester."
-  > Source: [Stella Kyriakides](../sources/wikipedia-stella-kyriakides.md) · grade A
+  > Source: [[sources/wikipedia-stella-kyriakides|Stella Kyriakides]] · grade A

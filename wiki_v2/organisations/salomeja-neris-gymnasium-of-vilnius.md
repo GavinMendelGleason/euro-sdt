@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Virginijus Sinkevičius](../people/virginijus-sinkevicius.md)  
+- [[people/virginijus-sinkevicius|Virginijus Sinkevičius]]  
   > "In 2009, Sinkevičius graduated from Salomėja Nėris Gymnasium of Vilnius, Lithuania, where he was born."
-  > Source: [Virginijus Sinkevicius](../sources/wikipedia-virginijus-sinkevicius.md) · grade B
+  > Source: [[sources/wikipedia-virginijus-sinkevicius|Virginijus Sinkevicius]] · grade B

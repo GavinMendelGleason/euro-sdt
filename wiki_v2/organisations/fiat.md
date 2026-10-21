@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Antonio Filosa](../people/antonio-filosa.md)  
+- [[people/antonio-filosa|Antonio Filosa]]  
   > "He previously held leadership roles at Fiat , FCA , and Stellantis, including CEO of the Jeep brand and head of operations in South America."
-  > Source: [Antonio Filosa](../sources/wikipedia-antonio-filosa.md) · grade B
+  > Source: [[sources/wikipedia-antonio-filosa|Antonio Filosa]] · grade B

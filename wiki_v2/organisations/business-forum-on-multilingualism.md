@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Leonard Orban](../people/leonard-orban.md)  
+- [[people/leonard-orban|Leonard Orban]]  
   > "However, Orban agreed that the protection of language rights was a matter for individual member states and his view is that, \"When it comes to language rights, I am not in favour of adopting legislation at European level to be imposed on Member States.\" Orban's remit included the development of the European Indicator of Language Competence, the creation of a Business Forum on Multilingualism and J […]"
-  > Source: [Leonard Orban](../sources/wikipedia-leonard-orban.md) · grade A
+  > Source: [[sources/wikipedia-leonard-orban|Leonard Orban]] · grade A

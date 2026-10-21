@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Marianne Thyssen](../people/marianne-thyssen.md) — chair; party_member  
+- [[people/marianne-thyssen|Marianne Thyssen]] — chair; party_member  
   > "Chair woman of the CD&V (15 May 2008 – 23 June 2010)"
-  > Source: [Marianne Thyssen](../sources/wikipedia-marianne-thyssen.md) · grade A
+  > Source: [[sources/wikipedia-marianne-thyssen|Marianne Thyssen]] · grade A

@@ -15,9 +15,9 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (3)
 
-- [Declan Costello](../people/declan-costello.md) — educated_at — Trinity College Dublin
+- [[people/declan-costello|Declan Costello]] — educated_at — Trinity College Dublin
   > " 09/1984 – 06/1988: Degree in Economics - Trinity College Dublin - Dublin, Ireland Professional experience in the European Institutions  Since 1 August 2019 : Deputy Director-General - Directorate-General \"Economic and Financial affairs\" (DG ECFIN)."
-- [Declan Costello](../people/declan-costello.md) — held_position — Deputy Director-General → Directorate-General for Economic and Financial Affairs
+- [[people/declan-costello|Declan Costello]] — held_position — Deputy Director-General → Directorate-General for Economic and Financial Affairs
   > " 09/1984 – 06/1988: Degree in Economics - Trinity College Dublin - Dublin, Ireland Professional experience in the European Institutions  Since 1 August 2019 : Deputy Director-General - Directorate-General \"Economic and Financial affairs\" (DG ECFIN)."
-- [Declan Costello](../people/declan-costello.md) — studied_field — Economics
+- [[people/declan-costello|Declan Costello]] — studied_field — Economics
   > " Irish Academic qualifications  09/1988 – 06/1989: Masters Degree in the Economics of European Integration – College of Europe, Bruges, Belgium"

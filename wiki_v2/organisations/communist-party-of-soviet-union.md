@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Andris Piebalgs](../people/andris-piebalgs.md) — party_member  
+- [[people/andris-piebalgs|Andris Piebalgs]] — party_member  
   > "He was a member of Communist Party of Soviet Union from 1979."
-  > Source: [Andris Piebalgs](../sources/wikipedia-andris-piebalgs.md) · grade A
+  > Source: [[sources/wikipedia-andris-piebalgs|Andris Piebalgs]] · grade A

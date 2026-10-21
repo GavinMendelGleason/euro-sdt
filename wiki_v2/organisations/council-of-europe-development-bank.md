@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Jacek Dominik](../people/jacek-dominik.md) — board_member  
+- [[people/jacek-dominik|Jacek Dominik]] — board_member  
   > "He was also a member of the Administrative Council of the Council of Europe Development Bank, an Alternate Governor of the European Bank for Reconstruction and Development and a Director of the European Investment Bank."
-  > Source: [Jacek Dominik](../sources/wikipedia-jacek-dominik.md) · grade A
+  > Source: [[sources/wikipedia-jacek-dominik|Jacek Dominik]] · grade A

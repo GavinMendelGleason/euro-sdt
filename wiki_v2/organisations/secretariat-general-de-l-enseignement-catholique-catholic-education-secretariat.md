@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Nicole Fontaine](../people/nicole-fontaine.md) — legal adviser, deputy secretary-general (1972-1981), chief representative (1981-1984)  
+- [[people/nicole-fontaine|Nicole Fontaine]] — legal adviser, deputy secretary-general (1972-1981), chief representative (1981-1984)  
   > "Political career [ edit ] For almost 20 years Fontaine had national responsibility for the sensitive issue of relations between the private education sector and the public authorities at the Secrétariat général de l'Enseignement catholique (Catholic Education Secretariat), first of all as legal adviser, then as deputy secretary-general from 1972 to 1981 and finally as chief representative from 198 […]"
-  > Source: [Nicole Fontaine](../sources/wikipedia-nicole-fontaine.md) · grade B
+  > Source: [[sources/wikipedia-nicole-fontaine|Nicole Fontaine]] · grade B

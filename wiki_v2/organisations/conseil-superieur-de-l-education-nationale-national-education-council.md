@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Nicole Fontaine](../people/nicole-fontaine.md)  
+- [[people/nicole-fontaine|Nicole Fontaine]]  
   > "Fontaine was a member of the Conseil supérior de l'Education nationale (National Education Council) from 1975 to 1981 and a member of its standing committee from 1978 to 1981."
-  > Source: [Nicole Fontaine](../sources/wikipedia-nicole-fontaine.md) · grade C
+  > Source: [[sources/wikipedia-nicole-fontaine|Nicole Fontaine]] · grade C

@@ -18,24 +18,24 @@ Corporate Elite
 
 ## Education
 
-- [University of Helsinki](../organisations/university-of-helsinki.md)  
+- [[organisations/university-of-helsinki|University of Helsinki]]  
   > "Born in Asikkala, he holds an honorary Doctor in Technology from Tampere University of Technology and in Science from the University of Helsinki, and is a Knight 1st Class of the Order of the White Rose of Finland."
-  > Source: [Corp Pekka Ala Pietil](../sources/wikipedia-corp-pekka-ala-pietil.md) · grade A
+  > Source: [[sources/wikipedia-corp-pekka-ala-pietil|Corp Pekka Ala Pietil]] · grade A
 
 ## Chair / president
 
-- [Nokia Mobile Phones](../organisations/nokia-mobile-phones.md) — chair  
+- [[organisations/nokia-mobile-phones|Nokia Mobile Phones]] — chair  
   > "He was also President of Nokia Corporation (1999–2005) and President of Nokia Mobile Phones (1992–1998)."
-  > Source: [Pekka Ala Pietil](../sources/wikipedia-pekka-ala-pietil.md) · grade C
+  > Source: [[sources/wikipedia-pekka-ala-pietil|Pekka Ala Pietil]] · grade C
 
 ## Founder
 
-- [Blyk](../organisations/blyk.md) — founder  
+- [[organisations/blyk|Blyk]] — founder  
   > "( August 2009 ) ( Learn how and when to remove this message ) Pekka Ala-Pietilä (born 13 January 1957) is CEO and co-founder of Blyk ."
-  > Source: [Pekka Ala Pietil](../sources/wikipedia-pekka-ala-pietil.md) · grade C
+  > Source: [[sources/wikipedia-pekka-ala-pietil|Pekka Ala Pietil]] · grade C
 
 ## Affiliation
 
-- [Tampere University of Technology](../organisations/tampere-university-of-technology.md)  
+- [[organisations/tampere-university-of-technology|Tampere University of Technology]]  
   > "Born in Asikkala , he holds an honorary Doctor in Technology from Tampere University of Technology and in Science from the University of Helsinki , and is a Knight 1st Class of the Order of the White Rose of Finland ."
-  > Source: [Pekka Ala Pietil](../sources/wikipedia-pekka-ala-pietil.md) · grade C
+  > Source: [[sources/wikipedia-pekka-ala-pietil|Pekka Ala Pietil]] · grade C

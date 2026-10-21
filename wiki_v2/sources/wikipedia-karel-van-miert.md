@@ -16,31 +16,31 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (14)
 
-- [Karel Van Miert](../people/karel-van-miert.md) — advisory_board — Goldman Sachs
+- [[people/karel-van-miert|Karel Van Miert]] — advisory_board — Goldman Sachs
   > "After his departure from politics Van Miert was an international advisor to Goldman Sachs."
-- [Karel Van Miert](../people/karel-van-miert.md) — affiliated_with — Belgian socialist party
+- [[people/karel-van-miert|Karel Van Miert]] — affiliated_with — Belgian socialist party
   > "In 1976 he became adjunct-national secretary of the – at that time – unitary Belgian socialist party."
-- [Karel Van Miert](../people/karel-van-miert.md) — affiliated_with — Vlerick Award
+- [[people/karel-van-miert|Karel Van Miert]] — affiliated_with — Vlerick Award
   > "In this period Van Miert was according to The Guardian \"one of the most powerful men in Europe.\" In 2001, he was awarded the Vlerick Award."
-- [Karel Van Miert](../people/karel-van-miert.md) — affiliated_with — Eli Lilly and Company
+- [[people/karel-van-miert|Karel Van Miert]] — affiliated_with — Eli Lilly and Company
   > "He also worked with Eli Lilly and Company, a global pharmaceutical corporation."
-- [Karel Van Miert](../people/karel-van-miert.md) — chair — Different Socialist Party
+- [[people/karel-van-miert|Karel Van Miert]] — chair — Different Socialist Party
   > "Two years later he became president of the Different Socialist Party."
-- [Karel Van Miert](../people/karel-van-miert.md) — chair — European Commission
+- [[people/karel-van-miert|Karel Van Miert]] — chair — European Commission
   > "From 1993 till 1999 he served as vice-chairman of the European commission and was responsible for competition policy."
-- [Karel Van Miert](../people/karel-van-miert.md) — educated_at — Ghent University
+- [[people/karel-van-miert|Karel Van Miert]] — educated_at — Ghent University
   > "He studied at Ghent University (1962–1966) and gained a degree in diplomatic sciences."
-- [Karel Van Miert](../people/karel-van-miert.md) — employed_by — Eli Lilly and Company
+- [[people/karel-van-miert|Karel Van Miert]] — employed_by — Eli Lilly and Company
   > "He also worked with Eli Lilly and Company, a global pharmaceutical corporation."
-- [Karel Van Miert](../people/karel-van-miert.md) — employed_by — European Commission
+- [[people/karel-van-miert|Karel Van Miert]] — employed_by — European Commission
   > "European Commissioner (1989–1999)"
-- [Karel Van Miert](../people/karel-van-miert.md) — from_country — Belgium
+- [[people/karel-van-miert|Karel Van Miert]] — from_country — Belgium
   > "Karel Antonius Lucia Maria Van Miert (Dutch: [ˈkaːrəl vɑ ˈmiːrt]; 17 January 1942 – 22 June 2009) was a Belgian politician of the Different Socialist Party and official of the European Commission."
-- [Karel Van Miert](../people/karel-van-miert.md) — held_portfolio — Competition
+- [[people/karel-van-miert|Karel Van Miert]] — held_portfolio — Competition
   > "From 1993 till 1999 he served as vice-chairman of the European commission and was responsible for competition policy."
-- [Karel Van Miert](../people/karel-van-miert.md) — member — European Parliament
+- [[people/karel-van-miert|Karel Van Miert]] — member — European Parliament
   > "Member of the European Parliament (1979–1985)"
-- [Karel Van Miert](../people/karel-van-miert.md) — member — Belgian Chamber
+- [[people/karel-van-miert|Karel Van Miert]] — member — Belgian Chamber
   > "Deputy in the Belgian Chamber (1985–1988)"
-- [Karel Van Miert](../people/karel-van-miert.md) — nominated_by — BEL
+- [[people/karel-van-miert|Karel Van Miert]] — nominated_by — BEL
   > "Karel Antonius Lucia Maria Van Miert (Dutch: [ˈkaːrəl vɑ ˈmiːrt]; 17 January 1942 – 22 June 2009) was a Belgian politician of the Different Socialist Party and official of the European Commission."

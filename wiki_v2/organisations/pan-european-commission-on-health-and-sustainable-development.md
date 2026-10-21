@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Mario Monti](../people/mario-monti.md) — chair  
+- [[people/mario-monti|Mario Monti]] — chair  
   > "In 2020, he was appointed by the World Health Organization's Regional Office for Europe to chair the Pan-European Commission on Health and Sustainable Development to make recommendations on investments and reforms to improve the resilience of health and social care systems."
-  > Source: [Mario Monti](../sources/wikipedia-mario-monti.md) · grade A
+  > Source: [[sources/wikipedia-mario-monti|Mario Monti]] · grade A

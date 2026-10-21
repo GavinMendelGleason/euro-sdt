@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Christos Stylianides](../people/christos-stylianides.md) — party_member  
+- [[people/christos-stylianides|Christos Stylianides]] — party_member  
   > "Although Stylianides is widely regarded a liberal by inclination, his political career has always been with the centre-right Democratic Rally party, DISY, on the grounds that it takes a more conciliatory approach to reuniting Cyprus."
-  > Source: [Christos Stylianides](../sources/wikipedia-christos-stylianides.md) · grade B
+  > Source: [[sources/wikipedia-christos-stylianides|Christos Stylianides]] · grade B

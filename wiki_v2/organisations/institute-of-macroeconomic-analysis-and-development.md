@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Janez Potocnik](../people/janez-potocnik.md) — employed_by  
+- [[people/janez-potocnik|Janez Potocnik]] — employed_by  
   > "Potočnik served as assistant director (1984–1987) and director (1993–2001) at the Institute of Macroeconomic Analysis and Development in Ljubljana ."
-  > Source: [Janez Potocnik](../sources/wikipedia-janez-potocnik.md) · grade A
+  > Source: [[sources/wikipedia-janez-potocnik|Janez Potocnik]] · grade A

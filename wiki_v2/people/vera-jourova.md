@@ -18,66 +18,66 @@ Commissioner
 
 ## Commission service
 
-- [Juncker Commission](../commissions/juncker-commission.md)  
+- [[commissions/juncker-commission|Juncker Commission]]  
   > "After an EU Parliament hearing, she was confirmed as the European Union's Commissioner for Justice, Consumers and Gender Equality in the Juncker Commission."
-  > Source: [Vera Jourova](../sources/wikipedia-vera-jourova.md) · grade A
+  > Source: [[sources/wikipedia-vera-jourova|Vera Jourova]] · grade A
 
 ## Portfolio
 
 - Justice, Consumers and Gender Equality  
   > "Věra Jourová (born 18 August 1964) is a Czech politician and lawyer who served as Vice-President of the European Commission for Values and Transparency from 2019 to 2024, and as the European Commissioner for Justice, Consumers and Gender Equality from 2014 to 2019."
-  > Source: [Vera Jourova](../sources/wikipedia-vera-jourova.md) · grade A
+  > Source: [[sources/wikipedia-vera-jourova|Vera Jourova]] · grade A
 
 - VP – Values and Transparency  
   > "Věra Jourová (born 18 August 1964) is a Czech politician and lawyer who served as Vice-President of the European Commission for Values and Transparency from 2019 to 2024, and as the European Commissioner for Justice, Consumers and Gender Equality from 2014 to 2019."
-  > Source: [Vera Jourova](../sources/wikipedia-vera-jourova.md) · grade A
+  > Source: [[sources/wikipedia-vera-jourova|Vera Jourova]] · grade A
 
 ## Nominated by
 
 - CZE  
   > "In July 2014, the three parties in the Czech government agreed to nominate Jourová as the country's next European commissioner."
-  > Source: [Vera Jourova](../sources/wikipedia-vera-jourova.md) · grade C
+  > Source: [[sources/wikipedia-vera-jourova|Vera Jourova]] · grade C
 
 ## Education
 
-- [Charles University](../organisations/charles-university.md)  
+- [[organisations/charles-university|Charles University]]  
   > "In 2012, Jourová graduated with a magister degree from the Faculty of Law of Charles University."
-  > Source: [Vera Jourova](../sources/wikipedia-vera-jourova.md) · grade A
+  > Source: [[sources/wikipedia-vera-jourova|Vera Jourova]] · grade A
 
-- [Charles University In Prague](../organisations/charles-university-in-prague.md)  
+- [[organisations/charles-university-in-prague|Charles University In Prague]]  
   > "She studied cultural anthropology at Charles University in Prague, while raising two children."
-  > Source: [Vera Jourova](../sources/wikipedia-vera-jourova.md) · grade A
+  > Source: [[sources/wikipedia-vera-jourova|Vera Jourova]] · grade A
 
 ## Membership
 
-- [Chamber of Deputies](../organisations/chamber-of-deputies.md)  
+- [[organisations/chamber-of-deputies|Chamber of Deputies]]  
   > "She served as a Member of the Chamber of Deputies between 2013 and 2014 and as the Czech Minister for Regional Development in 2014."
-  > Source: [Vera Jourova](../sources/wikipedia-vera-jourova.md) · grade A
+  > Source: [[sources/wikipedia-vera-jourova|Vera Jourova]] · grade A
 
-- [Jan Karski Foundation](../organisations/jan-karski-foundation.md)  
+- [[organisations/jan-karski-foundation|Jan Karski Foundation]]  
   > "Jan Karski Foundation, Member of the Award Committee for the Jan Karski Eagle Award (since 2024)"
-  > Source: [Vera Jourova](../sources/wikipedia-vera-jourova.md) · grade A
+  > Source: [[sources/wikipedia-vera-jourova|Vera Jourova]] · grade A
 
 ## Chair / president
 
-- [ANO](../organisations/ano.md) — chair; party_member  
+- [[organisations/ano|ANO]] — chair; party_member  
   > "Jourová has been a member of the ANO political party since 2012, and from 2013, she was the movement's deputy chair."
-  > Source: [Vera Jourova](../sources/wikipedia-vera-jourova.md) · grade A
+  > Source: [[sources/wikipedia-vera-jourova|Vera Jourova]] · grade A
 
 ## Employment
 
-- [European Commission](../organisations/european-commission.md) — employed_by  
+- [[organisations/european-commission|European Commission]] — employed_by  
   > "After an EU Parliament hearing, she was confirmed as the European Union's Commissioner for Justice, Consumers and Gender Equality in the Juncker Commission."
-  > Source: [Vera Jourova](../sources/wikipedia-vera-jourova.md) · grade C
+  > Source: [[sources/wikipedia-vera-jourova|Vera Jourova]] · grade C
 
-- [Ministry of Regional Development](../organisations/ministry-of-regional-development.md) — employed_by  
+- [[organisations/ministry-of-regional-development|Ministry of Regional Development]] — employed_by  
   > "She served as a Member of the Chamber of Deputies between 2013 and 2014 and as the Czech Minister for Regional Development in 2014."
-  > Source: [Vera Jourova](../sources/wikipedia-vera-jourova.md) · grade A
+  > Source: [[sources/wikipedia-vera-jourova|Vera Jourova]] · grade A
 
-- [Třebíč municipal office](../organisations/trebic-municipal-office.md) — employed_by  
+- [[organisations/trebic-municipal-office|Třebíč municipal office]] — employed_by  
   > "Jourová served as secretary and spokesperson of the Třebíč municipal office from 1995 until 2000."
-  > Source: [Vera Jourova](../sources/wikipedia-vera-jourova.md) · grade C
+  > Source: [[sources/wikipedia-vera-jourova|Vera Jourova]] · grade C
 
-- [Vysocina Region](../organisations/vysocina-region.md) — employed_by  
+- [[organisations/vysocina-region|Vysocina Region]] — employed_by  
   > "She later served as head of the Department of Regional Development for the Vysočina Region from 2001 to 2003."
-  > Source: [Vera Jourova](../sources/wikipedia-vera-jourova.md) · grade C
+  > Source: [[sources/wikipedia-vera-jourova|Vera Jourova]] · grade C

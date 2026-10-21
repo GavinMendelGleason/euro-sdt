@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Ján Figeľ](../people/jan-figel.md)  
+- [[people/jan-figel|Ján Figeľ]]  
   > "In 2007, Figeľ received a PhD in the field of social work at St. Elizabeth's School of Medicine and Social Work in Bratislava, a university-level private academic institution."
-  > Source: [Jan Figel](../sources/wikipedia-jan-figel.md) · grade A
+  > Source: [[sources/wikipedia-jan-figel|Jan Figel]] · grade A

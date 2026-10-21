@@ -15,21 +15,21 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Bernard Arnault](../people/bernard-arnault.md)  
+- [[people/bernard-arnault|Bernard Arnault]]  
   > "He studied civil engineering and mathematics at École Polytechnique , graduating in 1971."
-  > Source: [Bernard Arnault](../sources/wikipedia-bernard-arnault.md) · grade A
-- [Frédéric Oudéa](../people/frederic-oudea.md)  
+  > Source: [[sources/wikipedia-bernard-arnault|Bernard Arnault]] · grade A
+- [[people/frederic-oudea|Frédéric Oudéa]]  
   > "He then went to the École polytechnique , followed by the École nationale d'administration ."
-  > Source: [Fr D Ric Oud A](../sources/wikipedia-fr-d-ric-oud-a.md) · grade C
-- [Guillaume Faury](../people/guillaume-faury.md)  
+  > Source: [[sources/wikipedia-fr-d-ric-oud-a|Fr D Ric Oud A]] · grade C
+- [[people/guillaume-faury|Guillaume Faury]]  
   > "&#91; 2 &#93; He graduated from the École polytechnique (Paris) in 1990 and École Nationale Supérieure de l’Aéronautique et de l’Espace in Toulouse in 1992."
-  > Source: [Guillaume Faury](../sources/wikipedia-guillaume-faury.md) · grade A
-- [Jean-Laurent Bonnafé](../people/jean-laurent-bonnafe.md)  
+  > Source: [[sources/wikipedia-guillaume-faury|Guillaume Faury]] · grade A
+- [[people/jean-laurent-bonnafe|Jean-Laurent Bonnafé]]  
   > "&#91; 1 &#93; &#91; 2 &#93; &#91; 3 &#93; &#91; 4 &#93; Early life [ edit ] The son of a Électricité de France (EDF) electrical engineer and a lawyer in Albi , &#91; 5 &#93; Bonnafé attended the Lycée Louis-le-Grand and later graduated in engineering from the École polytechnique and École des Mines ."
-  > Source: [Jean Laurent Bonnaf](../sources/wikipedia-jean-laurent-bonnaf.md) · grade B
-- [Patrick Pouyanné](../people/patrick-pouyanne.md)  
+  > Source: [[sources/wikipedia-jean-laurent-bonnaf|Jean Laurent Bonnaf]] · grade B
+- [[people/patrick-pouyanne|Patrick Pouyanné]]  
   > "At 20, he entered the École Polytechnique where he graduated with an engineering degree."
-  > Source: [Patrick Pouyann](../sources/wikipedia-patrick-pouyann.md) · grade C
-- [Xavier Huillard](../people/xavier-huillard.md)  
+  > Source: [[sources/wikipedia-patrick-pouyann|Patrick Pouyann]] · grade C
+- [[people/xavier-huillard|Xavier Huillard]]  
   > "== Early life and education == Huillard graduated from École Polytechnique and École des ponts ParisTech."
-  > Source: [Corp Xavier Huillard](../sources/wikipedia-corp-xavier-huillard.md) · grade A
+  > Source: [[sources/wikipedia-corp-xavier-huillard|Corp Xavier Huillard]] · grade A

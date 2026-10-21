@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Irena Moozová](../people/irena-moozova.md)  
+- [[people/irena-moozova|Irena Moozová]]  
   > "/1984 – 09/1990: Desk Officer, International Department of the Czechoslovak National Front, Czechoslovak Third World Solidarity Committee, Prague Language Skills Czech (mother tongue) ➢ English ➢ Spanish ➢ French ➢ Rus"
-  > Source: [Irena Moozova](../sources/dg_cv-irena-moozova.md) · grade B
+  > Source: [[sources/dg_cv-irena-moozova|Irena Moozova]] · grade B

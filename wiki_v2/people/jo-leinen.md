@@ -18,10 +18,10 @@ Mep
 
 ## Education
 
-- [college-of-europe-in-bruges](../organisations/college-of-europe-in-bruges.md)  
+- [[organisations/college-of-europe-in-bruges|college-of-europe-in-bruges]]  
   > "He obtained a law degree in Germany in 1972 and a Certificate of Advanced European Studies from the College of Europe in Bruges , Belgium , in 1974."
-  > Source: [Jo Leinen](../sources/wikipedia-jo-leinen.md) · grade C
+  > Source: [[sources/wikipedia-jo-leinen|Jo Leinen]] · grade C
 
-- [germany](../organisations/germany.md)  
+- [[organisations/germany|germany]]  
   > "He obtained a law degree in Germany in 1972 and a Certificate of Advanced European Studies from the College of Europe in Bruges , Belgium , in 1974."
-  > Source: [Jo Leinen](../sources/wikipedia-jo-leinen.md) · grade A
+  > Source: [[sources/wikipedia-jo-leinen|Jo Leinen]] · grade A

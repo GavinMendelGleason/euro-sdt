@@ -16,7 +16,7 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (2)
 
-- [Slawomir Krupa](../people/slawomir-krupa.md) — chair — European Banking Federation
+- [[people/slawomir-krupa|Slawomir Krupa]] — chair — European Banking Federation
   > "He has also been chairperson of the European Banking Federation since 2025."
-- [Slawomir Krupa](../people/slawomir-krupa.md) — educated_at — Sciences Po Paris
+- [[people/slawomir-krupa|Slawomir Krupa]] — educated_at — Sciences Po Paris
   > "&#91; 2 &#93; Krupa studied at Sciences Po Paris , where he took a finance course that sparked his interest in banking."

@@ -15,7 +15,7 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (2)
 
-- [Johannes Hahn](../people/johannes-hahn.md) — advisory_board — European Investment Bank (EIB)
+- [[people/johannes-hahn|Johannes Hahn]] — advisory_board — European Investment Bank (EIB)
   > "Other activities European Investment Bank (EIB), Member of the Appointment Advisory Committee (since 2025) Honours – Grand Decoration of Honour in Gold with Sash for Services to the Republic of Austria."
-- [Johannes Hahn](../people/johannes-hahn.md) — affiliated_with — Youth Organisation of the Austrian People's Party (JVP)
+- [[people/johannes-hahn|Johannes Hahn]] — affiliated_with — Youth Organisation of the Austrian People's Party (JVP)
   > "Early life Hahn studied at the University of Vienna and began his political career in the youth organisation of the Austrian People's Party (JVP), where he was chairman of the Vienna group from 1980 to 1985."

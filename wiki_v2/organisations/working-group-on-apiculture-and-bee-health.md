@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Mariya Gabriel](../people/mariya-gabriel.md) — chair  
+- [[people/mariya-gabriel|Mariya Gabriel]] — chair  
   > "From 2014 to 2017, Mariya Gabriel was President of the Working Group on Apiculture and Bee Health."
-  > Source: [Mariya Gabriel](../sources/wikipedia-mariya-gabriel.md) · grade A
+  > Source: [[sources/wikipedia-mariya-gabriel|Mariya Gabriel]] · grade A

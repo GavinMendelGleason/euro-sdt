@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Teresa Ribera](../people/teresa-ribera.md) — board_member; employed_by  
+- [[people/teresa-ribera|Teresa Ribera]] — board_member; employed_by  
   > "Between 2014 and 2018, she was Director of the Institute for Sustainable Development and International Relations (IDDRI) in Paris."
-  > Source: [Teresa Ribera](../sources/wikipedia-teresa-ribera.md) · grade A
+  > Source: [[sources/wikipedia-teresa-ribera|Teresa Ribera]] · grade A

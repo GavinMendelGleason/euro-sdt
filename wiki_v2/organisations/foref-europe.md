@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Ján Figeľ](../people/jan-figel.md) — chair  
+- [[people/jan-figel|Ján Figeľ]] — chair  
   > "In 2025, Figeľ became chairman of the organization FOREF Europe, which is also closely linked to the Unification Church."
-  > Source: [Jan Figel](../sources/wikipedia-jan-figel.md) · grade A
+  > Source: [[sources/wikipedia-jan-figel|Jan Figel]] · grade A

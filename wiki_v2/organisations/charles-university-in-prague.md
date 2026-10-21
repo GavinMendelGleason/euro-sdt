@@ -15,9 +15,9 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Miroslav Ouzký](../people/miroslav-ouzky.md)  
+- [[people/miroslav-ouzky|Miroslav Ouzký]]  
   > "Biography [ edit ] He studied medicine at Charles University of Prague ."
-  > Source: [Miroslav Ouzk](../sources/wikipedia-miroslav-ouzk.md) · grade C
-- [Věra Jourová](../people/vera-jourova.md)  
+  > Source: [[sources/wikipedia-miroslav-ouzk|Miroslav Ouzk]] · grade C
+- [[people/vera-jourova|Věra Jourová]]  
   > "She studied cultural anthropology at Charles University in Prague, while raising two children."
-  > Source: [Vera Jourova](../sources/wikipedia-vera-jourova.md) · grade A
+  > Source: [[sources/wikipedia-vera-jourova|Vera Jourova]] · grade A

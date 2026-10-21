@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Anita Gradin](../people/anita-gradin.md)  
+- [[people/anita-gradin|Anita Gradin]]  
   > "Gradin was a member of the City Council in Stockholm in 1966–68 as well as a member of the Danish People's Welfare Board / Dental Committee 1966–76."
-  > Source: [Anita Gradin](../sources/wikipedia-anita-gradin.md) · grade A
+  > Source: [[sources/wikipedia-anita-gradin|Anita Gradin]] · grade A

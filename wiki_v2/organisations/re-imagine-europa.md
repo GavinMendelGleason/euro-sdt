@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Carlos Moedas](../people/carlos-moedas.md) — advisory_board  
+- [[people/carlos-moedas|Carlos Moedas]] — advisory_board  
   > "Re-Imagine Europa, Member of the Advisory Board"
-  > Source: [Carlos Moedas](../sources/wikipedia-carlos-moedas.md) · grade A
+  > Source: [[sources/wikipedia-carlos-moedas|Carlos Moedas]] · grade A

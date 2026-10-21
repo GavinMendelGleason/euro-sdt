@@ -18,10 +18,10 @@ Mep
 
 ## Chair / president
 
-- [European Greens–European Free Alliance](../organisations/european-greenseuropean-free-alliance.md) — chair  
+- [[organisations/european-greenseuropean-free-alliance|European Greens–European Free Alliance]] — chair  
   > "He was co-president of the group European Greens–European Free Alliance in the European Parliament."
-  > Source: [Daniel Cohn Bendit](../sources/wikipedia-daniel-cohn-bendit.md) · grade A
+  > Source: [[sources/wikipedia-daniel-cohn-bendit|Daniel Cohn Bendit]] · grade A
 
-- [Spinelli Group](../organisations/spinelli-group.md) — chair  
+- [[organisations/spinelli-group|Spinelli Group]] — chair  
   > "He co-chairs the Spinelli Group, a European Parliament inter-group aiming at relaunching the federalist project in Europe."
-  > Source: [Daniel Cohn Bendit](../sources/wikipedia-daniel-cohn-bendit.md) · grade C
+  > Source: [[sources/wikipedia-daniel-cohn-bendit|Daniel Cohn Bendit]] · grade C

@@ -14,9 +14,9 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Kaja Kallas](../people/kaja-kallas.md)  
+- [[people/kaja-kallas|Kaja Kallas]]  
   > "She was a member of the 12th Parliament of Estonia and chaired the Economic Affairs Committee from 2011 to 2014."
-  > Source: [Kaja Kallas](../sources/wikipedia-kaja-kallas.md) · grade A
-- [Siim Kallas](../people/siim-kallas.md)  
+  > Source: [[sources/wikipedia-kaja-kallas|Kaja Kallas]] · grade A
+- [[people/siim-kallas|Siim Kallas]]  
   > "In 2019 he was elected member of the Riigikogu, a post he was also elected to in 2023."
-  > Source: [Siim Kallas](../sources/wikipedia-siim-kallas.md) · grade A
+  > Source: [[sources/wikipedia-siim-kallas|Siim Kallas]] · grade A

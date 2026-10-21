@@ -15,9 +15,9 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Andrus Ansip](../people/andrus-ansip.md)  
+- [[people/andrus-ansip|Andrus Ansip]]  
   > "He is also a member of the European Internet Forum, the European Parliament Intergroup on Artificial Intelligence and Digital and the European Parliament Intergroup on Seas, Rivers, Islands and Coastal Areas."
-  > Source: [Andrus Ansip](../sources/wikipedia-andrus-ansip.md) · grade A
-- [Sylvie Guillaume](../people/sylvie-guillaume.md)  
+  > Source: [[sources/wikipedia-andrus-ansip|Andrus Ansip]] · grade A
+- [[people/sylvie-guillaume|Sylvie Guillaume]]  
   > "In addition to her committee assignments, Guillaume is a member of the Spinelli Group , &#91; 1 &#93; the European Parliament Intergroup on Artificial Intelligence and Digital, &#91; 2 &#93; the European Parliament Intergroup on LGBT Rights , &#91; 3 &#93; the European Parliament Intergroup on Disability, &#91; 4 &#93; the European Parliament Intergroup on Integrity (Transparency, Anti-Corruption […]"
-  > Source: [Sylvie Guillaume](../sources/wikipedia-sylvie-guillaume.md) · grade A
+  > Source: [[sources/wikipedia-sylvie-guillaume|Sylvie Guillaume]] · grade A

@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Andrius Kubilius](../people/andrius-kubilius.md) — employed_by  
+- [[people/andrius-kubilius|Andrius Kubilius]] — employed_by  
   > "He later became the Executive Secretary of the Sąjūdis Council."
-  > Source: [Andrius Kubilius](../sources/wikipedia-andrius-kubilius.md) · grade A
+  > Source: [[sources/wikipedia-andrius-kubilius|Andrius Kubilius]] · grade A

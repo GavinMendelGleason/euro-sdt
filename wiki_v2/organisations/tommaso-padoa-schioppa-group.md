@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [António Vitorino](../people/antonio-vitorino.md)  
+- [[people/antonio-vitorino|António Vitorino]]  
   > "From December 2011 until May 2012, he served as member of the institute's Tommaso Padoa-Schioppa group, a high-level expert group to reflect on the reform of the Economic and Monetary Union of the European Union."
-  > Source: [Antonio Vitorino](../sources/wikipedia-antonio-vitorino.md) · grade A
+  > Source: [[sources/wikipedia-antonio-vitorino|Antonio Vitorino]] · grade A

@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Rodi Kratsa-Tsagaropoulou](../people/rodi-kratsa-tsagaropoulou.md) — chair  
+- [[people/rodi-kratsa-tsagaropoulou|Rodi Kratsa-Tsagaropoulou]] — chair  
   > "Kratsa-Tsagaropoulou is also active in civil society and a founding member since 1987 and then President of the Women of Europe International Association (AIPFE) across the EU and beyond."
-  > Source: [Rodi Kratsa Tsagaropoulou](../sources/wikipedia-rodi-kratsa-tsagaropoulou.md) · grade A
+  > Source: [[sources/wikipedia-rodi-kratsa-tsagaropoulou|Rodi Kratsa Tsagaropoulou]] · grade A

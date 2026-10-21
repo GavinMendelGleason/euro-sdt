@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Godelieve Quisthoudt-Rowohl](../people/godelieve-quisthoudt-rowohl.md)  
+- [[people/godelieve-quisthoudt-rowohl|Godelieve Quisthoudt-Rowohl]]  
   > "&#91; 1 &#93; Education and career [ edit ] Quisthoudt-Rowohl studied Chemistry at University of Leuven ."
-  > Source: [Godelieve Quisthoudt Rowohl](../sources/wikipedia-godelieve-quisthoudt-rowohl.md) · grade A
+  > Source: [[sources/wikipedia-godelieve-quisthoudt-rowohl|Godelieve Quisthoudt Rowohl]] · grade A

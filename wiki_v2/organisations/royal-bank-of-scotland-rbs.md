@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Günter Verheugen](../people/gunter-verheugen.md) — advisory_board  
+- [[people/gunter-verheugen|Günter Verheugen]] — advisory_board  
   > "Royal Bank of Scotland (RBS), Senior Advisor (since 2010)"
-  > Source: [Gunter Verheugen](../sources/wikipedia-gunter-verheugen.md) · grade A
+  > Source: [[sources/wikipedia-gunter-verheugen|Gunter Verheugen]] · grade A

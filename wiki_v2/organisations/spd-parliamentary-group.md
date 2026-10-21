@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Günter Verheugen](../people/gunter-verheugen.md) — chair  
+- [[people/gunter-verheugen|Günter Verheugen]] — chair  
   > "From 1994 to 1997, Verheugen was deputy chairman of the SPD parliamentary group, under the leadership of the group's chairman Rudolf Scharping."
-  > Source: [Gunter Verheugen](../sources/wikipedia-gunter-verheugen.md) · grade A
+  > Source: [[sources/wikipedia-gunter-verheugen|Gunter Verheugen]] · grade A

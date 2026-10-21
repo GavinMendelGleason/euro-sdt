@@ -16,13 +16,13 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (5)
 
-- [Alonso José Puerta](../people/alonso-jose-puerta.md) — affiliated_with — Madrilenian Socialist Federation
+- [[people/alonso-jose-puerta|Alonso José Puerta]] — affiliated_with — Madrilenian Socialist Federation
   > "He was the leader of the Madrid regional branch of the party, the Madrilenian Socialist Federation , from 1977 to 1979."
-- [Alonso José Puerta](../people/alonso-jose-puerta.md) — affiliated_with — Madrid City Council
+- [[people/alonso-jose-puerta|Alonso José Puerta]] — affiliated_with — Madrid City Council
   > "&#91; 1 &#93; Puerta ran as candidate in the PSOE list for the 1979 Madrid City Council election and, elected, he served as municipal councillor from 19 April 1979 to 9 October 1981."
-- [Alonso José Puerta](../people/alonso-jose-puerta.md) — member — Spanish Socialist Workers' Party
+- [[people/alonso-jose-puerta|Alonso José Puerta]] — member — Spanish Socialist Workers' Party
   > "Puerta was initially a Spanish Socialist Workers' Party (PSOE) member and was elected for that party to the Spanish Congress of Deputies at the 1977 general election representing Madrid ."
-- [Alonso José Puerta](../people/alonso-jose-puerta.md) — member — Spanish Congress of Deputies
+- [[people/alonso-jose-puerta|Alonso José Puerta]] — member — Spanish Congress of Deputies
   > "Puerta was initially a Spanish Socialist Workers' Party (PSOE) member and was elected for that party to the Spanish Congress of Deputies at the 1977 general election representing Madrid ."
-- [Alonso José Puerta](../people/alonso-jose-puerta.md) — member — United Left
+- [[people/alonso-jose-puerta|Alonso José Puerta]] — member — United Left
   > "&#91; 2 &#93; He left the party and joined United Left ."

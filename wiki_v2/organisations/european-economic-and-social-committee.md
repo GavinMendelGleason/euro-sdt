@@ -15,12 +15,12 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Christophe Hansen](../people/christophe-hansen.md)  
+- [[people/christophe-hansen|Christophe Hansen]]  
   > "From March 2017 to August 2018, Hansen was also a member of the European Economic and Social Committee."
-  > Source: [Christophe Hansen](../sources/wikipedia-christophe-hansen.md) · grade A
-- [Graham Watson](../people/graham-watson.md)  
+  > Source: [[sources/wikipedia-christophe-hansen|Christophe Hansen]] · grade A
+- [[people/graham-watson|Graham Watson]]  
   > "From 2015 to 2020, he was a UK member on the European Economic and Social Committee."
-  > Source: [Graham Watson](../sources/wikipedia-graham-watson.md) · grade A
-- [Joseph Daul](../people/joseph-daul.md)  
+  > Source: [[sources/wikipedia-graham-watson|Graham Watson]] · grade A
+- [[people/joseph-daul|Joseph Daul]]  
   > "Daul also became a member of the Committee of Professional Agricultural Organisations (COPA) and of the European Economic and Social Committee in Brussels."
-  > Source: [Joseph Daul](../sources/wikipedia-joseph-daul.md) · grade A
+  > Source: [[sources/wikipedia-joseph-daul|Joseph Daul]] · grade A

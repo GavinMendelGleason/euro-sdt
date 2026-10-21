@@ -20,18 +20,18 @@ Commissioner · MLT
 
 - MLT  
   > "Following the 2019 European elections, Dalli was nominated by the government of Prime Minister Muscat as Malta's candidate for the subsequent European Commission."
-  > Source: [Helena Dalli](../sources/wikipedia-helena-dalli.md) · grade A
+  > Source: [[sources/wikipedia-helena-dalli|Helena Dalli]] · grade A
 
 ## Founder
 
-- [Consultative Council for Women's Rights](../organisations/consultative-council-for-women-s-rights.md) — founder  
+- [[organisations/consultative-council-for-women-s-rights|Consultative Council for Women's Rights]] — founder  
   > "She also set up an LGBTIQ Consultative Council, a Consultative Council for Women's Rights and a Forum on Integration Affairs."
-  > Source: [Helena Dalli](../sources/wikipedia-helena-dalli.md) · grade C
+  > Source: [[sources/wikipedia-helena-dalli|Helena Dalli]] · grade C
 
-- [Forum on Integration Affairs](../organisations/forum-on-integration-affairs.md) — founder  
+- [[organisations/forum-on-integration-affairs|Forum on Integration Affairs]] — founder  
   > "She also set up an LGBTIQ Consultative Council, a Consultative Council for Women's Rights and a Forum on Integration Affairs."
-  > Source: [Helena Dalli](../sources/wikipedia-helena-dalli.md) · grade C
+  > Source: [[sources/wikipedia-helena-dalli|Helena Dalli]] · grade C
 
-- [LGBTIQ Consultative Council](../organisations/lgbtiq-consultative-council.md) — founder  
+- [[organisations/lgbtiq-consultative-council|LGBTIQ Consultative Council]] — founder  
   > "She also set up an LGBTIQ Consultative Council, a Consultative Council for Women's Rights and a Forum on Integration Affairs."
-  > Source: [Helena Dalli](../sources/wikipedia-helena-dalli.md) · grade C
+  > Source: [[sources/wikipedia-helena-dalli|Helena Dalli]] · grade C

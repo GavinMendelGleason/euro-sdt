@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Maroš Šefčovič](../people/maros-sefcovic.md)  
+- [[people/maros-sefcovic|Maroš Šefčovič]]  
   > "On 18 January 2019, Šefčovič announced that he would stand as a candidate in the 2019 Slovak presidential race, with support of the Smer–SD party."
-  > Source: [Maros Sefcovic](../sources/wikipedia-maros-sefcovic.md) · grade B
+  > Source: [[sources/wikipedia-maros-sefcovic|Maros Sefcovic]] · grade B

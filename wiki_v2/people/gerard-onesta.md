@@ -18,12 +18,12 @@ Mep
 
 ## Membership
 
-- [European Greens](../organisations/european-greens.md)  
+- [[organisations/european-greens|European Greens]]  
   > "He is a member of Europe Écologie–The Greens , part of the European Greens ."
-  > Source: [Grard Onesta](../sources/wikipedia-grard-onesta.md) · grade C
+  > Source: [[sources/wikipedia-grard-onesta|Grard Onesta]] · grade C
 
 ## Affiliation
 
-- [Europe Écologie–The Greens in Midi-Pyrénées](../organisations/europe-ecologiethe-greens-in-midi-pyrenees.md)  
+- [[organisations/europe-ecologiethe-greens-in-midi-pyrenees|Europe Écologie–The Greens in Midi-Pyrénées]]  
   > "In March 2010 regional election, he is the leader of Europe Écologie–The Greens in Midi-Pyrénées."
-  > Source: [Grard Onesta](../sources/wikipedia-grard-onesta.md) · grade C
+  > Source: [[sources/wikipedia-grard-onesta|Grard Onesta]] · grade C

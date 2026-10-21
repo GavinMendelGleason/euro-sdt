@@ -16,15 +16,15 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (6)
 
-- [Glenn Micallef](../people/glenn-micallef.md) — board_member — Zabbar St Patrick FC
+- [[people/glenn-micallef|Glenn Micallef]] — board_member — Zabbar St Patrick FC
   > "Glenn Micallef was vice president of Zabbar St Patrick FC up until September 2024."
-- [Glenn Micallef](../people/glenn-micallef.md) — chair — Pulse
+- [[people/glenn-micallef|Glenn Micallef]] — chair — Pulse
   > "As a student, he served as president of Pulse in 2010."
-- [Glenn Micallef](../people/glenn-micallef.md) — chair — Zabbar St Patrick FC
+- [[people/glenn-micallef|Glenn Micallef]] — chair — Zabbar St Patrick FC
   > "Personal life Glenn Micallef was vice president of Zabbar St Patrick FC up until September 2024."
-- [Glenn Micallef](../people/glenn-micallef.md) — from_country — Malta
+- [[people/glenn-micallef|Glenn Micallef]] — from_country — Malta
   > "Glenn Micallef (Maltese pronunciation: [ˈɡlɛnː mɪˈkɐlːɛf]; born 30 July 1989) is a Maltese civil servant who was Chief of Staff to the Prime Minister of Malta, Robert Abela, from 2020 to 2024."
-- [Glenn Micallef](../people/glenn-micallef.md) — held_portfolio — European Commissioner for Intergenerational Fairness, Youth, Culture, and Sport
+- [[people/glenn-micallef|Glenn Micallef]] — held_portfolio — European Commissioner for Intergenerational Fairness, Youth, Culture, and Sport
   > "Since December 2024 he has served as European Commissioner for Intergenerational Fairness, Youth, Culture and Sport."
-- [Glenn Micallef](../people/glenn-micallef.md) — nominated_by — MLT
+- [[people/glenn-micallef|Glenn Micallef]] — nominated_by — MLT
   > "Brexit preparations Following the UK's decision to leave the European Union and subsequent negotiations with the European Commission, Glenn Micallef was appointed as Head of the Brexit Unit, to coordinate Malta's Brexit preparations and to streamline Malta's legislation accordingly."

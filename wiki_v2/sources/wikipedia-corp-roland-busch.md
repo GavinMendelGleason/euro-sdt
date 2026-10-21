@@ -16,9 +16,9 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (3)
 
-- [Roland Busch](../people/roland-busch.md) — educated_at — Friedrich Alexander University (FAU)
+- [[people/roland-busch|Roland Busch]] — educated_at — Friedrich Alexander University (FAU)
   > "Busch obtained a degree in physics from Friedrich Alexander University (FAU), also known as the University of Erlangen-Nuremberg, with a thesis on Quantum Chromodynamics Theory."
-- [Roland Busch](../people/roland-busch.md) — educated_at — University of Grenoble
+- [[people/roland-busch|Roland Busch]] — educated_at — University of Grenoble
   > "Busch also holds an undergraduate degree from the University of Grenoble."
-- [Roland Busch](../people/roland-busch.md) — employed_by — Siemens
+- [[people/roland-busch|Roland Busch]] — employed_by — Siemens
   > "=== CEO of Siemens AG === Roland Busch succeeded Joe Kaeser as President and CEO of Siemens AG. During his tenure, Siemens introduced a range of technologies combining physical and digital systems."

@@ -18,6 +18,6 @@ Corporate Elite
 
 ## Employment
 
-- [Nestlé](../organisations/nestle.md)  
+- [[organisations/nestle|Nestlé]]  
   > "After nearly more than four decades at Nestlé, he became its chief executive in 2024, until losing the position about a year later, in September 2025."
-  > Source: [Corp Laurent Freixe](../sources/wikipedia-corp-laurent-freixe.md) · grade A
+  > Source: [[sources/wikipedia-corp-laurent-freixe|Corp Laurent Freixe]] · grade A

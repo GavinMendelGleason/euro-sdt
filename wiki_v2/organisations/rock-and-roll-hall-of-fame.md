@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [David Byrne](../people/david-byrne.md)  
+- [[people/david-byrne|David Byrne]]  
   > "Byrne has received an Academy Award, a Grammy Award, a Special Tony Award, and a Golden Globe Award, and was inducted to the Rock and Roll Hall of Fame as part of Talking Heads."
-  > Source: [David Byrne](../sources/wikipedia-david-byrne.md) · grade B
+  > Source: [[sources/wikipedia-david-byrne|David Byrne]] · grade B

@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Dimitris Avramopoulos](../people/dimitris-avramopoulos.md) — chair; founder  
+- [[people/dimitris-avramopoulos|Dimitris Avramopoulos]] — chair; founder  
   > "He has also been Chairman of the Steering Committee on Cities´ Diplomacy, established by the Global Forum (Rome) and the World Bank Institute (Washington D.C.)."
-  > Source: [Dimitris Avramopoulos](../sources/wikipedia-dimitris-avramopoulos.md) · grade A
+  > Source: [[sources/wikipedia-dimitris-avramopoulos|Dimitris Avramopoulos]] · grade A

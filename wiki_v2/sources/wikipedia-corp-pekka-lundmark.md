@@ -16,5 +16,5 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (1)
 
-- [Pekka Lundmark](../people/pekka-lundmark.md) — employed_by — Nokia
+- [[people/pekka-lundmark|Pekka Lundmark]] — employed_by — Nokia
   > "Pekka Lundmark (born 9 December 1963) is a Finnish business executive, and former president and CEO of Nokia, from 2020 to March 2025."

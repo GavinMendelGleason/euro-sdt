@@ -16,5 +16,5 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (1)
 
-- [Christian Sewing](../people/christian-sewing.md) — educated_at — Frankfurt School of Finance & Management
+- [[people/christian-sewing|Christian Sewing]] — educated_at — Frankfurt School of Finance & Management
   > "He then studied business administration at the Frankfurt School of Finance & Management, in Frankfurt."

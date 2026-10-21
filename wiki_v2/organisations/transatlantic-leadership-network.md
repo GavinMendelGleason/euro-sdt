@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Cecilia Malmström](../people/cecilia-malmstrom.md) — advisory_board  
+- [[people/cecilia-malmstrom|Cecilia Malmström]] — advisory_board  
   > "Transatlantic Leadership Network, Member of the Council of Advisors"
-  > Source: [Cecilia Malmstrom](../sources/wikipedia-cecilia-malmstrom.md) · grade A
+  > Source: [[sources/wikipedia-cecilia-malmstrom|Cecilia Malmstrom]] · grade A

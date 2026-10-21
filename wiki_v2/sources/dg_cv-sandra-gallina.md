@@ -15,7 +15,7 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (2)
 
-- [Sandra Gallina](../people/sandra-gallina.md) — educated_at — Scuola Superiore Di Lingue Moderne Per Interpreti E Traduttori – Università Di T
+- [[people/sandra-gallina|Sandra Gallina]] — educated_at — Scuola Superiore Di Lingue Moderne Per Interpreti E Traduttori – Università Di T
   > "Italian Academic qualifications  11/1981 – 07/1987: Laurea in Interpretazione – Summa cum laude Scuola Superiore di Lingue Moderne per Interpreti e TraduttoriScuola Superiore di Lingue Moderne per Interpreti e Traduttori – Università di Trieste – Trieste, Italy"
-- [Sandra Gallina](../people/sandra-gallina.md) — held_position — Director-General → Directorate-General for Health and Food Safety
+- [[people/sandra-gallina|Sandra Gallina]] — held_position — Director-General → Directorate-General for Health and Food Safety
   > " 05/2018 – 06/2020: Deputy Director-General – Directorate- General Trade"

@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Emma Bonino](../people/emma-bonino.md)  
+- [[people/emma-bonino|Emma Bonino]]  
   > "Recognition Knight Grand Cross of the Order of Merit of the Italian Republic – awarded on 21 December 2015 In 1999 Bonino was one of the two winners of the North-South Prize, an award that honors individuals with accomplishment in the protection of human rights, pluralistic democracy, and improvement of North-South relations."
-  > Source: [Emma Bonino](../sources/wikipedia-emma-bonino.md) · grade B
+  > Source: [[sources/wikipedia-emma-bonino|Emma Bonino]] · grade B

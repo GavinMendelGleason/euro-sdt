@@ -15,9 +15,9 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Stefan Füle](../people/stefan-fule.md)  
+- [[people/stefan-fule|Stefan Füle]]  
   > "1; 1 &#93; He studied at the Charles University in Prague (1980–1981, two semesters at the Faculty of Philosophy) and the Moscow State Institute of International Relations (1981–1986). &"
-  > Source: [Stefan Fule](../sources/wikipedia-stefan-fule.md) · grade A
-- [Věra Jourová](../people/vera-jourova.md)  
+  > Source: [[sources/wikipedia-stefan-fule|Stefan Fule]] · grade A
+- [[people/vera-jourova|Věra Jourová]]  
   > "In 2012, Jourová graduated with a magister degree from the Faculty of Law of Charles University."
-  > Source: [Vera Jourova](../sources/wikipedia-vera-jourova.md) · grade A
+  > Source: [[sources/wikipedia-vera-jourova|Vera Jourova]] · grade A

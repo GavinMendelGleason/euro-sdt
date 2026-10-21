@@ -18,36 +18,36 @@ Mep
 
 ## Education
 
-- [Main School of Planning and Statistics (now Warsaw School of Economics)](../organisations/main-school-of-planning-and-statistics-now-warsaw-school-of-economics.md)  
+- [[organisations/main-school-of-planning-and-statistics-now-warsaw-school-of-economics|Main School of Planning and Statistics (now Warsaw School of Economics)]]  
   > "He was educated at Main School of Planning and Statistics (now Warsaw School of Economics ) and the University of Illinois ."
-  > Source: [Bogusaw Liberadzki](../sources/wikipedia-bogusaw-liberadzki.md) · grade A
+  > Source: [[sources/wikipedia-bogusaw-liberadzki|Bogusaw Liberadzki]] · grade A
 
-- [University of Illinois](../organisations/university-of-illinois.md)  
+- [[organisations/university-of-illinois|University of Illinois]]  
   > "He was educated at Main School of Planning and Statistics (now Warsaw School of Economics ) and the University of Illinois ."
-  > Source: [Bogusaw Liberadzki](../sources/wikipedia-bogusaw-liberadzki.md) · grade A
+  > Source: [[sources/wikipedia-bogusaw-liberadzki|Bogusaw Liberadzki]] · grade A
 
 ## Membership
 
-- [Democratic Left Alliance](../organisations/democratic-left-alliance.md)  
+- [[organisations/democratic-left-alliance|Democratic Left Alliance]]  
   > "Between 1997 and 2003 he was an MP (member of Sejm , lower house of Polish parliament) representing Democratic Left Alliance ."
-  > Source: [Bogusaw Liberadzki](../sources/wikipedia-bogusaw-liberadzki.md) · grade A
+  > Source: [[sources/wikipedia-bogusaw-liberadzki|Bogusaw Liberadzki]] · grade A
 
-- [Sejm](../organisations/sejm.md)  
+- [[organisations/sejm|Sejm]]  
   > "Between 1997 and 2003 he was an MP (member of Sejm , lower house of Polish parliament) representing Democratic Left Alliance ."
-  > Source: [Bogusaw Liberadzki](../sources/wikipedia-bogusaw-liberadzki.md) · grade A
+  > Source: [[sources/wikipedia-bogusaw-liberadzki|Bogusaw Liberadzki]] · grade A
 
 ## Chair / president
 
-- [Warsaw School of Economics (Szkoła Główna Handlowa w Warszawie - SGH)](../organisations/warsaw-school-of-economics-szkoa-gowna-handlowa-w-warszawie-sgh.md) — chair  
+- [[organisations/warsaw-school-of-economics-szkoa-gowna-handlowa-w-warszawie-sgh|Warsaw School of Economics (Szkoła Główna Handlowa w Warszawie - SGH)]] — chair  
   > "He holds the Chair of Transportation at the Warsaw School of Economics in Warsaw ( Szkoła Główna Handlowa w Warszawie - SGH ) and is also a professor in the Maritime University of Szczecin ( Akademia Morska w Szczecinie )."
-  > Source: [Bogusaw Liberadzki](../sources/wikipedia-bogusaw-liberadzki.md) · grade A
+  > Source: [[sources/wikipedia-bogusaw-liberadzki|Bogusaw Liberadzki]] · grade A
 
 ## Affiliation
 
-- [Maritime University of Szczecin (Akademia Morska w Szczecinie)](../organisations/maritime-university-of-szczecin-akademia-morska-w-szczecinie.md)  
+- [[organisations/maritime-university-of-szczecin-akademia-morska-w-szczecinie|Maritime University of Szczecin (Akademia Morska w Szczecinie)]]  
   > "He holds the Chair of Transportation at the Warsaw School of Economics in Warsaw ( Szkoła Główna Handlowa w Warszawie - SGH ) and is also a professor in the Maritime University of Szczecin ( Akademia Morska w Szczecinie )."
-  > Source: [Bogusaw Liberadzki](../sources/wikipedia-bogusaw-liberadzki.md) · grade A
+  > Source: [[sources/wikipedia-bogusaw-liberadzki|Bogusaw Liberadzki]] · grade A
 
-- [Ministry of Transportation and Maritime Economy (Poland)](../organisations/ministry-of-transportation-and-maritime-economy-poland.md)  
+- [[organisations/ministry-of-transportation-and-maritime-economy-poland|Ministry of Transportation and Maritime Economy (Poland)]]  
   > "He was an under secretary (vice minister) in the Ministry of Transportation and Maritime Economy 1989–1993 and minister in that ministry 1993–1997."
-  > Source: [Bogusaw Liberadzki](../sources/wikipedia-bogusaw-liberadzki.md) · grade C
+  > Source: [[sources/wikipedia-bogusaw-liberadzki|Bogusaw Liberadzki]] · grade C

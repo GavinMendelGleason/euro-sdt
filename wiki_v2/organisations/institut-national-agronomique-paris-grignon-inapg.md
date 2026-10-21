@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Myriam Ferran](../people/myriam-ferran.md)  
+- [[people/myriam-ferran|Myriam Ferran]]  
   > " 09/1988 - 07/1990 : Engineer in Agronomics – Institut National Agronomique Paris-Grignon (INAPG)"
-  > Source: [Myriam Ferran](../sources/dg_cv-myriam-ferran.md) · grade B
+  > Source: [[sources/dg_cv-myriam-ferran|Myriam Ferran]] · grade B

@@ -18,18 +18,18 @@ Dg
 
 ## Education
 
-- [University of Vienna](../organisations/university-of-vienna.md)  
+- [[organisations/university-of-vienna|University of Vienna]]  
   > " 10/1989 – 07/1995: Master’s degree in economics, University of Vienna/Austria"
-  > Source: [Elisabeth Werner](../sources/dg_cv-elisabeth-werner.md) · grade A
+  > Source: [[sources/dg_cv-elisabeth-werner|Elisabeth Werner]] · grade A
 
 ## Field of study
 
 - Economics  
   > " 10/1989 – 07/1995: Master’s degree in economics, University of Vienna/Austria"
-  > Source: [Elisabeth Werner](../sources/dg_cv-elisabeth-werner.md) · grade A
+  > Source: [[sources/dg_cv-elisabeth-werner|Elisabeth Werner]] · grade A
 
 ## Position
 
 - Director-General → Directorate-General for Agriculture and Rural Development  
   > " Since June 2025: Director-General, DG AGRI"
-  > Source: [Elisabeth Werner](../sources/dg_cv-elisabeth-werner.md) · grade A
+  > Source: [[sources/dg_cv-elisabeth-werner|Elisabeth Werner]] · grade A

@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Valdis Dombrovskis](../people/valdis-dombrovskis.md)  
+- [[people/valdis-dombrovskis|Valdis Dombrovskis]]  
   > "and as a PhD student at the A. James Clark School of Engineering at the University of Maryland, College Park for electrical engineering in 1998"
-  > Source: [Valdis Dombrovskis](../sources/wikipedia-valdis-dombrovskis.md) · grade A
+  > Source: [[sources/wikipedia-valdis-dombrovskis|Valdis Dombrovskis]] · grade A

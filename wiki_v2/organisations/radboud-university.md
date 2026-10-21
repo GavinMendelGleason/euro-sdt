@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Bas Eickhout](../people/bas-eickhout.md)  
+- [[people/bas-eickhout|Bas Eickhout]]  
   > "Between 1994 and 2000, he studied chemistry and environmental science at Radboud University in Nijmegen."
-  > Source: [Bas Eickhout](../sources/wikipedia-bas-eickhout.md) · grade C
+  > Source: [[sources/wikipedia-bas-eickhout|Bas Eickhout]] · grade C

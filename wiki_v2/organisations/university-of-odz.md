@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Jacek Saryusz-Wolski](../people/jacek-saryusz-wolski.md)  
+- [[people/jacek-saryusz-wolski|Jacek Saryusz-Wolski]]  
   > "&#91; 3 &#93; He graduated from the First High School of \"Nicolaus Copernicus\" in Łódź and he obtained a degree in economics from the University of Łódź ."
-  > Source: [Jacek Saryusz Wolski](../sources/wikipedia-jacek-saryusz-wolski.md) · grade A
+  > Source: [[sources/wikipedia-jacek-saryusz-wolski|Jacek Saryusz Wolski]] · grade A

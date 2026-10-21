@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Peter Mandelson](../people/peter-mandelson.md)  
+- [[people/peter-mandelson|Peter Mandelson]]  
   > "Mandelson attended the Garden Suburb School, and from 1965 to 1972 Hendon County Grammar School."
-  > Source: [Peter Mandelson](../sources/wikipedia-peter-mandelson.md) · grade A
+  > Source: [[sources/wikipedia-peter-mandelson|Peter Mandelson]] · grade A

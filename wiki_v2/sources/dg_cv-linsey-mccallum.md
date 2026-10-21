@@ -15,7 +15,7 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (2)
 
-- [Linsey McCallum](../people/linsey-mccallum.md) — educated_at — University Of Glasgow, Law School, United Kingdom
+- [[people/linsey-mccallum|Linsey McCallum]] — educated_at — University Of Glasgow, Law School, United Kingdom
   > "➢ 1989 – 1990: Diploma in Legal Practice (part of professional qualification) University of Glasgow, Law School, United Kingdom"
-- [Linsey McCallum](../people/linsey-mccallum.md) — held_position — Deputy Director-General → Directorate-General for Competition
+- [[people/linsey-mccallum|Linsey McCallum]] — held_position — Deputy Director-General → Directorate-General for Competition
   > "Professional experience in the European Institutions ➢ Since 1 October 2020 : Deputy Director-General with special responsibility for Anti -trust Directorate-General \" Competition\" (DG COMP)"

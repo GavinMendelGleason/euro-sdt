@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Piotr Serafin](../people/piotr-serafin.md) — employed_by  
+- [[people/piotr-serafin|Piotr Serafin]] — employed_by  
   > "From 13 December 2023 to October 2024, Serafin served as the acting Permanent Representative of Poland to the European Union."
-  > Source: [Piotr Serafin](../sources/wikipedia-piotr-serafin.md) · grade C
+  > Source: [[sources/wikipedia-piotr-serafin|Piotr Serafin]] · grade C

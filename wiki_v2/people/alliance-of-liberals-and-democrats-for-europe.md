@@ -18,6 +18,6 @@ Mep
 
 ## Affiliation
 
-- [Liberal International](../organisations/liberal-international.md)  
+- [[organisations/liberal-international|Liberal International]]  
   > "The ALDE Party is affiliated with Liberal International and a recognised European political party, incorporated as a non-profit association under Belgian law."
-  > Source: [Alliance Of Liberals And Democrats For Europe Party](../sources/wikipedia-alliance-of-liberals-and-democrats-for-europe-party.md) · grade C
+  > Source: [[sources/wikipedia-alliance-of-liberals-and-democrats-for-europe-party|Alliance Of Liberals And Democrats For Europe Party]] · grade C

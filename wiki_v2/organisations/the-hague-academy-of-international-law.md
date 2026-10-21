@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Colette Flesch](../people/colette-flesch.md)  
+- [[people/colette-flesch|Colette Flesch]]  
   > "in International Affairs from the Fletcher School of Law and Diplomacy at Tufts University , before studying at The Hague Academy of International Law ."
-  > Source: [Colette Flesch](../sources/wikipedia-colette-flesch.md) · grade C
+  > Source: [[sources/wikipedia-colette-flesch|Colette Flesch]] · grade C

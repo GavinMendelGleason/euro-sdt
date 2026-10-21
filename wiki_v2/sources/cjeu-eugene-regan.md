@@ -15,5 +15,5 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (1)
 
-- [Eugene Regan](../people/eugene-regan.md) — educated_at — Université Libre De Bruxelles
+- [[people/eugene-regan|Eugene Regan]] — educated_at — Université Libre De Bruxelles
   > "He completed his university education with a master’s degree in international law and comparative law from the Université libre de Bruxelles (Free University of Brussels, Belgium) in 1979."

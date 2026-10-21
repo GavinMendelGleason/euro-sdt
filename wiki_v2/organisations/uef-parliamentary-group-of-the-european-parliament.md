@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Rainer Wieland](../people/rainer-wieland.md)  
+- [[people/rainer-wieland|Rainer Wieland]]  
   > "&#91; 5 &#93; Complementary to his parliamentary work, Wieland is also a member of the non-partisan UEF Parliamentary Group of the European Parliament."
-  > Source: [Rainer Wieland](../sources/wikipedia-rainer-wieland.md) · grade A
+  > Source: [[sources/wikipedia-rainer-wieland|Rainer Wieland]] · grade A

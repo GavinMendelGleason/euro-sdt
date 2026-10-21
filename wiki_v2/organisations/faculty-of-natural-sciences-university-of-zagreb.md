@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Maja Bakran Marcich](../people/maja-bakran-marcich.md)  
+- [[people/maja-bakran-marcich|Maja Bakran Marcich]]  
   > " 1992: Graduated from Faculty of Natural Sciences, University of Zagreb Degree in Biological Engineering - Ecology"
-  > Source: [Maja Bakran Marcich](../sources/dg_cv-maja-bakran-marcich.md) · grade A
+  > Source: [[sources/dg_cv-maja-bakran-marcich|Maja Bakran Marcich]] · grade A

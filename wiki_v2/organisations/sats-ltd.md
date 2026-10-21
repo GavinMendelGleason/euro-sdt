@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Thierry Breton](../people/thierry-breton.md) — board_member  
+- [[people/thierry-breton|Thierry Breton]] — board_member  
   > "SATS Ltd., Member of the Board of Directors (2015–2018)"
-  > Source: [Thierry Breton](../sources/wikipedia-thierry-breton.md) · grade A
+  > Source: [[sources/wikipedia-thierry-breton|Thierry Breton]] · grade A

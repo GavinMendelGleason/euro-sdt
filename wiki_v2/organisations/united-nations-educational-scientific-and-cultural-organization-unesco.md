@@ -15,9 +15,9 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Carlos Moedas](../people/carlos-moedas.md) — advisory_board  
+- [[people/carlos-moedas|Carlos Moedas]] — advisory_board  
   > "UNESCO, Member of the Advisory Board of the \"Futures of Education\" Initiative (since 2019)"
-  > Source: [Carlos Moedas](../sources/wikipedia-carlos-moedas.md) · grade A
-- [Irena Moozová](../people/irena-moozova.md)  
+  > Source: [[sources/wikipedia-carlos-moedas|Carlos Moedas]] · grade A
+- [[people/irena-moozova|Irena Moozová]]  
   > "08/2006: Permanent Delegate of the Czech Republic to United Nations Educational, Scientific and Cultural Organization (UNESCO), Paris ➢ 09 -"
-  > Source: [Irena Moozova](../sources/dg_cv-irena-moozova.md) · grade B
+  > Source: [[sources/dg_cv-irena-moozova|Irena Moozova]] · grade B

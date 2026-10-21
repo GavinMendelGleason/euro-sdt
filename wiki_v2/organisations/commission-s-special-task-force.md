@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Paolo Gentiloni](../people/paolo-gentiloni.md)  
+- [[people/paolo-gentiloni|Paolo Gentiloni]]  
   > "In early March 2020, Gentiloni was appointed by President von der Leyen to serve on the Commission's special task force to coordinate their response to the COVID-19 pandemic, which severely affected the European Union."
-  > Source: [Paolo Gentiloni](../sources/wikipedia-paolo-gentiloni.md) · grade B
+  > Source: [[sources/wikipedia-paolo-gentiloni|Paolo Gentiloni]] · grade B

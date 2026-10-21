@@ -18,30 +18,30 @@ Commissioner · DNK
 
 ## Commission service
 
-- [Prodi Commission](../commissions/prodi-commission.md)  
+- [[commissions/prodi-commission|Prodi Commission]]  
   > "On 17 September 1999 Nielson became European Commissioner for Development and Humanitarian Aid when the Prodi Commission took office."
-  > Source: [Poul Nielson](../sources/wikipedia-poul-nielson.md) · grade A
+  > Source: [[sources/wikipedia-poul-nielson|Poul Nielson]] · grade A
 
 ## Portfolio
 
 - Development and Humanitarian Aid  
   > "On 17 September 1999 Nielson became European Commissioner for Development and Humanitarian Aid when the Prodi Commission took office."
-  > Source: [Poul Nielson](../sources/wikipedia-poul-nielson.md) · grade A
+  > Source: [[sources/wikipedia-poul-nielson|Poul Nielson]] · grade A
 
 ## Country
 
 - Denmark  
   > "Poul Nielson (born 11 April 1943) is a Danish politician from the Social Democrats who has held the posts as Energy Minister and Minister of Development Cooperation, and served as European Commissione"
-  > Source: [Poul Nielson](../sources/wikipedia-poul-nielson.md) · grade C
+  > Source: [[sources/wikipedia-poul-nielson|Poul Nielson]] · grade C
 
 ## Education
 
-- [Aarhus University](../organisations/aarhus-university.md)  
+- [[organisations/aarhus-university|Aarhus University]]  
   > "Born in Copenhagen, Nielson graduated in political science from Aarhus University in 1972."
-  > Source: [Poul Nielson](../sources/wikipedia-poul-nielson.md) · grade A
+  > Source: [[sources/wikipedia-poul-nielson|Poul Nielson]] · grade A
 
 ## Affiliation
 
-- [Nordic Council](../organisations/nordic-council.md)  
+- [[organisations/nordic-council|Nordic Council]]  
   > "Life after politics In April 2015, Nielson was asked to conduct a strategic review of the labour market on behalf of the Nordic Council."
-  > Source: [Poul Nielson](../sources/wikipedia-poul-nielson.md) · grade B
+  > Source: [[sources/wikipedia-poul-nielson|Poul Nielson]] · grade B

@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Vytenis Andriukaitis](../people/vytenis-andriukaitis.md)  
+- [[people/vytenis-andriukaitis|Vytenis Andriukaitis]]  
   > "In 1976 Andriukaitis started his career in politics as a member of the underground Social Democratic movement, participating in their many activities."
-  > Source: [Vytenis Andriukaitis](../sources/wikipedia-vytenis-andriukaitis.md) · grade A
+  > Source: [[sources/wikipedia-vytenis-andriukaitis|Vytenis Andriukaitis]] · grade A

@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Marek Siwiec](../people/marek-siwiec.md) — board_member  
+- [[people/marek-siwiec|Marek Siwiec]] — board_member  
   > "He was&#160;a member of the Board of Yalta European Strategy foundation, President of European Friends of Israel , and a member of the Global Leadership Council of Colorado State University."
-  > Source: [Marek Siwiec](../sources/wikipedia-marek-siwiec.md) · grade A
+  > Source: [[sources/wikipedia-marek-siwiec|Marek Siwiec]] · grade A

@@ -18,12 +18,12 @@ Corporate Elite
 
 ## Education
 
-- [St Catharine's College, University of Cambridge](../organisations/st-catharine-s-college-university-of-cambridge.md)  
+- [[organisations/st-catharine-s-college-university-of-cambridge|St Catharine's College, University of Cambridge]]  
   > "== Early life == He was educated at St Catharine's College, University of Cambridge."
-  > Source: [Corp Ian Meakins](../sources/wikipedia-corp-ian-meakins.md) · grade A
+  > Source: [[sources/wikipedia-corp-ian-meakins|Corp Ian Meakins]] · grade A
 
 ## Employment
 
-- [Unilever](../organisations/unilever.md)  
+- [[organisations/unilever|Unilever]]  
   > "He is the chairman of Unilever since December 2023, chairman of Compass Group since December 2020, and former chairman of Rexel."
-  > Source: [Corp Ian Meakins](../sources/wikipedia-corp-ian-meakins.md) · grade A
+  > Source: [[sources/wikipedia-corp-ian-meakins|Corp Ian Meakins]] · grade A

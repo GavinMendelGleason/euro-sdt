@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Androulla Vassiliou](../people/androulla-vassiliou.md) — chair  
+- [[people/androulla-vassiliou|Androulla Vassiliou]] — chair  
   > "In 1991 she was elected President of the World Federation of United Nations Associations and re-elected for two terms before being made an honorary president."
-  > Source: [Androulla Vassiliou](../sources/wikipedia-androulla-vassiliou.md) · grade A
+  > Source: [[sources/wikipedia-androulla-vassiliou|Androulla Vassiliou]] · grade A

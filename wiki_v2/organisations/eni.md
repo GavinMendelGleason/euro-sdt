@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Paolo Scaroni](../people/paolo-scaroni.md) — employed_by  
+- [[people/paolo-scaroni|Paolo Scaroni]] — employed_by  
   > "Between 2002 and 2014 he was the CEO (chief executive officer) of Italian energy companies Enel and Eni ."
-  > Source: [Paolo Scaroni](../sources/wikipedia-paolo-scaroni.md) · grade A
+  > Source: [[sources/wikipedia-paolo-scaroni|Paolo Scaroni]] · grade A

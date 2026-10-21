@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Nicolas Schmit](../people/nicolas-schmit.md)  
+- [[people/nicolas-schmit|Nicolas Schmit]]  
   > "Since the 2019 European elections, Schmit has been a Member of the European Parliament, where he belongs to the Progressive Alliance of Socialists and Democrats (S&D) group."
-  > Source: [Nicolas Schmit](../sources/wikipedia-nicolas-schmit.md) · grade A
+  > Source: [[sources/wikipedia-nicolas-schmit|Nicolas Schmit]] · grade A

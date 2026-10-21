@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Marianne Thyssen](../people/marianne-thyssen.md) — chair  
+- [[people/marianne-thyssen|Marianne Thyssen]] — chair  
   > "From 1999-2014 she served as leader of the European People's Party's (EPP) Belgian delegation and from 2004-2009 was elected first vice-president of the EPP."
-  > Source: [Marianne Thyssen](../sources/wikipedia-marianne-thyssen.md) · grade A
+  > Source: [[sources/wikipedia-marianne-thyssen|Marianne Thyssen]] · grade A

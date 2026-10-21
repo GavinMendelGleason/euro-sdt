@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Francesco Speroni](../people/francesco-speroni.md) — chair  
+- [[people/francesco-speroni|Francesco Speroni]] — chair  
   > "As MEP, he co-chaired the Europe of Freedom and Democracy group from 2009 to 2014."
-  > Source: [Francesco Speroni](../sources/wikipedia-francesco-speroni.md) · grade C
+  > Source: [[sources/wikipedia-francesco-speroni|Francesco Speroni]] · grade C

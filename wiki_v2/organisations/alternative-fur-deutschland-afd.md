@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Alexander Jungbluth](../people/alexander-jungbluth.md)  
+- [[people/alexander-jungbluth|Alexander Jungbluth]]  
   > "German politician Alexander Jungbluth (born 1987) is a German politician for the AfD party, he became a member of the European parliament on the 16 July 2024."
-  > Source: [Alexander Jungbluth](../sources/wikipedia-alexander-jungbluth.md) · grade C
+  > Source: [[sources/wikipedia-alexander-jungbluth|Alexander Jungbluth]] · grade C

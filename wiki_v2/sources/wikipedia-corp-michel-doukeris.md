@@ -16,11 +16,11 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (4)
 
-- [Michel Doukeris](../people/michel-doukeris.md) — educated_at — Federal University of Santa Catarina
+- [[people/michel-doukeris|Michel Doukeris]] — educated_at — Federal University of Santa Catarina
   > "He earned a degree in chemical engineering from Federal University of Santa Catarina, and a master's degree from Fundação Getulio Vargas."
-- [Michel Doukeris](../people/michel-doukeris.md) — educated_at — Fundação Getulio Vargas
+- [[people/michel-doukeris|Michel Doukeris]] — educated_at — Fundação Getulio Vargas
   > "He earned a degree in chemical engineering from Federal University of Santa Catarina, and a master's degree from Fundação Getulio Vargas."
-- [Michel Doukeris](../people/michel-doukeris.md) — educated_at — Wharton School
+- [[people/michel-doukeris|Michel Doukeris]] — educated_at — Wharton School
   > "He attended postgraduate programmes at the Wharton School and Kellogg School of Management in the US."
-- [Michel Doukeris](../people/michel-doukeris.md) — educated_at — Kellogg School of Management
+- [[people/michel-doukeris|Michel Doukeris]] — educated_at — Kellogg School of Management
   > "He attended postgraduate programmes at the Wharton School and Kellogg School of Management in the US."

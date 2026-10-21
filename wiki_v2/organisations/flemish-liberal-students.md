@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Karel De Gucht](../people/karel-de-gucht.md) — chair  
+- [[people/karel-de-gucht|Karel De Gucht]] — chair  
   > "He entered politics at a young age, and became president of the Flemish Liberal Students while studying at the Vrije Universiteit Brussel in Brussels."
-  > Source: [Karel De Gucht](../sources/wikipedia-karel-de-gucht.md) · grade A
+  > Source: [[sources/wikipedia-karel-de-gucht|Karel De Gucht]] · grade A

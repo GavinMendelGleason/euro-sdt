@@ -15,9 +15,9 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Philippe Malaud](../people/philippe-malaud.md)  
+- [[people/philippe-malaud|Philippe Malaud]]  
   > "Between 1973 and 1981, he was a member of the Parliament ."
-  > Source: [Philippe Malaud](../sources/wikipedia-philippe-malaud.md) · grade A
-- [Sir Leon Brittan](../people/sir-leon-brittan.md)  
+  > Source: [[sources/wikipedia-philippe-malaud|Philippe Malaud]] · grade A
+- [[people/sir-leon-brittan|Sir Leon Brittan]]  
   > "As a member of Parliament from 1974 to 1988, he served several ministerial roles in Margaret Thatcher's government, including Home Secretary from 1983 to 1985."
-  > Source: [Sir Leon Brittan](../sources/wikipedia-sir-leon-brittan.md) · grade A
+  > Source: [[sources/wikipedia-sir-leon-brittan|Sir Leon Brittan]] · grade A

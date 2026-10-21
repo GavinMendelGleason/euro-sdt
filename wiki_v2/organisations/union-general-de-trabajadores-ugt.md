@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Joaquín Almunia](../people/joaquin-almunia.md) — employed_by  
+- [[people/joaquin-almunia|Joaquín Almunia]] — employed_by  
   > "Almunia was chief economist of the Unión General de Trabajadores (UGT), a trade union linked to the Spanish Socialist Workers' Party (PSOE), from 1976 to 1979."
-  > Source: [Joaquin Almunia](../sources/wikipedia-joaquin-almunia.md) · grade A
+  > Source: [[sources/wikipedia-joaquin-almunia|Joaquin Almunia]] · grade A

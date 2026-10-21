@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Ekaterina Zaharieva](../people/ekaterina-zaharieva.md)  
+- [[people/ekaterina-zaharieva|Ekaterina Zaharieva]]  
   > "She served as Deputy Prime Minister of Bulgaria from 2017 to 2021 and on two occasions from 2013 to 2014."
-  > Source: [Ekaterina Zaharieva](../sources/wikipedia-ekaterina-zaharieva.md) · grade C
+  > Source: [[sources/wikipedia-ekaterina-zaharieva|Ekaterina Zaharieva]] · grade C

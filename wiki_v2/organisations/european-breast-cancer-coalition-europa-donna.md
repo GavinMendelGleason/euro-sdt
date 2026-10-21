@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Stella Kyriakides](../people/stella-kyriakides.md) — chair  
+- [[people/stella-kyriakides|Stella Kyriakides]] — chair  
   > "From 2004 until 2006, she served as president of the European Breast Cancer Coalition Europa Donna."
-  > Source: [Stella Kyriakides](../sources/wikipedia-stella-kyriakides.md) · grade A
+  > Source: [[sources/wikipedia-stella-kyriakides|Stella Kyriakides]] · grade A

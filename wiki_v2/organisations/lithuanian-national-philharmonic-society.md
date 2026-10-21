@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Dalia Grybauskaitė](../people/dalia-grybauskaite.md) — employed_by  
+- [[people/dalia-grybauskaite|Dalia Grybauskaitė]] — employed_by  
   > "At the age of nineteen, she worked for a year at the Lithuanian National Philharmonic Society as a staff inspector."
-  > Source: [Dalia Grybauskaite](../sources/wikipedia-dalia-grybauskaite.md) · grade A
+  > Source: [[sources/wikipedia-dalia-grybauskaite|Dalia Grybauskaite]] · grade A

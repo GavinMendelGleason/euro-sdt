@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Virginijus Sinkevičius](../people/virginijus-sinkevicius.md) — employed_by  
+- [[people/virginijus-sinkevicius|Virginijus Sinkevičius]] — employed_by  
   > "Between 2012 and 2015, Sinkevičius contributed as an author and editor to the Lithuania Tribune, a news portal focused on Lithuanian and European affairs."
-  > Source: [Virginijus Sinkevicius](../sources/wikipedia-virginijus-sinkevicius.md) · grade C
+  > Source: [[sources/wikipedia-virginijus-sinkevicius|Virginijus Sinkevicius]] · grade C

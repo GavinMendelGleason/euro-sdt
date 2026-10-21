@@ -15,27 +15,27 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Colette Flesch](../people/colette-flesch.md)  
+- [[people/colette-flesch|Colette Flesch]]  
   > "In December 1968 she was elected to the Chamber of Deputies in an early election."
-  > Source: [Colette Flesch](../sources/wikipedia-colette-flesch.md) · grade B
-- [Federica Mogherini](../people/federica-mogherini.md)  
+  > Source: [[sources/wikipedia-colette-flesch|Colette Flesch]] · grade B
+- [[people/federica-mogherini|Federica Mogherini]]  
   > "In 2008, Mogherini was elected to Italy's Chamber of Deputies, representing the constituency of Veneto."
-  > Source: [Federica Mogherini](../sources/wikipedia-federica-mogherini.md) · grade A
-- [Filip Turek](../people/filip-turek.md)  
+  > Source: [[sources/wikipedia-federica-mogherini|Federica Mogherini]] · grade A
+- [[people/filip-turek|Filip Turek]]  
   > "In the 2025 Czech parliamentary election , his party Motorists for Themselves was elected to parliament with 6.8% of the vote, and Turek became an MP."
-  > Source: [Filip Turek](../sources/wikipedia-filip-turek.md) · grade C
-- [Giorgio Napolitano](../people/giorgio-napolitano.md) — chair  
+  > Source: [[sources/wikipedia-filip-turek|Filip Turek]] · grade C
+- [[people/giorgio-napolitano|Giorgio Napolitano]] — chair  
   > "First elected to the Chamber of Deputies in 1953, he took an assiduous interest in parliamentary life and was president of the Chamber of Deputies from 1992 to 1994."
-  > Source: [Giorgio Napolitano](../sources/wikipedia-giorgio-napolitano.md) · grade A
-- [Giovanni Pittella](../people/giovanni-pittella.md)  
+  > Source: [[sources/wikipedia-giorgio-napolitano|Giorgio Napolitano]] · grade A
+- [[people/giovanni-pittella|Giovanni Pittella]]  
   > "He was a member of the Chamber of Deputies from 1996 to 1999."
-  > Source: [Giovanni Pittella](../sources/wikipedia-giovanni-pittella.md) · grade A
-- [Paolo Gentiloni](../people/paolo-gentiloni.md)  
+  > Source: [[sources/wikipedia-giovanni-pittella|Giovanni Pittella]] · grade A
+- [[people/paolo-gentiloni|Paolo Gentiloni]]  
   > "After a lengthy career in local politics, Gentiloni was elected to the Chamber of Deputies in 2001."
-  > Source: [Paolo Gentiloni](../sources/wikipedia-paolo-gentiloni.md) · grade B
-- [Viviane Reding](../people/viviane-reding.md)  
+  > Source: [[sources/wikipedia-paolo-gentiloni|Paolo Gentiloni]] · grade B
+- [[people/viviane-reding|Viviane Reding]]  
   > "Reding started her political career in 1979 as a Member of the Chamber of Deputies and held the following positions:"
-  > Source: [Viviane Reding](../sources/wikipedia-viviane-reding.md) · grade A
-- [Věra Jourová](../people/vera-jourova.md)  
+  > Source: [[sources/wikipedia-viviane-reding|Viviane Reding]] · grade A
+- [[people/vera-jourova|Věra Jourová]]  
   > "She served as a Member of the Chamber of Deputies between 2013 and 2014 and as the Czech Minister for Regional Development in 2014."
-  > Source: [Vera Jourova](../sources/wikipedia-vera-jourova.md) · grade A
+  > Source: [[sources/wikipedia-vera-jourova|Vera Jourova]] · grade A

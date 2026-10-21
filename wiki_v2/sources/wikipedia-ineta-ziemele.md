@@ -16,9 +16,9 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (3)
 
-- [Ineta Ziemele](../people/ineta-ziemele.md) — educated_at — Wolfson College
+- [[people/ineta-ziemele|Ineta Ziemele]] — educated_at — Wolfson College
   > "She went on to earn her doctoral degree from University of Cambridge at Wolfson College."
-- [Ineta Ziemele](../people/ineta-ziemele.md) — educated_at — University of Latvia, Faculty of Law
+- [[people/ineta-ziemele|Ineta Ziemele]] — educated_at — University of Latvia, Faculty of Law
   > "She graduated from the law faculty of the University of Latvia in 1993 and continued her studies in Sweden, where she earned a master's degree in International law."
-- [Ineta Ziemele](../people/ineta-ziemele.md) — held_position — Judge
+- [[people/ineta-ziemele|Ineta Ziemele]] — held_position — Judge
   > "Previously, she was a judge at the Constitutional Court of Latvia and its president from 2017 to 2020."

@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Stella Kyriakides](../people/stella-kyriakides.md) — chair  
+- [[people/stella-kyriakides|Stella Kyriakides]] — chair  
   > "In 2016, she was appointed President of the National Committee on Cancer Strategy of the Council."
-  > Source: [Stella Kyriakides](../sources/wikipedia-stella-kyriakides.md) · grade A
+  > Source: [[sources/wikipedia-stella-kyriakides|Stella Kyriakides]] · grade A

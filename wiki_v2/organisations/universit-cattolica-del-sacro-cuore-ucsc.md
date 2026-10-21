@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Mario Mauro](../people/mario-mauro.md)  
+- [[people/mario-mauro|Mario Mauro]]  
   > "He studied literature and philosophy at the Università Cattolica del Sacro Cuore (UCSC) in Milan and received a degree in 1985."
-  > Source: [Mario Mauro](../sources/wikipedia-mario-mauro.md) · grade C
+  > Source: [[sources/wikipedia-mario-mauro|Mario Mauro]] · grade C

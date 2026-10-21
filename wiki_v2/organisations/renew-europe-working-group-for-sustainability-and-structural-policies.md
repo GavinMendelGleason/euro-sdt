@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Fredrick Federley](../people/fredrick-federley.md) — chair  
+- [[people/fredrick-federley|Fredrick Federley]] — chair  
   > "&#91; 13 &#93; &#160; He has taken seats as ordinary member of the Committee on the Environment, Public Health and Food Safety (ENVI) and is a substitute member of the Committee on Agriculture and Rural Development (AGRI)."
-  > Source: [Fredrick Federley](../sources/wikipedia-fredrick-federley.md) · grade A
+  > Source: [[sources/wikipedia-fredrick-federley|Fredrick Federley]] · grade A

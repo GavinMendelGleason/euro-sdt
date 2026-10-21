@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Astrid Lulling](../people/astrid-lulling.md)  
+- [[people/astrid-lulling|Astrid Lulling]]  
   > "Secretary-General of the Unions of Agricultural Workers and of Food Industry Workers, at the European Community Trade Union Secretariat in Brussels (1963–1971)."
-  > Source: [Astrid Lulling](../sources/wikipedia-astrid-lulling.md) · grade B
+  > Source: [[sources/wikipedia-astrid-lulling|Astrid Lulling]] · grade B

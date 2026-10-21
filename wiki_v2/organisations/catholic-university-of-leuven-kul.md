@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Marianne Thyssen](../people/marianne-thyssen.md)  
+- [[people/marianne-thyssen|Marianne Thyssen]]  
   > "Early life Born in Sint-Gillis-Waas, to a Flemish family, not related to the family of Baron Thyssen, Thyssen graduated from the Catholic University of Leuven (KUL) in 1979, where she obtained a degree in law."
-  > Source: [Marianne Thyssen](../sources/wikipedia-marianne-thyssen.md) · grade A
+  > Source: [[sources/wikipedia-marianne-thyssen|Marianne Thyssen]] · grade A

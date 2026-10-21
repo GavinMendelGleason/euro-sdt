@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Nicolas Hieronimus](../people/nicolas-hieronimus.md) — board_member  
+- [[people/nicolas-hieronimus|Nicolas Hieronimus]] — board_member  
   > "&#91; 6 &#93; He was responsible for creating the International Brand Management of L'Oréal Paris and became International Managing Director of L'Oréal Paris."
-  > Source: [Nicolas Hieronimus](../sources/wikipedia-nicolas-hieronimus.md) · grade A
+  > Source: [[sources/wikipedia-nicolas-hieronimus|Nicolas Hieronimus]] · grade A

@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Astrid Lulling](../people/astrid-lulling.md)  
+- [[people/astrid-lulling|Astrid Lulling]]  
   > "Worked for the Miners and Metalworkers Contact Office with the ECSC , Luxembourg (1950–1958)."
-  > Source: [Astrid Lulling](../sources/wikipedia-astrid-lulling.md) · grade B
+  > Source: [[sources/wikipedia-astrid-lulling|Astrid Lulling]] · grade B

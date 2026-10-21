@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [José Manuel Barroso](../people/jose-manuel-barroso.md) — founder  
+- [[people/jose-manuel-barroso|José Manuel Barroso]] — founder  
   > "Barosso was also one of the founders of the Portuguese University Association for European Studies (AUROP) in 1979."
-  > Source: [Jose Manuel Barroso](../sources/wikipedia-jose-manuel-barroso.md) · grade C
+  > Source: [[sources/wikipedia-jose-manuel-barroso|Jose Manuel Barroso]] · grade C

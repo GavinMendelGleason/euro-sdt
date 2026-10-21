@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Marjeta Jager](../people/marjeta-jager.md)  
+- [[people/marjeta-jager|Marjeta Jager]]  
   > "Slovenian Academic qualifications:  1/10/1986 – 30/06/1991: Bachelor of Law + Bar exam (International Law) - University of Ljubljana - Faculty of Law"
-  > Source: [Marjeta Jager](../sources/dg_cv-marjeta-jager.md) · grade A
+  > Source: [[sources/dg_cv-marjeta-jager|Marjeta Jager]] · grade A

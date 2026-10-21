@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Andrey Kovatchev](../people/andrey-kovatchev.md) — chair  
+- [[people/andrey-kovatchev|Andrey Kovatchev]] — chair  
   > "In January 2012 he was elected vice-chair of AFET – Committee on Foreign Affairs of the European Parliament."
-  > Source: [Andrey Kovatchev](../sources/wikipedia-andrey-kovatchev.md) · grade A
+  > Source: [[sources/wikipedia-andrey-kovatchev|Andrey Kovatchev]] · grade A

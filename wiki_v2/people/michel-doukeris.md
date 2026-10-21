@@ -18,18 +18,18 @@ Corporate Elite
 
 ## Education
 
-- [Federal University of Santa Catarina](../organisations/federal-university-of-santa-catarina.md)  
+- [[organisations/federal-university-of-santa-catarina|Federal University of Santa Catarina]]  
   > "He earned a degree in chemical engineering from Federal University of Santa Catarina, and a master's degree from Fundação Getulio Vargas."
-  > Source: [Corp Michel Doukeris](../sources/wikipedia-corp-michel-doukeris.md) · grade A
+  > Source: [[sources/wikipedia-corp-michel-doukeris|Corp Michel Doukeris]] · grade A
 
-- [Fundação Getulio Vargas](../organisations/fundacao-getulio-vargas.md)  
+- [[organisations/fundacao-getulio-vargas|Fundação Getulio Vargas]]  
   > "He earned a degree in chemical engineering from Federal University of Santa Catarina, and a master's degree from Fundação Getulio Vargas."
-  > Source: [Corp Michel Doukeris](../sources/wikipedia-corp-michel-doukeris.md) · grade A
+  > Source: [[sources/wikipedia-corp-michel-doukeris|Corp Michel Doukeris]] · grade A
 
-- [Kellogg School of Management](../organisations/kellogg-school-of-management.md)  
+- [[organisations/kellogg-school-of-management|Kellogg School of Management]]  
   > "He attended postgraduate programmes at the Wharton School and Kellogg School of Management in the US."
-  > Source: [Corp Michel Doukeris](../sources/wikipedia-corp-michel-doukeris.md) · grade A
+  > Source: [[sources/wikipedia-corp-michel-doukeris|Corp Michel Doukeris]] · grade A
 
-- [Wharton School](../organisations/wharton-school.md)  
+- [[organisations/wharton-school|Wharton School]]  
   > "He attended postgraduate programmes at the Wharton School and Kellogg School of Management in the US."
-  > Source: [Corp Michel Doukeris](../sources/wikipedia-corp-michel-doukeris.md) · grade A
+  > Source: [[sources/wikipedia-corp-michel-doukeris|Corp Michel Doukeris]] · grade A

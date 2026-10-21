@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [António Vitorino](../people/antonio-vitorino.md) — board_member  
+- [[people/antonio-vitorino|António Vitorino]] — board_member  
   > "CTT Correios de Portugal, S.A., Member of the Board (until 2016)"
-  > Source: [Antonio Vitorino](../sources/wikipedia-antonio-vitorino.md) · grade A
+  > Source: [[sources/wikipedia-antonio-vitorino|Antonio Vitorino]] · grade A

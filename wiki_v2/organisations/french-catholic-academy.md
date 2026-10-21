@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Yvan Blot](../people/yvan-blot.md)  
+- [[people/yvan-blot|Yvan Blot]]  
   > "&#91; citation needed &#93; He was a member of the French Catholic Academy &#91; 12 &#93; and a consultant for the radio station \"Voice of Russia\" in Paris."
-  > Source: [Yvan Blot](../sources/wikipedia-yvan-blot.md) · grade A
+  > Source: [[sources/wikipedia-yvan-blot|Yvan Blot]] · grade A

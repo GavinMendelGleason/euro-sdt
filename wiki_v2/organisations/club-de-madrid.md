@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Romano Prodi](../people/romano-prodi.md)  
+- [[people/romano-prodi|Romano Prodi]]  
   > "Prodi is also a member of the Club de Madrid, an international organization of former democratic statesmen, which works to strengthen democratic governance and leadership."
-  > Source: [Romano Prodi](../sources/wikipedia-romano-prodi.md) · grade A
+  > Source: [[sources/wikipedia-romano-prodi|Romano Prodi]] · grade A

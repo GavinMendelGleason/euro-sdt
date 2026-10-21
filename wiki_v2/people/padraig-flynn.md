@@ -20,32 +20,32 @@ Commissioner · IRL
 
 - IRL  
   > "In 1993, he retired from domestic politics when he was appointed Ireland's European Commissioner."
-  > Source: [Padraig Flynn](../sources/wikipedia-padraig-flynn.md) · grade C
+  > Source: [[sources/wikipedia-padraig-flynn|Padraig Flynn]] · grade C
 
 ## Education
 
-- [St Patrick'S College Of Education](../organisations/st-patrick-s-college-of-education.md)  
+- [[organisations/st-patrick-s-college-of-education|St Patrick'S College Of Education]]  
   > "He was educated in St. Gerald's College, Castlebar and qualified as a primary school teacher from St Patrick's College of Education in Dublin."
-  > Source: [Padraig Flynn](../sources/wikipedia-padraig-flynn.md) · grade A
+  > Source: [[sources/wikipedia-padraig-flynn|Padraig Flynn]] · grade A
 
-- [St. Gerald'S College](../organisations/st-gerald-s-college.md)  
+- [[organisations/st-gerald-s-college|St. Gerald'S College]]  
   > "He was educated in St. Gerald's College, Castlebar and qualified as a primary school teacher from St Patrick's College of Education in Dublin."
-  > Source: [Padraig Flynn](../sources/wikipedia-padraig-flynn.md) · grade A
+  > Source: [[sources/wikipedia-padraig-flynn|Padraig Flynn]] · grade A
 
 ## Membership
 
-- [Comite d'Honneur of the Institute of International and European Affairs](../organisations/comite-d-honneur-of-the-institute-of-international-and-european-affairs.md)  
+- [[organisations/comite-d-honneur-of-the-institute-of-international-and-european-affairs|Comite d'Honneur of the Institute of International and European Affairs]]  
   > "He is a member of the Comite d'Honneur of the Institute of International and European Affairs."
-  > Source: [Padraig Flynn](../sources/wikipedia-padraig-flynn.md) · grade A
+  > Source: [[sources/wikipedia-padraig-flynn|Padraig Flynn]] · grade A
 
-- [Dáil Éireann](../organisations/dail-eireann.md)  
+- [[organisations/dail-eireann|Dáil Éireann]]  
   > "He served as a Teachta Dála (TD) for the Mayo West constituency from 1977 to 1994."
-  > Source: [Padraig Flynn](../sources/wikipedia-padraig-flynn.md) · grade C
+  > Source: [[sources/wikipedia-padraig-flynn|Padraig Flynn]] · grade C
 
-- [Fianna Fáil](../organisations/fianna-fail.md) — party_member  
+- [[organisations/fianna-fail|Fianna Fáil]] — party_member  
   > "On 26 March 2012, facing expulsion following the Mahon Tribunal, Flynn resigned in disgrace from Fianna Fáil before he could be ousted."
-  > Source: [Padraig Flynn](../sources/wikipedia-padraig-flynn.md) · grade B
+  > Source: [[sources/wikipedia-padraig-flynn|Padraig Flynn]] · grade B
 
-- [Mayo County Council](../organisations/mayo-county-council.md)  
+- [[organisations/mayo-county-council|Mayo County Council]]  
   > "He first held political office in 1967, when he became a member of Mayo County Council."
-  > Source: [Padraig Flynn](../sources/wikipedia-padraig-flynn.md) · grade A
+  > Source: [[sources/wikipedia-padraig-flynn|Padraig Flynn]] · grade A

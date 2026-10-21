@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Jan Jenisch](../people/jan-jenisch.md)  
+- [[people/jan-jenisch|Jan Jenisch]]  
   > "Prior to Holcim, he was the CEO of Sika AG."
-  > Source: [Corp Jan Jenisch](../sources/wikipedia-corp-jan-jenisch.md) · grade A
+  > Source: [[sources/wikipedia-corp-jan-jenisch|Corp Jan Jenisch]] · grade A

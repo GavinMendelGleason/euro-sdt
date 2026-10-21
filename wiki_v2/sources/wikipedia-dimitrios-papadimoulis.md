@@ -16,9 +16,9 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (3)
 
-- [Dimitrios Papadimoulis](../people/dimitrios-papadimoulis.md) — educated_at — varvakeio-junior-high-school-of-athens
+- [[people/dimitrios-papadimoulis|Dimitrios Papadimoulis]] — educated_at — varvakeio-junior-high-school-of-athens
   > "He attended the Varvakeio Junior High School of Athens and studied the School of Civil Engineering of the National Technical University of Athens ."
-- [Dimitrios Papadimoulis](../people/dimitrios-papadimoulis.md) — educated_at — National Technical University Of Athens
+- [[people/dimitrios-papadimoulis|Dimitrios Papadimoulis]] — educated_at — National Technical University Of Athens
   > "He attended the Varvakeio Junior High School of Athens and studied the School of Civil Engineering of the National Technical University of Athens ."
-- [Dimitrios Papadimoulis](../people/dimitrios-papadimoulis.md) — member — Greek Parliament
+- [[people/dimitrios-papadimoulis|Dimitrios Papadimoulis]] — member — Greek Parliament
   > "&#91; 1 &#93; From 2009 to 2014 he was a member of the Greek parliament ."

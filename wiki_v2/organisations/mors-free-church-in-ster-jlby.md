@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Hanne Dahl](../people/hanne-dahl.md)  
+- [[people/hanne-dahl|Hanne Dahl]]  
   > "The following year she became pastor of Morsø Free Church in Øster Jølby ."
-  > Source: [Hanne Dahl](../sources/wikipedia-hanne-dahl.md) · grade B
+  > Source: [[sources/wikipedia-hanne-dahl|Hanne Dahl]] · grade B

@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Connie Hedegaard](../people/connie-hedegaard.md)  
+- [[people/connie-hedegaard|Connie Hedegaard]]  
   > "In 2025, Hedegaard was appointed to the World Health Organization (WHO) Regional Office for Europe’s Pan-European Commission on Climate and Health (PECCH), chaired by Katrín Jakobsdóttir."
-  > Source: [Connie Hedegaard](../sources/wikipedia-connie-hedegaard.md) · grade B
+  > Source: [[sources/wikipedia-connie-hedegaard|Connie Hedegaard]] · grade B

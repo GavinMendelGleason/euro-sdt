@@ -18,16 +18,16 @@ Corporate Elite
 
 ## Education
 
-- [Universidad Pontificia Comillas - ICADE](../organisations/universidad-pontificia-comillas-icade.md)  
+- [[organisations/universidad-pontificia-comillas-icade|Universidad Pontificia Comillas - ICADE]]  
   > "== Biography == He holds a degree in Business Administration and Management from Universidad Pontificia Comillas - ICADE (Madrid), and an MBA (Master of Business Administration) from the University of Chicago (Graduate School of Business)."
-  > Source: [Corp Pedro Azagra](../sources/wikipedia-corp-pedro-azagra.md) · grade A
+  > Source: [[sources/wikipedia-corp-pedro-azagra|Corp Pedro Azagra]] · grade A
 
-- [University of Chicago](../organisations/university-of-chicago.md)  
+- [[organisations/university-of-chicago|University of Chicago]]  
   > "== Biography == He holds a degree in Business Administration and Management from Universidad Pontificia Comillas - ICADE (Madrid), and an MBA (Master of Business Administration) from the University of Chicago (Graduate School of Business)."
-  > Source: [Corp Pedro Azagra](../sources/wikipedia-corp-pedro-azagra.md) · grade A
+  > Source: [[sources/wikipedia-corp-pedro-azagra|Corp Pedro Azagra]] · grade A
 
 ## Employment
 
-- [Iberdrola](../organisations/iberdrola.md) — employed_by  
+- [[organisations/iberdrola|Iberdrola]] — employed_by  
   > "== Professional career == Pedro Azagra joined the Iberdrola Group in 1997 as Strategy Director."
-  > Source: [Corp Pedro Azagra](../sources/wikipedia-corp-pedro-azagra.md) · grade A
+  > Source: [[sources/wikipedia-corp-pedro-azagra|Corp Pedro Azagra]] · grade A

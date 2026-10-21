@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Catherine Ashton](../people/catherine-ashton.md) — chair  
+- [[people/catherine-ashton|Catherine Ashton]] — chair  
   > "She chaired the Health Authority in Hertfordshire from 1998 to 2001 and she became a vice-president of the National Council for One-Parent Families."
-  > Source: [Catherine Ashton](../sources/wikipedia-catherine-ashton.md) · grade A
+  > Source: [[sources/wikipedia-catherine-ashton|Catherine Ashton]] · grade A

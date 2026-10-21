@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Pál Schmitt](../people/pal-schmitt.md) — attendee  
+- [[people/pal-schmitt|Pál Schmitt]] — attendee  
   > "&#91; 12 &#93; Schmitt had been the deputy president of Fidesz and the speaker of the Hungarian Parliament."
-  > Source: [P L Schmitt](../sources/wikipedia-p-l-schmitt.md) · grade A
+  > Source: [[sources/wikipedia-p-l-schmitt|P L Schmitt]] · grade A

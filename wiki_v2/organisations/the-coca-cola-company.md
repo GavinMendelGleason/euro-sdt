@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Mario Monti](../people/mario-monti.md) — advisory_board  
+- [[people/mario-monti|Mario Monti]] — advisory_board  
   > "He has also been an international advisor to Goldman Sachs and The Coca-Cola Company."
-  > Source: [Mario Monti](../sources/wikipedia-mario-monti.md) · grade A
+  > Source: [[sources/wikipedia-mario-monti|Mario Monti]] · grade A

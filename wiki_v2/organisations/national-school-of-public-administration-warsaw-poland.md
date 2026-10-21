@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Patryk Jaki](../people/patryk-jaki.md)  
+- [[people/patryk-jaki|Patryk Jaki]]  
   > "He also completed the ARGO Top Public Executive program organized by the National School of Public Administration in collaboration with IESE Business School in Barcelona (2018), and training at Sam Houston State University in Huntsville, Texas ."
-  > Source: [Patryk Jaki](../sources/wikipedia-patryk-jaki.md) · grade C
+  > Source: [[sources/wikipedia-patryk-jaki|Patryk Jaki]] · grade C

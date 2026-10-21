@@ -20,4 +20,4 @@ Dg
 
 - Deputy Director-General → Directorate-General for Trade and Economic Security  
   > "Professional experience in the European Institutions  Since 16/04/2021 : Deputy Director-General in charge of Directorates D and E – Directorate-General Trade (DG TRADE)"
-  > Source: [Maria Martin Prat De Abreu](../sources/dg_cv-maria-martin-prat-de-abreu.md) · grade A
+  > Source: [[sources/dg_cv-maria-martin-prat-de-abreu|Maria Martin Prat De Abreu]] · grade A

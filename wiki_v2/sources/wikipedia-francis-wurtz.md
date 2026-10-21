@@ -16,9 +16,9 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (3)
 
-- [Francis Wurtz](../people/francis-wurtz.md) — chair — European United Left–Nordic Green Left
+- [[people/francis-wurtz|Francis Wurtz]] — chair — European United Left–Nordic Green Left
   > "Elected in the Île-de-France constituency on the French Communist Party (PCF) ticket, he sat with the European United Left - Nordic Green Left (GUE/NGL) group, and was its President ."
-- [Francis Wurtz](../people/francis-wurtz.md) — educated_at — university
+- [[people/francis-wurtz|Francis Wurtz]] — educated_at — university
   > "A university graduate in literature (philosophy), he worked for a time as a State school teacher."
-- [Francis Wurtz](../people/francis-wurtz.md) — member — French Communist Party
+- [[people/francis-wurtz|Francis Wurtz]] — member — French Communist Party
   > "Elected in the Île-de-France constituency on the French Communist Party (PCF) ticket, he sat with the European United Left - Nordic Green Left (GUE/NGL) group, and was its President ."

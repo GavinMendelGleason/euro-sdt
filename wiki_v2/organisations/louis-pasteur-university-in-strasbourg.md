@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Christophe Hansen](../people/christophe-hansen.md)  
+- [[people/christophe-hansen|Christophe Hansen]]  
   > "After finishing his secondary education at the Lycée du Nord in Wiltz (1995–2002), he went on to study at Louis Pasteur University in Strasbourg, where he completed a master's degree in Geosciences, Environmental Sciences and Risk Management."
-  > Source: [Christophe Hansen](../sources/wikipedia-christophe-hansen.md) · grade A
+  > Source: [[sources/wikipedia-christophe-hansen|Christophe Hansen]] · grade A

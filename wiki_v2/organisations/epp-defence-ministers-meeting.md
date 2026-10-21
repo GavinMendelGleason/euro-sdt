@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Ursula von der Leyen](../people/ursula-von-der-leyen.md) — chair  
+- [[people/ursula-von-der-leyen|Ursula von der Leyen]] — chair  
   > "In September 2016, von der Leyen chaired the EPP Defence Ministers Meeting, which gathers EPP defence ministers ahead of meetings of the Council of the European Union."
-  > Source: [Ursula Von Der Leyen](../sources/wikipedia-ursula-von-der-leyen.md) · grade C
+  > Source: [[sources/wikipedia-ursula-von-der-leyen|Ursula Von Der Leyen]] · grade C

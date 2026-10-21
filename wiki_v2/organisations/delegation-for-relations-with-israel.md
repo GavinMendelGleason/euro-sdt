@@ -15,9 +15,9 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Antonio Tajani](../people/antonio-tajani.md)  
+- [[people/antonio-tajani|Antonio Tajani]]  
   > "He was a substitute for the Committee on Civil Liberties, Justice and Home Affairs and a member of the Delegation for relations with Israel."
-  > Source: [Antonio Tajani](../sources/wikipedia-antonio-tajani.md) · grade A
-- [Christos Stylianides](../people/christos-stylianides.md)  
+  > Source: [[sources/wikipedia-antonio-tajani|Antonio Tajani]] · grade A
+- [[people/christos-stylianides|Christos Stylianides]]  
   > "He was also a member of the Delegation for relations with the US and Substitute Member of the Delegation for relations with Israel."
-  > Source: [Christos Stylianides](../sources/wikipedia-christos-stylianides.md) · grade A
+  > Source: [[sources/wikipedia-christos-stylianides|Christos Stylianides]] · grade A

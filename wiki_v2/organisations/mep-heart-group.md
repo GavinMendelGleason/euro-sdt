@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Mairead McGuinness](../people/mairead-mcguinness.md) — chair  
+- [[people/mairead-mcguinness|Mairead McGuinness]] — chair  
   > "Alongside Karin Kadenbach, she also co-chaired the MEP Heart Group, a group of parliamentarians who have an interest in promoting measures that will help reduce the burden of cardiovascular diseases (CVD)."
-  > Source: [Mairead Mcguinness](../sources/wikipedia-mairead-mcguinness.md) · grade C
+  > Source: [[sources/wikipedia-mairead-mcguinness|Mairead Mcguinness]] · grade C

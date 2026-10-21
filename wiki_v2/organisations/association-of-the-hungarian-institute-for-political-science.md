@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Tibor Navracsics](../people/tibor-navracsics.md) — chair  
+- [[people/tibor-navracsics|Tibor Navracsics]] — chair  
   > "1996– : Vice-President, Association of the Hungarian Institute for Political Science;"
-  > Source: [Tibor Navracsics](../sources/wikipedia-tibor-navracsics.md) · grade A
+  > Source: [[sources/wikipedia-tibor-navracsics|Tibor Navracsics]] · grade A

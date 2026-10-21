@@ -16,5 +16,5 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (1)
 
-- [John Elkann](../people/john-elkann.md) — educated_at — Polytechnic University of Turin
+- [[people/john-elkann|John Elkann]] — educated_at — Polytechnic University of Turin
   > "In 2000, after graduating in engineering from the Polytechnic University of Turin, he joined General Electric's Corporate Audit program."

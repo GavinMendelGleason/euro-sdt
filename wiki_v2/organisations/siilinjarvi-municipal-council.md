@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Jyrki Katainen](../people/jyrki-katainen.md)  
+- [[people/jyrki-katainen|Jyrki Katainen]]  
   > "He was a member of the Siilinjärvi municipal council in his first political position, in 1993."
-  > Source: [Jyrki Katainen](../sources/wikipedia-jyrki-katainen.md) · grade A
+  > Source: [[sources/wikipedia-jyrki-katainen|Jyrki Katainen]] · grade A

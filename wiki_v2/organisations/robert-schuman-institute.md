@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Mariya Gabriel](../people/mariya-gabriel.md) — chair  
+- [[people/mariya-gabriel|Mariya Gabriel]] — chair  
   > "Mariya Ivanova Gabriel (Bulgarian: Мария Иванова Габриел, née Nedelcheva, Bulgarian: Неделчева, born 20 May 1979) is a Bulgarian politician, president of the Robert Schuman Institute."
-  > Source: [Mariya Gabriel](../sources/wikipedia-mariya-gabriel.md) · grade A
+  > Source: [[sources/wikipedia-mariya-gabriel|Mariya Gabriel]] · grade A

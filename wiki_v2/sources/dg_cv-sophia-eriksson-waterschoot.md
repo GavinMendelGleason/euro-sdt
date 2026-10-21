@@ -15,7 +15,7 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (2)
 
-- [Sophia Eriksson Waterschoot](../people/sophia-eriksson-waterschoot.md) — educated_at — Catholique De Louvain (Ucl) – Louvain
+- [[people/sophia-eriksson-waterschoot|Sophia Eriksson Waterschoot]] — educated_at — Catholique De Louvain (Ucl) – Louvain
   > "Master en études interdisciplinaires européennes, Université Catholique de Louvain (UCL) – Louvain-la-Neuve, Belgium ➢ 1994 – 1995"
-- [Sophia Eriksson Waterschoot](../people/sophia-eriksson-waterschoot.md) — held_position — Deputy Director-General → Directorate-General for Communication
+- [[people/sophia-eriksson-waterschoot|Sophia Eriksson Waterschoot]] — held_position — Deputy Director-General → Directorate-General for Communication
   > "024: Deputy Director-General, DG Communication (COMM) – Brussels, Belgium ➢ Since 23 September"

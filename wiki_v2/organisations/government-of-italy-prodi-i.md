@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Giorgio Napolitano](../people/giorgio-napolitano.md)  
+- [[people/giorgio-napolitano|Giorgio Napolitano]]  
   > "He was Minister of the Interior from 1996 to 1998 during the first Prodi government."
-  > Source: [Giorgio Napolitano](../sources/wikipedia-giorgio-napolitano.md) · grade C
+  > Source: [[sources/wikipedia-giorgio-napolitano|Giorgio Napolitano]] · grade C

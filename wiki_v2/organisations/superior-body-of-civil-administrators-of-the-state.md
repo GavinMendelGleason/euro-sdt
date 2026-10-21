@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Teresa Ribera](../people/teresa-ribera.md)  
+- [[people/teresa-ribera|Teresa Ribera]]  
   > "Ribera belongs to the Superior Body of Civil Administrators of the State of which she has been a surplus official since 2012."
-  > Source: [Teresa Ribera](../sources/wikipedia-teresa-ribera.md) · grade B
+  > Source: [[sources/wikipedia-teresa-ribera|Teresa Ribera]] · grade B

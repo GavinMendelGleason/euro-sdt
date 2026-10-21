@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Glenn Micallef](../people/glenn-micallef.md) — chair  
+- [[people/glenn-micallef|Glenn Micallef]] — chair  
   > "As a student, he served as president of Pulse in 2010."
-  > Source: [Glenn Micallef](../sources/wikipedia-glenn-micallef.md) · grade A
+  > Source: [[sources/wikipedia-glenn-micallef|Glenn Micallef]] · grade A

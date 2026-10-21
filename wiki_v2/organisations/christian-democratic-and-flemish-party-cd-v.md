@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Marianne Thyssen](../people/marianne-thyssen.md) — party_member  
+- [[people/marianne-thyssen|Marianne Thyssen]] — party_member  
   > "Marianne Leonie Petrus Thyssen (Dutch pronunciation: [maːriˈjɑnə ˈtɛisə(n)]; born 24 July 1956) is a Belgian politician of the Christian Democratic and Flemish Party (CD&V) who served as European Commissioner for Employment, Social Affairs, Skills and Labour Mobility between 2014 and 2019."
-  > Source: [Marianne Thyssen](../sources/wikipedia-marianne-thyssen.md) · grade B
+  > Source: [[sources/wikipedia-marianne-thyssen|Marianne Thyssen]] · grade B

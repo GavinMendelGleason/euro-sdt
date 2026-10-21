@@ -15,7 +15,7 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (2)
 
-- [Agnieszka KAŹMIERCZAK](../people/agnieszka-kazmierczak.md) — educated_at — University of Warsaw
+- [[people/agnieszka-kazmierczak|Agnieszka KAŹMIERCZAK]] — educated_at — University of Warsaw
   > "➢ 2000 – 2002 Doctoral Studies in Management, University of Warsaw, Poland"
-- [Agnieszka KAŹMIERCZAK](../people/agnieszka-kazmierczak.md) — held_position — Director-General → Internal Audit Service
+- [[people/agnieszka-kazmierczak|Agnieszka KAŹMIERCZAK]] — held_position — Director-General → Internal Audit Service
   > "➢ 01/2007 – 05/2014: Director for Horizontal Affairs and Audit in Agencies (IAS)"

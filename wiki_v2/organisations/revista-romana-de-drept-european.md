@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Koen Lenaerts](../people/koen-lenaerts.md)  
+- [[people/koen-lenaerts|Koen Lenaerts]]  
   > "Tijdschrift voor Europees en economisch recht | Member of the editorial committee of actualidad administrativa | Member of the editorial committee of the European Law Review | Member of the honorary committee of Revista Română de Drept European | Member of the scientific committee of Cahiers de droit européen | Member of the scientific committee of Concurrences, Revue des droits de la concurrence"
-  > Source: [Koen Lenaerts](../sources/cjeu-koen-lenaerts.md) · grade A
+  > Source: [[sources/cjeu-koen-lenaerts|Koen Lenaerts]] · grade A

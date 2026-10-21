@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Charlie Weimers](../people/charlie-weimers.md)  
+- [[people/charlie-weimers|Charlie Weimers]]  
   > "In Sweden, he was a member of the Moderate Party until 1998 after which he joined the Christian Democrats and the Young Christian Democrats."
-  > Source: [Charlie Weimers](../sources/wikipedia-charlie-weimers.md) · grade A
+  > Source: [[sources/wikipedia-charlie-weimers|Charlie Weimers]] · grade A

@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Romano Prodi](../people/romano-prodi.md)  
+- [[people/romano-prodi|Romano Prodi]]  
   > "Following the victory of his new coalition, The Union, over the House of Freedoms led by Silvio Berlusconi, at the 2006 election, Prodi became prime minister a second time."
-  > Source: [Romano Prodi](../sources/wikipedia-romano-prodi.md) · grade B
+  > Source: [[sources/wikipedia-romano-prodi|Romano Prodi]] · grade B

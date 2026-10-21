@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Apostolos Tzitzikostas](../people/apostolos-tzitzikostas.md)  
+- [[people/apostolos-tzitzikostas|Apostolos Tzitzikostas]]  
   > "He represented the Hellenic Parliament in the Euro-Mediterranean Parliamentary Assembly from 2007 to 2009."
-  > Source: [Apostolos Tzitzikostas](../sources/wikipedia-apostolos-tzitzikostas.md) · grade B
+  > Source: [[sources/wikipedia-apostolos-tzitzikostas|Apostolos Tzitzikostas]] · grade B

@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Valdis Dombrovskis](../people/valdis-dombrovskis.md) — attendee  
+- [[people/valdis-dombrovskis|Valdis Dombrovskis]] — attendee  
   > "Then he was Observer at the Council of the European Union (2003–2004)."
-  > Source: [Valdis Dombrovskis](../sources/wikipedia-valdis-dombrovskis.md) · grade C
+  > Source: [[sources/wikipedia-valdis-dombrovskis|Valdis Dombrovskis]] · grade C

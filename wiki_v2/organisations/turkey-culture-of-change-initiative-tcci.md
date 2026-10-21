@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Günter Verheugen](../people/gunter-verheugen.md) — advisory_board  
+- [[people/gunter-verheugen|Günter Verheugen]] — advisory_board  
   > "Turkey: Culture of Change Initiative (TCCI), Member of the Advisory Board"
-  > Source: [Gunter Verheugen](../sources/wikipedia-gunter-verheugen.md) · grade A
+  > Source: [[sources/wikipedia-gunter-verheugen|Gunter Verheugen]] · grade A

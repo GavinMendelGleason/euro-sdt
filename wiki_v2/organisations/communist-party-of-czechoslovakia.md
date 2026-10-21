@@ -14,9 +14,9 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Maroš Šefčovič](../people/maros-sefcovic.md)  
+- [[people/maros-sefcovic|Maroš Šefčovič]]  
   > "In June 1987, Šefčovič became a candidate for membership of the Communist Party of Czechoslovakia."
-  > Source: [Maros Sefcovic](../sources/wikipedia-maros-sefcovic.md) · grade A
-- [Stefan Füle](../people/stefan-fule.md) — party_member  
+  > Source: [[sources/wikipedia-maros-sefcovic|Maros Sefcovic]] · grade A
+- [[people/stefan-fule|Stefan Füle]] — party_member  
   > "Party Communist Party of Czechoslovakia (1982–1989) Social Democratic Party (1989–present)"
-  > Source: [Stefan Fule](../sources/wikipedia-stefan-fule.md) · grade B
+  > Source: [[sources/wikipedia-stefan-fule|Stefan Fule]] · grade B

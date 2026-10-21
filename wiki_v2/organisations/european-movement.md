@@ -15,9 +15,9 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Pat Cox](../people/pat-cox.md) — chair  
+- [[people/pat-cox|Pat Cox]] — chair  
   > "In 2006, he was elected President of European Movement , an international pro-European lobby association."
-  > Source: [Pat Cox](../sources/wikipedia-pat-cox.md) · grade A
-- [Ursula von der Leyen](../people/ursula-von-der-leyen.md)  
+  > Source: [[sources/wikipedia-pat-cox|Pat Cox]] · grade A
+- [[people/ursula-von-der-leyen|Ursula von der Leyen]]  
   > "Von der Leyen is a member of the German branch of the European Movement."
-  > Source: [Ursula Von Der Leyen](../sources/wikipedia-ursula-von-der-leyen.md) · grade A
+  > Source: [[sources/wikipedia-ursula-von-der-leyen|Ursula Von Der Leyen]] · grade A

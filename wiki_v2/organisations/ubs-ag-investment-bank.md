@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Sir Leon Brittan](../people/sir-leon-brittan.md) — chair  
+- [[people/sir-leon-brittan|Sir Leon Brittan]] — chair  
   > "He was vice-chairman of UBS AG Investment Bank, non-executive director of Unilever and member of the international advisory committee for Total."
-  > Source: [Sir Leon Brittan](../sources/wikipedia-sir-leon-brittan.md) · grade A
+  > Source: [[sources/wikipedia-sir-leon-brittan|Sir Leon Brittan]] · grade A

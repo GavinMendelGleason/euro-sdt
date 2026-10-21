@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Apostolos Tzitzikostas](../people/apostolos-tzitzikostas.md)  
+- [[people/apostolos-tzitzikostas|Apostolos Tzitzikostas]]  
   > "Additionally, he was a member of the Special Standing Committee on European Community Affairs and the Special Committee for the Reform Treaty of the European Union."
-  > Source: [Apostolos Tzitzikostas](../sources/wikipedia-apostolos-tzitzikostas.md) · grade A
+  > Source: [[sources/wikipedia-apostolos-tzitzikostas|Apostolos Tzitzikostas]] · grade A

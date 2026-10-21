@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Ilkka Salmi](../people/ilkka-salmi.md)  
+- [[people/ilkka-salmi|Ilkka Salmi]]  
   > "Finnish Academic qualifications ➢ 06/1993: Master in International and Comparative Law (LL.M), Vrije Universiteit Brussel - Brussels, Belgium ➢ 06/1992: Master of Laws, University of Turku – Turku, Finland"
-  > Source: [Ilkka Salmi](../sources/dg_cv-ilkka-salmi.md) · grade A
+  > Source: [[sources/dg_cv-ilkka-salmi|Ilkka Salmi]] · grade A

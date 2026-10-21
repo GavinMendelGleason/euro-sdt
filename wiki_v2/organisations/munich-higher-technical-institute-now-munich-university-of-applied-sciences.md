@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Manfred Weber](../people/manfred-weber.md)  
+- [[people/manfred-weber|Manfred Weber]]  
   > "&#91; 7 &#93; Education and early career [ edit ] 1996: engineer, Munich Higher Technical Institute (now Munich University of Applied Sciences) 1996–2014: Founded own consultancy firm (self-employed) 2002–2004: Member of the Bavarian Parliament (Other) &#91; 8 &#93; Political career [ edit ] Career in state politics [ edit ] From 2002–2014, Weber was a member of the Kelheim District Council."
-  > Source: [Manfred Weber](../sources/wikipedia-manfred-weber.md) · grade C
+  > Source: [[sources/wikipedia-manfred-weber|Manfred Weber]] · grade C

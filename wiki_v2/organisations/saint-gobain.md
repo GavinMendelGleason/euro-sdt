@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Paolo Scaroni](../people/paolo-scaroni.md) — chair  
+- [[people/paolo-scaroni|Paolo Scaroni]] — chair  
   > "In 1973, he joined Saint-Gobain , where he held different positions, culminating with his appointment as president of flat glass division."
-  > Source: [Paolo Scaroni](../sources/wikipedia-paolo-scaroni.md) · grade A
+  > Source: [[sources/wikipedia-paolo-scaroni|Paolo Scaroni]] · grade A

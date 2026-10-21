@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [László Andor](../people/laszlo-andor.md) — board_member  
+- [[people/laszlo-andor|László Andor]] — board_member  
   > "Since 2003, he has been a member of the board of the Economic Section of the Hungarian Socialist Party."
-  > Source: [Laszlo Andor](../sources/wikipedia-laszlo-andor.md) · grade C
+  > Source: [[sources/wikipedia-laszlo-andor|Laszlo Andor]] · grade C

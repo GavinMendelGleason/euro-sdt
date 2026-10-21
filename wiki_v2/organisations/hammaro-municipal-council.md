@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Charlie Weimers](../people/charlie-weimers.md)  
+- [[people/charlie-weimers|Charlie Weimers]]  
   > "Weimers was elected to the Hammarö Municipal Council in 2002."
-  > Source: [Charlie Weimers](../sources/wikipedia-charlie-weimers.md) · grade B
+  > Source: [[sources/wikipedia-charlie-weimers|Charlie Weimers]] · grade B

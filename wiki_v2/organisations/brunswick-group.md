@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Pascal Lamy](../people/pascal-lamy.md) — employed_by  
+- [[people/pascal-lamy|Pascal Lamy]] — employed_by  
   > "In 2019, he joined Brunswick Group as its president for European operations."
-  > Source: [Pascal Lamy](../sources/wikipedia-pascal-lamy.md) · grade C
+  > Source: [[sources/wikipedia-pascal-lamy|Pascal Lamy]] · grade C

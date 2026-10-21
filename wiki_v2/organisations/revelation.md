@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [David Byrne](../people/david-byrne.md)  
+- [[people/david-byrne|David Byrne]]  
   > "Career Early career: 1971–1974 Byrne started his musical career in a high school band called Revelation."
-  > Source: [David Byrne](../sources/wikipedia-david-byrne.md) · grade B
+  > Source: [[sources/wikipedia-david-byrne|David Byrne]] · grade B

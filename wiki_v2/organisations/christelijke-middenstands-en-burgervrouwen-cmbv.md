@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Marianne Thyssen](../people/marianne-thyssen.md) — employed_by  
+- [[people/marianne-thyssen|Marianne Thyssen]] — employed_by  
   > "She worked as a legal adviser for a Belgian organisation for the self-employed and small and medium-sized businesses UNIZO and the women's network Christelijke Middenstands- en Burgervrouwen (CMBV) now Markant, becoming Director then acting Secretary-General at UNIZO in 1991."
-  > Source: [Marianne Thyssen](../sources/wikipedia-marianne-thyssen.md) · grade A
+  > Source: [[sources/wikipedia-marianne-thyssen|Marianne Thyssen]] · grade A

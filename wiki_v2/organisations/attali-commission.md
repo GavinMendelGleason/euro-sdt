@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Mario Monti](../people/mario-monti.md)  
+- [[people/mario-monti|Mario Monti]]  
   > "He was also a member of the French government's Attali Commission from 2007 to 2008, appointed by Nicolas Sarkozy to provide recommendations to enhance economic growth in France."
-  > Source: [Mario Monti](../sources/wikipedia-mario-monti.md) · grade A
+  > Source: [[sources/wikipedia-mario-monti|Mario Monti]] · grade A

@@ -18,6 +18,6 @@ Corporate Elite
 
 ## Education
 
-- [Goettingen University](../organisations/goettingen-university.md)  
+- [[organisations/goettingen-university|Goettingen University]]  
   > "&#91; 2 &#93; Instead, he earned his degree from Goettingen University, where he studied law and philosophy."
-  > Source: [Michael Diekmann](../sources/wikipedia-michael-diekmann.md) · grade A
+  > Source: [[sources/wikipedia-michael-diekmann|Michael Diekmann]] · grade A

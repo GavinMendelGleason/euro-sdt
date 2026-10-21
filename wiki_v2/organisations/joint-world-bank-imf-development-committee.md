@@ -14,9 +14,9 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Jutta Urpilainen](../people/jutta-urpilainen.md)  
+- [[people/jutta-urpilainen|Jutta Urpilainen]]  
   > "Joint World Bank-IMF Development Committee, Member (2013–2014)"
-  > Source: [Jutta Urpilainen](../sources/wikipedia-jutta-urpilainen.md) · grade A
-- [Wopke Hoekstra](../people/wopke-hoekstra.md)  
+  > Source: [[sources/wikipedia-jutta-urpilainen|Jutta Urpilainen]] · grade A
+- [[people/wopke-hoekstra|Wopke Hoekstra]]  
   > "Joint World Bank-IMF Development Committee, Member"
-  > Source: [Wopke Hoekstra](../sources/wikipedia-wopke-hoekstra.md) · grade A
+  > Source: [[sources/wikipedia-wopke-hoekstra|Wopke Hoekstra]] · grade A

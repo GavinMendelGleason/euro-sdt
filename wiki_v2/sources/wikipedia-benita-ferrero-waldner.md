@@ -16,37 +16,37 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (17)
 
-- [Benita Ferrero-Waldner](../people/benita-ferrero-waldner.md) — advisory_board — European Institute of the Mediterranean (IEMed)
+- [[people/benita-ferrero-waldner|Benita Ferrero-Waldner]] — advisory_board — European Institute of the Mediterranean (IEMed)
   > "Since leaving politics, she has held a variety of paid and unpaid positions, including the following: Munich Re, member of the supervisory board (2010–2021) United Nations Voluntary Trust Fund for Victims of Trafficking in Persons, President of the Board of Trustees (2017–2020) European Institute of the Mediterranean (IEMed), Member of the Advisory Council Graduate School for Global and Internatio […]"
-- [Benita Ferrero-Waldner](../people/benita-ferrero-waldner.md) — advisory_board — Graduate School for Global and International Studies, University of Salamanca
+- [[people/benita-ferrero-waldner|Benita Ferrero-Waldner]] — advisory_board — Graduate School for Global and International Studies, University of Salamanca
   > "Since leaving politics, she has held a variety of paid and unpaid positions, including the following: Munich Re, member of the supervisory board (2010–2021) United Nations Voluntary Trust Fund for Victims of Trafficking in Persons, President of the Board of Trustees (2017–2020) European Institute of the Mediterranean (IEMed), Member of the Advisory Council Graduate School for Global and Internatio […]"
-- [Benita Ferrero-Waldner](../people/benita-ferrero-waldner.md) — advisory_board — European Institute of the Mediterranean (IEMed)
+- [[people/benita-ferrero-waldner|Benita Ferrero-Waldner]] — advisory_board — European Institute of the Mediterranean (IEMed)
   > "Since leaving politics, she has held a variety of paid and unpaid positions, including the following: Munich Re, member of the supervisory board (2010–2021) United Nations Voluntary Trust Fund for Victims of Trafficking in Persons, President of the Board of Trustees (2017–2020) European Institute of the Mediterranean (IEMed), Member of the Advisory Council Graduate School for Global and Internatio […]"
-- [Benita Ferrero-Waldner](../people/benita-ferrero-waldner.md) — advisory_board — Graduate School for Global and International Studies, University of Salamanca
+- [[people/benita-ferrero-waldner|Benita Ferrero-Waldner]] — advisory_board — Graduate School for Global and International Studies, University of Salamanca
   > "Since leaving politics, she has held a variety of paid and unpaid positions, including the following: Munich Re, member of the supervisory board (2010–2021) United Nations Voluntary Trust Fund for Victims of Trafficking in Persons, President of the Board of Trustees (2017–2020) European Institute of the Mediterranean (IEMed), Member of the Advisory Council Graduate School for Global and Internatio […]"
-- [Benita Ferrero-Waldner](../people/benita-ferrero-waldner.md) — advisory_board — European Institute of the Mediterranean (IEMed)
+- [[people/benita-ferrero-waldner|Benita Ferrero-Waldner]] — advisory_board — European Institute of the Mediterranean (IEMed)
   > "European Institute of the Mediterranean (IEMed), Member of the Advisory Council"
-- [Benita Ferrero-Waldner](../people/benita-ferrero-waldner.md) — board_member — Munich Re
+- [[people/benita-ferrero-waldner|Benita Ferrero-Waldner]] — board_member — Munich Re
   > "Since leaving politics, she has held a variety of paid and unpaid positions, including the following: Munich Re, member of the supervisory board (2010–2021) United Nations Voluntary Trust Fund for Victims of Trafficking in Persons, President of the Board of Trustees (2017–2020) European Institute of the Mediterranean (IEMed), Member of the Advisory Council Graduate School for Global and Internatio […]"
-- [Benita Ferrero-Waldner](../people/benita-ferrero-waldner.md) — board_member — Munich Re
+- [[people/benita-ferrero-waldner|Benita Ferrero-Waldner]] — board_member — Munich Re
   > "Since leaving politics, she has held a variety of paid and unpaid positions, including the following: Munich Re, member of the supervisory board (2010–2021) United Nations Voluntary Trust Fund for Victims of Trafficking in Persons, President of the Board of Trustees (2017–2020) European Institute of the Mediterranean (IEMed), Member of the Advisory Council Graduate School for Global and Internatio […]"
-- [Benita Ferrero-Waldner](../people/benita-ferrero-waldner.md) — board_member — Munich Re
+- [[people/benita-ferrero-waldner|Benita Ferrero-Waldner]] — board_member — Munich Re
   > "Munich Re, member of the supervisory board (2010–2021)"
-- [Benita Ferrero-Waldner](../people/benita-ferrero-waldner.md) — chair — United Nations Voluntary Trust Fund for Victims of Trafficking in Persons
+- [[people/benita-ferrero-waldner|Benita Ferrero-Waldner]] — chair — United Nations Voluntary Trust Fund for Victims of Trafficking in Persons
   > "United Nations Voluntary Trust Fund for Victims of Trafficking in Persons, President of the Board of Trustees (2017–2020)"
-- [Benita Ferrero-Waldner](../people/benita-ferrero-waldner.md) — educated_at — University Of Salzburg
+- [[people/benita-ferrero-waldner|Benita Ferrero-Waldner]] — educated_at — University Of Salzburg
   > "receiving a doctorate from the University of Salzburg in 1970."
-- [Benita Ferrero-Waldner](../people/benita-ferrero-waldner.md) — employed_by — European Commission
+- [[people/benita-ferrero-waldner|Benita Ferrero-Waldner]] — employed_by — European Commission
   > "She served as the European Commissioner for External Relations and European Neighbourhood Policy from 2004 to 2009, and as the European Commissioner for Trade and European Neighbourhood Policy from 2009 to 2010."
-- [Benita Ferrero-Waldner](../people/benita-ferrero-waldner.md) — from_country — Austria
+- [[people/benita-ferrero-waldner|Benita Ferrero-Waldner]] — from_country — Austria
   > "Benita Ferrero-Waldner (born 5 September 1948) is an Austrian diplomat and politician, and a member of the conservative Austrian People's Party (ÖVP)."
-- [Benita Ferrero-Waldner](../people/benita-ferrero-waldner.md) — held_portfolio — External Relations and European Neighbourhood Policy
+- [[people/benita-ferrero-waldner|Benita Ferrero-Waldner]] — held_portfolio — External Relations and European Neighbourhood Policy
   > "She served as the European Commissioner for External Relations and European Neighbourhood Policy from 2004 to 2009, and as the European Commissioner for Trade and European Neighbourhood Policy from 20"
-- [Benita Ferrero-Waldner](../people/benita-ferrero-waldner.md) — member — Nizami Ganjavi International Center
+- [[people/benita-ferrero-waldner|Benita Ferrero-Waldner]] — member — Nizami Ganjavi International Center
   > "Since leaving politics, she has held a variety of paid and unpaid positions, including the following: Munich Re, member of the supervisory board (2010–2021) United Nations Voluntary Trust Fund for Victims of Trafficking in Persons, President of the Board of Trustees (2017–2020) European Institute of the Mediterranean (IEMed), Member of the Advisory Council Graduate School for Global and Internatio […]"
-- [Benita Ferrero-Waldner](../people/benita-ferrero-waldner.md) — member — Nizami Ganjavi International Center
+- [[people/benita-ferrero-waldner|Benita Ferrero-Waldner]] — member — Nizami Ganjavi International Center
   > "Since leaving politics, she has held a variety of paid and unpaid positions, including the following: Munich Re, member of the supervisory board (2010–2021) United Nations Voluntary Trust Fund for Victims of Trafficking in Persons, President of the Board of Trustees (2017–2020) European Institute of the Mediterranean (IEMed), Member of the Advisory Council Graduate School for Global and Internatio […]"
-- [Benita Ferrero-Waldner](../people/benita-ferrero-waldner.md) — member — Austrian People's Party (ÖVP)
+- [[people/benita-ferrero-waldner|Benita Ferrero-Waldner]] — member — Austrian People's Party (ÖVP)
   > "Benita Ferrero-Waldner (born 5 September 1948) is an Austrian diplomat and politician, and a member of the conservative Austrian People's Party (ÖVP)."
-- [Benita Ferrero-Waldner](../people/benita-ferrero-waldner.md) — member — Nizami Ganjavi International Center
+- [[people/benita-ferrero-waldner|Benita Ferrero-Waldner]] — member — Nizami Ganjavi International Center
   > "Member of the Nizami Ganjavi International Center"

@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Paolo Gentiloni](../people/paolo-gentiloni.md)  
+- [[people/paolo-gentiloni|Paolo Gentiloni]]  
   > "Gentiloni was born in Rome in 1954, during his childhood he attended a Montessori institute, where he became a friend of Agnese Moro, the daughter of Aldo Moro, a Christian democratic leader and Prime Minister."
-  > Source: [Paolo Gentiloni](../sources/wikipedia-paolo-gentiloni.md) · grade A
+  > Source: [[sources/wikipedia-paolo-gentiloni|Paolo Gentiloni]] · grade A

@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Herald Ruijters](../people/herald-ruijters.md)  
+- [[people/herald-ruijters|Herald Ruijters]]  
   > "Dutch Academic qualifications ➢ 1998 – 1999: “Postgraduaat Bedrijfskunde”, Katholieke Universiteit - Leuven, Belgium ➢ 1990 – 1991: European Law, Centre européen Universitaire – Nancy, France ➢ 1987 – 1991: Master European Studies, Universiteit van Amsterdam – Amsterdam, the Netherlands ➢ 1984 -1990: Master French and Mediterranean Studies, Katholieke Universiteit Nijmegen – Nijmegen, the Netherla […]"
-  > Source: [Herald Ruijters](../sources/dg_cv-herald-ruijters.md) · grade B
+  > Source: [[sources/dg_cv-herald-ruijters|Herald Ruijters]] · grade B

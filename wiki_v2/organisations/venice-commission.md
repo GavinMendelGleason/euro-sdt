@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Stella Kyriakides](../people/stella-kyriakides.md)  
+- [[people/stella-kyriakides|Stella Kyriakides]]  
   > "From 2018 until 2019, she served as the PACE representative to the Venice Commission."
-  > Source: [Stella Kyriakides](../sources/wikipedia-stella-kyriakides.md) · grade B
+  > Source: [[sources/wikipedia-stella-kyriakides|Stella Kyriakides]] · grade B

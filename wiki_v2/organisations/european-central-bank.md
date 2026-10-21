@@ -15,12 +15,12 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Erkki Liikanen](../people/erkki-liikanen.md)  
+- [[people/erkki-liikanen|Erkki Liikanen]]  
   > "European Central Bank (ECB), Member of the Ethics Committee (since 2018)"
-  > Source: [Erkki Liikanen](../sources/wikipedia-erkki-liikanen.md) · grade A
-- [Olli Rehn](../people/olli-rehn.md)  
+  > Source: [[sources/wikipedia-erkki-liikanen|Erkki Liikanen]] · grade A
+- [[people/olli-rehn|Olli Rehn]]  
   > "European Central Bank (ECB), ex officio member of the governing council"
-  > Source: [Olli Rehn](../sources/wikipedia-olli-rehn.md) · grade A
-- [Pier Carlo Padoan](../people/pier-carlo-padoan.md)  
+  > Source: [[sources/wikipedia-olli-rehn|Olli Rehn]] · grade A
+- [[people/pier-carlo-padoan|Pier Carlo Padoan]]  
   > "He is a consultant to the World Bank , European Commission and European Central Bank , where he has called for aggressive easing."
-  > Source: [Pier Carlo Padoan](../sources/wikipedia-pier-carlo-padoan.md) · grade B
+  > Source: [[sources/wikipedia-pier-carlo-padoan|Pier Carlo Padoan]] · grade B

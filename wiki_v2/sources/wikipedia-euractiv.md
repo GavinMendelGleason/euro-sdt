@@ -16,5 +16,5 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (1)
 
-- [EURACTIV](../people/euractiv.md) — affiliated_with — Mediahuis
+- [[people/euractiv|EURACTIV]] — affiliated_with — Mediahuis
   > "&#91; 2 &#93; In May 2023, Euractiv was acquired by Belgian media company Mediahuis in what became the company's first international media platform acquisition."

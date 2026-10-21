@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Leopoldo Rubinacci](../people/leopoldo-rubinacci.md)  
+- [[people/leopoldo-rubinacci|Leopoldo Rubinacci]]  
   > "Italian Academic qualifications ➢ 09/1985 – 06/1991 : Ingénieur Commercial, Ecole de commerce Solvay, Université Libre de Bruxelles, Belgium"
-  > Source: [Leopoldo Rubinacci](../sources/dg_cv-leopoldo-rubinacci.md) · grade B
+  > Source: [[sources/dg_cv-leopoldo-rubinacci|Leopoldo Rubinacci]] · grade B

@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [António Vitorino](../people/antonio-vitorino.md) — advisory_board  
+- [[people/antonio-vitorino|António Vitorino]] — advisory_board  
   > "International Migration Initiative, chairman of the Advisory Board"
-  > Source: [Antonio Vitorino](../sources/wikipedia-antonio-vitorino.md) · grade A
+  > Source: [[sources/wikipedia-antonio-vitorino|Antonio Vitorino]] · grade A

@@ -24,42 +24,42 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [António Vitorino](../people/antonio-vitorino.md)  
+- [[people/antonio-vitorino|António Vitorino]]  
   > "European Council on Foreign Relations (ECFR), Member of the Strategy Group of the Foreign Policy Scorecard"
-  > Source: [Antonio Vitorino](../sources/wikipedia-antonio-vitorino.md) · grade A
-- [Carlos Moedas](../people/carlos-moedas.md)  
+  > Source: [[sources/wikipedia-antonio-vitorino|Antonio Vitorino]] · grade A
+- [[people/carlos-moedas|Carlos Moedas]]  
   > "European Council on Foreign Relations (ECFR), Member (since 2021)"
-  > Source: [Carlos Moedas](../sources/wikipedia-carlos-moedas.md) · grade A
-- [Cecilia Malmström](../people/cecilia-malmstrom.md)  
+  > Source: [[sources/wikipedia-carlos-moedas|Carlos Moedas]] · grade A
+- [[people/cecilia-malmstrom|Cecilia Malmström]]  
   > "European Council on Foreign Relations (ECFR), Member"
-  > Source: [Cecilia Malmstrom](../sources/wikipedia-cecilia-malmstrom.md) · grade A
-- [Christos Stylianides](../people/christos-stylianides.md)  
+  > Source: [[sources/wikipedia-cecilia-malmstrom|Cecilia Malmstrom]] · grade A
+- [[people/christos-stylianides|Christos Stylianides]]  
   > "Council Member of the European Council on Foreign Relations (ECFR)."
-  > Source: [Christos Stylianides](../sources/wikipedia-christos-stylianides.md) · grade A
-- [Connie Hedegaard](../people/connie-hedegaard.md)  
+  > Source: [[sources/wikipedia-christos-stylianides|Christos Stylianides]] · grade A
+- [[people/connie-hedegaard|Connie Hedegaard]]  
   > "European Council on Foreign Relations (ECFR), Member"
-  > Source: [Connie Hedegaard](../sources/wikipedia-connie-hedegaard.md) · grade A
-- [Gabrielius Landsbergis](../people/gabrielius-landsbergis.md)  
+  > Source: [[sources/wikipedia-connie-hedegaard|Connie Hedegaard]] · grade A
+- [[people/gabrielius-landsbergis|Gabrielius Landsbergis]]  
   > "&#91; 4 &#93; Landsbergis is a member of the European Council on Foreign Relations , a think tank."
-  > Source: [Gabrielius Landsbergis](../sources/wikipedia-gabrielius-landsbergis.md) · grade C
-- [Joaquín Almunia](../people/joaquin-almunia.md)  
+  > Source: [[sources/wikipedia-gabrielius-landsbergis|Gabrielius Landsbergis]] · grade C
+- [[people/joaquin-almunia|Joaquín Almunia]]  
   > "European Council on Foreign Relations (ECFR), Member"
-  > Source: [Joaquin Almunia](../sources/wikipedia-joaquin-almunia.md) · grade A
-- [Jutta Urpilainen](../people/jutta-urpilainen.md)  
+  > Source: [[sources/wikipedia-joaquin-almunia|Joaquin Almunia]] · grade A
+- [[people/jutta-urpilainen|Jutta Urpilainen]]  
   > "European Council on Foreign Relations (ECFR), Member of the Council (since 2023)"
-  > Source: [Jutta Urpilainen](../sources/wikipedia-jutta-urpilainen.md) · grade A
-- [Kristalina Georgieva](../people/kristalina-georgieva.md)  
+  > Source: [[sources/wikipedia-jutta-urpilainen|Jutta Urpilainen]] · grade A
+- [[people/kristalina-georgieva|Kristalina Georgieva]]  
   > "European Council on Foreign Relations (ECFR), member of the council"
-  > Source: [Kristalina Georgieva](../sources/wikipedia-kristalina-georgieva.md) · grade A
-- [Margot Wallström](../people/margot-wallstrom.md)  
+  > Source: [[sources/wikipedia-kristalina-georgieva|Kristalina Georgieva]] · grade A
+- [[people/margot-wallstrom|Margot Wallström]]  
   > "European Council on Foreign Relations (ECFR), Member"
-  > Source: [Margot Wallstrom](../sources/wikipedia-margot-wallstrom.md) · grade A
-- [Maria Damanaki](../people/maria-damanaki.md)  
+  > Source: [[sources/wikipedia-margot-wallstrom|Margot Wallstrom]] · grade A
+- [[people/maria-damanaki|Maria Damanaki]]  
   > "European Council on Foreign Relations (ECFR), Member"
-  > Source: [Maria Damanaki](../sources/wikipedia-maria-damanaki.md) · grade A
-- [Meglena Kuneva](../people/meglena-kuneva.md)  
+  > Source: [[sources/wikipedia-maria-damanaki|Maria Damanaki]] · grade A
+- [[people/meglena-kuneva|Meglena Kuneva]]  
   > "European Council on Foreign Relations (ECFR), Member"
-  > Source: [Meglena Kuneva](../sources/wikipedia-meglena-kuneva.md) · grade A
-- [Pascal Lamy](../people/pascal-lamy.md)  
+  > Source: [[sources/wikipedia-meglena-kuneva|Meglena Kuneva]] · grade A
+- [[people/pascal-lamy|Pascal Lamy]]  
   > "European Council on Foreign Relations (ECFR), Member"
-  > Source: [Pascal Lamy](../sources/wikipedia-pascal-lamy.md) · grade A
+  > Source: [[sources/wikipedia-pascal-lamy|Pascal Lamy]] · grade A

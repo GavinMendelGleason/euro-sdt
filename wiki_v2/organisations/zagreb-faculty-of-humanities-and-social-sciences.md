@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Dubravka Šuica](../people/dubravka-suica.md)  
+- [[people/dubravka-suica|Dubravka Šuica]]  
   > "She graduated from the Zagreb Faculty of Humanities and Social Sciences in 1981, majoring in English and literature and German language."
-  > Source: [Dubravka Suica](../sources/wikipedia-dubravka-suica.md) · grade B
+  > Source: [[sources/wikipedia-dubravka-suica|Dubravka Suica]] · grade B

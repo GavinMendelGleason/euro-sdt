@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Cecilia Malmström](../people/cecilia-malmstrom.md) — founder  
+- [[people/cecilia-malmstrom|Cecilia Malmström]] — founder  
   > "In September 2011, Malmström officially launched the Radicalisation Awareness Network (R.A.N.), a project aimed at tackling terrorism and violent extremism through preventive measures, rather than through confrontation."
-  > Source: [Cecilia Malmstrom](../sources/wikipedia-cecilia-malmstrom.md) · grade C
+  > Source: [[sources/wikipedia-cecilia-malmstrom|Cecilia Malmstrom]] · grade C

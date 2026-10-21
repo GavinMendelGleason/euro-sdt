@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Monica Frassoni](../people/monica-frassoni.md) — founder  
+- [[people/monica-frassoni|Monica Frassoni]] — founder  
   > "In 2010, Frassoni co-founded and leads the European Alliance to Save Energy a multi-stakeholder, business-led organisation which aims to promote and advocate energy savings and a new energy model."
-  > Source: [Monica Frassoni](../sources/wikipedia-monica-frassoni.md) · grade A
+  > Source: [[sources/wikipedia-monica-frassoni|Monica Frassoni]] · grade A

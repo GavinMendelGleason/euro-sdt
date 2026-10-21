@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [António Vitorino](../people/antonio-vitorino.md) — board_member  
+- [[people/antonio-vitorino|António Vitorino]] — board_member  
   > "Banco Santander Totta, Chairman of the Shareholders Meeting (2005-2016), Member of the Board of Directors"
-  > Source: [Antonio Vitorino](../sources/wikipedia-antonio-vitorino.md) · grade A
+  > Source: [[sources/wikipedia-antonio-vitorino|Antonio Vitorino]] · grade A

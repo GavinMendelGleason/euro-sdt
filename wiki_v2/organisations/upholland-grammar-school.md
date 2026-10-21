@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Catherine Ashton](../people/catherine-ashton.md)  
+- [[people/catherine-ashton|Catherine Ashton]]  
   > "Ashton attended Upholland Grammar School in Billinge Higher End, Lancashire, then Wigan Mining and Technical College, Wigan."
-  > Source: [Catherine Ashton](../sources/wikipedia-catherine-ashton.md) · grade A
+  > Source: [[sources/wikipedia-catherine-ashton|Catherine Ashton]] · grade A

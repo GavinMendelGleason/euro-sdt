@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Catherine Ashton](../people/catherine-ashton.md) — employed_by  
+- [[people/catherine-ashton|Catherine Ashton]] — employed_by  
   > "In 2002 she became Minister responsible for Sure Start in the same department, and in September 2004 she was appointed Parliamentary Under-Secretary in the Department for Constitutional Affairs, with responsibilities including the National Archives and the Public Guardianship Office."
-  > Source: [Catherine Ashton](../sources/wikipedia-catherine-ashton.md) · grade C
+  > Source: [[sources/wikipedia-catherine-ashton|Catherine Ashton]] · grade C

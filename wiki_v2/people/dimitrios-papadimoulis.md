@@ -18,16 +18,16 @@ Mep
 
 ## Education
 
-- [National Technical University Of Athens](../organisations/national-technical-university-of-athens.md)  
+- [[organisations/national-technical-university-of-athens|National Technical University Of Athens]]  
   > "He attended the Varvakeio Junior High School of Athens and studied the School of Civil Engineering of the National Technical University of Athens ."
-  > Source: [Dimitrios Papadimoulis](../sources/wikipedia-dimitrios-papadimoulis.md) · grade A
+  > Source: [[sources/wikipedia-dimitrios-papadimoulis|Dimitrios Papadimoulis]] · grade A
 
-- [varvakeio-junior-high-school-of-athens](../organisations/varvakeio-junior-high-school-of-athens.md)  
+- [[organisations/varvakeio-junior-high-school-of-athens|varvakeio-junior-high-school-of-athens]]  
   > "He attended the Varvakeio Junior High School of Athens and studied the School of Civil Engineering of the National Technical University of Athens ."
-  > Source: [Dimitrios Papadimoulis](../sources/wikipedia-dimitrios-papadimoulis.md) · grade C
+  > Source: [[sources/wikipedia-dimitrios-papadimoulis|Dimitrios Papadimoulis]] · grade C
 
 ## Membership
 
-- [Greek Parliament](../organisations/greek-parliament.md)  
+- [[organisations/greek-parliament|Greek Parliament]]  
   > "&#91; 1 &#93; From 2009 to 2014 he was a member of the Greek parliament ."
-  > Source: [Dimitrios Papadimoulis](../sources/wikipedia-dimitrios-papadimoulis.md) · grade A
+  > Source: [[sources/wikipedia-dimitrios-papadimoulis|Dimitrios Papadimoulis]] · grade A

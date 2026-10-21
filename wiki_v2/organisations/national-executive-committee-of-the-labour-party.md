@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Neil Kinnock](../people/neil-kinnock.md)  
+- [[people/neil-kinnock|Neil Kinnock]]  
   > "Kinnock became a member of the National Executive Committee of the Labour Party in October 1978."
-  > Source: [Neil Kinnock](../sources/wikipedia-neil-kinnock.md) · grade A
+  > Source: [[sources/wikipedia-neil-kinnock|Neil Kinnock]] · grade A

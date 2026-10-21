@@ -15,9 +15,9 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Michel Barnier](../people/michel-barnier.md)  
+- [[people/michel-barnier|Michel Barnier]]  
   > "Barnier led the UMP list in Ile-de-France for the 2009 European Parliament election."
-  > Source: [Michel Barnier](../sources/wikipedia-michel-barnier.md) · grade B
-- [Yvan Blot](../people/yvan-blot.md)  
+  > Source: [[sources/wikipedia-michel-barnier|Michel Barnier]] · grade B
+- [[people/yvan-blot|Yvan Blot]]  
   > "In the early 2000s, he became a member of the UMP ."
-  > Source: [Yvan Blot](../sources/wikipedia-yvan-blot.md) · grade A
+  > Source: [[sources/wikipedia-yvan-blot|Yvan Blot]] · grade A

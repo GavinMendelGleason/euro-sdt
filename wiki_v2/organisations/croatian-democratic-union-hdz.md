@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Dubravka Šuica](../people/dubravka-suica.md) — party_member  
+- [[people/dubravka-suica|Dubravka Šuica]] — party_member  
   > "She became active in politics in 1990, joining Croatian Democratic Union (HDZ) before the first democratic elections in Croatia."
-  > Source: [Dubravka Suica](../sources/wikipedia-dubravka-suica.md) · grade B
+  > Source: [[sources/wikipedia-dubravka-suica|Dubravka Suica]] · grade B

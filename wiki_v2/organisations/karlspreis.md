@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Jean-Claude Juncker](../people/jean-claude-juncker.md)  
+- [[people/jean-claude-juncker|Jean-Claude Juncker]]  
   > "His continued allegiance to European ideals earned him the 2006 Karlspreis."
-  > Source: [Jean Claude Juncker](../sources/wikipedia-jean-claude-juncker.md) · grade B
+  > Source: [[sources/wikipedia-jean-claude-juncker|Jean Claude Juncker]] · grade B

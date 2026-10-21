@@ -15,7 +15,7 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (2)
 
-- [Paolo Gentiloni](../people/paolo-gentiloni.md) — affiliated_with — Workers' Movement for Socialism (Movimento Lavoratori per il Socialismo; MLS)
+- [[people/paolo-gentiloni|Paolo Gentiloni]] — affiliated_with — Workers' Movement for Socialism (Movimento Lavoratori per il Socialismo; MLS)
   > "Early political career During the 1970s, Paolo Gentiloni was a member of the Student Movement (Movimento Studentesco), a far-left youth organization led by Mario Capanna; when Capanna founded the Proletarian Democracy party, Gentiloni did not follow him, and joined the Workers' Movement for Socialism (Movimento Lavoratori per il Socialismo; MLS), a far-left Maoist group, of which he became the reg […]"
-- [Paolo Gentiloni](../people/paolo-gentiloni.md) — member — Democratic Party
+- [[people/paolo-gentiloni|Paolo Gentiloni]] — member — Democratic Party
   > "He was one of the 45 members of the national founding committee of the Democratic Party in 2007, formed by the union of the social democrats Democrats of the Left and the Christian leftist The Daisy."

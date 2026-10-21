@@ -16,7 +16,7 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (2)
 
-- [Ian Meakins](../people/ian-meakins.md) — educated_at — St Catharine's College, University of Cambridge
+- [[people/ian-meakins|Ian Meakins]] — educated_at — St Catharine's College, University of Cambridge
   > "== Early life == He was educated at St Catharine's College, University of Cambridge."
-- [Ian Meakins](../people/ian-meakins.md) — employed_by — Unilever
+- [[people/ian-meakins|Ian Meakins]] — employed_by — Unilever
   > "He is the chairman of Unilever since December 2023, chairman of Compass Group since December 2020, and former chairman of Rexel."

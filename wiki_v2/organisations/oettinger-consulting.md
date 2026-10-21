@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Günther Oettinger](../people/gunther-oettinger.md) — founder  
+- [[people/gunther-oettinger|Günther Oettinger]] — founder  
   > "In 2019, Oettinger and his partner Friederike Beyer jointly set up Oettinger Consulting, a Hamburg-based advisory firm."
-  > Source: [Gunther Oettinger](../sources/wikipedia-gunther-oettinger.md) · grade C
+  > Source: [[sources/wikipedia-gunther-oettinger|Gunther Oettinger]] · grade C

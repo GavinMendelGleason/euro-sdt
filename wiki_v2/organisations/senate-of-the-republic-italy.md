@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Giovanni Pittella](../people/giovanni-pittella.md)  
+- [[people/giovanni-pittella|Giovanni Pittella]]  
   > "From 2018 to 2022, Pittella served as a member of the Senate of the Republic."
-  > Source: [Giovanni Pittella](../sources/wikipedia-giovanni-pittella.md) · grade C
+  > Source: [[sources/wikipedia-giovanni-pittella|Giovanni Pittella]] · grade C

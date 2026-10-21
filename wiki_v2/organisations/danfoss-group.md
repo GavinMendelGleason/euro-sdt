@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Connie Hedegaard](../people/connie-hedegaard.md) — board_member  
+- [[people/connie-hedegaard|Connie Hedegaard]] — board_member  
   > "Danfoss Group, Member of the Board"
-  > Source: [Connie Hedegaard](../sources/wikipedia-connie-hedegaard.md) · grade A
+  > Source: [[sources/wikipedia-connie-hedegaard|Connie Hedegaard]] · grade A

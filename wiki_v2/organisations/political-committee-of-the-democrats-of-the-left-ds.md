@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Federica Mogherini](../people/federica-mogherini.md) — board_member  
+- [[people/federica-mogherini|Federica Mogherini]] — board_member  
   > "In 2001, she became a member of the National Council of the Democrats of the Left (DS), later serving on its National Executive Board and Political Committee."
-  > Source: [Federica Mogherini](../sources/wikipedia-federica-mogherini.md) · grade A
+  > Source: [[sources/wikipedia-federica-mogherini|Federica Mogherini]] · grade A

@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Mairead McGuinness](../people/mairead-mcguinness.md)  
+- [[people/mairead-mcguinness|Mairead McGuinness]]  
   > "In November 2016, One Voice For Languages welcomed McGuinness as their patron."
-  > Source: [Mairead Mcguinness](../sources/wikipedia-mairead-mcguinness.md) · grade B
+  > Source: [[sources/wikipedia-mairead-mcguinness|Mairead Mcguinness]] · grade B

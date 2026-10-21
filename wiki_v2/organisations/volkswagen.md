@@ -15,9 +15,9 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Connie Hedegaard](../people/connie-hedegaard.md) — advisory_board  
+- [[people/connie-hedegaard|Connie Hedegaard]] — advisory_board  
   > "Volkswagen, Member of the Sustainability Council"
-  > Source: [Connie Hedegaard](../sources/wikipedia-connie-hedegaard.md) · grade C
-- [Ivan Hirst](../people/ivan-hirst.md) — board_member  
+  > Source: [[sources/wikipedia-connie-hedegaard|Connie Hedegaard]] · grade C
+- [[people/ivan-hirst|Ivan Hirst]] — board_member  
   > "The second model was given to Colonel Charles Radclyffe; the third was presented to Heinrich Nordhoff , whom the British occupying authorities appointed managing director of Volkswagen in early 1948."
-  > Source: [Ivan Hirst](../sources/wikipedia-ivan-hirst.md) · grade A
+  > Source: [[sources/wikipedia-ivan-hirst|Ivan Hirst]] · grade A

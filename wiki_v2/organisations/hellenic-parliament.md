@@ -15,15 +15,15 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Apostolos Tzitzikostas](../people/apostolos-tzitzikostas.md)  
+- [[people/apostolos-tzitzikostas|Apostolos Tzitzikostas]]  
   > "As MP, he served as Secretary of the Hellenic Parliament, member of the Standing Committee on National Defense and Foreign Affairs, and member of the Standing Committee on Financial Affairs."
-  > Source: [Apostolos Tzitzikostas](../sources/wikipedia-apostolos-tzitzikostas.md) · grade A
-- [Christos Papoutsis](../people/christos-papoutsis.md)  
+  > Source: [[sources/wikipedia-apostolos-tzitzikostas|Apostolos Tzitzikostas]] · grade A
+- [[people/christos-papoutsis|Christos Papoutsis]]  
   > "Since 2000 he has been elected consecutively member of the Hellenic Parliament with PASOK (2000, 2004, 2007 and 2009 elections)."
-  > Source: [Christos Papoutsis](../sources/wikipedia-christos-papoutsis.md) · grade A
-- [Dimitris Avramopoulos](../people/dimitris-avramopoulos.md)  
+  > Source: [[sources/wikipedia-christos-papoutsis|Christos Papoutsis]] · grade A
+- [[people/dimitris-avramopoulos|Dimitris Avramopoulos]]  
   > "From 1993 to 1994 he served as a Member of the Hellenic Parliament."
-  > Source: [Dimitris Avramopoulos](../sources/wikipedia-dimitris-avramopoulos.md) · grade A
-- [Maria Damanaki](../people/maria-damanaki.md)  
+  > Source: [[sources/wikipedia-dimitris-avramopoulos|Dimitris Avramopoulos]] · grade A
+- [[people/maria-damanaki|Maria Damanaki]]  
   > "She is a former president of the Synaspismos party of the left and former state member of the Hellenic Parliament within the Panhellenic Socialist Movement (PASOK)."
-  > Source: [Maria Damanaki](../sources/wikipedia-maria-damanaki.md) · grade A
+  > Source: [[sources/wikipedia-maria-damanaki|Maria Damanaki]] · grade A

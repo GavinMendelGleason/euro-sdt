@@ -15,9 +15,9 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (3)
 
-- [Elisabeth Werner](../people/elisabeth-werner.md) — educated_at — University of Vienna
+- [[people/elisabeth-werner|Elisabeth Werner]] — educated_at — University of Vienna
   > " 10/1989 – 07/1995: Master’s degree in economics, University of Vienna/Austria"
-- [Elisabeth Werner](../people/elisabeth-werner.md) — held_position — Director-General → Directorate-General for Agriculture and Rural Development
+- [[people/elisabeth-werner|Elisabeth Werner]] — held_position — Director-General → Directorate-General for Agriculture and Rural Development
   > " Since June 2025: Director-General, DG AGRI"
-- [Elisabeth Werner](../people/elisabeth-werner.md) — studied_field — Economics
+- [[people/elisabeth-werner|Elisabeth Werner]] — studied_field — Economics
   > " 10/1989 – 07/1995: Master’s degree in economics, University of Vienna/Austria"

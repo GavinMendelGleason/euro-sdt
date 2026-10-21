@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Patryk Jaki](../people/patryk-jaki.md)  
+- [[people/patryk-jaki|Patryk Jaki]]  
   > "In 2019, he defended his doctoral dissertation at the Faculty of National Security of the War Studies University ."
-  > Source: [Patryk Jaki](../sources/wikipedia-patryk-jaki.md) · grade C
+  > Source: [[sources/wikipedia-patryk-jaki|Patryk Jaki]] · grade C

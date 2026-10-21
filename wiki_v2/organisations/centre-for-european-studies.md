@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Olli Rehn](../people/olli-rehn.md)  
+- [[people/olli-rehn|Olli Rehn]]  
   > "In 2002, he left European politics for the University of Helsinki, where he led the Centre for European Studies."
-  > Source: [Olli Rehn](../sources/wikipedia-olli-rehn.md) · grade B
+  > Source: [[sources/wikipedia-olli-rehn|Olli Rehn]] · grade B

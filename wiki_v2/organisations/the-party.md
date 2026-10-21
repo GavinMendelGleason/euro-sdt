@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Markos Kyprianou](../people/markos-kyprianou.md)  
+- [[people/markos-kyprianou|Markos Kyprianou]]  
   > "since 1990 Member of the Political Committee of the Party"
-  > Source: [Markos Kyprianou](../sources/wikipedia-markos-kyprianou.md) · grade A
+  > Source: [[sources/wikipedia-markos-kyprianou|Markos Kyprianou]] · grade A

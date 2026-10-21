@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Giorgio Napolitano](../people/giorgio-napolitano.md) — chair  
+- [[people/giorgio-napolitano|Giorgio Napolitano]] — chair  
   > "In the May 2006 Italian presidential election, he was elected by the Italian Parliament as president of Italy."
-  > Source: [Giorgio Napolitano](../sources/wikipedia-giorgio-napolitano.md) · grade A
+  > Source: [[sources/wikipedia-giorgio-napolitano|Giorgio Napolitano]] · grade A

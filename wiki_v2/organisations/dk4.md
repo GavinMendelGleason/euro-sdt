@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Torben Lund](../people/torben-lund.md)  
+- [[people/torben-lund|Torben Lund]]  
   > "&#91; 4 &#93; After his retirement from politics, he joined the Danish television network Dk4 ."
-  > Source: [Torben Lund](../sources/wikipedia-torben-lund.md) · grade B
+  > Source: [[sources/wikipedia-torben-lund|Torben Lund]] · grade B

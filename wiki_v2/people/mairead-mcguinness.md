@@ -20,104 +20,104 @@ Commissioner · IRL
 
 - Financial Services, Financial Stability and Capital Markets Union  
   > "On 8 September 2020, McGuinness was proposed by European Commission president Ursula von der Leyen as the new Commissioner for Financial Stability, Financial Services and Capital Markets Union."
-  > Source: [Mairead Mcguinness](../sources/wikipedia-mairead-mcguinness.md) · grade A
+  > Source: [[sources/wikipedia-mairead-mcguinness|Mairead Mcguinness]] · grade A
 
 ## Membership
 
-- [Committee on Agriculture and Rural Development](../organisations/committee-on-agriculture-and-rural-development.md)  
+- [[organisations/committee-on-agriculture-and-rural-development|Committee on Agriculture and Rural Development]]  
   > "During her time in parliament, McGuinness served on several European Parliament committees, including the Committee on Agriculture and Rural Development and the delegation for relations with Australia and New Zealand."
-  > Source: [Mairead Mcguinness](../sources/wikipedia-mairead-mcguinness.md) · grade B
+  > Source: [[sources/wikipedia-mairead-mcguinness|Mairead Mcguinness]] · grade B
 
-- [Committee on Petitions](../organisations/committee-on-petitions.md)  
+- [[organisations/committee-on-petitions|Committee on Petitions]]  
   > "She was a substitute member of the Committee on the Environment, Public Health and Food Safety, the Committee on Petitions and the delegation for relations with China."
-  > Source: [Mairead Mcguinness](../sources/wikipedia-mairead-mcguinness.md) · grade A
+  > Source: [[sources/wikipedia-mairead-mcguinness|Mairead Mcguinness]] · grade A
 
-- [Committee on the Environment, Public Health and Food Safety](../organisations/committee-on-the-environment-public-health-and-food-safety.md)  
+- [[organisations/committee-on-the-environment-public-health-and-food-safety|Committee on the Environment, Public Health and Food Safety]]  
   > "She was a substitute member of the Committee on the Environment, Public Health and Food Safety, the Committee on Petitions and the delegation for relations with China."
-  > Source: [Mairead Mcguinness](../sources/wikipedia-mairead-mcguinness.md) · grade A
+  > Source: [[sources/wikipedia-mairead-mcguinness|Mairead Mcguinness]] · grade A
 
-- [delegation for relations with Australia and New Zealand](../organisations/delegation-for-relations-with-australia-and-new-zealand.md)  
+- [[organisations/delegation-for-relations-with-australia-and-new-zealand|delegation for relations with Australia and New Zealand]]  
   > "During her time in parliament, McGuinness served on several European Parliament committees, including the Committee on Agriculture and Rural Development and the delegation for relations with Australia and New Zealand."
-  > Source: [Mairead Mcguinness](../sources/wikipedia-mairead-mcguinness.md) · grade B
+  > Source: [[sources/wikipedia-mairead-mcguinness|Mairead Mcguinness]] · grade B
 
-- [delegation for relations with China](../organisations/delegation-for-relations-with-china.md)  
+- [[organisations/delegation-for-relations-with-china|delegation for relations with China]]  
   > "She was a substitute member of the Committee on the Environment, Public Health and Food Safety, the Committee on Petitions and the delegation for relations with China."
-  > Source: [Mairead Mcguinness](../sources/wikipedia-mairead-mcguinness.md) · grade A
+  > Source: [[sources/wikipedia-mairead-mcguinness|Mairead Mcguinness]] · grade A
 
-- [European Parliament Intergroup on Children's Rights](../organisations/european-parliament-intergroup-on-children-s-rights.md)  
+- [[organisations/european-parliament-intergroup-on-children-s-rights|European Parliament Intergroup on Children's Rights]]  
   > "In addition to her committee assignments and duties as vice-president, McGuinness was a member of the European Parliament Intergroup on the Welfare and Conservation of Animals and the European Parliament Intergroup on Children's Rights."
-  > Source: [Mairead Mcguinness](../sources/wikipedia-mairead-mcguinness.md) · grade A
+  > Source: [[sources/wikipedia-mairead-mcguinness|Mairead Mcguinness]] · grade A
 
-- [European Parliament Intergroup on the Welfare and Conservation of Animals](../organisations/european-parliament-intergroup-on-the-welfare-and-conservation-of-animals.md)  
+- [[organisations/european-parliament-intergroup-on-the-welfare-and-conservation-of-animals|European Parliament Intergroup on the Welfare and Conservation of Animals]]  
   > "In addition to her committee assignments and duties as vice-president, McGuinness was a member of the European Parliament Intergroup on the Welfare and Conservation of Animals and the European Parliament Intergroup on Children's Rights."
-  > Source: [Mairead Mcguinness](../sources/wikipedia-mairead-mcguinness.md) · grade A
+  > Source: [[sources/wikipedia-mairead-mcguinness|Mairead Mcguinness]] · grade A
 
-- [European People's Party](../organisations/european-peoples-party.md)  
+- [[organisations/european-peoples-party|European People's Party]]  
   > "In the European Parliament, she sat with the European People's Party (EPP)."
-  > Source: [Mairead Mcguinness](../sources/wikipedia-mairead-mcguinness.md) · grade B
+  > Source: [[sources/wikipedia-mairead-mcguinness|Mairead Mcguinness]] · grade B
 
-- [Fine Gael](../organisations/fine-gael.md) — party_member  
+- [[organisations/fine-gael|Fine Gael]] — party_member  
   > "A member of Fine Gael, she previously served as First Vice-President of the European Parliament from 2017 to 2020."
-  > Source: [Mairead Mcguinness](../sources/wikipedia-mairead-mcguinness.md) · grade A
+  > Source: [[sources/wikipedia-mairead-mcguinness|Mairead Mcguinness]] · grade A
 
 ## Board / trustee
 
-- [Friends of Europe](../organisations/friends-of-europe.md) — board_member  
+- [[organisations/friends-of-europe|Friends of Europe]] — board_member  
   > "Friends of Europe, Member of the Board of Trustees (since 2020)"
-  > Source: [Mairead Mcguinness](../sources/wikipedia-mairead-mcguinness.md) · grade A
+  > Source: [[sources/wikipedia-mairead-mcguinness|Mairead Mcguinness]] · grade A
 
 ## Advisory board
 
-- [European Forum Alpbach](../organisations/european-forum-alpbach.md) — advisory_board; chair  
+- [[organisations/european-forum-alpbach|European Forum Alpbach]] — advisory_board; chair  
   > "European Forum Alpbach, Co-Chair of the Strategic Advisory Council (since 2024)"
-  > Source: [Mairead Mcguinness](../sources/wikipedia-mairead-mcguinness.md) · grade A
+  > Source: [[sources/wikipedia-mairead-mcguinness|Mairead Mcguinness]] · grade A
 
 ## Chair / president
 
-- [Inter-Institutional Group on Communication](../organisations/inter-institutional-group-on-communication.md) — chair  
+- [[organisations/inter-institutional-group-on-communication|Inter-Institutional Group on Communication]] — chair  
   > "In addition, she served as chairwoman of the Working Group on Information and Communication Policy and as co-chair of the Inter-Institutional Group on Communication."
-  > Source: [Mairead Mcguinness](../sources/wikipedia-mairead-mcguinness.md) · grade A
+  > Source: [[sources/wikipedia-mairead-mcguinness|Mairead Mcguinness]] · grade A
 
-- [MEP Heart Group](../organisations/mep-heart-group.md) — chair  
+- [[organisations/mep-heart-group|MEP Heart Group]] — chair  
   > "Alongside Karin Kadenbach, she also co-chaired the MEP Heart Group, a group of parliamentarians who have an interest in promoting measures that will help reduce the burden of cardiovascular diseases (CVD)."
-  > Source: [Mairead Mcguinness](../sources/wikipedia-mairead-mcguinness.md) · grade C
+  > Source: [[sources/wikipedia-mairead-mcguinness|Mairead Mcguinness]] · grade C
 
-- [Working Group on Information and Communication Policy](../organisations/working-group-on-information-and-communication-policy.md) — chair  
+- [[organisations/working-group-on-information-and-communication-policy|Working Group on Information and Communication Policy]] — chair  
   > "In addition, she served as chairwoman of the Working Group on Information and Communication Policy and as co-chair of the Inter-Institutional Group on Communication."
-  > Source: [Mairead Mcguinness](../sources/wikipedia-mairead-mcguinness.md) · grade A
+  > Source: [[sources/wikipedia-mairead-mcguinness|Mairead Mcguinness]] · grade A
 
 ## Affiliation
 
-- [Irish Farmers Journal](../organisations/irish-farmers-journal.md)  
+- [[organisations/irish-farmers-journal|Irish Farmers Journal]]  
   > "She worked as a researcher on The Late Late Show, as a presenter on RTÉ's Ear to the Ground and Celebrity Farm, a journalist with the Irish Farmers Journal and editor of the Irish Independent's agricultural supplement."
-  > Source: [Mairead Mcguinness](../sources/wikipedia-mairead-mcguinness.md) · grade B
+  > Source: [[sources/wikipedia-mairead-mcguinness|Mairead Mcguinness]] · grade B
 
-- [Irish Independent](../organisations/irish-independent.md)  
+- [[organisations/irish-independent|Irish Independent]]  
   > "She worked as a researcher on The Late Late Show, as a presenter on RTÉ's Ear to the Ground and Celebrity Farm, a journalist with the Irish Farmers Journal and editor of the Irish Independent's agricultural supplement."
-  > Source: [Mairead Mcguinness](../sources/wikipedia-mairead-mcguinness.md) · grade B
+  > Source: [[sources/wikipedia-mairead-mcguinness|Mairead Mcguinness]] · grade B
 
-- [One Voice For Languages](../organisations/one-voice-for-languages.md)  
+- [[organisations/one-voice-for-languages|One Voice For Languages]]  
   > "In November 2016, One Voice For Languages welcomed McGuinness as their patron."
-  > Source: [Mairead Mcguinness](../sources/wikipedia-mairead-mcguinness.md) · grade B
+  > Source: [[sources/wikipedia-mairead-mcguinness|Mairead Mcguinness]] · grade B
 
-- [RTÉ](../organisations/rte.md)  
+- [[organisations/rte|RTÉ]]  
   > "She worked as a researcher on The Late Late Show, as a presenter on RTÉ's Ear to the Ground and Celebrity Farm, a journalist with the Irish Farmers Journal and editor of the Irish Independent's agricultural supplement."
-  > Source: [Mairead Mcguinness](../sources/wikipedia-mairead-mcguinness.md) · grade B
+  > Source: [[sources/wikipedia-mairead-mcguinness|Mairead Mcguinness]] · grade B
 
-- [The Late Late Show](../organisations/the-late-late-show.md)  
+- [[organisations/the-late-late-show|The Late Late Show]]  
   > "She worked as a researcher on The Late Late Show, as a presenter on RTÉ's Ear to the Ground and Celebrity Farm, a journalist with the Irish Farmers Journal and editor of the Irish Independent's agricultural supplement."
-  > Source: [Mairead Mcguinness](../sources/wikipedia-mairead-mcguinness.md) · grade B
+  > Source: [[sources/wikipedia-mairead-mcguinness|Mairead Mcguinness]] · grade B
 
-- [University College Dublin (UCD)](../organisations/university-college-dublin-ucd.md)  
+- [[organisations/university-college-dublin-ucd|University College Dublin (UCD)]]  
   > "In 2014, McGuinness was awarded UCD Alumnus of the Year for Agriculture and Food Science."
-  > Source: [Mairead Mcguinness](../sources/wikipedia-mairead-mcguinness.md) · grade B
+  > Source: [[sources/wikipedia-mairead-mcguinness|Mairead Mcguinness]] · grade B
 
 ## Employment
 
-- [European Commission](../organisations/european-commission.md) — employed_by  
+- [[organisations/european-commission|European Commission]] — employed_by  
   > "On 8 September 2020, McGuinness was proposed by European Commission president Ursula von der Leyen as the new Commissioner for Financial Stability, Financial Services and Capital Markets Union."
-  > Source: [Mairead Mcguinness](../sources/wikipedia-mairead-mcguinness.md) · grade C
+  > Source: [[sources/wikipedia-mairead-mcguinness|Mairead Mcguinness]] · grade C
 
-- [European Parliament](../organisations/european-parliament.md) — employed_by  
+- [[organisations/european-parliament|European Parliament]] — employed_by  
   > "A member of Fine Gael, she previously served as First Vice-President of the European Parliament from 2017 to 2020."
-  > Source: [Mairead Mcguinness](../sources/wikipedia-mairead-mcguinness.md) · grade C
+  > Source: [[sources/wikipedia-mairead-mcguinness|Mairead Mcguinness]] · grade C

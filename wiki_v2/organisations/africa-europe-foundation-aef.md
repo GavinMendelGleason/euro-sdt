@@ -14,15 +14,15 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Carlos Moedas](../people/carlos-moedas.md)  
+- [[people/carlos-moedas|Carlos Moedas]]  
   > "Africa Europe Foundation (AEF), Member of the High-Level Group of Personalities on Africa-Europe Relations (since 2020)"
-  > Source: [Carlos Moedas](../sources/wikipedia-carlos-moedas.md) · grade A
-- [Connie Hedegaard](../people/connie-hedegaard.md)  
+  > Source: [[sources/wikipedia-carlos-moedas|Carlos Moedas]] · grade A
+- [[people/connie-hedegaard|Connie Hedegaard]]  
   > "Africa Europe Foundation (AEF), Member of the High-Level Group of Personalities on Africa-Europe Relations (since 2020)"
-  > Source: [Connie Hedegaard](../sources/wikipedia-connie-hedegaard.md) · grade A
-- [Federica Mogherini](../people/federica-mogherini.md)  
+  > Source: [[sources/wikipedia-connie-hedegaard|Connie Hedegaard]] · grade A
+- [[people/federica-mogherini|Federica Mogherini]]  
   > "Africa Europe Foundation (AEF), member of the High-Level Group of Personalities on Africa-Europe Relations (since 2020)"
-  > Source: [Federica Mogherini](../sources/wikipedia-federica-mogherini.md) · grade A
-- [Pascal Lamy](../people/pascal-lamy.md)  
+  > Source: [[sources/wikipedia-federica-mogherini|Federica Mogherini]] · grade A
+- [[people/pascal-lamy|Pascal Lamy]]  
   > "Africa Europe Foundation (AEF), Member of the High-Level Group of Personalities on Africa-Europe Relations (since 2020)"
-  > Source: [Pascal Lamy](../sources/wikipedia-pascal-lamy.md) · grade A
+  > Source: [[sources/wikipedia-pascal-lamy|Pascal Lamy]] · grade A

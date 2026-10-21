@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Bruno Gollnisch](../people/bruno-gollnisch.md)  
+- [[people/bruno-gollnisch|Bruno Gollnisch]]  
   > "In 1971–1973, he was granted degrees in Japanese and Malaysian - Indonesian by the INALCO ."
-  > Source: [Bruno Gollnisch](../sources/wikipedia-bruno-gollnisch.md) · grade B
+  > Source: [[sources/wikipedia-bruno-gollnisch|Bruno Gollnisch]] · grade B

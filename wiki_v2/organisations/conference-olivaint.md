@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Michel Barnier](../people/michel-barnier.md)  
+- [[people/michel-barnier|Michel Barnier]]  
   > "During his studies at the ESCP, he was a classmate of Jean-Pierre Raffarin, future prime minister, and a member of the Conférence Olivaint, a student organisation intended to prepare members for political life."
-  > Source: [Michel Barnier](../sources/wikipedia-michel-barnier.md) · grade A
+  > Source: [[sources/wikipedia-michel-barnier|Michel Barnier]] · grade A

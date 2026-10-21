@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Joseph Daul](../people/joseph-daul.md) — chair  
+- [[people/joseph-daul|Joseph Daul]] — chair  
   > "Daul also became deputy mayor in his home town, vice-president of the Community of Councils and chairman of the Strasbourg Abattoir Management Cooperative (160 employees)."
-  > Source: [Joseph Daul](../sources/wikipedia-joseph-daul.md) · grade A
+  > Source: [[sources/wikipedia-joseph-daul|Joseph Daul]] · grade A

@@ -18,28 +18,28 @@ Mep
 
 ## Membership
 
-- [ACP-EU Joint Parliamentary Assembly](../organisations/acp-eu-joint-parliamentary-assembly.md)  
+- [[organisations/acp-eu-joint-parliamentary-assembly|ACP-EU Joint Parliamentary Assembly]]  
   > "She was also a substitute for the Committee on Women's Rights and Gender Equality and the Committee on the Environment, Public Health and Food Safety , and a member of the delegation to the ACP-EU Joint Parliamentary Assembly ."
-  > Source: [Lena Ek](../sources/wikipedia-lena-ek.md) · grade A
+  > Source: [[sources/wikipedia-lena-ek|Lena Ek]] · grade A
 
-- [Alliance of Liberals and Democrats for Europe](../organisations/alliance-of-liberals-and-democrats-for-europe.md)  
+- [[organisations/alliance-of-liberals-and-democrats-for-europe|Alliance of Liberals and Democrats for Europe]]  
   > "She is a member of the Centre Party , part of the Alliance of Liberals and Democrats for Europe ."
-  > Source: [Lena Ek](../sources/wikipedia-lena-ek.md) · grade A
+  > Source: [[sources/wikipedia-lena-ek|Lena Ek]] · grade A
 
-- [Centre Party](../organisations/centre-party.md)  
+- [[organisations/centre-party|Centre Party]]  
   > "She is a member of the Centre Party , part of the Alliance of Liberals and Democrats for Europe ."
-  > Source: [Lena Ek](../sources/wikipedia-lena-ek.md) · grade A
+  > Source: [[sources/wikipedia-lena-ek|Lena Ek]] · grade A
 
 ## Affiliation
 
-- [Committee on the Environment, Public Health and Food Safety](../organisations/committee-on-the-environment-public-health-and-food-safety.md)  
+- [[organisations/committee-on-the-environment-public-health-and-food-safety|Committee on the Environment, Public Health and Food Safety]]  
   > "She was also a substitute for the Committee on Women's Rights and Gender Equality and the Committee on the Environment, Public Health and Food Safety , and a member of the delegation to the ACP-EU Joint Parliamentary Assembly ."
-  > Source: [Lena Ek](../sources/wikipedia-lena-ek.md) · grade A
+  > Source: [[sources/wikipedia-lena-ek|Lena Ek]] · grade A
 
-- [Committee on Women's Rights and Gender Equality](../organisations/committee-on-women-s-rights-and-gender-equality.md)  
+- [[organisations/committee-on-women-s-rights-and-gender-equality|Committee on Women's Rights and Gender Equality]]  
   > "She was also a substitute for the Committee on Women's Rights and Gender Equality and the Committee on the Environment, Public Health and Food Safety , and a member of the delegation to the ACP-EU Joint Parliamentary Assembly ."
-  > Source: [Lena Ek](../sources/wikipedia-lena-ek.md) · grade A
+  > Source: [[sources/wikipedia-lena-ek|Lena Ek]] · grade A
 
-- [European Spallation Source](../organisations/european-spallation-source.md)  
+- [[organisations/european-spallation-source|European Spallation Source]]  
   > "&#91; 1 &#93; After leaving parliament in 2015, Ek was appointed as the government coordinator for the European Spallation Source ."
-  > Source: [Lena Ek](../sources/wikipedia-lena-ek.md) · grade A
+  > Source: [[sources/wikipedia-lena-ek|Lena Ek]] · grade A

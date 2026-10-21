@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Ján Figeľ](../people/jan-figel.md) — fellow  
+- [[people/jan-figel|Ján Figeľ]] — fellow  
   > "In 2024, he spoke at the MCC Feszt event, and in 2025 he became a visiting fellow at the Mathias Corvinus Collegium (MCC)."
-  > Source: [Jan Figel](../sources/wikipedia-jan-figel.md) · grade A
+  > Source: [[sources/wikipedia-jan-figel|Jan Figel]] · grade A

@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Pál Schmitt](../people/pal-schmitt.md)  
+- [[people/pal-schmitt|Pál Schmitt]]  
   > "&#91; 2 &#93; Personal life [ edit ] Born on 13 May 1942 in Budapest to a middle-class family, he graduated from high school in 1960 and later studied domestic trade at Karl Marx University of Economics , from which he graduated in 1965."
-  > Source: [Pl Schmitt](../sources/wikipedia-pl-schmitt.md) · grade C
+  > Source: [[sources/wikipedia-pl-schmitt|Pl Schmitt]] · grade C

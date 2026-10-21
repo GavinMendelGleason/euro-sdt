@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Ulrich Grillo](../people/ulrich-grillo.md) — chair  
+- [[people/ulrich-grillo|Ulrich Grillo]] — chair  
   > "German entrepreneur Ulrich Grillo (born 2 September 1959) is a German entrepreneur and former president of the Federation of German Industries (BDI) ."
-  > Source: [Ulrich Grillo](../sources/wikipedia-ulrich-grillo.md) · grade A
+  > Source: [[sources/wikipedia-ulrich-grillo|Ulrich Grillo]] · grade A

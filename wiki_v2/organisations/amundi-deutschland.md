@@ -22,6 +22,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Günther Oettinger](../people/gunther-oettinger.md) — board_member  
+- [[people/gunther-oettinger|Günther Oettinger]] — board_member  
   > "Amundi Deutschland, Member of the Supervisory Board (since 2020)"
-  > Source: [Gunther Oettinger](../sources/wikipedia-gunther-oettinger.md) · grade A
+  > Source: [[sources/wikipedia-gunther-oettinger|Gunther Oettinger]] · grade A

@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Christos Papoutsis](../people/christos-papoutsis.md) — chair  
+- [[people/christos-papoutsis|Christos Papoutsis]] — chair  
   > "Vice president of the Parliamentary Group of the European Socialist Party at the European Parliament (1987-1994)."
-  > Source: [Christos Papoutsis](../sources/wikipedia-christos-papoutsis.md) · grade A
+  > Source: [[sources/wikipedia-christos-papoutsis|Christos Papoutsis]] · grade A

@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Miguel Arias Cañete](../people/miguel-arias-canete.md)  
+- [[people/miguel-arias-canete|Miguel Arias Cañete]]  
   > "He was then elected Senator representing Cádiz in the Spanish Senate (2000–2004), and from 2004 to 2008 Deputy for Cádiz in the Spanish Congress."
-  > Source: [Miguel Arias Canete](../sources/wikipedia-miguel-arias-canete.md) · grade A
+  > Source: [[sources/wikipedia-miguel-arias-canete|Miguel Arias Canete]] · grade A

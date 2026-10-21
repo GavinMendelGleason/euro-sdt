@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Iliana Ivanova](../people/iliana-ivanova.md) — chair  
+- [[people/iliana-ivanova|Iliana Ivanova]] — chair  
   > "During that period, she served as vice-chair of the Committee on Budgetary Control, Vice-chair of the Special Committee on the Economic, Financial and Social crisis, member of the Committee on the Internal Market and Consumer Protection and as substitute member of the Committee on Economic and Monetary Affairs."
-  > Source: [Iliana Ivanova](../sources/wikipedia-iliana-ivanova.md) · grade A
+  > Source: [[sources/wikipedia-iliana-ivanova|Iliana Ivanova]] · grade A

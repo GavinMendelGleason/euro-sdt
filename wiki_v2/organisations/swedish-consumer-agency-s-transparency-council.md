@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Jessika Roswall](../people/jessika-roswall.md)  
+- [[people/jessika-roswall|Jessika Roswall]]  
   > "Since 2015, she has also been a member of the Swedish Consumer Agency's transparency council."
-  > Source: [Jessika Roswall](../sources/wikipedia-jessika-roswall.md) · grade A
+  > Source: [[sources/wikipedia-jessika-roswall|Jessika Roswall]] · grade A

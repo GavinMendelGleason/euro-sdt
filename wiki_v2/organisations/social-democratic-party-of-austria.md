@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Libor Rouček](../people/libor-roucek.md)  
+- [[people/libor-roucek|Libor Rouček]]  
   > "From 1980, he was employed in the documentation and press office at the headquarters of the Social Democratic Party of Austria under Chancellor Bruno Kreisky ."
-  > Source: [Libor Rouek](../sources/wikipedia-libor-rouek.md) · grade C
+  > Source: [[sources/wikipedia-libor-rouek|Libor Rouek]] · grade C

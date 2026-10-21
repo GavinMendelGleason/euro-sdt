@@ -16,5 +16,5 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (1)
 
-- [Mário Soares](../people/mario-soares.md) — educated_at — University of Lisbon
+- [[people/mario-soares|Mário Soares]] — educated_at — University of Lisbon
   > "&#91; citation needed &#93; Early life [ edit ] Soares was born in the Coração de Jesus neighbourhood of Lisbon , and graduated in history and philosophy from the University of Lisbon ."

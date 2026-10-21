@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Sylvia-Yvonne Kaufmann](../people/sylvia-yvonne-kaufmann.md) — chair  
+- [[people/sylvia-yvonne-kaufmann|Sylvia-Yvonne Kaufmann]] — chair  
   > "She was Deputy Chairman of the PDS 1993–2000 and sat in the Volkskammer of the German Democratic Republic before reunification and the Bundestag thereafter."
-  > Source: [Sylvia Yvonne Kaufmann](../sources/wikipedia-sylvia-yvonne-kaufmann.md) · grade C
+  > Source: [[sources/wikipedia-sylvia-yvonne-kaufmann|Sylvia Yvonne Kaufmann]] · grade C

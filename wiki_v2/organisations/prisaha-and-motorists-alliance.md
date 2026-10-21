@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Filip Turek](../people/filip-turek.md)  
+- [[people/filip-turek|Filip Turek]]  
   > "He was elected as a Member of the European Parliament in the 2024 European Parliament election , as the lead candidate for the Přísaha and Motorists alliance."
-  > Source: [Filip Turek](../sources/wikipedia-filip-turek.md) · grade A
+  > Source: [[sources/wikipedia-filip-turek|Filip Turek]] · grade A

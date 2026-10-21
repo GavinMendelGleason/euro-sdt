@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Monika Wulf-Mathies](../people/monika-wulf-mathies.md) — chair  
+- [[people/monika-wulf-mathies|Monika Wulf-Mathies]] — chair  
   > "In this capacity, she also served as president of Public Services International (PSI) from 1989 until 1995."
-  > Source: [Monika Wulf Mathies](../sources/wikipedia-monika-wulf-mathies.md) · grade A
+  > Source: [[sources/wikipedia-monika-wulf-mathies|Monika Wulf Mathies]] · grade A

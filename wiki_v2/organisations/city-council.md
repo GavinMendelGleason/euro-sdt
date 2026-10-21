@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Miroslav Ouzký](../people/miroslav-ouzky.md)  
+- [[people/miroslav-ouzky|Miroslav Ouzký]]  
   > "Thereafter, he served in a city council."
-  > Source: [Miroslav Ouzk](../sources/wikipedia-miroslav-ouzk.md) · grade C
+  > Source: [[sources/wikipedia-miroslav-ouzk|Miroslav Ouzk]] · grade C

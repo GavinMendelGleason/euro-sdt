@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Kaja Kallas](../people/kaja-kallas.md) — employed_by  
+- [[people/kaja-kallas|Kaja Kallas]] — employed_by  
   > "Kallas also worked as an executive coach at the Estonian Business School."
-  > Source: [Kaja Kallas](../sources/wikipedia-kaja-kallas.md) · grade C
+  > Source: [[sources/wikipedia-kaja-kallas|Kaja Kallas]] · grade C

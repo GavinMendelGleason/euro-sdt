@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Leszek Miller](../people/leszek-miller.md)  
+- [[people/leszek-miller|Leszek Miller]]  
   > "With the party's recommendation, he started political sciences studies at the party's Higher School of Political Sciences ( Wyższa Szkoła Nauk Społecznych ), graduating in 1977."
-  > Source: [Leszek Miller](../sources/wikipedia-leszek-miller.md) · grade A
+  > Source: [[sources/wikipedia-leszek-miller|Leszek Miller]] · grade A

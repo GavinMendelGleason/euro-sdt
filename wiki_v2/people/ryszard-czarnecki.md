@@ -18,88 +18,88 @@ Mep
 
 ## Education
 
-- [university-of-wroc-aw](../organisations/university-of-wroc-aw.md)  
+- [[organisations/university-of-wroc-aw|university-of-wroc-aw]]  
   > "Education [ edit ] Master of History, University of Wrocław 1987: Archivist, Archiwum Akt Nowych, Warsaw (1986) 'Solidarność' Archives Career [ edit ] 1988–1990: journalist with 'The Polish Daily', London editorial secretary 1991: Deputy editor-in-chief 'Wiadomości Dnia' 1991: editor-in-chief 'Dziennik Dolnośląski' (1991), acting director 'NORPOL-PRESS' 1993–1997: Chief Editor for Religious programmes, Polsat TV 2001–2004: Lecturer 1994–1996: Chairman of the Christian-Nationa"
-  > Source: [Ryszard Czarnecki](../sources/wikipedia-ryszard-czarnecki.md) · grade C
+  > Source: [[sources/wikipedia-ryszard-czarnecki|Ryszard Czarnecki]] · grade C
 
 ## Membership
 
-- [Cabinet](../organisations/cabinet.md)  
+- [[organisations/cabinet|Cabinet]]  
   > "Education [ edit ] Master of History, University of Wrocław 1987: Archivist, Archiwum Akt Nowych, Warsaw (1986) 'Solidarność' Archives Career [ edit ] 1988–1990: journalist with 'The Polish Daily', London editorial secretary 1991: Deputy editor-in-chief 'Wiadomości Dnia' 1991: editor-in-chief 'Dziennik Dolnośląski' (1991), acting director 'NORPOL-PRESS' 1993–1997: Chief Editor for Religious programmes, Polsat TV 2001–2004: Lecturer 1994–1996: Chairman of the Christian-Nationa"
-  > Source: [Ryszard Czarnecki](../sources/wikipedia-ryszard-czarnecki.md) · grade A
+  > Source: [[sources/wikipedia-ryszard-czarnecki|Ryszard Czarnecki]] · grade A
 
-- [Delegation for relations with the countries of south-east Europe](../organisations/delegation-for-relations-with-the-countries-of-south-east-europe.md)  
+- [[organisations/delegation-for-relations-with-the-countries-of-south-east-europe|Delegation for relations with the countries of south-east Europe]]  
   > "He was part of the European Parliament Committee on Foreign Affairs , and a substitute for the Committee on Constitutional Affairs and a member of the Delegation for relations with the countries of south-east Europe."
-  > Source: [Ryszard Czarnecki](../sources/wikipedia-ryszard-czarnecki.md) · grade A
+  > Source: [[sources/wikipedia-ryszard-czarnecki|Ryszard Czarnecki]] · grade A
 
-- [European Conservatives and Reformists](../organisations/european-conservatives-and-reformists.md)  
+- [[organisations/european-conservatives-and-reformists|European Conservatives and Reformists]]  
   > "He is a member of the Law and Justice , part of the European Conservatives and Reformists ."
-  > Source: [Ryszard Czarnecki](../sources/wikipedia-ryszard-czarnecki.md) · grade A
+  > Source: [[sources/wikipedia-ryszard-czarnecki|Ryszard Czarnecki]] · grade A
 
-- [European Parliament Committee on Foreign Affairs](../organisations/european-parliament-committee-on-foreign-affairs.md)  
+- [[organisations/european-parliament-committee-on-foreign-affairs|European Parliament Committee on Foreign Affairs]]  
   > "He was part of the European Parliament Committee on Foreign Affairs , and a substitute for the Committee on Constitutional Affairs and a member of the Delegation for relations with the countries of south-east Europe."
-  > Source: [Ryszard Czarnecki](../sources/wikipedia-ryszard-czarnecki.md) · grade A
+  > Source: [[sources/wikipedia-ryszard-czarnecki|Ryszard Czarnecki]] · grade A
 
-- [Forum for Balochistan](../organisations/forum-for-balochistan.md)  
+- [[organisations/forum-for-balochistan|Forum for Balochistan]]  
   > "Former member of the \"Group on South Asia\", \"South Asia Peace Forum\" and \"Forum for Balochistan \" in the European Parliament."
-  > Source: [Ryszard Czarnecki](../sources/wikipedia-ryszard-czarnecki.md) · grade A
+  > Source: [[sources/wikipedia-ryszard-czarnecki|Ryszard Czarnecki]] · grade A
 
-- [Group on South Asia](../organisations/group-on-south-asia.md)  
+- [[organisations/group-on-south-asia|Group on South Asia]]  
   > "Former member of the \"Group on South Asia\", \"South Asia Peace Forum\" and \"Forum for Balochistan \" in the European Parliament."
-  > Source: [Ryszard Czarnecki](../sources/wikipedia-ryszard-czarnecki.md) · grade A
+  > Source: [[sources/wikipedia-ryszard-czarnecki|Ryszard Czarnecki]] · grade A
 
-- [Law and Justice](../organisations/law-and-justice.md)  
+- [[organisations/law-and-justice|Law and Justice]]  
   > "He is a member of the Law and Justice , part of the European Conservatives and Reformists ."
-  > Source: [Ryszard Czarnecki](../sources/wikipedia-ryszard-czarnecki.md) · grade A
+  > Source: [[sources/wikipedia-ryszard-czarnecki|Ryszard Czarnecki]] · grade A
 
-- [Parliament of the Republic of Poland](../organisations/parliament-of-the-republic-of-poland.md)  
+- [[organisations/parliament-of-the-republic-of-poland|Parliament of the Republic of Poland]]  
   > "Education [ edit ] Master of History, University of Wrocław 1987: Archivist, Archiwum Akt Nowych, Warsaw (1986) 'Solidarność' Archives Career [ edit ] 1988–1990: journalist with 'The Polish Daily', London editorial secretary 1991: Deputy editor-in-chief 'Wiadomości Dnia' 1991: editor-in-chief 'Dziennik Dolnośląski' (1991), acting director 'NORPOL-PRESS' 1993–1997: Chief Editor for Religious programmes, Polsat TV 2001–2004: Lecturer 1994–1996: Chairman of the Christian-Nationa"
-  > Source: [Ryszard Czarnecki](../sources/wikipedia-ryszard-czarnecki.md) · grade A
+  > Source: [[sources/wikipedia-ryszard-czarnecki|Ryszard Czarnecki]] · grade A
 
-- [Self-Defense party](../organisations/self-defense-party.md)  
+- [[organisations/self-defense-party|Self-Defense party]]  
   > "Prior to 2008, he was a member of the Self-Defense party."
-  > Source: [Ryszard Czarnecki](../sources/wikipedia-ryszard-czarnecki.md) · grade A
+  > Source: [[sources/wikipedia-ryszard-czarnecki|Ryszard Czarnecki]] · grade A
 
-- [South Asia Peace Forum](../organisations/south-asia-peace-forum.md)  
+- [[organisations/south-asia-peace-forum|South Asia Peace Forum]]  
   > "Former member of the \"Group on South Asia\", \"South Asia Peace Forum\" and \"Forum for Balochistan \" in the European Parliament."
-  > Source: [Ryszard Czarnecki](../sources/wikipedia-ryszard-czarnecki.md) · grade A
+  > Source: [[sources/wikipedia-ryszard-czarnecki|Ryszard Czarnecki]] · grade A
 
 ## Chair / president
 
-- [Christian National Union](../organisations/christian-national-union.md) — chair  
+- [[organisations/christian-national-union|Christian National Union]] — chair  
   > "Education [ edit ] Master of History, University of Wrocław 1987: Archivist, Archiwum Akt Nowych, Warsaw (1986) 'Solidarność' Archives Career [ edit ] 1988–1990: journalist with 'The Polish Daily', London editorial secretary 1991: Deputy editor-in-chief 'Wiadomości Dnia' 1991: editor-in-chief 'Dziennik Dolnośląski' (1991), acting director 'NORPOL-PRESS' 1993–1997: Chief Editor for Religious programmes, Polsat TV 2001–2004: Lecturer 1994–1996: Chairman of the Christian-Nationa"
-  > Source: [Ryszard Czarnecki](../sources/wikipedia-ryszard-czarnecki.md) · grade C
+  > Source: [[sources/wikipedia-ryszard-czarnecki|Ryszard Czarnecki]] · grade C
 
-- [Committee on European Law](../organisations/committee-on-european-law.md) — chair  
+- [[organisations/committee-on-european-law|Committee on European Law]] — chair  
   > "Education [ edit ] Master of History, University of Wrocław 1987: Archivist, Archiwum Akt Nowych, Warsaw (1986) 'Solidarność' Archives Career [ edit ] 1988–1990: journalist with 'The Polish Daily', London editorial secretary 1991: Deputy editor-in-chief 'Wiadomości Dnia' 1991: editor-in-chief 'Dziennik Dolnośląski' (1991), acting director 'NORPOL-PRESS' 1993–1997: Chief Editor for Religious programmes, Polsat TV 2001–2004: Lecturer 1994–1996: Chairman of the Christian-Nationa"
-  > Source: [Ryszard Czarnecki](../sources/wikipedia-ryszard-czarnecki.md) · grade A
+  > Source: [[sources/wikipedia-ryszard-czarnecki|Ryszard Czarnecki]] · grade A
 
-- [Parliamentary Committee on Culture and Media](../organisations/parliamentary-committee-on-culture-and-media.md) — chair  
+- [[organisations/parliamentary-committee-on-culture-and-media|Parliamentary Committee on Culture and Media]] — chair  
   > "Education [ edit ] Master of History, University of Wrocław 1987: Archivist, Archiwum Akt Nowych, Warsaw (1986) 'Solidarność' Archives Career [ edit ] 1988–1990: journalist with 'The Polish Daily', London editorial secretary 1991: Deputy editor-in-chief 'Wiadomości Dnia' 1991: editor-in-chief 'Dziennik Dolnośląski' (1991), acting director 'NORPOL-PRESS' 1993–1997: Chief Editor for Religious programmes, Polsat TV 2001–2004: Lecturer 1994–1996: Chairman of the Christian-Nationa"
-  > Source: [Ryszard Czarnecki](../sources/wikipedia-ryszard-czarnecki.md) · grade A
+  > Source: [[sources/wikipedia-ryszard-czarnecki|Ryszard Czarnecki]] · grade A
 
-- [Parliamentary Sub-committee on Copyright](../organisations/parliamentary-sub-committee-on-copyright.md) — chair  
+- [[organisations/parliamentary-sub-committee-on-copyright|Parliamentary Sub-committee on Copyright]] — chair  
   > "Education [ edit ] Master of History, University of Wrocław 1987: Archivist, Archiwum Akt Nowych, Warsaw (1986) 'Solidarność' Archives Career [ edit ] 1988–1990: journalist with 'The Polish Daily', London editorial secretary 1991: Deputy editor-in-chief 'Wiadomości Dnia' 1991: editor-in-chief 'Dziennik Dolnośląski' (1991), acting director 'NORPOL-PRESS' 1993–1997: Chief Editor for Religious programmes, Polsat TV 2001–2004: Lecturer 1994–1996: Chairman of the Christian-Nationa"
-  > Source: [Ryszard Czarnecki](../sources/wikipedia-ryszard-czarnecki.md) · grade A
+  > Source: [[sources/wikipedia-ryszard-czarnecki|Ryszard Czarnecki]] · grade A
 
-- [Polish-Italian Parliamentary Group](../organisations/polish-italian-parliamentary-group.md) — chair  
+- [[organisations/polish-italian-parliamentary-group|Polish-Italian Parliamentary Group]] — chair  
   > "Education [ edit ] Master of History, University of Wrocław 1987: Archivist, Archiwum Akt Nowych, Warsaw (1986) 'Solidarność' Archives Career [ edit ] 1988–1990: journalist with 'The Polish Daily', London editorial secretary 1991: Deputy editor-in-chief 'Wiadomości Dnia' 1991: editor-in-chief 'Dziennik Dolnośląski' (1991), acting director 'NORPOL-PRESS' 1993–1997: Chief Editor for Religious programmes, Polsat TV 2001–2004: Lecturer 1994–1996: Chairman of the Christian-Nationa"
-  > Source: [Ryszard Czarnecki](../sources/wikipedia-ryszard-czarnecki.md) · grade A
+  > Source: [[sources/wikipedia-ryszard-czarnecki|Ryszard Czarnecki]] · grade A
 
 ## Affiliation
 
-- [Committee on Constitutional Affairs](../organisations/committee-on-constitutional-affairs.md)  
+- [[organisations/committee-on-constitutional-affairs|Committee on Constitutional Affairs]]  
   > "He was part of the European Parliament Committee on Foreign Affairs , and a substitute for the Committee on Constitutional Affairs and a member of the Delegation for relations with the countries of south-east Europe."
-  > Source: [Ryszard Czarnecki](../sources/wikipedia-ryszard-czarnecki.md) · grade A
+  > Source: [[sources/wikipedia-ryszard-czarnecki|Ryszard Czarnecki]] · grade A
 
-- [North Atlantic Treaty Organization](../organisations/north-atlantic-treaty-organization.md)  
+- [[organisations/north-atlantic-treaty-organization|North Atlantic Treaty Organization]]  
   > "Education [ edit ] Master of History, University of Wrocław 1987: Archivist, Archiwum Akt Nowych, Warsaw (1986) 'Solidarność' Archives Career [ edit ] 1988–1990: journalist with 'The Polish Daily', London editorial secretary 1991: Deputy editor-in-chief 'Wiadomości Dnia' 1991: editor-in-chief 'Dziennik Dolnośląski' (1991), acting director 'NORPOL-PRESS' 1993–1997: Chief Editor for Religious programmes, Polsat TV 2001–2004: Lecturer 1994–1996: Chairman of the Christian-Nationa"
-  > Source: [Ryszard Czarnecki](../sources/wikipedia-ryszard-czarnecki.md) · grade A
+  > Source: [[sources/wikipedia-ryszard-czarnecki|Ryszard Czarnecki]] · grade A
 
-- [Parliamentary Assembly of the West European Union](../organisations/parliamentary-assembly-of-the-west-european-union.md)  
+- [[organisations/parliamentary-assembly-of-the-west-european-union|Parliamentary Assembly of the West European Union]]  
   > "Education [ edit ] Master of History, University of Wrocław 1987: Archivist, Archiwum Akt Nowych, Warsaw (1986) 'Solidarność' Archives Career [ edit ] 1988–1990: journalist with 'The Polish Daily', London editorial secretary 1991: Deputy editor-in-chief 'Wiadomości Dnia' 1991: editor-in-chief 'Dziennik Dolnośląski' (1991), acting director 'NORPOL-PRESS' 1993–1997: Chief Editor for Religious programmes, Polsat TV 2001–2004: Lecturer 1994–1996: Chairman of the Christian-Nationa"
-  > Source: [Ryszard Czarnecki](../sources/wikipedia-ryszard-czarnecki.md) · grade A
+  > Source: [[sources/wikipedia-ryszard-czarnecki|Ryszard Czarnecki]] · grade A
 
-- [Self-defence of the Polish Republic](../organisations/self-defence-of-the-polish-republic.md)  
+- [[organisations/self-defence-of-the-polish-republic|Self-defence of the Polish Republic]]  
   > "Education [ edit ] Master of History, University of Wrocław 1987: Archivist, Archiwum Akt Nowych, Warsaw (1986) 'Solidarność' Archives Career [ edit ] 1988–1990: journalist with 'The Polish Daily', London editorial secretary 1991: Deputy editor-in-chief 'Wiadomości Dnia' 1991: editor-in-chief 'Dziennik Dolnośląski' (1991), acting director 'NORPOL-PRESS' 1993–1997: Chief Editor for Religious programmes, Polsat TV 2001–2004: Lecturer 1994–1996: Chairman of the Christian-Nationa"
-  > Source: [Ryszard Czarnecki](../sources/wikipedia-ryszard-czarnecki.md) · grade A
+  > Source: [[sources/wikipedia-ryszard-czarnecki|Ryszard Czarnecki]] · grade A

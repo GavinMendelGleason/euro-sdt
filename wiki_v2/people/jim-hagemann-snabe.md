@@ -18,12 +18,12 @@ Corporate Elite
 
 ## Education
 
-- [Aarhus School of Business](../organisations/aarhus-school-of-business.md)  
+- [[organisations/aarhus-school-of-business|Aarhus School of Business]]  
   > "From 1984 to 1990 he studied Operations research at the Aarhus School of Business."
-  > Source: [Corp Jim Hagemann Snabe](../sources/wikipedia-corp-jim-hagemann-snabe.md) · grade A
+  > Source: [[sources/wikipedia-corp-jim-hagemann-snabe|Corp Jim Hagemann Snabe]] · grade A
 
 ## Employment
 
-- [Siemens](../organisations/siemens.md)  
+- [[organisations/siemens|Siemens]]  
   > "Jim Hagemann Snabe (born October 27, 1965) is a Danish businessman, and the chairman of Siemens."
-  > Source: [Corp Jim Hagemann Snabe](../sources/wikipedia-corp-jim-hagemann-snabe.md) · grade A
+  > Source: [[sources/wikipedia-corp-jim-hagemann-snabe|Corp Jim Hagemann Snabe]] · grade A

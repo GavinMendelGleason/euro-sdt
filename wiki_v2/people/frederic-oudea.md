@@ -18,10 +18,10 @@ Corporate Elite
 
 ## Education
 
-- [École nationale d'administration](../organisations/ecole-nationale-d-administration.md)  
+- [[organisations/ecole-nationale-d-administration|École nationale d'administration]]  
   > "He then went to the École polytechnique , followed by the École nationale d'administration ."
-  > Source: [Fr D Ric Oud A](../sources/wikipedia-fr-d-ric-oud-a.md) · grade C
+  > Source: [[sources/wikipedia-fr-d-ric-oud-a|Fr D Ric Oud A]] · grade C
 
-- [École Polytechnique](../organisations/ecole-polytechnique.md)  
+- [[organisations/ecole-polytechnique|École Polytechnique]]  
   > "He then went to the École polytechnique , followed by the École nationale d'administration ."
-  > Source: [Fr D Ric Oud A](../sources/wikipedia-fr-d-ric-oud-a.md) · grade C
+  > Source: [[sources/wikipedia-fr-d-ric-oud-a|Fr D Ric Oud A]] · grade C

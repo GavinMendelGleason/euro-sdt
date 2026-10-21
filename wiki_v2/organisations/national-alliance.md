@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Cristiana Muscardini](../people/cristiana-muscardini.md) — employed_by  
+- [[people/cristiana-muscardini|Cristiana Muscardini]] — employed_by  
   > "Graduated in philosophy, Cristiana Muscardini was executive of the National University Action Front, the Italian Social Movement and National Alliance."
-  > Source: [Cristiana Muscardini](../sources/wikipedia-cristiana-muscardini.md) · grade A
+  > Source: [[sources/wikipedia-cristiana-muscardini|Cristiana Muscardini]] · grade A

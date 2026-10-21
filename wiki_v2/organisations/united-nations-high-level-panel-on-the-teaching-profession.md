@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Jutta Urpilainen](../people/jutta-urpilainen.md)  
+- [[people/jutta-urpilainen|Jutta Urpilainen]]  
   > "Also since 2023, she has also been a member of the United Nations High-level Panel on the Teaching Profession, co-chaired by Kersti Kaljulaid and Paula-Mae Weekes."
-  > Source: [Jutta Urpilainen](../sources/wikipedia-jutta-urpilainen.md) · grade A
+  > Source: [[sources/wikipedia-jutta-urpilainen|Jutta Urpilainen]] · grade A

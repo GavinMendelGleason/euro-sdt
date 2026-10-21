@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Stefan Olsson](../people/stefan-olsson.md)  
+- [[people/stefan-olsson|Stefan Olsson]]  
   > " 1988 – 1989 Economics, Stockholm Business School, Sweden"
-  > Source: [Stefan Olsson](../sources/dg_cv-stefan-olsson.md) · grade A
+  > Source: [[sources/dg_cv-stefan-olsson|Stefan Olsson]] · grade A

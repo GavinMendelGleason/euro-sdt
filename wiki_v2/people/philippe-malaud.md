@@ -18,16 +18,16 @@ Mep
 
 ## Education
 
-- [École nationale d'administration](../organisations/ecole-nationale-d-administration.md)  
+- [[organisations/ecole-nationale-d-administration|École nationale d'administration]]  
   > "He graduated from the École nationale d'administration in 1956."
-  > Source: [Philippe Malaud](../sources/wikipedia-philippe-malaud.md) · grade B
+  > Source: [[sources/wikipedia-philippe-malaud|Philippe Malaud]] · grade B
 
 ## Membership
 
-- [Independent Republicans](../organisations/independent-republicans.md)  
+- [[organisations/independent-republicans|Independent Republicans]]  
   > "From 1968 until 1978, he was a member of the Independent Republicans ."
-  > Source: [Philippe Malaud](../sources/wikipedia-philippe-malaud.md) · grade A
+  > Source: [[sources/wikipedia-philippe-malaud|Philippe Malaud]] · grade A
 
-- [Parliament](../organisations/parliament.md)  
+- [[organisations/parliament|Parliament]]  
   > "Between 1973 and 1981, he was a member of the Parliament ."
-  > Source: [Philippe Malaud](../sources/wikipedia-philippe-malaud.md) · grade A
+  > Source: [[sources/wikipedia-philippe-malaud|Philippe Malaud]] · grade A

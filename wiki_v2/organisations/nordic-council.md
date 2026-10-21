@@ -15,9 +15,9 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Outi Ojala](../people/outi-ojala.md) — chair  
+- [[people/outi-ojala|Outi Ojala]] — chair  
   > "&#91; 3 &#93; She was President of the Nordic Council in 2002."
-  > Source: [Outi Ojala](../sources/wikipedia-outi-ojala.md) · grade A
-- [Poul Nielson](../people/poul-nielson.md)  
+  > Source: [[sources/wikipedia-outi-ojala|Outi Ojala]] · grade A
+- [[people/poul-nielson|Poul Nielson]]  
   > "Life after politics In April 2015, Nielson was asked to conduct a strategic review of the labour market on behalf of the Nordic Council."
-  > Source: [Poul Nielson](../sources/wikipedia-poul-nielson.md) · grade B
+  > Source: [[sources/wikipedia-poul-nielson|Poul Nielson]] · grade B

@@ -15,12 +15,12 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Apostolos Tzitzikostas](../people/apostolos-tzitzikostas.md)  
+- [[people/apostolos-tzitzikostas|Apostolos Tzitzikostas]]  
   > "Following his graduation in Public Policy and Economics at the University College of London, he returned to Greece."
-  > Source: [Apostolos Tzitzikostas](../sources/wikipedia-apostolos-tzitzikostas.md) · grade A
-- [Jonathan Hill](../people/jonathan-hill.md)  
+  > Source: [[sources/wikipedia-apostolos-tzitzikostas|Apostolos Tzitzikostas]] · grade A
+- [[people/jonathan-hill|Jonathan Hill]]  
   > "Biography Jonathan Hill received a Diploma from the Architectural Association School of Architecture in 1983, a Master of Science degree from University College London in 1990, and a Doctor of Philosophy degree from the University of London in 2000."
-  > Source: [Jonathan Hill](../sources/wikipedia-jonathan-hill.md) · grade A
-- [Kadri Simson](../people/kadri-simson.md)  
+  > Source: [[sources/wikipedia-jonathan-hill|Jonathan Hill]] · grade A
+- [[people/kadri-simson|Kadri Simson]]  
   > "She holds an MA in Political Science from University College London (2003)."
-  > Source: [Kadri Simson](../sources/wikipedia-kadri-simson.md) · grade A
+  > Source: [[sources/wikipedia-kadri-simson|Kadri Simson]] · grade A

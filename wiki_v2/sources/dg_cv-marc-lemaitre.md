@@ -15,7 +15,7 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (2)
 
-- [Marc Lemaître](../people/marc-lemaitre.md) — educated_at — College of Europe
+- [[people/marc-lemaitre|Marc Lemaître]] — educated_at — College of Europe
   > "Marc Lemaître studied at Université Libre de Bruxelles (ULB) and Bruges (College of Europe) and holds a Master in European Economics."
-- [Marc Lemaître](../people/marc-lemaitre.md) — held_position — Director-General → Directorate-General for Research and Innovation
+- [[people/marc-lemaitre|Marc Lemaître]] — held_position — Director-General → Directorate-General for Research and Innovation
   > "Mr Marc Lemaître, Director-General for Research and Innovation (RTD)."

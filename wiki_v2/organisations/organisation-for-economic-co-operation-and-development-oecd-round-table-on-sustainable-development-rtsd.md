@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Connie Hedegaard](../people/connie-hedegaard.md)  
+- [[people/connie-hedegaard|Connie Hedegaard]]  
   > "Organisation for Economic Co-operation and Development (OECD), Round Table on Sustainable Development (RTSD), Member"
-  > Source: [Connie Hedegaard](../sources/wikipedia-connie-hedegaard.md) · grade A
+  > Source: [[sources/wikipedia-connie-hedegaard|Connie Hedegaard]] · grade A

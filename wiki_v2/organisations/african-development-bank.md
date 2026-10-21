@@ -14,9 +14,9 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Maria Luís Albuquerque](../people/maria-luis-albuquerque.md) — board_member  
+- [[people/maria-luis-albuquerque|Maria Luís Albuquerque]] — board_member  
   > "African Development Bank, ex-officio member of the board of governors (2013–2015)"
-  > Source: [Maria Luis Albuquerque](../sources/wikipedia-maria-luis-albuquerque.md) · grade A
-- [Pedro Solbes](../people/pedro-solbes.md) — board_member  
+  > Source: [[sources/wikipedia-maria-luis-albuquerque|Maria Luis Albuquerque]] · grade A
+- [[people/pedro-solbes|Pedro Solbes]] — board_member  
   > "African Development Bank (AfDB), ex-officio member of the Board of Governors (2004–2009)"
-  > Source: [Pedro Solbes](../sources/wikipedia-pedro-solbes.md) · grade A
+  > Source: [[sources/wikipedia-pedro-solbes|Pedro Solbes]] · grade A

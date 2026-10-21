@@ -16,27 +16,27 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (12)
 
-- [Kadri Simson](../people/kadri-simson.md) — board_member — NGO Institute of Recent Studies
+- [[people/kadri-simson|Kadri Simson]] — board_member — NGO Institute of Recent Studies
   > "Simson was a board member of the NGO Institute of Recent Studies."
-- [Kadri Simson](../people/kadri-simson.md) — chair — Pärnumaa region
+- [[people/kadri-simson|Kadri Simson]] — chair — Pärnumaa region
   > "Simson served as chairwoman of the Pärnumaa region from 2011 until 2021."
-- [Kadri Simson](../people/kadri-simson.md) — educated_at — University College London
+- [[people/kadri-simson|Kadri Simson]] — educated_at — University College London
   > "She holds an MA in Political Science from University College London (2003)."
-- [Kadri Simson](../people/kadri-simson.md) — educated_at — Tartu 10Th Middle School
+- [[people/kadri-simson|Kadri Simson]] — educated_at — Tartu 10Th Middle School
   > "Simson graduated from Tartu 10th Middle School in 1995, Tartu University in 2000, (majoring in history)."
-- [Kadri Simson](../people/kadri-simson.md) — educated_at — Tartu 10th Middle School in 1995
+- [[people/kadri-simson|Kadri Simson]] — educated_at — Tartu 10th Middle School in 1995
   > "Simson graduated from Tartu 10th Middle School in 1995, Tartu University in 2000, (majoring in history)."
-- [Kadri Simson](../people/kadri-simson.md) — from_country — Estonia
+- [[people/kadri-simson|Kadri Simson]] — from_country — Estonia
   > "Kadri Simson (née Must, born 22 January 1977) is an Estonian politician, formerly from the Centre Party, who served as the European Commissioner for Energy in the von der Leyen Commission between 2019"
-- [Kadri Simson](../people/kadri-simson.md) — held_portfolio — Energy
+- [[people/kadri-simson|Kadri Simson]] — held_portfolio — Energy
   > "Kadri Simson (née Must, born 22 January 1977) is an Estonian politician, formerly from the Centre Party, who served as the European Commissioner for Energy in the von der Leyen Commission between 2019"
-- [Kadri Simson](../people/kadri-simson.md) — member — Paris Peace Forum
+- [[people/kadri-simson|Kadri Simson]] — member — Paris Peace Forum
   > "Other activities Paris Peace Forum, Member of the Global Council for Responsible Transition Minerals (since 2025) Personal life Between 6 June 2008 and February 2015, Simson was married to journalist Priit Simson."
-- [Kadri Simson](../people/kadri-simson.md) — member — Estonian Centre Party
+- [[people/kadri-simson|Kadri Simson]] — member — Estonian Centre Party
   > "Simson was a member of the Estonian Centre Party from 1995 to 2024."
-- [Kadri Simson](../people/kadri-simson.md) — member — Paris Peace Forum
+- [[people/kadri-simson|Kadri Simson]] — member — Paris Peace Forum
   > "Paris Peace Forum, Member of the Global Council for Responsible Transition Minerals (since 2025)"
-- [Kadri Simson](../people/kadri-simson.md) — nominated_by — EST
+- [[people/kadri-simson|Kadri Simson]] — nominated_by — EST
   > "Kadri Simson (née Must, born 22 January 1977) is an Estonian politician, formerly from the Centre Party, who served as the European Commissioner for Energy in the von der Leyen Commission between 2019 and 2024."
-- [Kadri Simson](../people/kadri-simson.md) — served_on_commission — VdL I Commission
+- [[people/kadri-simson|Kadri Simson]] — served_on_commission — VdL I Commission
   > "Kadri Simson (née Must, born 22 January 1977) is an Estonian politician, formerly from the Centre Party, who served as the European Commissioner for Energy in the von der Leyen Commission between 2019"

@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Rodi Kratsa-Tsagaropoulou](../people/rodi-kratsa-tsagaropoulou.md)  
+- [[people/rodi-kratsa-tsagaropoulou|Rodi Kratsa-Tsagaropoulou]]  
   > "She is currently a Member of the UN Alliance of Civilisations Chair at Euro-Mediterranean University of Morocco (UEMF)."
-  > Source: [Rodi Kratsa Tsagaropoulou](../sources/wikipedia-rodi-kratsa-tsagaropoulou.md) · grade A
+  > Source: [[sources/wikipedia-rodi-kratsa-tsagaropoulou|Rodi Kratsa Tsagaropoulou]] · grade A

@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Günther Oettinger](../people/gunther-oettinger.md)  
+- [[people/gunther-oettinger|Günther Oettinger]]  
   > "He grew up in Ditzingen, and attended school at Gymnasium Korntal-Münchingen."
-  > Source: [Gunther Oettinger](../sources/wikipedia-gunther-oettinger.md) · grade A
+  > Source: [[sources/wikipedia-gunther-oettinger|Gunther Oettinger]] · grade A

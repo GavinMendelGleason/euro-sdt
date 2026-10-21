@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Mario Monti](../people/mario-monti.md) — chair  
+- [[people/mario-monti|Mario Monti]] — chair  
   > "In January 2014, Monti became Chairman of the High Level Group on Own Resources, a consultative committee of the European Union aimed at proposing new forms of revenue for the European Union's budget."
-  > Source: [Mario Monti](../sources/wikipedia-mario-monti.md) · grade A
+  > Source: [[sources/wikipedia-mario-monti|Mario Monti]] · grade A

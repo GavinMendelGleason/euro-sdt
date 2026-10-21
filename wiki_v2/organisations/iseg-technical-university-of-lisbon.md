@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Maria Luís Albuquerque](../people/maria-luis-albuquerque.md)  
+- [[people/maria-luis-albuquerque|Maria Luís Albuquerque]]  
   > "She graduated in economics in 1991 from Universidade Lusíada, in Lisbon, and holds a Master's degree (1997) in Monetary and Financial Economics from ISEG, Technical University of Lisbon."
-  > Source: [Maria Luis Albuquerque](../sources/wikipedia-maria-luis-albuquerque.md) · grade A
+  > Source: [[sources/wikipedia-maria-luis-albuquerque|Maria Luis Albuquerque]] · grade A

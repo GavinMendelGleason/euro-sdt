@@ -18,6 +18,6 @@ Dg
 
 ## Education
 
-- [University of Ghent](../organisations/university-of-ghent.md)  
+- [[organisations/university-of-ghent|University of Ghent]]  
   > "Industrial Management, Vlerick Business School – Ghent, Belgium ➢ 1993 M.Sc."
-  > Source: [Philippe Van Damme](../sources/dg_cv-philippe-van-damme.md) · grade A
+  > Source: [[sources/dg_cv-philippe-van-damme|Philippe Van Damme]] · grade A

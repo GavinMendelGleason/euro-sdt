@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Pál Schmitt](../people/pal-schmitt.md) — chair  
+- [[people/pal-schmitt|Pál Schmitt]] — chair  
   > "He later became the Chief of Protocol of the International Olympic Committee (IOC) and presided over the World Olympians Association between 1999 and 2007."
-  > Source: [P L Schmitt](../sources/wikipedia-p-l-schmitt.md) · grade C
+  > Source: [[sources/wikipedia-p-l-schmitt|P L Schmitt]] · grade C

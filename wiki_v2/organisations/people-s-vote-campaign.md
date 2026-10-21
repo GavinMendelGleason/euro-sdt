@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Edward McMillan-Scott](../people/edward-mcmillan-scott.md)  
+- [[people/edward-mcmillan-scott|Edward McMillan-Scott]]  
   > "McMillan-Scott and colleagues raised over £2 million for the People's Vote campaign, launched in April 2018 to campaign for a second referendum on Brexit."
-  > Source: [Edward Mcmillan Scott](../sources/wikipedia-edward-mcmillan-scott.md) · grade B
+  > Source: [[sources/wikipedia-edward-mcmillan-scott|Edward Mcmillan Scott]] · grade B

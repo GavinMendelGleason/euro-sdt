@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Janez Potocnik](../people/janez-potocnik.md) — advisory_board  
+- [[people/janez-potocnik|Janez Potocnik]] — advisory_board  
   > "In 2020, he served on the advisory board of the annual Human Development Report of the United Nations Development Programme (UNDP), co-chaired by Tharman Shanmugaratnam and Michael Spence"
-  > Source: [Janez Potocnik](../sources/wikipedia-janez-potocnik.md) · grade A
+  > Source: [[sources/wikipedia-janez-potocnik|Janez Potocnik]] · grade A

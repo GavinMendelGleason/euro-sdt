@@ -16,5 +16,5 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (1)
 
-- [Ramón Luis Valcárcel](../people/ramon-luis-valcarcel.md) — chair — Committee of the Regions (CoR) of the European Union
+- [[people/ramon-luis-valcarcel|Ramón Luis Valcárcel]] — chair — Committee of the Regions (CoR) of the European Union
   > "Prior to his service in the European Parliament, he served as President of the Autonomous Community of the Region of Murcia from 1995 to 2014, and as a former president of the Committee of the Regions (CoR) of the European Union ."

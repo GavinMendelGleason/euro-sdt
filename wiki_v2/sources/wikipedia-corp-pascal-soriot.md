@@ -16,9 +16,9 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (3)
 
-- [Pascal Soriot](../people/pascal-soriot.md) — educated_at — École nationale vétérinaire d'Alfort
+- [[people/pascal-soriot|Pascal Soriot]] — educated_at — École nationale vétérinaire d'Alfort
   > "He studied veterinary medicine at the École nationale vétérinaire d'Alfort at Maisons-Alfort in Paris."
-- [Pascal Soriot](../people/pascal-soriot.md) — educated_at — Hec Paris
+- [[people/pascal-soriot|Pascal Soriot]] — educated_at — Hec Paris
   > "He later obtained an MBA at HEC Paris."
-- [Pascal Soriot](../people/pascal-soriot.md) — employed_by — AstraZeneca
+- [[people/pascal-soriot|Pascal Soriot]] — employed_by — AstraZeneca
   > "Sir Pascal Claude Roland Soriot (born 23 May 1959) is a French-born Australian businessman and chief executive of the British-Swedish multinational pharmaceutical and biotechnology company AstraZeneca."

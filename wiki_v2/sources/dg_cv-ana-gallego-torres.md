@@ -15,7 +15,7 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (2)
 
-- [Ana Gallego Torres](../people/ana-gallego-torres.md) — educated_at — University Of Granada
+- [[people/ana-gallego-torres|Ana Gallego Torres]] — educated_at — University Of Granada
   > "Spanish Academic qualifications  1992 – 1998: Degree in Law – University of Granada, Spain"
-- [Ana Gallego Torres](../people/ana-gallego-torres.md) — held_position — Director-General → Directorate-General for Justice and Consumers
+- [[people/ana-gallego-torres|Ana Gallego Torres]] — held_position — Director-General → Directorate-General for Justice and Consumers
   > "Professional experience in the European Institutions  16 November 2021 to date : Director-General – Directorate-General “Justice and Consumers” (DG JUST) Professional experience before joining the European Institutions  06/2018 – 11/2021: Director-General of International Legal Cooperation and Human Rights , Ministry of Justice - Spain"

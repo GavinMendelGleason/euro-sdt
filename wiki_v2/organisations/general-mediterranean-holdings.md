@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Jacques Santer](../people/jacques-santer.md) — board_member  
+- [[people/jacques-santer|Jacques Santer]] — board_member  
   > "He also was on General Mediterranean Holdings' board, a financial holding owned by Anglo-Iraqi Nadhmi Auchi."
-  > Source: [Jacques Santer](../sources/wikipedia-jacques-santer.md) · grade A
+  > Source: [[sources/wikipedia-jacques-santer|Jacques Santer]] · grade A

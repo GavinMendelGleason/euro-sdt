@@ -18,26 +18,26 @@ Mep
 
 ## Education
 
-- [Warsaw University](../organisations/warsaw-university.md)  
+- [[organisations/warsaw-university|Warsaw University]]  
   > "&#91; 4 &#93; He graduated in mathematics from Warsaw University ."
-  > Source: [Janusz Onyszkiewicz](../sources/wikipedia-janusz-onyszkiewicz.md) · grade A
+  > Source: [[sources/wikipedia-janusz-onyszkiewicz|Janusz Onyszkiewicz]] · grade A
 
 ## Membership
 
-- [Democratic Party](../organisations/democratic-party.md)  
+- [[organisations/democratic-party|Democratic Party]]  
   > "&#91; 4 &#93; In 1999, Onyszkiewicz was awarded the Manfred Wörner Medal by the German Minister of Defence."
-  > Source: [Janusz Onyszkiewicz](../sources/wikipedia-janusz-onyszkiewicz.md) · grade A
+  > Source: [[sources/wikipedia-janusz-onyszkiewicz|Janusz Onyszkiewicz]] · grade A
 
-- [Democratic Union](../organisations/democratic-union.md)  
+- [[organisations/democratic-union|Democratic Union]]  
   > "Today, he is a member of the Democratic Party , the continuation of Democratic Union."
-  > Source: [Janusz Onyszkiewicz](../sources/wikipedia-janusz-onyszkiewicz.md) · grade A
+  > Source: [[sources/wikipedia-janusz-onyszkiewicz|Janusz Onyszkiewicz]] · grade A
 
-- [European Parliament](../organisations/european-parliament.md)  
+- [[organisations/european-parliament|European Parliament]]  
   > "On 20 July 2004 he was elected a vice-president of the European Parliament."
-  > Source: [Janusz Onyszkiewicz](../sources/wikipedia-janusz-onyszkiewicz.md) · grade B
+  > Source: [[sources/wikipedia-janusz-onyszkiewicz|Janusz Onyszkiewicz]] · grade B
 
 ## Board / trustee
 
-- [ICDT](../organisations/icdt.md) — board_member  
+- [[organisations/icdt|ICDT]] — board_member  
   > "&#91; 11 &#93; References [ edit ] ^ a b c Europa Publications, \"The International Who's Who 2004\", Routledge, 2003, pg."
-  > Source: [Janusz Onyszkiewicz](../sources/wikipedia-janusz-onyszkiewicz.md) · grade A
+  > Source: [[sources/wikipedia-janusz-onyszkiewicz|Janusz Onyszkiewicz]] · grade A

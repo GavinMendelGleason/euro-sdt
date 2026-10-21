@@ -18,12 +18,12 @@ Corporate Elite
 
 ## Education
 
-- [École nationale des ponts et chaussées](../organisations/ecole-nationale-des-ponts-et-chaussees.md)  
+- [[organisations/ecole-nationale-des-ponts-et-chaussees|École nationale des ponts et chaussées]]  
   > "She earned her bachelor's degree in engineering from École nationale des ponts et chaussées in 1999."
-  > Source: [Corp Christel Heydemann](../sources/wikipedia-corp-christel-heydemann.md) · grade A
+  > Source: [[sources/wikipedia-corp-christel-heydemann|Corp Christel Heydemann]] · grade A
 
 ## Employment
 
-- [Orange](../organisations/orange.md)  
+- [[organisations/orange|Orange]]  
   > "Christel Heydemann (born 9 October 1974) is a French businesswoman and the chief executive officer (CEO) of the French telecommunications company Orange S.A. since April 2022."
-  > Source: [Corp Christel Heydemann](../sources/wikipedia-corp-christel-heydemann.md) · grade A
+  > Source: [[sources/wikipedia-corp-christel-heydemann|Corp Christel Heydemann]] · grade A

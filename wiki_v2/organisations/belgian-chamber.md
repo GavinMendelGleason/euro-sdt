@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Karel Van Miert](../people/karel-van-miert.md)  
+- [[people/karel-van-miert|Karel Van Miert]]  
   > "Deputy in the Belgian Chamber (1985–1988)"
-  > Source: [Karel Van Miert](../sources/wikipedia-karel-van-miert.md) · grade A
+  > Source: [[sources/wikipedia-karel-van-miert|Karel Van Miert]] · grade A

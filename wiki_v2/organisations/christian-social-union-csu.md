@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Manfred Weber](../people/manfred-weber.md)  
+- [[people/manfred-weber|Manfred Weber]]  
   > "He is a member of the Christian Social Union (CSU), part of the European People's Party ."
-  > Source: [Manfred Weber](../sources/wikipedia-manfred-weber.md) · grade A
+  > Source: [[sources/wikipedia-manfred-weber|Manfred Weber]] · grade A

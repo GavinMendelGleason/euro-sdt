@@ -20,60 +20,60 @@ Commissioner · BEL
 
 - Competition  
   > "From 1993 till 1999 he served as vice-chairman of the European commission and was responsible for competition policy."
-  > Source: [Karel Van Miert](../sources/wikipedia-karel-van-miert.md) · grade A
+  > Source: [[sources/wikipedia-karel-van-miert|Karel Van Miert]] · grade A
 
 ## Nominated by
 
 - BEL  
   > "Karel Antonius Lucia Maria Van Miert (Dutch: [ˈkaːrəl vɑ ˈmiːrt]; 17 January 1942 – 22 June 2009) was a Belgian politician of the Different Socialist Party and official of the European Commission."
-  > Source: [Karel Van Miert](../sources/wikipedia-karel-van-miert.md) · grade A
+  > Source: [[sources/wikipedia-karel-van-miert|Karel Van Miert]] · grade A
 
 ## Country
 
 - Belgium  
   > "Karel Antonius Lucia Maria Van Miert (Dutch: [ˈkaːrəl vɑ ˈmiːrt]; 17 January 1942 – 22 June 2009) was a Belgian politician of the Different Socialist Party and official of the European Commission."
-  > Source: [Karel Van Miert](../sources/wikipedia-karel-van-miert.md) · grade C
+  > Source: [[sources/wikipedia-karel-van-miert|Karel Van Miert]] · grade C
 
 ## Education
 
-- [Ghent University](../organisations/ghent-university.md)  
+- [[organisations/ghent-university|Ghent University]]  
   > "He studied at Ghent University (1962–1966) and gained a degree in diplomatic sciences."
-  > Source: [Karel Van Miert](../sources/wikipedia-karel-van-miert.md) · grade A
+  > Source: [[sources/wikipedia-karel-van-miert|Karel Van Miert]] · grade A
 
 ## Membership
 
-- [Belgian Chamber](../organisations/belgian-chamber.md)  
+- [[organisations/belgian-chamber|Belgian Chamber]]  
   > "Deputy in the Belgian Chamber (1985–1988)"
-  > Source: [Karel Van Miert](../sources/wikipedia-karel-van-miert.md) · grade A
+  > Source: [[sources/wikipedia-karel-van-miert|Karel Van Miert]] · grade A
 
-- [European Parliament](../organisations/european-parliament.md)  
+- [[organisations/european-parliament|European Parliament]]  
   > "Member of the European Parliament (1979–1985)"
-  > Source: [Karel Van Miert](../sources/wikipedia-karel-van-miert.md) · grade A
+  > Source: [[sources/wikipedia-karel-van-miert|Karel Van Miert]] · grade A
 
 ## Advisory board
 
-- [Goldman Sachs](../organisations/goldman-sachs.md) — advisory_board  
+- [[organisations/goldman-sachs|Goldman Sachs]] — advisory_board  
   > "After his departure from politics Van Miert was an international advisor to Goldman Sachs."
-  > Source: [Karel Van Miert](../sources/wikipedia-karel-van-miert.md) · grade A
+  > Source: [[sources/wikipedia-karel-van-miert|Karel Van Miert]] · grade A
 
 ## Chair / president
 
-- [Different Socialist Party](../organisations/different-socialist-party.md) — chair  
+- [[organisations/different-socialist-party|Different Socialist Party]] — chair  
   > "Two years later he became president of the Different Socialist Party."
-  > Source: [Karel Van Miert](../sources/wikipedia-karel-van-miert.md) · grade A
+  > Source: [[sources/wikipedia-karel-van-miert|Karel Van Miert]] · grade A
 
 ## Affiliation
 
-- [Belgian socialist party](../organisations/belgian-socialist-party.md)  
+- [[organisations/belgian-socialist-party|Belgian socialist party]]  
   > "In 1976 he became adjunct-national secretary of the – at that time – unitary Belgian socialist party."
-  > Source: [Karel Van Miert](../sources/wikipedia-karel-van-miert.md) · grade B
+  > Source: [[sources/wikipedia-karel-van-miert|Karel Van Miert]] · grade B
 
 ## Employment
 
-- [Eli Lilly and Company](../organisations/eli-lilly-and-company.md) — employed_by  
+- [[organisations/eli-lilly-and-company|Eli Lilly and Company]] — employed_by  
   > "He also worked with Eli Lilly and Company, a global pharmaceutical corporation."
-  > Source: [Karel Van Miert](../sources/wikipedia-karel-van-miert.md) · grade A
+  > Source: [[sources/wikipedia-karel-van-miert|Karel Van Miert]] · grade A
 
-- [European Commission](../organisations/european-commission.md) — chair; employed_by  
+- [[organisations/european-commission|European Commission]] — chair; employed_by  
   > "From 1993 till 1999 he served as vice-chairman of the European commission and was responsible for competition policy."
-  > Source: [Karel Van Miert](../sources/wikipedia-karel-van-miert.md) · grade A
+  > Source: [[sources/wikipedia-karel-van-miert|Karel Van Miert]] · grade A

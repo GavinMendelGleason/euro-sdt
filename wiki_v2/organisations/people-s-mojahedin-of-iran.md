@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Alejo Vidal-Quadras](../people/alejo-vidal-quadras.md)  
+- [[people/alejo-vidal-quadras|Alejo Vidal-Quadras]]  
   > "&#91; 3 &#93; &#91; 4 &#93; Vidal-Quadras has aligned with People's Mojahedin of Iran , which led the Iranian Foreign Ministry to impose sanctions on him in 2023."
-  > Source: [Alejo Vidal Quadras Roca](../sources/wikipedia-alejo-vidal-quadras-roca.md) · grade C
+  > Source: [[sources/wikipedia-alejo-vidal-quadras-roca|Alejo Vidal Quadras Roca]] · grade C

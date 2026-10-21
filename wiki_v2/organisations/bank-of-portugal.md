@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Elisa Ferreira](../people/elisa-ferreira.md) — board_member; employed_by  
+- [[people/elisa-ferreira|Elisa Ferreira]] — board_member; employed_by  
   > "In June 2016, Elisa Ferreira resigned from the European Parliament after she was nominated by the Portuguese Government to join the board of directors of the Bank of Portugal."
-  > Source: [Elisa Ferreira](../sources/wikipedia-elisa-ferreira.md) · grade A
+  > Source: [[sources/wikipedia-elisa-ferreira|Elisa Ferreira]] · grade A

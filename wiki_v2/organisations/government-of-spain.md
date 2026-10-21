@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Juan Ignacio Zoido](../people/juan-ignacio-zoido.md)  
+- [[people/juan-ignacio-zoido|Juan Ignacio Zoido]]  
   > "Zoido was the Minister of the Interior between November 2016 and June 2018, when a vote of no-confidence against Mariano Rajoy ousted the government."
-  > Source: [Juan Ignacio Zoido](../sources/wikipedia-juan-ignacio-zoido.md) · grade C
+  > Source: [[sources/wikipedia-juan-ignacio-zoido|Juan Ignacio Zoido]] · grade C

@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Elzbieta Bienkowska](../people/elzbieta-bienkowska.md) — board_member  
+- [[people/elzbieta-bienkowska|Elzbieta Bienkowska]] — board_member  
   > "TuBerculosis Vaccine Initiative (TBVI), Member of the Governance Board"
-  > Source: [Elzbieta Bienkowska](../sources/wikipedia-elzbieta-bienkowska.md) · grade A
+  > Source: [[sources/wikipedia-elzbieta-bienkowska|Elzbieta Bienkowska]] · grade A

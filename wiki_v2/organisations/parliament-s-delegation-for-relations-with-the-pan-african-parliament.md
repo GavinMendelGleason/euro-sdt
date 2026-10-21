@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Andrus Ansip](../people/andrus-ansip.md)  
+- [[people/andrus-ansip|Andrus Ansip]]  
   > "In addition to his committee assignments, Ansip is part of the Parliament's delegation for relations with the Pan-African Parliament."
-  > Source: [Andrus Ansip](../sources/wikipedia-andrus-ansip.md) · grade A
+  > Source: [[sources/wikipedia-andrus-ansip|Andrus Ansip]] · grade A

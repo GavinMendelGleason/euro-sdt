@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Richard Falbr](../people/richard-falbr.md)  
+- [[people/richard-falbr|Richard Falbr]]  
   > "&#91; citation needed &#93; In 1969, Falbr graduated from the Law Faculty of Charles University in Prague as a Doctor of Jurisprudence."
-  > Source: [Richard Falbr](../sources/wikipedia-richard-falbr.md) · grade C
+  > Source: [[sources/wikipedia-richard-falbr|Richard Falbr]] · grade C

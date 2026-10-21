@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Sir Leon Brittan](../people/sir-leon-brittan.md) — employed_by  
+- [[people/sir-leon-brittan|Sir Leon Brittan]] — employed_by  
   > "He was then promoted to become Chief Secretary to the Treasury, becoming the youngest member of the Cabinet."
-  > Source: [Sir Leon Brittan](../sources/wikipedia-sir-leon-brittan.md) · grade A
+  > Source: [[sources/wikipedia-sir-leon-brittan|Sir Leon Brittan]] · grade A

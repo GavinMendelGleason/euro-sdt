@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Jim Nicholson (Northern Ireland politician)](../people/jim-nicholson-northern-ireland-politician.md)  
+- [[people/jim-nicholson-northern-ireland-politician|Jim Nicholson (Northern Ireland politician)]]  
   > "In 1997, however, he transferred to the eurosceptic Independents for a Europe of Nations group."
-  > Source: [Jim Nicholson Northern Ireland Politician](../sources/wikipedia-jim-nicholson-northern-ireland-politician.md) · grade B
+  > Source: [[sources/wikipedia-jim-nicholson-northern-ireland-politician|Jim Nicholson Northern Ireland Politician]] · grade B

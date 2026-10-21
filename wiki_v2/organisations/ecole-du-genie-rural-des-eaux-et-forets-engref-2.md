@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Myriam Ferran](../people/myriam-ferran.md)  
+- [[people/myriam-ferran|Myriam Ferran]]  
   > " 09/1990 – 12/1992: Ingénieur du corps du génie rural des eaux et forêts (IGREF) – École du Génie Rural des Eaux et Forêts (ENGREF)"
-  > Source: [Myriam Ferran](../sources/dg_cv-myriam-ferran.md) · grade B
+  > Source: [[sources/dg_cv-myriam-ferran|Myriam Ferran]] · grade B

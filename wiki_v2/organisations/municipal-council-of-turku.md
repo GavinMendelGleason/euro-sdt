@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Pertti Paasio](../people/pertti-paasio.md)  
+- [[people/pertti-paasio|Pertti Paasio]]  
   > "Paasio participated in the municipal politics of Turku and was elected into the municipal council in 1965."
-  > Source: [Pertti Paasio](../sources/wikipedia-pertti-paasio.md) · grade B
+  > Source: [[sources/wikipedia-pertti-paasio|Pertti Paasio]] · grade B

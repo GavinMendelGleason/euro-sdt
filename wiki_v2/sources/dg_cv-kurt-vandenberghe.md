@@ -15,9 +15,9 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (3)
 
-- [Kurt Vandenberghe](../people/kurt-vandenberghe.md) — educated_at — Catholique De Louvain-La-Neuve, Louvain
+- [[people/kurt-vandenberghe|Kurt Vandenberghe]] — educated_at — Catholique De Louvain-La-Neuve, Louvain
   > " 1988 – 1989 Diploma in Public and International Affairs, Université Catholique de Louvain-la-Neuve, Louvain-la-Neuve, Belgium"
-- [Kurt Vandenberghe](../people/kurt-vandenberghe.md) — held_position — Director-General → Directorate-General for Climate Action
+- [[people/kurt-vandenberghe|Kurt Vandenberghe]] — held_position — Director-General → Directorate-General for Climate Action
   > " 01/1999 – 09/1999: Parliamentary Coordinator reporting to the Director-General (DG Transport)"
-- [Kurt Vandenberghe](../people/kurt-vandenberghe.md) — studied_field — Economics
+- [[people/kurt-vandenberghe|Kurt Vandenberghe]] — studied_field — Economics
   > "Belgian Academic qualifications  1990 – 1992 M.A. in International Relations, International Economics and Conflict Management, The John Hopkins University, Paul H."

@@ -15,11 +15,11 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (4)
 
-- [Vytenis Andriukaitis](../people/vytenis-andriukaitis.md) — member — Lithuanian Physicians' Association
+- [[people/vytenis-andriukaitis|Vytenis Andriukaitis]] — member — Lithuanian Physicians' Association
   > "In 1989 Andriukaitis was appointed a cardiovascular surgeon (first category) and became a member of the Lithuanian Physicians' Association (until 1996) and Lithuanian Cardiologists' Association."
-- [Vytenis Andriukaitis](../people/vytenis-andriukaitis.md) — member — Lithuanian Cardiologists' Association
+- [[people/vytenis-andriukaitis|Vytenis Andriukaitis]] — member — Lithuanian Cardiologists' Association
   > "In 1989 Andriukaitis was appointed a cardiovascular surgeon (first category) and became a member of the Lithuanian Physicians' Association (until 1996) and Lithuanian Cardiologists' Association."
-- [Vytenis Andriukaitis](../people/vytenis-andriukaitis.md) — member — International Physicians' Association
+- [[people/vytenis-andriukaitis|Vytenis Andriukaitis]] — member — International Physicians' Association
   > "He was also a member of International Physicians' Association during 1998–2004."
-- [Vytenis Andriukaitis](../people/vytenis-andriukaitis.md) — member — Convention on the Future of Europe
+- [[people/vytenis-andriukaitis|Vytenis Andriukaitis]] — member — Convention on the Future of Europe
   > "He also became a member of Convention on the Future of Europe and leader of the Lithuanian delegation."

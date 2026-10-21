@@ -15,9 +15,9 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Janez Lenarčič](../people/janez-lenarcic.md)  
+- [[people/janez-lenarcic|Janez Lenarčič]]  
   > "Lenarčič holds a degree in international law from the University of Ljubljana, 1992."
-  > Source: [Janez Lenarcic](../sources/wikipedia-janez-lenarcic.md) · grade A
-- [Janez Potocnik](../people/janez-potocnik.md)  
+  > Source: [[sources/wikipedia-janez-lenarcic|Janez Lenarcic]] · grade A
+- [[people/janez-potocnik|Janez Potocnik]]  
   > "In 1993, he received his PhD in economics from the University of Ljubljana ."
-  > Source: [Janez Potocnik](../sources/wikipedia-janez-potocnik.md) · grade A
+  > Source: [[sources/wikipedia-janez-potocnik|Janez Potocnik]] · grade A

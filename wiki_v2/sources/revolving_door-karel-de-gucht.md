@@ -15,7 +15,7 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (2)
 
-- [Karel De Gucht](../people/karel-de-gucht.md) — advisory_board — CVC Capital Partners
+- [[people/karel-de-gucht|Karel De Gucht]] — advisory_board — CVC Capital Partners
   > "Other activities Corporate boards ArcelorMittal, Member of the Board of Directors (since 2016) CVC Capital Partners, Member of the European Advisory Board (since 2015) Proximus, Member of the Board of Directors Non-profit organizations The Brussels School of Governance at the Vrije Universiteit Brussel (VUB), President Honours Poland: 1st class – Grand Cross of the Order of Merit of the Republic o […]"
-- [Karel De Gucht](../people/karel-de-gucht.md) — chair — OSCE
+- [[people/karel-de-gucht|Karel De Gucht]] — chair — OSCE
   > "He was Chairman-in-Office of the OSCE in 2006."

@@ -15,5 +15,5 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (1)
 
-- [Dimitris Avramopoulos](../people/dimitris-avramopoulos.md) — chair — Permanent Conference of the Mayors of the Capitals of South-East Europe
+- [[people/dimitris-avramopoulos|Dimitris Avramopoulos]] — chair — Permanent Conference of the Mayors of the Capitals of South-East Europe
   > "In 1995 he founded the “Permanent Conference of the Mayors of the Capitals of South-East Europe” and served as its first President."

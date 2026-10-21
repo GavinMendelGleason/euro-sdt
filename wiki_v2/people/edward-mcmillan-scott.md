@@ -18,38 +18,38 @@ Mep
 
 ## Membership
 
-- [Group of the Alliance of Liberals and Democrats for Europe (ALDE)](../organisations/group-of-the-alliance-of-liberals-and-democrats-for-europe-alde.md)  
+- [[organisations/group-of-the-alliance-of-liberals-and-democrats-for-europe-alde|Group of the Alliance of Liberals and Democrats for Europe (ALDE)]]  
   > "In May 2010 he became a member of the Group of the Alliance of Liberals and Democrats for Europe (ALDE) in the European Parliament."
-  > Source: [Edward Mcmillan Scott](../sources/wikipedia-edward-mcmillan-scott.md) · grade A
+  > Source: [[sources/wikipedia-edward-mcmillan-scott|Edward Mcmillan Scott]] · grade A
 
-- [House of Lords](../organisations/house-of-lords.md)  
+- [[organisations/house-of-lords|House of Lords]]  
   > "In 2009, he renounced a peerage (life membership of the House of Lords) in protest at UK premier David Cameron's withdrawal from the Centrist EPP Group."
-  > Source: [Edward Mcmillan Scott](../sources/wikipedia-edward-mcmillan-scott.md) · grade A
+  > Source: [[sources/wikipedia-edward-mcmillan-scott|Edward Mcmillan Scott]] · grade A
 
-- [Liberal Democrats](../organisations/liberal-democrats.md)  
+- [[organisations/liberal-democrats|Liberal Democrats]]  
   > "In March 2010, he joined the Liberal Democrats with whom he had usually worked closely on democracy and human rights issues."
-  > Source: [Edward Mcmillan Scott](../sources/wikipedia-edward-mcmillan-scott.md) · grade A
+  > Source: [[sources/wikipedia-edward-mcmillan-scott|Edward Mcmillan Scott]] · grade A
 
 ## Founder
 
-- [EU's Instrument for Human Rights and Democracy (EIDHR)](../organisations/eu-s-instrument-for-human-rights-and-democracy-eidhr.md) — founder  
+- [[organisations/eu-s-instrument-for-human-rights-and-democracy-eidhr|EU's Instrument for Human Rights and Democracy (EIDHR)]] — founder  
   > "In 1992, McMillan-Scott founded the EU's Instrument for Human Rights and Democracy (EIDHR) - now the EU's Global Europe Human Rights & Democracy Programme, which remain's the world's largest dedicated programme with an annual budget of Euro 1.5 billion."
-  > Source: [Edward Mcmillan Scott](../sources/wikipedia-edward-mcmillan-scott.md) · grade A
+  > Source: [[sources/wikipedia-edward-mcmillan-scott|Edward Mcmillan Scott]] · grade A
 
 ## Affiliation
 
-- [European Movement UK](../organisations/european-movement-uk.md)  
+- [[organisations/european-movement-uk|European Movement UK]]  
   > "In 2014 he was also elected an honorary Patron at its AGM by the European Movement UK, which he first joined aged 23 in 1973."
-  > Source: [Edward Mcmillan Scott](../sources/wikipedia-edward-mcmillan-scott.md) · grade B
+  > Source: [[sources/wikipedia-edward-mcmillan-scott|Edward Mcmillan Scott]] · grade B
 
-- [People's Vote campaign](../organisations/people-s-vote-campaign.md)  
+- [[organisations/people-s-vote-campaign|People's Vote campaign]]  
   > "McMillan-Scott and colleagues raised over £2 million for the People's Vote campaign, launched in April 2018 to campaign for a second referendum on Brexit."
-  > Source: [Edward Mcmillan Scott](../sources/wikipedia-edward-mcmillan-scott.md) · grade B
+  > Source: [[sources/wikipedia-edward-mcmillan-scott|Edward Mcmillan Scott]] · grade B
 
-- [Pro EU forum in the UK](../organisations/pro-eu-forum-in-the-uk.md)  
+- [[organisations/pro-eu-forum-in-the-uk|Pro EU forum in the UK]]  
   > "After losing his seat as an MEP he became active in campaigning against Brexit and coordinates the largest pro EU forum in the UK."
-  > Source: [Edward Mcmillan Scott](../sources/wikipedia-edward-mcmillan-scott.md) · grade B
+  > Source: [[sources/wikipedia-edward-mcmillan-scott|Edward Mcmillan Scott]] · grade B
 
-- [Where Next for Brexit?](../organisations/where-next-for-brexit.md)  
+- [[organisations/where-next-for-brexit|Where Next for Brexit?]]  
   > "Since 2017 McMillan-Scott has coordinated a forum of operational pro-European organisations known as Where Next for Brexit?"
-  > Source: [Edward Mcmillan Scott](../sources/wikipedia-edward-mcmillan-scott.md) · grade B
+  > Source: [[sources/wikipedia-edward-mcmillan-scott|Edward Mcmillan Scott]] · grade B

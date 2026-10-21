@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Karel Van Miert](../people/karel-van-miert.md) — chair  
+- [[people/karel-van-miert|Karel Van Miert]] — chair  
   > "Two years later he became president of the Different Socialist Party."
-  > Source: [Karel Van Miert](../sources/wikipedia-karel-van-miert.md) · grade A
+  > Source: [[sources/wikipedia-karel-van-miert|Karel Van Miert]] · grade A

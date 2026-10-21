@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Paolo Scaroni](../people/paolo-scaroni.md) — chair  
+- [[people/paolo-scaroni|Paolo Scaroni]] — chair  
   > "&#91; 9 &#93; Other current and past roles [ edit ] In addition to his executive management position, Scaroni, has or has had numerous non-executive roles, amongst which: Deputy Chairman of Rothchild &amp; Co."
-  > Source: [Paolo Scaroni](../sources/wikipedia-paolo-scaroni.md) · grade A
+  > Source: [[sources/wikipedia-paolo-scaroni|Paolo Scaroni]] · grade A

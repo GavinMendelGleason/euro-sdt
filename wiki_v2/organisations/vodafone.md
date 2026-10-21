@@ -15,9 +15,9 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Jean-François van Boxmeer](../people/jean-francois-van-boxmeer.md)  
+- [[people/jean-francois-van-boxmeer|Jean-François van Boxmeer]]  
   > "=== Corporate boards === Vodafone Group PLC, Chair of the Board (since 2020) Henkel, Member of the Shareholders' Committee (since 2013) Mondelēz International, Member of the Board of Directors (since 2010)"
-  > Source: [Corp Jean Francois Van Boxmeer](../sources/wikipedia-corp-jean-francois-van-boxmeer.md) · grade A
-- [Margherita Della Valle](../people/margherita-della-valle.md)  
+  > Source: [[sources/wikipedia-corp-jean-francois-van-boxmeer|Corp Jean Francois Van Boxmeer]] · grade A
+- [[people/margherita-della-valle|Margherita Della Valle]]  
   > "Margherita Della Valle (born 13 April 1965, Veneto) is an Italian businesswoman who has been the chief executive officer (CEO) of Vodafone since January 2023."
-  > Source: [Corp Margherita Della Valle](../sources/wikipedia-corp-margherita-della-valle.md) · grade A
+  > Source: [[sources/wikipedia-corp-margherita-della-valle|Corp Margherita Della Valle]] · grade A

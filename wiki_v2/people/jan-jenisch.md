@@ -18,16 +18,16 @@ Corporate Elite
 
 ## Education
 
-- [Stetson University](../organisations/stetson-university.md)  
+- [[organisations/stetson-university|Stetson University]]  
   > "He studied business administration in Switzerland, where he attended the University of Fribourg, and at Stetson University in the U.S. state of Florida."
-  > Source: [Corp Jan Jenisch](../sources/wikipedia-corp-jan-jenisch.md) · grade A
+  > Source: [[sources/wikipedia-corp-jan-jenisch|Corp Jan Jenisch]] · grade A
 
-- [University of Fribourg](../organisations/university-of-fribourg.md)  
+- [[organisations/university-of-fribourg|University of Fribourg]]  
   > "He earned a Master of Business Administration degree from the University of Fribourg in 1993."
-  > Source: [Corp Jan Jenisch](../sources/wikipedia-corp-jan-jenisch.md) · grade A
+  > Source: [[sources/wikipedia-corp-jan-jenisch|Corp Jan Jenisch]] · grade A
 
 ## Employment
 
-- [Holcim](../organisations/holcim.md)  
+- [[organisations/holcim|Holcim]]  
   > "Prior to Holcim, he was the CEO of Sika AG."
-  > Source: [Corp Jan Jenisch](../sources/wikipedia-corp-jan-jenisch.md) · grade A
+  > Source: [[sources/wikipedia-corp-jan-jenisch|Corp Jan Jenisch]] · grade A

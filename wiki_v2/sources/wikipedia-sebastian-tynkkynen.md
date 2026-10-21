@@ -16,13 +16,13 @@ generated: 2026-10-21
 
 ## Verified claims citing this document (5)
 
-- [Sebastian Tynkkynen](../people/sebastian-tynkkynen.md) — chair — Finns Party Youth
+- [[people/sebastian-tynkkynen|Sebastian Tynkkynen]] — chair — Finns Party Youth
   > "He has been chairman of the Finns Party Youth and third vice chairman of the Finns Party ."
-- [Sebastian Tynkkynen](../people/sebastian-tynkkynen.md) — chair — Finns Party
+- [[people/sebastian-tynkkynen|Sebastian Tynkkynen]] — chair — Finns Party
   > "He has been chairman of the Finns Party Youth and third vice chairman of the Finns Party ."
-- [Sebastian Tynkkynen](../people/sebastian-tynkkynen.md) — member — Finnish Parliament
+- [[people/sebastian-tynkkynen|Sebastian Tynkkynen]] — member — Finnish Parliament
   > "&#91; 1 &#93; He was elected as a member of Finnish Parliament in April 2019 and was a candidate as Member of European Parliament for the 2019 elections ."
-- [Sebastian Tynkkynen](../people/sebastian-tynkkynen.md) — member — City Council of Oulu
+- [[people/sebastian-tynkkynen|Sebastian Tynkkynen]] — member — City Council of Oulu
   > "&#91; 12 &#93; In April 2017 Tynkkynen was elected to the City Council of Oulu with 680 votes."
-- [Sebastian Tynkkynen](../people/sebastian-tynkkynen.md) — member — Pentecostal Church
+- [[people/sebastian-tynkkynen|Sebastian Tynkkynen]] — member — Pentecostal Church
   > "&#91; 20 &#93; Since childhood he had been a Pentecostal , but he was excommunicated in 2018, because he sees same-sex marriage as backed by the Bible."

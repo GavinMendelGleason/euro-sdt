@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Federica Mogherini](../people/federica-mogherini.md)  
+- [[people/federica-mogherini|Federica Mogherini]]  
   > "Serving in the 16th legislature, she became secretary of its Defence Committee, a member of the Italian parliamentary delegation to the Council of Europe, and of Italy's parliamentary delegation to the Western European Union."
-  > Source: [Federica Mogherini](../sources/wikipedia-federica-mogherini.md) · grade A
+  > Source: [[sources/wikipedia-federica-mogherini|Federica Mogherini]] · grade A

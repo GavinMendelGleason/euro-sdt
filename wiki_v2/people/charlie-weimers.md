@@ -18,76 +18,76 @@ Mep
 
 ## Education
 
-- [american-university-in-washington-dc](../organisations/american-university-in-washington-dc.md)  
+- [[organisations/american-university-in-washington-dc|american-university-in-washington-dc]]  
   > "After his military service, he studied at the American University in Washington DC and pursued graduate studies in Karlstad University 's political science program, graduating in 2007."
-  > Source: [Charlie Weimers](../sources/wikipedia-charlie-weimers.md) · grade C
+  > Source: [[sources/wikipedia-charlie-weimers|Charlie Weimers]] · grade C
 
-- [karlstad-university](../organisations/karlstad-university.md)  
+- [[organisations/karlstad-university|karlstad-university]]  
   > "After his military service, he studied at the American University in Washington DC and pursued graduate studies in Karlstad University 's political science program, graduating in 2007."
-  > Source: [Charlie Weimers](../sources/wikipedia-charlie-weimers.md) · grade C
+  > Source: [[sources/wikipedia-charlie-weimers|Charlie Weimers]] · grade C
 
 ## Membership
 
-- [Christian Democrats](../organisations/christian-democrats.md)  
+- [[organisations/christian-democrats|Christian Democrats]]  
   > "In Sweden, he was a member of the Moderate Party until 1998 after which he joined the Christian Democrats and the Young Christian Democrats."
-  > Source: [Charlie Weimers](../sources/wikipedia-charlie-weimers.md) · grade A
+  > Source: [[sources/wikipedia-charlie-weimers|Charlie Weimers]] · grade A
 
-- [Delegation to Iraq](../organisations/delegation-to-iraq.md)  
+- [[organisations/delegation-to-iraq|Delegation to Iraq]]  
   > "&#91; 9 &#93; &#91; 10 &#93; &#91; 11 &#93; In the European Parliament Weimers has supported motions calling on the EU to classify the Grey Wolves and ANTIFA as terrorist organisations &#91; 12 &#93; &#91; 13 &#93; &#91; 14 &#93; and to improve information for citizens on Commission roadmaps."
-  > Source: [Charlie Weimers](../sources/wikipedia-charlie-weimers.md) · grade A
+  > Source: [[sources/wikipedia-charlie-weimers|Charlie Weimers]] · grade A
 
-- [Delegation to the U.S.](../organisations/delegation-to-the-u-s.md)  
+- [[organisations/delegation-to-the-u-s|Delegation to the U.S.]]  
   > "&#91; 9 &#93; &#91; 10 &#93; &#91; 11 &#93; In the European Parliament Weimers has supported motions calling on the EU to classify the Grey Wolves and ANTIFA as terrorist organisations &#91; 12 &#93; &#91; 13 &#93; &#91; 14 &#93; and to improve information for citizens on Commission roadmaps."
-  > Source: [Charlie Weimers](../sources/wikipedia-charlie-weimers.md) · grade A
+  > Source: [[sources/wikipedia-charlie-weimers|Charlie Weimers]] · grade A
 
-- [European Conservatives and Reformists](../organisations/european-conservatives-and-reformists.md)  
+- [[organisations/european-conservatives-and-reformists|European Conservatives and Reformists]]  
   > "&#91; 2 &#93; He is a member of the right-wing populist Sweden Democrats , part of European Conservatives and Reformists ."
-  > Source: [Charlie Weimers](../sources/wikipedia-charlie-weimers.md) · grade A
+  > Source: [[sources/wikipedia-charlie-weimers|Charlie Weimers]] · grade A
 
-- [European Parliament Committee on Foreign Affairs](../organisations/european-parliament-committee-on-foreign-affairs.md)  
+- [[organisations/european-parliament-committee-on-foreign-affairs|European Parliament Committee on Foreign Affairs]]  
   > "&#91; 9 &#93; &#91; 10 &#93; &#91; 11 &#93; In the European Parliament Weimers has supported motions calling on the EU to classify the Grey Wolves and ANTIFA as terrorist organisations &#91; 12 &#93; &#91; 13 &#93; &#91; 14 &#93; and to improve information for citizens on Commission roadmaps."
-  > Source: [Charlie Weimers](../sources/wikipedia-charlie-weimers.md) · grade A
+  > Source: [[sources/wikipedia-charlie-weimers|Charlie Weimers]] · grade A
 
-- [Hammarö Municipal Council](../organisations/hammaro-municipal-council.md)  
+- [[organisations/hammaro-municipal-council|Hammarö Municipal Council]]  
   > "Weimers was elected to the Hammarö Municipal Council in 2002."
-  > Source: [Charlie Weimers](../sources/wikipedia-charlie-weimers.md) · grade B
+  > Source: [[sources/wikipedia-charlie-weimers|Charlie Weimers]] · grade B
 
-- [Moderate Party](../organisations/moderate-party.md)  
+- [[organisations/moderate-party|Moderate Party]]  
   > "In Sweden, he was a member of the Moderate Party until 1998 after which he joined the Christian Democrats and the Young Christian Democrats."
-  > Source: [Charlie Weimers](../sources/wikipedia-charlie-weimers.md) · grade A
+  > Source: [[sources/wikipedia-charlie-weimers|Charlie Weimers]] · grade A
 
-- [Sweden Democrats](../organisations/sweden-democrats.md)  
+- [[organisations/sweden-democrats|Sweden Democrats]]  
   > "&#91; 2 &#93; He is a member of the right-wing populist Sweden Democrats , part of European Conservatives and Reformists ."
-  > Source: [Charlie Weimers](../sources/wikipedia-charlie-weimers.md) · grade A
+  > Source: [[sources/wikipedia-charlie-weimers|Charlie Weimers]] · grade A
 
-- [Värmland Regional Council](../organisations/varmland-regional-council.md)  
+- [[organisations/varmland-regional-council|Värmland Regional Council]]  
   > "He has also been a member of the Värmland Regional Council since 2006."
-  > Source: [Charlie Weimers](../sources/wikipedia-charlie-weimers.md) · grade A
+  > Source: [[sources/wikipedia-charlie-weimers|Charlie Weimers]] · grade A
 
-- [Young Christian Democrats](../organisations/young-christian-democrats.md)  
+- [[organisations/young-christian-democrats|Young Christian Democrats]]  
   > "In Sweden, he was a member of the Moderate Party until 1998 after which he joined the Christian Democrats and the Young Christian Democrats."
-  > Source: [Charlie Weimers](../sources/wikipedia-charlie-weimers.md) · grade A
+  > Source: [[sources/wikipedia-charlie-weimers|Charlie Weimers]] · grade A
 
 ## Board / trustee
 
-- [KDU](../organisations/kdu.md) — board_member  
+- [[organisations/kdu|KDU]] — board_member  
   > "He was elected to the KDU national board in 2003."
-  > Source: [Charlie Weimers](../sources/wikipedia-charlie-weimers.md) · grade A
+  > Source: [[sources/wikipedia-charlie-weimers|Charlie Weimers]] · grade A
 
 ## Chair / president
 
-- [KDU-Värmland](../organisations/kdu-varmland.md) — chair  
+- [[organisations/kdu-varmland|KDU-Värmland]] — chair  
   > "He served as the district chairman of KDU-Värmland from 2000 to 2001 and again from 2003 to 2004."
-  > Source: [Charlie Weimers](../sources/wikipedia-charlie-weimers.md) · grade A
+  > Source: [[sources/wikipedia-charlie-weimers|Charlie Weimers]] · grade A
 
-- [Kristdemokratiska Ungdomsförbundet](../organisations/kristdemokratiska-ungdomsforbundet.md) — chair  
+- [[organisations/kristdemokratiska-ungdomsforbundet|Kristdemokratiska Ungdomsförbundet]] — chair  
   > "He was chairman of the Swedish Young Christian Democrats ( Kristdemokratiska Ungdomsförbundet , KDU) between 2008–2011."
-  > Source: [Charlie Weimers](../sources/wikipedia-charlie-weimers.md) · grade A
+  > Source: [[sources/wikipedia-charlie-weimers|Charlie Weimers]] · grade A
 
-- [Swedish Young Christian Democrats](../organisations/swedish-young-christian-democrats.md) — chair  
+- [[organisations/swedish-young-christian-democrats|Swedish Young Christian Democrats]] — chair  
   > "He was chairman of the Swedish Young Christian Democrats ( Kristdemokratiska Ungdomsförbundet , KDU) between 2008–2011."
-  > Source: [Charlie Weimers](../sources/wikipedia-charlie-weimers.md) · grade A
+  > Source: [[sources/wikipedia-charlie-weimers|Charlie Weimers]] · grade A
 
-- [Youth of the European People's Party](../organisations/youth-of-the-european-people-s-party.md) — chair  
+- [[organisations/youth-of-the-european-people-s-party|Youth of the European People's Party]] — chair  
   > "He was elected vice president of the Youth of the European People's Party at the 6th YEPP Congress in Stockholm in May 2007."
-  > Source: [Charlie Weimers](../sources/wikipedia-charlie-weimers.md) · grade A
+  > Source: [[sources/wikipedia-charlie-weimers|Charlie Weimers]] · grade A

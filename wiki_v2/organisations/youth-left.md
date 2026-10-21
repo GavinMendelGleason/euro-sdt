@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Federica Mogherini](../people/federica-mogherini.md)  
+- [[people/federica-mogherini|Federica Mogherini]]  
   > "In 1996, she joined the Youth Left after the dissolution of the Italian Communist Party (PCI) and its transformation into the Democratic Party of the Left (PDS)."
-  > Source: [Federica Mogherini](../sources/wikipedia-federica-mogherini.md) · grade A
+  > Source: [[sources/wikipedia-federica-mogherini|Federica Mogherini]] · grade A

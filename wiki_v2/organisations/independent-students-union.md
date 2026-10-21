@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Adam Bielan](../people/adam-bielan.md) — chair  
+- [[people/adam-bielan|Adam Bielan]] — chair  
   > "Biography [ edit ] Bielan was chairman of the Independent Students' Union from 1996 to 1998."
-  > Source: [Adam Bielan](../sources/wikipedia-adam-bielan.md) · grade A
+  > Source: [[sources/wikipedia-adam-bielan|Adam Bielan]] · grade A

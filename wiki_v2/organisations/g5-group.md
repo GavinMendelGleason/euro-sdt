@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Manfred Weber](../people/manfred-weber.md)  
+- [[people/manfred-weber|Manfred Weber]]  
   > "Between 2014 and 2016, Weber was a member of the now defunct G5 group along with European Commission President Jean-Claude Juncker , Vice President Frans Timmermans , Socialist group leader Gianni Pittella and Martin Schulz , then President of the European Parliament ."
-  > Source: [Manfred Weber](../sources/wikipedia-manfred-weber.md) · grade A
+  > Source: [[sources/wikipedia-manfred-weber|Manfred Weber]] · grade A

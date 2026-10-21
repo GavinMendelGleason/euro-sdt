@@ -15,6 +15,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Rainer Wieland](../people/rainer-wieland.md) — board_member  
+- [[people/rainer-wieland|Rainer Wieland]] — board_member  
   > "&#91; 14 &#93; In the Theaterhaus Stuttgart , he is Member of the Board of Trustees."
-  > Source: [Rainer Wieland](../sources/wikipedia-rainer-wieland.md) · grade A
+  > Source: [[sources/wikipedia-rainer-wieland|Rainer Wieland]] · grade A

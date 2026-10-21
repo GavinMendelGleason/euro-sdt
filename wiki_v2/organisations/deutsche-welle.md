@@ -14,9 +14,9 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [Günter Verheugen](../people/gunter-verheugen.md) — chair  
+- [[people/gunter-verheugen|Günter Verheugen]] — chair  
   > "In addition to his parliamentary work, he chaired the Broadcasting Council of Deutsche Welle from 1994 until 1998."
-  > Source: [Gunter Verheugen](../sources/wikipedia-gunter-verheugen.md) · grade C
-- [Marta Kos](../people/marta-kos.md) — employed_by  
+  > Source: [[sources/wikipedia-gunter-verheugen|Gunter Verheugen]] · grade C
+- [[people/marta-kos|Marta Kos]] — employed_by  
   > "She studied journalism and joined the sports division of RTV, and later moved to Germany where she worked for Deutsche Welle and as Bonn correspondent for RTV starting in 1993."
-  > Source: [Marta Kos](../sources/wikipedia-marta-kos.md) · grade A
+  > Source: [[sources/wikipedia-marta-kos|Marta Kos]] · grade A
