@@ -6,7 +6,7 @@ category: Financial institution
 tags:
   - organisation
   - verified
-  - Financial institution
+  - financial-institution
 generated: 2026-10-21
 ---
 # Amundi Deutschland

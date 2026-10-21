@@ -6,7 +6,7 @@ category: Multi-stakeholder forum
 tags:
   - organisation
   - verified
-  - Multi-stakeholder forum
+  - multi-stakeholder-forum
 generated: 2026-10-21
 ---
 # World Economic Forum

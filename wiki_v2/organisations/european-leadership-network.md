@@ -6,7 +6,7 @@ category: Think tank / advocacy
 tags:
   - organisation
   - verified
-  - Think tank / advocacy
+  - think-tank-advocacy
 generated: 2026-10-21
 ---
 # European Leadership Network

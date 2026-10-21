@@ -106,6 +106,11 @@ network edges can be analysed separately. Attendance is not membership.
 .venv/bin/python scripts/plot_graph.py --edge-class network --grades A --top 120
 ```
 
+The v2 renderer also writes `wiki_v2/.obsidian/graph.json`: it excludes source
+pages (`search: -tag:#source`) and assigns a colour group to every person and
+organisation category present in the database. Re-run `scripts/render_v2.py`
+after adding a category; do not hand-edit the generated graph config.
+
 Open `graph/graph.graphml` in Gephi or Cytoscape. Filter `edge_class = network`
 and `grade = A` for the strictest network view; use `role` to separate board
 seats from attendance or employment. `graph/edges.csv` carries the best located

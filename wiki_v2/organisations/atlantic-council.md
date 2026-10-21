@@ -6,7 +6,7 @@ category: Think tank
 tags:
   - organisation
   - verified
-  - Think tank
+  - think-tank
 generated: 2026-10-21
 ---
 # Atlantic Council

@@ -6,7 +6,7 @@ category: Think tank / grant-making
 tags:
   - organisation
   - verified
-  - Think tank / grant-making
+  - think-tank-grant-making
 generated: 2026-10-21
 ---
 # German Marshall Fund

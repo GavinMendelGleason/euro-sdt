@@ -6,7 +6,7 @@ category: Elite network / conference
 tags:
   - organisation
   - verified
-  - Elite network / conference
+  - elite-network-conference
 generated: 2026-10-21
 ---
 # Bilderberg Group

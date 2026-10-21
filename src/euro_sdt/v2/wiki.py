@@ -8,7 +8,7 @@ import sqlite3
 from collections import Counter, defaultdict
 from pathlib import Path
 
-from .db import WIKI_V2_DIR, now
+from .db import WIKI_V2_DIR, now, slugify
 from .graph import NETWORK_PREDICATES, OCCUPATIONAL_PREDICATES, EDUCATION_PREDICATES, INSTITUTIONAL_PREDICATES
 
 PREDICATE_LABEL = {
@@ -152,7 +152,9 @@ def person_page(db: sqlite3.Connection, entity_id: str) -> str:
     rows = _assertions_for_subject(db, entity_id)
     tags = ["person", "verified"]
     if ent["category"]:
-        tags.append(str(ent["category"]).replace("_", "-"))
+        category_tag = slugify(str(ent["category"]))
+        if category_tag:
+            tags.append(category_tag)
     fm = _frontmatter({"id": entity_id, "title": ent["name"], "type": "person",
                        "category": ent["category"] or "", "country": ent["country"] or "",
                        "tags": tags, "generated": now()[:10]})
@@ -211,7 +213,9 @@ def organisation_page(db: sqlite3.Connection, entity_id: str) -> str:
     ).fetchall()
     tags = ["organisation", "verified"]
     if ent["category"]:
-        tags.append(str(ent["category"]).replace("_", "-"))
+        category_tag = slugify(str(ent["category"]))
+        if category_tag:
+            tags.append(category_tag)
     fm = _frontmatter({"id": entity_id, "title": ent["name"], "type": "organisation",
                        "category": ent["category"] or "", "tags": tags, "generated": now()[:10]})
     lines = [fm, f"# {ent['name']}", ""]
@@ -301,6 +305,78 @@ def commission_page(db: sqlite3.Connection, entity_id: str) -> str:
     return "\n".join(lines)
 
 
+GRAPH_PERSON_COLORS = {
+    "commissioner": "#4C78A8",
+    "mep": "#59A14F",
+    "dg": "#F28E2B",
+    "ddg": "#F28E2B",
+    "corporate-elite": "#E15759",
+    "cjeu-judge": "#B07AA1",
+    "cjeu-ag": "#B07AA1",
+}
+GRAPH_ORG_PALETTE = [
+    "#BAB0AC", "#8C8C8C", "#A6A6A6", "#F58518", "#72B7B2",
+    "#54A24B", "#B279A2", "#E45756", "#4C78A8", "#B8860B",
+    "#9D755D", "#FF9DA6",
+]
+
+
+def generate_graph_config(db: sqlite3.Connection, output_dir: Path = WIKI_V2_DIR) -> None:
+    """Write the Obsidian graph config: exclude sources, colour every category."""
+    groups: list[dict] = []
+
+    def add(query: str, hex_color: str) -> None:
+        groups.append({"query": query, "color": {"a": 1, "rgb": int(hex_color.lstrip("#"), 16)}})
+
+    for category, color in GRAPH_PERSON_COLORS.items():
+        add(f"tag:#{category}", color)
+    categories = [
+        row[0] for row in db.execute(
+            "SELECT DISTINCT category FROM entity WHERE kind IN ('organisation','institution','university') "
+            "AND category IS NOT NULL AND category != ''"
+        )
+    ]
+    seen = set()
+    for index, category in enumerate(sorted(categories)):
+        tag = slugify(category)
+        if not tag or tag == "organisation" or tag in seen:
+            continue
+        seen.add(tag)
+        add(f"tag:#{tag}", GRAPH_ORG_PALETTE[index % len(GRAPH_ORG_PALETTE)])
+    add("tag:#commission", "#111111")
+    add("tag:#index", "#D3D3D3")
+    add("tag:#stats", "#D3D3D3")
+    add("tag:#citations", "#D3D3D3")
+    add("tag:#source", "#D3D3D3")
+    add("tag:#person", "#9C755F")
+    add("tag:#organisation", "#BAB0AC")
+
+    config = {
+        "collapse-filter": False,
+        "search": "-tag:#source",
+        "showTags": False,
+        "showAttachments": False,
+        "hideUnresolved": True,
+        "showOrphans": False,
+        "collapse-color-groups": False,
+        "colorGroups": groups,
+        "collapse-display": False,
+        "showArrow": True,
+        "textFadeMultiplier": 0,
+        "nodeSizeMultiplier": 1,
+        "lineSizeMultiplier": 1,
+        "collapse-forces": False,
+        "centerStrength": 0.5,
+        "repelStrength": 10,
+        "linkStrength": 1,
+        "linkDistance": 250,
+        "scale": 0.6,
+    }
+    obsidian = output_dir / ".obsidian"
+    obsidian.mkdir(parents=True, exist_ok=True)
+    (obsidian / "graph.json").write_text(json.dumps(config, indent=2), encoding="utf-8")
+
+
 def generate_wiki(db: sqlite3.Connection, output_dir: Path = WIKI_V2_DIR) -> dict[str, int]:
     (output_dir / "people").mkdir(parents=True, exist_ok=True)
     (output_dir / "organisations").mkdir(parents=True, exist_ok=True)
@@ -353,6 +429,7 @@ def generate_wiki(db: sqlite3.Connection, output_dir: Path = WIKI_V2_DIR) -> dic
     _start_here(output_dir)
     _citations(db, output_dir)
     _stats(db, output_dir)
+    generate_graph_config(db, output_dir)
     return dict(counts)
 
 

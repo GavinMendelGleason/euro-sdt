@@ -8,13 +8,6 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#person",
-      "color": {
-        "a": 1,
-        "rgb": 5011624
-      }
-    },
-    {
       "query": "tag:#commissioner",
       "color": {
         "a": 1,
@@ -43,24 +36,136 @@
       }
     },
     {
-      "query": "tag:#corporate",
+      "query": "tag:#corporate-elite",
       "color": {
         "a": 1,
         "rgb": 14767961
       }
     },
     {
-      "query": "tag:#cjeu",
+      "query": "tag:#cjeu-judge",
       "color": {
         "a": 1,
         "rgb": 11565729
       }
     },
     {
-      "query": "tag:#organisation",
+      "query": "tag:#cjeu-ag",
+      "color": {
+        "a": 1,
+        "rgb": 11565729
+      }
+    },
+    {
+      "query": "tag:#conference-forum",
       "color": {
         "a": 1,
         "rgb": 12234924
+      }
+    },
+    {
+      "query": "tag:#conference-think-tank",
+      "color": {
+        "a": 1,
+        "rgb": 9211020
+      }
+    },
+    {
+      "query": "tag:#elite-network",
+      "color": {
+        "a": 1,
+        "rgb": 10921638
+      }
+    },
+    {
+      "query": "tag:#elite-network-conference",
+      "color": {
+        "a": 1,
+        "rgb": 16090392
+      }
+    },
+    {
+      "query": "tag:#financial-institution",
+      "color": {
+        "a": 1,
+        "rgb": 7518130
+      }
+    },
+    {
+      "query": "tag:#multi-stakeholder-forum",
+      "color": {
+        "a": 1,
+        "rgb": 5546571
+      }
+    },
+    {
+      "query": "tag:#pr-communications",
+      "color": {
+        "a": 1,
+        "rgb": 11696546
+      }
+    },
+    {
+      "query": "tag:#private-equity",
+      "color": {
+        "a": 1,
+        "rgb": 14964566
+      }
+    },
+    {
+      "query": "tag:#professional-services",
+      "color": {
+        "a": 1,
+        "rgb": 5011624
+      }
+    },
+    {
+      "query": "tag:#think-tank",
+      "color": {
+        "a": 1,
+        "rgb": 12092939
+      }
+    },
+    {
+      "query": "tag:#think-tank-advocacy",
+      "color": {
+        "a": 1,
+        "rgb": 10319197
+      }
+    },
+    {
+      "query": "tag:#think-tank-forum",
+      "color": {
+        "a": 1,
+        "rgb": 16752038
+      }
+    },
+    {
+      "query": "tag:#think-tank-grant-making",
+      "color": {
+        "a": 1,
+        "rgb": 12234924
+      }
+    },
+    {
+      "query": "tag:#corporate",
+      "color": {
+        "a": 1,
+        "rgb": 9211020
+      }
+    },
+    {
+      "query": "tag:#institution",
+      "color": {
+        "a": 1,
+        "rgb": 10921638
+      }
+    },
+    {
+      "query": "tag:#university",
+      "color": {
+        "a": 1,
+        "rgb": 7518130
       }
     },
     {
@@ -71,10 +176,45 @@
       }
     },
     {
+      "query": "tag:#index",
+      "color": {
+        "a": 1,
+        "rgb": 13882323
+      }
+    },
+    {
+      "query": "tag:#stats",
+      "color": {
+        "a": 1,
+        "rgb": 13882323
+      }
+    },
+    {
+      "query": "tag:#citations",
+      "color": {
+        "a": 1,
+        "rgb": 13882323
+      }
+    },
+    {
       "query": "tag:#source",
       "color": {
         "a": 1,
         "rgb": 13882323
+      }
+    },
+    {
+      "query": "tag:#person",
+      "color": {
+        "a": 1,
+        "rgb": 10253663
+      }
+    },
+    {
+      "query": "tag:#organisation",
+      "color": {
+        "a": 1,
+        "rgb": 12234924
       }
     }
   ],
@@ -88,6 +228,5 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.07901234567901236,
-  "close": false
+  "scale": 0.6
 }

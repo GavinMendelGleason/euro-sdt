@@ -6,7 +6,7 @@ category: Elite network
 tags:
   - organisation
   - verified
-  - Elite network
+  - elite-network
 generated: 2026-10-21
 ---
 # Trilateral Commission

@@ -6,7 +6,7 @@ category: PR / communications
 tags:
   - organisation
   - verified
-  - PR / communications
+  - pr-communications
 generated: 2026-10-21
 ---
 # Kekst CNC

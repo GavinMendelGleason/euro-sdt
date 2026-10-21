@@ -6,7 +6,7 @@ category: Conference / forum
 tags:
   - organisation
   - verified
-  - Conference / forum
+  - conference-forum
 generated: 2026-10-21
 ---
 # Munich Security Conference

@@ -6,7 +6,7 @@ category: Conference / think tank
 tags:
   - organisation
   - verified
-  - Conference / think tank
+  - conference-think-tank
 generated: 2026-10-21
 ---
 # GLOBSEC

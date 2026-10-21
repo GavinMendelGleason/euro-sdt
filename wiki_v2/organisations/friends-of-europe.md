@@ -6,7 +6,7 @@ category: Think tank / forum
 tags:
   - organisation
   - verified
-  - Think tank / forum
+  - think-tank-forum
 generated: 2026-10-21
 ---
 # Friends of Europe

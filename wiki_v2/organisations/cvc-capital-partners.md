@@ -6,7 +6,7 @@ category: Private equity
 tags:
   - organisation
   - verified
-  - Private equity
+  - private-equity
 generated: 2026-10-21
 ---
 # CVC Capital Partners

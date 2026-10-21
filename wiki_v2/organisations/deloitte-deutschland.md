@@ -6,7 +6,7 @@ category: Professional services
 tags:
   - organisation
   - verified
-  - Professional services
+  - professional-services
 generated: 2026-10-21
 ---
 # Deloitte Deutschland
