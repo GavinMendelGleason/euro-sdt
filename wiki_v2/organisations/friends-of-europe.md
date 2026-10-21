@@ -36,7 +36,7 @@ generated: 2026-10-21
 - [[people/connie-hedegaard|Connie Hedegaard]] — board_member  
   > "Friends of Europe, Member of the Board of Trustees (since 2020)"
   > Source: [[sources/wikipedia-connie-hedegaard|Connie Hedegaard]] · grade A
-- [[people/federica-mogherini|Federica Mogherini]] — board_member; VdL I (2019-2024)  
+- [[people/federica-mogherini|Federica Mogherini]] — board_member  
   > "Friends of Europe, member of the Board of Trustees (since 2020)"
   > Source: [[sources/wikipedia-federica-mogherini|Federica Mogherini]] · grade A
 - [[people/joaquin-almunia|Joaquín Almunia]] — board_member  

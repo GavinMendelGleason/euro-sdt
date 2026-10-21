@@ -83,6 +83,9 @@ To try extraction with thinking on:
 This writes claims to `euro_sdt_v2.db`, so use a disposable copy or a small
 `--limit`. Expect roughly 15x the completion tokens of thinking-off.
 
+A full second-judge pass over 738 grade-C claims kept 569 and moved 169 to
+`needs_review`; no claim was promoted on the second judge alone.
+
 Recommended use: run flash reasoning as a second adjudicator, send
 disagreements to `needs_review`, and keep `deepseek-chat` as the primary
 extractor until a human-labelled gold set shows a precision or recall gain.

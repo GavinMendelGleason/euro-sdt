@@ -14,7 +14,7 @@ generated: 2026-10-21
 - SHA-256: `787432c7ba3673b4985937410a0cbabdaaf3a173e807e4bd1026b594c6737b70`
 - Sentences: 155
 
-## Verified claims citing this document (14)
+## Verified claims citing this document (13)
 
 - [[people/manfred-weber|Manfred Weber]] — board_member — European Academy of Bavaria
   > "^ Board of Trustees European Academy of Bavaria."
@@ -32,8 +32,6 @@ generated: 2026-10-21
   > "In 2022, Weber become president of the EPP."
 - [[people/manfred-weber|Manfred Weber]] — chair — CSU
   > "Role in national politics [ edit ] In 2015, Bavaria 's Minister President Horst Seehofer nominated Weber as one of his deputies in the office of CSU chairman, making him part of the party's leadership."
-- [[people/manfred-weber|Manfred Weber]] — educated_at — munich-higher-technical-institute-now-munich-university-of-applied-sciences
-  > "&#91; 7 &#93; Education and early career [ edit ] 1996: engineer, Munich Higher Technical Institute (now Munich University of Applied Sciences) 1996–2014: Founded own consultancy firm (self-employed) 2002–2004: Member of the Bavarian Parliament (Other) &#91; 8 &#93; Political career [ edit ] Career in state politics [ edit ] From 2002–2014, Weber was a member of the Kelheim District Council."
 - [[people/manfred-weber|Manfred Weber]] — member — Christian Social Union (CSU)
   > "He is a member of the Christian Social Union (CSU), part of the European People's Party ."
 - [[people/manfred-weber|Manfred Weber]] — member — European People's Party

@@ -14,7 +14,7 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [[people/catherine-ashton|Catherine Ashton]] — chair; employed_by  
+- [[people/catherine-ashton|Catherine Ashton]] — employed_by  
   > "Between 1977 and 1983, Ashton worked for the Campaign for Nuclear Disarmament (CND) as an administrator and in 1982 was elected as its national treasurer and subsequently as one of its vice-chairs."
   > Source: [[sources/wikipedia-catherine-ashton|Catherine Ashton]] · grade A
 - [[people/neil-kinnock|Neil Kinnock]] — attendee  

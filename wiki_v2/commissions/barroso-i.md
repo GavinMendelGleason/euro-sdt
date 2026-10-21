@@ -9,7 +9,7 @@ generated: 2026-10-21
 ---
 # Barroso I
 
-*Verified members: 19*
+*Verified members: 17*
 
 - [[people/algirdas-semeta|Algirdas Semeta]]
   > "09 ^ \"Barroso II: 13 EPP Commissioners receive key"
@@ -23,9 +23,6 @@ generated: 2026-10-21
 - [[people/catherine-ashton|Catherine Ashton]]
   > "Catherine Margaret Ashton, Baroness Ashton of Upholland (born 20 March 1956) is a British Labour politician who served as the High Representative of the Union for Foreign Affairs and Security Policy and First Vice President of the European Commission in the Barroso Commission from 2009 to 2014."
   > Source: [[sources/wikipedia-catherine-ashton|Catherine Ashton]] · grade A
-- [[people/danuta-hubner|Danuta Hübner]]
-  > "Following the 2009 election two commissioners stood down to accept seats in the European Parliament: Danuta Hübner (Poland) and Louis Michel (Belgium) who were replaced by Paweł Samecki (4 July) and Karel De Gucht (17 July) respectively."
-  > Source: [[sources/wikipedia-commission-barroso-i|Commission Barroso I]] · grade C
 - [[people/franco-frattini|Franco Frattini]]
   > "| Commissioner | Portrait | Portfolio | State | Party | Notes | BarrosoJosé Durão Barroso | | President | Portugal | EPPNational:PSD | | WallstromMargot Wallström | | Institutional RelationsFirst Vice-President;Institutional Relations and Communication Strategy | Sweden | PESNational:SAP | | VerheugenGünter Verheugen | | Enterprise and IndustryVice-President;Enterprise and Industry | Germany | PES […]"
   > Source: [[sources/wikipedia-commission-barroso-i-tables|Commission Barroso I Tables]] · grade A
@@ -47,9 +44,6 @@ generated: 2026-10-21
 - [[people/leonard-orban|Leonard Orban]]
   > "From 1 January 2007, Orban became European Commissioner for Multilingualism for Romania in the Barroso commission."
   > Source: [[sources/wikipedia-leonard-orban|Leonard Orban]] · grade A
-- [[people/louis-michel|Louis Michel]]
-  > "Following the 2009 election two commissioners stood down to accept seats in the European Parliament: Danuta Hübner (Poland) and Louis Michel (Belgium) who were replaced by Paweł Samecki (4 July) and Karel De Gucht (17 July) respectively."
-  > Source: [[sources/wikipedia-commission-barroso-i|Commission Barroso I]] · grade C
 - [[people/margot-wallstrom|Margot Wallström]]
   > "| Commissioner | Portrait | Portfolio | State | Party | Notes | BarrosoJosé Durão Barroso | | President | Portugal | EPPNational:PSD | | WallstromMargot Wallström | | Institutional RelationsFirst Vice-President;Institutional Relations and Communication Strategy | Sweden | PESNational:SAP | | VerheugenGünter Verheugen | | Enterprise and IndustryVice-President;Enterprise and Industry | Germany | PES […]"
   > Source: [[sources/wikipedia-commission-barroso-i-tables|Commission Barroso I Tables]] · grade A

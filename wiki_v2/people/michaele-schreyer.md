@@ -14,7 +14,7 @@ generated: 2026-10-21
 
 Commissioner · DEU
 
-*Verified assertions: 22*
+*Verified assertions: 20*
 
 ## Commission service
 
@@ -76,19 +76,11 @@ Commissioner · DEU
   > "European Movement Germany, Vice President"
   > Source: [[sources/wikipedia-michaele-schreyer|Michaele Schreyer]] · grade A
 
-- [[organisations/green-party-s-parliamentary-group|Green Party's parliamentary group]] — chair  
-  > "In 1998, she assumed the leadership of the Green Party's parliamentary group, alongside Renate Künast."
-  > Source: [[sources/wikipedia-michaele-schreyer|Michaele Schreyer]] · grade C
-
 - [[organisations/sub-committee-on-public-housing|Sub-Committee on Public Housing]] — chair  
   > "Between 1995 and 1997, she served as chairwoman of the Sub-Committee on Public Housing."
   > Source: [[sources/wikipedia-michaele-schreyer|Michaele Schreyer]] · grade A
 
 ## Employment
-
-- [[organisations/european-commission|European Commission]] — employed_by  
-  > "In 2000, Germany's Chancellor Gerhard Schröder nominated Schreyer, alongside Günter Verheugen, as one of two German members of the European Commission under President Romano Prodi."
-  > Source: [[sources/wikipedia-michaele-schreyer|Michaele Schreyer]] · grade C
 
 - [[organisations/green-party-s-parliamentary-group-in-the-bundestag|Green Party's parliamentary group in the Bundestag]] — employed_by  
   > "From 1983 until 1987, Schreyer worked as an advisor on financial policy to the Green Party's parliamentary group in the Bundestag."

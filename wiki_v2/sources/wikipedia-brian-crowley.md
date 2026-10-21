@@ -14,10 +14,8 @@ generated: 2026-10-21
 - SHA-256: `7a0ac8c949a4bd451124cb1443cd82e05453ec1ef787486ce3a948c8166962dd`
 - Sentences: 128
 
-## Verified claims citing this document (9)
+## Verified claims citing this document (8)
 
-- [[people/brian-crowley|Brian Crowley]] — affiliated_with — Seanad Éireann (Irish Senate)
-  > "He served as a Senator from 1993 to 1994, after being nominated by the Taoiseach ."
 - [[people/brian-crowley|Brian Crowley]] — affiliated_with — university-college-cork-ucc
   > "&#91; 2 &#93; He received a diploma in law in 1993 from University College Cork (UCC)."
 - [[people/brian-crowley|Brian Crowley]] — chair — Union for Europe of the Nations

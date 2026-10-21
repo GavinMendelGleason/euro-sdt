@@ -18,7 +18,7 @@ generated: 2026-10-21
 - [[people/antonios-trakatellis|Antonios Trakatellis]]  
   > "He was elected on the New Democracy ticket and sits with the European People's Party group."
   > Source: [[sources/wikipedia-antonios-trakatellis|Antonios Trakatellis]] · grade B
-- [[people/dimitris-avramopoulos|Dimitris Avramopoulos]] — advisory_board; chair; party_member  
+- [[people/dimitris-avramopoulos|Dimitris Avramopoulos]] — chair; party_member  
   > "In July 2010, he became Vice-President of “New Democracy”, serving until 1 November 2014."
   > Source: [[sources/wikipedia-dimitris-avramopoulos|Dimitris Avramopoulos]] · grade A
 - [[people/margaritis-schinas|Margaritis Schinas]] — party_member  

@@ -14,12 +14,8 @@ generated: 2026-10-21
 - SHA-256: `b29d95d683785f624113c8e65c33cd2e6533cc1f1fe766c5b75088e9b8b6a2d7`
 - Sentences: 13
 
-## Verified claims citing this document (23)
+## Verified claims citing this document (20)
 
-- [[people/philippe-busquin|Philippe Busquin]] — board_member — Socialist International
-  > "since 1992: Vice-President of the Socialist International"
-- [[people/philippe-busquin|Philippe Busquin]] — board_member — PES
-  > "1994–1996: Vice-President of the PES"
 - [[people/philippe-busquin|Philippe Busquin]] — chair — Science and Technology Options Assessment Panel
   > "Busquin was the chairman of the Science and Technology Options Assessment Panel."
 - [[people/philippe-busquin|Philippe Busquin]] — chair — Socialist International
@@ -28,8 +24,6 @@ generated: 2026-10-21
   > "Education 1962: Degree in physics from the Free University of Brussels 1976: Postgraduate certificate in environmental studies 1980: First degree in philosophy at the Free University of Brussels Career 1962–1977: Lecturer at the Nivelles teacher training college Assistant lecturer at the Free University of Brussels 1992–1999: Chairman of the PS since 1992: Vice-President of the Socialist Internati […]"
 - [[people/philippe-busquin|Philippe Busquin]] — chair — French Socialist Party (PS)
   > "1992–1999: Chairman of the PS"
-- [[people/philippe-busquin|Philippe Busquin]] — educated_at — Université Libre De Bruxelles
-  > "Degree in physics from the Free University of Brussels"
 - [[people/philippe-busquin|Philippe Busquin]] — employed_by — Seneffe
   > "1995–1999: Mayor of Seneffe"
 - [[people/philippe-busquin|Philippe Busquin]] — employed_by — Walloon Region

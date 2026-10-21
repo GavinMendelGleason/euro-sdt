@@ -14,17 +14,9 @@ generated: 2026-10-21
 
 Mep
 
-*Verified assertions: 9*
+*Verified assertions: 7*
 
 ## Education
-
-- [[organisations/iese-business-school|iese-business-school]]  
-  > "He also completed the ARGO Top Public Executive program organized by the National School of Public Administration in collaboration with IESE Business School in Barcelona (2018), and training at Sam Houston State University in Huntsville, Texas ."
-  > Source: [[sources/wikipedia-patryk-jaki|Patryk Jaki]] · grade C
-
-- [[organisations/national-school-of-public-administration-warsaw-poland|National School Of Public Administration, Warsaw, Poland]]  
-  > "He also completed the ARGO Top Public Executive program organized by the National School of Public Administration in collaboration with IESE Business School in Barcelona (2018), and training at Sam Houston State University in Huntsville, Texas ."
-  > Source: [[sources/wikipedia-patryk-jaki|Patryk Jaki]] · grade C
 
 - [[organisations/sam-houston-state-university|sam-houston-state-university]]  
   > "He also completed the ARGO Top Public Executive program organized by the National School of Public Administration in collaboration with IESE Business School in Barcelona (2018), and training at Sam Houston State University in Huntsville, Texas ."

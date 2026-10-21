@@ -14,10 +14,8 @@ generated: 2026-10-21
 - SHA-256: `77aa6c716d8379fabced473bd46d341f622c9ff353d2bb39f23efd5d922b7ee5`
 - Sentences: 35
 
-## Verified claims citing this document (22)
+## Verified claims citing this document (19)
 
-- [[people/virginijus-sinkevicius|Virginijus Sinkevičius]] — attendee — Create Lithuania
-  > "From 2014 to 2015, he participated in the government’s “Create Lithuania” program, an initiative designed to attract young professionals to contribute innovative ideas to public sector development."
 - [[people/virginijus-sinkevicius|Virginijus Sinkevičius]] — chair — Committee on Economic Affairs
   > "During his term, he was appointed Chair of the Committee on Economic Affairs, where he focused on fostering innovation and improving Lithuania’s business environment."
 - [[people/virginijus-sinkevicius|Virginijus Sinkevičius]] — chair — Greens–European Free Alliance (Greens/EFA)
@@ -32,10 +30,6 @@ generated: 2026-10-21
   > "In 2013, he received a Master of Arts in European Studies from Maastricht University."
 - [[people/virginijus-sinkevicius|Virginijus Sinkevičius]] — employed_by — Center for European Policy Analysis (CEPA)
   > "In 2013–2014, he gained international experience as an Assistant Project Manager at the Center for European Policy Analysis (CEPA) in Washington, D.C., where he worked on transatlantic policy initiatives."
-- [[people/virginijus-sinkevicius|Virginijus Sinkevičius]] — employed_by — Office of the Prime Minister of the Republic of Lithuania
-  > "In 2012, Sinkevičius was a trainee in the Unit of Regional and Ethnic Affairs at the Office of the Prime Minister of the Republic of Lithuania."
-- [[people/virginijus-sinkevicius|Virginijus Sinkevičius]] — employed_by — Lithuania Tribune
-  > "Between 2012 and 2015, Sinkevičius contributed as an author and editor to the Lithuania Tribune, a news portal focused on Lithuanian and European affairs."
 - [[people/virginijus-sinkevicius|Virginijus Sinkevičius]] — employed_by — Lietuvos paštas
   > "In 2014, Sinkevičius returned to Lithuania to serve as an International Project Manager at Lietuvos paštas, coordinating cross-border projects aimed at modernizing postal services."
 - [[people/virginijus-sinkevicius|Virginijus Sinkevičius]] — employed_by — Invest Lithuania

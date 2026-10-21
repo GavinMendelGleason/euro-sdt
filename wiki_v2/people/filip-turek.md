@@ -14,7 +14,7 @@ generated: 2026-10-21
 
 Mep
 
-*Verified assertions: 5*
+*Verified assertions: 4*
 
 ## Education
 
@@ -29,10 +29,6 @@ Mep
   > Source: [[sources/wikipedia-filip-turek|Filip Turek]] · grade A
 
 ## Affiliation
-
-- [[organisations/chamber-of-deputies|Chamber of Deputies]]  
-  > "In the 2025 Czech parliamentary election , his party Motorists for Themselves was elected to parliament with 6.8% of the vote, and Turek became an MP."
-  > Source: [[sources/wikipedia-filip-turek|Filip Turek]] · grade C
 
 - [[organisations/prisaha|Přísaha]]  
   > "&#91; 13 &#93; He was elected as an MEP with 152,196 preferential votes, the second-highest vote total of any candidate."

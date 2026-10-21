@@ -14,7 +14,7 @@ generated: 2026-10-21
 
 Commissioner
 
-*Verified assertions: 51*
+*Verified assertions: 48*
 
 ## Commission service
 
@@ -35,12 +35,6 @@ Commissioner
 - Trade  
   > "Anna Cecilia Malmström (born 15 May 1968) is a Swedish politician who served as European Commissioner for Trade from 2014 to 2019."
   > Source: [[sources/wikipedia-cecilia-malmstrom|Cecilia Malmstrom]] · grade A
-
-## Country
-
-- Sweden  
-  > "She was a Member of the European Parliament (MEP) from Sweden from 1999 to 2006."
-  > Source: [[sources/wikipedia-cecilia-malmstrom|Cecilia Malmstrom]] · grade C
 
 ## Education
 
@@ -151,10 +145,6 @@ Commissioner
 - [[organisations/campaign-for-parliamentary-reform-cpr|Campaign for Parliamentary Reform (CPR)]] — founder  
   > "In 2001, Malmström and nine fellow MEPs – including Nick Clegg and Helle Thorning-Schmidt – founded the Campaign for Parliamentary Reform (CPR) to press for changes to the way the European Parliament functions on a day-to-day basis."
   > Source: [[sources/wikipedia-cecilia-malmstrom|Cecilia Malmstrom]] · grade A
-
-- [[organisations/radicalisation-awareness-network-r-a-n|Radicalisation Awareness Network (R.A.N.)]] — founder  
-  > "In September 2011, Malmström officially launched the Radicalisation Awareness Network (R.A.N.), a project aimed at tackling terrorism and violent extremism through preventive measures, rather than through confrontation."
-  > Source: [[sources/wikipedia-cecilia-malmstrom|Cecilia Malmstrom]] · grade C
 
 ## Employment
 

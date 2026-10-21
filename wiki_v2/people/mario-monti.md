@@ -14,17 +14,13 @@ generated: 2026-10-21
 
 Commissioner · ITA
 
-*Verified assertions: 62*
+*Verified assertions: 60*
 
 ## Portfolio
 
 - Competition  
   > "Monti served as a European Commissioner from 1995 to 2004, with responsibility for the Internal Market, Services, Customs and Taxation from 1995 to 1999 and for Competition from 1999 to 2004."
   > Source: [[sources/wikipedia-mario-monti|Mario Monti]] · grade A
-
-- Internal Market and Financial Services / Competition  
-  > "Monti served as a European Commissioner from 1995 to 2004, with responsibility for the Internal Market, Services, Customs and Taxation from 1995 to 1999 and for Competition from 1999 to 2004."
-  > Source: [[sources/wikipedia-mario-monti|Mario Monti]] · grade C
 
 ## Nominated by
 
@@ -114,7 +110,7 @@ Commissioner · ITA
 
 ## Chair / president
 
-- [[organisations/bruegel|Bruegel]] — chair; founder  
+- [[organisations/bruegel|Bruegel]] — chair  
   > "From 2005 to 2008, he was the first president of the Bruegel."
   > Source: [[sources/wikipedia-mario-monti|Mario Monti]] · grade A
 

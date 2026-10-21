@@ -14,7 +14,7 @@ generated: 2026-10-21
 - SHA-256: `2328e5a1a2337be0be1982ba00613a5257cac0eab764710a156d42c37c83a938`
 - Sentences: 34
 
-## Verified claims citing this document (41)
+## Verified claims citing this document (40)
 
 - [[people/karmenu-vella|Karmenu Vella]] — board_member — Mid Med Bank - Malta
   > "In 1973 he started his own private practice as an Architect and Civil Engineer, and during that same year he was appointed a director until 1976 on Mid Med Bank - Malta."
@@ -76,8 +76,6 @@ generated: 2026-10-21
   > "Between 1998 and 2000 he studied at Sheffield Hallam University where he was awarded a Master of Science degree in Tourism."
 - [[people/karmenu-vella|Karmenu Vella]] — employed_by — Libyan Arab Maltese Holding Company
   > "In 1974 he joined the Libyan Arab Maltese Holding Company as its Managing Director until 1981."
-- [[people/karmenu-vella|Karmenu Vella]] — founder — Maltese Turkish Business Council
-  > "In 2007 Karmenu Vella was the founding chairman of the Maltese Turkish Business Council."
 - [[people/karmenu-vella|Karmenu Vella]] — held_portfolio — Environment, Maritime Affairs and Fisheries
   > "Karmenu Vella (born 19 June 1950) is a Maltese politician and former member of the European Commission, in charge of Environment, Maritime Affairs and Fisheries between 2014 and 2019."
 - [[people/karmenu-vella|Karmenu Vella]] — member — National Executive Committee of the Labour Youth Movement

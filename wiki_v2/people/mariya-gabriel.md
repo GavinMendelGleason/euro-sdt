@@ -14,7 +14,7 @@ generated: 2026-10-21
 
 Commissioner · BGR
 
-*Verified assertions: 27*
+*Verified assertions: 24*
 
 ## Portfolio
 
@@ -58,28 +58,26 @@ Commissioner · BGR
   > "A member of the GERB party, she previously served as European Commissioner for Innovation, Research, Culture, Education and Youth from 2019 to 2023, European Commissioner for Digital Economy and Society from 2017 to 2019 and Member of the European Parliament from 2009 to 2017."
   > Source: [[sources/wikipedia-mariya-gabriel|Mariya Gabriel]] · grade A
 
-## Board / trustee
-
-- [[organisations/epp-group|EPP Group]] — board_member; chair  
-  > "From 2014 to 2017, Mariya Gabriel was vice-president of the EPP Group and Head of the Bulgarian delegation in the EPP Group."
-  > Source: [[sources/wikipedia-mariya-gabriel|Mariya Gabriel]] · grade A
-
-- [[organisations/epp-women|EPP Women]] — board_member; chair  
-  > "In the European Parliament she served as vice-president of the European People's Party (EPP) group, vice-president of EPP Women and head of the Bulgarian EPP delegation."
-  > Source: [[sources/wikipedia-mariya-gabriel|Mariya Gabriel]] · grade A
-
-- [[organisations/european-people-s-party-group|European People's Party Group]] — board_member; chair  
-  > "In the European Parliament she served as vice-president of the European People's Party (EPP) group, vice-president of EPP Women and head of the Bulgarian EPP delegation."
-  > Source: [[sources/wikipedia-mariya-gabriel|Mariya Gabriel]] · grade A
-
 ## Chair / president
 
 - [[organisations/epp|EPP]] — chair  
   > "As vice-president of the EPP Group she chaired the Euromed Working Group of the EPP and was responsible for maintaining the EPP Group's relations with countries from the Mediterranean, Middle East and North Africa regions."
   > Source: [[sources/wikipedia-mariya-gabriel|Mariya Gabriel]] · grade A
 
+- [[organisations/epp-group|EPP Group]] — chair  
+  > "From 2014 to 2017, Mariya Gabriel was vice-president of the EPP Group and Head of the Bulgarian delegation in the EPP Group."
+  > Source: [[sources/wikipedia-mariya-gabriel|Mariya Gabriel]] · grade A
+
+- [[organisations/epp-women|EPP Women]] — chair  
+  > "In the European Parliament she served as vice-president of the European People's Party (EPP) group, vice-president of EPP Women and head of the Bulgarian EPP delegation."
+  > Source: [[sources/wikipedia-mariya-gabriel|Mariya Gabriel]] · grade A
+
 - [[organisations/euromed-working-group-of-the-epp|Euromed Working Group of the EPP]] — chair  
   > "As vice-president of the EPP Group she chaired the Euromed Working Group of the EPP and was responsible for maintaining the EPP Group's relations with countries from the Mediterranean, Middle East and North Africa regions."
+  > Source: [[sources/wikipedia-mariya-gabriel|Mariya Gabriel]] · grade A
+
+- [[organisations/european-people-s-party-group|European People's Party Group]] — chair  
+  > "In the European Parliament she served as vice-president of the European People's Party (EPP) group, vice-president of EPP Women and head of the Bulgarian EPP delegation."
   > Source: [[sources/wikipedia-mariya-gabriel|Mariya Gabriel]] · grade A
 
 - [[organisations/robert-schuman-institute|Robert Schuman Institute]] — chair  

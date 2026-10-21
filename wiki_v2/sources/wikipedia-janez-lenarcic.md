@@ -14,7 +14,7 @@ generated: 2026-10-21
 - SHA-256: `0aca0492054979de8f562fecc9f8a718f7b03cfc3898a6adbbe1714130e68ed1`
 - Sentences: 19
 
-## Verified claims citing this document (14)
+## Verified claims citing this document (13)
 
 - [[people/janez-lenarcic|Janez Lenarčič]] — board_member — Office for Democratic Institutions and Human Rights
   > "He is a former director of the Office for Democratic Institutions and Human Rights within the Organization for Security and Co-operation in Europe."
@@ -30,8 +30,6 @@ generated: 2026-10-21
   > "Janez Lenarčič (born 6 November 1967) is a Slovenian diplomat who served as European Commissioner for Crisis Management in the first Von der Leyen Commission from 2019 to 2024."
 - [[people/janez-lenarcic|Janez Lenarčič]] — employed_by — Office for Democratic Institutions and Human Rights
   > "He is a former director of the Office for Democratic Institutions and Human Rights within the Organization for Security and Co-operation in Europe."
-- [[people/janez-lenarcic|Janez Lenarčič]] — employed_by — Organization for Security and Co-operation in Europe (OSCE)
-  > "Lenarčič was ambassador of Slovenia to the Organization for Security and Co-operation in Europe (OSCE) in Vienna from 2003 to 2006, and chaired the OSCE Permanent Council in 2005 during the Slovenian chairmanship."
 - [[people/janez-lenarcic|Janez Lenarčič]] — employed_by — OSCE's Office for Democratic Institutions and Human Rights
   > "Lenarčič then moved to Warsaw as Director of the OSCE's Office for Democratic Institutions and Human Rights (ODIHR) until 2014."
 - [[people/janez-lenarcic|Janez Lenarčič]] — from_country — Slovenia

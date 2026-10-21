@@ -14,7 +14,7 @@ generated: 2026-10-21
 
 Commissioner
 
-*Verified assertions: 27*
+*Verified assertions: 23*
 
 ## Portfolio
 
@@ -46,18 +46,14 @@ Commissioner
   > "She has sat on the European Parliament's Committee on the Internal Market and Consumer Protection, has substituted for the Committee on International Trade, was a member of the Delegation to the EU-Ukraine Parliamentary Cooperation Committee and a substitute for the Delegation to the EU-Turkey Joint Parliamentary Committee."
   > Source: [[sources/wikipedia-marianne-thyssen|Marianne Thyssen]] · grade A
 
-## Board / trustee
+- [[organisations/oud-heverlee|Oud-Heverlee]]  
+  > "From 1995-2008 she served as municipal Councillor for Oud-Heverlee, a municipality located in the Belgian province of Flemish Brabant, and in 2001 she became First Alderman for Oud-Heverlee."
+  > Source: [[sources/wikipedia-marianne-thyssen|Marianne Thyssen]] · grade B
 
-- [[organisations/epp|EPP]] — board_member  
-  > "From 1999-2014 she served as leader of the European People's Party's (EPP) Belgian delegation and from 2004-2009 was elected first vice-president of the EPP."
-  > Source: [[sources/wikipedia-marianne-thyssen|Marianne Thyssen]] · grade C
+## Board / trustee
 
 - [[organisations/epp-ed-group-s-sme-circle|EPP-ED Group's SME Circle]] — board_member; chair  
   > "Early career 1979: Degree in law at the Catholic University of Leuven (KUL) Assistant in the faculty of law, Catholic University of Leuven Legal assistant in the office of the State Secretary for Health Successively legal adviser, head of a research department and acting Secretary-General at Unizo (organisation for the self-employed and small and medium-sized businesses) Career since 1991: Member of the European Parliament Member of the bureau of the European People's Party Vice-Chairwoman of the EPP-ED Group's SME Circle First Deputy Mayor of Oud-Heverlee until 2008 Chair woman of the CD&V (1 […]"
-  > Source: [[sources/wikipedia-marianne-thyssen|Marianne Thyssen]] · grade A
-
-- [[organisations/european-peoples-party|European People's Party]] — board_member; chair  
-  > "From 1999-2014 she served as leader of the European People's Party's (EPP) Belgian delegation and from 2004-2009 was elected first vice-president of the EPP."
   > Source: [[sources/wikipedia-marianne-thyssen|Marianne Thyssen]] · grade A
 
 - [[organisations/unizo|UNIZO]] — board_member; employed_by  
@@ -74,6 +70,10 @@ Commissioner
   > "In 2008 Thyssen was elected leader of CD&V party."
   > Source: [[sources/wikipedia-marianne-thyssen|Marianne Thyssen]] · grade C
 
+- [[organisations/european-peoples-party|European People's Party]] — chair  
+  > "From 1999-2014 she served as leader of the European People's Party's (EPP) Belgian delegation and from 2004-2009 was elected first vice-president of the EPP."
+  > Source: [[sources/wikipedia-marianne-thyssen|Marianne Thyssen]] · grade A
+
 - [[organisations/european-people-s-party-s-epp-belgian-delegation|European People's Party's (EPP) Belgian delegation]] — chair  
   > "From 1999-2014 she served as leader of the European People's Party's (EPP) Belgian delegation and from 2004-2009 was elected first vice-president of the EPP."
   > Source: [[sources/wikipedia-marianne-thyssen|Marianne Thyssen]] · grade A
@@ -87,7 +87,3 @@ Commissioner
 - [[organisations/european-commission|European Commission]] — employed_by  
   > "In 2014 Thyssen was appointed to the European Commission as Commissioner in charge of Employment, Social Affairs, Skills and Labour Mobility for the European Union (EU)."
   > Source: [[sources/wikipedia-marianne-thyssen|Marianne Thyssen]] · grade C
-
-- [[organisations/oud-heverlee|Oud-Heverlee]] — employed_by  
-  > "From 1995-2008 she served as municipal Councillor for Oud-Heverlee, a municipality located in the Belgian province of Flemish Brabant, and in 2001 she became First Alderman for Oud-Heverlee."
-  > Source: [[sources/wikipedia-marianne-thyssen|Marianne Thyssen]] · grade B

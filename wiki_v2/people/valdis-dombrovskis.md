@@ -14,21 +14,13 @@ generated: 2026-10-21
 
 Commissioner · LVA
 
-*Verified assertions: 44*
+*Verified assertions: 42*
 
 ## Portfolio
-
-- European Commissioner for Economy and Productivity and Commissioner for Implementation and Simplification  
-  > "Valdis Dombrovskis (Latvian pronunciation: [ˈvaldis dɔmˈbrɔvskis]; born 5 August 1971) is a Latvian politician serving as European Commissioner for Economy and Productivity, and Commissioner for Imple"
-  > Source: [[sources/wikipedia-valdis-dombrovskis|Valdis Dombrovskis]] · grade C
 
 - Executive VP – An Economy that Works for People / Trade  
   > "He previously served as Executive Vice President of the European Commission for An Economy that Works for People (2019-2024), European Commissioner for Trade (2020-2024)."
   > Source: [[sources/wikipedia-valdis-dombrovskis|Valdis Dombrovskis]] · grade A
-
-- VP – Euro and Social Dialogue / Financial Stability  
-  > "He was Vice-President of the European Commission for the Euro and Social Dialogue from 2014 to 2019."
-  > Source: [[sources/wikipedia-valdis-dombrovskis|Valdis Dombrovskis]] · grade C
 
 ## Country
 

@@ -14,14 +14,12 @@ generated: 2026-10-21
 - SHA-256: `198e30a2707d4cfe6d8b36e540fc0b814ef649c3d9438d0ea761fc4527992939`
 - Sentences: 186
 
-## Verified claims citing this document (33)
+## Verified claims citing this document (30)
 
 - [[people/catherine-ashton|Catherine Ashton]] — affiliated_with — Central Council for Education and Training in Social Work
   > "As of 1983 she worked for the Central Council for Education and Training in Social Work."
 - [[people/catherine-ashton|Catherine Ashton]] — board_member — Business in the Community
   > "From 1983 to 1989 she was director of Business in the Community, working with business to tackle inequality, and she established the Employers' Forum on Disability, Opportunity Now, and the Windsor Fellowship."
-- [[people/catherine-ashton|Catherine Ashton]] — chair — Campaign for Nuclear Disarmament (CND)
-  > "Career United Kingdom Between 1977 and 1983, Ashton worked for the Campaign for Nuclear Disarmament (CND) as an administrator and in 1982 was elected as its national treasurer and subsequently as one of its vice-chairs."
 - [[people/catherine-ashton|Catherine Ashton]] — chair — Health Authority in Hertfordshire
   > "She chaired the Health Authority in Hertfordshire from 1998 to 2001 and she became a vice-president of the National Council for One-Parent Families."
 - [[people/catherine-ashton|Catherine Ashton]] — chair — National Council for One-Parent Families
@@ -38,8 +36,6 @@ generated: 2026-10-21
   > "Catherine Margaret Ashton, Baroness Ashton of Upholland (born 20 March 1956) is a British Labour politician who served as the High Representative of the Union for Foreign Affairs and Security Policy and First Vice President of the European Commission in the Barroso Commission from 2009 to 2014."
 - [[people/catherine-ashton|Catherine Ashton]] — employed_by — Department for Education and Skills
   > "She became the Parliamentary Under-Secretary of State in the Department for Education and Skills in 2001 and subsequently in the Ministry of Justice in 2004."
-- [[people/catherine-ashton|Catherine Ashton]] — employed_by — Ministry of Justice (Spain)
-  > "She became the Parliamentary Under-Secretary of State in the Department for Education and Skills in 2001 and subsequently in the Ministry of Justice in 2004."
 - [[people/catherine-ashton|Catherine Ashton]] — employed_by — European Commission
   > "In 2008, she was appointed as the British European Commissioner and became the Commissioner for Trade in the European Commission."
 - [[people/catherine-ashton|Catherine Ashton]] — employed_by — Campaign for Nuclear Disarmament (CND)
@@ -52,8 +48,6 @@ generated: 2026-10-21
   > "In June 2001 she was appointed Parliamentary Under-Secretary of State in the Department for Education and Skills."
 - [[people/catherine-ashton|Catherine Ashton]] — employed_by — Department for Constitutional Affairs
   > "In 2002 she became Minister responsible for Sure Start in the same department, and in September 2004 she was appointed Parliamentary Under-Secretary in the Department for Constitutional Affairs, with responsibilities including the National Archives and the Public Guardianship Office."
-- [[people/catherine-ashton|Catherine Ashton]] — employed_by — Ministry of Justice (Spain)
-  > "Ashton was sworn of the Privy Council in 2006, and she became Parliamentary Under-Secretary of State at the new Ministry of Justice in May 2007."
 - [[people/catherine-ashton|Catherine Ashton]] — employed_by — HM Cabinet
   > "On 28 June 2007, Prime Minister Gordon Brown appointed Ashton to HM Cabinet as Leader of the House of Lords and Lord President of the Council."
 - [[people/catherine-ashton|Catherine Ashton]] — founder — Employers' Forum on Disability

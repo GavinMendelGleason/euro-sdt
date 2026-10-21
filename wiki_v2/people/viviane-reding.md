@@ -14,7 +14,7 @@ generated: 2026-10-21
 
 Commissioner
 
-*Verified assertions: 55*
+*Verified assertions: 51*
 
 ## Commission service
 
@@ -137,10 +137,6 @@ Commissioner
   > Source: [[sources/wikipedia-viviane-reding|Viviane Reding]] · grade A
 
 ## Employment
-
-- [[organisations/european-commission|European Commission]] — employed_by  
-  > "From 1999 to 2004, Reding was appointed Commissioner for Education, Culture, Youth, Media and Sport."
-  > Source: [[sources/wikipedia-viviane-reding|Viviane Reding]] · grade C
 
 - [[organisations/luxemburger-wort|Luxemburger Wort]] — employed_by  
   > "Before starting a professional career as a journalist for the leading newspaper in Luxembourg, the Luxemburger Wort, Reding obtained a doctorate in human sciences at the Sorbonne."

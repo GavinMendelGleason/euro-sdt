@@ -14,16 +14,12 @@ generated: 2026-10-21
 
 Mep
 
-*Verified assertions: 3*
+*Verified assertions: 2*
 
 ## Membership
 
 - [[organisations/european-court-of-auditors|European Court of Auditors]]  
   > "Since 2017, she is a Member of the European Court of Auditors ."
-  > Source: [[sources/wikipedia-ildik-pelczn-gll|Ildik Pelczn Gll]] · grade C
-
-- [[organisations/european-peoples-party|European People's Party]]  
-  > "She is a member of Fidesz , part of the European People's Party ."
   > Source: [[sources/wikipedia-ildik-pelczn-gll|Ildik Pelczn Gll]] · grade C
 
 - [[organisations/fidesz|Fidesz]]  

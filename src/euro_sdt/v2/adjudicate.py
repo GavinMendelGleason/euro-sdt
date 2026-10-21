@@ -60,9 +60,11 @@ def _save_cache(cache: dict) -> None:
     CACHE_PATH.write_text(json.dumps(cache, indent=2, ensure_ascii=False), encoding="utf-8")
 
 
-def _cache_key(model: str, claim_id: str, prompt_hash: str) -> str:
+def _cache_key(model: str, claim_id: str, prompt_hash: str, thinking: bool = False) -> str:
     base = f"{claim_id}:{prompt_hash[:16]}"
-    return base if model == "deepseek-chat" else f"{model}|{base}"
+    if model == "deepseek-chat":
+        return base
+    return f"{model}|{'think' if thinking else 'nothink'}|{base}"
 
 
 def _prompt(row: sqlite3.Row) -> str:
@@ -182,7 +184,7 @@ def adjudicate(db: sqlite3.Connection, limit: int | None = None,
             prompt = _prompt(row)
             prompt_hash = sha256_text(prompt)
             prompt_hashes[row["claim_id"]] = prompt_hash
-            key = _cache_key(model, row["claim_id"], prompt_hash)
+            key = _cache_key(model, row["claim_id"], prompt_hash, thinking)
             cached = cache.get(key)
             if cached and cached.get("verdict") in ("SUPPORTED", "UNSUPPORTED", "AMBIGUOUS"):
                 results[row["claim_id"]] = (cached["verdict"], cached.get("reason", ""))

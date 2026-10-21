@@ -14,7 +14,7 @@ generated: 2026-10-21
 
 Commissioner
 
-*Verified assertions: 40*
+*Verified assertions: 38*
 
 ## Commission service
 
@@ -27,12 +27,6 @@ Commissioner
 - Migration, Home Affairs and Citizenship  
   > "He served as EU Commissioner for Migration, Home Affairs and Citizenship in the Juncker Commission between 2014 and 2019."
   > Source: [[sources/wikipedia-dimitris-avramopoulos|Dimitris Avramopoulos]] · grade A
-
-## Nominated by
-
-- GRC  
-  > "After the Cabinet reshuffle of 25 June 2013 he became Greek Minister for Defence again, serving until his nomination as Greece's European Commissioner in November 2014."
-  > Source: [[sources/wikipedia-dimitris-avramopoulos|Dimitris Avramopoulos]] · grade C
 
 ## Education
 
@@ -68,12 +62,6 @@ Commissioner
   > "From 1996 to 2000 he served as vice-president of the executive committee of the International Union of Local Authorities (IULA) and from 1997 to 2002, as a member of the Committee of the Regions of the European Union."
   > Source: [[sources/wikipedia-dimitris-avramopoulos|Dimitris Avramopoulos]] · grade A
 
-## Advisory board
-
-- [[organisations/new-democracy|New Democracy]] — advisory_board; chair; party_member  
-  > "In July 2010, he became Vice-President of “New Democracy”, serving until 1 November 2014."
-  > Source: [[sources/wikipedia-dimitris-avramopoulos|Dimitris Avramopoulos]] · grade A
-
 ## Chair / president
 
 - [[organisations/athens-international-prize-for-democracy-for-unesco|Athens’ International Prize for Democracy for UNESCO]] — chair  
@@ -82,6 +70,10 @@ Commissioner
 
 - [[organisations/central-union-of-local-authorities-of-greece|Central Union of Local Authorities of Greece]] — chair  
   > "From 1995 to 1999 he served as chairman of the Central Union of Local Authorities of Greece."
+  > Source: [[sources/wikipedia-dimitris-avramopoulos|Dimitris Avramopoulos]] · grade A
+
+- [[organisations/new-democracy|New Democracy]] — chair; party_member  
+  > "In July 2010, he became Vice-President of “New Democracy”, serving until 1 November 2014."
   > Source: [[sources/wikipedia-dimitris-avramopoulos|Dimitris Avramopoulos]] · grade A
 
 - [[organisations/permanent-conference-of-the-mayors-of-the-capitals-of-south-east-europe|Permanent Conference of the Mayors of the Capitals of South-East Europe]] — chair; founder  

@@ -14,7 +14,7 @@ generated: 2026-10-21
 - SHA-256: `4206d82d2173dea4d0caa8ed2e2aaf45605e1ba9895b3ed08f32c8170d82a1cf`
 - Sentences: 38
 
-## Verified claims citing this document (18)
+## Verified claims citing this document (15)
 
 - [[people/martin-bangemann|Martin Bangemann]] — affiliated_with — high-level group
   > "As commissioner, he led a \"high-level group\" that drew up the report \"Europe and the Global Information Society\" in 1994."
@@ -26,18 +26,12 @@ generated: 2026-10-21
   > "From 1978 to 1979 he was vice-chair of the Committee on Budgets."
 - [[people/martin-bangemann|Martin Bangemann]] — educated_at — Tübingen
   > "He studied law in Tübingen and Munich, and earned a Dr. jur."
-- [[people/martin-bangemann|Martin Bangemann]] — educated_at — Ludwig-Maximilians-Universität München
-  > "He studied law in Tübingen and Munich, and earned a Dr. jur."
 - [[people/martin-bangemann|Martin Bangemann]] — educated_at — Tübingen
   > "He studied law in Tübingen and Munich, and earned a Dr. jur. (not equivalent to J.D., but a PhD in law) in 1962 with a dissertation entitled Bilder und Fiktionen in Recht und Rechtswissenschaft (Imagery and fiction in law and jurisprudence)."
 - [[people/martin-bangemann|Martin Bangemann]] — educated_at — Munich
   > "He studied law in Tübingen and Munich, and earned a Dr. jur. (not equivalent to J.D., but a PhD in law) in 1962 with a dissertation entitled Bilder und Fiktionen in Recht und Rechtswissenschaft (Imagery and fiction in law and jurisprudence)."
 - [[people/martin-bangemann|Martin Bangemann]] — employed_by — European Commission
   > "In 1988, Bangemann joined the European Commission."
-- [[people/martin-bangemann|Martin Bangemann]] — from_country — germany
-  > "Bangemann was the German Federal Minister for Economic Affairs from 1984 to 1988."
-- [[people/martin-bangemann|Martin Bangemann]] — held_degree — PhD
-  > "He studied law in Tübingen and Munich, and earned a Dr. jur."
 - [[people/martin-bangemann|Martin Bangemann]] — held_portfolio — VP – Industrial Affairs and Information Technologies
   > "Subsequently, he became Commissioner for Industrial affairs, Information & Telecommunications Technologies in the Santer Commission from 1995 to 1999."
 - [[people/martin-bangemann|Martin Bangemann]] — member — Free Democratic Party (FDP)

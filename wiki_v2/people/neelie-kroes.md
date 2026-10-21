@@ -14,7 +14,7 @@ generated: 2026-10-21
 
 Commissioner
 
-*Verified assertions: 55*
+*Verified assertions: 53*
 
 ## Commission service
 
@@ -102,10 +102,6 @@ Commissioner
   > "Also, she was a member of several boards of commissioners, for instance at Nedlloyd (a shipping company) and Lucent Technologies (an information and communication technologies company)."
   > Source: [[sources/wikipedia-neelie-kroes|Neelie Kroes]] · grade C
 
-- [[organisations/nib|NIB]] — board_member  
-  > "(a joint subsidiary of the pension funds ABP and PGGM), NIB (an investment bank), McDonald's Netherlands, Nedlloyd, and Nederlandse Spoorwegen (the Dutch railroad company)."
-  > Source: [[sources/wikipedia-neelie-kroes|Neelie Kroes]] · grade C
-
 - [[organisations/open-data-institute|Open Data Institute]] — board_member  
   > "Open Data Institute, Non-Executive Member of the Board (since 2015)"
   > Source: [[sources/wikipedia-neelie-kroes|Neelie Kroes]] · grade A
@@ -186,10 +182,6 @@ Commissioner
 
 - [[organisations/second-barroso-commission|Second Barroso Commission]] — employed_by  
   > "In November 2009, Kroes was re-nominated for a second term in the Second Barroso Commission, and was given the heavy portfolio of Digital Agenda and was appointed as one of the Vice-Presidents serving from 9 February 2010 until 1 November 2014."
-  > Source: [[sources/wikipedia-neelie-kroes|Neelie Kroes]] · grade C
-
-- [[organisations/startupdelta|StartupDelta]] — employed_by  
-  > "Kroes is currently leading StartupDelta, a public-private initiative to help promote the Netherlands as a destination for startup companies."
   > Source: [[sources/wikipedia-neelie-kroes|Neelie Kroes]] · grade C
 
 - [[organisations/transport-company-in-delft|transport company in Delft]] — employed_by  

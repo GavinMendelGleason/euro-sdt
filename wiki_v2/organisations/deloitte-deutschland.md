@@ -24,6 +24,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [[people/gunther-oettinger|Günther Oettinger]] — advisory_board; Juncker (2014-2019)  
+- [[people/gunther-oettinger|Günther Oettinger]] — advisory_board  
   > "Deloitte Deutschland, Member of the Advisory Council (since 2020)"
   > Source: [[sources/wikipedia-gunther-oettinger|Gunther Oettinger]] · grade A

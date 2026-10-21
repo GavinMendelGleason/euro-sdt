@@ -14,7 +14,7 @@ generated: 2026-10-21
 - SHA-256: `753fcce040f1ccc0a1264a50653b4b4d8059742771defa95599bc0ccf733feb3`
 - Sentences: 13
 
-## Verified claims citing this document (17)
+## Verified claims citing this document (16)
 
 - [[people/laszlo-andor|László Andor]] — advisory_board — Prague European Summit
   > "László Andor is a member of the advisory board of the Prague European Summit."
@@ -35,8 +35,6 @@ generated: 2026-10-21
 - [[people/laszlo-andor|László Andor]] — educated_at — Corvinus University Of Budapest
   > "He studied Economics at the Corvinus University of Budapest (then called the Karl Marx University), and later became Associate Professor of Economic Policy at the same institution."
 - [[people/laszlo-andor|László Andor]] — educated_at — George Washington University
-  > "He also studied at the George Washington University in Washington, D.C., and in 1993 earned a master's degree in Development Economics at the University of Manchester."
-- [[people/laszlo-andor|László Andor]] — educated_at — Victoria University Of Manchester
   > "He also studied at the George Washington University in Washington, D.C., and in 1993 earned a master's degree in Development Economics at the University of Manchester."
 - [[people/laszlo-andor|László Andor]] — employed_by — Foundation for European Progressive Studies (FEPS)
   > "László Andor (born 3 June 1966) is a Hungarian economist and the Secretary General of the Foundation for European Progressive Studies (FEPS)."

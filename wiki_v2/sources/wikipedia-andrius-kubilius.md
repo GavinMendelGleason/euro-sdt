@@ -14,7 +14,7 @@ generated: 2026-10-21
 - SHA-256: `471faa3884fdacd2d918a1ca26730691c82b1a22278c08d6704379a204af2665`
 - Sentences: 62
 
-## Verified claims citing this document (23)
+## Verified claims citing this document (22)
 
 - [[people/andrius-kubilius|Andrius Kubilius]] — affiliated_with — Euronest Parliamentary Assembly
   > "In addition to his committee assignments, Kubilius was part of the parliament's delegations to the Euronest Parliamentary Assembly and to the EU-Ukraine Parliamentary Association Committee."
@@ -30,8 +30,6 @@ generated: 2026-10-21
   > "He later became the Executive Secretary of the Sąjūdis Council."
 - [[people/andrius-kubilius|Andrius Kubilius]] — employed_by — Sąjūdis Council
   > "He later became the Executive Secretary of the Sąjūdis Council."
-- [[people/andrius-kubilius|Andrius Kubilius]] — from_country — Lithuania
-  > "He previously served as a Member of the European Parliament (MEP) from 2019 to 2024 and as Prime Minister of Lithuania from 1999 to 2000 and again from 2008 to 2012."
 - [[people/andrius-kubilius|Andrius Kubilius]] — held_portfolio — European Commissioner for Defence and Space
   > "Andrius Kubilius (Lithuanian pronunciation: [ˈɐnʲdʲrʲʊs kʊˈbɪlʲʊs]; born 8 December 1956) is a Lithuanian politician who is currently serving as the European Commissioner for Defence and Space in the"
 - [[people/andrius-kubilius|Andrius Kubilius]] — member — s-j-dis

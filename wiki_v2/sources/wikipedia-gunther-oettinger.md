@@ -14,7 +14,7 @@ generated: 2026-10-21
 - SHA-256: `9b119e52248258f6737187bcf9f63c603d97a08d87ea86fb64a978da3dd50655`
 - Sentences: 82
 
-## Verified claims citing this document (65)
+## Verified claims citing this document (59)
 
 - [[people/gunther-oettinger|Günther Oettinger]] — advisory_board — gr-ner-group
   > "By referring to actual market developments in Italy, I did not mean to be disrespectful.\" Other activities Corporate boards Gröner Group, Member of the Advisory Board (since 2022) Donner & Reuschel, Chair of the Adivsory Board (since 2021) HAM-LOG Gruppe, Member of the Advisory Board (since 2021) Herrenknecht, Member of the Supervisory Board (since 2021) Kekst CNC, Member of the Global Advisory Bo […]"
@@ -112,8 +112,6 @@ generated: 2026-10-21
   > "In 2019, Oettinger and his partner Friederike Beyer jointly set up Oettinger Consulting, a Hamburg-based advisory firm."
 - [[people/gunther-oettinger|Günther Oettinger]] — held_portfolio — Energy
   > "In the Second Barroso Commission, Oettinger was allocated the Energy portfolio, which had just grown in importance after the Lisbon Treaty gave the EU complete authority in the area."
-- [[people/gunther-oettinger|Günther Oettinger]] — held_portfolio — Digital Economy and Society (prev. Energy)
-  > "Instead, Jean-Claude Juncker, President-elect of the European Commission, nominated Oettinger as Commissioner for Digital Economy and Society."
 - [[people/gunther-oettinger|Günther Oettinger]] — member — German Council on Foreign Relations (DGAP)
   > "By referring to actual market developments in Italy, I did not mean to be disrespectful.\" Other activities Corporate boards Gröner Group, Member of the Advisory Board (since 2022) Donner & Reuschel, Chair of the Adivsory Board (since 2021) HAM-LOG Gruppe, Member of the Advisory Board (since 2021) Herrenknecht, Member of the Supervisory Board (since 2021) Kekst CNC, Member of the Global Advisory Bo […]"
 - [[people/gunther-oettinger|Günther Oettinger]] — member — Christian Democratic Union
@@ -130,16 +128,6 @@ generated: 2026-10-21
   > "German Council on Foreign Relations (DGAP), Member of the Presidium (since 2020)"
 - [[people/gunther-oettinger|Günther Oettinger]] — nominated_by — DEU
   > "Between 2007 and 2009, he served as co-chair (alongside Peter Struck) of the Second Commission on the modernization of the federal state (Föderalismuskommission II), which had been established to reform the division of powers between federal and state authorities in Germany."
-- [[people/gunther-oettinger|Günther Oettinger]] — post_mandate_occupation — EBS University of Business and Law
-  > "Since 2021, Oettinger has been serving as the president of EBS University of Business and Law."
-- [[people/gunther-oettinger|Günther Oettinger]] — post_mandate_occupation — HAM-LOG Gruppe
-  > "Other activities Corporate boards Gröner Group, Member of the Advisory Board (since 2022) Donner & Reuschel, Chair of the Adivsory Board (since 2021) HAM-LOG Gruppe, Member of the Advisory Board (since 2021) Herrenknecht, Member of the Supervisory Board (since 2021) Kekst CNC, Member of the Global Advisory Board (since 2020) Deloitte Deutschland, Member of the Advisory Council (since 2020) Amundi […]"
-- [[people/gunther-oettinger|Günther Oettinger]] — post_mandate_occupation — Kekst CNC
-  > "Other activities Corporate boards Gröner Group, Member of the Advisory Board (since 2022) Donner & Reuschel, Chair of the Adivsory Board (since 2021) HAM-LOG Gruppe, Member of the Advisory Board (since 2021) Herrenknecht, Member of the Supervisory Board (since 2021) Kekst CNC, Member of the Global Advisory Board (since 2020) Deloitte Deutschland, Member of the Advisory Council (since 2020) Amundi […]"
-- [[people/gunther-oettinger|Günther Oettinger]] — post_mandate_occupation — Deloitte Deutschland
-  > "Other activities Corporate boards Gröner Group, Member of the Advisory Board (since 2022) Donner & Reuschel, Chair of the Adivsory Board (since 2021) HAM-LOG Gruppe, Member of the Advisory Board (since 2021) Herrenknecht, Member of the Supervisory Board (since 2021) Kekst CNC, Member of the Global Advisory Board (since 2020) Deloitte Deutschland, Member of the Advisory Council (since 2020) Amundi […]"
-- [[people/gunther-oettinger|Günther Oettinger]] — post_mandate_occupation — CG Elementum AG
-  > "Other activities Corporate boards Gröner Group, Member of the Advisory Board (since 2022) Donner & Reuschel, Chair of the Adivsory Board (since 2021) HAM-LOG Gruppe, Member of the Advisory Board (since 2021) Herrenknecht, Member of the Supervisory Board (since 2021) Kekst CNC, Member of the Global Advisory Board (since 2020) Deloitte Deutschland, Member of the Advisory Council (since 2020) Amundi […]"
 - [[people/gunther-oettinger|Günther Oettinger]] — served_on_commission — Barroso II
   > "In the Second Barroso Commission, Oettinger was allocated the Energy portfolio, which had just grown in importance after the Lisbon Treaty gave the EU complete authority in the area."
 - [[people/gunther-oettinger|Günther Oettinger]] — served_on_commission — Juncker Commission

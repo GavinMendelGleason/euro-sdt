@@ -14,7 +14,7 @@ generated: 2026-10-21
 
 Commissioner · IRL
 
-*Verified assertions: 29*
+*Verified assertions: 28*
 
 ## Portfolio
 
@@ -113,10 +113,6 @@ Commissioner · IRL
   > Source: [[sources/wikipedia-mairead-mcguinness|Mairead Mcguinness]] · grade B
 
 ## Employment
-
-- [[organisations/european-commission|European Commission]] — employed_by  
-  > "On 8 September 2020, McGuinness was proposed by European Commission president Ursula von der Leyen as the new Commissioner for Financial Stability, Financial Services and Capital Markets Union."
-  > Source: [[sources/wikipedia-mairead-mcguinness|Mairead Mcguinness]] · grade C
 
 - [[organisations/european-parliament|European Parliament]] — employed_by  
   > "A member of Fine Gael, she previously served as First Vice-President of the European Parliament from 2017 to 2020."

@@ -14,7 +14,7 @@ generated: 2026-10-21
 
 Commissioner · FRA
 
-*Verified assertions: 28*
+*Verified assertions: 26*
 
 ## Nominated by
 
@@ -48,13 +48,13 @@ Commissioner · FRA
   > "Séjourné was active in student politics within the National Union of Students of France (UNEF) and the Young Socialists, he took part in the blockade of the University of Poitiers and in the occupation of MEDEF premises in 2006, during the social movement against the First Employment Contract (CPE)."
   > Source: [[sources/wikipedia-stephane-sejourne|Stephane Sejourne]] · grade B
 
-## Founder
+## Affiliation
 
-- [[organisations/en-marche|En Marche!]] — founder  
+- [[organisations/en-marche|En Marche!]]  
   > "Originally a member of the Socialist Party, he later became an advisor to Emmanuel Macron at the Ministry of Economics, where he contributed to the creation of Jeunes avec Macron and En Marche!, evolving into La République en marche in 2016."
   > Source: [[sources/wikipedia-stephane-sejourne|Stephane Sejourne]] · grade A
 
-- [[organisations/jeunes-avec-macron|Jeunes avec Macron]] — founder  
+- [[organisations/jeunes-avec-macron|Jeunes avec Macron]]  
   > "Originally a member of the Socialist Party, he later became an advisor to Emmanuel Macron at the Ministry of Economics, where he contributed to the creation of Jeunes avec Macron and En Marche!, evolving into La République en marche in 2016."
   > Source: [[sources/wikipedia-stephane-sejourne|Stephane Sejourne]] · grade A
 

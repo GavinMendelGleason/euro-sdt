@@ -68,6 +68,33 @@ The queue score combines:
    costs about 15x and violates the exclusion rules.
 9. **The paper numbers have not been regenerated.**
 
+## Grade C second judge
+
+Grade-C assertions can be re-checked with flash thinking on:
+
+```bash
+# Report only, against a copy
+cp euro_sdt_v2.db /tmp/euro_sdt_v2_c_recheck.db
+.venv/bin/python scripts/recheck_grade_c.py --db /tmp/euro_sdt_v2_c_recheck.db --dry-run
+
+# Apply the consensus policy
+.venv/bin/python scripts/recheck_grade_c.py --db euro_sdt_v2.db --workers 8
+```
+
+Policy:
+
+- both judges SUPPORTED: keep verified, record a two-model consensus
+- chat SUPPORTED, flash UNSUPPORTED or AMBIGUOUS: `needs_review`
+- chat UNSUPPORTED, flash SUPPORTED: `needs_review`
+- both UNSUPPORTED: rejected
+- anything else: `needs_review`
+
+This is conservative: it never promotes a claim to verified on the second judge
+alone, and a disagreement removes the edge from the graph until reviewed.
+
+First applied run (2026-10-21): **738 grade-C claims rechecked; 569 kept
+verified, 169 moved to `needs_review`; 0 auto-promotions.**
+
 ## Recommended review order
 
 1. All 51 `needs_review` claims.

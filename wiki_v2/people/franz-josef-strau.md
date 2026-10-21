@@ -14,7 +14,7 @@ generated: 2026-10-21
 
 Mep
 
-*Verified assertions: 6*
+*Verified assertions: 5*
 
 ## Membership
 
@@ -41,7 +41,3 @@ Mep
 - [[organisations/schongau-district|Schongau district]]  
   > "&#91; 4 &#93; Political life 1945–1961 [ edit ] After the war, in 1945, he was appointed deputy Landrat (chief executive and representative of the district) of Schongau by the American military government and was involved in founding the local party organization of the Christian Social Union in Bavaria (CSU)."
   > Source: [[sources/wikipedia-franz-josef-strauss|Franz Josef Strauss]] · grade A
-
-- [[organisations/wehrmacht|Wehrmacht]]  
-  > "&#91; 3 &#93; World War II [ edit ] In World War&#160;II , he served in the Wehrmacht on the Western and Eastern Fronts."
-  > Source: [[sources/wikipedia-franz-josef-strauss|Franz Josef Strauss]] · grade C

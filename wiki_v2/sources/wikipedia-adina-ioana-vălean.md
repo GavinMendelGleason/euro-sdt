@@ -14,10 +14,8 @@ generated: 2026-10-21
 - SHA-256: `4b99b255aa9398b691d4085d818f55a425c2bc3d35ccee061336fccbac7c9278`
 - Sentences: 49
 
-## Verified claims citing this document (16)
+## Verified claims citing this document (15)
 
-- [[people/adina-ioana-valean|Adina-Ioana Vălean]] — board_member — European Parliament
-  > "From 2014 to 2017, Vălean was one of the Vice-Presidents of the European Parliament under the leadership of President Antonio Tajani ; in that capacity, she was in charge of information and communications technology (ICT)."
 - [[people/adina-ioana-valean|Adina-Ioana Vălean]] — chair — Committee on Industry, Research and Energy
   > "Throughout her time in parliament, she served on the Committee on Industry, Research and Energy ; in 2019, she became the committee's chairwoman."
 - [[people/adina-ioana-valean|Adina-Ioana Vălean]] — chair — Committee on the Environment, Public Health and Food Safety

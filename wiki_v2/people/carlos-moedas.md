@@ -14,7 +14,7 @@ generated: 2026-10-21
 
 Commissioner
 
-*Verified assertions: 38*
+*Verified assertions: 37*
 
 ## Commission service
 
@@ -58,6 +58,10 @@ Commissioner
 
 - [[organisations/africa-europe-foundation-aef|Africa Europe Foundation (AEF)]]  
   > "Africa Europe Foundation (AEF), Member of the High-Level Group of Personalities on Africa-Europe Relations (since 2020)"
+  > Source: [[sources/wikipedia-carlos-moedas|Carlos Moedas]] · grade A
+
+- [[organisations/aga-khan-university|Aga Khan University]]  
+  > "Aga Khan University, Member of the Chancellor’s Commission (since 2021)"
   > Source: [[sources/wikipedia-carlos-moedas|Carlos Moedas]] · grade A
 
 - [[organisations/european-council-on-foreign-relations-ecfr|European Council on Foreign Relations (ECFR)]]  
@@ -126,10 +130,4 @@ Commissioner
 
 - [[organisations/suez-group|Suez Group]] — employed_by  
   > "After leaving university, Moedas worked as a project manager for the Suez Group in France between 1993 and 1998."
-  > Source: [[sources/wikipedia-carlos-moedas|Carlos Moedas]] · grade A
-
-## Post-mandate occupation
-
-- [[organisations/aga-khan-university|Aga Khan University]] — Juncker (2014-2019)  
-  > "Aga Khan University, Member of the Chancellor’s Commission (since 2021)"
   > Source: [[sources/wikipedia-carlos-moedas|Carlos Moedas]] · grade A

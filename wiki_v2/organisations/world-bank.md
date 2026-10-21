@@ -18,7 +18,7 @@ generated: 2026-10-21
 - [[people/christos-papoutsis|Christos Papoutsis]]  
   > "On July 12, 2013, he was appointed as Greece's Representative to the World Bank."
   > Source: [[sources/wikipedia-christos-papoutsis|Christos Papoutsis]] · grade B
-- [[people/jean-claude-juncker|Jean-Claude Juncker]] — board_member; employed_by  
+- [[people/jean-claude-juncker|Jean-Claude Juncker]] — board_member  
   > "Juncker at this time also accepted the position of Luxembourg's representative on the 188-member Board of Governors of the World Bank."
   > Source: [[sources/wikipedia-jean-claude-juncker|Jean Claude Juncker]] · grade A
 - [[people/jutta-urpilainen|Jutta Urpilainen]] — board_member  

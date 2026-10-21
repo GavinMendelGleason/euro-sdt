@@ -14,7 +14,7 @@ generated: 2026-10-21
 - SHA-256: `4f306c5aef1eb47a728d5b684fe92888608307b853512f39663d25ada0b45350`
 - Sentences: 38
 
-## Verified claims citing this document (28)
+## Verified claims citing this document (26)
 
 - [[people/christos-papoutsis|Christos Papoutsis]] — affiliated_with — Socialist International
   > "Along with his mandate in the European Parliament, he served as International Relations Secretary and PASOK Representative at the Socialist International, from 1988 to 1994."
@@ -46,8 +46,6 @@ generated: 2026-10-21
   > "European Commissioner under the Presidency of the European Commission by Jacques Santer."
 - [[people/christos-papoutsis|Christos Papoutsis]] — from_country — Greece
   > "Christos Papoutsis (Greek: Χρήστος Παπουτσής; born April 11, 1953) is a Greek socialist politician who has served as Minister for Citizen Protection (2010–12), Mercantile Marine Minister (2000–01) Mem"
-- [[people/christos-papoutsis|Christos Papoutsis]] — held_portfolio — Energy and Euratom Supply Agency / Small Enterprises
-  > "Responsible for Energy Policy and EURATOM Supply Agency, Enterprise Policy, Commerce, Tourism and Social Economy."
 - [[people/christos-papoutsis|Christos Papoutsis]] — member — Parliamentary Committee on Foreign Affairs and Defense policy
   > "Member of the Parliamentary Committee on Foreign Affairs and Defense policy."
 - [[people/christos-papoutsis|Christos Papoutsis]] — member — Committee on Economic Policy
@@ -70,5 +68,3 @@ generated: 2026-10-21
   > "Member of the Committee on Foreign Affairs, Security and Defense Policy."
 - [[people/christos-papoutsis|Christos Papoutsis]] — member — Inter-parliamentary delegation E.P.-USA Congress on relations between the European Union and the U.S.
   > "Member of the Inter-parliamentary delegation E.P.-USA Congress on relations between the European Union and the U.S. (1990 – 1995)."
-- [[people/christos-papoutsis|Christos Papoutsis]] — nominated_by — GRC
-  > "Political career On July 12, 2013, he was appointed as Greece's Representative to the World Bank."

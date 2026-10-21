@@ -14,7 +14,7 @@ generated: 2026-10-21
 
 Commissioner · LTU
 
-*Verified assertions: 24*
+*Verified assertions: 20*
 
 ## Commission service
 
@@ -82,12 +82,6 @@ Commissioner · LTU
   > "In the European Parliament Sinkevičius is serving as deputy chair of the Greens–European Free Alliance (Greens/EFA) group, under the leadership of co-chairs Terry Reintke and Bas Eickhout."
   > Source: [[sources/wikipedia-virginijus-sinkevicius|Virginijus Sinkevicius]] · grade A
 
-## Attendance
-
-- [[organisations/create-lithuania|Create Lithuania]] — attendee  
-  > "From 2014 to 2015, he participated in the government’s “Create Lithuania” program, an initiative designed to attract young professionals to contribute innovative ideas to public sector development."
-  > Source: [[sources/wikipedia-virginijus-sinkevicius|Virginijus Sinkevicius]] · grade C
-
 ## Employment
 
 - [[organisations/center-for-european-policy-analysis-cepa|Center for European Policy Analysis (CEPA)]] — employed_by  
@@ -105,11 +99,3 @@ Commissioner · LTU
 - [[organisations/lietuvos-pastas|Lietuvos paštas]] — employed_by  
   > "In 2014, Sinkevičius returned to Lithuania to serve as an International Project Manager at Lietuvos paštas, coordinating cross-border projects aimed at modernizing postal services."
   > Source: [[sources/wikipedia-virginijus-sinkevicius|Virginijus Sinkevicius]] · grade A
-
-- [[organisations/lithuania-tribune|Lithuania Tribune]] — employed_by  
-  > "Between 2012 and 2015, Sinkevičius contributed as an author and editor to the Lithuania Tribune, a news portal focused on Lithuanian and European affairs."
-  > Source: [[sources/wikipedia-virginijus-sinkevicius|Virginijus Sinkevicius]] · grade C
-
-- [[organisations/office-of-the-prime-minister-of-the-republic-of-lithuania|Office of the Prime Minister of the Republic of Lithuania]] — employed_by  
-  > "In 2012, Sinkevičius was a trainee in the Unit of Regional and Ethnic Affairs at the Office of the Prime Minister of the Republic of Lithuania."
-  > Source: [[sources/wikipedia-virginijus-sinkevicius|Virginijus Sinkevicius]] · grade C

@@ -14,7 +14,7 @@ generated: 2026-10-21
 - SHA-256: `62a3062d56f521424f9f81b49f1839e4c962560d9579af31c51d92b148f19939`
 - Sentences: 22
 
-## Verified claims citing this document (29)
+## Verified claims citing this document (28)
 
 - [[people/erkki-liikanen|Erkki Liikanen]] — advisory_board — Systemic Risk Council (SRC)
   > "Positions held 2004–2018 Chairman of the Board of the Bank of Finland 1995–2004 Member of the European Commission, Brussels 1990–1994 Ambassador Extraordinary and Plenipotentiary, Head of Finnish Mission to the European Union, Brussels 1987–1990 Minister of Finance 1983–1987 Parliamentary Trustee to the Bank of Finland (Vice-Chairman), Speaker's Council 1981–1987 Secretary-General of the Social De […]"
@@ -46,8 +46,6 @@ generated: 2026-10-21
   > "He left Parliament in 1990 to become the first Finnish Ambassador to the European Union."
 - [[people/erkki-liikanen|Erkki Liikanen]] — employed_by — Bank of Finland
   > "Liikanen served as Governor of the Bank of Finland from 12 July 2004."
-- [[people/erkki-liikanen|Erkki Liikanen]] — employed_by — International Monetary Fund
-  > "As such he also became a Member of the Governing Council of the European Central Bank (2004–2018) and Governor of the International Monetary Fund for Finland (2004–2018)."
 - [[people/erkki-liikanen|Erkki Liikanen]] — employed_by — European Union
   > "1990–1994 Ambassador Extraordinary and Plenipotentiary, Head of Finnish Mission to the European Union, Brussels"
 - [[people/erkki-liikanen|Erkki Liikanen]] — employed_by — Social Democratic Party

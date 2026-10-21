@@ -14,10 +14,8 @@ generated: 2026-10-21
 - SHA-256: `b3bfc5af8926f959ae561fabc18991f98800f64db4cd429727c3b59e4badc94a`
 - Sentences: 343
 
-## Verified claims citing this document (6)
+## Verified claims citing this document (5)
 
-- [[people/franz-josef-strau|Franz Josef Strauß]] — affiliated_with — Wehrmacht
-  > "&#91; 3 &#93; World War II [ edit ] In World War&#160;II , he served in the Wehrmacht on the Western and Eastern Fronts."
 - [[people/franz-josef-strau|Franz Josef Strauß]] — affiliated_with — Schongau district
   > "&#91; 4 &#93; Political life 1945–1961 [ edit ] After the war, in 1945, he was appointed deputy Landrat (chief executive and representative of the district) of Schongau by the American military government and was involved in founding the local party organization of the Christian Social Union in Bavaria (CSU)."
 - [[people/franz-josef-strau|Franz Josef Strauß]] — founder — Airbus

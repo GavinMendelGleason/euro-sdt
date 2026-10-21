@@ -14,12 +14,10 @@ generated: 2026-10-21
 - SHA-256: `4d396aaf0ff4828ef764ae0b31520e3e520bd76263d8dce5418cd6772715680b`
 - Sentences: 90
 
-## Verified claims citing this document (19)
+## Verified claims citing this document (18)
 
 - [[people/sir-leon-brittan|Sir Leon Brittan]] — advisory_board — Total
   > "He was vice-chairman of UBS AG Investment Bank, non-executive director of Unilever and member of the international advisory committee for Total."
-- [[people/sir-leon-brittan|Sir Leon Brittan]] — attendee — 1922 Committee
-  > "Jonathan Aitken wrote of Brittan's resignation: \"Soon after a poisonous meeting of Tory backbenchers at the 1922 Committee, he fell on his sword."
 - [[people/sir-leon-brittan|Sir Leon Brittan]] — board_member — Unilever
   > "He was vice-chairman of UBS AG Investment Bank, non-executive director of Unilever and member of the international advisory committee for Total."
 - [[people/sir-leon-brittan|Sir Leon Brittan]] — chair — Cambridge Union Society

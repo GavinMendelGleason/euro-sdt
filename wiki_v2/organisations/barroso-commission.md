@@ -10,7 +10,7 @@ generated: 2026-10-21
 ---
 # Barroso Commission
 
-*Verified member assertions: 4 people*
+*Verified member assertions: 3 people*
 
 ## Members and roles
 
@@ -23,6 +23,3 @@ generated: 2026-10-21
 - [[people/olli-rehn|Olli Rehn]]  
   > "He was the youngest member of the first Barroso Commission."
   > Source: [[sources/wikipedia-olli-rehn|Olli Rehn]] · grade A
-- [[people/stavros-dimas|Stavros Dimas]] — employed_by  
-  > "The Greek government nominated Dimas for the incoming Barroso Commission which took office on 22 November 2004."
-  > Source: [[sources/wikipedia-stavros-dimas|Stavros Dimas]] · grade C

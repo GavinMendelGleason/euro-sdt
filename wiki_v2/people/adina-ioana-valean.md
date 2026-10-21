@@ -14,13 +14,7 @@ generated: 2026-10-21
 
 Commissioner · ROU
 
-*Verified assertions: 20*
-
-## Commission service
-
-- [[commissions/vdl-i-commission|VdL I Commission]]  
-  > "Adina-Ioana Vălean (born 16 February 1968) is a Romanian politician who served as European Commissioner for Transport under the leadership of President of the European Commission Ursula von der Leyen"
-  > Source: [[sources/wikipedia-adina-ioana-valean|Adina Ioana Valean]] · grade C
+*Verified assertions: 18*
 
 ## Portfolio
 
@@ -44,6 +38,10 @@ Commissioner · ROU
   > "She was also a member of the Transatlantic Legislators' Dialogue (TLD); the European Internet Forum; and the European Parliament Intergroup on Long Term Investment and Reindustrialisation."
   > Source: [[sources/wikipedia-adina-ioana-valean|Adina Ioana Valean]] · grade A
 
+- [[organisations/european-parliament|European Parliament]]  
+  > "In the 2024 European elections , Vălean was re-elected to the European Parliament."
+  > Source: [[sources/wikipedia-adina-ioana-vălean|Adina Ioana Vălean]] · grade A
+
 - [[organisations/european-parliament-intergroup-on-long-term-investment-and-reindustrialisation|European Parliament Intergroup on Long Term Investment and Reindustrialisation]]  
   > "She was also a member of the Transatlantic Legislators' Dialogue (TLD); &#91; 5 &#93; the European Internet Forum; &#91; 8 &#93; and the European Parliament Intergroup on Long Term Investment and Reindustrialisation."
   > Source: [[sources/wikipedia-adina-ioana-vălean|Adina Ioana Vălean]] · grade A
@@ -59,12 +57,6 @@ Commissioner · ROU
 - [[organisations/transatlantic-legislators-dialogue-tld|Transatlantic Legislators' Dialogue (TLD)]]  
   > "She was also a member of the Transatlantic Legislators' Dialogue (TLD); the European Internet Forum; and the European Parliament Intergroup on Long Term Investment and Reindustrialisation."
   > Source: [[sources/wikipedia-adina-ioana-valean|Adina Ioana Valean]] · grade A
-
-## Board / trustee
-
-- [[organisations/european-parliament|European Parliament]] — board_member  
-  > "In the 2024 European elections , Vălean was re-elected to the European Parliament."
-  > Source: [[sources/wikipedia-adina-ioana-vălean|Adina Ioana Vălean]] · grade A
 
 ## Chair / president
 

@@ -14,12 +14,10 @@ generated: 2026-10-21
 - SHA-256: `1261554026c09cda9e072ad4485a52248f51db9df253c72bb1c0bfa924a885d0`
 - Sentences: 212
 
-## Verified claims citing this document (6)
+## Verified claims citing this document (5)
 
 - [[people/filip-turek|Filip Turek]] — affiliated_with — Přísaha and Motorists alliance
   > "He was elected as a Member of the European Parliament in the 2024 European Parliament election , as the lead candidate for the Přísaha and Motorists alliance."
-- [[people/filip-turek|Filip Turek]] — affiliated_with — Chamber of Deputies
-  > "In the 2025 Czech parliamentary election , his party Motorists for Themselves was elected to parliament with 6.8% of the vote, and Turek became an MP."
 - [[people/filip-turek|Filip Turek]] — affiliated_with — Přísaha
   > "&#91; 13 &#93; He was elected as an MEP with 152,196 preferential votes, the second-highest vote total of any candidate."
 - [[people/filip-turek|Filip Turek]] — chair — President of two associations

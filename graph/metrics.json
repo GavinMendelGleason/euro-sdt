@@ -1,46 +1,45 @@
 {
   "excluded_quarantined_endpoints": 25,
   "all_verified": {
-    "nodes": 2875,
-    "edges": 3698,
-    "unique_pairs": 3461,
+    "nodes": 2834,
+    "edges": 3594,
+    "unique_pairs": 3395,
     "edges_by_class": {
-      "network": 2675,
-      "education": 533,
-      "occupational": 389,
-      "other": 3,
-      "institutional": 98
+      "network": 2612,
+      "education": 525,
+      "occupational": 361,
+      "other": 2,
+      "institutional": 94
     },
     "edges_by_predicate": {
-      "advisory_board": 99,
-      "affiliated_with": 407,
-      "attendee": 30,
-      "board_member": 366,
-      "chair": 517,
-      "educated_at": 533,
-      "employed_by": 380,
+      "advisory_board": 97,
+      "affiliated_with": 397,
+      "attendee": 26,
+      "board_member": 353,
+      "chair": 502,
+      "educated_at": 525,
+      "employed_by": 360,
       "fellow": 18,
-      "founder": 69,
-      "from_country": 3,
+      "founder": 62,
+      "from_country": 2,
       "held_position": 1,
-      "member": 1169,
-      "post_mandate_occupation": 8,
-      "served_on_commission": 98
+      "member": 1157,
+      "served_on_commission": 94
     },
     "edges_by_grade": {
       "A": 2615,
-      "C": 634,
+      "C": 530,
       "B": 449
     },
     "degree": {
-      "max": 77,
-      "mean": 2.41,
-      "degree_1": 2180,
-      "degree_ge_3": 445
+      "max": 72,
+      "mean": 2.4,
+      "degree_1": 2146,
+      "degree_ge_3": 443
     },
     "components": {
-      "count": 74,
-      "largest": 2640,
+      "count": 75,
+      "largest": 2598,
       "singletons": 0
     },
     "top_hubs": [
@@ -48,7 +47,7 @@
         "id": "european-commission",
         "name": "European Commission",
         "kind": "organisation",
-        "degree": 77
+        "degree": 72
       },
       {
         "id": "european-parliament",
@@ -63,16 +62,16 @@
         "degree": 41
       },
       {
-        "id": "neelie-kroes",
-        "name": "Neelie Kroes",
-        "kind": "person",
-        "degree": 36
-      },
-      {
         "id": "pascal-lamy",
         "name": "Pascal Lamy",
         "kind": "person",
-        "degree": 36
+        "degree": 35
+      },
+      {
+        "id": "neelie-kroes",
+        "name": "Neelie Kroes",
+        "kind": "person",
+        "degree": 34
       },
       {
         "id": "ria-oomen-ruijten",
@@ -81,16 +80,16 @@
         "degree": 34
       },
       {
-        "id": "federica-mogherini",
-        "name": "Federica Mogherini",
-        "kind": "person",
-        "degree": 33
-      },
-      {
         "id": "thierry-breton",
         "name": "Thierry Breton",
         "kind": "person",
         "degree": 33
+      },
+      {
+        "id": "federica-mogherini",
+        "name": "Federica Mogherini",
+        "kind": "person",
+        "degree": 32
       },
       {
         "id": "pierre-moscovici",
@@ -117,12 +116,6 @@
         "degree": 29
       },
       {
-        "id": "european-peoples-party",
-        "name": "European People's Party",
-        "kind": "organisation",
-        "degree": 28
-      },
-      {
         "id": "jose-manuel-barroso",
         "name": "José Manuel Barroso",
         "kind": "person",
@@ -135,9 +128,9 @@
         "degree": 27
       },
       {
-        "id": "cecilia-malmstrom",
-        "name": "Cecilia Malmström",
-        "kind": "person",
+        "id": "european-peoples-party",
+        "name": "European People's Party",
+        "kind": "organisation",
         "degree": 27
       },
       {
@@ -153,6 +146,12 @@
         "degree": 27
       },
       {
+        "id": "cecilia-malmstrom",
+        "name": "Cecilia Malmström",
+        "kind": "person",
+        "degree": 26
+      },
+      {
         "id": "wopke-hoekstra",
         "name": "Wopke Hoekstra",
         "kind": "person",
@@ -166,10 +165,10 @@
       }
     ],
     "kind_mixing": {
-      "person->organisation": 3025,
-      "person->institution": 392,
-      "person->university": 171,
-      "person->commission": 107,
+      "person->organisation": 2935,
+      "person->institution": 383,
+      "person->university": 170,
+      "person->commission": 103,
       "person->person": 3
     }
   },
@@ -341,36 +340,36 @@
     }
   },
   "network_only": {
-    "nodes": 2174,
-    "edges": 2675,
-    "unique_pairs": 2532,
+    "nodes": 2147,
+    "edges": 2612,
+    "unique_pairs": 2490,
     "edges_by_class": {
-      "network": 2675
+      "network": 2612
     },
     "edges_by_predicate": {
-      "advisory_board": 99,
-      "affiliated_with": 407,
-      "attendee": 30,
-      "board_member": 366,
-      "chair": 517,
+      "advisory_board": 97,
+      "affiliated_with": 397,
+      "attendee": 26,
+      "board_member": 353,
+      "chair": 502,
       "fellow": 18,
-      "founder": 69,
-      "member": 1169
+      "founder": 62,
+      "member": 1157
     },
     "edges_by_grade": {
       "A": 1910,
-      "C": 343,
+      "C": 280,
       "B": 422
     },
     "degree": {
       "max": 50,
-      "mean": 2.33,
-      "degree_1": 1632,
-      "degree_ge_3": 365
+      "mean": 2.32,
+      "degree_1": 1610,
+      "degree_ge_3": 361
     },
     "components": {
-      "count": 56,
-      "largest": 1940,
+      "count": 57,
+      "largest": 1914,
       "singletons": 0
     },
     "top_hubs": [
@@ -396,17 +395,11 @@
         "id": "european-peoples-party",
         "name": "European People's Party",
         "kind": "organisation",
-        "degree": 28
+        "degree": 27
       },
       {
         "id": "federica-mogherini",
         "name": "Federica Mogherini",
-        "kind": "person",
-        "degree": 27
-      },
-      {
-        "id": "pascal-lamy",
-        "name": "Pascal Lamy",
         "kind": "person",
         "degree": 26
       },
@@ -419,6 +412,12 @@
       {
         "id": "joseph-daul",
         "name": "Joseph Daul",
+        "kind": "person",
+        "degree": 25
+      },
+      {
+        "id": "pascal-lamy",
+        "name": "Pascal Lamy",
         "kind": "person",
         "degree": 25
       },
@@ -471,18 +470,6 @@
         "degree": 23
       },
       {
-        "id": "neelie-kroes",
-        "name": "Neelie Kroes",
-        "kind": "person",
-        "degree": 23
-      },
-      {
-        "id": "cecilia-malmstrom",
-        "name": "Cecilia Malmström",
-        "kind": "person",
-        "degree": 22
-      },
-      {
         "id": "christos-stylianides",
         "name": "Christos Stylianides",
         "kind": "person",
@@ -493,10 +480,22 @@
         "name": "Hans van Baalen",
         "kind": "person",
         "degree": 22
+      },
+      {
+        "id": "jose-manuel-barroso",
+        "name": "José Manuel Barroso",
+        "kind": "person",
+        "degree": 22
+      },
+      {
+        "id": "jutta-urpilainen",
+        "name": "Jutta Urpilainen",
+        "kind": "person",
+        "degree": 22
       }
     ],
     "kind_mixing": {
-      "person->organisation": 2626,
+      "person->organisation": 2563,
       "person->university": 31,
       "person->institution": 13,
       "person->person": 3,
@@ -605,16 +604,6 @@
       "shared_orgs": 3
     },
     {
-      "a": "Adam Bielan",
-      "b": "Michał Kamiński",
-      "shared_orgs": 3
-    },
-    {
-      "a": "Michał Kamiński",
-      "b": "Ryszard Czarnecki",
-      "shared_orgs": 3
-    },
-    {
       "a": "Adina-Ioana Vălean",
       "b": "Christophe Hansen",
       "shared_orgs": 3
@@ -627,6 +616,16 @@
     {
       "a": "Adina-Ioana Vălean",
       "b": "Jerzy Buzek",
+      "shared_orgs": 3
+    },
+    {
+      "a": "Adina-Ioana Vălean",
+      "b": "Mairead McGuinness",
+      "shared_orgs": 3
+    },
+    {
+      "a": "Christophe Hansen",
+      "b": "Godelieve Quisthoudt-Rowohl",
       "shared_orgs": 3
     }
   ]

@@ -14,7 +14,7 @@ generated: 2026-10-21
 
 Mep
 
-*Verified assertions: 9*
+*Verified assertions: 8*
 
 ## Education
 
@@ -51,10 +51,6 @@ Mep
   > Source: [[sources/wikipedia-brian-crowley|Brian Crowley]] · grade A
 
 ## Affiliation
-
-- [[organisations/seanad-eireann-irish-senate|Seanad Éireann (Irish Senate)]]  
-  > "He served as a Senator from 1993 to 1994, after being nominated by the Taoiseach ."
-  > Source: [[sources/wikipedia-brian-crowley|Brian Crowley]] · grade C
 
 - university-college-cork-ucc  
   > "&#91; 2 &#93; He received a diploma in law in 1993 from University College Cork (UCC)."

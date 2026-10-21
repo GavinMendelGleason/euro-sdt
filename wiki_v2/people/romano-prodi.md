@@ -14,7 +14,7 @@ generated: 2026-10-21
 
 Commissioner · ITA
 
-*Verified assertions: 22*
+*Verified assertions: 20*
 
 ## Commission service
 
@@ -78,16 +78,6 @@ Commissioner · ITA
   > "In 1993–1994, Prodi was appointed again president of the IRI, by Ciampi, where he oversaw extensive privatization of public assets."
   > Source: [[sources/wikipedia-romano-prodi|Romano Prodi]] · grade C
 
-- [[organisations/un|UN]] — chair  
-  > "On 9 October 2012, Romano Prodi was appointed by the UN Secretary-General Ban Ki-moon as his Special Envoy for the Sahel."
-  > Source: [[sources/wikipedia-romano-prodi|Romano Prodi]] · grade B
-
-## Founder
-
-- [[organisations/democratic-party|Democratic Party]] — founder  
-  > "In 2007, Prodi became the founding president of the Democratic Party."
-  > Source: [[sources/wikipedia-romano-prodi|Romano Prodi]] · grade C
-
 ## Affiliation
 
 - [[organisations/goldman-sachs|Goldman Sachs]]  
@@ -100,6 +90,10 @@ Commissioner · ITA
 
 - [[organisations/the-union|The Union]]  
   > "Following the victory of his new coalition, The Union, over the House of Freedoms led by Silvio Berlusconi, at the 2006 election, Prodi became prime minister a second time."
+  > Source: [[sources/wikipedia-romano-prodi|Romano Prodi]] · grade B
+
+- [[organisations/un|UN]]  
+  > "On 9 October 2012, Romano Prodi was appointed by the UN Secretary-General Ban Ki-moon as his Special Envoy for the Sahel."
   > Source: [[sources/wikipedia-romano-prodi|Romano Prodi]] · grade B
 
 - [[organisations/united-nations|United Nations]]  

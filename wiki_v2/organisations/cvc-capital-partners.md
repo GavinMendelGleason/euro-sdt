@@ -22,6 +22,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [[people/karel-de-gucht|Karel De Gucht]] — advisory_board; Other/Earlier  
+- [[people/karel-de-gucht|Karel De Gucht]] — advisory_board  
   > "CVC Capital Partners, Member of the European Advisory Board (since 2015)"
   > Source: [[sources/wikipedia-karel-de-gucht|Karel De Gucht]] · grade A

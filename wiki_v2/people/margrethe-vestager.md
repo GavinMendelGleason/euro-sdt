@@ -14,7 +14,7 @@ generated: 2026-10-21
 
 Commissioner
 
-*Verified assertions: 10*
+*Verified assertions: 9*
 
 ## Commission service
 
@@ -51,12 +51,6 @@ Commissioner
 - [[organisations/danish-social-liberal-party|Danish Social Liberal Party]] — party_member  
   > "Vestager is a member of the Danish Social Liberal Party, and of the Alliance of Liberals and Democrats for Europe Party (ALDE) on the European level."
   > Source: [[sources/wikipedia-margrethe-vestager|Margrethe Vestager]] · grade A
-
-## Chair / president
-
-- [[organisations/social-liberals|Social Liberals]] — chair  
-  > "She was leader of the Social Liberals from 2007 to 2014, and served as Minister of Economic Affairs and the Interior under Helle Thorning-Schmidt from 2011 to 2014."
-  > Source: [[sources/wikipedia-margrethe-vestager|Margrethe Vestager]] · grade C
 
 ## Affiliation
 

@@ -11,7 +11,7 @@ generated: 2026-10-21
 ---
 # European People's Party
 
-*Verified member assertions: 28 people*
+*Verified member assertions: 27 people*
 
 ## Members and roles
 
@@ -42,9 +42,6 @@ generated: 2026-10-21
 - [[people/henna-virkkunen|Henna Virkkunen]]  
   > "A member of the center-right National Coalition Party, part of the European People's Party, she was a Member of the European Parliament (MEP) from 2014 to 2024."
   > Source: [[sources/wikipedia-henna-virkkunen|Henna Virkkunen]] · grade A
-- [[people/ildiko-pelczne-gall|Ildikó Pelczné Gáll]]  
-  > "She is a member of Fidesz , part of the European People's Party ."
-  > Source: [[sources/wikipedia-ildik-pelczn-gll|Ildik Pelczn Gll]] · grade C
 - [[people/ingo-friedrich|Ingo Friedrich]]  
   > "From October 2002, he holds the position of Treasurer of the European People's Party (EPP)."
   > Source: [[sources/wikipedia-ingo-friedrich|Ingo Friedrich]] · grade B
@@ -66,7 +63,7 @@ generated: 2026-10-21
 - [[people/jose-manuel-barroso|José Manuel Barroso]]  
   > "In the end, Barroso, as EPP candidate, was chosen by the European Council . &#91; 16 &#93;"
   > Source: [[sources/wikipedia-jose-manuel-barroso|Jose Manuel Barroso]] · grade B
-- [[people/jyrki-katainen|Jyrki Katainen]] — chair; employed_by  
+- [[people/jyrki-katainen|Jyrki Katainen]] — chair  
   > "Katainen was elected vice president of the European People's Party (EPP) for a three-year term in 2006 and won the second election in 2009."
   > Source: [[sources/wikipedia-jyrki-katainen|Jyrki Katainen]] · grade A
 - [[people/mairead-mcguinness|Mairead McGuinness]]  
@@ -75,7 +72,7 @@ generated: 2026-10-21
 - [[people/manfred-weber|Manfred Weber]] — chair  
   > "He is a member of the Christian Social Union (CSU), part of the European People's Party ."
   > Source: [[sources/wikipedia-manfred-weber|Manfred Weber]] · grade A
-- [[people/marianne-thyssen|Marianne Thyssen]] — board_member; chair  
+- [[people/marianne-thyssen|Marianne Thyssen]] — chair  
   > "From 1999-2014 she served as leader of the European People's Party's (EPP) Belgian delegation and from 2004-2009 was elected first vice-president of the EPP."
   > Source: [[sources/wikipedia-marianne-thyssen|Marianne Thyssen]] · grade A
 - [[people/michel-barnier|Michel Barnier]] — chair  

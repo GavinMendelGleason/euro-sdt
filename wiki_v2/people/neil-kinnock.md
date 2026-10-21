@@ -14,7 +14,7 @@ generated: 2026-10-21
 
 Commissioner · GBR
 
-*Verified assertions: 32*
+*Verified assertions: 31*
 
 ## Commission service
 
@@ -70,13 +70,15 @@ Commissioner · GBR
 
 ## Affiliation
 
-- [[organisations/campaign-for-nuclear-disarmament-cnd|Campaign for Nuclear Disarmament (CND)]] — attendee  
-  > "He also participated in Campaign for Nuclear Disarmament activities and anti-apartheid protests."
-  > Source: [[sources/wikipedia-neil-kinnock|Neil Kinnock]] · grade C
-
 - [[organisations/humanists-uk|Humanists UK]]  
   > "He is a Patron of Humanists UK."
   > Source: [[sources/wikipedia-neil-kinnock|Neil Kinnock]] · grade B
+
+## Attendance
+
+- [[organisations/campaign-for-nuclear-disarmament-cnd|Campaign for Nuclear Disarmament (CND)]] — attendee  
+  > "He also participated in Campaign for Nuclear Disarmament activities and anti-apartheid protests."
+  > Source: [[sources/wikipedia-neil-kinnock|Neil Kinnock]] · grade C
 
 ## Employment
 

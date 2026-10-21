@@ -14,7 +14,7 @@ generated: 2026-10-21
 
 Commissioner
 
-*Verified assertions: 34*
+*Verified assertions: 33*
 
 ## Commission service
 
@@ -84,7 +84,7 @@ Commissioner
 
 ## Board / trustee
 
-- [[organisations/world-bank|World Bank]] — board_member; employed_by  
+- [[organisations/world-bank|World Bank]] — board_member  
   > "Juncker at this time also accepted the position of Luxembourg's representative on the 188-member Board of Governors of the World Bank."
   > Source: [[sources/wikipedia-jean-claude-juncker|Jean Claude Juncker]] · grade A
 

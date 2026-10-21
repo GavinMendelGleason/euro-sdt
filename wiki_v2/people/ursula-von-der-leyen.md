@@ -14,7 +14,7 @@ generated: 2026-10-21
 
 Commissioner · DEU
 
-*Verified assertions: 27*
+*Verified assertions: 26*
 
 ## Portfolio
 
@@ -41,12 +41,6 @@ Commissioner · DEU
 - [[organisations/london-school-of-economics|London School Of Economics]]  
   > "She graduated from the London School of Economics in 1978, and in 1987, she acquired her medical licence from Hanover Medical School."
   > Source: [[sources/wikipedia-ursula-von-der-leyen|Ursula Von Der Leyen]] · grade A
-
-## Degree
-
-- PhD  
-  > "Upon completing her doctoral studies, she defended the thesis and graduated as a Doctor of Medicine in 1991."
-  > Source: [[sources/wikipedia-ursula-von-der-leyen|Ursula Von Der Leyen]] · grade C
 
 ## Membership
 

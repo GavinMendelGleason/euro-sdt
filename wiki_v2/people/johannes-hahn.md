@@ -14,7 +14,7 @@ generated: 2026-10-21
 
 Commissioner
 
-*Verified assertions: 26*
+*Verified assertions: 25*
 
 ## Commission service
 

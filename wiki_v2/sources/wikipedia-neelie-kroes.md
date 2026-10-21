@@ -14,7 +14,7 @@ generated: 2026-10-21
 - SHA-256: `1774a9d03aabdb3c3787a5ed29f0628729730f1e957da5f7c3a5f859b5efb5de`
 - Sentences: 98
 
-## Verified claims citing this document (51)
+## Verified claims citing this document (49)
 
 - [[people/neelie-kroes|Neelie Kroes]] — advisory_board — Prof.Mr. B.M. Teldersstichting
   > "During this period Kroes also was a member of the Advisory Board of the Prof.Mr. B.M. Teldersstichting, the scientific bureau of VVD."
@@ -38,8 +38,6 @@ generated: 2026-10-21
   > "She also became a member of the Rotterdam Chamber of Commerce, furthermore she served as a board member for Ballast Nedam (shipping), ABP-PGGM Capital Holdings N.V."
 - [[people/neelie-kroes|Neelie Kroes]] — board_member — ABP-PGGM Capital Holdings N.V.
   > "She also became a member of the Rotterdam Chamber of Commerce, furthermore she served as a board member for Ballast Nedam (shipping), ABP-PGGM Capital Holdings N.V."
-- [[people/neelie-kroes|Neelie Kroes]] — board_member — NIB
-  > "(a joint subsidiary of the pension funds ABP and PGGM), NIB (an investment bank), McDonald's Netherlands, Nedlloyd, and Nederlandse Spoorwegen (the Dutch railroad company)."
 - [[people/neelie-kroes|Neelie Kroes]] — board_member — Lucent Technologies
   > "Also, she was a member of several boards of commissioners, for instance at Nedlloyd (a shipping company) and Lucent Technologies (an information and communication technologies company)."
 - [[people/neelie-kroes|Neelie Kroes]] — board_member — Salesforce
@@ -80,8 +78,6 @@ generated: 2026-10-21
   > "She was also appointed as one of the vice-presidents of the European Commission."
 - [[people/neelie-kroes|Neelie Kroes]] — employed_by — European Commission
   > "In 2010, she became European Commissioner for Digital Agenda in the second Barroso Commission."
-- [[people/neelie-kroes|Neelie Kroes]] — employed_by — StartupDelta
-  > "Kroes is currently leading StartupDelta, a public-private initiative to help promote the Netherlands as a destination for startup companies."
 - [[people/neelie-kroes|Neelie Kroes]] — employed_by — Mint Holdings
   > "In 2016, leaks to the International Consortium of Investigative Journalists (who also oversaw the Panama Papers and Paradise Papers leaks) revealed that from 2001 to 2009 Kroes was the director of Mint Holdings, a company registered in the Bahamas."
 - [[people/neelie-kroes|Neelie Kroes]] — employed_by — Uber

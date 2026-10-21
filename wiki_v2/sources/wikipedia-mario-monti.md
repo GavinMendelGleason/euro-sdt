@@ -14,7 +14,7 @@ generated: 2026-10-21
 - SHA-256: `352dfcf7bebb83c66505e6043189dc1dcd1dffea7789d9af5703dbf97bf297ca`
 - Sentences: 96
 
-## Verified claims citing this document (57)
+## Verified claims citing this document (55)
 
 - [[people/mario-monti|Mario Monti]] — advisory_board — Centre for European Reform
   > "Other activities include: Center for Economic and Policy Research (CEPR), Distinguished Fellow (since 2019) Centre for European Reform (CER), Member of the Advisory Board European Investment Bank (EIB), Member of the Appointment Advisory Committee Friends of Europe, Member of the Praesidium Moody's, Member of the Senior European Advisory Council Atlantic Council, Member of the Business and Economi […]"
@@ -96,14 +96,10 @@ generated: 2026-10-21
   > "Center for Economic and Policy Research (CEPR), Distinguished Fellow (since 2019)"
 - [[people/mario-monti|Mario Monti]] — founder — Civic Choice
   > "On 4 January 2013, Monti launched Civic Choice as an electoral list of civil society, to realize the implementation of his agenda in a future government."
-- [[people/mario-monti|Mario Monti]] — founder — Bruegel
-  > "He was the founding chairman of Bruegel, another European think tank, which was formed in 2005."
 - [[people/mario-monti|Mario Monti]] — founder — Spinelli Group
   > "Monti is a founding member of the Spinelli Group, an organization launched in September 2010 to facilitate integration within the European Union (other members of the steering group include Jacques Delors, Daniel Cohn-Bendit, Guy Verhofstadt, Andrew Duff and Elmar Brok)."
 - [[people/mario-monti|Mario Monti]] — from_country — Italy
   > "Mario Monti (Italian: [ˈmaːrjo ˈmonti]; born 19 March 1943) is an Italian politician, economist and academic who served as the prime minister of Italy from 2011 to 2013, leading a technocratic govern"
-- [[people/mario-monti|Mario Monti]] — held_portfolio — Internal Market and Financial Services / Competition
-  > "Monti served as a European Commissioner from 1995 to 2004, with responsibility for the Internal Market, Services, Customs and Taxation from 1995 to 1999 and for Competition from 1999 to 2004."
 - [[people/mario-monti|Mario Monti]] — held_portfolio — Competition
   > "Monti served as a European Commissioner from 1995 to 2004, with responsibility for the Internal Market, Services, Customs and Taxation from 1995 to 1999 and for Competition from 1999 to 2004."
 - [[people/mario-monti|Mario Monti]] — member — Trilateral Commission

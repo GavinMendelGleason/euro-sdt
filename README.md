@@ -33,12 +33,13 @@ evidence layer has been rebuilt as `euro_sdt_v2.db`:
 .venv/bin/python scripts/review.py list --include-a   # human review queue
 ```
 
-Current build: **5,380 claims**, **4,162 verified**, 51 needs review, 1,167
-rejected; **3,698 graph edges** (2,675 network, 533 education, 389
-occupational, 98 institutional, 3 other). Every edge has a located quote and a
+Current build: **5,380 claims**, **4,036 verified**, 177 needs review, 1,167
+rejected; **3,594 graph edges** (2,612 network, 525 education, 361
+occupational, 94 institutional, 2 other). Every edge has a located quote and a
 hashed source document; 119 edges point at local-only documents (DG CVs, CJEU,
 declarations) with a path and SHA-256 but no public URL. 25 verified claims are
-excluded because an endpoint is quarantined. See [`docs/v2-methodology.md`](docs/v2-methodology.md)
+excluded because an endpoint is quarantined. A second judge rechecked all 738
+grade-C claims: 569 kept, 169 moved to `needs_review`. See [`docs/v2-methodology.md`](docs/v2-methodology.md)
 for the model, grading rules, and invariants. The v1 commands below remain for
 the historical corpus and are not the source of the current graph.
 

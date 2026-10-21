@@ -14,19 +14,13 @@ generated: 2026-10-21
 
 Commissioner
 
-*Verified assertions: 8*
+*Verified assertions: 7*
 
 ## Commission service
 
 - [[commissions/barroso-ii|Barroso II]]  
   > "In November 2009, European Commission President José Manuel Barroso nominated him to be the next Agriculture Commissioner, a position he assumed in February 2010 and held until his term expired in November 2014."
   > Source: [[sources/wikipedia-dacian-ciolos|Dacian Ciolos]] · grade A
-
-## Nominated by
-
-- ROU  
-  > "In October 2021, following the ousting of Prime Minister Florin Cîțu through a motion of no-confidence, President Iohannis nominated Cioloș as Prime Minister-designate but the Parliament rejected the proposal."
-  > Source: [[sources/wikipedia-dacian-ciolos|Dacian Ciolos]] · grade C
 
 ## Country
 

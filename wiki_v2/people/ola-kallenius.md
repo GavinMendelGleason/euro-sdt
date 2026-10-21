@@ -14,14 +14,10 @@ generated: 2026-10-21
 
 Corporate Elite
 
-*Verified assertions: 2*
+*Verified assertions: 1*
 
 ## Education
 
 - [[organisations/stockholm-school-of-economics|Stockholm School of Economics]]  
-  > "&#91; 2 &#93; Education [ edit ] Originally planning to follow his older brother's footsteps in studying at KTH , Källenius instead graduated from Stockholm School of Economics with a master's degree, including an exchange semester at University of St."
-  > Source: [[sources/wikipedia-ola-k-llenius|Ola K Llenius]] · grade C
-
-- [[organisations/university-of-st-gallen|University of St. Gallen]]  
   > "&#91; 2 &#93; Education [ edit ] Originally planning to follow his older brother's footsteps in studying at KTH , Källenius instead graduated from Stockholm School of Economics with a master's degree, including an exchange semester at University of St."
   > Source: [[sources/wikipedia-ola-k-llenius|Ola K Llenius]] · grade C

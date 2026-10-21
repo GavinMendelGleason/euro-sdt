@@ -13,15 +13,16 @@
 | assertion | 5380 |
 | rejection | 1940 |
 | organisation_profile | 856 |
-| adjudication | 1927 |
+| adjudication | 2665 |
+| review | 0 |
 
 ## Assertions
 
 | Status | Count |
 |---|---:|
-| verified | 4162 |
+| verified | 4036 |
 | rejected | 1167 |
-| needs_review | 51 |
+| needs_review | 177 |
 
 | Grade | Count |
 |---|---:|
@@ -62,8 +63,8 @@
 | documents_without_sentences | 0 | 0 |
 | documents_without_hash | 0 | 0 |
 | recovered_evidence | 1051 | informational |
-| llm_adjudications | 1927 | informational |
-| verified_claims_with_object | 3723 | informational |
+| llm_adjudications | 2665 | informational |
+| verified_claims_with_object | 3619 | informational |
 | verified_edges_without_quote | 0 | 0 |
 | verified_claims_with_quarantined_endpoint | 25 | informational |
 | verified_edges_without_doc | 0 | 0 |

@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [[people/ritt-bjerregaard|Ritt Bjerregaard]] — board_member; chair  
+- [[people/ritt-bjerregaard|Ritt Bjerregaard]] — chair  
   > "She was vice-president of both OSCE's Parliamentary Assembly and Socialist International Women (SIW) from 1992 to 1994."
   > Source: [[sources/wikipedia-ritt-bjerregaard|Ritt Bjerregaard]] · grade A

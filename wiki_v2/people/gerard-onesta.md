@@ -14,13 +14,7 @@ generated: 2026-10-21
 
 Mep
 
-*Verified assertions: 2*
-
-## Membership
-
-- [[organisations/european-greens|European Greens]]  
-  > "He is a member of Europe Écologie–The Greens , part of the European Greens ."
-  > Source: [[sources/wikipedia-grard-onesta|Grard Onesta]] · grade C
+*Verified assertions: 1*
 
 ## Affiliation
 

@@ -11,7 +11,7 @@ generated: 2026-10-21
 ---
 # Université Libre De Bruxelles
 
-*Verified member assertions: 6 people*
+*Verified member assertions: 5 people*
 
 ## Members and roles
 
@@ -30,6 +30,3 @@ generated: 2026-10-21
 - [[people/lorena-boix-alonso|Lorena Boix Alonso]]  
   > "Spanish Academic qualifications ➢ 1996 Master of Laws (LL.M), Harvard Law School – United States ➢ 1993 License spéciale en droit européen, Institut d’études européennes, Université Libre de Bruxelles – Brussels, Belgium ➢ 1992 Licenciatura en Derecho, Facultad de Derecho, University of Valencia – Valencia, Spain Professional experience in the European Commission ➢ Since 1 January 2026: Deputy Dir […]"
   > Source: [[sources/dg_cv-lorena-boix-alonso|Lorena Boix Alonso]] · grade A
-- [[people/philippe-busquin|Philippe Busquin]]  
-  > "Degree in physics from the Free University of Brussels"
-  > Source: [[sources/wikipedia-philippe-busquin|Philippe Busquin]] · grade C

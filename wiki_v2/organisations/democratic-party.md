@@ -11,7 +11,7 @@ generated: 2026-10-21
 ---
 # Democratic Party
 
-*Verified member assertions: 8 people*
+*Verified member assertions: 7 people*
 
 ## Members and roles
 
@@ -36,6 +36,3 @@ generated: 2026-10-21
 - [[people/paolo-gentiloni|Paolo Gentiloni]] — chair; employed_by; founder  
   > "After Zingaretti won the election in March 2019, he appointed Gentiloni as the President of the Democratic Party."
   > Source: [[sources/wikipedia-paolo-gentiloni|Paolo Gentiloni]] · grade A
-- [[people/romano-prodi|Romano Prodi]] — founder  
-  > "In 2007, Prodi became the founding president of the Democratic Party."
-  > Source: [[sources/wikipedia-romano-prodi|Romano Prodi]] · grade C

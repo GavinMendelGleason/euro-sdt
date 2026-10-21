@@ -14,7 +14,7 @@ generated: 2026-10-21
 - SHA-256: `706d131958bae55e1313b0edab4c2212e31452d86ab1d6eb2a7a97719d659714`
 - Sentences: 15
 
-## Verified claims citing this document (25)
+## Verified claims citing this document (24)
 
 - [[people/monika-wulf-mathies|Monika Wulf-Mathies]] — advisory_board — gegen-vergessen-f-r-demokratie
   > "Other activities Leibniz Association, Member of the Senate (since 2010) Beethoven Foundation, Chairwoman of the Board of Trustees (since 2004) Friedrich Ebert Foundation (FES), Member of the Board of Trustees Gegen Vergessen – Für Demokratie, Member of the Advisory Board University of Bonn, Deputy Chairwoman of the University Council (2008-2013) Deutsche Lufthansa, Member of the Supervisory Board […]"
@@ -54,8 +54,6 @@ generated: 2026-10-21
   > "After leaving the European Commission, Wulf-Mathies served as Executive Vice President Head of Corporate Public Policy and Sustainability at Deutsche Post from 2001 until 2009, working under the leadership of the company's CEO Klaus Zumwinkel."
 - [[people/monika-wulf-mathies|Monika Wulf-Mathies]] — from_country — germany
   > "Monika Wulf-Mathies (born 17 March 1942) is a German politician, who was European Commissioner for Regional Policy."
-- [[people/monika-wulf-mathies|Monika Wulf-Mathies]] — held_portfolio — Regional Policy and Cohesion Fund
-  > "From 1994 until 1998, she served as European Commissioner for Regional Policy in the administration of President Jacques Santer."
 - [[people/monika-wulf-mathies|Monika Wulf-Mathies]] — member — Leibniz Association
   > "Other activities Leibniz Association, Member of the Senate (since 2010) Beethoven Foundation, Chairwoman of the Board of Trustees (since 2004) Friedrich Ebert Foundation (FES), Member of the Board of Trustees Gegen Vergessen – Für Demokratie, Member of the Advisory Board University of Bonn, Deputy Chairwoman of the University Council (2008-2013) Deutsche Lufthansa, Member of the Supervisory Board […]"
 - [[people/monika-wulf-mathies|Monika Wulf-Mathies]] — member — Leibniz Association

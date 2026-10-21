@@ -14,17 +14,11 @@ generated: 2026-10-21
 
 Commissioner · DEU
 
-*Verified assertions: 26*
+*Verified assertions: 25*
 
 ## Commission service
 
 - [[commissions/santer-commission|Santer Commission]]  
-  > "From 1994 until 1998, she served as European Commissioner for Regional Policy in the administration of President Jacques Santer."
-  > Source: [[sources/wikipedia-monika-wulf-mathies|Monika Wulf Mathies]] · grade C
-
-## Portfolio
-
-- Regional Policy and Cohesion Fund  
   > "From 1994 until 1998, she served as European Commissioner for Regional Policy in the administration of President Jacques Santer."
   > Source: [[sources/wikipedia-monika-wulf-mathies|Monika Wulf Mathies]] · grade C
 

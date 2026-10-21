@@ -14,7 +14,7 @@ generated: 2026-10-21
 - SHA-256: `d8fbafd59120c09e3f8463e35386229fa4745e66e0b8c231d4f586a2768cf179`
 - Sentences: 416
 
-## Verified claims citing this document (27)
+## Verified claims citing this document (26)
 
 - [[people/neil-kinnock|Neil Kinnock]] — advisory_board — Institute for Public Policy Research
   > "Kinnock remained on the Advisory Council of the Institute for Public Policy Research, which he helped set up in the 1980s."
@@ -22,8 +22,6 @@ generated: 2026-10-21
   > "From August 1966 to May 1970, he worked as a tutor for a Workers' Educational Association (WEA)."
 - [[people/neil-kinnock|Neil Kinnock]] — affiliated_with — Humanists UK
   > "He is a Patron of Humanists UK."
-- [[people/neil-kinnock|Neil Kinnock]] — affiliated_with — Campaign for Nuclear Disarmament (CND)
-  > "He also participated in Campaign for Nuclear Disarmament activities and anti-apartheid protests."
 - [[people/neil-kinnock|Neil Kinnock]] — attendee — Campaign for Nuclear Disarmament (CND)
   > "He also participated in Campaign for Nuclear Disarmament activities and anti-apartheid protests."
 - [[people/neil-kinnock|Neil Kinnock]] — chair — British Council

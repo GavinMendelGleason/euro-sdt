@@ -14,14 +14,12 @@ generated: 2026-10-21
 - SHA-256: `df57b094e25b36f9bf62d4d5be49c1c2556af2fde8b82beaa16410ddda010d03`
 - Sentences: 9
 
-## Verified claims citing this document (11)
+## Verified claims citing this document (10)
 
 - [[people/josep-borrell|Josep Borrell]] — affiliated_with — Union for Foreign Affairs and Security Policy
   > "Josep Borrell Fontelles (born 24 April 1947) is a Spanish politician who served as High Representative of the Union for Foreign Affairs and Security Policy and Vice-President of the European Commission from 2019 to 2024."
 - [[people/josep-borrell|Josep Borrell]] — affiliated_with — European Council
   > "In July 2019, Borrell was announced as the European Council's nominee to be appointed High Representative of the Union for Foreign Affairs and Security Policy."
-- [[people/josep-borrell|Josep Borrell]] — chair — PSOE
-  > "In the opposition after the 1996 election, Borrell unexpectedly won the PSOE primary in 1998 and became Leader of the Opposition and the designated prime ministerial candidate of the party until he resigned in 1999."
 - [[people/josep-borrell|Josep Borrell]] — chair — European Parliament
   > "He then switched to European politics, becoming a Member of the European Parliament (MEP) during the 2004–2009 legislative period and serving as President of the European Parliament for the first half of the term."
 - [[people/josep-borrell|Josep Borrell]] — employed_by — Ministry of Economy and Finance (Spain)

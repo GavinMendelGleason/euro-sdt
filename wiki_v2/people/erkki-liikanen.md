@@ -14,7 +14,7 @@ generated: 2026-10-21
 
 Commissioner · FIN
 
-*Verified assertions: 31*
+*Verified assertions: 30*
 
 ## Portfolio
 
@@ -60,7 +60,7 @@ Commissioner · FIN
   > "Since 2018 he has been chair of the Trustees of the IFRS Foundation and Chairman of the Board of the Helsinki Graduate School of Economics at University of Helsinki, and since 2020 chairman of Bruegel."
   > Source: [[sources/wikipedia-erkki-liikanen|Erkki Liikanen]] · grade A
 
-- [[organisations/international-monetary-fund|International Monetary Fund]] — board_member; employed_by  
+- [[organisations/international-monetary-fund|International Monetary Fund]] — board_member  
   > "International Monetary Fund (IMF), Ex-Officio Member of the Board of Governors"
   > Source: [[sources/wikipedia-erkki-liikanen|Erkki Liikanen]] · grade A
 

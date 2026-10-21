@@ -14,7 +14,7 @@ generated: 2026-10-21
 
 Commissioner
 
-*Verified assertions: 15*
+*Verified assertions: 14*
 
 ## Commission service
 
@@ -54,6 +54,10 @@ Commissioner
 
 ## Chair / president
 
+- [[organisations/organization-for-security-and-co-operation-in-europe-osce|Organization for Security and Co-operation in Europe (OSCE)]] — chair  
+  > "Lenarčič was ambassador of Slovenia to the Organization for Security and Co-operation in Europe (OSCE) in Vienna from 2003 to 2006, and chaired the OSCE Permanent Council in 2005 during the Slovenian chairmanship."
+  > Source: [[sources/wikipedia-janez-lenarcic|Janez Lenarcic]] · grade C
+
 - [[organisations/osce-permanent-council|OSCE Permanent Council]] — chair  
   > "Lenarčič was ambassador of Slovenia to the Organization for Security and Co-operation in Europe (OSCE) in Vienna from 2003 to 2006, and chaired the OSCE Permanent Council in 2005 during the Slovenian chairmanship."
   > Source: [[sources/wikipedia-janez-lenarcic|Janez Lenarcic]] · grade C
@@ -63,10 +67,6 @@ Commissioner
 - [[organisations/european-commission|European Commission]] — employed_by  
   > "Member of the European Commission, 2019–2024"
   > Source: [[sources/wikipedia-janez-lenarcic|Janez Lenarcic]] · grade A
-
-- [[organisations/organization-for-security-and-co-operation-in-europe-osce|Organization for Security and Co-operation in Europe (OSCE)]] — chair; employed_by  
-  > "Lenarčič was ambassador of Slovenia to the Organization for Security and Co-operation in Europe (OSCE) in Vienna from 2003 to 2006, and chaired the OSCE Permanent Council in 2005 during the Slovenian chairmanship."
-  > Source: [[sources/wikipedia-janez-lenarcic|Janez Lenarcic]] · grade C
 
 - [[organisations/osce-s-office-for-democratic-institutions-and-human-rights|OSCE's Office for Democratic Institutions and Human Rights]] — employed_by  
   > "Lenarčič then moved to Warsaw as Director of the OSCE's Office for Democratic Institutions and Human Rights (ODIHR) until 2014."

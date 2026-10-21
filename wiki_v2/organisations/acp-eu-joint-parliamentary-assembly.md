@@ -11,7 +11,7 @@ generated: 2026-10-21
 ---
 # ACP-EU Joint Parliamentary Assembly
 
-*Verified member assertions: 8 people*
+*Verified member assertions: 7 people*
 
 ## Members and roles
 
@@ -30,9 +30,6 @@ generated: 2026-10-21
 - [[people/mariya-gabriel|Mariya Gabriel]]  
   > "From 2009 Mariya Gabriel was an active member of the ACP-EU Joint Parliamentary Assembly, which brings together parliamentarians from the African, Caribbean and Pacific Group of States and the European Union."
   > Source: [[sources/wikipedia-mariya-gabriel|Mariya Gabriel]] · grade A
-- [[people/miguel-angel-martinez-martinez|Miguel Angel Martínez Martínez]] — chair  
-  > "Martínez Martínez is a Vice Chair of the ACP-EU Joint Parliamentary Assembly ."
-  > Source: [[sources/wikipedia-miguel-ngel-martnez-martnez|Miguel Ngel Martnez Martnez]] · grade C
 - [[people/rainer-wieland|Rainer Wieland]]  
   > "Wieland is a full member of the ACP–EU Joint Parliamentary Assembly (ACP-EU)."
   > Source: [[sources/wikipedia-rainer-wieland|Rainer Wieland]] · grade A

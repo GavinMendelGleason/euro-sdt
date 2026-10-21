@@ -14,7 +14,7 @@ generated: 2026-10-21
 
 Commissioner · FIN
 
-*Verified assertions: 17*
+*Verified assertions: 15*
 
 ## Portfolio
 
@@ -60,6 +60,10 @@ Commissioner · FIN
 
 ## Chair / president
 
+- [[organisations/european-peoples-party|European People's Party]] — chair  
+  > "Katainen was elected vice president of the European People's Party (EPP) for a three-year term in 2006 and won the second election in 2009."
+  > Source: [[sources/wikipedia-jyrki-katainen|Jyrki Katainen]] · grade A
+
 - [[organisations/national-coalition-party|National Coalition Party]] — chair  
   > "Katainen was previously prime minister of Finland from 2011 to 2014 and chairman of the National Coalition Party from 2004 to 2014."
   > Source: [[sources/wikipedia-jyrki-katainen|Jyrki Katainen]] · grade A
@@ -74,10 +78,6 @@ Commissioner · FIN
   > "After stepping down as prime minister, Katainen was elected as European Commission Vice-President in July 2014."
   > Source: [[sources/wikipedia-jyrki-katainen|Jyrki Katainen]] · grade C
 
-- [[organisations/european-peoples-party|European People's Party]] — chair; employed_by  
-  > "Katainen was elected vice president of the European People's Party (EPP) for a three-year term in 2006 and won the second election in 2009."
-  > Source: [[sources/wikipedia-jyrki-katainen|Jyrki Katainen]] · grade A
-
-- [[organisations/youth-of-the-european-people-s-party|Youth of the European People's Party]] — chair; employed_by  
+- [[organisations/youth-of-the-european-people-s-party|Youth of the European People's Party]] — employed_by  
   > "From 1990 to 2000, Katainen was vice president of the Youth of the European Peoples Party."
   > Source: [[sources/wikipedia-jyrki-katainen|Jyrki Katainen]] · grade C

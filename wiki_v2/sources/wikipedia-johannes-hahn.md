@@ -14,14 +14,12 @@ generated: 2026-10-21
 - SHA-256: `19fa04e11a1928d138479bda0274bc1c5cc12cf13f5583d7ab56036e2023285e`
 - Sentences: 88
 
-## Verified claims citing this document (26)
+## Verified claims citing this document (25)
 
 - [[people/johannes-hahn|Johannes Hahn]] — advisory_board — European Investment Bank (EIB)
   > "Other activities European Investment Bank (EIB), Member of the Appointment Advisory Committee (since 2025) Honours – Grand Decoration of Honour in Gold with Sash for Services to the Republic of Austria."
 - [[people/johannes-hahn|Johannes Hahn]] — affiliated_with — Austrian Managers Association
   > "Years from 1987 to 2007 From 1987 to 1989 Hahn worked as Secretary General of the Austrian Managers Association, and was active in the Austrian Federal Youth Council (ÖBJR) and the General Secretariat of the Austrian People's Party (ÖVP)."
-- [[people/johannes-hahn|Johannes Hahn]] — affiliated_with — Youth Organisation of the Austrian People's Party (JVP)
-  > "In the 1980s, Hahn drafted the first European manifesto of the ÖVP's youth wing, where he was deputy leader."
 - [[people/johannes-hahn|Johannes Hahn]] — affiliated_with — ÖVP's youth wing
   > "In the 1980s, Hahn drafted the first European manifesto of the ÖVP's youth wing, where he was deputy leader."
 - [[people/johannes-hahn|Johannes Hahn]] — affiliated_with — Austrian Federal Youth Council (ÖBJR)

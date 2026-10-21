@@ -14,7 +14,7 @@ generated: 2026-10-21
 
 Corporate Elite
 
-*Verified assertions: 10*
+*Verified assertions: 9*
 
 ## Membership
 
@@ -56,10 +56,4 @@ Corporate Elite
 
 - [[organisations/university-of-salamanca|University of Salamanca]] — chair  
   > "In 2012, he was appointed chairman of the Social Council of the University of Salamanca ."
-  > Source: [[sources/wikipedia-jos-ignacio-s-nchez-gal-n|Jos Ignacio S Nchez Gal N]] · grade C
-
-## Affiliation
-
-- [[organisations/world-economic-forum|World Economic Forum]] — member of the inaugural group of the Leaders for Growth and Competitiveness in Europe initiative  
-  > "&#91; 5 &#93; In 2025, Galán was included in the inaugural group of the Leaders for Growth and Competitiveness in Europe initiative, promoted by the World Economic Forum."
   > Source: [[sources/wikipedia-jos-ignacio-s-nchez-gal-n|Jos Ignacio S Nchez Gal N]] · grade C

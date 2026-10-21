@@ -14,7 +14,7 @@ generated: 2026-10-21
 
 Commissioner
 
-*Verified assertions: 35*
+*Verified assertions: 34*
 
 ## Commission service
 
@@ -105,10 +105,6 @@ Commissioner
 - [[organisations/european-policy-centre|European Policy Centre]] — advisory_board  
   > "European Policy Centre (EPC), Member of the Advisory Council"
   > Source: [[sources/wikipedia-connie-hedegaard|Connie Hedegaard]] · grade A
-
-- [[organisations/volkswagen|Volkswagen]] — advisory_board  
-  > "Volkswagen, Member of the Sustainability Council"
-  > Source: [[sources/wikipedia-connie-hedegaard|Connie Hedegaard]] · grade C
 
 ## Employment
 

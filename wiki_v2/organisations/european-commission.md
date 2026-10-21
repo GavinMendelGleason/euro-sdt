@@ -11,7 +11,7 @@ generated: 2026-10-21
 ---
 # European Commission
 
-*Verified member assertions: 77 people*
+*Verified member assertions: 72 people*
 
 ## Members and roles
 
@@ -21,9 +21,6 @@ generated: 2026-10-21
 - [[people/andris-piebalgs|Andris Piebalgs]] — employed_by  
   > "Between 2004 and 2009 he served as Commissioner for Energy."
   > Source: [[sources/wikipedia-andris-piebalgs|Andris Piebalgs]] · grade C
-- [[people/andrus-ansip|Andrus Ansip]] — employed_by  
-  > "On 10 September 2014 President-Elect Juncker of the European Commission announced that he proposed Andrus Ansip as Vice-President of the European Commission and the European Commissioner for the Digital Single Market."
-  > Source: [[sources/wikipedia-andrus-ansip|Andrus Ansip]] · grade C
 - [[people/antonio-tajani|Antonio Tajani]]  
   > "He also served as Vice-President of the European Commission."
   > Source: [[sources/wikipedia-antonio-tajani|Antonio Tajani]] · grade A
@@ -126,9 +123,6 @@ generated: 2026-10-21
 - [[people/laszlo-andor|László Andor]] — employed_by  
   > "From 2010 to 2014 he was Commissioner for Employment, Social Affairs and Inclusion in the Barroso II administration of the European Commission."
   > Source: [[sources/wikipedia-laszlo-andor|Laszlo Andor]] · grade C
-- [[people/mairead-mcguinness|Mairead McGuinness]] — employed_by  
-  > "On 8 September 2020, McGuinness was proposed by European Commission president Ursula von der Leyen as the new Commissioner for Financial Stability, Financial Services and Capital Markets Union."
-  > Source: [[sources/wikipedia-mairead-mcguinness|Mairead Mcguinness]] · grade C
 - [[people/manuel-marin|Manuel Marin]] — chair  
   > "He was a long-time member of the European Commission , and acting president during the Santer Commission following the resignation of Jacques Santer ."
   > Source: [[sources/wikipedia-manuel-marin|Manuel Marin]] · grade A
@@ -162,9 +156,6 @@ generated: 2026-10-21
 - [[people/meglena-kuneva|Meglena Kuneva]]  
   > "On 26 October 2006 Kuneva was nominated to be Bulgaria's first member of the European Commission."
   > Source: [[sources/wikipedia-meglena-kuneva|Meglena Kuneva]] · grade A
-- [[people/michaele-schreyer|Michaele Schreyer]] — employed_by  
-  > "In 2000, Germany's Chancellor Gerhard Schröder nominated Schreyer, alongside Günter Verheugen, as one of two German members of the European Commission under President Romano Prodi."
-  > Source: [[sources/wikipedia-michaele-schreyer|Michaele Schreyer]] · grade C
 - [[people/michel-barnier|Michel Barnier]] — employed_by  
   > "On 27 July 2016, Barnier was announced as the European Commission's chief negotiator with the United Kingdom over leaving the European Union, under Article 50 of the Treaty on European Union."
   > Source: [[sources/wikipedia-michel-barnier|Michel Barnier]] · grade A
@@ -177,9 +168,6 @@ generated: 2026-10-21
 - [[people/neven-mimica|Neven Mimica]] — employed_by  
   > "On 1 July 2013 Mimica became European Commissioner for Consumer Protection in the European Commission."
   > Source: [[sources/wikipedia-neven-mimica|Neven Mimica]] · grade C
-- [[people/olli-rehn|Olli Rehn]] — employed_by  
-  > "Rehn would later succeed Liikanen in the role of commissioner for Enterprise and Information Society."
-  > Source: [[sources/wikipedia-olli-rehn|Olli Rehn]] · grade C
 - [[people/paolo-gentiloni|Paolo Gentiloni]] — employed_by  
   > "On 1 December 2019, he formally began his new role within the European Commission."
   > Source: [[sources/wikipedia-paolo-gentiloni|Paolo Gentiloni]] · grade C
@@ -234,9 +222,6 @@ generated: 2026-10-21
 - [[people/virginijus-sinkevicius|Virginijus Sinkevičius]] — employed_by  
   > "Virginijus Sinkevičius (born 4 November 1990) is a Lithuanian politician who served as European Commissioner for the Environment, Oceans and Fisheries in the first von der Leyen Commission from 2019 to 2024."
   > Source: [[sources/wikipedia-virginijus-sinkevicius|Virginijus Sinkevicius]] · grade C
-- [[people/viviane-reding|Viviane Reding]] — employed_by  
-  > "From 1999 to 2004, Reding was appointed Commissioner for Education, Culture, Youth, Media and Sport."
-  > Source: [[sources/wikipedia-viviane-reding|Viviane Reding]] · grade C
 - [[people/vera-jourova|Věra Jourová]] — employed_by  
   > "After an EU Parliament hearing, she was confirmed as the European Union's Commissioner for Justice, Consumers and Gender Equality in the Juncker Commission."
   > Source: [[sources/wikipedia-vera-jourova|Vera Jourova]] · grade C

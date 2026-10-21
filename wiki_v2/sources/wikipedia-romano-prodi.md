@@ -14,7 +14,7 @@ generated: 2026-10-21
 - SHA-256: `765a3cdff8e43d53be50eca16302517052fe41a927a7edb32977fa48a326f052`
 - Sentences: 249
 
-## Verified claims citing this document (20)
+## Verified claims citing this document (18)
 
 - [[people/romano-prodi|Romano Prodi]] — affiliated_with — Goldman Sachs
   > "A former professor of economics and international advisor to Goldman Sachs, Prodi ran as lead candidate of The Olive Tree coalition, winning the 1996 election and serving as prime minister until losing a vote of confidence 1998."
@@ -30,8 +30,6 @@ generated: 2026-10-21
   > "In 1993–1994, Prodi was appointed again president of the IRI, by Ciampi, where he oversaw extensive privatization of public assets."
 - [[people/romano-prodi|Romano Prodi]] — chair — African Union–United Nations peacekeeping panel
   > "In 2008, United Nations Secretary-General Ban Ki-moon selected Prodi as president of the African Union–United Nations peacekeeping panel."
-- [[people/romano-prodi|Romano Prodi]] — chair — UN
-  > "On 12 September 2008, Prodi was named by the UN as head of a joint AU-UN panel aimed at enhancing peacekeeping operations in Africa."
 - [[people/romano-prodi|Romano Prodi]] — educated_at — London School Of Economics
   > "He then carried out postgraduate studies at the London School of Economics."
 - [[people/romano-prodi|Romano Prodi]] — educated_at — Liceo Ludovico Ariosto
@@ -40,8 +38,6 @@ generated: 2026-10-21
   > "After completing his secondary education at the Liceo Ludovico Ariosto in Reggio Emilia, Prodi graduated in law at Milan's Università Cattolica in 1961 with a thesis on the role of protectionism in the development of Italian industry."
 - [[people/romano-prodi|Romano Prodi]] — employed_by — Analisi e Studi Economici
   > "Business and administrative career After leaving his position in 1989, Prodi ran the Bologna based consulting company Analisi e Studi Economici, which he jointly owned along with his wife."
-- [[people/romano-prodi|Romano Prodi]] — founder — Democratic Party
-  > "In 2007, Prodi became the founding president of the Democratic Party."
 - [[people/romano-prodi|Romano Prodi]] — from_country — Italy
   > "Romano Prodi (Italian: [roˈmaːno ˈprɔːdi] ; born 9 August 1939) is an Italian politician who served as President of the European Commission from 1999 to 2004 and twice as Prime Minister of Italy, from 1996 to 1998, and again from 2006 to 2008."
 - [[people/romano-prodi|Romano Prodi]] — held_portfolio — President

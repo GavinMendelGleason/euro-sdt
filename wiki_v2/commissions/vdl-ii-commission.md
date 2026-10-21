@@ -9,11 +9,8 @@ generated: 2026-10-21
 ---
 # VdL II Commission
 
-*Verified members: 5*
+*Verified members: 4*
 
-- [[people/apostolos-tzitzikostas|Apostolos Tzitzikostas]]
-  > "In August 2024 the Greek government nominated Tzitzikostas as the country’s European Commissioner in the von der Leyen Commission II."
-  > Source: [[sources/wikipedia-apostolos-tzitzikostas|Apostolos Tzitzikostas]] · grade C
 - [[people/magnus-brunner|Magnus Brunner]]
   > "Following the 2024 European elections, the Austrian government nominated Brunner as the country's European Commissioner serving under President Ursula von der Leyen."
   > Source: [[sources/wikipedia-magnus-brunner|Magnus Brunner]] · grade C

@@ -14,7 +14,7 @@ generated: 2026-10-21
 - SHA-256: `334135d01187a61b226e93324004026d1062e1f11c52ec151e696abf8dc6a739`
 - Sentences: 69
 
-## Verified claims citing this document (32)
+## Verified claims citing this document (31)
 
 - [[people/wopke-hoekstra|Wopke Hoekstra]] — affiliated_with — Prinses Maxima Centrum
   > "Hoekstra was also chairman of the supervisory board of the National Maritime Museum in Amsterdam and ambassador for the Prinses Maxima Centrum for pediatric oncology."
@@ -48,8 +48,6 @@ generated: 2026-10-21
   > "During his student years in Leiden he was president of the fraternity Minerva."
 - [[people/wopke-hoekstra|Wopke Hoekstra]] — chair — informal grouping of small northern and Baltic EU member states
   > "Since 2018, Hoekstra has been chairing a newly established, informal grouping of small northern and Baltic EU member states – Estonia, Finland, Ireland, Latvia, Lithuania and the Netherlands – to find common cause on the direction of eurozone reforms."
-- [[people/wopke-hoekstra|Wopke Hoekstra]] — chair — Christian Democratic Appeal
-  > "Following a corporate career and a decade in the Dutch Senate and House of Representatives, Hoekstra served as Minister of Finance in the third Rutte cabinet from 2017 to 2022 and Leader of the Christian Democratic Appeal (CDA) from 2020 to 2023."
 - [[people/wopke-hoekstra|Wopke Hoekstra]] — chair — National Maritime Museum
   > "Hoekstra was also chairman of the supervisory board of the National Maritime Museum in Amsterdam and ambassador for the Prinses Maxima Centrum for pediatric oncology."
 - [[people/wopke-hoekstra|Wopke Hoekstra]] — educated_at — Luiss

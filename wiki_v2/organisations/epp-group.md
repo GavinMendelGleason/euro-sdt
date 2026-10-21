@@ -21,6 +21,6 @@ generated: 2026-10-21
 - [[people/manfred-weber|Manfred Weber]] — chair  
   > "&#91; 10 &#93; Weber has been chairing the EPP group since 2014."
   > Source: [[sources/wikipedia-manfred-weber|Manfred Weber]] · grade C
-- [[people/mariya-gabriel|Mariya Gabriel]] — board_member; chair  
+- [[people/mariya-gabriel|Mariya Gabriel]] — chair  
   > "From 2014 to 2017, Mariya Gabriel was vice-president of the EPP Group and Head of the Bulgarian delegation in the EPP Group."
   > Source: [[sources/wikipedia-mariya-gabriel|Mariya Gabriel]] · grade A

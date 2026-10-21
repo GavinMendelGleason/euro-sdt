@@ -14,7 +14,7 @@ generated: 2026-10-21
 
 Mep
 
-*Verified assertions: 24*
+*Verified assertions: 20*
 
 ## Education
 
@@ -76,10 +76,6 @@ Mep
   > "He was president of the Club of Friends of UNESCO of Barcelona , president (1989–1997) and honorary president of the Ateneu Barcelonès , and president of the Association of Former Deputies to the Parliament of Catalonia (1997–2003)."
   > Source: [[sources/wikipedia-heribert-barrera|Heribert Barrera]] · grade C
 
-- [[organisations/institute-for-catalan-studies|Institute for Catalan Studies]] — chair  
-  > "&#91; 16 &#93; He was president of the Catalan Society of Physical, Chemical and Mathematical Sciences from 1976 to 1978, and president of the science section of the Institute for Catalan Studies , of which he later became emeritus member."
-  > Source: [[sources/wikipedia-heribert-barrera|Heribert Barrera]] · grade C
-
 ## Fellowship
 
 - [[organisations/university-of-new-hampshire|University of New Hampshire]] — fellow  
@@ -96,10 +92,6 @@ Mep
   > "&#91; 4 &#93; He was an assistant professor and lecturer of electrochemistry at the Faculty of Sciences; he was also a research associate at the French National Centre for Scientific Research and a postdoctoral fellow at the University of New Hampshire ."
   > Source: [[sources/wikipedia-heribert-barrera|Heribert Barrera]] · grade C
 
-- [[organisations/party-of-labour-of-spain|Party of Labour of Spain]]  
-  > "&#91; 13 &#93; Since the party had not been legalized by the Suárez government , ERC had to run in the first democratic elections of 1977 in an unusual coalition with the Party of Labour of Spain and some members of the National Front of Catalonia , resulting in Barrera becoming a deputy in the Spanish Congress of Deputies ."
-  > Source: [[sources/wikipedia-heribert-barrera|Heribert Barrera]] · grade C
-
 - [[organisations/republican-army|Republican Army]]  
   > "In late 1937, during the Spanish Civil War , he volunteered for the Republican Army and served as an artillery soldier on the Aragon front and the Segre front ."
   > Source: [[sources/wikipedia-heribert-barrera|Heribert Barrera]] · grade C
@@ -112,14 +104,4 @@ Mep
 
 - [[organisations/assembly-of-parliamentarians|Assembly of Parliamentarians]] — attendee  
   > "&#91; 13 &#93; As a participant in the resulting Assembly of Parliamentarians , Barrera rejected any pact with the Spanish government unless the 1932 Statute of Catalonia was restored and the republican government in exile of Josep Tarradellas was returned; a position he had defended years earlier."
-  > Source: [[sources/wikipedia-heribert-barrera|Heribert Barrera]] · grade C
-
-- [[organisations/louis-brun-network|Louis Brun network]] — attendee  
-  > "&#91; 10 &#93; While in exile, he is believed to have participated in the French resistance by collaborating with the Louis Brun network , although no documentary evidence confirms this."
-  > Source: [[sources/wikipedia-heribert-barrera|Heribert Barrera]] · grade C
-
-## Employment
-
-- [[organisations/gran-enciclopedia-catalana|Gran Enciclopèdia Catalana]] — employed_by  
-  > "&#91; 3 &#93; He was responsible for the theoretical chemistry section of the Gran Enciclopèdia Catalana ."
   > Source: [[sources/wikipedia-heribert-barrera|Heribert Barrera]] · grade C

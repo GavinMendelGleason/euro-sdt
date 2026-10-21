@@ -14,7 +14,7 @@ generated: 2026-10-21
 
 Commissioner
 
-*Verified assertions: 51*
+*Verified assertions: 50*
 
 ## Portfolio
 
@@ -122,7 +122,7 @@ Commissioner
   > "In 2001 he was appointed executive chairman of Corinthia Hotels International until 2007 and then executive chairman of Corinthia's Mediterranean Construction Co Ltd., until 2010."
   > Source: [[sources/wikipedia-karmenu-vella|Karmenu Vella]] · grade A
 
-- [[organisations/maltese-turkish-business-council|Maltese Turkish Business Council]] — chair; founder  
+- [[organisations/maltese-turkish-business-council|Maltese Turkish Business Council]] — chair  
   > "Non-profit organisations In 2007 Karmenu Vella was the founding chairman of the Maltese Turkish Business Council."
   > Source: [[sources/wikipedia-karmenu-vella|Karmenu Vella]] · grade A
 

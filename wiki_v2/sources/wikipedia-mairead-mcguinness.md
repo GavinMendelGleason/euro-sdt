@@ -14,7 +14,7 @@ generated: 2026-10-21
 - SHA-256: `4e3481c6ff980af66a1432774d3157ab4b1fdd0d0d52290883cdb6db461162c5`
 - Sentences: 54
 
-## Verified claims citing this document (29)
+## Verified claims citing this document (28)
 
 - [[people/mairead-mcguinness|Mairead McGuinness]] — advisory_board — European Forum Alpbach
   > "Other activities European Forum Alpbach, Co-Chair of the Strategic Advisory Council (since 2024) Friends of Europe, Member of the Board of Trustees (since 2020) Political positions In 2020, Politico quoted an unnamed European People's Party official in describing McGuinness as \"more conservative than what she seems to be."
@@ -50,8 +50,6 @@ generated: 2026-10-21
   > "She served as a Member of the European Parliament (MEP) for East from 2004 to 2014 and for Midlands–North-West from 2014 to 2020."
 - [[people/mairead-mcguinness|Mairead McGuinness]] — employed_by — European Parliament
   > "In July 2014, McGuinness was elected Vice-President of the European Parliament; she secured an absolute majority to go through in the first round of voting by secret ballot."
-- [[people/mairead-mcguinness|Mairead McGuinness]] — employed_by — European Commission
-  > "On 8 September 2020, McGuinness was proposed by European Commission president Ursula von der Leyen as the new Commissioner for Financial Stability, Financial Services and Capital Markets Union."
 - [[people/mairead-mcguinness|Mairead McGuinness]] — held_portfolio — Financial Services, Financial Stability and Capital Markets Union
   > "On 8 September 2020, McGuinness was proposed by European Commission president Ursula von der Leyen as the new Commissioner for Financial Stability, Financial Services and Capital Markets Union."
 - [[people/mairead-mcguinness|Mairead McGuinness]] — member — Fine Gael

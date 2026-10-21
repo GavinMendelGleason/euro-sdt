@@ -14,7 +14,7 @@ generated: 2026-10-21
 
 Commissioner · NLD
 
-*Verified assertions: 41*
+*Verified assertions: 39*
 
 ## Commission service
 
@@ -32,12 +32,6 @@ Commissioner · NLD
   > "On 1 December 2024, he was sworn in as Commissioner for Climate, Net Zero and Clean Growth as part of the second von der Leyen commission."
   > Source: [[sources/wikipedia-wopke-hoekstra|Wopke Hoekstra]] · grade C
 
-## Nominated by
-
-- NLD  
-  > "Nature of the other professional activities (during the above-mentioned period) 9 October 2023 – 30 November 2024 - European Commissioner for Climate Action, with additional temporary portfolio responsibility for transport since July 2024 10 January 2022 - 1 September 2023 - Appointed Minister of Foreign Affairs of the Netherlands and Vice-Prime Minister in the fourth Rutte government 18 March 2021 - 10 January 2022 - Leader of the Christian Democratic Alliance (CDA) in the House of Representatives 26 October 2017 - 10 January 2022 - Minister of Finance in the third Rutte government 2011 - 201 […]"
-  > Source: [[sources/declaration-doi-wopke-hoekstra-en|Wopke Hoekstra]] · grade C
-
 ## Education
 
 - [[organisations/insead|Insead]]  
@@ -49,6 +43,10 @@ Commissioner · NLD
   > Source: [[sources/wikipedia-wopke-hoekstra|Wopke Hoekstra]] · grade A
 
 ## Membership
+
+- [[organisations/christian-democratic-appeal|Christian Democratic Appeal]] — party_member  
+  > "Wopke Bastiaan Hoekstra (Dutch: [ˈʋɔpkə ˈbɑstijaːn ˈɦukstraː]; born 30 September 1975) is a Dutch politician of the Christian Democratic Appeal (CDA) who serves as European Commissioner for Climate, Net Zero and Clean Growth in the second von der Leyen commission."
+  > Source: [[sources/wikipedia-wopke-hoekstra|Wopke Hoekstra]] · grade B
 
 - [[organisations/eduardo-freistichting|Eduardo Freistichting]]  
   > "Hoekstra was the treasurer of the CDA-affiliated foundation Eduardo Freistichting and board member of the local CDA association in Amsterdam."
@@ -109,10 +107,6 @@ Commissioner · NLD
   > Source: [[sources/wikipedia-wopke-hoekstra|Wopke Hoekstra]] · grade A
 
 ## Chair / president
-
-- [[organisations/christian-democratic-appeal|Christian Democratic Appeal]] — chair; party_member  
-  > "Wopke Bastiaan Hoekstra (Dutch: [ˈʋɔpkə ˈbɑstijaːn ˈɦukstraː]; born 30 September 1975) is a Dutch politician of the Christian Democratic Appeal (CDA) who serves as European Commissioner for Climate, Net Zero and Clean Growth in the second von der Leyen commission."
-  > Source: [[sources/wikipedia-wopke-hoekstra|Wopke Hoekstra]] · grade B
 
 - [[organisations/informal-grouping-of-small-northern-and-baltic-eu-member-states|informal grouping of small northern and Baltic EU member states]] — chair  
   > "Since 2018, Hoekstra has been chairing a newly established, informal grouping of small northern and Baltic EU member states – Estonia, Finland, Ireland, Latvia, Lithuania and the Netherlands – to find common cause on the direction of eurozone reforms."

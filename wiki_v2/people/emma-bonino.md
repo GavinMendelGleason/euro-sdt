@@ -14,7 +14,7 @@ generated: 2026-10-21
 
 Commissioner · ITA
 
-*Verified assertions: 30*
+*Verified assertions: 29*
 
 ## Commission service
 
@@ -65,12 +65,6 @@ Commissioner · ITA
 - [[organisations/dara|DARA]] — board_member  
   > "Bonino was a board member of DARA until December 2012."
   > Source: [[sources/wikipedia-emma-bonino|Emma Bonino]] · grade A
-
-## Chair / president
-
-- [[organisations/more-europe|More Europe]] — chair  
-  > "She is the leader of More Europe, a liberal, European federalist party list she launched in December 2017, ahead of the 2018 Italian general election."
-  > Source: [[sources/wikipedia-emma-bonino|Emma Bonino]] · grade C
 
 ## Founder
 

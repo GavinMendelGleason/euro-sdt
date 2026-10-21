@@ -14,7 +14,7 @@ generated: 2026-10-21
 
 Commissioner · GBR
 
-*Verified assertions: 42*
+*Verified assertions: 38*
 
 ## Commission service
 
@@ -100,7 +100,7 @@ Commissioner · GBR
 
 ## Employment
 
-- [[organisations/campaign-for-nuclear-disarmament-cnd|Campaign for Nuclear Disarmament (CND)]] — chair; employed_by  
+- [[organisations/campaign-for-nuclear-disarmament-cnd|Campaign for Nuclear Disarmament (CND)]] — employed_by  
   > "Between 1977 and 1983, Ashton worked for the Campaign for Nuclear Disarmament (CND) as an administrator and in 1982 was elected as its national treasurer and subsequently as one of its vice-chairs."
   > Source: [[sources/wikipedia-catherine-ashton|Catherine Ashton]] · grade A
 
@@ -126,8 +126,4 @@ Commissioner · GBR
 
 - [[organisations/hm-cabinet|HM Cabinet]] — employed_by  
   > "On 28 June 2007, Prime Minister Gordon Brown appointed Ashton to HM Cabinet as Leader of the House of Lords and Lord President of the Council."
-  > Source: [[sources/wikipedia-catherine-ashton|Catherine Ashton]] · grade C
-
-- [[organisations/ministry-of-justice-spain|Ministry of Justice (Spain)]] — employed_by  
-  > "Ashton was sworn of the Privy Council in 2006, and she became Parliamentary Under-Secretary of State at the new Ministry of Justice in May 2007."
   > Source: [[sources/wikipedia-catherine-ashton|Catherine Ashton]] · grade C

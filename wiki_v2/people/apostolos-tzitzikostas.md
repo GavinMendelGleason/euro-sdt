@@ -14,13 +14,7 @@ generated: 2026-10-21
 
 Commissioner · GRC
 
-*Verified assertions: 23*
-
-## Commission service
-
-- [[commissions/vdl-ii-commission|VdL II Commission]]  
-  > "In August 2024 the Greek government nominated Tzitzikostas as the country’s European Commissioner in the von der Leyen Commission II."
-  > Source: [[sources/wikipedia-apostolos-tzitzikostas|Apostolos Tzitzikostas]] · grade C
+*Verified assertions: 21*
 
 ## Portfolio
 
@@ -74,12 +68,6 @@ Commissioner · GRC
   > "As MP, he served as Secretary of the Hellenic Parliament, member of the Standing Committee on National Defense and Foreign Affairs, and member of the Standing Committee on Financial Affairs."
   > Source: [[sources/wikipedia-apostolos-tzitzikostas|Apostolos Tzitzikostas]] · grade A
 
-## Board / trustee
-
-- [[organisations/european-committee-of-the-regions|European Committee of the Regions]] — board_member; chair; employed_by  
-  > "In July 2022, he was also unanimously elected First Vice-President of the European Committee of the Regions."
-  > Source: [[sources/wikipedia-apostolos-tzitzikostas|Apostolos Tzitzikostas]] · grade A
-
 ## Chair / president
 
 - [[organisations/association-of-greek-regions|Association of Greek Regions]] — chair  
@@ -91,3 +79,9 @@ Commissioner · GRC
 - [[organisations/macedonian-farm|MACEDONIAN FARM]] — founder  
   > "In 2001 he created his own company selling organic dairy products called 'MACEDONIAN FARM', which was later marketed by Mevgal."
   > Source: [[sources/wikipedia-apostolos-tzitzikostas|Apostolos Tzitzikostas]] · grade C
+
+## Employment
+
+- [[organisations/european-committee-of-the-regions|European Committee of the Regions]] — chair; employed_by  
+  > "In July 2022, he was also unanimously elected First Vice-President of the European Committee of the Regions."
+  > Source: [[sources/wikipedia-apostolos-tzitzikostas|Apostolos Tzitzikostas]] · grade A

@@ -14,7 +14,7 @@ generated: 2026-10-21
 - SHA-256: `51424be353dcd5c150229950d060144a97c9a7de7dd9db982e1e5b8acc939992`
 - Sentences: 122
 
-## Verified claims citing this document (44)
+## Verified claims citing this document (40)
 
 - [[people/viviane-reding|Viviane Reding]] — advisory_board — European Horizons
   > "She is also an advisor for the transatlantic think-tank European Horizons."
@@ -58,16 +58,8 @@ generated: 2026-10-21
   > "Within the European Parliament, she held positions as chairwoman of the Committee on Petitions for 3 years, and vice-chair of the Committee on Employment and Social Affairs and the Committee on Civil Liberties, Justice and Home Affairs for 2 years each."
 - [[people/viviane-reding|Viviane Reding]] — educated_at — Sorbonne
   > "Before starting a professional career as a journalist for the leading newspaper in Luxembourg, the Luxemburger Wort, Reding obtained a doctorate in human sciences at the Sorbonne."
-- [[people/viviane-reding|Viviane Reding]] — employed_by — European Commission
-  > "She served as Luxembourg's European Commissioner from 1999 to 2014, holding the portfolios of Education and Culture from 1999 to 2004, Information Society and Media from 2004 to 2010 and Justice, Fundamental Rights and Citizenship from 2010 to 2014."
 - [[people/viviane-reding|Viviane Reding]] — employed_by — Luxemburger Wort
   > "Before starting a professional career as a journalist for the leading newspaper in Luxembourg, the Luxemburger Wort, Reding obtained a doctorate in human sciences at the Sorbonne."
-- [[people/viviane-reding|Viviane Reding]] — employed_by — European Commission
-  > "From 1999 to 2004, Reding was appointed Commissioner for Education, Culture, Youth, Media and Sport."
-- [[people/viviane-reding|Viviane Reding]] — employed_by — European Commission
-  > "European Commissioner for Information Society and Media, 2004–2010 In 2004 Reding became Commissioner for Information Society and Media."
-- [[people/viviane-reding|Viviane Reding]] — employed_by — European Commission
-  > "On 9 February 2010, Reding was confirmed in her third term as European Commissioner becoming vice-president and commissioner responsible for Justice, Fundamental Rights and Citizenship."
 - [[people/viviane-reding|Viviane Reding]] — from_country — Luxembourg
   > "Viviane Reding (born 27 April 1951) is a Luxembourgish former politician of the Christian Social People's Party, part of the European People's Party."
 - [[people/viviane-reding|Viviane Reding]] — held_portfolio — Education and Culture

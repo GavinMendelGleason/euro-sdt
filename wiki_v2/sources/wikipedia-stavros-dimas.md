@@ -14,7 +14,7 @@ generated: 2026-10-21
 - SHA-256: `6e29d6befbf639700b6f830e21004b12d53c639b2d68eb77f8827c560631002c`
 - Sentences: 48
 
-## Verified claims citing this document (19)
+## Verified claims citing this document (18)
 
 - [[people/stavros-dimas|Stavros Dimas]] — affiliated_with — Hellenic Industrial Development Bank (ETVA)
   > "In 1975 he returned to Greece to take up the post of deputy governor of the Hellenic Industrial Development Bank (ETVA), while also being a member of the committee preparing Greek accession to the EEC."
@@ -40,8 +40,6 @@ generated: 2026-10-21
   > "Dimas served briefly in the Prodi Commission."
 - [[people/stavros-dimas|Stavros Dimas]] — employed_by — European Commission
   > "He was appointed European Commissioner for Employment and Social Affairs in March 2004, taking over the role from the previous Greek Commissioner Anna Diamantopoulou."
-- [[people/stavros-dimas|Stavros Dimas]] — employed_by — Barroso Commission
-  > "The Greek government nominated Dimas for the incoming Barroso Commission which took office on 22 November 2004."
 - [[people/stavros-dimas|Stavros Dimas]] — held_portfolio — Employment and Social Affairs (replaced Diamantopoulou 2004)
   > "He was appointed European Commissioner for Employment and Social Affairs in March 2004, taking over the role from the previous Greek Commissioner Anna Diamantopoulou."
 - [[people/stavros-dimas|Stavros Dimas]] — held_portfolio — Environment

@@ -14,10 +14,8 @@ generated: 2026-10-21
 - SHA-256: `7485c14c5dcfe9d9123a69f737c2a4e70a4ed589ff7d8de7a9d838c0cae7ce09`
 - Sentences: 59
 
-## Verified claims citing this document (33)
+## Verified claims citing this document (31)
 
-- [[people/dimitris-avramopoulos|Dimitris Avramopoulos]] — advisory_board — New Democracy
-  > "At the same time he was a Special Adviser to Konstantinos Mitsotakis, President and Leader of the New Democracy."
 - [[people/dimitris-avramopoulos|Dimitris Avramopoulos]] — affiliated_with — Global Forum (Rome)
   > "He has also been Chairman of the Steering Committee on Cities´ Diplomacy, established by the Global Forum (Rome) and the World Bank Institute (Washington D.C.)."
 - [[people/dimitris-avramopoulos|Dimitris Avramopoulos]] — board_member — International Union of Local Authorities (IULA)
@@ -78,7 +76,5 @@ generated: 2026-10-21
   > "On 27 July 2014, Prime Minister Antonis Samaras nominated Avramopoulos as Greece's next member of the European Commission."
 - [[people/dimitris-avramopoulos|Dimitris Avramopoulos]] — member — Hellenic Parliament
   > "Member of Parliament Avramopoulos was elected to the Hellenic Parliament in Elis at the June 2023 Greek legislative election."
-- [[people/dimitris-avramopoulos|Dimitris Avramopoulos]] — nominated_by — GRC
-  > "After the Cabinet reshuffle of 25 June 2013 he became Greek Minister for Defence again, serving until his nomination as Greece's European Commissioner in November 2014."
 - [[people/dimitris-avramopoulos|Dimitris Avramopoulos]] — served_on_commission — Juncker Commission
   > "He served as EU Commissioner for Migration, Home Affairs and Citizenship in the Juncker Commission between 2014 and 2019."

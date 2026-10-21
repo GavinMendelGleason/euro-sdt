@@ -14,7 +14,7 @@ generated: 2026-10-21
 
 Commissioner · DEU
 
-*Verified assertions: 35*
+*Verified assertions: 34*
 
 ## Commission service
 
@@ -112,6 +112,6 @@ Commissioner · DEU
   > "Nominated by the German government of Chancellor Gerhard Schröder, Verheugen first served in the European Commission as European Commissioner for Enlargement in the Prodi Commission, presiding over the accession of ten new member states in 2004."
   > Source: [[sources/wikipedia-gunter-verheugen|Gunter Verheugen]] · grade C
 
-- [[organisations/free-democratic-party-of-germany|Free Democratic Party of Germany]] — employed_by; party_member  
+- [[organisations/free-democratic-party-of-germany|Free Democratic Party of Germany]] — employed_by  
   > "Verheugen was Secretary General of the Free Democratic Party of Germany (FDP) from 1978 to 1982, under the leadership of the party's chairman Hans-Dietrich Genscher."
   > Source: [[sources/wikipedia-gunter-verheugen|Gunter Verheugen]] · grade A

@@ -14,7 +14,7 @@ generated: 2026-10-21
 - SHA-256: `467288aee77ea66962c73ffc8bd8650a6e35c802201f4ad0f09e00b03e6bc897`
 - Sentences: 194
 
-## Verified claims citing this document (28)
+## Verified claims citing this document (27)
 
 - [[people/paolo-gentiloni|Paolo Gentiloni]] — affiliated_with — Workers' Movement for Socialism (Movimento Lavoratori per il Socialismo; MLS)
   > "Early political career During the 1970s, Paolo Gentiloni was a member of the Student Movement (Movimento Studentesco), a far-left youth organization led by Mario Capanna; when Capanna founded the Proletarian Democracy party, Gentiloni did not follow him, and joined the Workers' Movement for Socialism (Movimento Lavoratori per il Socialismo; MLS), a far-left Maoist group, of which he became the reg […]"
@@ -32,8 +32,6 @@ generated: 2026-10-21
   > "During the early 1970s he attended the Classical Lyceum Torquato Tasso in Rome; he graduated in political sciences at the Sapienza University of Rome."
 - [[people/paolo-gentiloni|Paolo Gentiloni]] — educated_at — Sapienza University Of Rome
   > "During the early 1970s he attended the Classical Lyceum Torquato Tasso in Rome; he graduated in political sciences at the Sapienza University of Rome."
-- [[people/paolo-gentiloni|Paolo Gentiloni]] — employed_by — European Commissioner for Economy
-  > "Paolo Gentiloni Silveri (Italian pronunciation: [ˈpaːolo dʒentiˈloːni]; born 22 November 1954) is an Italian politician who was European Commissioner for Economy in the von der Leyen Commission from 1 December 2019 to 30 November 2024."
 - [[people/paolo-gentiloni|Paolo Gentiloni]] — employed_by — Workers' Movement for Socialism (Movimento Lavoratori per il Socialismo; MLS)
   > "During the 1970s, Paolo Gentiloni was a member of the Student Movement (Movimento Studentesco), a far-left youth organization led by Mario Capanna; when Capanna founded the Proletarian Democracy party, Gentiloni did not follow him, and joined the Workers' Movement for Socialism (Movimento Lavoratori per il Socialismo; MLS), a far-left Maoist group, of which he became the regional secretary for Laz […]"
 - [[people/paolo-gentiloni|Paolo Gentiloni]] — employed_by — La Nuova Ecologia

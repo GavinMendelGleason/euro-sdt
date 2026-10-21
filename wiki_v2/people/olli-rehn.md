@@ -14,7 +14,7 @@ generated: 2026-10-21
 
 Commissioner · FIN
 
-*Verified assertions: 43*
+*Verified assertions: 42*
 
 ## Commission service
 
@@ -141,10 +141,6 @@ Commissioner · FIN
   > Source: [[sources/wikipedia-olli-rehn|Olli Rehn]] · grade B
 
 ## Employment
-
-- [[organisations/european-commission|European Commission]] — employed_by  
-  > "Rehn would later succeed Liikanen in the role of commissioner for Enterprise and Information Society."
-  > Source: [[sources/wikipedia-olli-rehn|Olli Rehn]] · grade C
 
 - [[organisations/nordic-centre-youth|Nordic Centre Youth]] — employed_by  
   > "Finnish politics He began his political career in youth politics as a regular member of the Finnish Centre Youth and soon became the secretary general of the Nordic Centre Youth."

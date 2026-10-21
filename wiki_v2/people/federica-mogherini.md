@@ -14,7 +14,7 @@ generated: 2026-10-21
 
 Commissioner
 
-*Verified assertions: 62*
+*Verified assertions: 58*
 
 ## Commission service
 
@@ -36,7 +36,7 @@ Commissioner
 
 ## Education
 
-- [[organisations/college-of-europe|College of Europe]] — employed_by; VdL I (2019-2024)  
+- [[organisations/college-of-europe|College of Europe]] — employed_by  
   > "Mogherini became rector on 1 September 2020."
   > Source: [[sources/wikipedia-federica-mogherini|Federica Mogherini]] · grade A
 
@@ -122,7 +122,7 @@ Commissioner
   > "Fight Impunity, member of the Honorary Board (–2022)"
   > Source: [[sources/wikipedia-federica-mogherini|Federica Mogherini]] · grade A
 
-- [[organisations/friends-of-europe|Friends of Europe]] — board_member; VdL I (2019-2024)  
+- [[organisations/friends-of-europe|Friends of Europe]] — board_member  
   > "Friends of Europe, member of the Board of Trustees (since 2020)"
   > Source: [[sources/wikipedia-federica-mogherini|Federica Mogherini]] · grade A
 
@@ -130,13 +130,9 @@ Commissioner
   > "Generation Unlimited, member of the Board (since 2018)"
   > Source: [[sources/wikipedia-federica-mogherini|Federica Mogherini]] · grade A
 
-- [[organisations/international-crisis-group|International Crisis Group]] — board_member; VdL I (2019-2024)  
+- [[organisations/international-crisis-group|International Crisis Group]] — board_member  
   > "International Crisis Group (ICG), member of the Board of Trustees (since 2019)"
   > Source: [[sources/wikipedia-federica-mogherini|Federica Mogherini]] · grade A
-
-- [[organisations/italian-democratic-party-pd|Italian Democratic Party (PD)]] — board_member  
-  > "After the formation of the Italian Democratic Party (PD) in 2007, Mogherini was appointed to its executive committee by its founding chairman Walter Veltroni."
-  > Source: [[sources/wikipedia-federica-mogherini|Federica Mogherini]] · grade C
 
 - [[organisations/national-executive-board-of-the-democrats-of-the-left-ds|National Executive Board of the Democrats of the Left (DS)]] — board_member  
   > "In 2001, she became a member of the National Council of the Democrats of the Left (DS), later serving on its National Executive Board and Political Committee."

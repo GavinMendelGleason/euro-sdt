@@ -15,7 +15,7 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [[people/adina-ioana-valean|Adina-Ioana Vălean]] — board_member  
+- [[people/adina-ioana-valean|Adina-Ioana Vălean]]  
   > "In the 2024 European elections , Vălean was re-elected to the European Parliament."
   > Source: [[sources/wikipedia-adina-ioana-vălean|Adina Ioana Vălean]] · grade A
 - [[people/andrius-kubilius|Andrius Kubilius]]  

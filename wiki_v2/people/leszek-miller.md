@@ -14,7 +14,7 @@ generated: 2026-10-21
 
 Mep
 
-*Verified assertions: 11*
+*Verified assertions: 9*
 
 ## Education
 
@@ -45,10 +45,6 @@ Mep
   > Source: [[sources/wikipedia-leszek-miller|Leszek Miller]] · grade A
 
 ## Affiliation
-
-- [[organisations/government-of-poland|Government of Poland]]  
-  > "12% of the subsequent party) in the Parliamentary Election in 2001, on 19 October 2001, President Aleksander Kwaśniewski appointed Miller Prime Minister and obliged to nominate the government."
-  > Source: [[sources/wikipedia-leszek-miller|Leszek Miller]] · grade C
 
 - [[organisations/group-of-european-prime-ministers|Group of European Prime Ministers]]  
   > "Miller was also a co-signatory of \" the letter of 8 \", signed by eight European prime ministers, supporting the US position on Iraq."

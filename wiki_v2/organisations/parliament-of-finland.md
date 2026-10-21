@@ -11,7 +11,7 @@ generated: 2026-10-21
 ---
 # Parliament of Finland
 
-*Verified member assertions: 4 people*
+*Verified member assertions: 3 people*
 
 ## Members and roles
 
@@ -21,9 +21,6 @@ generated: 2026-10-21
 - [[people/outi-ojala|Outi Ojala]]  
   > "She served as a member of the Parliament of Finland from 1991 to 1996 and from 1999 to 2007, and as a Member of the European Parliament from 1996 to 1999."
   > Source: [[sources/wikipedia-outi-ojala|Outi Ojala]] · grade A
-- [[people/pertti-paasio|Pertti Paasio]]  
-  > "Paasio became member of the Parliament in July 1975, however, he lost the seat in the 1979 parliamentary elections."
-  > Source: [[sources/wikipedia-pertti-paasio|Pertti Paasio]] · grade C
 - [[people/timo-soini|Timo Soini]]  
   > "&#91; 2 &#93; He was elected as a member of the Espoo city council in 2000, and the Parliament of Finland in 2003."
   > Source: [[sources/wikipedia-timo-soini|Timo Soini]] · grade A

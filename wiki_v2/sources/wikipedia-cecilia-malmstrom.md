@@ -14,7 +14,7 @@ generated: 2026-10-21
 - SHA-256: `5fb86f318acf119383958bc706235ddfcbfcdd2cf1e31362e751ce980eb8d4cc`
 - Sentences: 87
 
-## Verified claims citing this document (47)
+## Verified claims citing this document (45)
 
 - [[people/cecilia-malmstrom|Cecilia Malmström]] — advisory_board — Transatlantic Leadership Network
   > "Other activities European Council on Foreign Relations (ECFR), Member Friends of Europe, Member of the Board of Trustees (since 2020) Migration Policy Institute (MPI), Member of the Board of Trustees (since 2020) Transatlantic Leadership Network, Member of the Council of Advisors Trilateral Commission, Member of the European Group (since 2020) Controversy In a discussion with John Hilary, the exec […]"
@@ -44,10 +44,6 @@ generated: 2026-10-21
   > "In 2022, Malmström joined the Brussels office of law firm Covington & Burling as senior advisor."
 - [[people/cecilia-malmstrom|Cecilia Malmström]] — founder — Campaign for Parliamentary Reform (CPR)
   > "In 2001, Malmström and nine fellow MEPs – including Nick Clegg and Helle Thorning-Schmidt – founded the Campaign for Parliamentary Reform (CPR) to press for changes to the way the European Parliament functions on a day-to-day basis."
-- [[people/cecilia-malmstrom|Cecilia Malmström]] — founder — Radicalisation Awareness Network (R.A.N.)
-  > "In September 2011, Malmström officially launched the Radicalisation Awareness Network (R.A.N.), a project aimed at tackling terrorism and violent extremism through preventive measures, rather than through confrontation."
-- [[people/cecilia-malmstrom|Cecilia Malmström]] — from_country — Sweden
-  > "She was a Member of the European Parliament (MEP) from Sweden from 1999 to 2006."
 - [[people/cecilia-malmstrom|Cecilia Malmström]] — held_degree — PhD
   > "C.V. Education 1991: University degree, University of Gothenburg PhD (1998) in political science, University of Gothenburg"
 - [[people/cecilia-malmstrom|Cecilia Malmström]] — held_portfolio — Home Affairs

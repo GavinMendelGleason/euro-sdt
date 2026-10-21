@@ -14,7 +14,7 @@ generated: 2026-10-21
 - SHA-256: `bf68a3ddcefd77560fdabc8afdce781383af2c26950e5b89f95659d9692cf242`
 - Sentences: 62
 
-## Verified claims citing this document (25)
+## Verified claims citing this document (22)
 
 - [[people/andrus-ansip|Andrus Ansip]] — board_member — People's Bank of Tartu
   > "He has served as a Member of the Board of Directors of the People's Bank of Tartu (Estonian: Rahvapank), Chairman of the Board of Livonia Privatisation IF, and CEO of Investment Fund Broker Ltd (Estonian: Fondiinvesteeringu Maakler AS)."
@@ -34,16 +34,10 @@ generated: 2026-10-21
   > "Born in Tartu, Ansip graduated from the University of Tartu with a degree in chemistry in 1979."
 - [[people/andrus-ansip|Andrus Ansip]] — employed_by — Investment Fund Broker Ltd
   > "He has served as a Member of the Board of Directors of the People's Bank of Tartu (Estonian: Rahvapank), Chairman of the Board of Livonia Privatisation IF, and CEO of Investment Fund Broker Ltd (Estonian: Fondiinvesteeringu Maakler AS)."
-- [[people/andrus-ansip|Andrus Ansip]] — employed_by — European Commission
-  > "Andrus Ansip (Estonian pronunciation: [ˈɑnːtrus ˈɑnʲːsʲipː]; born 1 October 1956) is an Estonian politician, a member of the European Parliament, the former European Commissioner for Digital Single Market and Vice President of the European Commission, in office from 2014 until 2019."
 - [[people/andrus-ansip|Andrus Ansip]] — employed_by — AS Estkompexim
   > "From 1989 to 1993 Andrus Ansip also managed a Tartu branch of AS Estkompexim."
-- [[people/andrus-ansip|Andrus Ansip]] — employed_by — European Commission
-  > "On 10 September 2014 President-Elect Juncker of the European Commission announced that he proposed Andrus Ansip as Vice-President of the European Commission and the European Commissioner for the Digital Single Market."
 - [[people/andrus-ansip|Andrus Ansip]] — from_country — Estonia
   > "Andrus Ansip (Estonian pronunciation: [ˈɑnːtrus ˈɑnʲːsʲipː]; born 1 October 1956) is an Estonian politician, a member of the European Parliament, the former European Commissioner for Digital Single Ma"
-- [[people/andrus-ansip|Andrus Ansip]] — held_portfolio — VP – Digital Single Market
-  > "On 10 September 2014 President-Elect Juncker of the European Commission announced that he proposed Andrus Ansip as Vice-President of the European Commission and the European Commissioner for the Digit"
 - [[people/andrus-ansip|Andrus Ansip]] — member — European Internet Forum
   > "He is also a member of the European Internet Forum, the European Parliament Intergroup on Artificial Intelligence and Digital and the European Parliament Intergroup on Seas, Rivers, Islands and Coastal Areas."
 - [[people/andrus-ansip|Andrus Ansip]] — member — Kaitseliit (Defence League)

@@ -18,7 +18,7 @@ generated: 2026-10-21
 - [[people/antonio-costa|António Costa]] — attendee  
   > "Biography in the Portuguese Government site Biography in the Council of Europe website Political offices Vacant Title last held by António Couto dos Santos Minister of Parliamentary Affairs 1997–1999 Vacant Title next held by Luís Marques Mendes Preceded&#160;by José Vera Jardim Minister of Justice 1999–2002 Succeeded&#160;by Celeste Cardona Preceded&#160;by Daniel Sanches Minister of Internal Adm […]"
   > Source: [[sources/wikipedia-ant-nio-costa|Ant Nio Costa]] · grade A
-- [[people/federica-mogherini|Federica Mogherini]] — employed_by; VdL I (2019-2024)  
+- [[people/federica-mogherini|Federica Mogherini]] — employed_by  
   > "Mogherini became rector on 1 September 2020."
   > Source: [[sources/wikipedia-federica-mogherini|Federica Mogherini]] · grade A
 - [[people/guillaume-loriot|Guillaume Loriot]]  

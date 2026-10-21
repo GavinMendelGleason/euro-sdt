@@ -14,10 +14,8 @@ generated: 2026-10-21
 - SHA-256: `3e1014042a7ce8021bc7ccf8f881b24b86b5b9411010ca5cc949f191b750deed`
 - Sentences: 142
 
-## Verified claims citing this document (10)
+## Verified claims citing this document (9)
 
-- [[people/jose-ignacio-sanchez-galan|José Ignacio Sánchez Galán]] — affiliated_with — World Economic Forum
-  > "&#91; 5 &#93; In 2025, Galán was included in the inaugural group of the Leaders for Growth and Competitiveness in Europe initiative, promoted by the World Economic Forum."
 - [[people/jose-ignacio-sanchez-galan|José Ignacio Sánchez Galán]] — board_member — Elcano Royal Institute for International and Strategic Studies
   > "&#91; 9 &#93; Other activities [ edit ] Corporate boards [ edit ] JPMorgan Chase , Member of the International Council (since 2018) &#91; 10 &#93; Non-profit organizations [ edit ] World Economic Forum &#160;(WEF), Chair of the Electricity Cluster Elcano Royal Institute for International and Strategic Studies , Member of the Board of Trustees &#91; 11 &#93; European Round Table for Industry (ERT), […]"
 - [[people/jose-ignacio-sanchez-galan|José Ignacio Sánchez Galán]] — board_member — European Round Table for Industry (ERT)

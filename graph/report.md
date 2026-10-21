@@ -6,21 +6,21 @@ Generated from `euro_sdt_v2.db`. Only `assertion.status = 'verified'` appears he
 
 | Metric | All verified | Grade A only | Network edges only |
 |---|---:|---:|---:|
-| Nodes | 2875 | 2212 | 2174 |
-| Edges | 3698 | 2615 | 2675 |
-| Unique person–entity pairs | 3461 | 2513 | 2532 |
-| Largest component | 2640 | 1890 | 1940 |
-| Degree-1 nodes | 2180 | 1659 | 1632 |
+| Nodes | 2834 | 2212 | 2147 |
+| Edges | 3594 | 2615 | 2612 |
+| Unique person–entity pairs | 3395 | 2513 | 2490 |
+| Largest component | 2598 | 1890 | 1914 |
+| Degree-1 nodes | 2146 | 1659 | 1610 |
 
 ## Edges by class
 
 | Class | Edges |
 |---|---:|
-| education | 533 |
-| institutional | 98 |
-| network | 2675 |
-| occupational | 389 |
-| other | 3 |
+| education | 525 |
+| institutional | 94 |
+| network | 2612 |
+| occupational | 361 |
+| other | 2 |
 
 ## Edges by evidence grade
 
@@ -28,27 +28,27 @@ Generated from `euro_sdt_v2.db`. Only `assertion.status = 'verified'` appears he
 |---|---:|
 | A | 2615 |
 | B | 449 |
-| C | 634 |
+| C | 530 |
 
 ## Top hubs (all verified edges)
 
 | Entity | Kind | Degree |
 |---|---|---:|
-| European Commission | organisation | 77 |
+| European Commission | organisation | 72 |
 | European Parliament | organisation | 51 |
 | Kaja Kallas | person | 41 |
-| Neelie Kroes | person | 36 |
-| Pascal Lamy | person | 36 |
+| Pascal Lamy | person | 35 |
+| Neelie Kroes | person | 34 |
 | Ria Oomen-Ruijten | person | 34 |
-| Federica Mogherini | person | 33 |
 | Thierry Breton | person | 33 |
+| Federica Mogherini | person | 32 |
 | Pierre Moscovici | person | 32 |
 | Mario Monti | person | 30 |
 | António Vitorino | person | 29 |
 | Günther Oettinger | person | 29 |
-| European People's Party | organisation | 28 |
 | José Manuel Barroso | person | 28 |
 | Anita Gradin | person | 27 |
+| European People's Party | organisation | 27 |
 
 ## Top co-affiliations
 

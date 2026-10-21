@@ -14,7 +14,7 @@ generated: 2026-10-21
 
 Commissioner · GBR
 
-*Verified assertions: 22*
+*Verified assertions: 21*
 
 ## Commission service
 
@@ -80,12 +80,6 @@ Commissioner · GBR
 
 - [[organisations/national-reporting-centre|National Reporting Centre]] — founder  
   > "As soon as the strike began, Brittan set up a National Reporting Centre in New Scotland Yard to coordinate intelligence and the supply of police officers between forces as necessary."
-  > Source: [[sources/wikipedia-sir-leon-brittan|Sir Leon Brittan]] · grade C
-
-## Attendance
-
-- [[organisations/1922-committee|1922 Committee]] — attendee  
-  > "Jonathan Aitken wrote of Brittan's resignation: \"Soon after a poisonous meeting of Tory backbenchers at the 1922 Committee, he fell on his sword."
   > Source: [[sources/wikipedia-sir-leon-brittan|Sir Leon Brittan]] · grade C
 
 ## Employment

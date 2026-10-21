@@ -14,7 +14,7 @@ generated: 2026-10-21
 - SHA-256: `bc5e411b50ed2d967abf053e712c2aee62bc3d3797344a1d82cb58ae6743396a`
 - Sentences: 203
 
-## Verified claims citing this document (28)
+## Verified claims citing this document (27)
 
 - [[people/jean-claude-juncker|Jean-Claude Juncker]] — affiliated_with — Edmond Israel Foundation
   > "For all of these initiatives, he was honoured with the Vision for Europe Award in 1998."
@@ -50,8 +50,6 @@ generated: 2026-10-21
   > "Juncker studied at the Roman Catholic école apostolique (secondary school) at Clairefontaine on the edge of Arlon in Belgium, before returning to Luxembourg to study for his Baccalaureate at Lycée Michel Rodange."
 - [[people/jean-claude-juncker|Jean-Claude Juncker]] — educated_at — University Of Strasbourg
   > "He studied law at the University of Strasbourg, graduating with a master's degree in 1979; although he was sworn into the Luxembourg Bar Council in 1980, he never practised as a lawyer."
-- [[people/jean-claude-juncker|Jean-Claude Juncker]] — employed_by — World Bank
-  > "Juncker relinquished his post at the World Bank at this time but maintained his position as Minister for Finance."
 - [[people/jean-claude-juncker|Jean-Claude Juncker]] — from_country — Luxembourg
   > "Jean-Claude Juncker (born 9 December 1954) is a Luxembourgish politician who was prime minister of Luxembourg from 1995 to 2013 and president of the European Commission from 2014 to 2019."
 - [[people/jean-claude-juncker|Jean-Claude Juncker]] — held_portfolio — President

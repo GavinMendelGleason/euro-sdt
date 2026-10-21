@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [[people/romano-prodi|Romano Prodi]] — chair  
+- [[people/romano-prodi|Romano Prodi]]  
   > "On 9 October 2012, Romano Prodi was appointed by the UN Secretary-General Ban Ki-moon as his Special Envoy for the Sahel."
   > Source: [[sources/wikipedia-romano-prodi|Romano Prodi]] · grade B

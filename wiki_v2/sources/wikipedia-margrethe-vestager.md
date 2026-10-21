@@ -14,12 +14,10 @@ generated: 2026-10-21
 - SHA-256: `16af01c2ca7f2582b46680affa650cde7ef89aa10b2fcf07a024852663b04e14`
 - Sentences: 15
 
-## Verified claims citing this document (10)
+## Verified claims citing this document (9)
 
 - [[people/margrethe-vestager|Margrethe Vestager]] — affiliated_with — Renew Europe
   > "After the election, Vestager was nominated as the Renew Europe group's candidate for President of the European Commission."
-- [[people/margrethe-vestager|Margrethe Vestager]] — chair — Social Liberals
-  > "She was leader of the Social Liberals from 2007 to 2014, and served as Minister of Economic Affairs and the Interior under Helle Thorning-Schmidt from 2011 to 2014."
 - [[people/margrethe-vestager|Margrethe Vestager]] — employed_by — European Commission
   > "Margrethe Vestager (born 13 April 1968) is a Danish politician who formerly served as Executive Vice President of the European Commission for A Europe Fit for the Digital Age between December 2019 and November 2024 in the Von Der Leyen Commission and was European Commissioner for Competition between 2014 and 2024 under Commission Presidents Juncker and Von Der Leyen."
 - [[people/margrethe-vestager|Margrethe Vestager]] — held_portfolio — Competition

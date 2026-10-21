@@ -14,14 +14,10 @@ generated: 2026-10-21
 - SHA-256: `9805d4250a958d4c6d07b7b9279760e57ec4321eb5baf9bd23c8293f74a7d745`
 - Sentences: 17
 
-## Verified claims citing this document (26)
+## Verified claims citing this document (22)
 
 - [[people/marianne-thyssen|Marianne Thyssen]] — board_member — UNIZO
   > "She worked as a legal adviser for a Belgian organisation for the self-employed and small and medium-sized businesses UNIZO and the women's network Christelijke Middenstands- en Burgervrouwen (CMBV) now Markant, becoming Director then acting Secretary-General at UNIZO in 1991."
-- [[people/marianne-thyssen|Marianne Thyssen]] — board_member — EPP
-  > "From 1999-2014 she served as leader of the European People's Party's (EPP) Belgian delegation and from 2004-2009 was elected first vice-president of the EPP."
-- [[people/marianne-thyssen|Marianne Thyssen]] — board_member — European People's Party
-  > "Member of the bureau of the European People's Party"
 - [[people/marianne-thyssen|Marianne Thyssen]] — board_member — EPP-ED Group's SME Circle
   > "Vice-Chairwoman of the EPP-ED Group's SME Circle"
 - [[people/marianne-thyssen|Marianne Thyssen]] — chair — European People's Party
@@ -42,14 +38,10 @@ generated: 2026-10-21
   > "She worked as a legal adviser for a Belgian organisation for the self-employed and small and medium-sized businesses UNIZO and the women's network Christelijke Middenstands- en Burgervrouwen (CMBV) now Markant, becoming Director then acting Secretary-General at UNIZO in 1991."
 - [[people/marianne-thyssen|Marianne Thyssen]] — employed_by — Christelijke Middenstands- en Burgervrouwen (CMBV)
   > "She worked as a legal adviser for a Belgian organisation for the self-employed and small and medium-sized businesses UNIZO and the women's network Christelijke Middenstands- en Burgervrouwen (CMBV) now Markant, becoming Director then acting Secretary-General at UNIZO in 1991."
-- [[people/marianne-thyssen|Marianne Thyssen]] — employed_by — Oud-Heverlee
-  > "From 1995-2008 she served as municipal Councillor for Oud-Heverlee, a municipality located in the Belgian province of Flemish Brabant, and in 2001 she became First Alderman for Oud-Heverlee."
 - [[people/marianne-thyssen|Marianne Thyssen]] — employed_by — European Commission
   > "In 2014 Thyssen was appointed to the European Commission as Commissioner in charge of Employment, Social Affairs, Skills and Labour Mobility for the European Union (EU)."
 - [[people/marianne-thyssen|Marianne Thyssen]] — employed_by — UNIZO
   > "Successively legal adviser, head of a research department and acting Secretary-General at Unizo (organisation for the self-employed and small and medium-sized businesses)"
-- [[people/marianne-thyssen|Marianne Thyssen]] — employed_by — Oud-Heverlee
-  > "First Deputy Mayor of Oud-Heverlee until 2008"
 - [[people/marianne-thyssen|Marianne Thyssen]] — held_portfolio — Employment, Social Affairs, Skills and Labour Mobility
   > "Marianne Leonie Petrus Thyssen (Dutch pronunciation: [maːriˈjɑnə ˈtɛisə(n)]; born 24 July 1956) is a Belgian politician of the Christian Democratic and Flemish Party (CD&V) who served as European Commissioner for Employment, Social Affairs, Skills and Labour Mobility between 2014 and 2019."
 - [[people/marianne-thyssen|Marianne Thyssen]] — member — European People's Party

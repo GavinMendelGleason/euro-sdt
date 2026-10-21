@@ -14,7 +14,7 @@ generated: 2026-10-21
 
 Mep
 
-*Verified assertions: 15*
+*Verified assertions: 14*
 
 ## Education
 
@@ -27,10 +27,6 @@ Mep
   > Source: [[sources/wikipedia-yvan-blot|Yvan Blot]] · grade A
 
 ## Membership
-
-- [[organisations/club-d-experts-de-valdai|Club d'experts de Valdaï]]  
-  > "^ Blot, Ivan; ENA; Économiques, Docteur Ès Sciences; L’administration, Inspecteur Général Honoraire De; européen, ancien député du Pas-de-Calais et ancien député; directe&#160;», auteur de nombreux ouvrages dont «&#160;La démocratie; pouvoir&#160;», «&#160;L’oligarchie au; Poutine, «&#160;La Russie de; Valdaï, «&#160;L’homme défiguré&#160;» Il est membre de l’Académie catholique de France Il est aussi membre du comité des experts de Rethinking Russia et du Club d’experts de (2 March 2018)."
-  > Source: [[sources/wikipedia-yvan-blot|Yvan Blot]] · grade C
 
 - [[organisations/european-parliament|European Parliament]]  
   > "&#91; 7 &#93; He joined the Front National in 1989 and was elected to the European Parliament in the 1989 election ."

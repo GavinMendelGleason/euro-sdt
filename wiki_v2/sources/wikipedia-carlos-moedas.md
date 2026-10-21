@@ -14,7 +14,7 @@ generated: 2026-10-21
 - SHA-256: `6c7b94da0497f6dc34b2c1eb5fc536b383d901cdd607fcef6ec7402564e1dc3c`
 - Sentences: 37
 
-## Verified claims citing this document (38)
+## Verified claims citing this document (37)
 
 - [[people/carlos-moedas|Carlos Moedas]] — advisory_board — United Nations Educational, Scientific and Cultural Organization (UNESCO)
   > "Other activities European Council on Foreign Relations (ECFR), Member (since 2021) Aga Khan University, Member of the Chancellor’s Commission (since 2021) Africa Europe Foundation (AEF), Member of the High-Level Group of Personalities on Africa-Europe Relations (since 2020) Friends of Europe, Member of the Board of Trustees (since 2020) UNESCO, Member of the Advisory Board of the \"Futures of Educa […]"
@@ -88,7 +88,5 @@ generated: 2026-10-21
   > "Africa Europe Foundation (AEF), Member of the High-Level Group of Personalities on Africa-Europe Relations (since 2020)"
 - [[people/carlos-moedas|Carlos Moedas]] — nominated_by — PRT
   > "In 2014, Pedro Passos Coelho, Prime Minister of Portugal, nominated him as European Commissioner, and Moedas' name was approved by EC President-elect Jean-Claude Juncker on 1 September."
-- [[people/carlos-moedas|Carlos Moedas]] — post_mandate_occupation — Aga Khan University
-  > "Other activities European Council on Foreign Relations (ECFR), Member (since 2021) Aga Khan University, Member of the Chancellor’s Commission (since 2021) Africa Europe Foundation (AEF), Member of the High-Level Group of Personalities on Africa-Europe Relations (since 2020) Friends of Europe, Member of the Board of Trustees (since 2020) UNESCO, Member of the Advisory Board of the \"Futures of Educa […]"
 - [[people/carlos-moedas|Carlos Moedas]] — served_on_commission — Juncker Commission
   > "In 2014, Pedro Passos Coelho, Prime Minister of Portugal, nominated him as European Commissioner, and Moedas' name was approved by EC President-elect Jean-Claude Juncker on 1 September."

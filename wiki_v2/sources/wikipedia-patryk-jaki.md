@@ -14,7 +14,7 @@ generated: 2026-10-21
 - SHA-256: `316813cfd77e088998358f0b559a78bda161b68bb4f16d181566be4008416aac`
 - Sentences: 119
 
-## Verified claims citing this document (9)
+## Verified claims citing this document (7)
 
 - [[people/patryk-jaki|Patryk Jaki]] — chair — European Conservatives and Reformists Group
   > "He currently serves as Co-Chair of the European Conservatives and Reformists Group in the European Parliament , &#91; 1 &#93; and has been vice-president of the Law and Justice party since 2024."
@@ -26,10 +26,6 @@ generated: 2026-10-21
   > "&#91; 20 &#93; He stated that \"stopping Islamization is his Westerplatte \"."
 - [[people/patryk-jaki|Patryk Jaki]] — educated_at — university-of-wroc-aw
   > "Biography [ edit ] Education [ edit ] Jaki graduated from the University of Wrocław and obtained a master's degree in political science in 2010."
-- [[people/patryk-jaki|Patryk Jaki]] — educated_at — National School Of Public Administration, Warsaw, Poland
-  > "He also completed the ARGO Top Public Executive program organized by the National School of Public Administration in collaboration with IESE Business School in Barcelona (2018), and training at Sam Houston State University in Huntsville, Texas ."
-- [[people/patryk-jaki|Patryk Jaki]] — educated_at — iese-business-school
-  > "He also completed the ARGO Top Public Executive program organized by the National School of Public Administration in collaboration with IESE Business School in Barcelona (2018), and training at Sam Houston State University in Huntsville, Texas ."
 - [[people/patryk-jaki|Patryk Jaki]] — educated_at — sam-houston-state-university
   > "He also completed the ARGO Top Public Executive program organized by the National School of Public Administration in collaboration with IESE Business School in Barcelona (2018), and training at Sam Houston State University in Huntsville, Texas ."
 - [[people/patryk-jaki|Patryk Jaki]] — educated_at — war-studies-university

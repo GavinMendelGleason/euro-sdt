@@ -14,13 +14,7 @@ generated: 2026-10-21
 
 Commissioner · POL
 
-*Verified assertions: 41*
-
-## Commission service
-
-- [[commissions/barroso-i|Barroso I]]  
-  > "Following the 2009 election two commissioners stood down to accept seats in the European Parliament: Danuta Hübner (Poland) and Louis Michel (Belgium) who were replaced by Paweł Samecki (4 July) and Karel De Gucht (17 July) respectively."
-  > Source: [[sources/wikipedia-commission-barroso-i|Commission Barroso I]] · grade C
+*Verified assertions: 40*
 
 ## Portfolio
 

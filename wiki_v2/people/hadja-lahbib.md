@@ -14,13 +14,7 @@ generated: 2026-10-21
 
 Commissioner · BEL
 
-*Verified assertions: 8*
-
-## Portfolio
-
-- European Commissioner for Preparedness and Crisis Management, and Commissioner for Equality  
-  > "On 17 September 2024, Ursula von der Leyen nominated Hadja Lahbib as the European Commissioner for Preparedness, Crisis Management, and Equality."
-  > Source: [[sources/wikipedia-hadja-lahbib|Hadja Lahbib]] · grade C
+*Verified assertions: 7*
 
 ## Country
 

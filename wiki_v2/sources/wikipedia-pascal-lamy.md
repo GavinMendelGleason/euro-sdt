@@ -14,7 +14,7 @@ generated: 2026-10-21
 - SHA-256: `93c6f86e1714a2583b743f79e747fb05550020bf8cf646622f9699fec6a8e0fa`
 - Sentences: 47
 
-## Verified claims citing this document (70)
+## Verified claims citing this document (68)
 
 - [[people/pascal-lamy|Pascal Lamy]] — advisory_board — European Horizons
   > "He is an adviser to the transatlantic think tank European Horizons, as well as the honorary president of the Paris-based think tank Notre Europe."
@@ -84,8 +84,6 @@ generated: 2026-10-21
   > "Other activities Corporate boards Danone, Member of the Mission Committee (since 2020) Bosch, Member of the International Advisory Committee (since 2015) Non-profit organizations Africa Europe Foundation (AEF), Member of the High-Level Group of Personalities on Africa-Europe Relations (since 2020) Berggruen Institute, Member of the Council for the Future of Europe Broader European Leadership Agend […]"
 - [[people/pascal-lamy|Pascal Lamy]] — chair — Fondation européenne d'études progressistes (FEPS)
   > "Other activities Corporate boards Danone, Member of the Mission Committee (since 2020) Bosch, Member of the International Advisory Committee (since 2015) Non-profit organizations Africa Europe Foundation (AEF), Member of the High-Level Group of Personalities on Africa-Europe Relations (since 2020) Berggruen Institute, Member of the Council for the Future of Europe Broader European Leadership Agend […]"
-- [[people/pascal-lamy|Pascal Lamy]] — chair — World Trade Organization (WTO)
-  > "He also served as the chairman of the organization's Trade Negotiations Committee."
 - [[people/pascal-lamy|Pascal Lamy]] — chair — Paris Peace Forum
   > "In 2018, Lamy was appointed president of the Paris Peace Forum."
 - [[people/pascal-lamy|Pascal Lamy]] — chair — French Institute for International and Strategic Affairs (IRIS)
@@ -108,8 +106,6 @@ generated: 2026-10-21
   > "In 1979 Lamy was appointed to the post of secretary-general of the Mayoux Committee (Commission Mayoux) tasked with the decentralisation of financial establishments."
 - [[people/pascal-lamy|Pascal Lamy]] — employed_by — Interministerial Committee for the Remodelling of Industrial Structures (CIASI)
   > "During 1979–1981 he worked as deputy secretary-general, then secretary-general of the Interministerial Committee for the Remodelling of Industrial Structures (CIASI) in the Treasury department."
-- [[people/pascal-lamy|Pascal Lamy]] — employed_by — Crédit Lyonnais
-  > "Lamy briefly moved into business at Crédit Lyonnais."
 - [[people/pascal-lamy|Pascal Lamy]] — employed_by — World Trade Organization (WTO)
   > "On 13 May 2005, Lamy was chosen as the next director-general of the World Trade Organization, and took office on 1 September 2005 for a four-year term."
 - [[people/pascal-lamy|Pascal Lamy]] — employed_by — Brunswick Group

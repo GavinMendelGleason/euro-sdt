@@ -14,7 +14,7 @@ generated: 2026-10-21
 
 Commissioner · NLD
 
-*Verified assertions: 33*
+*Verified assertions: 29*
 
 ## Commission service
 
@@ -78,11 +78,11 @@ Commissioner · NLD
   > "From 2001 to 2002, he served as Deputy Chairman of the Committee on Foreign Affairs."
   > Source: [[sources/wikipedia-frans-timmermans|Frans Timmermans]] · grade A
 
-- [[organisations/groenlinkspvda|GroenLinks–PvdA]] — chair  
-  > "After disappointing results at the 2025 general election, Timmermans announced his resignation as leader of the alliance."
-  > Source: [[sources/wikipedia-frans-timmermans|Frans Timmermans]] · grade C
-
 ## Affiliation
+
+- [[organisations/organization-for-security-and-co-operation-in-europe-osce|Organization for Security and Co-operation in Europe (OSCE)]] — Senior Advisor and Private Secretary to the High Commissioner on National Minorities  
+  > "A year later, he became Senior Advisor and Private Secretary to Max van der Stoel, then serving as the High Commissioner on National Minorities for the Organization for Security and Co-operation in Europe (OSCE), a position he held until entering national politics in 1998."
+  > Source: [[sources/wikipedia-frans-timmermans|Frans Timmermans]] · grade A
 
 - [[organisations/party-of-european-socialists|Party of European Socialists]]  
   > "In December 2018, during the Congress of Lisbon, the Party of European Socialists acclaimed him as its candidate."
@@ -106,8 +106,4 @@ Commissioner · NLD
 
 - [[organisations/european-commission|European Commission]] — employed_by  
   > "Timmermans resigned from the European Commission in 2023 to lead the joint GroenLinks–PvdA alliance in the 2023 Dutch general election."
-  > Source: [[sources/wikipedia-frans-timmermans|Frans Timmermans]] · grade A
-
-- [[organisations/organization-for-security-and-co-operation-in-europe-osce|Organization for Security and Co-operation in Europe (OSCE)]] — Senior Advisor and Private Secretary to the High Commissioner on National Minorities; employed_by  
-  > "A year later, he became Senior Advisor and Private Secretary to Max van der Stoel, then serving as the High Commissioner on National Minorities for the Organization for Security and Co-operation in Europe (OSCE), a position he held until entering national politics in 1998."
   > Source: [[sources/wikipedia-frans-timmermans|Frans Timmermans]] · grade A

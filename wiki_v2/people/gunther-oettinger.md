@@ -14,7 +14,7 @@ generated: 2026-10-21
 
 Commissioner
 
-*Verified assertions: 66*
+*Verified assertions: 60*
 
 ## Commission service
 
@@ -27,10 +27,6 @@ Commissioner
   > Source: [[sources/wikipedia-gunther-oettinger|Gunther Oettinger]] · grade A
 
 ## Portfolio
-
-- Digital Economy and Society (prev. Energy)  
-  > "Instead, Jean-Claude Juncker, President-elect of the European Commission, nominated Oettinger as Commissioner for Digital Economy and Society."
-  > Source: [[sources/wikipedia-gunther-oettinger|Gunther Oettinger]] · grade C
 
 - Energy  
   > "In the Second Barroso Commission, Oettinger was allocated the Energy portfolio, which had just grown in importance after the Lisbon Treaty gave the EU complete authority in the area."
@@ -104,7 +100,7 @@ Commissioner
 
 ## Advisory board
 
-- [[organisations/deloitte-deutschland|Deloitte Deutschland]] — advisory_board; Juncker (2014-2019)  
+- [[organisations/deloitte-deutschland|Deloitte Deutschland]] — advisory_board  
   > "Deloitte Deutschland, Member of the Advisory Council (since 2020)"
   > Source: [[sources/wikipedia-gunther-oettinger|Gunther Oettinger]] · grade A
 
@@ -124,7 +120,7 @@ Commissioner
   > "Gröner Group, Member of the Advisory Board (since 2022)"
   > Source: [[sources/wikipedia-gunther-oettinger|Gunther Oettinger]] · grade A
 
-- [[organisations/ham-log-gruppe|HAM-LOG Gruppe]] — advisory_board; Juncker (2014-2019)  
+- [[organisations/ham-log-gruppe|HAM-LOG Gruppe]] — advisory_board  
   > "HAM-LOG Gruppe, Member of the Advisory Board (since 2021)"
   > Source: [[sources/wikipedia-gunther-oettinger|Gunther Oettinger]] · grade A
 
@@ -132,7 +128,7 @@ Commissioner
   > "Initiative D21, Member of the Advisory Board"
   > Source: [[sources/wikipedia-gunther-oettinger|Gunther Oettinger]] · grade A
 
-- [[organisations/kekst-cnc|Kekst CNC]] — advisory_board; Juncker (2014-2019)  
+- [[organisations/kekst-cnc|Kekst CNC]] — advisory_board  
   > "Kekst CNC, Member of the Global Advisory Board (since 2020)"
   > Source: [[sources/wikipedia-gunther-oettinger|Gunther Oettinger]] · grade A
 
@@ -177,13 +173,3 @@ Commissioner
 - [[organisations/european-peoples-party|European People's Party]]  
   > "He is affiliated with the liberal-conservative European People's Party (EPP)."
   > Source: [[sources/wikipedia-gunther-oettinger|Gunther Oettinger]] · grade A
-
-## Post-mandate occupation
-
-- CG Elementum AG — Juncker (2014-2019) (2020)  
-  > "Other activities Corporate boards Gröner Group, Member of the Advisory Board (since 2022) Donner & Reuschel, Chair of the Adivsory Board (since 2021) HAM-LOG Gruppe, Member of the Advisory Board (since 2021) Herrenknecht, Member of the Supervisory Board (since 2021) Kekst CNC, Member of the Global Advisory Board (since 2020) Deloitte Deutschland, Member of the Advisory Council (since 2020) Amundi Deutschland, Member of the Supervisory Board (since 2020) CG Elementum, Member of the Supervisory Board (since 2020)"
-  > Source: [[sources/wikipedia-gunther-oettinger|Gunther Oettinger]] · grade C
-
-- EBS University of Business and Law — Juncker (2014-2019) (2021)  
-  > "Since 2021, Oettinger has been serving as the president of EBS University of Business and Law."
-  > Source: [[sources/wikipedia-gunther-oettinger|Gunther Oettinger]] · grade C

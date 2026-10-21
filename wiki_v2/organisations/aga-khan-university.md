@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [[people/carlos-moedas|Carlos Moedas]] — Juncker (2014-2019)  
+- [[people/carlos-moedas|Carlos Moedas]]  
   > "Aga Khan University, Member of the Chancellor’s Commission (since 2021)"
   > Source: [[sources/wikipedia-carlos-moedas|Carlos Moedas]] · grade A

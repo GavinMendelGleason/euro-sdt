@@ -14,7 +14,7 @@ generated: 2026-10-21
 
 Commissioner · DEU
 
-*Verified assertions: 20*
+*Verified assertions: 17*
 
 ## Commission service
 
@@ -28,17 +28,7 @@ Commissioner · DEU
   > "Subsequently, he became Commissioner for Industrial affairs, Information & Telecommunications Technologies in the Santer Commission from 1995 to 1999."
   > Source: [[sources/wikipedia-martin-bangemann|Martin Bangemann]] · grade A
 
-## Country
-
-- [[organisations/germany|germany]]  
-  > "Bangemann was the German Federal Minister for Economic Affairs from 1984 to 1988."
-  > Source: [[sources/wikipedia-martin-bangemann|Martin Bangemann]] · grade C
-
 ## Education
-
-- [[organisations/ludwig-maximilians-universitat-munchen|Ludwig-Maximilians-Universität München]]  
-  > "He studied law in Tübingen and Munich, and earned a Dr. jur."
-  > Source: [[sources/wikipedia-martin-bangemann|Martin Bangemann]] · grade C
 
 - [[organisations/munich|Munich]]  
   > "He studied law in Tübingen and Munich, and earned a Dr. jur. (not equivalent to J.D., but a PhD in law) in 1962 with a dissertation entitled Bilder und Fiktionen in Recht und Rechtswissenschaft (Imagery and fiction in law and jurisprudence)."
@@ -53,12 +43,6 @@ Commissioner · DEU
 - Law  
   > "He studied law in Tübingen and Munich, and earned a Dr. jur."
   > Source: [[sources/wikipedia-martin-bangemann|Martin Bangemann]] · grade A
-
-## Degree
-
-- PhD  
-  > "He studied law in Tübingen and Munich, and earned a Dr. jur."
-  > Source: [[sources/wikipedia-martin-bangemann|Martin Bangemann]] · grade C
 
 ## Membership
 

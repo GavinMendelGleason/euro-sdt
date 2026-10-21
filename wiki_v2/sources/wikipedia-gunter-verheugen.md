@@ -14,7 +14,7 @@ generated: 2026-10-21
 - SHA-256: `7b384a6028423d045f4eda78f05895b20987208661f82493b7bb41c34998ea62`
 - Sentences: 62
 
-## Verified claims citing this document (32)
+## Verified claims citing this document (31)
 
 - [[people/gunter-verheugen|Günter Verheugen]] — advisory_board — FleishmanHillard
   > "Later years Since leaving public office, Verheugen has held a variety of paid or unpaid positions, including the following: FleishmanHillard, Member of the International Advisory Board German-Azerbaijani Forum, Member of the Board of Trustees German Council on Foreign Relations (DGAP), Member Turkey: Culture of Change Initiative (TCCI), Member of the Advisory Board National Association of German C […]"
@@ -70,8 +70,6 @@ generated: 2026-10-21
   > "Günter Verheugen (German pronunciation: [ˈɡʏntɐ fɛɐˈhɔʏɡn̩]; born 28 April 1944) is a German politician who served as European Commissioner for Enlargement from 1999 to 2004, and then as European Commissioner for Enterprise and Industry from 2004 to 2010."
 - [[people/gunter-verheugen|Günter Verheugen]] — member — German Council on Foreign Relations (DGAP)
   > "Later years Since leaving public office, Verheugen has held a variety of paid or unpaid positions, including the following: FleishmanHillard, Member of the International Advisory Board German-Azerbaijani Forum, Member of the Board of Trustees German Council on Foreign Relations (DGAP), Member Turkey: Culture of Change Initiative (TCCI), Member of the Advisory Board National Association of German C […]"
-- [[people/gunter-verheugen|Günter Verheugen]] — member — Free Democratic Party of Germany
-  > "He left the FDP with many left liberal party members in 1982, because the FDP left the government of Chancellor Helmut Schmidt."
 - [[people/gunter-verheugen|Günter Verheugen]] — member — Social Democratic Party of Germany
   > "In the same year, he joined the Social Democratic Party of Germany (SPD)."
 - [[people/gunter-verheugen|Günter Verheugen]] — member — German Bundestag

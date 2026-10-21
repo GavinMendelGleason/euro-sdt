@@ -103,7 +103,8 @@ def table_counts(db: sqlite3.Connection) -> dict[str, int]:
         "adjudication",
         "review",
     ]
+    existing = {row[0] for row in db.execute("SELECT name FROM sqlite_master WHERE type='table'")}
     out = {}
     for table in tables:
-        out[table] = db.execute(f"SELECT COUNT(*) FROM {table}").fetchone()[0]
+        out[table] = db.execute(f"SELECT COUNT(*) FROM {table}").fetchone()[0] if table in existing else 0
     return out

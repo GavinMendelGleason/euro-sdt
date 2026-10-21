@@ -18,7 +18,7 @@ generated: 2026-10-21
 - [[people/alexander-graf-lambsdorff|Alexander Graf Lambsdorff]]  
   > "German politician (born 1966) Alexander Sebastian Léonce von der Wenge Graf Lambsdorff &#91; a &#93; (born 5 November 1966), commonly known as Alexander Graf Lambsdorff is a German politician of the Free Democratic Party of Germany (FDP), part of the Alliance of Liberals and Democrats for Europe , &#91; 1 &#93; who has been serving as the German ambassador to Russia since 2023."
   > Source: [[sources/wikipedia-alexander-graf-lambsdorff|Alexander Graf Lambsdorff]] · grade A
-- [[people/gunter-verheugen|Günter Verheugen]] — employed_by; party_member  
+- [[people/gunter-verheugen|Günter Verheugen]] — employed_by  
   > "Verheugen was Secretary General of the Free Democratic Party of Germany (FDP) from 1978 to 1982, under the leadership of the party's chairman Hans-Dietrich Genscher."
   > Source: [[sources/wikipedia-gunter-verheugen|Gunter Verheugen]] · grade A
 - [[people/silvana-koch-mehrin|Silvana Koch-Mehrin]]  

@@ -15,7 +15,7 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [[people/erkki-liikanen|Erkki Liikanen]] — board_member; employed_by  
+- [[people/erkki-liikanen|Erkki Liikanen]] — board_member  
   > "International Monetary Fund (IMF), Ex-Officio Member of the Board of Governors"
   > Source: [[sources/wikipedia-erkki-liikanen|Erkki Liikanen]] · grade A
 - [[people/kristalina-georgieva|Kristalina Georgieva]] — employed_by  

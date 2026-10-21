@@ -14,7 +14,7 @@ generated: 2026-10-21
 - SHA-256: `d8c7fe573d8d681bec8bb60132c4df82c8caf586cd754724ba127a68a97ca8b3`
 - Sentences: 356
 
-## Verified claims citing this document (27)
+## Verified claims citing this document (26)
 
 - [[people/ursula-von-der-leyen|Ursula von der Leyen]] — advisory_board — Munich Security Conference
   > "Munich Security Conference, Member of the Advisory Council (2013–2019)"
@@ -48,8 +48,6 @@ generated: 2026-10-21
   > "in 1987, she acquired her medical licence from Hanover Medical School"
 - [[people/ursula-von-der-leyen|Ursula von der Leyen]] — employed_by — European Commission
   > "Ursula Gertrud von der Leyen (née Albrecht; born 8 October 1958) is a German politician and physician who has served as President of the European Commission since 2019."
-- [[people/ursula-von-der-leyen|Ursula von der Leyen]] — held_degree — PhD
-  > "Upon completing her doctoral studies, she defended the thesis and graduated as a Doctor of Medicine in 1991."
 - [[people/ursula-von-der-leyen|Ursula von der Leyen]] — held_portfolio — President
   > "On 7 September 2023, Ursula von der Leyen met the UAE president Mohammad bin Zayed in Abu Dhabi."
 - [[people/ursula-von-der-leyen|Ursula von der Leyen]] — held_portfolio — President of the European Commission

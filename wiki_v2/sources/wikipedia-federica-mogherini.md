@@ -14,7 +14,7 @@ generated: 2026-10-21
 - SHA-256: `6179ed6cbfc358ee859173bab91f255dbf03b8ac835db137f8ac8ba10e0d59e8`
 - Sentences: 107
 
-## Verified claims citing this document (61)
+## Verified claims citing this document (57)
 
 - [[people/federica-mogherini|Federica Mogherini]] — advisory_board — Munich Security Conference
   > "Other activities Africa Europe Foundation (AEF), member of the High-Level Group of Personalities on Africa-Europe Relations (since 2020) Friends of Europe, member of the Board of Trustees (since 2020) International Crisis Group (ICG), member of the Board of Trustees (since 2019) Istituto Affari Internazionali (IAI), member Generation Unlimited, member of the Board (since 2018) Fight Impunity, memb […]"
@@ -38,8 +38,6 @@ generated: 2026-10-21
   > "In 2001, she became a member of the National Council of the Democrats of the Left (DS), later serving on its National Executive Board and Political Committee."
 - [[people/federica-mogherini|Federica Mogherini]] — board_member — Political Committee of the Democrats of the Left (DS)
   > "In 2001, she became a member of the National Council of the Democrats of the Left (DS), later serving on its National Executive Board and Political Committee."
-- [[people/federica-mogherini|Federica Mogherini]] — board_member — Italian Democratic Party (PD)
-  > "After the formation of the Italian Democratic Party (PD) in 2007, Mogherini was appointed to its executive committee by its founding chairman Walter Veltroni."
 - [[people/federica-mogherini|Federica Mogherini]] — board_member — Friends of Europe
   > "Friends of Europe, member of the Board of Trustees (since 2020)"
 - [[people/federica-mogherini|Federica Mogherini]] — board_member — International Crisis Group
@@ -128,12 +126,6 @@ generated: 2026-10-21
   > "Preparatory Commission for the Comprehensive Nuclear-Test-Ban Treaty Organization, member of the Group of Eminent Persons"
 - [[people/federica-mogherini|Federica Mogherini]] — nominated_by — ITA
   > "Federica Mogherini (Italian: [fedeˈriːka moɡeˈriːni]; born 16 June 1973) is an Italian politician who served as High Representative of the Union for Foreign Affairs and Security Policy and Vice-President of the European Commission from 2014 to 2019."
-- [[people/federica-mogherini|Federica Mogherini]] — post_mandate_occupation — Friends of Europe
-  > "Other activities Africa Europe Foundation (AEF), member of the High-Level Group of Personalities on Africa-Europe Relations (since 2020) Friends of Europe, member of the Board of Trustees (since 2020) International Crisis Group (ICG), member of the Board of Trustees (since 2019) Istituto Affari Internazionali (IAI), member Generation Unlimited, member of the Board (since 2018) Fight Impunity, memb […]"
-- [[people/federica-mogherini|Federica Mogherini]] — post_mandate_occupation — International Crisis Group
-  > "Other activities Africa Europe Foundation (AEF), member of the High-Level Group of Personalities on Africa-Europe Relations (since 2020) Friends of Europe, member of the Board of Trustees (since 2020) International Crisis Group (ICG), member of the Board of Trustees (since 2019) Istituto Affari Internazionali (IAI), member Generation Unlimited, member of the Board (since 2018) Fight Impunity, memb […]"
-- [[people/federica-mogherini|Federica Mogherini]] — post_mandate_occupation — College of Europe
-  > "In 2020, she was appointed rector of the College of Europe, a post-graduate university for European studies in Bruges (Belgium), Natolin (Poland), and Tirana (Albania)."
 - [[people/federica-mogherini|Federica Mogherini]] — served_on_commission — Juncker Commission
   > "On 1 August 2014, Italian prime minister Matteo Renzi formally nominated her by letter to Juncker, the European Commission president-elect, as Italy's official candidate for Commissioner."
 - [[people/federica-mogherini|Federica Mogherini]] — studied_field — Political Science

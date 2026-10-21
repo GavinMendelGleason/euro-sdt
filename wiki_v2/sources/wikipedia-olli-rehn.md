@@ -14,7 +14,7 @@ generated: 2026-10-21
 - SHA-256: `1127ac5bcd9c8528bd178518c39fc481a0edfc529e2bf516c81b398ebbe75ba4`
 - Sentences: 70
 
-## Verified claims citing this document (43)
+## Verified claims citing this document (42)
 
 - [[people/olli-rehn|Olli Rehn]] — advisory_board — Women Political Leaders Global Forum (WPL)
   > "Other activities International organizations European Central Bank (ECB), ex officio member of the governing council European Systemic Risk Board (ESRB), ex officio member International Monetary Fund (IMF), ex officio alternate member of the board of governors European Bank for Reconstruction and Development (EBRD), ex officio member of the board of governors (2010–2014) Non-profit organizations W […]"
@@ -56,8 +56,6 @@ generated: 2026-10-21
   > "He gained a master's degree in political science from the University of Helsinki in 1989, and a D.Phil. from St. Antony's College, Oxford in 1996 on the subject of \"Corporatism and Industrial Competitiveness in Small European States\"."
 - [[people/olli-rehn|Olli Rehn]] — employed_by — Nordic Centre Youth
   > "He began his political career in youth politics as a regular member of the Finnish Centre Youth and soon became the secretary general of the Nordic Centre Youth."
-- [[people/olli-rehn|Olli Rehn]] — employed_by — European Commission
-  > "Rehn would later succeed Liikanen in the role of commissioner for Enterprise and Information Society."
 - [[people/olli-rehn|Olli Rehn]] — from_country — Finland
   > "Olli Ilmari Rehn (pronounced [ˈolːi ˈreːn] ; born 31 March 1962) is a Finnish public official who has been serving as governor of the Bank of Finland since 2018."
 - [[people/olli-rehn|Olli Rehn]] — held_portfolio — Enlargement

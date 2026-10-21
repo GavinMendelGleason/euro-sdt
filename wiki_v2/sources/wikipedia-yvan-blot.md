@@ -14,7 +14,7 @@ generated: 2026-10-21
 - SHA-256: `4116ad02d3c2a86f5a72d7be03cff346504166b84658f3b3ab21ee0f65dca5f3`
 - Sentences: 51
 
-## Verified claims citing this document (15)
+## Verified claims citing this document (14)
 
 - [[people/yvan-blot|Yvan Blot]] — affiliated_with — Rally for the Republic
   > "&#91; 6 &#93; &#91; 5 &#93; A former Gaullist parliamentarian (for Rally for the Republic ), Blot also served as a leading civil servant under both Interior Minister Michel Poniatowski and Alain Devaquet ."
@@ -43,6 +43,4 @@ generated: 2026-10-21
 - [[people/yvan-blot|Yvan Blot]] — member — French Catholic Academy
   > "&#91; citation needed &#93; He was a member of the French Catholic Academy &#91; 12 &#93; and a consultant for the radio station \"Voice of Russia\" in Paris."
 - [[people/yvan-blot|Yvan Blot]] — member — Rethinking Russia
-  > "^ Blot, Ivan; ENA; Économiques, Docteur Ès Sciences; L’administration, Inspecteur Général Honoraire De; européen, ancien député du Pas-de-Calais et ancien député; directe&#160;», auteur de nombreux ouvrages dont «&#160;La démocratie; pouvoir&#160;», «&#160;L’oligarchie au; Poutine, «&#160;La Russie de; Valdaï, «&#160;L’homme défiguré&#160;» Il est membre de l’Académie catholique de France Il est a […]"
-- [[people/yvan-blot|Yvan Blot]] — member — Club d'experts de Valdaï
   > "^ Blot, Ivan; ENA; Économiques, Docteur Ès Sciences; L’administration, Inspecteur Général Honoraire De; européen, ancien député du Pas-de-Calais et ancien député; directe&#160;», auteur de nombreux ouvrages dont «&#160;La démocratie; pouvoir&#160;», «&#160;L’oligarchie au; Poutine, «&#160;La Russie de; Valdaï, «&#160;L’homme défiguré&#160;» Il est membre de l’Académie catholique de France Il est a […]"

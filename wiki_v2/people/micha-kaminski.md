@@ -14,13 +14,9 @@ generated: 2026-10-21
 
 Mep
 
-*Verified assertions: 5*
+*Verified assertions: 4*
 
 ## Membership
-
-- [[organisations/law-and-justice|Law and Justice]]  
-  > "In 2001, he joined the Right Alliance (PP), which merged with Law and Justice (PiS) the following year, having been reelected on the PP-PiS joint ticket in 2001 ."
-  > Source: [[sources/wikipedia-micha-kamiski|Micha Kamiski]] · grade C
 
 - [[organisations/right-alliance|Right Alliance]]  
   > "In 2001, he joined the Right Alliance (PP), which merged with Law and Justice (PiS) the following year, having been reelected on the PP-PiS joint ticket in 2001 ."

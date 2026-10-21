@@ -14,7 +14,7 @@ generated: 2026-10-21
 
 Commissioner
 
-*Verified assertions: 19*
+*Verified assertions: 18*
 
 ## Commission service
 
@@ -37,10 +37,6 @@ Commissioner
 - [[organisations/george-washington-university|George Washington University]]  
   > "He also studied at the George Washington University in Washington, D.C., and in 1993 earned a master's degree in Development Economics at the University of Manchester."
   > Source: [[sources/wikipedia-laszlo-andor|Laszlo Andor]] · grade A
-
-- [[organisations/victoria-university-of-manchester|Victoria University Of Manchester]]  
-  > "He also studied at the George Washington University in Washington, D.C., and in 1993 earned a master's degree in Development Economics at the University of Manchester."
-  > Source: [[sources/wikipedia-laszlo-andor|Laszlo Andor]] · grade C
 
 ## Field of study
 

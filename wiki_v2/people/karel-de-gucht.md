@@ -14,7 +14,7 @@ generated: 2026-10-21
 
 Commissioner
 
-*Verified assertions: 23*
+*Verified assertions: 22*
 
 ## Commission service
 
@@ -70,7 +70,7 @@ Commissioner
 
 ## Advisory board
 
-- [[organisations/cvc-capital-partners|CVC Capital Partners]] — advisory_board; Other/Earlier  
+- [[organisations/cvc-capital-partners|CVC Capital Partners]] — advisory_board  
   > "CVC Capital Partners, Member of the European Advisory Board (since 2015)"
   > Source: [[sources/wikipedia-karel-de-gucht|Karel De Gucht]] · grade A
 

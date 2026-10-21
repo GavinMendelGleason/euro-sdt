@@ -14,14 +14,12 @@ generated: 2026-10-21
 - SHA-256: `3574215e7b3af3af76cd1c0cd4d68c726e9d2f361ec16e0b888e36e6c00053f7`
 - Sentences: 43
 
-## Verified claims citing this document (35)
+## Verified claims citing this document (34)
 
 - [[people/connie-hedegaard|Connie Hedegaard]] — advisory_board — European Policy Centre
   > "Other activities International organizations European Investment Bank (EIB), Member of the Climate and Environment Advisory Council (since 2021) Corporate boards Danfoss Group, Member of the Board Volkswagen, Member of the Sustainability Council Nordex, Member of the Supervisory Board BBVA, Member of the Board Non-profit organizations Africa Europe Foundation (AEF), Member of the High-Level Group […]"
 - [[people/connie-hedegaard|Connie Hedegaard]] — advisory_board — European Investment Bank (EIB)
   > "European Investment Bank (EIB), Member of the Climate and Environment Advisory Council (since 2021)"
-- [[people/connie-hedegaard|Connie Hedegaard]] — advisory_board — Volkswagen
-  > "Volkswagen, Member of the Sustainability Council"
 - [[people/connie-hedegaard|Connie Hedegaard]] — advisory_board — European Policy Centre
   > "European Policy Centre (EPC), Member of the Advisory Council"
 - [[people/connie-hedegaard|Connie Hedegaard]] — board_member — Friends of Europe

@@ -14,7 +14,7 @@ generated: 2026-10-21
 - SHA-256: `baaa32021fe2e1ec6b5554161416f09473097bb47973d24d3805b5047d03c188`
 - Sentences: 48
 
-## Verified claims citing this document (24)
+## Verified claims citing this document (22)
 
 - [[people/stephane-sejourne|Stéphane Séjourné]] — affiliated_with — Jeunes avec Macron
   > "Originally a member of the Socialist Party, he later became an advisor to Emmanuel Macron at the Ministry of Economics, where he contributed to the creation of Jeunes avec Macron and En Marche!, evolving into La République en marche in 2016."
@@ -42,10 +42,6 @@ generated: 2026-10-21
   > "In 2018, Séjourné left the Élysée to lead the La République en marche campaign for the 2019 European elections, where he was elected as an MEP."
 - [[people/stephane-sejourne|Stéphane Séjourné]] — employed_by — Renaissance
   > "In 2022, he was also elected Secretary General of Renaissance, succeeding Stanislas Guerini."
-- [[people/stephane-sejourne|Stéphane Séjourné]] — founder — Jeunes avec Macron
-  > "Originally a member of the Socialist Party, he later became an advisor to Emmanuel Macron at the Ministry of Economics, where he contributed to the creation of Jeunes avec Macron and En Marche!, evolving into La République en marche in 2016."
-- [[people/stephane-sejourne|Stéphane Séjourné]] — founder — En Marche!
-  > "Originally a member of the Socialist Party, he later became an advisor to Emmanuel Macron at the Ministry of Economics, where he contributed to the creation of Jeunes avec Macron and En Marche!, evolving into La République en marche in 2016."
 - [[people/stephane-sejourne|Stéphane Séjourné]] — from_country — France
   > "Stéphane Séjourné ([stefan seʒuʁne] ; born 26 March 1985) is a French politician of Renaissance who has served as Executive Vice-President of the European Commission and Comissioner for Industry, SMEs"
 - [[people/stephane-sejourne|Stéphane Séjourné]] — member — Socialist Party

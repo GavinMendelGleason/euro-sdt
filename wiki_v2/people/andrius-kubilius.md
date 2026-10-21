@@ -14,7 +14,7 @@ generated: 2026-10-21
 
 Commissioner · LTU
 
-*Verified assertions: 24*
+*Verified assertions: 23*
 
 ## Portfolio
 
@@ -27,12 +27,6 @@ Commissioner · LTU
 - LTU  
   > "Andrius Kubilius (Lithuanian pronunciation: [ˈɐnʲdʲrʲʊs kʊˈbɪlʲʊs]; born 8 December 1956) is a Lithuanian politician who is currently serving as the European Commissioner for Defence and Space in the Second von der Leyen Commission."
   > Source: [[sources/wikipedia-andrius-kubilius|Andrius Kubilius]] · grade A
-
-## Country
-
-- Lithuania  
-  > "He previously served as a Member of the European Parliament (MEP) from 2019 to 2024 and as Prime Minister of Lithuania from 1999 to 2000 and again from 2008 to 2012."
-  > Source: [[sources/wikipedia-andrius-kubilius|Andrius Kubilius]] · grade C
 
 ## Education
 

@@ -14,7 +14,7 @@ generated: 2026-10-21
 
 Commissioner · DNK
 
-*Verified assertions: 16*
+*Verified assertions: 13*
 
 ## Commission service
 
@@ -34,12 +34,6 @@ Commissioner · DNK
   > "Bjerregaard was the European Commissioner for Environment, Nuclear Safety and Civil Protection in the Santer Commission from 1995 to 1999, representing Denmark."
   > Source: [[sources/wikipedia-ritt-bjerregaard|Ritt Bjerregaard]] · grade A
 
-## Country
-
-- Denmark  
-  > "Bjerregaard was the European Commissioner for Environment, Nuclear Safety and Civil Protection in the Santer Commission from 1995 to 1999, representing Denmark."
-  > Source: [[sources/wikipedia-ritt-bjerregaard|Ritt Bjerregaard]] · grade C
-
 ## Education
 
 - [[organisations/roskilde-university|Roskilde University]]  
@@ -52,16 +46,6 @@ Commissioner · DNK
   > "Ritt Bjerregaard (full name Jytte Ritt Bjerregaard; 19 May 1941 – 21 January 2023) was a Danish politician who was a member of the Danish Social Democrats, and was Lord Mayor of Copenhagen from 1 January 2006 to 2010."
   > Source: [[sources/wikipedia-ritt-bjerregaard|Ritt Bjerregaard]] · grade A
 
-## Board / trustee
-
-- [[organisations/osce-s-parliamentary-assembly|OSCE's Parliamentary Assembly]] — board_member; chair  
-  > "She was vice-president of both OSCE's Parliamentary Assembly and Socialist International Women (SIW) from 1992 to 1994."
-  > Source: [[sources/wikipedia-ritt-bjerregaard|Ritt Bjerregaard]] · grade A
-
-- [[organisations/socialist-international-women|Socialist International Women]] — board_member; chair  
-  > "She was vice-president of both OSCE's Parliamentary Assembly and Socialist International Women (SIW) from 1992 to 1994."
-  > Source: [[sources/wikipedia-ritt-bjerregaard|Ritt Bjerregaard]] · grade A
-
 ## Chair / president
 
 - [[organisations/danish-european-movement-den-danske-europabevgelse|Danish European Movement (Den Danske Europabevægelse)]] — chair  
@@ -70,6 +54,14 @@ Commissioner · DNK
 
 - danish-european-movement-den-danske-europabev-gelse — chair  
   > "After being an opponent for many years, she became chair of the Danish European Movement (Den Danske Europabevægelse)."
+  > Source: [[sources/wikipedia-ritt-bjerregaard|Ritt Bjerregaard]] · grade A
+
+- [[organisations/osce-s-parliamentary-assembly|OSCE's Parliamentary Assembly]] — chair  
+  > "She was vice-president of both OSCE's Parliamentary Assembly and Socialist International Women (SIW) from 1992 to 1994."
+  > Source: [[sources/wikipedia-ritt-bjerregaard|Ritt Bjerregaard]] · grade A
+
+- [[organisations/socialist-international-women|Socialist International Women]] — chair  
+  > "She was vice-president of both OSCE's Parliamentary Assembly and Socialist International Women (SIW) from 1992 to 1994."
   > Source: [[sources/wikipedia-ritt-bjerregaard|Ritt Bjerregaard]] · grade A
 
 ## Attendance

@@ -14,7 +14,7 @@ generated: 2026-10-21
 - SHA-256: `3696626c121a6ef8c970750a4670d96f67217c37e63c180336598f4e476d3ef0`
 - Sentences: 93
 
-## Verified claims citing this document (17)
+## Verified claims citing this document (16)
 
 - [[people/leonard-orban|Leonard Orban]] — affiliated_with — Business Forum on Multilingualism
   > "However, Orban agreed that the protection of language rights was a matter for individual member states and his view is that, \"When it comes to language rights, I am not in favour of adopting legislation at European level to be imposed on Member States.\" Orban's remit included the development of the European Indicator of Language Competence, the creation of a Business Forum on Multilingualism and J […]"
@@ -36,8 +36,6 @@ generated: 2026-10-21
   > "Between 1986 and 1993, he worked as engineer for Tractor Manufacturing Company Miercurea Ciuc (1986–1989, Romanian: Întreprinderea de Tractoare Miercurea Ciuc), Enterprise for Special Industrial Constructions Bucharest (1989–1990, Romanian: Întreprinderea de Antrepriza Construcţii Speciale Industriale şi Montaj (I.A.C.S.I.M.)"
 - [[people/leonard-orban|Leonard Orban]] — employed_by — Enterprise for Special Industrial Constructions Bucharest
   > "Between 1986 and 1993, he worked as engineer for Tractor Manufacturing Company Miercurea Ciuc (1986–1989, Romanian: Întreprinderea de Tractoare Miercurea Ciuc), Enterprise for Special Industrial Constructions Bucharest (1989–1990, Romanian: Întreprinderea de Antrepriza Construcţii Speciale Industriale şi Montaj (I.A.C.S.I.M.)"
-- [[people/leonard-orban|Leonard Orban]] — employed_by — Institute of Research for Machine Manufacturing Technology Bucharest
-  > "București) and Institute of Research for Machine Manufacturing Technology Bucharest (1990–1993, Romanian: Institutul de Cercetare Tehnologia Construcţiilor de Maşini (I.C.T.C.M.)"
 - [[people/leonard-orban|Leonard Orban]] — employed_by — Chamber of Deputies of the Romanian Parliament
   > "From 1993 to 2001, Orban served as a Parliamentary Counsellor on European and International Affairs within the Chamber of Deputies of the Romanian Parliament, where he was responsible for the European Integration Committee, as well as relations with the European Parliament."
 - [[people/leonard-orban|Leonard Orban]] — employed_by — Ministry of European Integration of Romania

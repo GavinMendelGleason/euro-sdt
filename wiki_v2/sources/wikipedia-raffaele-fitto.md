@@ -14,13 +14,11 @@ generated: 2026-10-21
 - SHA-256: `12ae5690a6b502511967081cc214576a921cc481a69b0f72970127a95affd263`
 - Sentences: 23
 
-## Verified claims citing this document (20)
+## Verified claims citing this document (19)
 
 - [[people/raffaele-fitto|Raffaele Fitto]] — employed_by — European Commission
   > "Raffaele Fitto (Italian pronunciation: [raffaˈɛːle ˈfitto]; born 28 August 1969) is an Italian politician who has served as Executive Vice-President of the European Commission for Cohesion and Reforms since 2024."
 - [[people/raffaele-fitto|Raffaele Fitto]] — from_country — Italy
-  > "Raffaele Fitto (Italian pronunciation: [raffaˈɛːle ˈfitto]; born 28 August 1969) is an Italian politician who has served as Executive Vice-President of the European Commission for Cohesion and Reforms"
-- [[people/raffaele-fitto|Raffaele Fitto]] — held_portfolio — Executive Vice-President and European Commissioner for Cohesion and Reforms
   > "Raffaele Fitto (Italian pronunciation: [raffaˈɛːle ˈfitto]; born 28 August 1969) is an Italian politician who has served as Executive Vice-President of the European Commission for Cohesion and Reforms"
 - [[people/raffaele-fitto|Raffaele Fitto]] — member — Forza Italia
   > "In 1999, he was elected to the European Parliament on the electoral list of Forza Italia (FI), of which he was a member from 2001 to 2009, when he joined The People of Freedom (PdL), the new party of Silvio Berlusconi."

@@ -14,7 +14,7 @@ generated: 2026-10-21
 - SHA-256: `e870e63f55fb68f9629e5046a1553a08b5d149ce6eff5c2a4101d145eaaba8af`
 - Sentences: 147
 
-## Verified claims citing this document (11)
+## Verified claims citing this document (9)
 
 - [[people/leszek-miller|Leszek Miller]] — affiliated_with — Democratic Left Alliance
   > "He was the leader of the Democratic Left Alliance from 1999 to 2004 and again from 2011 to 2016."
@@ -22,10 +22,6 @@ generated: 2026-10-21
   > "With the party's recommendation, he started political sciences studies at the party's Higher School of Political Sciences ( Wyższa Szkoła Nauk Społecznych ), graduating in 1977."
 - [[people/leszek-miller|Leszek Miller]] — affiliated_with — Social Democracy of the Polish Republic
   > "&#91; 6 &#93; After 1990 [ edit ] After the PZPR was dissolved, Miller became a co-founder of the Social Democracy of the Polish Republic (till March 1993, he was Secretary General, then Deputy Chairman and, from December 1997, the Chairman of that party)."
-- [[people/leszek-miller|Leszek Miller]] — affiliated_with — Government of Poland
-  > "When Miller was cleared of the charges, Prime Minister Cimoszewicz appointed him later as the Minister in Charge of the Office of the Council of Ministers and in 1997 the Minister of Internal Affairs and Administration in his government."
-- [[people/leszek-miller|Leszek Miller]] — affiliated_with — Government of Poland
-  > "12% of the subsequent party) in the Parliamentary Election in 2001, on 19 October 2001, President Aleksander Kwaśniewski appointed Miller Prime Minister and obliged to nominate the government."
 - [[people/leszek-miller|Leszek Miller]] — affiliated_with — Group of European Prime Ministers
   > "Miller was also a co-signatory of \" the letter of 8 \", signed by eight European prime ministers, supporting the US position on Iraq."
 - [[people/leszek-miller|Leszek Miller]] — board_member — Socialist Youth Union

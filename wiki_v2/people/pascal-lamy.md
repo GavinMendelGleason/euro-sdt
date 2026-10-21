@@ -14,7 +14,7 @@ generated: 2026-10-21
 
 Commissioner · FRA
 
-*Verified assertions: 74*
+*Verified assertions: 72*
 
 ## Commission service
 
@@ -168,10 +168,6 @@ Commissioner · FRA
   > "In 2019, he joined Brunswick Group as its president for European operations."
   > Source: [[sources/wikipedia-pascal-lamy|Pascal Lamy]] · grade C
 
-- [[organisations/credit-lyonnais|Crédit Lyonnais]] — employed_by  
-  > "Lamy briefly moved into business at Crédit Lyonnais."
-  > Source: [[sources/wikipedia-pascal-lamy|Pascal Lamy]] · grade C
-
 - [[organisations/european-commission|European Commission]] — employed_by  
   > "Lamy was previously European Commissioner for Trade for 5 years, from 13 September 1999 to 22 November 2004."
   > Source: [[sources/wikipedia-pascal-lamy|Pascal Lamy]] · grade C
@@ -188,6 +184,6 @@ Commissioner · FRA
   > "In 1979 Lamy was appointed to the post of secretary-general of the Mayoux Committee (Commission Mayoux) tasked with the decentralisation of financial establishments."
   > Source: [[sources/wikipedia-pascal-lamy|Pascal Lamy]] · grade C
 
-- [[organisations/world-trade-organization-wto|World Trade Organization (WTO)]] — chair; employed_by  
+- [[organisations/world-trade-organization-wto|World Trade Organization (WTO)]] — employed_by  
   > "He was the Director-General of the World Trade Organization (WTO) from 1 September 2005 to 1 September 2013 for 8 years."
   > Source: [[sources/wikipedia-pascal-lamy|Pascal Lamy]] · grade A

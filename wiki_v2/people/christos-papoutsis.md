@@ -14,19 +14,7 @@ generated: 2026-10-21
 
 Commissioner · GRC
 
-*Verified assertions: 28*
-
-## Portfolio
-
-- Energy and Euratom Supply Agency / Small Enterprises  
-  > "Responsible for Energy Policy and EURATOM Supply Agency, Enterprise Policy, Commerce, Tourism and Social Economy."
-  > Source: [[sources/wikipedia-christos-papoutsis|Christos Papoutsis]] · grade C
-
-## Nominated by
-
-- GRC  
-  > "Political career On July 12, 2013, he was appointed as Greece's Representative to the World Bank."
-  > Source: [[sources/wikipedia-christos-papoutsis|Christos Papoutsis]] · grade C
+*Verified assertions: 26*
 
 ## Country
 

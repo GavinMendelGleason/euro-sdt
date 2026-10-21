@@ -11,7 +11,7 @@ generated: 2026-10-21
 ---
 # World Economic Forum
 
-*Verified member assertions: 7 people*
+*Verified member assertions: 6 people*
 
 ## Profile
 
@@ -29,9 +29,6 @@ generated: 2026-10-21
 - [[people/claudio-descalzi|Claudio Descalzi]] — chair  
   > "&#91; 25 &#93; Other activities [ edit ] President of Assomineraria (from 2006 to 2014) President of Eni UK (from 2010 to 2014) Council on Foreign Relations (CFR), Member of the Global Board of Advisors (since 2015) &#91; 26 &#93; Board member of Fondazione Teatro alla Scala (since 2015) Member of the General Counsel and Advisory Board of Confindustria (since 2016) Member of the National Petroleum […]"
   > Source: [[sources/wikipedia-claudio-descalzi|Claudio Descalzi]] · grade A
-- [[people/jose-ignacio-sanchez-galan|José Ignacio Sánchez Galán]] — member of the inaugural group of the Leaders for Growth and Competitiveness in Europe initiative  
-  > "&#91; 5 &#93; In 2025, Galán was included in the inaugural group of the Leaders for Growth and Competitiveness in Europe initiative, promoted by the World Economic Forum."
-  > Source: [[sources/wikipedia-jos-ignacio-s-nchez-gal-n|Jos Ignacio S Nchez Gal N]] · grade C
 - [[people/kristalina-georgieva|Kristalina Georgieva]] — board_member  
   > "World Economic Forum (WEF), Member of the Board of Trustees (since 2020)"
   > Source: [[sources/wikipedia-kristalina-georgieva|Kristalina Georgieva]] · grade A

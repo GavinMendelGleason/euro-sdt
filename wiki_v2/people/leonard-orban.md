@@ -14,7 +14,7 @@ generated: 2026-10-21
 
 Commissioner · ROU
 
-*Verified assertions: 17*
+*Verified assertions: 16*
 
 ## Commission service
 
@@ -73,10 +73,6 @@ Commissioner · ROU
 - [[organisations/european-commission|European Commission]] — employed_by  
   > "From 1 January 2007, Orban became European Commissioner for Multilingualism for Romania in the Barroso commission."
   > Source: [[sources/wikipedia-leonard-orban|Leonard Orban]] · grade A
-
-- [[organisations/institute-of-research-for-machine-manufacturing-technology-bucharest|Institute of Research for Machine Manufacturing Technology Bucharest]] — employed_by  
-  > "București) and Institute of Research for Machine Manufacturing Technology Bucharest (1990–1993, Romanian: Institutul de Cercetare Tehnologia Construcţiilor de Maşini (I.C.T.C.M.)"
-  > Source: [[sources/wikipedia-leonard-orban|Leonard Orban]] · grade C
 
 - [[organisations/ministry-of-european-affairs|Ministry of European Affairs]] — employed_by  
   > "Between 2011 and 2012 he was the Romanian Minister of European Affairs in the second Boc, Ungureanu and first Ponta cabinets."

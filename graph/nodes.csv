@@ -1,11 +1,11 @@
 id,name,kind,category,country,status,degree
-barroso-i,Barroso I,commission,,,active,19
+barroso-i,Barroso I,commission,,,active,17
 barroso-ii,Barroso II,commission,,,active,25
 juncker-commission,Juncker Commission,commission,,,active,23
 prodi-commission,Prodi Commission,commission,,,active,11
 santer-commission,Santer Commission,commission,,,active,12
-vdl-i-commission,VdL I Commission,commission,,,active,12
-vdl-ii-commission,VdL II Commission,commission,,,active,5
+vdl-i-commission,VdL I Commission,commission,,,active,11
+vdl-ii-commission,VdL II Commission,commission,,,active,4
 22nd-secondary-school-in-vilnius,22Nd Secondary School In Vilnius,institution,university,,active,1
 a-a-zhdanov-state-university-in-leningrad,A. A. Zhdanov State University In Leningrad,institution,university,,active,1
 aarhus-university,Aarhus University,institution,university,,active,5
@@ -35,7 +35,7 @@ ceu-san-pablo-university-foundation,Ceu San Pablo University Foundation,institut
 charles-university,Charles University,institution,university,,active,2
 charles-university-in-prague,Charles University In Prague,institution,university,,active,3
 classical-lyceum-torquato-tasso,Classical Lyceum Torquato Tasso,institution,university,,active,1
-college-of-europe,College of Europe,institution,university,,active,14
+college-of-europe,College of Europe,institution,university,,active,13
 colaiste-muire-tourmakeady,"Coláiste Muire, Tourmakeady",institution,university,,active,1
 comenius-university,Comenius University,institution,university,,active,1
 complutense-university-of-madrid,Complutense University Of Madrid,institution,university,,active,3
@@ -93,7 +93,6 @@ liceo-torquato-tasso-in-rome,Liceo Torquato Tasso In Rome,institution,university
 london-institute-of-world-affairs,London Institute Of World Affairs,institution,university,,active,1
 london-school-of-economics,London School Of Economics,institution,university,,active,5
 louis-pasteur-university-in-strasbourg,Louis Pasteur University In Strasbourg,institution,university,,active,1
-ludwig-maximilians-universitat-munchen,Ludwig-Maximilians-Universität München,institution,university,,active,1
 luiss,Luiss,institution,university,,active,1
 lund-university,Lund University,institution,university,,active,1
 lyceum-secondary-school,Lyceum Secondary School,institution,university,,active,1
@@ -113,7 +112,6 @@ moscow-state-institute-of-international-relations,Moscow State Institute Of Inte
 munich,Munich,institution,university,,active,1
 naas-c-b-s,Naas C.B.S.,institution,university,,active,1
 nancy-university,Nancy University,institution,university,,active,2
-national-school-of-public-administration-warsaw-poland,"National School Of Public Administration, Warsaw, Poland",institution,university,,active,1
 national-technical-university-of-athens,National Technical University Of Athens,institution,university,,active,2
 new-york-university,New York University,institution,university,,active,2
 nordic-folk-high-school-in-geneva,Nordic Folk High School In Geneva,institution,university,,active,1
@@ -168,7 +166,6 @@ university-of-alcala-de-henares,University Of Alcalá De Henares,institution,uni
 university-of-birmingham,University Of Birmingham,institution,university,,active,1
 university-of-bucharest,University Of Bucharest,institution,university,,active,2
 university-of-california-berkeley,"University Of California, Berkeley",institution,university,,active,1
-university-of-copenhagen,University Of Copenhagen,institution,university,,active,1
 university-of-cadiz,University Of Cádiz,institution,university,,active,1
 university-of-deusto,University Of Deusto,institution,university,,active,2
 university-of-freiburg,University Of Freiburg,institution,university,,active,1
@@ -201,10 +198,10 @@ university-of-odz,University Of Łódź,institution,university,,active,1
 universita-cattolica,Università Cattolica,institution,university,,active,1
 universite-catholique-de-louvain,Université Catholique De Louvain,institution,university,,active,2
 universite-de-lausanne,Université De Lausanne,institution,university,,active,1
-universite-libre-de-bruxelles,Université Libre De Bruxelles,institution,university,,active,6
+universite-libre-de-bruxelles,Université Libre De Bruxelles,institution,university,,active,5
 upholland-grammar-school,Upholland Grammar School,institution,university,,active,1
 utrecht-university,Utrecht University,institution,university,,active,1
-victoria-university-of-manchester,Victoria University Of Manchester,institution,university,,active,2
+victoria-university-of-manchester,Victoria University Of Manchester,institution,university,,active,1
 vilnius-university,Vilnius University,institution,university,,active,4
 wigan-mining-and-technical-college,Wigan Mining And Technical College,institution,university,,active,1
 zagreb-faculty-of-humanities-and-social-sciences,Zagreb Faculty Of Humanities And Social Sciences,institution,university,,active,1
@@ -222,12 +219,11 @@ economics-academy-wroc-aw,economics-academy-wroc-aw,institution,institution,,act
 eindhoven,eindhoven,institution,institution,,active,1
 european-university-institute,european-university-institute,institution,institution,,active,1
 first-high-school-of-nicolaus-copernicus-in-d,first-high-school-of-nicolaus-copernicus-in-d,institution,institution,,active,1
-germany,germany,institution,institution,,active,4
+germany,germany,institution,institution,,active,3
 gonville-and-caius-college-cambridge,gonville-and-caius-college-cambridge,institution,institution,,active,1
 hamilton-high-school,hamilton-high-school,institution,institution,,active,1
 hawthorne-s-school,hawthorne-s-school,institution,institution,,active,1
 heidelberg,heidelberg,institution,institution,,active,1
-iese-business-school,iese-business-school,institution,institution,,active,1
 inalco,inalco,institution,institution,,active,1
 insead-business-school,insead-business-school,institution,institution,,active,1
 institut-d-etudes-politiques-de-paris-sciences-po,institut-d-etudes-politiques-de-paris-sciences-po,institution,institution,,active,1
@@ -242,7 +238,6 @@ lyc-e-henri-iv,lyc-e-henri-iv,institution,institution,,active,1
 marlborough-college,marlborough-college,institution,institution,,active,1
 max-planck-institute-for-biophysical-chemistry-in-g-ttingen,max-planck-institute-for-biophysical-chemistry-in-g-ttingen,institution,institution,,active,1
 montpellier,montpellier,institution,institution,,active,1
-munich-higher-technical-institute-now-munich-university-of-applied-sciences,munich-higher-technical-institute-now-munich-university-of-applied-sciences,institution,institution,,active,1
 national-and-kapodistrian-university-of-athen,national-and-kapodistrian-university-of-athen,institution,institution,,active,1
 not-specified-phd-program-started-but-not-completed,not-specified-phd-program-started-but-not-completed,institution,institution,,active,1
 panth-on-assas-university,panth-on-assas-university,institution,institution,,active,1
@@ -287,7 +282,6 @@ lisbon-strategy-group,'Lisbon Strategy' Group,organisation,organisation,,active,
 pro-patria-student-guard,'Pro Patria' student guard,organisation,organisation,,active,1
 beef-group-in-europe,'beef' group in Europe,organisation,organisation,,active,1
 1-1-ionos,1&1 Ionos,organisation,organisation,,active,1
-1922-committee,1922 Committee,organisation,,,active,1
 2011-fifa-women-s-world-cup,2011 FIFA Women's World Cup,organisation,,,active,1
 4e-tehnoinvest,4E Tehnoinvest,organisation,,,active,1
 6th-giulio-andreotti-government,6th Giulio Andreotti government,organisation,organisation,,active,1
@@ -296,7 +290,7 @@ abc-telekom-now-the-phone-house-telecom-gmbh,ABC Telekom (now The Phone House Te
 abn-amro,ABN AMRO,organisation,organisation,,active,1
 abp-pggm-capital-holdings-n-v,ABP-PGGM Capital Holdings N.V.,organisation,,,active,1
 abvv,ABVV,organisation,organisation,,active,1
-acp-eu-joint-parliamentary-assembly,ACP-EU Joint Parliamentary Assembly,organisation,organisation,,active,8
+acp-eu-joint-parliamentary-assembly,ACP-EU Joint Parliamentary Assembly,organisation,organisation,,active,7
 afet-committee-on-foreign-affairs-of-the-european-parliament,AFET – Committee on Foreign Affairs of the European Parliament,organisation,organisation,,active,1
 alde-party,ALDE Party,organisation,organisation,,active,1
 an-national-alliance-rome-section,AN (National Alliance) - Rome section,organisation,organisation,,active,1
@@ -325,7 +319,7 @@ africa-europe-foundation-aef-high-level-group-of-personalities-on-africa-europe-
 african-academy-of-sciences,African Academy of Sciences,organisation,,,active,1
 african-development-bank,African Development Bank,organisation,,,active,2
 african-unionunited-nations-peacekeeping-panel,African Union–United Nations peacekeeping panel,organisation,,,active,1
-aga-khan-university,Aga Khan University,organisation,,,active,2
+aga-khan-university,Aga Khan University,organisation,,,active,1
 agency-for-the-modernisation-of-ukraine-amu,Agency for the Modernisation of Ukraine (AMU),organisation,,,active,1
 agenda-europe,Agenda Europe,organisation,,,active,1
 agfa-gevaert,Agfa-Gevaert,organisation,,,active,1
@@ -354,7 +348,6 @@ alliance-of-liberals-and-democrats-for-europe-group,Alliance of Liberals and Dem
 alliance-of-liberals-and-democrats-for-europe-party,Alliance of Liberals and Democrats for Europe Party,organisation,organisation,,active,4
 allianz-deutschland-ag,Allianz Deutschland AG,organisation,organisation,,active,1
 alternates-economic-financial-committee,Alternates Economic Financial Committee,organisation,organisation,,active,1
-alternative-fur-deutschland-afd,Alternative für Deutschland (AfD),organisation,organisation,,active,1
 amato-group,Amato Group,organisation,,,active,4
 american-bar-association,American Bar Association,organisation,,,active,1
 american-bar-association-s-trade-committee,American Bar Association's Trade Committee,organisation,organisation,,active,1
@@ -379,7 +372,6 @@ asian-university-for-women-auw,Asian University for Women (AUW),organisation,,,a
 assembly-of-parliamentarians,Assembly of Parliamentarians,organisation,organisation,,active,1
 assicurazioni-generali,Assicurazioni Generali,organisation,organisation,,active,1
 assopacepalestina,AssoPacePalestina,organisation,organisation,,active,1
-association-for-peace,Association for Peace,organisation,organisation,,active,1
 association-of-former-deputies-to-the-parliament-of-catalonia,Association of Former Deputies to the Parliament of Catalonia,organisation,organisation,,active,1
 association-of-greek-regions,Association of Greek Regions,organisation,,,active,1
 association-of-the-hungarian-institute-for-political-science,Association of the Hungarian Institute for Political Science,organisation,,,active,1
@@ -423,7 +415,7 @@ bank-of-estonia,Bank of Estonia,organisation,,,active,1
 bank-of-finland,Bank of Finland,organisation,,,active,4
 bank-of-portugal,Bank of Portugal,organisation,,,active,2
 barcelona-city-council,Barcelona City Council,organisation,organisation,,active,1
-barroso-commission,Barroso Commission,organisation,,,active,4
+barroso-commission,Barroso Commission,organisation,,,active,3
 barroso-commissions,Barroso Commissions,organisation,,,active,1
 beethoven-foundation,Beethoven Foundation,organisation,,,active,2
 beka-finance,Beka Finance,organisation,,,active,1
@@ -465,7 +457,7 @@ broadcasting-services-watchdog-committee,Broadcasting Services Watchdog Committe
 broader-european-leadership-agenda-bela,Broader European Leadership Agenda (BELA),organisation,organisation,,active,1
 brookings-institution,Brookings Institution,organisation,organisation,,active,1
 brothers-of-italy,Brothers of Italy,organisation,,,active,1
-bruegel,Bruegel,organisation,,,active,3
+bruegel,Bruegel,organisation,,,active,2
 bruges-group,Bruges Group,organisation,organisation,,active,1
 brunswick-group,Brunswick Group,organisation,,,active,1
 budget-committee,Budget Committee,organisation,,,active,1
@@ -503,14 +495,14 @@ csu-executive-board,CSU executive board,organisation,organisation,,active,1
 csu-of-lower-bavaria,CSU of Lower Bavaria,organisation,organisation,,active,1
 csv-national-committee,CSV national committee,organisation,,,active,1
 ctt-correios-de-portugal-s-a,"CTT Correios de Portugal, S.A.",organisation,,,active,1
-cvc-capital-partners,CVC Capital Partners,organisation,Private equity,Luxembourg,active,2
+cvc-capital-partners,CVC Capital Partners,organisation,Private equity,Luxembourg,active,1
 cabinet,Cabinet,organisation,organisation,,active,2
 cabinet-lubbers-iii,Cabinet Lubbers III,organisation,,,active,1
 cabinet-of-the-eu-commissioner-for-financial-programming-and-budget-janusz-lewandowski,Cabinet of the EU Commissioner for Financial Programming and Budget Janusz Lewandowski,organisation,,,active,1
 cabinet-of-the-president-of-the-european-council-donald-tusk,"Cabinet of the President of the European Council, Donald Tusk",organisation,,,active,1
 cambridge-union-society,Cambridge Union Society,organisation,,,active,1
 cambridge-university-conservative-association,Cambridge University Conservative Association,organisation,,,active,1
-campaign-for-nuclear-disarmament-cnd,Campaign for Nuclear Disarmament (CND),organisation,,,active,5
+campaign-for-nuclear-disarmament-cnd,Campaign for Nuclear Disarmament (CND),organisation,,,active,3
 campaign-for-parliamentary-reform-cpr,Campaign for Parliamentary Reform (CPR),organisation,,,active,1
 canton-of-saint-brieuc-nord,Canton of Saint-Brieuc-Nord,organisation,organisation,,active,1
 capgemini,Capgemini,organisation,organisation,,active,1
@@ -544,7 +536,7 @@ chamber-i,Chamber I,organisation,,,active,1
 chamber-ii,Chamber II,organisation,,,active,1
 chamber-of-commerce-sweden-israel,Chamber of Commerce Sweden-Israel,organisation,,,active,1
 chamber-of-commerce-and-industry,Chamber of Commerce and Industry,organisation,,,active,2
-chamber-of-deputies,Chamber of Deputies,organisation,organisation,,active,8
+chamber-of-deputies,Chamber of Deputies,organisation,organisation,,active,7
 chamber-of-deputies-of-the-czech-republic,Chamber of Deputies of the Czech Republic,organisation,organisation,,active,1
 chamber-of-deputies-of-the-romanian-parliament,Chamber of Deputies of the Romanian Parliament,organisation,,,active,1
 chamber-of-representatives,Chamber of Representatives,organisation,organisation,,active,1
@@ -559,7 +551,7 @@ china-investment-corporation-cic,China Investment Corporation (CIC),organisation
 christelijke-middenstands-en-burgervrouwen-cmbv,Christelijke Middenstands- en Burgervrouwen (CMBV),organisation,,,active,1
 christen-democratisch-appel-cda,Christen-Democratisch Appèl (CDA),organisation,,,active,1
 christian-democracy,Christian Democracy,organisation,,,active,1
-christian-democratic-appeal,Christian Democratic Appeal,organisation,organisation,,active,3
+christian-democratic-appeal,Christian Democratic Appeal,organisation,organisation,,active,2
 christian-democratic-movement,Christian Democratic Movement,organisation,,,active,1
 christian-democratic-people-s-party,Christian Democratic People's Party,organisation,,,active,1
 christian-democratic-union,Christian Democratic Union,organisation,organisation,,active,4
@@ -588,7 +580,6 @@ civic-platform,Civic Platform,organisation,organisation,,active,2
 civil-affairs-committee,Civil Affairs Committee,organisation,,,active,1
 clementy-schuman-legacy-foundation,Clementy Schuman Legacy Foundation,organisation,,,active,1
 climate-kic,Climate-KIC,organisation,organisation,,active,1
-club-d-experts-de-valdai,Club d'experts de Valdaï,organisation,organisation,,active,1
 club-de-madrid,Club de Madrid,organisation,,,active,1
 club-de-l-horloge,Club de l'Horloge,organisation,organisation,,active,2
 club-of-friends-of-unesco-of-barcelona,Club of Friends of UNESCO of Barcelona,organisation,organisation,,active,1
@@ -700,7 +691,6 @@ court-of-audit,Court of Audit,organisation,organisation,,active,1
 courtois-lebel,Courtois Lebel,organisation,,,active,1
 coverdale-organisation,Coverdale Organisation,organisation,,,active,1
 covington-burling,Covington & Burling,organisation,,,active,1
-create-lithuania,Create Lithuania,organisation,,,active,1
 crimson-investment-management,Crimson Investment Management,organisation,,,active,1
 crisis-management-initiative-cmi,Crisis Management Initiative (CMI),organisation,,,active,1
 critica-sociale,Critica Sociale,organisation,organisation,,active,1
@@ -709,7 +699,6 @@ croatian-democratic-union-hdz,Croatian Democratic Union (HDZ),organisation,,,act
 croatian-epp-delegation,Croatian EPP delegation,organisation,,,active,2
 croatian-parliament,Croatian Parliament,organisation,,,active,1
 credit-agricole,Crédit Agricole,organisation,corporate,,active,1
-credit-lyonnais,Crédit Lyonnais,organisation,,,active,1
 cuatrecasas-goncalves-pereira-associados,"Cuatrecasas, Gonçalves Pereira & Associados",organisation,,,active,1
 cultural-affairs-committee,Cultural Affairs Committee,organisation,,,active,1
 cyprus-federation-of-business-and-professional-women,Cyprus Federation of Business and Professional Women,organisation,,,active,1
@@ -766,13 +755,13 @@ delegation-to-the-euukraine-parliamentary-cooperation-committee,Delegation to th
 delegation-to-the-euro-latin-american-parliamentary-assembly,Delegation to the Euro-Latin American Parliamentary Assembly,organisation,,,active,1
 delegation-to-the-euronest-parliamentary-assembly,Delegation to the Euronest Parliamentary Assembly,organisation,organisation,,active,2
 delegation-to-the-u-s,Delegation to the U.S.,organisation,organisation,,active,1
-deloitte-deutschland,Deloitte Deutschland,organisation,Professional services,"Frankfurt, Germany",active,2
+deloitte-deutschland,Deloitte Deutschland,organisation,Professional services,"Frankfurt, Germany",active,1
 delta-psychiatric-hospital,Delta Psychiatric Hospital,organisation,,,active,1
 democracy-support-and-election-coordination-group-deg,Democracy Support and Election Coordination Group (DEG),organisation,organisation,,active,1
 democratic-education-center,Democratic Education Center,organisation,organisation,,active,1
 democratic-left-alliance,Democratic Left Alliance,organisation,organisation,,active,5
 democratic-liberal-party,Democratic Liberal Party,organisation,organisation,,active,1
-democratic-party,Democratic Party,organisation,organisation,,active,13
+democratic-party,Democratic Party,organisation,organisation,,active,12
 democratic-party-in-cyprus,Democratic Party in Cyprus,organisation,,,active,1
 democratic-party-of-the-left-pds,Democratic Party of the Left (PDS),organisation,organisation,,active,1
 democratic-rally,Democratic Rally,organisation,,,active,1
@@ -817,16 +806,16 @@ eldr-council-and-congress,ELDR Council and Congress,organisation,organisation,,a
 eldr-alde-group-bureau,ELDR/ALDE Group Bureau,organisation,,,active,1
 enka,ENKA,organisation,,,active,1
 ep,EP,organisation,,,active,2
-epp,EPP,organisation,organisation,,active,5
+epp,EPP,organisation,organisation,,active,4
 epp-bureau,EPP Bureau,organisation,organisation,,active,1
 epp-council,EPP Council,organisation,organisation,,active,1
 epp-defence-ministers-meeting,EPP Defence Ministers Meeting,organisation,,,active,1
 epp-economic-and-financial-affairs-ministers-meeting,EPP Economic and Financial Affairs Ministers Meeting,organisation,,,active,1
 epp-energy-ministers-meeting,EPP Energy Ministers Meeting,organisation,organisation,,active,1
-epp-group,EPP Group,organisation,organisation,,active,5
+epp-group,EPP Group,organisation,organisation,,active,4
 epp-group-in-the-european-parliament,EPP Group in the European Parliament,organisation,organisation,,active,2
 epp-group-s-executive-committee,EPP Group's executive committee,organisation,organisation,,active,1
-epp-women,EPP Women,organisation,,,active,3
+epp-women,EPP Women,organisation,,,active,2
 epp-women-s-association,EPP Women's association,organisation,,,active,1
 epp-s-eu-parliament-group,EPP's EU parliament group,organisation,,,active,1
 epp-ed-group,EPP-ED Group,organisation,organisation,,active,2
@@ -860,7 +849,7 @@ eli-lilly-and-company,Eli Lilly and Company,organisation,,,active,2
 embassy-of-the-grand-duchy-of-luxembourg-in-brussels,Embassy of the Grand Duchy of Luxembourg in Brussels,organisation,,,active,1
 eminent-persons-group-on-the-european-economy,Eminent Persons Group on the European Economy,organisation,organisation,,active,1
 employers-forum-on-disability,Employers' Forum on Disability,organisation,,,active,1
-en-marche,En Marche!,organisation,,,active,2
+en-marche,En Marche!,organisation,,,active,1
 endesa,Endesa,organisation,organisation,,active,1
 enel,Enel,organisation,organisation,,active,2
 engie,Engie,organisation,organisation,,active,1
@@ -916,14 +905,13 @@ european-choice,European Choice,organisation,organisation,,active,1
 european-climate-foundation,European Climate Foundation,organisation,,,active,2
 european-cloud-partnership,European Cloud Partnership,organisation,,,active,1
 european-commercial-bank-limited-liability-company,European Commercial Bank Limited Liability Company,organisation,organisation,,active,1
-european-commission,European Commission,organisation,organisation,,active,84
+european-commission,European Commission,organisation,organisation,,active,79
 european-commission-representation-office-in-athens,European Commission Representation Office in Athens,organisation,,,active,1
 european-commission-s-directorate-general-for-communication,European Commission's Directorate-General for Communication,organisation,,,active,1
 european-commission-s-task-force-for-relations-with-the-united-kingdom,European Commission's Task Force for Relations with the United Kingdom,organisation,,,active,1
 european-commissioner,European Commissioner,organisation,,,active,2
-european-commissioner-for-economy,European Commissioner for Economy,organisation,,,active,1
 european-commissions-high-level-group-of-personalities-on-defence-research,European Commission’s High-level Group of Personalities on Defence Research,organisation,,,active,1
-european-committee-of-the-regions,European Committee of the Regions,organisation,,,active,4
+european-committee-of-the-regions,European Committee of the Regions,organisation,,,active,3
 european-community-trade-union-secretariat,European Community Trade Union Secretariat,organisation,organisation,,active,1
 european-conservatives-and-reformists,European Conservatives and Reformists,organisation,organisation,,active,6
 european-conservatives-and-reformists-group,European Conservatives and Reformists Group,organisation,organisation,,active,3
@@ -945,7 +933,6 @@ european-forum-alpbach,European Forum Alpbach,organisation,organisation,,active,
 european-forum-for-renewable-energy-sources,European Forum for Renewable Energy Sources,organisation,,,active,1
 european-friends-of-israel,European Friends of Israel,organisation,organisation,,active,2
 european-green-party,European Green Party,organisation,organisation,,active,3
-european-greens,European Greens,organisation,organisation,,active,1
 european-greenseuropean-free-alliance,European Greens–European Free Alliance,organisation,organisation,,active,1
 european-horizons,European Horizons,organisation,,,active,3
 european-humanities-university-ehu,European Humanities University (EHU),organisation,organisation,,active,1
@@ -966,7 +953,7 @@ european-movement-germany,European Movement Germany,organisation,,,active,2
 european-movement-international,European Movement International,organisation,organisation,,active,3
 european-movement-uk,European Movement UK,organisation,organisation,,active,1
 european-movement-in-sweden,European Movement in Sweden,organisation,,,active,1
-european-parliament,European Parliament,organisation,organisation,,active,53
+european-parliament,European Parliament,organisation,organisation,,active,52
 european-parliament-committee-of-inquiry-to-investigate-the-use-of-pegasus-and-equivalent-surveillance-spyware,European Parliament Committee of Inquiry to investigate the use of Pegasus and equivalent surveillance spyware,organisation,,,active,1
 european-parliament-committee-on-foreign-affairs,European Parliament Committee on Foreign Affairs,organisation,organisation,,active,2
 european-parliament-committee-on-industry-research-and-energy,"European Parliament Committee on Industry, Research and Energy",organisation,,,active,1
@@ -989,9 +976,9 @@ european-parliament-s-committee-on-the-internal-market-and-consumer-protection,E
 european-parliament-s-delegation-to-the-pan-african-parliament,European Parliament's delegation to the Pan-African Parliament,organisation,organisation,,active,1
 european-parliamentary-association,European Parliamentary Association,organisation,organisation,,active,1
 european-partnership-for-an-innovative-campus-unifying-regions-epicur,European Partnership for an Innovative Campus Unifying Regions (EPICUR),organisation,,,active,1
-european-peoples-party,European People's Party,organisation,organisation,,active,38
+european-peoples-party,European People's Party,organisation,organisation,,active,35
 european-people-s-party-european-democrats,European People's Party - European Democrats,organisation,organisation,,active,2
-european-people-s-party-group,European People's Party Group,organisation,organisation,,active,9
+european-people-s-party-group,European People's Party Group,organisation,organisation,,active,8
 european-people-s-party-health-ministers-meeting,European People's Party Health Ministers Meeting,organisation,,,active,1
 european-people-s-party-s-epp-belgian-delegation,European People's Party's (EPP) Belgian delegation,organisation,,,active,1
 european-policy-centre,European Policy Centre,organisation,Think tank,"Brussels, Belgium",active,5
@@ -1030,7 +1017,6 @@ federal-council,Federal Council,organisation,,,active,1
 federal-executive-committee-fdp,Federal Executive Committee (FDP),organisation,organisation,,active,1
 federation-of-german-industries-bdi,Federation of German Industries (BDI),organisation,organisation,,active,1
 federation-of-the-greens,Federation of the Greens,organisation,,,active,1
-fedisa-publishing-firm,Fedisa publishing firm,organisation,organisation,,active,1
 ferruzzi-corporation-of-america,Ferruzzi Corporation of America,organisation,organisation,,active,1
 fianna-fail,Fianna Fáil,organisation,organisation,,active,5
 fiat,Fiat,organisation,organisation,,active,1
@@ -1090,7 +1076,7 @@ franco-s-cortes,Franco's Cortes,organisation,organisation,,active,1
 frauen-union,Frauen Union,organisation,organisation,,active,1
 fraunhofer-society,Fraunhofer Society,organisation,organisation,,active,1
 free-democratic-party-fdp,Free Democratic Party (FDP),organisation,,,active,1
-free-democratic-party-of-germany,Free Democratic Party of Germany,organisation,organisation,,active,4
+free-democratic-party-of-germany,Free Democratic Party of Germany,organisation,organisation,,active,3
 free-list-party-fria-listan,Free List party (Fria Listan),organisation,organisation,,active,1
 free-teachers-college-in-ollerup,Free Teachers' College in Ollerup,organisation,organisation,,active,1
 freedom-movement,Freedom Movement,organisation,,,active,2
@@ -1098,7 +1084,7 @@ freedom-unity-and-solidarity-party-plus,"Freedom, Unity and Solidarity Party (PL
 french-academy-of-technologies,French Academy of Technologies,organisation,,,active,1
 french-association-of-private-enterprises-afep,French Association of Private Enterprises (AFEP),organisation,organisation,,active,1
 french-catholic-academy,French Catholic Academy,organisation,organisation,,active,1
-french-communist-party,French Communist Party,organisation,organisation,,active,2
+french-communist-party,French Communist Party,organisation,organisation,,active,1
 french-economic-and-social-council,French Economic and Social Council,organisation,organisation,,active,1
 french-institute-for-international-and-strategic-affairs-iris,French Institute for International and Strategic Affairs (IRIS),organisation,,,active,2
 french-ministry-of-foreign-affairs,French Ministry of Foreign Affairs,organisation,organisation,,active,1
@@ -1108,7 +1094,7 @@ french-parliament,French Parliament,organisation,organisation,,active,1
 french-socialist-party-ps,French Socialist Party (PS),organisation,organisation,,active,3
 friedrich-ebert-foundation-fes,Friedrich Ebert Foundation (FES),organisation,,,active,1
 friedrich-naumann-foundation,Friedrich Naumann Foundation,organisation,organisation,,active,1
-friends-of-europe,Friends of Europe,organisation,Think tank / forum,"Brussels, Belgium",active,17
+friends-of-europe,Friends of Europe,organisation,Think tank / forum,"Brussels, Belgium",active,16
 friends-of-the-dessau-worlitz-garden-realm,Friends of the Dessau-Wörlitz Garden Realm,organisation,,,active,1
 friends-of-the-eeas,Friends of the EEAS,organisation,organisation,,active,2
 friends-of-the-global-fund,Friends of the Global Fund,organisation,,,active,2
@@ -1171,12 +1157,10 @@ government-of-france,Government of France,organisation,organisation,,active,1
 government-of-giovanni-goria,Government of Giovanni Goria,organisation,organisation,,active,1
 government-of-italy-prodi-i,Government of Italy (Prodi I),organisation,organisation,,active,1
 government-of-lionel-jospin,Government of Lionel Jospin,organisation,organisation,,active,1
-government-of-poland,Government of Poland,organisation,organisation,,active,1
 government-of-spain,Government of Spain,organisation,organisation,,active,1
 government-of-the-czech-republic,Government of the Czech Republic,organisation,organisation,,active,1
 graduate-institute-of-international-and-development-studies-of-geneva,Graduate Institute of International and Development Studies of Geneva,organisation,,,active,1
 graduate-school-for-global-and-international-studies-university-of-salamanca,"Graduate School for Global and International Studies, University of Salamanca",organisation,,,active,1
-gran-enciclopedia-catalana,Gran Enciclopèdia Catalana,organisation,organisation,,active,1
 grand-committee-of-the-finnish-parliament,Grand Committee of the Finnish Parliament,organisation,organisation,,active,1
 grand-ducal-institute-of-luxembourg,Grand Ducal Institute of Luxembourg,organisation,,,active,1
 grayling,Grayling,organisation,organisation,,active,1
@@ -1184,12 +1168,10 @@ greek-ministry-of-foreign-affairs,Greek Ministry of Foreign Affairs,organisation
 greek-parliament,Greek Parliament,organisation,organisation,,active,1
 greek-social-democratic-party-pa-so-k,Greek Social Democratic Party PA.SO.K.,organisation,organisation,,active,1
 greek-writers-association,Greek Writers' Association,organisation,organisation,,active,1
-green-party-s-parliamentary-group,Green Party's parliamentary group,organisation,,,active,1
 green-party-s-parliamentary-group-in-the-bundestag,Green Party's parliamentary group in the Bundestag,organisation,,,active,1
 greenleft,GreenLeft,organisation,organisation,,active,1
 greenleft-party-platform-committee-chaired-by-bram-van-ojik,GreenLeft party platform committee (chaired by Bram van Ojik),organisation,organisation,,active,1
 greenseuropean-free-alliance-greens-efa,Greens–European Free Alliance (Greens/EFA),organisation,organisation,,active,2
-groenlinkspvda,GroenLinks–PvdA,organisation,,,active,1
 group-bureau,Group Bureau,organisation,organisation,,active,1
 group-of-european-prime-ministers,Group of European Prime Ministers,organisation,organisation,,active,1
 group-of-the-alliance-of-liberals-and-democrats-for-europe-alde,Group of the Alliance of Liberals and Democrats for Europe (ALDE),organisation,organisation,,active,1
@@ -1202,7 +1184,7 @@ grupo-tacito,Grupo Tácito,organisation,,,active,1
 groner-group,Gröner Group,organisation,,,active,1
 gulbenkian-prize-for-humanity,Gulbenkian Prize for Humanity,organisation,,,active,1
 generale-de-sante,Générale de Santé,organisation,organisation,,active,1
-ham-log-gruppe,HAM-LOG Gruppe,organisation,,,active,2
+ham-log-gruppe,HAM-LOG Gruppe,organisation,,,active,1
 hdz,HDZ,organisation,,,active,1
 hdz-dubrovnik-branch,HDZ Dubrovnik branch,organisation,,,active,1
 hm-ambassador-to-the-united-states,HM Ambassador to the United States,organisation,,,active,1
@@ -1278,7 +1260,6 @@ institut-de-france,Institut de France,organisation,,,active,1
 institut-de-la-finance-durable-ifd,Institut de la Finance Durable (IFD),organisation,organisation,,active,1
 institut-pour-la-recherche-du-developpement-ird,Institut pour la Recherche du Développement (IRD),organisation,,,active,1
 institute-for-advanced-studies-ihs,Institute for Advanced Studies (IHS),organisation,,,active,2
-institute-for-catalan-studies,Institute for Catalan Studies,organisation,organisation,,active,1
 institute-for-development-and-strategic-studies-warsaw,"Institute for Development and Strategic Studies, Warsaw",organisation,,,active,1
 institute-for-economic-research,Institute for Economic Research,organisation,,,active,1
 institute-for-european-politics-iep,Institute for European Politics (IEP),organisation,organisation,,active,1
@@ -1290,7 +1271,6 @@ institute-of-european-affairs,Institute of European Affairs,organisation,organis
 institute-of-international-finance-iif,Institute of International Finance (IIF),organisation,organisation,,active,1
 institute-of-international-relations-clingendael,Institute of International Relations Clingendael,organisation,,,active,1
 institute-of-macroeconomic-analysis-and-development,Institute of Macroeconomic Analysis and Development,organisation,,,active,1
-institute-of-research-for-machine-manufacturing-technology-bucharest,Institute of Research for Machine Manufacturing Technology Bucharest,organisation,,,active,1
 institution-of-chemical-engineers,Institution of Chemical Engineers,organisation,organisation,,active,1
 instituto-nacional-de-estatistica-ine,Instituto Nacional de Estatística (INE),organisation,,,active,1
 instituto-de-estudos-estrategicos-internacionais,Instituto de Estudos Estratégicos Internacionais,organisation,organisation,,active,1
@@ -1306,7 +1286,7 @@ international-commission-on-financing-global-education-opportunity,International
 international-committee-in-search-of-justice-isj,International Committee in Search of Justice (ISJ),organisation,organisation,,active,1
 international-comparative-jurisprudence-mykolo-romerio-universitetas,"International Comparative Jurisprudence, Mykolo Romerio universitetas",organisation,organisation,,active,1
 international-confederation-of-free-trade-unions,International Confederation of Free Trade Unions,organisation,organisation,,active,2
-international-crisis-group,International Crisis Group,organisation,,,active,4
+international-crisis-group,International Crisis Group,organisation,,,active,3
 international-development-association,International Development Association,organisation,,,active,1
 international-factor-10-club,International Factor 10 Club,organisation,organisation,,active,1
 international-falcon-movement-socialist-education-international,International Falcon Movement - Socialist Education International,organisation,organisation,,active,1
@@ -1317,7 +1297,7 @@ international-institute-for-democracy-and-electoral-assistance-idea,Internationa
 international-labour-organization,International Labour Organization,organisation,organisation,,active,2
 international-law-association-in-london,International Law Association in London,organisation,organisation,,active,1
 international-migration-initiative-open-society-foundations,International Migration Initiative (Open Society Foundations),organisation,,,active,1
-international-monetary-fund,International Monetary Fund,organisation,organisation,,active,6
+international-monetary-fund,International Monetary Fund,organisation,organisation,,active,5
 international-olympic-academy,International Olympic Academy,organisation,organisation,,active,1
 international-olympic-committee,International Olympic Committee,organisation,organisation,,active,3
 international-organisation-for-migration-iom,International Organisation for Migration (IOM),organisation,,,active,1
@@ -1340,12 +1320,11 @@ italian-aspen-institute,Italian Aspen Institute,organisation,,,active,1
 italian-chamber-of-deputies,Italian Chamber of Deputies,organisation,organisation,,active,1
 italian-communist-party-pci,Italian Communist Party (PCI),organisation,organisation,,active,1
 italian-communist-youth-federation-fgci,Italian Communist Youth Federation (FGCI),organisation,,,active,1
-italian-democratic-party-pd,Italian Democratic Party (PD),organisation,,,active,1
 italian-monarchist-union-umi,Italian Monarchist Union (UMI),organisation,organisation,,active,1
 italian-parliament,Italian Parliament,organisation,organisation,,active,1
 italian-people-s-party,Italian People's Party,organisation,,,active,1
 italian-radicals,Italian Radicals,organisation,,,active,1
-italian-senate,Italian Senate,organisation,organisation,,active,2
+italian-senate,Italian Senate,organisation,organisation,,active,1
 italian-social-movement,Italian Social Movement,organisation,organisation,,active,1
 italian-socialist-party,Italian Socialist Party,organisation,organisation,,active,2
 italian-delegation-to-the-parliamentary-assembly-for-nato,Italian delegation to the Parliamentary Assembly for NATO,organisation,,,active,1
@@ -1361,7 +1340,7 @@ jacques-delors-institute,Jacques Delors Institute,organisation,,,active,3
 jan-karski-foundation,Jan Karski Foundation,organisation,,,active,1
 jean-monnet-foundation-for-europe,Jean Monnet Foundation for Europe,organisation,organisation,,active,2
 jeep,Jeep,organisation,organisation,,active,1
-jeunes-avec-macron,Jeunes avec Macron,organisation,,,active,2
+jeunes-avec-macron,Jeunes avec Macron,organisation,,,active,1
 joint-committee-on-marriage-breakdown,Joint Committee on Marriage Breakdown,organisation,,,active,1
 joint-committee-on-women-s-rights,Joint Committee on Women's Rights,organisation,,,active,1
 joint-european-disruptive-initiative,Joint European Disruptive Initiative,organisation,,,active,1
@@ -1380,7 +1359,7 @@ karl-marx-university-of-economic-sciences-present-day-corvinus-university-of-bud
 karlspreis,Karlspreis,organisation,,,active,1
 katholieke-universiteit-leuven,Katholieke Universiteit Leuven,organisation,organisation,,active,2
 katholieke-volkspartij-kvp,Katholieke Volkspartij (KVP),organisation,,,active,1
-kekst-cnc,Kekst CNC,organisation,PR / communications,Berlin/global,active,2
+kekst-cnc,Kekst CNC,organisation,PR / communications,Berlin/global,active,1
 keskisuomalainen,Keskisuomalainen,organisation,,,active,1
 kleinwort-benson,Kleinwort Benson,organisation,organisation,,active,1
 klockner-co,Klöckner & Co,organisation,organisation,,active,1
@@ -1395,7 +1374,6 @@ l-oreal-mexico,L'Oréal Mexico,organisation,organisation,,active,1
 l-oreal-paris,L'Oréal Paris,organisation,organisation,,active,1
 lgbtiq-consultative-council,LGBTIQ Consultative Council,organisation,,,active,1
 lhv-seesam-varahaldus,LHV-Seesam Varahaldus,organisation,,,active,1
-lsdp-social-democratic-party-of-lithuania,LSDP (Social Democratic Party of Lithuania),organisation,,,active,1
 la-nuova-ecologia,La Nuova Ecologia,organisation,,,active,1
 la-poste,La Poste,organisation,,,active,1
 la-puglia-prima-di-tutto,La Puglia Prima di Tutto,organisation,,,active,2
@@ -1411,7 +1389,7 @@ lambeth-council,Lambeth Council,organisation,,,active,1
 landtag-of-bavaria,Landtag of Bavaria,organisation,organisation,,active,1
 latvian-diplomatic-service,Latvian Diplomatic service,organisation,,,active,1
 law-reform-commission,Law Reform Commission,organisation,organisation,,active,1
-law-and-justice,Law and Justice,organisation,organisation,,active,7
+law-and-justice,Law and Justice,organisation,organisation,,active,6
 lazard,Lazard,organisation,,,active,1
 le-siecle,Le Siècle,organisation,,,active,1
 lead-group-of-the-scaling-up-nutrition-movement,Lead Group of the Scaling Up Nutrition Movement,organisation,,,active,1
@@ -1441,7 +1419,6 @@ libyan-arab-maltese-holding-company,Libyan Arab Maltese Holding Company,organisa
 lietuvos-pastas,Lietuvos paštas,organisation,,,active,1
 lindau-nobel-laureate-meetings,Lindau Nobel Laureate Meetings,organisation,,,active,1
 lisbon-municipal-assembly,Lisbon municipal assembly,organisation,organisation,,active,1
-lithuania-tribune,Lithuania Tribune,organisation,,,active,1
 lithuanian-cardiologists-association,Lithuanian Cardiologists' Association,organisation,,,active,1
 lithuanian-forum-for-the-future,Lithuanian Forum for the Future,organisation,,,active,1
 lithuanian-mission-to-the-eu,Lithuanian Mission to the EU,organisation,,,active,1
@@ -1454,7 +1431,6 @@ livonia-privatisation-if,Livonia Privatisation IF,organisation,,,active,2
 local-council-of-ixelles-ecolo-party,Local Council of Ixelles (Ecolo party),organisation,organisation,,active,1
 london-stock-exchange,London Stock Exchange,organisation,organisation,,active,1
 london-weekend-television,London Weekend Television,organisation,,,active,1
-louis-brun-network,Louis Brun network,organisation,organisation,,active,1
 luaka-bop,Luaka Bop,organisation,,,active,1
 lucent-technologies,Lucent Technologies,organisation,,,active,1
 luiga-mody-haal-borenius,Luiga Mody Hääl Borenius,organisation,,,active,1
@@ -1483,7 +1459,7 @@ madrilenian-socialist-federation,Madrilenian Socialist Federation,organisation,o
 main-school-of-planning-and-statistics-now-warsaw-school-of-economics,Main School of Planning and Statistics (now Warsaw School of Economics),organisation,organisation,,active,2
 maltese-central-bank,Maltese Central Bank,organisation,,,active,1
 maltese-labour-party,Maltese Labour Party,organisation,,,active,1
-maltese-turkish-business-council,Maltese Turkish Business Council,organisation,,,active,2
+maltese-turkish-business-council,Maltese Turkish Business Council,organisation,,,active,1
 management-institute-warsaw,Management Institute Warsaw,organisation,,,active,1
 maritime-university-of-szczecin-akademia-morska-w-szczecinie,Maritime University of Szczecin (Akademia Morska w Szczecinie),organisation,organisation,,active,1
 mary-robinson-foundation-climate-justice-mrfcj,Mary Robinson Foundation – Climate Justice (MRFCJ),organisation,,,active,1
@@ -1526,7 +1502,6 @@ ministry-of-foreign-affairs-of-latvia,Ministry of Foreign Affairs of Latvia,orga
 ministry-of-industry-and-trade,Ministry of Industry and Trade,organisation,organisation,,active,1
 ministry-of-industry-trade-and-tourism,"Ministry of Industry, Trade and Tourism",organisation,organisation,,active,1
 ministry-of-international-economic-relations-of-the-republic-of-lithuania,Ministry of International Economic Relations of the Republic of Lithuania,organisation,,,active,1
-ministry-of-justice-spain,Ministry of Justice (Spain),organisation,organisation,,active,1
 ministry-of-regional-development,Ministry of Regional Development,organisation,,,active,1
 ministry-of-trade,Ministry of Trade,organisation,organisation,,active,1
 ministry-of-transportation-and-maritime-economy-poland,Ministry of Transportation and Maritime Economy (Poland),organisation,organisation,,active,1
@@ -1537,12 +1512,10 @@ moderate-party,Moderate Party,organisation,organisation,,active,2
 monetary-authority-of-singapore-mas,Monetary Authority of Singapore (MAS),organisation,organisation,,active,2
 montgelas-prize,Montgelas Prize,organisation,,,active,1
 moody-s,Moody's,organisation,,,active,1
-more-europe,More Europe,organisation,,,active,1
 morgan-stanley-europe,Morgan Stanley Europe,organisation,,,active,1
 morgan-stanley-international,Morgan Stanley International,organisation,organisation,,active,1
 mors-free-church-in-ster-jlby,Morsø Free Church in Øster Jølby,organisation,organisation,,active,1
 movement-for-anti-fascist-national-unity,Movement for Anti-Fascist National Unity,organisation,organisation,,active,1
-movement-for-democratic-unity,Movement for Democratic Unity,organisation,organisation,,active,1
 movement-for-political-modernisation-and-reform,Movement for Political Modernisation and Reform,organisation,,,active,1
 movement-for-political-modernization-and-reform,Movement for Political Modernization and Reform,organisation,,,active,1
 movement-of-democratic-unity,Movement of Democratic Unity,organisation,organisation,,active,1
@@ -1562,7 +1535,6 @@ merite-agricole,Mérite Agricole,organisation,organisation,,active,1
 nato,NATO,organisation,,,active,1
 nbnk-investments,NBNK Investments,organisation,,,active,1
 ngo-institute-of-recent-studies,NGO Institute of Recent Studies,organisation,,,active,1
-nib,NIB,organisation,,,active,1
 ntv-s-p-a,NTV S.p.A.,organisation,organisation,,active,1
 national-advisory-board-on-romani-affairs,National Advisory Board on Romani Affairs,organisation,organisation,,active,1
 national-agency-for-public-procurement-anap,National Agency for Public Procurement (ANAP),organisation,,,active,2
@@ -1602,7 +1574,7 @@ nessuno-tocchi-caino-let-none-strike-cain,Nessuno Tocchi Caino (Let None Strike 
 nestle,Nestlé,organisation,corporate,,active,2
 netherlands-institute-of-international-relations-clingendael,Netherlands Institute of International Relations (Clingendael),organisation,,,active,1
 netherlands-national-institute-for-public-health-and-the-environment,Netherlands National Institute for Public Health and the Environment,organisation,organisation,,active,1
-new-democracy,New Democracy,organisation,organisation,,active,9
+new-democracy,New Democracy,organisation,organisation,,active,8
 new-democracy-party-nd,New Democracy Party (ND),organisation,,,active,2
 new-democracy-parliamentary-group,New Democracy parliamentary group,organisation,organisation,,active,1
 new-era-party,New Era Party,organisation,,,active,2
@@ -1613,7 +1585,6 @@ nijmegen-university-council,Nijmegen University Council,organisation,organisatio
 nizami-ganjavi-international-center,Nizami Ganjavi International Center,organisation,,,active,1
 no-peace-without-justice,No Peace Without Justice,organisation,,,active,1
 nokia,Nokia,organisation,corporate,,active,2
-nokia-mobile-phones,Nokia Mobile Phones,organisation,organisation,,active,1
 nordex,Nordex,organisation,,,active,1
 nordic-centre-youth,Nordic Centre Youth,organisation,organisation,,active,2
 nordic-council,Nordic Council,organisation,organisation,,active,2
@@ -1640,12 +1611,11 @@ osce-pa-election-observation-missions,OSCE PA Election Observation Missions,orga
 osce-parliamentary-assembly,OSCE Parliamentary Assembly,organisation,,,active,1
 osce-permanent-council,OSCE Permanent Council,organisation,,,active,1
 osce-s-office-for-democratic-institutions-and-human-rights,OSCE's Office for Democratic Institutions and Human Rights,organisation,,,active,1
-osce-s-parliamentary-assembly,OSCE's Parliamentary Assembly,organisation,,,active,2
+osce-s-parliamentary-assembly,OSCE's Parliamentary Assembly,organisation,,,active,1
 oettinger-consulting,Oettinger Consulting,organisation,,,active,1
 office-for-democratic-institutions-and-human-rights,Office for Democratic Institutions and Human Rights,organisation,,,active,2
 office-of-the-chamber-of-deputies,Office of the Chamber of Deputies,organisation,,,active,1
 office-of-the-committee-for-european-integration-ukie,Office of the Committee for European Integration (UKIE),organisation,,,active,2
-office-of-the-prime-minister-of-the-republic-of-lithuania,Office of the Prime Minister of the Republic of Lithuania,organisation,,,active,1
 oireachtas-golf-society,Oireachtas Golf Society,organisation,,,active,1
 olive-tree,Olive Tree,organisation,organisation,,active,2
 one-voice-for-languages,One Voice For Languages,organisation,organisation,,active,1
@@ -1658,9 +1628,9 @@ orange,Orange,organisation,corporate,,active,2
 ordre-national-du-merite,Ordre National du Mérite,organisation,organisation,,active,1
 organisation-for-economic-co-operation-and-development-oecd,Organisation for Economic Co-operation and Development (OECD),organisation,organisation,,active,1
 organisation-for-economic-co-operation-and-development-oecd-round-table-on-sustainable-development-rtsd,"Organisation for Economic Co-operation and Development (OECD), Round Table on Sustainable Development (RTSD)",organisation,,,active,1
-organization-for-security-and-co-operation-in-europe-osce,Organization for Security and Co-operation in Europe (OSCE),organisation,organisation,,active,4
+organization-for-security-and-co-operation-in-europe-osce,Organization for Security and Co-operation in Europe (OSCE),organisation,organisation,,active,2
 organization-for-security-and-cooperation-in-europe-osce,Organization for Security and Cooperation in Europe (OSCE),organisation,organisation,,active,1
-oud-heverlee,Oud-Heverlee,organisation,,,active,2
+oud-heverlee,Oud-Heverlee,organisation,,,active,1
 oulu-city-council,Oulu City Council,organisation,organisation,,active,1
 outokumpu,Outokumpu,organisation,,,active,1
 pace-committee-on-social-affairs-health-and-regional-development,"PACE Committee on Social Affairs, Health, and Regional Development",organisation,,,active,1
@@ -1670,7 +1640,7 @@ pasok-meps,PASOK MEP’s,organisation,,,active,1
 pasok-movement-for-change,PASOK – Movement for Change,organisation,organisation,,active,1
 pcs-luxembourg-centre-section,PCS (Luxembourg-Centre section),organisation,organisation,,active,1
 pds-party-of-democratic-socialism,PDS (Party of Democratic Socialism),organisation,organisation,,active,1
-pes,PES,organisation,organisation,,active,2
+pes,PES,organisation,organisation,,active,1
 pp-partido-popular,PP (Partido Popular),organisation,organisation,,active,1
 ppd-democratic-popular-party-later-ppd-psd-social-democratic-party,"PPD (Democratic Popular Party, later PPD/PSD- Social Democratic Party )",organisation,,,active,1
 ppe-de-group,PPE-DE group,organisation,organisation,,active,1
@@ -1680,7 +1650,7 @@ psc-partit-dels-socialistes-de-catalunya,PSC (Partit dels Socialistes de Catalun
 psd,PSD,organisation,,,active,2
 psd-parliamentary-group-in-the-chamber-of-deputies,PSD parliamentary group in the Chamber of Deputies,organisation,organisation,,active,1
 psl,PSL,organisation,,,active,2
-psoe,PSOE,organisation,,,active,3
+psoe,PSOE,organisation,,,active,2
 pakri-tuulepark,Pakri Tuulepark,organisation,,,active,1
 paldiski-tuulepark,Paldiski Tuulepark,organisation,,,active,1
 pan-european-commission-on-health-and-sustainable-development,Pan-European Commission on Health and Sustainable Development,organisation,,,active,1
@@ -1692,7 +1662,7 @@ paris-school-of-international-affairs-psia,Paris School of International Affairs
 parliament,Parliament,organisation,organisation,,active,2
 parliament-of-andalusia,Parliament of Andalusia,organisation,organisation,,active,1
 parliament-of-catalonia,Parliament of Catalonia,organisation,organisation,,active,1
-parliament-of-finland,Parliament of Finland,organisation,organisation,,active,4
+parliament-of-finland,Parliament of Finland,organisation,organisation,,active,3
 parliament-of-sweden,Parliament of Sweden,organisation,organisation,,active,1
 parliament-of-the-balearic-islands,Parliament of the Balearic Islands,organisation,organisation,,active,1
 parliament-of-the-polish-republic,Parliament of the Polish Republic,organisation,,,active,1
@@ -1715,9 +1685,8 @@ parliamentary-delegation-to-the-korean-peninsula,Parliamentary delegation to the
 parti-socialiste,Parti Socialiste,organisation,,,active,1
 partido-popular,Partido Popular,organisation,,,active,1
 partnership-council,Partnership Council,organisation,,,active,1
-party-of-european-socialists,Party of European Socialists,organisation,organisation,,active,15
+party-of-european-socialists,Party of European Socialists,organisation,organisation,,active,14
 party-of-european-socialists-finance-ministers-network,Party of European Socialists Finance Ministers Network,organisation,organisation,,active,1
-party-of-labour-of-spain,Party of Labour of Spain,organisation,organisation,,active,1
 passage-west-town-council,Passage West Town Council,organisation,,,active,1
 pays-de-montbeliard-agglomeration-pma-greater-montbeliard-authority,Pays de Montbéliard Agglomération (PMA – Greater Montbéliard Authority),organisation,organisation,,active,1
 pechiney,Pechiney,organisation,organisation,,active,1
@@ -1725,9 +1694,8 @@ pentecostal-church,Pentecostal Church,organisation,organisation,,active,1
 people-of-freedom-in-the-european-parliament,People of Freedom in the European Parliament,organisation,organisation,,active,1
 people-s-alliance,People's Alliance,organisation,,,active,1
 people-s-bank-of-tartu,People's Bank of Tartu,organisation,,,active,1
-people-s-mojahedin-of-iran,People's Mojahedin of Iran,organisation,organisation,,active,1
 people-s-movement-party,People's Movement Party,organisation,organisation,,active,1
-people-s-party,People's Party,organisation,organisation,,active,5
+people-s-party,People's Party,organisation,organisation,,active,4
 people-s-party-for-freedom-and-democracy,People's Party for Freedom and Democracy,organisation,organisation,,active,2
 people-s-party-of-andalusia,People's Party of Andalusia,organisation,organisation,,active,1
 people-s-vote,People's Vote,organisation,organisation,,active,1
@@ -1804,7 +1772,6 @@ rtbf,RTBF,organisation,,,active,1
 rtv,RTV,organisation,,,active,1
 rte,RTÉ,organisation,organisation,,active,2
 radical-party,Radical Party,organisation,,,active,1
-radicalisation-awareness-network-r-a-n,Radicalisation Awareness Network (R.A.N.),organisation,,,active,1
 radio-david-byrne,Radio David Byrne,organisation,,,active,1
 radio-netherlands,Radio Netherlands,organisation,,,active,1
 radio-netherlands-worldwide,Radio Netherlands Worldwide,organisation,,,active,1
@@ -1896,7 +1863,6 @@ science-and-technology-options-assessment-panel,Science and Technology Options A
 scientific-council-of-the-central-mining-institute-katowice,"Scientific Council of the Central Mining Institute, Katowice",organisation,,,active,1
 scientific-council-of-the-state-veterinary-institute-in-puawy,Scientific Council of the State Veterinary Institute in Puławy,organisation,,,active,1
 scope-foundation,Scope Foundation,organisation,organisation,,active,1
-seanad-eireann-irish-senate,Seanad Éireann (Irish Senate),organisation,organisation,,active,1
 second-barroso-commission,Second Barroso Commission,organisation,,,active,1
 second-chamber,Second Chamber,organisation,organisation,,active,1
 second-commission-on-the-modernization-of-the-federal-state-foderalismuskommission-ii,Second Commission on the modernization of the federal state (Föderalismuskommission II),organisation,,,active,1
@@ -1935,11 +1901,10 @@ social-democratic-party-of-finland,Social Democratic Party of Finland,organisati
 social-democratic-party-of-germany,Social Democratic Party of Germany,organisation,organisation,,active,2
 social-democrats,Social Democrats,organisation,organisation,,active,4
 social-liberal-party,Social Liberal Party,organisation,organisation,,active,1
-social-liberals,Social Liberals,organisation,,,active,1
 socialist-group,Socialist Group,organisation,organisation,,active,4
 socialist-group-of-the-european-parliament,Socialist Group of the European Parliament,organisation,,,active,1
-socialist-international,Socialist International,organisation,organisation,,active,3
-socialist-international-women,Socialist International Women,organisation,,,active,3
+socialist-international,Socialist International,organisation,organisation,,active,2
+socialist-international-women,Socialist International Women,organisation,,,active,2
 socialist-party,Socialist Party,organisation,organisation,,active,9
 socialist-youth,Socialist Youth,organisation,organisation,,active,1
 socialist-youth-union,Socialist Youth Union,organisation,organisation,,active,1
@@ -1969,7 +1934,7 @@ spanish-royal-academy-of-jurisprudence-and-legislation-rajl,Spanish Royal Academ
 spanish-royal-academy-of-moral-and-political-sciences-racmp,Spanish Royal Academy of Moral and Political Sciences (RACMP),organisation,,,active,1
 spanish-royal-institute-of-european-studies,Spanish Royal Institute of European Studies,organisation,organisation,,active,1
 spanish-senate,Spanish Senate,organisation,organisation,,active,2
-spanish-socialist-workers-party,Spanish Socialist Workers' Party,organisation,organisation,,active,7
+spanish-socialist-workers-party,Spanish Socialist Workers' Party,organisation,organisation,,active,6
 spanish-tax-agency,Spanish Tax Agency,organisation,,,active,1
 special-committee-for-the-reform-treaty-of-the-european-union,Special Committee for the Reform Treaty of the European Union,organisation,,,active,1
 special-committee-on-agriculture-sca-of-the-council,Special Committee on Agriculture (SCA) of the Council,organisation,organisation,,active,1
@@ -1987,7 +1952,6 @@ standard-chartered-bank,Standard Chartered Bank,organisation,,,active,1
 standing-committee-on-financial-affairs,Standing Committee on Financial Affairs,organisation,,,active,1
 standing-committee-on-national-defense-and-foreign-affairs,Standing Committee on National Defense and Foreign Affairs,organisation,,,active,1
 standing-senate-commission-on-the-constitution-of-the-czech-republic,Standing Senate Commission on the Constitution of the Czech Republic,organisation,organisation,,active,1
-startupdelta,StartupDelta,organisation,,,active,1
 state-labor-savings-banks-system,State Labor Savings Banks System,organisation,,,active,1
 state-lawyers-corps,State Lawyers Corps,organisation,,,active,1
 steering-committee-on-cities-diplomacy,Steering Committee on Cities´ Diplomacy,organisation,,,active,1
@@ -2120,7 +2084,7 @@ uk-independence-party-ukip,UK Independence Party (UKIP),organisation,organisatio
 uk-monitoring-group-of-inta,UK Monitoring Group of INTA,organisation,organisation,,active,1
 ukie,UKIE,organisation,,,active,1
 ump,UMP,organisation,organisation,,active,2
-un,UN,organisation,,,active,2
+un,UN,organisation,,,active,1
 un-alliance-of-civilisations-chair-at-euro-mediterranean-university-of-morocco-uemf,UN Alliance of Civilisations Chair at Euro-Mediterranean University of Morocco (UEMF),organisation,organisation,,active,1
 unaidslancet-commission-on-defeating-aids,UNAIDS–Lancet Commission on Defeating AIDS,organisation,,,active,1
 undp,UNDP,organisation,organisation,,active,1
@@ -2195,7 +2159,7 @@ vodafone,Vodafone,organisation,corporate,,active,2
 vodafone-malta-foundation,Vodafone Malta Foundation,organisation,,,active,1
 voice-of-america,Voice of America,organisation,organisation,,active,1
 volkskammer-of-the-german-democratic-republic,Volkskammer of the German Democratic Republic,organisation,organisation,,active,1
-volkswagen,Volkswagen,organisation,organisation,,active,2
+volkswagen,Volkswagen,organisation,organisation,,active,1
 von-der-leyen-commission,Von der Leyen Commission,organisation,,,active,1
 von-der-leyen-commission-i,Von der Leyen Commission I,organisation,,,active,1
 vox,Vox,organisation,organisation,,active,2
@@ -2203,7 +2167,6 @@ vysocina-region,Vysocina Region,organisation,,,active,1
 varmland-regional-council,Värmland Regional Council,organisation,organisation,,active,1
 vasterbottens-folkblad,Västerbottens Folkblad,organisation,,,active,1
 vastra-gotaland-regional-council,Västra Götaland Regional Council,organisation,,,active,1
-weu-assembly,WEU Assembly,organisation,organisation,,active,1
 who,WHO,organisation,,,active,1
 walloon-rally,Walloon Rally,organisation,organisation,,active,1
 walloon-region,Walloon Region,organisation,,,active,1
@@ -2212,7 +2175,6 @@ warburg-pincus-international-llc,Warburg Pincus International LLC,organisation,o
 warsaw-school-of-economics-szkoa-gowna-handlowa-w-warszawie-sgh,Warsaw School of Economics (Szkoła Główna Handlowa w Warszawie - SGH),organisation,organisation,,active,1
 warsaw-university-of-humanities,Warsaw University of Humanities,organisation,organisation,,active,1
 weekendavisen,Weekendavisen,organisation,organisation,,active,1
-wehrmacht,Wehrmacht,organisation,organisation,,active,1
 weienburg-gunzenhausen-district-council,Weißenburg-Gunzenhausen district council,organisation,organisation,,active,1
 where-next-for-brexit,Where Next for Brexit?,organisation,organisation,,active,1
 wigert-placht,Wigert & Placht,organisation,,,active,1
@@ -2236,9 +2198,9 @@ working-group-on-apiculture-and-bee-health,Working Group on Apiculture and Bee H
 working-group-on-information-and-communication-policy,Working Group on Information and Communication Policy,organisation,organisation,,active,2
 working-group-on-the-conference-on-the-future-of-europe,Working Group on the Conference on the Future of Europe,organisation,organisation,,active,1
 world-academy-of-art-and-science,World Academy of Art and Science,organisation,organisation,,active,1
-world-bank,World Bank,organisation,organisation,,active,9
+world-bank,World Bank,organisation,organisation,,active,8
 world-bank-group,World Bank Group,organisation,,,active,2
-world-economic-forum,World Economic Forum,organisation,Multi-stakeholder forum,"Geneva, Switzerland",active,12
+world-economic-forum,World Economic Forum,organisation,Multi-stakeholder forum,"Geneva, Switzerland",active,11
 world-economic-forum-high-level-group-on-humanitarian-investing,World Economic Forum High-Level Group on Humanitarian Investing,organisation,,,active,1
 world-economic-forum-on-the-middle-east-and-north-africa,World Economic Forum on the Middle East and North Africa,organisation,,,active,1
 world-federation-of-united-nations-associations,World Federation of United Nations Associations,organisation,,,active,1
@@ -2250,7 +2212,7 @@ world-institute-of-global-and-cities-diplomacy,World Institute of Global and Cit
 world-justice-project,World Justice Project,organisation,,,active,1
 world-olympians-association,World Olympians Association,organisation,organisation,,active,1
 world-resources-forum,World Resources Forum,organisation,organisation,,active,1
-world-trade-organization-wto,World Trade Organization (WTO),organisation,,,active,2
+world-trade-organization-wto,World Trade Organization (WTO),organisation,,,active,1
 world-union-of-olympic-cities,World Union of Olympic Cities,organisation,,,active,2
 worldline-sa,Worldline SA,organisation,,,active,1
 worldview-global-media,Worldview Global Media,organisation,,,active,1
@@ -2270,9 +2232,9 @@ youth-front,Youth Front,organisation,organisation,,active,1
 youth-intergroup,Youth Intergroup,organisation,,,active,1
 youth-league-of-developing-finland,Youth League of Developing Finland,organisation,organisation,,active,1
 youth-left,Youth Left,organisation,,,active,1
-youth-organisation-of-the-austrian-people-s-party-jvp,Youth Organisation of the Austrian People's Party (JVP),organisation,,,active,2
+youth-organisation-of-the-austrian-people-s-party-jvp,Youth Organisation of the Austrian People's Party (JVP),organisation,,,active,1
 youth-organization-of-the-democratic-party,Youth Organization of the Democratic Party,organisation,,,active,1
-youth-of-the-european-people-s-party,Youth of the European People's Party,organisation,organisation,,active,3
+youth-of-the-european-people-s-party,Youth of the European People's Party,organisation,organisation,,active,2
 zdf-television-council,ZDF Television Council,organisation,organisation,,active,1
 zeri-foundation,ZERI Foundation,organisation,organisation,,active,1
 zabbar-st-patrick-fc,Zabbar St Patrick FC,organisation,,,active,2
@@ -2331,12 +2293,11 @@ ovp-s-youth-wing,ÖVP's youth wing,organisation,,,active,1
 osterreichische-industrieholding-oiag,Österreichische Industrieholding (ÖIAG),organisation,organisation,,active,1
 udaras-na-hollscoile,Údarás na hOllscoile,organisation,,,active,1
 adam-bielan,Adam Bielan,person,mep,,active,12
-adina-ioana-valean,Adina-Ioana Vălean,person,commissioner,ROU,active,13
+adina-ioana-valean,Adina-Ioana Vălean,person,commissioner,ROU,active,11
 agnieszka-kazmierczak,Agnieszka KAŹMIERCZAK,person,dg,,active,1
 alain-cadec,Alain Cadec,person,mep,,active,4
-alejo-vidal-quadras,Alejo Vidal-Quadras,person,mep,,active,8
+alejo-vidal-quadras,Alejo Vidal-Quadras,person,mep,,active,6
 alexander-graf-lambsdorff,Alexander Graf Lambsdorff,person,mep,,active,14
-alexander-jungbluth,Alexander Jungbluth,person,mep,,active,1
 alexander-wynaendts,Alexander Wynaendts,person,corporate_elite,,active,12
 alexandra-jour-schroeder,Alexandra Jour-Schroeder,person,dg,,active,1
 algirdas-semeta,Algirdas Semeta,person,commissioner,,active,5
@@ -2353,7 +2314,7 @@ andriana-sukova,Andriana Sukova,person,dg,,active,1
 andris-piebalgs,Andris Piebalgs,person,commissioner,,active,13
 andrius-kubilius,Andrius Kubilius,person,commissioner,LTU,active,15
 androulla-vassiliou,Androulla Vassiliou,person,commissioner,,active,14
-andrus-ansip,Andrus Ansip,person,commissioner,EST,active,18
+andrus-ansip,Andrus Ansip,person,commissioner,EST,active,17
 anita-gradin,Anita Gradin,person,commissioner,SWE,active,27
 anna-diamantopoulou,Anna Diamantopoulou,person,commissioner,GRC,active,3
 anthony-whelan,Anthony Whelan,person,dg,,active,2
@@ -2363,7 +2324,7 @@ antonio-tajani,Antonio Tajani,person,commissioner,ITA,active,27
 antonios-trakatellis,Antonios Trakatellis,person,mep,,active,4
 antonio-costa,António Costa,person,mep,,active,4
 antonio-vitorino,António Vitorino,person,commissioner,PRT,active,29
-apostolos-tzitzikostas,Apostolos Tzitzikostas,person,commissioner,GRC,active,16
+apostolos-tzitzikostas,Apostolos Tzitzikostas,person,commissioner,GRC,active,14
 armin-papperger,Armin Papperger,person,corporate_elite,,active,1
 astrid-lulling,Astrid Lulling,person,mep,,active,17
 athanasios-rantos,Athanasios Rantos,person,cjeu_ag,Greece,active,2
@@ -2376,14 +2337,14 @@ bernard-magenhann,Bernard Magenhann,person,dg,,active,1
 bill-anderson-businessman,Bill Anderson (businessman),person,corporate_elite,,active,2
 bill-newton-dunn,Bill Newton Dunn,person,mep,,active,7
 bogusaw-liberadzki,Bogusław Liberadzki,person,mep,,active,9
-brian-crowley,Brian Crowley,person,mep,,active,8
+brian-crowley,Brian Crowley,person,mep,,active,7
 bruno-gollnisch,Bruno Gollnisch,person,mep,,active,4
 borje-ekholm,Börje Ekholm,person,corporate_elite,,active,3
 carlo-tognoli,Carlo Tognoli,person,mep,,active,8
-carlos-moedas,Carlos Moedas,person,commissioner,,active,23
-catherine-ashton,Catherine Ashton,person,commissioner,GBR,active,29
+carlos-moedas,Carlos Moedas,person,commissioner,,active,22
+catherine-ashton,Catherine Ashton,person,commissioner,GBR,active,27
 catherine-bearder,Catherine Bearder,person,mep,,active,9
-cecilia-malmstrom,Cecilia Malmström,person,commissioner,,active,29
+cecilia-malmstrom,Cecilia Malmström,person,commissioner,,active,28
 charlie-mccreevy,Charlie McCreevy,person,commissioner,IRL,active,7
 charlie-weimers,Charlie Weimers,person,mep,,active,17
 charlina-vitcheva,Charlina Vitcheva,person,dg,,active,2
@@ -2400,7 +2361,7 @@ claudio-descalzi,Claudio Descalzi,person,corporate_elite,,active,9
 clemens-ladenburger,Clemens Ladenburger,person,dg,,active,1
 colette-flesch,Colette Flesch,person,mep,,active,9
 colin-scicluna,Colin Scicluna,person,dg,,active,1
-connie-hedegaard,Connie Hedegaard,person,commissioner,,active,26
+connie-hedegaard,Connie Hedegaard,person,commissioner,,active,25
 costas-kadis,Costas Kadis,person,commissioner,CYP,active,1
 cristiana-muscardini,Cristiana Muscardini,person,mep,,active,11
 dacian-ciolos,Dacian Cioloş,person,commissioner,,active,6
@@ -2408,7 +2369,7 @@ dagmar-roth-behrendt,Dagmar Roth-Behrendt,person,mep,,active,3
 dalia-grybauskaite,Dalia Grybauskaitė,person,commissioner,LTU,active,15
 dan-jrgensen,Dan Jørgensen,person,commissioner,DNK,active,13
 daniel-cohn-bendit,Daniel Cohn-Bendit,person,mep,,active,2
-danuta-hubner,Danuta Hübner,person,commissioner,POL,active,23
+danuta-hubner,Danuta Hübner,person,commissioner,POL,active,22
 david-byrne,David Byrne,person,commissioner,IRL,active,14
 david-sassoli,David Sassoli,person,mep,,active,4
 declan-costello,Declan Costello,person,dg,,active,1
@@ -2419,7 +2380,7 @@ diana-wallis,Diana Wallis,person,mep,,active,3
 dick-erixon,Dick Erixon,person,mep,,active,6
 dimitrios-adamou,Dimitrios Adamou,person,mep,,active,2
 dimitrios-papadimoulis,Dimitrios Papadimoulis,person,mep,,active,3
-dimitris-avramopoulos,Dimitris Avramopoulos,person,commissioner,,active,26
+dimitris-avramopoulos,Dimitris Avramopoulos,person,commissioner,,active,25
 dubravka-suica,Dubravka Šuica,person,commissioner,HRV,active,15
 euractiv,EURACTIV,person,mep,,active,1
 edward-mcmillan-scott,Edward McMillan-Scott,person,mep,,active,8
@@ -2427,22 +2388,22 @@ ekaterina-zaharieva,Ekaterina Zaharieva,person,commissioner,BGR,active,4
 elisa-ferreira,Elisa Ferreira,person,commissioner,,active,19
 elisabeth-werner,Elisabeth Werner,person,dg,,active,1
 elzbieta-bienkowska,Elzbieta Bienkowska,person,commissioner,,active,6
-emma-bonino,Emma Bonino,person,commissioner,ITA,active,20
-erkki-liikanen,Erkki Liikanen,person,commissioner,FIN,active,18
+emma-bonino,Emma Bonino,person,commissioner,ITA,active,19
+erkki-liikanen,Erkki Liikanen,person,commissioner,FIN,active,17
 eugen-tomac,Eugen Tomac,person,mep,,active,13
 eugene-regan,Eugene Regan,person,cjeu_judge,Ireland,active,1
-federica-mogherini,Federica Mogherini,person,commissioner,,active,39
+federica-mogherini,Federica Mogherini,person,commissioner,,active,35
 ferdinando-nelli-feroci,Ferdinando Nelli Feroci,person,commissioner,,active,3
-filip-turek,Filip Turek,person,mep,,active,5
+filip-turek,Filip Turek,person,mep,,active,4
 flavio-cattaneo,Flavio Cattaneo,person,corporate_elite,,active,22
 florika-fink-hooijer,Florika Fink-Hooijer,person,dg,,active,1
-francesco-speroni,Francesco Speroni,person,mep,,active,8
+francesco-speroni,Francesco Speroni,person,mep,,active,7
 francis-wurtz,Francis Wurtz,person,mep,,active,3
 franco-frattini,Franco Frattini,person,commissioner,ITA,active,1
 frank-appel,Frank Appel,person,corporate_elite,,active,3
-frans-timmermans,Frans Timmermans,person,commissioner,NLD,active,22
+frans-timmermans,Frans Timmermans,person,commissioner,NLD,active,20
 franz-fischler,Franz Fischler,person,commissioner,AUT,active,8
-franz-josef-strau,Franz Josef Strauß,person,mep,,active,6
+franz-josef-strau,Franz Josef Strauß,person,mep,,active,5
 fredrick-federley,Fredrick Federley,person,mep,,active,14
 frederic-oudea,Frédéric Oudéa,person,corporate_elite,,active,2
 gabrielius-landsbergis,Gabrielius Landsbergis,person,mep,,active,8
@@ -2459,9 +2420,9 @@ godelieve-quisthoudt-rowohl,Godelieve Quisthoudt-Rowohl,person,mep,,active,20
 graham-watson,Graham Watson,person,mep,,active,6
 guillaume-faury,Guillaume Faury,person,corporate_elite,,active,11
 guillaume-loriot,Guillaume Loriot,person,dg,,active,2
-gerard-onesta,Gérard Onesta,person,mep,,active,2
-gunter-verheugen,Günter Verheugen,person,commissioner,DEU,active,22
-gunther-oettinger,Günther Oettinger,person,commissioner,,active,35
+gerard-onesta,Gérard Onesta,person,mep,,active,1
+gunter-verheugen,Günter Verheugen,person,commissioner,DEU,active,21
+gunther-oettinger,Günther Oettinger,person,commissioner,,active,32
 hadar-cars,Hadar Cars,person,mep,,active,3
 hadja-lahbib,Hadja Lahbib,person,commissioner,BEL,active,5
 hanne-dahl,Hanne Dahl,person,mep,,active,14
@@ -2471,10 +2432,10 @@ hans-gert-pottering,Hans-Gert Pöttering,person,mep,,active,3
 helena-dalli,Helena Dalli,person,commissioner,MLT,active,3
 henna-virkkunen,Henna Virkkunen,person,commissioner,FIN,active,21
 herald-ruijters,Herald Ruijters,person,dg,,active,1
-heribert-barrera-i-costa,Heribert Barrera i Costa,person,mep,,active,24
+heribert-barrera-i-costa,Heribert Barrera i Costa,person,mep,,active,20
 hugo-sobral,Hugo Sobral,person,dg,,active,1
 ian-meakins,Ian Meakins,person,corporate_elite,,active,2
-ildiko-pelczne-gall,Ildikó Pelczné Gáll,person,mep,,active,3
+ildiko-pelczne-gall,Ildikó Pelczné Gáll,person,mep,,active,2
 iliana-ivanova,Iliana Ivanova,person,commissioner,BGR,active,15
 ilkka-salmi,Ilkka Salmi,person,dg,,active,1
 ilze-juhansone,Ilze Juhansone,person,dg,,active,1
@@ -2490,12 +2451,12 @@ jacques-aschenbroich,Jacques Aschenbroich,person,corporate_elite,,active,2
 jacques-barrot,Jacques Barrot,person,commissioner,FRA,active,6
 jacques-santer,Jacques Santer,person,commissioner,LUX,active,8
 jan-jenisch,Jan Jenisch,person,corporate_elite,,active,3
-janez-lenarcic,Janez Lenarčič,person,commissioner,,active,10
+janez-lenarcic,Janez Lenarčič,person,commissioner,,active,9
 janez-potocnik,Janez Potocnik,person,commissioner,,active,13
 janusz-onyszkiewicz,Janusz Onyszkiewicz,person,mep,,active,5
 janusz-wojciechowski,Janusz Wojciechowski,person,commissioner,,active,20
 jean-lemierre,Jean Lemierre,person,corporate_elite,,active,16
-jean-claude-juncker,Jean-Claude Juncker,person,commissioner,,active,21
+jean-claude-juncker,Jean-Claude Juncker,person,commissioner,,active,20
 jean-dominique-senard,Jean-Dominique Senard,person,corporate_elite,,active,12
 jean-francois-van-boxmeer,Jean-François van Boxmeer,person,corporate_elite,,active,2
 jean-laurent-bonnafe,Jean-Laurent Bonnafé,person,corporate_elite,,active,8
@@ -2510,14 +2471,14 @@ jo-leinen,Jo Leinen,person,mep,,active,2
 joanna-drake,Joanna Drake,person,dg,,active,1
 joaquin-almunia,Joaquín Almunia,person,commissioner,,active,31
 joe-borg,Joe Borg,person,commissioner,MLT,active,4
-johannes-hahn,Johannes Hahn,person,commissioner,,active,18
+johannes-hahn,Johannes Hahn,person,commissioner,,active,17
 johannes-luchner,Johannes Luchner,person,dg,,active,1
 john-elkann,John Elkann,person,corporate_elite,,active,5
 john-watson,John Watson,person,ddg,,active,1
 jonathan-hill,Jonathan Hill,person,commissioner,,active,5
-josep-borrell,Josep Borrell,person,commissioner,,active,10
+josep-borrell,Josep Borrell,person,commissioner,,active,9
 joseph-daul,Joseph Daul,person,mep,,active,25
-jose-ignacio-sanchez-galan,José Ignacio Sánchez Galán,person,corporate_elite,,active,10
+jose-ignacio-sanchez-galan,José Ignacio Sánchez Galán,person,corporate_elite,,active,9
 jose-manuel-barroso,José Manuel Barroso,person,commissioner,,active,31
 jose-maria-gil-robles,José María Gil-Robles,person,mep,,active,2
 jozef-sikela,Jozef Síkela,person,commissioner,CZE,active,3
@@ -2526,14 +2487,14 @@ juan-carlos-girauta,Juan Carlos Girauta,person,mep,,active,15
 juan-ignacio-zoido,Juan Ignacio Zoido,person,mep,,active,9
 juliane-kokott,Juliane Kokott,person,cjeu_ag,Germany,active,2
 jutta-urpilainen,Jutta Urpilainen,person,commissioner,,active,23
-jyrki-katainen,Jyrki Katainen,person,commissioner,FIN,active,13
+jyrki-katainen,Jyrki Katainen,person,commissioner,FIN,active,11
 jan-figel,Ján Figeľ,person,commissioner,SVK,active,8
 kadri-simson,Kadri Simson,person,commissioner,EST,active,7
 kaja-kallas,Kaja Kallas,person,commissioner,EST,active,42
-karel-de-gucht,Karel De Gucht,person,commissioner,,active,14
+karel-de-gucht,Karel De Gucht,person,commissioner,,active,13
 karel-van-miert,Karel Van Miert,person,commissioner,BEL,active,10
 karin-karlsbro,Karin Karlsbro,person,mep,,active,15
-karmenu-vella,Karmenu Vella,person,commissioner,,active,29
+karmenu-vella,Karmenu Vella,person,commissioner,,active,28
 karol-karski,Karol Karski,person,mep,,active,7
 kathy-sinnott,Kathy Sinnott,person,mep,,active,2
 kestutis-sadauskas,Kestutis Sadauskas,person,dg,,active,1
@@ -2545,30 +2506,29 @@ kurt-vandenberghe,Kurt Vandenberghe,person,dg,,active,1
 laila-medina,Laila Medina,person,cjeu_ag,Latvia,active,2
 laurent-freixe,Laurent Freixe,person,corporate_elite,,active,1
 lena-ek,Lena Ek,person,mep,,active,6
-leonard-orban,Leonard Orban,person,commissioner,ROU,active,12
-leopoldo-calvo-sotelo,Leopoldo Calvo-Sotelo,person,mep,,active,9
+leonard-orban,Leonard Orban,person,commissioner,ROU,active,11
+leopoldo-calvo-sotelo,Leopoldo Calvo-Sotelo,person,mep,,active,8
 leopoldo-rubinacci,Leopoldo Rubinacci,person,dg,,active,1
-leszek-miller,Leszek Miller,person,mep,,active,10
+leszek-miller,Leszek Miller,person,mep,,active,9
 libor-roucek,Libor Rouček,person,mep,,active,11
 lidia-geringer-de-oedenberg,Lidia Geringer de Oedenberg,person,mep,,active,5
 liisa-jaakonsaari,Liisa Jaakonsaari,person,mep,,active,5
 linsey-mccallum,Linsey McCallum,person,dg,,active,1
 lorena-boix-alonso,Lorena Boix Alonso,person,dg,,active,3
 lorenzo-bini-smaghi,Lorenzo Bini Smaghi,person,corporate_elite,,active,17
-louis-michel,Louis Michel,person,commissioner,BEL,active,1
 loyola-de-palacio,Loyola de Palacio,person,commissioner,ESP,active,12
 luca-de-meo,Luca De Meo,person,corporate_elite,,active,1
 luigi-cocilovo,Luigi Cocilovo,person,mep,,active,2
-luisa-morgantini,Luisa Morgantini,person,mep,,active,7
-laszlo-andor,László Andor,person,commissioner,,active,13
+luisa-morgantini,Luisa Morgantini,person,mep,,active,6
+laszlo-andor,László Andor,person,commissioner,,active,12
 maarten-verwey,Maarten Verwey,person,dg,,active,3
 maciej-popowski,Maciej Popowski,person,dg,,active,4
 maciej-szpunar,Maciej Szpunar,person,cjeu_ag,Poland,active,2
 magnus-brunner,Magnus Brunner,person,commissioner,AUT,active,14
-mairead-mcguinness,Mairead McGuinness,person,commissioner,IRL,active,25
+mairead-mcguinness,Mairead McGuinness,person,commissioner,IRL,active,24
 maive-rute,Maive Rute,person,dg,,active,6
 maja-bakran-marcich,Maja Bakran Marcich,person,dg,,active,1
-manfred-weber,Manfred Weber,person,mep,,active,14
+manfred-weber,Manfred Weber,person,mep,,active,13
 manuel-antonio-dos-santos,Manuel António Dos Santos,person,mep,,active,2
 manuel-marin,Manuel Marin,person,commissioner,ESP,active,13
 marc-lemaitre,Marc Lemaître,person,dg,,active,1
@@ -2577,45 +2537,45 @@ marek-siwiec,Marek Siwiec,person,mep,,active,15
 margaritis-schinas,Margaritis Schinas,person,commissioner,,active,19
 margherita-della-valle,Margherita Della Valle,person,corporate_elite,,active,1
 margot-wallstrom,Margot Wallström,person,commissioner,SWE,active,24
-margrethe-vestager,Margrethe Vestager,person,commissioner,,active,7
+margrethe-vestager,Margrethe Vestager,person,commissioner,,active,6
 maria-damanaki,Maria Damanaki,person,commissioner,,active,11
 maria-luis-albuquerque,Maria Luís Albuquerque,person,commissioner,PRT,active,9
 mariana-kotzeva,Mariana Kotzeva,person,dg,,active,1
 mariann-fischer-boel,Mariann Fischer Boel,person,commissioner,DNK,active,1
-marianne-thyssen,Marianne Thyssen,person,commissioner,,active,21
+marianne-thyssen,Marianne Thyssen,person,commissioner,,active,18
 mario-mauro,Mario Mauro,person,mep,,active,11
-mario-monti,Mario Monti,person,commissioner,ITA,active,37
-mariya-gabriel,Mariya Gabriel,person,commissioner,BGR,active,17
+mario-monti,Mario Monti,person,commissioner,ITA,active,36
+mariya-gabriel,Mariya Gabriel,person,commissioner,BGR,active,14
 marjeta-jager,Marjeta Jager,person,dg,,active,1
 markos-kyprianou,Markos Kyprianou,person,commissioner,CYP,active,19
 maros-sefcovic,Maroš Šefčovič,person,commissioner,SVK,active,11
 marta-kos,Marta Kos,person,commissioner,SVN,active,8
 marta-ortega,Marta Ortega,person,corporate_elite,,active,3
-martin-bangemann,Martin Bangemann,person,commissioner,DEU,active,15
+martin-bangemann,Martin Bangemann,person,commissioner,DEU,active,13
 martin-schulz,Martin Schulz,person,mep,,active,3
 martin-seychell,Martin Seychell,person,dg,,active,2
 matthew-baldwin,Matthew Baldwin,person,dg,,active,3
-max-gallo,Max Gallo,person,mep,,active,4
+max-gallo,Max Gallo,person,mep,,active,3
 mechthild-worsdorfer,Mechthild Wörsdörfer,person,dg,,active,1
 mechtild-rothe,Mechtild Rothe,person,mep,,active,8
 meglena-kuneva,Meglena Kuneva,person,commissioner,BGR,active,9
 mia-de-vits,Mia De Vits,person,mep,,active,11
 michael-diekmann,Michael Diekmann,person,corporate_elite,,active,1
 michael-mcgrath,Michael McGrath,person,commissioner,IRL,active,7
-michaele-schreyer,Michaele Schreyer,person,commissioner,DEU,active,12
-micha-kaminski,Michał Kamiński,person,mep,,active,5
+michaele-schreyer,Michaele Schreyer,person,commissioner,DEU,active,10
+micha-kaminski,Michał Kamiński,person,mep,,active,4
 michel-barnier,Michel Barnier,person,commissioner,FRA,active,15
 michel-doukeris,Michel Doukeris,person,corporate_elite,,active,4
-miguel-angel-martinez-martinez,Miguel Angel Martínez Martínez,person,mep,,active,7
+miguel-angel-martinez-martinez,Miguel Angel Martínez Martínez,person,mep,,active,3
 miguel-arias-canete,Miguel Arias Cañete,person,commissioner,,active,18
 miroslav-ouzky,Miroslav Ouzký,person,mep,,active,6
 monica-frassoni,Monica Frassoni,person,mep,,active,7
 monika-wulf-mathies,Monika Wulf-Mathies,person,commissioner,DEU,active,13
 myriam-ferran,Myriam Ferran,person,dg,,active,2
 maire-geoghegan-quinn,Máire Geoghegan-Quinn,person,commissioner,,active,12
-mario-soares,Mário Soares,person,mep,,active,4
-neelie-kroes,Neelie Kroes,person,commissioner,,active,39
-neil-kinnock,Neil Kinnock,person,commissioner,GBR,active,16
+mario-soares,Mário Soares,person,mep,,active,3
+neelie-kroes,Neelie Kroes,person,commissioner,,active,37
+neil-kinnock,Neil Kinnock,person,commissioner,GBR,active,15
 neven-mimica,Neven Mimica,person,commissioner,,active,10
 nicolas-hieronimus,Nicolas Hieronimus,person,corporate_elite,,active,11
 nicolas-schmit,Nicolas Schmit,person,commissioner,LUX,active,7
@@ -2625,33 +2585,33 @@ nikos-androulakis,Nikos Androulakis,person,mep,,active,6
 nils-behrndt,Nils Behrndt,person,ddg,,active,1
 normunds-popens,Normunds Popens,person,dg,,active,1
 octavia-spineanu-matei,Octavia Spineanu-Matei,person,cjeu_judge,Romania,active,2
-ola-kallenius,Ola Källenius,person,corporate_elite,,active,2
+ola-kallenius,Ola Källenius,person,corporate_elite,,active,1
 oliver-bate,Oliver Bäte,person,corporate_elite,,active,8
 oliver-zipse,Oliver Zipse,person,corporate_elite,,active,6
 olivier-onidi,Olivier Onidi,person,dg,,active,1
-olli-rehn,Olli Rehn,person,commissioner,FIN,active,29
+olli-rehn,Olli Rehn,person,commissioner,FIN,active,28
 outi-ojala,Outi Ojala,person,mep,,active,5
 padraig-flynn,Padraig Flynn,person,commissioner,IRL,active,6
-paolo-gentiloni,Paolo Gentiloni,person,commissioner,,active,23
+paolo-gentiloni,Paolo Gentiloni,person,commissioner,,active,22
 paolo-scaroni,Paolo Scaroni,person,corporate_elite,,active,14
-pascal-lamy,Pascal Lamy,person,commissioner,FRA,active,40
+pascal-lamy,Pascal Lamy,person,commissioner,FRA,active,38
 pascal-soriot,Pascal Soriot,person,corporate_elite,,active,3
 pat-cox,Pat Cox,person,mep,,active,14
 patrick-anthony-child,Patrick Anthony Child,person,dg,,active,2
 patrick-pouyanne,Patrick Pouyanné,person,corporate_elite,,active,7
-patryk-jaki,Patryk Jaki,person,mep,,active,9
+patryk-jaki,Patryk Jaki,person,mep,,active,7
 paul-bulcke,Paul Bulcke,person,corporate_elite,,active,4
 paul-henry-gendebien,Paul-Henry Gendebien,person,mep,,active,8
 pedro-azagra,Pedro Azagra,person,corporate_elite,,active,3
 pedro-azagra-blazquez,Pedro Azagra Blázquez,person,corporate_elite,,active,8
 pedro-solbes,Pedro Solbes,person,commissioner,ESP,active,5
-pekka-ala-pietila,Pekka Ala-Pietilä,person,corporate_elite,,active,5
+pekka-ala-pietila,Pekka Ala-Pietilä,person,corporate_elite,,active,4
 pekka-lundmark,Pekka Lundmark,person,corporate_elite,,active,1
-pertti-paasio,Pertti Paasio,person,mep,,active,3
+pertti-paasio,Pertti Paasio,person,mep,,active,2
 peter-mandelson,Peter Mandelson,person,commissioner,GBR,active,24
 phil-hogan,Phil Hogan,person,commissioner,,active,9
 philippe-brassac,Philippe Brassac,person,corporate_elite,,active,2
-philippe-busquin,Philippe Busquin,person,commissioner,BEL,active,19
+philippe-busquin,Philippe Busquin,person,commissioner,BEL,active,16
 philippe-malaud,Philippe Malaud,person,mep,,active,3
 philippe-van-damme,Philippe Van Damme,person,dg,,active,1
 pia-ahrenkilde-hansen,Pia Ahrenkilde Hansen,person,dg,,active,2
@@ -2668,13 +2628,13 @@ renate-nikolay,Renate Nikolay,person,dg,,active,1
 rene-obermann,René Obermann,person,corporate_elite,,active,21
 ria-oomen-ruijten,Ria Oomen-Ruijten,person,mep,,active,34
 richard-falbr,Richard Falbr,person,mep,,active,17
-ritt-bjerregaard,Ritt Bjerregaard,person,commissioner,DNK,active,10
+ritt-bjerregaard,Ritt Bjerregaard,person,commissioner,DNK,active,8
 robert-peugeot,Robert Peugeot,person,corporate_elite,,active,10
 roberta-angelilli,Roberta Angelilli,person,mep,,active,7
 roberto-viola,Roberto Viola,person,dg,,active,1
 rodi-kratsa-tsagaropoulou,Rodi Kratsa-Tsagaropoulou,person,mep,,active,4
 roland-busch,Roland Busch,person,corporate_elite,,active,3
-romano-prodi,Romano Prodi,person,commissioner,ITA,active,17
+romano-prodi,Romano Prodi,person,commissioner,ITA,active,15
 ross-mcinnes,Ross McInnes,person,corporate_elite,,active,12
 roxana-minzatu,Roxana Mînzatu,person,commissioner,ROU,active,11
 rupert-lowe,Rupert Lowe,person,mep,,active,2
@@ -2686,20 +2646,19 @@ sari-baldauf,Sari Baldauf,person,corporate_elite,,active,5
 sari-essayah,Sari Essayah,person,mep,,active,8
 sebastian-tynkkynen,Sebastian Tynkkynen,person,mep,,active,5
 severin-schwan,Severin Schwan,person,corporate_elite,,active,4
-sigrid-friis-proschowsky,Sigrid Friis Proschowsky,person,mep,,active,1
 siim-kallas,Siim Kallas,person,commissioner,,active,17
 silvana-koch-mehrin,Silvana Koch-Mehrin,person,mep,,active,7
 sir-julian-king,Sir Julian King,person,commissioner,,active,4
-sir-leon-brittan,Sir Leon Brittan,person,commissioner,GBR,active,17
+sir-leon-brittan,Sir Leon Brittan,person,commissioner,GBR,active,16
 slawomir-krupa,Slawomir Krupa,person,corporate_elite,,active,2
 sophia-eriksson-waterschoot,Sophia Eriksson Waterschoot,person,dg,,active,1
-stavros-dimas,Stavros Dimas,person,commissioner,GRC,active,13
+stavros-dimas,Stavros Dimas,person,commissioner,GRC,active,12
 stavros-lambrinidis,Stavros Lambrinidis,person,mep,,active,8
 stefan-fule,Stefan Füle,person,commissioner,,active,10
 stefan-olsson,Stefan Olsson,person,dg,,active,1
 stella-kyriakides,Stella Kyriakides,person,commissioner,,active,13
 stephen-quest,Stephen Quest,person,dg,,active,1
-stephane-sejourne,Stéphane Séjourné,person,commissioner,FRA,active,15
+stephane-sejourne,Stéphane Séjourné,person,commissioner,FRA,active,13
 sylvia-yvonne-kaufmann,Sylvia-Yvonne Kaufmann,person,mep,,active,9
 sylvie-guillaume,Sylvie Guillaume,person,mep,,active,14
 szabolcs-fazakas,Szabolcs Fazakas,person,mep,,active,17
@@ -2724,14 +2683,14 @@ ursula-von-der-leyen,Ursula von der Leyen,person,commissioner,DEU,active,20
 valdis-dombrovskis,Valdis Dombrovskis,person,commissioner,LVA,active,24
 vas-narasimhan,Vas Narasimhan,person,corporate_elite,,active,3
 violeta-bulc,Violeta Bulc,person,commissioner,,active,11
-virginijus-sinkevicius,Virginijus Sinkevičius,person,commissioner,LTU,active,17
-viviane-reding,Viviane Reding,person,commissioner,,active,25
-vytenis-andriukaitis,Vytenis Andriukaitis,person,commissioner,,active,21
+virginijus-sinkevicius,Virginijus Sinkevičius,person,commissioner,LTU,active,14
+viviane-reding,Viviane Reding,person,commissioner,,active,24
+vytenis-andriukaitis,Vytenis Andriukaitis,person,commissioner,,active,20
 vera-jourova,Věra Jourová,person,commissioner,,active,11
-wopke-hoekstra,Wopke Hoekstra,person,commissioner,NLD,active,29
+wopke-hoekstra,Wopke Hoekstra,person,commissioner,NLD,active,28
 xavier-huillard,Xavier Huillard,person,corporate_elite,,active,3
 ylva-johansson,Ylva Johansson,person,commissioner,SWE,active,8
-yvan-blot,Yvan Blot,person,mep,,active,15
+yvan-blot,Yvan Blot,person,mep,,active,14
 yves-thibault-de-silguy,Yves-Thibault de Silguy,person,commissioner,FRA,active,12
 elisabeth-morin,Élisabeth Morin,person,mep,,active,8
 20th-century-fox,20th Century Fox,university,organisation,,active,1
@@ -2848,7 +2807,7 @@ university-of-rome-sapienza,"University of Rome, Sapienza",university,university
 university-of-salamanca,University of Salamanca,university,organisation,,active,1
 university-of-seville,University of Seville,university,university,,active,1
 university-of-southern-california,University of Southern California,university,university,,active,1
-university-of-st-gallen,University of St. Gallen,university,university,,active,2
+university-of-st-gallen,University of St. Gallen,university,university,,active,1
 university-of-tampere,University of Tampere,university,university,,active,2
 university-of-tartu,University of Tartu,university,university,,active,1
 university-of-texas-at-austin,University of Texas at Austin,university,university,,active,1

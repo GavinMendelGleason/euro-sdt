@@ -14,13 +14,7 @@ generated: 2026-10-21
 
 Commissioner · IRL
 
-*Verified assertions: 9*
-
-## Nominated by
-
-- IRL  
-  > "In 1993, he retired from domestic politics when he was appointed Ireland's European Commissioner."
-  > Source: [[sources/wikipedia-padraig-flynn|Padraig Flynn]] · grade C
+*Verified assertions: 8*
 
 ## Education
 

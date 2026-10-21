@@ -11,7 +11,7 @@ generated: 2026-10-21
 ---
 # Party of European Socialists
 
-*Verified member assertions: 15 people*
+*Verified member assertions: 14 people*
 
 ## Members and roles
 
@@ -36,9 +36,6 @@ generated: 2026-10-21
 - [[people/marek-siwiec|Marek Siwiec]] — employed_by  
   > "Career timeline [ edit ] 1981–1982: Assistant at the Electronics Institute of AGH (1980–1982), traineeship with the Gas and Fuel Corporation of Victoria , Australia 1985–1991: Editor-in-chief of the bi-monthly 'Student' (1985–1987), weekly 'ITD' (1987–1990) and the daily 'Trybuna' 1991–1997: Member of Parliament of the Polish Republic (Sejm) 1993: Spokesman for the Democratic Left Alliance (SLD) P […]"
   > Source: [[sources/wikipedia-marek-siwiec|Marek Siwiec]] · grade A
-- [[people/miguel-angel-martinez-martinez|Miguel Angel Martínez Martínez]]  
-  > "Martínez in 2011 Miguel Ángel Martínez Martínez (born 30 January 1940, in Madrid ) is a Spanish politician and Member of the European Parliament for the Spanish Socialist Workers' Party , part of the Party of European Socialists ."
-  > Source: [[sources/wikipedia-miguel-ngel-martnez-martnez|Miguel Ngel Martnez Martnez]] · grade C
 - [[people/nicolas-schmit|Nicolas Schmit]] — chair  
   > "He is the chairman of the EPSCO network of the Party of European Socialists."
   > Source: [[sources/wikipedia-nicolas-schmit|Nicolas Schmit]] · grade A

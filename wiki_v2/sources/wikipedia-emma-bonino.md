@@ -14,7 +14,7 @@ generated: 2026-10-21
 - SHA-256: `212ee067bc50bf46267ff18b58e0a257acd443583122cf256267f4463a62ecaf`
 - Sentences: 72
 
-## Verified claims citing this document (21)
+## Verified claims citing this document (20)
 
 - [[people/emma-bonino|Emma Bonino]] — affiliated_with — North-South Prize
   > "Recognition Knight Grand Cross of the Order of Merit of the Italian Republic – awarded on 21 December 2015 In 1999 Bonino was one of the two winners of the North-South Prize, an award that honors individuals with accomplishment in the protection of human rights, pluralistic democracy, and improvement of North-South relations."
@@ -30,8 +30,6 @@ generated: 2026-10-21
   > "She is currently a board member of the Arab Democracy Foundation."
 - [[people/emma-bonino|Emma Bonino]] — board_member — DARA
   > "Bonino was a board member of DARA until December 2012."
-- [[people/emma-bonino|Emma Bonino]] — chair — More Europe
-  > "She is the leader of More Europe, a liberal, European federalist party list she launched in December 2017, ahead of the 2018 Italian general election."
 - [[people/emma-bonino|Emma Bonino]] — chair — Transnational Radical Party
   > "She served as the Secretary of the Transnational Radical Party in 1993–94 and the party's president in 1991–1993."
 - [[people/emma-bonino|Emma Bonino]] — educated_at — Bocconi

@@ -14,13 +14,7 @@ generated: 2026-10-21
 
 Commissioner · ITA
 
-*Verified assertions: 22*
-
-## Portfolio
-
-- Executive Vice-President and European Commissioner for Cohesion and Reforms  
-  > "Raffaele Fitto (Italian pronunciation: [raffaˈɛːle ˈfitto]; born 28 August 1969) is an Italian politician who has served as Executive Vice-President of the European Commission for Cohesion and Reforms"
-  > Source: [[sources/wikipedia-raffaele-fitto|Raffaele Fitto]] · grade C
+*Verified assertions: 21*
 
 ## Nominated by
 

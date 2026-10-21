@@ -14,7 +14,7 @@ generated: 2026-10-21
 
 Mep
 
-*Verified assertions: 4*
+*Verified assertions: 3*
 
 ## Education
 
@@ -25,10 +25,6 @@ Mep
 ## Membership
 
 - [[organisations/movement-for-anti-fascist-national-unity|Movement for Anti-Fascist National Unity]]  
-  > "He was active in resistance groups such as the Movement for Anti-Fascist National Unity and the Movement for Democratic Unity."
-  > Source: [[sources/wikipedia-m-rio-soares|M Rio Soares]] · grade C
-
-- [[organisations/movement-for-democratic-unity|Movement for Democratic Unity]]  
   > "He was active in resistance groups such as the Movement for Anti-Fascist National Unity and the Movement for Democratic Unity."
   > Source: [[sources/wikipedia-m-rio-soares|M Rio Soares]] · grade C
 

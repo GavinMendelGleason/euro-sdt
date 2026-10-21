@@ -9,11 +9,8 @@ generated: 2026-10-21
 ---
 # VdL I Commission
 
-*Verified members: 12*
+*Verified members: 11*
 
-- [[people/adina-ioana-valean|Adina-Ioana Vălean]]
-  > "Adina-Ioana Vălean (born 16 February 1968) is a Romanian politician who served as European Commissioner for Transport under the leadership of President of the European Commission Ursula von der Leyen"
-  > Source: [[sources/wikipedia-adina-ioana-valean|Adina Ioana Valean]] · grade C
 - [[people/elisa-ferreira|Elisa Ferreira]]
   > "Elisa Maria da Costa Guimarães Ferreira, GCC (born 17 October 1955) is a Portuguese politician and economist who served as the European Commissioner for Cohesion and Reforms in the administration of President Ursula von der Leyen between 2019 and 2024."
   > Source: [[sources/wikipedia-elisa-ferreira|Elisa Ferreira]] · grade C

@@ -14,6 +14,6 @@ generated: 2026-10-21
 
 ## Members and roles
 
-- [[people/karmenu-vella|Karmenu Vella]] — chair; founder  
+- [[people/karmenu-vella|Karmenu Vella]] — chair  
   > "Non-profit organisations In 2007 Karmenu Vella was the founding chairman of the Maltese Turkish Business Council."
   > Source: [[sources/wikipedia-karmenu-vella|Karmenu Vella]] · grade A

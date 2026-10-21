@@ -11,7 +11,7 @@ generated: 2026-10-21
 ---
 # EPP
 
-*Verified member assertions: 5 people*
+*Verified member assertions: 4 people*
 
 ## Members and roles
 
@@ -21,9 +21,6 @@ generated: 2026-10-21
 - [[people/joseph-daul|Joseph Daul]]  
   > "He is a member of The Republicans , part of the EPP."
   > Source: [[sources/wikipedia-joseph-daul|Joseph Daul]] · grade A
-- [[people/marianne-thyssen|Marianne Thyssen]] — board_member  
-  > "From 1999-2014 she served as leader of the European People's Party's (EPP) Belgian delegation and from 2004-2009 was elected first vice-president of the EPP."
-  > Source: [[sources/wikipedia-marianne-thyssen|Marianne Thyssen]] · grade C
 - [[people/mariya-gabriel|Mariya Gabriel]] — chair  
   > "As vice-president of the EPP Group she chaired the Euromed Working Group of the EPP and was responsible for maintaining the EPP Group's relations with countries from the Mediterranean, Middle East and North Africa regions."
   > Source: [[sources/wikipedia-mariya-gabriel|Mariya Gabriel]] · grade A

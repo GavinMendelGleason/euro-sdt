@@ -1,0 +1,401 @@
+# Grade C Recheck
+
+Candidates: 738. Second judge: `deepseek-flash` thinking on.
+
+| Action | Count |
+|---|---:|
+| keep_verified | 569 |
+| needs_review | 169 |
+
+## Disagreements
+
+- **Connie Hedegaard — advisory_board — Volkswagen** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote explicitly lists Volkswagen with the role 'Member of the Sustainability Council' for Connie Hedegaard, directly stating the advisory board relation.
+  - flash: The quote confirms membership in Volkswagen's Sustainability Council but does not explicitly state that this council is an advisory board or that the role is advisory.
+- **Mairead McGuinness — employed_by — European Commission** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote states McGuinness was proposed as the new Commissioner for Financial Stability, Financial Services and Capital Markets Union, directly entailing her employment by the Eur
+  - flash: The quote says McGuinness was proposed as a Commissioner, but it does not establish that she was actually employed by the European Commission in that role.
+- **Federica Mogherini — board_member — Italian Democratic Party (PD)** (chat SUPPORTED, flash UNSUPPORTED)
+  - chat: The quote explicitly states Mogherini was appointed to the PD's executive committee, which directly entails serving on a governing/board body of the organisation.
+  - flash: The quote states she was appointed to the PD's executive committee, which does not directly establish that she served on the party's board as a board member, trustee, or supervisor
+- **Franz Josef Strauß — affiliated_with — Wehrmacht** (chat SUPPORTED, flash ERROR)
+  - chat: The quote states he served in the Wehrmacht, which directly entails a formal affiliation with that organization.
+  - flash: RuntimeError: empty model response
+- **Ildikó Pelczné Gáll — member — European People's Party** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote states she is a member of Fidesz, which is part of the European People's Party, directly entailing her membership in the EPP via Fidesz.
+  - flash: The quote says she is a member of Fidesz and that Fidesz is part of the European People's Party, but it does not explicitly state that she herself is a member of the European Peopl
+- **Virginijus Sinkevičius — employed_by — Lithuania Tribune** (chat SUPPORTED, flash UNSUPPORTED)
+  - chat: The quote states Sinkevičius contributed as an author and editor to the Lithuania Tribune between 2012 and 2015, directly supporting an employed_by relation in an author/editor rol
+  - flash: The quote says he contributed as an author and editor to the Lithuania Tribune, but does not state that he was employed by the organisation in an executive role.
+- **Emma Bonino — chair — More Europe** (chat SUPPORTED, flash UNSUPPORTED)
+  - chat: The quote explicitly states she is the leader of More Europe, which directly entails the chair/leader relation to the organisation.
+  - flash: The quote states she is the leader of More Europe, but does not state or directly entail that she chairs or presides over the organisation.
+- **Luisa Morgantini — attendee — Association for Peace** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote states she 'took part in the national coordination of the Association for Peace,' which directly entails attending/participating in the organisation's activity.
+  - flash: The quote states she took part in the Association for Peace's national coordination, but does not explicitly say she attended a meeting or event of the organisation.
+- **Frans Timmermans — employed_by — Organization for Security and Co-operation in Europe (OSCE)** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote states Timmermans became Senior Advisor and Private Secretary to Max van der Stoel, who served as High Commissioner for the OSCE, directly entailing his employment by the
+  - flash: The quote says Timmermans was Senior Advisor and Private Secretary to Max van der Stoel, while OSCE is mentioned only as Van der Stoel’s organization, so it does not explicitly est
+- **Günther Oettinger — held_portfolio — Digital Economy and Society (prev. Energy)** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote states Oettinger was nominated as Commissioner for Digital Economy and Society, directly entailing he held that portfolio as a European Commissioner.
+  - flash: The quote states Oettinger was nominated as Commissioner for Digital Economy and Society, but does not confirm he held that portfolio or the prior Energy portfolio.
+- **Philippe Busquin — board_member — Socialist International** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote explicitly states Busquin has been Vice-President of the Socialist International since 1992, which directly entails a board/supervisory leadership role in that organisati
+  - flash: The quote states Busquin was Vice-President of the Socialist International but does not explicitly state that this role was a board, trustee, or supervisory director position.
+- **Günther Oettinger — post_mandate_occupation — HAM-LOG Gruppe** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote lists HAM-LOG Gruppe as a post-Commission activity (Advisory Board member since 2021) under Oettinger's own 'Other activities' section, directly entailing the post-mandat
+  - flash: The quote lists HAM-LOG Gruppe advisory board membership since 2021 but does not state that this was after leaving the Commission or mention the Juncker Commission term.
+- **Marianne Thyssen — employed_by — Oud-Heverlee** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote states Thyssen was First Deputy Mayor of Oud-Heverlee, which directly entails an executive employed-by relationship with that municipality.
+  - flash: The quote states she was First Deputy Mayor of Oud-Heverlee, but does not explicitly state employment by Oud-Heverlee or the recorded role First Alderman.
+- **Leonard Orban — employed_by — Institute of Research for Machine Manufacturing Technology Bucharest** (chat SUPPORTED, flash UNSUPPORTED)
+  - chat: The quote lists Leonard Orban's employment at the Institute of Research for Machine Manufacturing Technology Bucharest for 1990–1993, directly supporting the employed_by relation.
+  - flash: The quote only lists the institute with a date range and does not state that Leonard Orban was employed there as an engineer or in an executive role.
+- **Brian Crowley — affiliated_with — Seanad Éireann (Irish Senate)** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote states he served as a Senator from 1993 to 1994, which directly entails a formal affiliation with Seanad Éireann in the role of Senator.
+  - flash: The quote states he served as a Senator but does not explicitly identify Seanad Éireann as the organisation.
+- **Andrus Ansip — held_portfolio — VP – Digital Single Market** (chat SUPPORTED, flash UNSUPPORTED)
+  - chat: The quote states Juncker proposed Andrus Ansip as Vice-President of the European Commission and European Commissioner for the Digital (Single Market), directly entailing he held th
+  - flash: The quote only states that Juncker proposed Ansip as Vice-President and Commissioner for the Digital portfolio, not that he held the portfolio.
+- **Johannes Hahn — affiliated_with — Youth Organisation of the Austrian People's Party (JVP)** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote states Hahn was deputy leader of the ÖVP's youth wing, which is the Youth Organisation of the Austrian People's Party (JVP), directly entailing the affiliation.
+  - flash: The quote says Hahn was deputy leader of the ÖVP's youth wing but does not explicitly identify it as the Youth Organisation of the Austrian People's Party (JVP), so the exact organ
+- **Manfred Weber — educated_at — munich-higher-technical-institute-now-munich-university-of-applied-sciences** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote explicitly lists under Education and early career that in 1996 Weber was an engineer at the Munich Higher Technical Institute (now Munich University of Applied Sciences),
+  - flash: The quote places Weber as an “engineer” at the Munich Higher Technical Institute under Education and early career, but does not explicitly state that he studied at or attended the 
+- **Miguel Angel Martínez Martínez — member — Spanish Socialist Workers' Party** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote explicitly states Martínez is a Member of the European Parliament for the Spanish Socialist Workers' Party, directly supporting the membership relation.
+  - flash: The quote says he is a Member of the European Parliament for the Spanish Socialist Workers' Party, which implies affiliation but does not explicitly state that he is a member of th
+- **Frans Timmermans — chair — GroenLinks–PvdA** (chat SUPPORTED, flash UNSUPPORTED)
+  - chat: The quote states Timmermans was the leader of GroenLinks–PvdA in the House of Representatives, which directly entails he chairs/presides over the organisation.
+  - flash: The quote states he was the leader of GroenLinks–PvdA in the House of Representatives, not that he chaired or presided over the organisation.
+- **Philippe Busquin — board_member — PES** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote explicitly states Busquin held the role of Vice-President of the PES, which directly entails a board/supervisory leadership position in that organisation.
+  - flash: The quote confirms Philippe Busquin was Vice-President of the PES, but does not explicitly state that this role was a board/trustee/supervisory director position.
+- **Wopke Hoekstra — chair — Christian Democratic Appeal** (chat SUPPORTED, flash UNSUPPORTED)
+  - chat: The quote explicitly states Hoekstra served as Leader of the Christian Democratic Appeal (CDA), which entails chairing/presiding over the organization.
+  - flash: The quote states Hoekstra was Leader of the CDA, not that he chaired or presided over the organisation.
+- **Mário Soares — member — Movement for Democratic Unity** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote states Soares was active in the Movement for Democratic Unity, directly entailing his membership in that organisation.
+  - flash: The quote says he was active in the Movement for Democratic Unity but does not explicitly state that he was a member.
+- **Monika Wulf-Mathies — held_portfolio — Regional Policy and Cohesion Fund** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote states she served as European Commissioner for Regional Policy, directly entailing she held that portfolio as a European Commissioner.
+  - flash: The quote states she was European Commissioner for Regional Policy but does not mention the Cohesion Fund, so it does not fully support the compound portfolio 'Regional Policy and 
+- **Patryk Jaki — educated_at — iese-business-school** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote states Jaki completed a program organized by the National School of Public Administration in collaboration with IESE Business School, which directly entails he studied at
+  - flash: The quote says he completed a program organized by another institution in collaboration with IESE Business School, but does not clearly state that he studied at or attended IESE it
+- **Apostolos Tzitzikostas — board_member — European Committee of the Regions** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote states he was elected First Vice-President of the European Committee of the Regions, which directly entails a board/supervisory leadership role in that organisation.
+  - flash: The quote states he was elected First Vice-President of the European Committee of the Regions, but it does not explicitly establish that this is a board, trustee, or supervisory-di
+- **Pascal Lamy — chair — World Trade Organization (WTO)** (chat SUPPORTED, flash UNSUPPORTED)
+  - chat: The quote states Lamy served as chairman of the organization's Trade Negotiations Committee, directly entailing that he chaired a committee of the WTO.
+  - flash: The quote states he chaired the WTO's Trade Negotiations Committee, not that he chaired or presided over the WTO itself.
+- **Josep Borrell — chair — PSOE** (chat SUPPORTED, flash UNSUPPORTED)
+  - chat: The quote states Borrell became Leader of the Opposition and designated prime ministerial candidate of the party (PSOE), which entails he chaired/led the party's opposition role.
+  - flash: The quote describes Borrell as Leader of the Opposition and the party's designated prime ministerial candidate, but does not state that he chaired or presided over PSOE.
+- **Raffaele Fitto — held_portfolio — Executive Vice-President and European Commissioner for Cohesion and Reforms** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote states Fitto has served as Executive Vice-President of the European Commission for Cohesion and Reforms, directly matching the claimed portfolio.
+  - flash: The quote states he served as Executive Vice-President of the European Commission for Cohesion and Reforms, but does not explicitly state that he was a European Commissioner or hel
+- **Roxana Mînzatu — employed_by — non-profit business school** (chat AMBIGUOUS, flash SUPPORTED)
+  - chat: The quote says she ran a non-profit business school but does not clearly establish an employment relationship with a specific organisation in an executive role.
+  - flash: The quote states she ran a non-profit business school, which directly entails an executive manager/operator role there.
+- **Alejo Vidal-Quadras — affiliated_with — People's Mojahedin of Iran** (chat SUPPORTED, flash UNSUPPORTED)
+  - chat: The quote explicitly states that Vidal-Quadras has aligned with People's Mojahedin of Iran, directly supporting the affiliated_with relation.
+  - flash: The quote says Vidal-Quadras "aligned with" People's Mojahedin of Iran, which does not establish a formal affiliation with the organisation.
+- **Adina-Ioana Vălean — board_member — European Parliament** (chat SUPPORTED, flash UNSUPPORTED)
+  - chat: The quote explicitly states Vălean was one of the Vice-Presidents of the European Parliament, directly supporting the board_member relation with that role.
+  - flash: The quote states she was one of the Vice-Presidents of the European Parliament, but does not state or directly entail that she served on its board as a trustee or supervisory direc
+- **José Ignacio Sánchez Galán — affiliated_with — World Economic Forum** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote states Galán was included in the inaugural group of the Leaders for Growth and Competitiveness in Europe initiative promoted by the World Economic Forum, directly entaili
+  - flash: The quote shows Galán was included in a WEF-promoted initiative's inaugural group, but it does not explicitly state a formal affiliation with the World Economic Forum itself.
+- **Jean-Claude Juncker — employed_by — World Bank** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote states Juncker relinquished his post at the World Bank, directly entailing he held an executive post there.
+  - flash: The quote says Juncker relinquished a 'post at the World Bank' but does not specify that it was an executive employment role rather than another kind of position.
+- **Apostolos Tzitzikostas — served_on_commission — VdL II Commission** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote states Tzitzikostas was nominated as Greece's European Commissioner in the von der Leyen Commission II, directly identifying the specific Commission term.
+  - flash: The quote states Tzitzikostas was nominated as European Commissioner in the von der Leyen Commission II, but it does not state that he actually served on that Commission.
+- **Ritt Bjerregaard — board_member — Socialist International Women** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote explicitly states she was vice-president of Socialist International Women (SIW), directly supporting the board_member relation with the recorded role.
+  - flash: The quote states she was vice-president of Socialist International Women but does not explicitly establish that this role was a board/trustee/supervisory-director seat.
+- **Yvan Blot — member — Club d'experts de Valdaï** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote explicitly states "Il est aussi membre du comité des experts de Rethinking Russia et du Club d'experts de" (Valdaï), directly confirming Yvan Blot is a member of the Vald
+  - flash: The quote says he is a member of “Club d’experts de” but does not clearly complete the name as Club d’experts de Valdaï; the separate mention of “Valdaï” is not directly tied to th
+- **Sir Leon Brittan — attendee — 1922 Committee** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote states Brittan attended a "poisonous meeting of Tory backbenchers at the 1922 Committee," directly entailing his attendance at a meeting of that organisation.
+  - flash: The quote mentions a meeting of Tory backbenchers at the 1922 Committee and Brittan’s resignation but does not state that Brittan attended the meeting.
+- **Günter Verheugen — member — Free Democratic Party of Germany** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote states Verheugen left the FDP with many left liberal party members in 1982, directly entailing he was a member of the FDP.
+  - flash: The quote directly implies he was a member of the FDP because he "left the FDP with many left liberal party members," but it does not state that FDP is the Free Democratic Party of
+- **Leopoldo Calvo-Sotelo — founder — Fedisa publishing firm** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote explicitly states that Sotelo was one of the founders of the association disguised as the Fedisa publishing firm, directly supporting the founder relation.
+  - flash: The quote says Sotelo was a founder of an association that disguised itself as the Fedisa publishing firm, not explicitly that he founded Fedisa itself.
+- **Stéphane Séjourné — founder — En Marche!** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote states Séjourné contributed to the creation of En Marche!, which directly entails he was a founder or co-founder of the organisation.
+  - flash: The quote says Séjourné contributed to the creation of En Marche!, but it does not state that he founded or co-founded it.
+- **Margrethe Vestager — chair — Social Liberals** (chat SUPPORTED, flash UNSUPPORTED)
+  - chat: The quote explicitly states she was leader of the Social Liberals, which directly entails the chair/leader relation to that organisation.
+  - flash: The quote states she was leader of the Social Liberals, not that she chaired or presided over the organisation.
+- **Vytenis Andriukaitis — chair — LSDP (Social Democratic Party of Lithuania)** (chat SUPPORTED, flash UNSUPPORTED)
+  - chat: The quote explicitly states he was a deputy chairman of LSDP, which entails he chairs or presides over the organisation in that deputy role.
+  - flash: The quote states he was a deputy chairman of LSDP, not that he chaired or presided over the organisation.
+- **Philippe Busquin — educated_at — Université Libre De Bruxelles** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote states Busquin earned a degree in physics from the Free University of Brussels, which directly entails he studied at/attended that institution.
+  - flash: The quote states a degree from the "Free University of Brussels" but does not explicitly identify it as Université Libre de Bruxelles rather than another institution with that tran
+- **Ursula von der Leyen — held_degree — PhD** (chat SUPPORTED, flash UNSUPPORTED)
+  - chat: The quote states she graduated as a Doctor of Medicine in 1991, which directly entails holding a PhD/doctorate.
+  - flash: The quote states she graduated as a Doctor of Medicine, not that she holds a PhD.
+- **Miguel Angel Martínez Martínez — chair — WEU Assembly** (chat SUPPORTED, flash UNSUPPORTED)
+  - chat: The quote explicitly states he was Vice-President of the WEU Assembly, which directly entails he chaired or presided over that body.
+  - flash: The quote states he was Vice-President of the WEU Assembly, which does not directly entail that he chaired or presided over the organisation.
+- **Christos Papoutsis — nominated_by — GRC** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote states he was appointed as Greece's Representative to the World Bank, which directly entails appointment by the Greek government.
+  - flash: The quote says he was appointed as Greece's Representative to the World Bank but does not explicitly state that Greece or its government nominated or appointed him.
+- **Günther Oettinger — post_mandate_occupation — Kekst CNC** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote lists Kekst CNC as a post-Commission activity (Global Advisory Board since 2020) for Oettinger, directly supporting the post-mandate occupation claim.
+  - flash: The quote shows Oettinger held a Kekst CNC advisory board role since 2020 but does not state that this was taken up after leaving the Commission or identify the Juncker term.
+- **Szabolcs Fazakas — affiliated_with — Hungarian Secret Service (communist era)** (chat AMBIGUOUS, flash ERROR)
+  - chat: The quote reports an allegation by Tamás Deutsch that Fazakas joined the Hungarian Secret Service as a secret agent, but it is a charge that Fazakas denied, so it does not establis
+  - flash: RuntimeError: empty model response
+- **Mariya Gabriel — board_member — EPP Group** (chat SUPPORTED, flash UNSUPPORTED)
+  - chat: The quote explicitly states Mariya Gabriel was vice-president of the EPP Group, directly supporting the board_member relation with the recorded role.
+  - flash: The quote states she was vice-president of the EPP Group, but it does not state or directly entail that she served on its board as a board member, trustee, or supervisory director.
+- **Karel De Gucht — post_mandate_occupation — CVC Capital Partners** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote lists CVC Capital Partners as a post-Commission activity of Karel De Gucht, stating he has been a Member of the European Advisory Board since 2015, which directly entails
+  - flash: The quote lists De Gucht as a member of CVC Capital Partners' European Advisory Board since 2015 but does not state that this began after he left the Commission.
+- **Costas Kadis — from_country — Cyprus** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote states Kadis moved back to "his home country" to work in Cyprus, which directly entails origin/nationality in Cyprus.
+  - flash: The quote calls it his 'home country' but does not explicitly name Cyprus as his nationality, birthplace, or origin; Cyprus appears only in the organization name.
+- **Romano Prodi — founder — Democratic Party** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote explicitly states Prodi became the founding president of the Democratic Party, directly entailing the founder relation.
+  - flash: The quote identifies Prodi as the Democratic Party's founding president but does not explicitly state that he founded or co-founded the organisation.
+- **Pertti Paasio — member — Parliament of Finland** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote explicitly states Paasio became a member of the Parliament in July 1975, directly supporting the membership relation.
+  - flash: The quote says he became a member of 'the Parliament' but does not explicitly identify it as the Parliament of Finland.
+- **Miguel Angel Martínez Martínez — chair — ACP-EU Joint Parliamentary Assembly** (chat SUPPORTED, flash UNSUPPORTED)
+  - chat: The quote explicitly states Martínez Martínez is a Vice Chair of the ACP-EU Joint Parliamentary Assembly, directly supporting the chair relation with the recorded role.
+  - flash: The quote states Martínez Martínez is a Vice Chair, not chair or presider, of the ACP-EU Joint Parliamentary Assembly.
+- **Francesco Speroni — affiliated_with — Italian Senate** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote explicitly states Speroni was a Senator from 1992 to 1999, directly entailing a formal affiliation with the Italian Senate in the role of Senator.
+  - flash: The quote says Speroni was 'a Senator' but does not explicitly name the Italian Senate, so the affiliation with that specific organisation is not directly established from the quot
+- **Günther Oettinger — post_mandate_occupation — Deloitte Deutschland** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote lists Deloitte Deutschland as a post-Commission activity of Oettinger, showing he took up a role there after leaving the Commission.
+  - flash: The quote lists Oettinger's Deloitte Deutschland advisory council membership since 2020 but does not state that this began after leaving the Commission or identify the Juncker Comm
+- **Pekka Ala-Pietilä — chair — Nokia Mobile Phones** (chat SUPPORTED, flash UNSUPPORTED)
+  - chat: The quote explicitly states he was President of Nokia Mobile Phones (1992–1998), which entails he chaired/presided over that organisation.
+  - flash: The quote states he was President of Nokia Mobile Phones, not chair, and does not directly entail that he chaired or presided over the organisation in the claimed chair relation.
+- **Michał Kamiński — member — Law and Justice** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote states he joined the Right Alliance which merged with Law and Justice, and he was reelected on the PP-PiS joint ticket, directly entailing his membership in Law and Justi
+  - flash: The quote says he joined the Right Alliance, which later merged with Law and Justice, but does not explicitly state that he himself became a member of Law and Justice.
+- **Alejo Vidal-Quadras — member — People's Party** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote states Vidal-Quadras was elected on the People's Party ticket, directly entailing his membership in that organisation.
+  - flash: The quote states he was elected on the People's Party ticket but does not explicitly state that he was a member of the People's Party.
+- **Neelie Kroes — employed_by — StartupDelta** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote states Kroes is currently leading StartupDelta, directly entailing an executive employment role at that organisation.
+  - flash: The quote says Kroes is leading StartupDelta, but it does not explicitly state that she is employed by it in an executive role rather than serving in another capacity.
+- **Dimitris Avramopoulos — nominated_by — GRC** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote states he was nominated as Greece's European Commissioner, directly entailing nomination by Greece (GRC).
+  - flash: The quote mentions his nomination as Greece's European Commissioner but does not explicitly state that Greece or its government nominated or appointed him.
+- **Neil Kinnock — affiliated_with — Campaign for Nuclear Disarmament (CND)** (chat SUPPORTED, flash UNSUPPORTED)
+  - chat: The quote directly states Kinnock participated in Campaign for Nuclear Disarmament activities, which entails a formal affiliation with the organisation.
+  - flash: The quote states only that Kinnock participated in CND activities, which does not establish a formal affiliation with the organisation.
+- **Günther Oettinger — post_mandate_occupation — CG Elementum AG** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote lists CG Elementum as a corporate board role held since 2020, which is after Oettinger's Juncker Commission term (2014-2019), directly entailing the post-mandate occupati
+  - flash: The quote confirms a CG Elementum supervisory board seat since 2020 but does not state that this was after leaving the Commission or identify the Juncker term.
+- **Dimitris Avramopoulos — advisory_board — New Democracy** (chat SUPPORTED, flash UNSUPPORTED)
+  - chat: The quote explicitly states he was a Special Adviser to Konstantinos Mitsotakis, President and Leader of the New Democracy, directly supporting an advisory role to the organisation
+  - flash: The quote says he was a Special Adviser to Konstantinos Mitsotakis, not that he served on an advisory board or as an advisor to New Democracy itself.
+- **Federica Mogherini — post_mandate_occupation — International Crisis Group** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote lists Federica Mogherini's activities and states she is a member of the International Crisis Group's Board of Trustees since 2019, which directly entails the post-mandate
+  - flash: The quote confirms Mogherini has been an ICG Board of Trustees member since 2019 but does not state that this began after leaving the Commission, so the post-mandate relation is no
+- **Catherine Ashton — employed_by — Ministry of Justice (Spain)** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote explicitly states Ashton became Parliamentary Under-Secretary of State at the new Ministry of Justice in May 2007, directly supporting the employment relation and role.
+  - flash: The quote states she became Parliamentary Under-Secretary of State at a new Ministry of Justice but does not identify it as Spain's Ministry of Justice.
+- **Heribert Barrera i Costa — chair — Institute for Catalan Studies** (chat SUPPORTED, flash UNSUPPORTED)
+  - chat: The quote states he was president of the science section of the Institute for Catalan Studies, directly supporting the chair relation.
+  - flash: The quote states he was president of the science section of the Institute for Catalan Studies and later an emeritus member, not chair or president of the Institute itself.
+- **Max Gallo — member — French Communist Party** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote states Gallo was a Communist until 1956, which directly entails membership in the French Communist Party.
+  - flash: The quote says he was 'a Communist' until 1956 but does not explicitly state membership in the French Communist Party.
+- **Hadja Lahbib — held_portfolio — European Commissioner for Preparedness and Crisis Management, and Commissioner for Equality** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote directly states that Hadja Lahbib was nominated as European Commissioner for Preparedness, Crisis Management, and Equality, matching the claimed portfolio.
+  - flash: The quote states von der Leyen nominated Lahbib for the portfolio but does not state that she actually held or took up the post, so the holding relation is not confirmed.
+- **Cecilia Malmström — founder — Radicalisation Awareness Network (R.A.N.)** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote states Malmström officially launched the Radicalisation Awareness Network, which directly entails founding/launching the organisation.
+  - flash: The quote states Malmström officially launched the network, which supports a launcher role but does not explicitly state that she founded or co-founded it.
+- **Martin Bangemann — held_degree — PhD** (chat SUPPORTED, flash UNSUPPORTED)
+  - chat: The quote states Bangemann earned a Dr. jur., which directly entails holding a PhD (doctorate) degree.
+  - flash: The quote states he earned a Dr. jur., not a PhD, and does not directly equate the two.
+- **Viviane Reding — employed_by — European Commission** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote states Reding was appointed Commissioner, directly entailing she was employed by the European Commission in an executive role.
+  - flash: The quote states Reding was appointed a Commissioner but does not explicitly identify the European Commission as the employing organisation.
+- **Jyrki Katainen — chair — Youth of the European People's Party** (chat SUPPORTED, flash UNSUPPORTED)
+  - chat: The quote explicitly states Katainen was vice president of the Youth of the European Peoples Party, directly supporting the chair/leadership relation with the recorded role.
+  - flash: The quote states Katainen was vice president, not chair or presiding officer, of the Youth of the European People's Party.
+- **Andrius Kubilius — from_country — Lithuania** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote states Kubilius served as Prime Minister of Lithuania, which directly entails he is from/of that country.
+  - flash: The quote states he was Prime Minister of Lithuania but does not explicitly state his nationality, citizenship, birth, or origin in Lithuania.
+- **Virginijus Sinkevičius — employed_by — Office of the Prime Minister of the Republic of Lithuania** (chat SUPPORTED, flash UNSUPPORTED)
+  - chat: The quote explicitly states Sinkevičius was a trainee at the Office of the Prime Minister of the Republic of Lithuania, directly supporting the employed_by relation in that role.
+  - flash: The quote says he was a trainee in a unit at the Office, which does not establish employment in an executive role.
+- **Martin Bangemann — from_country — germany** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote identifies Bangemann as the 'German Federal Minister,' which directly entails German nationality/origin.
+  - flash: The quote calls him a 'German Federal Minister' but does not explicitly state nationality, citizenship, birth, or origin in Germany.
+- **Alexander Jungbluth — member — Alternative für Deutschland (AfD)** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote explicitly states Jungbluth is a German politician for the AfD party, directly supporting his membership in the organization.
+  - flash: The quote calls him a politician 'for the AfD party' but explicitly says 'member' only of the European parliament, so it does not clearly establish AfD membership.
+- **Kristalina Georgieva — educated_at — MIT** (chat AMBIGUOUS, flash UNSUPPORTED)
+  - chat: The quote mentions a Fulbright fellowship at the Massachusetts Institute of Technology but is truncated and does not explicitly state she studied at or attended MIT.
+  - flash: The quote states she was a Fulbright fellow at the Massachusetts Institute of Technology, but it does not state that she studied at or attended MIT.
+- **Ritt Bjerregaard — from_country — Denmark** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote states Bjerregaard was the Commissioner representing Denmark, which directly entails Danish nationality/origin for the from_country relation.
+  - flash: The quote says she represented Denmark as European Commissioner, but it does not explicitly state nationality, citizenship, birth, or origin in Denmark.
+- **Marianne Thyssen — board_member — European People's Party** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote states Thyssen is a member of the bureau of the European People's Party, which directly entails a board/supervisory-type role within the organisation.
+  - flash: The quote states membership of the EPP bureau, but it does not explicitly establish that the bureau is a board or supervisory-director body equivalent to board_member.
+- **Paolo Gentiloni — employed_by — European Commissioner for Economy** (chat SUPPORTED, flash UNSUPPORTED)
+  - chat: The quote explicitly states Gentiloni was European Commissioner for Economy in the von der Leyen Commission, directly supporting the employment relation in that executive role.
+  - flash: The quote states Gentiloni held the role of European Commissioner for Economy but does not state that he was employed by 'European Commissioner for Economy' as an organisation.
+- **Janez Lenarčič — employed_by — Organization for Security and Co-operation in Europe (OSCE)** (chat SUPPORTED, flash UNSUPPORTED)
+  - chat: The quote explicitly states Lenarčič was ambassador of Slovenia to the OSCE, directly establishing an executive employment role with that organization.
+  - flash: The quote states Lenarčič was Slovenia's ambassador to the OSCE, which is a national diplomatic role accredited to the OSCE, not employment by the OSCE in an executive role.
+- **Miguel Angel Martínez Martínez — member — Party of European Socialists** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote states Martínez is a Member of the European Parliament for the Spanish Socialist Workers' Party, part of the Party of European Socialists, directly entailing his membersh
+  - flash: The quote says his party is part of the Party of European Socialists, but does not explicitly state that Martínez himself is a member of that organisation.
+- **Sigrid Friis Proschowsky — educated_at — University Of Copenhagen** (chat SUPPORTED, flash UNSUPPORTED)
+  - chat: The quote explicitly states she has studied political science at the University of Copenhagen, directly supporting the educated_at relation.
+  - flash: The quote attributes study at the University of Copenhagen to the subject of the Sigrid Friis Frederiksen article, not to Sigrid Friis Proschowsky.
+- **Athanasios Rantos — held_position — Advocate General** (chat AMBIGUOUS, flash UNSUPPORTED)
+  - chat: The quote is a heading fragment that names the position but does not explicitly state that Athanasios Rantos held it.
+  - flash: The quote is only a page heading fragment ('Advocate General / Biography and career') that never mentions Athanasios Rantos nor states that he held the position of Advocate General
+- **Mario Monti — held_portfolio — Internal Market and Financial Services / Competition** (chat SUPPORTED, flash ERROR)
+  - chat: The quote explicitly states Monti served as European Commissioner with responsibility for the Internal Market and for Competition, directly supporting the held_portfolio claim.
+  - flash: RuntimeError: empty model response
+- **Leszek Miller — affiliated_with — Government of Poland** (chat SUPPORTED, flash UNSUPPORTED)
+  - chat: The quote states Miller was appointed Prime Minister and obliged to nominate the government, directly entailing a formal affiliation with the Government of Poland.
+  - flash: The quote says Miller was appointed Prime Minister and obliged to nominate the government, but it does not state the recorded role 'Minister in Charge' or a formal affiliation matc
+- **Mariya Gabriel — board_member — EPP Women** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote explicitly states she served as vice-president of EPP Women, which directly supports the board_member relation with the recorded role.
+  - flash: The quote states she served as vice-president of EPP Women but does not explicitly say she was a board member or trustee.
+- **Stavros Dimas — employed_by — Barroso Commission** (chat SUPPORTED, flash UNSUPPORTED)
+  - chat: The quote states the Greek government nominated Dimas for the incoming Barroso Commission, directly entailing his employment in an executive role on that Commission.
+  - flash: The quote states that the Greek government nominated Dimas for the incoming Barroso Commission, but it does not directly state or entail that he was employed by the Barroso Commiss
+- **Andrus Ansip — employed_by — European Commission** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote states Juncker proposed Ansip as Vice-President of the European Commission and European Commissioner for the Digital Single Market, directly entailing his executive emplo
+  - flash: The quote states only that Juncker proposed Ansip for the roles, not that he was appointed to or employed by the European Commission.
+- **Günther Oettinger — post_mandate_occupation — EBS University of Business and Law** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote states Oettinger has served as president of EBS University of Business and Law since 2021, which is after the Juncker Commission (2014-2019), directly entailing the post-
+  - flash: The quote states Oettinger has been president of EBS since 2021 but does not mention the Commission or that this role was taken up after leaving it.
+- **Heribert Barrera i Costa — employed_by — Gran Enciclopèdia Catalana** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote states he was responsible for the theoretical chemistry section of the Gran Enciclopèdia Catalana, which directly entails an executive role at that organization.
+  - flash: The quote says he was responsible for the theoretical chemistry section, but it does not explicitly state that he was employed by Gran Enciclopèdia Catalana in that role.
+- **Dacian Cioloş — nominated_by — ROU** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote states that President Iohannis nominated Cioloș as Prime Minister-designate, which entails nomination by the Romanian government/state (ROU).
+  - flash: The quote states Cioloș was nominated by President Iohannis, but it does not itself identify Iohannis as representing Romania/ROU or the Romanian government.
+- **Danuta Hübner — served_on_commission — Barroso I** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote names Danuta Hübner as one of the commissioners who stood down, directly entailing she served on the Barroso I Commission.
+  - flash: The quote identifies Hübner as a commissioner who stood down in 2009, but it does not explicitly identify the Barroso I Commission term.
+- **Christos Papoutsis — held_portfolio — Energy and Euratom Supply Agency / Small Enterprises** (chat SUPPORTED, flash ERROR)
+  - chat: The quote lists the subject's responsibilities as including Energy Policy and EURATOM Supply Agency, directly entailing that he held that portfolio as Commissioner.
+  - flash: RuntimeError: empty model response
+- **Padraig Flynn — nominated_by — IRL** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote states he was appointed Ireland's European Commissioner, which directly entails appointment by Ireland.
+  - flash: The quote says he was appointed Ireland's European Commissioner but does not explicitly state that Ireland or its government nominated or appointed him.
+- **Adina-Ioana Vălean — served_on_commission — VdL I Commission** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote states Vălean served as European Commissioner under Ursula von der Leyen, which directly entails service on the von der Leyen I Commission.
+  - flash: The quote says she served as European Commissioner under Ursula von der Leyen but does not identify the specific Commission term as the VdL I Commission.
+- **Stéphane Séjourné — founder — Jeunes avec Macron** (chat SUPPORTED, flash UNSUPPORTED)
+  - chat: The quote explicitly states that Séjourné contributed to the creation of Jeunes avec Macron, which directly entails a founder/co-founder relation.
+  - flash: The quote says he contributed to the creation of Jeunes avec Macron, which is weaker than and does not directly state founding or co-founding.
+- **Ola Källenius — educated_at — University of St. Gallen** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote states Källenius graduated from Stockholm School of Economics including an exchange semester at University of St. Gallen, which directly entails he studied at that instit
+  - flash: The quote says Källenius had an exchange semester at 'University of St.' but does not complete the institution name as University of St. Gallen, so the exact object is not directly
+- **Heribert Barrera i Costa — affiliated_with — Party of Labour of Spain** (chat SUPPORTED, flash UNSUPPORTED)
+  - chat: The quote states ERC ran in a coalition with the Party of Labour of Spain, directly entailing Barrera's party affiliation with that coalition partner.
+  - flash: The quote says ERC ran in coalition with the Party of Labour of Spain, but does not state that Barrera himself had a formal affiliation with that party.
+- **Olli Rehn — employed_by — European Commission** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote states Rehn succeeded Liikanen as commissioner for Enterprise and Information Society, directly entailing he held that executive commissioner role at the European Commiss
+  - flash: The quote states Rehn held the role of commissioner for Enterprise and Information Society but does not explicitly mention the European Commission as his employer.
+- **Ritt Bjerregaard — board_member — OSCE's Parliamentary Assembly** (chat SUPPORTED, flash ERROR)
+  - chat: The quote explicitly states she was vice-president of OSCE's Parliamentary Assembly, directly supporting the board_member relation with that role.
+  - flash: RuntimeError: empty model response
+- **Louis Michel — served_on_commission — Barroso I** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote states Louis Michel was a commissioner who stood down from the Barroso I Commission, directly entailing he served on that specific Commission term.
+  - flash: The quote says Louis Michel was a commissioner but does not identify the specific Commission term as Barroso I.
+- **Marianne Thyssen — board_member — EPP** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote states she was elected first vice-president of the EPP, which directly entails a leadership/board-level role in the organisation.
+  - flash: The quote confirms she was EPP first vice-president, but it does not state that this role was a board, trustee, or supervisory-director position, so board_member is not directly es
+- **Filip Turek — affiliated_with — Chamber of Deputies** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote states Turek became an MP after his party was elected to parliament, directly entailing a formal affiliation with the Chamber of Deputies as an MP.
+  - flash: The quote states Turek became an MP in parliament, but it does not explicitly identify the Chamber of Deputies as the organisation.
+- **Mario Monti — founder — Bruegel** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote explicitly states Monti was the founding chairman of Bruegel, directly entailing that he founded or co-founded the organisation.
+  - flash: The quote states Monti was Bruegel's founding chairman but does not explicitly say he founded or co-founded the organisation.
+- **Michaele Schreyer — employed_by — European Commission** (chat SUPPORTED, flash ERROR)
+  - chat: The quote states Schreyer was nominated as a German member of the European Commission, directly entailing she was employed by the European Commission as a Commissioner.
+  - flash: RuntimeError: empty model response
+- **Martin Bangemann — educated_at — Ludwig-Maximilians-Universität München** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote states he studied law in Munich, which directly entails attendance at the Ludwig-Maximilians-Universität München.
+  - flash: The quote says he studied law in Munich but does not explicitly name Ludwig-Maximilians-Universität München, so the specific institution is not directly stated.
+- **Cecilia Malmström — from_country — Sweden** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote states she was an MEP from Sweden, which directly entails she is from Sweden.
+  - flash: The quote says she was an MEP from Sweden, which indicates representation rather than explicitly stating Swedish nationality, citizenship, birth, or origin.
+- **Catherine Ashton — chair — Campaign for Nuclear Disarmament (CND)** (chat SUPPORTED, flash UNSUPPORTED)
+  - chat: The quote states Ashton was elected national treasurer and subsequently one of the vice-chairs of the CND, which entails she chaired or presided over the organisation in those lead
+  - flash: The quote states Ashton was an administrator, national treasurer, and one of the vice-chairs of CND, but does not state that she was chair or presided over the organisation.
+- **Federica Mogherini — post_mandate_occupation — College of Europe** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote states she was appointed rector of the College of Europe in 2020, directly entailing the post-mandate occupation relation.
+  - flash: The quote states she was appointed rector of the College of Europe in 2020 but does not mention leaving the Commission or identify the Commission term, so it does not establish the
+- **Karmenu Vella — founder — Maltese Turkish Business Council** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote explicitly states Karmenu Vella was the founding chairman of the Maltese Turkish Business Council, directly supporting the founder relation.
+  - flash: The quote states Vella was the founding chairman, but it does not explicitly state that he founded or co-founded the organisation.
+- **Wopke Hoekstra — nominated_by — NLD** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote states Hoekstra was appointed Minister of Foreign Affairs of the Netherlands and Vice-Prime Minister, which directly entails appointment by the Dutch government.
+  - flash: The quote states he was appointed Minister of Foreign Affairs of the Netherlands, but does not explicitly state that the Netherlands or its government nominated or appointed him.
+- **Valdis Dombrovskis — held_portfolio — VP – Euro and Social Dialogue / Financial Stability** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote explicitly states Dombrovskis was Vice-President of the European Commission for the Euro and Social Dialogue from 2014 to 2019, directly matching the claimed portfolio.
+  - flash: The quote states he was Vice-President for the Euro and Social Dialogue, but it does not mention Financial Stability, so it does not fully support the named portfolio as given.
+- **Carlos Moedas — post_mandate_occupation — Aga Khan University** (chat SUPPORTED, flash ERROR)
+  - chat: The quote lists Carlos Moedas as a Member of the Chancellor's Commission at Aga Khan University since 2021, which is after his Juncker Commission mandate (2014-2019), directly supp
+  - flash: RuntimeError: empty model response
+- **László Andor — educated_at — Victoria University Of Manchester** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote states he earned a master's degree at the University of Manchester, which directly entails he studied at that institution.
+  - flash: The quote says he earned a master's degree at the University of Manchester, but it does not mention or establish attendance at Victoria University Of Manchester.
+- **Pascal Lamy — employed_by — Crédit Lyonnais** (chat SUPPORTED, flash UNSUPPORTED)
+  - chat: The quote states Lamy "moved into business at Crédit Lyonnais," which directly entails he was employed by Crédit Lyonnais in a business role.
+  - flash: The quote says Lamy briefly moved into business at Crédit Lyonnais but does not state that he was employed there in an executive role.
+- **Federica Mogherini — post_mandate_occupation — Friends of Europe** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote lists Friends of Europe with Mogherini as a member of the Board of Trustees since 2020, directly supporting the post-mandate occupation relation.
+  - flash: The quote confirms Friends of Europe Board of Trustees membership since 2020 but does not state that this began after leaving the Commission.
+- **Jyrki Katainen — employed_by — European People's Party** (chat SUPPORTED, flash UNSUPPORTED)
+  - chat: The quote states Katainen was elected vice president of the European People's Party, directly entailing an executive role with that organisation.
+  - flash: The quote states Katainen was elected vice president of the EPP, but it does not state that he was employed by the EPP.
+- **Neelie Kroes — board_member — NIB** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote lists NIB among organizations in a role list attributed to Kroes, directly indicating she served on its board.
+  - flash: The quote lists NIB among organizations but does not state that Neelie Kroes served on its board or in any role.
+- **Valdis Dombrovskis — held_portfolio — European Commissioner for Economy and Productivity and Commissioner for Implementation and Simplification** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote states Dombrovskis is serving as European Commissioner for Economy and Productivity and Commissioner for Implementation and Simplification, directly supporting the held_p
+  - flash: The quote confirms the Economy and Productivity portfolio and begins a second commissioner role, but it truncates before fully stating 'Implementation and Simplification'.
+- **Heribert Barrera i Costa — attendee — Louis Brun network** (chat SUPPORTED, flash UNSUPPORTED)
+  - chat: The quote states Barrera is believed to have participated in the French resistance by collaborating with the Louis Brun network, which directly entails attending/participating in t
+  - flash: The quote says he is believed to have collaborated with the Louis Brun network while in exile, not that he attended a meeting or event of the organisation, and it explicitly notes 
+- **Mariya Gabriel — board_member — European People's Party Group** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote explicitly states she served as vice-president of the European People's Party (EPP) group, directly supporting the board_member relation with the recorded role.
+  - flash: The quote states she served as vice-president of the EPP group but does not explicitly establish that this role was a board/trustee/supervisory director position.
+- **Erkki Liikanen — employed_by — International Monetary Fund** (chat SUPPORTED, flash UNSUPPORTED)
+  - chat: The quote explicitly states Liikanen became Governor of the International Monetary Fund for Finland, directly supporting the employed_by relation in that executive role.
+  - flash: The quote states he became Governor of the International Monetary Fund for Finland, but that is a governor/representative role and does not establish that he was employed by the IM
+- **Virginijus Sinkevičius — attendee — Create Lithuania** (chat SUPPORTED, flash UNSUPPORTED)
+  - chat: The quote states he participated in the government's "Create Lithuania" program, directly entailing attendance/participation in an event or program of the organisation.
+  - flash: The quote says he participated in the “Create Lithuania” program, but it does not state that he attended a meeting or event of the organisation.
+- **Patryk Jaki — educated_at — National School Of Public Administration, Warsaw, Poland** (chat SUPPORTED, flash UNSUPPORTED)
+  - chat: The quote states he completed a program organized by the National School of Public Administration, which directly entails he studied at/attended that institution.
+  - flash: The quote says he completed a program organized by the National School of Public Administration, not that he studied at or attended the institution itself.
+- **Gérard Onesta — member — European Greens** (chat SUPPORTED, flash ERROR)
+  - chat: The quote explicitly states he is a member of Europe Écologie–The Greens, which is described as part of the European Greens, directly entailing membership in the European Greens.
+  - flash: RuntimeError: empty model response
+- **Romano Prodi — chair — UN** (chat SUPPORTED, flash UNSUPPORTED)
+  - chat: The quote states Prodi was named by the UN as head of a joint AU-UN panel, directly entailing that he chairs/presides over that UN-related body.
+  - flash: The quote says Prodi was named by the UN as head of a joint AU-UN panel, not that he chairs or presides over the UN itself.
+- **Michaele Schreyer — chair — Green Party's parliamentary group** (chat SUPPORTED, flash AMBIGUOUS)
+  - chat: The quote explicitly states she assumed the leadership of the Green Party's parliamentary group, directly supporting the chair/leadership relation.
+  - flash: The quote states she assumed leadership of the Green Party's parliamentary group alongside Renate Künast, but does not explicitly state that she chaired or presided over it.

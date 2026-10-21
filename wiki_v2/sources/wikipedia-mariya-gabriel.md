@@ -14,7 +14,7 @@ generated: 2026-10-21
 - SHA-256: `e838cab930b6dd5088b49d02756c363af101c891bcfce1e54adea9803d906e66`
 - Sentences: 87
 
-## Verified claims citing this document (23)
+## Verified claims citing this document (20)
 
 - [[people/mariya-gabriel|Mariya Gabriel]] — affiliated_with — European Association of Communications Agencies
   > "Prizes and awards 2013 'MEP of the year' Award in the 'Gender Equality category; 2015 Award of The European Association of Communications Agencies for her achievements in relations to gender equality and women's rights; 2016 \"MEP of the year\" Award in the Development category; 2016 Order of San Carlos from the Government of Colombia for outstanding contribution to the nation of Colombia in the are […]"
@@ -22,12 +22,6 @@ generated: 2026-10-21
   > "Prizes and awards 2013 'MEP of the year' Award in the 'Gender Equality category; 2015 Award of The European Association of Communications Agencies for her achievements in relations to gender equality and women's rights; 2016 \"MEP of the year\" Award in the Development category; 2016 Order of San Carlos from the Government of Colombia for outstanding contribution to the nation of Colombia in the are […]"
 - [[people/mariya-gabriel|Mariya Gabriel]] — affiliated_with — EPP Group
   > "From 2012 until 2014 Mariya Gabriel was a coordinator of the EPP Group in the Women's Rights and Gender Equality Committee."
-- [[people/mariya-gabriel|Mariya Gabriel]] — board_member — European People's Party Group
-  > "In the European Parliament she served as vice-president of the European People's Party (EPP) group, vice-president of EPP Women and head of the Bulgarian EPP delegation."
-- [[people/mariya-gabriel|Mariya Gabriel]] — board_member — EPP Women
-  > "In the European Parliament she served as vice-president of the European People's Party (EPP) group, vice-president of EPP Women and head of the Bulgarian EPP delegation."
-- [[people/mariya-gabriel|Mariya Gabriel]] — board_member — EPP Group
-  > "From 2014 to 2017, Mariya Gabriel was vice-president of the EPP Group and Head of the Bulgarian delegation in the EPP Group."
 - [[people/mariya-gabriel|Mariya Gabriel]] — chair — Robert Schuman Institute
   > "Mariya Ivanova Gabriel (Bulgarian: Мария Иванова Габриел, née Nedelcheva, Bulgarian: Неделчева, born 20 May 1979) is a Bulgarian politician, president of the Robert Schuman Institute."
 - [[people/mariya-gabriel|Mariya Gabriel]] — chair — European People's Party Group

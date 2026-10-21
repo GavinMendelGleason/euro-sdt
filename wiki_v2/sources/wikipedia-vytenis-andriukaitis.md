@@ -14,12 +14,10 @@ generated: 2026-10-21
 - SHA-256: `2d396f869668c9b65600c760c4300016501f6ba9cda6f268ef48ccb85942d1c1`
 - Sentences: 95
 
-## Verified claims citing this document (27)
+## Verified claims citing this document (26)
 
 - [[people/vytenis-andriukaitis|Vytenis Andriukaitis]] — chair — World Health Assembly
   > "2014 – vice-president of the 67th World Health Assembly nominated by the Regional Office for Europe of the World Health Organization."
-- [[people/vytenis-andriukaitis|Vytenis Andriukaitis]] — chair — LSDP (Social Democratic Party of Lithuania)
-  > "As a deputy chairman of LSDP, he pioneered the re-establishment of its steering group, was also a member of the Lithuanian Reform Movement Sąjūdis and participated in the preparation and legalisation of LSDP Lithuanian Movement programmes for elections to the Lithuanian SSR Supreme Council."
 - [[people/vytenis-andriukaitis|Vytenis Andriukaitis]] — educated_at — Kaunas Medical Institute
   > "After excelling at school, he enrolled at Kaunas Medical Institute, graduating in 1975."
 - [[people/vytenis-andriukaitis|Vytenis Andriukaitis]] — educated_at — Vilnius University

@@ -14,7 +14,7 @@ generated: 2026-10-21
 - SHA-256: `4d5a6f5df76afa61ec2dd384e89cf269b92b29e80504279a4415263d8fdfbad3`
 - Sentences: 124
 
-## Verified claims citing this document (32)
+## Verified claims citing this document (28)
 
 - [[people/frans-timmermans|Frans Timmermans]] — affiliated_with — Organization for Security and Co-operation in Europe (OSCE)
   > "A year later, he became Senior Advisor and Private Secretary to Max van der Stoel, then serving as the High Commissioner on National Minorities for the Organization for Security and Co-operation in Europe (OSCE), a position he held until entering national politics in 1998."
@@ -28,12 +28,6 @@ generated: 2026-10-21
   > "In December 2018, during the Congress of Lisbon, the Party of European Socialists acclaimed him as its candidate."
 - [[people/frans-timmermans|Frans Timmermans]] — attendee — Israel Council on Foreign Relations
   > "In a speech at the Israel Council on Foreign Relations Timmermans explains the interconnectedness between Israel and Europe."
-- [[people/frans-timmermans|Frans Timmermans]] — chair — GroenLinks–PvdA
-  > "Franciscus Cornelis Gerardus Maria Timmermans (born 6 May 1961) is a Dutch politician who was the leader of GroenLinks–PvdA in the House of Representatives from 2023 to 2025."
-- [[people/frans-timmermans|Frans Timmermans]] — chair — GroenLinks–PvdA
-  > "The alliance emerged as the second-largest parliamentary group, with Timmermans now serving as its leader in the House of Representatives."
-- [[people/frans-timmermans|Frans Timmermans]] — chair — GroenLinks–PvdA
-  > "After disappointing results at the 2025 general election, Timmermans announced his resignation as leader of the alliance."
 - [[people/frans-timmermans|Frans Timmermans]] — chair — Committee on Foreign Affairs
   > "From 2001 to 2002, he served as Deputy Chairman of the Committee on Foreign Affairs."
 - [[people/frans-timmermans|Frans Timmermans]] — chair — Committee on Economic Affairs
@@ -58,8 +52,6 @@ generated: 2026-10-21
   > "Timmermans resigned from the European Commission in 2023 to lead the joint GroenLinks–PvdA alliance in the 2023 Dutch general election."
 - [[people/frans-timmermans|Frans Timmermans]] — employed_by — Dutch Embassy in Moscow
   > "In 1990, he was appointed Second Secretary at the Dutch Embassy in Moscow, where he served during a period of major political change following the dissolution of the Soviet Union."
-- [[people/frans-timmermans|Frans Timmermans]] — employed_by — Organization for Security and Co-operation in Europe (OSCE)
-  > "A year later, he became Senior Advisor and Private Secretary to Max van der Stoel, then serving as the High Commissioner on National Minorities for the Organization for Security and Co-operation in Europe (OSCE), a position he held until entering national politics in 1998."
 - [[people/frans-timmermans|Frans Timmermans]] — employed_by — European Commission
   > "On 1 November 2014, Timmermans took office as First Vice President in Juncker's European Commission, and served as President Juncker's first deputy and right-hand man."
 - [[people/frans-timmermans|Frans Timmermans]] — held_portfolio — Executive VP – European Green Deal

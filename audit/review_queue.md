@@ -2,70 +2,70 @@
 
 Rows: 1273. Priority = uncertainty + weak context + model disagreement.
 
-By grade: {'C': 738, 'B': 485, 'A': 50}. By status: {'needs_review': 51, 'verified': 1222}.
+By grade: {'C': 738, 'B': 485, 'A': 50}. By status: {'needs_review': 177, 'verified': 1096}.
 
 | Priority | Status | Grade | Subject | Predicate | Object | Model |
 |---:|---|---|---|---|---|---|
-| 120 | needs_review | C | Athanasios Rantos | held_position | Advocate General | deepseek-chat AMBIGUOUS |
-| 120 | needs_review | C | Eugene Regan | held_position | Judge | deepseek-chat AMBIGUOUS |
-| 120 | needs_review | C | Jean Richard de la Tour | held_position | Advocate General | deepseek-chat AMBIGUOUS |
-| 120 | needs_review | C | Juliane Kokott | held_position | Advocate General | deepseek-chat AMBIGUOUS |
-| 120 | needs_review | C | Laila Medina | held_position | Advocate General | deepseek-chat AMBIGUOUS |
-| 120 | needs_review | C | Maria Damanaki | post_mandate_occupation | The Nature Conservancy | deepseek-chat AMBIGUOUS |
-| 120 | needs_review | C | Tonio Borg | post_mandate_occupation | European Medicines Agency (EMA) | deepseek-chat AMBIGUOUS |
-| 115 | needs_review | C | Neelie Kroes | advisory_board | Prof.Mr. Teldersstichting | deepseek-chat AMBIGUOUS |
-| 115 | needs_review | C | Szabolcs Fazakas | affiliated_with | Hungarian Secret Service (communist era) | deepseek-chat AMBIGUOUS |
-| 115 | needs_review | C | Hans van den Broek | board_member | Radio Netherlands | deepseek-chat AMBIGUOUS |
-| 115 | needs_review | C | Neelie Kroes | board_member | McDonald's Netherlands | deepseek-chat AMBIGUOUS |
-| 115 | needs_review | C | Neelie Kroes | board_member | Nederlandse Spoorwegen | deepseek-chat AMBIGUOUS |
-| 115 | needs_review | C | Thierry Breton | board_member | Groupe Bull | deepseek-chat AMBIGUOUS |
-| 115 | needs_review | C | Cecilia Malmström | chair | Swedish Liberals | deepseek-chat AMBIGUOUS |
-| 115 | needs_review | C | Janusz Onyszkiewicz | member | Polish Sejm | deepseek-chat AMBIGUOUS |
-| 115 | needs_review | C | Maroš Šefčovič | member | Communist Party of Czechoslovakia | deepseek-chat AMBIGUOUS |
-| 115 | needs_review | C | Romano Prodi | member | Christian Democracy | deepseek-chat AMBIGUOUS |
-| 110 | needs_review | C | Neelie Kroes | board_member | Nedlloyd | deepseek-chat AMBIGUOUS |
-| 110 | needs_review | C | José Manuel Barroso | educated_at | Edmund A. Walsh School Of Foreign Service At Georgetown University | deepseek-chat AMBIGUOUS |
-| 110 | needs_review | C | Kristalina Georgieva | educated_at | MIT | deepseek-chat AMBIGUOUS |
-| 110 | needs_review | C | Wopke Hoekstra | educated_at | Leiden University | deepseek-chat AMBIGUOUS |
-| 110 | needs_review | C | Apostolos Tzitzikostas | employed_by | MACEDONIAN FARM | deepseek-chat AMBIGUOUS |
-| 110 | needs_review | C | Markos Kyprianou | employed_by | George L. Savvides & Co | deepseek-chat AMBIGUOUS |
-| 110 | needs_review | C | Piotr Serafin | employed_by | Ministry of Foreign Affairs (Sweden) | deepseek-chat AMBIGUOUS |
-| 110 | needs_review | C | Stefan Füle | employed_by | Ministry of Foreign Affairs (Sweden) | deepseek-chat AMBIGUOUS |
-| 110 | needs_review | C | João de Deus Pinheiro | from_country | Portugal | deepseek-chat AMBIGUOUS |
-| 110 | needs_review | C | Jacques Barrot | held_portfolio | VP – Transport (later Justice, Freedom, Security) | deepseek-chat AMBIGUOUS |
-| 110 | needs_review | C | António Vitorino | served_on_commission | Prodi Commission | deepseek-chat AMBIGUOUS |
-| 110 | needs_review | C | Glenn Micallef | served_on_commission | VdL II Commission | deepseek-chat AMBIGUOUS |
-| 110 | needs_review | C | Henna Virkkunen | served_on_commission | VdL II Commission | deepseek-chat AMBIGUOUS |
-| 110 | needs_review | C | Jessika Roswall | served_on_commission | VdL II Commission | deepseek-chat AMBIGUOUS |
-| 110 | needs_review | C | John Dalli | served_on_commission | Barroso II | deepseek-chat AMBIGUOUS |
-| 110 | needs_review | C | Neil Kinnock | served_on_commission | Prodi Commission | deepseek-chat AMBIGUOUS |
-| 110 | needs_review | C | Philippe Busquin | served_on_commission | Prodi Commission | deepseek-chat AMBIGUOUS |
-| 110 | needs_review | C | Valdis Dombrovskis | served_on_commission | Juncker Commission | deepseek-chat AMBIGUOUS |
-| 105 | needs_review | C | Roxana Mînzatu | employed_by | non-profit business school | deepseek-chat AMBIGUOUS |
-| 105 | needs_review | B | Beate Gminder | member | EUSA programme for newly appointed Directors | deepseek-chat AMBIGUOUS |
-| 105 | needs_review | B | Joanna Drake | member | College of Europe | deepseek-chat AMBIGUOUS |
-| 105 | needs_review | C | Jyrki Katainen | served_on_commission | Juncker Commission | deepseek-chat AMBIGUOUS |
-| 105 | needs_review | C | Mairead McGuinness | served_on_commission | VdL I Commission | deepseek-chat AMBIGUOUS |
-| 100 | needs_review | B | Jean-Claude Juncker | affiliated_with | European Academy of Sciences and Arts | deepseek-chat AMBIGUOUS |
-| 100 | needs_review | C | Pedro Azagra Blázquez | board_member | Neoenergia, S.A. | deepseek-chat AMBIGUOUS |
-| 100 | needs_review | C | Paolo Scaroni | chair | A.C. Milan | deepseek-chat AMBIGUOUS |
-| 100 | needs_review | B | Pia Ahrenkilde Hansen | studied_field | Political Science | deepseek-chat AMBIGUOUS |
-| 95 | needs_review | B | Pat Cox | affiliated_with | Spinelli Group | deepseek-chat AMBIGUOUS |
-| 95 | needs_review | B | Joseph Daul | member | Centre National des Jeunes Agriculteurs | deepseek-chat AMBIGUOUS |
-| 95 | needs_review | C | Nicolas Schmit | served_on_commission | VdL I Commission | deepseek-chat AMBIGUOUS |
-| 95 | needs_review | C | Raffaele Fitto | served_on_commission | VdL II Commission | deepseek-chat AMBIGUOUS |
-| 95 | needs_review | C | Stéphane Séjourné | served_on_commission | VdL II Commission | deepseek-chat AMBIGUOUS |
-| 90 | needs_review | B | Christos Stylianides | affiliated_with | Union for the Mediterranean Parliamentary Assembly | deepseek-chat AMBIGUOUS |
-| 90 | needs_review | B | Ursula von der Leyen | affiliated_with | Open Coalition on Compliance Carbon Markets | deepseek-chat AMBIGUOUS |
-| 70 | verified | C | Cecilia Malmström | from_country | Sweden | deepseek-chat SUPPORTED |
-| 70 | verified | C | Costas Kadis | from_country | Cyprus | deepseek-chat SUPPORTED |
-| 70 | verified | C | Maciej Szpunar | held_position | Advocate General | deepseek-chat SUPPORTED |
-| 70 | verified | C | Antonio Tajani | nominated_by | ITA | deepseek-chat SUPPORTED |
-| 70 | verified | C | Carlos Moedas | nominated_by | PRT | deepseek-chat SUPPORTED |
-| 70 | verified | C | Charlie McCreevy | nominated_by | IRL | deepseek-chat SUPPORTED |
-| 70 | verified | C | Christos Papoutsis | nominated_by | GRC | deepseek-chat SUPPORTED |
-| 70 | verified | C | Dacian Cioloş | nominated_by | ROU | deepseek-chat SUPPORTED |
-| 70 | verified | C | Dimitris Avramopoulos | nominated_by | GRC | deepseek-chat SUPPORTED |
+| 120 | needs_review | C | Cecilia Malmström | from_country | Sweden | deepseek-flash AMBIGUOUS |
+| 120 | needs_review | C | Costas Kadis | from_country | Cyprus | deepseek-flash AMBIGUOUS |
+| 120 | needs_review | C | Athanasios Rantos | held_position | Advocate General | deepseek-flash UNSUPPORTED |
+| 120 | needs_review | C | Eugene Regan | held_position | Judge | deepseek-flash AMBIGUOUS |
+| 120 | needs_review | C | Jean Richard de la Tour | held_position | Advocate General | deepseek-flash AMBIGUOUS |
+| 120 | needs_review | C | Juliane Kokott | held_position | Advocate General | deepseek-flash AMBIGUOUS |
+| 120 | needs_review | C | Laila Medina | held_position | Advocate General | deepseek-flash AMBIGUOUS |
+| 120 | needs_review | C | Christos Papoutsis | nominated_by | GRC | deepseek-flash AMBIGUOUS |
+| 120 | needs_review | C | Dacian Cioloş | nominated_by | ROU | deepseek-flash AMBIGUOUS |
+| 120 | needs_review | C | Dimitris Avramopoulos | nominated_by | GRC | deepseek-flash AMBIGUOUS |
+| 120 | needs_review | C | Padraig Flynn | nominated_by | IRL | deepseek-flash AMBIGUOUS |
+| 120 | needs_review | C | Wopke Hoekstra | nominated_by | NLD | deepseek-flash AMBIGUOUS |
+| 120 | needs_review | C | Carlos Moedas | post_mandate_occupation | Aga Khan University | deepseek-flash ERROR |
+| 120 | needs_review | C | Federica Mogherini | post_mandate_occupation | International Crisis Group | deepseek-flash AMBIGUOUS |
+| 120 | needs_review | C | Federica Mogherini | post_mandate_occupation | College of Europe | deepseek-flash AMBIGUOUS |
+| 120 | needs_review | C | Federica Mogherini | post_mandate_occupation | Friends of Europe | deepseek-flash AMBIGUOUS |
+| 120 | needs_review | C | Günther Oettinger | post_mandate_occupation | HAM-LOG Gruppe | deepseek-flash AMBIGUOUS |
+| 120 | needs_review | C | Günther Oettinger | post_mandate_occupation | Kekst CNC | deepseek-flash AMBIGUOUS |
+| 120 | needs_review | C | Günther Oettinger | post_mandate_occupation | Deloitte Deutschland | deepseek-flash AMBIGUOUS |
+| 120 | needs_review | C | Günther Oettinger | post_mandate_occupation | CG Elementum AG | deepseek-flash AMBIGUOUS |
+| 120 | needs_review | C | Günther Oettinger | post_mandate_occupation | EBS University of Business and Law | deepseek-flash AMBIGUOUS |
+| 120 | needs_review | C | Karel De Gucht | post_mandate_occupation | CVC Capital Partners | deepseek-flash AMBIGUOUS |
+| 120 | needs_review | C | Maria Damanaki | post_mandate_occupation | The Nature Conservancy | deepseek-flash AMBIGUOUS |
+| 120 | needs_review | C | Tonio Borg | post_mandate_occupation | European Medicines Agency (EMA) | deepseek-flash AMBIGUOUS |
+| 115 | needs_review | C | Connie Hedegaard | advisory_board | Volkswagen | deepseek-flash AMBIGUOUS |
+| 115 | needs_review | C | Dimitris Avramopoulos | advisory_board | New Democracy | deepseek-flash UNSUPPORTED |
+| 115 | needs_review | C | Neelie Kroes | advisory_board | Prof.Mr. Teldersstichting | deepseek-flash AMBIGUOUS |
+| 115 | needs_review | C | Brian Crowley | affiliated_with | Seanad Éireann (Irish Senate) | deepseek-flash AMBIGUOUS |
+| 115 | needs_review | C | Filip Turek | affiliated_with | Chamber of Deputies | deepseek-flash AMBIGUOUS |
+| 115 | needs_review | C | Francesco Speroni | affiliated_with | Italian Senate | deepseek-flash AMBIGUOUS |
+| 115 | needs_review | C | Johannes Hahn | affiliated_with | Youth Organisation of the Austrian People's Party (JVP) | deepseek-flash AMBIGUOUS |
+| 115 | needs_review | C | Neil Kinnock | affiliated_with | Campaign for Nuclear Disarmament (CND) | deepseek-flash UNSUPPORTED |
+| 115 | needs_review | C | Szabolcs Fazakas | affiliated_with | Hungarian Secret Service (communist era) | deepseek-flash ERROR |
+| 115 | needs_review | C | Luisa Morgantini | attendee | Association for Peace | deepseek-flash AMBIGUOUS |
+| 115 | needs_review | C | Sir Leon Brittan | attendee | 1922 Committee | deepseek-flash AMBIGUOUS |
+| 115 | needs_review | C | Adina-Ioana Vălean | board_member | European Parliament | deepseek-flash UNSUPPORTED |
+| 115 | needs_review | C | Apostolos Tzitzikostas | board_member | European Committee of the Regions | deepseek-flash AMBIGUOUS |
+| 115 | needs_review | C | Federica Mogherini | board_member | Italian Democratic Party (PD) | deepseek-flash UNSUPPORTED |
+| 115 | needs_review | C | Hans van den Broek | board_member | Radio Netherlands | deepseek-flash AMBIGUOUS |
+| 115 | needs_review | C | Marianne Thyssen | board_member | European People's Party | deepseek-flash AMBIGUOUS |
+| 115 | needs_review | C | Marianne Thyssen | board_member | EPP | deepseek-flash AMBIGUOUS |
+| 115 | needs_review | C | Mariya Gabriel | board_member | EPP Women | deepseek-flash AMBIGUOUS |
+| 115 | needs_review | C | Mariya Gabriel | board_member | European People's Party Group | deepseek-flash AMBIGUOUS |
+| 115 | needs_review | C | Neelie Kroes | board_member | McDonald's Netherlands | deepseek-flash AMBIGUOUS |
+| 115 | needs_review | C | Neelie Kroes | board_member | Nederlandse Spoorwegen | deepseek-flash AMBIGUOUS |
+| 115 | needs_review | C | Neelie Kroes | board_member | NIB | deepseek-flash AMBIGUOUS |
+| 115 | needs_review | C | Philippe Busquin | board_member | Socialist International | deepseek-flash AMBIGUOUS |
+| 115 | needs_review | C | Philippe Busquin | board_member | PES | deepseek-flash AMBIGUOUS |
+| 115 | needs_review | C | Ritt Bjerregaard | board_member | Socialist International Women | deepseek-flash AMBIGUOUS |
+| 115 | needs_review | C | Ritt Bjerregaard | board_member | OSCE's Parliamentary Assembly | deepseek-flash ERROR |
+| 115 | needs_review | C | Thierry Breton | board_member | Groupe Bull | deepseek-flash AMBIGUOUS |
+| 115 | needs_review | C | Cecilia Malmström | chair | Swedish Liberals | deepseek-flash AMBIGUOUS |
+| 115 | needs_review | C | Emma Bonino | chair | More Europe | deepseek-flash UNSUPPORTED |
+| 115 | needs_review | C | Josep Borrell | chair | PSOE | deepseek-flash UNSUPPORTED |
+| 115 | needs_review | C | Jyrki Katainen | chair | Youth of the European People's Party | deepseek-flash UNSUPPORTED |
+| 115 | needs_review | C | Margrethe Vestager | chair | Social Liberals | deepseek-flash UNSUPPORTED |
+| 115 | needs_review | C | Michaele Schreyer | chair | Green Party's parliamentary group | deepseek-flash AMBIGUOUS |
+| 115 | needs_review | C | Pascal Lamy | chair | World Trade Organization (WTO) | deepseek-flash UNSUPPORTED |
+| 115 | needs_review | C | Romano Prodi | chair | UN | deepseek-flash UNSUPPORTED |
+| 115 | needs_review | C | Vytenis Andriukaitis | chair | LSDP (Social Democratic Party of Lithuania) | deepseek-flash UNSUPPORTED |
 
 Decide with:
 

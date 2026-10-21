@@ -14,19 +14,13 @@ generated: 2026-10-21
 
 Corporate Elite
 
-*Verified assertions: 5*
+*Verified assertions: 4*
 
 ## Education
 
 - [[organisations/university-of-helsinki|University of Helsinki]]  
   > "Born in Asikkala, he holds an honorary Doctor in Technology from Tampere University of Technology and in Science from the University of Helsinki, and is a Knight 1st Class of the Order of the White Rose of Finland."
   > Source: [[sources/wikipedia-corp-pekka-ala-pietil|Corp Pekka Ala Pietil]] · grade A
-
-## Chair / president
-
-- [[organisations/nokia-mobile-phones|Nokia Mobile Phones]] — chair  
-  > "He was also President of Nokia Corporation (1999–2005) and President of Nokia Mobile Phones (1992–1998)."
-  > Source: [[sources/wikipedia-pekka-ala-pietil|Pekka Ala Pietil]] · grade C
 
 ## Founder
 

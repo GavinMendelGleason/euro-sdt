@@ -14,7 +14,7 @@ generated: 2026-10-21
 
 Mep
 
-*Verified assertions: 9*
+*Verified assertions: 8*
 
 ## Education
 
@@ -45,12 +45,6 @@ Mep
 - [[organisations/renfe|Renfe]] — chair  
   > "&#91; 2 &#93; He was the president of Renfe (the Spanish national railroad network) between 1967 and 1968."
   > Source: [[sources/wikipedia-leopoldo-calvo-sotelo|Leopoldo Calvo Sotelo]] · grade A
-
-## Founder
-
-- [[organisations/fedisa-publishing-firm|Fedisa publishing firm]] — founder  
-  > "&#91; 2 &#93; A monarchist, Sotelo was one of the founders of an association of politicians, mostly of Rightists and Center Rightists , which disguised as the Fedisa publishing firm helped Spain's peaceful transition into democracy."
-  > Source: [[sources/wikipedia-leopoldo-calvo-sotelo|Leopoldo Calvo Sotelo]] · grade C
 
 ## Affiliation
 

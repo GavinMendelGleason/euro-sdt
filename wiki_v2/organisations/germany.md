@@ -11,16 +11,13 @@ generated: 2026-10-21
 ---
 # germany
 
-*Verified member assertions: 4 people*
+*Verified member assertions: 3 people*
 
 ## Members and roles
 
 - [[people/jo-leinen|Jo Leinen]]  
   > "He obtained a law degree in Germany in 1972 and a Certificate of Advanced European Studies from the College of Europe in Bruges , Belgium , in 1974."
   > Source: [[sources/wikipedia-jo-leinen|Jo Leinen]] · grade A
-- [[people/martin-bangemann|Martin Bangemann]]  
-  > "Bangemann was the German Federal Minister for Economic Affairs from 1984 to 1988."
-  > Source: [[sources/wikipedia-martin-bangemann|Martin Bangemann]] · grade C
 - [[people/michaele-schreyer|Michaele Schreyer]]  
   > "Michaele Schreyer (born 9 August 1951) is a German politician of Alliance 90/The Greens who served as a European Commissioner from September 1999 to November 2004, holding the budget portfolio."
   > Source: [[sources/wikipedia-michaele-schreyer|Michaele Schreyer]] · grade C

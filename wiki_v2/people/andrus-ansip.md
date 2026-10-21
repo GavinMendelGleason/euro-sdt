@@ -14,13 +14,7 @@ generated: 2026-10-21
 
 Commissioner · EST
 
-*Verified assertions: 29*
-
-## Portfolio
-
-- VP – Digital Single Market  
-  > "On 10 September 2014 President-Elect Juncker of the European Commission announced that he proposed Andrus Ansip as Vice-President of the European Commission and the European Commissioner for the Digit"
-  > Source: [[sources/wikipedia-andrus-ansip|Andrus Ansip]] · grade C
+*Verified assertions: 26*
 
 ## Nominated by
 
@@ -96,10 +90,6 @@ Commissioner · EST
 
 - [[organisations/as-estkompexim|AS Estkompexim]] — employed_by  
   > "From 1989 to 1993 Andrus Ansip also managed a Tartu branch of AS Estkompexim."
-  > Source: [[sources/wikipedia-andrus-ansip|Andrus Ansip]] · grade C
-
-- [[organisations/european-commission|European Commission]] — employed_by  
-  > "On 10 September 2014 President-Elect Juncker of the European Commission announced that he proposed Andrus Ansip as Vice-President of the European Commission and the European Commissioner for the Digital Single Market."
   > Source: [[sources/wikipedia-andrus-ansip|Andrus Ansip]] · grade C
 
 - [[organisations/investment-fund-broker-ltd|Investment Fund Broker Ltd]] — employed_by  

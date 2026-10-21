@@ -14,7 +14,7 @@ generated: 2026-10-21
 
 Mep
 
-*Verified assertions: 8*
+*Verified assertions: 7*
 
 ## Education
 
@@ -51,7 +51,3 @@ Mep
 - [[organisations/first-berlusconi-government|First Berlusconi government]]  
   > "He served as Minister for Institutional Reforms in first Berlusconi government , from 1994 to 1995."
   > Source: [[sources/wikipedia-francesco-speroni|Francesco Speroni]] · grade B
-
-- [[organisations/italian-senate|Italian Senate]]  
-  > "A member of the Northern League , Speroni has been a Member of the European Parliament from 1989 to 1994, a Senator from 1992 to 1999 and again an MEP from 1999 to 2014."
-  > Source: [[sources/wikipedia-francesco-speroni|Francesco Speroni]] · grade C

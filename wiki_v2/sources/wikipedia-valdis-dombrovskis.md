@@ -14,7 +14,7 @@ generated: 2026-10-21
 - SHA-256: `0fa6004887c01866870d18220669a0f48348391383c843c43941dab3089365ff`
 - Sentences: 42
 
-## Verified claims citing this document (38)
+## Verified claims citing this document (36)
 
 - [[people/valdis-dombrovskis|Valdis Dombrovskis]] — affiliated_with — University of Latvia Foundation
   > "Supporter of the University of Latvia Foundation Dombrovskis is a supporter of the University of Latvia Foundation."
@@ -58,12 +58,8 @@ generated: 2026-10-21
   > "Ursula von der Leyen has since proposed that Frans Timmermans, Margrethe Vestager and Dombrovskis all serve as Executive Vice-Presidents of the commission with Dombrovskis having responsibility for an \"Economy that Works for People\"."
 - [[people/valdis-dombrovskis|Valdis Dombrovskis]] — from_country — Latvia
   > "Valdis Dombrovskis (Latvian pronunciation: [ˈvaldis dɔmˈbrɔvskis]; born 5 August 1971) is a Latvian politician serving as European Commissioner for Economy and Productivity, and Commissioner for Imple"
-- [[people/valdis-dombrovskis|Valdis Dombrovskis]] — held_portfolio — VP – Euro and Social Dialogue / Financial Stability
-  > "He was Vice-President of the European Commission for the Euro and Social Dialogue from 2014 to 2019."
 - [[people/valdis-dombrovskis|Valdis Dombrovskis]] — held_portfolio — Executive VP – An Economy that Works for People / Trade
   > "He previously served as Executive Vice President of the European Commission for An Economy that Works for People (2019-2024), European Commissioner for Trade (2020-2024)."
-- [[people/valdis-dombrovskis|Valdis Dombrovskis]] — held_portfolio — European Commissioner for Economy and Productivity and Commissioner for Implementation and Simplification
-  > "Valdis Dombrovskis (Latvian pronunciation: [ˈvaldis dɔmˈbrɔvskis]; born 5 August 1971) is a Latvian politician serving as European Commissioner for Economy and Productivity, and Commissioner for Imple"
 - [[people/valdis-dombrovskis|Valdis Dombrovskis]] — member — Committee on Budgets
   > "Member of the European Parliament, 2004–2009 As Member of the European Parliament, Dombrovskis was a member of three European Parliament Committees: Committee on Budgets, Delegation to the ACP-EU Joint Parliamentary Assembly, Delegation to the Euro-Latin American Parliamentary Assembly."
 - [[people/valdis-dombrovskis|Valdis Dombrovskis]] — member — ACP-EU Joint Parliamentary Assembly

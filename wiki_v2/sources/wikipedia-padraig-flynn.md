@@ -14,7 +14,7 @@ generated: 2026-10-21
 - SHA-256: `14fcc373ff806923fab827435f43fa55c117c1d95c76d1ef399cf36cc68fe0f7`
 - Sentences: 59
 
-## Verified claims citing this document (8)
+## Verified claims citing this document (7)
 
 - [[people/padraig-flynn|Padraig Flynn]] — educated_at — St. Gerald'S College
   > "He was educated in St. Gerald's College, Castlebar and qualified as a primary school teacher from St Patrick's College of Education in Dublin."
@@ -30,5 +30,3 @@ generated: 2026-10-21
   > "He served as a Teachta Dála (TD) for the Mayo West constituency from 1977 to 1994."
 - [[people/padraig-flynn|Padraig Flynn]] — member — Fianna Fáil
   > "On 26 March 2012, facing expulsion following the Mahon Tribunal, Flynn resigned in disgrace from Fianna Fáil before he could be ousted."
-- [[people/padraig-flynn|Padraig Flynn]] — nominated_by — IRL
-  > "In 1993, he retired from domestic politics when he was appointed Ireland's European Commissioner."
