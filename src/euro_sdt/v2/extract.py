@@ -48,10 +48,12 @@ def _save_cache(cache: dict) -> None:
     CACHE_PATH.write_text(json.dumps(cache, indent=2, ensure_ascii=False), encoding="utf-8")
 
 
-def _cache_key(model: str, prompt: str) -> str:
+def _cache_key(model: str, prompt: str, thinking: bool = False) -> str:
     base = sha256_text(prompt)
     # deepseek-chat used the unprefixed key before model-aware caching.
-    return base if model == "deepseek-chat" else f"{model}|{base}"
+    if model == "deepseek-chat":
+        return base
+    return f"{model}|{'think' if thinking else 'nothink'}|{base}"
 
 
 def _chunks(db: sqlite3.Connection, doc_id: str, max_sentences: int = 40, max_chars: int = 12000):
@@ -104,12 +106,15 @@ def _call(prompt: str, model: str = MODEL, thinking: bool = False) -> list[dict]
     body = {
         "model": model,
         "messages": [{"role": "user", "content": prompt}],
-        "max_tokens": 4000 if thinking else 3000,
+        "max_tokens": 8000 if thinking else 3000,
         "temperature": 0.0,
-        "response_format": {"type": "json_object"},
     }
-    if not thinking:
+    if thinking:
+        # flash thinking-on needs a wide budget, low effort, and plain-text JSON.
+        body["reasoning_effort"] = "low"
+    else:
         body["thinking"] = {"type": "disabled"}
+        body["response_format"] = {"type": "json_object"}
     payload = json.dumps(body).encode()
     req = urllib.request.Request(
         API_URL, data=payload,
@@ -201,9 +206,9 @@ def extract(db: sqlite3.Connection, categories: tuple[str, ...] = ("commissioner
             if not doc:
                 continue
             total_docs += 1
-            for chunk in _chunks(db, doc["id"]):
+            for chunk in _chunks(db, doc["id"], max_sentences=8 if thinking else 40):
                 prompt = _prompt(person["name"], chunk)
-                key = _cache_key(model, prompt)
+                key = _cache_key(model, prompt, thinking)
                 if key in cache:
                     continue
                 tasks[pool.submit(_call, prompt, model, thinking)] = (person["id"], doc["id"], key)
@@ -231,9 +236,9 @@ def extract(db: sqlite3.Connection, categories: tuple[str, ...] = ("commissioner
         if not doc:
             continue
         collected = []
-        for chunk in _chunks(db, doc["id"]):
+        for chunk in _chunks(db, doc["id"], max_sentences=8 if thinking else 40):
             prompt = _prompt(person["name"], chunk)
-            collected.extend(cache.get(_cache_key(model, prompt), []))
+            collected.extend(cache.get(_cache_key(model, prompt, thinking), []))
         _apply(db, docs, person["id"], doc["id"], collected, run_id)
 
     db.execute("UPDATE run SET finished_at=? WHERE id=?", (now(), run_id))

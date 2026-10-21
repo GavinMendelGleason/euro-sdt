@@ -47,21 +47,18 @@ Four biographies, eight chunks, same prompt and source text:
 | flash disabled | Similar; +4 rows on one Mogherini chunk (including duplicate Chamber of Deputies and NATO delegation surface forms), 0 rows on a Faury chunk where chat found 3 |
 | flash reasoning | Empty responses on 6 of 8 chunks with the current 4,000-token extraction budget |
 
-Thinking-on extraction works only with all three changes below:
-
-- `reasoning_effort: "low"`
-- `max_tokens` around 8,000
-- no `response_format: json_object`; parse the JSON array from plain text
-- small chunks (about 8 sentences)
+The extraction script now has a working `--thinking` path that uses
+`reasoning_effort: "low"`, an 8,000-token budget, plain-text JSON parsing, and
+8-sentence chunks. It is a targeted option, not a default.
 
 On one 8-sentence chunk, thinking-off returned 3 rows in 179 completion
-tokens. Thinking-on returned 6 rows in 2,807 completion tokens, of which 2,465
-were reasoning tokens (about 15x the cost). The extra rows included entities the
-prompt explicitly excludes (European Commission, German federal government) and
-duplicate surface forms (`Commission` and `European Commission`, `EPP` and
-`European People's Party`). Thinking-on is therefore **not suitable for a full
-extraction run** without additional post-filtering and a taxonomy change. It is
-only a targeted option for a small, high-value set.
+tokens. Thinking-on returned 5–6 rows in about 2,800 completion tokens, of which
+about 2,465 were reasoning tokens (roughly 15x the cost). The extra rows included
+entities the prompt explicitly excludes (European Commission, German federal
+government) and duplicate surface forms (`Commission` and `European Commission`,
+`EPP` and `European People's Party`). Thinking-on is therefore **not suitable
+for a full extraction run** without additional post-filtering and a taxonomy
+change. It is only a targeted option for a small, high-value set.
 
 ## Conclusion
 
@@ -75,6 +72,16 @@ this pipeline.
   negatives. It is not suitable as the sole judge.
 - **Flash reasoning for extraction** is not operational with the current
   `response_format` and token budget; it returned empty content on most chunks.
+
+To try extraction with thinking on:
+
+```bash
+.venv/bin/python scripts/extract_v2.py --categories commissioner \
+  --model deepseek-flash --thinking --limit 1
+```
+
+This writes claims to `euro_sdt_v2.db`, so use a disposable copy or a small
+`--limit`. Expect roughly 15x the completion tokens of thinking-off.
 
 Recommended use: run flash reasoning as a second adjudicator, send
 disagreements to `needs_review`, and keep `deepseek-chat` as the primary
