@@ -31,6 +31,7 @@ evidence layer has been rebuilt as `euro_sdt_v2.db`:
 .venv/bin/python scripts/render_v2.py                # graph + wiki + audit
 .venv/bin/python scripts/check_v2.py                 # CI invariants
 .venv/bin/python scripts/review.py list --include-a   # human review queue
+.venv/bin/python scripts/recheck_grade_a.py --dry-run --limit 100  # grade-A second judge
 ```
 
 Current build: **5,380 claims**, **4,036 verified**, 177 needs review, 1,167

@@ -95,6 +95,35 @@ alone, and a disagreement removes the edge from the graph until reviewed.
 First applied run (2026-10-21): **738 grade-C claims rechecked; 569 kept
 verified, 169 moved to `needs_review`; 0 auto-promotions.**
 
+## Grade A second judge
+
+Grade-A network claims were never adjudicated. They can be sampled or fully
+rechecked with one independent model:
+
+```bash
+# Non-mutating sample
+.venv/bin/python scripts/recheck_grade_a.py --dry-run --limit 100
+
+# Full network-grade-A pass (writes to the DB)
+.venv/bin/python scripts/recheck_grade_a.py --workers 8
+
+# Stricter: require both chat and flash to support
+.venv/bin/python scripts/recheck_grade_a.py --with-chat --workers 8
+
+# Include education/institutional/occupational as well
+.venv/bin/python scripts/recheck_grade_a.py --all-predicates --dry-run
+```
+
+Policy:
+
+- flash SUPPORTED: keep verified, record the second judge
+- flash UNSUPPORTED or AMBIGUOUS: move to `needs_review`
+- nothing is auto-rejected
+
+A 10-claim sample moved 2 claims to `needs_review`, consistent with the earlier
+grade-A false-positive sample. Results are written to
+`audit/grade_a_recheck.csv` and `.md`.
+
 ## Recommended review order
 
 1. All 51 `needs_review` claims.
