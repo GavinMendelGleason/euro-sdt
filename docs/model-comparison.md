@@ -47,6 +47,22 @@ Four biographies, eight chunks, same prompt and source text:
 | flash disabled | Similar; +4 rows on one Mogherini chunk (including duplicate Chamber of Deputies and NATO delegation surface forms), 0 rows on a Faury chunk where chat found 3 |
 | flash reasoning | Empty responses on 6 of 8 chunks with the current 4,000-token extraction budget |
 
+Thinking-on extraction works only with all three changes below:
+
+- `reasoning_effort: "low"`
+- `max_tokens` around 8,000
+- no `response_format: json_object`; parse the JSON array from plain text
+- small chunks (about 8 sentences)
+
+On one 8-sentence chunk, thinking-off returned 3 rows in 179 completion
+tokens. Thinking-on returned 6 rows in 2,807 completion tokens, of which 2,465
+were reasoning tokens (about 15x the cost). The extra rows included entities the
+prompt explicitly excludes (European Commission, German federal government) and
+duplicate surface forms (`Commission` and `European Commission`, `EPP` and
+`European People's Party`). Thinking-on is therefore **not suitable for a full
+extraction run** without additional post-filtering and a taxonomy change. It is
+only a targeted option for a small, high-value set.
+
 ## Conclusion
 
 There is no evidence yet that flash improves quality over `deepseek-chat` for
