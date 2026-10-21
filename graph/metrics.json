@@ -1,0 +1,632 @@
+{
+  "all_verified": {
+    "nodes": 2900,
+    "edges": 3723,
+    "unique_pairs": 3486,
+    "edges_by_class": {
+      "network": 2692,
+      "education": 541,
+      "occupational": 389,
+      "other": 3,
+      "institutional": 98
+    },
+    "edges_by_predicate": {
+      "advisory_board": 99,
+      "affiliated_with": 417,
+      "attendee": 30,
+      "board_member": 367,
+      "chair": 518,
+      "educated_at": 541,
+      "employed_by": 380,
+      "fellow": 18,
+      "founder": 70,
+      "from_country": 3,
+      "held_position": 1,
+      "member": 1173,
+      "post_mandate_occupation": 8,
+      "served_on_commission": 98
+    },
+    "edges_by_grade": {
+      "A": 2628,
+      "C": 637,
+      "B": 458
+    },
+    "degree": {
+      "max": 77,
+      "mean": 2.4,
+      "degree_1": 2205,
+      "degree_ge_3": 445
+    },
+    "components": {
+      "count": 74,
+      "largest": 2664,
+      "singletons": 0
+    },
+    "top_hubs": [
+      {
+        "id": "european-commission",
+        "name": "European Commission",
+        "kind": "organisation",
+        "degree": 77
+      },
+      {
+        "id": "european-parliament",
+        "name": "European Parliament",
+        "kind": "organisation",
+        "degree": 51
+      },
+      {
+        "id": "kaja-kallas",
+        "name": "Kaja Kallas",
+        "kind": "person",
+        "degree": 42
+      },
+      {
+        "id": "thierry-breton",
+        "name": "Thierry Breton",
+        "kind": "person",
+        "degree": 39
+      },
+      {
+        "id": "neelie-kroes",
+        "name": "Neelie Kroes",
+        "kind": "person",
+        "degree": 36
+      },
+      {
+        "id": "pascal-lamy",
+        "name": "Pascal Lamy",
+        "kind": "person",
+        "degree": 36
+      },
+      {
+        "id": "ria-oomen-ruijten",
+        "name": "Ria Oomen-Ruijten",
+        "kind": "person",
+        "degree": 34
+      },
+      {
+        "id": "federica-mogherini",
+        "name": "Federica Mogherini",
+        "kind": "person",
+        "degree": 33
+      },
+      {
+        "id": "pierre-moscovici",
+        "name": "Pierre Moscovici",
+        "kind": "person",
+        "degree": 32
+      },
+      {
+        "id": "mario-monti",
+        "name": "Mario Monti",
+        "kind": "person",
+        "degree": 30
+      },
+      {
+        "id": "antonio-vitorino",
+        "name": "António Vitorino",
+        "kind": "person",
+        "degree": 29
+      },
+      {
+        "id": "gunther-oettinger",
+        "name": "Günther Oettinger",
+        "kind": "person",
+        "degree": 29
+      },
+      {
+        "id": "jose-manuel-barroso",
+        "name": "José Manuel Barroso",
+        "kind": "person",
+        "degree": 29
+      },
+      {
+        "id": "european-peoples-party",
+        "name": "European People's Party",
+        "kind": "organisation",
+        "degree": 28
+      },
+      {
+        "id": "anita-gradin",
+        "name": "Anita Gradin",
+        "kind": "person",
+        "degree": 27
+      },
+      {
+        "id": "cecilia-malmstrom",
+        "name": "Cecilia Malmström",
+        "kind": "person",
+        "degree": 27
+      },
+      {
+        "id": "joaquin-almunia",
+        "name": "Joaquín Almunia",
+        "kind": "person",
+        "degree": 27
+      },
+      {
+        "id": "joseph-daul",
+        "name": "Joseph Daul",
+        "kind": "person",
+        "degree": 27
+      },
+      {
+        "id": "karmenu-vella",
+        "name": "Karmenu Vella",
+        "kind": "person",
+        "degree": 27
+      },
+      {
+        "id": "wopke-hoekstra",
+        "name": "Wopke Hoekstra",
+        "kind": "person",
+        "degree": 26
+      }
+    ],
+    "kind_mixing": {
+      "person->organisation": 3042,
+      "person->institution": 392,
+      "person->university": 179,
+      "person->commission": 107,
+      "person->person": 3
+    }
+  },
+  "grade_a_only": {
+    "nodes": 2225,
+    "edges": 2628,
+    "unique_pairs": 2526,
+    "edges_by_class": {
+      "network": 1915,
+      "education": 428,
+      "occupational": 208,
+      "institutional": 77
+    },
+    "edges_by_predicate": {
+      "advisory_board": 91,
+      "affiliated_with": 121,
+      "attendee": 13,
+      "board_member": 312,
+      "chair": 430,
+      "educated_at": 428,
+      "employed_by": 208,
+      "fellow": 14,
+      "founder": 29,
+      "member": 905,
+      "served_on_commission": 77
+    },
+    "edges_by_grade": {
+      "A": 2628
+    },
+    "degree": {
+      "max": 44,
+      "mean": 2.27,
+      "degree_1": 1672,
+      "degree_ge_3": 351
+    },
+    "components": {
+      "count": 88,
+      "largest": 1903,
+      "singletons": 0
+    },
+    "top_hubs": [
+      {
+        "id": "european-parliament",
+        "name": "European Parliament",
+        "kind": "organisation",
+        "degree": 44
+      },
+      {
+        "id": "kaja-kallas",
+        "name": "Kaja Kallas",
+        "kind": "person",
+        "degree": 35
+      },
+      {
+        "id": "european-commission",
+        "name": "European Commission",
+        "kind": "organisation",
+        "degree": 30
+      },
+      {
+        "id": "federica-mogherini",
+        "name": "Federica Mogherini",
+        "kind": "person",
+        "degree": 30
+      },
+      {
+        "id": "ria-oomen-ruijten",
+        "name": "Ria Oomen-Ruijten",
+        "kind": "person",
+        "degree": 30
+      },
+      {
+        "id": "thierry-breton",
+        "name": "Thierry Breton",
+        "kind": "person",
+        "degree": 30
+      },
+      {
+        "id": "pascal-lamy",
+        "name": "Pascal Lamy",
+        "kind": "person",
+        "degree": 28
+      },
+      {
+        "id": "gunther-oettinger",
+        "name": "Günther Oettinger",
+        "kind": "person",
+        "degree": 26
+      },
+      {
+        "id": "karmenu-vella",
+        "name": "Karmenu Vella",
+        "kind": "person",
+        "degree": 26
+      },
+      {
+        "id": "mario-monti",
+        "name": "Mario Monti",
+        "kind": "person",
+        "degree": 26
+      },
+      {
+        "id": "antonio-vitorino",
+        "name": "António Vitorino",
+        "kind": "person",
+        "degree": 25
+      },
+      {
+        "id": "barroso-ii",
+        "name": "Barroso II",
+        "kind": "commission",
+        "degree": 25
+      },
+      {
+        "id": "jose-manuel-barroso",
+        "name": "José Manuel Barroso",
+        "kind": "person",
+        "degree": 25
+      },
+      {
+        "id": "anders-wijkman",
+        "name": "Anders Wijkman",
+        "kind": "person",
+        "degree": 24
+      },
+      {
+        "id": "rainer-wieland",
+        "name": "Rainer Wieland",
+        "kind": "person",
+        "degree": 24
+      },
+      {
+        "id": "anita-gradin",
+        "name": "Anita Gradin",
+        "kind": "person",
+        "degree": 23
+      },
+      {
+        "id": "joaquin-almunia",
+        "name": "Joaquín Almunia",
+        "kind": "person",
+        "degree": 23
+      },
+      {
+        "id": "neelie-kroes",
+        "name": "Neelie Kroes",
+        "kind": "person",
+        "degree": 23
+      },
+      {
+        "id": "pierre-moscovici",
+        "name": "Pierre Moscovici",
+        "kind": "person",
+        "degree": 23
+      },
+      {
+        "id": "christos-stylianides",
+        "name": "Christos Stylianides",
+        "kind": "person",
+        "degree": 22
+      }
+    ],
+    "kind_mixing": {
+      "person->organisation": 2111,
+      "person->institution": 284,
+      "person->university": 151,
+      "person->commission": 79,
+      "person->person": 3
+    }
+  },
+  "network_only": {
+    "nodes": 2191,
+    "edges": 2692,
+    "unique_pairs": 2549,
+    "edges_by_class": {
+      "network": 2692
+    },
+    "edges_by_predicate": {
+      "advisory_board": 99,
+      "affiliated_with": 417,
+      "attendee": 30,
+      "board_member": 367,
+      "chair": 518,
+      "fellow": 18,
+      "founder": 70,
+      "member": 1173
+    },
+    "edges_by_grade": {
+      "A": 1915,
+      "C": 346,
+      "B": 431
+    },
+    "degree": {
+      "max": 50,
+      "mean": 2.33,
+      "degree_1": 1649,
+      "degree_ge_3": 365
+    },
+    "components": {
+      "count": 56,
+      "largest": 1956,
+      "singletons": 0
+    },
+    "top_hubs": [
+      {
+        "id": "european-parliament",
+        "name": "European Parliament",
+        "kind": "organisation",
+        "degree": 50
+      },
+      {
+        "id": "kaja-kallas",
+        "name": "Kaja Kallas",
+        "kind": "person",
+        "degree": 35
+      },
+      {
+        "id": "ria-oomen-ruijten",
+        "name": "Ria Oomen-Ruijten",
+        "kind": "person",
+        "degree": 33
+      },
+      {
+        "id": "thierry-breton",
+        "name": "Thierry Breton",
+        "kind": "person",
+        "degree": 31
+      },
+      {
+        "id": "european-peoples-party",
+        "name": "European People's Party",
+        "kind": "organisation",
+        "degree": 28
+      },
+      {
+        "id": "federica-mogherini",
+        "name": "Federica Mogherini",
+        "kind": "person",
+        "degree": 27
+      },
+      {
+        "id": "joseph-daul",
+        "name": "Joseph Daul",
+        "kind": "person",
+        "degree": 27
+      },
+      {
+        "id": "pascal-lamy",
+        "name": "Pascal Lamy",
+        "kind": "person",
+        "degree": 26
+      },
+      {
+        "id": "antonio-vitorino",
+        "name": "António Vitorino",
+        "kind": "person",
+        "degree": 25
+      },
+      {
+        "id": "anders-wijkman",
+        "name": "Anders Wijkman",
+        "kind": "person",
+        "degree": 24
+      },
+      {
+        "id": "anita-gradin",
+        "name": "Anita Gradin",
+        "kind": "person",
+        "degree": 24
+      },
+      {
+        "id": "gunther-oettinger",
+        "name": "Günther Oettinger",
+        "kind": "person",
+        "degree": 24
+      },
+      {
+        "id": "mario-monti",
+        "name": "Mario Monti",
+        "kind": "person",
+        "degree": 24
+      },
+      {
+        "id": "pierre-moscovici",
+        "name": "Pierre Moscovici",
+        "kind": "person",
+        "degree": 24
+      },
+      {
+        "id": "european-commission",
+        "name": "European Commission",
+        "kind": "organisation",
+        "degree": 23
+      },
+      {
+        "id": "hans-van-baalen",
+        "name": "Hans van Baalen",
+        "kind": "person",
+        "degree": 23
+      },
+      {
+        "id": "jose-manuel-barroso",
+        "name": "José Manuel Barroso",
+        "kind": "person",
+        "degree": 23
+      },
+      {
+        "id": "karmenu-vella",
+        "name": "Karmenu Vella",
+        "kind": "person",
+        "degree": 23
+      },
+      {
+        "id": "neelie-kroes",
+        "name": "Neelie Kroes",
+        "kind": "person",
+        "degree": 23
+      },
+      {
+        "id": "cecilia-malmstrom",
+        "name": "Cecilia Malmström",
+        "kind": "person",
+        "degree": 22
+      }
+    ],
+    "kind_mixing": {
+      "person->organisation": 2643,
+      "person->university": 31,
+      "person->institution": 13,
+      "person->person": 3,
+      "person->commission": 2
+    }
+  },
+  "co_affiliation": [
+    {
+      "a": "Jutta Urpilainen",
+      "b": "Wopke Hoekstra",
+      "shared_orgs": 6
+    },
+    {
+      "a": "Jutta Urpilainen",
+      "b": "Magnus Brunner",
+      "shared_orgs": 5
+    },
+    {
+      "a": "Magnus Brunner",
+      "b": "Wopke Hoekstra",
+      "shared_orgs": 5
+    },
+    {
+      "a": "Christophe Hansen",
+      "b": "Joseph Daul",
+      "shared_orgs": 4
+    },
+    {
+      "a": "Godelieve Quisthoudt-Rowohl",
+      "b": "Joseph Daul",
+      "shared_orgs": 4
+    },
+    {
+      "a": "Godelieve Quisthoudt-Rowohl",
+      "b": "Ursula von der Leyen",
+      "shared_orgs": 4
+    },
+    {
+      "a": "Andrus Ansip",
+      "b": "Kaja Kallas",
+      "shared_orgs": 4
+    },
+    {
+      "a": "Erkki Liikanen",
+      "b": "Olli Rehn",
+      "shared_orgs": 4
+    },
+    {
+      "a": "António Vitorino",
+      "b": "Danuta Hübner",
+      "shared_orgs": 3
+    },
+    {
+      "a": "Christos Stylianides",
+      "b": "Philippe Busquin",
+      "shared_orgs": 3
+    },
+    {
+      "a": "Erkki Liikanen",
+      "b": "Pier Carlo Padoan",
+      "shared_orgs": 3
+    },
+    {
+      "a": "Joaquín Almunia",
+      "b": "Manuel Marin",
+      "shared_orgs": 3
+    },
+    {
+      "a": "Connie Hedegaard",
+      "b": "Joaquín Almunia",
+      "shared_orgs": 3
+    },
+    {
+      "a": "Connie Hedegaard",
+      "b": "Mario Monti",
+      "shared_orgs": 3
+    },
+    {
+      "a": "Magnus Brunner",
+      "b": "Pedro Solbes",
+      "shared_orgs": 3
+    },
+    {
+      "a": "Magnus Brunner",
+      "b": "Thierry Breton",
+      "shared_orgs": 3
+    },
+    {
+      "a": "Pedro Solbes",
+      "b": "Thierry Breton",
+      "shared_orgs": 3
+    },
+    {
+      "a": "Mario Monti",
+      "b": "Pascal Lamy",
+      "shared_orgs": 3
+    },
+    {
+      "a": "Kristalina Georgieva",
+      "b": "Olli Rehn",
+      "shared_orgs": 3
+    },
+    {
+      "a": "Kristalina Georgieva",
+      "b": "Pascal Lamy",
+      "shared_orgs": 3
+    },
+    {
+      "a": "Adam Bielan",
+      "b": "Michał Kamiński",
+      "shared_orgs": 3
+    },
+    {
+      "a": "Michał Kamiński",
+      "b": "Ryszard Czarnecki",
+      "shared_orgs": 3
+    },
+    {
+      "a": "Adina-Ioana Vălean",
+      "b": "Christophe Hansen",
+      "shared_orgs": 3
+    },
+    {
+      "a": "Adina-Ioana Vălean",
+      "b": "Henna Virkkunen",
+      "shared_orgs": 3
+    },
+    {
+      "a": "Adina-Ioana Vălean",
+      "b": "Jerzy Buzek",
+      "shared_orgs": 3
+    }
+  ]
+}

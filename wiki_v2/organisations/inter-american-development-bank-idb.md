@@ -1,0 +1,19 @@
+---
+id: inter-american-development-bank-idb
+title: Inter-American Development Bank (IDB)
+type: organisation
+category: 
+tags:
+  - organisation
+  - verified
+generated: 2026-10-21
+---
+# Inter-American Development Bank (IDB)
+
+*Verified member assertions: 1 people*
+
+## Members and roles
+
+- [Magnus Brunner](../people/magnus-brunner.md) — board_member  
+  > "Inter-American Development Bank (IDB), Ex-Officio Member of the Board of Governors (since 2021)"
+  > Source: [Magnus Brunner](../sources/wikipedia-magnus-brunner.md) · grade A

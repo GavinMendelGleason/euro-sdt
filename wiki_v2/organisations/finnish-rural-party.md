@@ -1,0 +1,20 @@
+---
+id: finnish-rural-party
+title: Finnish Rural Party
+type: organisation
+category: organisation
+tags:
+  - organisation
+  - verified
+  - organisation
+generated: 2026-10-21
+---
+# Finnish Rural Party
+
+*Verified member assertions: 1 people*
+
+## Members and roles
+
+- [Timo Soini](../people/timo-soini.md)  
+  > "Soini was a member of the Finnish Rural Party , and was its secretary-general from 1992."
+  > Source: [Timo Soini](../sources/wikipedia-timo-soini.md) · grade A

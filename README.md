@@ -13,6 +13,31 @@ uv pip install -e ".[all]"
 cp .env.example .env   # add your DEEPSEEK_API_KEY
 ```
 
+## v2 assertion layer (current)
+
+The v1 database and wiki are retained as a candidate pool and source corpus. The
+evidence layer has been rebuilt as `euro_sdt_v2.db`:
+
+- every claim points at a sentence ID in a hashed source document;
+- every verified assertion has a located quote;
+- evidence grades A/B/C are explicit, and LLM adjudication is recorded;
+- the graph is exported as CSV/GraphML with edge class, role, quote, and source.
+
+```bash
+.venv/bin/python scripts/audit_v1.py                 # reproduce the v1 baseline
+.venv/bin/python scripts/run_v2.py                   # rebuild v2 claims/evidence
+.venv/bin/python scripts/extract_v2.py --categories commissioner  # full-document extraction
+.venv/bin/python scripts/adjudicate.py --workers 6   # judge non-A evidence
+.venv/bin/python scripts/render_v2.py                # graph + wiki + audit
+.venv/bin/python scripts/check_v2.py                 # CI invariants
+```
+
+Current build: **5,380 claims**, **4,162 verified**, 51 needs review, 1,167
+rejected; **3,723 verified graph edges** (2,692 network, 541 education, 389
+occupational, 98 institutional, 3 other). See [`docs/v2-methodology.md`](docs/v2-methodology.md)
+for the model, grading rules, and invariants. The v1 commands below remain for
+the historical corpus and are not the source of the current graph.
+
 ## Pipeline
 
 The pipeline has five stages. All LLM operations use `deepseek-v4-pro` with `thinking: disabled`.

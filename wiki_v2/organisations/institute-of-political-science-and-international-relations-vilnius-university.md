@@ -1,0 +1,20 @@
+---
+id: institute-of-political-science-and-international-relations-vilnius-university
+title: Institute Of Political Science And International Relations, Vilnius University
+type: organisation
+category: university
+tags:
+  - organisation
+  - verified
+  - university
+generated: 2026-10-21
+---
+# Institute Of Political Science And International Relations, Vilnius University
+
+*Verified member assertions: 1 people*
+
+## Members and roles
+
+- [Kestutis Sadauskas](../people/kestutis-sadauskas.md)  
+  > "Lithuanian Academic qualifications  1992 – 1994: Master Degree in International Relations – Institute of Political Science and International Relations, Vilnius University – Vilnius, Lithuania"
+  > Source: [Kestutis Sadauskas](../sources/dg_cv-kestutis-sadauskas.md) · grade A

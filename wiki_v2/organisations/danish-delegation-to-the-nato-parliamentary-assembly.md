@@ -1,0 +1,19 @@
+---
+id: danish-delegation-to-the-nato-parliamentary-assembly
+title: Danish delegation to the NATO Parliamentary Assembly
+type: organisation
+category: 
+tags:
+  - organisation
+  - verified
+generated: 2026-10-21
+---
+# Danish delegation to the NATO Parliamentary Assembly
+
+*Verified member assertions: 1 people*
+
+## Members and roles
+
+- [Dan Jørgensen](../people/dan-jrgensen.md) — chair  
+  > "From 2015 to 2019, Jørgensen was the vice chairman of the Danish delegation to the NATO Parliamentary Assembly"
+  > Source: [Dan Jrgensen](../sources/wikipedia-dan-jrgensen.md) · grade A

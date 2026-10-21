@@ -1,0 +1,19 @@
+---
+id: agency-for-the-modernisation-of-ukraine-amu
+title: Agency for the Modernisation of Ukraine (AMU)
+type: organisation
+category: 
+tags:
+  - organisation
+  - verified
+generated: 2026-10-21
+---
+# Agency for the Modernisation of Ukraine (AMU)
+
+*Verified member assertions: 1 people*
+
+## Members and roles
+
+- [Günter Verheugen](../people/gunter-verheugen.md) — employed_by  
+  > "From March 2015, Verheugen headed the European integration work stream in the Dmytro Firtash-backed Agency for the Modernisation of Ukraine (AMU), a non-governmental organization developing a comprehensive program of modernization of Ukraine and looking for investment resources for its implementation."
+  > Source: [Gunter Verheugen](../sources/wikipedia-gunter-verheugen.md) · grade C

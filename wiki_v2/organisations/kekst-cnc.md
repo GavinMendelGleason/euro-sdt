@@ -1,0 +1,27 @@
+---
+id: kekst-cnc
+title: Kekst CNC
+type: organisation
+category: PR / communications
+tags:
+  - organisation
+  - verified
+  - PR / communications
+generated: 2026-10-21
+---
+# Kekst CNC
+
+*Verified member assertions: 1 people*
+
+## Profile
+
+- **Description:** Strategic communications and crisis PR firm. International client base. Günther Oettinger joined post-mandate. No Atlanticist or NATO connection.  
+  *Manual research seed; not yet tied to a primary-source sentence.*
+- **Funding:** Private commercial firm; subsidiary of Publicis Groupe  
+  *Manual research seed; not yet tied to a primary-source sentence.*
+
+## Members and roles
+
+- [Günther Oettinger](../people/gunther-oettinger.md) — advisory_board; Juncker (2014-2019)  
+  > "Kekst CNC, Member of the Global Advisory Board (since 2020)"
+  > Source: [Gunther Oettinger](../sources/wikipedia-gunther-oettinger.md) · grade A

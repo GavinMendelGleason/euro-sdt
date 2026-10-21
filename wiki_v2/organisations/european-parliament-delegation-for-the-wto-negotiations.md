@@ -1,0 +1,20 @@
+---
+id: european-parliament-delegation-for-the-wto-negotiations
+title: European Parliament Delegation for the WTO negotiations
+type: organisation
+category: organisation
+tags:
+  - organisation
+  - verified
+  - organisation
+generated: 2026-10-21
+---
+# European Parliament Delegation for the WTO negotiations
+
+*Verified member assertions: 1 people*
+
+## Members and roles
+
+- [Joseph Daul](../people/joseph-daul.md)  
+  > "As a member of the European Parliament Delegation for the WTO negotiations, Daul formed part of the European Parliament delegation to the ministerial conferences in Seattle (1999), Doha (2001) and Cancun (2003)."
+  > Source: [Joseph Daul](../sources/wikipedia-joseph-daul.md) · grade A

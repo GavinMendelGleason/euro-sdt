@@ -1,0 +1,20 @@
+---
+id: katholieke-universiteit-nijmegen-nijmegen-the-netherlands
+title: Katholieke Universiteit Nijmegen – Nijmegen, The Netherlands
+type: organisation
+category: university
+tags:
+  - organisation
+  - verified
+  - university
+generated: 2026-10-21
+---
+# Katholieke Universiteit Nijmegen – Nijmegen, The Netherlands
+
+*Verified member assertions: 1 people*
+
+## Members and roles
+
+- [Herald Ruijters](../people/herald-ruijters.md)  
+  > "Dutch Academic qualifications ➢ 1998 – 1999: “Postgraduaat Bedrijfskunde”, Katholieke Universiteit - Leuven, Belgium ➢ 1990 – 1991: European Law, Centre européen Universitaire – Nancy, France ➢ 1987 – 1991: Master European Studies, Universiteit van Amsterdam – Amsterdam, the Netherlands ➢ 1984 -1990: Master French and Mediterranean Studies, Katholieke Universiteit Nijmegen – Nijmegen, the Netherla […]"
+  > Source: [Herald Ruijters](../sources/dg_cv-herald-ruijters.md) · grade B

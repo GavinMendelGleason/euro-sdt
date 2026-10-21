@@ -6,6 +6,24 @@ Research into European political elites, their recruitment, career patterns, and
 
 ---
 
+## v2 Artifacts (current evidence layer)
+
+| Path | Contents |
+|---|---|
+| `euro_sdt_v2.db` | Citation-anchored assertion layer: source documents, sentences, claims, located evidence, assertions, adjudications |
+| `graph/nodes.csv`, `graph/edges.csv` | Verified graph export with edge class, role, evidence grade, quote, and source |
+| `graph/graph.graphml` | GraphML export for network tools |
+| `graph/metrics.json`, `graph/report.md` | Degree, components, hubs, co-affiliation, evidence sensitivity |
+| `wiki_v2/` | Verified-only wiki with source links |
+| `audit/v1_baseline.md` | Reproducible v1 evidence audit |
+| `audit/v2_audit.md`, `audit/v2_report.md` | v2 invariants and v1/v2 comparison |
+| `docs/v2-methodology.md` | Data model, grading rules, commands |
+
+The v1 CSV/DB inventory below remains the source corpus. The graph must be built
+from `euro_sdt_v2.db`, not from the v1 `fact` table.
+
+---
+
 ## Data Inventory
 
 ### 1. Members of the European Parliament (2024–2029)

@@ -37,6 +37,8 @@ all = ["euro-sdt[nlp]"]
 
 [project.scripts]
 euro-sdt = "euro_sdt.cli:app"
+euro-sdt-v2 = "euro_sdt.v2.pipeline:main"
+euro-sdt-v2-audit = "euro_sdt.v2.audit_v2:main"
 euro-sdt-wiki = "euro_sdt.render.wiki:main"
 euro-sdt-scrape = "euro_sdt.cli:scrape_group"
 

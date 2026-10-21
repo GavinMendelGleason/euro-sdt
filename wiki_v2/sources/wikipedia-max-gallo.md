@@ -1,0 +1,26 @@
+---
+id: wikipedia-max-gallo
+title: Max Gallo
+type: source
+tags:
+  - source
+generated: 2026-10-21
+---
+# Max Gallo
+
+- Kind: `wikipedia`
+- URL: https://en.wikipedia.org/wiki/Max_Gallo
+- Local path: `sources/wikipedia/max-gallo.txt`
+- SHA-256: `a0efecd2c4ef0798851bdb1c3a7220d325ada179b581526e57986514d5e638c5`
+- Sentences: 26
+
+## Verified claims citing this document (4)
+
+- [Max Gallo](../people/max-gallo.md) — affiliated_with — Government of France
+  > "&#91; 1 &#93; He served in the National Assembly (1981–1983), as Spokesperson of the Government under Prime Minister Pierre Mauroy (1983–1984), and in the European Parliament (1984–1994)."
+- [Max Gallo](../people/max-gallo.md) — member — National Assembly
+  > "&#91; 1 &#93; He served in the National Assembly (1981–1983), as Spokesperson of the Government under Prime Minister Pierre Mauroy (1983–1984), and in the European Parliament (1984–1994)."
+- [Max Gallo](../people/max-gallo.md) — member — French Communist Party
+  > "At the time, he was a Communist (until 1956)."
+- [Max Gallo](../people/max-gallo.md) — member — Socialist Party
+  > "In 1974, he joined the Socialist Party ."

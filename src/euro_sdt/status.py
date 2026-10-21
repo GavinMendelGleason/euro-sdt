@@ -50,5 +50,9 @@ def status():
                     print(f"    {pred:<28} {sup:>3}/{tot:<3} ({sup/tot*100:.0f}%)")
         except: pass
 
-if __name__ == '__main__':
+def main():
     status()
+
+
+if __name__ == '__main__':
+    main()

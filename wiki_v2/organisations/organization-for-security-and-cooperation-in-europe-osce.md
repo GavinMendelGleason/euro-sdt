@@ -1,0 +1,20 @@
+---
+id: organization-for-security-and-cooperation-in-europe-osce
+title: Organization for Security and Cooperation in Europe (OSCE)
+type: organisation
+category: organisation
+tags:
+  - organisation
+  - verified
+  - organisation
+generated: 2026-10-21
+---
+# Organization for Security and Cooperation in Europe (OSCE)
+
+*Verified member assertions: 1 people*
+
+## Members and roles
+
+- [Mario Mauro](../people/mario-mauro.md)  
+  > "&#91; 6 &#93; In addition to his position as European Parliamentary, he held the following positions: representative of the Organization for Security and Cooperation in Europe (OSCE) against racism, xenophobia, and discrimination, concerning discrimination against Christians from 2009 to 2011, &#91; 7 &#93; and adjunct professor at the European University of Rome from 2007 to 2009."
+  > Source: [Mario Mauro](../sources/wikipedia-mario-mauro.md) · grade B

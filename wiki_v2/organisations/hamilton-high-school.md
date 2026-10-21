@@ -1,0 +1,20 @@
+---
+id: hamilton-high-school
+title: hamilton-high-school
+type: organisation
+category: institution
+tags:
+  - organisation
+  - verified
+  - institution
+generated: 2026-10-21
+---
+# hamilton-high-school
+
+*Verified member assertions: 1 people*
+
+## Members and roles
+
+- [Brian Crowley](../people/brian-crowley.md)  
+  > "&#91; 1 &#93; Background [ edit ] Crowley was born in Blackrock, Dublin in 1964, but was raised in Bandon, County Cork , where he attended Hamilton High School."
+  > Source: [Brian Crowley](../sources/wikipedia-brian-crowley.md) · grade C

@@ -57,9 +57,8 @@ def sentence_offsets(text):
     offsets = []
     for m in re.finditer(r'(.*?[.!?])\s+(?=[A-ZÁÉÍÓÚÀÈÌÒÙÄËÏÖÜČŠŽĆĐ])', text):
         start = m.start()
-        end = m.end()
-        offsets.append((start, end - len(m.group(2)) if m.lastindex else end,
-                        m.group(1).strip()))
+        end = m.start(1) + len(m.group(1))
+        offsets.append((start, end, m.group(1).strip()))
     # Last sentence
     if offsets:
         last_end = offsets[-1][1]

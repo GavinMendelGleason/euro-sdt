@@ -1,0 +1,20 @@
+---
+id: eni
+title: Eni
+type: organisation
+category: organisation
+tags:
+  - organisation
+  - verified
+  - organisation
+generated: 2026-10-21
+---
+# Eni
+
+*Verified member assertions: 1 people*
+
+## Members and roles
+
+- [Paolo Scaroni](../people/paolo-scaroni.md) — employed_by  
+  > "Between 2002 and 2014 he was the CEO (chief executive officer) of Italian energy companies Enel and Eni ."
+  > Source: [Paolo Scaroni](../sources/wikipedia-paolo-scaroni.md) · grade A

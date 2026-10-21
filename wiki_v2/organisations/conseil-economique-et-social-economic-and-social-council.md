@@ -1,0 +1,20 @@
+---
+id: conseil-economique-et-social-economic-and-social-council
+title: Conseil économique et social (Economic and Social Council)
+type: organisation
+category: organisation
+tags:
+  - organisation
+  - verified
+  - organisation
+generated: 2026-10-21
+---
+# Conseil économique et social (Economic and Social Council)
+
+*Verified member assertions: 1 people*
+
+## Members and roles
+
+- [Nicole Fontaine](../people/nicole-fontaine.md)  
+  > "Between 1980 and 1984 she was a member of the Conseil économique et social (Economic and Social Council), to which she submitted a report on publishing policy."
+  > Source: [Nicole Fontaine](../sources/wikipedia-nicole-fontaine.md) · grade A

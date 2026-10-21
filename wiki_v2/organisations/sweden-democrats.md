@@ -1,0 +1,20 @@
+---
+id: sweden-democrats
+title: Sweden Democrats
+type: organisation
+category: organisation
+tags:
+  - organisation
+  - verified
+  - organisation
+generated: 2026-10-21
+---
+# Sweden Democrats
+
+*Verified member assertions: 1 people*
+
+## Members and roles
+
+- [Charlie Weimers](../people/charlie-weimers.md)  
+  > "&#91; 2 &#93; He is a member of the right-wing populist Sweden Democrats , part of European Conservatives and Reformists ."
+  > Source: [Charlie Weimers](../sources/wikipedia-charlie-weimers.md) · grade A

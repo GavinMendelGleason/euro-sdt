@@ -1,0 +1,81 @@
+{
+  "counts": {
+    "source_document": 707,
+    "sentence": 33901,
+    "entity": 3588,
+    "entity_alias": 6286,
+    "claim": 5380,
+    "evidence": 6084,
+    "assertion": 5380,
+    "rejection": 1940,
+    "organisation_profile": 856,
+    "adjudication": 1927
+  },
+  "assertions_by_status": {
+    "needs_review": 51,
+    "rejected": 1167,
+    "verified": 4162
+  },
+  "assertions_by_grade": {
+    "B": 624,
+    "C": 1303,
+    "none": 463,
+    "A": 2990
+  },
+  "rejections_by_stage": {
+    "llm_adjudication": 702,
+    "locator": 463,
+    "migration": 51,
+    "party_group_guard": 2,
+    "source_resolution": 722
+  },
+  "evidence_by_locator": {
+    "empty_quote": 6,
+    "located": 5918,
+    "quote_not_found": 160
+  },
+  "sources_by_kind": {
+    "cjeu": 92,
+    "declaration": 29,
+    "dg_cv": 82,
+    "entity_md": 12,
+    "org_site": 7,
+    "revolving_door": 67,
+    "wikipedia": 418
+  },
+  "claims_by_predicate": {
+    "advisory_board": 122,
+    "affiliated_with": 521,
+    "attendee": 32,
+    "board_member": 432,
+    "chair": 606,
+    "educated_at": 670,
+    "employed_by": 408,
+    "fellow": 20,
+    "founder": 79,
+    "from_country": 145,
+    "held_degree": 20,
+    "held_portfolio": 183,
+    "held_position": 119,
+    "member": 1482,
+    "nominated_by": 145,
+    "post_mandate_occupation": 156,
+    "served_on_commission": 181,
+    "started_on": 7,
+    "studied_field": 52
+  },
+  "checks": {
+    "verified_without_located_evidence": 0,
+    "verified_grade_none": 0,
+    "located_evidence_without_sentence": 0,
+    "evidence_without_doc": 0,
+    "claims_without_object": 0,
+    "duplicate_active_entities": 0,
+    "quarantined_entities": 38,
+    "documents_without_sentences": 0,
+    "documents_without_hash": 0,
+    "recovered_evidence": 1051,
+    "llm_adjudications": 1927,
+    "verified_claims_with_object": 3723
+  }
+}

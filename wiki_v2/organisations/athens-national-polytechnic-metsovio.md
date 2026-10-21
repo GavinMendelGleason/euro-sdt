@@ -1,0 +1,20 @@
+---
+id: athens-national-polytechnic-metsovio
+title: Athens National Polytechnic Metsovio
+type: organisation
+category: university
+tags:
+  - organisation
+  - verified
+  - university
+generated: 2026-10-21
+---
+# Athens National Polytechnic Metsovio
+
+*Verified member assertions: 1 people*
+
+## Members and roles
+
+- [Themis Christophidou](../people/themis-christophidou.md)  
+  > "➢ 1980 – 1986: MSc Civil Engineering, Athens National Polytechnic Metsovio"
+  > Source: [Themis Christophidou](../sources/dg_cv-themis-christophidou.md) · grade B

@@ -1,0 +1,20 @@
+---
+id: scuola-superiore-di-lingue-moderne-per-interpreti-e-traduttori-universita-di-t
+title: Scuola Superiore Di Lingue Moderne Per Interpreti E Traduttori – Università Di T
+type: organisation
+category: university
+tags:
+  - organisation
+  - verified
+  - university
+generated: 2026-10-21
+---
+# Scuola Superiore Di Lingue Moderne Per Interpreti E Traduttori – Università Di T
+
+*Verified member assertions: 1 people*
+
+## Members and roles
+
+- [Sandra Gallina](../people/sandra-gallina.md)  
+  > "Italian Academic qualifications  11/1981 – 07/1987: Laurea in Interpretazione – Summa cum laude Scuola Superiore di Lingue Moderne per Interpreti e TraduttoriScuola Superiore di Lingue Moderne per Interpreti e Traduttori – Università di Trieste – Trieste, Italy"
+  > Source: [Sandra Gallina](../sources/dg_cv-sandra-gallina.md) · grade B

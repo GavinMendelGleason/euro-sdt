@@ -1,0 +1,19 @@
+---
+id: underground-social-democrat-movement
+title: underground Social Democrat movement
+type: organisation
+category: 
+tags:
+  - organisation
+  - verified
+generated: 2026-10-21
+---
+# underground Social Democrat movement
+
+*Verified member assertions: 1 people*
+
+## Members and roles
+
+- [Vytenis Andriukaitis](../people/vytenis-andriukaitis.md)  
+  > "In 1976 Andriukaitis started his career in politics as a member of the underground Social Democrat movement, but later continued his studies by pursuing a degree in history at Vilnius University, graduating in 1984."
+  > Source: [Vytenis Andriukaitis](../sources/wikipedia-vytenis-andriukaitis.md) · grade A

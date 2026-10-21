@@ -1,0 +1,20 @@
+---
+id: movement-for-democratic-unity
+title: Movement for Democratic Unity
+type: organisation
+category: organisation
+tags:
+  - organisation
+  - verified
+  - organisation
+generated: 2026-10-21
+---
+# Movement for Democratic Unity
+
+*Verified member assertions: 1 people*
+
+## Members and roles
+
+- [Mário Soares](../people/mario-soares.md)  
+  > "He was active in resistance groups such as the Movement for Anti-Fascist National Unity and the Movement for Democratic Unity."
+  > Source: [M Rio Soares](../sources/wikipedia-m-rio-soares.md) · grade C

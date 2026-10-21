@@ -1,0 +1,19 @@
+---
+id: treasury
+title: Treasury
+type: organisation
+category: 
+tags:
+  - organisation
+  - verified
+generated: 2026-10-21
+---
+# Treasury
+
+*Verified member assertions: 1 people*
+
+## Members and roles
+
+- [Sir Leon Brittan](../people/sir-leon-brittan.md) — employed_by  
+  > "He was then promoted to become Chief Secretary to the Treasury, becoming the youngest member of the Cabinet."
+  > Source: [Sir Leon Brittan](../sources/wikipedia-sir-leon-brittan.md) · grade A

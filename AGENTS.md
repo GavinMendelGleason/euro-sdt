@@ -59,6 +59,33 @@ The paper bibliography is maintained in `papers/BIBLIOGRAPHY.md` — all cited w
 
 ---
 
+## v2 Assertion Layer (current evidence source)
+
+`euro_sdt.db` and `wiki/` are the historical v1 corpus. The current evidence
+layer is `euro_sdt_v2.db`, built by `src/euro_sdt/v2/`:
+
+- `source_document` snapshots every source with SHA-256, URL, revision, and path.
+- `sentence` stores exact character offsets; sentence IDs are the only locator.
+- `claim` is a candidate; `evidence` is a located quote; `assertion` is the
+  decision. Only `assertion.status = 'verified'` enters the graph.
+- Evidence grades A/B/C and every LLM adjudication are recorded.
+- Organisation classifications live in `organisation_profile`, separate from
+  graph edges; the manual seed is marked `manual_seed`.
+
+Commands:
+
+```bash
+.venv/bin/python scripts/audit_v1.py
+.venv/bin/python scripts/run_v2.py
+.venv/bin/python scripts/adjudicate.py --workers 6
+.venv/bin/python scripts/render_v2.py
+.venv/bin/python scripts/check_v2.py
+```
+
+Read `docs/v2-methodology.md` before changing the assertion layer. Do not add a
+fact directly to the graph; add a claim with a located sentence and let the
+verifier grade it.
+
 ## Data Methodology
 
 All data follows a five-stage pipeline derived from the methodology described in `assets/papers/methodology/paper.tex`:

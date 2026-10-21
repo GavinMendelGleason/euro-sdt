@@ -1,0 +1,20 @@
+---
+id: abvv
+title: ABVV
+type: organisation
+category: organisation
+tags:
+  - organisation
+  - verified
+  - organisation
+generated: 2026-10-21
+---
+# ABVV
+
+*Verified member assertions: 1 people*
+
+## Members and roles
+
+- [Mia De Vits](../people/mia-de-vits.md)  
+  > "De Vits started her career with the socialist trade union ABVV in 1973, rising through the ranks to become Secretary-General (1989–2002) and its chairman (2002–2004)."
+  > Source: [Mia De Vits](../sources/wikipedia-mia-de-vits.md) · grade B

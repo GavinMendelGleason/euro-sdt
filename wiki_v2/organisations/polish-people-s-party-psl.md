@@ -1,0 +1,19 @@
+---
+id: polish-people-s-party-psl
+title: Polish People's Party (PSL)
+type: organisation
+category: 
+tags:
+  - organisation
+  - verified
+generated: 2026-10-21
+---
+# Polish People's Party (PSL)
+
+*Verified member assertions: 1 people*
+
+## Members and roles
+
+- [Janusz Wojciechowski](../people/janusz-wojciechowski.md)  
+  > "2003-2002: Member of the Chief Executive Committee of the Polish People's Party (PSL)"
+  > Source: [Janusz Wojciechowski](../sources/wikipedia-janusz-wojciechowski.md) · grade A

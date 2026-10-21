@@ -1,0 +1,19 @@
+---
+id: standing-committee-on-national-defense-and-foreign-affairs
+title: Standing Committee on National Defense and Foreign Affairs
+type: organisation
+category: 
+tags:
+  - organisation
+  - verified
+generated: 2026-10-21
+---
+# Standing Committee on National Defense and Foreign Affairs
+
+*Verified member assertions: 1 people*
+
+## Members and roles
+
+- [Apostolos Tzitzikostas](../people/apostolos-tzitzikostas.md)  
+  > "As MP, he served as Secretary of the Hellenic Parliament, member of the Standing Committee on National Defense and Foreign Affairs, and member of the Standing Committee on Financial Affairs."
+  > Source: [Apostolos Tzitzikostas](../sources/wikipedia-apostolos-tzitzikostas.md) · grade A

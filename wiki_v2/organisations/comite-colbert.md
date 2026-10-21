@@ -1,0 +1,20 @@
+---
+id: comite-colbert
+title: Comité Colbert
+type: organisation
+category: organisation
+tags:
+  - organisation
+  - verified
+  - organisation
+generated: 2026-10-21
+---
+# Comité Colbert
+
+*Verified member assertions: 1 people*
+
+## Members and roles
+
+- [Antoine Arnault](../people/antoine-arnault.md) — board_member  
+  > "&#91; 18 &#93; He has been a board member at Madrigall, the holding company controlling family-owned French publisher Gallimard , since November 2013."
+  > Source: [Antoine Arnault](../sources/wikipedia-antoine-arnault.md) · grade A

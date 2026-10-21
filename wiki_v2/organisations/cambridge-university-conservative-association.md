@@ -1,0 +1,19 @@
+---
+id: cambridge-university-conservative-association
+title: Cambridge University Conservative Association
+type: organisation
+category: 
+tags:
+  - organisation
+  - verified
+generated: 2026-10-21
+---
+# Cambridge University Conservative Association
+
+*Verified member assertions: 1 people*
+
+## Members and roles
+
+- [Sir Leon Brittan](../people/sir-leon-brittan.md) — chair  
+  > "Brittan was educated at the Haberdashers' Aske's Boys' School and Trinity College, Cambridge, where he was President of the Cambridge Union Society and Chairman of the Cambridge University Conservative Association."
+  > Source: [Sir Leon Brittan](../sources/wikipedia-sir-leon-brittan.md) · grade A

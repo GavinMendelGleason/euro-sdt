@@ -1,0 +1,20 @@
+---
+id: university-of-alcala-de-henares
+title: University Of Alcalá De Henares
+type: organisation
+category: university
+tags:
+  - organisation
+  - verified
+  - university
+generated: 2026-10-21
+---
+# University Of Alcalá De Henares
+
+*Verified member assertions: 1 people*
+
+## Members and roles
+
+- [Joaquín Almunia](../people/joaquin-almunia.md)  
+  > "He was an associate lecturer on employment and social security law at the University of Alcalá de Henares from 1991 to 1994."
+  > Source: [Joaquin Almunia](../sources/wikipedia-joaquin-almunia.md) · grade A

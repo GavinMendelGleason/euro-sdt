@@ -1,0 +1,20 @@
+---
+id: assopacepalestina
+title: AssoPacePalestina
+type: organisation
+category: organisation
+tags:
+  - organisation
+  - verified
+  - organisation
+generated: 2026-10-21
+---
+# AssoPacePalestina
+
+*Verified member assertions: 1 people*
+
+## Members and roles
+
+- [Luisa Morgantini](../people/luisa-morgantini.md) — founder  
+  > "She also founded, and currently leads, the association AssoPacePalestina , which advocates for peace and human rights in Palestine ."
+  > Source: [Luisa Morgantini](../sources/wikipedia-luisa-morgantini.md) · grade A

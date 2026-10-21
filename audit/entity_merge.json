@@ -1,0 +1,1124 @@
+{
+  "merged_groups": [
+    {
+      "kind": "person",
+      "canonical_id": "olli-rehn",
+      "canonical_name": "Olli Rehn",
+      "merged": [
+        {
+          "id": "olli-rehn"
+        },
+        {
+          "id": "mep-olli-rehn"
+        }
+      ]
+    },
+    {
+      "kind": "person",
+      "canonical_id": "antonio-tajani",
+      "canonical_name": "Antonio Tajani",
+      "merged": [
+        {
+          "id": "antonio-tajani"
+        },
+        {
+          "id": "mep-antonio-tajani"
+        }
+      ]
+    },
+    {
+      "kind": "person",
+      "canonical_id": "corina-cretu",
+      "canonical_name": "Corina Crețu",
+      "merged": [
+        {
+          "id": "corina-cretu"
+        },
+        {
+          "id": "mep-corina-creu"
+        }
+      ]
+    },
+    {
+      "kind": "person",
+      "canonical_id": "mairead-mcguinness",
+      "canonical_name": "Mairead McGuinness",
+      "merged": [
+        {
+          "id": "mairead-mcguinness"
+        },
+        {
+          "id": "mep-mairead-mcguinness"
+        }
+      ]
+    },
+    {
+      "kind": "organisation",
+      "canonical_id": "world-economic-forum",
+      "canonical_name": "World Economic Forum",
+      "merged": [
+        {
+          "id": "world-economic-forum"
+        },
+        {
+          "id": "world-economic-forum-wef"
+        }
+      ]
+    },
+    {
+      "kind": "institution",
+      "canonical_id": "institut-d-etudes-politiques",
+      "canonical_name": "Institut D'Études Politiques",
+      "merged": [
+        {
+          "id": "institut-detudes-politiques"
+        },
+        {
+          "id": "institut-detudes-politiques-scpo"
+        }
+      ]
+    },
+    {
+      "kind": "person",
+      "canonical_id": "josep-borrell",
+      "canonical_name": "Josep Borrell",
+      "merged": [
+        {
+          "id": "josep-borrell"
+        },
+        {
+          "id": "mep-josep-borrell"
+        }
+      ]
+    },
+    {
+      "kind": "person",
+      "canonical_id": "pierre-moscovici",
+      "canonical_name": "Pierre Moscovici",
+      "merged": [
+        {
+          "id": "pierre-moscovici"
+        },
+        {
+          "id": "mep-pierre-moscovici"
+        }
+      ]
+    },
+    {
+      "kind": "institution",
+      "canonical_id": "university-of-copenhagen",
+      "canonical_name": "University Of Copenhagen",
+      "merged": [
+        {
+          "id": "university-of-copenhagen"
+        },
+        {
+          "id": "university-of-copenhagen-implied-by-ma-i"
+        }
+      ]
+    },
+    {
+      "kind": "institution",
+      "canonical_id": "university-of-ljubljana",
+      "canonical_name": "University Of Ljubljana",
+      "merged": [
+        {
+          "id": "university-of-ljubljana"
+        },
+        {
+          "id": "university-of-ljubljana-implied-by-studi"
+        }
+      ]
+    },
+    {
+      "kind": "organisation",
+      "canonical_id": "social-democratic-party",
+      "canonical_name": "Social Democratic Party",
+      "merged": [
+        {
+          "id": "social-democratic-party-spd"
+        },
+        {
+          "id": "social-democratic-party-psd"
+        },
+        {
+          "id": "social-democratic-party"
+        }
+      ]
+    },
+    {
+      "kind": "organisation",
+      "canonical_id": "solidarity-electoral-action",
+      "canonical_name": "Solidarity Electoral Action",
+      "merged": [
+        {
+          "id": "solidarity-electoral-action"
+        },
+        {
+          "id": "solidarity-electoral-action-aws"
+        }
+      ]
+    },
+    {
+      "kind": "organisation",
+      "canonical_id": "right-alliance",
+      "canonical_name": "Right Alliance",
+      "merged": [
+        {
+          "id": "right-alliance-pp"
+        },
+        {
+          "id": "right-alliance"
+        },
+        {
+          "id": "right-alliance-przymierze-prawicy"
+        }
+      ]
+    },
+    {
+      "kind": "organisation",
+      "canonical_id": "law-and-justice",
+      "canonical_name": "Law and Justice",
+      "merged": [
+        {
+          "id": "law-and-justice-pis"
+        },
+        {
+          "id": "law-and-justice"
+        },
+        {
+          "id": "law-and-justice-prawo-i-sprawiedliwo"
+        }
+      ]
+    },
+    {
+      "kind": "organisation",
+      "canonical_id": "union-for-europe-of-the-nations",
+      "canonical_name": "Union for Europe of the Nations",
+      "merged": [
+        {
+          "id": "union-for-europe-of-the-nations"
+        },
+        {
+          "id": "union-for-europe-of-the-nations-uen"
+        }
+      ]
+    },
+    {
+      "kind": "organisation",
+      "canonical_id": "european-conservatives-and-reformists",
+      "canonical_name": "European Conservatives and Reformists",
+      "merged": [
+        {
+          "id": "european-conservatives-and-reformists-ecr"
+        },
+        {
+          "id": "european-conservatives-and-reformists"
+        }
+      ]
+    },
+    {
+      "kind": "organisation",
+      "canonical_id": "poland-comes-first",
+      "canonical_name": "Poland Comes First",
+      "merged": [
+        {
+          "id": "poland-comes-first"
+        },
+        {
+          "id": "poland-comes-first-pjn"
+        }
+      ]
+    },
+    {
+      "kind": "organisation",
+      "canonical_id": "the-republicans",
+      "canonical_name": "The Republicans",
+      "merged": [
+        {
+          "id": "the-republicans-lr"
+        },
+        {
+          "id": "the-republicans"
+        }
+      ]
+    },
+    {
+      "kind": "organisation",
+      "canonical_id": "spanish-socialist-workers-party",
+      "canonical_name": "Spanish Socialist Workers' Party",
+      "merged": [
+        {
+          "id": "spanish-socialist-workers-party-psoe"
+        },
+        {
+          "id": "spanish-socialist-workers-party"
+        }
+      ]
+    },
+    {
+      "kind": "organisation",
+      "canonical_id": "committee-on-industry-research-and-energy",
+      "canonical_name": "Committee on Industry, Research and Energy",
+      "merged": [
+        {
+          "id": "committee-on-industry-research-and-energy-itre"
+        },
+        {
+          "id": "committee-on-industry-research-and-energy"
+        }
+      ]
+    },
+    {
+      "kind": "organisation",
+      "canonical_id": "christian-democrats",
+      "canonical_name": "Christian Democrats",
+      "merged": [
+        {
+          "id": "christian-democrats-kristdemokraterna"
+        },
+        {
+          "id": "christian-democrats"
+        }
+      ]
+    },
+    {
+      "kind": "organisation",
+      "canonical_id": "acp-eu-joint-parliamentary-assembly",
+      "canonical_name": "ACP-EU Joint Parliamentary Assembly",
+      "merged": [
+        {
+          "id": "acp-eu-joint-parliamentary-assembly"
+        },
+        {
+          "id": "acp-eu-joint-parliamentary-assembly-acp-eu"
+        }
+      ]
+    },
+    {
+      "kind": "organisation",
+      "canonical_id": "rai",
+      "canonical_name": "Rai",
+      "merged": [
+        {
+          "id": "rai-radiotelevisione-italiana"
+        },
+        {
+          "id": "rai"
+        }
+      ]
+    },
+    {
+      "kind": "organisation",
+      "canonical_id": "european-peoples-party",
+      "canonical_name": "European Peoples Party",
+      "merged": [
+        {
+          "id": "european-people-s-party-epp"
+        },
+        {
+          "id": "european-people-s-party"
+        },
+        {
+          "id": "european-peoples-party"
+        }
+      ]
+    },
+    {
+      "kind": "organisation",
+      "canonical_id": "committee-on-civil-liberties-justice-and-home-affairs",
+      "canonical_name": "Committee on Civil Liberties, Justice and Home Affairs",
+      "merged": [
+        {
+          "id": "committee-on-civil-liberties-justice-and-home-affairs"
+        },
+        {
+          "id": "committee-on-civil-liberties-justice-and-home-affairs-libe"
+        }
+      ]
+    },
+    {
+      "kind": "organisation",
+      "canonical_id": "sejm",
+      "canonical_name": "Sejm",
+      "merged": [
+        {
+          "id": "sejm-lower-house-of-polish-parliament"
+        },
+        {
+          "id": "sejm-polish-parliament"
+        },
+        {
+          "id": "sejm"
+        }
+      ]
+    },
+    {
+      "kind": "organisation",
+      "canonical_id": "democratic-left-alliance",
+      "canonical_name": "Democratic Left Alliance",
+      "merged": [
+        {
+          "id": "democratic-left-alliance"
+        },
+        {
+          "id": "democratic-left-alliance-sld"
+        }
+      ]
+    },
+    {
+      "kind": "organisation",
+      "canonical_id": "italian-socialist-party",
+      "canonical_name": "Italian Socialist Party",
+      "merged": [
+        {
+          "id": "italian-socialist-party-partito-socialista-italiano-psi"
+        },
+        {
+          "id": "italian-socialist-party"
+        }
+      ]
+    },
+    {
+      "kind": "organisation",
+      "canonical_id": "european-people-s-party-group",
+      "canonical_name": "European People's Party Group",
+      "merged": [
+        {
+          "id": "european-people-s-party-group"
+        },
+        {
+          "id": "european-people-s-party-epp-group"
+        },
+        {
+          "id": "european-people-s-party-group-epp-group"
+        },
+        {
+          "id": "european-people-s-party-group-epp"
+        },
+        {
+          "id": "european-people-s-party-christian-democrats-group"
+        }
+      ]
+    },
+    {
+      "kind": "organisation",
+      "canonical_id": "committee-on-foreign-affairs",
+      "canonical_name": "Committee on Foreign Affairs",
+      "merged": [
+        {
+          "id": "committee-on-foreign-affairs"
+        },
+        {
+          "id": "committee-on-foreign-affairs-french-national-assembly"
+        },
+        {
+          "id": "committee-on-foreign-affairs-national-assembly-of-hungary"
+        }
+      ]
+    },
+    {
+      "kind": "organisation",
+      "canonical_id": "french-communist-party",
+      "canonical_name": "French Communist Party",
+      "merged": [
+        {
+          "id": "french-communist-party-pcf"
+        },
+        {
+          "id": "french-communist-party"
+        }
+      ]
+    },
+    {
+      "kind": "organisation",
+      "canonical_id": "european-united-leftnordic-green-left",
+      "canonical_name": "European United Left–Nordic Green Left",
+      "merged": [
+        {
+          "id": "european-united-left-nordic-green-left-gue-ngl"
+        },
+        {
+          "id": "european-united-left-nordic-green-left"
+        }
+      ]
+    },
+    {
+      "kind": "organisation",
+      "canonical_id": "committee-on-the-environment-public-health-and-food-safety",
+      "canonical_name": "Committee on the Environment, Public Health and Food Safety",
+      "merged": [
+        {
+          "id": "committee-on-the-environment-public-health-and-food-safety"
+        },
+        {
+          "id": "committee-on-the-environment-public-health-and-food-safety-envi"
+        }
+      ]
+    },
+    {
+      "kind": "organisation",
+      "canonical_id": "democrats-of-the-left",
+      "canonical_name": "Democrats of the Left",
+      "merged": [
+        {
+          "id": "democrats-of-the-left-ds"
+        },
+        {
+          "id": "democrats-of-the-left"
+        }
+      ]
+    },
+    {
+      "kind": "organisation",
+      "canonical_id": "chamber-of-deputies",
+      "canonical_name": "Chamber of Deputies",
+      "merged": [
+        {
+          "id": "chamber-of-deputies-italy"
+        },
+        {
+          "id": "chamber-of-deputies"
+        }
+      ]
+    },
+    {
+      "kind": "organisation",
+      "canonical_id": "june-movement",
+      "canonical_name": "June Movement",
+      "merged": [
+        {
+          "id": "june-movement-junibev-gelsen"
+        },
+        {
+          "id": "june-movement"
+        }
+      ]
+    },
+    {
+      "kind": "organisation",
+      "canonical_id": "independence-democracy-group",
+      "canonical_name": "Independence/Democracy Group",
+      "merged": [
+        {
+          "id": "independence-democracy-group-ind-dem"
+        },
+        {
+          "id": "independence-democracy-group"
+        }
+      ]
+    },
+    {
+      "kind": "organisation",
+      "canonical_id": "csu",
+      "canonical_name": "CSU",
+      "merged": [
+        {
+          "id": "csu-christian-social-union-in-bavaria"
+        },
+        {
+          "id": "csu"
+        }
+      ]
+    },
+    {
+      "kind": "organisation",
+      "canonical_id": "epp-ed-group",
+      "canonical_name": "EPP-ED Group",
+      "merged": [
+        {
+          "id": "epp-ed-group-european-people-s-party-european-democrats"
+        },
+        {
+          "id": "epp-ed-group"
+        }
+      ]
+    },
+    {
+      "kind": "organisation",
+      "canonical_id": "people-s-party",
+      "canonical_name": "People's Party",
+      "merged": [
+        {
+          "id": "people-s-party"
+        },
+        {
+          "id": "people-s-party-spain"
+        }
+      ]
+    },
+    {
+      "kind": "organisation",
+      "canonical_id": "party-of-european-socialists",
+      "canonical_name": "Party of European Socialists",
+      "merged": [
+        {
+          "id": "party-of-european-socialists"
+        },
+        {
+          "id": "party-of-european-socialists-pes"
+        }
+      ]
+    },
+    {
+      "kind": "organisation",
+      "canonical_id": "solidarity",
+      "canonical_name": "Solidarity",
+      "merged": [
+        {
+          "id": "solidarity"
+        },
+        {
+          "id": "solidarity-underground"
+        }
+      ]
+    },
+    {
+      "kind": "organisation",
+      "canonical_id": "government-of-spain",
+      "canonical_name": "Government of Spain",
+      "merged": [
+        {
+          "id": "government-of-spain-ministry-of-foreign-affairs-european-union-and-cooperation"
+        },
+        {
+          "id": "government-of-spain"
+        }
+      ]
+    },
+    {
+      "kind": "organisation",
+      "canonical_id": "committee-on-agriculture-and-rural-development",
+      "canonical_name": "Committee on Agriculture and Rural Development",
+      "merged": [
+        {
+          "id": "committee-on-agriculture-and-rural-development"
+        },
+        {
+          "id": "committee-on-agriculture-and-rural-development-agri"
+        }
+      ]
+    },
+    {
+      "kind": "organisation",
+      "canonical_id": "centre-party",
+      "canonical_name": "Centre Party",
+      "merged": [
+        {
+          "id": "centre-party"
+        },
+        {
+          "id": "centre-party-youth-wing"
+        }
+      ]
+    },
+    {
+      "kind": "organisation",
+      "canonical_id": "polish-united-workers-party",
+      "canonical_name": "Polish United Workers' Party",
+      "merged": [
+        {
+          "id": "polish-united-workers-party"
+        },
+        {
+          "id": "polish-united-workers-party-pzpr"
+        }
+      ]
+    },
+    {
+      "kind": "organisation",
+      "canonical_id": "government-of-poland",
+      "canonical_name": "Government of Poland",
+      "merged": [
+        {
+          "id": "government-of-poland-office-of-the-council-of-ministers"
+        },
+        {
+          "id": "government-of-poland-ministry-of-internal-affairs-and-administration"
+        },
+        {
+          "id": "government-of-poland"
+        }
+      ]
+    },
+    {
+      "kind": "organisation",
+      "canonical_id": "czech-social-democratic-party",
+      "canonical_name": "Czech Social Democratic Party",
+      "merged": [
+        {
+          "id": "czech-social-democratic-party"
+        },
+        {
+          "id": "czech-social-democratic-party-ssd"
+        }
+      ]
+    },
+    {
+      "kind": "organisation",
+      "canonical_id": "european-endowment-for-democracy",
+      "canonical_name": "European Endowment for Democracy",
+      "merged": [
+        {
+          "id": "european-endowment-for-democracy"
+        },
+        {
+          "id": "european-endowment-for-democracy-eed"
+        }
+      ]
+    },
+    {
+      "kind": "organisation",
+      "canonical_id": "women-in-black-italian-branch",
+      "canonical_name": "Women in Black (Italian branch)",
+      "merged": [
+        {
+          "id": "women-in-black-italian-branch"
+        },
+        {
+          "id": "women-in-black-international-network"
+        },
+        {
+          "id": "women-in-black-israeli-branch"
+        }
+      ]
+    },
+    {
+      "kind": "organisation",
+      "canonical_id": "government-of-france",
+      "canonical_name": "Government of France",
+      "merged": [
+        {
+          "id": "government-of-france-under-prime-minister-pierre-mauroy"
+        },
+        {
+          "id": "government-of-france"
+        }
+      ]
+    },
+    {
+      "kind": "organisation",
+      "canonical_id": "socialist-party",
+      "canonical_name": "Socialist Party",
+      "merged": [
+        {
+          "id": "socialist-party-france"
+        },
+        {
+          "id": "socialist-party"
+        }
+      ]
+    },
+    {
+      "kind": "organisation",
+      "canonical_id": "french-parliament",
+      "canonical_name": "French Parliament",
+      "merged": [
+        {
+          "id": "french-parliament"
+        },
+        {
+          "id": "french-parliament-doubs-d-partement"
+        }
+      ]
+    },
+    {
+      "kind": "organisation",
+      "canonical_id": "committee-on-european-affairs",
+      "canonical_name": "Committee on European Affairs",
+      "merged": [
+        {
+          "id": "committee-on-european-affairs-french-national-assembly"
+        },
+        {
+          "id": "committee-on-european-affairs"
+        }
+      ]
+    },
+    {
+      "kind": "organisation",
+      "canonical_id": "europa-union-deutschland",
+      "canonical_name": "Europa-Union Deutschland",
+      "merged": [
+        {
+          "id": "europa-union-deutschland"
+        },
+        {
+          "id": "europa-union-deutschland-union-of-european-federalists-germany"
+        },
+        {
+          "id": "europa-union-deutschland-uef-germany"
+        }
+      ]
+    },
+    {
+      "kind": "organisation",
+      "canonical_id": "free-democratic-party-of-germany",
+      "canonical_name": "Free Democratic Party of Germany",
+      "merged": [
+        {
+          "id": "free-democratic-party-of-germany-fdp"
+        },
+        {
+          "id": "free-democratic-party-of-germany"
+        }
+      ]
+    },
+    {
+      "kind": "organisation",
+      "canonical_id": "christian-national-union",
+      "canonical_name": "Christian National Union",
+      "merged": [
+        {
+          "id": "christian-national-union"
+        },
+        {
+          "id": "christian-national-union-zchn"
+        }
+      ]
+    },
+    {
+      "kind": "organisation",
+      "canonical_id": "conciliation-committee",
+      "canonical_name": "Conciliation Committee",
+      "merged": [
+        {
+          "id": "conciliation-committee-established-by-maastricht-treaty"
+        },
+        {
+          "id": "conciliation-committee"
+        }
+      ]
+    },
+    {
+      "kind": "organisation",
+      "canonical_id": "institute-of-international-finance-iif",
+      "canonical_name": "Institute of International Finance (IIF)",
+      "merged": [
+        {
+          "id": "institute-of-international-finance-iif"
+        },
+        {
+          "id": "institute-of-international-finance-iff"
+        }
+      ]
+    },
+    {
+      "kind": "university",
+      "canonical_id": "ecole-nationale-d-administration",
+      "canonical_name": "École nationale d'administration",
+      "merged": [
+        {
+          "id": "cole-nationale-d-administration"
+        },
+        {
+          "id": "cole-nationale-d-administration-national-school-of-administration-france"
+        }
+      ]
+    },
+    {
+      "kind": "university",
+      "canonical_id": "edhec-business-school",
+      "canonical_name": "EDHEC Business School",
+      "merged": [
+        {
+          "id": "edhec-business-school-ecole-des-hautes-etudes-commerciales-du-nord"
+        },
+        {
+          "id": "edhec-business-school"
+        }
+      ]
+    },
+    {
+      "kind": "organisation",
+      "canonical_id": "hon-society-of-king-s-inns",
+      "canonical_name": "Hon. Society of King's Inns",
+      "merged": [
+        {
+          "id": "hon-society-of-king-s-inns"
+        },
+        {
+          "id": "hon-society-of-kings-inns"
+        }
+      ]
+    },
+    {
+      "kind": "university",
+      "canonical_id": "rheinische-friedrich-wilhelms-universitat-bonn",
+      "canonical_name": "Rheinische Friedrich-Wilhelms-Universität Bonn",
+      "merged": [
+        {
+          "id": "rheinische-friedrich-wilhelms-universit-t-bonn-rhenish-friedrich-wilhelm-university-of-bonn-germany"
+        },
+        {
+          "id": "rheinische-friedrich-wilhelms-universit-t-bonn"
+        }
+      ]
+    },
+    {
+      "kind": "university",
+      "canonical_id": "sveuciliste-u-zagrebu",
+      "canonical_name": "Sveučilište u Zagrebu",
+      "merged": [
+        {
+          "id": "sveu-ili-te-u-zagrebu-university-of-zagreb-croatia"
+        },
+        {
+          "id": "sveu-ili-te-u-zagrebu"
+        }
+      ]
+    },
+    {
+      "kind": "organisation",
+      "canonical_id": "group-of-the-european-people-s-party",
+      "canonical_name": "Group of the European People's Party",
+      "merged": [
+        {
+          "id": "group-of-the-european-people-s-party-christian-democrats"
+        },
+        {
+          "id": "group-of-the-european-people-s-party"
+        }
+      ]
+    },
+    {
+      "kind": "organisation",
+      "canonical_id": "centre-party-youth",
+      "canonical_name": "Centre Party Youth",
+      "merged": [
+        {
+          "id": "centre-party-youth-cuf"
+        },
+        {
+          "id": "centre-party-youth"
+        }
+      ]
+    },
+    {
+      "kind": "organisation",
+      "canonical_id": "civic-choice",
+      "canonical_name": "Civic Choice",
+      "merged": [
+        {
+          "id": "civic-choice-sc"
+        },
+        {
+          "id": "civic-choice"
+        }
+      ]
+    },
+    {
+      "kind": "organisation",
+      "canonical_id": "panhellenic-socialist-movement",
+      "canonical_name": "Panhellenic Socialist Movement",
+      "merged": [
+        {
+          "id": "panhellenic-socialist-movement"
+        },
+        {
+          "id": "panhellenic-socialist-movement-pa-so-k"
+        }
+      ]
+    },
+    {
+      "kind": "organisation",
+      "canonical_id": "international-olympic-committee",
+      "canonical_name": "International Olympic Committee",
+      "merged": [
+        {
+          "id": "international-olympic-committee"
+        },
+        {
+          "id": "international-olympic-committee-ioc"
+        }
+      ]
+    }
+  ],
+  "quarantined": [
+    {
+      "id": "bonn-international-award-for-democracy",
+      "name": "Bonn International Award for Democracy",
+      "kind": "organisation"
+    },
+    {
+      "id": "brexit-party-renamed-reform-uk-in-2021",
+      "name": "Brexit Party (renamed Reform UK in 2021)",
+      "kind": "organisation"
+    },
+    {
+      "id": "community-law-in-1987-at-universite-pantheon-assas-paris-ii-university-paris-2-pantheon-assas",
+      "name": "Community law in 1987 at université Panthéon-Assas Paris II (University Paris 2 Panthéon-Assas",
+      "kind": "university"
+    },
+    {
+      "id": "latvijas-universitate-university-of-latvia-in-1993",
+      "name": "Latvijas Universitāte (University of Latvia) in 1993",
+      "kind": "university"
+    },
+    {
+      "id": "order-of-the-white-rose-of-finland",
+      "name": "Order of the White Rose of Finland",
+      "kind": "organisation"
+    },
+    {
+      "id": "university-of-graz-implied-by-context-but-not-explicitly-named-the-phrase-states-obtained-a-law-degree-in-1987-and-subsequently-a-doctorate-in-law-in-1990-without-naming-the-university",
+      "name": "University of Graz (implied by context, but not explicitly named; the phrase states 'obtained a law degree in 1987 and, subsequently, a doctorate in law in 1990' without naming the university)",
+      "kind": "university"
+    },
+    {
+      "id": "grand-officer-of-the-order-of-civil-and-military-merit-of-adolphe-of-nassau-2004",
+      "name": "Grand Officer of the Order of Civil and Military Merit of Adolphe of Nassau (2004)",
+      "kind": "organisation"
+    },
+    {
+      "id": "grand-officer-of-the-order-of-the-oak-crown-of-the-grand-duchy-of-luxembourg-2004",
+      "name": "Grand Officer of the Order of the Oak Crown of the Grand Duchy of Luxembourg (2004)",
+      "kind": "organisation"
+    },
+    {
+      "id": "in-1997-he-began-to-work-for-his-native-country-joining-the-department-of-european-law-of-the-lith",
+      "name": "In 1997, he began to work for his native country, joining the Department of European Law of the Lith",
+      "kind": "organisation"
+    },
+    {
+      "id": "mr-xa0-picarra-joined-the-court-of-justice-for-the-first-time-in-1986-he-worked-as-a-lawyer-lingui",
+      "name": "Mr&#xa0;Piçarra joined the Court of Justice for the first time in 1986. He worked as a lawyer-lingui",
+      "kind": "organisation"
+    },
+    {
+      "id": "on-his-return-to-denmark-in-1995-he-taught-as-a-researcher-administrative-law-and-eu-law-at-the-k",
+      "name": "On his return to Denmark in 1995, he taught, as a researcher, administrative law and EU law at the K",
+      "kind": "organisation"
+    },
+    {
+      "id": "in-2001-he-joined-the-danish-ministry-of-the-interior-as-head-of-office-where-he-was-responsible-fo",
+      "name": "In 2001, he joined the Danish Ministry of the Interior as Head of Office where he was responsible fo",
+      "kind": "organisation"
+    },
+    {
+      "id": "peitharchiko-symvoulio-melon-didaktikou-ereunitikou-prosopikou-ton-anotaton-ekpaideutikon-idrymaton-disciplinary-council-for-teachers-in-further-education-institutions-greece",
+      "name": "Peitharchiko Symvoulio Melon Didaktikou Ereunitikou Prosopikou ton Anotaton Ekpaideutikon Idrymaton (Disciplinary Council for Teachers in Further Education Institutions, Greece)",
+      "kind": "university"
+    },
+    {
+      "id": "alumni-association-of-the-college-of-europe",
+      "name": "Alumni Association of the College of Europe",
+      "kind": "university"
+    },
+    {
+      "id": "scientific-committee-of-the-collana-di-diritto-per-l-economia-del-dipartimento-di-studi-economico-aziendali-e-diritto-per-l-economia-universita-degli-studi-di-milano-bicocca",
+      "name": "Scientific Committee of the Collana di Diritto per l'Economia del Dipartimento di Studi economico-aziendali e Diritto per l'Economia, Università degli Studi di Milano-Bicocca",
+      "kind": "university"
+    },
+    {
+      "id": "university-of-latvia-in-1996",
+      "name": "University of Latvia in 1996",
+      "kind": "university"
+    },
+    {
+      "id": "university-of-vienna-in-1987",
+      "name": "University of Vienna in 1987",
+      "kind": "university"
+    },
+    {
+      "id": "university-of-helsinki-in-1975",
+      "name": "University of Helsinki in 1975",
+      "kind": "university"
+    },
+    {
+      "id": "university-of-tartu-in-1999-with-a-bachelor-s-degree-in-law",
+      "name": "University of Tartu in 1999 with a bachelor's degree in law",
+      "kind": "university"
+    },
+    {
+      "id": "tartu-10th-middle-school-in-1995",
+      "name": "Tartu 10th Middle School in 1995",
+      "kind": "university"
+    },
+    {
+      "id": "university-of-tartu-with-a-degree-in-chemistry-in-1979",
+      "name": "University of Tartu with a degree in chemistry in 1979",
+      "kind": "university"
+    },
+    {
+      "id": "university-of-helsinki-in-1988",
+      "name": "University of Helsinki in 1988",
+      "kind": "university"
+    },
+    {
+      "id": "university-of-milan-in-1979",
+      "name": "University of Milan in 1979",
+      "kind": "university"
+    },
+    {
+      "id": "president-of-two-associations",
+      "name": "President of two associations",
+      "kind": "organisation"
+    },
+    {
+      "id": "european-parliament-s-monitoring-mission-during-the-ukrainian-parliamentary-elections-in-2014",
+      "name": "European Parliament's monitoring mission during the Ukrainian parliamentary elections in 2014",
+      "kind": "organisation"
+    },
+    {
+      "id": "agricultural-order-of-merit",
+      "name": "Agricultural Order of Merit",
+      "kind": "organisation"
+    },
+    {
+      "id": "national-order-of-merit",
+      "name": "National Order of Merit",
+      "kind": "organisation"
+    },
+    {
+      "id": "president-s-council-on-international-activities-yale-university",
+      "name": "President's Council on International Activities, Yale University",
+      "kind": "organisation"
+    },
+    {
+      "id": "delegation-to-the-eu-kazakhstan-eu-kyrgyzstan-and-eu-uzbekistan-parliamentary-cooperation-committees-and-for-relations-with-tajikistan-turkmenistan-and-mongolia",
+      "name": "Delegation to the EU-Kazakhstan, EU-Kyrgyzstan and EU-Uzbekistan Parliamentary Cooperation Committees, and for relations with Tajikistan, Turkmenistan and Mongolia",
+      "kind": "organisation"
+    },
+    {
+      "id": "vlerick-award",
+      "name": "Vlerick Award",
+      "kind": "organisation"
+    },
+    {
+      "id": "order-of-the-southern-cross",
+      "name": "Order of the Southern Cross",
+      "kind": "organisation"
+    },
+    {
+      "id": "order-of-merit-chile",
+      "name": "Order of Merit (Chile)",
+      "kind": "organisation"
+    },
+    {
+      "id": "order-of-the-legion-of-honour",
+      "name": "Order of the Legion of Honour",
+      "kind": "organisation"
+    },
+    {
+      "id": "national-order-of-merit-france",
+      "name": "National Order of Merit (France)",
+      "kind": "organisation"
+    },
+    {
+      "id": "order-of-ouissam-alaouite",
+      "name": "Order of Ouissam Alaouite",
+      "kind": "organisation"
+    },
+    {
+      "id": "order-of-civil-merit-spain",
+      "name": "Order of Civil Merit (Spain)",
+      "kind": "organisation"
+    },
+    {
+      "id": "alumni-association",
+      "name": "alumni association",
+      "kind": "organisation"
+    }
+  ]
+}

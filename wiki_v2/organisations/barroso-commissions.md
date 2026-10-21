@@ -1,0 +1,19 @@
+---
+id: barroso-commissions
+title: Barroso Commissions
+type: organisation
+category: 
+tags:
+  - organisation
+  - verified
+generated: 2026-10-21
+---
+# Barroso Commissions
+
+*Verified member assertions: 1 people*
+
+## Members and roles
+
+- [Siim Kallas](../people/siim-kallas.md)  
+  > "In both Barroso Commissions he was also a Vice-President."
+  > Source: [Siim Kallas](../sources/wikipedia-siim-kallas.md) · grade B

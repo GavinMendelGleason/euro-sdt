@@ -1,0 +1,20 @@
+---
+id: frauen-union
+title: Frauen Union
+type: organisation
+category: organisation
+tags:
+  - organisation
+  - verified
+  - organisation
+generated: 2026-10-21
+---
+# Frauen Union
+
+*Verified member assertions: 1 people*
+
+## Members and roles
+
+- [Godelieve Quisthoudt-Rowohl](../people/godelieve-quisthoudt-rowohl.md) — board_member  
+  > "From 1990 to 1996 Quisthoudt-Rowohl was a national board member of the Frauen Union for the CDU."
+  > Source: [Godelieve Quisthoudt Rowohl](../sources/wikipedia-godelieve-quisthoudt-rowohl.md) · grade A

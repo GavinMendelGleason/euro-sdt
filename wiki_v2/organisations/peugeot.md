@@ -1,0 +1,20 @@
+---
+id: peugeot
+title: Peugeot
+type: organisation
+category: organisation
+tags:
+  - organisation
+  - verified
+  - organisation
+generated: 2026-10-21
+---
+# Peugeot
+
+*Verified member assertions: 1 people*
+
+## Members and roles
+
+- [Guillaume Faury](../people/guillaume-faury.md) — chair  
+  > "In 2010, Faury became executive vice-president for research and development at car maker Peugeot ."
+  > Source: [Guillaume Faury](../sources/wikipedia-guillaume-faury.md) · grade A

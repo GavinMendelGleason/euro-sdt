@@ -1,0 +1,46 @@
+---
+id: wikipedia-manfred-weber
+title: Manfred Weber
+type: source
+tags:
+  - source
+generated: 2026-10-21
+---
+# Manfred Weber
+
+- Kind: `wikipedia`
+- URL: https://en.wikipedia.org/wiki/Manfred_Weber
+- Local path: `sources/wikipedia/manfred-weber.txt`
+- SHA-256: `787432c7ba3673b4985937410a0cbabdaaf3a173e807e4bd1026b594c6737b70`
+- Sentences: 155
+
+## Verified claims citing this document (14)
+
+- [Manfred Weber](../people/manfred-weber.md) — board_member — European Academy of Bavaria
+  > "^ Board of Trustees European Academy of Bavaria."
+- [Manfred Weber](../people/manfred-weber.md) — board_member — Institute for European Politics (IEP)
+  > "^ Board of Trustees Institute for European Politics (IEP)."
+- [Manfred Weber](../people/manfred-weber.md) — chair — Junge Union
+  > "&#91; 9 &#93; In 2003, Weber succeeded Markus Söder as chairman of the Junge Union &#160;in Bavaria; he served in that position until 2007."
+- [Manfred Weber](../people/manfred-weber.md) — chair — CSU of Lower Bavaria
+  > "In 2008, he succeeded Erwin Huber as chairman of the CSU of Lower Bavaria, one of the party's ten districts."
+- [Manfred Weber](../people/manfred-weber.md) — chair — European People's Party Group
+  > "&#91; 11 &#93; After his reelection in 2009 Weber became vice-chairman of the European People's Party group in the European Parliament under the leadership of chairman Joseph Daul ."
+- [Manfred Weber](../people/manfred-weber.md) — chair — EPP Group
+  > "&#91; 10 &#93; Weber has been chairing the EPP group since 2014."
+- [Manfred Weber](../people/manfred-weber.md) — chair — European People's Party
+  > "In 2022, Weber become president of the EPP."
+- [Manfred Weber](../people/manfred-weber.md) — chair — CSU
+  > "Role in national politics [ edit ] In 2015, Bavaria 's Minister President Horst Seehofer nominated Weber as one of his deputies in the office of CSU chairman, making him part of the party's leadership."
+- [Manfred Weber](../people/manfred-weber.md) — educated_at — munich-higher-technical-institute-now-munich-university-of-applied-sciences
+  > "&#91; 7 &#93; Education and early career [ edit ] 1996: engineer, Munich Higher Technical Institute (now Munich University of Applied Sciences) 1996–2014: Founded own consultancy firm (self-employed) 2002–2004: Member of the Bavarian Parliament (Other) &#91; 8 &#93; Political career [ edit ] Career in state politics [ edit ] From 2002–2014, Weber was a member of the Kelheim District Council."
+- [Manfred Weber](../people/manfred-weber.md) — member — Christian Social Union (CSU)
+  > "He is a member of the Christian Social Union (CSU), part of the European People's Party ."
+- [Manfred Weber](../people/manfred-weber.md) — member — European People's Party
+  > "He is a member of the Christian Social Union (CSU), part of the European People's Party ."
+- [Manfred Weber](../people/manfred-weber.md) — member — CSU executive board
+  > "In this capacity, he also joined the CSU executive board."
+- [Manfred Weber](../people/manfred-weber.md) — member — G5 group
+  > "Between 2014 and 2016, Weber was a member of the now defunct G5 group along with European Commission President Jean-Claude Juncker , Vice President Frans Timmermans , Socialist group leader Gianni Pittella and Martin Schulz , then President of the European Parliament ."
+- [Manfred Weber](../people/manfred-weber.md) — member — Central Committee of German Catholics
+  > "^ Members Archived 17 May 2022 at the Wayback Machine Central Committee of German Catholics ."

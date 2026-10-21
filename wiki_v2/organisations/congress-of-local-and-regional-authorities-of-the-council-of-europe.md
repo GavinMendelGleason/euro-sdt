@@ -1,0 +1,19 @@
+---
+id: congress-of-local-and-regional-authorities-of-the-council-of-europe
+title: Congress of Local and Regional Authorities of the Council of Europe
+type: organisation
+category: 
+tags:
+  - organisation
+  - verified
+generated: 2026-10-21
+---
+# Congress of Local and Regional Authorities of the Council of Europe
+
+*Verified member assertions: 1 people*
+
+## Members and roles
+
+- [Dubravka Šuica](../people/dubravka-suica.md) — chair  
+  > "In 2004, Dubravka Šuica was elected one of the vice-presidents of the Congress of Local and Regional Authorities of the Council of Europe."
+  > Source: [Dubravka Suica](../sources/wikipedia-dubravka-suica.md) · grade A

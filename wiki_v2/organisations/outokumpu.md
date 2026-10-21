@@ -1,0 +1,19 @@
+---
+id: outokumpu
+title: Outokumpu
+type: organisation
+category: 
+tags:
+  - organisation
+  - verified
+generated: 2026-10-21
+---
+# Outokumpu
+
+*Verified member assertions: 1 people*
+
+## Members and roles
+
+- [Erkki Liikanen](../people/erkki-liikanen.md) — board_member  
+  > "1980–1989 Member and subsequently Chairman of the Supervisory Board of the Outokumpu (steel)"
+  > Source: [Erkki Liikanen](../sources/wikipedia-erkki-liikanen.md) · grade A

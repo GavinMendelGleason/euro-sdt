@@ -1,0 +1,19 @@
+---
+id: youth-organization-of-the-democratic-party
+title: Youth Organization of the Democratic Party
+type: organisation
+category: 
+tags:
+  - organisation
+  - verified
+generated: 2026-10-21
+---
+# Youth Organization of the Democratic Party
+
+*Verified member assertions: 1 people*
+
+## Members and roles
+
+- [Markos Kyprianou](../people/markos-kyprianou.md) — chair  
+  > "1993–1997 President of the Youth Organization of the Democratic Party"
+  > Source: [Markos Kyprianou](../sources/wikipedia-markos-kyprianou.md) · grade A

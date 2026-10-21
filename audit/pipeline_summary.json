@@ -1,0 +1,15 @@
+{
+  "counts": {
+    "source_document": 707,
+    "sentence": 33901,
+    "entity": 3048,
+    "entity_alias": 5746,
+    "claim": 4764,
+    "evidence": 4531,
+    "assertion": 4764,
+    "rejection": 1264,
+    "organisation_profile": 856,
+    "adjudication": 0
+  },
+  "elapsed_seconds": 58.6
+}

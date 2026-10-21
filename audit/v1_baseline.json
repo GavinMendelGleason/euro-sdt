@@ -1,0 +1,42 @@
+{
+  "counts": {
+    "facts": 5313,
+    "entities": 2504,
+    "citations": 632,
+    "provenance": 5261,
+    "facts_without_provenance": 52,
+    "facts_verified": 726,
+    "facts_confirmed": 5313,
+    "affiliation_edges": 2552,
+    "affiliated_with_verified": 0,
+    "member_of_verified": 48,
+    "distinct_affiliation_orgs": 2001,
+    "degree_one_orgs": 1750,
+    "classification_facts": 892,
+    "classification_llm": 844,
+    "classification_dataset": 41,
+    "citation_missing_rows": 54,
+    "zero_fact_entities": 1162,
+    "isolated_entities": 162
+  },
+  "evidence_tiers": {
+    "source-missing": 363,
+    "no-index": 117,
+    "synthetic": 383,
+    "quote-not-in-source": 626,
+    "index-mismatch": 1674,
+    "located": 1012,
+    "name-presence": 188,
+    "llm-self-classification": 844,
+    "citation-missing": 54
+  },
+  "total_provenance": 5261,
+  "summary": {
+    "quote_present_in_source": 2686,
+    "quote_present_share": 51.1,
+    "index_resolves_under_v2_tokenizer": 1012,
+    "index_resolves_share": 19.2,
+    "no_sentence_evidence": 1586,
+    "no_sentence_evidence_share": 30.1
+  }
+}
