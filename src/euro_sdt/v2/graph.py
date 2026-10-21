@@ -46,20 +46,28 @@ def _rows(db: sqlite3.Connection, grade_filter: str | None = None):
                s.country AS subject_country, s.status AS subject_status,
                o.name AS object_name, o.kind AS object_kind, o.category AS object_category,
                o.country AS object_country, o.status AS object_status,
-               e.quote, e.doc_id, d.url AS doc_url, d.title AS doc_title
+               e.quote, e.doc_id, d.url AS doc_url, d.title AS doc_title,
+               d.local_path AS doc_path, d.kind AS doc_kind, d.text_sha256 AS doc_sha256
         FROM assertion a
         JOIN claim c ON c.id = a.claim_id
         JOIN entity s ON s.id = c.subject_id
-        LEFT JOIN entity o ON o.id = c.object_id
-        LEFT JOIN evidence e ON e.claim_id = c.id AND e.locator_status = 'located'
+        LEFT JOIN entity o ON o.id = c.object_id AND o.status = 'active'
+        LEFT JOIN evidence e ON e.id = (
+            SELECT e2.id FROM evidence e2
+            WHERE e2.claim_id = c.id AND e2.locator_status = 'located'
+            ORDER BY (e2.subject_mentioned + e2.object_mentioned + e2.role_mentioned) DESC,
+                     length(e2.quote) ASC, e2.id
+            LIMIT 1
+        )
         LEFT JOIN source_document d ON d.id = e.doc_id
-        WHERE a.status = 'verified'
+        WHERE a.status = 'verified' AND s.status = 'active'
+          AND (c.object_id IS NULL OR o.id IS NOT NULL)
     """
     params: tuple = ()
     if grade_filter:
         sql += " AND a.evidence_grade = ?"
         params = (grade_filter,)
-    sql += " GROUP BY a.claim_id ORDER BY c.predicate, s.name"
+    sql += " ORDER BY c.predicate, s.name"
     return db.execute(sql, params).fetchall()
 
 
@@ -186,6 +194,9 @@ def build_graph(db: sqlite3.Connection, output_dir: Path = GRAPH_DIR) -> dict:
             "quote": (row["quote"] or "").replace("\n", " "),
             "doc_id": row["doc_id"] or "",
             "doc_title": row["doc_title"] or "",
+            "doc_path": row["doc_path"] or "",
+            "doc_kind": row["doc_kind"] or "",
+            "doc_sha256": row["doc_sha256"] or "",
             "source_url": row["doc_url"] or "",
         })
 
@@ -202,7 +213,8 @@ def build_graph(db: sqlite3.Connection, output_dir: Path = GRAPH_DIR) -> dict:
         writer.writerows(sorted(nodes.values(), key=lambda n: (n["kind"], n["name"])))
 
     fields = ["source", "target", "predicate", "edge_class", "role", "role_raw", "start_date", "end_date",
-              "grade", "n_sources", "quote", "doc_id", "doc_title", "source_url"]
+              "grade", "n_sources", "quote", "doc_id", "doc_title", "doc_kind", "doc_path", "doc_sha256",
+              "source_url"]
     with (output_dir / "edges.csv").open("w", newline="", encoding="utf-8") as fh:
         writer = csv.DictWriter(fh, fieldnames=fields)
         writer.writeheader()
@@ -210,7 +222,12 @@ def build_graph(db: sqlite3.Connection, output_dir: Path = GRAPH_DIR) -> dict:
 
     _write_graphml(output_dir / "graph.graphml", nodes, edges)
 
+    verified_with_object = db.execute(
+        "SELECT COUNT(*) FROM assertion a JOIN claim c ON c.id=a.claim_id "
+        "WHERE a.status='verified' AND c.object_id IS NOT NULL"
+    ).fetchone()[0]
     metrics = {
+        "excluded_quarantined_endpoints": max(0, verified_with_object - len(edges)),
         "all_verified": _metrics(nodes, edges),
         "grade_a_only": _metrics(
             {n: v for n, v in nodes.items() if any(e["source"] == n and e["grade"] == "A" or e["target"] == n and e["grade"] == "A" for e in edges)},
@@ -231,7 +248,8 @@ def build_graph(db: sqlite3.Connection, output_dir: Path = GRAPH_DIR) -> dict:
 def _write_graphml(path: Path, nodes: dict[str, dict], edges: list[dict]) -> None:
     node_keys = [("name", "string"), ("kind", "string"), ("category", "string"), ("country", "string"), ("status", "string"), ("degree", "int")]
     edge_keys = [("predicate", "string"), ("edge_class", "string"), ("role", "string"), ("grade", "string"),
-                 ("n_sources", "int"), ("doc_id", "string"), ("quote", "string")]
+                 ("n_sources", "int"), ("doc_id", "string"), ("doc_title", "string"), ("doc_path", "string"),
+                 ("source_url", "string"), ("quote", "string")]
     lines = ['<?xml version="1.0" encoding="UTF-8"?>',
              '<graphml xmlns="http://graphml.graphdrawing.org/xmlns">']
     for key, typ in node_keys:
@@ -316,7 +334,9 @@ def _report(metrics: dict, edges: list[dict]) -> str:
         "- `occupational` = employer and held position.",
         "- `education` = education and degree.",
         "- `institutional` = commission service.",
-        "- Every edge carries `quote`, `doc_id`, and `source_url` in `edges.csv`.",
+        "- Every edge carries `quote`, `doc_id`, `doc_title`, `doc_path`, and `doc_sha256`.",
+        "- `source_url` is empty only for local-only documents (DG CVs, CJEU, declarations); the path and hash identify them.",
+        f"- {metrics.get('excluded_quarantined_endpoints', 0)} verified claims are excluded because an endpoint is quarantined.",
         "",
     ]
     return "\n".join(lines)

@@ -6,19 +6,19 @@ Generated from `euro_sdt_v2.db`. Only `assertion.status = 'verified'` appears he
 
 | Metric | All verified | Grade A only | Network edges only |
 |---|---:|---:|---:|
-| Nodes | 2900 | 2225 | 2191 |
-| Edges | 3723 | 2628 | 2692 |
-| Unique person–entity pairs | 3486 | 2526 | 2549 |
-| Largest component | 2664 | 1903 | 1956 |
-| Degree-1 nodes | 2205 | 1672 | 1649 |
+| Nodes | 2875 | 2212 | 2174 |
+| Edges | 3698 | 2615 | 2675 |
+| Unique person–entity pairs | 3461 | 2513 | 2532 |
+| Largest component | 2640 | 1890 | 1940 |
+| Degree-1 nodes | 2180 | 1659 | 1632 |
 
 ## Edges by class
 
 | Class | Edges |
 |---|---:|
-| education | 541 |
+| education | 533 |
 | institutional | 98 |
-| network | 2692 |
+| network | 2675 |
 | occupational | 389 |
 | other | 3 |
 
@@ -26,9 +26,9 @@ Generated from `euro_sdt_v2.db`. Only `assertion.status = 'verified'` appears he
 
 | Grade | Edges |
 |---|---:|
-| A | 2628 |
-| B | 458 |
-| C | 637 |
+| A | 2615 |
+| B | 449 |
+| C | 634 |
 
 ## Top hubs (all verified edges)
 
@@ -36,18 +36,18 @@ Generated from `euro_sdt_v2.db`. Only `assertion.status = 'verified'` appears he
 |---|---|---:|
 | European Commission | organisation | 77 |
 | European Parliament | organisation | 51 |
-| Kaja Kallas | person | 42 |
-| Thierry Breton | person | 39 |
+| Kaja Kallas | person | 41 |
 | Neelie Kroes | person | 36 |
 | Pascal Lamy | person | 36 |
 | Ria Oomen-Ruijten | person | 34 |
 | Federica Mogherini | person | 33 |
+| Thierry Breton | person | 33 |
 | Pierre Moscovici | person | 32 |
 | Mario Monti | person | 30 |
 | António Vitorino | person | 29 |
 | Günther Oettinger | person | 29 |
-| José Manuel Barroso | person | 29 |
 | European People's Party | organisation | 28 |
+| José Manuel Barroso | person | 28 |
 | Anita Gradin | person | 27 |
 
 ## Top co-affiliations
@@ -76,4 +76,6 @@ Generated from `euro_sdt_v2.db`. Only `assertion.status = 'verified'` appears he
 - `occupational` = employer and held position.
 - `education` = education and degree.
 - `institutional` = commission service.
-- Every edge carries `quote`, `doc_id`, and `source_url` in `edges.csv`.
+- Every edge carries `quote`, `doc_id`, `doc_title`, `doc_path`, and `doc_sha256`.
+- `source_url` is empty only for local-only documents (DG CVs, CJEU, declarations); the path and hash identify them.
+- 25 verified claims are excluded because an endpoint is quarantined.

@@ -71,6 +71,30 @@ def audit(db: sqlite3.Connection) -> dict:
             SELECT COUNT(*) FROM assertion a JOIN claim c ON c.id=a.claim_id
             WHERE a.status='verified' AND c.object_id IS NOT NULL
         """).fetchone()[0],
+        "verified_edges_without_quote": db.execute("""
+            SELECT COUNT(*) FROM assertion a JOIN claim c ON c.id=a.claim_id
+            WHERE a.status='verified' AND c.object_id IS NOT NULL AND NOT EXISTS (
+                SELECT 1 FROM evidence e WHERE e.claim_id=c.id AND e.locator_status='located'
+                  AND length(trim(e.quote)) > 0
+            )
+        """).fetchone()[0],
+        "verified_claims_with_quarantined_endpoint": db.execute("""
+            SELECT COUNT(*) FROM assertion a JOIN claim c ON c.id=a.claim_id
+            JOIN entity s ON s.id=c.subject_id
+            LEFT JOIN entity o ON o.id=c.object_id
+            WHERE a.status='verified' AND c.object_id IS NOT NULL
+              AND (s.status!='active' OR (o.id IS NOT NULL AND o.status!='active'))
+        """).fetchone()[0],
+        "verified_edges_without_doc": db.execute("""
+            SELECT COUNT(*) FROM assertion a JOIN claim c ON c.id=a.claim_id
+            WHERE a.status='verified' AND c.object_id IS NOT NULL AND NOT EXISTS (
+                SELECT 1 FROM evidence e JOIN source_document d ON d.id=e.doc_id
+                WHERE e.claim_id=c.id AND e.locator_status='located'
+            )
+        """).fetchone()[0],
+        "documents_without_path": db.execute(
+            "SELECT COUNT(*) FROM source_document WHERE local_path IS NULL OR local_path=''"
+        ).fetchone()[0],
     }
 
     report = {
@@ -124,6 +148,9 @@ def _markdown(report: dict) -> str:
         "duplicate_active_entities": 0,
         "documents_without_sentences": 0,
         "documents_without_hash": 0,
+        "verified_edges_without_quote": 0,
+        "verified_edges_without_doc": 0,
+        "documents_without_path": 0,
     }
     for key, value in report["checks"].items():
         lines.append(f"| {key} | {value} | {expected.get(key, 'informational')} |")
@@ -148,6 +175,9 @@ def check(db: sqlite3.Connection) -> list[str]:
         "duplicate_active_entities": 0,
         "documents_without_sentences": 0,
         "documents_without_hash": 0,
+        "verified_edges_without_quote": 0,
+        "verified_edges_without_doc": 0,
+        "documents_without_path": 0,
     }.items():
         if report["checks"].get(key) != expected:
             failures.append(f"{key}={report['checks'].get(key)} (expected {expected})")

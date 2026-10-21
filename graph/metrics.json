@@ -1,45 +1,46 @@
 {
+  "excluded_quarantined_endpoints": 25,
   "all_verified": {
-    "nodes": 2900,
-    "edges": 3723,
-    "unique_pairs": 3486,
+    "nodes": 2875,
+    "edges": 3698,
+    "unique_pairs": 3461,
     "edges_by_class": {
-      "network": 2692,
-      "education": 541,
+      "network": 2675,
+      "education": 533,
       "occupational": 389,
       "other": 3,
       "institutional": 98
     },
     "edges_by_predicate": {
       "advisory_board": 99,
-      "affiliated_with": 417,
+      "affiliated_with": 407,
       "attendee": 30,
-      "board_member": 367,
-      "chair": 518,
-      "educated_at": 541,
+      "board_member": 366,
+      "chair": 517,
+      "educated_at": 533,
       "employed_by": 380,
       "fellow": 18,
-      "founder": 70,
+      "founder": 69,
       "from_country": 3,
       "held_position": 1,
-      "member": 1173,
+      "member": 1169,
       "post_mandate_occupation": 8,
       "served_on_commission": 98
     },
     "edges_by_grade": {
-      "A": 2628,
-      "C": 637,
-      "B": 458
+      "A": 2615,
+      "C": 634,
+      "B": 449
     },
     "degree": {
       "max": 77,
-      "mean": 2.4,
-      "degree_1": 2205,
+      "mean": 2.41,
+      "degree_1": 2180,
       "degree_ge_3": 445
     },
     "components": {
       "count": 74,
-      "largest": 2664,
+      "largest": 2640,
       "singletons": 0
     },
     "top_hubs": [
@@ -59,13 +60,7 @@
         "id": "kaja-kallas",
         "name": "Kaja Kallas",
         "kind": "person",
-        "degree": 42
-      },
-      {
-        "id": "thierry-breton",
-        "name": "Thierry Breton",
-        "kind": "person",
-        "degree": 39
+        "degree": 41
       },
       {
         "id": "neelie-kroes",
@@ -88,6 +83,12 @@
       {
         "id": "federica-mogherini",
         "name": "Federica Mogherini",
+        "kind": "person",
+        "degree": 33
+      },
+      {
+        "id": "thierry-breton",
+        "name": "Thierry Breton",
         "kind": "person",
         "degree": 33
       },
@@ -116,15 +117,15 @@
         "degree": 29
       },
       {
-        "id": "jose-manuel-barroso",
-        "name": "José Manuel Barroso",
-        "kind": "person",
-        "degree": 29
-      },
-      {
         "id": "european-peoples-party",
         "name": "European People's Party",
         "kind": "organisation",
+        "degree": 28
+      },
+      {
+        "id": "jose-manuel-barroso",
+        "name": "José Manuel Barroso",
+        "kind": "person",
         "degree": 28
       },
       {
@@ -146,12 +147,6 @@
         "degree": 27
       },
       {
-        "id": "joseph-daul",
-        "name": "Joseph Daul",
-        "kind": "person",
-        "degree": 27
-      },
-      {
         "id": "karmenu-vella",
         "name": "Karmenu Vella",
         "kind": "person",
@@ -162,23 +157,29 @@
         "name": "Wopke Hoekstra",
         "kind": "person",
         "degree": 26
+      },
+      {
+        "id": "barroso-ii",
+        "name": "Barroso II",
+        "kind": "commission",
+        "degree": 25
       }
     ],
     "kind_mixing": {
-      "person->organisation": 3042,
+      "person->organisation": 3025,
       "person->institution": 392,
-      "person->university": 179,
+      "person->university": 171,
       "person->commission": 107,
       "person->person": 3
     }
   },
   "grade_a_only": {
-    "nodes": 2225,
-    "edges": 2628,
-    "unique_pairs": 2526,
+    "nodes": 2212,
+    "edges": 2615,
+    "unique_pairs": 2513,
     "edges_by_class": {
-      "network": 1915,
-      "education": 428,
+      "network": 1910,
+      "education": 420,
       "occupational": 208,
       "institutional": 77
     },
@@ -186,27 +187,27 @@
       "advisory_board": 91,
       "affiliated_with": 121,
       "attendee": 13,
-      "board_member": 312,
-      "chair": 430,
-      "educated_at": 428,
+      "board_member": 311,
+      "chair": 429,
+      "educated_at": 420,
       "employed_by": 208,
       "fellow": 14,
-      "founder": 29,
-      "member": 905,
+      "founder": 28,
+      "member": 903,
       "served_on_commission": 77
     },
     "edges_by_grade": {
-      "A": 2628
+      "A": 2615
     },
     "degree": {
       "max": 44,
       "mean": 2.27,
-      "degree_1": 1672,
-      "degree_ge_3": 351
+      "degree_1": 1659,
+      "degree_ge_3": 350
     },
     "components": {
       "count": 88,
-      "largest": 1903,
+      "largest": 1890,
       "singletons": 0
     },
     "top_hubs": [
@@ -220,7 +221,7 @@
         "id": "kaja-kallas",
         "name": "Kaja Kallas",
         "kind": "person",
-        "degree": 35
+        "degree": 34
       },
       {
         "id": "european-commission",
@@ -283,14 +284,14 @@
         "degree": 25
       },
       {
-        "id": "jose-manuel-barroso",
-        "name": "José Manuel Barroso",
-        "kind": "person",
-        "degree": 25
-      },
-      {
         "id": "anders-wijkman",
         "name": "Anders Wijkman",
+        "kind": "person",
+        "degree": 24
+      },
+      {
+        "id": "jose-manuel-barroso",
+        "name": "José Manuel Barroso",
         "kind": "person",
         "degree": 24
       },
@@ -332,44 +333,44 @@
       }
     ],
     "kind_mixing": {
-      "person->organisation": 2111,
+      "person->organisation": 2106,
       "person->institution": 284,
-      "person->university": 151,
+      "person->university": 143,
       "person->commission": 79,
       "person->person": 3
     }
   },
   "network_only": {
-    "nodes": 2191,
-    "edges": 2692,
-    "unique_pairs": 2549,
+    "nodes": 2174,
+    "edges": 2675,
+    "unique_pairs": 2532,
     "edges_by_class": {
-      "network": 2692
+      "network": 2675
     },
     "edges_by_predicate": {
       "advisory_board": 99,
-      "affiliated_with": 417,
+      "affiliated_with": 407,
       "attendee": 30,
-      "board_member": 367,
-      "chair": 518,
+      "board_member": 366,
+      "chair": 517,
       "fellow": 18,
-      "founder": 70,
-      "member": 1173
+      "founder": 69,
+      "member": 1169
     },
     "edges_by_grade": {
-      "A": 1915,
-      "C": 346,
-      "B": 431
+      "A": 1910,
+      "C": 343,
+      "B": 422
     },
     "degree": {
       "max": 50,
       "mean": 2.33,
-      "degree_1": 1649,
+      "degree_1": 1632,
       "degree_ge_3": 365
     },
     "components": {
       "count": 56,
-      "largest": 1956,
+      "largest": 1940,
       "singletons": 0
     },
     "top_hubs": [
@@ -392,12 +393,6 @@
         "degree": 33
       },
       {
-        "id": "thierry-breton",
-        "name": "Thierry Breton",
-        "kind": "person",
-        "degree": 31
-      },
-      {
         "id": "european-peoples-party",
         "name": "European People's Party",
         "kind": "organisation",
@@ -410,12 +405,6 @@
         "degree": 27
       },
       {
-        "id": "joseph-daul",
-        "name": "Joseph Daul",
-        "kind": "person",
-        "degree": 27
-      },
-      {
         "id": "pascal-lamy",
         "name": "Pascal Lamy",
         "kind": "person",
@@ -424,6 +413,18 @@
       {
         "id": "antonio-vitorino",
         "name": "António Vitorino",
+        "kind": "person",
+        "degree": 25
+      },
+      {
+        "id": "joseph-daul",
+        "name": "Joseph Daul",
+        "kind": "person",
+        "degree": 25
+      },
+      {
+        "id": "thierry-breton",
+        "name": "Thierry Breton",
         "kind": "person",
         "degree": 25
       },
@@ -464,18 +465,6 @@
         "degree": 23
       },
       {
-        "id": "hans-van-baalen",
-        "name": "Hans van Baalen",
-        "kind": "person",
-        "degree": 23
-      },
-      {
-        "id": "jose-manuel-barroso",
-        "name": "José Manuel Barroso",
-        "kind": "person",
-        "degree": 23
-      },
-      {
         "id": "karmenu-vella",
         "name": "Karmenu Vella",
         "kind": "person",
@@ -492,10 +481,22 @@
         "name": "Cecilia Malmström",
         "kind": "person",
         "degree": 22
+      },
+      {
+        "id": "christos-stylianides",
+        "name": "Christos Stylianides",
+        "kind": "person",
+        "degree": 22
+      },
+      {
+        "id": "hans-van-baalen",
+        "name": "Hans van Baalen",
+        "kind": "person",
+        "degree": 22
       }
     ],
     "kind_mixing": {
-      "person->organisation": 2643,
+      "person->organisation": 2626,
       "person->university": 31,
       "person->institution": 13,
       "person->person": 3,

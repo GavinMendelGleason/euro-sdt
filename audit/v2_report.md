@@ -127,18 +127,18 @@ Claims from full-document extraction: **1127**.
 
 | Metric | All verified | Network only |
 |---|---:|---:|
-| Nodes | 2900 | 2191 |
-| Edges | 3723 | 2692 |
-| Largest component | 2664 | 1956 |
-| Degree-1 nodes | 2205 | 1649 |
+| Nodes | 2875 | 2174 |
+| Edges | 3698 | 2675 |
+| Largest component | 2640 | 1940 |
+| Degree-1 nodes | 2180 | 1632 |
 
 ### Edges by class
 
 | Class | Edges |
 |---|---:|
-| education | 541 |
+| education | 533 |
 | institutional | 98 |
-| network | 2692 |
+| network | 2675 |
 | occupational | 389 |
 | other | 3 |
 
@@ -148,12 +148,12 @@ Claims from full-document extraction: **1127**.
 |---|---|---:|
 | European Commission | organisation | 77 |
 | European Parliament | organisation | 51 |
-| Kaja Kallas | person | 42 |
-| Thierry Breton | person | 39 |
+| Kaja Kallas | person | 41 |
 | Neelie Kroes | person | 36 |
 | Pascal Lamy | person | 36 |
 | Ria Oomen-Ruijten | person | 34 |
 | Federica Mogherini | person | 33 |
+| Thierry Breton | person | 33 |
 | Pierre Moscovici | person | 32 |
 | Mario Monti | person | 30 |
 | António Vitorino | person | 29 |

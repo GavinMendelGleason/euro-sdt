@@ -76,6 +76,10 @@
     "documents_without_hash": 0,
     "recovered_evidence": 1051,
     "llm_adjudications": 1927,
-    "verified_claims_with_object": 3723
+    "verified_claims_with_object": 3723,
+    "verified_edges_without_quote": 0,
+    "verified_claims_with_quarantined_endpoint": 25,
+    "verified_edges_without_doc": 0,
+    "documents_without_path": 0
   }
 }

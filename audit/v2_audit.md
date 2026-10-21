@@ -64,6 +64,10 @@
 | recovered_evidence | 1051 | informational |
 | llm_adjudications | 1927 | informational |
 | verified_claims_with_object | 3723 | informational |
+| verified_edges_without_quote | 0 | 0 |
+| verified_claims_with_quarantined_endpoint | 25 | informational |
+| verified_edges_without_doc | 0 | 0 |
+| documents_without_path | 0 | 0 |
 
 `duplicate_active_entities` compares exact normalised names within a kind;
 fuzzy duplicates are listed separately in `audit/entity_merge.json`.

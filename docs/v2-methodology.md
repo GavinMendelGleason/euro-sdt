@@ -108,8 +108,11 @@ network edges can be analysed separately. Attendance is not membership.
 
 Open `graph/graph.graphml` in Gephi or Cytoscape. Filter `edge_class = network`
 and `grade = A` for the strictest network view; use `role` to separate board
-seats from attendance or employment. `graph/edges.csv` carries the quote and
-source document for every edge.
+seats from attendance or employment. `graph/edges.csv` carries the best located
+quote and the source document for every edge: `doc_id`, `doc_title`, `doc_path`,
+`doc_sha256`, and `source_url` where the source is a public web page. Local-only
+documents (DG CVs, CJEU, declarations) have a path and hash but no URL. Verified
+claims whose endpoint is quarantined are excluded from the graph.
 
 ## Results
 

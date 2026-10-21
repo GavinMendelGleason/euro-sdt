@@ -33,8 +33,11 @@ evidence layer has been rebuilt as `euro_sdt_v2.db`:
 ```
 
 Current build: **5,380 claims**, **4,162 verified**, 51 needs review, 1,167
-rejected; **3,723 verified graph edges** (2,692 network, 541 education, 389
-occupational, 98 institutional, 3 other). See [`docs/v2-methodology.md`](docs/v2-methodology.md)
+rejected; **3,698 graph edges** (2,675 network, 533 education, 389
+occupational, 98 institutional, 3 other). Every edge has a located quote and a
+hashed source document; 119 edges point at local-only documents (DG CVs, CJEU,
+declarations) with a path and SHA-256 but no public URL. 25 verified claims are
+excluded because an endpoint is quarantined. See [`docs/v2-methodology.md`](docs/v2-methodology.md)
 for the model, grading rules, and invariants. The v1 commands below remain for
 the historical corpus and are not the source of the current graph.
 
