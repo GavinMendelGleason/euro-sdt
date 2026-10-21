@@ -97,6 +97,20 @@ network edges can be analysed separately. Attendance is not membership.
 - every source document has a hash and at least one sentence;
 - graph, wiki, and audit artifacts exist.
 
+## Viewing and exporting the graph
+
+```bash
+# Static overview (network edges, grades A–B, top nodes by degree)
+.venv/bin/python scripts/plot_graph.py
+# Stricter view
+.venv/bin/python scripts/plot_graph.py --edge-class network --grades A --top 120
+```
+
+Open `graph/graph.graphml` in Gephi or Cytoscape. Filter `edge_class = network`
+and `grade = A` for the strictest network view; use `role` to separate board
+seats from attendance or employment. `graph/edges.csv` carries the quote and
+source document for every edge.
+
 ## Results
 
 The generated artifacts are:
