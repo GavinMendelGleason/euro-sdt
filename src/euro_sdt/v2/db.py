@@ -101,6 +101,7 @@ def table_counts(db: sqlite3.Connection) -> dict[str, int]:
         "rejection",
         "organisation_profile",
         "adjudication",
+        "review",
     ]
     out = {}
     for table in tables:

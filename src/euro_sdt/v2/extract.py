@@ -176,13 +176,18 @@ def _apply(db: sqlite3.Connection, docs: DocCache, subject_id: str, doc_id: str,
 
 def extract(db: sqlite3.Connection, categories: tuple[str, ...] = ("commissioner",),
             limit: int | None = None, workers: int = WORKERS,
-            model: str | None = None, thinking: bool = False) -> dict:
+            model: str | None = None, thinking: bool = False,
+            people_filter: tuple[str, ...] | None = None) -> dict:
     model = model or MODEL
     placeholders = ",".join("?" for _ in categories)
-    people = db.execute(
-        f"SELECT e.id, e.name FROM entity e WHERE e.kind='person' AND e.category IN ({placeholders}) "
-        "AND e.status='active' ORDER BY e.name", categories
-    ).fetchall()
+    params: list = list(categories)
+    sql = (f"SELECT e.id, e.name FROM entity e WHERE e.kind='person' AND e.category IN ({placeholders}) "
+           "AND e.status='active'")
+    if people_filter:
+        sql += " AND e.id IN ({})".format(",".join("?" for _ in people_filter))
+        params.extend(people_filter)
+    sql += " ORDER BY e.name"
+    people = db.execute(sql, params).fetchall()
     if limit:
         people = people[:limit]
     run_id = uid("run-")
@@ -261,10 +266,13 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--workers", type=int, default=WORKERS)
     parser.add_argument("--model", default=MODEL)
     parser.add_argument("--thinking", action="store_true")
+    parser.add_argument("--db", default=None, help="Database path (default: euro_sdt_v2.db)")
+    parser.add_argument("--people", default=None, help="Comma-separated person IDs")
     args = parser.parse_args(argv)
-    db = connect()
+    db = connect(args.db) if args.db else connect()
+    people_filter = tuple(p.strip() for p in args.people.split(",")) if args.people else None
     print(extract(db, tuple(args.categories.split(",")), limit=args.limit, workers=args.workers,
-                  model=args.model, thinking=args.thinking))
+                  model=args.model, thinking=args.thinking, people_filter=people_filter))
     return 0
 
 

@@ -152,6 +152,16 @@ CREATE TABLE IF NOT EXISTS organisation_profile (
 );
 CREATE INDEX IF NOT EXISTS idx_profile_entity ON organisation_profile(entity_id);
 
+CREATE TABLE IF NOT EXISTS review (
+    id         TEXT PRIMARY KEY,
+    claim_id   TEXT NOT NULL REFERENCES claim(id),
+    decision   TEXT NOT NULL,       -- verified | rejected | needs_review
+    reviewer   TEXT NOT NULL,
+    reason     TEXT,
+    created_at TEXT NOT NULL
+);
+CREATE INDEX IF NOT EXISTS idx_review_claim ON review(claim_id);
+
 CREATE TABLE IF NOT EXISTS adjudication (
     id             TEXT PRIMARY KEY,
     claim_id       TEXT NOT NULL REFERENCES claim(id),
