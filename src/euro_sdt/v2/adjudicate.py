@@ -60,6 +60,11 @@ def _save_cache(cache: dict) -> None:
     CACHE_PATH.write_text(json.dumps(cache, indent=2, ensure_ascii=False), encoding="utf-8")
 
 
+def _cache_key(model: str, claim_id: str, prompt_hash: str) -> str:
+    base = f"{claim_id}:{prompt_hash[:16]}"
+    return base if model == "deepseek-chat" else f"{model}|{base}"
+
+
 def _prompt(row: sqlite3.Row) -> str:
     meaning = PREDICATE_MEANING.get(row["predicate"], row["predicate"].replace("_", " "))
     quote = (row["quote"] or "").strip()
@@ -96,17 +101,20 @@ Reply with JSON only:
 """
 
 
-def _call(prompt: str) -> tuple[str, str]:
+def _call(prompt: str, model: str = MODEL, thinking: bool = False) -> tuple[str, str]:
     key = os.environ.get("DEEPSEEK_API_KEY", "")
     if not key:
         return "ERROR", "DEEPSEEK_API_KEY is not set"
-    payload = json.dumps({
-        "model": MODEL,
+    body = {
+        "model": model,
         "messages": [{"role": "user", "content": prompt}],
-        "max_tokens": 180,
+        "max_tokens": 900 if thinking else 300,
         "temperature": 0.0,
         "response_format": {"type": "json_object"},
-    }).encode()
+    }
+    if not thinking:
+        body["thinking"] = {"type": "disabled"}
+    payload = json.dumps(body).encode()
     req = __import__("urllib.request", fromlist=["Request"]).Request(
         API_URL,
         data=payload,
@@ -117,8 +125,10 @@ def _call(prompt: str) -> tuple[str, str]:
         try:
             with __import__("urllib.request", fromlist=["urlopen"]).urlopen(req, timeout=60) as response:
                 data = json.loads(response.read().decode("utf-8"))
-            content = data["choices"][0]["message"]["content"]
+            content = (data["choices"][0]["message"].get("content") or "")
             content = content.replace("<|endoftext|>", "").strip()
+            if not content:
+                raise RuntimeError("empty model response")
             match = re.search(r"\{.*\}", content, re.DOTALL)
             parsed = json.loads(match.group(0) if match else content)
             verdict = str(parsed.get("verdict", "")).upper()
@@ -156,7 +166,9 @@ def _candidate_rows(db: sqlite3.Connection) -> list[sqlite3.Row]:
 
 
 def adjudicate(db: sqlite3.Connection, limit: int | None = None,
-               workers: int = WORKERS) -> dict[str, int]:
+               workers: int = WORKERS, model: str | None = None,
+               thinking: bool = False) -> dict[str, int]:
+    model = model or MODEL
     candidates = _candidate_rows(db)
     if limit:
         candidates = candidates[:limit]
@@ -170,12 +182,12 @@ def adjudicate(db: sqlite3.Connection, limit: int | None = None,
             prompt = _prompt(row)
             prompt_hash = sha256_text(prompt)
             prompt_hashes[row["claim_id"]] = prompt_hash
-            key = f"{row['claim_id']}:{prompt_hash[:16]}"
+            key = _cache_key(model, row["claim_id"], prompt_hash)
             cached = cache.get(key)
             if cached and cached.get("verdict") in ("SUPPORTED", "UNSUPPORTED", "AMBIGUOUS"):
                 results[row["claim_id"]] = (cached["verdict"], cached.get("reason", ""))
                 continue
-            tasks[pool.submit(_call, prompt)] = (row, prompt_hash, key)
+            tasks[pool.submit(_call, prompt, model, thinking)] = (row, prompt_hash, key)
 
         for future in as_completed(tasks):
             row, prompt_hash, key = tasks[future]
@@ -186,7 +198,7 @@ def adjudicate(db: sqlite3.Connection, limit: int | None = None,
             if verdict == "ERROR":
                 continue
             results[row["claim_id"]] = (verdict, reason)
-            cache[key] = {"verdict": verdict, "reason": reason, "model": MODEL, "claim_id": row["claim_id"]}
+            cache[key] = {"verdict": verdict, "reason": reason, "model": model, "claim_id": row["claim_id"]}
             if len(results) % 25 == 0:
                 _save_cache(cache)
 
@@ -199,7 +211,7 @@ def adjudicate(db: sqlite3.Connection, limit: int | None = None,
         if verdict == "SUPPORTED":
             db.execute(
                 "UPDATE assertion SET status='verified', reason=?, adjudicator=?, adjudicated_at=? WHERE claim_id=?",
-                (reason, f"llm:{MODEL}", now(), row["claim_id"]),
+                (reason, f"llm:{model}", now(), row["claim_id"]),
             )
             adj_id = "adj-" + __import__("hashlib").sha1(
                 f"{row['claim_id']}|{row['evidence_id']}|{verdict}".encode()
@@ -207,12 +219,12 @@ def adjudicate(db: sqlite3.Connection, limit: int | None = None,
             db.execute(
                 "INSERT OR IGNORE INTO adjudication (id, claim_id, evidence_id, model, prompt_sha256, verdict, reason, created_at) "
                 "VALUES (?,?,?,?,?,?,?,?)",
-                (adj_id, row["claim_id"], row["evidence_id"], MODEL, prompt_hashes.get(row["claim_id"], ""), verdict, reason, now()),
+                (adj_id, row["claim_id"], row["evidence_id"], model, prompt_hashes.get(row["claim_id"], ""), verdict, reason, now()),
             )
         elif verdict == "UNSUPPORTED":
             db.execute(
                 "UPDATE assertion SET status='rejected', reason=?, adjudicator=?, adjudicated_at=? WHERE claim_id=?",
-                (reason, f"llm:{MODEL}", now(), row["claim_id"]),
+                (reason, f"llm:{model}", now(), row["claim_id"]),
             )
             adj_id = "adj-" + __import__("hashlib").sha1(
                 f"{row['claim_id']}|{row['evidence_id']}|{verdict}".encode()
@@ -220,7 +232,7 @@ def adjudicate(db: sqlite3.Connection, limit: int | None = None,
             db.execute(
                 "INSERT OR IGNORE INTO adjudication (id, claim_id, evidence_id, model, prompt_sha256, verdict, reason, created_at) "
                 "VALUES (?,?,?,?,?,?,?,?)",
-                (adj_id, row["claim_id"], row["evidence_id"], MODEL, prompt_hashes.get(row["claim_id"], ""), verdict, reason, now()),
+                (adj_id, row["claim_id"], row["evidence_id"], model, prompt_hashes.get(row["claim_id"], ""), verdict, reason, now()),
             )
             db.execute(
                 "INSERT OR IGNORE INTO rejection (id, claim_id, stage, reason, created_at) VALUES (?,?,?,?,?)",
@@ -229,7 +241,7 @@ def adjudicate(db: sqlite3.Connection, limit: int | None = None,
         elif verdict == "AMBIGUOUS":
             db.execute(
                 "UPDATE assertion SET status='needs_review', reason=?, adjudicator=?, adjudicated_at=? WHERE claim_id=?",
-                (reason, f"llm:{MODEL}", now(), row["claim_id"]),
+                (reason, f"llm:{model}", now(), row["claim_id"]),
             )
             adj_id = "adj-" + __import__("hashlib").sha1(
                 f"{row['claim_id']}|{row['evidence_id']}|{verdict}".encode()
@@ -237,7 +249,7 @@ def adjudicate(db: sqlite3.Connection, limit: int | None = None,
             db.execute(
                 "INSERT OR IGNORE INTO adjudication (id, claim_id, evidence_id, model, prompt_sha256, verdict, reason, created_at) "
                 "VALUES (?,?,?,?,?,?,?,?)",
-                (adj_id, row["claim_id"], row["evidence_id"], MODEL, prompt_hashes.get(row["claim_id"], ""), verdict, reason, now()),
+                (adj_id, row["claim_id"], row["evidence_id"], model, prompt_hashes.get(row["claim_id"], ""), verdict, reason, now()),
             )
     db.commit()
     return counts

@@ -48,6 +48,12 @@ def _save_cache(cache: dict) -> None:
     CACHE_PATH.write_text(json.dumps(cache, indent=2, ensure_ascii=False), encoding="utf-8")
 
 
+def _cache_key(model: str, prompt: str) -> str:
+    base = sha256_text(prompt)
+    # deepseek-chat used the unprefixed key before model-aware caching.
+    return base if model == "deepseek-chat" else f"{model}|{base}"
+
+
 def _chunks(db: sqlite3.Connection, doc_id: str, max_sentences: int = 40, max_chars: int = 12000):
     rows = db.execute(
         "SELECT id, ordinal, text FROM sentence WHERE doc_id=? ORDER BY ordinal", (doc_id,)
@@ -91,17 +97,20 @@ NUMBERED SENTENCES:
 Respond with a JSON array only: [{{"organisation":"...","role":"...","relation":"...","evidence":"...","sentence":N}}]"""
 
 
-def _call(prompt: str) -> list[dict]:
+def _call(prompt: str, model: str = MODEL, thinking: bool = False) -> list[dict]:
     key = os.environ.get("DEEPSEEK_API_KEY", "")
     if not key:
-        return []
-    payload = json.dumps({
-        "model": MODEL,
+        raise RuntimeError("DEEPSEEK_API_KEY is not set")
+    body = {
+        "model": model,
         "messages": [{"role": "user", "content": prompt}],
-        "max_tokens": 2500,
+        "max_tokens": 4000 if thinking else 3000,
         "temperature": 0.0,
         "response_format": {"type": "json_object"},
-    }).encode()
+    }
+    if not thinking:
+        body["thinking"] = {"type": "disabled"}
+    payload = json.dumps(body).encode()
     req = urllib.request.Request(
         API_URL, data=payload,
         headers={"Authorization": f"Bearer {key}", "Content-Type": "application/json"},
@@ -109,9 +118,11 @@ def _call(prompt: str) -> list[dict]:
     last_error = None
     for attempt in range(1):
         try:
-            with urllib.request.urlopen(req, timeout=30) as response:
+            with urllib.request.urlopen(req, timeout=90) as response:
                 data = json.loads(response.read().decode("utf-8"))
-            content = data["choices"][0]["message"]["content"].replace("<|endoftext|>", "").strip()
+            content = (data["choices"][0]["message"].get("content") or "").replace("<|endoftext|>", "").strip()
+            if not content:
+                raise RuntimeError("empty model response")
             match = re.search(r"\[.*\]", content, re.DOTALL)
             if match:
                 parsed = json.loads(match.group(0))
@@ -159,7 +170,9 @@ def _apply(db: sqlite3.Connection, docs: DocCache, subject_id: str, doc_id: str,
 
 
 def extract(db: sqlite3.Connection, categories: tuple[str, ...] = ("commissioner",),
-            limit: int | None = None, workers: int = WORKERS) -> dict:
+            limit: int | None = None, workers: int = WORKERS,
+            model: str | None = None, thinking: bool = False) -> dict:
+    model = model or MODEL
     placeholders = ",".join("?" for _ in categories)
     people = db.execute(
         f"SELECT e.id, e.name FROM entity e WHERE e.kind='person' AND e.category IN ({placeholders}) "
@@ -170,7 +183,8 @@ def extract(db: sqlite3.Connection, categories: tuple[str, ...] = ("commissioner
     run_id = uid("run-")
     db.execute(
         "INSERT INTO run (id, kind, started_at, model, params_json) VALUES (?,?,?,?,?)",
-        (run_id, "extraction", now(), MODEL, json.dumps({"categories": categories, "limit": limit})),
+        (run_id, "extraction", now(), model,
+         json.dumps({"categories": categories, "limit": limit, "model": model, "thinking": thinking})),
     )
     db.commit()
 
@@ -189,10 +203,10 @@ def extract(db: sqlite3.Connection, categories: tuple[str, ...] = ("commissioner
             total_docs += 1
             for chunk in _chunks(db, doc["id"]):
                 prompt = _prompt(person["name"], chunk)
-                key = sha256_text(prompt)
+                key = _cache_key(model, prompt)
                 if key in cache:
                     continue
-                tasks[pool.submit(_call, prompt)] = (person["id"], doc["id"], key)
+                tasks[pool.submit(_call, prompt, model, thinking)] = (person["id"], doc["id"], key)
         results = {}
         errors = 0
         for future in as_completed(tasks):
@@ -219,14 +233,15 @@ def extract(db: sqlite3.Connection, categories: tuple[str, ...] = ("commissioner
         collected = []
         for chunk in _chunks(db, doc["id"]):
             prompt = _prompt(person["name"], chunk)
-            collected.extend(cache.get(sha256_text(prompt), []))
+            collected.extend(cache.get(_cache_key(model, prompt), []))
         _apply(db, docs, person["id"], doc["id"], collected, run_id)
 
     db.execute("UPDATE run SET finished_at=? WHERE id=?", (now(), run_id))
     db.execute("DELETE FROM rejection WHERE stage='locator'")
     db.commit()
     _finish_assertions(db, preserve_adjudicated=True)
-    return {"run_id": run_id, "documents": total_docs, "llm_calls": len(tasks), "errors": errors}
+    return {"run_id": run_id, "documents": total_docs, "llm_calls": len(tasks),
+            "errors": errors, "model": model, "thinking": thinking}
 
 
 def _finish_assertions(db, preserve_adjudicated=True):
@@ -239,9 +254,12 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--categories", default="commissioner")
     parser.add_argument("--limit", type=int, default=None)
     parser.add_argument("--workers", type=int, default=WORKERS)
+    parser.add_argument("--model", default=MODEL)
+    parser.add_argument("--thinking", action="store_true")
     args = parser.parse_args(argv)
     db = connect()
-    print(extract(db, tuple(args.categories.split(",")), limit=args.limit, workers=args.workers))
+    print(extract(db, tuple(args.categories.split(",")), limit=args.limit, workers=args.workers,
+                  model=args.model, thinking=args.thinking))
     return 0
 
 

@@ -1,0 +1,118 @@
+{
+  "agreement": {
+    "chat_vs_flash": {
+      "agreement": 126,
+      "valid": 128,
+      "rate": 98.4
+    },
+    "chat_vs_flash_reasoning": {
+      "agreement": 97,
+      "valid": 128,
+      "rate": 75.8
+    },
+    "flash_vs_flash_reasoning": {
+      "agreement": 95,
+      "valid": 128,
+      "rate": 74.2
+    }
+  },
+  "per_predicate": {
+    "member": {
+      "total": 8,
+      "agree": 8,
+      "flash_supported": 8,
+      "chat_supported": 8
+    },
+    "board_member": {
+      "total": 8,
+      "agree": 8,
+      "flash_supported": 7,
+      "chat_supported": 7
+    },
+    "chair": {
+      "total": 8,
+      "agree": 8,
+      "flash_supported": 6,
+      "chat_supported": 6
+    },
+    "affiliated_with": {
+      "total": 8,
+      "agree": 8,
+      "flash_supported": 6,
+      "chat_supported": 6
+    },
+    "from_country": {
+      "total": 8,
+      "agree": 8,
+      "flash_supported": 5,
+      "chat_supported": 5
+    },
+    "nominated_by": {
+      "total": 8,
+      "agree": 8,
+      "flash_supported": 2,
+      "chat_supported": 2
+    },
+    "served_on_commission": {
+      "total": 8,
+      "agree": 8,
+      "flash_supported": 2,
+      "chat_supported": 2
+    },
+    "held_portfolio": {
+      "total": 8,
+      "agree": 8,
+      "flash_supported": 6,
+      "chat_supported": 6
+    },
+    "educated_at": {
+      "total": 8,
+      "agree": 8,
+      "flash_supported": 6,
+      "chat_supported": 6
+    },
+    "employed_by": {
+      "total": 8,
+      "agree": 8,
+      "flash_supported": 7,
+      "chat_supported": 7
+    },
+    "advisory_board": {
+      "total": 8,
+      "agree": 8,
+      "flash_supported": 7,
+      "chat_supported": 7
+    },
+    "founder": {
+      "total": 8,
+      "agree": 8,
+      "flash_supported": 6,
+      "chat_supported": 6
+    },
+    "fellow": {
+      "total": 8,
+      "agree": 8,
+      "flash_supported": 7,
+      "chat_supported": 7
+    },
+    "attendee": {
+      "total": 8,
+      "agree": 6,
+      "flash_supported": 7,
+      "chat_supported": 5
+    },
+    "post_mandate_occupation": {
+      "total": 8,
+      "agree": 8,
+      "flash_supported": 0,
+      "chat_supported": 0
+    },
+    "held_position": {
+      "total": 8,
+      "agree": 8,
+      "flash_supported": 7,
+      "chat_supported": 7
+    }
+  },
+  "claims": 128
+}
