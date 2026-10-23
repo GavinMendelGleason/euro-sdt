@@ -79,5 +79,50 @@
     "evidence_found": "YES",
     "confidence": "1.00",
     "reason": "The source explicitly states that major national power resides in the economic, political, and military domains, which substantiates the claim about Mills emphasising the overlap between political, military, and corporate elements in the \"power elite.\""
+  },
+  "17886c96469e53d6b11c77e97f3ecade91158ca0d483294758729715b0712e9a": {
+    "paper_section": "main",
+    "claim": "Thus ``elite research'' is not one thing, but many things, and any examination of this shorthand immediately throws up fundamental questions, including but not limited to the following: Whom are we really talking about when we talk about ``elites''? How many different types of ``elite'' are there, a",
+    "citation": "carboni2024",
+    "pdf_file": "../../../papers/Carboni et al_2024_The social immobility of the European power elite A comparative analysis.pdf",
+    "evidence_found": "NO",
+    "confidence": "0.00",
+    "reason": "The source discusses the plurality of elites and different elite types but does not contain the specific rhetorical questions about \"whom are we really talking about\" or \"how many different types of elite are there\" as framed in the claim."
+  },
+  "66515be438980268cf6475b5c423dab841ced4deb51b3686a0509860f497868f": {
+    "paper_section": "main",
+    "claim": "Elite formation is distributed across 27 member states with distinct educational systems, career pathways, and political cultures; the networks that connect these elites cross national boundaries and institutional sectors",
+    "citation": "heemskerk2013",
+    "pdf_file": "../../../papers/HEEMSKERK et al_2013_The Community Structure of the European Network of Interlocking Directorates 2005\u2013201.pdf",
+    "evidence_found": "YES",
+    "confidence": "1.00",
+    "reason": "The source confirms that elite networks are distributed across European countries with distinct national communities, while also showing transnational connections that cross national boundaries and institutional sectors."
+  },
+  "1429a6833f479b7dfa0fc16572b753b9e243d622a78bbcd684088e3338fdfd92": {
+    "paper_section": "main",
+    "claim": "",
+    "citation": "best2012",
+    "pdf_file": "../../../papers/BEST et al_The Europe of Elites.pdf",
+    "evidence_found": "NO",
+    "confidence": "0.00",
+    "reason": "The claim text is missing from the prompt, so there is no statement to verify against the source document."
+  },
+  "ed9bdac79e82cb19f9a674c99f273e4d5c951e2552858630783c149dfe2dfbbc": {
+    "paper_section": "main",
+    "claim": "Comparative work on European power elites likewise finds pronounced social immobility",
+    "citation": "carboni2024",
+    "pdf_file": "../../../papers/Carboni et al_2024_The social immobility of the European power elite A comparative analysis.pdf",
+    "evidence_found": "YES",
+    "confidence": "1.00",
+    "reason": "The source explicitly states that European top leaders are predominantly male and old, with a \"longue dur\u00e9e\" of male dominance and gerontocracy indicating very difficult generational and gender turnover, which directly substantiates the claim of pronounced social immobility."
+  },
+  "de71236739f4080c5bb9b290b3d2a036ba96d4858c3d123c2c5c05cd830ce103": {
+    "paper_section": "main",
+    "claim": "Some of it has charted the emergence of a new supranational European elite on the back of the institution-building processes, as Verzichelli and colleagues document",
+    "citation": "best2012",
+    "pdf_file": "../../../papers/BEST et al_The Europe of Elites.pdf",
+    "evidence_found": "YES",
+    "confidence": "1.00",
+    "reason": "The source document includes a chapter by Hub\u00e9 and Verzichelli on supranational careers among EU national elites, which aligns with the claim about charting the emergence of a supranational European elite, though the exact phrasing about \"institution-building processes\" is not directly quoted."
   }
 }

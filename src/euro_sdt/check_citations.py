@@ -161,7 +161,7 @@ def resolve_source(citation_content, tex_dir):
             if match:
                 entry = match.group(1)
                 # Extract author and year from bibtex entry
-                authors = re.findall(r'author\s*=\s*\{(.*?)\}', entry, re.DOTALL)
+                authors = re.findall(r'author\s*=\s*\{(.*?)\}', entry, re.DOTALL) or re.findall(r'editor\s*=\s*\{(.*?)\}', entry, re.DOTALL)
                 years = re.findall(r'year\s*=\s*\{?(\d{4})\}?', entry)
                 # Build search terms from author last names
                 search_terms = []
@@ -177,6 +177,11 @@ def resolve_source(citation_content, tex_dir):
                                 search_terms.append(words[-1].strip().lower())
                 if years:
                     search_terms.append(years[0])
+                titles = re.findall(r'title\s*=\s*\{(.*?)\}', entry, re.DOTALL)
+                if titles:
+                    title_words = [w.lower() for w in re.findall(r'[A-Za-z]{4,}', titles[0])
+                                   if w.lower() not in {'the', 'and', 'for', 'with', 'from', 'into', 'study'}]
+                    search_terms.extend(title_words[:2])
                 # Match against files
                 return _match_file(search_terms)
         except:
