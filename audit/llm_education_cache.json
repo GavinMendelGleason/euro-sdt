@@ -1,0 +1,665 @@
+{
+  "deepseek-chat|25728f10f6ba430e48bd1db24dd70726427a4301b7f04cc3e047c3b5c4583cf3": [],
+  "deepseek-chat|112d0f07e0b79412ee5d1b0225ea1d0fb4b279072cc0f1243d3aa682877a3001": [],
+  "deepseek-chat|abf05607d06103d95f8a69f20515f713bac6603abb16117a77f9b7643a9191aa": [
+    {
+      "institution": "University of Athens",
+      "degree": "BSc",
+      "field": "Biology",
+      "evidence": "Kadis graduated from the University of Athens with a BSc in Biology in 1991.",
+      "sentence": 3
+    },
+    {
+      "institution": "University of Athens",
+      "degree": "PhD",
+      "field": "",
+      "evidence": "He received his PhD from the same university in 1995.",
+      "sentence": 4
+    }
+  ],
+  "deepseek-chat|03a7dcb0982846f3b28242154b56dc0baf4c7bfbb660d25162ccc7cc60cb5cc6": [],
+  "deepseek-chat|0a94d3f67d0e5172f1bafd79fb93d2fe038411e95433fc4e6b48df58c274dc1e": [
+    {
+      "institution": "",
+      "degree": "master's degree",
+      "field": "European Integration and Security Studies",
+      "evidence": "Vălean has a master's degree in European Integration and Security Studies, postgraduate studies in National Security and Defence Management and a bachelor's degree in Mathematics.",
+      "sentence": 3
+    },
+    {
+      "institution": "",
+      "degree": "postgraduate studies",
+      "field": "National Security and Defence Management",
+      "evidence": "Vălean has a master's degree in European Integration and Security Studies, postgraduate studies in National Security and Defence Management and a bachelor's degree in Mathematics.",
+      "sentence": 3
+    },
+    {
+      "institution": "",
+      "degree": "bachelor's degree",
+      "field": "Mathematics",
+      "evidence": "Vălean has a master's degree in European Integration and Security Studies, postgraduate studies in National Security and Defence Management and a bachelor's degree in Mathematics.",
+      "sentence": 3
+    }
+  ],
+  "deepseek-chat|a7f9d9399655d916290948451dc1b7f3a69aeba91617e26a13f5d29ade3114a9": [],
+  "deepseek-chat|9e711bb2a2807bff1bad2a679572200c411f87694380449a012236a06e93e481": [
+    {
+      "institution": "",
+      "degree": "master's degree",
+      "field": "European Integration and Security Studies",
+      "evidence": "Vălean has a master's degree in European Integration and Security Studies, postgraduate studies in National Security and Defence Management and a bachelor's degree in Mathematics.",
+      "sentence": 3
+    },
+    {
+      "institution": "",
+      "degree": "postgraduate studies",
+      "field": "National Security and Defence Management",
+      "evidence": "Vălean has a master's degree in European Integration and Security Studies, postgraduate studies in National Security and Defence Management and a bachelor's degree in Mathematics.",
+      "sentence": 3
+    },
+    {
+      "institution": "",
+      "degree": "bachelor's degree",
+      "field": "Mathematics",
+      "evidence": "Vălean has a master's degree in European Integration and Security Studies, postgraduate studies in National Security and Defence Management and a bachelor's degree in Mathematics.",
+      "sentence": 3
+    }
+  ],
+  "deepseek-chat|c8cad5324c99b2eea0afee3d10e277cb6aaa667542bacf6ce231fa97e0877a6e": [],
+  "deepseek-chat|cb1c3b2c6dbb34d01198a44c787bd38fd80d9687ffef2d32fd23d045e66a20b1": [],
+  "deepseek-chat|e2b31de7ea1dd849321133102e9180a8f6627100b253eef0248c8dfc052fca69": [
+    {
+      "institution": "University of Pisa",
+      "degree": "degree",
+      "field": "law",
+      "evidence": "He graduated from the University of Pisa with a degree in law in 1970, and in 1972 entered the Italian diplomatic service.",
+      "sentence": 1
+    }
+  ],
+  "deepseek-chat|b14fa297df8cb30484ed1a516919a1ffcd8c656d0a045125a1770b8d1530c993": [],
+  "deepseek-chat|10af5dd9af1ac4e7617981011df1438f4ed86a5b6165cbc74578c19054da5e84": [],
+  "deepseek-chat|6802766b7f4603dfd62f94d828f30f19e7235c174515bd7c6aabde48559e6e92": [],
+  "deepseek-chat|ec26595cd37a52f9b3a495098301364e0c4d892abaf3dc85c63c8f88cc1d10ea": [],
+  "deepseek-chat|c203f0ab967567e97777030f01fc8837340eb89153290ea9ac279b690212fc73": [],
+  "deepseek-chat|8db18621ad40ac686838737a30b482808ce1ac13d355c41bf6688b773533dc4e": [],
+  "deepseek-chat|604a4faff976e888e6f185676ff701646f0aa7a0e15968208363e3c6f27c4c27": [],
+  "deepseek-chat|f6eb3fe53b84d141b166c978e27769ef7369e56693f16512c648045aca93a823": [],
+  "deepseek-chat|da69063af42dcd50cf86b2423bb4370b32f1e97689da73b5e18478f61ed7ecf3": [],
+  "deepseek-chat|539022233792390d194a8b890f066714bad409cfeffc19698433de7835f66a06": [],
+  "deepseek-chat|145415960f1dd0507bb778d296c9243a7c6a480774144fd35fb104f2ef726f15": [
+    {
+      "institution": "Stockholm University",
+      "degree": "",
+      "field": "history",
+      "evidence": "She graduated from high school in 1991 and studied history at Stockholm University in 1995–1997.",
+      "sentence": 5
+    },
+    {
+      "institution": "Uppsala University",
+      "degree": "LLM",
+      "field": "law",
+      "evidence": "She moved to Uppsala to study law at Uppsala University and graduated in law (LLM) in 2002.",
+      "sentence": 6
+    }
+  ],
+  "deepseek-chat|a243aaa79482aa70e87d4e4384a665c6f8c6426ce578cb584f2ecaceec233217": [],
+  "deepseek-chat|483cbe78f147bb55b27a2e663eddba2d5aa1c088b3f49171a2326d31be810805": [],
+  "deepseek-chat|7e91786d01d136768a0a39bf27cbac54d043d129788719ed162fc072bc99ac55": [],
+  "deepseek-chat|422acbc2fbf049bad6236d79ab5a1833e4749ad03a7ec66893fd5ec81dd353d9": [
+    {
+      "institution": "université Paris II",
+      "degree": "Master of Laws",
+      "field": "Laws",
+      "evidence": "Mr Jean Richard de la Tour was born in 1959 in Le Dorat (France); he obtained a Master of Laws at the université Paris II (University of Paris II, France) in 1982 before beginning his professional judicial training at the École nationale de la magistrature (National School for the Judiciary, Bordeaux, France) from 1984 to 1986.",
+      "sentence": 2
+    },
+    {
+      "institution": "École nationale de la magistrature",
+      "degree": "",
+      "field": "",
+      "evidence": "Mr Jean Richard de la Tour was born in 1959 in Le Dorat (France); he obtained a Master of Laws at the université Paris II (University of Paris II, France) in 1982 before beginning his professional judicial training at the École nationale de la magistrature (National School for the Judiciary, Bordeaux, France) from 1984 to 1986.",
+      "sentence": 2
+    }
+  ],
+  "deepseek-chat|8a215eee7897104f721cd5c88c9803bef44db75b4e2605cfe20832730716190e": [],
+  "deepseek-chat|d15ed63baf302f175fd09b2fbd439e14f01e66af1dbc99cf362b0b34509fd5a2": [],
+  "deepseek-chat|bdd62e38d5c72a740102b601b34d4bc24859d0da9ec049913244b0fc615ec519": [
+    {
+      "institution": "Karl-Franzens-Universität Graz",
+      "degree": "law degree",
+      "field": "law",
+      "evidence": "Born 1965 in Graz (Austria), Andreas Kumin studied law at Karl-Franzens-Universität Graz (University of Graz, Austria), where he obtained a law degree in 1987 and, subsequently, a doctorate in law in 1990.",
+      "sentence": 2
+    },
+    {
+      "institution": "Karl-Franzens-Universität Graz",
+      "degree": "doctorate",
+      "field": "law",
+      "evidence": "Born 1965 in Graz (Austria), Andreas Kumin studied law at Karl-Franzens-Universität Graz (University of Graz, Austria), where he obtained a law degree in 1987 and, subsequently, a doctorate in law in 1990.",
+      "sentence": 2
+    },
+    {
+      "institution": "that same university",
+      "degree": "undergraduate degree",
+      "field": "translation",
+      "evidence": "He was awarded an undergraduate degree in translation by that same university in 1988.",
+      "sentence": 3
+    },
+    {
+      "institution": "École nationale d’administration (ENA)",
+      "degree": "long international cycle in public administration",
+      "field": "public administration",
+      "evidence": "It was in connection with his training as a civil servant that he opted in 1991 to continue his studies in France at the École nationale d’administration (ENA) (National School of Administration, France), graduating from the ‘long international cycle in public administration’ in 1992.",
+      "sentence": 4
+    }
+  ],
+  "deepseek-chat|cc960552cd58d305aac29f306cc05e32b1d629a83e173c3f958df79f62658956": [],
+  "deepseek-chat|0d2b698634f5229c94c5acccaa66ae6e24b81fd60053bb8e714b2536ff222e5a": [],
+  "deepseek-chat|5bc7cd82fe01b69cdcdaaeee3715cf23f42e5e2fa5adddc8a5a47ffdd7430de2": [
+    {
+      "institution": "University College Dublin",
+      "degree": "Bachelor of Science",
+      "field": "Agricultural economics",
+      "evidence": "Originally from Ardee in County Louth, McGuinness was the first female graduate of University College Dublin's Bachelor of Science degree in Agricultural economics in 1980.",
+      "sentence": 5
+    }
+  ],
+  "deepseek-chat|a648938aac3daec772aa0cc201a6ff0f9c325718463285f6d9c153c87ee163a4": [],
+  "deepseek-chat|496131be38c44bfb051b0489233fbba56cb7fca2166ffcce58bce26e2008d09c": [],
+  "deepseek-chat|1dd1aae76d77beb00383b4adf3ca8a93bf0d08abd85918aa7ed7d8ec18b0f182": [],
+  "deepseek-chat|7951561c7c7a9c6576801c8ed436348dd05a8c3eaee614c2974f6cfc9f7d4477": [],
+  "deepseek-chat|8d3b7abae8ec7ec5ef9264aedaa2e9818bb67365db3dd35d69616519b3ed5ae0": [],
+  "deepseek-chat|8cc9b76bc0daef74a3edac6383502c8028ebe67fd2f5c618bac5c6bbc3d67941": [],
+  "deepseek-chat|2291f48c86d246c25bdfc74b9b6c2b5e8cd81ad311eb6612d8b729a79c612f81": [],
+  "deepseek-chat|48eade38797a74acd7571403ba5bc8d1664f17f764429b4be92ab54e464e80f6": [],
+  "deepseek-chat|91a0f523dcf3da6367bf76e4566efc6f6e2a3921b2d9deb9502b80b6daa7e589": [],
+  "deepseek-chat|bcd7de86b15b756dab742ec4d77784a617d2672c144e9269fa8e845644e450b1": [],
+  "deepseek-chat|f38d5271783d29a4d4116667eff9f430d7564e7ea99fa3f28ff9cc1cc9cb9bde": [],
+  "deepseek-chat|b8de778c4bdc258a206d0aabedcd3d4e357a4bad3113d4e023dc3a349be78db1": [],
+  "deepseek-chat|87799664acb937e4d8ea6a3bbd9aadd33082ce2c57fc1715f4e90a912a15f6d2": [],
+  "deepseek-chat|82bb1217402a0d69ecb449a59366a59a041322bb9c1a8f5d78a82f14e3e70112": [
+    {
+      "institution": "Free University of Brussels",
+      "degree": "Degree",
+      "field": "physics",
+      "evidence": "1962: Degree in physics from the Free University of Brussels",
+      "sentence": 7
+    },
+    {
+      "institution": "Free University of Brussels",
+      "degree": "First degree",
+      "field": "philosophy",
+      "evidence": "1980: First degree in philosophy at the Free University of Brussels",
+      "sentence": 7
+    }
+  ],
+  "deepseek-chat|4c96e0aa7da73dd4d25df4128430cb998b86b977a544cf5c272d2162014e4805": [
+    {
+      "institution": "University of Malta",
+      "degree": "law degree",
+      "field": "law",
+      "evidence": "Graduating with a law degree in 1979, he would start lecturing at the University of Malta initially as a guest lecturer.",
+      "sentence": 16
+    },
+    {
+      "institution": "",
+      "degree": "PhD",
+      "field": "Judicial Review and Administrative Law",
+      "evidence": "Eventually, in 2016, he became an assistant lecturer, until 2018 wherein he completed his PhD in Judicial Review and Administrative Law, and was promoted to senior lecturer.",
+      "sentence": 17
+    }
+  ],
+  "deepseek-chat|6b69c12357c1e46601bd6a39fa64adcaeb1b466eacd16839d9f27bb607e828cc": [],
+  "deepseek-chat|6d5d28821e0634304581392a91942cee3dc943d2ae15e16e6da0d59f7767e94f": [],
+  "deepseek-chat|cf6ef49324430a2dcb15276f372d406a43ee0580eb874134ac2efeba6699f063": [],
+  "deepseek-chat|3ec309f2a49808d03ecda9de271e98e1373310b195378c4fe1a4a9cd5c6c87cc": [],
+  "deepseek-chat|db946b4fe7965abb8c07a8609b91c7b2b59045001d3f61e578d36bbb610dd85b": [],
+  "deepseek-chat|2260af1c3f79002de13b90ae625e1ee34de4f54ae27d588dd3c422a569fba046": [],
+  "deepseek-chat|29f84fa94417f7cf996d17e2faec78ebc021a0746efcd88c242cea58dbe8ea13": [],
+  "deepseek-chat|49e2f683ca67e13421270ec02a8cb084e9dfb4018a8dca398c373df94f35a319": [],
+  "deepseek-chat|826427bfba111e502593ec488bbbb417311d46b605e5f635260ecabc961edcbc": [],
+  "deepseek-chat|da6b895eab9dbc988ec870f2dd7cc6ec4d5c0673aaf24859f2ef95a8cd389be9": [],
+  "deepseek-chat|387bb70a61dd1f35e4ed0dfc26af8f3566414cc1ab50f1aff690dc3169b5f9fa": [],
+  "deepseek-chat|649c20e78dfa3381b70f32a9c5821f26179934cc0da35e4c76f3a3713975e5b2": [],
+  "deepseek-chat|12cabee9084f2b6b11b67c778af9b58326da24fbf52418066d6039d93361e41b": [],
+  "deepseek-chat|3adbffc24d025dd349f4a42aa90416c9d75f5a97225b050030c7f4394e8df0f2": [],
+  "deepseek-chat|7d6575b4e092b834df62b2f60231630f358c91625e856db5af2eeeacba3145b8": [],
+  "deepseek-chat|529118df849acb33caa367802d2c5da072614742f6e6602839a56af57554de69": [],
+  "deepseek-chat|7e9a1446357257dd07ef4b1fc4de8cacf1723b4bd774311316138f108f9a685f": [
+    {
+      "institution": "University of Humberside",
+      "degree": "Bachelor of Arts (Honours)",
+      "field": "Business Administration",
+      "evidence": "1994 Bachelor of Arts (Honours) in Business Administration (University of Humberside, UK)",
+      "sentence": 1
+    },
+    {
+      "institution": "ICADE",
+      "degree": "Técnico",
+      "field": "Administración y Dirección de Empresas",
+      "evidence": "1993 Técnico en Administración y Dirección de Empresas (ICADE, Spain)",
+      "sentence": 1
+    }
+  ],
+  "deepseek-chat|23fda9ed476ed8b58b8dc6553ef2949a0bdbb2614baa84498b9a6306eb23a6c0": [],
+  "deepseek-chat|c3b886d0cfc9a5b71b57f38f796b8da35781dcac523ff4e715022e15458ab121": [
+    {
+      "institution": "",
+      "degree": "Diplôme d'Expertise Comptable (DEC)",
+      "field": "Expertise Comptable",
+      "evidence": "1992: Diplôme d'Expertise Comptable (DEC)",
+      "sentence": 1
+    },
+    {
+      "institution": "",
+      "degree": "Diplôme d'Etudes Supérieures Comptables et Financières (Master Degree)",
+      "field": "Comptables et Financières",
+      "evidence": "1988: Diplôme d'Etudes Supérieures Comptables et Financières (Master Degree)",
+      "sentence": 1
+    }
+  ],
+  "deepseek-chat|ace2b4a91ace77344c05b134943d026f8ca34e807b31fa939d14481fe65e2b73": [
+    {
+      "institution": "University of Cambridge",
+      "degree": "PhD",
+      "field": "European Law",
+      "evidence": "01/1995 – 02/1999: PhD in European Law – University of Cambridge – Cambridge, United Kingdom",
+      "sentence": 1
+    },
+    {
+      "institution": "University of Exeter",
+      "degree": "LLM",
+      "field": "European Legal Studies",
+      "evidence": "10/1993 – 10/1994: LLM in European Legal Studies – University of Exeter – Exeter, United Kingdom",
+      "sentence": 1
+    },
+    {
+      "institution": "Ethniko & Koapodistriako",
+      "degree": "Ptychio Bachelor",
+      "field": "Law",
+      "evidence": "10/1988 – 09/1993: “Ptychio” Bachelor in Law – Ethniko & Koapodistriako – Athens, Greece",
+      "sentence": 1
+    }
+  ],
+  "deepseek-chat|14b41794c850d3b16b2a87a90e76e8006ed7b3be0ea42699ef750e74da87804d": [
+    {
+      "institution": "College of Europe - Bruges",
+      "degree": "Master",
+      "field": "European Political and Administrative Studies",
+      "evidence": "09/1997 – 06/1998: Master in European Political and Administrative Studies, College of Europe - Bruges, Belgium",
+      "sentence": 1
+    },
+    {
+      "institution": "Institut Européen des Hautes Études Internationales - Nice",
+      "degree": "Master",
+      "field": "international relations",
+      "evidence": "10/1995 – 06/1996: Master in international relations, Institut Européen des Hautes Études Internationales - Nice, France",
+      "sentence": 1
+    },
+    {
+      "institution": "Faculty of Journalism, University of Bucharest – Bucharest",
+      "degree": "BA",
+      "field": "Journalism and Communication",
+      "evidence": "09/1990 – 02/1995: BA in Journalism and Communication, Faculty of Journalism, University of Bucharest – Bucharest, Romania",
+      "sentence": 1
+    }
+  ],
+  "deepseek-chat|241fcb8551f0518f02e09141d6181a3b80be68a15bdd4f02d05d414cf1fb4e48": [
+    {
+      "institution": "Engineering Council U.K., London (U.K.)",
+      "degree": "C.Eng. (Chartered Engineer)",
+      "field": "",
+      "evidence": "29/08/2009: C.Eng. (Chartered Engineer), Engineering Council U.K., London (U.K.)",
+      "sentence": 1
+    },
+    {
+      "institution": "The City University, London (U.K.)",
+      "degree": "M.Sc.",
+      "field": "Systems Analysis and Design",
+      "evidence": "28/01/1987: M.Sc. in Systems Analysis and Design, The City University, London (U.K.)",
+      "sentence": 2
+    },
+    {
+      "institution": "Nova University, Miami (U.S.A)",
+      "degree": "B.Sc. (cum laude – with honors)",
+      "field": "Computer Science and Business Administration",
+      "evidence": "07/06/1985: B.Sc. (cum laude – with honors) Computer Science and Business Administration, Nova University, Miami (U.S.A)",
+      "sentence": 3
+    }
+  ],
+  "deepseek-chat|3433ada38dc6cb9a61fdfbb3cca5bc6eefe869cd757fabda5d2264f68f0bdc77": [
+    {
+      "institution": "Community of European Management Schools",
+      "degree": "CEMS-program",
+      "field": "Finance and Law",
+      "evidence": "1994-1995 CEMS-program in Finance and Law (Community of European Management Schools), St-Gallen, Switzerland",
+      "sentence": 1
+    },
+    {
+      "institution": "Ecole HEC School of Management",
+      "degree": "HEC graduate",
+      "field": "Finance and Economics",
+      "evidence": "1993-1995 Business School, Finance and Economics majors, HEC graduate, Ecole HEC School of Management, Jouy-en-Josas, France",
+      "sentence": 1
+    },
+    {
+      "institution": "Institut d'Etudes Politiques (ScPO)",
+      "degree": "",
+      "field": "Economics and Law",
+      "evidence": "1990-1993 Studies in Economics and Law, Institut d'Etudes Politiques (ScPO), Paris, France",
+      "sentence": 1
+    },
+    {
+      "institution": "Thiers Hypokhagne",
+      "degree": "",
+      "field": "Philosophy and Literature",
+      "evidence": "1989-1990 Post-graduate studies in Philosophy and Literature, Thiers Hypokhagne, Marseilles, France",
+      "sentence": 1
+    },
+    {
+      "institution": "",
+      "degree": "Bachelor \"A1\" with Honors",
+      "field": "",
+      "evidence": "1989 Bachelor \"A1\" with Honors",
+      "sentence": 1
+    }
+  ],
+  "deepseek-chat|6dd7f9776438dd6924a20dcc7386766ea7ba439520bf6e5b131f9414d2f27ccd": [
+    {
+      "institution": "University of Innsbruck",
+      "degree": "Magister der Rechtswissenschaften",
+      "field": "Law",
+      "evidence": "1987-1992: Law at the University of Innsbruck (\"Magister der Rechtswissenschaften\")",
+      "sentence": 1
+    },
+    {
+      "institution": "Universities of Paris II Panthéon-Assas",
+      "degree": "",
+      "field": "European and international law",
+      "evidence": "1989-90 and 1992-93: European and international law studies at the Universities of Paris II Panthéon-Assas and Alcalá de Henares (Madrid) (exchange programmes)",
+      "sentence": 1
+    },
+    {
+      "institution": "Alcalá de Henares (Madrid)",
+      "degree": "",
+      "field": "European and international law",
+      "evidence": "1989-90 and 1992-93: European and international law studies at the Universities of Paris II Panthéon-Assas and Alcalá de Henares (Madrid) (exchange programmes)",
+      "sentence": 1
+    }
+  ],
+  "deepseek-chat|435db6c87cbc56a2e21da251a846acb1e741d476c682bccc5709805717a62676": [],
+  "deepseek-chat|e0c6560e44aab70c10c2719390fcba4269e015a539f763558b557bd1b925a6cf": [
+    {
+      "institution": "University College Dublin, Republic of Ireland",
+      "degree": "M.A.",
+      "field": "Economics",
+      "evidence": "(Economics) awarded October - University College Dublin, Republic of Ireland",
+      "sentence": 2
+    },
+    {
+      "institution": "University College Dublin, Republic of Ireland",
+      "degree": "B.A.",
+      "field": "Economics",
+      "evidence": "(Economics) awarded October - University College Dublin, Republic of Ireland",
+      "sentence": 3
+    }
+  ],
+  "deepseek-chat|2d10850a721bb386cb8f038e722e773fb5063643a2184f68dac799ed9589783f": [
+    {
+      "institution": "College of Bruges",
+      "degree": "Diploma of Advanced European Studies",
+      "field": "Law",
+      "evidence": "1986: Diploma of Advanced European Studies, College of Bruges ( Law)",
+      "sentence": 3
+    },
+    {
+      "institution": "Bonn and Hamburg",
+      "degree": "Law studies",
+      "field": "Law",
+      "evidence": "1980 – 1985: Law studies in Bonn and Hamburg concluded with 1.",
+      "sentence": 4
+    },
+    {
+      "institution": "Hamburg",
+      "degree": "2. Juristisches Staatsexamen",
+      "field": "Law",
+      "evidence": "1989: 2. Juristisches Staatsexamen (Hamburg)",
+      "sentence": 1
+    }
+  ],
+  "deepseek-chat|677212c81acbc704c4c250c603de3a244ae3b465ef7eb00a21c558042920d4b8": [
+    {
+      "institution": "Warsaw University, Institute of Applied Social Science",
+      "degree": "Diploma in Post-graduate studies",
+      "field": "Public Relations",
+      "evidence": "1998 - 1999 Diploma in Post-graduate studies in Public Relations, Warsaw University, Institute of Applied Social Science, Warsaw, Poland",
+      "sentence": 0
+    },
+    {
+      "institution": "Jagiellonian University",
+      "degree": "Master of Arts",
+      "field": "English Studies",
+      "evidence": "1988 – 1995 Master of Arts, English Studies, Jagiellonian University, Krakow, Poland",
+      "sentence": 0
+    }
+  ],
+  "deepseek-chat|66e5d6bbeef95265fdd4627183a6c3ac26f87ad47e2f20c6ea57ac0caa3da2ea": [],
+  "deepseek-chat|7be06b618fada36b91421be257a338dd0317c2e6c15a9bc70783115a2c69652a": [
+    {
+      "institution": "Association of Chartered Certified Accountants",
+      "degree": "Certified Diploma",
+      "field": "Accounting and Finance",
+      "evidence": "09/1988 – 06/1989: Certified Diploma in Accounting and Finance , Association of Chartered Certified Accountants – Dublin, Ireland",
+      "sentence": 1
+    },
+    {
+      "institution": "Trinity College",
+      "degree": "Two Subject Honours Moderatorship (Grade 2.1)",
+      "field": "",
+      "evidence": "10/1981 – 05/1985: Two Subject Honours Moderatorship (Grade 2.1) , Trinity College – Dublin, Ireland",
+      "sentence": 1
+    }
+  ],
+  "deepseek-chat|8e3e8f9ff3f88ccdcd78e91f34bba77fd921b2e70d640f4b507f377c6cb4776d": [
+    {
+      "institution": "University of Malta",
+      "degree": "Bachelor of Pharmaceutical Technology (Honours)",
+      "field": "Pharmaceutical Technology",
+      "evidence": "Bachelor of Pharmaceutical Technology (Honours) from the University of Malta – Second Class Lower Honours degree.",
+      "sentence": 1
+    }
+  ],
+  "deepseek-chat|c72988436bef1f5ab1d9855fe852d598c15d2153eeaa1bcead5931d94080348b": [],
+  "deepseek-chat|2bf4ce23cc588e10116bb766071c2a67ddae1c76fc5b6dae0977aa0f8243fa3a": [
+    {
+      "institution": "Institute of European Studies of the Free University of Brussels (ULB)",
+      "degree": "Licence Spéciale",
+      "field": "Droit Européen",
+      "evidence": "09/1989 – 06/1991: Licence Spéciale en Droit Européen  - \nInstitute of European Studies of the Free University of \nBrussels (ULB) - Brussels, Belgium",
+      "sentence": 1
+    },
+    {
+      "institution": "European Institute of the University of Amsterdam",
+      "degree": "Diploma",
+      "field": "European Integration",
+      "evidence": "09/1986 – 06-1987: Diploma on European Integration  – \nEuropean Institute of the University of Amsterdam – \nAmsterdam, Netherlands",
+      "sentence": 2
+    },
+    {
+      "institution": "Facultad de Derecho, Universidad de Sevilla",
+      "degree": "Law Degree",
+      "field": "Law",
+      "evidence": "09/1981 – 07/1986: Law Degree  – Facultad de Derecho, \nUniversidad de Sevilla, Sevilla – Spain",
+      "sentence": 3
+    }
+  ],
+  "deepseek-chat|fb9cf3ef6bfeb7096a0dafc7e456bfa7336655b87dbe71869daa0bcacb5e9d96": [
+    {
+      "institution": "Harvard Business School",
+      "degree": "Leading with Impact",
+      "field": "management",
+      "evidence": "07/2012: Leading with Impact, one -week residential management course - Harvard Business School",
+      "sentence": 1
+    },
+    {
+      "institution": "London School of Economics",
+      "degree": "PhD",
+      "field": "Economics",
+      "evidence": "09/1992 – 07/1996: PhD in Economics – London School of Economics",
+      "sentence": 1
+    },
+    {
+      "institution": "Université Catholique de Louvain",
+      "degree": "Master of Arts",
+      "field": "Economics",
+      "evidence": "09/1991 – 09/1992: Master of Arts in E conomics – Université Catholique de Louvain",
+      "sentence": 1
+    },
+    {
+      "institution": "Università Commerciale Luigi Bocconi, Milan",
+      "degree": "Undergraduate degree (Laurea summa cum laude)",
+      "field": "Economics",
+      "evidence": "09/1985 – 09/1989: Undergraduate degree in Economics (Laurea summa cum laude) - Università Commerciale Luigi Bocconi, Milan",
+      "sentence": 1
+    },
+    {
+      "institution": "Liceo Classico Tito Livio",
+      "degree": "School leaving certificate (maturità classica)",
+      "field": "",
+      "evidence": "School leaving certificate (maturità classica) of 58/60 - Liceo Classico Tito Livio",
+      "sentence": 2
+    }
+  ],
+  "deepseek-chat|9571372093caacc3988244aed2db2199f0d62814737b1107a59af459bdfec58b": [],
+  "deepseek-chat|b957da85303a97b0e02023447595108d7df5abdd1a0fa86a77639e6649e12c88": [],
+  "deepseek-chat|dff73891d61ac4c5f1a1cdc942bf0a0a88feaa570cbe283075d57a2ec11cff7d": [],
+  "deepseek-chat|a0f5f0a8acb6094fa4394294bc1a12ec6427ddf93f195f303553c853a653427c": [],
+  "deepseek-chat|59d2e784beba6eb4a0bd63a56a194e5be161135111882fd2aa1f3193a6f96c1c": [],
+  "deepseek-chat|250e831f77dcb2241d918581bc38cae451af6230b69af6e77fdc49669f710833": [],
+  "deepseek-chat|6fba8b1bec393aec7c418b3c0b9f9c7243a0f487b24cd6410a9dcf8ab52f0102": [
+    {
+      "institution": "",
+      "degree": "Graduated",
+      "field": "philosophy",
+      "evidence": "Graduated in philosophy, Cristiana Muscardini was executive of the National University Action Front, the Italian Social Movement and National Alliance.",
+      "sentence": 1
+    }
+  ],
+  "deepseek-chat|9236e31caaade7c65ceae19a633f8f41039ab92620844a64e4fb02cbe492dc35": [],
+  "deepseek-chat|0ada7f7ae0c64b8e9501dec20cfa8dc645658c8ba922c3a394c640ad75aa481b": [],
+  "deepseek-chat|56b82ed155cc15b8a8fa8d58927352fa1ddf128f4d01c73c98e8dcb0f178a6d4": [],
+  "deepseek-chat|5663526497d54ab5e7e9dbc473bce9c46a48e774d02607c9ce8043b71d32b558": [],
+  "deepseek-chat|7d20b7b615bc28177a75eb5f8d01a9414f21fb186ff9eb4f91ab0a0853f20d27": [],
+  "deepseek-chat|7cdd6aad30fc5370d5e29d6572e7c0c1a1b2b20d51e805e91ad341be902e81a3": [
+    {
+      "institution": "University of Naples Federico II",
+      "degree": "graduated",
+      "field": "medicine and surgery",
+      "evidence": "He graduated in medicine and surgery, and later specialized in legal and forensic medicine at the University of Naples Federico II .",
+      "sentence": 11
+    }
+  ],
+  "deepseek-chat|caa35fed5138fbefec2e318a894278c5983388725a2eafae9aad7f066b3796fc": [],
+  "deepseek-chat|b8d1dcfc8239910c77de595056ed6fbb38c73df8ed0e89a6d6b575caab205824": [],
+  "deepseek-chat|b946a9eb2ce56034396c51273a1bd252a8ecc2bd9e3089200d586fe742c111c3": [],
+  "deepseek-chat|772b130f46255b5e905739f1961bdd78eba7da60c712d7e9e89d7d9327abbdae": [],
+  "deepseek-chat|a8d486888235f69d11f649a305cd1679455263bb7142dd60f6f6fbe1425e2c68": [],
+  "deepseek-chat|7d82fdcec5cd155d32e750ac3295303aa7a46577f371b1a2c2ca500417db1278": [
+    {
+      "institution": "",
+      "degree": "University degree",
+      "field": "Economics",
+      "evidence": "Friedrich holds a University degree in Economics.",
+      "sentence": 2
+    }
+  ],
+  "deepseek-chat|da723baf5e1870cd628ef855bf96810910679e19b64629d608cfe5231794c54c": [],
+  "deepseek-chat|e8f824c27824a2d13683c3df71eb166aea0e7892357ff795e82ecfb2989ec469": [],
+  "deepseek-chat|95424ef9c34c11828d8819b8cc8fd402ef8b5dde2c7845b078d283aa6695c28f": [],
+  "deepseek-chat|c0b103a52c842093472a169406f4256409125ce75e1d381ed4cc515242f0ab9d": [
+    {
+      "institution": "Aarhus University",
+      "degree": "",
+      "field": "political science",
+      "evidence": "1966–1974: Studied political science at the Aarhus University",
+      "sentence": 12
+    }
+  ],
+  "deepseek-chat|882472739b476e76a690a7e9bd519b8ba01b3822c6f872f4474d1c538df504be": [],
+  "deepseek-chat|5bd44702777099770da948e7871eb0722e1df0c4606f51a629a29392e1935c9f": [],
+  "deepseek-chat|02ca25816c975a2d4ecfa150e5536bbfb035366f2296e0f6b25ec7aafee27633": [],
+  "deepseek-chat|07516db3c9fd537a250d10181f29873894182156018cad2a39eca632efbe5090": [],
+  "deepseek-chat|e59d81c866c9c3224be40346b6a7396564e5841f28a8e1cfe6b55534d39f05cb": [],
+  "deepseek-chat|96d0bdfcd7f6f979d8e496e23bfbdaaa3dbfaa6c9a353ed107f21b0ffc7fdfa1": [],
+  "deepseek-chat|f0dfc5dad239d2cfcca91081dfc361ced4145d9d0955bdfbf07f628abe481ddc": [],
+  "deepseek-chat|a79ffe01f08e9a079c4694638abbb69b272f39bccd765b28c325401847fd36c9": [],
+  "deepseek-chat|e24fd10e3f98680cf93ed829c40e3c742d29e484f66ff1cd82f84ea64819d705": [],
+  "deepseek-chat|e45c28f52f6ff5f4b7b1afa4a8f59f5f48a5a1a0f060fce53faf7fbeac49c94c": [],
+  "deepseek-chat|837d54cbf2d100e4951e4dde456bb6c96fc0b31b70ef79ac63e6082f3b9d6504": [],
+  "deepseek-chat|4576e6fb0b2a022a287cf037279415e68aef4132f5806a38073e75eb10639b4d": [],
+  "deepseek-chat|0ee4cbe6c9490c6d4559058b3d150bb67d9d8effa8c494e55ee89bf5538f573f": [],
+  "deepseek-chat|e235b1481af1050961887bdc9b3bf1a9c2598839190fc96adc74e80c85373ae1": [
+    {
+      "institution": "",
+      "degree": "nurse",
+      "field": "nursing",
+      "evidence": "Ojala trained as a nurse and was involved in trade unions and local politics in Helsinki , where she was a city councillor 1989–1996 and 2001–2012.",
+      "sentence": 2
+    }
+  ],
+  "deepseek-chat|16b055d32cc5e2b339b167379cf8ea590d269fbeed61db355e557f680fbd6b0e": [],
+  "deepseek-chat|d585d6f34c9aed10edbedb6e6f6c6e604fa7d6d208d1c998e2a25c84ecca2b69": [],
+  "deepseek-chat|50f3c62c6970ea31ee7f51b9917f2079111d9ea86dd96802e37a506ba6782ce7": [],
+  "deepseek-chat|a675533ebf01366fb3cda83c2c3938d3f3960821396b464187d408a0e3a0ab55": [],
+  "deepseek-chat|40f660e7338c3f9bd89c820cf3c72671f65e278fffaec0bd95d66cfb7506d7e2": [
+    {
+      "institution": "University of Oulu",
+      "degree": "M.Ed.",
+      "field": "classroom teacher",
+      "evidence": "He studied to become a classroom teacher (M.Ed.) in the University of Oulu, but didn't finish his studies.",
+      "sentence": 4
+    }
+  ],
+  "deepseek-chat|fb3052d1bac83191b2bcff7bfa26270bb54dcf2bf2d8f293d6a3e62dc76dcae8": [],
+  "deepseek-chat|5dfa208a5ca50376dc37aca18efd9661f4bdfd491957c46567cbe34dfd5436b4": [],
+  "deepseek-chat|cc61d90c10da2301beeeea987b65284a4a44f39b2898774f24073595db641bf5": [],
+  "deepseek-chat|a3d88738ae27f597ff8687fb28d375bca89c9987196e00e71fca4f913fdd05b3": [],
+  "deepseek-chat|d93ed44d368506cc511dc11dc36bfbbf51ec4d1a4c3971d5290fec4b23dc53fe": [],
+  "deepseek-chat|64658a75e78048bc2b504e8de324f6fded9cb16204afa189fe1da7229a7f7c06": [],
+  "deepseek-chat|93b7eac224b9c3d6c199fd9a2a6e4c26e70db37d1d7e4df441d33a97665d994e": [],
+  "deepseek-chat|9c31b38607fdf02581d2026f4893d3e14770ec5c6ef2b7cec8e20c8cffbb6cc6": [],
+  "deepseek-chat|fead469972093678a88c5f7a99bc33f97919bc00de7d77cd9441f6f26dcf9cbf": [],
+  "deepseek-chat|dc45556c1479204cd7af51ff815402ac89aeb548fb9764688229680cb3364941": [],
+  "deepseek-chat|cd559ae53623b79eb906ffa2769e03e3f4ea630594e3a2108b9cd80587acdcc1": [],
+  "deepseek-chat|2cf493d15670e235b0d60ea3286cf8fe6f8740f9ef3febe470d87a03d40a2372": [],
+  "deepseek-chat|25c034251b10028bf6640642fcdefac8e710fbecd5a1d148861c072a4d9a05d6": [
+    {
+      "institution": "Athens College",
+      "degree": "",
+      "field": "",
+      "evidence": "After graduating from the Athens College high school, Lambrinidis was admitted to the University of Chicago in 1980 and transferred to Amherst College in 1981, where he received his B.A. degree in economics and political science with the distinctions of magna cum laude , Phi Beta Kappa and a scholarship for the rest of his studies.",
+      "sentence": 3
+    },
+    {
+      "institution": "University of Chicago",
+      "degree": "",
+      "field": "",
+      "evidence": "After graduating from the Athens College high school, Lambrinidis was admitted to the University of Chicago in 1980 and transferred to Amherst College in 1981, where he received his B.A. degree in economics and political science with the distinctions of magna cum laude , Phi Beta Kappa and a scholarship for the rest of his studies.",
+      "sentence": 3
+    },
+    {
+      "institution": "Amherst College",
+      "degree": "B.A.",
+      "field": "economics and political science",
+      "evidence": "After graduating from the Athens College high school, Lambrinidis was admitted to the University of Chicago in 1980 and transferred to Amherst College in 1981, where he received his B.A. degree in economics and political science with the distinctions of magna cum laude , Phi Beta Kappa and a scholarship for the rest of his studies.",
+      "sentence": 3
+    },
+    {
+      "institution": "Yale Law School",
+      "degree": "J.D.",
+      "field": "",
+      "evidence": "He completed his education in 1988 with a J.D. degree from Yale Law School .",
+      "sentence": 4
+    }
+  ]
+}
