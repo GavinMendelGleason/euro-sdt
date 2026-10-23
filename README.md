@@ -129,7 +129,7 @@ See [`AGENTS.md`](AGENTS.md) for the full evidence methodology and pipeline docu
 
 ## Papers
 
-- **Phrasal Provenance: An LLM-Assisted Methodology for Elite Network Research**
+- **European Elites: An Exploration of LLM Methodologies for Surveying Elite Networks**
   (Gavin Mendel-Gleason & Donagh Davis, Workshop on AI Methodology for Social Science,
   May 2026) — [`assets/papers/methodology/paper.tex`](assets/papers/methodology/paper.tex)
 

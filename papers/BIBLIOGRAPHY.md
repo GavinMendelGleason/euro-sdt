@@ -145,7 +145,7 @@ https://jkertzer.sites.fas.harvard.edu/Research_files/Elite-ARPS-091621.pdf
 
 ## 9. Cited in Our Papers
 
-Papers cited in `assets/papers/methodology/paper.tex` (Phrasal Provenance).
+Papers cited in `assets/papers/methodology/paper.tex` (European Elites).
 
 Status: **[VERIFIED]** = cross-checked by `check_citations.py`. **[NEED PDF]** = needs local copy.
 

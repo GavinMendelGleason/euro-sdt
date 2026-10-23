@@ -124,5 +124,14 @@
     "evidence_found": "YES",
     "confidence": "1.00",
     "reason": "The source document includes a chapter by Hub\u00e9 and Verzichelli on supranational careers among EU national elites, which aligns with the claim about charting the emergence of a supranational European elite, though the exact phrasing about \"institution-building processes\" is not directly quoted."
+  },
+  "4eb5e4b3ad101c31cde685e53d228bbeb6f06d902603e3bf9e56400a3c84183b": {
+    "paper_section": "main",
+    "claim": "However, in the era of modern social science, elites have been the subject of more dedicated and sustained attention since at least the time of the Italian elite theorists of the late nineteenth and early twentieth centuries---authors from whom we have inherited concepts such as the ``organised mino",
+    "citation": "carboni2024",
+    "pdf_file": "../../../papers/Carboni et al_2024_The social immobility of the European power elite A comparative analysis.pdf",
+    "evidence_found": "YES",
+    "confidence": "1.00",
+    "reason": "The source explicitly references classical elite theorists such as Mosca and Pareto from the late nineteenth and early twentieth centuries, and mentions the concept of an \"organized minority\" (phrase [22]), directly substantiating the claim."
   }
 }

@@ -3,15 +3,19 @@
 \usepackage{hyperref,graphicx,booktabs,enumitem,url,xcolor}
 
 
-\title{Phrasal Provenance: An LLM-Assisted Methodology for Elite Network Research}
+\title{European Elites: An Exploration of LLM Methodologies for Surveying Elite Networks}
 \author{Gavin Mendel-Gleason\thanks{Scidonia.ai Limited} \and Donagh Davis\thanks{Sciences Po}}
 \date{Workshop on AI Methodology for Social Science \\ May 2026}
+\hypersetup{
+  pdftitle={European Elites: An Exploration of LLM Methodologies for Surveying Elite Networks},
+  pdfauthor={Gavin Mendel-Gleason and Donagh Davis}
+}
 
 \begin{document}
 \maketitle
 
 \begin{abstract}
-We present a methodology for LLM-assisted research that anchors every claim to a specific sentence in a source document. The paper situates this methodological intervention within the diffuse field of elite research and the contested question of where power lies in the European Union. Using European institutional elites as a case study---commissioners, DGs, and MEP leaders across seven commission terms (1995--2029)---we demonstrate a pipeline that scrapes from controlled sources, normalises data into a relational database with mandatory provenance links, uses LLMs for phrase-level fact extraction with JSON manifests, and cross-validates every claim against source text to detect hallucinations. The system surfaces substantive findings including the collapse of the French \emph{grande \'ecole} pipeline into the Commission and a stark asymmetry in elite network ties between commissioners  and MEP leaders (0 exclusive networks). We report on failure modes encountered---LLM hallucination and entity duplication from non-deterministic prompt outputs, and the ``CFR is not ECFR'' problem in string-similarity deduplication---and describe the methodological choices that address each.
+We present a methodology for LLM-assisted research that anchors every claim to a specific sentence in a source document. The paper situates this methodological intervention within the diffuse field of elite research and the contested question of where power lies in the European Union. Using European institutional elites as a case study---commissioners, DGs, and MEP leaders across seven commission terms (1995--2029)---we demonstrate a pipeline that acquires and hashes controlled sources, segments them into sentences, uses LLMs to propose phrase-level claims, locates every quote deterministically, and submits uncertain evidence to a second adjudicator. The current build contains 5,380 claims, of which 4,036 are verified; 177 remain under review and 1,167 were rejected. The verified subset supports descriptive findings: commissioners concentrate in a small set of transnational policy organisations (ECFR, Friends of Europe, Bilderberg, Trilateral Commission), MEPs in parliamentary and party structures, and DGs in the College of Europe; education is organised around parallel institutional tracks rather than a single pipeline. We report on failure modes encountered---LLM hallucination, non-deterministic extraction, entity duplication, and the ``CFR is not ECFR'' problem---and describe the methodological choices that address each.
 \end{abstract}
 
 \section{Introduction}
@@ -20,7 +24,7 @@ We present a methodology for LLM-assisted research that anchors every claim to a
 
 One of the signature features of the research agenda driven by structural-demographic theory has been its emphasis on elites, and how they figure in the dynamics leading to societal destabilisation, crisis and sometimes collapse. Needless to say, SDT researchers have not been the first to single out elites for social scientific attention. Indeed, there is little doubt that in one way or another, elites have represented an area of considerable interest for students of society and politics since the very dawn of this domain of human inquiry, as attested by Plato's argument for government by philosopher-kings and Aristotle's detailed commentaries on the relative merits and demerits of oligarchy, aristocracy and democracy.
 
-However, in the era of modern social science, elites have been the subject of more dedicated and sustained attention since at least the time of the Italian elite theorists of the late nineteenth and early twentieth centuries---authors from whom we have inherited concepts such as the ``organised minority'' (Mosca), the ``circulation of elites'' (Pareto), and the ``iron law of oligarchy'' (Michels).
+However, in the era of modern social science, elites have been the subject of more dedicated and sustained attention since at least the time of the Italian elite theorists of the late nineteenth and early twentieth centuries---authors from whom we have inherited concepts such as the ``organised minority'' (Mosca), the ``circulation of elites'' (Pareto), and the ``iron law of oligarchy'' (Michels) \cite{carboni2024}.
 
 Subsequent generations of social scientists have looked at elites from somewhat different angles again. From the mid-twentieth century onwards, studies such as those of C. Wright Mills and G. William Domhoff asked searching questions about who truly governed, and about where the agency behind crucial decisions truly lay in polities where elected officials co-existed with powerful unelected (and often non-public-facing) elites. These arrangements were conceptualised in different ways: Mills emphasised the overlap between political, military and corporate elements in the ``power elite'' that shaped US governance \cite{mills1956}; Domhoff promoted a class-domination theory of power; Michael J. Glennon described the bifurcation between the outward-facing ``Madisonian'' institutions and the more obscure ``Trumanite'' network in terms of ``double government''; while Peter Dale Scott spoke of ``deep politics'' or simply the ``deep state''. However, what these perspectives had in common was the idea that the reality of power looked very different from the pluralist models associated with leading political scientists such as Robert Dahl.
 
@@ -28,7 +32,7 @@ Meanwhile on a more sociological level, scholars such as Pierre Bourdieu and his
 
 \subsection{Elites and the European project}
 
-More recently, political scientists working on both sides of the Atlantic have charted various routes through which political elites have seemed to increasingly insulate themselves from the cut and thrust of what used to be considered the basic operations of everyday democratic politics, leaving ``cartel parties'' and a hollowed out political ``void'' in their wake (Mair). Some of this research has been focused on the national level, while some of it has honed in on the role of supranational institutions as key sites in the distancing of political power from democratic checks and balances as traditionally understood. Some of it has charted the emergence of a new supranational European elite on the back of the institution-building processes, as Verzichelli and colleagues document \cite{best2012}. Perhaps the best-documented example of this purported phenomenon is that of the European Union and its component organs, which has spawned an extensive scholarly literature and become something of a byword for democratic deficit---at least in the eyes of its critics, and sometimes, somewhat grudgingly, even in the eyes of its supporters. Much of this EU-oriented literature has been focused on the workings of the European institutions---sometimes casting them explicitly as venues where elite-level decision-making can be hived off from the democratic mechanisms notionally built into national domestic politics---.
+More recently, political scientists working on both sides of the Atlantic have charted various routes through which political elites have seemed to increasingly insulate themselves from the cut and thrust of what used to be considered the basic operations of everyday democratic politics, leaving ``cartel parties'' and a hollowed out political ``void'' in their wake (Mair). Some of this research has been focused on the national level, while some of it has honed in on the role of supranational institutions as key sites in the distancing of political power from democratic checks and balances as traditionally understood. Some of it has charted the emergence of a new supranational European elite on the back of the institution-building processes, as Verzichelli and colleagues document \cite{best2012}. Perhaps the best-documented example of this purported phenomenon is that of the European Union and its component organs, which has spawned an extensive scholarly literature and become something of a byword for democratic deficit---at least in the eyes of its critics, and sometimes, somewhat grudgingly, even in the eyes of its supporters. Much of this EU-oriented literature has been focused on the workings of the European institutions---sometimes casting them explicitly as venues where elite-level decision-making can be hived off from the democratic mechanisms notionally built into national domestic politics.
 
 This has dovetailed with recent research by a number of political scientists based in the US who have deployed fine-grained quantitative research tools to interrogate that polity's purported democratic credentials, only to find that US government policy appears to be shaped overwhelmingly by elite preferences, while the preferences of non-elites seem to exert negligible influence (Gilens and Page). Though not explicitly framed by the researchers in terms of ``elite theory'', their work is clearly pertinent in this regard.
 
@@ -62,7 +66,7 @@ In sum, the study of ``elites'' is the study of many different things: rising el
 
 The step we take is methodological. The evidentiary challenge follows from the conceptual one. Elite formation is distributed across 27 member states with distinct educational systems, career pathways, and political cultures; the networks that connect these elites cross national boundaries and institutional sectors \cite{heemskerk2013}; and the relevant evidence is scattered across biographies, CVs, declarations of interest, and institutional records. Capturing it requires aggregating data across languages, jurisdictions, and source types, while keeping every claim traceable to its source.
 
-The remainder of this paper describes a methodology that treats the LLM as an extraction engine, not an authority. Every claim in our database is linked to a specific sentence in a specific document. The LLM's output is a hypothesis, verified against the source before acceptance. The system currently holds several thousand claims across several thousand entities with sentence-level provenance, supporting analysis of seven European Commissions from Santer (1995) through Von der Leyen II (2024--2029).
+The remainder of this paper describes a methodology that treats the LLM as an extraction engine, not an authority. Every claim in our database is linked to a specific sentence in a specific document. The LLM's output is a hypothesis, verified against the source before acceptance. The current build contains 5,380 claims, of which 4,036 are verified, across 3,588 entities and 707 hashed source documents. It supports analysis of seven European Commissions from Santer (1995) through Von der Leyen II (2024--2029).
 
 \section{Methodology}
 
@@ -74,105 +78,84 @@ LongCite (2024) provides direct evidence that LLMs can reliably anchor claims to
 
 \subsection{System Architecture}
 
-The pipeline has five stages: scrape, extract, verify, resolve, and render.
+The pipeline has six stages: acquire and hash sources; segment each source into sentences with exact character offsets; propose candidate claims; locate and grade their evidence; adjudicate uncertain evidence; and resolve entities and render the graph. Each stage writes a durable artifact: a source snapshot, a sentence table, claim and evidence rows, assertion decisions, and a graph export. The first two stages replace the v1 assumption that a phrase index could be reused across tokenisers.
 
 \subsection{Database Schema}
 
-The database implements a graph-style ontology on a standard relational backend. Every piece of data is stored as a triple: an \emph{entity} (person, organisation, institution, commission, or source document) connected to a \emph{property value} by a \emph{predicate} (\texttt{educated\_at}, \texttt{affiliated\_with}, \texttt{served\_on\_commission}, \texttt{held\_portfolio}, \texttt{from\_country}). The property value may be another entity (forming a graph edge) or a literal value (a date, a degree, a country name).
-
-The predicates are drawn from the substantive concerns of elite research: education (\texttt{educated\_at}, \texttt{studied\_field}, \texttt{held\_degree}) to track elite formation; organisational ties (\texttt{affiliated\_with}, \texttt{member\_of}) to map network membership; career trajectories (\texttt{served\_on\_commission}, \texttt{held\_portfolio}, \texttt{from\_country}); and institutional position (\texttt{served\_on\_ep}). Each fact---each triple---carries mandatory provenance: the source document from which it was extracted, the exact sentence (stored as \texttt{quote\_text}), and its position within that document (\texttt{phrase\_index}). This transforms the database from a collection of assertions into an auditable knowledge graph: every edge can be traced to a specific sentence in a specific source. The four core tables are:
+The database is a provenance graph on a relational backend. Its core tables are:
 
 \begin{itemize}
-\item \texttt{entity}: All nodes in the graph---persons, organisations, educational institutions, commissions, and source documents---with a type, category, and optional country code.
-\item \texttt{fact}: Directed edges connecting entities (\texttt{educated\_at} links a person to a university) or attaching literal properties (\texttt{held\_degree} links a person to ``PhD''). Includes confidence and qualifier fields.
-\item \texttt{citation}: Metadata for each source document---URL, access date, source type (Wikipedia, Wikidata, Commission CV PDF, etc.).
-\item \texttt{provenance}: Every fact's audit trail---the \texttt{citation\_id}, the \texttt{phrase\_index} (sentence number), and the exact \texttt{quote\_text} that supports the claim.
+\item \texttt{source\_document}: one snapshot per source, with URL, local path, SHA-256, revision, retrieval date, and access date.
+\item \texttt{sentence}: exact character offsets; sentence IDs, not list positions, are the only locator used downstream.
+\item \texttt{entity} and \texttt{entity\_alias}: persons, organisations, institutions, commissions, and countries, with aliases for resolution.
+\item \texttt{claim}: a candidate triple---subject, predicate, object, and role. A claim is not yet a finding.
+\item \texttt{evidence}: the claim, source document, sentence span, exact quote, locator status, and flags for subject, object, and role.
+\item \texttt{assertion}: the decision---verified, needs\_review, or rejected---with an evidence grade of A, B, C, or none. Only verified assertions enter the graph.
+\item \texttt{adjudication}, \texttt{rejection}, and \texttt{review}: recorded model verdicts, rejection reasons, and human decisions.
+\item \texttt{organisation\_profile}: sourced or manual-seed organisation attributes, kept separate from graph edges.
 \end{itemize}
 
-Facts without provenance are deleted rather than retained. This is not a cleanup operation but a structural invariant: the knowledge graph is self-auditing.
+A verified assertion must have at least one located evidence row. A claim whose quote cannot be found in the cited document is rejected rather than assigned a guessed index. The v2 invariant checker (\texttt{check\_v2.py}) enforces this, together with foreign keys, source hashes, and the absence of duplicate active entities. This replaces v1's \texttt{fact}/\texttt{provenance} pair and its claim that facts without provenance were simply deleted.
 
 \subsection{Phrase-Level Extraction}
 
-The core innovation is phrase-indexed extraction. Rather than sending an article to an LLM and accepting unstructured output, we:
-
-\begin{enumerate}
-\item Split source text into numbered sentences (50--80 per document).
-\item Present the LLM with numbered phrases and a structured prompt: ``Extract every organisation that X has been a member of. For each: phrase number, organisation name, role, reasoning.''
-\item Parse the JSON response into a \emph{manifest}---a durable intermediate artifact stored as JSON.
-\item Cross-check: retrieve the sentence at the claimed phrase index and verify it contains the asserted information.
-\end{enumerate}
-
-The manifest preserves the LLM's full output including reasoning and phrase indices, making extraction auditable and reproducible.
+Documents are segmented once into sentences with exact character offsets. The corpus is not truncated: long biographies are chunked, and every sentence keeps its ID. The LLM receives a numbered chunk and returns an organisation, a role phrase, a relation, the exact evidence sentence, and the sentence number. The evidence string is then located deterministically in the source; if it is not found, the claim is rejected. A separate grading step checks whether the located span contains the subject, object, and role; grade A is deterministic, grade B has an implicit role, and grade C is sent to adjudication. This replaces the v1 practice of storing a phrase index produced by a different tokeniser from the one that generated the evidence.
 
 \subsection{Failure Modes}
 
-We encountered three categories of failure:
+\subsubsection{The Short-Extract Problem}
 
-\subsection{Methodology Failure: the Short-Extract Problem}
+Our initial v1 extraction runs used Wikipedia API extracts of 300--400 characters. The LLM hallucinated freely: it returned the commissioner's own name as an educational institution and produced generic names such as ``aeronautical engineer''. Re-scraping the same biographies as full texts produced clean extractions with specific institutions. The lesson is that the input, not the model's capability, was the immediate cause. The v2 corpus therefore stores full texts and sentence offsets, and rejects claims whose quotes cannot be located.
 
-Our initial extraction runs used Wikipedia API extracts, which returned truncated texts of 300--400 characters for many articles. The LLM, given insufficient context, hallucinated freely: it extracted ``Dacian Julien Ciolo\c{s}'' (the commissioner's own full name) as an educational institution, and returned generic names such as ``aeronautical engineer'' as institution names. When we re-scraped the same biographies using raw HTML to obtain full texts (5,000--30,000 characters), the same LLM with the same prompt produced clean extractions with specific institution names and correct phrase indices. The problem was not the LLM's capability but the quality of the input: truncated source texts forced the model into a high-hallucination generative regime. Full-text input, combined with phrase-numbering and mandatory citation, moved the task into a low-hallucination verification regime.
+\subsubsection{Non-Deterministic Extraction}
 
-\subsection{Non-Deterministic Extraction}
-
-Running identical prompts on the same source text produced different sets of extracted organisations on different runs. The LLM's non-determinism meant that manifest regeneration changed the database. This is tolerable for additive processes (new facts are added, existing ones persist) but problematic for analytical reproducibility. We addressed this by storing manifests in version control as the canonical extraction record.
+Identical prompts can produce different candidate sets. V2 treats extraction output as a candidate pool rather than a finding: manifests and caches are versioned, each run records its model and parameters, and the assertion layer is rebuilt from the located evidence. This makes a rerun auditable even when the candidate set changes.
 
 \subsection{Entity Resolution (the ``CFR is not ECFR'' problem)}
 
-Each extraction produces entity names as they appear in source texts: ``Radio Netherlands,'' ``Radio Netherlands Worldwide,'' ``FEPS,'' ``Foundation for European Progressive Studies.'' These raw names carry their evidentiary basis---the phrase from which they were extracted and the LLM's reasoning about why that phrase indicates an organisation. Entity resolution proceeds by rolling these raw names into a canonical set: when two entities should be treated as identical, their facts are merged under a single canonical name.
+Extraction produces organisation names as they appear in source texts: ``Radio Netherlands'', ``Radio Netherlands Worldwide'', ``FEPS'', ``Foundation for European Progressive Studies''. String similarity alone is dangerous: ``CFR'' and ``ECFR'' score 0.857 on difflib, yet one is the US Council on Foreign Relations and the other the European Council on Foreign Relations. Pure auto-merge below 0.95 would collapse them.
 
-String similarity alone is dangerous for this task. The sequence ``CFR'' vs ``ECFR'' scores 0.857 on difflib---above many reasonable thresholds---yet one is the US Council on Foreign Relations and the other is the European Council on Foreign Relations. Pure auto-merge at any threshold below 0.95 would incorrectly collapse them.
+V2 resolves names with a deterministic merge key that strips parenthetical qualifiers, normalises punctuation and accents, and preserves sub-entities such as an ``EPP group'' as distinct from the party. The registry carries aliases, stable slugs, external identifiers where available, and a quarantine status for junk surface forms. Residual fuzzy variants are listed for review rather than silently merged. The earlier v1 LLM judge is no longer the merge authority; it remains useful only as an advisory signal. Every final merge is reproducible from the registry.
 
-Our two-pass approach first auto-merges at string similarity $\geq 0.95$ (safe: typos, punctuation variants). For borderline pairs ($0.30$--$0.95$), an LLM judge receives both raw names \emph{plus} up to three evidence phrases from each side with the extracted role and reasoning. The LLM evaluates whether the two entities refer to the same organisation based on the full evidentiary context, not just the name. It correctly distinguishes CFR and ECFR (US vs European foreign policy evidence), while merging ``Radio Netherlands'' with ``Radio Netherlands Worldwide'' (rename detected from career context) and ``FEPS'' with ``Foundation for European Progressive Studies'' (French/English acronym expansion). Every decision is logged to \texttt{\_dedup.json} with similarity scores, evidence excerpts, verdict, and reasoning---making entity resolution itself auditable and reproducible. The same methodology applies to educational institution names, merging variants such as ``University of Vienna/Austria'' into ``University of Vienna'' and Oxford colleges into ``University of Oxford.''
+\subsection{Organisation Profiles}
 
-\subsection{LLM-Based Organisation Classification}
-
-The same evidence-driven LLM judging approach extends to classification. With 800+ organisations in the database, we classify each into one of six types: \texttt{think-tank}, \texttt{political-party}, \texttt{corporate}, \texttt{government-body}, \texttt{industry-association}, or \texttt{ngo}. The LLM receives the organisation's name plus up to five connected people with their roles and categories as evidence, and returns a single classification. Each decision is stored as a \texttt{classified\_as} fact with provenance recording the evidence on which it was based. The classification is therefore auditable and regenerable. In the Obsidian wiki, these tags drive automatic colourisation of the graph view. The pipeline has classified over 1,000 organisations.
-
+Organisation type, funding, headquarters, and descriptions are stored in \texttt{organisation\_profile}, separate from graph edges. The current seed is manually researched and marked \texttt{manual\_seed}; it is not presented as a sourced assertion. The v2 graph does not use LLM-generated classifications for colouring or analysis. Entity categories come from the registry, and uncertain classifications remain in the review queue. This replaces the v1 practice of treating LLM classifications as evidence.
 
 \section{Wiki Output and Human Review}
 
-The database is rendered as a static wiki with 1,400+ interlinked pages using a Python generator (\texttt{genwiki.py}). Each page displays all facts about an entity with inline citation footnotes: a quoted sentence from the source document, a link to the source, and the exact source file path and character position. This makes every claim independently verifiable by a human reader in seconds---the reader sees the claim, the evidence sentence, and can navigate directly to the source file.
+The verified layer renders to a static wiki with 3,147 pages: 408 people, 2,286 organisations, 7 commissions, 441 source documents, plus index, statistics, and citation pages. Each page shows only verified assertions, with role, date, quote, evidence grade, and a link to the source document. Internal links are Obsidian wikilinks; source pages are filtered from the default graph view, so the browsing graph is not dominated by document nodes.
 
-The wiki can be opened as an Obsidian vault, enabling graph-view navigation (Figures~\ref{fig:graph1}--\ref{fig:graph2}). Obsidian's graph view renders the 1,400+ entities as nodes and the 4,000+ facts as edges, automatically colourised by elite type using YAML frontmatter tags generated by the pipeline. Political elites (commissioners, MEPs) appear in blue, economic elites (corporate leaders) in red, administrative elites (DGs) in green, and judicial elites (CJEU) in teal. Organisations are further colour-coded by type: think tanks in grey, corporate entities in pink, and political parties in purple.
-
-The graph view surfaces structural patterns that would be invisible in tabular data. Commissioners cluster densely around a small number of policy institutes (Bilderberg Group, Trilateral Commission, ECFR), while MEP leaders form a separate network centred on political party structures. Corporate elites occupy yet a third cluster around industry associations and financial institutions. The few bridging individuals---Jean Lemierre, Oliver B\"{a}te---appear as connections between otherwise disconnected network components.
+The typed graph is exported separately: 2,834 nodes and 3,594 edges, of which 2,612 are network edges, 525 education, 361 occupational, 94 institutional, and 2 other. The graph is not an Obsidian screenshot: \texttt{nodes.csv}, \texttt{edges.csv}, and \texttt{graph.graphml} carry edge class, predicate, role, grade, quote, document path, SHA-256, and a URL where the source is a public web page. Obsidian is a browsing view; the analysis uses the export.
 
 \begin{figure}[htbp]
 \centering
 \includegraphics[width=0.48\textwidth]{graph-view-1.png}
-\caption{Obsidian graph view of the Euro-SDT wiki. Nodes colourised by elite type: blue (political), red (economic), green (administrative).}
+\caption{Verified elite network (network edges, grades A--B; top nodes by degree). Commissioners are blue, MEPs green, DGs orange, corporate elites red, CJEU members purple, and organisations grey.}
 \label{fig:graph1}
 \end{figure}
 
 \begin{figure}[htbp]
 \centering
 \includegraphics[width=0.48\textwidth]{graph-view-2.png}
-\caption{Detail of commissioner think-tank cluster. Commissioners (blue) connected to Atlantic Council, Trilateral Commission, and Friends of Europe (grey think-tank nodes).}
+\caption{The same export restricted to grade-A edges. The stricter view is used as a sensitivity check on the network findings.}
 \label{fig:graph2}
 \end{figure}
 
+The review layer is explicit. Assertions that the deterministic checks cannot settle are marked \texttt{needs\_review}; grade-C claims are rechecked by a second judge, and disagreements are not silently promoted. In the current build, 569 grade-C claims were kept by two-model consensus and 169 were moved to review. The queue is exported as a priority-scored table, and every human decision is recorded with reviewer, reason, and timestamp.
 
 \section{Findings}
 
-The following findings should be read with appropriate caution. Our dataset covers 150 commissioners, 168 MEP leaders, 85 DGs, and 37 corporate leaders---adequate for descriptive statistics but modest by the standards of large-N social science. Sample error may be substantial, particularly for subgroup analyses (e.g., CJEU judges at 22/39 education coverage, corporate elites at 34/52). The more fine-grained qualitative claims---such as the apparent shift from \emph{grandes \'ecoles} to regional universities in French commissioner education---are based on small numbers of individuals and could be revised by additional data collection. We report them as suggestive patterns that warrant further investigation, not as definitive results.
+The following findings describe the verified subset, not the larger candidate pool. The dataset covers 150 commissioners, 162 MEP-only entities (168 MEPs in the frame; some are merged with commissioner records), 85 DGs and DDGs, 79 corporate elites, and 37 CJEU members. Coverage is uneven: commissioner education is verified for 115/150, DG/DDG for 58/85, MEP for 68/162, corporate for 59/79, and CJEU for 10/37. We therefore report descriptive patterns and avoid claims that depend on the unverified remainder.
 
-The methodology surfaces several substantive findings:
+\subsection{Elite Network Structure}
 
-\subsection{Collapse of the French Elite Pipeline}
+Commissioners share a policy-institute cluster: the European Council on Foreign Relations (12 commissioners), Friends of Europe (10), Bilderberg (9), and the Trilateral Commission (7). MEPs sit in parliamentary and party structures: the European Parliament (23), the European People's Party (11), the Party of European Socialists (8), with committee memberships at 5--6 each. DGs and DDGs centre on the College of Europe (5). Corporate elites are more fragmented: the largest shared organisation is the European Round Table of Industrialists (3), and 8 of 79 share an elite-network organisation with a commissioner under our broad list.
 
-French commissioners from Santer through Von der Leyen I were consistently products of the \emph{grandes \'ecoles}: Pascal Lamy (ENA + Sciences Po + HEC), Pierre Moscovici (ENA + Sciences Po), Jacques Barrot (Sciences Po). The current French commissioner, St\'ephane S\'ejourn\'e, attended the University of Poitiers---a mid-tier regional university with no elite pipeline connection. He is the first French commissioner since 1995 with no Paris education of any kind. Across all commissions, elite institution concentration has declined from 37\% (Barroso I) to 8\% (Von der Leyen II).
+The earlier claim that commissioners and MEP leaders occupy wholly separate network spaces is not reproduced. Both groups connect to parties and the Parliament; the commissioner cluster is distinguished by the policy institutes, not by an exclusive network. We report the overlap rather than the v1 asymmetry.
 
-\subsection{Elite Network Asymmetry}
+\subsection{Education Tracks}
 
-Commissioners share multiple transnational elite networks (Bilderberg Group: 10 commissioners, ECFR: 9, Trilateral Commission: 7, Friends of Europe: 12). MEP leaders, across 171 identified SDT-relevant individuals, cluster in political party structures and parliamentary bodies (European People's Party: 7 MEPs, Party of European Socialists: 5) rather than policy institutes. DGs and DDGs form a third distinct network centred on the College of Europe (6 DGs) and professional associations. Only 4 of 22 corporate leaders share commissioner network affiliations (Jean Lemierre and Oliver B\"ate bridge the Trilateral Commission and Atlantic Council). Each elite group operates in a distinct network space---commissioners in policy institutes, MEPs in party structures, DGs in professional-bureaucratic associations, and corporate leaders in industry roundtables and financial networks.
-
-\subsection{EP-to-Commission Circulation}
-
-Only six of 150 commissioners held EP leadership positions (President, Vice President, or committee chair) before their Commission appointment. Circulation peaked at two per term under Barroso and Juncker, and has fallen to zero in the current Von der Leyen II term. When commissioners do have MEP backgrounds, they are typically national ministers who served brief MEP stints as a transit lounge between national power and Brussels---not career EP politicians who climbed the parliamentary ranks.
-
-\subsection{Elite School Specialisation}
-
-Table~\ref{tab:schools} shows institutions with six or more attendees, broken down by elite track.
+Table~\ref{tab:schools} shows the five institutions with six or more verified attendees, broken down by elite track.
 
 \begin{table}[htbp]
 \centering
@@ -180,45 +163,32 @@ Table~\ref{tab:schools} shows institutions with six or more attendees, broken do
 \toprule
 Institution & Political & Admin. & Judicial & Corporate & Total \\
 \midrule
-College of Europe   & 3  & 6  & 1 & 0 & 10 \\
-Sciences Po         & 8  & 0  & 1 & 0 & 9  \\
-Harvard             & 6  & 2  & 1 & 0 & 9  \\
-UCL                 & 7  & 1  & 0 & 0 & 8  \\
-ULB                 & 5  & 1  & 1 & 0 & 7  \\
-Sapienza Rome       & 6  & 0  & 0 & 1 & 7  \\
-Royal Malta         & 5  & 1  & 1 & 0 & 7  \\
-\'Ecole Polytechnique & 1  & 0  & 0 & 5 & 6  \\
-Oxford              & 3  & 1  & 0 & 1 & 5  \\
-Cambridge           & 2  & 1  & 0 & 0 & 3  \\
+Harvard             & 6 & 2 & 1 & 0 & 9 \\
+College of Europe   & 3 & 5 & 1 & 0 & 9 \\
+University of Oxford & 3 & 1 & 0 & 2 & 6 \\
+Sciences Po         & 6 & 0 & 0 & 0 & 6 \\
+\'Ecole Polytechnique & 0 & 0 & 0 & 6 & 6 \\
 \bottomrule
 \end{tabular}
-\caption{Elite school specialisation by track. Political = commissioners + MEPs; Admin. = Directors-General and deputies; Judicial = CJEU judges and advocates general; Corporate = transnational corporate leaders.}
+\caption{Elite school specialisation by verified track. Political = commissioners + MEPs; Admin. = Directors-General and deputies; Judicial = CJEU judges and advocates general; Corporate = transnational corporate leaders.}
 \label{tab:schools}
 \end{table}
 
-The College of Europe is the most balanced pipeline, producing political, administrative, and judicial elites in roughly equal measure---a reflection of its explicit mission to train European civil servants. Sciences Po and UCL are heavily political tracks. \'Ecole Polytechnique is the most specialised: five of its six attendees are corporate leaders, reflecting the French engineering \emph{grandes \'ecoles} to executive boardroom pipeline. The data suggests that elite education is not a single pipeline but a set of parallel tracks: College of Europe for the administrative elite, Sciences Po for the political elite, \'Ecole Polytechnique for the economic elite.
+The College of Europe is the most balanced pipeline, producing political, administrative, and judicial elites in roughly equal measure. Harvard and Oxford are mixed, though politically weighted. Sciences Po is exclusively political in the verified record, and \'Ecole Polytechnique is exclusively corporate. The data support a set of parallel institutional tracks rather than a single elite pipeline.
 
-Institutions with six or more attendees reveal distinct elite formation tracks. The College of Europe (10 attendees) is the most balanced pipeline, producing political, administrative, and judicial elites in roughly equal measure---a reflection of its explicit mission to train European civil servants. Sciences Po (9) and University College London (8) are heavily political tracks, feeding commissioners and MEPs almost exclusively. \'Ecole Polytechnique (6) is the most specialised: five of its six attendees are corporate leaders, reflecting its role as the pipeline from French engineering \emph{grandes \'ecoles} to executive boardrooms. Harvard (9) feeds all tracks but are politically dominated. The data suggests that elite education is not a single pipeline but a set of parallel tracks: College of Europe for the administrative elite, Sciences Po for the political elite, \'Ecole Polytechnique for the economic elite.
+\subsection{The French Pipeline in the Verified Record}
 
-Only six of 150 commissioners held EP leadership positions (President, Vice President, or committee chair) before their Commission appointment. Circulation peaked at two per term under Barroso and Juncker, and has fallen to zero in the current Von der Leyen II term. When commissioners do have MEP backgrounds, they are typically national ministers who served brief MEP stints as a transit lounge between national power and Brussels.
+Among French commissioners with verified education, Pascal Lamy (ENA, HEC, Sciences Po) and Pierre Moscovici (ENA, Sciences Po) follow the Parisian \emph{grandes \'ecoles} route, while St\'ephane S\'ejourn\'e's record contains only the University of Poitiers. Jacques Barrot has no verified education in the current build. The verified record therefore preserves the contrast, but it is too sparse to support a commission-by-commission decline; we do not report such a figure.
 
 \section{Future Work}
 
-The corporate layer has been partially addressed: 52 leaders from 25 of 30 target companies now have education (65\%) and organisation affiliation (87\%) data. The remaining gap is board members for the last 5 companies (Volkswagen, Leonardo, Thales, Santander, ING), where Wikipedia page formats resisted automated extraction. CJEU coverage now stands at 23/39 judges and advocates general for education (59\%), with the remaining 16 lacking either Wikipedia or Wikidata P69 data. DG/DDG organisation affiliations have been extracted for 67 of 85 officials (79\%) from their CV PDFs.
-
-Two structural extensions remain for future phases. First, the General Court judges---67 additional judicial officials identified during CJEU scraping whose bios were captured but not yet processed into entity records---would nearly triple the judicial dataset. Second, a formal overrepresentation metric based on Eurostat tertiary education statistics would quantify elite pipeline strength for specific institutions, allowing claims of ``elite signalling'' to be tested against population baselines rather than asserted.
-
-
+Coverage remains uneven: commissioner education 115/150 and organisation affiliation 137/150; DG/DDG 58/85 and 20/85; MEP 68/162 and 118/162; corporate 59/79 and 29/79; CJEU 10/37 and 2/37. Three tasks follow. First, work the 177 \texttt{needs\_review} assertions and run the grade-A second judge. Second, acquire the missing sources for the corporate, CJEU, DG/DDG, and MEP populations rather than treating their absence as negative evidence. Third, add a formal overrepresentation metric based on Eurostat tertiary education statistics, so claims of elite signalling can be tested against population baselines. Extending the frame to General Court judges and national officials is a further source-acquisition task.
 
 \section{Conclusion}
 
 This paper's own bibliography was verified using the methodology it describes. Each cited work was downloaded as a PDF, checked by \texttt{check\_citations.py}---a script that extracts citation claims from the LaTeX source, searches the cited PDF text, and sends numbered phrases to an LLM for phrase-level verification with confidence scoring. At the time of writing, all citations pass the checker's verification threshold. The verification report is committed alongside this paper and can be regenerated by any reader with API access.
 
-The key methodological claim of this paper is that LLM-assisted research can be rigorous if the LLM is treated as a hypothesis generator rather than an authority. The specific mechanisms---phrase-indexed manifests, mandatory provenance, cross-validation against source text, and contextualised LLM judging for entity resolution---are transferable to other domains. The case study demonstrates that this discipline yields not just auditable data but substantive findings that manual methods would require years to surface.
-
-
-
-
+The key methodological claim of this paper is that LLM-assisted research can be rigorous if the LLM is treated as a hypothesis generator rather than an authority. The specific mechanisms---hashed source snapshots, sentence-level locators, deterministic quote resolution, evidence grades, recorded adjudication, and a human review queue---are transferable to other domains. The case study demonstrates that this discipline yields auditable data and descriptive findings, while also showing which earlier claims do not survive stricter verification. That is the appropriate outcome for a methodology paper: the evidence layer is designed to make such revisions visible.
 
 \bibliographystyle{plain}
 \bibliography{refs}
