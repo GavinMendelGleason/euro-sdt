@@ -70,5 +70,14 @@
     "evidence_found": "YES",
     "confidence": "1.00",
     "reason": "The source states that hallucinated text \"gives the impression of being fluent and natural despite being unfaithful\" and \"appears to be grounded in the real context provided, although it is actually hard to specify or verify the existence of such contexts,\" which directly matches the claim that when the model lacks grounding in external facts, the distribution can produce plausible-sounding but incorrect statements."
+  },
+  "3cd6508aa33d9f0dd97bdc56a2fb662f6084c822f89b8adcc74a32a90526dc99": {
+    "paper_section": "main",
+    "claim": "These arrangements were conceptualised in different ways: Mills emphasised the overlap between political, military and corporate elements in the ``power elite'' that shaped US governance",
+    "citation": "mills1956",
+    "pdf_file": "../../../papers/Mills_1956_The_Power_Elite.txt",
+    "evidence_found": "YES",
+    "confidence": "1.00",
+    "reason": "The source explicitly states that major national power resides in the economic, political, and military domains, which substantiates the claim about Mills emphasising the overlap between political, military, and corporate elements in the \"power elite.\""
   }
 }

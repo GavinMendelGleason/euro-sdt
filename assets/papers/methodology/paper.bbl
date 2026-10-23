@@ -18,11 +18,6 @@ Saurav Kadavath, Tom Conerly, Amanda Askell, Tom Henighan, Dawn Drain, Ethan
 \newblock Language models (mostly) know what they know.
 \newblock {\em arXiv preprint arXiv:2207.05221}, 2022.
 
-\bibitem{kertzer2022}
-Joshua~D. Kertzer and Jonathan Renshon.
-\newblock Experiments and surveys on political elites.
-\newblock {\em Annual Review of Political Science}, 2022.
-
 \bibitem{manakul2023}
 Potsawee Manakul, Adian Liusie, and Mark J.~F. Gales.
 \newblock {SelfCheckGPT}: Zero-resource black-box hallucination detection for
