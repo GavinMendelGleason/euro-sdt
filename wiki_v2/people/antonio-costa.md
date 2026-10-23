@@ -14,7 +14,13 @@ generated: 2026-10-23
 
 Mep
 
-*Verified assertions: 4*
+*Verified assertions: 6*
+
+## Education
+
+- [[organisations/faculty-of-law-of-the-university-of-lisbon|Faculty of Law of the University of Lisbon]]  
+  > "He previously served as prime minister of Portugal from 2015 to 2024 and secretary-general of the Socialist Party from 2014 to 2024."
+  > Source: [[sources/wikipedia-ant-nio-costa|Ant Nio Costa]] · grade A
 
 ## Membership
 

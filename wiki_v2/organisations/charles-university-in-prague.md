@@ -11,10 +11,13 @@ generated: 2026-10-23
 ---
 # Charles University In Prague
 
-*Verified member assertions: 2 people*
+*Verified member assertions: 3 people*
 
 ## Members and roles
 
+- [[people/michal-simecka|Michal Šimečka]]  
+  > "Šimečka earned a bachelor's degree in political sciences and international relations from the Charles University in Prague in 2006."
+  > Source: [[sources/wikipedia-edu-michal-simecka|Michal Šimečka]] · grade A
 - [[people/miroslav-ouzky|Miroslav Ouzký]]  
   > "Biography [ edit ] He studied medicine at Charles University of Prague ."
   > Source: [[sources/wikipedia-miroslav-ouzk|Miroslav Ouzk]] · grade C

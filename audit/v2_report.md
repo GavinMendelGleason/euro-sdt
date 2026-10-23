@@ -6,12 +6,12 @@ Generated from `euro_sdt_v2.db`, `audit/v1_baseline.json`, and `graph/metrics.js
 
 | Metric | v1 | v2 |
 |---|---:|---:|
-| Assertions / facts | 5313 | 5404 |
-| Verified | 726 | 4063 |
-| Needs review | — | 182 |
-| Rejected | — | 1159 |
-| Source documents | 0 hashed | 707 hashed |
-| Sentences | 0 | 33901 |
+| Assertions / facts | 5313 | 5462 |
+| Verified | 726 | 4122 |
+| Needs review | — | 186 |
+| Rejected | — | 1154 |
+| Source documents | 0 hashed | 783 hashed |
+| Sentences | 0 | 36873 |
 
 The v1 counts are not directly comparable: v1 called every row `confirmed`,
 and 30.1% of its provenance rows had no sentence evidence. v2 reports the
@@ -22,12 +22,12 @@ verified subset and keeps rejected candidates in `rejection`.
 | Status | Grade | Count |
 |---|---|---:|
 | needs_review | B | 8 |
-| needs_review | C | 174 |
+| needs_review | C | 178 |
 | rejected | B | 138 |
 | rejected | C | 564 |
-| rejected | none | 457 |
-| verified | A | 3016 |
-| verified | B | 478 |
+| rejected | none | 452 |
+| verified | A | 3074 |
+| verified | B | 479 |
 | verified | C | 569 |
 
 ## Predicate results
@@ -49,9 +49,9 @@ verified subset and keeps rejected candidates in `rejection`.
 | chair | needs_review | 17 |
 | chair | rejected | 79 |
 | chair | verified | 510 |
-| educated_at | needs_review | 15 |
-| educated_at | rejected | 120 |
-| educated_at | verified | 559 |
+| educated_at | needs_review | 19 |
+| educated_at | rejected | 115 |
+| educated_at | verified | 618 |
 | employed_by | needs_review | 25 |
 | employed_by | rejected | 21 |
 | employed_by | verified | 362 |
@@ -97,6 +97,7 @@ verified subset and keeps rejected candidates in `rejection`.
 | extraction | deepseek-chat | 2026-10-21T08:56:27+00:00 | 2026-10-21T08:56:51+00:00 |
 | education | deepseek-chat | 2026-10-23T22:46:22+00:00 |  |
 | education | deepseek-chat | 2026-10-23T22:46:38+00:00 |  |
+| education | deepseek-chat | 2026-10-23T23:02:29+00:00 |  |
 
 Claims from full-document extraction: **1127**.
 
@@ -107,7 +108,7 @@ Claims from full-document extraction: **1127**.
 |---|---:|
 | source_resolution | 722 |
 | llm_adjudication | 702 |
-| locator | 457 |
+| locator | 452 |
 | migration | 51 |
 | party_group_guard | 2 |
 
@@ -122,7 +123,7 @@ Claims from full-document extraction: **1127**.
 
 | Kind | Documents | Characters |
 |---|---:|---:|
-| wikipedia | 418 | 4502718 |
+| wikipedia | 494 | 4948475 |
 | cjeu | 92 | 227327 |
 | dg_cv | 82 | 177208 |
 | revolving_door | 67 | 48681 |
@@ -134,16 +135,16 @@ Claims from full-document extraction: **1127**.
 
 | Metric | All verified | Network only |
 |---|---:|---:|
-| Nodes | 2857 | 2147 |
-| Edges | 3621 | 2613 |
-| Largest component | 2618 | 1914 |
-| Degree-1 nodes | 2158 | 1610 |
+| Nodes | 2933 | 2147 |
+| Edges | 3680 | 2613 |
+| Largest component | 2644 | 1914 |
+| Degree-1 nodes | 2207 | 1610 |
 
 ### Edges by class
 
 | Class | Edges |
 |---|---:|
-| education | 551 |
+| education | 610 |
 | institutional | 94 |
 | network | 2613 |
 | occupational | 361 |

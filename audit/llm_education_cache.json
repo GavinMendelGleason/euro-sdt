@@ -661,5 +661,802 @@
       "evidence": "He completed his education in 1988 with a J.D. degree from Yale Law School .",
       "sentence": 4
     }
+  ],
+  "deepseek-chat|3a27509b2dfcde9ded81050c3f54613e465fbb5f769fd3303371f434ffe5fe8f": [],
+  "deepseek-chat|1641fdfd524bb3f3e60c436a6037b999f78fab68358c304254a66605846be375": [
+    {
+      "institution": "London School of Economics and Political Science",
+      "degree": "LL.M.",
+      "field": "European Law",
+      "evidence": "He received an LL.M. (European Law) from the London School of Economics and Political Science in 1987 and a Ph.D. (Law) from University College London in 1991.",
+      "sentence": 4
+    },
+    {
+      "institution": "University College London",
+      "degree": "Ph.D.",
+      "field": "Law",
+      "evidence": "He received an LL.M. (European Law) from the London School of Economics and Political Science in 1987 and a Ph.D. (Law) from University College London in 1991.",
+      "sentence": 5
+    }
+  ],
+  "deepseek-chat|7df9d55229767eefef133f08f3ef9bc3f78c1257275e185979451d41099d26ad": [],
+  "deepseek-chat|33a629830eb14a17cce9068d33842690bfc4f5397899866100e1247dd8386ffc": [
+    {
+      "institution": "University of Tartu",
+      "degree": "",
+      "field": "law",
+      "evidence": "In 1981 Jürimäe entered law school at the University of Tartu, from where she graduated in 1986.",
+      "sentence": 1
+    },
+    {
+      "institution": "Estonian school of diplomacy",
+      "degree": "diploma",
+      "field": "",
+      "evidence": "From 1991 onwards she followed up on her studies at the Estonian school of diplomacy from where she obtained her diploma in 1992.",
+      "sentence": 3
+    },
+    {
+      "institution": "Universities of Padua and Nottingham",
+      "degree": "European master's degree",
+      "field": "Democratization and Human Rights",
+      "evidence": "Between 2002 and 2003 she followed up on her studies at the Universities of Padua and Nottingham and graduated with a European master's degree in Democratization and Human Rights.",
+      "sentence": 6
+    }
+  ],
+  "deepseek-chat|36ebdc2080e516605a435de782c67490481fdf5697d4cfd59392fc4491001b81": [
+    {
+      "institution": "Paris",
+      "degree": "",
+      "field": "law",
+      "evidence": "He was born in Esch-sur-Alzette, in the south-western Luxembourg and studied law in Paris.",
+      "sentence": 1
+    }
+  ],
+  "deepseek-chat|4bf28bb46a929fef67fc83249f1b33ad0bef4c22fc09f05046710755f20ca149": [
+    {
+      "institution": "University of Tartu",
+      "degree": "graduated law",
+      "field": "law",
+      "evidence": "He graduated law from the Faculty of Law of the University of Tartu, after studying in the faculties of law of the French universities of Poitiers and Paris I.",
+      "sentence": 2
+    },
+    {
+      "institution": "University of Poitiers",
+      "degree": "",
+      "field": "law",
+      "evidence": "He graduated law from the Faculty of Law of the University of Tartu, after studying in the faculties of law of the French universities of Poitiers and Paris I.",
+      "sentence": 2
+    },
+    {
+      "institution": "Paris I",
+      "degree": "",
+      "field": "law",
+      "evidence": "He graduated law from the Faculty of Law of the University of Tartu, after studying in the faculties of law of the French universities of Poitiers and Paris I.",
+      "sentence": 2
+    },
+    {
+      "institution": "University of Tartu",
+      "degree": "PhD",
+      "field": "",
+      "evidence": "Pikamäe gained his PhD from the same University in 2006.",
+      "sentence": 3
+    }
+  ],
+  "deepseek-chat|acf7e6a3865323aa4c7b63340184675bbd8d4d8e8cca46a483d1eda9444e8765": [
+    {
+      "institution": "University of Barcelona",
+      "degree": "law degree",
+      "field": "law",
+      "evidence": "She got her law degree from the University of Barcelona in 1982 and entered the Spanish judiciary in 1984 after completing her training at the Escuela Judicial Judicial College of Spain.",
+      "sentence": 4
+    },
+    {
+      "institution": "Escuela Judicial Judicial College of Spain",
+      "degree": "",
+      "field": "",
+      "evidence": "She got her law degree from the University of Barcelona in 1982 and entered the Spanish judiciary in 1984 after completing her training at the Escuela Judicial Judicial College of Spain.",
+      "sentence": 4
+    }
+  ],
+  "deepseek-chat|70677dfc5c557965e927e8a0e90d5373bdd39ea0db273ea16bf419d7c3043a6b": [
+    {
+      "institution": "Universita Karlova (Charles University, Czech Republic)",
+      "degree": "law degree",
+      "field": "law",
+      "evidence": "Born in 1974 in Prague (Czechoslovakia), Mr Jan Passer studied at the Universita Karlova (Charles University, Czech Republic) where he obtained his law degree.",
+      "sentence": 3
+    },
+    {
+      "institution": "Stockholms universitet (University of Stockholm, Sweden)",
+      "degree": "Masters of Laws",
+      "field": "law",
+      "evidence": "He also completed a Masters of Laws at the Stockholms universitet (University of Stockholm, Sweden) in 2000.",
+      "sentence": 4
+    },
+    {
+      "institution": "Universita Karlova",
+      "degree": "doctoral thesis in law",
+      "field": "law",
+      "evidence": "In 2007, he defended his doctoral thesis in law at the Universita Karlova.",
+      "sentence": 5
+    }
+  ],
+  "deepseek-chat|ad5bf94871f16b9021da9ae5b732d1baed59f24c770b9e86f30feca3a90bbda0": [
+    {
+      "institution": "Stockholm University",
+      "degree": "LL.M.",
+      "field": "",
+      "evidence": "He earned an LL.M. in 1987 and a PhD in 1995 from the Stockholm University.",
+      "sentence": 3
+    },
+    {
+      "institution": "Stockholm University",
+      "degree": "PhD",
+      "field": "",
+      "evidence": "He earned an LL.M. in 1987 and a PhD in 1995 from the Stockholm University.",
+      "sentence": 3
+    }
+  ],
+  "deepseek-chat|9f2c04d07154ad71614c348de3d0884f52402d14053da6101a4cc0c20d70bee5": [
+    {
+      "institution": "National Academy of Theatre Arts in Kraków",
+      "degree": "graduated",
+      "field": "Acting",
+      "evidence": "He graduated in 2004 from the Faculty of Acting of the National Academy of Theatre Arts in Kraków.",
+      "sentence": 7
+    }
+  ],
+  "deepseek-chat|bb93075c22813c7f96266a5105f5422719166409d5ad4ac59b401c5551e85aa3": [],
+  "deepseek-chat|0514b28263d720c85842b6ae166f9519da36f8502f376bd02a13b02e78825acc": [
+    {
+      "institution": "University of Liège",
+      "degree": "",
+      "field": "law",
+      "evidence": "He studied law at the University of Liège.",
+      "sentence": 6
+    }
+  ],
+  "deepseek-chat|e921e730ed4335d73dc5be7447591a9c3fa2394be6b170ec66a9ee45d9a36e49": [],
+  "deepseek-chat|43014581a4e00c322d5823d4074c066c31d52fc5134ea9cfb246215319f80bef": [],
+  "deepseek-chat|3c5ce536fefee6d890f48c0f18972f860e65fc5b7beaac55ac996f988b2a32a1": [
+    {
+      "institution": "Sveučilište u Zagrebu (University of Zagreb, Croatia)",
+      "degree": "law degree",
+      "field": "law",
+      "evidence": "Born 1963 in Zagreb (Croatia), Siniša Rodin obtained his law degree from Sveučilište u Zagrebu (University of Zagreb, Croatia) in 1987 and continued his university studies in the United States of America, where he obtained a Master of Laws from the University of Michigan in 1992.",
+      "sentence": 2
+    },
+    {
+      "institution": "University of Michigan",
+      "degree": "Master of Laws",
+      "field": "Laws",
+      "evidence": "Born 1963 in Zagreb (Croatia), Siniša Rodin obtained his law degree from Sveučilište u Zagrebu (University of Zagreb, Croatia) in 1987 and continued his university studies in the United States of America, where he obtained a Master of Laws from the University of Michigan in 1992.",
+      "sentence": 2
+    },
+    {
+      "institution": "Sveučilište u Zagrebu",
+      "degree": "Doctor of Laws",
+      "field": "Laws",
+      "evidence": "Returning to Croatia, he continued his studies at Sveučilište u Zagrebu, where he became a Doctor of Laws in 1995.",
+      "sentence": 3
+    }
+  ],
+  "deepseek-chat|77d1ef7c87e37992b1a73df1ae7919802a8bdbb521147cbf4a1b60c2aedbdb64": [],
+  "deepseek-chat|30546f2dc2852601ce5498bac35c0dabcadb586b26f462530535b9cba6daf753": [],
+  "deepseek-chat|1ba13b79783fb022981d1cf0ad166620473241e6f7976b46b19804537a5f4b58": [],
+  "deepseek-chat|8d1dcf20aa9937fde35204db5b6f29b1c3b57857004c2725ddd86dff3659667d": [
+    {
+      "institution": "\"Giulio Cesare\" Classical High School",
+      "degree": "",
+      "field": "",
+      "evidence": "He attended the \"Giulio Cesare\" Classical High School in Rome and graduated in law in 1979 at the Sapienza University.",
+      "sentence": 5
+    },
+    {
+      "institution": "Sapienza University",
+      "degree": "graduated",
+      "field": "law",
+      "evidence": "He attended the \"Giulio Cesare\" Classical High School in Rome and graduated in law in 1979 at the Sapienza University.",
+      "sentence": 5
+    }
+  ],
+  "deepseek-chat|56d3a029a7e0d05bfbabe560db067fabc4569dd0479a172ebf526251005ad1d8": [],
+  "deepseek-chat|916905ba2bd00c846c3bb7056437c541737305749a82bc7bfe726df03aa16d1f": [],
+  "deepseek-chat|d1b7ff9548cb9fadf253c66abf88504499771e89e37661602bc47fe0fbe5d29f": [],
+  "deepseek-chat|b99e18ed5a20dfbc53ceb3d2e31cc302ed4351ca61e809196c500bb15b599357": [],
+  "deepseek-chat|0cd84cb4441c75c5b8e5b4d6d1677c86c3eb4e4b51c319f56009c05767554903": [],
+  "deepseek-chat|f3b813fb7945d60a3ea5cea7d84e7149d84bb84264e2711b1403f12315e6360a": [],
+  "deepseek-chat|da7c2e5677c27dbf48a675d44f9a1cbedf4a4b04e79fa7cb5fdcc65b66ac768a": [],
+  "deepseek-chat|74a74583a3e84d5394a739f76c5787468784c67fbdb647063603fe3237acd2dd": [],
+  "deepseek-chat|7c41c3a9125d658eb43eee7f0edb858c15997ad3de969e82f7357eb1eb52d311": [],
+  "deepseek-chat|58b8a2d27ece561433c924698292b0a119668dcd1e214222d49debe62d77c485": [
+    {
+      "institution": "University of Paris I – Sorbonne",
+      "degree": "Master",
+      "field": "Law",
+      "evidence": "1994: Master in Law – University of Paris I – Sorbonne",
+      "sentence": 1
+    },
+    {
+      "institution": "Institut d'Etudes Politiques de Paris",
+      "degree": "Diploma",
+      "field": "",
+      "evidence": "1992: Diploma of the Institut d'Etudes Politiques de Paris",
+      "sentence": 2
+    }
+  ],
+  "deepseek-chat|a5ad2024d0e001df1d10a698fa041f8c79dcec27b713578956e0f1632e3bb310": [],
+  "deepseek-chat|c4b556053b2a80fde000b1b92bce9d003cb4624aa592e6e71825a25157eacd75": [],
+  "deepseek-chat|6069b7b4846e55645bf30f177f95f00917f45e64d53aecd58d6d89ac1f52e9bd": [
+    {
+      "institution": "Universities of Bremen, Mannheim, Lausanne and Düsseldorf",
+      "degree": "",
+      "field": "",
+      "evidence": "Graduated from Universities of Bremen, Mannheim, Lausanne and Düsseldorf.",
+      "sentence": 11
+    }
+  ],
+  "deepseek-chat|3e76c26e9999d13f259be8ad645b47fcec1e2f53c9b3f55a18fe83b7c1a80ade": [
+    {
+      "institution": "Law School of the Charles University in Prague",
+      "degree": "graduate",
+      "field": "Law",
+      "evidence": "Dusík is a graduate of the Law School of the Charles University in Prague and Oxford University where he studied Environmental Change and Management.",
+      "sentence": 3
+    },
+    {
+      "institution": "Oxford University",
+      "degree": "",
+      "field": "Environmental Change and Management",
+      "evidence": "Dusík is a graduate of the Law School of the Charles University in Prague and Oxford University where he studied Environmental Change and Management.",
+      "sentence": 3
+    }
+  ],
+  "deepseek-chat|4b20618ea1dc78f56d433b0ea4052e257251036387c95c006a6db13e41e1338c": [
+    {
+      "institution": "",
+      "degree": "master's degree",
+      "field": "European Integration and Security Studies",
+      "evidence": "Vălean has a master's degree in European Integration and Security Studies, postgraduate studies in National Security and Defence Management and a bachelor's degree in Mathematics.",
+      "sentence": 3
+    },
+    {
+      "institution": "",
+      "degree": "postgraduate studies",
+      "field": "National Security and Defence Management",
+      "evidence": "Vălean has a master's degree in European Integration and Security Studies, postgraduate studies in National Security and Defence Management and a bachelor's degree in Mathematics.",
+      "sentence": 3
+    },
+    {
+      "institution": "",
+      "degree": "bachelor's degree",
+      "field": "Mathematics",
+      "evidence": "Vălean has a master's degree in European Integration and Security Studies, postgraduate studies in National Security and Defence Management and a bachelor's degree in Mathematics.",
+      "sentence": 3
+    }
+  ],
+  "deepseek-chat|49597312a9fd6863b590c79e398f4035db3fbcd1557321865cfc5e86198b98fc": [],
+  "deepseek-chat|7f057e50b3a19b62aa3882c2396026c2ca33fcffc6f8e6ede21e64a608abf800": [
+    {
+      "institution": "University of Paris IX-Dauphine",
+      "degree": "degrees",
+      "field": "International Economics and Finance",
+      "evidence": "A French national, she holds degrees in International Economics and Finance from the University of Paris IX-Dauphine and from the University of Bordeaux IV.",
+      "sentence": 8
+    },
+    {
+      "institution": "University of Bordeaux IV",
+      "degree": "degrees",
+      "field": "International Economics and Finance",
+      "evidence": "A French national, she holds degrees in International Economics and Finance from the University of Paris IX-Dauphine and from the University of Bordeaux IV.",
+      "sentence": 8
+    }
+  ],
+  "deepseek-chat|d06ec51ce988aae4195663b843b6e8d3769d00e3fb2547c5d410c1ed782f9ee0": [
+    {
+      "institution": "National and Kapodistrian University of Athens",
+      "degree": "bachelor's degree",
+      "field": "economics",
+      "evidence": "Athanasios Thanopoulos completed his four-year bachelor's degree in economics at the National and Kapodistrian University of Athens in 1997.",
+      "sentence": 3
+    },
+    {
+      "institution": "Toulouse School of Economics",
+      "degree": "",
+      "field": "",
+      "evidence": "The following year, Thanopoulos moved to Toulouse to study at the Toulouse School of Economics, affiliated to the Toulouse Capitole University.",
+      "sentence": 4
+    },
+    {
+      "institution": "Toulouse School of Economics",
+      "degree": "Diplôme d'études approfondies (DEA), a high-level research master's degree",
+      "field": "mathematical economics and econometrics",
+      "evidence": "He obtained a Diplôme d'études approfondies (DEA), a high-level research master's degree, in mathematical economics and econometrics in 1998 and a European Diploma in Advanced Quantitative Economics the following year.",
+      "sentence": 5
+    },
+    {
+      "institution": "Toulouse School of Economics",
+      "degree": "European Diploma in Advanced Quantitative Economics",
+      "field": "Advanced Quantitative Economics",
+      "evidence": "He obtained a Diplôme d'études approfondies (DEA), a high-level research master's degree, in mathematical economics and econometrics in 1998 and a European Diploma in Advanced Quantitative Economics the following year.",
+      "sentence": 5
+    },
+    {
+      "institution": "University of Pittsburgh",
+      "degree": "PhD",
+      "field": "Economics",
+      "evidence": "Thanopoulous completed his PhD in Economics at the economics department of the University of Pittsburgh.",
+      "sentence": 6
+    }
+  ],
+  "deepseek-chat|9c99b1a99785248f5f7127374abacf31b5f8a16e46b16737f9c1e304e5388c08": [],
+  "deepseek-chat|0a2badf4336c96d4a2ae3ffa42995227ebf1ef6bd022eb523d0bad7af5ab9ab2": [],
+  "deepseek-chat|c6e47649074803fc6e50a57320578d28d18d3464d99f171e896ec6958ed27f12": [
+    {
+      "institution": "Faculty of Law of the University of Lisbon",
+      "degree": "graduated",
+      "field": "Law",
+      "evidence": "Costa graduated from the Faculty of Law of the University of Lisbon in the 1980s when he first entered politics and was elected as a Socialist deputy to the municipal council.",
+      "sentence": 13
+    }
+  ],
+  "deepseek-chat|05cca34889a5536c5a873ca3545286475d09608f615c2d2203018b99cd73ce4d": [],
+  "deepseek-chat|9ab557662726167dfb8a235f4827ce332356aaa7784a157f3a3cdabe1f3243a8": [],
+  "deepseek-chat|b86625e389defd02e32b746e5b90eaeef887be59beeedd06c3085a86dbb3d0e6": [],
+  "deepseek-chat|9f56ee8c3402955c4e280a42d751dafc9c5ccaf9e70560b0235d9193d8d54828": [],
+  "deepseek-chat|79bcd98c0e2fecd827b081064c3957745e1ddc2b61139be4cb063b6e064df58a": [],
+  "deepseek-chat|85ba9bbb635055572529ad1f5517011c15826cb9b44fd793742e7a27cd5b67fe": [],
+  "deepseek-chat|90529267f33102b685a5854216214d330077cd67f65b76a668405fe4b1c66ec4": [
+    {
+      "institution": "Aristotle University of Thessaloniki",
+      "degree": "",
+      "field": "architecture and civil engineering",
+      "evidence": "Kaili studied architecture and civil engineering at the Aristotle University of Thessaloniki.",
+      "sentence": 10
+    },
+    {
+      "institution": "University of Piraeus",
+      "degree": "Master of Arts",
+      "field": "international and European affairs",
+      "evidence": "She continued her studies at the University of Piraeus where she obtained a Master of Arts degree in international and European affairs in 2008.",
+      "sentence": 12
+    }
+  ],
+  "deepseek-chat|6a96d8f3d2307e4abc7e0a3a66ec0dfb7bbbfb59554c3d9876313a9e95312836": [
+    {
+      "institution": "Sigmund-Freud-Gymnasium",
+      "degree": "",
+      "field": "",
+      "evidence": "Regner was born and grew up in the second district of Vienna and went to school at Sigmund-Freud-Gymnasium.",
+      "sentence": 2
+    },
+    {
+      "institution": "University of Salzburg",
+      "degree": "degree",
+      "field": "law studies",
+      "evidence": "After obtaining her degree in law studies at the University of Salzburg and finishing up her clerkship, she first worked at Amnesty International as a refugee consultant during 1992-1993.",
+      "sentence": 4
+    }
+  ],
+  "deepseek-chat|ff8505ec99a38ad21d47e15f4bb453d01d3f004a142a1fa614b39fc37b872bc6": [
+    {
+      "institution": "University of Economics in Prague",
+      "degree": "",
+      "field": "",
+      "evidence": "Dita Charanzová graduated from the University of Economics in Prague and from the Diplomatic School of Spain in Madrid.",
+      "sentence": 2
+    },
+    {
+      "institution": "Diplomatic School of Spain in Madrid",
+      "degree": "",
+      "field": "",
+      "evidence": "Dita Charanzová graduated from the University of Economics in Prague and from the Diplomatic School of Spain in Madrid.",
+      "sentence": 2
+    },
+    {
+      "institution": "Faculty of International Relations at the University of Economics in Prague",
+      "degree": "doctorate (Ph.D.)",
+      "field": "",
+      "evidence": "In 2001, she obtained a doctorate (Ph.D.) from the Faculty of International Relations at the University of Economics in Prague.",
+      "sentence": 3
+    }
+  ],
+  "deepseek-chat|2ec72c04e5650071257ecd9dc3877f41a31c3574dec32db1f02ba1da5ccdbd41": [],
+  "deepseek-chat|09192d0c985bedaada9a0fb46c06a579c9d236053abc5eaef4ea9b77222734ae": [
+    {
+      "institution": "Lycée Lamartine",
+      "degree": "",
+      "field": "",
+      "evidence": "After graduating from Lycée Lamartine in 1972, Gebhardt became the first in her family to go to university.",
+      "sentence": 5
+    },
+    {
+      "institution": "University Paris Diderot",
+      "degree": "",
+      "field": "linguistics, political science and political economy",
+      "evidence": "She studied at the University Paris Diderot, the University of Tübingen and the University of Stuttgart, studying linguistics, political science and political economy.",
+      "sentence": 6
+    },
+    {
+      "institution": "University of Tübingen",
+      "degree": "",
+      "field": "linguistics, political science and political economy",
+      "evidence": "She studied at the University Paris Diderot, the University of Tübingen and the University of Stuttgart, studying linguistics, political science and political economy.",
+      "sentence": 6
+    },
+    {
+      "institution": "University of Stuttgart",
+      "degree": "",
+      "field": "linguistics, political science and political economy",
+      "evidence": "She studied at the University Paris Diderot, the University of Tübingen and the University of Stuttgart, studying linguistics, political science and political economy.",
+      "sentence": 6
+    }
+  ],
+  "deepseek-chat|8f0c3022654e866b5d4b79c365872552d6bad18d88eb568767b2a52305107bee": [],
+  "deepseek-chat|64cc104fe12e45efc4ef880b179ba40eadd8c71200384d6a0d126b5d7e902185": [
+    {
+      "institution": "Medical University of Lublin",
+      "degree": "",
+      "field": "",
+      "evidence": "In 1981 she graduated from the Medical University of Lublin.",
+      "sentence": 13
+    }
+  ],
+  "deepseek-chat|52c4466baf7d69f798076025b6b79c638c23bded17a2e4d39be59e5dfc562992": [],
+  "deepseek-chat|23e790b80387df1e5c0e1136dfd539c4f0f42e6dfcefd48419ea8bf154c755e1": [],
+  "deepseek-chat|bd182883e411a8b64eebeb4f8a5d8e45523516b10c0d970b861d1549df560a37": [],
+  "deepseek-chat|a074121c3047066ad6189945b272fb0bf38fc7d8588e828880a22a3cf085b1f9": [
+    {
+      "institution": "Ludwig-Maximilians-Universität München",
+      "degree": "",
+      "field": "German letters, history and economics",
+      "evidence": "Born in Munich on 6 September 1915, as the second child of a butcher, Strauss studied German letters, history and economics at the Ludwig-Maximilians-Universität München from 1935 to 1939.",
+      "sentence": 8
+    }
+  ],
+  "deepseek-chat|6b0a275e092d7f97890ac768436bcda2bbc748f70713871c4de321c450edc954": [],
+  "deepseek-chat|4efdb3c41ebc422b2eb310690606739b6bad398858be18f78f302ff12374e2ef": [],
+  "deepseek-chat|c0bf40b116d86811b34a9ae70d8f5ba2120b9419ca02c7e646c3181e3016b545": [],
+  "deepseek-chat|e4b2f33e66cfe5676b21cdf1a5afdd23e3daec9538cf6c8541d3c56b973c4bb9": [
+    {
+      "institution": "",
+      "degree": "master's degree",
+      "field": "horticulture",
+      "evidence": "Hautala holds a master's degree in horticulture.",
+      "sentence": 8
+    }
+  ],
+  "deepseek-chat|9c3e49dda61dcfa01cbe4c582db6d75fa1df49cb5c865be763457a36d4a7fd42": [
+    {
+      "institution": "Faculty of Foreign Trade, Academy of Economic Studies Bucharest",
+      "degree": "Diploma",
+      "field": "Foreign Trade",
+      "evidence": "1971            Diploma in Foreign Trade Faculty of Foreign Trade, Academy of Economic Studies Bucharest",
+      "sentence": 5
+    },
+    {
+      "institution": "Institute of Political Sciences Bucharest",
+      "degree": "Doctorate",
+      "field": "Political Sciences",
+      "evidence": "1980,            Doctorate in Political Sciences, Institute of Political Sciences Bucharest",
+      "sentence": 5
+    }
+  ],
+  "deepseek-chat|bcd0c7c659729c28e9339ccb4c8ed8657cd7ab89e9085c3d735f91280b60b34f": [
+    {
+      "institution": "Technical University of Heavy Industry in Miskolc",
+      "degree": "",
+      "field": "Mechanical Engineering",
+      "evidence": "She graduated from the Faculty of Mechanical Engineering at the Technical University of Heavy Industry in Miskolc.",
+      "sentence": 2
+    }
+  ],
+  "deepseek-chat|f9d0c5416d6a096204fc5bb38ded9ab6cbbe5fe882f536045e3a14225a37d671": [],
+  "deepseek-chat|4b1711d0c10909ce53c31b814ca65cbee7263a59bd2c5b04b66b202cd8f77b95": [],
+  "deepseek-chat|ae307011d5c687a7379bfb952cf3f43cb8098435a11ccb520a9684bd5409cd3f": [
+    {
+      "institution": "Wroclaw University",
+      "degree": "",
+      "field": "",
+      "evidence": "Graduated from Wroclaw University where in the 80s of 20th century was a leader of anti communist student organization (NZS).",
+      "sentence": 1
+    },
+    {
+      "institution": "University of Wrocław",
+      "degree": "Graduate",
+      "field": "",
+      "evidence": "1994: Graduate of the University of Wrocław",
+      "sentence": 10
+    }
+  ],
+  "deepseek-chat|a7894ce9e559e100dfaa69c74a48620fa7e1d173b62525b6d4fd0c3c383a8edc": [],
+  "deepseek-chat|b0c4d3b1e9d811293dfa7cd5a4cffd1b2b638e6cd1a955a47149fcd2fa84d37a": [],
+  "deepseek-chat|28c787b2153048fc266823beb4b500dfc12084e849f1f10cd4f8f3bc16699cd1": [],
+  "deepseek-chat|facb2e661b3cf2639cbc7b831e67d5b07d7ac1fc12c15aa8a6876294b4833735": [
+    {
+      "institution": "Budapest University of Medicine",
+      "degree": "Professor's assistant",
+      "field": "Institute of Histology",
+      "evidence": "1969: Professor's assistant, Institute of Histology, Budapest University of Medicine",
+      "sentence": 5
+    },
+    {
+      "institution": "University of Further Medical Training",
+      "degree": "",
+      "field": "",
+      "evidence": "University of Further Medical Training",
+      "sentence": 5
+    }
+  ],
+  "deepseek-chat|2e0702bfdb0324374754e14f2bc5125684e030e8f5ea3b9604897c25c3c51b4b": [
+    {
+      "institution": "University of Marburg",
+      "degree": "",
+      "field": "",
+      "evidence": "Barley studied at the University of Marburg and the University of Paris-Sud.",
+      "sentence": 15
+    },
+    {
+      "institution": "University of Paris-Sud",
+      "degree": "",
+      "field": "",
+      "evidence": "Barley studied at the University of Marburg and the University of Paris-Sud.",
+      "sentence": 15
+    },
+    {
+      "institution": "",
+      "degree": "French law degree (Diplôme de droit français)",
+      "field": "law",
+      "evidence": "She graduated with a French law degree (Diplôme de droit français) in 1990 and a German law degree in 1993.",
+      "sentence": 16
+    },
+    {
+      "institution": "",
+      "degree": "German law degree",
+      "field": "law",
+      "evidence": "She graduated with a French law degree (Diplôme de droit français) in 1990 and a German law degree in 1993.",
+      "sentence": 16
+    },
+    {
+      "institution": "University of Münster",
+      "degree": "doctoral degree",
+      "field": "European law",
+      "evidence": "In 1998, she earned  a doctoral degree in European law at the University of Münster.",
+      "sentence": 17
+    }
+  ],
+  "deepseek-chat|fefc94da676b979d7676a452f1941ad884394e4b4829af0f4f477debeb25086f": [],
+  "deepseek-chat|b67efe7e0d44975e66ed293f35cbd05e36d09faafc79cc50847f2b6365246652": [
+    {
+      "institution": "Corvinus University of Budapest",
+      "degree": "degree",
+      "field": "economics",
+      "evidence": "Dobrev holds a degree in economics from Corvinus University of Budapest, and a law degree from Faculty of Law of the Eötvös Loránd University.",
+      "sentence": 4
+    },
+    {
+      "institution": "Faculty of Law of the Eötvös Loránd University",
+      "degree": "law degree",
+      "field": "law",
+      "evidence": "Dobrev holds a degree in economics from Corvinus University of Budapest, and a law degree from Faculty of Law of the Eötvös Loránd University.",
+      "sentence": 4
+    }
+  ],
+  "deepseek-chat|178eed4fa4eb402f81bbccb23821282637ee0e918094d0ac3b6b475f949f7ba1": [
+    {
+      "institution": "Central European University",
+      "degree": "MA",
+      "field": "sociology",
+      "evidence": "After getting an MA in sociology from the Warsaw campus of the Central European University on a scholarship from the Open Society Institute she went on to study anthropology in Britain, focusing on Romani issues and culture.",
+      "sentence": 5
+    },
+    {
+      "institution": "University College London",
+      "degree": "PhD",
+      "field": "Social Anthropology",
+      "evidence": "In 2012 she finished her PhD in Social Anthropology at the University College London.",
+      "sentence": 7
+    }
+  ],
+  "deepseek-chat|c83d54a974ecb374d6a7c56c601ece717c33573954f18e1469722093515a4ebf": [],
+  "deepseek-chat|fd800e6bcac099a4de0297a1a05b98eb3a8d2d6a11f590b7516cbfd5b2a947fd": [],
+  "deepseek-chat|2d3c45f8f0d1f19d9db191ddbc4599dda6a0f88e4b428f55622b96d25920abfa": [],
+  "deepseek-chat|a12aa1c1675faf682779b8f51f00ac2caea64d390fac60bb4df19dd982454cde": [
+    {
+      "institution": "Faculty of Natural Science at Comenius University in Bratislava",
+      "degree": "",
+      "field": "genetics",
+      "evidence": "He studied genetics at the Faculty of Natural Science at Comenius University in Bratislava and has been an environmental and social movement activist since 1993.",
+      "sentence": 5
+    },
+    {
+      "institution": "Grammar School Vazovova",
+      "degree": "",
+      "field": "",
+      "evidence": "He attended the Grammar School Vazovova.",
+      "sentence": 7
+    },
+    {
+      "institution": "Comenius University",
+      "degree": "",
+      "field": "",
+      "evidence": "After graduation, he studied at Comenius University.",
+      "sentence": 8
+    },
+    {
+      "institution": "Faculty of Natural Science at Comenius University in Bratislava",
+      "degree": "",
+      "field": "genetics",
+      "evidence": "From 1995 to 2001, he studied genetics at the Faculty of Natural Science at Comenius University in Bratislava.",
+      "sentence": 11
+    },
+    {
+      "institution": "Schumacher College",
+      "degree": "certificate",
+      "field": "leadership and teamwork",
+      "evidence": "He holds a certificate from Schumacher College with a focus on leadership and teamwork.",
+      "sentence": 13
+    }
+  ],
+  "deepseek-chat|580c903fd7eff7f434ac290704d72bf8297cd19a53b25bf783f1a2a9c6f4e728": [],
+  "deepseek-chat|875737a02dcc551fcfefbfd90f68a587276e34835c9e72f7a8ee44f037567968": [],
+  "deepseek-chat|a9ebd2f8390b317932c14619654873ec51f633c95e2ec6974ec8c47ce35ddfe4": [
+    {
+      "institution": "University of Frankfurt",
+      "degree": "",
+      "field": "law",
+      "evidence": "She went on to do an apprenticeship at Deutsche Bank from 1989 to 1991 before studying law at the University of Frankfurt from 1991 until 1997.",
+      "sentence": 4
+    }
+  ],
+  "deepseek-chat|2fa451833af291c772e91a3757cda1e74f9753ec55ac551ca267b4e7ee44cc6f": [],
+  "deepseek-chat|44305278a23260ed75556885af34e338c6023c605a897257ded136e02c58a82c": [],
+  "deepseek-chat|e246644559907843c4db0846bff827f9f16fda0cfbb110831461c29f94a1195f": [
+    {
+      "institution": "Charles University in Prague",
+      "degree": "bachelor's degree",
+      "field": "political sciences and international relations",
+      "evidence": "Šimečka earned a bachelor's degree in political sciences and international relations from the Charles University in Prague in 2006.",
+      "sentence": 5
+    },
+    {
+      "institution": "St Antony's College at the University of Oxford",
+      "degree": "MPhil",
+      "field": "Russian and East European Studies",
+      "evidence": "He obtained an MPhil in Russian and East European Studies at St Antony's College at the University of Oxford in 2008, before moving to Nuffield College, where he received a DPhil in Politics and International Relations in 2012.",
+      "sentence": 6
+    },
+    {
+      "institution": "Nuffield College",
+      "degree": "DPhil",
+      "field": "Politics and International Relations",
+      "evidence": "He obtained an MPhil in Russian and East European Studies at St Antony's College at the University of Oxford in 2008, before moving to Nuffield College, where he received a DPhil in Politics and International Relations in 2012.",
+      "sentence": 6
+    }
+  ],
+  "deepseek-chat|8c53dcaf120589b777699c65b1d77922d281b0f686a8b5aafedc4394afb63e69": [
+    {
+      "institution": "Faculty of Law, Charles University in Prague",
+      "degree": "",
+      "field": "Law",
+      "evidence": "He graduated from the Faculty of Law, Charles University in Prague, in 1986, and began working at the Ministry of Foreign Affairs.",
+      "sentence": 6
+    }
+  ],
+  "deepseek-chat|f7eecdf7dff1a9f4dd92d505de671bda37b7907e06858be90c6bc8bfb60d4b68": [
+    {
+      "institution": "University of Navarre",
+      "degree": "graduated",
+      "field": "Business Administration and Management",
+      "evidence": "In 1997, he graduated in Business Administration and Management from the University of Navarre.",
+      "sentence": 3
+    },
+    {
+      "institution": "London Business School",
+      "degree": "Executive MBA",
+      "field": "",
+      "evidence": "In 2007, he obtained an Executive MBA from London Business School.",
+      "sentence": 4
+    }
+  ],
+  "deepseek-chat|21915fd85c3af6eb4d56ee7484032b58d0be5e46d52617c38cffecbec71ba348": [
+    {
+      "institution": "University of Lisbon",
+      "degree": "master's degree",
+      "field": "Law",
+      "evidence": "Silva Pereira holds a master's degree in Law from the University of Lisbon.",
+      "sentence": 2
+    }
+  ],
+  "deepseek-chat|4a32d080e2eba9484aca474a9f27ef22937225b85f66859ac4b5a8736bba9f4e": [],
+  "deepseek-chat|10ca2c659333c38fc7538b8d60210381497ce0959979aa1ee3d02b669fceaf6e": [
+    {
+      "institution": "University of Vienna",
+      "degree": "Magister of Philosophy",
+      "field": "political science",
+      "evidence": "Magister of Philosophy, political science, University of Vienna (1996)",
+      "sentence": 5
+    },
+    {
+      "institution": "University of St. Gallen",
+      "degree": "Master of European and International Business Law (MBL)",
+      "field": "European and International Business Law",
+      "evidence": "Master of European and International Business Law (MBL), University of St. Gallen (1997)",
+      "sentence": 5
+    },
+    {
+      "institution": "University of Vienna",
+      "degree": "Doctor of Philosophy",
+      "field": "political science",
+      "evidence": "Doctor of Philosophy, political science, University of Vienna (2017)",
+      "sentence": 5
+    }
+  ],
+  "deepseek-chat|a0ee0e5e6009724c08b4c7aa3134d27abdd0ed626c51b4edaba70dd9ff22c639": [],
+  "deepseek-chat|1ae0c1294ec450eeadacc59979dc5da19d99f900caea25a8214fdc975ba5f73b": [],
+  "deepseek-chat|3a3d39e81545db04b446448a93ad865b3f5fc64f0789e73fc82a64ebb9f67813": [],
+  "deepseek-chat|647297ad0059eddb40fec38c48d084b1d9f7707aacf664deb36cee1c431ddc95": [],
+  "deepseek-chat|d8a2acee7bb2377938bfc5bb1cdb4f8f54df3411cdaa7cac2b3d1ea3ff7e93fb": [],
+  "deepseek-chat|261163195b19f631d6a6d390a37e2361b0b47dd3719bdacdc4a289c84f3f6c7d": [
+    {
+      "institution": "N. Zahle's School",
+      "degree": "",
+      "field": "",
+      "evidence": "She graduated from N. Zahle's School in 2014 and at the same time received Dr. Bach's memorial grant for special commitment to the subject of history.",
+      "sentence": 6
+    },
+    {
+      "institution": "University of Copenhagen",
+      "degree": "bachelor",
+      "field": "political science",
+      "evidence": "She has studied political science at the University of Copenhagen and in 2018 became a bachelor in the subject after writing an assignment on the democratic participation of young people in connection with the school elections.",
+      "sentence": 7
+    }
+  ],
+  "deepseek-chat|a165a923c695ccc949babfcff5b9f77eea0afcda1ce6fcbb6a3d4e6c638c4d4e": [
+    {
+      "institution": "Riga 25th high school",
+      "degree": "",
+      "field": "",
+      "evidence": "Zīle was born in Riga on 20 June 1958 and gained his first education in the Riga 25th high school.",
+      "sentence": 3
+    },
+    {
+      "institution": "University of Latvia, Faculty of Economics",
+      "degree": "baccalaureate degree",
+      "field": "economics",
+      "evidence": "After graduating in 1976, Zīle continued his education at the University of Latvia, Faculty of Economics, culminating in a baccalaureate degree in economics in 1981.",
+      "sentence": 4
+    },
+    {
+      "institution": "Latvian Institute of Agriculture and Agricultural Economics",
+      "degree": "",
+      "field": "",
+      "evidence": "In 1983, Zīle began part-time studies at the Latvian Institute of Agriculture and Agricultural Economics.",
+      "sentence": 5
+    },
+    {
+      "institution": "Latvian University of Agriculture",
+      "degree": "doctorate degree",
+      "field": "economics",
+      "evidence": "Finally, in 1997 Zīle gained a doctorate degree of economics from the  Latvian University of Agriculture.",
+      "sentence": 7
+    }
+  ],
+  "deepseek-chat|2f801e7946d3b56278df36baff6f390ac18464437ac907779cd84d75f89c5793": [
+    {
+      "institution": "IHECS",
+      "degree": "degree",
+      "field": "applied communication",
+      "evidence": "Wilmès has a degree in applied communication from IHECS and a degree in financial management (Saint-Louis University, Brussels).",
+      "sentence": 14
+    },
+    {
+      "institution": "Saint-Louis University, Brussels",
+      "degree": "degree",
+      "field": "financial management",
+      "evidence": "Wilmès has a degree in applied communication from IHECS and a degree in financial management (Saint-Louis University, Brussels).",
+      "sentence": 14
+    }
   ]
 }

@@ -15,7 +15,7 @@
 \maketitle
 
 \begin{abstract}
-We present a methodology for LLM-assisted research that anchors every claim to a specific sentence in a source document. The paper situates this methodological intervention within the diffuse field of elite research and the contested question of where power lies in the European Union. Using European institutional elites as a case study---commissioners, DGs, and MEP leaders across seven commission terms (1995--2029)---we demonstrate a pipeline that acquires and hashes controlled sources, segments them into sentences, uses LLMs to propose phrase-level claims, locates every quote deterministically, and submits uncertain evidence to a second adjudicator. The current build contains 5,404 claims, of which 4,063 are verified; 182 remain under review and 1,159 were rejected. The verified subset supports descriptive findings: commissioners concentrate in a small set of transnational policy organisations (ECFR, Friends of Europe, Bilderberg, Trilateral Commission), MEPs in parliamentary and party structures, and DGs in the College of Europe; education is organised around parallel institutional tracks rather than a single pipeline. We report on failure modes encountered---LLM hallucination, non-deterministic extraction, entity duplication, and the limits of string-similarity matching---and describe the methodological choices that address each.
+We present a methodology for LLM-assisted research that anchors every claim to a specific sentence in a source document. The paper situates this methodological intervention within the diffuse field of elite research and the contested question of where power lies in the European Union. Using European institutional elites as a case study---commissioners, DGs, and MEP leaders across seven commission terms (1995--2029)---we demonstrate a pipeline that acquires and hashes controlled sources, segments them into sentences, uses LLMs to propose phrase-level claims, locates every quote deterministically, and submits uncertain evidence to a second adjudicator. The current build contains 5,462 claims, of which 4,122 are verified; 186 remain under review and 1,154 were rejected. The verified subset supports descriptive findings: commissioners concentrate in a small set of transnational policy organisations (ECFR, Friends of Europe, Bilderberg, Trilateral Commission), MEPs in parliamentary and party structures, and DGs in the College of Europe; education is organised around parallel institutional tracks rather than a single pipeline. We report on failure modes encountered---LLM hallucination, non-deterministic extraction, entity duplication, and the limits of string-similarity matching---and describe the methodological choices that address each.
 \end{abstract}
 
 \section{Introduction}
@@ -66,7 +66,7 @@ In sum, the study of ``elites'' is the study of many different things: rising el
 
 The step we take is methodological. The evidentiary challenge follows from the conceptual one. Elite formation is distributed across 27 member states with distinct educational systems, career pathways, and political cultures; the networks that connect these elites cross national boundaries and institutional sectors \cite{heemskerk2013}; and the relevant evidence is scattered across biographies, CVs, declarations of interest, and institutional records. Capturing it requires aggregating data across languages, jurisdictions, and source types, while keeping every claim traceable to its source.
 
-The remainder of this paper describes a methodology that treats the LLM as an extraction engine, not an authority. Every claim in our database is linked to a specific sentence in a specific document. The LLM's output is a hypothesis, verified against the source before acceptance. The current build contains 5,404 claims, of which 4,063 are verified, across 3,591 entities and 707 hashed source documents. It supports analysis of seven European Commissions from Santer (1995) through Von der Leyen II (2024--2029).
+The remainder of this paper describes a methodology that treats the LLM as an extraction engine, not an authority. Every claim in our database is linked to a specific sentence in a specific document. The LLM's output is a hypothesis, verified against the source before acceptance. The current build contains 5,462 claims, of which 4,122 are verified, across 3,631 entities and 783 hashed source documents. It supports analysis of seven European Commissions from Santer (1995) through Von der Leyen II (2024--2029).
 
 \section{Methodology}
 
@@ -123,9 +123,9 @@ Organisation type, funding, headquarters, and descriptions are stored in \texttt
 
 \section{Wiki Output and Human Review}
 
-The verified layer renders to a static wiki with 3,172 pages: 414 people, 2,299 organisations, 7 commissions, 448 source documents, plus index, statistics, and citation pages. Each page shows only verified assertions, with role, date, quote, evidence grade, and a link to the source document. Internal links are Obsidian wikilinks; source pages are filtered from the default graph view, so the browsing graph is not dominated by document nodes.
+The verified layer renders to a static wiki with 3,280 pages: 446 people, 2,341 organisations, 7 commissions, 482 source documents, plus index, statistics, and citation pages. Each page shows only verified assertions, with role, date, quote, evidence grade, and a link to the source document. Internal links are Obsidian wikilinks; source pages are filtered from the default graph view, so the browsing graph is not dominated by document nodes.
 
-The typed graph is exported separately: 2,857 nodes and 3,621 edges, of which 2,613 are network edges, 551 education, 361 occupational, 94 institutional, and 2 other. The graph is not an Obsidian screenshot: \texttt{nodes.csv}, \texttt{edges.csv}, and \texttt{graph.graphml} carry edge class, predicate, role, grade, quote, document path, SHA-256, and a URL where the source is a public web page. Obsidian is a browsing view; the analysis uses the export.
+The typed graph is exported separately: 2,933 nodes and 3,680 edges, of which 2,613 are network edges, 610 education, 361 occupational, 94 institutional, and 2 other. The graph is not an Obsidian screenshot: \texttt{nodes.csv}, \texttt{edges.csv}, and \texttt{graph.graphml} carry edge class, predicate, role, grade, quote, document path, SHA-256, and a URL where the source is a public web page. Obsidian is a browsing view; the analysis uses the export.
 
 \begin{figure}[htbp]
 \centering
@@ -145,7 +145,7 @@ The review layer is explicit. Assertions that the deterministic checks cannot se
 
 \section{Findings}
 
-The following findings describe the verified subset, not the larger candidate pool. The dataset covers 150 commissioners, 162 MEP-only entities (168 MEPs in the frame; some are merged with commissioner records), 85 DGs and DDGs, 79 corporate elites, and 37 CJEU members. Coverage is uneven: commissioner education is verified for 118/150, DG/DDG for 70/85, MEP for 69/162, corporate for 59/79, and CJEU for 11/37. We therefore report descriptive patterns and avoid claims that depend on the unverified remainder.
+The following findings describe the verified subset, not the larger candidate pool. The dataset covers 150 commissioners, 162 MEP-only entities (168 MEPs in the frame; some are merged with commissioner records), 85 DGs and DDGs, 79 corporate elites, and 37 CJEU members. Coverage is uneven: commissioner education is verified for 119/150, DG/DDG for 74/85, MEP for 91/162, corporate for 59/79, and CJEU for 18/37. We therefore report descriptive patterns and avoid claims that depend on the unverified remainder.
 
 \subsection{Elite Network Structure}
 
@@ -183,7 +183,7 @@ Among French commissioners with verified education, Pascal Lamy (ENA, HEC, Scien
 
 \section{Future Work}
 
-Coverage remains uneven: commissioner education 118/150 and organisation affiliation 137/150; DG/DDG 70/85 and 20/85; MEP 69/162 and 118/162; corporate 59/79 and 29/79; CJEU 11/37 and 2/37. Three tasks follow. First, work the 182 \texttt{needs\_review} assertions and run the grade-A second judge. Second, acquire the missing sources for the corporate, CJEU, DG/DDG, and MEP populations rather than treating their absence as negative evidence. Third, add a formal overrepresentation metric based on Eurostat tertiary education statistics, so claims of elite signalling can be tested against population baselines. Extending the frame to General Court judges and national officials is a further source-acquisition task.
+Coverage remains uneven: commissioner education 119/150 and organisation affiliation 137/150; DG/DDG 74/85 and 20/85; MEP 91/162 and 118/162; corporate 59/79 and 29/79; CJEU 18/37 and 2/37. Three tasks follow. First, work the 186 \texttt{needs\_review} assertions and run the grade-A second judge. Second, acquire the missing sources for the corporate, CJEU, DG/DDG, and MEP populations rather than treating their absence as negative evidence. Third, add a formal overrepresentation metric based on Eurostat tertiary education statistics, so claims of elite signalling can be tested against population baselines. Extending the frame to General Court judges and national officials is a further source-acquisition task.
 
 \section{Conclusion}
 

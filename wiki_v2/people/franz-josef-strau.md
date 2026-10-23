@@ -14,7 +14,13 @@ generated: 2026-10-23
 
 Mep
 
-*Verified assertions: 5*
+*Verified assertions: 6*
+
+## Education
+
+- [[organisations/ludwig-maximilians-universitat-munchen|Ludwig-Maximilians-Universität München]]  
+  > "Born in Munich on 6 September 1915, as the second child of a butcher, Strauss studied German letters, history and economics at the Ludwig-Maximilians-Universität München from 1935 to 1939."
+  > Source: [[sources/wikipedia-edu-franz-josef-strau|Franz Josef Strauss]] · grade A
 
 ## Membership
 

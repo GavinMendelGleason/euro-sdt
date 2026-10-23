@@ -1,12 +1,12 @@
 {
   "excluded_quarantined_endpoints": 25,
   "all_verified": {
-    "nodes": 2857,
-    "edges": 3621,
-    "unique_pairs": 3422,
+    "nodes": 2933,
+    "edges": 3680,
+    "unique_pairs": 3481,
     "edges_by_class": {
       "network": 2613,
-      "education": 551,
+      "education": 610,
       "occupational": 361,
       "other": 2,
       "institutional": 94
@@ -17,7 +17,7 @@
       "attendee": 26,
       "board_member": 353,
       "chair": 502,
-      "educated_at": 551,
+      "educated_at": 610,
       "employed_by": 360,
       "fellow": 18,
       "founder": 62,
@@ -27,19 +27,19 @@
       "served_on_commission": 94
     },
     "edges_by_grade": {
-      "A": 2641,
+      "A": 2699,
       "C": 530,
-      "B": 450
+      "B": 451
     },
     "degree": {
       "max": 72,
-      "mean": 2.4,
-      "degree_1": 2158,
-      "degree_ge_3": 452
+      "mean": 2.37,
+      "degree_1": 2207,
+      "degree_ge_3": 463
     },
     "components": {
-      "count": 75,
-      "largest": 2618,
+      "count": 94,
+      "largest": 2644,
       "singletons": 0
     },
     "top_hubs": [
@@ -165,20 +165,20 @@
       }
     ],
     "kind_mixing": {
-      "person->organisation": 2939,
-      "person->institution": 404,
-      "person->university": 172,
+      "person->organisation": 2940,
+      "person->institution": 454,
+      "person->university": 180,
       "person->commission": 103,
       "person->person": 3
     }
   },
   "grade_a_only": {
-    "nodes": 2236,
-    "edges": 2641,
-    "unique_pairs": 2539,
+    "nodes": 2310,
+    "edges": 2699,
+    "unique_pairs": 2597,
     "edges_by_class": {
       "network": 1910,
-      "education": 446,
+      "education": 504,
       "occupational": 208,
       "institutional": 77
     },
@@ -188,7 +188,7 @@
       "attendee": 13,
       "board_member": 311,
       "chair": 429,
-      "educated_at": 446,
+      "educated_at": 504,
       "employed_by": 208,
       "fellow": 14,
       "founder": 28,
@@ -196,17 +196,17 @@
       "served_on_commission": 77
     },
     "edges_by_grade": {
-      "A": 2641
+      "A": 2699
     },
     "degree": {
       "max": 44,
-      "mean": 2.27,
-      "degree_1": 1672,
-      "degree_ge_3": 359
+      "mean": 2.25,
+      "degree_1": 1716,
+      "degree_ge_3": 368
     },
     "components": {
-      "count": 89,
-      "largest": 1909,
+      "count": 107,
+      "largest": 1929,
       "singletons": 0
     },
     "top_hubs": [
@@ -332,9 +332,9 @@
       }
     ],
     "kind_mixing": {
-      "person->organisation": 2109,
-      "person->institution": 305,
-      "person->university": 145,
+      "person->organisation": 2110,
+      "person->institution": 354,
+      "person->university": 153,
       "person->commission": 79,
       "person->person": 3
     }

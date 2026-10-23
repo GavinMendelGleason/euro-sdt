@@ -1,13 +1,12 @@
 person_id,name,category,local_docs,doc_kinds,suggested_sources
 adina-ioana-valean,Adina-Ioana Vălean,commissioner,2,wikipedia,Commission person page; Wikipedia; official CV; declaration of interests
 anna-diamantopoulou,Anna Diamantopoulou,commissioner,1,wikipedia,Commission person page; Wikipedia; official CV; declaration of interests
-corina-cretu,Corina Crețu,commissioner,0,,Commission person page; Wikipedia; official CV; declaration of interests
+corina-cretu,Corina Crețu,commissioner,2,wikipedia,Commission person page; Wikipedia; official CV; declaration of interests
 dacian-ciolos,Dacian Cioloş,commissioner,2,revolving_door;wikipedia,Commission person page; Wikipedia; official CV; declaration of interests
-didier-reynders,Didier Reynders,commissioner,0,,Commission person page; Wikipedia; official CV; declaration of interests
-edith-cresson,Edith Cresson,commissioner,0,,Commission person page; Wikipedia; official CV; declaration of interests
+edith-cresson,Edith Cresson,commissioner,2,wikipedia,Commission person page; Wikipedia; official CV; declaration of interests
 elisa-ferreira,Elisa Ferreira,commissioner,2,revolving_door;wikipedia,Commission person page; Wikipedia; official CV; declaration of interests
 ferdinando-nelli-feroci,Ferdinando Nelli Feroci,commissioner,2,revolving_door;wikipedia,Commission person page; Wikipedia; official CV; declaration of interests
-franco-frattini,Franco Frattini,commissioner,0,,Commission person page; Wikipedia; official CV; declaration of interests
+franco-frattini,Franco Frattini,commissioner,2,wikipedia,Commission person page; Wikipedia; official CV; declaration of interests
 frits-bolkestein,Frits Bolkestein,commissioner,1,wikipedia,Commission person page; Wikipedia; official CV; declaration of interests
 glenn-micallef,Glenn Micallef,commissioner,2,declaration;wikipedia,Commission person page; Wikipedia; official CV; declaration of interests
 helena-dalli,Helena Dalli,commissioner,1,wikipedia,Commission person page; Wikipedia; official CV; declaration of interests
@@ -15,11 +14,11 @@ jacques-barrot,Jacques Barrot,commissioner,1,wikipedia,Commission person page; W
 janusz-wojciechowski,Janusz Wojciechowski,commissioner,2,revolving_door;wikipedia,Commission person page; Wikipedia; official CV; declaration of interests
 john-dalli,John Dalli,commissioner,1,wikipedia,Commission person page; Wikipedia; official CV; declaration of interests
 josep-borrell,Josep Borrell,commissioner,2,revolving_door;wikipedia,Commission person page; Wikipedia; official CV; declaration of interests
-josep-borrell-fontelles,Josep Borrell Fontelles,commissioner,0,,Commission person page; Wikipedia; official CV; declaration of interests
+josep-borrell-fontelles,Josep Borrell Fontelles,commissioner,2,wikipedia,Commission person page; Wikipedia; official CV; declaration of interests
 josep-borrell-i-fontelles,Josep Borrell I Fontelles,commissioner,1,revolving_door,Commission person page; Wikipedia; official CV; declaration of interests
 jozef-sikela,Jozef Síkela,commissioner,2,declaration;wikipedia,Commission person page; Wikipedia; official CV; declaration of interests
-louis-michel,Louis Michel,commissioner,0,,Commission person page; Wikipedia; official CV; declaration of interests
-laszlo-kovacs,László Kovács,commissioner,0,,Commission person page; Wikipedia; official CV; declaration of interests
+louis-michel,Louis Michel,commissioner,2,wikipedia,Commission person page; Wikipedia; official CV; declaration of interests
+laszlo-kovacs,László Kovács,commissioner,2,wikipedia,Commission person page; Wikipedia; official CV; declaration of interests
 mairead-mcguinness,Mairead McGuinness,commissioner,1,wikipedia,Commission person page; Wikipedia; official CV; declaration of interests
 margot-wallstrom,Margot Wallström,commissioner,1,wikipedia,Commission person page; Wikipedia; official CV; declaration of interests
 margrethe-vestager,Margrethe Vestager,commissioner,2,revolving_door;wikipedia,Commission person page; Wikipedia; official CV; declaration of interests
@@ -29,114 +28,88 @@ oliver-varhelyi,Olivér Várhelyi,commissioner,1,declaration,Commission person p
 pedro-solbes,Pedro Solbes,commissioner,1,wikipedia,Commission person page; Wikipedia; official CV; declaration of interests
 philippe-busquin,Philippe Busquin,commissioner,1,wikipedia,Commission person page; Wikipedia; official CV; declaration of interests
 raffaele-fitto,Raffaele Fitto,commissioner,2,declaration;wikipedia,Commission person page; Wikipedia; official CV; declaration of interests
-vladimir-spidla,Vladimír Špidla,commissioner,0,,Commission person page; Wikipedia; official CV; declaration of interests
+vladimir-spidla,Vladimír Špidla,commissioner,2,wikipedia,Commission person page; Wikipedia; official CV; declaration of interests
 yves-thibault-de-silguy,Yves-Thibault de Silguy,commissioner,1,wikipedia,Commission person page; Wikipedia; official CV; declaration of interests
 alberto-de-gregorio-merino,Alberto De Gregorio Merino,dg,0,,Commission DG CV PDF; EU Whoiswho; official CV
-athanasios-thanopoulos,Athanasios Thanopoulos,dg,0,,Commission DG CV PDF; EU Whoiswho; official CV
 bernard-magenhann,Bernard Magenhann,dg,1,dg_cv,Commission DG CV PDF; EU Whoiswho; official CV
-celine-gauer,Céline Gauer,dg,0,,Commission DG CV PDF; EU Whoiswho; official CV
 ditte-juul-jrgensen,Ditte Juul Jørgensen,dg,1,dg_cv,Commission DG CV PDF; EU Whoiswho; official CV
 eric-mamer,Eric Mamer,dg,0,,Commission DG CV PDF; EU Whoiswho; official CV
 hugo-sobral,Hugo Sobral,dg,1,dg_cv,Commission DG CV PDF; EU Whoiswho; official CV
-idilko-horvath,Idilkó Horváth,dg,0,,Commission DG CV PDF; EU Whoiswho; official CV
-jan-dusik,Jan Dusík,dg,0,,Commission DG CV PDF; EU Whoiswho; official CV
+idilko-horvath,Idilkó Horváth,dg,1,wikipedia,Commission DG CV PDF; EU Whoiswho; official CV
 john-berrigan,John Berrigan,dg,1,dg_cv,Commission DG CV PDF; EU Whoiswho; official CV
 petr-klement,Petr Klement,dg,0,,Commission DG CV PDF; EU Whoiswho; official CV
 pierre-bascou,Pierre Bascou,dg,0,,Commission DG CV PDF; EU Whoiswho; official CV
-stephanie-riso,Stéphanie Riso,dg,0,,Commission DG CV PDF; EU Whoiswho; official CV
 valere-moutarlier,Valère Moutarlier,dg,0,,Commission DG CV PDF; EU Whoiswho; official CV
 pascal-leardini,Pascal Leardini,ddg,0,,Commission DG CV PDF; EU Whoiswho; official CV
 adam-bielan,Adam Bielan,mep,1,wikipedia,European Parliament member page; national party biography; Wikipedia
-adina-valean,Adina Vălean,mep,0,,European Parliament member page; national party biography; Wikipedia
+adina-valean,Adina Vălean,mep,1,wikipedia,European Parliament member page; national party biography; Wikipedia
 alain-cadec,Alain Cadec,mep,1,wikipedia,European Parliament member page; national party biography; Wikipedia
-alejo-vidal-quadras,Alejo Vidal-Quadras,mep,0,,European Parliament member page; national party biography; Wikipedia
-alexander-alvaro,Alexander Alvaro,mep,0,,European Parliament member page; national party biography; Wikipedia
+alejo-vidal-quadras,Alejo Vidal-Quadras,mep,1,wikipedia,European Parliament member page; national party biography; Wikipedia
+alexander-alvaro,Alexander Alvaro,mep,1,wikipedia,European Parliament member page; national party biography; Wikipedia
 alexander-jungbluth,Alexander Jungbluth,mep,1,wikipedia,European Parliament member page; national party biography; Wikipedia
-alliance-of-liberals-and-democrats-for-europe,Alliance of Liberals and Democrats for Europe,mep,0,,European Parliament member page; national party biography; Wikipedia
-alonso-jose-puerta,Alonso José Puerta,mep,0,,European Parliament member page; national party biography; Wikipedia
+alliance-of-liberals-and-democrats-for-europe,Alliance of Liberals and Democrats for Europe,mep,1,wikipedia,European Parliament member page; national party biography; Wikipedia
+alonso-jose-puerta,Alonso José Puerta,mep,1,wikipedia,European Parliament member page; national party biography; Wikipedia
 anders-wijkman,Anders Wijkman,mep,1,wikipedia,European Parliament member page; national party biography; Wikipedia
 anni-podimata,Anni Podimata,mep,0,,European Parliament member page; national party biography; Wikipedia
-antonella-sberna,Antonella Sberna,mep,0,,European Parliament member page; national party biography; Wikipedia
-antonio-costa,António Costa,mep,0,,European Parliament member page; national party biography; Wikipedia
+antonella-sberna,Antonella Sberna,mep,1,wikipedia,European Parliament member page; national party biography; Wikipedia
 carlo-tognoli,Carlo Tognoli,mep,1,wikipedia,European Parliament member page; national party biography; Wikipedia
-christel-schaldemose,Christel Schaldemose,mep,0,,European Parliament member page; national party biography; Wikipedia
+christel-schaldemose,Christel Schaldemose,mep,1,wikipedia,European Parliament member page; national party biography; Wikipedia
 cristiana-muscardini,Cristiana Muscardini,mep,1,wikipedia,European Parliament member page; national party biography; Wikipedia
 dagmar-roth-behrendt,Dagmar Roth-Behrendt,mep,1,wikipedia,European Parliament member page; national party biography; Wikipedia
 daniel-cohn-bendit,Daniel Cohn-Bendit,mep,1,wikipedia,European Parliament member page; national party biography; Wikipedia
 diana-wallis,Diana Wallis,mep,1,wikipedia,European Parliament member page; national party biography; Wikipedia
 dick-erixon,Dick Erixon,mep,1,wikipedia,European Parliament member page; national party biography; Wikipedia
 dimitrios-adamou,Dimitrios Adamou,mep,1,wikipedia,European Parliament member page; national party biography; Wikipedia
-dita-charanzova,Dita Charanzová,mep,0,,European Parliament member page; national party biography; Wikipedia
 euractiv,EURACTIV,mep,1,wikipedia,European Parliament member page; national party biography; Wikipedia
 edward-mcmillan-scott,Edward McMillan-Scott,mep,1,wikipedia,European Parliament member page; national party biography; Wikipedia
-esteban-gonzalez-pons,Esteban González Pons,mep,0,,European Parliament member page; national party biography; Wikipedia
-eva-kaili,Eva Kaili,mep,0,,European Parliament member page; national party biography; Wikipedia
-evelyn-regner,Evelyn Regner,mep,0,,European Parliament member page; national party biography; Wikipedia
-evelyne-gebhardt,Evelyne Gebhardt,mep,0,,European Parliament member page; national party biography; Wikipedia
-ewa-kopacz,Ewa Kopacz,mep,0,,European Parliament member page; national party biography; Wikipedia
-fabio-massimo-castaldo,Fabio Massimo Castaldo,mep,0,,European Parliament member page; national party biography; Wikipedia
-franz-josef-strau,Franz Josef Strauß,mep,0,,European Parliament member page; national party biography; Wikipedia
-georgios-papastamkos,Georgios Papastamkos,mep,0,,European Parliament member page; national party biography; Wikipedia
+esteban-gonzalez-pons,Esteban González Pons,mep,1,wikipedia,European Parliament member page; national party biography; Wikipedia
+fabio-massimo-castaldo,Fabio Massimo Castaldo,mep,1,wikipedia,European Parliament member page; national party biography; Wikipedia
+georgios-papastamkos,Georgios Papastamkos,mep,1,wikipedia,European Parliament member page; national party biography; Wikipedia
 giorgio-napolitano,Giorgio Napolitano,mep,1,wikipedia,European Parliament member page; national party biography; Wikipedia
 giovanni-pittella,Giovanni Pittella,mep,1,wikipedia,European Parliament member page; national party biography; Wikipedia
-gerard-onesta,Gérard Onesta,mep,0,,European Parliament member page; national party biography; Wikipedia
+gerard-onesta,Gérard Onesta,mep,1,wikipedia,European Parliament member page; national party biography; Wikipedia
 hadar-cars,Hadar Cars,mep,1,wikipedia,European Parliament member page; national party biography; Wikipedia
-heidi-hautala,Heidi Hautala,mep,0,,European Parliament member page; national party biography; Wikipedia
-ildiko-pelczne-gall,Ildikó Pelczné Gáll,mep,0,,European Parliament member page; national party biography; Wikipedia
+heidi-hautala,Heidi Hautala,mep,1,wikipedia,European Parliament member page; national party biography; Wikipedia
+ildiko-pelczne-gall,Ildikó Pelczné Gáll,mep,1,wikipedia,European Parliament member page; national party biography; Wikipedia
 ingo-friedrich,Ingo Friedrich,mep,1,wikipedia,European Parliament member page; national party biography; Wikipedia
-ioan-mircea-pascu,Ioan Mircea Pașcu,mep,0,,European Parliament member page; national party biography; Wikipedia
 isabelle-le-callennec,Isabelle Le Callennec,mep,1,wikipedia,European Parliament member page; national party biography; Wikipedia
-jacek-protasiewicz,Jacek Protasiewicz,mep,0,,European Parliament member page; national party biography; Wikipedia
-javi-lopez-fernandez,Javi López Fernández,mep,0,,European Parliament member page; national party biography; Wikipedia
+javi-lopez-fernandez,Javi López Fernández,mep,1,wikipedia,European Parliament member page; national party biography; Wikipedia
 jens-peter-bonde,Jens-Peter Bonde,mep,1,wikipedia,European Parliament member page; national party biography; Wikipedia
-jiri-mastalka,Jiří Maštálka,mep,0,,European Parliament member page; national party biography; Wikipedia
+jiri-mastalka,Jiří Maštálka,mep,1,wikipedia,European Parliament member page; national party biography; Wikipedia
 joseph-daul,Joseph Daul,mep,1,wikipedia,European Parliament member page; national party biography; Wikipedia
-katarina-barley,Katarina Barley,mep,0,,European Parliament member page; national party biography; Wikipedia
-klaus-hansch,Klaus Hänsch,mep,0,,European Parliament member page; national party biography; Wikipedia
-klara-dobrev,Klára Dobrev,mep,0,,European Parliament member page; national party biography; Wikipedia
+klaus-hansch,Klaus Hänsch,mep,1,wikipedia,European Parliament member page; national party biography; Wikipedia
 lena-ek,Lena Ek,mep,1,wikipedia,European Parliament member page; national party biography; Wikipedia
 liisa-jaakonsaari,Liisa Jaakonsaari,mep,1,wikipedia,European Parliament member page; national party biography; Wikipedia
 luigi-cocilovo,Luigi Cocilovo,mep,1,wikipedia,European Parliament member page; national party biography; Wikipedia
 luisa-morgantini,Luisa Morgantini,mep,1,wikipedia,European Parliament member page; national party biography; Wikipedia
-laszlo-surjan,László Surján,mep,0,,European Parliament member page; national party biography; Wikipedia
-livia-jaroka,Lívia Járóka,mep,0,,European Parliament member page; national party biography; Wikipedia
 manfred-weber,Manfred Weber,mep,1,wikipedia,European Parliament member page; national party biography; Wikipedia
-manuel-antonio-dos-santos,Manuel António Dos Santos,mep,0,,European Parliament member page; national party biography; Wikipedia
-marcel-kolaja,Marcel Kolaja,mep,0,,European Parliament member page; national party biography; Wikipedia
-martin-hojsik,Martin Hojsík,mep,0,,European Parliament member page; national party biography; Wikipedia
+manuel-antonio-dos-santos,Manuel António Dos Santos,mep,1,wikipedia,European Parliament member page; national party biography; Wikipedia
+marcel-kolaja,Marcel Kolaja,mep,1,wikipedia,European Parliament member page; national party biography; Wikipedia
 martin-schulz,Martin Schulz,mep,1,wikipedia,European Parliament member page; national party biography; Wikipedia
 max-gallo,Max Gallo,mep,1,wikipedia,European Parliament member page; national party biography; Wikipedia
 mechtild-rothe,Mechtild Rothe,mep,1,wikipedia,European Parliament member page; national party biography; Wikipedia
 mia-de-vits,Mia De Vits,mep,1,wikipedia,European Parliament member page; national party biography; Wikipedia
-michal-simecka,Michal Šimečka,mep,0,,European Parliament member page; national party biography; Wikipedia
-micha-kaminski,Michał Kamiński,mep,0,,European Parliament member page; national party biography; Wikipedia
-miguel-angel-martinez-martinez,Miguel Angel Martínez Martínez,mep,0,,European Parliament member page; national party biography; Wikipedia
+micha-kaminski,Michał Kamiński,mep,1,wikipedia,European Parliament member page; national party biography; Wikipedia
+miguel-angel-martinez-martinez,Miguel Angel Martínez Martínez,mep,1,wikipedia,European Parliament member page; national party biography; Wikipedia
 monica-frassoni,Monica Frassoni,mep,1,wikipedia,European Parliament member page; national party biography; Wikipedia
-nicola-beer,Nicola Beer,mep,0,,European Parliament member page; national party biography; Wikipedia
 nicolae-stefanuta,Nicolae Ștefănuță,mep,0,,European Parliament member page; national party biography; Wikipedia
 nigel-farage,Nigel Farage,mep,1,wikipedia,European Parliament member page; national party biography; Wikipedia
-oldrich-vlasak,Oldřich Vlasák,mep,0,,European Parliament member page; national party biography; Wikipedia
-othmar-karas,Othmar Karas,mep,0,,European Parliament member page; national party biography; Wikipedia
+oldrich-vlasak,Oldřich Vlasák,mep,1,wikipedia,European Parliament member page; national party biography; Wikipedia
 outi-ojala,Outi Ojala,mep,1,wikipedia,European Parliament member page; national party biography; Wikipedia
-pablo-zalba-bidegain,Pablo Zalba Bidegain,mep,0,,European Parliament member page; national party biography; Wikipedia
-pavel-telicka,Pavel Telička,mep,0,,European Parliament member page; national party biography; Wikipedia
-pedro-silva-pereira,Pedro Silva Pereira,mep,0,,European Parliament member page; national party biography; Wikipedia
 pertti-paasio,Pertti Paasio,mep,1,wikipedia,European Parliament member page; national party biography; Wikipedia
-pina-picierno,Pina Picierno,mep,0,,European Parliament member page; national party biography; Wikipedia
-ramon-luis-valcarcel,Ramón Luis Valcárcel,mep,0,,European Parliament member page; national party biography; Wikipedia
-roberts-zile,Roberts Zīle,mep,0,,European Parliament member page; national party biography; Wikipedia
+pina-picierno,Pina Picierno,mep,1,wikipedia,European Parliament member page; national party biography; Wikipedia
+ramon-luis-valcarcel,Ramón Luis Valcárcel,mep,1,wikipedia,European Parliament member page; national party biography; Wikipedia
 rodi-kratsa-tsagaropoulou,Rodi Kratsa-Tsagaropoulou,mep,1,wikipedia,European Parliament member page; national party biography; Wikipedia
-sabine-verheyen,Sabine Verheyen,mep,0,,European Parliament member page; national party biography; Wikipedia
+sabine-verheyen,Sabine Verheyen,mep,1,wikipedia,European Parliament member page; national party biography; Wikipedia
 sebastian-tynkkynen,Sebastian Tynkkynen,mep,1,wikipedia,European Parliament member page; national party biography; Wikipedia
-sigrid-friis-proschowsky,Sigrid Friis Proschowsky,mep,0,,European Parliament member page; national party biography; Wikipedia
 silvana-koch-mehrin,Silvana Koch-Mehrin,mep,1,wikipedia,European Parliament member page; national party biography; Wikipedia
-sophie-wilmes,Sophie Wilmès,mep,0,,European Parliament member page; national party biography; Wikipedia
+sophie-wilmes,Sophie Wilmès,mep,1,wikipedia,European Parliament member page; national party biography; Wikipedia
 sylvia-yvonne-kaufmann,Sylvia-Yvonne Kaufmann,mep,1,wikipedia,European Parliament member page; national party biography; Wikipedia
 sylvie-guillaume,Sylvie Guillaume,mep,1,wikipedia,European Parliament member page; national party biography; Wikipedia
 teresa-riera,Teresa Riera,mep,1,wikipedia,European Parliament member page; national party biography; Wikipedia
 torben-lund,Torben Lund,mep,1,wikipedia,European Parliament member page; national party biography; Wikipedia
 ulrike-lunacek,Ulrike Lunacek,mep,1,wikipedia,European Parliament member page; national party biography; Wikipedia
-victor-negrescu,Victor Negrescu,mep,0,,European Parliament member page; national party biography; Wikipedia
+victor-negrescu,Victor Negrescu,mep,1,wikipedia,European Parliament member page; national party biography; Wikipedia
 younous-omarjee,Younous Omarjee,mep,0,,European Parliament member page; national party biography; Wikipedia
 elisabeth-morin,Élisabeth Morin,mep,0,,European Parliament member page; national party biography; Wikipedia
 anders-ditlev-clausager,Anders Ditlev Clausager,corporate_elite,0,,Company leadership page; annual report; Wikipedia
@@ -146,7 +119,7 @@ gina-vargiu-breuer,Gina Vargiu-Breuer,corporate_elite,0,,Company leadership page
 giuseppina-di-foggia,Giuseppina Di Foggia,corporate_elite,0,,Company leadership page; annual report; Wikipedia
 ignacio-galan,Ignacio Galán,corporate_elite,0,,Company leadership page; annual report; Wikipedia
 jean-lemierre,Jean Lemierre,corporate_elite,2,wikipedia,Company leadership page; annual report; Wikipedia
-jose-ignacio-sanchez-galan,José Ignacio Sánchez Galán,corporate_elite,0,,Company leadership page; annual report; Wikipedia
+jose-ignacio-sanchez-galan,José Ignacio Sánchez Galán,corporate_elite,1,wikipedia,Company leadership page; annual report; Wikipedia
 jose-sainz-armada,José Sainz Armada,corporate_elite,0,,Company leadership page; annual report; Wikipedia
 julia-white,Julia White,corporate_elite,0,,Company leadership page; annual report; Wikipedia
 laurent-freixe,Laurent Freixe,corporate_elite,1,wikipedia,Company leadership page; annual report; Wikipedia
@@ -162,26 +135,19 @@ vincent-clerc,Vincent Clerc,corporate_elite,1,wikipedia,Company leadership page;
 aleksander-arabadjiev,Aleksander Arabadjiev,cjeu_judge,0,,CURIA member biography; Wikipedia; national judicial profile
 beatrix-ricziova,Beatrix Ricziová,cjeu_judge,0,,CURIA member biography; Wikipedia; national judicial profile
 dragos-bogdan-raduletu,Dragos-Bogdan Raduletu,cjeu_judge,0,,CURIA member biography; Wikipedia; national judicial profile
-francois-biltgen,François Biltgen,cjeu_judge,0,,CURIA member biography; Wikipedia; national judicial profile
+francois-biltgen,François Biltgen,cjeu_judge,1,wikipedia,CURIA member biography; Wikipedia; national judicial profile
 ingunn-ikdahl,Ingunn Ikdahl,cjeu_judge,0,,CURIA member biography; Wikipedia; national judicial profile
 jean-claude-bonichot,Jean-Claude Bonichot,cjeu_judge,0,,CURIA member biography; Wikipedia; national judicial profile
-jiri-passer,Jiří Passer,cjeu_judge,0,,CURIA member biography; Wikipedia; national judicial profile
-kullike-jurimae,Küllike Jürimäe,cjeu_judge,0,,CURIA member biography; Wikipedia; national judicial profile
 lars-bay-larsen,Lars Bay Larsen,cjeu_judge,1,wikipedia,CURIA member biography; Wikipedia; national judicial profile
 lela-meano,Lela Meano,cjeu_judge,0,,CURIA member biography; Wikipedia; national judicial profile
 lyudmila-grigorova,Lyudmila Grigorova,cjeu_judge,0,,CURIA member biography; Wikipedia; national judicial profile
-maria-lourdes-arastey-sahun,Maria Lourdes Arastey Sahún,cjeu_judge,0,,CURIA member biography; Wikipedia; national judicial profile
-marko-ilesic,Marko Ilešič,cjeu_judge,0,,CURIA member biography; Wikipedia; national judicial profile
+maria-lourdes-arastey-sahun,Maria Lourdes Arastey Sahún,cjeu_judge,1,wikipedia,CURIA member biography; Wikipedia; national judicial profile
+marko-ilesic,Marko Ilešič,cjeu_judge,1,wikipedia,CURIA member biography; Wikipedia; national judicial profile
 mihail-visoiu,Mihail Visoiu,cjeu_judge,0,,CURIA member biography; Wikipedia; national judicial profile
-nils-wahl,Nils Wahl,cjeu_judge,0,,CURIA member biography; Wikipedia; national judicial profile
 peter-george-xuereb,Peter George Xuereb,cjeu_judge,0,,CURIA member biography; Wikipedia; national judicial profile
-piotr-polak,Piotr Polak,cjeu_judge,0,,CURIA member biography; Wikipedia; national judicial profile
-sinisa-rodin,Siniša Rodin,cjeu_judge,0,,CURIA member biography; Wikipedia; national judicial profile
 thomas-borg,Thomas Borg,cjeu_judge,1,wikipedia,CURIA member biography; Wikipedia; national judicial profile
 darius-norkus,Darius Norkus,cjeu_ag,1,wikipedia,CURIA member biography; Wikipedia; national judicial profile
 ioannis-gratsias,Ioannis Gratsias,cjeu_ag,0,,CURIA member biography; Wikipedia; national judicial profile
 jean-richard-de-la-tour,Jean Richard de la Tour,cjeu_ag,1,cjeu,CURIA member biography; Wikipedia; national judicial profile
-manuel-campos-sanchez-bordona,Manuel Campos Sánchez-Bordona,cjeu_ag,0,,CURIA member biography; Wikipedia; national judicial profile
-nicholas-emiliou,Nicholas Emiliou,cjeu_ag,0,,CURIA member biography; Wikipedia; national judicial profile
-priit-pikamae,Priit Pikamäe,cjeu_ag,0,,CURIA member biography; Wikipedia; national judicial profile
+manuel-campos-sanchez-bordona,Manuel Campos Sánchez-Bordona,cjeu_ag,1,cjeu,CURIA member biography; Wikipedia; national judicial profile
 tamara-capeta,Tamara Ćapeta,cjeu_ag,0,,CURIA member biography; Wikipedia; national judicial profile

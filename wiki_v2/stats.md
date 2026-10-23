@@ -11,14 +11,14 @@ tags:
 
 | Grade | Status | Count |
 |---|---|---:|
-| A | verified | 3016 |
+| A | verified | 3074 |
 | B | needs_review | 8 |
 | B | rejected | 138 |
-| B | verified | 478 |
-| C | needs_review | 174 |
+| B | verified | 479 |
+| C | needs_review | 178 |
 | C | rejected | 564 |
 | C | verified | 569 |
-| none | rejected | 457 |
+| none | rejected | 452 |
 
 ## Predicate coverage
 
@@ -39,9 +39,9 @@ tags:
 | chair | needs_review | 17 |
 | chair | rejected | 79 |
 | chair | verified | 510 |
-| educated_at | needs_review | 15 |
-| educated_at | rejected | 120 |
-| educated_at | verified | 559 |
+| educated_at | needs_review | 19 |
+| educated_at | rejected | 115 |
+| educated_at | verified | 618 |
 | employed_by | needs_review | 25 |
 | employed_by | rejected | 21 |
 | employed_by | verified | 362 |
@@ -83,19 +83,19 @@ tags:
 
 | Category | Claims | Verified |
 |---|---:|---:|
-| commissioner | 3174 | 2473 |
-| mep | 1325 | 1003 |
+| commissioner | 3175 | 2474 |
+| mep | 1364 | 1042 |
 | corporate_elite | 454 | 370 |
-| dg | 335 | 180 |
-| cjeu_judge | 63 | 23 |
-| cjeu_ag | 38 | 9 |
+| dg | 343 | 187 |
+| cjeu_judge | 69 | 31 |
+| cjeu_ag | 42 | 13 |
 | ddg | 8 | 5 |
 
 ## Source documents
 
 | Kind | Documents |
 |---|---:|
-| wikipedia | 418 |
+| wikipedia | 494 |
 | cjeu | 92 |
 | dg_cv | 82 |
 | revolving_door | 67 |

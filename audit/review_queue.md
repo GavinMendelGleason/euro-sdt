@@ -1,8 +1,8 @@
 # Review Queue
 
-Rows: 1279. Priority = uncertainty + weak context + model disagreement.
+Rows: 1284. Priority = uncertainty + weak context + model disagreement.
 
-By grade: {'C': 743, 'B': 486, 'A': 50}. By status: {'needs_review': 182, 'verified': 1097}.
+By grade: {'C': 747, 'B': 487, 'A': 50}. By status: {'needs_review': 186, 'verified': 1098}.
 
 | Priority | Status | Grade | Subject | Predicate | Object | Model |
 |---:|---|---|---|---|---|---|

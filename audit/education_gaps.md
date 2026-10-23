@@ -1,15 +1,15 @@
 # Education Gaps
 
-People without a verified `educated_at` claim: 186.
+People without a verified `educated_at` claim: 152.
 
 | Category | Missing | With local doc | Without local doc |
 |---|---:|---:|---:|
-| commissioner | 32 | 24 | 8 |
-| dg | 14 | 4 | 10 |
+| commissioner | 31 | 31 | 0 |
+| dg | 10 | 5 | 5 |
 | ddg | 1 | 0 | 1 |
-| mep | 93 | 41 | 52 |
-| corporate_elite | 20 | 11 | 9 |
-| cjeu_judge | 19 | 2 | 17 |
-| cjeu_ag | 7 | 2 | 5 |
+| mep | 71 | 67 | 4 |
+| corporate_elite | 20 | 12 | 8 |
+| cjeu_judge | 14 | 5 | 9 |
+| cjeu_ag | 5 | 3 | 2 |
 
 Full list: `audit/education_gaps.csv`.

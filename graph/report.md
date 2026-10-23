@@ -6,17 +6,17 @@ Generated from `euro_sdt_v2.db`. Only `assertion.status = 'verified'` appears he
 
 | Metric | All verified | Grade A only | Network edges only |
 |---|---:|---:|---:|
-| Nodes | 2857 | 2236 | 2147 |
-| Edges | 3621 | 2641 | 2613 |
-| Unique person–entity pairs | 3422 | 2539 | 2491 |
-| Largest component | 2618 | 1909 | 1914 |
-| Degree-1 nodes | 2158 | 1672 | 1610 |
+| Nodes | 2933 | 2310 | 2147 |
+| Edges | 3680 | 2699 | 2613 |
+| Unique person–entity pairs | 3481 | 2597 | 2491 |
+| Largest component | 2644 | 1929 | 1914 |
+| Degree-1 nodes | 2207 | 1716 | 1610 |
 
 ## Edges by class
 
 | Class | Edges |
 |---|---:|
-| education | 551 |
+| education | 610 |
 | institutional | 94 |
 | network | 2613 |
 | occupational | 361 |
@@ -26,8 +26,8 @@ Generated from `euro_sdt_v2.db`. Only `assertion.status = 'verified'` appears he
 
 | Grade | Edges |
 |---|---:|
-| A | 2641 |
-| B | 450 |
+| A | 2699 |
+| B | 451 |
 | C | 530 |
 
 ## Top hubs (all verified edges)

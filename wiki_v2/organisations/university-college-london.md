@@ -11,7 +11,7 @@ generated: 2026-10-23
 ---
 # University College London
 
-*Verified member assertions: 3 people*
+*Verified member assertions: 5 people*
 
 ## Members and roles
 
@@ -24,3 +24,9 @@ generated: 2026-10-23
 - [[people/kadri-simson|Kadri Simson]]  
   > "She holds an MA in Political Science from University College London (2003)."
   > Source: [[sources/wikipedia-kadri-simson|Kadri Simson]] · grade A
+- [[people/livia-jaroka|Lívia Járóka]]  
+  > "In 2012 she finished her PhD in Social Anthropology at the University College London."
+  > Source: [[sources/wikipedia-edu-livia-jaroka|Lívia Járóka]] · grade A
+- [[people/nicholas-emiliou|Nicholas Emiliou]]  
+  > "He received an LL.M. (European Law) from the London School of Economics and Political Science in 1987 and a Ph.D. (Law) from University College London in 1991."
+  > Source: [[sources/wikipedia-edu-nicholas-emiliou|Nicholas Emiliou]] · grade A

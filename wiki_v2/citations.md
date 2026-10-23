@@ -243,6 +243,7 @@ tags:
 | [[sources/wikipedia-torben-lund|Torben Lund]] | wikipedia | 6 |
 | [[sources/wikipedia-alonso-puerta|Alonso Puerta]] | wikipedia | 5 |
 | [[sources/wikipedia-anna-diamantopoulou|Anna Diamantopoulou]] | wikipedia | 5 |
+| [[sources/wikipedia-ant-nio-costa|Ant Nio Costa]] | wikipedia | 5 |
 | [[sources/wikipedia-antonios-trakatellis|Antonios Trakatellis]] | wikipedia | 5 |
 | [[sources/revolving_door-connie-hedegaard|Connie Hedegaard]] | revolving_door | 5 |
 | [[sources/wikipedia-corp-sari-baldauf|Corp Sari Baldauf]] | wikipedia | 5 |
@@ -261,7 +262,6 @@ tags:
 | [[sources/wikipedia-sebastian-tynkkynen|Sebastian Tynkkynen]] | wikipedia | 5 |
 | [[sources/wikipedia-adina-ioana-valean|Adina Ioana Valean]] | wikipedia | 4 |
 | [[sources/wikipedia-alain-cadec|Alain Cadec]] | wikipedia | 4 |
-| [[sources/wikipedia-ant-nio-costa|Ant Nio Costa]] | wikipedia | 4 |
 | [[sources/wikipedia-bruno-gollnisch|Bruno Gollnisch]] | wikipedia | 4 |
 | [[sources/dg_cv-charlina-vitcheva|Charlina Vitcheva]] | dg_cv | 4 |
 | [[sources/wikipedia-christian-klein|Christian Klein]] | wikipedia | 4 |
@@ -310,7 +310,9 @@ tags:
 | [[sources/dg_cv-despina-spanou|Despina Spanou]] | dg_cv | 3 |
 | [[sources/wikipedia-diana-wallis|Diana Wallis]] | wikipedia | 3 |
 | [[sources/wikipedia-dimitrios-papadimoulis|Dimitrios Papadimoulis]] | wikipedia | 3 |
+| [[sources/wikipedia-edu-dita-charanzova|Dita Charanzová]] | wikipedia | 3 |
 | [[sources/dg_cv-elisabeth-werner|Elisabeth Werner]] | dg_cv | 3 |
+| [[sources/wikipedia-edu-evelyne-gebhardt|Evelyne Gebhardt]] | wikipedia | 3 |
 | [[sources/wikipedia-francis-wurtz|Francis Wurtz]] | wikipedia | 3 |
 | [[sources/dg_cv-gert-jan-koopman|Gert Jan Koopman]] | dg_cv | 3 |
 | [[sources/wikipedia-hadar-cars|Hadar Cars]] | wikipedia | 3 |
@@ -320,11 +322,14 @@ tags:
 | [[sources/wikipedia-ivan-hirst|Ivan Hirst]] | wikipedia | 3 |
 | [[sources/revolving_door-janusz-wojciechowski|Janusz Wojciechowski]] | revolving_door | 3 |
 | [[sources/wikipedia-joao-de-deus-pinheiro|Joao De Deus Pinheiro]] | wikipedia | 3 |
+| [[sources/wikipedia-edu-katarina-barley|Katarina Barley]] | wikipedia | 3 |
 | [[sources/dg_cv-kurt-vandenberghe|Kurt Vandenberghe]] | dg_cv | 3 |
 | [[sources/dg_cv-maria-martin-prat-de-abreu|Maria Martin Prat De Abreu]] | dg_cv | 3 |
 | [[sources/wikipedia-mariann-fischer-boel|Mariann Fischer Boel]] | wikipedia | 3 |
+| [[sources/wikipedia-edu-martin-hojsik|Martin Hojsík]] | wikipedia | 3 |
 | [[sources/wikipedia-martin-schulz|Martin Schulz]] | wikipedia | 3 |
 | [[sources/wikipedia-max-gallo|Max Gallo]] | wikipedia | 3 |
+| [[sources/wikipedia-edu-michal-simecka|Michal Šimečka]] | wikipedia | 3 |
 | [[sources/wikipedia-miguel-ngel-martnez-martnez|Miguel Ngel Martnez Martnez]] | wikipedia | 3 |
 | [[sources/dg_cv-myriam-ferran|Myriam Ferran]] | dg_cv | 3 |
 | [[sources/dg_cv-nils-behrndt|Nils Behrndt]] | dg_cv | 3 |
@@ -345,6 +350,7 @@ tags:
 | [[sources/revolving_door-androulla-vassiliou|Androulla Vassiliou]] | revolving_door | 2 |
 | [[sources/dg_cv-anthony-whelan|Anthony Whelan]] | dg_cv | 2 |
 | [[sources/cjeu-athanasios-rantos|Athanasios Rantos]] | cjeu | 2 |
+| [[sources/wikipedia-athanasios-thanopoulos|Athanasios Thanopoulos]] | wikipedia | 2 |
 | [[sources/dg_cv-beate-gminder|Beate Gminder]] | dg_cv | 2 |
 | [[sources/dg_cv-beatriz-sanz-redrado|Beatriz Sanz Redrado]] | dg_cv | 2 |
 | [[sources/dg_cv-bernard-magenhann|Bernard Magenhann]] | dg_cv | 2 |
@@ -362,6 +368,7 @@ tags:
 | [[sources/wikipedia-daniel-cohn-bendit|Daniel Cohn Bendit]] | wikipedia | 2 |
 | [[sources/dg_cv-denis-redonnet|Denis Redonnet]] | dg_cv | 2 |
 | [[sources/wikipedia-dimitrios-adamou|Dimitrios Adamou]] | wikipedia | 2 |
+| [[sources/wikipedia-edu-eva-kaili|Eva Kaili]] | wikipedia | 2 |
 | [[sources/dg_cv-florika-fink-hooijer|Florika Fink Hooijer]] | dg_cv | 2 |
 | [[sources/wikipedia-fr-d-ric-oud-a|Fr D Ric Oud A]] | wikipedia | 2 |
 | [[sources/dg_cv-genoveva-ruiz-calavera|Genoveva Ruiz Calavera]] | dg_cv | 2 |
@@ -371,6 +378,10 @@ tags:
 | [[sources/dg_cv-hubert-gambs|Hubert Gambs]] | dg_cv | 2 |
 | [[sources/dg_cv-hugo-sobral|Hugo Sobral]] | dg_cv | 2 |
 | [[sources/wikipedia-ildik-pelczn-gll|Ildik Pelczn Gll]] | wikipedia | 2 |
+| [[sources/wikipedia-edu-ioan-mircea-pascu|Ioan Mircea Pașcu]] | wikipedia | 2 |
+| [[sources/wikipedia-edu-jacek-protasiewicz|Jacek Protasiewicz]] | wikipedia | 2 |
+| [[sources/wikipedia-edu-jan-dusik|Jan Dusík]] | wikipedia | 2 |
+| [[sources/cjeu-jan-passer|Jan Passer]] | cjeu | 2 |
 | [[sources/wikipedia-jean-paul-agon|Jean Paul Agon]] | wikipedia | 2 |
 | [[sources/wikipedia-jens-peter-bonde|Jens Peter Bonde]] | wikipedia | 2 |
 | [[sources/wikipedia-jo-leinen|Jo Leinen]] | wikipedia | 2 |
@@ -383,11 +394,14 @@ tags:
 | [[sources/revolving_door-karel-de-gucht|Karel De Gucht]] | revolving_door | 2 |
 | [[sources/wikipedia-kathy-sinnott|Kathy Sinnott]] | wikipedia | 2 |
 | [[sources/dg_cv-kestutis-sadauskas|Kestutis Sadauskas]] | dg_cv | 2 |
+| [[sources/wikipedia-edu-klara-dobrev|Klára Dobrev]] | wikipedia | 2 |
 | [[sources/dg_cv-koen-doens|Koen Doens]] | dg_cv | 2 |
+| [[sources/wikipedia-edu-kullike-jurimae|Küllike Jürimäe]] | wikipedia | 2 |
 | [[sources/cjeu-laila-medina|Laila Medina]] | cjeu | 2 |
 | [[sources/dg_cv-leopoldo-rubinacci|Leopoldo Rubinacci]] | dg_cv | 2 |
 | [[sources/dg_cv-linsey-mccallum|Linsey Mccallum]] | dg_cv | 2 |
 | [[sources/wikipedia-luigi-cocilovo|Luigi Cocilovo]] | wikipedia | 2 |
+| [[sources/wikipedia-edu-livia-jaroka|Lívia Járóka]] | wikipedia | 2 |
 | [[sources/wikipedia-m-rio-soares|M Rio Soares]] | wikipedia | 2 |
 | [[sources/cjeu-maciej-szpunar|Maciej Szpunar]] | cjeu | 2 |
 | [[sources/dg_cv-maja-bakran-marcich|Maja Bakran Marcich]] | dg_cv | 2 |
@@ -397,26 +411,34 @@ tags:
 | [[sources/revolving_door-marianne-thyssen|Marianne Thyssen]] | revolving_door | 2 |
 | [[sources/dg_cv-mechthild-worsdorfer|Mechthild Worsdorfer]] | dg_cv | 2 |
 | [[sources/revolving_door-neelie-kroes|Neelie Kroes]] | revolving_door | 2 |
+| [[sources/wikipedia-edu-nicholas-emiliou|Nicholas Emiliou]] | wikipedia | 2 |
 | [[sources/dg_cv-normunds-popens|Normunds Popens]] | dg_cv | 2 |
 | [[sources/dg_cv-olivier-onidi|Olivier Onidi]] | dg_cv | 2 |
+| [[sources/wikipedia-edu-othmar-karas|Othmar Karas]] | wikipedia | 2 |
 | [[sources/revolving_door-paolo-gentiloni|Paolo Gentiloni]] | revolving_door | 2 |
 | [[sources/wikipedia-pertti-paasio|Pertti Paasio]] | wikipedia | 2 |
 | [[sources/wikipedia-pl-schmitt|Pl Schmitt]] | wikipedia | 2 |
+| [[sources/wikipedia-edu-priit-pikamae|Priit Pikamäe]] | wikipedia | 2 |
 | [[sources/dg_cv-roberto-viola|Roberto Viola]] | dg_cv | 2 |
+| [[sources/wikipedia-edu-roberts-zile|Roberts Zīle]] | wikipedia | 2 |
 | [[sources/wikipedia-rupert-lowe|Rupert Lowe]] | wikipedia | 2 |
 | [[sources/dg_cv-salla-saastamoinen|Salla Saastamoinen]] | dg_cv | 2 |
 | [[sources/dg_cv-sandra-gallina|Sandra Gallina]] | dg_cv | 2 |
+| [[sources/cjeu-sini-a-rodin|Sini A Rodin]] | cjeu | 2 |
 | [[sources/wikipedia-slawomir-krupa|Slawomir Krupa]] | wikipedia | 2 |
 | [[sources/dg_cv-sophia-eriksson-waterschoot|Sophia Eriksson Waterschoot]] | dg_cv | 2 |
 | [[sources/dg_cv-stefan-olsson|Stefan Olsson]] | dg_cv | 2 |
+| [[sources/dg_cv-stphanie-riso|Stphanie Riso]] | dg_cv | 2 |
 | [[sources/dg_cv-themis-christophidou|Themis Christophidou]] | dg_cv | 2 |
 | [[sources/wikipedia-willy-de-clercq|Willy De Clercq]] | wikipedia | 2 |
 | [[sources/wikipedia-alliance-of-liberals-and-democrats-for-europe-party|Alliance Of Liberals And Democrats For Europe Party]] | wikipedia | 1 |
 | [[sources/cjeu-andrea-biondi|Andrea Biondi]] | cjeu | 1 |
 | [[sources/cjeu-andreas-kumin|Andreas Kumin]] | cjeu | 1 |
+| [[sources/wikipedia-edu-antonio-costa|António Costa]] | wikipedia | 1 |
 | [[sources/wikipedia-armin-papperger|Armin Papperger]] | wikipedia | 1 |
 | [[sources/wikipedia-bel-n-garijo|Bel N Garijo]] | wikipedia | 1 |
 | [[sources/wikipedia-christian-sewing|Christian Sewing]] | wikipedia | 1 |
+| [[sources/dg_cv-cline-gauer|Cline Gauer]] | dg_cv | 1 |
 | [[sources/dg_cv-colin-scicluna|Colin Scicluna]] | dg_cv | 1 |
 | [[sources/wikipedia-corp-christian-sewing|Corp Christian Sewing]] | wikipedia | 1 |
 | [[sources/wikipedia-corp-john-elkann|Corp John Elkann]] | wikipedia | 1 |
@@ -426,10 +448,14 @@ tags:
 | [[sources/wikipedia-corp-pekka-ala-pietil|Corp Pekka Ala Pietil]] | wikipedia | 1 |
 | [[sources/wikipedia-corp-pekka-lundmark|Corp Pekka Lundmark]] | wikipedia | 1 |
 | [[sources/wikipedia-corp-timotheus-hoettges|Corp Timotheus Hoettges]] | wikipedia | 1 |
+| [[sources/wikipedia-didier-reynders|Didier Reynders]] | wikipedia | 1 |
 | [[sources/revolving_door-dimitris-avramopoulos|Dimitris Avramopoulos]] | revolving_door | 1 |
 | [[sources/revolving_door-elisa-ferreira|Elisa Ferreira]] | revolving_door | 1 |
 | [[sources/cjeu-eugene-regan|Eugene Regan]] | cjeu | 1 |
 | [[sources/wikipedia-euractiv|Euractiv]] | wikipedia | 1 |
+| [[sources/wikipedia-edu-evelyn-regner|Evelyn Regner]] | wikipedia | 1 |
+| [[sources/wikipedia-edu-ewa-kopacz|Ewa Kopacz]] | wikipedia | 1 |
+| [[sources/wikipedia-edu-franz-josef-strau|Franz Josef Strauss]] | wikipedia | 1 |
 | [[sources/wikipedia-grard-onesta|Grard Onesta]] | wikipedia | 1 |
 | [[sources/wikipedia-hans-gert-pttering|Hans Gert Pttering]] | wikipedia | 1 |
 | [[sources/cjeu-ineta-ziemele|Ineta Ziemele]] | cjeu | 1 |
@@ -439,17 +465,25 @@ tags:
 | [[sources/declaration-doi-kaja-kallas-en|Kaja Kallas]] | declaration | 1 |
 | [[sources/revolving_door-karmenu-vella|Karmenu Vella]] | revolving_door | 1 |
 | [[sources/wikipedia-klaus-hnsch|Klaus Hnsch]] | wikipedia | 1 |
+| [[sources/wikipedia-edu-laszlo-surjan|László Surján]] | wikipedia | 1 |
 | [[sources/dg_cv-magda-kopczynska|Magda Kopczynska]] | dg_cv | 1 |
 | [[sources/dg_cv-marjeta-jager|Marjeta Jager]] | dg_cv | 1 |
 | [[sources/declaration-doi-maros-sefcovic-en|Maros Sefcovic]] | declaration | 1 |
 | [[sources/wikipedia-michael-diekmann|Michael Diekmann]] | wikipedia | 1 |
 | [[sources/wikipedia-mrio-soares|Mrio Soares]] | wikipedia | 1 |
+| [[sources/wikipedia-edu-nicola-beer|Nicola Beer]] | wikipedia | 1 |
+| [[sources/wikipedia-edu-nils-wahl|Nils Wahl]] | wikipedia | 1 |
 | [[sources/wikipedia-ola-k-llenius|Ola K Llenius]] | wikipedia | 1 |
 | [[sources/declaration-doi-oliver-varhelyi-en|Oliver Varhelyi]] | declaration | 1 |
+| [[sources/wikipedia-edu-pablo-zalba-bidegain|Pablo Zalba]] | wikipedia | 1 |
+| [[sources/wikipedia-edu-pavel-telicka|Pavel Telička]] | wikipedia | 1 |
+| [[sources/wikipedia-edu-pedro-silva-pereira|Pedro Silva Pereira]] | wikipedia | 1 |
 | [[sources/revolving_door-phil-hogan|Phil Hogan]] | revolving_door | 1 |
 | [[sources/dg_cv-philippe-van-damme|Philippe Van Damme]] | dg_cv | 1 |
+| [[sources/wikipedia-edu-piotr-polak|Piotr Polak]] | wikipedia | 1 |
 | [[sources/wikipedia-ramn-luis-valcrcel|Ramn Luis Valcrcel]] | wikipedia | 1 |
 | [[sources/dg_cv-renate-nikolay|Renate Nikolay]] | dg_cv | 1 |
+| [[sources/wikipedia-edu-sigrid-friis-proschowsky|Sigrid Friis Frederiksen]] | wikipedia | 1 |
 | [[sources/revolving_door-siim-kallas|Siim Kallas]] | revolving_door | 1 |
 | [[sources/dg_cv-stephen-quest|Stephen Quest]] | dg_cv | 1 |
 | [[sources/wikipedia-thierry-bollor|Thierry Bollor]] | wikipedia | 1 |
@@ -460,17 +494,23 @@ tags:
 | [[sources/wikipedia-adam-white|Adam White]] | wikipedia | 0 |
 | [[sources/wikipedia-adina-ioana-vlean|Adina Ioana Vlean]] | wikipedia | 0 |
 | [[sources/wikipedia-adina-v-lean|Adina V Lean]] | wikipedia | 0 |
+| [[sources/wikipedia-edu-adina-valean|Adina-Ioana Vălean]] | wikipedia | 0 |
 | [[sources/dg_cv-agnieszka-kamierczak|Agnieszka Kamierczak]] | dg_cv | 0 |
+| [[sources/wikipedia-edu-alejo-vidal-quadras|Alejo Vidal-Quadras Roca]] | wikipedia | 0 |
 | [[sources/wikipedia-alexander-jungbluth|Alexander Jungbluth]] | wikipedia | 0 |
 | [[sources/cjeu-alexander-kornezov|Alexander Kornezov]] | cjeu | 0 |
+| [[sources/wikipedia-edu-alexander-alvaro|Alexander Nuno Alvaro]] | wikipedia | 0 |
 | [[sources/cjeu-alfredo-calot-escobar|Alfredo Calot Escobar]] | cjeu | 0 |
 | [[sources/wikipedia-algirdas-emeta|Algirdas Emeta]] | wikipedia | 0 |
 | [[sources/revolving_door-algirdas-semeta|Algirdas Semeta]] | revolving_door | 0 |
+| [[sources/wikipedia-edu-alliance-of-liberals-and-democrats-for-europe|Alliance of Liberals and Democrats for Europe]] | wikipedia | 0 |
 | [[sources/wikipedia-alonso-jos-puerta|Alonso Jos Puerta]] | wikipedia | 0 |
+| [[sources/wikipedia-edu-alonso-jose-puerta|Alonso Puerta]] | wikipedia | 0 |
 | [[sources/declaration-doi-andrius-kubilius-en|Andrius Kubilius]] | declaration | 0 |
 | [[sources/cjeu-anna-marcoulli|Anna Marcoulli]] | cjeu | 0 |
 | [[sources/wikipedia-antnio-costa|Antnio Costa]] | wikipedia | 0 |
 | [[sources/wikipedia-antnio-vitorino|Antnio Vitorino]] | wikipedia | 0 |
+| [[sources/wikipedia-edu-antonella-sberna|Antonella Sberna]] | wikipedia | 0 |
 | [[sources/declaration-doi-apostolos-tzitzikostas-en|Apostolos Tzitzikostas]] | declaration | 0 |
 | [[sources/revolving_door-arias-caete|Arias Caete]] | revolving_door | 0 |
 | [[sources/revolving_door-arias-canete|Arias Canete]] | revolving_door | 0 |
@@ -484,10 +524,10 @@ tags:
 | [[sources/revolving_door-cecilia-malmstrm|Cecilia Malmstrm]] | revolving_door | 0 |
 | [[sources/org_site-cfr-membership|Cfr Membership]] | org_site | 0 |
 | [[sources/wikipedia-chairman-of-the-board|Chairman Of The Board]] | wikipedia | 0 |
+| [[sources/wikipedia-edu-christel-schaldemose|Christel Schaldemose]] | wikipedia | 0 |
 | [[sources/declaration-doi-christophe-hansen-en|Christophe Hansen]] | declaration | 0 |
 | [[sources/revolving_door-christos-stylianides|Christos Stylianides]] | revolving_door | 0 |
 | [[sources/revolving_door-christos-stylianidesserving-member-of-the-commission|Christos Stylianidesserving Member Of The Commission]] | revolving_door | 0 |
-| [[sources/dg_cv-cline-gauer|Cline Gauer]] | dg_cv | 0 |
 | [[sources/cjeu-colm-mac-eochaidh|Colm Mac Eochaidh]] | cjeu | 0 |
 | [[sources/wikipedia-commission-barroso-i|Commission Barroso I]] | wikipedia | 0 |
 | [[sources/wikipedia-commission-barroso-ii|Commission Barroso Ii]] | wikipedia | 0 |
@@ -502,6 +542,8 @@ tags:
 | [[sources/cjeu-constantinos-lycourgos|Constantinos Lycourgos]] | cjeu | 0 |
 | [[sources/wikipedia-corina-cre-u|Corina Cre U]] | wikipedia | 0 |
 | [[sources/wikipedia-corina-creu|Corina Creu]] | wikipedia | 0 |
+| [[sources/wikipedia-corina-cretu|Corina Crețu]] | wikipedia | 0 |
+| [[sources/wikipedia-edu-corina-cretu|Corina Crețu]] | wikipedia | 0 |
 | [[sources/wikipedia-corp-christian-klein|Corp Christian Klein]] | wikipedia | 0 |
 | [[sources/wikipedia-corp-jean-lemierre|Corp Jean Lemierre]] | wikipedia | 0 |
 | [[sources/wikipedia-corp-marc-murtra|Corp Marc Murtra]] | wikipedia | 0 |
@@ -516,6 +558,7 @@ tags:
 | [[sources/wikipedia-darius-norkus|Darius Norkus]] | wikipedia | 0 |
 | [[sources/cjeu-david-petrl-k|David Petrl K]] | cjeu | 0 |
 | [[sources/cjeu-dean-spielmann|Dean Spielmann]] | cjeu | 0 |
+| [[sources/wikipedia-edu-didier-reynders|Didier Reynders]] | wikipedia | 0 |
 | [[sources/cjeu-dimitrios-gratsias|Dimitrios Gratsias]] | cjeu | 0 |
 | [[sources/dg_cv-ditte-juul-jrgensen|Ditte Juul Jrgensen]] | dg_cv | 0 |
 | [[sources/declaration-doi-dr.-ursula-von-der-leyen-de|Dr. Ursula Von Der Leyen]] | declaration | 0 |
@@ -526,34 +569,46 @@ tags:
 | [[sources/org_site-ecfr-council-2021|Ecfr Council 2021]] | org_site | 0 |
 | [[sources/org_site-ecfr-council-2022|Ecfr Council 2022]] | org_site | 0 |
 | [[sources/org_site-ecfr-council-2023|Ecfr Council 2023]] | org_site | 0 |
+| [[sources/wikipedia-edith-cresson|Edith Cresson]] | wikipedia | 0 |
+| [[sources/wikipedia-edu-edith-cresson|Edith Cresson]] | wikipedia | 0 |
 | [[sources/declaration-doi-ekaterina-zaharieva-en|Ekaterina Zaharieva]] | declaration | 0 |
 | [[sources/wikipedia-elbieta-biekowska|Elbieta Biekowska]] | wikipedia | 0 |
 | [[sources/entity_md-elcano-royal-institute|Elcano Royal Institute]] | entity_md | 0 |
 | [[sources/cjeu-elisabeth-tichy-fisslberger|Elisabeth Tichy Fisslberger]] | cjeu | 0 |
 | [[sources/revolving_door-elzbieta-bienkowska|Elzbieta Bienkowska]] | revolving_door | 0 |
+| [[sources/wikipedia-edu-esteban-gonzalez-pons|Esteban González Pons]] | wikipedia | 0 |
 | [[sources/cjeu-eug-ne-buttigieg|Eug Ne Buttigieg]] | cjeu | 0 |
 | [[sources/wikipedia-eugen-loderer|Eugen Loderer]] | wikipedia | 0 |
 | [[sources/entity_md-european-leadership-network|European Leadership Network]] | entity_md | 0 |
+| [[sources/wikipedia-edu-fabio-massimo-castaldo|Fabio Massimo Castaldo]] | wikipedia | 0 |
 | [[sources/revolving_door-ferdinando-nelli-feroci|Ferdinando Nelli Feroci]] | revolving_door | 0 |
 | [[sources/cjeu-fran-ois-biltgen|Fran Ois Biltgen]] | cjeu | 0 |
 | [[sources/cjeu-francesco-bestagno|Francesco Bestagno]] | cjeu | 0 |
+| [[sources/wikipedia-edu-franco-frattini|Franco Frattini]] | wikipedia | 0 |
+| [[sources/wikipedia-franco-frattini|Franco Frattini]] | wikipedia | 0 |
+| [[sources/wikipedia-edu-francois-biltgen|François Biltgen]] | wikipedia | 0 |
 | [[sources/cjeu-fredrik-schalin|Fredrik Schalin]] | cjeu | 0 |
 | [[sources/entity_md-friends-of-europe|Friends Of Europe]] | entity_md | 0 |
 | [[sources/wikipedia-frits-bolkestein|Frits Bolkestein]] | wikipedia | 0 |
 | [[sources/wikipedia-g-rard-onesta|G Rard Onesta]] | wikipedia | 0 |
 | [[sources/cjeu-gabriele-steinfatt|Gabriele Steinfatt]] | cjeu | 0 |
 | [[sources/cjeu-geert-de-baere|Geert De Baere]] | cjeu | 0 |
+| [[sources/wikipedia-edu-georgios-papastamkos|Georgios Papastamkos]] | wikipedia | 0 |
 | [[sources/cjeu-gerhard-hesse|Gerhard Hesse]] | cjeu | 0 |
 | [[sources/wikipedia-gianni-pittella|Gianni Pittella]] | wikipedia | 0 |
 | [[sources/declaration-doi-glenn-micallef-en|Glenn Micallef]] | declaration | 0 |
 | [[sources/entity_md-globsec|Globsec]] | entity_md | 0 |
 | [[sources/wikipedia-gnter-verheugen|Gnter Verheugen]] | wikipedia | 0 |
 | [[sources/revolving_door-gnther-oettinger|Gnther Oettinger]] | revolving_door | 0 |
+| [[sources/wikipedia-edu-gerard-onesta|Gérard Onesta]] | wikipedia | 0 |
 | [[sources/declaration-doi-hadja-lahbib-en|Hadja Lahbib]] | declaration | 0 |
+| [[sources/wikipedia-edu-heidi-hautala|Heidi Hautala]] | wikipedia | 0 |
 | [[sources/cjeu-heikki-kanninen|Heikki Kanninen]] | cjeu | 0 |
 | [[sources/declaration-doi-henna-virkkunen-en|Henna Virkkunen]] | declaration | 0 |
 | [[sources/cjeu-herv-cassagnab-re|Herv Cassagnab Re]] | cjeu | 0 |
 | [[sources/cjeu-iko-n-mm|Iko N Mm]] | cjeu | 0 |
+| [[sources/wikipedia-edu-idilko-horvath|Ildikó Horváth]] | wikipedia | 0 |
+| [[sources/wikipedia-edu-ildiko-pelczne-gall|Ildikó Pelczné Gáll]] | wikipedia | 0 |
 | [[sources/entity_md-index|Index]] | entity_md | 0 |
 | [[sources/cjeu-inga-reine|Inga Reine]] | cjeu | 0 |
 | [[sources/cjeu-ioannis-dimitrakopoulos|Ioannis Dimitrakopoulos]] | cjeu | 0 |
@@ -565,16 +620,17 @@ tags:
 | [[sources/cjeu-j-rgen-hettne|J Rgen Hettne]] | cjeu | 0 |
 | [[sources/revolving_door-jacek-dominik|Jacek Dominik]] | revolving_door | 0 |
 | [[sources/dg_cv-jan-dusk|Jan Dusk]] | dg_cv | 0 |
-| [[sources/cjeu-jan-passer|Jan Passer]] | cjeu | 0 |
 | [[sources/revolving_door-janez-lenari|Janez Lenari]] | revolving_door | 0 |
 | [[sources/wikipedia-janez-lenari|Janez Lenari]] | wikipedia | 0 |
 | [[sources/revolving_door-janez-potocnik|Janez Potocnik]] | revolving_door | 0 |
+| [[sources/wikipedia-edu-javi-lopez-fernandez|Javi López Fernández]] | wikipedia | 0 |
 | [[sources/revolving_door-jean-claude-juncker|Jean Claude Juncker]] | revolving_door | 0 |
 | [[sources/cjeu-jean-richard-de-la-tour|Jean Richard De La Tour]] | cjeu | 0 |
 | [[sources/cjeu-jesper-svenningsen|Jesper Svenningsen]] | cjeu | 0 |
 | [[sources/declaration-doi-jessika-elisabeth-andersdotter-roswall-en|Jessika Elisabeth Andersdotter Roswall]] | declaration | 0 |
 | [[sources/wikipedia-ji-ma-t-lka|Ji Ma T Lka]] | wikipedia | 0 |
 | [[sources/wikipedia-ji-matlka|Ji Matlka]] | wikipedia | 0 |
+| [[sources/wikipedia-edu-jiri-mastalka|Jiří Maštálka]] | wikipedia | 0 |
 | [[sources/wikipedia-jn-fige|Jn Fige]] | wikipedia | 0 |
 | [[sources/revolving_door-joaqun-almunia|Joaqun Almunia]] | revolving_door | 0 |
 | [[sources/wikipedia-joaqun-almunia|Joaqun Almunia]] | wikipedia | 0 |
@@ -585,7 +641,10 @@ tags:
 | [[sources/wikipedia-jos-mar-a-gil-robles|Jos Mar A Gil Robles]] | wikipedia | 0 |
 | [[sources/cjeu-jos-mart-n-y-p-rez-de-nanclares|Jos Mart N Y P Rez De Nanclares]] | cjeu | 0 |
 | [[sources/revolving_door-josep-borrell|Josep Borrell]] | revolving_door | 0 |
+| [[sources/wikipedia-edu-josep-borrell-fontelles|Josep Borrell Fontelles]] | wikipedia | 0 |
+| [[sources/wikipedia-josep-borrell-fontelles|Josep Borrell Fontelles]] | wikipedia | 0 |
 | [[sources/revolving_door-josep-borrell-i-fontelles|Josep Borrell I Fontelles]] | revolving_door | 0 |
+| [[sources/wikipedia-edu-jose-ignacio-sanchez-galan|José Ignacio Sánchez Galán]] | wikipedia | 0 |
 | [[sources/declaration-doi-jozef-sikela-en|Jozef Sikela]] | declaration | 0 |
 | [[sources/wikipedia-jozef-skela|Jozef Skela]] | wikipedia | 0 |
 | [[sources/cjeu-juraj-schwarcz|Juraj Schwarcz]] | cjeu | 0 |
@@ -593,6 +652,7 @@ tags:
 | [[sources/cjeu-k-llike-j-rim-e|K Llike J Rim E]] | cjeu | 0 |
 | [[sources/wikipedia-karl-erik-olsson|Karl Erik Olsson]] | wikipedia | 0 |
 | [[sources/wikipedia-klaus-h-nsch|Klaus H Nsch]] | wikipedia | 0 |
+| [[sources/wikipedia-edu-klaus-hansch|Klaus Hänsch]] | wikipedia | 0 |
 | [[sources/revolving_door-kristalina-georgievaserving-member-of-the-commission|Kristalina Georgievaserving Member Of The Commission]] | revolving_door | 0 |
 | [[sources/cjeu-kriszti-n-kecsm-r|Kriszti N Kecsm R]] | cjeu | 0 |
 | [[sources/cjeu-krystyna-kowalik-ba-czyk|Krystyna Kowalik Ba Czyk]] | cjeu | 0 |
@@ -607,15 +667,21 @@ tags:
 | [[sources/wikipedia-leonardo-vitor-santiago|Leonardo Vitor Santiago]] | wikipedia | 0 |
 | [[sources/wikipedia-libor-rou-ek|Libor Rou Ek]] | wikipedia | 0 |
 | [[sources/wikipedia-list-of-petroleum-companies|List Of Petroleum Companies]] | wikipedia | 0 |
+| [[sources/wikipedia-edu-louis-michel|Louis Michel]] | wikipedia | 0 |
+| [[sources/wikipedia-louis-michel|Louis Michel]] | wikipedia | 0 |
 | [[sources/cjeu-louise-spangsberg-gr-nfeldt|Louise Spangsberg Gr Nfeldt]] | cjeu | 0 |
 | [[sources/revolving_door-lszl-andor|Lszl Andor]] | revolving_door | 0 |
+| [[sources/wikipedia-edu-laszlo-kovacs|László Kovács]] | wikipedia | 0 |
+| [[sources/wikipedia-laszlo-kovacs|László Kovács]] | wikipedia | 0 |
 | [[sources/dg_cv-magda-kopczyska|Magda Kopczyska]] | dg_cv | 0 |
 | [[sources/declaration-doi-magnus-brunner-en|Magnus Brunner]] | declaration | 0 |
 | [[sources/cjeu-maja-brkan|Maja Brkan]] | cjeu | 0 |
 | [[sources/wikipedia-manuel-ant-nio-dos-santos|Manuel Ant Nio Dos Santos]] | wikipedia | 0 |
+| [[sources/wikipedia-edu-manuel-antonio-dos-santos|Manuel António Dos Santos]] | wikipedia | 0 |
 | [[sources/cjeu-manuel-campos-s-nchez-bordona|Manuel Campos S Nchez Bordona]] | cjeu | 0 |
 | [[sources/cjeu-marc-jaeger|Marc Jaeger]] | cjeu | 0 |
 | [[sources/dg_cv-marc-lematre|Marc Lematre]] | dg_cv | 0 |
+| [[sources/wikipedia-edu-marcel-kolaja|Marcel Kolaja]] | wikipedia | 0 |
 | [[sources/revolving_door-margaritis-schinas|Margaritis Schinas]] | revolving_door | 0 |
 | [[sources/wikipedia-margot-wallstrm|Margot Wallstrm]] | wikipedia | 0 |
 | [[sources/revolving_door-margrethe-vestager|Margrethe Vestager]] | revolving_door | 0 |
@@ -626,19 +692,23 @@ tags:
 | [[sources/wikipedia-maria-lus-albuquerque|Maria Lus Albuquerque]] | wikipedia | 0 |
 | [[sources/cjeu-mariyana-kancheva|Mariyana Kancheva]] | cjeu | 0 |
 | [[sources/cjeu-marko-bo-njak|Marko Bo Njak]] | cjeu | 0 |
+| [[sources/wikipedia-edu-marko-ilesic|Marko Ilešič]] | wikipedia | 0 |
 | [[sources/wikipedia-maro-efovi|Maro Efovi]] | wikipedia | 0 |
 | [[sources/declaration-doi-marta-kos-en|Marta Kos]] | declaration | 0 |
+| [[sources/wikipedia-edu-maria-lourdes-arastey-sahun|María Lourdes Arastey]] | wikipedia | 0 |
 | [[sources/cjeu-massimo-condinanzi|Massimo Condinanzi]] | cjeu | 0 |
 | [[sources/dg_cv-mechthild-wrsdrfer|Mechthild Wrsdrfer]] | dg_cv | 0 |
 | [[sources/wikipedia-mep-juan-carlos-girauta|Mep Juan Carlos Girauta]] | wikipedia | 0 |
 | [[sources/wikipedia-mep-willy-de-clercq|Mep Willy De Clercq]] | wikipedia | 0 |
 | [[sources/wikipedia-micha-kami-ski|Micha Kami Ski]] | wikipedia | 0 |
 | [[sources/declaration-doi-michael-mcgrath-en|Michael Mcgrath]] | declaration | 0 |
+| [[sources/wikipedia-edu-micha-kaminski|Michał Kamiński]] | wikipedia | 0 |
 | [[sources/wikipedia-miguel-angel-mart-nez-mart-nez|Miguel Angel Mart Nez Mart Nez]] | wikipedia | 0 |
 | [[sources/revolving_door-miguel-arias-caete|Miguel Arias Caete]] | revolving_door | 0 |
 | [[sources/wikipedia-miguel-arias-caete|Miguel Arias Caete]] | wikipedia | 0 |
 | [[sources/revolving_door-miguel-arias-canete|Miguel Arias Canete]] | revolving_door | 0 |
 | [[sources/cjeu-miguel-sampol-pucurull|Miguel Sampol Pucurull]] | cjeu | 0 |
+| [[sources/wikipedia-edu-miguel-angel-martinez-martinez|Miguel Ángel Martínez Martínez]] | wikipedia | 0 |
 | [[sources/revolving_door-mire-geoghegan-quinn|Mire Geoghegan Quinn]] | revolving_door | 0 |
 | [[sources/wikipedia-mire-geoghegan-quinn|Mire Geoghegan Quinn]] | wikipedia | 0 |
 | [[sources/cjeu-mirela-stancu|Mirela Stancu]] | cjeu | 0 |
@@ -651,21 +721,25 @@ tags:
 | [[sources/cjeu-niilo-j-skinen|Niilo J Skinen]] | cjeu | 0 |
 | [[sources/cjeu-nina-p-torak|Nina P Torak]] | cjeu | 0 |
 | [[sources/cjeu-nuno-jos-cardoso-da-silva-pi-arra|Nuno Jos Cardoso Da Silva Pi Arra]] | cjeu | 0 |
+| [[sources/wikipedia-edu-oldrich-vlasak|Oldřich Vlasák]] | wikipedia | 0 |
 | [[sources/wikipedia-olivr-vrhelyi|Olivr Vrhelyi]] | wikipedia | 0 |
 | [[sources/cjeu-p-teris-zilgalvis|P Teris Zilgalvis]] | cjeu | 0 |
 | [[sources/wikipedia-pablo-zalba|Pablo Zalba]] | wikipedia | 0 |
 | [[sources/cjeu-paul-nihoul|Paul Nihoul]] | cjeu | 0 |
 | [[sources/cjeu-petra-kva-ilov-pelzl|Petra Kva Ilov Pelzl]] | cjeu | 0 |
+| [[sources/wikipedia-edu-pina-picierno|Pina Picierno]] | wikipedia | 0 |
 | [[sources/declaration-doi-piotr-serafin-en|Piotr Serafin]] | declaration | 0 |
 | [[sources/declaration-doi-raffaele-fitto-en|Raffaele Fitto]] | declaration | 0 |
 | [[sources/cjeu-raffaella-pezzuto|Raffaella Pezzuto]] | cjeu | 0 |
 | [[sources/wikipedia-ram-n-luis-valc-rcel|Ram N Luis Valc Rcel]] | wikipedia | 0 |
 | [[sources/cjeu-ramona-frendo|Ramona Frendo]] | cjeu | 0 |
+| [[sources/wikipedia-edu-ramon-luis-valcarcel|Ramón Luis Valcárcel]] | wikipedia | 0 |
 | [[sources/entity_md-rand-europe|Rand Europe]] | entity_md | 0 |
 | [[sources/cjeu-rapha-l-meyer|Rapha L Meyer]] | cjeu | 0 |
 | [[sources/cjeu-ricardo-da-silva-passos|Ricardo Da Silva Passos]] | cjeu | 0 |
 | [[sources/cjeu-rimvydas-norkus|Rimvydas Norkus]] | cjeu | 0 |
 | [[sources/declaration-doi-roxana-minzatu-en|Roxana Minzatu]] | declaration | 0 |
+| [[sources/wikipedia-edu-sabine-verheyen|Sabine Verheyen]] | wikipedia | 0 |
 | [[sources/cjeu-saulius-lukas-kal-da|Saulius Lukas Kal Da]] | cjeu | 0 |
 | [[sources/cjeu-savvas-s-papasavvas|Savvas S Papasavvas]] | cjeu | 0 |
 | [[sources/wikipedia-scott-russell|Scott Russell]] | wikipedia | 0 |
@@ -673,14 +747,13 @@ tags:
 | [[sources/cjeu-see-also|See Also]] | cjeu | 0 |
 | [[sources/cjeu-show-less|Show Less]] | cjeu | 0 |
 | [[sources/wikipedia-sigrid-friis-frederiksen|Sigrid Friis Frederiksen]] | wikipedia | 0 |
-| [[sources/cjeu-sini-a-rodin|Sini A Rodin]] | cjeu | 0 |
 | [[sources/revolving_door-sir-julian-king|Sir Julian King]] | revolving_door | 0 |
+| [[sources/wikipedia-edu-sophie-wilmes|Sophie Wilmès]] | wikipedia | 0 |
 | [[sources/cjeu-st-phane-gervasoni|St Phane Gervasoni]] | cjeu | 0 |
 | [[sources/revolving_door-stefan-fle|Stefan Fle]] | revolving_door | 0 |
 | [[sources/revolving_door-stefan-fule|Stefan Fule]] | revolving_door | 0 |
 | [[sources/declaration-doi-stephane-sejourne-en|Stephane Sejourne]] | declaration | 0 |
 | [[sources/cjeu-steven-verschuur|Steven Verschuur]] | cjeu | 0 |
-| [[sources/dg_cv-stphanie-riso|Stphanie Riso]] | dg_cv | 0 |
 | [[sources/wikipedia-supervisory-board|Supervisory Board]] | wikipedia | 0 |
 | [[sources/cjeu-suzanne-kingston|Suzanne Kingston]] | cjeu | 0 |
 | [[sources/cjeu-tamara-apeta|Tamara Apeta]] | cjeu | 0 |
@@ -705,9 +778,12 @@ tags:
 | [[sources/declaration-doi-valdis-dombrovskis-en|Valdis Dombrovskis]] | declaration | 0 |
 | [[sources/revolving_door-vera-jourova|Vera Jourova]] | revolving_door | 0 |
 | [[sources/wikipedia-vice-chairman|Vice Chairman]] | wikipedia | 0 |
+| [[sources/wikipedia-edu-victor-negrescu|Victor Negrescu]] | wikipedia | 0 |
 | [[sources/wikipedia-virginijus-sinkeviius|Virginijus Sinkeviius]] | wikipedia | 0 |
 | [[sources/cjeu-vittorio-di-bucci|Vittorio Di Bucci]] | cjeu | 0 |
 | [[sources/wikipedia-vladimr-pidla|Vladimr Pidla]] | wikipedia | 0 |
+| [[sources/wikipedia-edu-vladimir-spidla|Vladimír Špidla]] | wikipedia | 0 |
+| [[sources/wikipedia-vladimir-spidla|Vladimír Špidla]] | wikipedia | 0 |
 | [[sources/revolving_door-vra-jourov|Vra Jourov]] | revolving_door | 0 |
 | [[sources/wikipedia-vra-jourov|Vra Jourov]] | wikipedia | 0 |
 | [[sources/wikipedia-werner-dollinger|Werner Dollinger]] | wikipedia | 0 |
