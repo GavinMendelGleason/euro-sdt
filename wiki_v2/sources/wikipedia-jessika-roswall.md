@@ -4,7 +4,7 @@ title: Jessika Roswall
 type: source
 tags:
   - source
-generated: 2026-10-21
+generated: 2026-10-23
 ---
 # Jessika Roswall
 
@@ -14,8 +14,10 @@ generated: 2026-10-21
 - SHA-256: `5181d769ee0071001d7c2dd4915e5150595849ae6dd3b8bdd23a1bbb0be808bd`
 - Sentences: 18
 
-## Verified claims citing this document (8)
+## Verified claims citing this document (9)
 
+- [[people/jessika-roswall|Jessika Roswall]] — educated_at — Uppsala University
+  > "She moved to Uppsala to study law at Uppsala University and graduated in law (LLM) in 2002."
 - [[people/jessika-roswall|Jessika Roswall]] — employed_by — Wigert & Placht
   > "After graduation, Roswall started working as a paralegal at the law firm Wigert & Placht."
 - [[people/jessika-roswall|Jessika Roswall]] — held_portfolio — European Commissioner for Environment, Water Resilience, and a Competitive Circular Economy

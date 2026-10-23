@@ -4,7 +4,7 @@ title: Kerstin Jorna
 type: source
 tags:
   - source
-generated: 2026-10-21
+generated: 2026-10-23
 ---
 # Kerstin Jorna
 
@@ -13,8 +13,10 @@ generated: 2026-10-21
 - SHA-256: `d8ce3cd2f5c5da11626214c8d8cc9f83af27d45f55f3245fe37a44da6d186b3d`
 - Sentences: 23
 
-## Verified claims citing this document (3)
+## Verified claims citing this document (4)
 
+- [[people/kerstin-jorna|Kerstin Jorna]] — educated_at — College of Europe
+  > "1986: Diploma of Advanced European Studies, College of Bruges ( Law)"
 - [[people/kerstin-jorna|Kerstin Jorna]] — held_position — Director-General → Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs
   > " 1996 – 1998: Assistant to the Director-General – DG MARKT."
 - [[people/kerstin-jorna|Kerstin Jorna]] — studied_field — Law

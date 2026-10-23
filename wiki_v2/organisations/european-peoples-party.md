@@ -7,11 +7,11 @@ tags:
   - organisation
   - verified
   - organisation
-generated: 2026-10-21
+generated: 2026-10-23
 ---
 # European People's Party
 
-*Verified member assertions: 27 people*
+*Verified member assertions: 28 people*
 
 ## Members and roles
 
@@ -24,6 +24,9 @@ generated: 2026-10-21
 - [[people/antonio-tajani|Antonio Tajani]]  
   > "He was admitted to the European People's Party."
   > Source: [[sources/wikipedia-antonio-tajani|Antonio Tajani]] · grade B
+- [[people/antonios-trakatellis|Antonios Trakatellis]]  
+  > "He was elected on the New Democracy ticket and sits with the European People's Party group."
+  > Source: [[sources/wikipedia-antonios-trakatellis|Antonios Trakatellis]] · grade B
 - [[people/astrid-lulling|Astrid Lulling]]  
   > "She was a Member of the European Parliament (1965–1974 and 1989–2014) for the Christian Social People's Party , part of the European People's Party ."
   > Source: [[sources/wikipedia-astrid-lulling|Astrid Lulling]] · grade A

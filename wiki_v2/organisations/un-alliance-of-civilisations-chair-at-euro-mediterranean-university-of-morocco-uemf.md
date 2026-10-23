@@ -7,7 +7,7 @@ tags:
   - organisation
   - verified
   - organisation
-generated: 2026-10-21
+generated: 2026-10-23
 ---
 # UN Alliance of Civilisations Chair at Euro-Mediterranean University of Morocco (UEMF)
 

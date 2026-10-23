@@ -8,13 +8,23 @@ tags:
   - person
   - verified
   - dg
-generated: 2026-10-21
+generated: 2026-10-23
 ---
 # Despina Spanou
 
 Dg
 
-*Verified assertions: 1*
+*Verified assertions: 3*
+
+## Education
+
+- [[organisations/university-of-cambridge|University of Cambridge]]  
+  > "01/1995 – 02/1999: PhD in European Law – University of Cambridge – Cambridge, United Kingdom"
+  > Source: [[sources/dg_cv-despina-spanou|Despina Spanou]] · grade A
+
+- [[organisations/university-of-exeter|University Of Exeter]]  
+  > "10/1993 – 10/1994: LLM in European Legal Studies – University of Exeter – Exeter, United Kingdom"
+  > Source: [[sources/dg_cv-despina-spanou|Despina Spanou]] · grade A
 
 ## Affiliation
 

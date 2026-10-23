@@ -7,7 +7,7 @@ tags:
   - organisation
   - verified
   - university
-generated: 2026-10-21
+generated: 2026-10-23
 ---
 # Faculty Of Laws – Tal-Qroqq, Malta
 

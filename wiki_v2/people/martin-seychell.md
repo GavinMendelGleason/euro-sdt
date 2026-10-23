@@ -8,13 +8,19 @@ tags:
   - person
   - verified
   - dg
-generated: 2026-10-21
+generated: 2026-10-23
 ---
 # Martin Seychell
 
 Dg
 
-*Verified assertions: 3*
+*Verified assertions: 4*
+
+## Education
+
+- [[organisations/university-of-malta|University of Malta]]  
+  > "Bachelor of Pharmaceutical Technology (Honours) from the University of Malta – Second Class Lower Honours degree."
+  > Source: [[sources/dg_cv-martin-seychell|Martin Seychell]] · grade A
 
 ## Membership
 

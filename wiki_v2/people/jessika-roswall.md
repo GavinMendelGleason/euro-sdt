@@ -8,18 +8,24 @@ tags:
   - person
   - verified
   - commissioner
-generated: 2026-10-21
+generated: 2026-10-23
 ---
 # Jessika Roswall
 
 Commissioner · SWE
 
-*Verified assertions: 9*
+*Verified assertions: 10*
 
 ## Portfolio
 
 - European Commissioner for Environment, Water Resilience, and a Competitive Circular Economy  
   > "She serves as European Commissioner for Environment, Water Resilience and a Competitive Circular Economy and Swedish European Commissioner since 1 December 2024."
+  > Source: [[sources/wikipedia-jessika-roswall|Jessika Roswall]] · grade A
+
+## Education
+
+- [[organisations/uppsala-university|Uppsala University]]  
+  > "She moved to Uppsala to study law at Uppsala University and graduated in law (LLM) in 2002."
   > Source: [[sources/wikipedia-jessika-roswall|Jessika Roswall]] · grade A
 
 ## Membership

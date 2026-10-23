@@ -6,7 +6,7 @@ category:
 tags:
   - organisation
   - verified
-generated: 2026-10-21
+generated: 2026-10-23
 ---
 # Special Committee for the Reform Treaty of the European Union
 

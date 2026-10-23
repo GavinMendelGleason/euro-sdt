@@ -4,7 +4,7 @@ title: Daniel Cohn Bendit
 type: source
 tags:
   - source
-generated: 2026-10-21
+generated: 2026-10-23
 ---
 # Daniel Cohn Bendit
 

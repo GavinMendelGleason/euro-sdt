@@ -6,19 +6,19 @@ Generated from `euro_sdt_v2.db`. Only `assertion.status = 'verified'` appears he
 
 | Metric | All verified | Grade A only | Network edges only |
 |---|---:|---:|---:|
-| Nodes | 2834 | 2212 | 2147 |
-| Edges | 3594 | 2615 | 2612 |
-| Unique person–entity pairs | 3395 | 2513 | 2490 |
-| Largest component | 2598 | 1890 | 1914 |
-| Degree-1 nodes | 2146 | 1659 | 1610 |
+| Nodes | 2857 | 2236 | 2147 |
+| Edges | 3621 | 2641 | 2613 |
+| Unique person–entity pairs | 3422 | 2539 | 2491 |
+| Largest component | 2618 | 1909 | 1914 |
+| Degree-1 nodes | 2158 | 1672 | 1610 |
 
 ## Edges by class
 
 | Class | Edges |
 |---|---:|
-| education | 525 |
+| education | 551 |
 | institutional | 94 |
-| network | 2612 |
+| network | 2613 |
 | occupational | 361 |
 | other | 2 |
 
@@ -26,8 +26,8 @@ Generated from `euro_sdt_v2.db`. Only `assertion.status = 'verified'` appears he
 
 | Grade | Edges |
 |---|---:|
-| A | 2615 |
-| B | 449 |
+| A | 2641 |
+| B | 450 |
 | C | 530 |
 
 ## Top hubs (all verified edges)
@@ -46,9 +46,9 @@ Generated from `euro_sdt_v2.db`. Only `assertion.status = 'verified'` appears he
 | Mario Monti | person | 30 |
 | António Vitorino | person | 29 |
 | Günther Oettinger | person | 29 |
+| European People's Party | organisation | 28 |
 | José Manuel Barroso | person | 28 |
 | Anita Gradin | person | 27 |
-| European People's Party | organisation | 27 |
 
 ## Top co-affiliations
 

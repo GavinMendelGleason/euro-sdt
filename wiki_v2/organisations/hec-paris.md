@@ -7,14 +7,17 @@ tags:
   - organisation
   - verified
   - university
-generated: 2026-10-21
+generated: 2026-10-23
 ---
 # Hec Paris
 
-*Verified member assertions: 4 people*
+*Verified member assertions: 5 people*
 
 ## Members and roles
 
+- [[people/christian-roques|Christian Roques]]  
+  > "1993-1995 Business School, Finance and Economics majors, HEC graduate, Ecole HEC School of Management, Jouy-en-Josas, France"
+  > Source: [[sources/dg_cv-christian-roques|Christian Roques]] · grade A
 - [[people/gilles-schnepp|Gilles Schnepp]]  
   > "== Career == Having graduated from HEC Paris in 1981, Gilles Schnepp begins his career in 1983 at Merrill Lynch France."
   > Source: [[sources/wikipedia-corp-gilles-schnepp|Corp Gilles Schnepp]] · grade A

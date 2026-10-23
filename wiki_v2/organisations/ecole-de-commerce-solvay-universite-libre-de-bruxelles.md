@@ -7,7 +7,7 @@ tags:
   - organisation
   - verified
   - university
-generated: 2026-10-21
+generated: 2026-10-23
 ---
 # Ecole De Commerce Solvay, Université Libre De Bruxelles
 

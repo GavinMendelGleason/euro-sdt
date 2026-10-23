@@ -4,7 +4,7 @@ title: Jacek Saryusz Wolski
 type: source
 tags:
   - source
-generated: 2026-10-21
+generated: 2026-10-23
 ---
 # Jacek Saryusz Wolski
 

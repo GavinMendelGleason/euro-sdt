@@ -4,7 +4,7 @@ title: Valdis Dombrovskis
 type: source
 tags:
   - source
-generated: 2026-10-21
+generated: 2026-10-23
 ---
 # Valdis Dombrovskis
 

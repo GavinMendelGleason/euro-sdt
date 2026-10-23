@@ -7,14 +7,17 @@ tags:
   - organisation
   - verified
   - university
-generated: 2026-10-21
+generated: 2026-10-23
 ---
 # University Of Innsbruck
 
-*Verified member assertions: 2 people*
+*Verified member assertions: 3 people*
 
 ## Members and roles
 
+- [[people/hubert-gambs|Hubert Gambs]]  
+  > "1987-1992: Law at the University of Innsbruck (\"Magister der Rechtswissenschaften\")"
+  > Source: [[sources/dg_cv-hubert-gambs|Hubert Gambs]] · grade A
 - [[people/magnus-brunner|Magnus Brunner]]  
   > "Brunner studied jurisprudence at the University of Innsbruck, the University of Vienna (Dr. iur.) and King's College London (LLM)."
   > Source: [[sources/wikipedia-magnus-brunner|Magnus Brunner]] · grade A

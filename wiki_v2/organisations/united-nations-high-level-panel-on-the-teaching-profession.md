@@ -6,7 +6,7 @@ category:
 tags:
   - organisation
   - verified
-generated: 2026-10-21
+generated: 2026-10-23
 ---
 # United Nations High-level Panel on the Teaching Profession
 

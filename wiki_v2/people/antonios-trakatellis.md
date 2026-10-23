@@ -8,13 +8,13 @@ tags:
   - person
   - verified
   - mep
-generated: 2026-10-21
+generated: 2026-10-23
 ---
 # Antonios Trakatellis
 
 Mep
 
-*Verified assertions: 4*
+*Verified assertions: 5*
 
 ## Education
 
@@ -23,6 +23,10 @@ Mep
   > Source: [[sources/wikipedia-antonios-trakatellis|Antonios Trakatellis]] · grade A
 
 ## Membership
+
+- [[organisations/european-peoples-party|European People's Party]]  
+  > "He was elected on the New Democracy ticket and sits with the European People's Party group."
+  > Source: [[sources/wikipedia-antonios-trakatellis|Antonios Trakatellis]] · grade B
 
 - [[organisations/new-democracy|New Democracy]]  
   > "He was elected on the New Democracy ticket and sits with the European People's Party group."

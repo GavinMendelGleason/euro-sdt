@@ -7,7 +7,7 @@ tags:
   - organisation
   - verified
   - multi-stakeholder-forum
-generated: 2026-10-21
+generated: 2026-10-23
 ---
 # World Economic Forum
 

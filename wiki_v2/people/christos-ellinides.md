@@ -8,13 +8,23 @@ tags:
   - person
   - verified
   - dg
-generated: 2026-10-21
+generated: 2026-10-23
 ---
 # Christos Ellinides
 
 Dg
 
-*Verified assertions: 1*
+*Verified assertions: 3*
+
+## Education
+
+- [[organisations/city-university-of-london|City, University of London]]  
+  > "28/01/1987: M.Sc. in Systems Analysis and Design, The City University, London (U.K.)"
+  > Source: [[sources/dg_cv-christos-ellinides|Christos Ellinides]] · grade A
+
+- [[organisations/nova-university|Nova University]]  
+  > "07/06/1985: B.Sc. (cum laude – with honors) Computer Science and Business Administration, Nova University, Miami (U.S.A)"
+  > Source: [[sources/dg_cv-christos-ellinides|Christos Ellinides]] · grade A
 
 ## Board / trustee
 

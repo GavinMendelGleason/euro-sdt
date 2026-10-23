@@ -7,7 +7,7 @@ tags:
   - organisation
   - verified
   - pr-communications
-generated: 2026-10-21
+generated: 2026-10-23
 ---
 # Kekst CNC
 

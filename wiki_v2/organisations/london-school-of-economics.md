@@ -7,11 +7,11 @@ tags:
   - organisation
   - verified
   - university
-generated: 2026-10-21
+generated: 2026-10-23
 ---
 # London School Of Economics
 
-*Verified member assertions: 5 people*
+*Verified member assertions: 6 people*
 
 ## Members and roles
 
@@ -24,6 +24,9 @@ generated: 2026-10-21
 - [[people/margaritis-schinas|Margaritis Schinas]]  
   > "He went on to receive a Diploma of Advanced European Studies (DAES) in European Public Administration from the College of Europe in Bruges in 1986, as well as a further Master of Science in Public Administration and Policy at the London School of Economics in 1987."
   > Source: [[sources/wikipedia-margaritis-schinas|Margaritis Schinas]] · grade A
+- [[people/mario-nava|Mario Nava]]  
+  > "09/1992 – 07/1996: PhD in Economics – London School of Economics"
+  > Source: [[sources/dg_cv-mario-nava|Mario Nava]] · grade A
 - [[people/romano-prodi|Romano Prodi]]  
   > "He then carried out postgraduate studies at the London School of Economics."
   > Source: [[sources/wikipedia-romano-prodi|Romano Prodi]] · grade A

@@ -8,7 +8,7 @@ tags:
   - person
   - verified
   - corporate-elite
-generated: 2026-10-21
+generated: 2026-10-23
 ---
 # Pier Carlo Padoan
 

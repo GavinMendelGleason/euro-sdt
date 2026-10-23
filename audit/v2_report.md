@@ -6,10 +6,10 @@ Generated from `euro_sdt_v2.db`, `audit/v1_baseline.json`, and `graph/metrics.js
 
 | Metric | v1 | v2 |
 |---|---:|---:|
-| Assertions / facts | 5313 | 5380 |
-| Verified | 726 | 4036 |
-| Needs review | — | 177 |
-| Rejected | — | 1167 |
+| Assertions / facts | 5313 | 5404 |
+| Verified | 726 | 4063 |
+| Needs review | — | 182 |
+| Rejected | — | 1159 |
 | Source documents | 0 hashed | 707 hashed |
 | Sentences | 0 | 33901 |
 
@@ -22,12 +22,12 @@ verified subset and keeps rejected candidates in `rejection`.
 | Status | Grade | Count |
 |---|---|---:|
 | needs_review | B | 8 |
-| needs_review | C | 169 |
-| rejected | B | 139 |
-| rejected | C | 565 |
-| rejected | none | 463 |
-| verified | A | 2990 |
-| verified | B | 477 |
+| needs_review | C | 174 |
+| rejected | B | 138 |
+| rejected | C | 564 |
+| rejected | none | 457 |
+| verified | A | 3016 |
+| verified | B | 478 |
 | verified | C | 569 |
 
 ## Predicate results
@@ -49,9 +49,9 @@ verified subset and keeps rejected candidates in `rejection`.
 | chair | needs_review | 17 |
 | chair | rejected | 79 |
 | chair | verified | 510 |
-| educated_at | needs_review | 11 |
-| educated_at | rejected | 126 |
-| educated_at | verified | 533 |
+| educated_at | needs_review | 15 |
+| educated_at | rejected | 120 |
+| educated_at | verified | 559 |
 | employed_by | needs_review | 25 |
 | employed_by | rejected | 21 |
 | employed_by | verified | 362 |
@@ -72,9 +72,9 @@ verified subset and keeps rejected candidates in `rejection`.
 | held_position | needs_review | 5 |
 | held_position | rejected | 56 |
 | held_position | verified | 58 |
-| member | needs_review | 18 |
-| member | rejected | 288 |
-| member | verified | 1176 |
+| member | needs_review | 19 |
+| member | rejected | 286 |
+| member | verified | 1177 |
 | nominated_by | needs_review | 5 |
 | nominated_by | rejected | 80 |
 | nominated_by | verified | 60 |
@@ -95,6 +95,8 @@ verified subset and keeps rejected candidates in `rejection`.
 |---|---|---|---|
 | extraction | deepseek-chat | 2026-10-21T08:55:41+00:00 |  |
 | extraction | deepseek-chat | 2026-10-21T08:56:27+00:00 | 2026-10-21T08:56:51+00:00 |
+| education | deepseek-chat | 2026-10-23T22:46:22+00:00 |  |
+| education | deepseek-chat | 2026-10-23T22:46:38+00:00 |  |
 
 Claims from full-document extraction: **1127**.
 
@@ -105,7 +107,7 @@ Claims from full-document extraction: **1127**.
 |---|---:|
 | source_resolution | 722 |
 | llm_adjudication | 702 |
-| locator | 463 |
+| locator | 457 |
 | migration | 51 |
 | party_group_guard | 2 |
 
@@ -132,18 +134,18 @@ Claims from full-document extraction: **1127**.
 
 | Metric | All verified | Network only |
 |---|---:|---:|
-| Nodes | 2834 | 2147 |
-| Edges | 3594 | 2612 |
-| Largest component | 2598 | 1914 |
-| Degree-1 nodes | 2146 | 1610 |
+| Nodes | 2857 | 2147 |
+| Edges | 3621 | 2613 |
+| Largest component | 2618 | 1914 |
+| Degree-1 nodes | 2158 | 1610 |
 
 ### Edges by class
 
 | Class | Edges |
 |---|---:|
-| education | 525 |
+| education | 551 |
 | institutional | 94 |
-| network | 2612 |
+| network | 2613 |
 | occupational | 361 |
 | other | 2 |
 

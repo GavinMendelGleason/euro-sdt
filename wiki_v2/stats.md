@@ -11,14 +11,14 @@ tags:
 
 | Grade | Status | Count |
 |---|---|---:|
-| A | verified | 2990 |
+| A | verified | 3016 |
 | B | needs_review | 8 |
-| B | rejected | 139 |
-| B | verified | 477 |
-| C | needs_review | 169 |
-| C | rejected | 565 |
+| B | rejected | 138 |
+| B | verified | 478 |
+| C | needs_review | 174 |
+| C | rejected | 564 |
 | C | verified | 569 |
-| none | rejected | 463 |
+| none | rejected | 457 |
 
 ## Predicate coverage
 
@@ -39,9 +39,9 @@ tags:
 | chair | needs_review | 17 |
 | chair | rejected | 79 |
 | chair | verified | 510 |
-| educated_at | needs_review | 11 |
-| educated_at | rejected | 126 |
-| educated_at | verified | 533 |
+| educated_at | needs_review | 15 |
+| educated_at | rejected | 120 |
+| educated_at | verified | 559 |
 | employed_by | needs_review | 25 |
 | employed_by | rejected | 21 |
 | employed_by | verified | 362 |
@@ -62,9 +62,9 @@ tags:
 | held_position | needs_review | 5 |
 | held_position | rejected | 56 |
 | held_position | verified | 58 |
-| member | needs_review | 18 |
-| member | rejected | 288 |
-| member | verified | 1176 |
+| member | needs_review | 19 |
+| member | rejected | 286 |
+| member | verified | 1177 |
 | nominated_by | needs_review | 5 |
 | nominated_by | rejected | 80 |
 | nominated_by | verified | 60 |
@@ -83,11 +83,11 @@ tags:
 
 | Category | Claims | Verified |
 |---|---:|---:|
-| commissioner | 3169 | 2470 |
-| mep | 1324 | 1001 |
+| commissioner | 3174 | 2473 |
+| mep | 1325 | 1003 |
 | corporate_elite | 454 | 370 |
-| dg | 318 | 159 |
-| cjeu_judge | 62 | 22 |
+| dg | 335 | 180 |
+| cjeu_judge | 63 | 23 |
 | cjeu_ag | 38 | 9 |
 | ddg | 8 | 5 |
 

@@ -4,7 +4,7 @@ title: Tonio Borg
 type: source
 tags:
   - source
-generated: 2026-10-21
+generated: 2026-10-23
 ---
 # Tonio Borg
 
@@ -14,7 +14,7 @@ generated: 2026-10-21
 - SHA-256: `c6103c28a19538628e504eeb1f35e7ab0e078bdedc598b259e4738141ba6f5db`
 - Sentences: 39
 
-## Verified claims citing this document (7)
+## Verified claims citing this document (8)
 
 - [[people/tonio-borg|Tonio Borg]] — board_member — European Medicines Agency (EMA)
   > "Other activities European Medicines Agency (EMA), Member of the Management Board Recognition In December 2018 Borg was appointed Companion of the Order of Merit (KOM) by the President of Malta."
@@ -22,6 +22,8 @@ generated: 2026-10-21
   > "Other activities European Medicines Agency (EMA), Member of the Management Board"
 - [[people/tonio-borg|Tonio Borg]] — board_member — European Medicines Agency (EMA)
   > "European Medicines Agency (EMA), Member of the Management Board"
+- [[people/tonio-borg|Tonio Borg]] — educated_at — University of Malta
+  > "Graduating with a law degree in 1979, he would start lecturing at the University of Malta initially as a guest lecturer."
 - [[people/tonio-borg|Tonio Borg]] — held_degree — PhD
   > "His PhD thesis was published as a book in 2020."
 - [[people/tonio-borg|Tonio Borg]] — member — College of the European Commission

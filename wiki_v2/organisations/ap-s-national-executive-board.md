@@ -6,7 +6,7 @@ category:
 tags:
   - organisation
   - verified
-generated: 2026-10-21
+generated: 2026-10-23
 ---
 # AP's national executive board
 

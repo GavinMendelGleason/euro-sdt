@@ -4,7 +4,7 @@ title: Corp Jim Hagemann Snabe
 type: source
 tags:
   - source
-generated: 2026-10-21
+generated: 2026-10-23
 ---
 # Corp Jim Hagemann Snabe
 

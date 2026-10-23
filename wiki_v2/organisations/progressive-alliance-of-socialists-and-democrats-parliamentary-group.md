@@ -7,7 +7,7 @@ tags:
   - organisation
   - verified
   - organisation
-generated: 2026-10-21
+generated: 2026-10-23
 ---
 # Progressive Alliance of Socialists and Democrats parliamentary group
 

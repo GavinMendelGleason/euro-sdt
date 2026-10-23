@@ -6,7 +6,7 @@ category:
 tags:
   - organisation
   - verified
-generated: 2026-10-21
+generated: 2026-10-23
 ---
 # World Health Organization (WHO) Regional Office for Europe’s Pan-European Commission on Climate and Health (PECCH)
 

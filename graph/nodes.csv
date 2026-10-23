@@ -11,6 +11,7 @@ a-a-zhdanov-state-university-in-leningrad,A. A. Zhdanov State University In Leni
 aarhus-university,Aarhus University,institution,university,,active,5
 aberystwyth-university,Aberystwyth University,institution,university,,active,1
 academy-of-social-sciences,Academy Of Social Sciences,institution,university,,active,1
+alcala-de-henares,Alcalá De Henares,institution,university,,active,1
 alfa-savings-bank,Alfa Savings Bank,institution,university,,active,1
 antwerp-university-ufsia-antwerp-belgium,"Antwerp University - Ufsia – Antwerp, Belgium",institution,university,,active,1
 architectural-association-school-of-architecture,Architectural Association School Of Architecture,institution,university,,active,1
@@ -34,10 +35,12 @@ central-european-university-prague,"Central European University, Prague",institu
 ceu-san-pablo-university-foundation,Ceu San Pablo University Foundation,institution,university,,active,1
 charles-university,Charles University,institution,university,,active,2
 charles-university-in-prague,Charles University In Prague,institution,university,,active,3
+city-university-of-london,"City, University of London",institution,university,,active,1
 classical-lyceum-torquato-tasso,Classical Lyceum Torquato Tasso,institution,university,,active,1
-college-of-europe,College of Europe,institution,university,,active,13
+college-of-europe,College of Europe,institution,university,,active,15
 colaiste-muire-tourmakeady,"Coláiste Muire, Tourmakeady",institution,university,,active,1
 comenius-university,Comenius University,institution,university,,active,1
+community-of-european-management-schools,Community Of European Management Schools,institution,university,,active,1
 complutense-university-of-madrid,Complutense University Of Madrid,institution,university,,active,3
 corvinus-university-of-budapest,Corvinus University Of Budapest,institution,university,,active,1
 council-of-legal-education,Council Of Legal Education,institution,university,,active,1
@@ -50,6 +53,7 @@ enpc-paris,Enpc (Paris),institution,university,,active,1
 essec-business-school,Essec Business School,institution,university,,active,2
 estonian-business-school-ebs,Estonian Business School (Ebs),institution,university,,active,2
 estonian-university-of-life-sciences,Estonian University Of Life Sciences,institution,university,,active,1
+european-institute-of-the-university-of-amsterdam,European Institute Of The University Of Amsterdam,institution,university,,active,1
 eotvos-lorand-university,Eötvös Loránd University,institution,university,,active,1
 faculty-of-electrical-engineering-university-of-ljubljana,"Faculty Of Electrical Engineering, University Of Ljubljana",institution,university,,active,1
 faculty-of-laws-tal-qroqq-malta,"Faculty Of Laws – Tal-Qroqq, Malta",institution,university,,active,1
@@ -64,9 +68,10 @@ gymnasium-korntal-munchingen,Gymnasium Korntal-Münchingen,institution,universit
 haberdashers-aske-s-boys-school,Haberdashers' Aske'S Boys' School,institution,university,,active,1
 hanover-medical-school,Hanover Medical School,institution,university,,active,1
 harvard,Harvard,institution,university,,active,11
-hec-paris,Hec Paris,institution,university,,active,4
+hec-paris,Hec Paris,institution,university,,active,5
 hendon-school,Hendon School,institution,university,,active,1
 humboldt-university-berlin-germany,"Humboldt University Berlin, Germany",institution,university,,active,1
+icade,ICADE,institution,university,,active,1
 insead,Insead,institution,university,,active,5
 institut-d-etudes-politiques,Institut D'Études Politiques,institution,university,,active,1
 institut-d-etudes-politiques-d-aix-en-provence,Institut D'Études Politiques D'Aix-En-Provence,institution,university,,active,1
@@ -74,10 +79,11 @@ institut-d-etudes-politiques-de-bordeaux-institute-of-political-studies-in-bor,I
 institut-des-hautes-etudes-de-defense-nationale-ihedn,Institut Des Hautes Études De Défense Nationale (Ihedn),institution,university,,active,2
 institut-detudes-politiques-de-paris,Institut D’Etudes Politiques De Paris,institution,university,,active,1
 institut-national-agronomique-paris-grignon-inapg,Institut National Agronomique Paris-Grignon (Inapg),institution,university,,active,1
+institute-of-european-studies-of-the-free-university-of-brussels-ulb,Institute Of European Studies Of The Free University Of Brussels (Ulb),institution,university,,active,1
 institute-of-political-science-and-international-relations-vilnius-university,"Institute Of Political Science And International Relations, Vilnius University",institution,university,,active,1
 instituto-superior-tecnico,Instituto Superior Técnico,institution,university,,active,1
 iseg-technical-university-of-lisbon,"Iseg, Technical University Of Lisbon",institution,university,,active,1
-jagiellonian-university,Jagiellonian University,institution,university,,active,1
+jagiellonian-university,Jagiellonian University,institution,university,,active,2
 jesuit-school-at-chamartin,Jesuit School At Chamartín,institution,university,,active,1
 jesuit-school-of-indautxu,Jesuit School Of Indautxu,institution,university,,active,1
 karl-marx-higher-institute-of-economics-now-called-university-of-national-and-w,Karl Marx Higher Institute Of Economics (Now Called University Of National And W,institution,university,,active,1
@@ -91,7 +97,7 @@ lewis-school-pengam,"Lewis School, Pengam",institution,university,,active,1
 liceo-ludovico-ariosto,Liceo Ludovico Ariosto,institution,university,,active,1
 liceo-torquato-tasso-in-rome,Liceo Torquato Tasso In Rome,institution,university,,active,1
 london-institute-of-world-affairs,London Institute Of World Affairs,institution,university,,active,1
-london-school-of-economics,London School Of Economics,institution,university,,active,5
+london-school-of-economics,London School Of Economics,institution,university,,active,6
 louis-pasteur-university-in-strasbourg,Louis Pasteur University In Strasbourg,institution,university,,active,1
 luiss,Luiss,institution,university,,active,1
 lund-university,Lund University,institution,university,,active,1
@@ -115,6 +121,7 @@ nancy-university,Nancy University,institution,university,,active,2
 national-technical-university-of-athens,National Technical University Of Athens,institution,university,,active,2
 new-york-university,New York University,institution,university,,active,2
 nordic-folk-high-school-in-geneva,Nordic Folk High School In Geneva,institution,university,,active,1
+nova-university,Nova University,institution,university,,active,1
 nyenrode-business-university,Nyenrode Business University,institution,university,,active,1
 our-lady-of-the-visitation,Our Lady Of The Visitation,institution,university,,active,1
 penn-state-university,Penn State University,institution,university,,active,1
@@ -164,15 +171,16 @@ university-college-cork,University College Cork,institution,university,,active,3
 university-college-london,University College London,institution,university,,active,3
 university-of-alcala-de-henares,University Of Alcalá De Henares,institution,university,,active,1
 university-of-birmingham,University Of Birmingham,institution,university,,active,1
-university-of-bucharest,University Of Bucharest,institution,university,,active,2
+university-of-bucharest,University Of Bucharest,institution,university,,active,3
 university-of-california-berkeley,"University Of California, Berkeley",institution,university,,active,1
 university-of-cadiz,University Of Cádiz,institution,university,,active,1
 university-of-deusto,University Of Deusto,institution,university,,active,2
+university-of-exeter,University Of Exeter,institution,university,,active,1
 university-of-freiburg,University Of Freiburg,institution,university,,active,1
 university-of-glasgow-law-school-united-kingdom,"University Of Glasgow, Law School, United Kingdom",institution,university,,active,1
 university-of-gothenburg,University Of Gothenburg,institution,university,,active,1
 university-of-granada,University Of Granada,institution,university,,active,1
-university-of-innsbruck,University Of Innsbruck,institution,university,,active,2
+university-of-innsbruck,University Of Innsbruck,institution,university,,active,3
 university-of-jyvaskyla,University Of Jyväskylä,institution,university,,active,2
 university-of-kingston-upon-hull,University Of Kingston-Upon-Hull,institution,university,,active,1
 university-of-leicester,University Of Leicester,institution,university,,active,1
@@ -195,11 +203,15 @@ university-of-wales,University Of Wales,institution,university,,active,1
 university-of-york,University Of York,institution,university,,active,2
 university-of-zagreb-faculty-of-economics,University Of Zagreb Faculty Of Economics,institution,university,,active,1
 university-of-odz,University Of Łódź,institution,university,,active,1
+university-of-humberside,University of Humberside,institution,university,,active,1
+university-of-malta,University of Malta,institution,university,,active,2
 universita-cattolica,Università Cattolica,institution,university,,active,1
-universite-catholique-de-louvain,Université Catholique De Louvain,institution,university,,active,2
+universita-commerciale-luigi-bocconi-milan,"Università Commerciale Luigi Bocconi, Milan",institution,university,,active,1
+universite-catholique-de-louvain,Université Catholique De Louvain,institution,university,,active,3
 universite-de-lausanne,Université De Lausanne,institution,university,,active,1
 universite-libre-de-bruxelles,Université Libre De Bruxelles,institution,university,,active,5
 upholland-grammar-school,Upholland Grammar School,institution,university,,active,1
+uppsala-university,Uppsala University,institution,university,,active,1
 utrecht-university,Utrecht University,institution,university,,active,1
 victoria-university-of-manchester,Victoria University Of Manchester,institution,university,,active,1
 vilnius-university,Vilnius University,institution,university,,active,4
@@ -976,7 +988,7 @@ european-parliament-s-committee-on-the-internal-market-and-consumer-protection,E
 european-parliament-s-delegation-to-the-pan-african-parliament,European Parliament's delegation to the Pan-African Parliament,organisation,organisation,,active,1
 european-parliamentary-association,European Parliamentary Association,organisation,organisation,,active,1
 european-partnership-for-an-innovative-campus-unifying-regions-epicur,European Partnership for an Innovative Campus Unifying Regions (EPICUR),organisation,,,active,1
-european-peoples-party,European People's Party,organisation,organisation,,active,35
+european-peoples-party,European People's Party,organisation,organisation,,active,36
 european-people-s-party-european-democrats,European People's Party - European Democrats,organisation,organisation,,active,2
 european-people-s-party-group,European People's Party Group,organisation,organisation,,active,8
 european-people-s-party-health-ministers-meeting,European People's Party Health Ministers Meeting,organisation,,,active,1
@@ -1356,6 +1368,7 @@ kr-foundation,KR Foundation,organisation,,,active,2
 kaitseliit-defence-league,Kaitseliit (Defence League),organisation,,,active,1
 kangaroo-group,Kangaroo Group,organisation,organisation,,active,1
 karl-marx-university-of-economic-sciences-present-day-corvinus-university-of-budapest,Karl Marx University of Economic Sciences (present-day Corvinus University of Budapest),organisation,organisation,,active,2
+karl-franzens-universitat-graz,Karl-Franzens-Universität Graz,organisation,organisation,,active,1
 karlspreis,Karlspreis,organisation,,,active,1
 katholieke-universiteit-leuven,Katholieke Universiteit Leuven,organisation,organisation,,active,2
 katholieke-volkspartij-kvp,Katholieke Volkspartij (KVP),organisation,,,active,1
@@ -2066,7 +2079,7 @@ treasury,Treasury,organisation,,,active,1
 tribune-group,Tribune Group,organisation,,,active,1
 trilateral-commission,Trilateral Commission,organisation,Elite network,New York / Paris / Tokyo,active,9
 trilateral-commissions-task-force-on-global-capitalism-in-transition,Trilateral Commission’s Task Force on Global Capitalism in Transition,organisation,,,active,1
-trinity-college-dublin,Trinity College Dublin,organisation,organisation,,active,3
+trinity-college-dublin,Trinity College Dublin,organisation,organisation,,active,4
 triveneta-gas-s-p-a,Triveneta Gas S.p.A.,organisation,organisation,,active,1
 true-finns-party,True Finns Party,organisation,organisation,,active,1
 tuberculosis-vaccine-initiative-tbvi,TuBerculosis Vaccine Initiative (TBVI),organisation,,,active,1
@@ -2128,7 +2141,7 @@ universidad-pontificia-comillas-icade,Universidad Pontificia Comillas - ICADE,or
 university-college-dublin-ucd,University College Dublin (UCD),organisation,organisation,,active,1
 university-council,University Council,organisation,,,active,1
 university-of-antanas-strazdelis,University of Antanas Strazdelis,organisation,,,active,1
-university-of-athens,University of Athens,organisation,organisation,,active,2
+university-of-athens,University of Athens,organisation,organisation,,active,3
 university-of-chicago-graduate-school-of-business,University of Chicago (Graduate School of Business),organisation,organisation,,active,2
 university-of-hildesheim,University of Hildesheim,organisation,organisation,,active,1
 university-of-illinois,University of Illinois,organisation,organisation,,active,2
@@ -2309,6 +2322,7 @@ ana-gallego-torres,Ana Gallego Torres,person,dg,,active,1
 anders-wijkman,Anders Wijkman,person,mep,,active,24
 andrea-biondi,Andrea Biondi,person,cjeu_ag,Italy,active,1
 andrea-orcel,Andrea Orcel,person,corporate_elite,,active,9
+andreas-kumin,Andreas Kumin,person,cjeu_judge,Austria,active,1
 andrey-kovatchev,Andrey Kovatchev,person,mep,,active,6
 andriana-sukova,Andriana Sukova,person,dg,,active,1
 andris-piebalgs,Andris Piebalgs,person,commissioner,,active,13
@@ -2321,7 +2335,7 @@ anthony-whelan,Anthony Whelan,person,dg,,active,2
 antoine-arnault,Antoine Arnault,person,corporate_elite,,active,8
 antonio-filosa,Antonio Filosa,person,corporate_elite,,active,8
 antonio-tajani,Antonio Tajani,person,commissioner,ITA,active,27
-antonios-trakatellis,Antonios Trakatellis,person,mep,,active,4
+antonios-trakatellis,Antonios Trakatellis,person,mep,,active,5
 antonio-costa,António Costa,person,mep,,active,4
 antonio-vitorino,António Vitorino,person,commissioner,PRT,active,29
 apostolos-tzitzikostas,Apostolos Tzitzikostas,person,commissioner,GRC,active,14
@@ -2330,6 +2344,7 @@ astrid-lulling,Astrid Lulling,person,mep,,active,17
 athanasios-rantos,Athanasios Rantos,person,cjeu_ag,Greece,active,2
 bas-eickhout,Bas Eickhout,person,mep,,active,11
 beate-gminder,Beate Gminder,person,dg,,active,1
+beatriz-sanz-redrado,Beatriz Sanz Redrado,person,dg,,active,2
 belen-garijo,Belén Garijo,person,corporate_elite,,active,1
 benita-ferrero-waldner,Benita Ferrero-Waldner,person,commissioner,AUT,active,8
 bernard-arnault,Bernard Arnault,person,corporate_elite,,active,3
@@ -2351,9 +2366,10 @@ charlina-vitcheva,Charlina Vitcheva,person,dg,,active,2
 chris-patten,Chris Patten,person,commissioner,GBR,active,12
 christel-heydemann,Christel Heydemann,person,corporate_elite,,active,2
 christian-klein,Christian Klein,person,corporate_elite,,active,4
+christian-roques,Christian Roques,person,dg,,active,2
 christian-sewing,Christian Sewing,person,corporate_elite,,active,2
 christophe-hansen,Christophe Hansen,person,commissioner,LUX,active,16
-christos-ellinides,Christos Ellinides,person,dg,,active,1
+christos-ellinides,Christos Ellinides,person,dg,,active,3
 christos-papoutsis,Christos Papoutsis,person,commissioner,GRC,active,23
 christos-stylianides,Christos Stylianides,person,commissioner,,active,26
 claire-bury,Claire Bury,person,dg,,active,1
@@ -2362,12 +2378,13 @@ clemens-ladenburger,Clemens Ladenburger,person,dg,,active,1
 colette-flesch,Colette Flesch,person,mep,,active,9
 colin-scicluna,Colin Scicluna,person,dg,,active,1
 connie-hedegaard,Connie Hedegaard,person,commissioner,,active,25
-costas-kadis,Costas Kadis,person,commissioner,CYP,active,1
+costas-kadis,Costas Kadis,person,commissioner,CYP,active,2
 cristiana-muscardini,Cristiana Muscardini,person,mep,,active,11
 dacian-ciolos,Dacian Cioloş,person,commissioner,,active,6
 dagmar-roth-behrendt,Dagmar Roth-Behrendt,person,mep,,active,3
 dalia-grybauskaite,Dalia Grybauskaitė,person,commissioner,LTU,active,15
 dan-jrgensen,Dan Jørgensen,person,commissioner,DNK,active,13
+dana-spinant,Dana Spinant,person,dg,,active,2
 daniel-cohn-bendit,Daniel Cohn-Bendit,person,mep,,active,2
 danuta-hubner,Danuta Hübner,person,commissioner,POL,active,22
 david-byrne,David Byrne,person,commissioner,IRL,active,14
@@ -2375,7 +2392,7 @@ david-sassoli,David Sassoli,person,mep,,active,4
 declan-costello,Declan Costello,person,dg,,active,1
 delphine-arnault,Delphine Arnault,person,corporate_elite,,active,8
 denis-redonnet,Denis Redonnet,person,dg,,active,1
-despina-spanou,Despina Spanou,person,dg,,active,1
+despina-spanou,Despina Spanou,person,dg,,active,3
 diana-wallis,Diana Wallis,person,mep,,active,3
 dick-erixon,Dick Erixon,person,mep,,active,6
 dimitrios-adamou,Dimitrios Adamou,person,mep,,active,2
@@ -2433,6 +2450,7 @@ helena-dalli,Helena Dalli,person,commissioner,MLT,active,3
 henna-virkkunen,Henna Virkkunen,person,commissioner,FIN,active,21
 herald-ruijters,Herald Ruijters,person,dg,,active,1
 heribert-barrera-i-costa,Heribert Barrera i Costa,person,mep,,active,20
+hubert-gambs,Hubert Gambs,person,dg,,active,2
 hugo-sobral,Hugo Sobral,person,dg,,active,1
 ian-meakins,Ian Meakins,person,corporate_elite,,active,2
 ildiko-pelczne-gall,Ildikó Pelczné Gáll,person,mep,,active,2
@@ -2463,7 +2481,7 @@ jean-laurent-bonnafe,Jean-Laurent Bonnafé,person,corporate_elite,,active,8
 jean-paul-agon,Jean-Paul Agon,person,corporate_elite,,active,2
 jens-peter-bonde,Jens-Peter Bonde,person,mep,,active,2
 jerzy-buzek,Jerzy Buzek,person,mep,,active,15
-jessika-roswall,Jessika Roswall,person,commissioner,SWE,active,6
+jessika-roswall,Jessika Roswall,person,commissioner,SWE,active,7
 jim-hagemann-snabe,Jim Hagemann Snabe,person,corporate_elite,,active,2
 jim-higgins-irish-politician,Jim Higgins (Irish politician),person,mep,,active,6
 jim-nicholson-northern-ireland-politician,Jim Nicholson (Northern Ireland politician),person,mep,,active,9
@@ -2497,6 +2515,7 @@ karin-karlsbro,Karin Karlsbro,person,mep,,active,15
 karmenu-vella,Karmenu Vella,person,commissioner,,active,28
 karol-karski,Karol Karski,person,mep,,active,7
 kathy-sinnott,Kathy Sinnott,person,mep,,active,2
+kerstin-jorna,Kerstin Jorna,person,dg,,active,1
 kestutis-sadauskas,Kestutis Sadauskas,person,dg,,active,1
 klaus-hansch,Klaus Hänsch,person,mep,,active,1
 koen-doens,Koen Doens,person,dg,,active,1
@@ -2524,6 +2543,7 @@ laszlo-andor,László Andor,person,commissioner,,active,12
 maarten-verwey,Maarten Verwey,person,dg,,active,3
 maciej-popowski,Maciej Popowski,person,dg,,active,4
 maciej-szpunar,Maciej Szpunar,person,cjeu_ag,Poland,active,2
+magda-kopczynska,Magda Kopczyńska,person,dg,,active,1
 magnus-brunner,Magnus Brunner,person,commissioner,AUT,active,14
 mairead-mcguinness,Mairead McGuinness,person,commissioner,IRL,active,24
 maive-rute,Maive Rute,person,dg,,active,6
@@ -2540,11 +2560,13 @@ margot-wallstrom,Margot Wallström,person,commissioner,SWE,active,24
 margrethe-vestager,Margrethe Vestager,person,commissioner,,active,6
 maria-damanaki,Maria Damanaki,person,commissioner,,active,11
 maria-luis-albuquerque,Maria Luís Albuquerque,person,commissioner,PRT,active,9
+maria-martin-prat-de-abreu,Maria Martin-Prat De Abreu,person,dg,,active,2
 mariana-kotzeva,Mariana Kotzeva,person,dg,,active,1
 mariann-fischer-boel,Mariann Fischer Boel,person,commissioner,DNK,active,1
 marianne-thyssen,Marianne Thyssen,person,commissioner,,active,18
 mario-mauro,Mario Mauro,person,mep,,active,11
 mario-monti,Mario Monti,person,commissioner,ITA,active,36
+mario-nava,Mario Nava,person,dg,,active,3
 mariya-gabriel,Mariya Gabriel,person,commissioner,BGR,active,14
 marjeta-jager,Marjeta Jager,person,dg,,active,1
 markos-kyprianou,Markos Kyprianou,person,commissioner,CYP,active,19
@@ -2553,7 +2575,7 @@ marta-kos,Marta Kos,person,commissioner,SVN,active,8
 marta-ortega,Marta Ortega,person,corporate_elite,,active,3
 martin-bangemann,Martin Bangemann,person,commissioner,DEU,active,13
 martin-schulz,Martin Schulz,person,mep,,active,3
-martin-seychell,Martin Seychell,person,dg,,active,2
+martin-seychell,Martin Seychell,person,dg,,active,3
 matthew-baldwin,Matthew Baldwin,person,dg,,active,3
 max-gallo,Max Gallo,person,mep,,active,3
 mechthild-worsdorfer,Mechthild Wörsdörfer,person,dg,,active,1
@@ -2653,7 +2675,7 @@ sir-leon-brittan,Sir Leon Brittan,person,commissioner,GBR,active,16
 slawomir-krupa,Slawomir Krupa,person,corporate_elite,,active,2
 sophia-eriksson-waterschoot,Sophia Eriksson Waterschoot,person,dg,,active,1
 stavros-dimas,Stavros Dimas,person,commissioner,GRC,active,12
-stavros-lambrinidis,Stavros Lambrinidis,person,mep,,active,8
+stavros-lambrinidis,Stavros Lambrinidis,person,mep,,active,9
 stefan-fule,Stefan Füle,person,commissioner,,active,10
 stefan-olsson,Stefan Olsson,person,dg,,active,1
 stella-kyriakides,Stella Kyriakides,person,commissioner,,active,13
@@ -2675,13 +2697,14 @@ tibor-navracsics,Tibor Navracsics,person,commissioner,,active,12
 timo-pesonen,Timo Pesonen,person,dg,,active,2
 timo-soini,Timo Soini,person,mep,,active,13
 timotheus-hottges,Timotheus Höttges,person,corporate_elite,,active,1
-tonio-borg,Tonio Borg,person,commissioner,,active,4
+tonio-borg,Tonio Borg,person,commissioner,,active,5
 torben-lund,Torben Lund,person,mep,,active,6
 ulrich-grillo,Ulrich Grillo,person,corporate_elite,,active,9
 ulrike-lunacek,Ulrike Lunacek,person,mep,,active,3
 ursula-von-der-leyen,Ursula von der Leyen,person,commissioner,DEU,active,20
 valdis-dombrovskis,Valdis Dombrovskis,person,commissioner,LVA,active,24
 vas-narasimhan,Vas Narasimhan,person,corporate_elite,,active,3
+veronica-gaffey,Veronica Gaffey,person,dg,,active,1
 violeta-bulc,Violeta Bulc,person,commissioner,,active,11
 virginijus-sinkevicius,Virginijus Sinkevičius,person,commissioner,LTU,active,14
 viviane-reding,Viviane Reding,person,commissioner,,active,24
@@ -2789,7 +2812,7 @@ university-of-alcala,University of Alcalá,university,university,,active,1
 university-of-almeria,University of Almeria,university,university,,active,1
 university-of-barcelona,University of Barcelona,university,university,,active,3
 university-of-bonn,University of Bonn,university,university,,active,2
-university-of-cambridge,University of Cambridge,university,university,,active,4
+university-of-cambridge,University of Cambridge,university,university,,active,5
 university-of-chicago,University of Chicago,university,university,,active,3
 university-of-cologne,University of Cologne,university,university,,active,3
 university-of-fribourg,University of Fribourg,university,university,,active,1
@@ -2821,7 +2844,7 @@ whu-otto-beisheim-school-of-management,WHU – Otto Beisheim School of Managemen
 warsaw-university,Warsaw University,university,university,,active,1
 westfalische-wilhelms-universitat-in-munster,Westfälische Wilhelms-Universität in Münster,university,university,,active,2
 wharton-school,Wharton School,university,university,,active,1
-yale-university,Yale University,university,university,,active,2
+yale-university,Yale University,university,university,,active,3
 young-global-leader-honourees,Young Global Leader Honourees,university,organisation,,active,1
 universite-de-geneve-university-of-geneva-switzerland,"université de Genève (University of Geneva, Switzerland)",university,university,,active,1
 ecole-centrale-paris,École Centrale Paris,university,university,,active,1

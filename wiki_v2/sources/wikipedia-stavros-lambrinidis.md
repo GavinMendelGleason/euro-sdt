@@ -4,7 +4,7 @@ title: Stavros Lambrinidis
 type: source
 tags:
   - source
-generated: 2026-10-21
+generated: 2026-10-23
 ---
 # Stavros Lambrinidis
 
@@ -14,7 +14,7 @@ generated: 2026-10-21
 - SHA-256: `ca7952a9b3e0a5f306c331767da7bcf017479c3154e416b1d6420ce27f8f4ab4`
 - Sentences: 162
 
-## Verified claims citing this document (9)
+## Verified claims citing this document (10)
 
 - [[people/stavros-lambrinidis|Stavros Lambrinidis]] — affiliated_with — International Olympic Academy
   > "During this period, Lambrinidis was a visiting lecturer at the International Olympic Academy in Athens, as well as a lecturer in the Diplomatic and Police Academies of Greece."
@@ -28,6 +28,8 @@ generated: 2026-10-21
   > "International Trade Newsletter &#91; 3 &#93; Champion of Freedom Award 2020, Electronic Privacy Information Center (EPIC) Global Visionary Award 2023, Institute for Education (IFE) Member of the Global Board, International Gender Champions Member of the President’s Council on International Activities, Yale University Publications [ edit ] \"Integration of Immigrants into the E.U.\" - European Parlia […]"
 - [[people/stavros-lambrinidis|Stavros Lambrinidis]] — chair — District of Columbia Bar Association's Human Rights Committee
   > "Candidate of the Year 2006 Former President of the District of Columbia Bar Association's Human Rights Committee Board Member of the American Bar Association's Trade Committee Editor of the A.B.A."
+- [[people/stavros-lambrinidis|Stavros Lambrinidis]] — educated_at — Yale University
+  > "He completed his education in 1988 with a J.D. degree from Yale Law School ."
 - [[people/stavros-lambrinidis|Stavros Lambrinidis]] — member — European Parliament
   > "A few months later, he was elected as the vice president of the Party of European Socialists and, in April 2005, as head of the parliamentary delegation of Panhellenic Socialist Movement (PA.SO.K.) to the European Parliament ."
 - [[people/stavros-lambrinidis|Stavros Lambrinidis]] — member — Greek Social Democratic Party PA.SO.K.

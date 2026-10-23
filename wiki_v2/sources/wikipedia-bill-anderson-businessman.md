@@ -4,7 +4,7 @@ title: Bill Anderson Businessman
 type: source
 tags:
   - source
-generated: 2026-10-21
+generated: 2026-10-23
 ---
 # Bill Anderson Businessman
 

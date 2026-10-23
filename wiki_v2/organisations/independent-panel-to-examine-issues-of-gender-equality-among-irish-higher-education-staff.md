@@ -6,7 +6,7 @@ category:
 tags:
   - organisation
   - verified
-generated: 2026-10-21
+generated: 2026-10-23
 ---
 # independent panel to examine issues of gender equality among Irish higher education staff
 

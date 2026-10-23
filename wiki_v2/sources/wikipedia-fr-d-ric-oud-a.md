@@ -4,7 +4,7 @@ title: Fr D Ric Oud A
 type: source
 tags:
   - source
-generated: 2026-10-21
+generated: 2026-10-23
 ---
 # Fr D Ric Oud A
 

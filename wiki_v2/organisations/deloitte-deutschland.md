@@ -7,7 +7,7 @@ tags:
   - organisation
   - verified
   - professional-services
-generated: 2026-10-21
+generated: 2026-10-23
 ---
 # Deloitte Deutschland
 

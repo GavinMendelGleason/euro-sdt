@@ -7,7 +7,7 @@ tags:
   - organisation
   - verified
   - organisation
-generated: 2026-10-21
+generated: 2026-10-23
 ---
 # Karl Marx University of Economic Sciences (present-day Corvinus University of Budapest)
 

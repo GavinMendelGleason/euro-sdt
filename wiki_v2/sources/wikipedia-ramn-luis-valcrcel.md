@@ -4,7 +4,7 @@ title: Ramn Luis Valcrcel
 type: source
 tags:
   - source
-generated: 2026-10-21
+generated: 2026-10-23
 ---
 # Ramn Luis Valcrcel
 

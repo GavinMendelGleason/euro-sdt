@@ -7,7 +7,7 @@ tags:
   - organisation
   - verified
   - university
-generated: 2026-10-21
+generated: 2026-10-23
 ---
 # Scuola Superiore Di Lingue Moderne Per Interpreti E Traduttori – Università Di T
 

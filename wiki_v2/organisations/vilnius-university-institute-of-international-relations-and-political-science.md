@@ -7,7 +7,7 @@ tags:
   - organisation
   - verified
   - institution
-generated: 2026-10-21
+generated: 2026-10-23
 ---
 # vilnius-university-institute-of-international-relations-and-political-science
 

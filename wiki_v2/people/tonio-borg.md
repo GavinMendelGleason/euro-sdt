@@ -8,18 +8,24 @@ tags:
   - person
   - verified
   - commissioner
-generated: 2026-10-21
+generated: 2026-10-23
 ---
 # Tonio Borg
 
 Commissioner
 
-*Verified assertions: 7*
+*Verified assertions: 8*
 
 ## Commission service
 
 - [[commissions/barroso-ii|Barroso II]]  
   > "Tonio Borg (born 12 May 1957) is a Maltese lawyer, law professor, and former politician who served as the European Commissioner for Health and Consumer Policy replacing John Dalli as member of the College of the European Commission in the second Barroso Commission."
+  > Source: [[sources/wikipedia-tonio-borg|Tonio Borg]] · grade A
+
+## Education
+
+- [[organisations/university-of-malta|University of Malta]]  
+  > "Graduating with a law degree in 1979, he would start lecturing at the University of Malta initially as a guest lecturer."
   > Source: [[sources/wikipedia-tonio-borg|Tonio Borg]] · grade A
 
 ## Degree

@@ -8,18 +8,24 @@ tags:
   - person
   - verified
   - commissioner
-generated: 2026-10-21
+generated: 2026-10-23
 ---
 # Costas Kadis
 
 Commissioner · CYP
 
-*Verified assertions: 3*
+*Verified assertions: 4*
 
 ## Portfolio
 
 - European Commissioner for Fisheries and Oceans  
   > "Costas Kadis (Greek: Κώστας Καδής, pronounced [ˈkostas kaˈðis]; born 30 August 1967) is a Cypriot biologist and politician who has been serving as the European Commissioner for Fisheries and Oceans since December 2024."
+  > Source: [[sources/wikipedia-costas-kadis|Costas Kadis]] · grade A
+
+## Education
+
+- [[organisations/university-of-athens|University of Athens]]  
+  > "Kadis graduated from the University of Athens with a BSc in Biology in 1991."
   > Source: [[sources/wikipedia-costas-kadis|Costas Kadis]] · grade A
 
 ## Affiliation

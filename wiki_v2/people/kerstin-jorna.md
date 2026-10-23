@@ -8,13 +8,19 @@ tags:
   - person
   - verified
   - dg
-generated: 2026-10-21
+generated: 2026-10-23
 ---
 # Kerstin Jorna
 
 Dg
 
-*Verified assertions: 3*
+*Verified assertions: 4*
+
+## Education
+
+- [[organisations/college-of-europe|College of Europe]]  
+  > "1986: Diploma of Advanced European Studies, College of Bruges ( Law)"
+  > Source: [[sources/dg_cv-kerstin-jorna|Kerstin Jorna]] · grade A
 
 ## Field of study
 

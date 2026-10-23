@@ -7,7 +7,7 @@ tags:
   - organisation
   - verified
   - organisation
-generated: 2026-10-21
+generated: 2026-10-23
 ---
 # European Parliament Intergroup on Integrity (Transparency, Anti-Corruption and Organized Crime)
 

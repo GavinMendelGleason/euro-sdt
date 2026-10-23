@@ -6,7 +6,7 @@ category:
 tags:
   - organisation
   - verified
-generated: 2026-10-21
+generated: 2026-10-23
 ---
 # Cyprus delegation to the Parliamentary Assembly of the Council of Europe
 

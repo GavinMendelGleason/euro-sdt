@@ -6,7 +6,7 @@ category:
 tags:
   - organisation
   - verified
-generated: 2026-10-21
+generated: 2026-10-23
 ---
 # Friends of the Hubrecht Institute for Developmental Biology and Stem Cell Research
 

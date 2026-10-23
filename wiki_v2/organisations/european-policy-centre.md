@@ -7,7 +7,7 @@ tags:
   - organisation
   - verified
   - think-tank
-generated: 2026-10-21
+generated: 2026-10-23
 ---
 # European Policy Centre
 

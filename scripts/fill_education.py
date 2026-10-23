@@ -83,6 +83,33 @@ def _valid_candidate(item: dict) -> bool:
     return True
 
 
+INSTITUTION_ALIASES = {
+    'free university of brussels': 'Université libre de Bruxelles (Free University of Brussels)',
+    'college of europe - bruges': 'College of Europe',
+    'college of bruges': 'College of Europe',
+    'university college dublin, republic of ireland': 'University College Dublin (UCD)',
+    'yale law school': 'Yale University',
+    'trinity college': 'Trinity College Dublin',
+    'the city university, london (u.k.)': 'City, University of London',
+    'nova university, miami (u.s.a)': 'Nova University',
+    'faculty of journalism, university of bucharest – bucharest': 'University of Bucharest',
+    'warsaw university, institute of applied social science': 'University of Warsaw',
+    'université paris ii': 'Université Paris II Panthéon-Assas',
+    'alcalá de henares (madrid)': 'University of Alcalá',
+    'ecole hec school of management': 'HEC Paris',
+    'karl-franzens-universität graz': 'University of Graz',
+}
+
+
+def _resolve_institution(db: sqlite3.Connection, name: str) -> str:
+    clean = INSTITUTION_ALIASES.get(name.lower().strip(), name)
+    for kind in ('university', 'institution', 'organisation'):
+        found = entity_id_for(db, clean, kind)
+        if found:
+            return found
+    return resolve_or_create(db, clean, 'institution', category='university')
+
+
 def _missing(db: sqlite3.Connection, categories: tuple[str, ...], limit: int | None):
     placeholders = ",".join("?" for _ in categories)
     rows = db.execute(f"""
@@ -222,12 +249,17 @@ def main() -> int:
         (run_id, "education", now(), MODEL, json.dumps({"categories": categories, "limit": args.limit})),
     )
     for item in candidates:
-        object_id = (entity_id_for(db, item["institution"], "university")
-                     or entity_id_for(db, item["institution"], "institution"))
-        if not object_id and args.only_existing:
-            continue
-        if not object_id:
-            object_id = resolve_or_create(db, item["institution"], "institution", category="university")
+        if args.only_existing:
+            object_id = None
+            clean = INSTITUTION_ALIASES.get(item["institution"].lower().strip(), item["institution"])
+            for kind in ("university", "institution", "organisation"):
+                object_id = entity_id_for(db, clean, kind)
+                if object_id:
+                    break
+            if not object_id:
+                continue
+        else:
+            object_id = _resolve_institution(db, item["institution"])
         claim_id = _insert_claim(
             db, item["person_id"], "educated_at", object_id, None, None, None, None, None,
             f"v2_education:{item['doc_id']}", "v2_education", run_id,

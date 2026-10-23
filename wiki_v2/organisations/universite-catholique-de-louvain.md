@@ -7,11 +7,11 @@ tags:
   - organisation
   - verified
   - university
-generated: 2026-10-21
+generated: 2026-10-23
 ---
 # Université Catholique De Louvain
 
-*Verified member assertions: 2 people*
+*Verified member assertions: 3 people*
 
 ## Members and roles
 
@@ -21,3 +21,6 @@ generated: 2026-10-21
 - [[people/lorenzo-bini-smaghi|Lorenzo Bini Smaghi]]  
   > "In 1978 he graduated in Economics from the Université catholique de Louvain (Belgium)."
   > Source: [[sources/wikipedia-lorenzo-bini-smaghi|Lorenzo Bini Smaghi]] · grade B
+- [[people/mario-nava|Mario Nava]]  
+  > "09/1991 – 09/1992: Master of Arts in E conomics – Université Catholique de Louvain"
+  > Source: [[sources/dg_cv-mario-nava|Mario Nava]] · grade A

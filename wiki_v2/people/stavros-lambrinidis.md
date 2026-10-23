@@ -8,13 +8,19 @@ tags:
   - person
   - verified
   - mep
-generated: 2026-10-21
+generated: 2026-10-23
 ---
 # Stavros Lambrinidis
 
 Mep
 
-*Verified assertions: 8*
+*Verified assertions: 9*
+
+## Education
+
+- [[organisations/yale-university|Yale University]]  
+  > "He completed his education in 1988 with a J.D. degree from Yale Law School ."
+  > Source: [[sources/wikipedia-stavros-lambrinidis|Stavros Lambrinidis]] · grade A
 
 ## Membership
 

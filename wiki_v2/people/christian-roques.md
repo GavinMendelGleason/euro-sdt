@@ -8,13 +8,23 @@ tags:
   - person
   - verified
   - dg
-generated: 2026-10-21
+generated: 2026-10-23
 ---
 # Christian Roques
 
 Dg
 
-*Verified assertions: 1*
+*Verified assertions: 3*
+
+## Education
+
+- [[organisations/community-of-european-management-schools|Community Of European Management Schools]]  
+  > "1994-1995 CEMS-program in Finance and Law (Community of European Management Schools), St-Gallen, Switzerland"
+  > Source: [[sources/dg_cv-christian-roques|Christian Roques]] · grade A
+
+- [[organisations/hec-paris|Hec Paris]]  
+  > "1993-1995 Business School, Finance and Economics majors, HEC graduate, Ecole HEC School of Management, Jouy-en-Josas, France"
+  > Source: [[sources/dg_cv-christian-roques|Christian Roques]] · grade A
 
 ## Position
 

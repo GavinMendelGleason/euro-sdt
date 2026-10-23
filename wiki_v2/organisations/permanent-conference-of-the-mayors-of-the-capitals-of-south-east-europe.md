@@ -6,7 +6,7 @@ category:
 tags:
   - organisation
   - verified
-generated: 2026-10-21
+generated: 2026-10-23
 ---
 # Permanent Conference of the Mayors of the Capitals of South-East Europe
 

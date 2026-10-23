@@ -7,7 +7,7 @@ tags:
   - organisation
   - verified
   - organisation
-generated: 2026-10-21
+generated: 2026-10-23
 ---
 # Federació Nacional d'Estudiants de Catalunya (National Federation of Catalan Students)
 

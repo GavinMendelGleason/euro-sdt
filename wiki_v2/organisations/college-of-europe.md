@@ -7,17 +7,20 @@ tags:
   - organisation
   - verified
   - university
-generated: 2026-10-21
+generated: 2026-10-23
 ---
 # College of Europe
 
-*Verified member assertions: 11 people*
+*Verified member assertions: 13 people*
 
 ## Members and roles
 
 - [[people/antonio-costa|António Costa]] — attendee  
   > "Biography in the Portuguese Government site Biography in the Council of Europe website Political offices Vacant Title last held by António Couto dos Santos Minister of Parliamentary Affairs 1997–1999 Vacant Title next held by Luís Marques Mendes Preceded&#160;by José Vera Jardim Minister of Justice 1999–2002 Succeeded&#160;by Celeste Cardona Preceded&#160;by Daniel Sanches Minister of Internal Adm […]"
   > Source: [[sources/wikipedia-ant-nio-costa|Ant Nio Costa]] · grade A
+- [[people/dana-spinant|Dana Spinant]]  
+  > "09/1997 – 06/1998: Master in European Political and Administrative Studies, College of Europe - Bruges, Belgium"
+  > Source: [[sources/dg_cv-dana-spinant|Dana Spinant]] · grade A
 - [[people/federica-mogherini|Federica Mogherini]] — employed_by  
   > "Mogherini became rector on 1 September 2020."
   > Source: [[sources/wikipedia-federica-mogherini|Federica Mogherini]] · grade A
@@ -30,6 +33,9 @@ generated: 2026-10-21
 - [[people/joanna-drake|Joanna Drake]]  
   > "College of Europe in Bruges, Belgium"
   > Source: [[sources/dg_cv-joanna-drake|Joanna Drake]] · grade A
+- [[people/kerstin-jorna|Kerstin Jorna]]  
+  > "1986: Diploma of Advanced European Studies, College of Bruges ( Law)"
+  > Source: [[sources/dg_cv-kerstin-jorna|Kerstin Jorna]] · grade A
 - [[people/maciej-szpunar|Maciej Szpunar]]  
   > "Born in 1971 in Cracow (Poland), Mr Maciej Szpunar obtained a master's degree in law from the Uniwersytet Śląski (University of Silesia, Poland) in 1995 and from the College of Europe in Bruges (Belgium) in 1996."
   > Source: [[sources/cjeu-maciej-szpunar|Maciej Szpunar]] · grade A

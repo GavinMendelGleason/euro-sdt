@@ -8,7 +8,7 @@ tags:
   - person
   - verified
   - mep
-generated: 2026-10-21
+generated: 2026-10-23
 ---
 # Philippe Malaud
 

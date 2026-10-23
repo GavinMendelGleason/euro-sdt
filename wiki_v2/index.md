@@ -10,7 +10,7 @@ tags:
 
 Verified-only citation-anchored elite graph.
 
-Assertions: needs_review: 177, rejected: 1167, verified: 4036
+Assertions: needs_review: 182, rejected: 1159, verified: 4063
 
 - [[stats|Statistics]]
 - [[citations|Citations]]

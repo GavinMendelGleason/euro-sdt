@@ -1,12 +1,12 @@
 {
   "excluded_quarantined_endpoints": 25,
   "all_verified": {
-    "nodes": 2834,
-    "edges": 3594,
-    "unique_pairs": 3395,
+    "nodes": 2857,
+    "edges": 3621,
+    "unique_pairs": 3422,
     "edges_by_class": {
-      "network": 2612,
-      "education": 525,
+      "network": 2613,
+      "education": 551,
       "occupational": 361,
       "other": 2,
       "institutional": 94
@@ -17,29 +17,29 @@
       "attendee": 26,
       "board_member": 353,
       "chair": 502,
-      "educated_at": 525,
+      "educated_at": 551,
       "employed_by": 360,
       "fellow": 18,
       "founder": 62,
       "from_country": 2,
       "held_position": 1,
-      "member": 1157,
+      "member": 1158,
       "served_on_commission": 94
     },
     "edges_by_grade": {
-      "A": 2615,
+      "A": 2641,
       "C": 530,
-      "B": 449
+      "B": 450
     },
     "degree": {
       "max": 72,
       "mean": 2.4,
-      "degree_1": 2146,
-      "degree_ge_3": 443
+      "degree_1": 2158,
+      "degree_ge_3": 452
     },
     "components": {
       "count": 75,
-      "largest": 2598,
+      "largest": 2618,
       "singletons": 0
     },
     "top_hubs": [
@@ -116,6 +116,12 @@
         "degree": 29
       },
       {
+        "id": "european-peoples-party",
+        "name": "European People's Party",
+        "kind": "organisation",
+        "degree": 28
+      },
+      {
         "id": "jose-manuel-barroso",
         "name": "José Manuel Barroso",
         "kind": "person",
@@ -125,12 +131,6 @@
         "id": "anita-gradin",
         "name": "Anita Gradin",
         "kind": "person",
-        "degree": 27
-      },
-      {
-        "id": "european-peoples-party",
-        "name": "European People's Party",
-        "kind": "organisation",
         "degree": 27
       },
       {
@@ -165,20 +165,20 @@
       }
     ],
     "kind_mixing": {
-      "person->organisation": 2935,
-      "person->institution": 383,
-      "person->university": 170,
+      "person->organisation": 2939,
+      "person->institution": 404,
+      "person->university": 172,
       "person->commission": 103,
       "person->person": 3
     }
   },
   "grade_a_only": {
-    "nodes": 2212,
-    "edges": 2615,
-    "unique_pairs": 2513,
+    "nodes": 2236,
+    "edges": 2641,
+    "unique_pairs": 2539,
     "edges_by_class": {
       "network": 1910,
-      "education": 420,
+      "education": 446,
       "occupational": 208,
       "institutional": 77
     },
@@ -188,7 +188,7 @@
       "attendee": 13,
       "board_member": 311,
       "chair": 429,
-      "educated_at": 420,
+      "educated_at": 446,
       "employed_by": 208,
       "fellow": 14,
       "founder": 28,
@@ -196,17 +196,17 @@
       "served_on_commission": 77
     },
     "edges_by_grade": {
-      "A": 2615
+      "A": 2641
     },
     "degree": {
       "max": 44,
       "mean": 2.27,
-      "degree_1": 1659,
-      "degree_ge_3": 350
+      "degree_1": 1672,
+      "degree_ge_3": 359
     },
     "components": {
-      "count": 88,
-      "largest": 1890,
+      "count": 89,
+      "largest": 1909,
       "singletons": 0
     },
     "top_hubs": [
@@ -332,19 +332,19 @@
       }
     ],
     "kind_mixing": {
-      "person->organisation": 2106,
-      "person->institution": 284,
-      "person->university": 143,
+      "person->organisation": 2109,
+      "person->institution": 305,
+      "person->university": 145,
       "person->commission": 79,
       "person->person": 3
     }
   },
   "network_only": {
     "nodes": 2147,
-    "edges": 2612,
-    "unique_pairs": 2490,
+    "edges": 2613,
+    "unique_pairs": 2491,
     "edges_by_class": {
-      "network": 2612
+      "network": 2613
     },
     "edges_by_predicate": {
       "advisory_board": 97,
@@ -354,12 +354,12 @@
       "chair": 502,
       "fellow": 18,
       "founder": 62,
-      "member": 1157
+      "member": 1158
     },
     "edges_by_grade": {
       "A": 1910,
       "C": 280,
-      "B": 422
+      "B": 423
     },
     "degree": {
       "max": 50,
@@ -395,7 +395,7 @@
         "id": "european-peoples-party",
         "name": "European People's Party",
         "kind": "organisation",
-        "degree": 27
+        "degree": 28
       },
       {
         "id": "federica-mogherini",
@@ -495,7 +495,7 @@
       }
     ],
     "kind_mixing": {
-      "person->organisation": 2563,
+      "person->organisation": 2564,
       "person->university": 31,
       "person->institution": 13,
       "person->person": 3,

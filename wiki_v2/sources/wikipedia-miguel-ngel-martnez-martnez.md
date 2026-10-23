@@ -4,7 +4,7 @@ title: Miguel Ngel Martnez Martnez
 type: source
 tags:
   - source
-generated: 2026-10-21
+generated: 2026-10-23
 ---
 # Miguel Ngel Martnez Martnez
 

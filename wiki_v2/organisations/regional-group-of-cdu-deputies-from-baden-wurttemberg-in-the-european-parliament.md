@@ -7,7 +7,7 @@ tags:
   - organisation
   - verified
   - organisation
-generated: 2026-10-21
+generated: 2026-10-23
 ---
 # regional group of CDU deputies from Baden-Württemberg in the European Parliament
 

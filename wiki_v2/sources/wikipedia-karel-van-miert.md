@@ -4,7 +4,7 @@ title: Karel Van Miert
 type: source
 tags:
   - source
-generated: 2026-10-21
+generated: 2026-10-23
 ---
 # Karel Van Miert
 

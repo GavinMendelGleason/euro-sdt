@@ -7,11 +7,11 @@ tags:
   - organisation
   - verified
   - organisation
-generated: 2026-10-21
+generated: 2026-10-23
 ---
 # Trinity College Dublin
 
-*Verified member assertions: 3 people*
+*Verified member assertions: 4 people*
 
 ## Members and roles
 
@@ -24,3 +24,6 @@ generated: 2026-10-21
 - [[people/pat-cox|Pat Cox]]  
   > "He was then educated at Ardscoil Rís in Limerick, the University of Limerick and Trinity College Dublin ."
   > Source: [[sources/wikipedia-pat-cox|Pat Cox]] · grade A
+- [[people/veronica-gaffey|Veronica Gaffey]]  
+  > "10/1981 – 05/1985: Two Subject Honours Moderatorship (Grade 2.1) , Trinity College – Dublin, Ireland"
+  > Source: [[sources/dg_cv-veronica-gaffey|Veronica Gaffey]] · grade A
