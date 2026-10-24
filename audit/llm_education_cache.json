@@ -1458,5 +1458,345 @@
       "evidence": "Wilmès has a degree in applied communication from IHECS and a degree in financial management (Saint-Louis University, Brussels).",
       "sentence": 14
     }
+  ],
+  "deepseek-chat|95b6548f873567c5ad884a39a65d15ea9beb13bc41ef4c7381ccd1014f1b07b3": [
+    {
+      "institution": "Københavns Universitet (University of Copenhagen, Denmark)",
+      "degree": "",
+      "field": "political science",
+      "evidence": "Born in 1953 in Gladsaxe, Copenhagen (Denmark), Mr Lars Bay Larsen studied at the Københavns Universitet (University of Copenhagen, Denmark).",
+      "sentence": 0
+    },
+    {
+      "institution": "Københavns Universitet (University of Copenhagen, Denmark)",
+      "degree": "law degree",
+      "field": "law",
+      "evidence": "In 1978, he returned to study at the same university, this time enrolling in the Faculty of Law, where he obtained a law degree in 1983.",
+      "sentence": 2
+    }
+  ],
+  "deepseek-chat|e2916b1e51787cc2e8d3e16f57ab1a84d0e91eb00bda3f72d9b5a27e531d0c68": [
+    {
+      "institution": "université Paris II (University of Paris II, France)",
+      "degree": "Master of Laws",
+      "field": "Laws",
+      "evidence": "Mr Jean Richard de la Tour was born in 1959 in Le Dorat (France); he obtained a Master of Laws at the université Paris II (University of Paris II, France) in 1982 before beginning his professional judicial training at the École nationale de la magistrature (National School for the Judiciary, Bordeaux, France) from 1984 to 1986.",
+      "sentence": 0
+    },
+    {
+      "institution": "École nationale de la magistrature (National School for the Judiciary, Bordeaux, France)",
+      "degree": "",
+      "field": "",
+      "evidence": "Mr Jean Richard de la Tour was born in 1959 in Le Dorat (France); he obtained a Master of Laws at the université Paris II (University of Paris II, France) in 1982 before beginning his professional judicial training at the École nationale de la magistrature (National School for the Judiciary, Bordeaux, France) from 1984 to 1986.",
+      "sentence": 0
+    }
+  ],
+  "deepseek-chat|7c10789982557e507999d8a6a1731653e82b86f9b39ef0d37c10cb6d75e04cce": [
+    {
+      "institution": "Sveučilište u Zagrebu (University of Zagreb, Croatia)",
+      "degree": "diploma",
+      "field": "law",
+      "evidence": "Born in 1967 in Zagreb (Croatia), Ms Tamara Ćapeta began her studies at the Sveučilište u Zagrebu (University of Zagreb, Croatia), from which she graduated with a diploma in law in 1991.",
+      "sentence": 0
+    },
+    {
+      "institution": "College of Europe in Bruges (Belgium)",
+      "degree": "Master's degree",
+      "field": "Advanced European Studies",
+      "evidence": "She pursued her studies at the College of Europe in Bruges (Belgium) where she was awarded a Master's degree in Advanced European Studies in 1993.",
+      "sentence": 1
+    },
+    {
+      "institution": "Sveučilište u Zagrebu",
+      "degree": "PhD",
+      "field": "law",
+      "evidence": "Back at the Sveučilište u Zagrebu, she undertook a PhD and became a doctor of law in 2001.",
+      "sentence": 2
+    }
+  ],
+  "deepseek-chat|c53e4dca2aa5ba7f83cf17c6aa38e4888a969157d3b7ec44284d9594a1a353a1": [
+    {
+      "institution": "Universidad de Sevilla",
+      "degree": "graduated in law",
+      "field": "law",
+      "evidence": "Born 1950 in Zafra (Spain), Manuel Campos Sánchez-Bordona graduated in law in 1972 after completing his studies at the Universidad de Sevilla (University of Seville, Spain) and at the Universidad de Granada (University of Granada, Spain).",
+      "sentence": 0
+    },
+    {
+      "institution": "Universidad de Granada",
+      "degree": "graduated in law",
+      "field": "law",
+      "evidence": "Born 1950 in Zafra (Spain), Manuel Campos Sánchez-Bordona graduated in law in 1972 after completing his studies at the Universidad de Sevilla (University of Seville, Spain) and at the Universidad de Granada (University of Granada, Spain).",
+      "sentence": 0
+    }
+  ],
+  "deepseek-chat|0689d62ae227a07d2a860b3911378ba1adc8f00a603c36c7e8c7ce313551ee34": [
+    {
+      "institution": "université de Metz (University of Metz, France)",
+      "degree": "law degree",
+      "field": "law",
+      "evidence": "Born 1955 in Metz (France), Jean-Claude Bonichot obtained a law degree from the université de Metz (University of Metz, France) in 1976 and, subsequently, a degree from the Institut d’études politiques (IEP) de Paris (Paris Institute of Political Studies, France) in 1977.",
+      "sentence": 0
+    },
+    {
+      "institution": "Institut d’études politiques (IEP) de Paris (Paris Institute of Political Studies, France)",
+      "degree": "degree",
+      "field": "",
+      "evidence": "Born 1955 in Metz (France), Jean-Claude Bonichot obtained a law degree from the université de Metz (University of Metz, France) in 1976 and, subsequently, a degree from the Institut d’études politiques (IEP) de Paris (Paris Institute of Political Studies, France) in 1977.",
+      "sentence": 0
+    },
+    {
+      "institution": "École nationale d’administration (ENA) (National School of Administration, France)",
+      "degree": "graduating",
+      "field": "",
+      "evidence": "He was then a student at the École nationale d’administration (ENA) (National School of Administration, France), graduating in 1982 (Henri-François d’Aguesseau graduation class).",
+      "sentence": 1
+    }
+  ],
+  "deepseek-chat|4241f46dfff8ab2cfe45e0329037b9e3af665318786bd4ea0d8288400cadbe3a": [
+    {
+      "institution": "Universitat de Barcelona (University of Barcelona, Spain)",
+      "degree": "law degree",
+      "field": "law",
+      "evidence": "Born in 1959 in Tarragona (Spain), Ms Maria Lourdes Arastey Sahún studied at the Universitat de Barcelona (University of Barcelona, Spain), where she obtained a law degree in 1983, before taking professional judicial training at the Escuela Judicial (Judicial College, Spain) from 1984 to 1985.",
+      "sentence": 0
+    },
+    {
+      "institution": "Escuela Judicial (Judicial College, Spain)",
+      "degree": "professional judicial training",
+      "field": "",
+      "evidence": "Born in 1959 in Tarragona (Spain), Ms Maria Lourdes Arastey Sahún studied at the Universitat de Barcelona (University of Barcelona, Spain), where she obtained a law degree in 1983, before taking professional judicial training at the Escuela Judicial (Judicial College, Spain) from 1984 to 1985.",
+      "sentence": 0
+    }
+  ],
+  "deepseek-chat|4a566f6caf30600f76d7efd49ca6e286a18112bfd75672e79ff323b0a6caaedf": [
+    {
+      "institution": "Faculty of Law of the Univerza v Ljubljani",
+      "degree": "law degree",
+      "field": "law",
+      "evidence": "Born 1947 in Ljubljana (Slovenia), Marko Ilešič obtained a law degree at the Faculty of Law of the Univerza v Ljubljani(University of Ljubljana, Slovenia) in 1970 before studying for a doctorate at that same university, where he presented his thesis in 1984.",
+      "sentence": 0
+    },
+    {
+      "institution": "Univerza v Ljubljani",
+      "degree": "doctorate",
+      "field": "",
+      "evidence": "Born 1947 in Ljubljana (Slovenia), Marko Ilešič obtained a law degree at the Faculty of Law of the Univerza v Ljubljani(University of Ljubljana, Slovenia) in 1970 before studying for a doctorate at that same university, where he presented his thesis in 1984.",
+      "sentence": 0
+    },
+    {
+      "institution": "université de Strasbourg",
+      "degree": "",
+      "field": "comparative law",
+      "evidence": "He furthered his knowledge of comparative law in specialist programmes organised by the université de Strasbourg (University of Strasbourg, France) and the Universidade de Coimbra (University of Coimbra, Portugal), graduating from those universities in 1978 and 1980, respectively.",
+      "sentence": 1
+    },
+    {
+      "institution": "Universidade de Coimbra",
+      "degree": "",
+      "field": "comparative law",
+      "evidence": "He furthered his knowledge of comparative law in specialist programmes organised by the université de Strasbourg (University of Strasbourg, France) and the Universidade de Coimbra (University of Coimbra, Portugal), graduating from those universities in 1978 and 1980, respectively.",
+      "sentence": 1
+    }
+  ],
+  "deepseek-chat|1575c7658768d4bbc784fe934cf385389ee6bb1eb0554ec44bcb3de0cd035453": [
+    {
+      "institution": "université de droit, d'économie et de sciences sociales de l'université de Paris II Panthéon-Assas",
+      "degree": "master's degree",
+      "field": "law",
+      "evidence": "Born 1958 in Luxembourg (Grand Duchy of Luxembourg), François Biltgen obtained a master’s degree in law in 1981 and, subsequently, a diploma of advanced studies (DEA) in Community law in 1982 at the université de droit, d’économie et de sciences sociales de l’université de Paris II Panthéon-Assas (University of Law, Economics and Social Sciences of University Paris 2 Panthéon-Assas, France).",
+      "sentence": 0
+    },
+    {
+      "institution": "université de droit, d'économie et de sciences sociales de l'université de Paris II Panthéon-Assas",
+      "degree": "diploma of advanced studies (DEA)",
+      "field": "Community law",
+      "evidence": "Born 1958 in Luxembourg (Grand Duchy of Luxembourg), François Biltgen obtained a master’s degree in law in 1981 and, subsequently, a diploma of advanced studies (DEA) in Community law in 1982 at the université de droit, d’économie et de sciences sociales de l’université de Paris II Panthéon-Assas (University of Law, Economics and Social Sciences of University Paris 2 Panthéon-Assas, France).",
+      "sentence": 0
+    },
+    {
+      "institution": "Institut d'études politiques de Paris",
+      "degree": "",
+      "field": "",
+      "evidence": "It was also in 1982 that he graduated from the Institut d’études politiques de Paris (Paris Institute of Political Studies, France).",
+      "sentence": 1
+    }
+  ],
+  "deepseek-chat|c867361ba61864e0671854909852c6ea639e610cc3bc5db682ce4b357a00d071": [
+    {
+      "institution": "Università ta' Malta (University of Malta)",
+      "degree": "degree",
+      "field": "law",
+      "evidence": "Born in 1954 in Sliema (Malta), Mr Peter George Xuereb studied at the Università ta' Malta (University of Malta) where he graduated with a degree in law in 1977, and studied at the University of London (UK) where he obtained a Master of Laws in 1979.",
+      "sentence": 0
+    },
+    {
+      "institution": "University of London (UK)",
+      "degree": "Master of Laws",
+      "field": "law",
+      "evidence": "Born in 1954 in Sliema (Malta), Mr Peter George Xuereb studied at the Università ta' Malta (University of Malta) where he graduated with a degree in law in 1977, and studied at the University of London (UK) where he obtained a Master of Laws in 1979.",
+      "sentence": 0
+    },
+    {
+      "institution": "University of Cambridge (UK)",
+      "degree": "doctorate",
+      "field": "law",
+      "evidence": "In 1982, he was awarded a doctorate in law by the University of Cambridge (UK).",
+      "sentence": 1
+    }
+  ],
+  "deepseek-chat|6adf8006645b32040e3160561ac737db77c8ff8339c36d016d4abe55071d4011": [],
+  "deepseek-chat|76c0744a1b0dd75863b43e12e56d42bd2ddf291e167074dc2d5982bd8a1fd24e": [
+    {
+      "institution": "Université de Paris II Assas",
+      "degree": "Master’s",
+      "field": "Business and Tax law",
+      "evidence": "1989: Master’s in Business and Tax law, Université de Paris II Assas – Paris, France",
+      "sentence": 1
+    },
+    {
+      "institution": "Institut d’Études Politiques de Paris",
+      "degree": "",
+      "field": "Economics and Finance",
+      "evidence": "1989: Economics and Finance, Institut d’Études Politiques de Paris – Paris, France",
+      "sentence": 1
+    }
+  ],
+  "deepseek-chat|54f24d2e58018829668fdaaf2b79367654054f6b5c0397f506b11008102236af": [
+    {
+      "institution": "Université Catholique de Louvain",
+      "degree": "master’s degree",
+      "field": "law",
+      "evidence": "Pascal obtained a master’s degree in law from the Université Catholique de Louvain, before joining the prestigious College of Europe, where he studied European Law.",
+      "sentence": 0
+    },
+    {
+      "institution": "College of Europe",
+      "degree": "",
+      "field": "European Law",
+      "evidence": "Pascal obtained a master’s degree in law from the Université Catholique de Louvain, before joining the prestigious College of Europe, where he studied European Law.",
+      "sentence": 0
+    }
+  ],
+  "deepseek-chat|8611d75191ef655fa3a08a287aee463ddcedafec11b6be39850cf7784010348d": [],
+  "deepseek-chat|8b279af1ab00815e49b0b6eeb4eb42ba298f2e9b360d8a26776ee62091f53b97": [
+    {
+      "institution": "Imperial College London",
+      "degree": "PhD",
+      "field": "Agricultural Economics",
+      "evidence": "He received his PhD in Agricultural Economics (1989) from the Imperial College London, UK) and Ingénieur\" in agronomy from ESA Toulouse in 1986.",
+      "sentence": 3
+    },
+    {
+      "institution": "ESA Toulouse",
+      "degree": "Ingénieur",
+      "field": "agronomy",
+      "evidence": "He received his PhD in Agricultural Economics (1989) from the Imperial College London, UK) and Ingénieur\" in agronomy from ESA Toulouse in 1986.",
+      "sentence": 3
+    }
+  ],
+  "deepseek-chat|5f097541b8f048ec112347d5ddf37cf454a5f6161bf6c1bc0d50c86bf6c4665e": [
+    {
+      "institution": "ESSEC business school",
+      "degree": "Business Degree",
+      "field": "Business",
+      "evidence": "Business Degree from ESSEC business school, Cergy - Pontoise/France",
+      "sentence": 1
+    }
+  ],
+  "deepseek-chat|3e5d6ec354e2da97cf401ac82792b98571c812bfa92b60df98477cd338308844": [
+    {
+      "institution": "ICADE at the Pontifícia Universidade de Comillas",
+      "degree": "graduated",
+      "field": "lawyer and Business Manager",
+      "evidence": "José Sainz Armada is a lawyer and Business Manager graduated from the ICADE at the Pontifícia Universidade de Comillas, Spain and holds an MBA from INSEAD, France.",
+      "sentence": 1
+    },
+    {
+      "institution": "INSEAD",
+      "degree": "MBA",
+      "field": "",
+      "evidence": "José Sainz Armada is a lawyer and Business Manager graduated from the ICADE at the Pontifícia Universidade de Comillas, Spain and holds an MBA from INSEAD, France.",
+      "sentence": 1
+    }
+  ],
+  "deepseek-chat|74c36df06a13552e28d2acc3a76fab818ef348cb2812c084d77a234bf20b4e78": [],
+  "deepseek-chat|80241619b7d560c247b899c38c57a6b88ab79420702dcef7fc9b8b2e32246b93": [
+    {
+      "institution": "University of Cooperative Education in Mannheim",
+      "degree": "degree",
+      "field": "Business Information Technology",
+      "evidence": "Saueressig has a degree in Business Information Technology from the University of Cooperative Education in Mannheim (Germany) and a joint executive MBA from ESSEC Business School (France) and Mannheim Business School (Germany).",
+      "sentence": 2
+    },
+    {
+      "institution": "ESSEC Business School",
+      "degree": "executive MBA",
+      "field": "",
+      "evidence": "Saueressig has a degree in Business Information Technology from the University of Cooperative Education in Mannheim (Germany) and a joint executive MBA from ESSEC Business School (France) and Mannheim Business School (Germany).",
+      "sentence": 2
+    },
+    {
+      "institution": "Mannheim Business School",
+      "degree": "executive MBA",
+      "field": "",
+      "evidence": "Saueressig has a degree in Business Information Technology from the University of Cooperative Education in Mannheim (Germany) and a joint executive MBA from ESSEC Business School (France) and Mannheim Business School (Germany).",
+      "sentence": 2
+    }
+  ],
+  "deepseek-chat|340fac3df70455f1b218146d0534ae8b1e232d92f8264633d78d6dbb1580f03a": [
+    {
+      "institution": "École Polytechnique",
+      "degree": "graduate",
+      "field": "",
+      "evidence": "Born in 1962, Olivier Andriès, a French national, is a graduate of École Polytechnique (1981) and École des Mines de Paris (1984).",
+      "sentence": 1
+    },
+    {
+      "institution": "École des Mines de Paris",
+      "degree": "graduate",
+      "field": "",
+      "evidence": "Born in 1962, Olivier Andriès, a French national, is a graduate of École Polytechnique (1981) and École des Mines de Paris (1984).",
+      "sentence": 1
+    }
+  ],
+  "deepseek-chat|a8497bed8f8f3e759f0c2f363f138ed742b0d669da2579b0b1a903e7d0ff214d": [
+    {
+      "institution": "Sapienza University of Rome",
+      "degree": "degree",
+      "field": "Electronic Engineering",
+      "evidence": "She holds a degree in Electronic Engineering from Sapienza University of Rome and is a licensed professional engineer.",
+      "sentence": 11
+    },
+    {
+      "institution": "Stevens Institute of Technology",
+      "degree": "Master's degree",
+      "field": "Professional Program Management",
+      "evidence": "Her academic background also includes a Master’s degree in Professional Program Management from the Stevens Institute of Technology (New Jersey, United States), as well as executive and general management programmes at SDA Bocconi School of Management in Milan and LUISS Business School in Rome.",
+      "sentence": 12
+    },
+    {
+      "institution": "SDA Bocconi School of Management",
+      "degree": "executive and general management programmes",
+      "field": "",
+      "evidence": "Her academic background also includes a Master’s degree in Professional Program Management from the Stevens Institute of Technology (New Jersey, United States), as well as executive and general management programmes at SDA Bocconi School of Management in Milan and LUISS Business School in Rome.",
+      "sentence": 12
+    },
+    {
+      "institution": "LUISS Business School",
+      "degree": "executive and general management programmes",
+      "field": "",
+      "evidence": "Her academic background also includes a Master’s degree in Professional Program Management from the Stevens Institute of Technology (New Jersey, United States), as well as executive and general management programmes at SDA Bocconi School of Management in Milan and LUISS Business School in Rome.",
+      "sentence": 12
+    }
+  ],
+  "deepseek-chat|2a7cf4d0c80b1b355f910002aeee5162d0e2e29eaf289ce4b847d2e7a0ca27b4": [
+    {
+      "institution": "Catholic University of Eichstätt-Ingolstadt",
+      "degree": "master's degree",
+      "field": "Economic Psychology",
+      "evidence": "Gina Vargiu-Breuer holds a master's degree in Economic Psychology from the Catholic University of Eichstätt-Ingolstadt, Germany.",
+      "sentence": 2
+    }
   ]
 }

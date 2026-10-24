@@ -18136,5 +18136,113 @@
     "reason": "The quote says he completed a program organized by the National School of Public Administration, not that he studied at or attended the institution itself.",
     "model": "deepseek-flash",
     "claim_id": "c-fa4bc0e802688c8d"
+  },
+  "deepseek-flash|think|c-27cd14a8bf9024ee:c51c08d4a7225704": {
+    "verdict": "SUPPORTED",
+    "reason": "The quote explicitly states that he is chairman of the board of the Financial Supervisory Authority.",
+    "model": "deepseek-flash",
+    "claim_id": "c-27cd14a8bf9024ee"
+  },
+  "deepseek-flash|think|c-c9f3b8f416fbedf7:c5dda379671cfe91": {
+    "verdict": "SUPPORTED",
+    "reason": "The quote directly states that she is currently a Member of the UN Alliance of Civilisations Chair at Euro-Mediterranean University of Morocco (UEMF).",
+    "model": "deepseek-flash",
+    "claim_id": "c-c9f3b8f416fbedf7"
+  },
+  "deepseek-flash|think|c-d7393d140077afe9:b5c0877b06b46e08": {
+    "verdict": "SUPPORTED",
+    "reason": "The quote is Lambsdorff's own dated career list and explicitly places him at the Friedrich Naumann Foundation, Baltic States Office, Tallinn, in 1994–95, entailing a formal employment affiliation with that organisation.",
+    "model": "deepseek-flash",
+    "claim_id": "c-d7393d140077afe9"
+  },
+  "deepseek-flash|think|c-26e2732080ef6e71:533451b751533374": {
+    "verdict": "SUPPORTED",
+    "reason": "The quote directly states that Stylianides serves as a special advisor to the Vice-President of the European Commission, supporting the claim that he is an advisor connected to the European Commission.",
+    "model": "deepseek-flash",
+    "claim_id": "c-26e2732080ef6e71"
+  },
+  "deepseek-flash|think|c-b3c30f6b9642ce99:cf8a293668fe4ccd": {
+    "verdict": "SUPPORTED",
+    "reason": "The quote explicitly states that Kubilius became a member of the Sąjūdis movement.",
+    "model": "deepseek-flash",
+    "claim_id": "c-b3c30f6b9642ce99"
+  },
+  "deepseek-flash|think|c-2c1172bde521bfa6:d906cd9972956a3b": {
+    "verdict": "UNSUPPORTED",
+    "reason": "The quote states he is a member of the Governing Board of the Foundation of the Academy of European Law, not a member of the Academy of European Law itself.",
+    "model": "deepseek-flash",
+    "claim_id": "c-2c1172bde521bfa6"
+  },
+  "deepseek-flash|think|c-41e8f80b9d62a426:67794fad0758a84e": {
+    "verdict": "SUPPORTED",
+    "reason": "The quote lists the subject as a Member of the Honorary Council of the European Movement International, which directly supports membership in that organisation.",
+    "model": "deepseek-flash",
+    "claim_id": "c-41e8f80b9d62a426"
+  },
+  "deepseek-flash|think|c-7c8715fdb370affd:67abf7a3d0d323ff": {
+    "verdict": "SUPPORTED",
+    "reason": "The quote explicitly states that Yvan Blot worked for the think tank Idexia, directly supporting the affiliation and think tank worker role.",
+    "model": "deepseek-flash",
+    "claim_id": "c-7c8715fdb370affd"
+  },
+  "deepseek-flash|think|c-ed7bf5bafa9cc7a2:489a822854b59023": {
+    "verdict": "SUPPORTED",
+    "reason": "The quote explicitly states that Cattaneo was chairman of TERNA Partecipaçoes from 2007 to 2011.",
+    "model": "deepseek-flash",
+    "claim_id": "c-ed7bf5bafa9cc7a2"
+  },
+  "deepseek-flash|think|c-d90efebfee72d155:8726a6f6aa08c049": {
+    "verdict": "AMBIGUOUS",
+    "reason": "The quote only describes WIP as an independent foundation and does not mention Silvana Koch-Mehrin or any founder relation.",
+    "model": "deepseek-flash",
+    "claim_id": "c-d90efebfee72d155"
+  },
+  "c-a1185e9808f25800:a417ff7bda0c9adb": {
+    "verdict": "SUPPORTED",
+    "reason": "The quote states McGuinness was the first female graduate of University College Dublin's Bachelor of Science degree in Agricultural economics, directly entailing she studied at UCD.",
+    "model": "deepseek-chat",
+    "claim_id": "c-a1185e9808f25800"
+  },
+  "c-9cd7083acf51b7cc:44ccc4e0c5baebe3": {
+    "verdict": "SUPPORTED",
+    "reason": "The quote explicitly states Thyssen is a member of the bureau of the European People's Party, which directly entails a board/bureau role in that organisation.",
+    "model": "deepseek-chat",
+    "claim_id": "c-9cd7083acf51b7cc"
+  },
+  "c-0af419a7a1af75a0:0b9503afe518c386": {
+    "verdict": "UNSUPPORTED",
+    "reason": "The quote states that Fidesz is part of the European People's Party, not that Ildikó Pelczné Gáll is a member of the European People's Party.",
+    "model": "deepseek-chat",
+    "claim_id": "c-0af419a7a1af75a0"
+  },
+  "c-ecb31fa538b22219:ef05774c460d2f2b": {
+    "verdict": "UNSUPPORTED",
+    "reason": "The quote states Katainen was elected vice president of the EPP, which is a party leadership position, not an employment relationship with the organisation in an executive role.",
+    "model": "deepseek-chat",
+    "claim_id": "c-ecb31fa538b22219"
+  },
+  "c-e2ccecfe1f994ce8:bed4b009418da2e5": {
+    "verdict": "SUPPORTED",
+    "reason": "The quote explicitly states Barroso was the EPP candidate, directly entailing a formal affiliation with the European People's Party.",
+    "model": "deepseek-chat",
+    "claim_id": "c-e2ccecfe1f994ce8"
+  },
+  "c-f8fa8e2878e2e663:c59987f35851702f": {
+    "verdict": "SUPPORTED",
+    "reason": "The quote explicitly states Tajani has been one of 10 vice-presidents of the European People's Party, directly confirming the affiliation and vice-president role.",
+    "model": "deepseek-chat",
+    "claim_id": "c-f8fa8e2878e2e663"
+  },
+  "c-5b84603c76ba95c6:457f8c372991fd60": {
+    "verdict": "SUPPORTED",
+    "reason": "The quote explicitly states he graduated from the University of Pisa, directly entailing that he studied at that institution.",
+    "model": "deepseek-chat",
+    "claim_id": "c-5b84603c76ba95c6"
+  },
+  "c-f60f950277743989:898df818049bc1c5": {
+    "verdict": "SUPPORTED",
+    "reason": "The quote states Vidal-Quadras sat with the European People's Party group, directly entailing his membership in that organisation.",
+    "model": "deepseek-chat",
+    "claim_id": "c-f60f950277743989"
   }
 }

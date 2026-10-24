@@ -26,7 +26,7 @@ from euro_sdt.v2.entities import aliases_for, entity_id_for, resolve_or_create
 from euro_sdt.v2.extract import _call, _chunks
 
 CACHE_PATH = AUDIT_DIR / "llm_education_cache.json"
-DOC_KINDS = ("wikipedia", "dg_cv", "cjeu", "declaration")
+DOC_KINDS = ("wikipedia", "dg_cv", "cjeu", "declaration", "official")
 MODEL = "deepseek-chat"
 
 

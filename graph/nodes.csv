@@ -29,6 +29,7 @@ bucharest-academy-of-economic-studies,Bucharest Academy Of Economic Studies,inst
 budapest-university-of-medicine,Budapest University of Medicine,institution,university,,active,1
 carysfort-college,Carysfort College,institution,university,,active,1
 catholic-university-of-leuven-kul,Catholic University Of Leuven (Kul),institution,university,,active,1
+catholic-university-of-eichstatt-ingolstadt,Catholic University of Eichstätt-Ingolstadt,institution,university,,active,1
 catholique-de-louvain-ucl-louvain,Catholique De Louvain (Ucl) – Louvain,institution,university,,active,1
 catholique-de-louvain-la-neuve-louvain,"Catholique De Louvain-La-Neuve, Louvain",institution,university,,active,1
 center-for-constitutional-studies,Center For Constitutional Studies,institution,university,,active,1
@@ -39,7 +40,7 @@ charles-university,Charles University,institution,university,,active,2
 charles-university-in-prague,Charles University In Prague,institution,university,,active,4
 city-university-of-london,"City, University of London",institution,university,,active,1
 classical-lyceum-torquato-tasso,Classical Lyceum Torquato Tasso,institution,university,,active,1
-college-of-europe,College of Europe,institution,university,,active,15
+college-of-europe,College of Europe,institution,university,,active,16
 colaiste-muire-tourmakeady,"Coláiste Muire, Tourmakeady",institution,university,,active,1
 comenius-university,Comenius University,institution,university,,active,2
 community-of-european-management-schools,Community Of European Management Schools,institution,university,,active,1
@@ -53,7 +54,7 @@ ecole-de-commerce-solvay-universite-libre-de-bruxelles,"Ecole De Commerce Solvay
 economic-university-in-varna,Economic University In Varna,institution,university,,active,1
 edmund-a-walsh-school-of-foreign-service-at-georgetown-university,Edmund A. Walsh School Of Foreign Service At Georgetown University,institution,university,,active,1
 enpc-paris,Enpc (Paris),institution,university,,active,1
-essec-business-school,Essec Business School,institution,university,,active,2
+essec-business-school,Essec Business School,institution,university,,active,4
 estonian-business-school-ebs,Estonian Business School (Ebs),institution,university,,active,2
 estonian-university-of-life-sciences,Estonian University Of Life Sciences,institution,university,,active,1
 estonian-school-of-diplomacy,Estonian school of diplomacy,institution,university,,active,1
@@ -65,6 +66,7 @@ faculty-of-natural-sciences-university-of-zagreb,"Faculty Of Natural Sciences, U
 faculty-of-foreign-trade-academy-of-economic-studies-bucharest,"Faculty of Foreign Trade, Academy of Economic Studies Bucharest",institution,university,,active,1
 faculty-of-international-relations-at-the-university-of-economics-in-prague,Faculty of International Relations at the University of Economics in Prague,institution,university,,active,1
 faculty-of-law-of-the-eotvos-lorand-university,Faculty of Law of the Eötvös Loránd University,institution,university,,active,1
+faculty-of-law-of-the-univerza-v-ljubljani,Faculty of Law of the Univerza v Ljubljani,institution,university,,active,1
 faculty-of-law-charles-university-in-prague,"Faculty of Law, Charles University in Prague",institution,university,,active,1
 faculty-of-natural-science-at-comenius-university-in-bratislava,Faculty of Natural Science at Comenius University in Bratislava,institution,university,,active,1
 freiburg-universit,Freiburg Universit,institution,university,,active,1
@@ -82,6 +84,8 @@ hec-paris,Hec Paris,institution,university,,active,5
 hendon-school,Hendon School,institution,university,,active,1
 humboldt-university-berlin-germany,"Humboldt University Berlin, Germany",institution,university,,active,1
 icade,ICADE,institution,university,,active,1
+icade-at-the-pontificia-universidade-de-comillas,ICADE at the Pontifícia Universidade de Comillas,institution,university,,active,1
+imperial-college-london,Imperial College London,institution,university,,active,1
 insead,Insead,institution,university,,active,5
 institut-d-etudes-politiques,Institut D'Études Politiques,institution,university,,active,1
 institut-d-etudes-politiques-d-aix-en-provence,Institut D'Études Politiques D'Aix-En-Provence,institution,university,,active,1
@@ -101,6 +105,7 @@ karl-marx-higher-institute-of-economics-now-called-university-of-national-and-w,
 katholieke-universiteit-nijmegen-nijmegen-the-netherlands,"Katholieke Universiteit Nijmegen – Nijmegen, The Netherlands",institution,university,,active,1
 kaunas-medical-institute,Kaunas Medical Institute,institution,university,,active,1
 king-s-college-london,King's College London,institution,university,,active,1
+luiss-business-school,LUISS Business School,institution,university,,active,1
 lansdowne-high-school,Lansdowne High School,institution,university,,active,1
 latvian-institute-of-agriculture-and-agricultural-economics,Latvian Institute of Agriculture and Agricultural Economics,institution,university,,active,1
 latvian-university-of-agriculture,Latvian University of Agriculture,institution,university,,active,1
@@ -127,6 +132,7 @@ lycee-louis-le-grand,Lycée Louis-Le-Grand,institution,university,,active,2
 lycee-michel-rodange,Lycée Michel Rodange,institution,university,,active,1
 maastricht-university,Maastricht University,institution,university,,active,1
 macalester-college,Macalester College,institution,university,,active,1
+mannheim-business-school,Mannheim Business School,institution,university,,active,1
 marlborough-school-los-angeles-us,"Marlborough School, Los Angeles, Us",institution,university,,active,1
 maryland-institute-college-of-art,Maryland Institute College Of Art,institution,university,,active,1
 medical-university-of-lublin,Medical University of Lublin,institution,university,,active,1
@@ -160,10 +166,11 @@ romain-rolland,Romain Rolland,institution,university,,active,1
 roskilde-university,Roskilde University,institution,university,,active,1
 rotterdam-school-of-economics,Rotterdam School Of Economics,institution,university,,active,1
 royal-university-of-malta,Royal University Of Malta,institution,university,,active,1
+sda-bocconi-school-of-management,SDA Bocconi School of Management,institution,university,,active,1
 saint-george-s-english-school,Saint George'S English School,institution,university,,active,1
 salomeja-neris-gymnasium-of-vilnius,Salomėja Nėris Gymnasium Of Vilnius,institution,university,,active,1
 salomeja-neris-high-school,Salomėja Nėris High School,institution,university,,active,1
-sapienza-university-of-rome,Sapienza University Of Rome,institution,university,,active,5
+sapienza-university-of-rome,Sapienza University Of Rome,institution,university,,active,6
 sciences-po,Sciences Po,institution,university,,active,6
 scuola-superiore-di-lingue-moderne-per-interpreti-e-traduttori-universita-di-t,Scuola Superiore Di Lingue Moderne Per Interpreti E Traduttori – Università Di T,institution,university,,active,1
 seville-university,Seville University,institution,university,,active,1
@@ -180,6 +187,7 @@ st-elizabeth-s-school-of-medicine-and-social-work-in-bratislava,St. Elizabeth'S 
 st-gerald-s-college,St. Gerald'S College,institution,university,,active,1
 st-joseph-s-college-freshford,"St. Joseph'S College, Freshford",institution,university,,active,1
 st-kieran-s-college-kilkenny,"St. Kieran'S College, Kilkenny",institution,university,,active,1
+stevens-institute-of-technology,Stevens Institute of Technology,institution,university,,active,1
 stockholm-business-school,Stockholm Business School,institution,university,,active,1
 stockholm-institute-of-education,Stockholm Institute Of Education,institution,university,,active,1
 stockholm-university,Stockholm University,institution,university,,active,2
@@ -230,6 +238,7 @@ university-of-zagreb-faculty-of-economics,University Of Zagreb Faculty Of Econom
 university-of-odz,University Of Łódź,institution,university,,active,1
 university-paris-diderot,University Paris Diderot,institution,university,,active,1
 university-of-bordeaux-iv,University of Bordeaux IV,institution,university,,active,1
+university-of-cooperative-education-in-mannheim,University of Cooperative Education in Mannheim,institution,university,,active,1
 university-of-economics-in-prague,University of Economics in Prague,institution,university,,active,1
 university-of-frankfurt,University of Frankfurt,institution,university,,active,1
 university-of-humberside,University of Humberside,institution,university,,active,1
@@ -247,9 +256,11 @@ university-of-tubingen,University of Tübingen,institution,university,,active,1
 university-of-wrocaw,University of Wrocław,institution,university,,active,1
 universita-cattolica,Università Cattolica,institution,university,,active,1
 universita-commerciale-luigi-bocconi-milan,"Università Commerciale Luigi Bocconi, Milan",institution,university,,active,1
-universite-catholique-de-louvain,Université Catholique De Louvain,institution,university,,active,3
+universita-ta-malta-university-of-malta,Università ta' Malta (University of Malta),institution,university,,active,1
+universite-catholique-de-louvain,Université Catholique De Louvain,institution,university,,active,4
 universite-de-lausanne,Université De Lausanne,institution,university,,active,1
 universite-libre-de-bruxelles,Université Libre De Bruxelles,institution,university,,active,5
+universite-de-paris-ii-assas,Université de Paris II Assas,institution,university,,active,1
 upholland-grammar-school,Upholland Grammar School,institution,university,,active,1
 uppsala-university,Uppsala University,institution,university,,active,1
 utrecht-university,Utrecht University,institution,university,,active,1
@@ -320,6 +331,8 @@ university-of-saarbr-cken,university-of-saarbr-cken,institution,institution,,act
 university-of-vaasa,university-of-vaasa,institution,institution,,active,1
 university-of-washington,university-of-washington,institution,institution,,active,1
 university-of-wroc-aw,university-of-wroc-aw,institution,institution,,active,2
+universite-de-metz-university-of-metz-france,"université de Metz (University of Metz, France)",institution,university,,active,1
+universite-de-strasbourg,université de Strasbourg,institution,university,,active,1
 varvakeio-junior-high-school-of-athens,varvakeio-junior-high-school-of-athens,institution,institution,,active,1
 vilnius-university-institute-of-international-relations-and-political-science,vilnius-university-institute-of-international-relations-and-political-science,institution,institution,,active,1
 vocational-secondary-school-of-electric-power-engineering,vocational-secondary-school-of-electric-power-engineering,institution,institution,,active,1
@@ -327,10 +340,11 @@ war-studies-university,war-studies-university,institution,institution,,active,1
 wellesley-college,wellesley-college,institution,institution,,active,1
 ecole-alsacienne,École Alsacienne,institution,university,,active,1
 ecole-apostolique-secondary-school-at-clairefontaine,École Apostolique (Secondary School) At Clairefontaine,institution,university,,active,1
-ecole-polytechnique,École Polytechnique,institution,university,,active,6
+ecole-polytechnique,École Polytechnique,institution,university,,active,7
 ecole-pratique-des-hautes-etudes,École Pratique Des Hautes Études,institution,university,,active,1
 ecole-superieure-d-electricite-supelec-now-centralesupelec,"École Supérieure D'Électricité (Supélec, Now Centralesupélec)",institution,university,,active,1
 ecole-superieure-de-commerce-de-paris-escp,École Supérieure De Commerce De Paris (Escp),institution,university,,active,1
+ecole-des-mines-de-paris,École des Mines de Paris,institution,university,,active,1
 lisbon-strategy-group,'Lisbon Strategy' Group,organisation,organisation,,active,1
 pro-patria-student-guard,'Pro Patria' student guard,organisation,organisation,,active,1
 beef-group-in-europe,'beef' group in Europe,organisation,organisation,,active,1
@@ -2452,6 +2466,7 @@ elisa-ferreira,Elisa Ferreira,person,commissioner,,active,19
 elisabeth-werner,Elisabeth Werner,person,dg,,active,1
 elzbieta-bienkowska,Elzbieta Bienkowska,person,commissioner,,active,6
 emma-bonino,Emma Bonino,person,commissioner,ITA,active,19
+eric-mamer,Eric Mamer,person,dg,,active,1
 erkki-liikanen,Erkki Liikanen,person,commissioner,FIN,active,17
 eugen-tomac,Eugen Tomac,person,mep,,active,13
 eugene-regan,Eugene Regan,person,cjeu_judge,Ireland,active,1
@@ -2480,8 +2495,10 @@ genowefa-grabowska,Genowefa Grabowska,person,mep,,active,9
 gerassimos-thomas,Gerassimos Thomas,person,dg,,active,3
 gert-jan-koopman,Gert Jan Koopman,person,dg,,active,2
 gilles-schnepp,Gilles Schnepp,person,corporate_elite,,active,2
+gina-vargiu-breuer,Gina Vargiu-Breuer,person,corporate_elite,,active,1
 giorgio-napolitano,Giorgio Napolitano,person,mep,,active,8
 giovanni-pittella,Giovanni Pittella,person,mep,,active,9
+giuseppina-di-foggia,Giuseppina Di Foggia,person,corporate_elite,,active,4
 glenn-micallef,Glenn Micallef,person,commissioner,MLT,active,3
 godelieve-quisthoudt-rowohl,Godelieve Quisthoudt-Rowohl,person,mep,,active,20
 graham-watson,Graham Watson,person,mep,,active,6
@@ -2528,6 +2545,7 @@ janez-potocnik,Janez Potocnik,person,commissioner,,active,13
 janusz-onyszkiewicz,Janusz Onyszkiewicz,person,mep,,active,5
 janusz-wojciechowski,Janusz Wojciechowski,person,commissioner,,active,20
 jean-lemierre,Jean Lemierre,person,corporate_elite,,active,16
+jean-claude-bonichot,Jean-Claude Bonichot,person,cjeu_judge,France,active,1
 jean-claude-juncker,Jean-Claude Juncker,person,commissioner,,active,20
 jean-dominique-senard,Jean-Dominique Senard,person,corporate_elite,,active,12
 jean-francois-van-boxmeer,Jean-François van Boxmeer,person,corporate_elite,,active,2
@@ -2553,6 +2571,7 @@ joseph-daul,Joseph Daul,person,mep,,active,25
 jose-ignacio-sanchez-galan,José Ignacio Sánchez Galán,person,corporate_elite,,active,9
 jose-manuel-barroso,José Manuel Barroso,person,commissioner,,active,31
 jose-maria-gil-robles,José María Gil-Robles,person,mep,,active,2
+jose-sainz-armada,José Sainz Armada,person,corporate_elite,,active,1
 jozef-sikela,Jozef Síkela,person,commissioner,CZE,active,3
 joao-de-deus-pinheiro,João de Deus Pinheiro,person,commissioner,PRT,active,3
 juan-carlos-girauta,Juan Carlos Girauta,person,mep,,active,15
@@ -2628,6 +2647,7 @@ mario-monti,Mario Monti,person,commissioner,ITA,active,36
 mario-nava,Mario Nava,person,dg,,active,3
 mariya-gabriel,Mariya Gabriel,person,commissioner,BGR,active,14
 marjeta-jager,Marjeta Jager,person,dg,,active,1
+marko-ilesic,Marko Ilešič,person,cjeu_judge,Slovenia,active,2
 markos-kyprianou,Markos Kyprianou,person,commissioner,CYP,active,19
 maros-sefcovic,Maroš Šefčovič,person,commissioner,SVK,active,11
 marta-kos,Marta Kos,person,commissioner,SVN,active,8
@@ -2674,6 +2694,7 @@ octavia-spineanu-matei,Octavia Spineanu-Matei,person,cjeu_judge,Romania,active,2
 ola-kallenius,Ola Källenius,person,corporate_elite,,active,1
 oliver-bate,Oliver Bäte,person,corporate_elite,,active,8
 oliver-zipse,Oliver Zipse,person,corporate_elite,,active,6
+olivier-andries,Olivier Andriès,person,corporate_elite,,active,2
 olivier-onidi,Olivier Onidi,person,dg,,active,1
 olli-rehn,Olli Rehn,person,commissioner,FIN,active,28
 othmar-karas,Othmar Karas,person,mep,,active,2
@@ -2683,6 +2704,7 @@ padraig-flynn,Padraig Flynn,person,commissioner,IRL,active,6
 paolo-gentiloni,Paolo Gentiloni,person,commissioner,,active,22
 paolo-scaroni,Paolo Scaroni,person,corporate_elite,,active,14
 pascal-lamy,Pascal Lamy,person,commissioner,FRA,active,38
+pascal-leardini,Pascal Leardini,person,ddg,,active,2
 pascal-soriot,Pascal Soriot,person,corporate_elite,,active,3
 pat-cox,Pat Cox,person,mep,,active,14
 patrick-anthony-child,Patrick Anthony Child,person,dg,,active,2
@@ -2698,6 +2720,7 @@ pedro-solbes,Pedro Solbes,person,commissioner,ESP,active,5
 pekka-ala-pietila,Pekka Ala-Pietilä,person,corporate_elite,,active,4
 pekka-lundmark,Pekka Lundmark,person,corporate_elite,,active,1
 pertti-paasio,Pertti Paasio,person,mep,,active,2
+peter-george-xuereb,Peter George Xuereb,person,cjeu_judge,Malta,active,2
 peter-mandelson,Peter Mandelson,person,commissioner,GBR,active,24
 phil-hogan,Phil Hogan,person,commissioner,,active,9
 philippe-brassac,Philippe Brassac,person,corporate_elite,,active,2
@@ -2706,6 +2729,7 @@ philippe-malaud,Philippe Malaud,person,mep,,active,3
 philippe-van-damme,Philippe Van Damme,person,dg,,active,1
 pia-ahrenkilde-hansen,Pia Ahrenkilde Hansen,person,dg,,active,2
 pier-carlo-padoan,Pier Carlo Padoan,person,corporate_elite,,active,8
+pierre-bascou,Pierre Bascou,person,dg,,active,1
 pierre-moscovici,Pierre Moscovici,person,commissioner,,active,35
 piotr-polak,Piotr Polak,person,cjeu_judge,Poland,active,1
 piotr-serafin,Piotr Serafin,person,commissioner,POL,active,11
@@ -2758,12 +2782,14 @@ stephanie-riso,Stéphanie Riso,person,dg,,active,2
 sylvia-yvonne-kaufmann,Sylvia-Yvonne Kaufmann,person,mep,,active,9
 sylvie-guillaume,Sylvie Guillaume,person,mep,,active,14
 szabolcs-fazakas,Szabolcs Fazakas,person,mep,,active,17
+tamara-capeta,Tamara Ćapeta,person,cjeu_ag,Croatia,active,1
 teresa-ribera,Teresa Ribera,person,commissioner,ESP,active,21
 teresa-riera,Teresa Riera,person,mep,,active,4
 themis-christophidou,Themis Christophidou,person,dg,,active,1
 thierry-bollore,Thierry Bolloré,person,corporate_elite,,active,1
 thierry-breton,Thierry Breton,person,commissioner,,active,37
 thomas-buberl,Thomas Buberl,person,corporate_elite,,active,3
+thomas-saueressig,Thomas Saueressig,person,corporate_elite,,active,3
 thomas-schinecker,Thomas Schinecker,person,corporate_elite,,active,3
 thomas-skordas,Thomas Skordas,person,dg,,active,1
 thomas-von-danwitz,Thomas von Danwitz,person,cjeu_judge,Germany,active,3
@@ -2777,6 +2803,7 @@ ulrich-grillo,Ulrich Grillo,person,corporate_elite,,active,9
 ulrike-lunacek,Ulrike Lunacek,person,mep,,active,3
 ursula-von-der-leyen,Ursula von der Leyen,person,commissioner,DEU,active,20
 valdis-dombrovskis,Valdis Dombrovskis,person,commissioner,LVA,active,24
+valere-moutarlier,Valère Moutarlier,person,dg,,active,1
 vas-narasimhan,Vas Narasimhan,person,corporate_elite,,active,3
 veronica-gaffey,Veronica Gaffey,person,dg,,active,1
 violeta-bulc,Violeta Bulc,person,commissioner,,active,11
@@ -2874,7 +2901,7 @@ southern-catholic-college,Southern Catholic College,university,university,,activ
 st-catharine-s-college-university-of-cambridge,"St Catharine's College, University of Cambridge",university,university,,active,1
 stetson-university,Stetson University,university,university,,active,1
 stockholm-school-of-economics,Stockholm School of Economics,university,university,,active,1
-sveuciliste-u-zagrebu,Sveučilište u Zagrebu,university,university,,active,1
+sveuciliste-u-zagrebu,Sveučilište u Zagrebu,university,university,,active,2
 swiss-federal-institute-of-technology-eth,Swiss Federal Institute of Technology (ETH),university,university,,active,1
 syracuse-university,Syracuse University,university,university,,active,1
 technische-universitat-darmstadt,Technische Universität Darmstadt,university,university,,active,1
@@ -2887,7 +2914,7 @@ university-of-alcala,University of Alcalá,university,university,,active,1
 university-of-almeria,University of Almeria,university,university,,active,1
 university-of-barcelona,University of Barcelona,university,university,,active,3
 university-of-bonn,University of Bonn,university,university,,active,2
-university-of-cambridge,University of Cambridge,university,university,,active,5
+university-of-cambridge,University of Cambridge,university,university,,active,6
 university-of-chicago,University of Chicago,university,university,,active,3
 university-of-cologne,University of Cologne,university,university,,active,3
 university-of-fribourg,University of Fribourg,university,university,,active,1
