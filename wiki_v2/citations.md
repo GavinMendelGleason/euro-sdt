@@ -272,6 +272,7 @@ tags:
 | [[sources/wikipedia-ferdinando-nelli-feroci|Ferdinando Nelli Feroci]] | wikipedia | 4 |
 | [[sources/wikipedia-gaston-thorn|Gaston Thorn]] | wikipedia | 4 |
 | [[sources/dg_cv-gerassimos-thomas|Gerassimos Thomas]] | dg_cv | 4 |
+| [[sources/official-giuseppina-di-foggia|Giuseppina Di Foggia — Eni]] | official | 4 |
 | [[sources/wikipedia-helena-dalli|Helena Dalli]] | wikipedia | 4 |
 | [[sources/dg_cv-irena-moozova|Irena Moozova]] | dg_cv | 4 |
 | [[sources/wikipedia-isabelle-durant|Isabelle Durant]] | wikipedia | 4 |
@@ -339,6 +340,7 @@ tags:
 | [[sources/dg_cv-pia-ahrenkilde-hansen|Pia Ahrenkilde Hansen]] | dg_cv | 3 |
 | [[sources/revolving_door-stella-kyriakides|Stella Kyriakides]] | revolving_door | 3 |
 | [[sources/wikipedia-thomas-buberl|Thomas Buberl]] | wikipedia | 3 |
+| [[sources/official-thomas-saueressig|Thomas Saueressig — SAP]] | official | 3 |
 | [[sources/cjeu-thomas-von-danwitz|Thomas Von Danwitz]] | cjeu | 3 |
 | [[sources/dg_cv-timo-pesonen|Timo Pesonen]] | dg_cv | 3 |
 | [[sources/wikipedia-ulrike-lunacek|Ulrike Lunacek]] | wikipedia | 3 |
@@ -355,6 +357,9 @@ tags:
 | [[sources/dg_cv-beatriz-sanz-redrado|Beatriz Sanz Redrado]] | dg_cv | 2 |
 | [[sources/dg_cv-bernard-magenhann|Bernard Magenhann]] | dg_cv | 2 |
 | [[sources/wikipedia-bill-anderson-businessman|Bill Anderson Businessman]] | wikipedia | 2 |
+| [[sources/official-cjeu-marko-ilesic|CURIA biography: Marko Ilešič]] | official | 2 |
+| [[sources/official-cjeu-peter-george-xuereb|CURIA biography: Peter George Xuereb]] | official | 2 |
+| [[sources/official-pascal-leardini|CV Pascal Leardini]] | official | 2 |
 | [[sources/dg_cv-claire-bury|Claire Bury]] | dg_cv | 2 |
 | [[sources/wikipedia-corp-ana-botin|Corp Ana Botin]] | wikipedia | 2 |
 | [[sources/wikipedia-corp-christel-heydemann|Corp Christel Heydemann]] | wikipedia | 2 |
@@ -413,6 +418,7 @@ tags:
 | [[sources/revolving_door-neelie-kroes|Neelie Kroes]] | revolving_door | 2 |
 | [[sources/wikipedia-edu-nicholas-emiliou|Nicholas Emiliou]] | wikipedia | 2 |
 | [[sources/dg_cv-normunds-popens|Normunds Popens]] | dg_cv | 2 |
+| [[sources/official-olivier-andries|Olivier Andriès — Safran]] | official | 2 |
 | [[sources/dg_cv-olivier-onidi|Olivier Onidi]] | dg_cv | 2 |
 | [[sources/wikipedia-edu-othmar-karas|Othmar Karas]] | wikipedia | 2 |
 | [[sources/revolving_door-paolo-gentiloni|Paolo Gentiloni]] | revolving_door | 2 |
@@ -437,6 +443,10 @@ tags:
 | [[sources/wikipedia-edu-antonio-costa|António Costa]] | wikipedia | 1 |
 | [[sources/wikipedia-armin-papperger|Armin Papperger]] | wikipedia | 1 |
 | [[sources/wikipedia-bel-n-garijo|Bel N Garijo]] | wikipedia | 1 |
+| [[sources/official-cjeu-jean-claude-bonichot|CURIA biography: Jean-Claude Bonichot]] | official | 1 |
+| [[sources/official-cjeu-tamara-capeta|CURIA biography: Tamara Ćapeta]] | official | 1 |
+| [[sources/official-eric-mamer|CV Eric Mamer]] | official | 1 |
+| [[sources/official-valere-moutarlier|CV Valère Moutarlier]] | official | 1 |
 | [[sources/wikipedia-christian-sewing|Christian Sewing]] | wikipedia | 1 |
 | [[sources/dg_cv-cline-gauer|Cline Gauer]] | dg_cv | 1 |
 | [[sources/dg_cv-colin-scicluna|Colin Scicluna]] | dg_cv | 1 |
@@ -456,12 +466,14 @@ tags:
 | [[sources/wikipedia-edu-evelyn-regner|Evelyn Regner]] | wikipedia | 1 |
 | [[sources/wikipedia-edu-ewa-kopacz|Ewa Kopacz]] | wikipedia | 1 |
 | [[sources/wikipedia-edu-franz-josef-strau|Franz Josef Strauss]] | wikipedia | 1 |
+| [[sources/official-gina-vargiu-breuer|Gina Vargiu-Breuer — SAP]] | official | 1 |
 | [[sources/wikipedia-grard-onesta|Grard Onesta]] | wikipedia | 1 |
 | [[sources/wikipedia-hans-gert-pttering|Hans Gert Pttering]] | wikipedia | 1 |
 | [[sources/cjeu-ineta-ziemele|Ineta Ziemele]] | cjeu | 1 |
 | [[sources/revolving_door-janez-lenarcic|Janez Lenarcic]] | revolving_door | 1 |
 | [[sources/revolving_door-johannes-hahn|Johannes Hahn]] | revolving_door | 1 |
 | [[sources/wikipedia-john-dalli|John Dalli]] | wikipedia | 1 |
+| [[sources/official-jose-sainz-armada|José Sainz Armada — Neoenergia]] | official | 1 |
 | [[sources/declaration-doi-kaja-kallas-en|Kaja Kallas]] | declaration | 1 |
 | [[sources/revolving_door-karmenu-vella|Karmenu Vella]] | revolving_door | 1 |
 | [[sources/wikipedia-klaus-hnsch|Klaus Hnsch]] | wikipedia | 1 |
@@ -480,6 +492,7 @@ tags:
 | [[sources/wikipedia-edu-pedro-silva-pereira|Pedro Silva Pereira]] | wikipedia | 1 |
 | [[sources/revolving_door-phil-hogan|Phil Hogan]] | revolving_door | 1 |
 | [[sources/dg_cv-philippe-van-damme|Philippe Van Damme]] | dg_cv | 1 |
+| [[sources/official-pierre-bascou|Pierre Bascou — European Commission]] | official | 1 |
 | [[sources/wikipedia-edu-piotr-polak|Piotr Polak]] | wikipedia | 1 |
 | [[sources/wikipedia-ramn-luis-valcrcel|Ramn Luis Valcrcel]] | wikipedia | 1 |
 | [[sources/dg_cv-renate-nikolay|Renate Nikolay]] | dg_cv | 1 |
@@ -520,6 +533,30 @@ tags:
 | [[sources/cjeu-bernardus-ben-maria-polycarpus-smulders|Bernardus Ben Maria Polycarpus Smulders]] | cjeu | 0 |
 | [[sources/revolving_door-bienkowska|Bienkowska]] | revolving_door | 0 |
 | [[sources/wikipedia-bogus-aw-liberadzki|Bogus Aw Liberadzki]] | wikipedia | 0 |
+| [[sources/official-cjeu-andrea-biondi|CURIA biography: Andrea Biondi]] | official | 0 |
+| [[sources/official-cjeu-andreas-kumin|CURIA biography: Andreas Kumin]] | official | 0 |
+| [[sources/official-cjeu-athanasios-rantos|CURIA biography: Athanasios Rantos]] | official | 0 |
+| [[sources/official-cjeu-eugene-regan|CURIA biography: Eugene Regan]] | official | 0 |
+| [[sources/official-cjeu-francois-biltgen|CURIA biography: François Biltgen]] | official | 0 |
+| [[sources/official-cjeu-ineta-ziemele|CURIA biography: Ineta Ziemele]] | official | 0 |
+| [[sources/official-cjeu-jiri-passer|CURIA biography: Jan Passer]] | official | 0 |
+| [[sources/official-cjeu-jean-richard-de-la-tour|CURIA biography: Jean Richard de la Tour]] | official | 0 |
+| [[sources/official-cjeu-juliane-kokott|CURIA biography: Juliane Kokott]] | official | 0 |
+| [[sources/official-cjeu-koen-lenaerts|CURIA biography: Koen Lenaerts]] | official | 0 |
+| [[sources/official-cjeu-kullike-jurimae|CURIA biography: Küllike Jürimäe]] | official | 0 |
+| [[sources/official-cjeu-laila-medina|CURIA biography: Laila Medina]] | official | 0 |
+| [[sources/official-cjeu-lars-bay-larsen|CURIA biography: Lars Bay Larsen]] | official | 0 |
+| [[sources/official-cjeu-maciej-szpunar|CURIA biography: Maciej Szpunar]] | official | 0 |
+| [[sources/official-cjeu-manuel-campos-sanchez-bordona|CURIA biography: Manuel Campos Sánchez-Bordona]] | official | 0 |
+| [[sources/official-cjeu-maria-lourdes-arastey-sahun|CURIA biography: Maria Lourdes Arastey Sahún]] | official | 0 |
+| [[sources/official-cjeu-nicholas-emiliou|CURIA biography: Nicholas Emiliou]] | official | 0 |
+| [[sources/official-cjeu-nils-wahl|CURIA biography: Nils Wahl]] | official | 0 |
+| [[sources/official-cjeu-octavia-spineanu-matei|CURIA biography: Octavia Spineanu-Matei]] | official | 0 |
+| [[sources/official-cjeu-priit-pikamae|CURIA biography: Priit Pikamäe]] | official | 0 |
+| [[sources/official-cjeu-sinisa-rodin|CURIA biography: Siniša Rodin]] | official | 0 |
+| [[sources/official-cjeu-thomas-von-danwitz|CURIA biography: Thomas von Danwitz]] | official | 0 |
+| [[sources/official-alberto-de-gregorio-merino|CV Alberto De Gregorio Merino]] | official | 0 |
+| [[sources/official-petr-klement|CV Petr Klement]] | official | 0 |
 | [[sources/revolving_door-carlos-moedasserving-member-of-the-commission|Carlos Moedasserving Member Of The Commission]] | revolving_door | 0 |
 | [[sources/revolving_door-cecilia-malmstrm|Cecilia Malmstrm]] | revolving_door | 0 |
 | [[sources/org_site-cfr-membership|Cfr Membership]] | org_site | 0 |

@@ -6,7 +6,7 @@ category:
 tags:
   - organisation
   - verified
-generated: 2026-10-23
+generated: 2026-10-24
 ---
 # Centre for European Policy Studies/Heinrich Böll Foundation High-Level Group on Bolstering EU Democracy
 

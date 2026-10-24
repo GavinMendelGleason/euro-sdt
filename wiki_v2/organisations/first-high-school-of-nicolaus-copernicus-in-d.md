@@ -7,7 +7,7 @@ tags:
   - organisation
   - verified
   - institution
-generated: 2026-10-23
+generated: 2026-10-24
 ---
 # first-high-school-of-nicolaus-copernicus-in-d
 

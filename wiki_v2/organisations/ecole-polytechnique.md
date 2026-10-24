@@ -7,11 +7,11 @@ tags:
   - organisation
   - verified
   - university
-generated: 2026-10-23
+generated: 2026-10-24
 ---
 # École Polytechnique
 
-*Verified member assertions: 6 people*
+*Verified member assertions: 7 people*
 
 ## Members and roles
 
@@ -27,6 +27,9 @@ generated: 2026-10-23
 - [[people/jean-laurent-bonnafe|Jean-Laurent Bonnafé]]  
   > "&#91; 1 &#93; &#91; 2 &#93; &#91; 3 &#93; &#91; 4 &#93; Early life [ edit ] The son of a Électricité de France (EDF) electrical engineer and a lawyer in Albi , &#91; 5 &#93; Bonnafé attended the Lycée Louis-le-Grand and later graduated in engineering from the École polytechnique and École des Mines ."
   > Source: [[sources/wikipedia-jean-laurent-bonnaf|Jean Laurent Bonnaf]] · grade B
+- [[people/olivier-andries|Olivier Andriès]]  
+  > "Born in 1962, Olivier Andriès, a French national, is a graduate of École Polytechnique (1981) and École des Mines de Paris (1984)."
+  > Source: [[sources/official-olivier-andries|Olivier Andriès — Safran]] · grade B
 - [[people/patrick-pouyanne|Patrick Pouyanné]]  
   > "At 20, he entered the École Polytechnique where he graduated with an engineering degree."
   > Source: [[sources/wikipedia-patrick-pouyann|Patrick Pouyann]] · grade C

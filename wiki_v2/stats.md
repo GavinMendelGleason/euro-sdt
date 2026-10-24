@@ -11,11 +11,11 @@ tags:
 
 | Grade | Status | Count |
 |---|---|---:|
-| A | verified | 3074 |
+| A | verified | 3092 |
 | B | needs_review | 8 |
 | B | rejected | 138 |
-| B | verified | 479 |
-| C | needs_review | 178 |
+| B | verified | 483 |
+| C | needs_review | 184 |
 | C | rejected | 564 |
 | C | verified | 569 |
 | none | rejected | 452 |
@@ -39,9 +39,9 @@ tags:
 | chair | needs_review | 17 |
 | chair | rejected | 79 |
 | chair | verified | 510 |
-| educated_at | needs_review | 19 |
+| educated_at | needs_review | 25 |
 | educated_at | rejected | 115 |
-| educated_at | verified | 618 |
+| educated_at | verified | 640 |
 | employed_by | needs_review | 25 |
 | employed_by | rejected | 21 |
 | employed_by | verified | 362 |
@@ -85,11 +85,11 @@ tags:
 |---|---:|---:|
 | commissioner | 3175 | 2474 |
 | mep | 1364 | 1042 |
-| corporate_elite | 454 | 370 |
-| dg | 343 | 187 |
-| cjeu_judge | 69 | 31 |
-| cjeu_ag | 42 | 13 |
-| ddg | 8 | 5 |
+| corporate_elite | 465 | 381 |
+| dg | 346 | 190 |
+| cjeu_judge | 79 | 36 |
+| cjeu_ag | 44 | 14 |
+| ddg | 10 | 7 |
 
 ## Source documents
 
@@ -99,6 +99,7 @@ tags:
 | cjeu | 92 |
 | dg_cv | 82 |
 | revolving_door | 67 |
+| official | 37 |
 | declaration | 29 |
 | entity_md | 12 |
 | org_site | 7 |

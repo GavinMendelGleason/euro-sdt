@@ -6,7 +6,7 @@ category:
 tags:
   - organisation
   - verified
-generated: 2026-10-23
+generated: 2026-10-24
 ---
 # Delegation for relations with Bosnia and Herzegovina, and Kosovo (DSEE)
 

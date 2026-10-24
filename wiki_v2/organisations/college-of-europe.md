@@ -7,11 +7,11 @@ tags:
   - organisation
   - verified
   - university
-generated: 2026-10-23
+generated: 2026-10-24
 ---
 # College of Europe
 
-*Verified member assertions: 13 people*
+*Verified member assertions: 14 people*
 
 ## Members and roles
 
@@ -51,6 +51,9 @@ generated: 2026-10-23
 - [[people/olivier-onidi|Olivier Onidi]]  
   > " 1990: European Administrative Studies - College of Europe – Bruges  1989: B.A. in Business Administration (major in International Business) - Compiègne, France  1986: Classe préparatoire aux grandes écoles, section HEC - Lycée Faidherbe - Lille, France."
   > Source: [[sources/dg_cv-olivier-onidi|Olivier Onidi]] · grade A
+- [[people/pascal-leardini|Pascal Leardini]]  
+  > "Pascal obtained a master’s degree in law from the Université Catholique de Louvain, before joining the prestigious College of Europe, where he studied European Law."
+  > Source: [[sources/official-pascal-leardini|CV Pascal Leardini]] · grade A
 - [[people/sabine-weyand|Sabine Weyand]]  
   > " 1991: Diploma of advanced European studies, College of Europe, Dominante administrative."
   > Source: [[sources/dg_cv-sabine-weyand|Sabine Weyand]] · grade A

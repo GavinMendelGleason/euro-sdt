@@ -7,7 +7,7 @@ tags:
   - organisation
   - verified
   - corporate
-generated: 2026-10-23
+generated: 2026-10-24
 ---
 # Holcim
 

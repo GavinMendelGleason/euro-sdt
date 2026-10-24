@@ -6,7 +6,7 @@ category:
 tags:
   - organisation
   - verified
-generated: 2026-10-23
+generated: 2026-10-24
 ---
 # Interministerial Committee for the Remodelling of Industrial Structures (CIASI)
 

@@ -7,7 +7,7 @@ tags:
   - organisation
   - verified
   - organisation
-generated: 2026-10-23
+generated: 2026-10-24
 ---
 # District of Columbia Bar Association's Human Rights Committee
 

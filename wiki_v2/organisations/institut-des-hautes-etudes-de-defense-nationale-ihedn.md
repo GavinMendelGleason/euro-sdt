@@ -7,7 +7,7 @@ tags:
   - organisation
   - verified
   - university
-generated: 2026-10-23
+generated: 2026-10-24
 ---
 # Institut Des Hautes Études De Défense Nationale (Ihedn)
 

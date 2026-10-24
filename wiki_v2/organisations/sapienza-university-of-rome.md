@@ -7,11 +7,11 @@ tags:
   - organisation
   - verified
   - university
-generated: 2026-10-23
+generated: 2026-10-24
 ---
 # Sapienza University Of Rome
 
-*Verified member assertions: 5 people*
+*Verified member assertions: 6 people*
 
 ## Members and roles
 
@@ -24,6 +24,9 @@ generated: 2026-10-23
 - [[people/federica-mogherini|Federica Mogherini]]  
   > "Mogherini attended the Sapienza University of Rome where she studied political science graduating with a specialization in political philosophy with a final dissertation on Islam and politics, which she wrote while she was on the Erasmus programme at Sciences Po Aix in Aix-en-Provence, France."
   > Source: [[sources/wikipedia-federica-mogherini|Federica Mogherini]] · grade A
+- [[people/giuseppina-di-foggia|Giuseppina Di Foggia]]  
+  > "She holds a degree in Electronic Engineering from Sapienza University of Rome and is a licensed professional engineer."
+  > Source: [[sources/official-giuseppina-di-foggia|Giuseppina Di Foggia — Eni]] · grade A
 - [[people/paolo-gentiloni|Paolo Gentiloni]]  
   > "During the early 1970s he attended the Classical Lyceum Torquato Tasso in Rome; he graduated in political sciences at the Sapienza University of Rome."
   > Source: [[sources/wikipedia-paolo-gentiloni|Paolo Gentiloni]] · grade A

@@ -7,7 +7,7 @@ tags:
   - organisation
   - verified
   - organisation
-generated: 2026-10-23
+generated: 2026-10-24
 ---
 # University of Toronto's Munk School of Global Affairs and Public Policy
 

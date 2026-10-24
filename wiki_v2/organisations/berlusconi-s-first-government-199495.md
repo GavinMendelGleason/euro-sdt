@@ -7,7 +7,7 @@ tags:
   - organisation
   - verified
   - organisation
-generated: 2026-10-23
+generated: 2026-10-24
 ---
 # Berlusconi's first government (1994–95)
 

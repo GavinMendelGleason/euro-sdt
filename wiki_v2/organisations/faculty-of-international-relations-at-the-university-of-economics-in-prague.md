@@ -7,7 +7,7 @@ tags:
   - organisation
   - verified
   - university
-generated: 2026-10-23
+generated: 2026-10-24
 ---
 # Faculty of International Relations at the University of Economics in Prague
 

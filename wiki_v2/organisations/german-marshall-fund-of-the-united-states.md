@@ -6,7 +6,7 @@ category:
 tags:
   - organisation
   - verified
-generated: 2026-10-23
+generated: 2026-10-24
 ---
 # German Marshall Fund of the United States
 

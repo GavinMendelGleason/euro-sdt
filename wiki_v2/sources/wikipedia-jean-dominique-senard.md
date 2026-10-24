@@ -4,7 +4,7 @@ title: Jean Dominique Senard
 type: source
 tags:
   - source
-generated: 2026-10-23
+generated: 2026-10-24
 ---
 # Jean Dominique Senard
 

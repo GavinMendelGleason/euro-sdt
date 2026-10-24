@@ -7,7 +7,7 @@ tags:
   - organisation
   - verified
   - university
-generated: 2026-10-23
+generated: 2026-10-24
 ---
 # Institut D'Études Politiques De Bordeaux (Institute Of Political Studies) In Bor
 

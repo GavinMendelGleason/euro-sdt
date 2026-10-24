@@ -8,7 +8,7 @@ tags:
   - person
   - verified
   - corporate-elite
-generated: 2026-10-23
+generated: 2026-10-24
 ---
 # Ross McInnes
 

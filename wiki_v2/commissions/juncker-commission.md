@@ -5,7 +5,7 @@ type: commission
 tags:
   - commission
   - verified
-generated: 2026-10-23
+generated: 2026-10-24
 ---
 # Juncker Commission
 

@@ -4,7 +4,7 @@ title: Corp Roland Busch
 type: source
 tags:
   - source
-generated: 2026-10-23
+generated: 2026-10-24
 ---
 # Corp Roland Busch
 

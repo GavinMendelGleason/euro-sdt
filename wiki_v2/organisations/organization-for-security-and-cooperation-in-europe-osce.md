@@ -7,7 +7,7 @@ tags:
   - organisation
   - verified
   - organisation
-generated: 2026-10-23
+generated: 2026-10-24
 ---
 # Organization for Security and Cooperation in Europe (OSCE)
 

@@ -4,7 +4,7 @@ title: Alexandra Jour Schroeder
 type: source
 tags:
   - source
-generated: 2026-10-23
+generated: 2026-10-24
 ---
 # Alexandra Jour Schroeder
 

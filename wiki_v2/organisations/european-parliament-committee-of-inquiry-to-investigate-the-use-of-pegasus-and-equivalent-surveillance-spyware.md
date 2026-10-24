@@ -6,7 +6,7 @@ category:
 tags:
   - organisation
   - verified
-generated: 2026-10-23
+generated: 2026-10-24
 ---
 # European Parliament Committee of Inquiry to investigate the use of Pegasus and equivalent surveillance spyware
 

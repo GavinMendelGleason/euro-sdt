@@ -7,7 +7,7 @@ tags:
   - organisation
   - verified
   - organisation
-generated: 2026-10-23
+generated: 2026-10-24
 ---
 # Renew Europe working group for Sustainability and structural policies
 

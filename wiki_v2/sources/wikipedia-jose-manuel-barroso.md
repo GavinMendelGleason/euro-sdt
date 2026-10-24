@@ -4,7 +4,7 @@ title: Jose Manuel Barroso
 type: source
 tags:
   - source
-generated: 2026-10-23
+generated: 2026-10-24
 ---
 # Jose Manuel Barroso
 
