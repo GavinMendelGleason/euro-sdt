@@ -101,6 +101,12 @@ A verified assertion must have at least one located evidence row. A claim whose 
 
 Documents are segmented once into sentences with exact character offsets. The corpus is not truncated: long biographies are chunked, and every sentence keeps its ID. The LLM receives a numbered chunk and returns an organisation, a role phrase, a relation, the exact evidence sentence, and the sentence number. The evidence string is then located deterministically in the source; if it is not found, the claim is rejected. A separate grading step checks whether the located span contains the subject, object, and role; grade A is deterministic, grade B has an implicit role, and grade C is sent to adjudication. This replaces the v1 practice of storing a phrase index produced by a different tokeniser from the one that generated the evidence.
 
+\subsection{Official Source Acquisition}
+
+Wikipedia biographies supplied broad initial coverage, but a substantial minority of people had no local source at all. We therefore acquired official institutional documents directly: 32 member biographies from the Court of Justice of the European Union (CURIA), six Commission Director-General and Deputy Director-General CVs or person pages, and five corporate leadership biographies from Eni, SAP, Safran, and Neoenergia. Each document was fetched from its institutional URL, converted to text, hashed, segmented, and attached to its subject; extraction then ran through the same claim, evidence, and assertion path as every other source. These acquisitions raised verified education coverage from 74/85 to 78/85 for DGs and DDGs, from 59/79 to 64/79 for corporate elites, and from 18/37 to 22/37 for CJEU members.
+
+Fifteen people remain without a source: seven CJEU judges, one advocate general, four MEPs, and three corporate elites. In most cases the institution publishes no CV or biography for the person, or the page is unavailable to automated retrieval; one corporate case is a duplicate entity under two name forms. These are recorded as missing evidence, not as negative findings.
+
 \subsection{Failure Modes}
 
 \subsubsection{The Short-Extract Problem}
@@ -123,9 +129,9 @@ Organisation type, funding, headquarters, and descriptions are stored in \texttt
 
 \section{Wiki Output and Human Review}
 
-The verified layer renders to a static wiki with 3,280 pages: 446 people, 2,341 organisations, 7 commissions, 482 source documents, plus index, statistics, and citation pages. Each page shows only verified assertions, with role, date, quote, evidence grade, and a link to the source document. Internal links are Obsidian wikilinks; source pages are filtered from the default graph view, so the browsing graph is not dominated by document nodes.
+The verified layer renders to a static wiki with 3,320 pages: 459 people, 2,355 organisations, 7 commissions, 495 source documents, plus index, statistics, and citation pages. Each page shows only verified assertions, with role, date, quote, evidence grade, and a link to the source document. Internal links are Obsidian wikilinks; source pages are filtered from the default graph view, so the browsing graph is not dominated by document nodes.
 
-The typed graph is exported separately: 2,933 nodes and 3,680 edges, of which 2,613 are network edges, 610 education, 361 occupational, 94 institutional, and 2 other. The graph is not an Obsidian screenshot: \texttt{nodes.csv}, \texttt{edges.csv}, and \texttt{graph.graphml} carry edge class, predicate, role, grade, quote, document path, SHA-256, and a URL where the source is a public web page. Obsidian is a browsing view; the analysis uses the export.
+The typed graph is exported separately: 2,960 nodes and 3,702 edges, of which 2,613 are network edges, 632 education, 361 occupational, 94 institutional, and 2 other. The graph is not an Obsidian screenshot: \texttt{nodes.csv}, \texttt{edges.csv}, and \texttt{graph.graphml} carry edge class, predicate, role, grade, quote, document path, SHA-256, and a URL where the source is a public web page. Obsidian is a browsing view; the analysis uses the export.
 
 \begin{figure}[htbp]
 \centering
