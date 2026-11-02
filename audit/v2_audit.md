@@ -4,10 +4,10 @@
 
 | Table | Rows |
 |---|---:|
-| source_document | 988 |
-| sentence | 51234 |
-| entity | 4772 |
-| entity_alias | 7483 |
+| source_document | 991 |
+| sentence | 51270 |
+| entity | 4774 |
+| entity_alias | 7485 |
 | claim | 6716 |
 | evidence | 7485 |
 | assertion | 6716 |
