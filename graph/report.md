@@ -6,11 +6,11 @@ Generated from `euro_sdt_v2.db`. Only `assertion.status = 'verified'` appears he
 
 | Metric | All verified | Grade A only | Network edges only |
 |---|---:|---:|---:|
-| Nodes | 2966 | 2337 | 2154 |
-| Edges | 3714 | 2729 | 2622 |
-| Unique person–entity pairs | 3515 | 2627 | 2500 |
-| Largest component | 2666 | 1944 | 1920 |
-| Degree-1 nodes | 2229 | 1733 | 1614 |
+| Nodes | 2968 | 2339 | 2156 |
+| Edges | 3719 | 2734 | 2627 |
+| Unique person–entity pairs | 3520 | 2632 | 2505 |
+| Largest component | 2668 | 1946 | 1922 |
+| Degree-1 nodes | 2231 | 1735 | 1616 |
 
 ## Edges by class
 
@@ -19,7 +19,7 @@ Generated from `euro_sdt_v2.db`. Only `assertion.status = 'verified'` appears he
 | award | 3 |
 | education | 632 |
 | institutional | 94 |
-| network | 2622 |
+| network | 2627 |
 | occupational | 361 |
 | other | 2 |
 
@@ -27,7 +27,7 @@ Generated from `euro_sdt_v2.db`. Only `assertion.status = 'verified'` appears he
 
 | Grade | Edges |
 |---|---:|
-| A | 2729 |
+| A | 2734 |
 | B | 455 |
 | C | 530 |
 
@@ -37,7 +37,7 @@ Generated from `euro_sdt_v2.db`. Only `assertion.status = 'verified'` appears he
 |---|---|---:|
 | European Commission | organisation | 72 |
 | European Parliament | organisation | 51 |
-| Kaja Kallas | person | 42 |
+| Kaja Kallas | person | 43 |
 | Pascal Lamy | person | 35 |
 | Neelie Kroes | person | 34 |
 | Ria Oomen-Ruijten | person | 34 |

@@ -6,12 +6,12 @@ Generated from `euro_sdt_v2.db`, `audit/v1_baseline.json`, and `graph/metrics.js
 
 | Metric | v1 | v2 |
 |---|---:|---:|
-| Assertions / facts | 5313 | 5501 |
-| Verified | 726 | 4156 |
+| Assertions / facts | 5313 | 5505 |
+| Verified | 726 | 4161 |
 | Needs review | — | 192 |
-| Rejected | — | 1153 |
-| Source documents | 0 hashed | 822 hashed |
-| Sentences | 0 | 37452 |
+| Rejected | — | 1152 |
+| Source documents | 0 hashed | 823 hashed |
+| Sentences | 0 | 37481 |
 
 The v1 counts are not directly comparable: v1 called every row `confirmed`,
 and 30.1% of its provenance rows had no sentence evidence. v2 reports the
@@ -25,8 +25,8 @@ verified subset and keeps rejected candidates in `rejection`.
 | needs_review | C | 184 |
 | rejected | B | 138 |
 | rejected | C | 563 |
-| rejected | none | 452 |
-| verified | A | 3104 |
+| rejected | none | 451 |
+| verified | A | 3109 |
 | verified | B | 483 |
 | verified | C | 569 |
 
@@ -36,7 +36,7 @@ verified subset and keeps rejected candidates in `rejection`.
 |---|---|---:|
 | advisory_board | needs_review | 3 |
 | advisory_board | rejected | 19 |
-| advisory_board | verified | 100 |
+| advisory_board | verified | 102 |
 | affiliated_with | needs_review | 15 |
 | affiliated_with | rejected | 93 |
 | affiliated_with | verified | 413 |
@@ -47,7 +47,7 @@ verified subset and keeps rejected candidates in `rejection`.
 | awarded_by | verified | 1 |
 | board_member | needs_review | 19 |
 | board_member | rejected | 53 |
-| board_member | verified | 360 |
+| board_member | verified | 361 |
 | chair | needs_review | 17 |
 | chair | rejected | 79 |
 | chair | verified | 510 |
@@ -74,8 +74,8 @@ verified subset and keeps rejected candidates in `rejection`.
 | held_position | rejected | 56 |
 | held_position | verified | 58 |
 | member | needs_review | 19 |
-| member | rejected | 286 |
-| member | verified | 1178 |
+| member | rejected | 285 |
+| member | verified | 1180 |
 | nominated_by | needs_review | 5 |
 | nominated_by | rejected | 80 |
 | nominated_by | verified | 60 |
@@ -111,9 +111,9 @@ Claims from full-document extraction: **1127**.
 
 | Rejection stage | Count |
 |---|---:|
-| source_resolution | 722 |
+| source_resolution | 721 |
 | llm_adjudication | 701 |
-| locator | 452 |
+| locator | 451 |
 | migration | 51 |
 | party_group_guard | 2 |
 
@@ -132,7 +132,7 @@ Claims from full-document extraction: **1127**.
 | cjeu | 92 | 227327 |
 | dg_cv | 82 | 177208 |
 | revolving_door | 67 | 48681 |
-| official | 39 | 125241 |
+| official | 40 | 129798 |
 | declaration | 29 | 307404 |
 | entity_md | 12 | 26559 |
 | org_site | 7 | 237607 |
@@ -141,10 +141,10 @@ Claims from full-document extraction: **1127**.
 
 | Metric | All verified | Network only |
 |---|---:|---:|
-| Nodes | 2966 | 2154 |
-| Edges | 3714 | 2622 |
-| Largest component | 2666 | 1920 |
-| Degree-1 nodes | 2229 | 1614 |
+| Nodes | 2968 | 2156 |
+| Edges | 3719 | 2627 |
+| Largest component | 2668 | 1922 |
+| Degree-1 nodes | 2231 | 1616 |
 
 ### Edges by class
 
@@ -153,7 +153,7 @@ Claims from full-document extraction: **1127**.
 | award | 3 |
 | education | 632 |
 | institutional | 94 |
-| network | 2622 |
+| network | 2627 |
 | occupational | 361 |
 | other | 2 |
 
@@ -163,7 +163,7 @@ Claims from full-document extraction: **1127**.
 |---|---|---:|
 | European Commission | organisation | 72 |
 | European Parliament | organisation | 51 |
-| Kaja Kallas | person | 42 |
+| Kaja Kallas | person | 43 |
 | Pascal Lamy | person | 35 |
 | Neelie Kroes | person | 34 |
 | Ria Oomen-Ruijten | person | 34 |

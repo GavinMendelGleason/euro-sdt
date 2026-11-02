@@ -14,7 +14,7 @@ generated: 2026-11-02
 
 Commissioner · FIN
 
-*Verified assertions: 25*
+*Verified assertions: 26*
 
 ## Portfolio
 
@@ -95,6 +95,12 @@ Commissioner · FIN
 - [[organisations/parliament-of-finland|Parliament of Finland]]  
   > "Virkkunen was first elected to the Parliament of Finland in the 2007 parliamentary election for the Central Finland electoral district."
   > Source: [[sources/wikipedia-henna-virkkunen|Henna Virkkunen]] · grade B
+
+## Board / trustee
+
+- [[organisations/atlantic-council-of-finland-acf|Atlantic Council of Finland (ACF)]] — board_member (2021–2024)  
+  > "Nature of the post (during the above-mentioned period) Name of the body Body's objective/activity Member of the Board of Directors, 2021-November 2024 The Atlantic Council of Finland ACF An independent, non-partisan, non-governmental and non-profit organisation promoting transatlantic discussion, research and education on foreign and security policy Chair, 2020-November 2024 Toivo Ajatuspaja – Kansallinen Kulttuurisäätiö Foundation A non-profit, centre-right foundation and think-tank, member organisation of the Wilfried Martens Centre for European Studies Chair, 2020-November 2024 Jyväskylän K […]"
+  > Source: [[sources/declaration-doi-henna-virkkunen-en|Henna Virkkunen]] · grade A
 
 ## Affiliation
 

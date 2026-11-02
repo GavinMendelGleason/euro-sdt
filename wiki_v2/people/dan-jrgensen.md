@@ -14,7 +14,7 @@ generated: 2026-11-02
 
 Commissioner · DNK
 
-*Verified assertions: 18*
+*Verified assertions: 19*
 
 ## Portfolio
 
@@ -53,6 +53,10 @@ Commissioner · DNK
 - [[organisations/delegation-for-relations-with-the-united-states|Delegation for Relations with the United States]]  
   > "In addition to his committee assignments, he was also a member of the parliament's delegation for relations with Iran and a substitute on the delegation for relations with the United States."
   > Source: [[sources/wikipedia-dan-jrgensen|Dan Jrgensen]] · grade A
+
+- [[organisations/european-council-on-foreign-relations-ecfr|European Council on Foreign Relations (ECFR)]]  
+  > "Nature of membership Name of the organisation Area of activity of the organisation Member Socialdemokratiet, Danmark ​ Member Dansk Ornitologisk Forening ​ Member European Council on Foreign Relations ​ VI."
+  > Source: [[sources/declaration-doi-dan-jrgensen-en|Dan Jrgensen]] · grade A
 
 - [[organisations/parliament-s-delegation-for-relations-with-iran|parliament's delegation for relations with Iran]]  
   > "In addition to his committee assignments, he was also a member of the parliament's delegation for relations with Iran and a substitute on the delegation for relations with the United States."

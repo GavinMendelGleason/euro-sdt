@@ -24,7 +24,7 @@ PREDICATE_KEYWORDS = {
     "served_on_commission": ("commission", "commissioner"),
     "member": ("member", "members", "membership", "joined", "part of"),
     "board_member": ("board", "trustee", "supervisory", "director"),
-    "advisory_board": ("advisory", "advisor"),
+    "advisory_board": ("advisory", "advisor", "advisors"),
     "chair": ("chair", "chairman", "chairwoman", "president", "presiding"),
     "employed_by": ("ceo", "chief", "executive", "manager", "director", "head of", "worked", "works", "employed", "chairman"),
     "founder": ("found", "co-found", "founded"),

@@ -11,7 +11,7 @@ generated: 2026-11-02
 ---
 # European Council on Foreign Relations (ECFR)
 
-*Verified member assertions: 13 people*
+*Verified member assertions: 15 people*
 
 ## Profile
 
@@ -39,6 +39,9 @@ generated: 2026-11-02
 - [[people/connie-hedegaard|Connie Hedegaard]]  
   > "European Council on Foreign Relations (ECFR), Member"
   > Source: [[sources/wikipedia-connie-hedegaard|Connie Hedegaard]] · grade A
+- [[people/dan-jrgensen|Dan Jørgensen]]  
+  > "Nature of membership Name of the organisation Area of activity of the organisation Member Socialdemokratiet, Danmark ​ Member Dansk Ornitologisk Forening ​ Member European Council on Foreign Relations ​ VI."
+  > Source: [[sources/declaration-doi-dan-jrgensen-en|Dan Jrgensen]] · grade A
 - [[people/gabrielius-landsbergis|Gabrielius Landsbergis]]  
   > "&#91; 4 &#93; Landsbergis is a member of the European Council on Foreign Relations , a think tank."
   > Source: [[sources/wikipedia-gabrielius-landsbergis|Gabrielius Landsbergis]] · grade C
@@ -48,6 +51,9 @@ generated: 2026-11-02
 - [[people/jutta-urpilainen|Jutta Urpilainen]]  
   > "European Council on Foreign Relations (ECFR), Member of the Council (since 2023)"
   > Source: [[sources/wikipedia-jutta-urpilainen|Jutta Urpilainen]] · grade A
+- [[people/kaja-kallas|Kaja Kallas]] (2016–2024)  
+  > "Nature of the post (during the above-mentioned period) Name of the body Body's objective/activity Member of Council since 2016 -2024 European Council on Foreign Relations Research on European Foreign and Security policy Advisory Board Member in 2018 Women Economic Forum Empowering women Patron in 2017 Model European Union Tallinn Improving knowledge about the EU Mentor in 2016-2017 European Libera […]"
+  > Source: [[sources/declaration-doi-kaja-kallas-en|Kaja Kallas]] · grade A
 - [[people/kristalina-georgieva|Kristalina Georgieva]]  
   > "European Council on Foreign Relations (ECFR), member of the council"
   > Source: [[sources/wikipedia-kristalina-georgieva|Kristalina Georgieva]] · grade A

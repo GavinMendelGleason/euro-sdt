@@ -1,38 +1,38 @@
 {
   "counts": {
-    "source_document": 822,
-    "sentence": 37452,
-    "entity": 3651,
-    "entity_alias": 6357,
-    "claim": 5501,
-    "evidence": 6220,
-    "assertion": 5501,
-    "rejection": 1928,
+    "source_document": 823,
+    "sentence": 37481,
+    "entity": 3653,
+    "entity_alias": 6364,
+    "claim": 5505,
+    "evidence": 6225,
+    "assertion": 5505,
+    "rejection": 1926,
     "organisation_profile": 856,
     "adjudication": 2664,
     "review": 0
   },
   "assertions_by_status": {
     "needs_review": 192,
-    "rejected": 1153,
-    "verified": 4156
+    "rejected": 1152,
+    "verified": 4161
   },
   "assertions_by_grade": {
     "B": 629,
     "C": 1316,
-    "none": 452,
-    "A": 3104
+    "none": 451,
+    "A": 3109
   },
   "rejections_by_stage": {
     "llm_adjudication": 701,
-    "locator": 452,
+    "locator": 451,
     "migration": 51,
     "party_group_guard": 2,
-    "source_resolution": 722
+    "source_resolution": 721
   },
   "evidence_by_locator": {
     "empty_quote": 6,
-    "located": 6054,
+    "located": 6059,
     "quote_not_found": 160
   },
   "sources_by_kind": {
@@ -40,18 +40,18 @@
     "declaration": 29,
     "dg_cv": 82,
     "entity_md": 12,
-    "official": 39,
+    "official": 40,
     "org_site": 7,
     "revolving_door": 67,
     "wikipedia": 494
   },
   "claims_by_predicate": {
-    "advisory_board": 122,
+    "advisory_board": 124,
     "affiliated_with": 521,
     "attendee": 32,
     "award_received": 2,
     "awarded_by": 1,
-    "board_member": 432,
+    "board_member": 433,
     "chair": 606,
     "educated_at": 780,
     "employed_by": 408,
@@ -61,7 +61,7 @@
     "held_degree": 20,
     "held_portfolio": 183,
     "held_position": 119,
-    "member": 1483,
+    "member": 1484,
     "nominated_by": 145,
     "post_mandate_occupation": 156,
     "served_on_commission": 181,
@@ -80,7 +80,7 @@
     "documents_without_hash": 0,
     "recovered_evidence": 1051,
     "llm_adjudications": 2664,
-    "verified_claims_with_object": 3739,
+    "verified_claims_with_object": 3744,
     "verified_edges_without_quote": 0,
     "verified_claims_with_quarantined_endpoint": 25,
     "verified_edges_without_doc": 0,

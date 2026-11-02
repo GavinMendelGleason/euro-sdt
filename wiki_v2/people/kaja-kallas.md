@@ -14,7 +14,7 @@ generated: 2026-11-02
 
 Commissioner · EST
 
-*Verified assertions: 60*
+*Verified assertions: 61*
 
 ## Nominated by
 
@@ -67,6 +67,10 @@ Commissioner · EST
 - [[organisations/estonian-reform-party|Estonian Reform Party]] — party_member  
   > "In 2010, Kallas joined the Estonian Reform Party."
   > Source: [[sources/wikipedia-kaja-kallas|Kaja Kallas]] · grade A
+
+- [[organisations/european-council-on-foreign-relations-ecfr|European Council on Foreign Relations (ECFR)]] (2016–2024)  
+  > "Nature of the post (during the above-mentioned period) Name of the body Body's objective/activity Member of Council since 2016 -2024 European Council on Foreign Relations Research on European Foreign and Security policy Advisory Board Member in 2018 Women Economic Forum Empowering women Patron in 2017 Model European Union Tallinn Improving knowledge about the EU Mentor in 2016-2017 European Liberal Youth Improving knowledge about the EU Patron in 2016 Creative Business Cap Empowering creative and innovative startups Member until 2024 European Internet Forum Promoting internet freedom I.2."
+  > Source: [[sources/declaration-doi-kaja-kallas-en|Kaja Kallas]] · grade A
 
 - [[organisations/european-internet-forum|European Internet Forum]]  
   > "She is also a mentor of the European Liberal Youth, a member of the European Young Leaders, a MEP ambassor of Erasmus for Young Entrepreneurs, a member of the MEP Library Lovers Group, a political member of the European Internet Forum, a member of the extended board of the European Forum for Renewable Energy Sources, a member of the Global Young Leaders, a member of the Women Political Leaders, and a MEP ambassador of the European Entrepreneurship Education Network."

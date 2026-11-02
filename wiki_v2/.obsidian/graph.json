@@ -99,94 +99,101 @@
       }
     },
     {
-      "query": "tag:#pr-communications",
+      "query": "tag:#ngo-democracy-promotion",
       "color": {
         "a": 1,
         "rgb": 11696546
+      }
+    },
+    {
+      "query": "tag:#pr-communications",
+      "color": {
+        "a": 1,
+        "rgb": 14964566
       }
     },
     {
       "query": "tag:#private-equity",
       "color": {
         "a": 1,
-        "rgb": 14964566
+        "rgb": 5011624
       }
     },
     {
       "query": "tag:#professional-services",
       "color": {
         "a": 1,
-        "rgb": 5011624
+        "rgb": 12092939
       }
     },
     {
       "query": "tag:#think-tank",
       "color": {
         "a": 1,
-        "rgb": 12092939
+        "rgb": 10319197
       }
     },
     {
       "query": "tag:#think-tank-advocacy",
       "color": {
         "a": 1,
-        "rgb": 10319197
+        "rgb": 16752038
       }
     },
     {
       "query": "tag:#think-tank-forum",
       "color": {
         "a": 1,
-        "rgb": 16752038
+        "rgb": 12234924
       }
     },
     {
       "query": "tag:#think-tank-grant-making",
       "color": {
         "a": 1,
-        "rgb": 12234924
+        "rgb": 9211020
       }
     },
     {
       "query": "tag:#think-tank-public-policy-institution",
       "color": {
         "a": 1,
-        "rgb": 9211020
+        "rgb": 10921638
       }
     },
     {
       "query": "tag:#corporate",
       "color": {
         "a": 1,
-        "rgb": 10921638
+        "rgb": 16090392
       }
     },
     {
       "query": "tag:#fellowship-programme",
       "color": {
         "a": 1,
-        "rgb": 16090392
+        "rgb": 7518130
       }
     },
     {
       "query": "tag:#institution",
       "color": {
         "a": 1,
-        "rgb": 7518130
+        "rgb": 5546571
       }
     },
     {
       "query": "tag:#transatlantic-award",
       "color": {
         "a": 1,
-        "rgb": 11696546
+        "rgb": 14964566
       }
     },
     {
       "query": "tag:#university",
       "color": {
         "a": 1,
-        "rgb": 14964566
+        "rgb": 5011624
       }
     },
     {

@@ -14,7 +14,7 @@ generated: 2026-11-02
 
 Commissioner · LTU
 
-*Verified assertions: 23*
+*Verified assertions: 25*
 
 ## Portfolio
 
@@ -75,6 +75,16 @@ Commissioner · LTU
 - [[organisations/sajudis|Sąjūdis]]  
   > "Kubilius became a member of the pro-independence Sąjūdis movement, who favoured separation from the Soviet Union."
   > Source: [[sources/wikipedia-andrius-kubilius|Andrius Kubilius]] · grade A
+
+## Advisory board
+
+- [[organisations/atlantic-council|Atlantic Council]] — advisory_board (2016–2017)  
+  > "Atlantic Council EuroGrowth Initiative, USA, Member of the Board of Advisors (2016-2017)."
+  > Source: [[sources/official-andrius-kubilius|Biographical data sheet — Andrius Kubilius]] · grade A
+
+- [[organisations/international-republican-institute-iri|International Republican Institute (IRI)]] — advisory_board (2016)  
+  > "Member of the International Board of Advisors of the International Republican Institute (IRI), USA (since 2016)."
+  > Source: [[sources/official-andrius-kubilius|Biographical data sheet — Andrius Kubilius]] · grade A
 
 ## Chair / president
 

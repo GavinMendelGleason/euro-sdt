@@ -359,6 +359,7 @@ tags:
 | [[sources/dg_cv-beatriz-sanz-redrado|Beatriz Sanz Redrado]] | dg_cv | 2 |
 | [[sources/dg_cv-bernard-magenhann|Bernard Magenhann]] | dg_cv | 2 |
 | [[sources/wikipedia-bill-anderson-businessman|Bill Anderson Businessman]] | wikipedia | 2 |
+| [[sources/official-andrius-kubilius|Biographical data sheet — Andrius Kubilius]] | official | 2 |
 | [[sources/official-cjeu-marko-ilesic|CURIA biography: Marko Ilešič]] | official | 2 |
 | [[sources/official-cjeu-peter-george-xuereb|CURIA biography: Peter George Xuereb]] | official | 2 |
 | [[sources/official-pascal-leardini|CV Pascal Leardini]] | official | 2 |
@@ -397,6 +398,7 @@ tags:
 | [[sources/dg_cv-john-berrigan|John Berrigan]] | dg_cv | 2 |
 | [[sources/dg_cv-john-watson|John Watson]] | dg_cv | 2 |
 | [[sources/wikipedia-jos-mara-gil-robles|Jos Mara Gil Robles]] | wikipedia | 2 |
+| [[sources/declaration-doi-kaja-kallas-en|Kaja Kallas]] | declaration | 2 |
 | [[sources/revolving_door-karel-de-gucht|Karel De Gucht]] | revolving_door | 2 |
 | [[sources/wikipedia-kathy-sinnott|Kathy Sinnott]] | wikipedia | 2 |
 | [[sources/dg_cv-kestutis-sadauskas|Kestutis Sadauskas]] | dg_cv | 2 |
@@ -459,6 +461,7 @@ tags:
 | [[sources/wikipedia-corp-pekka-ala-pietil|Corp Pekka Ala Pietil]] | wikipedia | 1 |
 | [[sources/wikipedia-corp-pekka-lundmark|Corp Pekka Lundmark]] | wikipedia | 1 |
 | [[sources/wikipedia-corp-timotheus-hoettges|Corp Timotheus Hoettges]] | wikipedia | 1 |
+| [[sources/declaration-doi-dan-jrgensen-en|Dan Jrgensen]] | declaration | 1 |
 | [[sources/wikipedia-didier-reynders|Didier Reynders]] | wikipedia | 1 |
 | [[sources/revolving_door-dimitris-avramopoulos|Dimitris Avramopoulos]] | revolving_door | 1 |
 | [[sources/revolving_door-elisa-ferreira|Elisa Ferreira]] | revolving_door | 1 |
@@ -471,13 +474,13 @@ tags:
 | [[sources/official-gina-vargiu-breuer|Gina Vargiu-Breuer — SAP]] | official | 1 |
 | [[sources/wikipedia-grard-onesta|Grard Onesta]] | wikipedia | 1 |
 | [[sources/wikipedia-hans-gert-pttering|Hans Gert Pttering]] | wikipedia | 1 |
+| [[sources/declaration-doi-henna-virkkunen-en|Henna Virkkunen]] | declaration | 1 |
 | [[sources/cjeu-ineta-ziemele|Ineta Ziemele]] | cjeu | 1 |
 | [[sources/revolving_door-janez-lenarcic|Janez Lenarcic]] | revolving_door | 1 |
 | [[sources/revolving_door-johannes-hahn|Johannes Hahn]] | revolving_door | 1 |
 | [[sources/wikipedia-john-dalli|John Dalli]] | wikipedia | 1 |
 | [[sources/wikipedia-edu-josep-borrell-fontelles|Josep Borrell Fontelles]] | wikipedia | 1 |
 | [[sources/official-jose-sainz-armada|José Sainz Armada — Neoenergia]] | official | 1 |
-| [[sources/declaration-doi-kaja-kallas-en|Kaja Kallas]] | declaration | 1 |
 | [[sources/revolving_door-karmenu-vella|Karmenu Vella]] | revolving_door | 1 |
 | [[sources/wikipedia-klaus-hnsch|Klaus Hnsch]] | wikipedia | 1 |
 | [[sources/wikipedia-edu-laszlo-surjan|László Surján]] | wikipedia | 1 |
@@ -593,7 +596,6 @@ tags:
 | [[sources/revolving_door-dacian-ciolo|Dacian Ciolo]] | revolving_door | 0 |
 | [[sources/revolving_door-dacian-ciolos|Dacian Ciolos]] | revolving_door | 0 |
 | [[sources/cjeu-damjan-kukovec|Damjan Kukovec]] | cjeu | 0 |
-| [[sources/declaration-doi-dan-jrgensen-en|Dan Jrgensen]] | declaration | 0 |
 | [[sources/cjeu-danut-jo-ien|Danut Jo Ien]] | cjeu | 0 |
 | [[sources/wikipedia-darius-norkus|Darius Norkus]] | wikipedia | 0 |
 | [[sources/cjeu-david-petrl-k|David Petrl K]] | cjeu | 0 |
@@ -644,7 +646,6 @@ tags:
 | [[sources/declaration-doi-hadja-lahbib-en|Hadja Lahbib]] | declaration | 0 |
 | [[sources/wikipedia-edu-heidi-hautala|Heidi Hautala]] | wikipedia | 0 |
 | [[sources/cjeu-heikki-kanninen|Heikki Kanninen]] | cjeu | 0 |
-| [[sources/declaration-doi-henna-virkkunen-en|Henna Virkkunen]] | declaration | 0 |
 | [[sources/cjeu-herv-cassagnab-re|Herv Cassagnab Re]] | cjeu | 0 |
 | [[sources/cjeu-iko-n-mm|Iko N Mm]] | cjeu | 0 |
 | [[sources/wikipedia-edu-idilko-horvath|Ildikó Horváth]] | wikipedia | 0 |
