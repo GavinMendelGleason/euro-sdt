@@ -1,27 +1,27 @@
 {
   "counts": {
-    "source_document": 831,
-    "sentence": 37892,
-    "entity": 3935,
-    "entity_alias": 6646,
-    "claim": 5807,
-    "evidence": 6564,
-    "assertion": 5807,
+    "source_document": 988,
+    "sentence": 51234,
+    "entity": 4772,
+    "entity_alias": 7483,
+    "claim": 6716,
+    "evidence": 7485,
+    "assertion": 6716,
     "rejection": 1926,
     "organisation_profile": 971,
     "adjudication": 2664,
     "review": 0
   },
   "assertions_by_status": {
-    "needs_review": 229,
-    "rejected": 1151,
-    "verified": 4427
+    "needs_review": 235,
+    "rejected": 1150,
+    "verified": 5331
   },
   "assertions_by_grade": {
     "B": 636,
-    "C": 1353,
-    "none": 450,
-    "A": 3368
+    "C": 1359,
+    "none": 449,
+    "A": 4272
   },
   "rejections_by_stage": {
     "llm_adjudication": 701,
@@ -32,7 +32,7 @@
   },
   "evidence_by_locator": {
     "empty_quote": 6,
-    "located": 6398,
+    "located": 7319,
     "quote_not_found": 160
   },
   "sources_by_kind": {
@@ -40,7 +40,7 @@
     "declaration": 29,
     "dg_cv": 82,
     "entity_md": 12,
-    "official": 48,
+    "official": 205,
     "org_site": 7,
     "revolving_door": 67,
     "wikipedia": 494
@@ -51,10 +51,10 @@
     "attendee": 32,
     "award_received": 2,
     "awarded_by": 1,
-    "board_member": 556,
-    "chair": 646,
+    "board_member": 1349,
+    "chair": 691,
     "educated_at": 780,
-    "employed_by": 443,
+    "employed_by": 514,
     "fellow": 28,
     "founder": 84,
     "from_country": 145,
@@ -75,14 +75,14 @@
     "evidence_without_doc": 0,
     "claims_without_object": 0,
     "duplicate_active_entities": 0,
-    "quarantined_entities": 38,
+    "quarantined_entities": 39,
     "documents_without_sentences": 0,
     "documents_without_hash": 0,
     "recovered_evidence": 1051,
     "llm_adjudications": 2664,
-    "verified_claims_with_object": 4010,
+    "verified_claims_with_object": 4914,
     "verified_edges_without_quote": 0,
-    "verified_claims_with_quarantined_endpoint": 25,
+    "verified_claims_with_quarantined_endpoint": 26,
     "verified_edges_without_doc": 0,
     "documents_without_path": 0
   }

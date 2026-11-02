@@ -86,9 +86,9 @@ Member, independent
 Oliver Zipse
 Member, independent
 Remuneration, Nomination and Governance Committee
-Pursuant to the Board Rules, the Remuneration, Nomination and Governance Committee (RNGC), which is required to meet at least four times a year, consults with the CEO with respect to proposals for the appointment of the members of the Executive Committee and makes recommendations to the Board of Directors regarding the appointment of the Secretary to the Board of Directors.
-The RNGC also makes recommendations to the Board of Directors regarding succession planning at Board, Executive Committee and Senior Management levels, remuneration strategies and long-term remuneration plans. Furthermore, the Committee decides on the service contracts and other contractual matters in relation to the Members of the Board of Directors and the Executive Committee.
-In addition, the RNGC reviews top talents, discusses measures to improve engagement and to promote diversity, reviews the remuneration of the Executive Committee members, the Long Term Incentive Plans (LTIP), and the variable pay.
+Pursuant to the Board Rules, the Remuneration, Nomination and Governance Committee (RNGC), which is required to meet at least four times a year, consults with the CEO with respect to proposals for the appointment of the members of the Executive Committee and makes recommendations to the Board of Directors regarding the appointment of the Secretary to the Board of Directors.
+The RNGC also makes recommendations to the Board of Directors regarding succession planning at Board, Executive Committee and Senior Management levels, remuneration strategies and long-term remuneration plans. Furthermore, the Committee decides on the service contracts and other contractual matters in relation to the Members of the Board of Directors and the Executive Committee.
+In addition, the RNGC reviews top talents, discusses measures to improve engagement and to promote diversity, reviews the remuneration of the Executive Committee members, the Long Term Incentive Plans (LTIP), and the variable pay.
 Finally, the RNGC performs regular evaluations of the Company’s corporate governance and makes proposals for changes to the Board Rules or the Articles of Association.
 The guiding principle governing management appointments within Airbus is that the best candidate should be appointed to the position (“best person for the job”), while at the same time seeking to achieve a balanced composition with respect to gender, experience, national origin etc. The implementation of these principles should, however, not create any restrictions on the diversity within the Company’s executive management team.
 The Chairman of the Board of Directors and the Chief Executive Officer are invited to attend meetings of the RNGC. The Chief Human Resources Officer Airbus is requested to attend meetings to present management proposals and to answer questions.
@@ -106,7 +106,7 @@ The Ethics, Compliance & Sustainability Committee
 Pursuant to the Board Rules, the Ethics, Compliance and Sustainability Committee has as its main mission to assist the Board in overseeing Airbus’ culture and commitment to ethical business, integrity and sustainability. It is required to meet at least four times a year. At least twice a year, the Committee dedicates one of its agenda items to sustainability topics.
 It also monitors Airbus’ ethics and compliance programme, organisation and framework for the effective governance of ethics and compliance matters, including all associated internal policies, procedures and controls, which include the areas of money laundering and terrorist financing, fraud, bribery and corruption, trade sanctions and export control, data privacy, procurement and supply chain compliance and anti-competitive practices. It also oversees Airbus' sustainability strategy and effective governance and ensures that sustainability related topics are taken into account in the Company's objectives and strategy.
 In addition, the Board can, on a case-by-case basis, delegate to the Ethics, Compliance and Sustainability Committee any task which is ethics-and-compliance or sustainability related.
-The Ethics, Compliance and Sustainability Committee will, among others, monitor any of the aforementioned responsibilities of the Audit Committee that are regarding compliance-related matters and will also provide any necessary disclosures of the status of major investigations into ethical or compliance breaches or allegations of misconduct – especially financial and accounting-related –  to the Audit Committee.
+The Ethics, Compliance and Sustainability Committee will, among others, monitor any of the aforementioned responsibilities of the Audit Committee that are regarding compliance-related matters and will also provide any necessary disclosures of the status of major investigations into ethical or compliance breaches or allegations of misconduct – especially financial and accounting-related –  to the Audit Committee.
 Members of the Ethics, Compliance & Sustainability Committee
 (As of 02 October 2026)
 Jean-Pierre Clamadieu
@@ -122,11 +122,11 @@ Member, independent
 Antony Wood
 Member, independent
 Our Governance
-Our governance
-Airbus' top-level governing body is the Board of Directors, which delegates day-to-day management to the company’s Chief…
-Executive and Operational Committees
-Airbus’ Executive Committee supports the Chief Executive Officer in managing the company’s operations on a day-to-day basis.
-Shareholders' Meeting
-Airbus holds Annual General Meetings to inform shareholders and elect the Board of Directors, which manages the company.
+Our governance
+Airbus' top-level governing body is the Board of Directors, which delegates day-to-day management to the company’s Chief…
+Executive and Operational Committees
+Airbus’ Executive Committee supports the Chief Executive Officer in managing the company’s operations on a day-to-day basis.
+Shareholders' Meeting
+Airbus holds Annual General Meetings to inform shareholders and elect the Board of Directors, which manages the company.
 Enterprise Risk Management
-Enterprise Risk Management is a crucial mechanism for mitigating risks faced by Airbus, as well as for identifying future…
+Enterprise Risk Management is a crucial mechanism for mitigating risks faced by Airbus, as well as for identifying future…

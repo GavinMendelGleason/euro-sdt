@@ -4,13 +4,13 @@
 
 | Table | Rows |
 |---|---:|
-| source_document | 831 |
-| sentence | 37892 |
-| entity | 3935 |
-| entity_alias | 6646 |
-| claim | 5807 |
-| evidence | 6564 |
-| assertion | 5807 |
+| source_document | 988 |
+| sentence | 51234 |
+| entity | 4772 |
+| entity_alias | 7483 |
+| claim | 6716 |
+| evidence | 7485 |
+| assertion | 6716 |
 | rejection | 1926 |
 | organisation_profile | 971 |
 | adjudication | 2664 |
@@ -20,22 +20,22 @@
 
 | Status | Count |
 |---|---:|
-| verified | 4427 |
-| rejected | 1151 |
-| needs_review | 229 |
+| verified | 5331 |
+| rejected | 1150 |
+| needs_review | 235 |
 
 | Grade | Count |
 |---|---:|
-| A | 3368 |
+| A | 4272 |
 | B | 636 |
-| C | 1353 |
-| none | 450 |
+| C | 1359 |
+| none | 449 |
 
 ## Evidence locator
 
 | Status | Rows |
 |---|---:|
-| located | 6398 |
+| located | 7319 |
 | quote_not_found | 160 |
 | empty_quote | 6 |
 
@@ -59,14 +59,14 @@
 | evidence_without_doc | 0 | 0 |
 | claims_without_object | 0 | 0 |
 | duplicate_active_entities | 0 | 0 |
-| quarantined_entities | 38 | informational |
+| quarantined_entities | 39 | informational |
 | documents_without_sentences | 0 | 0 |
 | documents_without_hash | 0 | 0 |
 | recovered_evidence | 1051 | informational |
 | llm_adjudications | 2664 | informational |
-| verified_claims_with_object | 4010 | informational |
+| verified_claims_with_object | 4914 | informational |
 | verified_edges_without_quote | 0 | 0 |
-| verified_claims_with_quarantined_endpoint | 25 | informational |
+| verified_claims_with_quarantined_endpoint | 26 | informational |
 | verified_edges_without_doc | 0 | 0 |
 | documents_without_path | 0 | 0 |
 

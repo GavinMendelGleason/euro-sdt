@@ -33,13 +33,14 @@ PREDICATE_FOR_KIND = {
 
 
 def quote_for_role(text: str, company: str, person: str, role_raw: str) -> str:
-    company_pos = text.find(company)
+    lower = text.lower()
+    company_pos = lower.find(company.lower())
     if company_pos < 0:
         raise ValueError(f"company {company!r} not found in source")
-    person_pos = text.find(person, company_pos)
+    person_pos = lower.find(person.lower(), company_pos)
     if person_pos < 0:
         raise ValueError(f"person {person!r} not found after {company!r}")
-    role_pos = text.find(role_raw, person_pos + len(person))
+    role_pos = lower.find(role_raw.lower(), person_pos + len(person))
     end = person_pos + len(person) if role_pos < 0 else role_pos + len(role_raw)
     return text[company_pos:end]
 

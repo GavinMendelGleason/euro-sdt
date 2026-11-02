@@ -40,6 +40,7 @@ def main() -> int:
     parser.add_argument("--text-file", default=None)
     args = parser.parse_args()
     text = Path(args.text_file).read_text(encoding="utf-8") if args.text_file else fetch_text(args.url)
+    text = text.replace("\xa0", " ")
     if len(text.strip()) < 100:
         print(f"too little text: {len(text)}")
         return 1
