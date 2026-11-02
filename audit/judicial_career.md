@@ -34,6 +34,6 @@
 
 - Extracted from official CJEU biography texts under `sources/cjeu/` and `sources/official/cjeu-*.txt`.
 - Every `source_quote` was checked as an exact substring of its source file.
-- The member list spells **Jiří Passer**, while the available biography is for **Jan Passer**; the row set uses the existing Jan Passer entity and records the alias.
+- **Corrected:** the roster and CV now name **Jan Passer**; the official biography file is `sources/official/cjeu-jan-passer.txt`, and the Wikidata QID is `Q22981882`. The stable entity id remains `jiri-passer` as a legacy identifier.
 - No career facts were added to the graph assertions; this is a separate career-history layer.
 - Dates are taken only when explicitly stated; undated roles remain undated.
