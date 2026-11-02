@@ -151,40 +151,44 @@ The review layer is explicit. Assertions that the deterministic checks cannot se
 
 \section{Findings}
 
-The following findings describe the verified subset, not the larger candidate pool. The dataset covers 150 commissioners, 162 MEP-only entities (168 MEPs in the frame; some are merged with commissioner records), 85 DGs and DDGs, 79 corporate elites, and 37 CJEU members. Coverage is uneven: commissioner education is verified for 119/150, DG/DDG for 78/85, MEP for 91/162, corporate for 64/79, and CJEU for 22/37. We therefore report descriptive patterns and avoid claims that depend on the unverified remainder.
+The following findings describe the verified subset, not the larger candidate pool. The dataset covers 150 commissioners, 162 MEP-only entities (168 MEPs in the frame; some are merged with commissioner records), 85 DGs and DDGs, 1{,}000 corporate elites, and 98 judicial elites. Coverage is uneven: commissioner education is verified for 119/150, DG/DDG for 78/85, MEP for 91/162, corporate for 64/1{,}000, and judicial for 98/98. The education table below uses the expanded non-MEP frame; the network findings describe the verified graph snapshot. We therefore report descriptive patterns and avoid claims that depend on the unverified remainder.
 
 \subsection{Elite Network Structure}
 
-Commissioners share a policy-institute cluster: the European Council on Foreign Relations (12 commissioners), Friends of Europe (10), Bilderberg (9), and the Trilateral Commission (7). MEPs sit in parliamentary and party structures: the European Parliament (23), the European People's Party (11), the Party of European Socialists (8), with committee memberships at 5--6 each. DGs and DDGs centre on the College of Europe (8). Corporate elites are more fragmented: the largest shared organisation is the European Round Table of Industrialists (3), and 8 of 79 share an elite-network organisation with a commissioner under our broad list.
+Commissioners share a policy-institute cluster: the European Council on Foreign Relations (12 commissioners), Friends of Europe (10), Bilderberg (9), and the Trilateral Commission (7). MEPs sit in parliamentary and party structures: the European Parliament (23), the European People's Party (11), the Party of European Socialists (8), with committee memberships at 5--6 each. DGs and DDGs centre on the College of Europe (8). Corporate elites are more fragmented: the largest shared organisation is the European Round Table of Industrialists (3), and 8 of 1{,}000 share an elite-network organisation with a commissioner under our broad list.
 
 Both groups connect to parties and the Parliament; the commissioner cluster is distinguished by the policy institutes, not by an exclusive network.
 
-\subsection{Education Tracks}
+\subsection{Education Tracks across Non-MEP Elites}
 
-Table~\ref{tab:schools} shows the eight institutions with six or more verified attendees, broken down by elite track.
+Table~\ref{tab:schools} reports the institutions most frequently represented among educated commissioners, Directors-General and deputy Directors-General, corporate elites, and judicial elites. MEPs are excluded. The table uses the expanded non-MEP education frame (1{,}000 corporate and 98 judicial people); the network counts above describe the prior verified graph snapshot.
 
 \begin{table}[htbp]
 \centering
+\small
 \begin{tabular}{lrrrrr}
 \toprule
-Institution & Political & Admin. & Judicial & Corporate & Total \\
+Institution & Commissioners & DGs/DDGs & Corporate & Judicial & Total \\
 \midrule
-College of Europe   & 3 & 8 & 1 & 0 & 12 \\
-Harvard             & 6 & 2 & 1 & 0 & 9 \\
-\'Ecole Polytechnique & 0 & 0 & 0 & 7 & 7 \\
-University of Cambridge & 2 & 3 & 1 & 0 & 6 \\
-London School of Economics & 4 & 1 & 0 & 1 & 6 \\
-Sapienza University of Rome & 4 & 0 & 0 & 2 & 6 \\
-Sciences Po         & 6 & 0 & 0 & 0 & 6 \\
-University of Oxford & 3 & 1 & 0 & 2 & 6 \\
+College of Europe & 3 & 8 & 0 & 7 & 18 \\
+Harvard University & 6 & 2 & 0 & 6 & 14 \\
+University of Cambridge & 2 & 3 & 0 & 5 & 10 \\
+\'Ecole nationale d'administration & 3 & 0 & 1 & 6 & 10 \\
+London School of Economics & 4 & 1 & 1 & 2 & 8 \\
+UCLouvain & 1 & 2 & 1 & 4 & 8 \\
+University of Oxford & 3 & 1 & 2 & 2 & 8 \\
+Vilnius University & 3 & 0 & 0 & 4 & 7 \\
+\'Ecole Polytechnique & 0 & 0 & 7 & 0 & 7 \\
+University of Cologne & 2 & 0 & 1 & 3 & 6 \\
 \bottomrule
 \end{tabular}
-\caption{Elite school specialisation by verified track. Political = commissioners + MEPs; Admin. = Directors-General and deputies; Judicial = CJEU judges and advocates general; Corporate = transnational corporate leaders.}
+\caption{Education by institution and non-MEP elite track. Counts are educated people, not degree rows. Denominators: commissioners 119, DGs/DDGs 78, corporate 64, judicial 98. Corporate education coverage is 64/1{,}000; judicial coverage is 98/98.}
 \label{tab:schools}
 \end{table}
 
-The College of Europe is the most balanced pipeline, spanning political, administrative, and judicial tracks with an administrative weight. Harvard and Cambridge are politically weighted but also span administrative and judicial tracks. Oxford, the London School of Economics, and Sapienza combine political attendance with either administrative or corporate tracks. Sciences Po is exclusively political in the verified record, and \'Ecole Polytechnique is exclusively corporate. The data support a set of parallel institutional tracks rather than a single elite pipeline.
+The aggregate is weakly concentrated: the top five institutions cover 56 of 359 educated people (15.6\%), and the mean is 1.89 institutions per educated person. The College of Europe is the most cross-cutting institution (18 people: 3 commissioners, 8 DGs/DDGs, and 7 judicial elites). Harvard is politically and judicially strong but absent from the corporate column, while the \'Ecole Polytechnique is corporate-specific (7 of 64 educated corporate elites) and absent from the other tracks. ENA is concentrated in the political and judicial tracks, and the London School of Economics and Oxford span three tracks.
 
+These are descriptive associations, not causal effects. Denominators differ substantially: commissioner and DG/DDG education is much better covered than corporate education, and the judicial frame has complete education coverage because it was built from mandatory official biographies. The pattern supports parallel institutional pipelines rather than a single European elite school.
 \subsection{Fellowships and Scholarships}
 
 Fellowships are not yet represented systematically in the graph. The general extractor records a \texttt{fellow} relationship when it is attached to an organisation, but it excludes universities and treats most awards as out of scope, and it was applied uniformly rather than as a targeted search. A targeted scan of local sources for commissioners, DGs and deputy DGs, and CJEU members---MEPs were excluded---found 66 sentences mentioning fellows, scholars, scholarships, or named programmes. High-confidence named-programme cases included five Fulbright awards (Juliane Kokott, Sini\v{s}a Rodin, Danuta H\"ubner, Josep Borrell, and Kristalina Georgieva), a Henry Fellowship (Leon Brittan), a DAAD scholarship (Maciej Popowski), and a Schuman scholarship (Pia Ahrenkilde Hansen). These eight claims are now in the graph. Coverage remains thin, especially for DGs and judges, whose biographies often mention fellowships only in passing. A separate scan of German Marshall Fund sources found Catherine Ashton's membership of its 2019 Transatlantic Task Force; this is recorded as task-force membership, not a GMF board or staff role.
@@ -199,7 +203,7 @@ Among French commissioners with verified education, Pascal Lamy (ENA, HEC, Scien
 
 \section{Future Work}
 
-Coverage remains uneven: commissioner education 119/150 and organisation affiliation 137/150; DG/DDG 78/85 and 20/85; MEP 91/162 and 118/162; corporate 64/79 and 29/79; CJEU 22/37 and 2/37. Three tasks follow. First, work the 192 \texttt{needs\_review} assertions and run the grade-A second judge. Second, acquire the missing sources for the corporate, CJEU, DG/DDG, and MEP populations rather than treating their absence as negative evidence. Third, add a formal overrepresentation metric based on Eurostat tertiary education statistics, so claims of elite signalling can be tested against population baselines. Extending the frame to General Court judges and national officials is a further source-acquisition task.
+Coverage remains uneven: commissioner education 119/150 and organisation affiliation 137/150; DG/DDG 78/85 and 20/85; MEP 91/162 and 118/162; corporate education 64/1{,}000; judicial education 98/98; CJEU organisation affiliation remains sparse. Three tasks follow. First, work the 192 \texttt{needs\_review} assertions and run the grade-A second judge. Second, acquire the missing sources for the corporate, CJEU, DG/DDG, and MEP populations rather than treating their absence as negative evidence. Third, add a formal overrepresentation metric based on Eurostat tertiary education statistics, so claims of elite signalling can be tested against population baselines. Extending the frame to General Court judges and national officials is a further source-acquisition task.
 
 \section{Conclusion}
 
