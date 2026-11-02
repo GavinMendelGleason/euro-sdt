@@ -88,6 +88,7 @@ def main() -> int:
             "person": row["name"], "person_id": row["person_id"], "category": row["category"],
             "url": row["url"] or "", "doc_id": row["doc_id"], "sentence": row["ordinal"],
             "matched": "", "snippet": row["text"].replace("\n", " "),
+            "target_scope": row["category"] in TARGET_CATEGORIES,
             "existing": "; ".join(
                 f"{c['predicate']}={c['object']} ({c['status']})"
                 for c in claims.get(row["person_id"], [])
@@ -98,8 +99,7 @@ def main() -> int:
     candidates = []
     people = db.execute(
         "SELECT id, name, category FROM entity WHERE kind='person' AND status='active' "
-        f"AND category IN ({','.join('?' for _ in TARGET_CATEGORIES)}) ORDER BY category, name",
-        TARGET_CATEGORIES,
+        "ORDER BY category, name"
     ).fetchall()
     for url in (args.url or DEFAULT_URLS):
         try:
@@ -119,6 +119,7 @@ def main() -> int:
                 "person": person["name"], "person_id": person["id"], "category": person["category"],
                 "url": url, "doc_id": "", "sentence": "",
                 "matched": hit, "snippet": snippet,
+                "target_scope": person["category"] in TARGET_CATEGORIES,
                 "existing": "; ".join(
                     f"{c['predicate']}={c['object']} ({c['status']})"
                     for c in claims.get(person["id"], [])
@@ -141,7 +142,8 @@ def main() -> int:
             lines.append(f"  Existing claims: {r['existing']}")
     lines += ["", "## Official-page candidates", ""]
     for r in candidates:
-        lines.append(f"- **{r['person']}** ({r['category']}) — {r['url']}")
+        scope = "" if r["target_scope"] else " — outside target scope"
+        lines.append(f"- **{r['person']}** ({r['category']}{scope}) — {r['url']}")
         lines.append(f"  > {r['snippet'][:500]}")
         if r["existing"]:
             lines.append(f"  Existing claims: {r['existing']}")

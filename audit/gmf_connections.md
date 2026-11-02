@@ -1,6 +1,6 @@
 # German Marshall Fund connections
 
-Rows: 7
+Rows: 8
 
 ## Local corpus
 
@@ -28,3 +28,5 @@ Rows: 7
 - **Cecilia Malmström** (commissioner) — https://www.gmfus.org/news/german-marshall-fund-and-bundeskanzler-helmut-schmidt-stiftung-launch-transatlantic-task-force
   > ves (R-TX 23) Dr. Miroslav Lajčák, Minister of Foreign and European Affairs, Slovakia Ms. Merle Maigre, Executive Vice President for Government Relations, CybExer Technologies Dr. Cecilia Malmström, Former EU Trade Commissioner Dr. James Manyika, Chairman and Director, McKinsey Global Institute Dr. Kori Schake, Deputy Director-General, International Institute for Strategic Studies U.S. Representative Elissa Slotkin , Member, U.S. House of Representatives (D-MI 8) Dr. Nathalie
   Existing claims: member=German Marshall Fund (verified); member=Transatlantic Task Force of the German Marshall Fund and the Bundeskanzler-Helmut-Schmidt-Stiftung (BKHS) (verified); member=Transatlantic Task Force of the German Marshall Fund and the Federal Chancellor Helmut Schmidt Foundation (BKHS) (verified)
+- **Gabrielius Landsbergis** (mep — outside target scope) — https://www.gmfus.org/news/gmf-launches-transatlantic-task-force
+  > Affairs (SWP) Prof. Manuel Muniz, Provost and Dean of the School of Politics, Economics & Global Affairs, IE University; former State Secretary, Ministry of Foreign Affairs, Spain Gabrielius Landsbergis, former Minister of Foreign Affairs, Lithuania; former member of the European Parliament Marietje Schaake, International Policy Director, Stanford University’s Cyber Policy Center; Fellow, Stanford’s Institute for Human-Centered AI; former Member of the European Parliament Chr
