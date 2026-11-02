@@ -217,3 +217,19 @@ CREATE TABLE IF NOT EXISTS company_frame (
 );
 CREATE INDEX IF NOT EXISTS idx_company_frame_company ON company_frame(company_id);
 CREATE INDEX IF NOT EXISTS idx_company_frame_name ON company_frame(frame_name);
+
+
+CREATE TABLE IF NOT EXISTS person_profile (
+    id TEXT PRIMARY KEY,
+    entity_id TEXT NOT NULL,
+    attribute TEXT NOT NULL,
+    value TEXT,
+    value_id TEXT,
+    quote TEXT,
+    status TEXT NOT NULL DEFAULT 'wikidata',
+    source_url TEXT,
+    notes TEXT,
+    created_at TEXT NOT NULL
+);
+CREATE INDEX IF NOT EXISTS idx_person_profile_entity ON person_profile(entity_id);
+CREATE INDEX IF NOT EXISTS idx_person_profile_attr ON person_profile(attribute);
