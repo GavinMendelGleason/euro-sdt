@@ -24,3 +24,9 @@ None of the eight unresolved names appears in the current or former member lists
 Four are demonstrably invalid or duplicate entries. Four have no official CJEU record at all and should be treated as invalid until a Council appointment decision or national nomination is produced.
 
 They should be removed from the CJEU roster before any further career analysis. They are not missing biographies.
+
+## Action taken
+
+The eight invalid entries were removed from `data/cjeu/cjeu_members_list.csv` and `data/cvs/cjeu_cv_data.csv`. Their entities remain in the database as quarantined records for provenance.
+
+The roster now has 31 named members. **Aleksander Arabadjiev** was corrected to **Alexander Arabadjiev** with QID `Q4718233`.

@@ -75,14 +75,14 @@
     "evidence_without_doc": 0,
     "claims_without_object": 0,
     "duplicate_active_entities": 0,
-    "quarantined_entities": 39,
+    "quarantined_entities": 47,
     "documents_without_sentences": 0,
     "documents_without_hash": 0,
     "recovered_evidence": 1051,
     "llm_adjudications": 2664,
     "verified_claims_with_object": 4914,
     "verified_edges_without_quote": 0,
-    "verified_claims_with_quarantined_endpoint": 26,
+    "verified_claims_with_quarantined_endpoint": 27,
     "verified_edges_without_doc": 0,
     "documents_without_path": 0
   }

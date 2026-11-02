@@ -2,7 +2,7 @@
 
 - Career rows: **376**
 - Members with at least one extracted step: **{people}**
-- Members still missing an official biography: **8**
+- Invalid roster entries removed: **8**
 - Rows with at least one date: **341**
 - Undated rows: **35**
 
@@ -17,7 +17,7 @@
 | political | 20 |
 | private_practice | 17 |
 
-## Missing biographies
+## Removed from the CJEU roster
 
 - Lyudmila Grigorova
 - Ingunn Ikdahl
@@ -27,6 +27,8 @@
 - Mihail Visoiu
 - Thomas Borg
 - Dragos-Bogdan Raduletu
+
+These are invalid roster entries, not missing biographies. See `audit/cjeu_roster_validation.md`.
 
 ## Notes
 
