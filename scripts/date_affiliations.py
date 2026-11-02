@@ -55,13 +55,14 @@ def clean(value):
     return "-".join(x for x in m.groups() if x)
 
 
-def prompt(subject: str, role: str, organisation: str, quote: str) -> str:
-    return f"""Read this evidence sentence about {subject}'s relationship with {organisation}.
+def prompt(subject: str, role: str, organisation: str, quote: str, context: str = "") -> str:
+    return f"""Read this evidence and surrounding source text about {subject}'s relationship with {organisation}.
 
 Role: {role}
 Evidence: {quote}
+Context: {context}
 
-Return the relationship start and end dates ONLY if the evidence explicitly states them.
+Return the relationship start and end dates ONLY if the evidence or context explicitly states them for this relationship.
 Use YYYY, YYYY-MM, or YYYY-MM-DD. If no date is stated, return null. Do not infer or use outside knowledge.
 
 Return JSON array only:
@@ -78,7 +79,7 @@ def main() -> int:
     db.row_factory = sqlite3.Row
     rows = db.execute(
         """SELECT c.id, c.start_date, c.end_date, c.role_raw, e.name AS subject, o.name AS object,
-                  ev.quote
+                  ev.quote, ev.doc_id, ev.sentence_start_id
            FROM claim c JOIN assertion a ON a.claim_id=c.id AND a.status='verified'
            JOIN entity e ON e.id=c.subject_id JOIN entity o ON o.id=c.object_id
            JOIN evidence ev ON ev.claim_id=c.id AND ev.locator_status='located'
@@ -92,7 +93,16 @@ def main() -> int:
     tasks = {}
     with ThreadPoolExecutor(max_workers=max(1, args.workers)) as pool:
         for r in rows:
-            p = prompt(r["subject"], r["role_raw"] or "", r["object"], r["quote"])
+            context = ""
+            if r["sentence_start_id"]:
+                ord_ = int(r["sentence_start_id"].split(":")[-1])
+                context = " ".join(
+                    x["text"] for x in db.execute(
+                        "SELECT text FROM sentence WHERE doc_id=? AND ordinal BETWEEN ? AND ? ORDER BY ordinal",
+                        (r["doc_id"], max(0, ord_-2), ord_+2),
+                    )
+                )
+            p = prompt(r["subject"], r["role_raw"] or "", r["object"], r["quote"], context)
             key = f"{MODEL}|{sha256_text(p)}"
             if key not in cache:
                 tasks[pool.submit(_call, p, MODEL, False)] = (r["id"], key)
@@ -112,7 +122,16 @@ def main() -> int:
     save_cache(cache)
     updated = 0
     for r in rows:
-        p = prompt(r["subject"], r["role_raw"] or "", r["object"], r["quote"])
+        context = ""
+        if r["sentence_start_id"]:
+            ord_ = int(r["sentence_start_id"].split(":")[-1])
+            context = " ".join(
+                x["text"] for x in db.execute(
+                    "SELECT text FROM sentence WHERE doc_id=? AND ordinal BETWEEN ? AND ? ORDER BY ordinal",
+                    (r["doc_id"], max(0, ord_-2), ord_+2),
+                )
+            )
+        p = prompt(r["subject"], r["role_raw"] or "", r["object"], r["quote"], context)
         result = cache.get(f"{MODEL}|{sha256_text(p)}", {})
         start, end = clean(result.get("start_date")), clean(result.get("end_date"))
         if start or end:

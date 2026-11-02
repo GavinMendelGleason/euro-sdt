@@ -2,15 +2,15 @@
 
 `pre_any` = joined before the commission start; `pre_active` = still active at that start.
 
-| Commission | Roster | All-time hard | Dated | Pre-any | Pre-active |
-|---|---:|---:|---:|---:|---:|
-| Santer 1995–99 | 20 | 4 | 1 | 0 | 0 |
-| Prodi 1999–2004 | 21 | 5 | 1 | 0 | 0 |
-| Barroso I 2004–09 | 30 | 3 | 0 | 0 | 0 |
-| Barroso II 2010–14 | 28 | 6 | 2 | 0 | 0 |
-| Juncker 2014–19 | 28 | 4 | 2 | 0 | 0 |
-| VdL I 2019–24 | 30 | 4 | 2 | 1 | 0 |
-| VdL II 2024–29 | 27 | 6 | 4 | 4 | 1 |
+| Commission | Roster | All-time hard | Dated | Excluded undated | Pre-any | Pre-active |
+|---|---:|---:|---:|---:|---:|---:|
+| Santer 1995–99 | 20 | 4 | 1 | 3 | 0 | 0 |
+| Prodi 1999–2004 | 21 | 5 | 1 | 4 | 0 | 0 |
+| Barroso I 2004–09 | 30 | 3 | 1 | 2 | 0 | 0 |
+| Barroso II 2010–14 | 28 | 6 | 3 | 3 | 0 | 0 |
+| Juncker 2014–19 | 28 | 4 | 3 | 1 | 1 | 1 |
+| VdL I 2019–24 | 30 | 4 | 2 | 2 | 1 | 1 |
+| VdL II 2024–29 | 27 | 6 | 4 | 2 | 4 | 2 |
 
 ## Santer 1995–99
 

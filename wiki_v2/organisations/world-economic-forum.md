@@ -26,7 +26,7 @@ generated: 2026-11-02
 
 ## Members and roles
 
-- [[people/claudio-descalzi|Claudio Descalzi]] — chair  
+- [[people/claudio-descalzi|Claudio Descalzi]] — chair (2025)  
   > "&#91; 25 &#93; Other activities [ edit ] President of Assomineraria (from 2006 to 2014) President of Eni UK (from 2010 to 2014) Council on Foreign Relations (CFR), Member of the Global Board of Advisors (since 2015) &#91; 26 &#93; Board member of Fondazione Teatro alla Scala (since 2015) Member of the General Counsel and Advisory Board of Confindustria (since 2016) Member of the National Petroleum […]"
   > Source: [[sources/wikipedia-claudio-descalzi|Claudio Descalzi]] · grade A
 - [[people/kristalina-georgieva|Kristalina Georgieva]] — board_member (2020)  
@@ -41,6 +41,6 @@ generated: 2026-11-02
 - [[people/teresa-ribera|Teresa Ribera]] — advisory_board  
   > "International work Ribera is also a member of several advisory councils, including the Global Leadership Council of the United Nations Sustainable Development Solutions Network (UNSDSN), the global climate change advisory council of the World Economic Forum, and the Momentum For Change initiative of United Nations Framework Convention on Climate Change (UNFCCC); belongs to the international counci […]"
   > Source: [[sources/wikipedia-teresa-ribera|Teresa Ribera]] · grade A
-- [[people/ursula-von-der-leyen|Ursula von der Leyen]] — board_member  
+- [[people/ursula-von-der-leyen|Ursula von der Leyen]] — board_member (2016-08)  
   > "World Economic Forum (WEF), Member of the Board of Trustees (2016–2019)"
   > Source: [[sources/wikipedia-ursula-von-der-leyen|Ursula Von Der Leyen]] · grade A

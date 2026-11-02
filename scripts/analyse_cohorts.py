@@ -52,8 +52,8 @@ def main() -> int:
         "",
         "`pre_any` = joined before the commission start; `pre_active` = still active at that start.",
         "",
-        "| Commission | Roster | All-time hard | Dated | Pre-any | Pre-active |",
-        "|---|---:|---:|---:|---:|---:|",
+        "| Commission | Roster | All-time hard | Dated | Excluded undated | Pre-any | Pre-active |",
+        "|---|---:|---:|---:|---:|---:|---:|",
     ]
     details = []
     for label, commission_id, path in COMMISSIONS:
@@ -84,7 +84,7 @@ def main() -> int:
                 pre_any.add(r["subject_id"])
                 if e is None or e >= sk:
                     pre_active.add(r["subject_id"])
-        lines.append(f"| {label} | {len(ids)} | {len(alltime)} | {len(dated)} | {len(pre_any)} | {len(pre_active)} |")
+        lines.append(f"| {label} | {len(ids)} | {len(alltime)} | {len(dated)} | {len(alltime)-len(dated)} | {len(pre_any)} | {len(pre_active)} |")
         names = db.execute(
             f"""SELECT DISTINCT e.name FROM claim c JOIN assertion a ON a.claim_id=c.id AND a.status='verified'
                 JOIN entity e ON e.id=c.subject_id

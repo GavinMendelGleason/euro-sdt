@@ -130,7 +130,7 @@ Commissioner · ITA
   > "He also served as President of the SUERF (The European Money and Finance Forum) from 1982 to 1985."
   > Source: [[sources/wikipedia-mario-monti|Mario Monti]] · grade A
 
-- [[organisations/trilateral-commission|Trilateral Commission]] — chair  
+- [[organisations/trilateral-commission|Trilateral Commission]] — chair (2010)  
   > "Trilateral Commission, European Chairman (-2011)"
   > Source: [[sources/wikipedia-mario-monti|Mario Monti]] · grade A
 

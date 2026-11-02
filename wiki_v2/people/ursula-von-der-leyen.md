@@ -134,7 +134,7 @@ Commissioner · DEU
   > "Member of the Board of Trustees until 2019 TOTAL-E-QUALITY Deutschland e.V., Bad Bocklet Foundation for the creation and preservation of equal opportunities"
   > Source: [[sources/declaration-doi-ursula-von-der-leyen-en|Ursula Von Der Leyen]] · grade A
 
-- [[organisations/world-economic-forum|World Economic Forum]] — board_member  
+- [[organisations/world-economic-forum|World Economic Forum]] — board_member (2016-08)  
   > "World Economic Forum (WEF), Member of the Board of Trustees (2016–2019)"
   > Source: [[sources/wikipedia-ursula-von-der-leyen|Ursula Von Der Leyen]] · grade A
 

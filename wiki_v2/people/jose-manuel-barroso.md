@@ -82,7 +82,7 @@ Commissioner
 
 ## Membership
 
-- [[organisations/bilderberg-meetings|Bilderberg Meetings]]  
+- [[organisations/bilderberg-meetings|Bilderberg Meetings]] (2014)  
   > "Bilderberg Meetings , Member of the Steering Committee"
   > Source: [[sources/wikipedia-jose-manuel-barroso|Jose Manuel Barroso]] · grade A
 
