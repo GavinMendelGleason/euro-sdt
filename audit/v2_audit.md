@@ -4,8 +4,8 @@
 
 | Table | Rows |
 |---|---:|
-| source_document | 991 |
-| sentence | 51270 |
+| source_document | 993 |
+| sentence | 51290 |
 | entity | 4774 |
 | entity_alias | 7484 |
 | claim | 6716 |

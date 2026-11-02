@@ -1,7 +1,7 @@
 {
   "counts": {
-    "source_document": 991,
-    "sentence": 51270,
+    "source_document": 993,
+    "sentence": 51290,
     "entity": 4774,
     "entity_alias": 7484,
     "claim": 6716,
@@ -40,7 +40,7 @@
     "declaration": 29,
     "dg_cv": 82,
     "entity_md": 12,
-    "official": 208,
+    "official": 210,
     "org_site": 7,
     "revolving_door": 67,
     "wikipedia": 494
