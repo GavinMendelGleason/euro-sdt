@@ -29,6 +29,8 @@ PREDICATE_KEYWORDS = {
     "employed_by": ("ceo", "chief", "executive", "manager", "director", "head of", "worked", "works", "employed", "chairman"),
     "founder": ("found", "co-found", "founded"),
     "fellow": ("fellow", "fellows", "fellowship", "fellowships", "scholar", "scholars", "scholarship", "scholarships"),
+    "award_received": ("award", "awarded", "recipient", "honour", "honor", "prize"),
+    "awarded_by": ("awarded by", "presented by", "awarded"),
     "attendee": ("attend", "participat", "speaker", "guest"),
     "affiliated_with": ("member", "affiliated", "board", "trustee", "advisor", "chair", "president", "founder", "fellow"),
     "held_portfolio": ("commissioner", "portfolio", "president", "vice-president"),
@@ -46,7 +48,7 @@ PREDICATE_KEYWORDS = {
 
 ROLE_STRICT = {
     "chair", "board_member", "advisory_board", "employed_by", "founder",
-    "fellow", "attendee", "from_country", "nominated_by", "held_portfolio",
+    "fellow", "award_received", "awarded_by", "attendee", "from_country", "nominated_by", "held_portfolio",
     "held_position", "served_on_commission", "post_mandate_occupation",
 }
 
@@ -56,6 +58,8 @@ ROLE_PATTERNS = [
     ("chair", r"chair|president|presiding"),
     ("founder", r"founder|co-founder|founded"),
     ("fellow", r"fellow"),
+    ("award_received", r"award|prize|honour|honor"),
+    ("awarded_by", r"awarded by|presented by"),
     ("attendee", r"attend|particip|guest|speaker"),
     ("employed_by", r"ceo|chief|executive|manager|head of|director general|works at|worked at|employed"),
     ("member", r"member|membership"),

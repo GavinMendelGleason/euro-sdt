@@ -1,4 +1,5 @@
 id,name,kind,category,country,status,degree
+cepa-transatlantic-leadership-award,CEPA Transatlantic Leadership Award,award,transatlantic_award,,active,3
 barroso-i,Barroso I,commission,,,active,17
 barroso-ii,Barroso II,commission,,,active,25
 juncker-commission,Juncker Commission,commission,,,active,23
@@ -580,7 +581,7 @@ catalan-society-of-physical-chemical-and-mathematical-sciences,"Catalan Society 
 catholic-people-s-party-kvp,Catholic People's Party (KVP),organisation,,,active,1
 cementir-holding-s-p-a,Cementir Holding S.p.A.,organisation,organisation,,active,1
 center-for-economic-and-policy-research-cepr,Center for Economic and Policy Research (CEPR),organisation,,,active,2
-center-for-european-policy-analysis-cepa,Center for European Policy Analysis (CEPA),organisation,,,active,1
+center-for-european-policy-analysis-cepa,Center for European Policy Analysis (CEPA),organisation,Think tank / public policy institution,,active,2
 center-for-socio-political-research-and-information,Center for Socio-Political Research and Information,organisation,organisation,,active,1
 central-committee-of-german-catholics,Central Committee of German Catholics,organisation,organisation,,active,1
 central-council-for-education-and-training-in-social-work,Central Council for Education and Training in Social Work,organisation,,,active,2
@@ -2492,7 +2493,7 @@ franz-fischler,Franz Fischler,person,commissioner,AUT,active,8
 franz-josef-strau,Franz Josef Strauß,person,mep,,active,6
 fredrick-federley,Fredrick Federley,person,mep,,active,14
 frederic-oudea,Frédéric Oudéa,person,corporate_elite,,active,2
-gabrielius-landsbergis,Gabrielius Landsbergis,person,mep,,active,8
+gabrielius-landsbergis,Gabrielius Landsbergis,person,mep,,active,9
 gaston-thorn,Gaston Thorn,person,mep,,active,4
 genoveva-ruiz-calavera,Genoveva Ruiz Calavera,person,dg,,active,1
 genowefa-grabowska,Genowefa Grabowska,person,mep,,active,9
@@ -2586,7 +2587,7 @@ jutta-urpilainen,Jutta Urpilainen,person,commissioner,,active,23
 jyrki-katainen,Jyrki Katainen,person,commissioner,FIN,active,11
 jan-figel,Ján Figeľ,person,commissioner,SVK,active,8
 kadri-simson,Kadri Simson,person,commissioner,EST,active,7
-kaja-kallas,Kaja Kallas,person,commissioner,EST,active,42
+kaja-kallas,Kaja Kallas,person,commissioner,EST,active,43
 karel-de-gucht,Karel De Gucht,person,commissioner,,active,13
 karel-van-miert,Karel Van Miert,person,commissioner,BEL,active,10
 karin-karlsbro,Karin Karlsbro,person,mep,,active,15

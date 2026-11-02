@@ -16,6 +16,7 @@ See `organisations_classified.csv` for the machine-readable classification of al
 | [World Economic Forum](#world-economic-forum) | Forum | ✓ | | ✓ |
 | [ECFR](#ecfr) | Think tank | ✓* | | | *(Atlanticist by structure; strategically autonomist editorially)* |
 | [GLOBSEC](#globsec) | Think tank/conf | ✓ | ✓ | ✓ |
+| [Center for European Policy Analysis](#center-for-european-policy-analysis-cepa) | Think tank | ✓ | ✓ | ✓ |
 | [European Leadership Network](#european-leadership-network) | Think tank | ✓ | ✓ | |
 | [IRI / NED](#iri--ned) | NGO | ✓ | | ✓ |
 | [RAND Europe](#rand-europe) | Think tank | ✓ | ✓ | ✓ |
@@ -420,3 +421,22 @@ The ELN is Atlanticist by governance (Des Browne/NTI, NATO ambassadors), by inte
 **Commissioner connections (declared):** VdL II: Andrius Kubilius (various roles), Henna Virkkunen (Board of Directors)
 
 **Key facts:** Official think tank of the European People's Party (EPP), funded primarily by the European Parliament under the Regulation on European political foundations. Promotes Christian democratic, centre-right values. Named after Belgian PM and EPP president Wilfried Martens. Not Atlanticist in mission — it is explicitly EU-focused and pro-European rather than transatlantic. EPP commissioners' connections to it reflect factional alignment within the Commission, not transatlantic network membership.
+
+---
+
+## Center for European Policy Analysis (CEPA)
+
+**Type:** Think tank / public policy institution  
+**HQ:** Washington, DC; hubs in London and Brussels  
+**Founded:** 2005  
+**Classification:** Atlanticist ✓ | NATO-adjacent ✓ | US-linked ✓
+
+**Mission:** To ensure a strong and democratic transatlantic alliance through research, analysis, and programs on democracy, security, defense, and technology.
+
+**Commissioner connections:** Kaja Kallas received CEPA's 2022 Transatlantic Leadership Award. Gabrielius Landsbergis, then Lithuanian foreign minister and a former MEP, received the 2024 award. Virginijus Sinkevičius worked at CEPA as an Assistant Project Manager in 2013–14.
+
+**Assessment:** CEPA is explicitly Atlanticist by mission and institutional practice: it describes its purpose as strengthening the transatlantic alliance and building networks of leaders "versed in Atlanticism". Its Washington headquarters and London/Brussels hubs, together with its defense and security programming, place it close to the Atlantic Council and German Marshall Fund end of the network rather than the EU-autonomist end.
+
+**Awards:** CEPA's Transatlantic Leadership Award is recognition, not a fellowship; it is coded separately from `fellow` as `award_received`, with CEPA as the awarding body.
+
+**Sources:** cepa.org/about; CEPA 2022 Forum; CEPA 2024 Forum Leadership Awards Dinner.

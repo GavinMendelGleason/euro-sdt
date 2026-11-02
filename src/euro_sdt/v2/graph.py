@@ -23,6 +23,7 @@ NETWORK_PREDICATES = {
 OCCUPATIONAL_PREDICATES = {"employed_by", "held_position", "post_mandate_occupation"}
 EDUCATION_PREDICATES = {"educated_at", "studied_field", "held_degree"}
 INSTITUTIONAL_PREDICATES = {"served_on_commission"}
+AWARD_PREDICATES = {"award_received", "awarded_by"}
 
 
 def edge_class(predicate: str) -> str:
@@ -34,6 +35,8 @@ def edge_class(predicate: str) -> str:
         return "education"
     if predicate in INSTITUTIONAL_PREDICATES:
         return "institutional"
+    if predicate in AWARD_PREDICATES:
+        return "award"
     return "other"
 
 
@@ -334,6 +337,7 @@ def _report(metrics: dict, edges: list[dict]) -> str:
         "- `occupational` = employer and held position.",
         "- `education` = education and degree.",
         "- `institutional` = commission service.",
+        "- `award` = awards received and their awarding body.",
         "- Every edge carries `quote`, `doc_id`, `doc_title`, `doc_path`, and `doc_sha256`.",
         "- `source_url` is empty only for local-only documents (DG CVs, CJEU, declarations); the path and hash identify them.",
         f"- {metrics.get('excluded_quarantined_endpoints', 0)} verified claims are excluded because an endpoint is quarantined.",

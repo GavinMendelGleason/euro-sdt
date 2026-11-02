@@ -61,6 +61,8 @@ Controlled predicate vocabulary:
   born_on             → person → date
   studied_field       → person → field (law, economics, etc.)
   held_degree         → person → degree type (PhD, LLM, Staatsexamen, etc.)
+  award_received      → person → award
+  awarded_by          → award → organisation
   nominated_by        → person → country
 */
 

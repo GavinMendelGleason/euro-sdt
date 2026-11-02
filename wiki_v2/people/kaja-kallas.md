@@ -14,7 +14,7 @@ generated: 2026-11-02
 
 Commissioner · EST
 
-*Verified assertions: 59*
+*Verified assertions: 60*
 
 ## Nominated by
 
@@ -168,6 +168,12 @@ Commissioner · EST
 
 - [[organisations/youth-intergroup|Youth Intergroup]] — chair  
   > "In addition to her committee assignments, Kallas was a member of the European Parliament Intergroup on the Digital Agenda, and was also a vice-chair of the Youth Intergroup."
+  > Source: [[sources/wikipedia-kaja-kallas|Kaja Kallas]] · grade A
+
+## Awards
+
+- [[awards/cepa-transatlantic-leadership-award|CEPA Transatlantic Leadership Award]] — Transatlantic Leadership Award (2022)  
+  > "Transatlantic Leadership Award awarded by the Center for European Policy Analysis (2022)"
   > Source: [[sources/wikipedia-kaja-kallas|Kaja Kallas]] · grade A
 
 ## Affiliation

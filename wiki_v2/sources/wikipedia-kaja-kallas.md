@@ -14,8 +14,10 @@ generated: 2026-11-02
 - SHA-256: `4a74eb59c11b1a1a0d5f8f39355560b0d1d86924b90d69b83066f29be274089e`
 - Sentences: 164
 
-## Verified claims citing this document (47)
+## Verified claims citing this document (49)
 
+- [[people/cepa-transatlantic-leadership-award|CEPA Transatlantic Leadership Award]] — awarded_by — Center for European Policy Analysis (CEPA)
+  > "Transatlantic Leadership Award awarded by the Center for European Policy Analysis (2022)"
 - [[people/kaja-kallas|Kaja Kallas]] — advisory_board — Women Economic Forum
   > "Additionally, she is a member of the European Council on Foreign Relations, an advisory board member of the Women Economic Forum, and a patron of the Model European Union Tallinn."
 - [[people/kaja-kallas|Kaja Kallas]] — affiliated_with — European Liberal Youth
@@ -24,6 +26,8 @@ generated: 2026-11-02
   > "She is also a mentor of the European Liberal Youth, a member of the European Young Leaders, a MEP ambassor of Erasmus for Young Entrepreneurs, a member of the MEP Library Lovers Group, a political member of the European Internet Forum, a member of the extended board of the European Forum for Renewable Energy Sources, a member of the Global Young Leaders, a member of the Women Political Leaders, an […]"
 - [[people/kaja-kallas|Kaja Kallas]] — affiliated_with — European Entrepreneurship Education Network
   > "She is also a mentor of the European Liberal Youth, a member of the European Young Leaders, a MEP ambassor of Erasmus for Young Entrepreneurs, a member of the MEP Library Lovers Group, a political member of the European Internet Forum, a member of the extended board of the European Forum for Renewable Energy Sources, a member of the Global Young Leaders, a member of the Women Political Leaders, an […]"
+- [[people/kaja-kallas|Kaja Kallas]] — award_received — CEPA Transatlantic Leadership Award
+  > "Transatlantic Leadership Award awarded by the Center for European Policy Analysis (2022)"
 - [[people/kaja-kallas|Kaja Kallas]] — board_member — Estonian Wind Power Association
   > "From 2009 to 2010, Kallas was a board member of the Estonian Wind Power Association."
 - [[people/kaja-kallas|Kaja Kallas]] — board_member — Friends of Europe

@@ -6,16 +6,17 @@ Generated from `euro_sdt_v2.db`. Only `assertion.status = 'verified'` appears he
 
 | Metric | All verified | Grade A only | Network edges only |
 |---|---:|---:|---:|
-| Nodes | 2965 | 2336 | 2154 |
-| Edges | 3711 | 2726 | 2622 |
-| Unique person–entity pairs | 3512 | 2624 | 2500 |
-| Largest component | 2665 | 1943 | 1920 |
-| Degree-1 nodes | 2230 | 1734 | 1614 |
+| Nodes | 2966 | 2337 | 2154 |
+| Edges | 3714 | 2729 | 2622 |
+| Unique person–entity pairs | 3515 | 2627 | 2500 |
+| Largest component | 2666 | 1944 | 1920 |
+| Degree-1 nodes | 2229 | 1733 | 1614 |
 
 ## Edges by class
 
 | Class | Edges |
 |---|---:|
+| award | 3 |
 | education | 632 |
 | institutional | 94 |
 | network | 2622 |
@@ -26,7 +27,7 @@ Generated from `euro_sdt_v2.db`. Only `assertion.status = 'verified'` appears he
 
 | Grade | Edges |
 |---|---:|
-| A | 2726 |
+| A | 2729 |
 | B | 455 |
 | C | 530 |
 
@@ -36,7 +37,7 @@ Generated from `euro_sdt_v2.db`. Only `assertion.status = 'verified'` appears he
 |---|---|---:|
 | European Commission | organisation | 72 |
 | European Parliament | organisation | 51 |
-| Kaja Kallas | person | 41 |
+| Kaja Kallas | person | 42 |
 | Pascal Lamy | person | 35 |
 | Neelie Kroes | person | 34 |
 | Ria Oomen-Ruijten | person | 34 |
@@ -76,6 +77,7 @@ Generated from `euro_sdt_v2.db`. Only `assertion.status = 'verified'` appears he
 - `occupational` = employer and held position.
 - `education` = education and degree.
 - `institutional` = commission service.
+- `award` = awards received and their awarding body.
 - Every edge carries `quote`, `doc_id`, `doc_title`, `doc_path`, and `doc_sha256`.
 - `source_url` is empty only for local-only documents (DG CVs, CJEU, declarations); the path and hash identify them.
 - 25 verified claims are excluded because an endpoint is quarantined.

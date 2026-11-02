@@ -1,11 +1,12 @@
 {
   "excluded_quarantined_endpoints": 25,
   "all_verified": {
-    "nodes": 2965,
-    "edges": 3711,
-    "unique_pairs": 3512,
+    "nodes": 2966,
+    "edges": 3714,
+    "unique_pairs": 3515,
     "edges_by_class": {
       "network": 2622,
+      "award": 3,
       "education": 632,
       "occupational": 361,
       "other": 2,
@@ -15,6 +16,8 @@
       "advisory_board": 97,
       "affiliated_with": 397,
       "attendee": 26,
+      "award_received": 2,
+      "awarded_by": 1,
       "board_member": 353,
       "chair": 502,
       "educated_at": 632,
@@ -27,19 +30,19 @@
       "served_on_commission": 94
     },
     "edges_by_grade": {
-      "A": 2726,
+      "A": 2729,
       "C": 530,
       "B": 455
     },
     "degree": {
       "max": 72,
       "mean": 2.37,
-      "degree_1": 2230,
-      "degree_ge_3": 470
+      "degree_1": 2229,
+      "degree_ge_3": 471
     },
     "components": {
       "count": 99,
-      "largest": 2665,
+      "largest": 2666,
       "singletons": 0
     },
     "top_hubs": [
@@ -59,7 +62,7 @@
         "id": "kaja-kallas",
         "name": "Kaja Kallas",
         "kind": "person",
-        "degree": 41
+        "degree": 42
       },
       {
         "id": "pascal-lamy",
@@ -169,15 +172,18 @@
       "person->institution": 474,
       "person->university": 182,
       "person->commission": 103,
-      "person->person": 3
+      "person->person": 3,
+      "person->award": 2,
+      "award->organisation": 1
     }
   },
   "grade_a_only": {
-    "nodes": 2336,
-    "edges": 2726,
-    "unique_pairs": 2624,
+    "nodes": 2337,
+    "edges": 2729,
+    "unique_pairs": 2627,
     "edges_by_class": {
       "network": 1919,
+      "award": 3,
       "education": 522,
       "occupational": 208,
       "institutional": 77
@@ -186,6 +192,8 @@
       "advisory_board": 91,
       "affiliated_with": 121,
       "attendee": 13,
+      "award_received": 2,
+      "awarded_by": 1,
       "board_member": 311,
       "chair": 429,
       "educated_at": 522,
@@ -196,17 +204,17 @@
       "served_on_commission": 77
     },
     "edges_by_grade": {
-      "A": 2726
+      "A": 2729
     },
     "degree": {
       "max": 44,
       "mean": 2.25,
-      "degree_1": 1734,
-      "degree_ge_3": 376
+      "degree_1": 1733,
+      "degree_ge_3": 377
     },
     "components": {
       "count": 110,
-      "largest": 1943,
+      "largest": 1944,
       "singletons": 0
     },
     "top_hubs": [
@@ -220,7 +228,7 @@
         "id": "kaja-kallas",
         "name": "Kaja Kallas",
         "kind": "person",
-        "degree": 34
+        "degree": 35
       },
       {
         "id": "european-commission",
@@ -336,7 +344,9 @@
       "person->institution": 370,
       "person->university": 155,
       "person->commission": 79,
-      "person->person": 3
+      "person->person": 3,
+      "person->award": 2,
+      "award->organisation": 1
     }
   },
   "network_only": {

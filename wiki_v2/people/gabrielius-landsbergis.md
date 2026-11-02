@@ -14,7 +14,7 @@ generated: 2026-11-02
 
 Mep
 
-*Verified assertions: 8*
+*Verified assertions: 9*
 
 ## Education
 
@@ -53,3 +53,9 @@ Mep
 - [[organisations/homeland-union-lithuanian-christian-democrats|Homeland Union (Lithuanian Christian Democrats)]] — chair  
   > "&#91; 3 &#93; Since 2015, Landsbergis has been Chairman of the Homeland Union (Lithuanian Christian Democrats), Lithuania's center-right political party."
   > Source: [[sources/wikipedia-gabrielius-landsbergis|Gabrielius Landsbergis]] · grade A
+
+## Awards
+
+- [[awards/cepa-transatlantic-leadership-award|CEPA Transatlantic Leadership Award]] — Transatlantic Leadership Award (2024)  
+  > "It is CEPA’s privilege to present Minister Landsbergis with the 2024 Transatlantic Leadership Award to honor his leadership in fostering transatlantic cooperation, strengthening regional security, and providing steadfast support for Ukraine."
+  > Source: [[sources/official-gabrielius-landsbergis|2024 CEPA Forum Leadership Awards Dinner]] · grade A

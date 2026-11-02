@@ -148,31 +148,45 @@
       }
     },
     {
-      "query": "tag:#corporate",
+      "query": "tag:#think-tank-public-policy-institution",
       "color": {
         "a": 1,
         "rgb": 9211020
       }
     },
     {
-      "query": "tag:#fellowship-programme",
+      "query": "tag:#corporate",
       "color": {
         "a": 1,
         "rgb": 10921638
       }
     },
     {
-      "query": "tag:#institution",
+      "query": "tag:#fellowship-programme",
       "color": {
         "a": 1,
         "rgb": 16090392
       }
     },
     {
+      "query": "tag:#institution",
+      "color": {
+        "a": 1,
+        "rgb": 7518130
+      }
+    },
+    {
+      "query": "tag:#transatlantic-award",
+      "color": {
+        "a": 1,
+        "rgb": 11696546
+      }
+    },
+    {
       "query": "tag:#university",
       "color": {
         "a": 1,
-        "rgb": 5546571
+        "rgb": 14964566
       }
     },
     {

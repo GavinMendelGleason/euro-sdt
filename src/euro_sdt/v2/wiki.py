@@ -19,6 +19,8 @@ PREDICATE_LABEL = {
     "employed_by": "Employment",
     "founder": "Founder",
     "fellow": "Fellowship",
+    "award_received": "Awards",
+    "awarded_by": "Awarded by",
     "attendee": "Attendance",
     "affiliated_with": "Affiliation",
     "educated_at": "Education",
@@ -34,7 +36,7 @@ PREDICATE_LABEL = {
 
 PREDICATE_PRIORITY = {
     "board_member": 0, "advisory_board": 1, "chair": 2, "founder": 3,
-    "fellow": 4, "member": 5, "affiliated_with": 6, "attendee": 7,
+    "fellow": 4, "award_received": 4, "awarded_by": 5, "member": 6, "affiliated_with": 7, "attendee": 8,
     "served_on_commission": 0, "held_portfolio": 1, "nominated_by": 2,
     "from_country": 3, "educated_at": 0, "studied_field": 1, "held_degree": 2,
     "employed_by": 0, "held_position": 1, "post_mandate_occupation": 2,
@@ -56,7 +58,10 @@ def _best_row(rows):
 def _roles(rows, object_name: str) -> list[str]:
     values = []
     for row in rows:
-        role = (row["role"] or row["role_raw"] or "").strip()
+        if row["predicate"] in ("award_received", "awarded_by"):
+            role = (row["role_raw"] or row["role"] or "").strip()
+        else:
+            role = (row["role"] or row["role_raw"] or "").strip()
         if role and role.lower() not in {object_name.lower(), "member", "affiliated_with"}:
             values.append(role)
     # Preserve order, remove case duplicates.
@@ -74,6 +79,7 @@ ORDER = [
     "served_on_commission", "held_portfolio", "nominated_by", "from_country",
     "educated_at", "studied_field", "held_degree",
     "member", "board_member", "advisory_board", "chair", "founder", "fellow",
+    "award_received", "awarded_by",
     "affiliated_with", "attendee",
     "employed_by", "held_position", "post_mandate_occupation",
 ]
@@ -133,7 +139,7 @@ def _assertions_for_subject(db: sqlite3.Connection, entity_id: str):
 def _assertions_for_object(db: sqlite3.Connection, entity_id: str):
     return db.execute("""
         SELECT a.claim_id, a.evidence_grade, c.predicate, c.subject_id, c.role, c.role_raw,
-               c.start_date, c.end_date, s.name AS subject_name,
+               c.start_date, c.end_date, s.name AS subject_name, s.kind AS subject_kind,
                e.quote, e.doc_id, d.title AS doc_title
         FROM assertion a
         JOIN claim c ON c.id = a.claim_id
@@ -185,7 +191,12 @@ def person_page(db: sqlite3.Connection, entity_id: str) -> str:
             if best["object_id"]:
                 kind_row = db.execute("SELECT kind FROM entity WHERE id=?", (best["object_id"],)).fetchone()
                 kind = kind_row["kind"] if kind_row else "organisation"
-                subdir = "commissions" if kind == "commission" else "organisations"
+                if kind == "commission":
+                    subdir = "commissions"
+                elif kind == "award":
+                    subdir = "awards"
+                else:
+                    subdir = "organisations"
                 obj = _wl(f"{subdir}/{best['object_id']}", key)
             roles = _roles(group, key)
             role_text = "; ".join(roles)
@@ -241,12 +252,57 @@ def organisation_page(db: sqlite3.Connection, entity_id: str) -> str:
             roles = _roles(group, ent["name"])
             role_text = "; ".join(roles)
             dates = f" ({best['start_date'] or ''}–{best['end_date'] or ''})".replace("–)", ")") if (best["start_date"] or best["end_date"]) else ""
-            lines.append(f"- {_wl('people/' + best['subject_id'], name)}{(' — ' + role_text) if role_text else ''}{dates}  ")
+            subdir = 'awards' if best['subject_kind'] == 'award' else 'people'
+            lines.append(f"- {_wl(subdir + '/' + best['subject_id'], name)}{(' — ' + role_text) if role_text else ''}{dates}  ")
             if best["quote"]:
                 lines.append(f"  > \"{_quote(best['quote'], 400)}\"")
             if best["doc_id"]:
                 lines.append(f"  > Source: {_wl('sources/' + best['doc_id'], best['doc_title'])} · grade {best['evidence_grade']}")
         lines.append("")
+    return "\n".join(lines)
+
+
+def award_page(db: sqlite3.Connection, entity_id: str) -> str:
+    ent = _entity_row(db, entity_id)
+    if not ent:
+        return ""
+    recipients = _assertions_for_object(db, entity_id)
+    awarding = [row for row in _assertions_for_subject(db, entity_id) if row["predicate"] == "awarded_by"]
+    tags = ["award", "verified"]
+    if ent["category"]:
+        category_tag = slugify(str(ent["category"]))
+        if category_tag:
+            tags.append(category_tag)
+    fm = _frontmatter({"id": entity_id, "title": ent["name"], "type": "award",
+                       "category": ent["category"] or "", "tags": tags, "generated": now()[:10]})
+    lines = [fm, f"# {ent['name']}", ""]
+    lines.append(f"*Verified recipients: {len({row['subject_id'] for row in recipients})}*")
+    lines.append("")
+    if awarding:
+        best = _best_row(awarding)
+        if best["object_id"]:
+            lines.append(f"Awarded by: {_wl('organisations/' + best['object_id'], best['object_name'])}")
+        elif best["object_name"]:
+            lines.append(f"Awarded by: {best['object_name']}")
+        lines.append("")
+    if recipients:
+        lines.append("## Recipients")
+        lines.append("")
+        grouped: dict[str, list] = defaultdict(list)
+        for row in recipients:
+            grouped[row["subject_id"]].append(row)
+        for subject_id, group in sorted(grouped.items(), key=lambda item: item[1][0]["subject_name"].lower()):
+            best = _best_row(group)
+            dates = ""
+            if best["start_date"] or best["end_date"]:
+                dates = f" ({best['start_date'] or ''}–{best['end_date'] or ''})".replace("–)", ")")
+            role = next((r["role_raw"] for r in group if r["role_raw"]), "") 
+            lines.append(f"- {_wl('people/' + subject_id, best['subject_name'])}{(' — ' + role) if role else ''}{dates}  ")
+            if best["quote"]:
+                lines.append(f'  > "{_quote(best["quote"], 400)}"')
+            if best["doc_id"]:
+                lines.append(f"  > Source: {_wl('sources/' + best['doc_id'], best['doc_title'])} · grade {best['evidence_grade']}")
+            lines.append("")
     return "\n".join(lines)
 
 
@@ -332,7 +388,7 @@ def generate_graph_config(db: sqlite3.Connection, output_dir: Path = WIKI_V2_DIR
         add(f"tag:#{category}", color)
     categories = [
         row[0] for row in db.execute(
-            "SELECT DISTINCT category FROM entity WHERE kind IN ('organisation','institution','university') "
+            "SELECT DISTINCT category FROM entity WHERE kind IN ('organisation','institution','university','award') "
             "AND category IS NOT NULL AND category != ''"
         )
     ]
@@ -381,6 +437,7 @@ def generate_wiki(db: sqlite3.Connection, output_dir: Path = WIKI_V2_DIR) -> dic
     (output_dir / "people").mkdir(parents=True, exist_ok=True)
     (output_dir / "organisations").mkdir(parents=True, exist_ok=True)
     (output_dir / "commissions").mkdir(parents=True, exist_ok=True)
+    (output_dir / "awards").mkdir(parents=True, exist_ok=True)
     (output_dir / "sources").mkdir(parents=True, exist_ok=True)
     for old in output_dir.rglob("*.md"):
         old.unlink()
@@ -408,6 +465,10 @@ def generate_wiki(db: sqlite3.Connection, output_dir: Path = WIKI_V2_DIR) -> dic
             page = commission_page(db, row["id"])
             path = output_dir / "commissions" / f"{row['id']}.md"
             counts["commissions"] += 1
+        elif row["kind"] == "award":
+            page = award_page(db, row["id"])
+            path = output_dir / "awards" / f"{row['id']}.md"
+            counts["awards"] += 1
         else:
             continue
         if page:

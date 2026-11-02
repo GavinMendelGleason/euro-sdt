@@ -21,7 +21,7 @@ from .claims import PREDICATE_KEYWORDS, _evidence_id, _literal_aliases
 RECOVERABLE = {
     "served_on_commission", "from_country", "nominated_by", "held_portfolio",
     "educated_at", "member", "board_member", "chair", "advisory_board",
-    "employed_by", "founder", "fellow", "attendee", "affiliated_with",
+    "employed_by", "founder", "fellow", "award_received", "awarded_by", "attendee", "affiliated_with",
     "held_position", "post_mandate_occupation", "studied_field", "held_degree",
 }
 

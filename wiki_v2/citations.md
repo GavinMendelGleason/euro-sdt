@@ -10,7 +10,7 @@ tags:
 | Source | Kind | Verified claims |
 |---|---|---:|
 | [[sources/wikipedia-thierry-breton|Thierry Breton]] | wikipedia | 47 |
-| [[sources/wikipedia-kaja-kallas|Kaja Kallas]] | wikipedia | 44 |
+| [[sources/wikipedia-kaja-kallas|Kaja Kallas]] | wikipedia | 46 |
 | [[sources/wikipedia-neelie-kroes|Neelie Kroes]] | wikipedia | 41 |
 | [[sources/wikipedia-pascal-lamy|Pascal Lamy]] | wikipedia | 41 |
 | [[sources/wikipedia-federica-mogherini|Federica Mogherini]] | wikipedia | 40 |
@@ -437,6 +437,7 @@ tags:
 | [[sources/dg_cv-stphanie-riso|Stphanie Riso]] | dg_cv | 2 |
 | [[sources/dg_cv-themis-christophidou|Themis Christophidou]] | dg_cv | 2 |
 | [[sources/wikipedia-willy-de-clercq|Willy De Clercq]] | wikipedia | 2 |
+| [[sources/official-gabrielius-landsbergis|2024 CEPA Forum Leadership Awards Dinner]] | official | 1 |
 | [[sources/wikipedia-alliance-of-liberals-and-democrats-for-europe-party|Alliance Of Liberals And Democrats For Europe Party]] | wikipedia | 1 |
 | [[sources/cjeu-andrea-biondi|Andrea Biondi]] | cjeu | 1 |
 | [[sources/cjeu-andreas-kumin|Andreas Kumin]] | cjeu | 1 |

@@ -11,7 +11,7 @@ tags:
 
 | Grade | Status | Count |
 |---|---|---:|
-| A | verified | 3101 |
+| A | verified | 3104 |
 | B | needs_review | 8 |
 | B | rejected | 138 |
 | B | verified | 483 |
@@ -33,6 +33,8 @@ tags:
 | attendee | needs_review | 4 |
 | attendee | rejected | 2 |
 | attendee | verified | 26 |
+| award_received | verified | 2 |
+| awarded_by | verified | 1 |
 | board_member | needs_review | 19 |
 | board_member | rejected | 53 |
 | board_member | verified | 360 |
@@ -82,8 +84,8 @@ tags:
 
 | Category | Claims | Verified |
 |---|---:|---:|
-| commissioner | 3179 | 2479 |
-| mep | 1364 | 1042 |
+| commissioner | 3180 | 2480 |
+| mep | 1365 | 1043 |
 | corporate_elite | 465 | 381 |
 | dg | 348 | 192 |
 | cjeu_judge | 80 | 37 |
@@ -98,7 +100,7 @@ tags:
 | cjeu | 92 |
 | dg_cv | 82 |
 | revolving_door | 67 |
-| official | 38 |
+| official | 39 |
 | declaration | 29 |
 | entity_md | 12 |
 | org_site | 7 |

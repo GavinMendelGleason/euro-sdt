@@ -6,12 +6,12 @@ Generated from `euro_sdt_v2.db`, `audit/v1_baseline.json`, and `graph/metrics.js
 
 | Metric | v1 | v2 |
 |---|---:|---:|
-| Assertions / facts | 5313 | 5498 |
-| Verified | 726 | 4153 |
+| Assertions / facts | 5313 | 5501 |
+| Verified | 726 | 4156 |
 | Needs review | — | 192 |
 | Rejected | — | 1153 |
-| Source documents | 0 hashed | 821 hashed |
-| Sentences | 0 | 37448 |
+| Source documents | 0 hashed | 822 hashed |
+| Sentences | 0 | 37452 |
 
 The v1 counts are not directly comparable: v1 called every row `confirmed`,
 and 30.1% of its provenance rows had no sentence evidence. v2 reports the
@@ -26,7 +26,7 @@ verified subset and keeps rejected candidates in `rejection`.
 | rejected | B | 138 |
 | rejected | C | 563 |
 | rejected | none | 452 |
-| verified | A | 3101 |
+| verified | A | 3104 |
 | verified | B | 483 |
 | verified | C | 569 |
 
@@ -43,6 +43,8 @@ verified subset and keeps rejected candidates in `rejection`.
 | attendee | needs_review | 4 |
 | attendee | rejected | 2 |
 | attendee | verified | 26 |
+| award_received | verified | 2 |
+| awarded_by | verified | 1 |
 | board_member | needs_review | 19 |
 | board_member | rejected | 53 |
 | board_member | verified | 360 |
@@ -130,7 +132,7 @@ Claims from full-document extraction: **1127**.
 | cjeu | 92 | 227327 |
 | dg_cv | 82 | 177208 |
 | revolving_door | 67 | 48681 |
-| official | 38 | 124844 |
+| official | 39 | 125241 |
 | declaration | 29 | 307404 |
 | entity_md | 12 | 26559 |
 | org_site | 7 | 237607 |
@@ -139,15 +141,16 @@ Claims from full-document extraction: **1127**.
 
 | Metric | All verified | Network only |
 |---|---:|---:|
-| Nodes | 2965 | 2154 |
-| Edges | 3711 | 2622 |
-| Largest component | 2665 | 1920 |
-| Degree-1 nodes | 2230 | 1614 |
+| Nodes | 2966 | 2154 |
+| Edges | 3714 | 2622 |
+| Largest component | 2666 | 1920 |
+| Degree-1 nodes | 2229 | 1614 |
 
 ### Edges by class
 
 | Class | Edges |
 |---|---:|
+| award | 3 |
 | education | 632 |
 | institutional | 94 |
 | network | 2622 |
@@ -160,7 +163,7 @@ Claims from full-document extraction: **1127**.
 |---|---|---:|
 | European Commission | organisation | 72 |
 | European Parliament | organisation | 51 |
-| Kaja Kallas | person | 41 |
+| Kaja Kallas | person | 42 |
 | Pascal Lamy | person | 35 |
 | Neelie Kroes | person | 34 |
 | Ria Oomen-Ruijten | person | 34 |

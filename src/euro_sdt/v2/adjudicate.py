@@ -32,6 +32,8 @@ PREDICATE_MEANING = {
     "employed_by": "is employed by the organisation in an executive role",
     "founder": "founded or co-founded the organisation",
     "fellow": "is a fellow of the organisation",
+    "award_received": "received the named award or honour",
+    "awarded_by": "is the awarding body for the award",
     "attendee": "attended a meeting or event of the organisation (not membership)",
     "affiliated_with": "has a formal affiliation with the organisation",
     "educated_at": "studied at or attended the educational institution",
