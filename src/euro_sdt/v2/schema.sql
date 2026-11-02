@@ -181,3 +181,22 @@ CREATE TABLE IF NOT EXISTS pipeline_event (
     level      TEXT NOT NULL,
     message    TEXT NOT NULL
 );
+
+
+CREATE TABLE IF NOT EXISTS role_tenure (
+    id TEXT PRIMARY KEY,
+    person_id TEXT NOT NULL,
+    organisation_id TEXT NOT NULL,
+    tenure_type TEXT NOT NULL,
+    role TEXT,
+    role_raw TEXT,
+    start_date TEXT,
+    end_date TEXT,
+    start_precision TEXT,
+    end_precision TEXT,
+    source_url TEXT,
+    source_quote TEXT,
+    notes TEXT
+);
+CREATE INDEX IF NOT EXISTS idx_role_tenure_person ON role_tenure(person_id);
+CREATE INDEX IF NOT EXISTS idx_role_tenure_organisation ON role_tenure(organisation_id);
