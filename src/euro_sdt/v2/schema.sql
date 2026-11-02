@@ -350,3 +350,16 @@ CREATE TABLE IF NOT EXISTS institution_completion (
     source_file TEXT,
     notes TEXT
 );
+
+
+CREATE TABLE IF NOT EXISTS candidate_pool (
+    id TEXT PRIMARY KEY,
+    track TEXT NOT NULL,
+    period_start INTEGER NOT NULL,
+    period_end INTEGER NOT NULL,
+    first_term_candidates INTEGER,
+    renewal_candidates INTEGER,
+    source_url TEXT,
+    source_file TEXT,
+    notes TEXT
+);
