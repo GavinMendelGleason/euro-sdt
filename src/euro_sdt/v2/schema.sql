@@ -252,3 +252,22 @@ CREATE TABLE IF NOT EXISTS judicial_career (
 );
 CREATE INDEX IF NOT EXISTS idx_judicial_career_person ON judicial_career(person_id);
 CREATE INDEX IF NOT EXISTS idx_judicial_career_category ON judicial_career(category);
+
+
+CREATE TABLE IF NOT EXISTS judicial_affiliation (
+    id TEXT PRIMARY KEY,
+    person_id TEXT NOT NULL,
+    kind TEXT NOT NULL,
+    organisation TEXT,
+    role TEXT,
+    start_date TEXT,
+    end_date TEXT,
+    start_precision TEXT,
+    end_precision TEXT,
+    source_url TEXT,
+    source_file TEXT,
+    source_quote TEXT,
+    notes TEXT
+);
+CREATE INDEX IF NOT EXISTS idx_judicial_affiliation_person ON judicial_affiliation(person_id);
+CREATE INDEX IF NOT EXISTS idx_judicial_affiliation_kind ON judicial_affiliation(kind);
