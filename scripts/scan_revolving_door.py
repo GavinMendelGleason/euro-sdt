@@ -20,6 +20,8 @@ EMPLOYER_CLASS = {
     "Cecilio Madero Villarejo": ("European", "law"),
     "Klaus-Dieter Borchardt": ("European", "academic"),
     "Michael Koehler": ("Mixed", "non-profit advisory boards"),
+    "Karl-Friedrich Falkenberg": ("European", "business association"),
+    "Jonathan Faull": ("Mixed", "consultancy/lobby/finance"),
     "Robert Madelin": ("European", "consultancy"),
     "Hervé Jouanjean": ("European", "law"),
     "Peter Faross": ("European", "business association/consultancy"),
@@ -104,6 +106,22 @@ def main() -> int:
             "employer_region": "Mixed", "employer_type": "non-profit advisory boards",
             "in_graph": "Michael Koehler" in people,
             "source": "Commission Article 16 annual report 2025",
+        },
+        {
+            "name": "Karl-Friedrich Falkenberg", "policy_area": "Environment",
+            "former": "Director-General, DG ENV",
+            "new": "European Aluminium, independent advisory board on sustainability", "date": "2017",
+            "employer_region": "European", "employer_type": "business association",
+            "in_graph": "Karl-Friedrich Falkenberg" in people,
+            "source": "Commission Article 16 annual report 2018",
+        },
+        {
+            "name": "Jonathan Faull", "policy_area": "Financial services / Secretariat-General",
+            "former": "Director-General, DG FISMA and Secretariat-General",
+            "new": "Faull Consulting; Brunswick Group (Chair, Public Affairs Europe); Caisse de dépôt et placement du Québec", "date": "2016",
+            "employer_region": "Mixed", "employer_type": "consultancy/lobby/finance",
+            "in_graph": "Jonathan Faull" in people,
+            "source": "Commission Article 16 annual report 2018",
         },
     ]
     filtered.extend(extra)

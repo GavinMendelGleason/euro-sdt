@@ -1,6 +1,6 @@
 # Revolving-door cases involving Directors-General or Deputy Directors-General
 
-Sources: https://corporateeurope.org/en/revolvingdoorwatch; ALTER-EU, Block the revolving door (2011); European Ombudsman SI/5/2024/KR. Cases found: 12.
+Sources: https://corporateeurope.org/en/revolvingdoorwatch; ALTER-EU, Block the revolving door (2011); European Ombudsman SI/5/2024/KR. Cases found: 14.
 
 | Name | Policy | Former role | New employer | Employer region | Employer type | Date | In graph? | Source |
 |---|---|---|---|---|---|---|---|---|
@@ -9,6 +9,8 @@ Sources: https://corporateeurope.org/en/revolvingdoorwatch; ALTER-EU, Block the 
 | Cecilio Madero Villarejo | Competition | Deputy Director-General, DG COMP | Clifford Chance LLP, Of Counsel | European | law | 2020 | no | Commission Article 16 annual report 2022 |
 | Klaus-Dieter Borchardt | Energy | Deputy Director-General, DG ENER | Oxford Institute for Energy Studies, Senior Visiting Research Fellow | European | academic | 2021 | no | Commission Article 16 annual report 2022 |
 | Michael Koehler | Humanitarian Aid | Deputy Director-General, DG ECHO | Positive Agenda, Polisync, Candid Foundation, Deutsche Welthungerhilfe, advisory boards | Mixed | non-profit advisory boards | 2024 | no | Commission Article 16 annual report 2025 |
+| Karl-Friedrich Falkenberg | Environment | Director-General, DG ENV | European Aluminium, independent advisory board on sustainability | European | business association | 2017 | no | Commission Article 16 annual report 2018 |
+| Jonathan Faull | Financial services / Secretariat-General | Director-General, DG FISMA and Secretariat-General | Faull Consulting; Brunswick Group (Chair, Public Affairs Europe); Caisse de dépôt et placement du Québec | Mixed | consultancy/lobby/finance | 2016 | no | Commission Article 16 annual report 2018 |
 | Robert Madelin UK | IT | European Political Strategy Center & DG CNECT, Senior Adviser on Innovation & Director General | Madelin Innovation, Director - Consultant | European | consultancy | Oct 2016 | no | RevolvingDoorWatch |
 | Hervé Jouanjean France | General | European commission, DG budget, Director-general | Fidal, Of counsel | European | law | May 2014 | no | RevolvingDoorWatch |
 | Peter Faross Germany | General | DG Energy, Acting deputy director general | UEAPME (Union Européenne de l’Artisanat et des Petites et Moyennes Entreprises) + Kaesler & Kollegen, Secretary-general + adviser | European | business association/consultancy | Jan 2014 | no | RevolvingDoorWatch |
