@@ -81,13 +81,20 @@ def main() -> int:
         tenure_id = "rt-" + hashlib.sha1(
             "|".join([person_id, company_id, "corporate_role", row["role_raw"], row["source_url"]]).encode("utf-8")
         ).hexdigest()[:16]
+        low = text.lower()
+        person_pos = low.find(person.lower())
+        role_pos = low.find(row["role_raw"].lower(), person_pos + len(person)) if person_pos >= 0 else -1
+        if person_pos >= 0:
+            compact_quote = text[person_pos: role_pos + len(row["role_raw"]) if role_pos >= 0 else person_pos + len(person)]
+        else:
+            compact_quote = quote[:500]
         db.execute(
             "INSERT OR REPLACE INTO role_tenure "
             "(id, person_id, organisation_id, tenure_type, role, role_raw, start_date, end_date, "
             "start_precision, end_precision, source_url, source_quote, notes) "
             "VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?)",
             (tenure_id, person_id, company_id, "corporate_role", role_kind, row["role_raw"],
-             None, None, "unknown", "open", row["source_url"], quote,
+             None, None, "unknown", "open", row["source_url"], compact_quote,
              f"Official board/management page; role as of {row['as_of']}; start/end unknown"),
         )
         added += 1
