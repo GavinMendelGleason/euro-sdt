@@ -7,7 +7,7 @@ tags:
   - organisation
   - verified
   - organisation
-generated: 2026-10-24
+generated: 2026-11-02
 ---
 # Legal Advisory Committee to the Minister of Foreign Affairs of the Republic of Poland
 

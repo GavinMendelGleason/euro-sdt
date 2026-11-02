@@ -8,13 +8,13 @@ tags:
   - person
   - verified
   - commissioner
-generated: 2026-10-24
+generated: 2026-11-02
 ---
 # Danuta Hübner
 
 Commissioner · POL
 
-*Verified assertions: 40*
+*Verified assertions: 41*
 
 ## Portfolio
 
@@ -120,6 +120,12 @@ Commissioner · POL
 
 - [[organisations/new-pact-for-europe|New Pact for Europe]] — advisory_board  
   > "Other activities Centre for European Policy Studies (CEPS), Member of the Board of Directors European Council on Foreign Relations (ECFR), Member European Policy Centre (EPC), Member of the Strategic Council New Pact for Europe, Member of the Advisory Group Policy Network, Member of the Board of Directors Polish Academy of Sciences, Member of the Scientific Board of Economic Sciences Institute (1996–1998) European Association of Development Research and Training Institutes (EADI), Member of the"
+  > Source: [[sources/wikipedia-danuta-hubner|Danuta Hubner]] · grade A
+
+## Fellowship
+
+- [[organisations/fulbright|Fulbright]] — fellow  
+  > "Hübner was a 1988–1990 Fulbright scholar at the University of California, Berkeley and received an honorary Degree in Laws of Sussex University in 2005."
   > Source: [[sources/wikipedia-danuta-hubner|Danuta Hubner]] · grade A
 
 ## Employment

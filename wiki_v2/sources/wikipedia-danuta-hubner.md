@@ -4,7 +4,7 @@ title: Danuta Hubner
 type: source
 tags:
   - source
-generated: 2026-10-24
+generated: 2026-11-02
 ---
 # Danuta Hubner
 
@@ -14,7 +14,7 @@ generated: 2026-10-24
 - SHA-256: `12d2c73c7f4cf2b3bc7096b49bdd9d6b6cf0ce12ec4afaa65b4b3241a4386070`
 - Sentences: 40
 
-## Verified claims citing this document (36)
+## Verified claims citing this document (37)
 
 - [[people/danuta-hubner|Danuta Hübner]] — advisory_board — New Pact for Europe
   > "Other activities Centre for European Policy Studies (CEPS), Member of the Board of Directors European Council on Foreign Relations (ECFR), Member European Policy Centre (EPC), Member of the Strategic Council New Pact for Europe, Member of the Advisory Group Policy Network, Member of the Board of Directors Polish Academy of Sciences, Member of the Scientific Board of Economic Sciences Institute (19 […]"
@@ -46,6 +46,8 @@ generated: 2026-10-24
   > "Other activities Centre for European Policy Studies (CEPS), Member of the Board of Directors European Council on Foreign Relations (ECFR), Member European Policy Centre (EPC), Member of the Strategic Council New Pact for Europe, Member of the Advisory Group Policy Network, Member of the Board of Directors Polish Academy of Sciences, Member of the Scientific Board of Economic Sciences Institute (19 […]"
 - [[people/danuta-hubner|Danuta Hübner]] — employed_by — European Association of Development Research and Training Institutes (EADI)
   > "Other activities Centre for European Policy Studies (CEPS), Member of the Board of Directors European Council on Foreign Relations (ECFR), Member European Policy Centre (EPC), Member of the Strategic Council New Pact for Europe, Member of the Advisory Group Policy Network, Member of the Board of Directors Polish Academy of Sciences, Member of the Scientific Board of Economic Sciences Institute (19 […]"
+- [[people/danuta-hubner|Danuta Hübner]] — fellow — Fulbright
+  > "Hübner was a 1988–1990 Fulbright scholar at the University of California, Berkeley and received an honorary Degree in Laws of Sussex University in 2005."
 - [[people/danuta-hubner|Danuta Hübner]] — held_portfolio — Regional Policy
   > "She was European Commissioner for Regional Policy from 22 November 2004 until 4 July 2009, when she resigned to become a Member of European Parliament for the Civic Platform."
 - [[people/danuta-hubner|Danuta Hübner]] — member — International Honorary Council of the European Academy of Diplomacy

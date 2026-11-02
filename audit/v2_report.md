@@ -6,10 +6,10 @@ Generated from `euro_sdt_v2.db`, `audit/v1_baseline.json`, and `graph/metrics.js
 
 | Metric | v1 | v2 |
 |---|---:|---:|
-| Assertions / facts | 5313 | 5490 |
-| Verified | 726 | 4144 |
+| Assertions / facts | 5313 | 5497 |
+| Verified | 726 | 4152 |
 | Needs review | — | 192 |
-| Rejected | — | 1154 |
+| Rejected | — | 1153 |
 | Source documents | 0 hashed | 820 hashed |
 | Sentences | 0 | 37445 |
 
@@ -24,9 +24,9 @@ verified subset and keeps rejected candidates in `rejection`.
 | needs_review | B | 8 |
 | needs_review | C | 184 |
 | rejected | B | 138 |
-| rejected | C | 564 |
+| rejected | C | 563 |
 | rejected | none | 452 |
-| verified | A | 3092 |
+| verified | A | 3100 |
 | verified | B | 483 |
 | verified | C | 569 |
 
@@ -55,8 +55,7 @@ verified subset and keeps rejected candidates in `rejection`.
 | employed_by | needs_review | 25 |
 | employed_by | rejected | 21 |
 | employed_by | verified | 362 |
-| fellow | rejected | 1 |
-| fellow | verified | 19 |
+| fellow | verified | 27 |
 | founder | needs_review | 7 |
 | founder | rejected | 8 |
 | founder | verified | 64 |
@@ -111,7 +110,7 @@ Claims from full-document extraction: **1127**.
 | Rejection stage | Count |
 |---|---:|
 | source_resolution | 722 |
-| llm_adjudication | 702 |
+| llm_adjudication | 701 |
 | locator | 452 |
 | migration | 51 |
 | party_group_guard | 2 |
@@ -119,7 +118,7 @@ Claims from full-document extraction: **1127**.
 | LLM verdict | Count |
 |---|---:|
 | SUPPORTED | 1744 |
-| UNSUPPORTED | 743 |
+| UNSUPPORTED | 742 |
 | AMBIGUOUS | 170 |
 | ERROR | 8 |
 
@@ -140,10 +139,10 @@ Claims from full-document extraction: **1127**.
 
 | Metric | All verified | Network only |
 |---|---:|---:|
-| Nodes | 2960 | 2147 |
-| Edges | 3702 | 2613 |
-| Largest component | 2657 | 1914 |
-| Degree-1 nodes | 2227 | 1610 |
+| Nodes | 2965 | 2154 |
+| Edges | 3710 | 2621 |
+| Largest component | 2665 | 1920 |
+| Degree-1 nodes | 2231 | 1615 |
 
 ### Edges by class
 
@@ -151,7 +150,7 @@ Claims from full-document extraction: **1127**.
 |---|---:|
 | education | 632 |
 | institutional | 94 |
-| network | 2613 |
+| network | 2621 |
 | occupational | 361 |
 | other | 2 |
 

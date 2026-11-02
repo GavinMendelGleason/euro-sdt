@@ -8,13 +8,13 @@ tags:
   - person
   - verified
   - cjeu-judge
-generated: 2026-10-24
+generated: 2026-11-02
 ---
 # Siniša Rodin
 
 Cjeu Judge · Croatia
 
-*Verified assertions: 2*
+*Verified assertions: 3*
 
 ## Education
 
@@ -24,4 +24,10 @@ Cjeu Judge · Croatia
 
 - [[organisations/university-of-michigan|University of Michigan]]  
   > "Born 1963 in Zagreb (Croatia), Siniša Rodin obtained his law degree from Sveučilište u Zagrebu (University of Zagreb, Croatia) in 1987 and continued his university studies in the United States of America, where he obtained a Master of Laws from the University of Michigan in 1992."
+  > Source: [[sources/cjeu-sini-a-rodin|Sini A Rodin]] · grade A
+
+## Fellowship
+
+- [[organisations/fulbright|Fulbright]] — fellow  
+  > "From 2001 to 2002, he was a Fulbright Fellow and Visiting Scholar at Harvard University, USA."
   > Source: [[sources/cjeu-sini-a-rodin|Sini A Rodin]] · grade A

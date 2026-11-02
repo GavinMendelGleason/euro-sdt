@@ -6,7 +6,7 @@ category:
 tags:
   - organisation
   - verified
-generated: 2026-10-24
+generated: 2026-11-02
 ---
 # High Level Commission on the Modernization of World Bank Group Governance
 

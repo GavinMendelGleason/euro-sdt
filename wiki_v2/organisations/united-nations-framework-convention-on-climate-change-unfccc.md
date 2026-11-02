@@ -6,7 +6,7 @@ category:
 tags:
   - organisation
   - verified
-generated: 2026-10-24
+generated: 2026-11-02
 ---
 # United Nations Framework Convention on Climate Change (UNFCCC)
 

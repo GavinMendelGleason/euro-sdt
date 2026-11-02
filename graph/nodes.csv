@@ -779,6 +779,7 @@ czech-social-democratic-party,Czech Social Democratic Party,organisation,organis
 czech-and-slovak-confederation-of-trade-unions,Czech and Slovak Confederation of Trade Unions,organisation,organisation,,active,1
 czech-german-discussion-forum,Czech-German Discussion Forum,organisation,organisation,,active,1
 czechoslovak-national-front,Czechoslovak National Front,organisation,organisation,,active,1
+daad,DAAD,organisation,fellowship_programme,,active,1
 dara,DARA,organisation,,,active,1
 dhl,DHL,organisation,,,active,1
 diktio,DIKTIO,organisation,,,active,1
@@ -1169,6 +1170,7 @@ friends-of-the-hubrecht-institute-for-developmental-biology-and-stem-cell-resear
 frit-forum-aarhus,Frit Forum Aarhus,organisation,,,active,1
 front-national,Front National,organisation,organisation,,active,1
 fronte-monarchico-giovanile-youth-monarchist-front,Fronte Monarchico Giovanile (Youth Monarchist Front),organisation,organisation,,active,1
+fulbright,Fulbright,organisation,fellowship_programme,,active,5
 fundacion-alternativas,Fundación Alternativas,organisation,,,active,2
 fundacion-argentaria,Fundación Argentaria,organisation,,,active,2
 fundacao-arpad-szenes-e-vieira-da-silva,Fundação Arpad Szenes e Vieira da Silva,organisation,,,active,1
@@ -1271,6 +1273,7 @@ heinrich-boll-foundation,Heinrich Böll Foundation,organisation,,,active,2
 hellenic-industrial-development-bank-etva,Hellenic Industrial Development Bank (ETVA),organisation,,,active,2
 hellenic-parliament,Hellenic Parliament,organisation,organisation,,active,4
 helsinki-city-council,Helsinki City Council,organisation,organisation,,active,1
+henry-fellowship,Henry Fellowship,organisation,fellowship_programme,,active,1
 hermes,Hermès,organisation,organisation,,active,1
 herrenknecht,Herrenknecht,organisation,,,active,1
 high-level-commission-on-the-modernization-of-world-bank-group-governance,High Level Commission on the Modernization of World Bank Group Governance,organisation,,,active,1
@@ -1927,6 +1930,7 @@ schongau-district,Schongau district,organisation,organisation,,active,1
 school-board-s-educational-board,School Board's Educational Board,organisation,,,active,1
 school-of-pedagogical-and-technological-education,School of Pedagogical and Technological Education,organisation,organisation,,active,1
 schule-schloss-salem,Schule Schloss Salem,organisation,,,active,1
+schuman,Schuman,organisation,fellowship_programme,,active,1
 schwarzkopf-foundation,Schwarzkopf Foundation,organisation,,,active,1
 science-and-technology-options-assessment-panel,Science and Technology Options Assessment Panel,organisation,,,active,1
 scientific-council-of-the-central-mining-institute-katowice,"Scientific Council of the Central Mining Institute, Katowice",organisation,,,active,1
@@ -2444,7 +2448,7 @@ dalia-grybauskaite,Dalia Grybauskaitė,person,commissioner,LTU,active,15
 dan-jrgensen,Dan Jørgensen,person,commissioner,DNK,active,13
 dana-spinant,Dana Spinant,person,dg,,active,2
 daniel-cohn-bendit,Daniel Cohn-Bendit,person,mep,,active,2
-danuta-hubner,Danuta Hübner,person,commissioner,POL,active,22
+danuta-hubner,Danuta Hübner,person,commissioner,POL,active,23
 david-byrne,David Byrne,person,commissioner,IRL,active,14
 david-sassoli,David Sassoli,person,mep,,active,4
 declan-costello,Declan Costello,person,dg,,active,1
@@ -2567,6 +2571,7 @@ john-elkann,John Elkann,person,corporate_elite,,active,5
 john-watson,John Watson,person,ddg,,active,1
 jonathan-hill,Jonathan Hill,person,commissioner,,active,5
 josep-borrell,Josep Borrell,person,commissioner,,active,9
+josep-borrell-fontelles,Josep Borrell Fontelles,person,commissioner,ESP,active,1
 joseph-daul,Joseph Daul,person,mep,,active,25
 jose-ignacio-sanchez-galan,José Ignacio Sánchez Galán,person,corporate_elite,,active,9
 jose-manuel-barroso,José Manuel Barroso,person,commissioner,,active,31
@@ -2576,7 +2581,7 @@ jozef-sikela,Jozef Síkela,person,commissioner,CZE,active,3
 joao-de-deus-pinheiro,João de Deus Pinheiro,person,commissioner,PRT,active,3
 juan-carlos-girauta,Juan Carlos Girauta,person,mep,,active,15
 juan-ignacio-zoido,Juan Ignacio Zoido,person,mep,,active,9
-juliane-kokott,Juliane Kokott,person,cjeu_ag,Germany,active,2
+juliane-kokott,Juliane Kokott,person,cjeu_ag,Germany,active,3
 jutta-urpilainen,Jutta Urpilainen,person,commissioner,,active,23
 jyrki-katainen,Jyrki Katainen,person,commissioner,FIN,active,11
 jan-figel,Ján Figeľ,person,commissioner,SVK,active,8
@@ -2595,7 +2600,7 @@ klaus-hansch,Klaus Hänsch,person,mep,,active,1
 klara-dobrev,Klára Dobrev,person,mep,,active,2
 koen-doens,Koen Doens,person,dg,,active,1
 koen-lenaerts,Koen Lenaerts,person,cjeu_judge,Belgium,active,11
-kristalina-georgieva,Kristalina Georgieva,person,commissioner,BGR,active,28
+kristalina-georgieva,Kristalina Georgieva,person,commissioner,BGR,active,29
 kurt-vandenberghe,Kurt Vandenberghe,person,dg,,active,1
 kullike-jurimae,Küllike Jürimäe,person,cjeu_judge,Estonia,active,2
 laila-medina,Laila Medina,person,cjeu_ag,Latvia,active,2
@@ -2619,7 +2624,7 @@ laszlo-andor,László Andor,person,commissioner,,active,12
 laszlo-surjan,László Surján,person,mep,,active,1
 livia-jaroka,Lívia Járóka,person,mep,,active,2
 maarten-verwey,Maarten Verwey,person,dg,,active,3
-maciej-popowski,Maciej Popowski,person,dg,,active,4
+maciej-popowski,Maciej Popowski,person,dg,,active,5
 maciej-szpunar,Maciej Szpunar,person,cjeu_ag,Poland,active,2
 magda-kopczynska,Magda Kopczyńska,person,dg,,active,1
 magnus-brunner,Magnus Brunner,person,commissioner,AUT,active,14
@@ -2727,7 +2732,7 @@ philippe-brassac,Philippe Brassac,person,corporate_elite,,active,2
 philippe-busquin,Philippe Busquin,person,commissioner,BEL,active,16
 philippe-malaud,Philippe Malaud,person,mep,,active,3
 philippe-van-damme,Philippe Van Damme,person,dg,,active,1
-pia-ahrenkilde-hansen,Pia Ahrenkilde Hansen,person,dg,,active,2
+pia-ahrenkilde-hansen,Pia Ahrenkilde Hansen,person,dg,,active,3
 pier-carlo-padoan,Pier Carlo Padoan,person,corporate_elite,,active,8
 pierre-bascou,Pierre Bascou,person,dg,,active,1
 pierre-moscovici,Pierre Moscovici,person,commissioner,,active,35
@@ -2766,9 +2771,9 @@ severin-schwan,Severin Schwan,person,corporate_elite,,active,4
 sigrid-friis-proschowsky,Sigrid Friis Proschowsky,person,mep,,active,1
 siim-kallas,Siim Kallas,person,commissioner,,active,17
 silvana-koch-mehrin,Silvana Koch-Mehrin,person,mep,,active,7
-sinisa-rodin,Siniša Rodin,person,cjeu_judge,Croatia,active,2
+sinisa-rodin,Siniša Rodin,person,cjeu_judge,Croatia,active,3
 sir-julian-king,Sir Julian King,person,commissioner,,active,4
-sir-leon-brittan,Sir Leon Brittan,person,commissioner,GBR,active,16
+sir-leon-brittan,Sir Leon Brittan,person,commissioner,GBR,active,17
 slawomir-krupa,Slawomir Krupa,person,corporate_elite,,active,2
 sophia-eriksson-waterschoot,Sophia Eriksson Waterschoot,person,dg,,active,1
 stavros-dimas,Stavros Dimas,person,commissioner,GRC,active,12

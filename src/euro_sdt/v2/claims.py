@@ -28,7 +28,7 @@ PREDICATE_KEYWORDS = {
     "chair": ("chair", "chairman", "chairwoman", "president", "presiding"),
     "employed_by": ("ceo", "chief", "executive", "manager", "director", "head of", "worked", "works", "employed", "chairman"),
     "founder": ("found", "co-found", "founded"),
-    "fellow": ("fellow",),
+    "fellow": ("fellow", "fellows", "fellowship", "fellowships", "scholar", "scholars", "scholarship", "scholarships"),
     "attendee": ("attend", "participat", "speaker", "guest"),
     "affiliated_with": ("member", "affiliated", "board", "trustee", "advisor", "chair", "president", "founder", "fellow"),
     "held_portfolio": ("commissioner", "portfolio", "president", "vice-president"),

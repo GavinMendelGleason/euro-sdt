@@ -6,7 +6,7 @@ category:
 tags:
   - organisation
   - verified
-generated: 2026-10-24
+generated: 2026-11-02
 ---
 # National Fund of the Republic of Austria for Victims of National Socialism
 

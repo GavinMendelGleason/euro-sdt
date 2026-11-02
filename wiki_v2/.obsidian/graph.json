@@ -155,17 +155,24 @@
       }
     },
     {
-      "query": "tag:#institution",
+      "query": "tag:#fellowship-programme",
       "color": {
         "a": 1,
         "rgb": 10921638
       }
     },
     {
+      "query": "tag:#institution",
+      "color": {
+        "a": 1,
+        "rgb": 16090392
+      }
+    },
+    {
       "query": "tag:#university",
       "color": {
         "a": 1,
-        "rgb": 7518130
+        "rgb": 5546571
       }
     },
     {

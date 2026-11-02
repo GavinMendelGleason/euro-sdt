@@ -7,7 +7,7 @@ tags:
   - organisation
   - verified
   - university
-generated: 2026-10-24
+generated: 2026-11-02
 ---
 # École Supérieure De Commerce De Paris (Escp)
 

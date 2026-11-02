@@ -7,7 +7,7 @@ tags:
   - organisation
   - verified
   - conference-think-tank
-generated: 2026-10-24
+generated: 2026-11-02
 ---
 # GLOBSEC
 

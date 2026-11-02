@@ -4,7 +4,7 @@ title: Alliance Of Liberals And Democrats For Europe Party
 type: source
 tags:
   - source
-generated: 2026-10-24
+generated: 2026-11-02
 ---
 # Alliance Of Liberals And Democrats For Europe Party
 

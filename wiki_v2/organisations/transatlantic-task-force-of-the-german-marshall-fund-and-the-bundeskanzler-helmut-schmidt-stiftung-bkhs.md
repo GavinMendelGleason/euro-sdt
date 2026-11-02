@@ -6,7 +6,7 @@ category:
 tags:
   - organisation
   - verified
-generated: 2026-10-24
+generated: 2026-11-02
 ---
 # Transatlantic Task Force of the German Marshall Fund and the Bundeskanzler-Helmut-Schmidt-Stiftung (BKHS)
 

@@ -4,7 +4,7 @@ title: Adina Ioana Vălean
 type: source
 tags:
   - source
-generated: 2026-10-24
+generated: 2026-11-02
 ---
 # Adina Ioana Vălean
 

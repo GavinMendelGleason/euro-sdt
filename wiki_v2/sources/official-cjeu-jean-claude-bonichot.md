@@ -4,7 +4,7 @@ title: CURIA biography: Jean-Claude Bonichot
 type: source
 tags:
   - source
-generated: 2026-10-24
+generated: 2026-11-02
 ---
 # CURIA biography: Jean-Claude Bonichot
 

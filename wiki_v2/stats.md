@@ -11,12 +11,12 @@ tags:
 
 | Grade | Status | Count |
 |---|---|---:|
-| A | verified | 3092 |
+| A | verified | 3100 |
 | B | needs_review | 8 |
 | B | rejected | 138 |
 | B | verified | 483 |
 | C | needs_review | 184 |
-| C | rejected | 564 |
+| C | rejected | 563 |
 | C | verified | 569 |
 | none | rejected | 452 |
 
@@ -45,8 +45,7 @@ tags:
 | employed_by | needs_review | 25 |
 | employed_by | rejected | 21 |
 | employed_by | verified | 362 |
-| fellow | rejected | 1 |
-| fellow | verified | 19 |
+| fellow | verified | 27 |
 | founder | needs_review | 7 |
 | founder | rejected | 8 |
 | founder | verified | 64 |
@@ -83,12 +82,12 @@ tags:
 
 | Category | Claims | Verified |
 |---|---:|---:|
-| commissioner | 3175 | 2474 |
+| commissioner | 3178 | 2478 |
 | mep | 1364 | 1042 |
 | corporate_elite | 465 | 381 |
-| dg | 346 | 190 |
-| cjeu_judge | 79 | 36 |
-| cjeu_ag | 44 | 14 |
+| dg | 348 | 192 |
+| cjeu_judge | 80 | 37 |
+| cjeu_ag | 45 | 15 |
 | ddg | 10 | 7 |
 
 ## Source documents

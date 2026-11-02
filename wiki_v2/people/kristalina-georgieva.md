@@ -8,13 +8,13 @@ tags:
   - person
   - verified
   - commissioner
-generated: 2026-10-24
+generated: 2026-11-02
 ---
 # Kristalina Georgieva
 
 Commissioner · BGR
 
-*Verified assertions: 55*
+*Verified assertions: 56*
 
 ## Commission service
 
@@ -116,6 +116,12 @@ Commissioner · BGR
 
 - [[organisations/world-economic-forum-high-level-group-on-humanitarian-investing|World Economic Forum High-Level Group on Humanitarian Investing]] — chair  
   > "Co-chair of World Economic Forum High-Level Group on Humanitarian Investing"
+  > Source: [[sources/wikipedia-kristalina-georgieva|Kristalina Georgieva]] · grade A
+
+## Fellowship
+
+- [[organisations/fulbright|Fulbright]] — fellow  
+  > "She was a post-doctoral research fellow in natural resource economics and environmental policy at the London School of Economics from 1987 to 1988, a Fulbright fellow at the Massachusetts Institute of Technology, and a visiting professor in Fiji at the University of the South Pacific."
   > Source: [[sources/wikipedia-kristalina-georgieva|Kristalina Georgieva]] · grade A
 
 ## Affiliation

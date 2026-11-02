@@ -8,13 +8,13 @@ tags:
   - person
   - verified
   - dg
-generated: 2026-10-24
+generated: 2026-11-02
 ---
 # Maciej Popowski
 
 Dg
 
-*Verified assertions: 5*
+*Verified assertions: 6*
 
 ## Education
 
@@ -36,6 +36,12 @@ Dg
 
 - [[organisations/european-satellite-centre|European Satellite Centre]] — chair  
   > "Additional responsibilities: member of the Board of Governors of the European Endowment for Democracy, chair of the Tasking Committee of the European Satellite Centre, chair of the international Contact Group on Piracy off the Coast of Somalia (2014- 2015), chief negotiator of the institutional framework EU-Switzerland."
+  > Source: [[sources/dg_cv-maciej-popowski|Maciej Popowski]] · grade A
+
+## Fellowship
+
+- [[organisations/daad|DAAD]] — fellow  
+  > " 10/1989 – 02/1990: DAAD scholarship German Faculty of the University of Siegen"
   > Source: [[sources/dg_cv-maciej-popowski|Maciej Popowski]] · grade A
 
 ## Position

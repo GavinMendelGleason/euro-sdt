@@ -4,7 +4,7 @@ title: Pierre Bascou — European Commission
 type: source
 tags:
   - source
-generated: 2026-10-24
+generated: 2026-11-02
 ---
 # Pierre Bascou — European Commission
 

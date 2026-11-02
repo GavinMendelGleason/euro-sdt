@@ -4,7 +4,7 @@ title: Beatriz Sanz Redrado
 type: source
 tags:
   - source
-generated: 2026-10-24
+generated: 2026-11-02
 ---
 # Beatriz Sanz Redrado
 

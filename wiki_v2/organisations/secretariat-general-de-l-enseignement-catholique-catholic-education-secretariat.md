@@ -7,7 +7,7 @@ tags:
   - organisation
   - verified
   - organisation
-generated: 2026-10-24
+generated: 2026-11-02
 ---
 # Secrétariat général de l'Enseignement catholique (Catholic Education Secretariat)
 

@@ -7,7 +7,7 @@ tags:
   - organisation
   - verified
   - university
-generated: 2026-10-24
+generated: 2026-11-02
 ---
 # Karl Marx Higher Institute Of Economics (Now Called University Of National And W
 

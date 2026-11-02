@@ -4,7 +4,7 @@ title: Jos Ignacio S Nchez Gal N
 type: source
 tags:
   - source
-generated: 2026-10-24
+generated: 2026-11-02
 ---
 # Jos Ignacio S Nchez Gal N
 

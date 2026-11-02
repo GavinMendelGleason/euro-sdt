@@ -7,7 +7,7 @@ tags:
   - organisation
   - verified
   - university
-generated: 2026-10-24
+generated: 2026-11-02
 ---
 # Université Libre De Bruxelles
 

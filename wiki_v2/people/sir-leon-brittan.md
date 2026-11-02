@@ -8,13 +8,13 @@ tags:
   - person
   - verified
   - commissioner
-generated: 2026-10-24
+generated: 2026-11-02
 ---
 # Sir Leon Brittan
 
 Commissioner · GBR
 
-*Verified assertions: 21*
+*Verified assertions: 22*
 
 ## Commission service
 
@@ -81,6 +81,12 @@ Commissioner · GBR
 - [[organisations/national-reporting-centre|National Reporting Centre]] — founder  
   > "As soon as the strike began, Brittan set up a National Reporting Centre in New Scotland Yard to coordinate intelligence and the supply of police officers between forces as necessary."
   > Source: [[sources/wikipedia-sir-leon-brittan|Sir Leon Brittan]] · grade C
+
+## Fellowship
+
+- [[organisations/henry-fellowship|Henry Fellowship]] — fellow  
+  > "Brittan then studied at Yale University on a Henry Fellowship."
+  > Source: [[sources/wikipedia-sir-leon-brittan|Sir Leon Brittan]] · grade A
 
 ## Employment
 

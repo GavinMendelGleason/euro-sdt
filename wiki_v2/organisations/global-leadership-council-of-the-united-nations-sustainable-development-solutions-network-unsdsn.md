@@ -6,7 +6,7 @@ category:
 tags:
   - organisation
   - verified
-generated: 2026-10-24
+generated: 2026-11-02
 ---
 # Global Leadership Council of the United Nations Sustainable Development Solutions Network (UNSDSN)
 

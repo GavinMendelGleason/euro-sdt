@@ -7,7 +7,7 @@ tags:
   - organisation
   - verified
   - university
-generated: 2026-10-24
+generated: 2026-11-02
 ---
 # Institute Of European Studies Of The Free University Of Brussels (Ulb)
 

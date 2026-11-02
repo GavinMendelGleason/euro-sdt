@@ -4,7 +4,7 @@ title: Astrid Lulling
 type: source
 tags:
   - source
-generated: 2026-10-24
+generated: 2026-11-02
 ---
 # Astrid Lulling
 

@@ -4,7 +4,7 @@ title: Benita Ferrero Waldner
 type: source
 tags:
   - source
-generated: 2026-10-24
+generated: 2026-11-02
 ---
 # Benita Ferrero Waldner
 

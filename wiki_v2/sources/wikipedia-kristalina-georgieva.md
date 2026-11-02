@@ -4,7 +4,7 @@ title: Kristalina Georgieva
 type: source
 tags:
   - source
-generated: 2026-10-24
+generated: 2026-11-02
 ---
 # Kristalina Georgieva
 
@@ -14,7 +14,7 @@ generated: 2026-10-24
 - SHA-256: `877d64c0ab6d292b2195fdee2a5763beca978db492f7aa87bd0428ddf254e131`
 - Sentences: 106
 
-## Verified claims citing this document (54)
+## Verified claims citing this document (55)
 
 - [[people/kristalina-georgieva|Kristalina Georgieva]] — advisory_board — European Investment Bank (EIB)
   > "Other activities European Union institutions European Investment Bank (EIB), member of the Appointment Advisory Committee (since 2017) Non-profit organizations World Economic Forum (WEF), Member of the Board of Trustees (since 2020) Co-chair of World Economic Forum High-Level Group on Humanitarian Investing Global Commission on Adaptation, co-chair (since 2018) Generation Unlimited, member of the […]"
@@ -92,6 +92,8 @@ generated: 2026-10-24
   > "On 29 September 2019, Georgieva was named managing director of the International Monetary Fund (IMF), to succeed Christine Lagarde (who was leaving to become president of the European Central Bank)."
 - [[people/kristalina-georgieva|Kristalina Georgieva]] — employed_by — IMF
   > "On 12 April 2024, Georgieva was reappointed by the IMF executive board to serve for a second five-year term."
+- [[people/kristalina-georgieva|Kristalina Georgieva]] — fellow — Fulbright
+  > "She was a post-doctoral research fellow in natural resource economics and environmental policy at the London School of Economics from 1987 to 1988, a Fulbright fellow at the Massachusetts Institute of Technology, and a visiting professor in Fiji at the University of the South Pacific."
 - [[people/kristalina-georgieva|Kristalina Georgieva]] — from_country — Bulgaria
   > "Kristalina Ivanova Georgieva-Kinova (Bulgarian: Кристалина Иванова Георгиева-Кинова; née Georgieva; born 13 August 1953) is a Bulgarian economist who has served as the 12th managing director of the International Monetary Fund since 2019."
 - [[people/kristalina-georgieva|Kristalina Georgieva]] — held_degree — PhD

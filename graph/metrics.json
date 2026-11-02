@@ -1,11 +1,11 @@
 {
   "excluded_quarantined_endpoints": 25,
   "all_verified": {
-    "nodes": 2960,
-    "edges": 3702,
-    "unique_pairs": 3503,
+    "nodes": 2965,
+    "edges": 3710,
+    "unique_pairs": 3511,
     "edges_by_class": {
-      "network": 2613,
+      "network": 2621,
       "education": 632,
       "occupational": 361,
       "other": 2,
@@ -19,7 +19,7 @@
       "chair": 502,
       "educated_at": 632,
       "employed_by": 360,
-      "fellow": 18,
+      "fellow": 26,
       "founder": 62,
       "from_country": 2,
       "held_position": 1,
@@ -27,19 +27,19 @@
       "served_on_commission": 94
     },
     "edges_by_grade": {
-      "A": 2717,
+      "A": 2725,
       "C": 530,
       "B": 455
     },
     "degree": {
       "max": 72,
       "mean": 2.37,
-      "degree_1": 2227,
-      "degree_ge_3": 466
+      "degree_1": 2231,
+      "degree_ge_3": 470
     },
     "components": {
-      "count": 100,
-      "largest": 2657,
+      "count": 99,
+      "largest": 2665,
       "singletons": 0
     },
     "top_hubs": [
@@ -152,20 +152,20 @@
         "degree": 26
       },
       {
-        "id": "wopke-hoekstra",
-        "name": "Wopke Hoekstra",
+        "id": "kristalina-georgieva",
+        "name": "Kristalina Georgieva",
         "kind": "person",
         "degree": 26
       },
       {
-        "id": "barroso-ii",
-        "name": "Barroso II",
-        "kind": "commission",
-        "degree": 25
+        "id": "wopke-hoekstra",
+        "name": "Wopke Hoekstra",
+        "kind": "person",
+        "degree": 26
       }
     ],
     "kind_mixing": {
-      "person->organisation": 2940,
+      "person->organisation": 2948,
       "person->institution": 474,
       "person->university": 182,
       "person->commission": 103,
@@ -173,11 +173,11 @@
     }
   },
   "grade_a_only": {
-    "nodes": 2331,
-    "edges": 2717,
-    "unique_pairs": 2615,
+    "nodes": 2336,
+    "edges": 2725,
+    "unique_pairs": 2623,
     "edges_by_class": {
-      "network": 1910,
+      "network": 1918,
       "education": 522,
       "occupational": 208,
       "institutional": 77
@@ -190,23 +190,23 @@
       "chair": 429,
       "educated_at": 522,
       "employed_by": 208,
-      "fellow": 14,
+      "fellow": 22,
       "founder": 28,
       "member": 903,
       "served_on_commission": 77
     },
     "edges_by_grade": {
-      "A": 2717
+      "A": 2725
     },
     "degree": {
       "max": 44,
-      "mean": 2.24,
-      "degree_1": 1731,
-      "degree_ge_3": 372
+      "mean": 2.25,
+      "degree_1": 1735,
+      "degree_ge_3": 376
     },
     "components": {
-      "count": 111,
-      "largest": 1936,
+      "count": 110,
+      "largest": 1943,
       "singletons": 0
     },
     "top_hubs": [
@@ -307,6 +307,12 @@
         "degree": 23
       },
       {
+        "id": "danuta-hubner",
+        "name": "Danuta Hübner",
+        "kind": "person",
+        "degree": 23
+      },
+      {
         "id": "joaquin-almunia",
         "name": "Joaquín Almunia",
         "kind": "person",
@@ -323,16 +329,10 @@
         "name": "Pierre Moscovici",
         "kind": "person",
         "degree": 23
-      },
-      {
-        "id": "christos-stylianides",
-        "name": "Christos Stylianides",
-        "kind": "person",
-        "degree": 22
       }
     ],
     "kind_mixing": {
-      "person->organisation": 2110,
+      "person->organisation": 2118,
       "person->institution": 370,
       "person->university": 155,
       "person->commission": 79,
@@ -340,11 +340,11 @@
     }
   },
   "network_only": {
-    "nodes": 2147,
-    "edges": 2613,
-    "unique_pairs": 2491,
+    "nodes": 2154,
+    "edges": 2621,
+    "unique_pairs": 2499,
     "edges_by_class": {
-      "network": 2613
+      "network": 2621
     },
     "edges_by_predicate": {
       "advisory_board": 97,
@@ -352,24 +352,24 @@
       "attendee": 26,
       "board_member": 353,
       "chair": 502,
-      "fellow": 18,
+      "fellow": 26,
       "founder": 62,
       "member": 1158
     },
     "edges_by_grade": {
-      "A": 1910,
+      "A": 1918,
       "C": 280,
       "B": 423
     },
     "degree": {
       "max": 50,
       "mean": 2.32,
-      "degree_1": 1610,
-      "degree_ge_3": 361
+      "degree_1": 1615,
+      "degree_ge_3": 362
     },
     "components": {
       "count": 57,
-      "largest": 1914,
+      "largest": 1920,
       "singletons": 0
     },
     "top_hubs": [
@@ -495,7 +495,7 @@
       }
     ],
     "kind_mixing": {
-      "person->organisation": 2564,
+      "person->organisation": 2572,
       "person->university": 31,
       "person->institution": 13,
       "person->person": 3,

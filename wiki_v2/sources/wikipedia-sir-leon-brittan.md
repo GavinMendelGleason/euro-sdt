@@ -4,7 +4,7 @@ title: Sir Leon Brittan
 type: source
 tags:
   - source
-generated: 2026-10-24
+generated: 2026-11-02
 ---
 # Sir Leon Brittan
 
@@ -14,7 +14,7 @@ generated: 2026-10-24
 - SHA-256: `4d396aaf0ff4828ef764ae0b31520e3e520bd76263d8dce5418cd6772715680b`
 - Sentences: 90
 
-## Verified claims citing this document (18)
+## Verified claims citing this document (19)
 
 - [[people/sir-leon-brittan|Sir Leon Brittan]] — advisory_board — Total
   > "He was vice-chairman of UBS AG Investment Bank, non-executive director of Unilever and member of the international advisory committee for Total."
@@ -42,6 +42,8 @@ generated: 2026-10-24
   > "He was made European Commissioner for Competition at the European Commission early in 1989, resigning as an MP to take the position."
 - [[people/sir-leon-brittan|Sir Leon Brittan]] — employed_by — European Commission
   > "In 1993 he became European Commissioner for Trade and in 1995 European Commissioner for External Affairs, also serving as a Vice-President of the European Commission."
+- [[people/sir-leon-brittan|Sir Leon Brittan]] — fellow — Henry Fellowship
+  > "Brittan then studied at Yale University on a Henry Fellowship."
 - [[people/sir-leon-brittan|Sir Leon Brittan]] — founder — National Reporting Centre
   > "As soon as the strike began, Brittan set up a National Reporting Centre in New Scotland Yard to coordinate intelligence and the supply of police officers between forces as necessary."
 - [[people/sir-leon-brittan|Sir Leon Brittan]] — member — Conservative Party

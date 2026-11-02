@@ -8,13 +8,13 @@ tags:
   - person
   - verified
   - dg
-generated: 2026-10-24
+generated: 2026-11-02
 ---
 # Pia Ahrenkilde Hansen
 
 Dg
 
-*Verified assertions: 3*
+*Verified assertions: 4*
 
 ## Education
 
@@ -26,6 +26,12 @@ Dg
 
 - [[organisations/market-access-europe|MARKET ACCESS EUROPE]] — board_member  
   > "Responsible for international aspects, regulation, deregulation, trade and competition, enlargement, industry relations, training – former DG III-A-6 Professional experience before joining the European Institutions  1992 – 1995: MARKET ACCESS EUROPE - EU Public Affairs consultancy - Senior Consultant, Associate Director, member of the Board."
+  > Source: [[sources/dg_cv-pia-ahrenkilde-hansen|Pia Ahrenkilde Hansen]] · grade A
+
+## Fellowship
+
+- [[organisations/schuman|Schuman]] — fellow  
+  > "Others  1990: Co-author of “KULTUR/RETUR” - on the use of intercultural communication skills in international business and organisations; published by Samfundslitteratur, Copenhagen.  1989 – 1990: EUROPEAN PARLIAMENT: Schuman scholar, Directorate General for Resea"
   > Source: [[sources/dg_cv-pia-ahrenkilde-hansen|Pia Ahrenkilde Hansen]] · grade A
 
 ## Position

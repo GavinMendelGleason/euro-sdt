@@ -4,7 +4,7 @@ title: Martin Schulz
 type: source
 tags:
   - source
-generated: 2026-10-24
+generated: 2026-11-02
 ---
 # Martin Schulz
 

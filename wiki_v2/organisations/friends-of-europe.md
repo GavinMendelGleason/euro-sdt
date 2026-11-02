@@ -7,7 +7,7 @@ tags:
   - organisation
   - verified
   - think-tank-forum
-generated: 2026-10-24
+generated: 2026-11-02
 ---
 # Friends of Europe
 

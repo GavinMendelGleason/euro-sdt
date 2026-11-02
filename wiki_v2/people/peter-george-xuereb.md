@@ -8,7 +8,7 @@ tags:
   - person
   - verified
   - cjeu-judge
-generated: 2026-10-24
+generated: 2026-11-02
 ---
 # Peter George Xuereb
 
