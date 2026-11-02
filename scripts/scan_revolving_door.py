@@ -14,6 +14,15 @@ from euro_sdt.v2.db import AUDIT_DIR, V2_DB_PATH, connect
 
 BASE = "https://corporateeurope.org/en/revolvingdoorwatch"
 UA = {"User-Agent": "euro-sdt/0.2 (research)"}
+EMPLOYER_CLASS = {
+    "Robert Madelin": ("European", "consultancy"),
+    "Hervé Jouanjean": ("European", "law"),
+    "Peter Faross": ("European", "business association/consultancy"),
+    "Joao Pacheco": ("Mixed", "consultancy/think tank"),
+    "Jörgen Holmquist": ("European", "lobby/consultancy"),
+    "Mogens Peter Carl": ("European", "lobby/consultancy"),
+    "Michel Petite": ("European", "law"),
+}
 
 
 def page_rows(page: int) -> list[list[str]]:
@@ -55,10 +64,16 @@ def main() -> int:
         if key in seen:
             continue
         seen.add(key)
+        former = row[2].lower()
+        if "european parliament" in former or "principal adviser to the director-general" in former:
+            continue
         if re.search(r"director[- ]general|director general|deputy director[- ]general", row[2], re.I):
+            name = row[0].split(" UK")[0].split(" France")[0].split(" Germany")[0].split(" Portugal")[0].split(" Sweden")[0].split(" Britain")[0].split(" Denmark")[0].split(" Netherlands")[0]
+            region, kind = EMPLOYER_CLASS.get(name, ("Unknown", "corporate/lobby/consultancy"))
             filtered.append({
                 "name": row[0], "policy_area": row[1], "former": row[2],
-                "new": row[3], "date": row[4], "in_graph": row[0] in people,
+                "new": row[3], "date": row[4], "employer_region": region,
+                "employer_type": kind, "in_graph": row[0] in people,
             })
     args.out.parent.mkdir(parents=True, exist_ok=True)
     with args.out.with_suffix(".csv").open("w", newline="", encoding="utf-8") as fh:
@@ -69,11 +84,11 @@ def main() -> int:
         "",
         f"Source: {BASE}. Cases found: {len(filtered)}.",
         "",
-        "| Name | Policy | Former role | New employer | Date | In graph? |",
-        "|---|---|---|---|---|---|",
+        "| Name | Policy | Former role | New employer | Employer region | Employer type | Date | In graph? |",
+        "|---|---|---|---|---|---|---|---|",
     ]
     for r in filtered:
-        lines.append(f"| {r['name']} | {r['policy_area']} | {r['former']} | {r['new']} | {r['date']} | {'yes' if r['in_graph'] else 'no'} |")
+        lines.append(f"| {r['name']} | {r['policy_area']} | {r['former']} | {r['new']} | {r['employer_region']} | {r['employer_type']} | {r['date']} | {'yes' if r['in_graph'] else 'no'} |")
     args.out.with_suffix(".md").write_text("\n".join(lines), encoding="utf-8")
     print(f"wrote {args.out}.csv/.md ({len(filtered)} DG/DDG cases)")
     return 0
