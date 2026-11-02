@@ -32,7 +32,7 @@ generated: 2026-11-02
 - [[people/kristalina-georgieva|Kristalina Georgieva]] — board_member (2020)  
   > "World Economic Forum (WEF), Member of the Board of Trustees (since 2020)"
   > Source: [[sources/wikipedia-kristalina-georgieva|Kristalina Georgieva]] · grade A
-- [[people/olli-rehn|Olli Rehn]] — member of the Global Future Council on the Future of Financial and Monetary Systems; chair  
+- [[people/olli-rehn|Olli Rehn]] — member of the Global Future Council on the Future of Financial and Monetary Systems; chair (2017)  
   > "World Economic Forum (WEF), member of the Europe Policy Group (since 2017)"
   > Source: [[sources/wikipedia-olli-rehn|Olli Rehn]] · grade A
 - [[people/stavros-lambrinidis|Stavros Lambrinidis]] — attendee  

@@ -154,7 +154,7 @@ Commissioner · DEU
   > "Since 2019: ex-officio Vice-President European People's Party (EPP) European political party"
   > Source: [[sources/declaration-doi-ursula-von-der-leyen-en|Ursula Von Der Leyen]] · grade A
 
-- [[organisations/world-economic-forum-on-the-middle-east-and-north-africa|World Economic Forum on the Middle East and North Africa]] — chair  
+- [[organisations/world-economic-forum-on-the-middle-east-and-north-africa|World Economic Forum on the Middle East and North Africa]] — chair (2017)  
   > "World Economic Forum on the Middle East and North Africa, Co-chair (2017)"
   > Source: [[sources/wikipedia-ursula-von-der-leyen|Ursula Von Der Leyen]] · grade A
 

@@ -130,7 +130,7 @@ Commissioner · FIN
   > "He was briefly the chairman of Veikkausliiga from 1996 to 1997."
   > Source: [[sources/wikipedia-olli-rehn|Olli Rehn]] · grade A
 
-- [[organisations/world-economic-forum|World Economic Forum]] — member of the Global Future Council on the Future of Financial and Monetary Systems; chair  
+- [[organisations/world-economic-forum|World Economic Forum]] — member of the Global Future Council on the Future of Financial and Monetary Systems; chair (2017)  
   > "World Economic Forum (WEF), member of the Europe Policy Group (since 2017)"
   > Source: [[sources/wikipedia-olli-rehn|Olli Rehn]] · grade A
 

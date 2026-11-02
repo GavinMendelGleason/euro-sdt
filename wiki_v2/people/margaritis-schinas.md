@@ -62,7 +62,7 @@ Commissioner
 
 ## Fellowship
 
-- [[organisations/atlantic-councils-europe-center|Atlantic Council’s Europe Center]] — fellow  
+- [[organisations/atlantic-councils-europe-center|Atlantic Council’s Europe Center]] — fellow (2024)  
   > "Upon completion of his mandate in the European Commission he was appointed \"Distinguished Fellow\" with the Atlantic Council’s Europe Center."
   > Source: [[sources/wikipedia-margaritis-schinas|Margaritis Schinas]] · grade A
 

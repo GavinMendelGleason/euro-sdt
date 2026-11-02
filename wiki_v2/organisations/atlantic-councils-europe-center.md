@@ -14,6 +14,6 @@ generated: 2026-11-02
 
 ## Members and roles
 
-- [[people/margaritis-schinas|Margaritis Schinas]] — fellow  
+- [[people/margaritis-schinas|Margaritis Schinas]] — fellow (2024)  
   > "Upon completion of his mandate in the European Commission he was appointed \"Distinguished Fellow\" with the Atlantic Council’s Europe Center."
   > Source: [[sources/wikipedia-margaritis-schinas|Margaritis Schinas]] · grade A

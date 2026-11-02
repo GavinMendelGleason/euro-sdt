@@ -168,7 +168,7 @@ Commissioner
 
 ## Fellowship
 
-- [[organisations/german-marshall-fund|German Marshall Fund]] — fellow  
+- [[organisations/german-marshall-fund|German Marshall Fund]] — fellow (2007)  
   > "German Marshall Fund, fellow"
   > Source: [[sources/wikipedia-federica-mogherini|Federica Mogherini]] · grade A
 
