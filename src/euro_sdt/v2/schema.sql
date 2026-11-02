@@ -337,3 +337,16 @@ CREATE TABLE IF NOT EXISTS institution_metric (
     source_status TEXT NOT NULL DEFAULT 'incomplete',
     PRIMARY KEY (institution_id, track)
 );
+
+
+CREATE TABLE IF NOT EXISTS institution_completion (
+    id TEXT PRIMARY KEY,
+    institution_id TEXT NOT NULL REFERENCES entity(id),
+    programme TEXT,
+    assessment_year INTEGER,
+    completion_within_one_year REAL,
+    first_session_rate REAL,
+    source_url TEXT,
+    source_file TEXT,
+    notes TEXT
+);
