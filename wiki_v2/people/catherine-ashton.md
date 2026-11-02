@@ -14,7 +14,7 @@ generated: 2026-11-02
 
 Commissioner · GBR
 
-*Verified assertions: 38*
+*Verified assertions: 39*
 
 ## Commission service
 
@@ -67,6 +67,10 @@ Commissioner · GBR
 - [[organisations/privy-counsellor|Privy Counsellor]]  
   > "She was appointed a Privy Counsellor in May 2006 and Lady Companion of the Most Noble Order of the Garter in April 2023."
   > Source: [[sources/wikipedia-catherine-ashton|Catherine Ashton]] · grade B
+
+- [[organisations/transatlantic-task-force-of-the-german-marshall-fund-and-the-bundeskanzler-helmut-schmidt-stiftung-bkhs|Transatlantic Task Force of the German Marshall Fund and the Bundeskanzler-Helmut-Schmidt-Stiftung (BKHS)]]  
+  > "German Marshall Fund of the United States (GMF) and the Bundeskanzler-Helmut-Schmidt-Stiftung (BKHS) have launched a new Transatlantic Task Force: Together or Alone? Choices and Strategies for Transatlantic Relations for 2021 and Beyond. Task Force members include: Rt Hon Baroness Catherine Ashton, Chair of Global Europe, Woodrow Wilson Center; Former EU High Representative for Foreign Affairs and Security Policy, and Vice President of the European Commission"
+  > Source: [[sources/official-catherine-ashton|GMF/BKHS Transatlantic Task Force launch]] · grade A
 
 ## Board / trustee
 

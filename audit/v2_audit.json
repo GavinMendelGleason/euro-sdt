@@ -1,12 +1,12 @@
 {
   "counts": {
-    "source_document": 820,
-    "sentence": 37445,
+    "source_document": 821,
+    "sentence": 37448,
     "entity": 3650,
-    "entity_alias": 6349,
-    "claim": 5497,
-    "evidence": 6216,
-    "assertion": 5497,
+    "entity_alias": 6353,
+    "claim": 5498,
+    "evidence": 6217,
+    "assertion": 5498,
     "rejection": 1928,
     "organisation_profile": 856,
     "adjudication": 2664,
@@ -15,13 +15,13 @@
   "assertions_by_status": {
     "needs_review": 192,
     "rejected": 1153,
-    "verified": 4152
+    "verified": 4153
   },
   "assertions_by_grade": {
     "B": 629,
     "C": 1316,
     "none": 452,
-    "A": 3100
+    "A": 3101
   },
   "rejections_by_stage": {
     "llm_adjudication": 701,
@@ -32,7 +32,7 @@
   },
   "evidence_by_locator": {
     "empty_quote": 6,
-    "located": 6050,
+    "located": 6051,
     "quote_not_found": 160
   },
   "sources_by_kind": {
@@ -40,7 +40,7 @@
     "declaration": 29,
     "dg_cv": 82,
     "entity_md": 12,
-    "official": 37,
+    "official": 38,
     "org_site": 7,
     "revolving_door": 67,
     "wikipedia": 494
@@ -59,7 +59,7 @@
     "held_degree": 20,
     "held_portfolio": 183,
     "held_position": 119,
-    "member": 1482,
+    "member": 1483,
     "nominated_by": 145,
     "post_mandate_occupation": 156,
     "served_on_commission": 181,
@@ -78,7 +78,7 @@
     "documents_without_hash": 0,
     "recovered_evidence": 1051,
     "llm_adjudications": 2664,
-    "verified_claims_with_object": 3735,
+    "verified_claims_with_object": 3736,
     "verified_edges_without_quote": 0,
     "verified_claims_with_quarantined_endpoint": 25,
     "verified_edges_without_doc": 0,

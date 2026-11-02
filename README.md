@@ -34,8 +34,8 @@ evidence layer has been rebuilt as `euro_sdt_v2.db`:
 .venv/bin/python scripts/recheck_grade_a.py --dry-run --limit 100  # grade-A second judge
 ```
 
-Current build: **5,497 claims**, **4,152 verified**, 192 needs review, 1,153
-rejected; **3,710 graph edges** (2,621 network, 632 education, 361
+Current build: **5,498 claims**, **4,153 verified**, 192 needs review, 1,153
+rejected; **3,711 graph edges** (2,622 network, 632 education, 361
 occupational, 94 institutional, 2 other). Every edge has a located quote and a
 hashed source document; 119 edges point at local-only documents (DG CVs, CJEU,
 declarations) with a path and SHA-256 but no public URL. 25 verified claims are

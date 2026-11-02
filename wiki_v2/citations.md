@@ -466,6 +466,7 @@ tags:
 | [[sources/wikipedia-edu-evelyn-regner|Evelyn Regner]] | wikipedia | 1 |
 | [[sources/wikipedia-edu-ewa-kopacz|Ewa Kopacz]] | wikipedia | 1 |
 | [[sources/wikipedia-edu-franz-josef-strau|Franz Josef Strauss]] | wikipedia | 1 |
+| [[sources/official-catherine-ashton|GMF/BKHS Transatlantic Task Force launch]] | official | 1 |
 | [[sources/official-gina-vargiu-breuer|Gina Vargiu-Breuer — SAP]] | official | 1 |
 | [[sources/wikipedia-grard-onesta|Grard Onesta]] | wikipedia | 1 |
 | [[sources/wikipedia-hans-gert-pttering|Hans Gert Pttering]] | wikipedia | 1 |

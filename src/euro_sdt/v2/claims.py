@@ -22,7 +22,7 @@ from .tokenizer import normalize_text, sentence_spans
 PREDICATE_KEYWORDS = {
     "educated_at": ("graduat", "studied", "study", "degree", "diploma", "university", "school", "institute", "college", "educated", "phd", "doctor"),
     "served_on_commission": ("commission", "commissioner"),
-    "member": ("member", "membership", "joined", "part of"),
+    "member": ("member", "members", "membership", "joined", "part of"),
     "board_member": ("board", "trustee", "supervisory", "director"),
     "advisory_board": ("advisory", "advisor"),
     "chair": ("chair", "chairman", "chairwoman", "president", "presiding"),

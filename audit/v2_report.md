@@ -6,12 +6,12 @@ Generated from `euro_sdt_v2.db`, `audit/v1_baseline.json`, and `graph/metrics.js
 
 | Metric | v1 | v2 |
 |---|---:|---:|
-| Assertions / facts | 5313 | 5497 |
-| Verified | 726 | 4152 |
+| Assertions / facts | 5313 | 5498 |
+| Verified | 726 | 4153 |
 | Needs review | — | 192 |
 | Rejected | — | 1153 |
-| Source documents | 0 hashed | 820 hashed |
-| Sentences | 0 | 37445 |
+| Source documents | 0 hashed | 821 hashed |
+| Sentences | 0 | 37448 |
 
 The v1 counts are not directly comparable: v1 called every row `confirmed`,
 and 30.1% of its provenance rows had no sentence evidence. v2 reports the
@@ -26,7 +26,7 @@ verified subset and keeps rejected candidates in `rejection`.
 | rejected | B | 138 |
 | rejected | C | 563 |
 | rejected | none | 452 |
-| verified | A | 3100 |
+| verified | A | 3101 |
 | verified | B | 483 |
 | verified | C | 569 |
 
@@ -73,7 +73,7 @@ verified subset and keeps rejected candidates in `rejection`.
 | held_position | verified | 58 |
 | member | needs_review | 19 |
 | member | rejected | 286 |
-| member | verified | 1177 |
+| member | verified | 1178 |
 | nominated_by | needs_review | 5 |
 | nominated_by | rejected | 80 |
 | nominated_by | verified | 60 |
@@ -130,7 +130,7 @@ Claims from full-document extraction: **1127**.
 | cjeu | 92 | 227327 |
 | dg_cv | 82 | 177208 |
 | revolving_door | 67 | 48681 |
-| official | 37 | 124379 |
+| official | 38 | 124844 |
 | declaration | 29 | 307404 |
 | entity_md | 12 | 26559 |
 | org_site | 7 | 237607 |
@@ -140,9 +140,9 @@ Claims from full-document extraction: **1127**.
 | Metric | All verified | Network only |
 |---|---:|---:|
 | Nodes | 2965 | 2154 |
-| Edges | 3710 | 2621 |
+| Edges | 3711 | 2622 |
 | Largest component | 2665 | 1920 |
-| Degree-1 nodes | 2231 | 1615 |
+| Degree-1 nodes | 2230 | 1614 |
 
 ### Edges by class
 
@@ -150,7 +150,7 @@ Claims from full-document extraction: **1127**.
 |---|---:|
 | education | 632 |
 | institutional | 94 |
-| network | 2621 |
+| network | 2622 |
 | occupational | 361 |
 | other | 2 |
 
