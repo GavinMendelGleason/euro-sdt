@@ -13,6 +13,11 @@ generated: 2026-11-02
 
 *Verified member assertions: 7 people*
 
+## Profile
+
+- **Gating Institution:** true  
+- **Inception Date:** 1096  
+
 ## Members and roles
 
 - [[people/chris-patten|Chris Patten]]  

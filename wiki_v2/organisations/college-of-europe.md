@@ -13,6 +13,11 @@ generated: 2026-11-02
 
 *Verified member assertions: 14 people*
 
+## Profile
+
+- **Gating Institution:** true  
+- **Inception Date:** 1949  
+
 ## Members and roles
 
 - [[people/antonio-costa|António Costa]] — attendee  

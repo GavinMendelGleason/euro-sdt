@@ -13,6 +13,12 @@ generated: 2026-11-02
 
 *Verified member assertions: 2 people*
 
+## Profile
+
+- **Gating Institution:** true  
+- **Inception Date:** 1831  
+- **Us University:** true  
+
 ## Members and roles
 
 - [[people/stavros-dimas|Stavros Dimas]]  

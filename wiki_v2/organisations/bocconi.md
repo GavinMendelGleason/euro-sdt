@@ -13,6 +13,11 @@ generated: 2026-11-02
 
 *Verified member assertions: 4 people*
 
+## Profile
+
+- **Gating Institution:** true  
+- **Inception Date:** 1902  
+
 ## Members and roles
 
 - [[people/emma-bonino|Emma Bonino]]  

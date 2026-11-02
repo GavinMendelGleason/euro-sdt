@@ -12,7 +12,7 @@
 | evidence | 6225 |
 | assertion | 5505 |
 | rejection | 1926 |
-| organisation_profile | 856 |
+| organisation_profile | 945 |
 | adjudication | 2664 |
 | review | 0 |
 

@@ -13,6 +13,11 @@ generated: 2026-11-02
 
 *Verified member assertions: 5 people*
 
+## Profile
+
+- **Gating Institution:** true  
+- **Inception Date:** 1881  
+
 ## Members and roles
 
 - [[people/christian-roques|Christian Roques]]  

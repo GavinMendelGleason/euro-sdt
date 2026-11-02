@@ -13,6 +13,11 @@ generated: 2026-11-02
 
 *Verified member assertions: 1 people*
 
+## Profile
+
+- **Gating Institution:** true  
+- **Inception Date:** 1972  
+
 ## Members and roles
 
 - [[people/jose-manuel-barroso|José Manuel Barroso]]  

@@ -13,6 +13,12 @@ generated: 2026-11-02
 
 *Verified member assertions: 1 people*
 
+## Profile
+
+- **Gating Institution:** true  
+- **Inception Date:** 1853  
+- **Us University:** true  
+
 ## Members and roles
 
 - [[people/violeta-bulc|Violeta Bulc]]  

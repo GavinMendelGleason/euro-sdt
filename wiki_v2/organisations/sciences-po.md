@@ -13,6 +13,11 @@ generated: 2026-11-02
 
 *Verified member assertions: 6 people*
 
+## Profile
+
+- **Gating Institution:** true  
+- **Inception Date:** 1872  
+
 ## Members and roles
 
 - [[people/federica-mogherini|Federica Mogherini]]  
