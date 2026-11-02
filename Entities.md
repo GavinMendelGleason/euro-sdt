@@ -10,11 +10,11 @@ See `organisations_classified.csv` for the machine-readable classification of al
 
 | Organisation | Type | Atlanticist | NATO-adj | US-linked |
 |---|---|:---:|:---:|:---:|
-| [Friends of Europe](#friends-of-europe) | Think tank | ✓ | | |
+| [Friends of Europe](#friends-of-europe) | Think tank | —* | | | *(soft transatlantic network; not hard Atlanticist)*
 | [Atlantic Council](#atlantic-council) | Think tank | ✓ | ✓ | ✓ |
 | [Munich Security Conference](#munich-security-conference) | Forum | ✓ | ✓ | ✓ |
 | [World Economic Forum](#world-economic-forum) | Forum | ✓ | | ✓ |
-| [ECFR](#ecfr) | Think tank | ✓* | | | *(Atlanticist by structure; strategically autonomist editorially)* |
+| [ECFR](#ecfr) | Think tank | —* | | | *(soft transatlantic/autonomist; not hard Atlanticist)* |
 | [GLOBSEC](#globsec) | Think tank/conf | ✓ | ✓ | ✓ |
 | [Center for European Policy Analysis](#center-for-european-policy-analysis-cepa) | Think tank | ✓ | ✓ | ✓ |
 | [European Leadership Network](#european-leadership-network) | Think tank | ✓ | ✓ | |
@@ -33,7 +33,7 @@ See `organisations_classified.csv` for the machine-readable classification of al
 **HQ:** Brussels, Belgium  
 **Founded:** 1999  
 **EU Lobby Register ID:** 99436366768-45  
-**Classification:** Atlanticist ✓ | NATO-adjacent — | US-linked —
+**Classification:** Atlanticist — *(soft transatlantic network; excluded from hard-Atlanticist count)* | NATO-adjacent — | US-linked —
 
 **Commissioner connections across all commissions:**
 
@@ -140,7 +140,7 @@ It is not a lobby group in the formal sense, but it operates in the space betwee
 **Type:** Think tank  
 **HQ:** Pan-European (offices in Berlin, London, Paris, Madrid, Rome, Warsaw, Sofia, Kyiv)  
 **Founded:** 2007  
-**Classification:** Atlanticist ✓ | NATO-adjacent — | US-linked —
+**Classification:** Atlanticist — *(soft transatlantic network; excluded from hard-Atlanticist count)* | NATO-adjacent — | US-linked —
 
 **Commissioner connections:**
 - Barroso I: Joaquín Almunia, Danuta Hübner, Meglena Kuneva, Margot Wallström
@@ -196,7 +196,7 @@ It is not a lobby group in the formal sense, but it operates in the space betwee
 **Type:** Think tank
 **HQ:** Pan-European — offices in Berlin, London, Madrid, Paris, Rome, Sofia, Warsaw + Washington DC
 **Founded:** 2007
-**Classification:** Atlanticist ✓ | NATO-adjacent — | US-linked —
+**Classification:** Atlanticist — *(soft transatlantic network; excluded from hard-Atlanticist count)* | NATO-adjacent — | US-linked —
 
 **Commissioner connections across all commissions:**
 
