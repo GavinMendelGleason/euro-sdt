@@ -363,3 +363,7 @@ CREATE TABLE IF NOT EXISTS candidate_pool (
     source_file TEXT,
     notes TEXT
 );
+
+
+ALTER TABLE role_intake ADD COLUMN source_file TEXT;
+ALTER TABLE role_intake ADD COLUMN source_url TEXT;
