@@ -14,7 +14,7 @@ generated: 2026-11-02
 
 Commissioner · DNK
 
-*Verified assertions: 19*
+*Verified assertions: 22*
 
 ## Portfolio
 
@@ -50,12 +50,16 @@ Commissioner · DNK
   > "He served as vice-chair of the Committee on the Environment, Public Health and Food Safety from 2004, and was a substitute on the Committee on Economic and Monetary Affairs ."
   > Source: [[sources/wikipedia-dan-jrgensen|Dan Jrgensen]] · grade B
 
+- [[organisations/dansk-ornitologisk-forening|Dansk Ornitologisk Forening]]  
+  > "Member Dansk Ornitologisk Forening"
+  > Source: [[sources/declaration-doi-dan-jrgensen-en|Dan Jrgensen]] · grade A
+
 - [[organisations/delegation-for-relations-with-the-united-states|Delegation for Relations with the United States]]  
   > "In addition to his committee assignments, he was also a member of the parliament's delegation for relations with Iran and a substitute on the delegation for relations with the United States."
   > Source: [[sources/wikipedia-dan-jrgensen|Dan Jrgensen]] · grade A
 
 - [[organisations/european-council-on-foreign-relations-ecfr|European Council on Foreign Relations (ECFR)]]  
-  > "Nature of membership Name of the organisation Area of activity of the organisation Member Socialdemokratiet, Danmark ​ Member Dansk Ornitologisk Forening ​ Member European Council on Foreign Relations ​ VI."
+  > "Member European Council on Foreign Relations"
   > Source: [[sources/declaration-doi-dan-jrgensen-en|Dan Jrgensen]] · grade A
 
 - [[organisations/parliament-s-delegation-for-relations-with-iran|parliament's delegation for relations with Iran]]  
@@ -65,6 +69,10 @@ Commissioner · DNK
 - [[organisations/social-democrats|Social Democrats]] — party_member  
   > "Party Social Democrats"
   > Source: [[sources/wikipedia-dan-jrgensen|Dan Jrgensen]] · grade A
+
+- [[organisations/socialdemokratiet-danmark|Socialdemokratiet, Danmark]]  
+  > "Nature of membership Name of the organisation Area of activity of the organisation Member Socialdemokratiet, Danmark"
+  > Source: [[sources/declaration-doi-dan-jrgensen-en|Dan Jrgensen]] · grade A
 
 ## Advisory board
 
@@ -78,7 +86,7 @@ Commissioner · DNK
   > "He served as vice-chair of the Committee on the Environment, Public Health and Food Safety from 2004, and was a substitute on the Committee on Economic and Monetary Affairs ."
   > Source: [[sources/wikipedia-dan-jrgensen|Dan Jrgensen]] · grade A
 
-- [[organisations/danish-delegation-to-the-nato-parliamentary-assembly|Danish delegation to the NATO Parliamentary Assembly]] — chair  
+- [[organisations/danish-delegation-to-the-nato-parliamentary-assembly|Danish delegation to the NATO Parliamentary Assembly]] — chair (2015–2019)  
   > "From 2015 to 2019, Jørgensen was the vice chairman of the Danish delegation to the NATO Parliamentary Assembly"
   > Source: [[sources/wikipedia-dan-jrgensen|Dan Jrgensen]] · grade A
 

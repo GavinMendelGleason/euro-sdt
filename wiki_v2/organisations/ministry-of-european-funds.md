@@ -15,5 +15,5 @@ generated: 2026-11-02
 ## Members and roles
 
 - [[people/roxana-minzatu|Roxana Mînzatu]] — employed_by  
-  > "In 2015, she was appointed Secretary of State at the Ministry of European Funds, and then headed the National Agency for Public Procurement (ANAP)."
-  > Source: [[sources/wikipedia-roxana-minzatu|Roxana Minzatu]] · grade C
+  > "10 June 2019 – 4 November 2019, Minister of European Funds"
+  > Source: [[sources/declaration-doi-roxana-minzatu-en|Roxana Minzatu]] · grade C

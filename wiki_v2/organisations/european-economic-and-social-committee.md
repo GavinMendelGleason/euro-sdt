@@ -16,8 +16,8 @@ generated: 2026-11-02
 ## Members and roles
 
 - [[people/christophe-hansen|Christophe Hansen]]  
-  > "From March 2017 to August 2018, Hansen was also a member of the European Economic and Social Committee."
-  > Source: [[sources/wikipedia-christophe-hansen|Christophe Hansen]] · grade A
+  > "Member of the European Economic and Social Committee (2017-2018)"
+  > Source: [[sources/declaration-doi-christophe-hansen-en|Christophe Hansen]] · grade A
 - [[people/graham-watson|Graham Watson]]  
   > "From 2015 to 2020, he was a UK member on the European Economic and Social Committee."
   > Source: [[sources/wikipedia-graham-watson|Graham Watson]] · grade A

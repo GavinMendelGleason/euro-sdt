@@ -80,7 +80,7 @@ Commissioner
   > "Also since 2019, she has been serving on the Transatlantic Task Force of the German Marshall Fund and the Federal Chancellor Helmut Schmidt Foundation (BKHS), co-chaired by Karen Donfried and Wolfgang Ischinger."
   > Source: [[sources/wikipedia-cecilia-malmstrom|Cecilia Malmstrom]] · grade B
 
-- [[organisations/german-marshall-fund|German Marshall Fund]]  
+- [[organisations/german-marshall-fund|German Marshall Fund]] (2019)  
   > "Also since 2019, she has been serving on the Transatlantic Task Force of the German Marshall Fund and the Federal Chancellor Helmut Schmidt Foundation (BKHS), co-chaired by Karen Donfried and Wolfgang Ischinger."
   > Source: [[sources/wikipedia-cecilia-malmstrom|Cecilia Malmstrom]] · grade B
 
@@ -112,7 +112,7 @@ Commissioner
   > "Also since 2019, she has been serving on the Transatlantic Task Force of the German Marshall Fund and the Federal Chancellor Helmut Schmidt Foundation (BKHS), co-chaired by Karen Donfried and Wolfgang Ischinger."
   > Source: [[sources/wikipedia-cecilia-malmstrom|Cecilia Malmstrom]] · grade B
 
-- [[organisations/trilateral-commission|Trilateral Commission]]  
+- [[organisations/trilateral-commission|Trilateral Commission]] (2021–2022)  
   > "Trilateral Commission, Member of the European Group (since 2020)"
   > Source: [[sources/wikipedia-cecilia-malmstrom|Cecilia Malmstrom]] · grade A
 

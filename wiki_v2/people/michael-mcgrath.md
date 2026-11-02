@@ -14,7 +14,7 @@ generated: 2026-11-02
 
 Commissioner · IRL
 
-*Verified assertions: 14*
+*Verified assertions: 19*
 
 ## Portfolio
 
@@ -46,13 +46,27 @@ Commissioner · IRL
   > "He was a member of Passage West Town Council from 1999 to 2007, and a member of Cork County Council for the Carrigaline local electoral area from 2004 to 2007."
   > Source: [[sources/wikipedia-michael-mcgrath|Michael Mcgrath]] · grade A
 
+- [[organisations/dail-eireann|Dáil Éireann]] (2007–2024-11)  
+  > "Member of Dáil Éireann (Irish Parliament) 2007 - November 2024"
+  > Source: [[sources/declaration-doi-michael-mcgrath-en|Michael Mcgrath]] · grade A
+
 - [[organisations/fianna-fail|Fianna Fáil]] — party_member  
-  > "Michael McGrath (; born 23 August 1976) is an Irish Fianna Fáil politician and EU Commissioner for Democracy, Justice, the Rule of Law and Consumer Protection."
-  > Source: [[sources/wikipedia-michael-mcgrath|Michael Mcgrath]] · grade B
+  > "Registered member Fianna Fáil Registered Political Party in Ireland"
+  > Source: [[sources/declaration-doi-michael-mcgrath-en|Michael Mcgrath]] · grade A
+
+- [[organisations/parliamentary-committees|Parliamentary Committees]] (2007–2020)  
+  > "Member of Parliamentary Committees, 2007 - 2020"
+  > Source: [[sources/declaration-doi-michael-mcgrath-en|Michael Mcgrath]] · grade A
 
 - [[organisations/passage-west-town-council|Passage West Town Council]]  
   > "He was a member of Passage West Town Council from 1999 to 2007, and a member of Cork County Council for the Carrigaline local electoral area from 2004 to 2007."
   > Source: [[sources/wikipedia-michael-mcgrath|Michael Mcgrath]] · grade A
+
+## Board / trustee
+
+- [[organisations/chartered-accountants-ireland|Chartered Accountants Ireland]] — board_member; fellow  
+  > "Fellow (member of more than 10 years standing) Chartered Accountants Ireland A professional accountancy association representing members globally"
+  > Source: [[sources/declaration-doi-michael-mcgrath-en|Michael Mcgrath]] · grade A
 
 ## Employment
 

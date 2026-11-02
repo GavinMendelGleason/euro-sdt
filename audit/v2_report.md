@@ -6,9 +6,9 @@ Generated from `euro_sdt_v2.db`, `audit/v1_baseline.json`, and `graph/metrics.js
 
 | Metric | v1 | v2 |
 |---|---:|---:|
-| Assertions / facts | 5313 | 5505 |
-| Verified | 726 | 4161 |
-| Needs review | — | 192 |
+| Assertions / facts | 5313 | 5707 |
+| Verified | 726 | 4326 |
+| Needs review | — | 229 |
 | Rejected | — | 1152 |
 | Source documents | 0 hashed | 823 hashed |
 | Sentences | 0 | 37481 |
@@ -22,43 +22,43 @@ verified subset and keeps rejected candidates in `rejection`.
 | Status | Grade | Count |
 |---|---|---:|
 | needs_review | B | 8 |
-| needs_review | C | 184 |
+| needs_review | C | 221 |
 | rejected | B | 138 |
 | rejected | C | 563 |
 | rejected | none | 451 |
-| verified | A | 3109 |
-| verified | B | 483 |
+| verified | A | 3267 |
+| verified | B | 490 |
 | verified | C | 569 |
 
 ## Predicate results
 
 | Predicate | Status | Count |
 |---|---|---:|
-| advisory_board | needs_review | 3 |
+| advisory_board | needs_review | 6 |
 | advisory_board | rejected | 19 |
-| advisory_board | verified | 102 |
-| affiliated_with | needs_review | 15 |
+| advisory_board | verified | 107 |
+| affiliated_with | needs_review | 16 |
 | affiliated_with | rejected | 93 |
-| affiliated_with | verified | 413 |
+| affiliated_with | verified | 437 |
 | attendee | needs_review | 4 |
 | attendee | rejected | 2 |
 | attendee | verified | 26 |
 | award_received | verified | 2 |
 | awarded_by | verified | 1 |
-| board_member | needs_review | 19 |
+| board_member | needs_review | 20 |
 | board_member | rejected | 53 |
-| board_member | verified | 361 |
-| chair | needs_review | 17 |
+| board_member | verified | 395 |
+| chair | needs_review | 18 |
 | chair | rejected | 79 |
-| chair | verified | 510 |
+| chair | verified | 544 |
 | educated_at | needs_review | 25 |
 | educated_at | rejected | 115 |
 | educated_at | verified | 640 |
-| employed_by | needs_review | 25 |
+| employed_by | needs_review | 47 |
 | employed_by | rejected | 21 |
-| employed_by | verified | 362 |
-| fellow | verified | 27 |
-| founder | needs_review | 7 |
+| employed_by | verified | 370 |
+| fellow | verified | 28 |
+| founder | needs_review | 12 |
 | founder | rejected | 8 |
 | founder | verified | 64 |
 | from_country | needs_review | 6 |
@@ -73,9 +73,9 @@ verified subset and keeps rejected candidates in `rejection`.
 | held_position | needs_review | 5 |
 | held_position | rejected | 56 |
 | held_position | verified | 58 |
-| member | needs_review | 19 |
+| member | needs_review | 23 |
 | member | rejected | 285 |
-| member | verified | 1180 |
+| member | verified | 1239 |
 | nominated_by | needs_review | 5 |
 | nominated_by | rejected | 80 |
 | nominated_by | verified | 60 |
@@ -103,6 +103,7 @@ verified subset and keeps rejected candidates in `rejection`.
 | education | deepseek-chat | 2026-10-24T05:47:27+00:00 |  |
 | education | deepseek-chat | 2026-10-24T05:48:31+00:00 |  |
 | education | deepseek-chat | 2026-10-24T05:49:54+00:00 |  |
+| declaration_extraction | deepseek-chat | 2026-11-02T13:28:08+00:00 |  |
 
 Claims from full-document extraction: **1127**.
 
@@ -141,10 +142,10 @@ Claims from full-document extraction: **1127**.
 
 | Metric | All verified | Network only |
 |---|---:|---:|
-| Nodes | 2968 | 2156 |
-| Edges | 3719 | 2627 |
-| Largest component | 2668 | 1922 |
-| Degree-1 nodes | 2231 | 1616 |
+| Nodes | 3101 | 2285 |
+| Edges | 3884 | 2784 |
+| Largest component | 2801 | 2049 |
+| Degree-1 nodes | 2356 | 1737 |
 
 ### Edges by class
 
@@ -153,8 +154,8 @@ Claims from full-document extraction: **1127**.
 | award | 3 |
 | education | 632 |
 | institutional | 94 |
-| network | 2627 |
-| occupational | 361 |
+| network | 2784 |
+| occupational | 369 |
 | other | 2 |
 
 ### Top hubs
@@ -162,17 +163,17 @@ Claims from full-document extraction: **1127**.
 | Entity | Kind | Degree |
 |---|---|---:|
 | European Commission | organisation | 72 |
-| European Parliament | organisation | 51 |
-| Kaja Kallas | person | 43 |
+| European Parliament | organisation | 54 |
+| Kaja Kallas | person | 46 |
+| Ursula von der Leyen | person | 43 |
+| Henna Virkkunen | person | 35 |
 | Pascal Lamy | person | 35 |
 | Neelie Kroes | person | 34 |
 | Ria Oomen-Ruijten | person | 34 |
 | Thierry Breton | person | 33 |
+| Wopke Hoekstra | person | 33 |
 | Federica Mogherini | person | 32 |
 | Pierre Moscovici | person | 32 |
-| Mario Monti | person | 30 |
-| António Vitorino | person | 29 |
-| Günther Oettinger | person | 29 |
 
 ## Remaining limitations
 

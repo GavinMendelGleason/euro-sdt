@@ -14,7 +14,7 @@ generated: 2026-11-02
 
 Commissioner · GRC
 
-*Verified assertions: 21*
+*Verified assertions: 29*
 
 ## Portfolio
 
@@ -40,6 +40,10 @@ Commissioner · GRC
 
 ## Membership
 
+- [[organisations/congress-of-local-and-regional-authorities-of-the-council-of-europe|Congress of Local and Regional Authorities of the Council of Europe]] (2024-09-12–2024-11-29)  
+  > "Member of the Congress of Local and Regional Authorities of the Council of Europe, from 12/9/2024 till 29/11/2024"
+  > Source: [[sources/declaration-doi-apostolos-tzitzikostas-en|Apostolos Tzitzikostas]] · grade A
+
 - [[organisations/euro-mediterranean-parliamentary-assembly|Euro-Mediterranean Parliamentary Assembly]]  
   > "He represented the Hellenic Parliament in the Euro-Mediterranean Parliamentary Assembly from 2007 to 2009."
   > Source: [[sources/wikipedia-apostolos-tzitzikostas|Apostolos Tzitzikostas]] · grade B
@@ -51,6 +55,10 @@ Commissioner · GRC
 - [[organisations/nea-demokratia|Nea Demokratia]] — party_member  
   > "In the national elections of September 2007, he was elected Member of the Greek Parliament with the Nea Demokratia party in the 1st Electoral District of Thessaloniki."
   > Source: [[sources/wikipedia-apostolos-tzitzikostas|Apostolos Tzitzikostas]] · grade A
+
+- [[organisations/nea-dimokratia|Nea Dimokratia]]  
+  > "Member Nea Dimokratia Political Party in Greece"
+  > Source: [[sources/declaration-doi-apostolos-tzitzikostas-en|Apostolos Tzitzikostas]] · grade A
 
 - [[organisations/special-committee-for-the-reform-treaty-of-the-european-union|Special Committee for the Reform Treaty of the European Union]]  
   > "Additionally, he was a member of the Special Standing Committee on European Community Affairs and the Special Committee for the Reform Treaty of the European Union."
@@ -68,11 +76,17 @@ Commissioner · GRC
   > "As MP, he served as Secretary of the Hellenic Parliament, member of the Standing Committee on National Defense and Foreign Affairs, and member of the Standing Committee on Financial Affairs."
   > Source: [[sources/wikipedia-apostolos-tzitzikostas|Apostolos Tzitzikostas]] · grade A
 
+## Board / trustee
+
+- [[organisations/association-of-greek-regions|Association of Greek Regions]] — board_member; chair (2019-11-18–2024-11-29)  
+  > "President of the Association of Greek Regions and its board, from 18/11/2019 till 29/11/2024"
+  > Source: [[sources/declaration-doi-apostolos-tzitzikostas-en|Apostolos Tzitzikostas]] · grade A
+
 ## Chair / president
 
-- [[organisations/association-of-greek-regions|Association of Greek Regions]] — chair  
-  > "In November 2019, he was elected President of the Association of Greek Regions and was unanimously re-elected President in February 2024, for the first time in the institution's history."
-  > Source: [[sources/wikipedia-apostolos-tzitzikostas|Apostolos Tzitzikostas]] · grade A
+- [[organisations/regional-development-fund-of-central-macedonia|Regional Development Fund of Central Macedonia]] — chair (2013-01-18–2024-11-29)  
+  > "President of the Board of the Regional Development Fund of Central Macedonia from 18/01/2013 until 29/11/2024"
+  > Source: [[sources/declaration-doi-apostolos-tzitzikostas-en|Apostolos Tzitzikostas]] · grade A
 
 ## Founder
 
@@ -83,5 +97,5 @@ Commissioner · GRC
 ## Employment
 
 - [[organisations/european-committee-of-the-regions|European Committee of the Regions]] — chair; employed_by  
-  > "In July 2022, he was also unanimously elected First Vice-President of the European Committee of the Regions."
-  > Source: [[sources/wikipedia-apostolos-tzitzikostas|Apostolos Tzitzikostas]] · grade A
+  > "European Committee of the Regions, member from 26/01/2015 till 29/11/2024"
+  > Source: [[sources/declaration-doi-apostolos-tzitzikostas-en|Apostolos Tzitzikostas]] · grade A

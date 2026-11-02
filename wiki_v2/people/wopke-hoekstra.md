@@ -14,7 +14,7 @@ generated: 2026-11-02
 
 Commissioner · NLD
 
-*Verified assertions: 39*
+*Verified assertions: 48*
 
 ## Commission service
 
@@ -44,6 +44,10 @@ Commissioner · NLD
 
 ## Membership
 
+- [[organisations/cda-epp|CDA/EPP]]  
+  > "Member CDA/EPP Political Party"
+  > Source: [[sources/declaration-doi-wopke-hoekstra-en|Wopke Hoekstra]] · grade A
+
 - [[organisations/christian-democratic-appeal|Christian Democratic Appeal]] — party_member  
   > "Wopke Bastiaan Hoekstra (Dutch: [ˈʋɔpkə ˈbɑstijaːn ˈɦukstraː]; born 30 September 1975) is a Dutch politician of the Christian Democratic Appeal (CDA) who serves as European Commissioner for Climate, Net Zero and Clean Growth in the second von der Leyen commission."
   > Source: [[sources/wikipedia-wopke-hoekstra|Wopke Hoekstra]] · grade B
@@ -51,6 +55,10 @@ Commissioner · NLD
 - [[organisations/eduardo-freistichting|Eduardo Freistichting]]  
   > "Hoekstra was the treasurer of the CDA-affiliated foundation Eduardo Freistichting and board member of the local CDA association in Amsterdam."
   > Source: [[sources/wikipedia-wopke-hoekstra|Wopke Hoekstra]] · grade A
+
+- [[organisations/friese-elfstedentocht-vereniging|Friese Elfstedentocht Vereniging]]  
+  > "Member Friese Elfstedentocht Vereniging Organisation of the Elfstedentocht, a 200 km skating tour"
+  > Source: [[sources/declaration-doi-wopke-hoekstra-en|Wopke Hoekstra]] · grade A
 
 - [[organisations/joint-world-bank-imf-development-committee|Joint World Bank-IMF Development Committee]]  
   > "Joint World Bank-IMF Development Committee, Member"
@@ -64,11 +72,19 @@ Commissioner · NLD
   > "He is a member of the Remonstrant Brotherhood."
   > Source: [[sources/wikipedia-wopke-hoekstra|Wopke Hoekstra]] · grade A
 
+- [[organisations/senate|Senate]] (2011–2017)  
+  > "2011 - 2017 - Member of the Senate for the Christian Democratic Alliance (CDA) and member of the Senate Finance Committee, Economic Affairs Committee, Security and Justice Committee, Social Affairs and Employment Committee, and Foreign Affairs, Defence and Development Cooperation Committee"
+  > Source: [[sources/declaration-doi-wopke-hoekstra-en|Wopke Hoekstra]] · grade A
+
 ## Board / trustee
 
 - [[organisations/asian-infrastructure-investment-bank-aiib|Asian Infrastructure Investment Bank (AIIB)]] — board_member  
   > "Asian Infrastructure Investment Bank (AIIB), Ex-Officio Member of the Board of Governors (2017–2021)"
   > Source: [[sources/wikipedia-wopke-hoekstra|Wopke Hoekstra]] · grade A
+
+- [[organisations/bestuur-stichting-vrienden-van-het-hubrecht-instituut|Bestuur Stichting Vrienden van het Hubrecht Instituut]] — board_member (2015–2017-10)  
+  > "2015 - Oct 2017 - Member of the Board Bestuur Stichting Vrienden van het Hubrecht Instituut Fundraising for Development Biology and Stem Cell Research, in Utrecht, the Netherlands"
+  > Source: [[sources/declaration-doi-wopke-hoekstra-en|Wopke Hoekstra]] · grade A
 
 - [[organisations/european-bank-for-reconstruction-and-development-ebrd|European Bank for Reconstruction and Development (EBRD)]] — board_member  
   > "European Bank for Reconstruction and Development (EBRD), Ex-Officio Member of the Board of Governors (2017–2021)"
@@ -108,6 +124,10 @@ Commissioner · NLD
 
 ## Chair / president
 
+- [[organisations/2017-cda-electoral-programme-committee|2017 CDA electoral programme committee]] — chair (2016)  
+  > "2016 - Chair of the 2017 CDA electoral programme committee"
+  > Source: [[sources/declaration-doi-wopke-hoekstra-en|Wopke Hoekstra]] · grade A
+
 - [[organisations/informal-grouping-of-small-northern-and-baltic-eu-member-states|informal grouping of small northern and Baltic EU member states]] — chair  
   > "Since 2018, Hoekstra has been chairing a newly established, informal grouping of small northern and Baltic EU member states – Estonia, Finland, Ireland, Latvia, Lithuania and the Netherlands – to find common cause on the direction of eurozone reforms."
   > Source: [[sources/wikipedia-wopke-hoekstra|Wopke Hoekstra]] · grade C
@@ -116,15 +136,23 @@ Commissioner · NLD
   > "During his student years in Leiden he was president of the fraternity Minerva."
   > Source: [[sources/wikipedia-wopke-hoekstra|Wopke Hoekstra]] · grade A
 
+- [[organisations/raad-van-toezicht-scheepvaartmuseum|Raad van Toezicht, Scheepvaartmuseum]] — chair (2016–2017-10)  
+  > "2016 - Oct 2017 - Chair Raad van Toezicht, Scheepvaartmuseum Museum Chair of the non-executive board."
+  > Source: [[sources/declaration-doi-wopke-hoekstra-en|Wopke Hoekstra]] · grade A
+
 ## Affiliation
+
+- [[organisations/christian-democratic-alliance-cda|Christian Democratic Alliance (CDA)]] (2021-03-18–2022-01-10)  
+  > "18 March 2021 - 10 January 2022 - Leader of the Christian Democratic Alliance (CDA) in the House of Representatives"
+  > Source: [[sources/declaration-doi-wopke-hoekstra-en|Wopke Hoekstra]] · grade A
 
 - [[organisations/princess-maxima-center-for-pediatric-oncology|Princess Máxima Center for Pediatric Oncology]]  
   > "Princess Máxima Center for Pediatric Oncology, Ambassador"
   > Source: [[sources/wikipedia-wopke-hoekstra|Wopke Hoekstra]] · grade A
 
 - [[organisations/prinses-maxima-centrum|Prinses Maxima Centrum]]  
-  > "Hoekstra was also chairman of the supervisory board of the National Maritime Museum in Amsterdam and ambassador for the Prinses Maxima Centrum for pediatric oncology."
-  > Source: [[sources/wikipedia-wopke-hoekstra|Wopke Hoekstra]] · grade A
+  > "Jan 2017 - Oct 2017 - Ambassador Prinses Maxima Centrum Promote the work (Pediatric Oncology) of the Princess Maxima Centre, in Utrecht, the Netherlands"
+  > Source: [[sources/declaration-doi-wopke-hoekstra-en|Wopke Hoekstra]] · grade A
 
 ## Attendance
 

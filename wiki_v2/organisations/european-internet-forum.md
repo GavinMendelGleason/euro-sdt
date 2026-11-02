@@ -25,5 +25,5 @@ generated: 2026-11-02
   > "She is also a member of the European Internet Forum; the European Parliament Intergroup on LGBT Rights; the European Parliament Intergroup on the Welfare and Conservation of Animals; and the European Parliament Intergroup on Seas, Rivers, Islands and Coastal Areas."
   > Source: [[sources/wikipedia-henna-virkkunen|Henna Virkkunen]] · grade A
 - [[people/kaja-kallas|Kaja Kallas]]  
-  > "She is also a mentor of the European Liberal Youth, a member of the European Young Leaders, a MEP ambassor of Erasmus for Young Entrepreneurs, a member of the MEP Library Lovers Group, a political member of the European Internet Forum, a member of the extended board of the European Forum for Renewable Energy Sources, a member of the Global Young Leaders, a member of the Women Political Leaders, an […]"
-  > Source: [[sources/wikipedia-kaja-kallas|Kaja Kallas]] · grade A
+  > "Member until 2024 European Internet Forum Promoting internet freedom"
+  > Source: [[sources/declaration-doi-kaja-kallas-en|Kaja Kallas]] · grade A

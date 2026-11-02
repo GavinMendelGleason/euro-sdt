@@ -6,11 +6,11 @@
 |---|---:|
 | source_document | 823 |
 | sentence | 37481 |
-| entity | 3653 |
-| entity_alias | 6364 |
-| claim | 5505 |
-| evidence | 6225 |
-| assertion | 5505 |
+| entity | 3813 |
+| entity_alias | 6524 |
+| claim | 5707 |
+| evidence | 6462 |
+| assertion | 5707 |
 | rejection | 1926 |
 | organisation_profile | 945 |
 | adjudication | 2664 |
@@ -20,22 +20,22 @@
 
 | Status | Count |
 |---|---:|
-| verified | 4161 |
+| verified | 4326 |
 | rejected | 1152 |
-| needs_review | 192 |
+| needs_review | 229 |
 
 | Grade | Count |
 |---|---:|
-| A | 3109 |
-| B | 629 |
-| C | 1316 |
+| A | 3267 |
+| B | 636 |
+| C | 1353 |
 | none | 451 |
 
 ## Evidence locator
 
 | Status | Rows |
 |---|---:|
-| located | 6059 |
+| located | 6296 |
 | quote_not_found | 160 |
 | empty_quote | 6 |
 
@@ -64,7 +64,7 @@
 | documents_without_hash | 0 | 0 |
 | recovered_evidence | 1051 | informational |
 | llm_adjudications | 2664 | informational |
-| verified_claims_with_object | 3744 | informational |
+| verified_claims_with_object | 3909 | informational |
 | verified_edges_without_quote | 0 | 0 |
 | verified_claims_with_quarantined_endpoint | 25 | informational |
 | verified_edges_without_doc | 0 | 0 |

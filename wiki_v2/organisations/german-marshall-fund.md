@@ -26,7 +26,7 @@ generated: 2026-11-02
 
 ## Members and roles
 
-- [[people/cecilia-malmstrom|Cecilia Malmström]]  
+- [[people/cecilia-malmstrom|Cecilia Malmström]] (2019)  
   > "Also since 2019, she has been serving on the Transatlantic Task Force of the German Marshall Fund and the Federal Chancellor Helmut Schmidt Foundation (BKHS), co-chaired by Karen Donfried and Wolfgang Ischinger."
   > Source: [[sources/wikipedia-cecilia-malmstrom|Cecilia Malmstrom]] · grade B
 - [[people/federica-mogherini|Federica Mogherini]] — fellow  

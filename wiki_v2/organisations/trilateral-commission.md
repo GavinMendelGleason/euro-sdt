@@ -29,7 +29,7 @@ generated: 2026-11-02
 - [[people/antonio-vitorino|António Vitorino]]  
   > "Trilateral Commission, Member of the European Group"
   > Source: [[sources/wikipedia-antonio-vitorino|Antonio Vitorino]] · grade A
-- [[people/cecilia-malmstrom|Cecilia Malmström]]  
+- [[people/cecilia-malmstrom|Cecilia Malmström]] (2021–2022)  
   > "Trilateral Commission, Member of the European Group (since 2020)"
   > Source: [[sources/wikipedia-cecilia-malmstrom|Cecilia Malmstrom]] · grade A
 - [[people/erkki-liikanen|Erkki Liikanen]]  

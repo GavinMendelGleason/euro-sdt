@@ -14,6 +14,6 @@ generated: 2026-11-02
 
 ## Members and roles
 
-- [[people/dan-jrgensen|Dan Jørgensen]] — chair  
+- [[people/dan-jrgensen|Dan Jørgensen]] — chair (2015–2019)  
   > "From 2015 to 2019, Jørgensen was the vice chairman of the Danish delegation to the NATO Parliamentary Assembly"
   > Source: [[sources/wikipedia-dan-jrgensen|Dan Jrgensen]] · grade A

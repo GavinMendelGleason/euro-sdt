@@ -14,7 +14,7 @@ generated: 2026-11-02
 
 Commissioner · ITA
 
-*Verified assertions: 21*
+*Verified assertions: 29*
 
 ## Nominated by
 
@@ -62,13 +62,13 @@ Commissioner · ITA
   > "In 1999, he was elected to the European Parliament on the electoral list of Forza Italia (FI), of which he was a member from 2001 to 2009, when he joined The People of Freedom (PdL), the new party of Silvio Berlusconi."
   > Source: [[sources/wikipedia-raffaele-fitto|Raffaele Fitto]] · grade A
 
+- [[organisations/fratelli-ditalia|Fratelli d’Italia]]  
+  > "Member Fratelli d’Italia Italian Political Party"
+  > Source: [[sources/declaration-doi-raffaele-fitto-en|Raffaele Fitto]] · grade A
+
 - [[organisations/italian-people-s-party|Italian People's Party]] — party_member  
   > "When the DC was dissolved and with the birth of the Second Italian Republic, he joined the DC's successor political parties and Christian democratic parties, such as Italian People's Party (PPI), the United Christian Democrats (CDU), and the Christian Democrats for Freedom (CDL)."
   > Source: [[sources/wikipedia-raffaele-fitto|Raffaele Fitto]] · grade A
-
-- [[organisations/la-puglia-prima-di-tutto|La Puglia Prima di Tutto]] — party_member  
-  > "In 2006, Fitto was investigated by the Bari prosecutor in connection with a donation to his regional party La Puglia Prima di Tutto of €500,000 by Tosinvest, a company owned by Antonio Angelucci, ahead of the 2005 Apulian regional election."
-  > Source: [[sources/wikipedia-raffaele-fitto|Raffaele Fitto]] · grade B
 
 - [[organisations/the-people-of-freedom|The People of Freedom]] — party_member  
   > "In 1999, he was elected to the European Parliament on the electoral list of Forza Italia (FI), of which he was a member from 2001 to 2009, when he joined The People of Freedom (PdL), the new party of Silvio Berlusconi."
@@ -77,6 +77,38 @@ Commissioner · ITA
 - [[organisations/united-christian-democrats|United Christian Democrats]] — party_member  
   > "When the DC was dissolved and with the birth of the Second Italian Republic, he joined the DC's successor political parties and Christian democratic parties, such as Italian People's Party (PPI), the United Christian Democrats (CDU), and the Christian Democrats for Freedom (CDL)."
   > Source: [[sources/wikipedia-raffaele-fitto|Raffaele Fitto]] · grade A
+
+## Board / trustee
+
+- [[organisations/new-direction-foundation|New Direction Foundation]] — board_member (2016–2024-09-19)  
+  > "Member of the Board (from 2016 to 19/9/24) New Direction Foundation."
+  > Source: [[sources/declaration-doi-raffaele-fitto-en|Raffaele Fitto]] · grade A
+
+## Chair / president
+
+- [[organisations/conservatori-e-riformisti|Conservatori e Riformisti]] — chair (2015–2017)  
+  > "President (2015 - 2017) Conservatori e Riformisti Political party for the participation in local elections"
+  > Source: [[sources/declaration-doi-raffaele-fitto-en|Raffaele Fitto]] · grade A
+
+- [[organisations/direzione-italia|Direzione Italia]] — chair (2017–2018)  
+  > "President (2017 al 2018) Direzione Italia Political party"
+  > Source: [[sources/declaration-doi-raffaele-fitto-en|Raffaele Fitto]] · grade A
+
+- [[organisations/la-puglia-prima-di-tutto|La Puglia Prima di Tutto]] — chair; party_member (2005–2023)  
+  > "President (2005 - 2023) La Puglia Prima di Tutto Regional political party for the participation in regional and local elections"
+  > Source: [[sources/declaration-doi-raffaele-fitto-en|Raffaele Fitto]] · grade A
+
+- [[organisations/noi-con-l-italia-udc|Noi con l’ Italia UDC]] — chair (2018–2020)  
+  > "President (2018-2020) Noi con l’ Italia UDC Political party for the participation in national elections"
+  > Source: [[sources/declaration-doi-raffaele-fitto-en|Raffaele Fitto]] · grade A
+
+- [[organisations/oltre-con-fitto|Oltre con Fitto]] — chair (2015–2015)  
+  > "President (2015) Oltre con Fitto Regional political party for the participation in regional and local elections"
+  > Source: [[sources/declaration-doi-raffaele-fitto-en|Raffaele Fitto]] · grade A
+
+- [[organisations/questa-volta-no|Questa volta no]] — chair (2017–2017)  
+  > "President (2017) Questa volta no Association for the referendum campaign"
+  > Source: [[sources/declaration-doi-raffaele-fitto-en|Raffaele Fitto]] · grade A
 
 ## Employment
 

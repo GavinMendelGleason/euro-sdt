@@ -11,7 +11,7 @@ generated: 2026-11-02
 ---
 # European Parliament
 
-*Verified member assertions: 51 people*
+*Verified member assertions: 54 people*
 
 ## Members and roles
 
@@ -19,8 +19,8 @@ generated: 2026-11-02
   > "In the 2024 European elections , Vălean was re-elected to the European Parliament."
   > Source: [[sources/wikipedia-adina-ioana-vălean|Adina Ioana Vălean]] · grade A
 - [[people/andrius-kubilius|Andrius Kubilius]]  
-  > "In 2019, Kubilius was elected a Member of the European Parliament for Homeland Union and served as a member of the European People's Party Group."
-  > Source: [[sources/wikipedia-andrius-kubilius|Andrius Kubilius]] · grade A
+  > "2019-2024 Member of the European Parliament"
+  > Source: [[sources/declaration-doi-andrius-kubilius-en|Andrius Kubilius]] · grade A
 - [[people/andrus-ansip|Andrus Ansip]]  
   > "Member of the European Parliament, 2019-2024"
   > Source: [[sources/wikipedia-andrus-ansip|Andrus Ansip]] · grade A
@@ -28,8 +28,8 @@ generated: 2026-11-02
   > "She was a Member of the European Parliament (MEP) from Sweden from 1999 to 2006."
   > Source: [[sources/wikipedia-cecilia-malmstrom|Cecilia Malmstrom]] · grade A
 - [[people/christophe-hansen|Christophe Hansen]]  
-  > "Since September 2018, Hansen has been a Member of the European Parliament for the European People's Party (Christian Democrats) and was elected second quaestor in January 2022."
-  > Source: [[sources/wikipedia-christophe-hansen|Christophe Hansen]] · grade A
+  > "Member of the European Parliament (2019-2023; 7-11/2024)"
+  > Source: [[sources/declaration-doi-christophe-hansen-en|Christophe Hansen]] · grade A
 - [[people/christos-papoutsis|Christos Papoutsis]]  
   > "From 1984 to 1995, he was elected Member of the European Parliament for three consecutive terms (1984, 1989, 1994)."
   > Source: [[sources/wikipedia-christos-papoutsis|Christos Papoutsis]] · grade A
@@ -39,6 +39,9 @@ generated: 2026-11-02
 - [[people/colette-flesch|Colette Flesch]]  
   > "&#91; 4 &#93; &#91; 7 &#93; Besides her work in the Chamber of Deputies (1969–1980, 1984–1989, and 2004–1009), she was also a member of the European Parliament from 1969 to 1980, 1984 to 1985, 1989 to 1990, and 1999 to 2004."
   > Source: [[sources/wikipedia-colette-flesch|Colette Flesch]] · grade A
+- [[people/dubravka-suica|Dubravka Šuica]] (2013–2019)  
+  > "Member of the European Parliament (2013 - 2019)"
+  > Source: [[sources/declaration-doi-dubravka-suica-en|Dubravka Suica]] · grade A
 - [[people/elisa-ferreira|Elisa Ferreira]]  
   > "She was as Member of the European Parliament (MEP) for the Socialist Party; part of the Party of European Socialists between 2004 and 2016."
   > Source: [[sources/wikipedia-elisa-ferreira|Elisa Ferreira]] · grade A
@@ -61,8 +64,8 @@ generated: 2026-11-02
   > ".mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent;color:inherit}.mw-parser-output .infobox-3cols-child{margin:-3px}.mw-parser-output .infobox .navbar{font-size:100%}@media screen{html.skin-theme-clientpref-night .mw-parser-output .infobox-full-data:not(.notheme)>div:not(.notheme)[style]{ba […]"
   > Source: [[sources/wikipedia-hans-gert-p-ttering|Hans Gert P Ttering]] · grade A
 - [[people/henna-virkkunen|Henna Virkkunen]]  
-  > "A member of the center-right National Coalition Party, part of the European People's Party, she was a Member of the European Parliament (MEP) from 2014 to 2024."
-  > Source: [[sources/wikipedia-henna-virkkunen|Henna Virkkunen]] · grade A
+  > "Member of the European Parliament /European People’s Party), 2014-November 2024"
+  > Source: [[sources/declaration-doi-henna-virkkunen-en|Henna Virkkunen]] · grade A
 - [[people/iliana-ivanova|Iliana Ivanova]]  
   > "From 2009 to 2012, Ivanova was a Member of the European Parliament."
   > Source: [[sources/wikipedia-iliana-ivanova|Iliana Ivanova]] · grade A
@@ -138,6 +141,9 @@ generated: 2026-11-02
 - [[people/richard-falbr|Richard Falbr]]  
   > "He sat on the European Parliament 's Committee on Employment and Social Affairs , and was a substitute for the Committee on Regional Development , a member of the Delegation for relations with the countries of Central America and a substitute for the Delegation for relations with Mercosur ."
   > Source: [[sources/wikipedia-richard-falbr|Richard Falbr]] · grade A
+- [[people/roxana-minzatu|Roxana Mînzatu]] (2024-07–2024-11-30)  
+  > "July 2024 – 30 November 2024, Member of European Parliament"
+  > Source: [[sources/declaration-doi-roxana-minzatu-en|Roxana Minzatu]] · grade A
 - [[people/sari-essayah|Sari Essayah]]  
   > "Essayah was elected to the European Parliament in 2009 but failed to be reelected in 2014 despite her 61&#160;000 votes."
   > Source: [[sources/wikipedia-sari-essayah|Sari Essayah]] · grade B
@@ -147,6 +153,9 @@ generated: 2026-11-02
 - [[people/stavros-lambrinidis|Stavros Lambrinidis]]  
   > "A few months later, he was elected as the vice president of the Party of European Socialists and, in April 2005, as head of the parliamentary delegation of Panhellenic Socialist Movement (PA.SO.K.) to the European Parliament ."
   > Source: [[sources/wikipedia-stavros-lambrinidis|Stavros Lambrinidis]] · grade B
+- [[people/stephane-sejourne|Stéphane Séjourné]] (2019-07–2024-01)  
+  > "Member of the European Parliament from July 2019 to Jabuary 2024 and Presidentof the Renew Europe group from October 2021 to January 2024"
+  > Source: [[sources/declaration-doi-stephane-sejourne-en|Stephane Sejourne]] · grade A
 - [[people/sylvie-guillaume|Sylvie Guillaume]]  
   > "Member of the European Parliament, 2009-2024 [ edit ] In the 2009 European elections , Guillaume was the second candidate on the PS list in the South-East region, and was elected to the European Parliament ."
   > Source: [[sources/wikipedia-sylvie-guillaume|Sylvie Guillaume]] · grade A

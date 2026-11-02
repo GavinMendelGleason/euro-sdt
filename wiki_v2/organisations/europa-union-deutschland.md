@@ -11,7 +11,7 @@ generated: 2026-11-02
 ---
 # Europa-Union Deutschland
 
-*Verified member assertions: 2 people*
+*Verified member assertions: 3 people*
 
 ## Members and roles
 
@@ -21,3 +21,6 @@ generated: 2026-11-02
 - [[people/sylvia-yvonne-kaufmann|Sylvia-Yvonne Kaufmann]] — board_member  
   > "Kaufmann is member of the executive board of Europa-Union Deutschland , the German section of the Union of European Federalists ."
   > Source: [[sources/wikipedia-sylvia-yvonne-kaufmann|Sylvia Yvonne Kaufmann]] · grade A
+- [[people/ursula-von-der-leyen|Ursula von der Leyen]] (2014-01)  
+  > "Since January 2014: Member Europa-Union Deutschland Independent and non-partisan association for the promotion of European integration"
+  > Source: [[sources/declaration-doi-ursula-von-der-leyen-en|Ursula Von Der Leyen]] · grade A

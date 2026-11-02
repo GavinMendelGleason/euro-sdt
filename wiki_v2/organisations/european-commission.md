@@ -58,8 +58,8 @@ generated: 2026-11-02
   > "On 27 July 2014, Prime Minister Antonis Samaras nominated Avramopoulos as Greece's next member of the European Commission."
   > Source: [[sources/wikipedia-dimitris-avramopoulos|Dimitris Avramopoulos]] · grade A
 - [[people/dubravka-suica|Dubravka Šuica]] — employed_by  
-  > "From 1 December 2019 to 1 December 2024, she was Vice President of the European Commission and the Commissioner for Democracy and Demography."
-  > Source: [[sources/wikipedia-dubravka-suica|Dubravka Suica]] · grade C
+  > "European Commission Vice-President for Democracy and Demography (2019-2024)"
+  > Source: [[sources/declaration-doi-dubravka-suica-en|Dubravka Suica]] · grade C
 - [[people/elisa-ferreira|Elisa Ferreira]] — employed_by  
   > "Elisa Maria da Costa Guimarães Ferreira, GCC (born 17 October 1955) is a Portuguese politician and economist who served as the European Commissioner for Cohesion and Reforms in the administration of President Ursula von der Leyen between 2019 and 2024."
   > Source: [[sources/wikipedia-elisa-ferreira|Elisa Ferreira]] · grade C

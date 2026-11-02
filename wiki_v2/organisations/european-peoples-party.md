@@ -34,8 +34,8 @@ generated: 2026-11-02
   > "Since September 2018, Hansen has been a Member of the European Parliament for the European People's Party (Christian Democrats) and was elected second quaestor in January 2022."
   > Source: [[sources/wikipedia-christophe-hansen|Christophe Hansen]] · grade A
 - [[people/dubravka-suica|Dubravka Šuica]] — chair  
-  > "In June 2019, she was elected as first vice-president of the European People's Party (EPP) in European Parliament."
-  > Source: [[sources/wikipedia-dubravka-suica|Dubravka Suica]] · grade A
+  > "Vice-President European People's Party European Political Party"
+  > Source: [[sources/declaration-doi-dubravka-suica-en|Dubravka Suica]] · grade A
 - [[people/godelieve-quisthoudt-rowohl|Godelieve Quisthoudt-Rowohl]]  
   > "She is a member of the Christian Democratic Union in Lower Saxony, which is a part of the European People's Party ."
   > Source: [[sources/wikipedia-godelieve-quisthoudt-rowohl|Godelieve Quisthoudt Rowohl]] · grade A
@@ -93,9 +93,9 @@ generated: 2026-11-02
 - [[people/ria-oomen-ruijten|Ria Oomen-Ruijten]] — chair  
   > "She became a member of the Politician Youth Organization of the Catholic People's Party, one of the predecessors of the Christian Democratic Appeal , and was elected chairman of the newly founded youth organization of the Christian Democrats before becoming a member of the Dutch House of Representatives in 1981."
   > Source: [[sources/wikipedia-ria-oomen-ruijten|Ria Oomen Ruijten]] · grade A
-- [[people/ursula-von-der-leyen|Ursula von der Leyen]] — party_member  
-  > "On 7 March 2024, the EPP elected her as its Spitzenkandidat to lead the campaign for the 2024 European Parliament elections."
-  > Source: [[sources/wikipedia-ursula-von-der-leyen|Ursula Von Der Leyen]] · grade A
+- [[people/ursula-von-der-leyen|Ursula von der Leyen]] — chair; party_member (2019)  
+  > "Since 2019: ex-officio Vice-President European People's Party (EPP) European political party"
+  > Source: [[sources/declaration-doi-ursula-von-der-leyen-en|Ursula Von Der Leyen]] · grade A
 - [[people/valdis-dombrovskis|Valdis Dombrovskis]]  
   > "In February 2014, Dombrovskis officially lodged his application to be the candidate of the centre-right European People's Party (EPP) for the presidency of the European Commission; shortly after he withdrew his candidacy to endorse Jean-Claude Juncker instead."
   > Source: [[sources/wikipedia-valdis-dombrovskis|Valdis Dombrovskis]] · grade A

@@ -1,48 +1,48 @@
 {
   "excluded_quarantined_endpoints": 25,
   "all_verified": {
-    "nodes": 2968,
-    "edges": 3719,
-    "unique_pairs": 3520,
+    "nodes": 3101,
+    "edges": 3884,
+    "unique_pairs": 3669,
     "edges_by_class": {
-      "network": 2627,
+      "network": 2784,
       "award": 3,
       "education": 632,
-      "occupational": 361,
+      "occupational": 369,
       "other": 2,
       "institutional": 94
     },
     "edges_by_predicate": {
-      "advisory_board": 99,
-      "affiliated_with": 397,
+      "advisory_board": 104,
+      "affiliated_with": 421,
       "attendee": 26,
       "award_received": 2,
       "awarded_by": 1,
-      "board_member": 354,
-      "chair": 502,
+      "board_member": 388,
+      "chair": 536,
       "educated_at": 632,
-      "employed_by": 360,
-      "fellow": 26,
+      "employed_by": 368,
+      "fellow": 27,
       "founder": 62,
       "from_country": 2,
       "held_position": 1,
-      "member": 1161,
+      "member": 1220,
       "served_on_commission": 94
     },
     "edges_by_grade": {
-      "A": 2734,
+      "A": 2892,
       "C": 530,
-      "B": 455
+      "B": 462
     },
     "degree": {
       "max": 72,
       "mean": 2.37,
-      "degree_1": 2231,
-      "degree_ge_3": 471
+      "degree_1": 2356,
+      "degree_ge_3": 478
     },
     "components": {
-      "count": 99,
-      "largest": 2668,
+      "count": 98,
+      "largest": 2801,
       "singletons": 0
     },
     "top_hubs": [
@@ -56,13 +56,25 @@
         "id": "european-parliament",
         "name": "European Parliament",
         "kind": "organisation",
-        "degree": 51
+        "degree": 54
       },
       {
         "id": "kaja-kallas",
         "name": "Kaja Kallas",
         "kind": "person",
+        "degree": 46
+      },
+      {
+        "id": "ursula-von-der-leyen",
+        "name": "Ursula von der Leyen",
+        "kind": "person",
         "degree": 43
+      },
+      {
+        "id": "henna-virkkunen",
+        "name": "Henna Virkkunen",
+        "kind": "person",
+        "degree": 35
       },
       {
         "id": "pascal-lamy",
@@ -85,6 +97,12 @@
       {
         "id": "thierry-breton",
         "name": "Thierry Breton",
+        "kind": "person",
+        "degree": 33
+      },
+      {
+        "id": "wopke-hoekstra",
+        "name": "Wopke Hoekstra",
         "kind": "person",
         "degree": 33
       },
@@ -147,30 +165,12 @@
         "name": "Karmenu Vella",
         "kind": "person",
         "degree": 27
-      },
-      {
-        "id": "cecilia-malmstrom",
-        "name": "Cecilia Malmström",
-        "kind": "person",
-        "degree": 26
-      },
-      {
-        "id": "kristalina-georgieva",
-        "name": "Kristalina Georgieva",
-        "kind": "person",
-        "degree": 26
-      },
-      {
-        "id": "wopke-hoekstra",
-        "name": "Wopke Hoekstra",
-        "kind": "person",
-        "degree": 26
       }
     ],
     "kind_mixing": {
-      "person->organisation": 2954,
-      "person->institution": 474,
-      "person->university": 182,
+      "person->organisation": 3116,
+      "person->institution": 476,
+      "person->university": 183,
       "person->commission": 103,
       "person->person": 3,
       "person->award": 2,
@@ -178,43 +178,43 @@
     }
   },
   "grade_a_only": {
-    "nodes": 2339,
-    "edges": 2734,
-    "unique_pairs": 2632,
+    "nodes": 2471,
+    "edges": 2892,
+    "unique_pairs": 2777,
     "edges_by_class": {
-      "network": 1924,
+      "network": 2074,
       "award": 3,
       "education": 522,
-      "occupational": 208,
+      "occupational": 216,
       "institutional": 77
     },
     "edges_by_predicate": {
-      "advisory_board": 93,
-      "affiliated_with": 121,
+      "advisory_board": 98,
+      "affiliated_with": 138,
       "attendee": 13,
       "award_received": 2,
       "awarded_by": 1,
-      "board_member": 312,
-      "chair": 429,
+      "board_member": 346,
+      "chair": 463,
       "educated_at": 522,
-      "employed_by": 208,
-      "fellow": 22,
+      "employed_by": 216,
+      "fellow": 23,
       "founder": 28,
-      "member": 906,
+      "member": 965,
       "served_on_commission": 77
     },
     "edges_by_grade": {
-      "A": 2734
+      "A": 2892
     },
     "degree": {
-      "max": 44,
+      "max": 47,
       "mean": 2.25,
-      "degree_1": 1735,
-      "degree_ge_3": 377
+      "degree_1": 1858,
+      "degree_ge_3": 386
     },
     "components": {
       "count": 110,
-      "largest": 1946,
+      "largest": 2065,
       "singletons": 0
     },
     "top_hubs": [
@@ -222,13 +222,19 @@
         "id": "european-parliament",
         "name": "European Parliament",
         "kind": "organisation",
-        "degree": 44
+        "degree": 47
       },
       {
         "id": "kaja-kallas",
         "name": "Kaja Kallas",
         "kind": "person",
-        "degree": 36
+        "degree": 39
+      },
+      {
+        "id": "ursula-von-der-leyen",
+        "name": "Ursula von der Leyen",
+        "kind": "person",
+        "degree": 35
       },
       {
         "id": "european-commission",
@@ -239,6 +245,12 @@
       {
         "id": "federica-mogherini",
         "name": "Federica Mogherini",
+        "kind": "person",
+        "degree": 30
+      },
+      {
+        "id": "henna-virkkunen",
+        "name": "Henna Virkkunen",
         "kind": "person",
         "degree": 30
       },
@@ -259,6 +271,12 @@
         "name": "Pascal Lamy",
         "kind": "person",
         "degree": 28
+      },
+      {
+        "id": "wopke-hoekstra",
+        "name": "Wopke Hoekstra",
+        "kind": "person",
+        "degree": 27
       },
       {
         "id": "gunther-oettinger",
@@ -319,30 +337,12 @@
         "name": "Danuta Hübner",
         "kind": "person",
         "degree": 23
-      },
-      {
-        "id": "joaquin-almunia",
-        "name": "Joaquín Almunia",
-        "kind": "person",
-        "degree": 23
-      },
-      {
-        "id": "neelie-kroes",
-        "name": "Neelie Kroes",
-        "kind": "person",
-        "degree": 23
-      },
-      {
-        "id": "pierre-moscovici",
-        "name": "Pierre Moscovici",
-        "kind": "person",
-        "degree": 23
       }
     ],
     "kind_mixing": {
-      "person->organisation": 2124,
-      "person->institution": 370,
-      "person->university": 155,
+      "person->organisation": 2280,
+      "person->institution": 371,
+      "person->university": 156,
       "person->commission": 79,
       "person->person": 3,
       "person->award": 2,
@@ -350,36 +350,36 @@
     }
   },
   "network_only": {
-    "nodes": 2156,
-    "edges": 2627,
-    "unique_pairs": 2505,
+    "nodes": 2285,
+    "edges": 2784,
+    "unique_pairs": 2648,
     "edges_by_class": {
-      "network": 2627
+      "network": 2784
     },
     "edges_by_predicate": {
-      "advisory_board": 99,
-      "affiliated_with": 397,
+      "advisory_board": 104,
+      "affiliated_with": 421,
       "attendee": 26,
-      "board_member": 354,
-      "chair": 502,
-      "fellow": 26,
+      "board_member": 388,
+      "chair": 536,
+      "fellow": 27,
       "founder": 62,
-      "member": 1161
+      "member": 1220
     },
     "edges_by_grade": {
-      "A": 1924,
+      "A": 2074,
       "C": 280,
-      "B": 423
+      "B": 430
     },
     "degree": {
-      "max": 50,
+      "max": 53,
       "mean": 2.32,
-      "degree_1": 1616,
-      "degree_ge_3": 362
+      "degree_1": 1737,
+      "degree_ge_3": 370
     },
     "components": {
-      "count": 57,
-      "largest": 1922,
+      "count": 54,
+      "largest": 2049,
       "singletons": 0
     },
     "top_hubs": [
@@ -387,13 +387,25 @@
         "id": "european-parliament",
         "name": "European Parliament",
         "kind": "organisation",
-        "degree": 50
+        "degree": 53
+      },
+      {
+        "id": "ursula-von-der-leyen",
+        "name": "Ursula von der Leyen",
+        "kind": "person",
+        "degree": 40
       },
       {
         "id": "kaja-kallas",
         "name": "Kaja Kallas",
         "kind": "person",
-        "degree": 36
+        "degree": 39
+      },
+      {
+        "id": "henna-virkkunen",
+        "name": "Henna Virkkunen",
+        "kind": "person",
+        "degree": 33
       },
       {
         "id": "ria-oomen-ruijten",
@@ -406,6 +418,12 @@
         "name": "European People's Party",
         "kind": "organisation",
         "degree": 28
+      },
+      {
+        "id": "wopke-hoekstra",
+        "name": "Wopke Hoekstra",
+        "kind": "person",
+        "degree": 27
       },
       {
         "id": "federica-mogherini",
@@ -484,30 +502,12 @@
         "name": "Christos Stylianides",
         "kind": "person",
         "degree": 22
-      },
-      {
-        "id": "hans-van-baalen",
-        "name": "Hans van Baalen",
-        "kind": "person",
-        "degree": 22
-      },
-      {
-        "id": "jose-manuel-barroso",
-        "name": "José Manuel Barroso",
-        "kind": "person",
-        "degree": 22
-      },
-      {
-        "id": "jutta-urpilainen",
-        "name": "Jutta Urpilainen",
-        "kind": "person",
-        "degree": 22
       }
     ],
     "kind_mixing": {
-      "person->organisation": 2578,
-      "person->university": 31,
-      "person->institution": 13,
+      "person->organisation": 2732,
+      "person->university": 32,
+      "person->institution": 15,
       "person->person": 3,
       "person->commission": 2
     }

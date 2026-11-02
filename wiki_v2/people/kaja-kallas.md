@@ -14,7 +14,7 @@ generated: 2026-11-02
 
 Commissioner · EST
 
-*Verified assertions: 61*
+*Verified assertions: 71*
 
 ## Nominated by
 
@@ -69,12 +69,12 @@ Commissioner · EST
   > Source: [[sources/wikipedia-kaja-kallas|Kaja Kallas]] · grade A
 
 - [[organisations/european-council-on-foreign-relations-ecfr|European Council on Foreign Relations (ECFR)]] (2016–2024)  
-  > "Nature of the post (during the above-mentioned period) Name of the body Body's objective/activity Member of Council since 2016 -2024 European Council on Foreign Relations Research on European Foreign and Security policy Advisory Board Member in 2018 Women Economic Forum Empowering women Patron in 2017 Model European Union Tallinn Improving knowledge about the EU Mentor in 2016-2017 European Liberal Youth Improving knowledge about the EU Patron in 2016 Creative Business Cap Empowering creative and innovative startups Member until 2024 European Internet Forum Promoting internet freedom I.2."
+  > "Member of Council since 2016 -2024 European Council on Foreign Relations Research on European Foreign and Security policy"
   > Source: [[sources/declaration-doi-kaja-kallas-en|Kaja Kallas]] · grade A
 
 - [[organisations/european-internet-forum|European Internet Forum]]  
-  > "She is also a mentor of the European Liberal Youth, a member of the European Young Leaders, a MEP ambassor of Erasmus for Young Entrepreneurs, a member of the MEP Library Lovers Group, a political member of the European Internet Forum, a member of the extended board of the European Forum for Renewable Energy Sources, a member of the Global Young Leaders, a member of the Women Political Leaders, and a MEP ambassador of the European Entrepreneurship Education Network."
-  > Source: [[sources/wikipedia-kaja-kallas|Kaja Kallas]] · grade A
+  > "Member until 2024 European Internet Forum Promoting internet freedom"
+  > Source: [[sources/declaration-doi-kaja-kallas-en|Kaja Kallas]] · grade A
 
 - [[organisations/european-parliament|European Parliament]]  
   > "Kallas was a member of the European Parliament during 2014–2018, representing the Alliance of Liberals and Democrats for Europe."
@@ -157,8 +157,8 @@ Commissioner · EST
 ## Advisory board
 
 - [[organisations/women-economic-forum|Women Economic Forum]] — advisory_board  
-  > "Additionally, she is a member of the European Council on Foreign Relations, an advisory board member of the Women Economic Forum, and a patron of the Model European Union Tallinn."
-  > Source: [[sources/wikipedia-kaja-kallas|Kaja Kallas]] · grade A
+  > "Advisory Board Member in 2018 Women Economic Forum Empowering women"
+  > Source: [[sources/declaration-doi-kaja-kallas-en|Kaja Kallas]] · grade A
 
 ## Chair / president
 
@@ -169,6 +169,10 @@ Commissioner · EST
 - [[organisations/economic-affairs-committee|Economic Affairs Committee]] — chair  
   > "She was a member of the 12th Parliament of Estonia and chaired the Economic Affairs Committee from 2011 to 2014."
   > Source: [[sources/wikipedia-kaja-kallas|Kaja Kallas]] · grade C
+
+- [[organisations/reform-party|Reform Party]] — chair (2018–2024)  
+  > "2018 – 2024 President of the Reform Party"
+  > Source: [[sources/declaration-doi-kaja-kallas-en|Kaja Kallas]] · grade A
 
 - [[organisations/youth-intergroup|Youth Intergroup]] — chair  
   > "In addition to her committee assignments, Kallas was a member of the European Parliament Intergroup on the Digital Agenda, and was also a vice-chair of the Youth Intergroup."
@@ -182,6 +186,10 @@ Commissioner · EST
 
 ## Affiliation
 
+- [[organisations/creative-business-cap|Creative Business Cap]] (2016–2016)  
+  > "Patron in 2016 Creative Business Cap Empowering creative and innovative startups"
+  > Source: [[sources/declaration-doi-kaja-kallas-en|Kaja Kallas]] · grade A
+
 - [[organisations/erasmus-for-young-entrepreneurs|Erasmus for Young Entrepreneurs]]  
   > "She is also a mentor of the European Liberal Youth, a member of the European Young Leaders, a MEP ambassor of Erasmus for Young Entrepreneurs, a member of the MEP Library Lovers Group, a political member of the European Internet Forum, a member of the extended board of the European Forum for Renewable Energy Sources, a member of the Global Young Leaders, a member of the Women Political Leaders, and a MEP ambassador of the European Entrepreneurship Education Network."
   > Source: [[sources/wikipedia-kaja-kallas|Kaja Kallas]] · grade A
@@ -191,8 +199,12 @@ Commissioner · EST
   > Source: [[sources/wikipedia-kaja-kallas|Kaja Kallas]] · grade A
 
 - [[organisations/european-liberal-youth|European Liberal Youth]]  
-  > "She is also a mentor of the European Liberal Youth, a member of the European Young Leaders, a MEP ambassor of Erasmus for Young Entrepreneurs, a member of the MEP Library Lovers Group, a political member of the European Internet Forum, a member of the extended board of the European Forum for Renewable Energy Sources, a member of the Global Young Leaders, a member of the Women Political Leaders, and a MEP ambassador of the European Entrepreneurship Education Network."
-  > Source: [[sources/wikipedia-kaja-kallas|Kaja Kallas]] · grade A
+  > "Mentor in 2016-2017 European Liberal Youth Improving knowledge about the EU"
+  > Source: [[sources/declaration-doi-kaja-kallas-en|Kaja Kallas]] · grade A
+
+- [[organisations/model-european-union-tallinn|Model European Union Tallinn]] (2017–2017)  
+  > "Patron in 2017 Model European Union Tallinn Improving knowledge about the EU"
+  > Source: [[sources/declaration-doi-kaja-kallas-en|Kaja Kallas]] · grade A
 
 ## Employment
 

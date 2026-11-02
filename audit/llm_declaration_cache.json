@@ -1,0 +1,2217 @@
+{
+  "deepseek-chat|4568c97ce155a5ce8e1c803da538a7504350fc42441f80bc164d022b6d27072c": [],
+  "deepseek-chat|b9d7cc9c3acd1a80d7e31db7c95e0fc4ebc01ea86f16d774a8db4b0c35640688": [],
+  "deepseek-chat|ea5d597f92b04d9fa2045a5e6b7f4e017bbf7344c7d2223b7c1789dadcfd70b3": [],
+  "deepseek-chat|9809849235670de7d18284d40a35f208827fe0b5789324f77badc86dde6691bc": [
+    {
+      "organisation": "Central Macedonia, Greece",
+      "role": "Regional Governor",
+      "relation": "employed_by",
+      "start_date": "2013-01-07",
+      "end_date": "2024-11-29",
+      "evidence": "Regional Governor of Central Macedonia, Greece from 7/1/2013 to 29/11/2024",
+      "sentence": 10
+    },
+    {
+      "organisation": "Regional Development Fund of Central Macedonia",
+      "role": "President of the Board",
+      "relation": "chair",
+      "start_date": "2013-01-18",
+      "end_date": "2024-11-29",
+      "evidence": "President of the Board of the Regional Development Fund of Central Macedonia from 18/01/2013 until 29/11/2024",
+      "sentence": 10
+    },
+    {
+      "organisation": "Association of Greek Regions",
+      "role": "President",
+      "relation": "chair",
+      "start_date": "2019-11-18",
+      "end_date": "2024-11-29",
+      "evidence": "President of the Association of Greek Regions and its board, from 18/11/2019 till 29/11/2024",
+      "sentence": 10
+    },
+    {
+      "organisation": "Association of Greek Regions",
+      "role": "board",
+      "relation": "board_member",
+      "start_date": "2019-11-18",
+      "end_date": "2024-11-29",
+      "evidence": "President of the Association of Greek Regions and its board, from 18/11/2019 till 29/11/2024",
+      "sentence": 10
+    },
+    {
+      "organisation": "European Committee of the Regions",
+      "role": "member",
+      "relation": "member",
+      "start_date": "2015-01-26",
+      "end_date": "2024-11-29",
+      "evidence": "European Committee of the Regions, member from 26/01/2015 till 29/11/2024",
+      "sentence": 10
+    },
+    {
+      "organisation": "European Committee of the Regions",
+      "role": "President",
+      "relation": "chair",
+      "start_date": "2020-02-12",
+      "end_date": "2022-06-29",
+      "evidence": "(President from 12/2/2020 until 29/6/2022; 1st Vice-President from 29/6/2022 till 29/11/2024",
+      "sentence": 10
+    },
+    {
+      "organisation": "European Committee of the Regions",
+      "role": "1st Vice-President",
+      "relation": "affiliated_with",
+      "start_date": "2022-06-29",
+      "end_date": "2024-11-29",
+      "evidence": "(President from 12/2/2020 until 29/6/2022; 1st Vice-President from 29/6/2022 till 29/11/2024",
+      "sentence": 10
+    },
+    {
+      "organisation": "Congress of Local and Regional Authorities of the Council of Europe",
+      "role": "Member",
+      "relation": "member",
+      "start_date": "2024-09-12",
+      "end_date": "2024-11-29",
+      "evidence": "Member of the Congress of Local and Regional Authorities of the Council of Europe, from 12/9/2024 till 29/11/2024",
+      "sentence": 10
+    },
+    {
+      "organisation": "Nea Dimokratia",
+      "role": "Member",
+      "relation": "member",
+      "start_date": null,
+      "end_date": null,
+      "evidence": "Member Nea Dimokratia Political Party in Greece",
+      "sentence": 30
+    },
+    {
+      "organisation": "European People’s Party",
+      "role": "Member",
+      "relation": "member",
+      "start_date": null,
+      "end_date": null,
+      "evidence": "Member European People’s Party Political Party in the EU",
+      "sentence": 30
+    }
+  ],
+  "deepseek-chat|a01e2e7c47cb5880904e2b19880dd3a8192ca788ca9d07c96d4056224baef07e": [
+    {
+      "organisation": "Board European Humanities University in Vilnius for students from Belarus and the Eastern Neighbourhood Region (EHU)",
+      "role": "President of the Governing Board",
+      "relation": "chair",
+      "start_date": "2020",
+      "end_date": "2024-09",
+      "evidence": "Nature of the post (during the above-mentioned period) Name of the institution President of the Governing Board Board European Humanities University in Vilnius for students from Belarus and the Eastern Neighbourhood Region (EHU) (2020– September 2024)",
+      "sentence": 6
+    },
+    {
+      "organisation": "European Parliament",
+      "role": "Member of the European Parliament",
+      "relation": "member",
+      "start_date": "2019",
+      "end_date": "2024",
+      "evidence": "2019-2024 Member of the European Parliament",
+      "sentence": 10
+    },
+    {
+      "organisation": "Seimas of the Republic of Lithuania",
+      "role": "Member of the Seimas of the Republic of Lithuania",
+      "relation": "member",
+      "start_date": "1992",
+      "end_date": "2019",
+      "evidence": "1992-2019 Member of the Seimas of the Republic of Lithuania",
+      "sentence": 10
+    },
+    {
+      "organisation": "Zentrum libérale Moderne (LIBMOD)",
+      "role": "Member of the Advisory Board",
+      "relation": "advisory_board",
+      "start_date": "2024",
+      "end_date": null,
+      "evidence": "Member of the Advisory Board of Zentrum libérale Moderne (LIBMOD)(2024)",
+      "sentence": 10
+    },
+    {
+      "organisation": "Wilfried Martens Centre for European Studies",
+      "role": "Member of the Honorary Council",
+      "relation": "member",
+      "start_date": "2019",
+      "end_date": "2024",
+      "evidence": "Member of the Honorary Council of Wilfried Martens Centre for European Studies (2019-2024)",
+      "sentence": 10
+    },
+    {
+      "organisation": "Institute of European Right",
+      "role": "Member of the Advisory Board",
+      "relation": "advisory_board",
+      "start_date": "2024",
+      "end_date": null,
+      "evidence": "Member of the Advisory Board of Institute of European Right (2024)",
+      "sentence": 10
+    },
+    {
+      "organisation": "Inter-Parliamentary Alliance on China",
+      "role": "Member",
+      "relation": "member",
+      "start_date": "2024",
+      "end_date": null,
+      "evidence": "Member of Inter-Parliamentary Alliance on China (2024)",
+      "sentence": 10
+    },
+    {
+      "organisation": "United for Ukraine (U4U)",
+      "role": "Co-founder and coordinator",
+      "relation": "founder",
+      "start_date": "2022",
+      "end_date": "2024",
+      "evidence": "Co-founder and coordinator of informal international cross-party network of parliamentarians United for Ukraine (U4U) (2022-2024)",
+      "sentence": 10
+    },
+    {
+      "organisation": "Friends of European Russia Forum",
+      "role": "Co-founder and coordinator",
+      "relation": "founder",
+      "start_date": "2019",
+      "end_date": "2024",
+      "evidence": "Co-founder and coordinator of informal international network ‘Friends of European Russia Forum’ (2019-2024)",
+      "sentence": 10
+    },
+    {
+      "organisation": "Marshall Plan for Ukraine (later ‘European Plan for Ukraine’)",
+      "role": "Co-founder",
+      "relation": "founder",
+      "start_date": "2016",
+      "end_date": "2019",
+      "evidence": "Co-founder of informal international initiatives ‘Marshall Plan for Ukraine’ (later ‘European Plan for Ukraine’ (2016-2019)",
+      "sentence": 10
+    },
+    {
+      "organisation": "International Republican Institute (IRI), USA",
+      "role": "Member of the International Board of Advisors",
+      "relation": "advisory_board",
+      "start_date": "2016",
+      "end_date": "2019",
+      "evidence": "Member of the International Board of Advisors of the International Republican Institute (IRI), USA (2016-2019)",
+      "sentence": 10
+    },
+    {
+      "organisation": "Atlantic Council EuroGrowth Initiative, USA",
+      "role": "Member of the Board of Advisors",
+      "relation": "advisory_board",
+      "start_date": "2016",
+      "end_date": "2017",
+      "evidence": "Atlantic Council EuroGrowth Initiative, USA, Member of the Board of Advisors (2016-2017)",
+      "sentence": 10
+    },
+    {
+      "organisation": "Centrum Baltic Foundation, Finland",
+      "role": "Vice-Chairman of the International Board of Advisors",
+      "relation": "chair",
+      "start_date": "2016",
+      "end_date": "2019",
+      "evidence": "Vice-Chairman of the International Board of Advisors, Centrum Baltic Foundation, Finland (2016-2019)",
+      "sentence": 10
+    },
+    {
+      "organisation": "International Advisory Council on Reforms of the President of Ukraine",
+      "role": "Member",
+      "relation": "advisory_board",
+      "start_date": "2015",
+      "end_date": "2019",
+      "evidence": "Member of the International Advisory Council on Reforms of the President of Ukraine (2015-2019)",
+      "sentence": 10
+    },
+    {
+      "organisation": "Homeland Union-Lithuanian Christian Democrats",
+      "role": "Member",
+      "relation": "member",
+      "start_date": null,
+      "end_date": null,
+      "evidence": "Nature of membership Name of the organisation Area of activity of the organisation Member Homeland Union-Lithuanian Christian Democrats Political party",
+      "sentence": 27
+    }
+  ],
+  "deepseek-chat|1a65f5e052a61c93a07ef9d2b7bf243a9287c4fb25ef3475a3125c07d32b61c8": [],
+  "deepseek-chat|1c272fd13878e5b51a74d60100f7a0405e92bbbf8f75000d2438d88ec076c264": [
+    {
+      "organisation": "Aalborg University",
+      "role": "Adjunct professor",
+      "relation": "employed_by",
+      "start_date": null,
+      "end_date": null,
+      "evidence": "Nature of the post (during the above-mentioned period) Name of the institution Adjunct professor Aalborg University",
+      "sentence": 6
+    },
+    {
+      "organisation": "Socialdemokratiet, Danmark",
+      "role": "Member",
+      "relation": "member",
+      "start_date": null,
+      "end_date": null,
+      "evidence": "Nature of membership Name of the organisation Area of activity of the organisation Member Socialdemokratiet, Danmark",
+      "sentence": 27
+    },
+    {
+      "organisation": "Dansk Ornitologisk Forening",
+      "role": "Member",
+      "relation": "member",
+      "start_date": null,
+      "end_date": null,
+      "evidence": "Member Dansk Ornitologisk Forening",
+      "sentence": 27
+    },
+    {
+      "organisation": "European Council on Foreign Relations",
+      "role": "Member",
+      "relation": "member",
+      "start_date": null,
+      "end_date": null,
+      "evidence": "Member European Council on Foreign Relations",
+      "sentence": 27
+    }
+  ],
+  "deepseek-chat|8f395d5c7450b85989ca39495bfc4181d085ab398693428d44720d458c6de767": [
+    {
+      "organisation": "St. John’s CoCathedral Foundation",
+      "role": "Council President and Member",
+      "relation": "chair",
+      "start_date": "2021",
+      "end_date": "2024-07",
+      "evidence": "Council President and Member from 2021 until July 2024 St. John ’s CoCathedral Foundation St John's Co-Cathedral Foundation was established to administer and conserve the Co-Cathedral and its Museum",
+      "sentence": 4
+    },
+    {
+      "organisation": "Żabbar St. Patrick Football Club",
+      "role": "Vice President and Executive Member",
+      "relation": "board_member",
+      "start_date": "2021",
+      "end_date": "2024-09",
+      "evidence": "Vice President and Executive Member from 2021 until September 2024 Żabbar St. Patrick Football Club Maltese football club from the town of Żabbar in Malta",
+      "sentence": 4
+    },
+    {
+      "organisation": "Ghaqda Muzikali San Gużepp Kalkara",
+      "role": "Committee Member",
+      "relation": "member",
+      "start_date": "2021",
+      "end_date": "2023",
+      "evidence": "Committee Member from 2021 until 2023 Ghaqda Muzikali San Gużepp Kalkara Cultural organisation that teaches music, solidarity and assists in the organisation of the village feast of Kalkara in Malta",
+      "sentence": 4
+    },
+    {
+      "organisation": "Labour Youths Malta",
+      "role": "International Secretary and Vice President",
+      "relation": "member",
+      "start_date": "2014",
+      "end_date": "2018",
+      "evidence": "International Secretary and Vice President from 2014 until 2018 Labour Youths Malta The youth organisation of the Labour Party of Malta.",
+      "sentence": 4
+    },
+    {
+      "organisation": "International Union of Socialist Youth",
+      "role": "Control Commission Member",
+      "relation": "member",
+      "start_date": "2016",
+      "end_date": "2018",
+      "evidence": "Control Commission Member from 2016 until 2018 International Union of Socialist Youth The International Union of Socialist Youth is an international youth labour organisation, whose activities include publications, supporting member organisations and the organisation of meetings",
+      "sentence": 5
+    },
+    {
+      "organisation": "Partit Laburista (Labour Party) Malta",
+      "role": "Delegate (non-executive function)",
+      "relation": "member",
+      "start_date": null,
+      "end_date": null,
+      "evidence": "Nature of membership Name of the organisation Area of activity of the organisation Delegate (non-executive function) Partit Laburista (Labour Party) Malta Political Party",
+      "sentence": 28
+    }
+  ],
+  "deepseek-chat|024d38681714d06e74c9bb7d1438cca88764e1c081c958ebcde8226c5ef398bf": [
+    {
+      "organisation": "Robert Schuman Institute, Budapest, Hungary",
+      "role": "President of the Supervisory Board",
+      "relation": "chair",
+      "start_date": "2016-02",
+      "end_date": "2019-12",
+      "evidence": "President of the Supervisory Board (from February 2016-December 2019) Robert Schuman Institute, Budapest, Hungary The Institute organises political education and training events for politicians and parties belonging to the European People’s Party family",
+      "sentence": 4
+    },
+    {
+      "organisation": "European Commission",
+      "role": "Vice-President for Democracy and Demography",
+      "relation": "employed_by",
+      "start_date": "2019",
+      "end_date": "2024",
+      "evidence": "European Commission Vice-President for Democracy and Demography (2019-2024)",
+      "sentence": 10
+    },
+    {
+      "organisation": "European Parliament",
+      "role": "Member of the European Parliament",
+      "relation": "member",
+      "start_date": "2013",
+      "end_date": "2019",
+      "evidence": "Member of the European Parliament (2013 - 2019)",
+      "sentence": 10
+    },
+    {
+      "organisation": "Croatian Parliament",
+      "role": "Member of the Croatian Parliament",
+      "relation": "member",
+      "start_date": "2000",
+      "end_date": "2011",
+      "evidence": "Member of the Croatian Parliament (2000-2011)",
+      "sentence": 10
+    },
+    {
+      "organisation": "Congress of Local and Regional Authorities",
+      "role": "Vice-President of the Congress of Local and Regional Authorities",
+      "relation": "chair",
+      "start_date": "2004",
+      "end_date": "2014",
+      "evidence": "Vice-President of the Congress of Local and Regional Authorities (2004-2014)",
+      "sentence": 10
+    },
+    {
+      "organisation": "Dubrovnik",
+      "role": "Mayor of Dubrovnik",
+      "relation": "employed_by",
+      "start_date": "2001",
+      "end_date": "2009",
+      "evidence": "Mayor of Dubrovnik (2001-2009)",
+      "sentence": 10
+    },
+    {
+      "organisation": "HDZ (Croatian Democratic Union)",
+      "role": "Member",
+      "relation": "member",
+      "start_date": null,
+      "end_date": null,
+      "evidence": "Member HDZ (Croatian Democratic Union) Political Party",
+      "sentence": 27
+    },
+    {
+      "organisation": "Lions Club Dubrovnik",
+      "role": "Member",
+      "relation": "member",
+      "start_date": null,
+      "end_date": null,
+      "evidence": "Member Lions Club Dubrovnik Charity and culture",
+      "sentence": 27
+    },
+    {
+      "organisation": "European People's Party",
+      "role": "Vice-President",
+      "relation": "chair",
+      "start_date": null,
+      "end_date": null,
+      "evidence": "Vice-President European People's Party European Political Party",
+      "sentence": 27
+    },
+    {
+      "organisation": "HDZ (Croatian Democratic Union)",
+      "role": "Member of the Board/Vice-Chairman (position is political, not executive)",
+      "relation": "board_member",
+      "start_date": null,
+      "end_date": null,
+      "evidence": "HDZ (Croatian Democratic Union) Political Party Member of the Board/Vice-Chairman (position is political, not executive)",
+      "sentence": 28
+    },
+    {
+      "organisation": "International Democracy Union",
+      "role": "Member of the Board/Vice-Chairman (position is political, not executive)",
+      "relation": "board_member",
+      "start_date": null,
+      "end_date": null,
+      "evidence": "Member of the Board/Vice-Chairman (position is political, not executive) International Democracy Union International alliance of centre-right to right-wing political parties",
+      "sentence": 28
+    }
+  ],
+  "deepseek-chat|5a020367aed7867069e42ad185c833aa5897d542be7b537376ad4e4e7bb4eabe": [
+    {
+      "organisation": "Cyprus National Commission for UNESCO",
+      "role": "President",
+      "relation": "chair",
+      "start_date": "2024-02",
+      "end_date": "2024-09",
+      "evidence": "President, 02/2024 - 09/2024 (non-remunerated post, resigned) Cyprus National Commission for UNESCO - Foundation supported by the Government of Cyprus Main objective: to implement and promote projects and activities within the five main thematic sectors of UNESCO: Education, Natural Sciences, Culture, Social and Human Sciences, Communication and Information.",
+      "sentence": 4
+    },
+    {
+      "organisation": "Terra Cypria - the Cyprus Conservation",
+      "role": "Board Member",
+      "relation": "board_member",
+      "start_date": "2023-09",
+      "end_date": "2024-09",
+      "evidence": "Board Member, 09/2023 - 09/2024 (non-remunerated post, resigned) Terra Cypria - the Cyprus Conservation - Foundation, non-profit NGO Main objective: to promote environmental awareness and sustainability through pressure and environmental education, as well as through programmes that promote conservation, environmental protection and research.",
+      "sentence": 5
+    },
+    {
+      "organisation": "Frederick University, Cyprus",
+      "role": "Professor of Biodiversity Conservation, Head of Nature Conservation Unit, Dean of the School of Health Sciences, Deputy President of the University’s Council",
+      "relation": "employed_by",
+      "start_date": null,
+      "end_date": "2024-11",
+      "evidence": "Nature of the post (during the above-mentioned period) Name of the institution Professor of Biodiversity Conservation, Head of Nature Conservation Unit, Dean of the School of Health Sciences, Deputy President of the University’s Council (6/2023 – 11/2024, resigned) Frederick University, Cyprus (Private Institution)      I.3.",
+      "sentence": 7
+    },
+    {
+      "organisation": "University of West Attica",
+      "role": "Honorary Professor",
+      "relation": "affiliated_with",
+      "start_date": "2015",
+      "end_date": null,
+      "evidence": "Nature of the honorary post  Name of the body  Body's objective/activity  Honorary Professor (non-functioning honorary title) University of West Attica (since 2015) Public University in Greece Honorary Doctor (non-functioning honorary title) Agricultural University of Athens (since 2019) Public University in Greece Honorary Member (non-functioning honorary title) Cyprus Biological Society (since 2022) Scientific Society with the main purpose of promoting the Biological Sciences in Cyprus      II.2 Additional relevant information on other functions (e.g. other functions of an honorary nature and/or attributed for life)         NOT APPLICABLE  III.",
+      "sentence": 15
+    },
+    {
+      "organisation": "Agricultural University of Athens",
+      "role": "Honorary Doctor",
+      "relation": "affiliated_with",
+      "start_date": "2019",
+      "end_date": null,
+      "evidence": "Nature of the honorary post  Name of the body  Body's objective/activity  Honorary Professor (non-functioning honorary title) University of West Attica (since 2015) Public University in Greece Honorary Doctor (non-functioning honorary title) Agricultural University of Athens (since 2019) Public University in Greece Honorary Member (non-functioning honorary title) Cyprus Biological Society (since 2022) Scientific Society with the main purpose of promoting the Biological Sciences in Cyprus      II.2 Additional relevant information on other functions (e.g. other functions of an honorary nature and/or attributed for life)         NOT APPLICABLE  III.",
+      "sentence": 15
+    },
+    {
+      "organisation": "Cyprus Biological Society",
+      "role": "Honorary Member",
+      "relation": "member",
+      "start_date": "2022",
+      "end_date": null,
+      "evidence": "Nature of the honorary post  Name of the body  Body's objective/activity  Honorary Professor (non-functioning honorary title) University of West Attica (since 2015) Public University in Greece Honorary Doctor (non-functioning honorary title) Agricultural University of Athens (since 2019) Public University in Greece Honorary Member (non-functioning honorary title) Cyprus Biological Society (since 2022) Scientific Society with the main purpose of promoting the Biological Sciences in Cyprus      II.2 Additional relevant information on other functions (e.g. other functions of an honorary nature and/or attributed for life)         NOT APPLICABLE  III.",
+      "sentence": 15
+    }
+  ],
+  "deepseek-chat|4d0815fc2f6ed4359a5aa57b03d947c9725105fbaed3afd4c622785bdcb0a30b": [
+    {
+      "organisation": "Care-taker Government",
+      "role": "Deputy Prime Minister for Economic Policy and Minister of Regional Development and Public Works",
+      "relation": "employed_by",
+      "start_date": "2013-03",
+      "end_date": "2013-05",
+      "evidence": "Deputy Prime Minister for Economic Policy and Minister of Regional Development and Public Works in the Care-taker Government (March 2013 - May 2013)",
+      "sentence": 10
+    },
+    {
+      "organisation": "Office of the President of the Republic of Bulgaria",
+      "role": "Head of Cabinet of the President of the Republic of Bulgaria",
+      "relation": "employed_by",
+      "start_date": "2013-05",
+      "end_date": "2014-08",
+      "evidence": "Head of Cabinet of the President of the Republic of Bulgaria (May 2013 - August 2014)",
+      "sentence": 10
+    },
+    {
+      "organisation": "Care-taker Government",
+      "role": "Deputy Prime Minister for Economic Policy and Minister of Regional Development and Public Works",
+      "relation": "employed_by",
+      "start_date": "2014-08",
+      "end_date": "2014-11",
+      "evidence": "Deputy Prime Minister for Economic Policy and Minister of Regional Development and Public Works in the Care-taker Government (August 2014 - November 2014)",
+      "sentence": 10
+    },
+    {
+      "organisation": "Office of the President of the Republic of Bulgaria",
+      "role": "Head of Cabinet of the President of the Republic of Bulgaria",
+      "relation": "employed_by",
+      "start_date": "2014-11",
+      "end_date": "2015-12",
+      "evidence": "Head of Cabinet of the President of the Republic of Bulgaria (November 2014 - December 2015)",
+      "sentence": 10
+    },
+    {
+      "organisation": "Council of Ministers",
+      "role": "Minister of Justice",
+      "relation": "employed_by",
+      "start_date": "2015-12",
+      "end_date": "2017-01",
+      "evidence": "Minister of Justice (December 2015 - January 2017)",
+      "sentence": 10
+    },
+    {
+      "organisation": "Council of Ministers",
+      "role": "Deputy Prime Minister for Judicial Reform and Minister of Foreign Affairs",
+      "relation": "employed_by",
+      "start_date": "2017-05",
+      "end_date": "2021-05",
+      "evidence": "Deputy Prime Minister for Judicial Reform and Minister of Foreign Affairs (May 2017 - May 2021",
+      "sentence": 10
+    },
+    {
+      "organisation": "National Assembly",
+      "role": "Member of the 49th National Assembly, 48th National Assembly, 47th National Assembly, 46th National Assembly, 45th National Assembly, 44th National Assembly",
+      "relation": "member",
+      "start_date": "2017",
+      "end_date": "2024",
+      "evidence": "Member of the 49th National Assembly, 48th National Assembly, 47th National Assembly, 46th National Assembly, 45th National Assembly, 44th National Assembly (2017-2024, except for periods as a Member of Council of Ministers and Manager Investment Projects, Anzak Invest OOD of the periods specified)",
+      "sentence": 10
+    },
+    {
+      "organisation": "Anzak Invest OOD",
+      "role": "Manager Investment Projects",
+      "relation": "employed_by",
+      "start_date": "2017",
+      "end_date": "2023",
+      "evidence": "2017-2023: five short-term assignments of two months as Project Manager (support to ongoing projects) at Anzak Invest OOD (\"OOD\" abbreviation means in Bulgarian \"limited liability company\").",
+      "sentence": 10
+    },
+    {
+      "organisation": "National Assembly",
+      "role": "Member of the 50th National Assembly",
+      "relation": "member",
+      "start_date": "2024-06",
+      "end_date": "2024-09-19",
+      "evidence": "Member of the 50th National Assembly (June 2024 - 19.09.2024)",
+      "sentence": 10
+    },
+    {
+      "organisation": "GERB (\"Citizens for European Development of Bulgaria\")",
+      "role": "Party member",
+      "relation": "member",
+      "start_date": null,
+      "end_date": null,
+      "evidence": "Party member GERB (\"Citizens for European Development of Bulgaria\") Political party (Bulgaria), affiliated to the European People’s Party",
+      "sentence": 31
+    }
+  ],
+  "deepseek-chat|f2fbbfbd9a4b13f78d0a8ccfe3f194cfee235c66ba6e78c10edd4b95f6a10055": [
+    {
+      "organisation": "Business Club Belgium-Luxembourg",
+      "role": "Co-Founder and Secretary-General",
+      "relation": "founder",
+      "start_date": "2017",
+      "end_date": "2024",
+      "evidence": "Co-Founder and Secretary-General (2017-2024) Business Club Belgium-Luxembourg Promotion of cultural and economic ties between Belgium and Luxembourg",
+      "sentence": 4
+    },
+    {
+      "organisation": "Union des Sociétés Avicoles du Grand-Duché du Luxembourg (USAL/non-profit)",
+      "role": "President",
+      "relation": "chair",
+      "start_date": "2015",
+      "end_date": "2024",
+      "evidence": "President (2015-2024) Union des Sociétés Avicoles du Grand-Duché du Luxembourg (USAL/non-profit) Small animals breeding association",
+      "sentence": 4
+    },
+    {
+      "organisation": "COOPERATIONS a.s.b.l.",
+      "role": "Vice-Chair",
+      "relation": "chair",
+      "start_date": "2016",
+      "end_date": "2024",
+      "evidence": "Vice-Chair (2016-2024) COOPERATIONS a.s.b.l.",
+      "sentence": 4
+    },
+    {
+      "organisation": "European Parliament",
+      "role": "Member of the European Parliament",
+      "relation": "member",
+      "start_date": "2019",
+      "end_date": "2023",
+      "evidence": "Member of the European Parliament (2019-2023; 7-11/2024)",
+      "sentence": 11
+    },
+    {
+      "organisation": "European Parliament",
+      "role": "Member of the European Parliament",
+      "relation": "member",
+      "start_date": "2024-07",
+      "end_date": "2024-11",
+      "evidence": "Member of the European Parliament (2019-2023; 7-11/2024)",
+      "sentence": 11
+    },
+    {
+      "organisation": "Luxembourgish Parliament",
+      "role": "Member of the Luxembourgish Parliament, Chairman of the Committee on Environment, Climate and Biodiversity",
+      "relation": "member",
+      "start_date": "2023-10",
+      "end_date": "2024-07",
+      "evidence": "Member of the Luxembourgish Parliament, Chairman of the Committee on Environment, Climate and Biodiversity (10/2023-07/2024)",
+      "sentence": 11
+    },
+    {
+      "organisation": "Christian Social People’s Party (CSV)",
+      "role": "Secretary-General",
+      "relation": "employed_by",
+      "start_date": "2021",
+      "end_date": "2024",
+      "evidence": "Secretary-General, Christian Social People’s Party (CSV) (2021-2024)",
+      "sentence": 11
+    },
+    {
+      "organisation": "Municipal Council Winseler",
+      "role": "Counsellor",
+      "relation": "member",
+      "start_date": "2011",
+      "end_date": "2022",
+      "evidence": "Counsellor – Municipal Council Winseler (2011-2022)",
+      "sentence": 11
+    },
+    {
+      "organisation": "Christian Social People’s Party - Committee of the North District",
+      "role": "President",
+      "relation": "chair",
+      "start_date": "2018",
+      "end_date": "2021",
+      "evidence": "President, Christian Social People’s Party - Committee of the North District (2018-2021)",
+      "sentence": 11
+    },
+    {
+      "organisation": "European Economic and Social Committee",
+      "role": "Member",
+      "relation": "member",
+      "start_date": "2017",
+      "end_date": "2018",
+      "evidence": "Member of the European Economic and Social Committee (2017-2018)",
+      "sentence": 11
+    },
+    {
+      "organisation": "Luxembourg Chamber of Commerce",
+      "role": "European Affairs Office",
+      "relation": "employed_by",
+      "start_date": "2016",
+      "end_date": "2018",
+      "evidence": "European Affairs Office, Luxembourg Chamber of Commerce (2016-2018)",
+      "sentence": 11
+    },
+    {
+      "organisation": "Embassy of Luxembourg in Brussels",
+      "role": "Economic and Commercial attaché",
+      "relation": "employed_by",
+      "start_date": "2016",
+      "end_date": "2018",
+      "evidence": "Economic and Commercial attaché, Embassy of Luxembourg in Brussels (2016-2018)",
+      "sentence": 11
+    },
+    {
+      "organisation": "Permanent Representation of Luxembourg to the European Union",
+      "role": "Permanent Representation of Luxembourg to the European Union",
+      "relation": "employed_by",
+      "start_date": "2014",
+      "end_date": "2016",
+      "evidence": "Permanent Representation of Luxembourg to the European Union (2014-2016); president of the Council Working Party on the Environment during the Luxembourgish Presidency of the Council of the European Union in 2015",
+      "sentence": 11
+    },
+    {
+      "organisation": "Christian Social People’s Party (CSV)",
+      "role": "Member",
+      "relation": "member",
+      "start_date": null,
+      "end_date": null,
+      "evidence": "Member Christian Social People’s Party Political Party member of the (CSV) EPP",
+      "sentence": 28
+    }
+  ],
+  "deepseek-chat|7c1cb6744a510e577ffa0dedd074a270696d01575d3beb3aafd73753d30b9702": [
+    {
+      "organisation": "Les Passeurs de Lumière ASBL",
+      "role": "Administrateur",
+      "relation": "board_member",
+      "start_date": "2006",
+      "end_date": "2022",
+      "evidence": "Administrateur (2006-2022) 'Les Passeurs de Lumière' ASBL Documentaries/Culture/Conférences",
+      "sentence": 4
+    },
+    {
+      "organisation": "The Factory",
+      "role": "Administrator",
+      "relation": "board_member",
+      "start_date": "2020",
+      "end_date": "2022",
+      "evidence": "Administrator (2020-2022) The Factory Theater-Art- performance",
+      "sentence": 4
+    },
+    {
+      "organisation": "Fondation pour les Arts",
+      "role": "Administrator",
+      "relation": "board_member",
+      "start_date": "2021",
+      "end_date": "2023",
+      "evidence": "Administrator (2021-2023) Fondation pour les Arts Cultural agenda and support the Culture life in Belgium",
+      "sentence": 4
+    },
+    {
+      "organisation": "Cinematheque Royale de Belgique",
+      "role": "Administrator",
+      "relation": "board_member",
+      "start_date": "2021",
+      "end_date": "2024",
+      "evidence": "Administrator (2021 -2024) Cinematheque Royale de Belgique (Cinema and Archives)",
+      "sentence": 4
+    },
+    {
+      "organisation": "KANAL-Pompidou Foundation",
+      "role": "Administrator",
+      "relation": "board_member",
+      "start_date": "2021",
+      "end_date": "2023",
+      "evidence": "Administrator (2021-2023) KANAL-Pompidou Foundation Contemporary Art Museum in Brussels",
+      "sentence": 4
+    },
+    {
+      "organisation": "CSEM - Conseil supérieur pour l'éducation aux médias",
+      "role": "Vice-president of the Board",
+      "relation": "board_member",
+      "start_date": "2021",
+      "end_date": "2022",
+      "evidence": "Vice-president of the Board (2021-2022) CSEM - Conseil supérieur pour l'éducation aux médias Media education-information",
+      "sentence": 4
+    },
+    {
+      "organisation": "Théâtre des Galeries",
+      "role": "President of Honour",
+      "relation": "chair",
+      "start_date": "2022",
+      "end_date": "2024",
+      "evidence": "(President of Honour) (2022-2024) Théâtre des Galeries Theater",
+      "sentence": 4
+    },
+    {
+      "organisation": "ULB - Université Libre de Bruxelles",
+      "role": "Member of scientific Committee",
+      "relation": "advisory_board",
+      "start_date": "2017",
+      "end_date": null,
+      "evidence": "Member of scientific Committee The year of diversity - 2017 ULB - Université Libre de Bruxelles",
+      "sentence": 6
+    },
+    {
+      "organisation": "brussels regional parliament",
+      "role": "deputy",
+      "relation": "employed_by",
+      "start_date": "2024-06",
+      "end_date": "2024-11",
+      "evidence": "06.2024-11.2024: deputy in the brussels regional parliament",
+      "sentence": 10
+    },
+    {
+      "organisation": "Minister for Foreign Affairs, European Affairs, Foreign Trade and Federal Cultural Institutions",
+      "role": "Minister",
+      "relation": "employed_by",
+      "start_date": "2022",
+      "end_date": "2024",
+      "evidence": "2022-2024 : Minister for Foreign Affairs, European Affairs, Foreign Trade and Federal Cultural Institutions",
+      "sentence": 10
+    },
+    {
+      "organisation": "RTBF (radio télévision belge francophone)",
+      "role": "Journalist",
+      "relation": "employed_by",
+      "start_date": "1997",
+      "end_date": "2022",
+      "evidence": "1997-2022: Journalist - RTBF (radio télévision belge francophone)",
+      "sentence": 10
+    },
+    {
+      "organisation": "Brussels2030 ASBL",
+      "role": "Advisory consulting and project managment",
+      "relation": "advisory_board",
+      "start_date": "2020",
+      "end_date": "2022",
+      "evidence": "2020-2022 \"Brussels2030\" ASBL- Culture- City development for the European Capital of culture in 2030- Advisory consulting and project managment",
+      "sentence": 10
+    },
+    {
+      "organisation": "MR- Mouvement réformateur",
+      "role": "Member",
+      "relation": "member",
+      "start_date": null,
+      "end_date": null,
+      "evidence": "Member MR- Mouvement réformateur Political party",
+      "sentence": 27
+    }
+  ],
+  "deepseek-chat|ebd1a84fc7cf273dc2f144f79a39af22591cb977883ddb5498e8ffa5b02d81df": [
+    {
+      "organisation": "Committee of the Slovak Atlantic Commission",
+      "role": "Honorary Member",
+      "relation": "member",
+      "start_date": null,
+      "end_date": null,
+      "evidence": "Honorary Member of the Committee of the Slovak Atlantic Commission",
+      "sentence": 4
+    }
+  ],
+  "deepseek-chat|32e6691b9f930319165f32df3309d3f0ce31d297cb3bed6523ac3de59e6749b5": [
+    {
+      "organisation": "Vaider Glass A.G.",
+      "role": "Adviser to the Board",
+      "relation": "advisory_board",
+      "start_date": "2025",
+      "end_date": null,
+      "evidence": "Adviser to the Board, since 2025 Vaider Glass A.G.",
+      "sentence": 39
+    }
+  ],
+  "deepseek-chat|c97d4e245ef8b4666afc10c8b577f2d561f130569d5c4c5aa95e74cbaad14606": [
+    {
+      "organisation": "Slovenska sporitelna, a.s.",
+      "role": "CEO and Chairman of the Board",
+      "relation": "chair",
+      "start_date": "2010",
+      "end_date": "2014",
+      "evidence": "2010 – 2014 : CEO and Chairman of the Board Slovenska sporitelna, a.s.",
+      "sentence": 8
+    },
+    {
+      "organisation": "Prva stavebna sporitelna, a.s.",
+      "role": "Member, Deputy Chairman, Chairman of the Supervisory Board",
+      "relation": "board_member",
+      "start_date": "2010",
+      "end_date": "2019",
+      "evidence": "2010 – 2019: Member, Deputy Chairman, Chairman of the Supervisory Board Prva stavebna sporitelna, a.s.",
+      "sentence": 9
+    },
+    {
+      "organisation": "Erste Group Immorent AG",
+      "role": "Member of the Supervisory Board",
+      "relation": "board_member",
+      "start_date": "2015",
+      "end_date": "2017",
+      "evidence": "2015 – 2017: Member of the Supervisory Board Erste Group Immorent AG Real estate financing",
+      "sentence": 10
+    },
+    {
+      "organisation": "Oesterreichische Kontrollbank AG",
+      "role": "Member of the Supervisory Board",
+      "relation": "board_member",
+      "start_date": "2015",
+      "end_date": "2019",
+      "evidence": "2015 – 2019: Member of the Supervisory Board Oesterreichische Kontrollbank AG Financial services provider",
+      "sentence": 10
+    },
+    {
+      "organisation": "Erste Group Bank AG",
+      "role": "Member of the Board of Directors",
+      "relation": "board_member",
+      "start_date": "2015",
+      "end_date": "2019",
+      "evidence": "2015 – 2019: Member of the Board of Directors Erste Group Bank AG Banking",
+      "sentence": 10
+    },
+    {
+      "organisation": "Erste Group Bank AG",
+      "role": "Adviser to the Holding Board",
+      "relation": "affiliated_with",
+      "start_date": "2019",
+      "end_date": "2020",
+      "evidence": "2019 – 2020: Adviser to the Holding Board Erste Group Bank AG Banking",
+      "sentence": 10
+    },
+    {
+      "organisation": "Primefund",
+      "role": "partner",
+      "relation": "affiliated_with",
+      "start_date": "2021",
+      "end_date": null,
+      "evidence": "2021 – Self-employed, partner of Primefund, a qualified investor fund focused on innovation and technology, Consulting",
+      "sentence": 12
+    },
+    {
+      "organisation": "Government of the Czech Republic",
+      "role": "Government II",
+      "relation": "affiliated_with",
+      "start_date": "2021",
+      "end_date": "2024-10-07",
+      "evidence": "2021 – 07/10/2024; Government of the Czech Republic, Government II.",
+      "sentence": 12
+    },
+    {
+      "organisation": "Professor Charvat Foundation Fund, 3rd Internal Medicine Clinic, 1st Medical Faculty of Charles University and General University Hospital in Prague",
+      "role": "Member of the Supervisory Board",
+      "relation": "board_member",
+      "start_date": "2020",
+      "end_date": "2025",
+      "evidence": "2020 – 2025 : Member of the Supervisory Board Professor Charvat Foundation Fund, 3rd Internal Medicine Clinic, 1st Medical Faculty of Charles University and General University Hospital in Prague",
+      "sentence": 16
+    }
+  ],
+  "deepseek-chat|51cc775f8cb47b01a5a63cbc5ca92db9b170c1a9aa3a6bd49d9b2220cf3c240e": [
+    {
+      "organisation": "European Council on Foreign Relations",
+      "role": "Member of Council",
+      "relation": "member",
+      "start_date": "2016",
+      "end_date": "2024",
+      "evidence": "Member of Council since 2016 -2024 European Council on Foreign Relations Research on European Foreign and Security policy",
+      "sentence": 4
+    },
+    {
+      "organisation": "Women Economic Forum",
+      "role": "Advisory Board Member",
+      "relation": "advisory_board",
+      "start_date": "2018",
+      "end_date": "2018",
+      "evidence": "Advisory Board Member in 2018 Women Economic Forum Empowering women",
+      "sentence": 4
+    },
+    {
+      "organisation": "Model European Union Tallinn",
+      "role": "Patron",
+      "relation": "affiliated_with",
+      "start_date": "2017",
+      "end_date": "2017",
+      "evidence": "Patron in 2017 Model European Union Tallinn Improving knowledge about the EU",
+      "sentence": 4
+    },
+    {
+      "organisation": "European Liberal Youth",
+      "role": "Mentor",
+      "relation": "affiliated_with",
+      "start_date": "2016",
+      "end_date": "2017",
+      "evidence": "Mentor in 2016-2017 European Liberal Youth Improving knowledge about the EU",
+      "sentence": 4
+    },
+    {
+      "organisation": "Creative Business Cap",
+      "role": "Patron",
+      "relation": "affiliated_with",
+      "start_date": "2016",
+      "end_date": "2016",
+      "evidence": "Patron in 2016 Creative Business Cap Empowering creative and innovative startups",
+      "sentence": 4
+    },
+    {
+      "organisation": "European Internet Forum",
+      "role": "Member",
+      "relation": "member",
+      "start_date": null,
+      "end_date": "2024",
+      "evidence": "Member until 2024 European Internet Forum Promoting internet freedom",
+      "sentence": 4
+    },
+    {
+      "organisation": "Reform Party",
+      "role": "President",
+      "relation": "chair",
+      "start_date": "2018",
+      "end_date": "2024",
+      "evidence": "2018 – 2024 President of the Reform Party",
+      "sentence": 10
+    },
+    {
+      "organisation": "Reform Party",
+      "role": "Vice-President",
+      "relation": "chair",
+      "start_date": "2013",
+      "end_date": "2018",
+      "evidence": "2013 – 2018 Vice-President of the Reform Party",
+      "sentence": 10
+    },
+    {
+      "organisation": "Reform Party",
+      "role": "Member",
+      "relation": "member",
+      "start_date": "2010",
+      "end_date": null,
+      "evidence": "Member since 2010 Reform Party Political organisation",
+      "sentence": 27
+    },
+    {
+      "organisation": "Estonian Bar Association",
+      "role": "Member",
+      "relation": "member",
+      "start_date": "1999",
+      "end_date": null,
+      "evidence": "Member since 1999 (membership suspended since 2011) Estonian Bar Association Legal profession",
+      "sentence": 27
+    }
+  ],
+  "deepseek-chat|01c4e5956e08145698d8cdb9feb636e1c5660110849980d8c78110718e55ecc0": [],
+  "deepseek-chat|c5f29221a08f956fcfcadf5bd96ac8da74db64bd9fac1c9fc470b734324ded59": [],
+  "deepseek-chat|2f6cf8edf729af101c515aee2d9703b3a9cb6cf8d6d2305364b7958faf0f8d6e": [
+    {
+      "organisation": "Association for Cooperation of Female Experts and Promoting the Knowledge ONAVE",
+      "role": "Cofounder and President",
+      "relation": "founder",
+      "start_date": "2021-06",
+      "end_date": "2024-09-17",
+      "evidence": "Cofounder and President (June 2021 – September 17, 2024) Association for Cooperation of Female Experts and Promoting the Knowledge ONAVE Promoting women’s presence in the public space, including media",
+      "sentence": 4
+    },
+    {
+      "organisation": "Committee for Prizes and Awards, Olympic Committee of Slovenia",
+      "role": "Vice-President",
+      "relation": "chair",
+      "start_date": "2023-06-15",
+      "end_date": "2024-09-17",
+      "evidence": "Vice-President (June 15, 2023 - September 17, 2024) Committee for Prizes and Awards, Olympic Committee of Slovenia Organization and promotion of prizes and awards in different fields of sports",
+      "sentence": 4
+    },
+    {
+      "organisation": "Committee for Sport and Economic Diplomacy, Olympic Committee of Slovenia",
+      "role": "Member",
+      "relation": "member",
+      "start_date": "2023-04-20",
+      "end_date": "2024-09-17",
+      "evidence": "Member (April 20, 2023 - September 17, 2024) Committee for Sport and Economic Diplomacy, Olympic Committee of Slovenia Promotion of presence of Slovenians in the international sports organizations and economic promotion through sports",
+      "sentence": 4
+    },
+    {
+      "organisation": "Supervisory Board of MAIERHOFER Schweiz AG",
+      "role": "Vice-President and President",
+      "relation": "board_member",
+      "start_date": "2023-03-16",
+      "end_date": "2024-09-17",
+      "evidence": "Vice-President and President (March 16, 2023 - September 17, 2024) Supervisory Board of MAIERHOFER Schweiz AG Interior Design",
+      "sentence": 8
+    },
+    {
+      "organisation": "Republic of Slovenia",
+      "role": "Ambassador of the Republic of Slovenia to Germany and Latvia (non-residential)",
+      "relation": "employed_by",
+      "start_date": "2013",
+      "end_date": "2017",
+      "evidence": "Ambassador of the Republic of Slovenia to Germany and Latvia (non-residential) 2013 – 2017",
+      "sentence": 10
+    },
+    {
+      "organisation": "Republic of Slovenia",
+      "role": "Ambassador of the Republic of Slovenia to Switzerland and Lichtenstein (non-residential)",
+      "relation": "employed_by",
+      "start_date": "2017",
+      "end_date": "2020",
+      "evidence": "Ambassador of the Republic of Slovenia to Switzerland and Lichtenstein (non-residential) 2017-2020",
+      "sentence": 10
+    },
+    {
+      "organisation": "KOS CONSULTING & COACHING",
+      "role": "sole proprietorship",
+      "relation": "employed_by",
+      "start_date": "2021",
+      "end_date": "2024",
+      "evidence": "KOS CONSULTING & COACHING; sole proprietorship; from 2021-2024",
+      "sentence": 10
+    },
+    {
+      "organisation": "Gibanje Svoboda",
+      "role": "Member",
+      "relation": "member",
+      "start_date": "2022-04",
+      "end_date": "2022-12",
+      "evidence": "Member (from April 2022 – to December 2022) Gibanje Svoboda Political party",
+      "sentence": 29
+    },
+    {
+      "organisation": "CEPS",
+      "role": "Member of Board",
+      "relation": "board_member",
+      "start_date": "2025",
+      "end_date": null,
+      "evidence": "Member of Board, since 2025 CEPS The Board is the strategic organ of the organization and provides for strategic direction and supervision of the management team.",
+      "sentence": 36
+    },
+    {
+      "organisation": "Transparency International (Switzerland)",
+      "role": "Member of Board",
+      "relation": "board_member",
+      "start_date": "2025",
+      "end_date": null,
+      "evidence": "Member of Board, since 2025 Transparency International (Switzerland) Vaider Glass is a company active in the glass packing sector.",
+      "sentence": 37
+    },
+    {
+      "organisation": "Vaider Glass A.G.",
+      "role": "Adviser to the Board",
+      "relation": "advisory_board",
+      "start_date": "2025",
+      "end_date": null,
+      "evidence": "Adviser to the Board, since 2025 Vaider Glass A.G.",
+      "sentence": 39
+    }
+  ],
+  "deepseek-chat|d4c9258e2526dcff9d095ba6b2e593954e1f5a09aaaedd5cc28fedb2d1f6c56f": [
+    {
+      "organisation": "Chartered Accountants Ireland",
+      "role": "Member of the Audit, Risk and Finance Board",
+      "relation": "board_member",
+      "start_date": "2019",
+      "end_date": "2020",
+      "evidence": "Member of the Audit, Risk and Finance Board (2019-2020) Chartered Accountants Ireland Chartered Accountants lreland is a professional body representing members across t he globe.",
+      "sentence": 4
+    },
+    {
+      "organisation": "Government of lreland",
+      "role": "Minister for Finance",
+      "relation": "employed_by",
+      "start_date": "2022",
+      "end_date": "2024",
+      "evidence": "Minister for Finance, Government of lreland, 2022 - 2024",
+      "sentence": 11
+    },
+    {
+      "organisation": "Government of lreland",
+      "role": "Minister for Public Expenditure and Reform",
+      "relation": "employed_by",
+      "start_date": "2020",
+      "end_date": "2022",
+      "evidence": "Minister for Public Expenditure and Reform, Government of lreland, 2020 - 2022",
+      "sentence": 11
+    },
+    {
+      "organisation": "Dáil Éireann (Irish Parliament)",
+      "role": "Member of Dáil Éireann",
+      "relation": "member",
+      "start_date": "2007",
+      "end_date": "2024-11",
+      "evidence": "Member of Dáil Éireann (Irish Parliament) 2007 - November 2024",
+      "sentence": 11
+    },
+    {
+      "organisation": "Parliamentary Committees",
+      "role": "Member of Parliamentary Committees",
+      "relation": "member",
+      "start_date": "2007",
+      "end_date": "2020",
+      "evidence": "Member of Parliamentary Committees, 2007 - 2020",
+      "sentence": 11
+    },
+    {
+      "organisation": "Fianna Fáil",
+      "role": "Registered member",
+      "relation": "member",
+      "start_date": null,
+      "end_date": null,
+      "evidence": "Registered member Fianna Fáil Registered Political Party in Ireland",
+      "sentence": 28
+    },
+    {
+      "organisation": "Chartered Accountants Ireland",
+      "role": "Fellow (member of more than 10 years standing)",
+      "relation": "fellow",
+      "start_date": null,
+      "end_date": null,
+      "evidence": "Fellow (member of more than 10 years standing) Chartered Accountants Ireland A professional accountancy association representing members globally",
+      "sentence": 28
+    }
+  ],
+  "deepseek-chat|6bec4f7f57310bd16925c8555aad798c1e7f7125adde99d3e6d1b95a4824e6b8": [
+    {
+      "organisation": "Austrian Tennis Association",
+      "role": "President",
+      "relation": "chair",
+      "start_date": "2020-10-26",
+      "end_date": "2022-01-28",
+      "evidence": "President of the Austrian Tennis Association [Österreichischer Tennisverband] - 26.10.2020–28.01.2022 Austrian Tennis Association Safeguarding the interests and maintaining the image of tennis in Austria",
+      "sentence": 4
+    },
+    {
+      "organisation": "Austrian Tennis Association",
+      "role": "Vice-President",
+      "relation": "chair",
+      "start_date": "2013-03-03",
+      "end_date": "2015-03-01",
+      "evidence": "Vice-President of the Austrian Tennis Association - 3.3.2013–1.3.2015 Austrian Tennis Association Safeguarding the interests and maintaining the image of tennis in Austria",
+      "sentence": 4
+    },
+    {
+      "organisation": "Vorarlberg Symphony Orchestra",
+      "role": "Vice-President",
+      "relation": "chair",
+      "start_date": "2015-04-20",
+      "end_date": "2025-11-30",
+      "evidence": "Vice-President of the Vorarlberg Symphony Orchestra [Symphonieorchester Vorarlberg] - 20.4.2015–30.11.2025 Vorarlberg Symphony Orchestra Promotion of Austrian arts and culture in the field of music",
+      "sentence": 4
+    },
+    {
+      "organisation": "Alpine Equity Management GmbH",
+      "role": "Member of the Supervisory Board",
+      "relation": "board_member",
+      "start_date": "2010-11-30",
+      "end_date": "2014-09-02",
+      "evidence": "Member of the Supervisory Board of Alpine Equity - 30.11.2010–2.9.2014 Alpine Equity Management GmbH Investment in selected companies in the German-speaking area",
+      "sentence": 8
+    },
+    {
+      "organisation": "CISMO Clearing Integrated Services and Market Operations",
+      "role": "Member of the Supervisory Board",
+      "relation": "board_member",
+      "start_date": "2011-08-02",
+      "end_date": "2019-04-04",
+      "evidence": "Member of the Supervisory Board of CISMO Clearing Integrated Services and Market Operations - 2.8.2011–4.4.2019 CISMO Clearing Integrated Services and Market Operations Provision of energy services",
+      "sentence": 8
+    },
+    {
+      "organisation": "Stadtwerke Bregenz",
+      "role": "Member of the Supervisory Board",
+      "relation": "board_member",
+      "start_date": "2010-11-09",
+      "end_date": "2013-08-13",
+      "evidence": "Member of the Supervisory Board of Stadtwerke Bregenz [Bregenz municipal utilities] - 9.11.2010–13.8.2013 Stadtwerke Bregenz Municipal infrastructure service provider for the City of Bregenz",
+      "sentence": 8
+    },
+    {
+      "organisation": "OeMAG Abwicklungsstelle für Ökostrom AG",
+      "role": "CEO",
+      "relation": "employed_by",
+      "start_date": "2007-01-12",
+      "end_date": "2020-01-14",
+      "evidence": "CEO - 12.1.2007–14.1.2020 OeMAG Abwicklungsstelle für Ökostrom AG [Green Electricity Settlement Centre] Managing support for renewable energy",
+      "sentence": 8
+    },
+    {
+      "organisation": "Republic of Austria",
+      "role": "Minister of Finance",
+      "relation": "employed_by",
+      "start_date": "2021-12-06",
+      "end_date": "2024-11-20",
+      "evidence": "Minister of Finance of the Republic of Austria - 6.12.2021–20.11.2024",
+      "sentence": 10
+    },
+    {
+      "organisation": "Federal Ministry of Climate Action, Environment, Energy, Mobility, Innovation and Technology of the Republic of Austria",
+      "role": "State Secretary",
+      "relation": "employed_by",
+      "start_date": "2020-01-29",
+      "end_date": "2021-12-06",
+      "evidence": "State Secretary, Federal Ministry of Climate Action, Environment, Energy, Mobility, Innovation and Technology of the Republic of Austria - 29.1.2020–6.12.2021",
+      "sentence": 10
+    },
+    {
+      "organisation": "Federal Ministry of Transport, Innovation and Technology",
+      "role": "State Secretary",
+      "relation": "employed_by",
+      "start_date": "2020-01-07",
+      "end_date": "2020-01-29",
+      "evidence": "State Secretary, Federal Ministry of Transport, Innovation and Technology - 7.1.2020–29.1.2020",
+      "sentence": 10
+    },
+    {
+      "organisation": "Bundesrat",
+      "role": "Vice-President",
+      "relation": "chair",
+      "start_date": "2018-04-03",
+      "end_date": "2020-01-13",
+      "evidence": "Vice-President of the Bundesrat [the upper house of the Austrian Parliament] - 3.4.2018–5.11.2019 and 5.12.2019–13.1.2020",
+      "sentence": 10
+    },
+    {
+      "organisation": "Bundesrat",
+      "role": "Member",
+      "relation": "member",
+      "start_date": "2009-05-01",
+      "end_date": "2020-01-13",
+      "evidence": "Member of the Bundesrat - 1.5.2009–13.1.2020",
+      "sentence": 10
+    },
+    {
+      "organisation": "Austrian People’s Party [Österreichische Volkspartei – ÖVP] Vorarlberg",
+      "role": "Member",
+      "relation": "member",
+      "start_date": null,
+      "end_date": null,
+      "evidence": "Member Austrian People’s Party [Österreichische Volkspartei – ÖVP] Vorarlberg Austrian People’s Party",
+      "sentence": 27
+    },
+    {
+      "organisation": "Wirtschaftsbund Österreich",
+      "role": "Member",
+      "relation": "member",
+      "start_date": null,
+      "end_date": null,
+      "evidence": "Member Wirtschaftsbund Österreich [Austrian Economic Association] Constituent organisation of the Austrian People’s Party",
+      "sentence": 27
+    }
+  ],
+  "deepseek-chat|0ca3a1face0333f7b72211bfab8d0a30748916bdf7e84fdd4d083ba31ff37b8d": [
+    {
+      "organisation": "The Atlantic Council of Finland ACF",
+      "role": "Member of the Board of Directors",
+      "relation": "board_member",
+      "start_date": "2021",
+      "end_date": "2024-11",
+      "evidence": "Member of the Board of Directors, 2021-November 2024 The Atlantic Council of Finland ACF An independent, non-partisan, non-governmental and non-profit organisation promoting transatlantic discussion, research and education on foreign and security policy",
+      "sentence": 4
+    },
+    {
+      "organisation": "Toivo Ajatuspaja – Kansallinen Kulttuurisäätiö Foundation",
+      "role": "Chair",
+      "relation": "chair",
+      "start_date": "2020",
+      "end_date": "2024-11",
+      "evidence": "Chair, 2020-November 2024 Toivo Ajatuspaja – Kansallinen Kulttuurisäätiö Foundation A non-profit, centre-right foundation and think-tank, member organisation of the Wilfried Martens Centre for European Studies",
+      "sentence": 4
+    },
+    {
+      "organisation": "Jyväskylän Kirittäret",
+      "role": "Chair",
+      "relation": "chair",
+      "start_date": "2020",
+      "end_date": "2024-11",
+      "evidence": "Chair, 2020-November 2024 Jyväskylän Kirittäret A Finnish female baseball team",
+      "sentence": 4
+    },
+    {
+      "organisation": "EPP SME Circle",
+      "role": "Co-Chair",
+      "relation": "chair",
+      "start_date": "2019",
+      "end_date": "2024-10",
+      "evidence": "Co-Chair, 2019-October 2024 EPP SME Circle An informal grouping of the EPP MEPs working to advance the viewpoint of SMEs in policy making",
+      "sentence": 4
+    },
+    {
+      "organisation": "Finnish National Commission for UNESCO",
+      "role": "Chair",
+      "relation": "chair",
+      "start_date": "2019",
+      "end_date": "2022",
+      "evidence": "Chair, 2019-2022 Finnish National Commission for UNESCO An advisory body which issues opinions to the Ministry of Education and Culture and to the Government of Finland",
+      "sentence": 4
+    },
+    {
+      "organisation": "Finnish Association for Horse Owners – Suomen Hevosomistajien Keskusliitto ry",
+      "role": "Chair",
+      "relation": "chair",
+      "start_date": "2019",
+      "end_date": "2023",
+      "evidence": "Chair, 2019-2023 Finnish Association for Horse Owners – Suomen Hevosomistajien Keskusliitto ry A common interest organisation of horse owners in Finland",
+      "sentence": 4
+    },
+    {
+      "organisation": "Finland’s national central organisation for trotting and horse breeding – Suomen Hippos ry",
+      "role": "Delegation member",
+      "relation": "member",
+      "start_date": "2021",
+      "end_date": "2023",
+      "evidence": "Delegation member, 2021-2023 Finland’s national central organisation for trotting and horse breeding – Suomen Hippos ry Organisation maintaining a register of horse breeds bred in Finland and supervising trotting race activities",
+      "sentence": 4
+    },
+    {
+      "organisation": "European Energy Forum",
+      "role": "Member of the Board",
+      "relation": "board_member",
+      "start_date": "2024-07",
+      "end_date": "2024-09",
+      "evidence": "Member of the Board, July 2024-September 2024 European Energy Forum A non-profit organisation focused on energy topics, connecting MEPs with private and public stakeholders",
+      "sentence": 4
+    },
+    {
+      "organisation": "Animal welfare intergroup",
+      "role": "Member",
+      "relation": "member",
+      "start_date": "2014",
+      "end_date": "2024",
+      "evidence": "Member, 2014-2024 A function linked to the MEP status, 8th and 9th legislature of the European Parliament Animal welfare intergroup Grouping of MEPs working to advance animal welfare and conservation in EU policy making",
+      "sentence": 4
+    },
+    {
+      "organisation": "LGBTI intergroup",
+      "role": "Member",
+      "relation": "member",
+      "start_date": "2014",
+      "end_date": "2024",
+      "evidence": "Member, 2014-2024 A function linked to the MEP status, 8th and 9th legislature of the European Parliament LGBTI intergroup Grouping of MEPs working to advance LGBTI rights in EU policy making",
+      "sentence": 4
+    },
+    {
+      "organisation": "Child rights intergroup",
+      "role": "Member",
+      "relation": "member",
+      "start_date": "2014",
+      "end_date": "2024",
+      "evidence": "Member, 2014-2024 A function linked to the MEP status, 8th and 9th legislature of the European Parliament Child rights intergroup Grouping of MEPs working to advance children’s rights in EU policy making",
+      "sentence": 4
+    },
+    {
+      "organisation": "MEP Horse Group",
+      "role": "Member",
+      "relation": "member",
+      "start_date": "2019",
+      "end_date": "2024",
+      "evidence": "Member, 2019-2024 A function linked to the MEP status, 9th legislature of the European Parliament MEP Horse Group Grouping of MEPs with the aim of increasing the visibility of the horse industry on the European political agenda",
+      "sentence": 4
+    },
+    {
+      "organisation": "The Forum for Mobility and Society",
+      "role": "Co-Chair",
+      "relation": "chair",
+      "start_date": "2019",
+      "end_date": "2024",
+      "evidence": "Co-Chair, 2019-2024 A function linked to the MEP status, 9th legislature of the European Parliament The Forum for Mobility and Society An umbrella organisation of transport and mobility sector stakeholders",
+      "sentence": 4
+    },
+    {
+      "organisation": "European Parliament",
+      "role": "Member of the European Parliament",
+      "relation": "member",
+      "start_date": "2014",
+      "end_date": "2024-11",
+      "evidence": "Member of the European Parliament /European People’s Party), 2014-November 2024",
+      "sentence": 10
+    },
+    {
+      "organisation": "Jyväskylä City Council",
+      "role": "Member",
+      "relation": "member",
+      "start_date": "2021",
+      "end_date": "2024-11",
+      "evidence": "Member of Jyväskylä City Council (National Coalition Party), 2021-November 2024",
+      "sentence": 10
+    },
+    {
+      "organisation": "National Coalition Party – Kansallinen Kokoomus r.p.",
+      "role": "Member",
+      "relation": "member",
+      "start_date": null,
+      "end_date": null,
+      "evidence": "Nature of membership Name of the organisation Area of activity of the organisation Member National Coalition Party – Kansallinen Kokoomus r.p.",
+      "sentence": 27
+    }
+  ],
+  "deepseek-chat|877f04d204d0537c9765a9eb152d2b78b3bac676d2d232195b4620e229e00108": [
+    {
+      "organisation": "La Puglia Prima di Tutto",
+      "role": "President",
+      "relation": "chair",
+      "start_date": "2005",
+      "end_date": "2023",
+      "evidence": "President (2005 - 2023) La Puglia Prima di Tutto Regional political party for the participation in regional and local elections",
+      "sentence": 4
+    },
+    {
+      "organisation": "Oltre con Fitto",
+      "role": "President",
+      "relation": "chair",
+      "start_date": "2015",
+      "end_date": "2015",
+      "evidence": "President (2015) Oltre con Fitto Regional political party for the participation in regional and local elections",
+      "sentence": 4
+    },
+    {
+      "organisation": "Conservatori e Riformisti",
+      "role": "President",
+      "relation": "chair",
+      "start_date": "2015",
+      "end_date": "2017",
+      "evidence": "President (2015 - 2017) Conservatori e Riformisti Political party for the participation in local elections",
+      "sentence": 4
+    },
+    {
+      "organisation": "Direzione Italia",
+      "role": "President",
+      "relation": "chair",
+      "start_date": "2017",
+      "end_date": "2018",
+      "evidence": "President (2017 al 2018) Direzione Italia Political party",
+      "sentence": 4
+    },
+    {
+      "organisation": "Questa volta no",
+      "role": "President",
+      "relation": "chair",
+      "start_date": "2017",
+      "end_date": "2017",
+      "evidence": "President  (2017) Questa volta no Association for the referendum campaign",
+      "sentence": 4
+    },
+    {
+      "organisation": "Noi con l’ Italia UDC",
+      "role": "President",
+      "relation": "chair",
+      "start_date": "2018",
+      "end_date": "2020",
+      "evidence": "President (2018-2020) Noi con l’ Italia UDC Political party for the participation in national elections",
+      "sentence": 4
+    },
+    {
+      "organisation": "New Direction Foundation",
+      "role": "Member of the Board",
+      "relation": "board_member",
+      "start_date": "2016",
+      "end_date": "2024-09-19",
+      "evidence": "Member of the Board (from 2016 to 19/9/24) New Direction Foundation.",
+      "sentence": 4
+    },
+    {
+      "organisation": "Fratelli d’Italia",
+      "role": "Member",
+      "relation": "member",
+      "start_date": null,
+      "end_date": null,
+      "evidence": "Member Fratelli d’Italia Italian Political Party",
+      "sentence": 31
+    }
+  ],
+  "deepseek-chat|8225de7b183ab255aed7cb5a6833ce559c7b1a050848a5489cfc14ce3b05d610": [
+    {
+      "organisation": "University of Latvia",
+      "role": "Honorary Membership",
+      "relation": "member",
+      "start_date": null,
+      "end_date": null,
+      "evidence": "Honorary Membership University of Latvia University",
+      "sentence": 14
+    },
+    {
+      "organisation": "Riga Technical University",
+      "role": "Honorary Membership",
+      "relation": "member",
+      "start_date": null,
+      "end_date": null,
+      "evidence": "Honorary Membership Riga Technical University University",
+      "sentence": 14
+    },
+    {
+      "organisation": "Riga Technical University",
+      "role": "Patronage of the ‘Talents Programme’",
+      "relation": "affiliated_with",
+      "start_date": null,
+      "end_date": null,
+      "evidence": "Patronage of the ‘Talents Programme’ of the Riga Technical University Non-profit academic initiative",
+      "sentence": 14
+    },
+    {
+      "organisation": "Economists' Association",
+      "role": "Member (passive member, no active role)",
+      "relation": "member",
+      "start_date": null,
+      "end_date": null,
+      "evidence": "Member (passive member, no active role) Economists' Association Think Tank (Latvia)",
+      "sentence": 27
+    }
+  ],
+  "deepseek-chat|9ee68d98f8d6435f1acfe0e62746b1c5e28f57eeeb5c382d8d359cdf4aae1c12": [
+    {
+      "organisation": "French Parliament",
+      "role": "Member of the French Parliament",
+      "relation": "member",
+      "start_date": "2024-07-07",
+      "end_date": "2024-11-30",
+      "evidence": "Member of the French Parliament from 07 July 2024 to 30 November 2024",
+      "sentence": 10
+    },
+    {
+      "organisation": "Renaissance",
+      "role": "Secretary-General of the political party Renaissance",
+      "relation": "member",
+      "start_date": "2022-09",
+      "end_date": "2024-11-30",
+      "evidence": "Secretary-General of the political party Renaissance from September 2022 to 30 November 2024 (unpaid)",
+      "sentence": 10
+    },
+    {
+      "organisation": "Nouveaux européens",
+      "role": "Secretary-General of the association Nouveaux européens",
+      "relation": "member",
+      "start_date": "2023-03",
+      "end_date": "2024-10-08",
+      "evidence": "Secretary-General of the association Nouveaux européens from March 2023 to 08 October 2024 (unpaid)",
+      "sentence": 10
+    },
+    {
+      "organisation": "France",
+      "role": "Minister for Europe and Foreign Affairs of France",
+      "relation": "employed_by",
+      "start_date": "2024-01-11",
+      "end_date": "2024-09-23",
+      "evidence": "Minister for Europe and Foreign Affairs of France from 11 January 2024 to 23 September 2024",
+      "sentence": 10
+    },
+    {
+      "organisation": "European Parliament",
+      "role": "Member of the European Parliament",
+      "relation": "member",
+      "start_date": "2019-07",
+      "end_date": "2024-01",
+      "evidence": "Member of the European Parliament from July 2019 to Jabuary 2024 and Presidentof the Renew Europe group from October 2021 to January 2024",
+      "sentence": 10
+    },
+    {
+      "organisation": "Renew Europe group",
+      "role": "Presidentof the Renew Europe group",
+      "relation": "chair",
+      "start_date": "2021-10",
+      "end_date": "2024-01",
+      "evidence": "Member of the European Parliament from July 2019 to Jabuary 2024 and Presidentof the Renew Europe group from October 2021 to January 2024",
+      "sentence": 10
+    },
+    {
+      "organisation": "Renaissance",
+      "role": "Member",
+      "relation": "member",
+      "start_date": null,
+      "end_date": null,
+      "evidence": "Nature of membership Name of the organisation Area of activity of the organisation Member Renaissance Political Party",
+      "sentence": 27
+    }
+  ],
+  "deepseek-chat|235e58be274a62dbc4f014e77ac146e57f1d7b0e8521ed80b45f5f82b3591009": [],
+  "deepseek-chat|15b836047bddb34c027c9316b5814728524f4dd52bf241a67d4891c9c20b85dc": [
+    {
+      "organisation": "CDU Deutschland",
+      "role": "Member",
+      "relation": "member",
+      "start_date": "1990-10",
+      "end_date": null,
+      "evidence": "Since October 1990: Member CDU Deutschland Political party",
+      "sentence": 29
+    },
+    {
+      "organisation": "Europa-Union Deutschland",
+      "role": "Member",
+      "relation": "member",
+      "start_date": "2014-01",
+      "end_date": null,
+      "evidence": "Since January 2014: Member Europa-Union Deutschland Independent and non-partisan association for the promotion of  European integration",
+      "sentence": 29
+    },
+    {
+      "organisation": "Frauen Union [Women's Union]",
+      "role": "Member",
+      "relation": "member",
+      "start_date": "1990-10",
+      "end_date": null,
+      "evidence": "Since October 1990: Member Frauen Union [Women's Union] Sub-organisation of the CDU",
+      "sentence": 29
+    },
+    {
+      "organisation": "Christlich-Demokratische Arbeitnehmerschaft [Christian Democratic Employees’ Association]",
+      "role": "Member",
+      "relation": "member",
+      "start_date": "2002-10",
+      "end_date": null,
+      "evidence": "Since October 2002: Member Christlich-Demokratische Arbeitnehmerschaft [Christian Democratic Employees’ Association] Association of the CDU",
+      "sentence": 29
+    },
+    {
+      "organisation": "Lesben- und Schwulen-Union, Niedersachsen [Lesbians and Gays Union, Lower Saxony]",
+      "role": "awarded honorary  membership",
+      "relation": "member",
+      "start_date": "2017",
+      "end_date": null,
+      "evidence": "Since 2017: awarded honorary  membership Lesben- und Schwulen-Union, Niedersachsen [Lesbians and Gays Union, Lower Saxony] Association of members and supporters of the CDU",
+      "sentence": 29
+    },
+    {
+      "organisation": "Evangelischer Arbeitskreis [Protestant Working Group]",
+      "role": "Member",
+      "relation": "member",
+      "start_date": "1999",
+      "end_date": null,
+      "evidence": "Since 1999: Member Evangelischer Arbeitskreis [Protestant Working Group] Subdivision of the CDU",
+      "sentence": 29
+    },
+    {
+      "organisation": "Mittelstands- und Wirtschaftsvereinigung der CDU/CSU [SME Union of the CDU/CSU]",
+      "role": "Member",
+      "relation": "member",
+      "start_date": "2002",
+      "end_date": null,
+      "evidence": "Since 2002: Member Mittelstands- und Wirtschaftsvereinigung der CDU/CSU [SME Union of the CDU/CSU] Mittelstands- und Wirtschaftsvereinigung der CDU/CSU [SME Union of the CDU/CSU]",
+      "sentence": 29
+    },
+    {
+      "organisation": "European People's Party (EPP)",
+      "role": "ex-officio Vice-President",
+      "relation": "chair",
+      "start_date": "2019",
+      "end_date": null,
+      "evidence": "Since 2019: ex-officio Vice-President European People's Party (EPP) European political party",
+      "sentence": 29
+    }
+  ],
+  "deepseek-chat|d5d6677e92ab1eab7b22676b1655681ef186ba90ff444ab60a41a8fbdf20163b": [
+    {
+      "organisation": "Raad van Toezicht, Scheepvaartmuseum",
+      "role": "Chair",
+      "relation": "chair",
+      "start_date": "2016",
+      "end_date": "2017-10",
+      "evidence": "2016 - Oct 2017 - Chair Raad van Toezicht, Scheepvaartmuseum Museum Chair of the non-executive board.",
+      "sentence": 4
+    },
+    {
+      "organisation": "Prinses Maxima Centrum",
+      "role": "Ambassador",
+      "relation": "affiliated_with",
+      "start_date": "2017-01",
+      "end_date": "2017-10",
+      "evidence": "Jan 2017 - Oct 2017 - Ambassador Prinses Maxima Centrum Promote the work (Pediatric Oncology) of the Princess Maxima Centre, in Utrecht, the Netherlands",
+      "sentence": 5
+    },
+    {
+      "organisation": "Bestuur Stichting Vrienden van het Hubrecht Instituut",
+      "role": "Member of the Board",
+      "relation": "board_member",
+      "start_date": "2015",
+      "end_date": "2017-10",
+      "evidence": "2015 - Oct 2017 - Member of the Board Bestuur Stichting Vrienden van het Hubrecht Instituut Fundraising for Development Biology and Stem Cell Research, in Utrecht, the Netherlands",
+      "sentence": 5
+    },
+    {
+      "organisation": "European Commission",
+      "role": "European Commissioner for Climate Action",
+      "relation": "employed_by",
+      "start_date": "2023-10-09",
+      "end_date": "2024-11-30",
+      "evidence": "9 October 2023 – 30 November 2024 - European Commissioner for Climate Action, with additional temporary portfolio responsibility for transport since July 2024",
+      "sentence": 11
+    },
+    {
+      "organisation": "fourth Rutte government",
+      "role": "Minister of Foreign Affairs of the Netherlands and Vice-Prime Minister",
+      "relation": "employed_by",
+      "start_date": "2022-01-10",
+      "end_date": "2023-09-01",
+      "evidence": "10 January 2022 - 1 September 2023 - Appointed Minister of Foreign Affairs of the Netherlands and Vice-Prime Minister in the fourth Rutte government",
+      "sentence": 11
+    },
+    {
+      "organisation": "Christian Democratic Alliance (CDA)",
+      "role": "Leader of the Christian Democratic Alliance (CDA) in the House of Representatives",
+      "relation": "affiliated_with",
+      "start_date": "2021-03-18",
+      "end_date": "2022-01-10",
+      "evidence": "18 March 2021 - 10 January 2022 - Leader of the Christian Democratic Alliance (CDA) in the House of Representatives",
+      "sentence": 11
+    },
+    {
+      "organisation": "third Rutte government",
+      "role": "Minister of Finance",
+      "relation": "employed_by",
+      "start_date": "2017-10-26",
+      "end_date": "2022-01-10",
+      "evidence": "26 October 2017 - 10 January 2022 - Minister of Finance in the third Rutte government",
+      "sentence": 11
+    },
+    {
+      "organisation": "Senate",
+      "role": "Member of the Senate for the Christian Democratic Alliance (CDA)",
+      "relation": "member",
+      "start_date": "2011",
+      "end_date": "2017",
+      "evidence": "2011 - 2017 - Member of the Senate for the Christian Democratic Alliance (CDA) and member of the Senate Finance Committee, Economic Affairs Committee, Security and Justice Committee, Social Affairs and Employment Committee, and Foreign Affairs, Defence and Development Cooperation Committee",
+      "sentence": 11
+    },
+    {
+      "organisation": "2017 CDA electoral programme committee",
+      "role": "Chair",
+      "relation": "chair",
+      "start_date": "2016",
+      "end_date": null,
+      "evidence": "2016 - Chair of the 2017 CDA electoral programme committee",
+      "sentence": 11
+    },
+    {
+      "organisation": "McKinsey & Company",
+      "role": "partner",
+      "relation": "employed_by",
+      "start_date": "2006",
+      "end_date": "2017",
+      "evidence": "2006 - 2017 - McKinsey & Company, partner since 2013",
+      "sentence": 11
+    },
+    {
+      "organisation": "CDA/EPP",
+      "role": "Member",
+      "relation": "member",
+      "start_date": null,
+      "end_date": null,
+      "evidence": "Member CDA/EPP Political Party",
+      "sentence": 32
+    },
+    {
+      "organisation": "Friese Elfstedentocht Vereniging",
+      "role": "Member",
+      "relation": "member",
+      "start_date": null,
+      "end_date": null,
+      "evidence": "Member Friese Elfstedentocht Vereniging Organisation of the Elfstedentocht, a 200 km skating tour",
+      "sentence": 32
+    }
+  ],
+  "deepseek-chat|0260c04d5d03ab79c1981e798c53ca6ce107be53f04eca791caf8f35ef9e7be8": [
+    {
+      "organisation": "Ro Agora SRL",
+      "role": "Sole shareholder",
+      "relation": "affiliated_with",
+      "start_date": "2021-04-01",
+      "end_date": "2022-01-13",
+      "evidence": "Sole shareholder (1.04.2021-13.01.2022) Administrator (1.04.2021 – 31.12.2021) Ro Agora SRL Consulting services / Consultancy for startups and established SMEs on EU and other nonrefundable funding",
+      "sentence": 8
+    },
+    {
+      "organisation": "Ro Agora SRL",
+      "role": "Administrator",
+      "relation": "affiliated_with",
+      "start_date": "2021-04-01",
+      "end_date": "2021-12-31",
+      "evidence": "Sole shareholder (1.04.2021-13.01.2022) Administrator (1.04.2021 – 31.12.2021) Ro Agora SRL Consulting services / Consultancy for startups and established SMEs on EU and other nonrefundable funding",
+      "sentence": 8
+    },
+    {
+      "organisation": "OPCOM Operatorul pietei de energie electrica si gaze naturale din Romania / The operator of the electricity and natural gas market in Romania",
+      "role": "Board Member",
+      "relation": "board_member",
+      "start_date": "2023-11-21",
+      "end_date": "2024-07-05",
+      "evidence": "Board Member, 21 November 2023 - 5 July 2024 OPCOM Operatorul pietei de energie electrica si gaze naturale din Romania / The operator of the electricity and natural gas market in Romania Electricity / natural gas",
+      "sentence": 8
+    },
+    {
+      "organisation": "General Secretariat of the Government",
+      "role": "Secretary of State - Coordinator of the Department for the integrated evaluation and monitoring of programs financed from public and European funds",
+      "relation": "employed_by",
+      "start_date": "2022-03-23",
+      "end_date": "2024-07-05",
+      "evidence": "23 March 2022 – 5 July 2024, Secretary of State - Coordinator of the Department for the integrated evaluation and monitoring of programs financed from public and European funds, General Secretariat of the Government, Bucharest, RO",
+      "sentence": 10
+    },
+    {
+      "organisation": "Ministry of European Projects and Investments",
+      "role": "Secretary of State – Coordination of the Operational Program for Disadvantaged People",
+      "relation": "employed_by",
+      "start_date": "2021-12-30",
+      "end_date": "2022-03-23",
+      "evidence": "30 December 2021 – 23 March 2022, Secretary of State – Coordination of the Operational Program for Disadvantaged People, Ministry of European Projects and Investments, Bucharest, RO",
+      "sentence": 10
+    },
+    {
+      "organisation": "Didactica Foundation",
+      "role": "Information and Awareness Campaign Expert",
+      "relation": "employed_by",
+      "start_date": "2021-12-06",
+      "end_date": "2021-12-29",
+      "evidence": "6 December 2021 – 29 December 2021, Information and Awareness Campaign Expert, Project: „EduFit- Servicii integrate pentru copiii cu parinti plecati la munca in strainatate din Regiunea Sud-Muntenia” SMIS 139729 / EduFit – Intergated services for children with parents that work abroad from South-Muntenia Region (co-financed from Human Capital Operational Programme RO 2014-2021 Programming Period, ESF), Employer: Didactica Foundation",
+      "sentence": 11
+    },
+    {
+      "organisation": "Didactica Foundation",
+      "role": "Partnership Networks Expert",
+      "relation": "employed_by",
+      "start_date": "2021-11-06",
+      "end_date": "2021-12-29",
+      "evidence": "6 November 2021 – 29 December 2021, Partnership Networks Expert, Project: „EduTime- Servicii integrate pentru copiii cu parinti plecati la munca in strainatate din Regiunea Sud-Muntenia” SMIS 139746 / EduTime – Intergated services for children with parents that work abroad from Center Region (co-financed from Human Capital Operational Programme RO 2014-2021 Programming Period / ESF), Employer: Didactica Foundation",
+      "sentence": 12
+    },
+    {
+      "organisation": "RO Parliament",
+      "role": "Member of RO Parliament/ MP (elected)",
+      "relation": "member",
+      "start_date": "2016-12-21",
+      "end_date": "2020-12-19",
+      "evidence": "21 December 2016 – 19 December 2020, Member of RO Parliament/ MP (elected)",
+      "sentence": 14
+    },
+    {
+      "organisation": "Ministry of European Funds",
+      "role": "Minister of European Funds",
+      "relation": "employed_by",
+      "start_date": "2019-06-10",
+      "end_date": "2019-11-04",
+      "evidence": "10 June 2019 –  4 November 2019, Minister of European Funds",
+      "sentence": 14
+    },
+    {
+      "organisation": "National Agency for Public Procurement",
+      "role": "President of the National Agency for Public Procurement (Rank of Secretary of State)",
+      "relation": "chair",
+      "start_date": "2015-09-02",
+      "end_date": "2016-01-26",
+      "evidence": "2 September 2015 – 26 January 2016, President of the National Agency for Public Procurement (Rank of Secretary of State)",
+      "sentence": 14
+    },
+    {
+      "organisation": "Women’s Organization - Brasov county, Social-Democratic Party",
+      "role": "President",
+      "relation": "chair",
+      "start_date": "2013",
+      "end_date": "2019",
+      "evidence": "2013 - 2019 President, Women’s Organization - Brasov county, Social-Democratic Party",
+      "sentence": 14
+    },
+    {
+      "organisation": "Brașov County",
+      "role": "County Councilor",
+      "relation": "member",
+      "start_date": "2016-07",
+      "end_date": "2016-11",
+      "evidence": "July - November 2016 – County Councilor, Brașov County",
+      "sentence": 14
+    },
+    {
+      "organisation": "Social-Democratic Party",
+      "role": "Vice-president",
+      "relation": "affiliated_with",
+      "start_date": "2018",
+      "end_date": "2020",
+      "evidence": "2018 – 2020  Vice-president, Social-Democratic Party",
+      "sentence": 14
+    },
+    {
+      "organisation": "Brasov County Organisation, Social-Democratic Party",
+      "role": "Vice-president",
+      "relation": "affiliated_with",
+      "start_date": "2013",
+      "end_date": "2024",
+      "evidence": "2013 - 2024 Vice-president, Brasov County Organisation, Social-Democratic Party",
+      "sentence": 14
+    },
+    {
+      "organisation": "Brasov County Organisation, Social-Democratic Party",
+      "role": "First Vice-president",
+      "relation": "affiliated_with",
+      "start_date": "2024-07",
+      "end_date": "2024-11-30",
+      "evidence": "July 2024 – 30 November 2024, First Vice-president, Brasov County Organisation, Social-Democratic Party",
+      "sentence": 14
+    },
+    {
+      "organisation": "European Parliament",
+      "role": "Member of European Parliament",
+      "relation": "member",
+      "start_date": "2024-07",
+      "end_date": "2024-11-30",
+      "evidence": "July 2024 – 30 November 2024, Member of European Parliament",
+      "sentence": 14
+    }
+  ],
+  "deepseek-chat|a42a1c6d0fd519ae5f9c197dc08630ef61024cb619e6dc4e287ac317f01e39f4": [
+    {
+      "organisation": "Christoph-Metzelder-Stiftung [Christoph Metzelder Foundation], Düsseldorf",
+      "role": "Member of the Board of Trustees",
+      "relation": "board_member",
+      "start_date": null,
+      "end_date": "2019",
+      "evidence": "Member of the Board of Trustees until 2019 Christoph-Metzelder-Stiftung [Christoph Metzelder Foundation], Düsseldorf Long-term support for disadvantaged young people",
+      "sentence": 4
+    },
+    {
+      "organisation": "Festliche Operngala [Grand Opera Gala], Berlin",
+      "role": "Member of the Board of Trustees",
+      "relation": "board_member",
+      "start_date": null,
+      "end_date": "2019",
+      "evidence": "Member of the Board of Trustees until 2019 Festliche Operngala [Grand Opera Gala], Berlin Fundraising event in support of the German AIDS Foundation",
+      "sentence": 4
+    },
+    {
+      "organisation": "Förderstiftung MHH PLUS [MHH PLUS Foundation], Hannover",
+      "role": "Member of the Board of Trustees",
+      "relation": "board_member",
+      "start_date": null,
+      "end_date": "2019",
+      "evidence": "Member of the Board of Trustees until 2019 Förderstiftung MHH PLUS [MHH PLUS Foundation], Hannover Support for Hannover Medical School (Medizinische Hochschule Hannover, MHH) projects",
+      "sentence": 4
+    },
+    {
+      "organisation": "Stiftung Leben pur ['Pure Life' Foundation]",
+      "role": "Ambassador",
+      "relation": "affiliated_with",
+      "start_date": null,
+      "end_date": "2019",
+      "evidence": "Ambassador until 2019 Stiftung Leben pur ['Pure Life' Foundation] Foundation for people with serious and multiple disabilities",
+      "sentence": 4
+    },
+    {
+      "organisation": "Stiftung Deutsche Sporthilfe [German Sports Aid Foundation], Frankfurt am Main",
+      "role": "Member of the Board of Trustees",
+      "relation": "board_member",
+      "start_date": null,
+      "end_date": "2019",
+      "evidence": "Member of the Board of Trustees until 2019 Stiftung Deutsche Sporthilfe [German Sports Aid Foundation], Frankfurt am Main Material and non-material support for athletes",
+      "sentence": 4
+    },
+    {
+      "organisation": "Stiftung Deutscher Spitzenpferdesport [German Elite Equestrian  Sports Foundation], Warendorf",
+      "role": "Member of the Board of Trustees",
+      "relation": "board_member",
+      "start_date": null,
+      "end_date": "2019",
+      "evidence": "Member of the Board of Trustees until 2019 Stiftung Deutscher Spitzenpferdesport [German Elite Equestrian  Sports Foundation], Warendorf Foundation for assuring quality in German equestrian sports",
+      "sentence": 4
+    },
+    {
+      "organisation": "TOTAL-E-QUALITY Deutschland e.V., Bad Bocklet",
+      "role": "Member of the Board of Trustees",
+      "relation": "board_member",
+      "start_date": null,
+      "end_date": "2019",
+      "evidence": "Member of the Board of Trustees until 2019 TOTAL-E-QUALITY Deutschland e.V., Bad Bocklet Foundation for the creation and preservation of equal opportunities",
+      "sentence": 4
+    },
+    {
+      "organisation": "World Economic Forum",
+      "role": "Member of the Board of Trustees",
+      "relation": "board_member",
+      "start_date": null,
+      "end_date": "2019",
+      "evidence": "Member of the Board of Trustees until 2019 World Economic Forum Foundation promoting dialogue between political, economic and social leaders",
+      "sentence": 4
+    },
+    {
+      "organisation": "Munich Security Conference",
+      "role": "Member of the Advisory Board",
+      "relation": "advisory_board",
+      "start_date": null,
+      "end_date": "2019",
+      "evidence": "Member of the Advisory Board until 2019 Munich Security Conference Defining the scope of the Munich Security Conference",
+      "sentence": 4
+    },
+    {
+      "organisation": "Ricarda und Udo Niedergerke-Stiftung [Ricarda and Udo Niedergerke Foundation]",
+      "role": "Supporter",
+      "relation": "affiliated_with",
+      "start_date": null,
+      "end_date": "2019",
+      "evidence": "Supporter until 2019 Ricarda und Udo Niedergerke-Stiftung [Ricarda and Udo Niedergerke Foundation] Support for people in need in the Hannover region",
+      "sentence": 4
+    },
+    {
+      "organisation": "Deutsche Traumastiftung [German Trauma Foundation]",
+      "role": "Patron",
+      "relation": "affiliated_with",
+      "start_date": null,
+      "end_date": "2019",
+      "evidence": "Patron until 2019 Deutsche Traumastiftung [German Trauma Foundation] Improving trauma care through education and research",
+      "sentence": 4
+    },
+    {
+      "organisation": "ZAG-Stiftung „Pro Chance“ [ZAG ‘Pro Chance’ Foundation]",
+      "role": "Patron",
+      "relation": "affiliated_with",
+      "start_date": null,
+      "end_date": "2019",
+      "evidence": "Patron until 2019 ZAG-Stiftung „Pro Chance“ [ZAG ‘Pro Chance’ Foundation] Support for children and young people in Hannover",
+      "sentence": 4
+    },
+    {
+      "organisation": "Kinderseele [Children’s Mental Health Foundation]",
+      "role": "Patron",
+      "relation": "affiliated_with",
+      "start_date": null,
+      "end_date": "2019",
+      "evidence": "Patron until 2019 Achtung! Kinderseele [Children’s Mental Health Foundation] Support for children and young people with mental-health issues",
+      "sentence": 5
+    },
+    {
+      "organisation": "Stiftung zur Förderung der humanistischen Schulbildung (KWR-Stiftung) [Foundation for the Promotion of Humanist Education (KWR Foundation)]",
+      "role": "Patron",
+      "relation": "affiliated_with",
+      "start_date": null,
+      "end_date": "2019",
+      "evidence": "Patron until 2019 Stiftung zur Förderung der humanistischen Schulbildung (KWR-Stiftung) [Foundation for the Promotion of Humanist Education (KWR Foundation)] Support for the Kaiser-Wilhelm- und Ratsgymnasium, a Hannover secondary school",
+      "sentence": 5
+    },
+    {
+      "organisation": "Kinderherzen – Fördergemeinschaft Deutsche Kinderherzzentren e.V [Children’s Hearts – Support Association for Children’s Heart Centres]",
+      "role": "Patron",
+      "relation": "affiliated_with",
+      "start_date": null,
+      "end_date": "2019",
+      "evidence": "Patron until 2019 Kinderherzen – Fördergemeinschaft Deutsche Kinderherzzentren e.V [Children’s Hearts – Support Association for Children’s Heart Centres] Improving treatment options for children with heart conditions",
+      "sentence": 5
+    },
+    {
+      "organisation": "Stiftung für das behinderte Kind [Foundation for Children with Disabilities]",
+      "role": "Patron",
+      "relation": "affiliated_with",
+      "start_date": null,
+      "end_date": "2019",
+      "evidence": "Patron until 2019 Stiftung für das behinderte Kind [Foundation for Children with Disabilities] Support for children with physical and intellectual disabilities",
+      "sentence": 5
+    },
+    {
+      "organisation": "Helmut Schmidt Universität der Bundeswehr [Helmut Schmidt University of the German Armed Forces]",
+      "role": "Patron of the German Armed Forces Training Conference and the universities’ solidarity run",
+      "relation": "affiliated_with",
+      "start_date": null,
+      "end_date": "2019",
+      "evidence": "Patron until 2019 Helmut Schmidt Universität der Bundeswehr [Helmut Schmidt University of the German Armed Forces] Patron of the German Armed Forces Training Conference and the universities’ solidarity run",
+      "sentence": 5
+    },
+    {
+      "organisation": "Federal Ministry of Defence, Germany",
+      "role": "Federal Minister of Defence",
+      "relation": "employed_by",
+      "start_date": "2013-12",
+      "end_date": "2019",
+      "evidence": "December 2013 to 2019: Federal Minister of Defence, Germany",
+      "sentence": 11
+    },
+    {
+      "organisation": "Federal Ministry of Labour and Social Affairs, Germany",
+      "role": "Federal Minister of Labour and Social Affairs",
+      "relation": "employed_by",
+      "start_date": "2009",
+      "end_date": "2013",
+      "evidence": "2009 - 2013: Federal Minister of Labour and Social Affairs, Germany",
+      "sentence": 11
+    },
+    {
+      "organisation": "Federal Ministry of Family Affairs, Senior Citizens, Women and Youth, Germany",
+      "role": "Federal Minister of Family Affairs, Senior Citizens, Women and Youth",
+      "relation": "employed_by",
+      "start_date": "2005",
+      "end_date": "2009",
+      "evidence": "2005 - 2009: Federal Minister of Family Affairs, Senior Citizens, Women and Youth, Germany",
+      "sentence": 11
+    },
+    {
+      "organisation": "German Bundestag",
+      "role": "Member of the German Bundestag",
+      "relation": "member",
+      "start_date": "2009-10",
+      "end_date": "2019",
+      "evidence": "October 2009 to 2019: Member of the German Bundestag",
+      "sentence": 11
+    },
+    {
+      "organisation": "CDU Deutschland",
+      "role": "Member of the Presidium",
+      "relation": "member",
+      "start_date": "2004-12",
+      "end_date": "2019",
+      "evidence": "December 2004 to 2019: Member of the Presidium - CDU Deutschland",
+      "sentence": 11
+    },
+    {
+      "organisation": "CDU Deutschland",
+      "role": "Vice-President",
+      "relation": "affiliated_with",
+      "start_date": "2010-11",
+      "end_date": "2019",
+      "evidence": "November 2010 to 2019: Vice-President - CDU Deutschland",
+      "sentence": 11
+    },
+    {
+      "organisation": "Deutsches Kuratorium für Therapeutisches Reiten e.V. [German Board of Trustees for Therapeutic Riding]",
+      "role": "Honorary member of the Board of Trustees",
+      "relation": "board_member",
+      "start_date": null,
+      "end_date": null,
+      "evidence": "Honorary member of the Board of Trustees Deutsches Kuratorium für Therapeutisches Reiten e.V. [German Board of Trustees for Therapeutic Riding] Promotion of riding therapy",
+      "sentence": 15
+    },
+    {
+      "organisation": "European Youth Parliament",
+      "role": "Member of the Committee of Honour",
+      "relation": "member",
+      "start_date": null,
+      "end_date": null,
+      "evidence": "Member of the Committee of Honour European Youth Parliament The European Youth Parliament is an independent, non-partisan network of 40 national organisations working together to educate young people in European affairs",
+      "sentence": 16
+    },
+    {
+      "organisation": "European Union Youth Orchestra",
+      "role": "Head of the Honorary Patrons (for the duration of her term of office as President of the Commission)",
+      "relation": "affiliated_with",
+      "start_date": null,
+      "end_date": null,
+      "evidence": "Head of the Honorary Patrons (for the duration of her term of office as President of the Commission) European Union Youth Orchestra The Orchestra brings together young musicians from the European Union",
+      "sentence": 16
+    },
+    {
+      "organisation": "Sorbonne University",
+      "role": "Patron of the promotion 2021-2022 of the Master II in European Affairs",
+      "relation": "affiliated_with",
+      "start_date": "2021",
+      "end_date": "2022",
+      "evidence": "Patron of the promotion 2021-2022 of the Master II in European Affairs at Sorbonne University",
+      "sentence": 16
+    }
+  ]
+}

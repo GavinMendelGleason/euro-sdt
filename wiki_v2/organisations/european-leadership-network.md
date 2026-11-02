@@ -32,6 +32,6 @@ generated: 2026-11-02
 - [[people/hans-van-den-broek|Hans van den Broek]]  
   > "He was a Senior Network Member at the European Leadership Network (ELN)."
   > Source: [[sources/wikipedia-hans-van-den-broek|Hans Van Den Broek]] · grade A
-- [[people/jutta-urpilainen|Jutta Urpilainen]]  
+- [[people/jutta-urpilainen|Jutta Urpilainen]] (2025)  
   > "European Leadership Network (ELN), Member (since 2025)"
   > Source: [[sources/wikipedia-jutta-urpilainen|Jutta Urpilainen]] · grade A

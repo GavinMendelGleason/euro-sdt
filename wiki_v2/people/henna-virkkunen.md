@@ -14,7 +14,7 @@ generated: 2026-11-02
 
 Commissioner · FIN
 
-*Verified assertions: 26*
+*Verified assertions: 42*
 
 ## Portfolio
 
@@ -35,6 +35,14 @@ Commissioner · FIN
   > Source: [[sources/wikipedia-henna-virkkunen|Henna Virkkunen]] · grade A
 
 ## Membership
+
+- [[organisations/animal-welfare-intergroup|Animal welfare intergroup]] (2014–2024)  
+  > "Member, 2014-2024 A function linked to the MEP status, 8th and 9th legislature of the European Parliament Animal welfare intergroup Grouping of MEPs working to advance animal welfare and conservation in EU policy making"
+  > Source: [[sources/declaration-doi-henna-virkkunen-en|Henna Virkkunen]] · grade A
+
+- [[organisations/child-rights-intergroup|Child rights intergroup]] (2014–2024)  
+  > "Member, 2014-2024 A function linked to the MEP status, 8th and 9th legislature of the European Parliament Child rights intergroup Grouping of MEPs working to advance children’s rights in EU policy making"
+  > Source: [[sources/declaration-doi-henna-virkkunen-en|Henna Virkkunen]] · grade A
 
 - [[organisations/delegation-for-relations-with-south-africa|Delegation for relations with South Africa]]  
   > "In addition to her committee assignments, Virkkunen has been a member of the parliament's Delegation for relations with South Africa (2014–2019) and with the Arabian Peninsula (since 2019)."
@@ -57,8 +65,8 @@ Commissioner · FIN
   > Source: [[sources/wikipedia-henna-virkkunen|Henna Virkkunen]] · grade A
 
 - [[organisations/european-parliament|European Parliament]]  
-  > "A member of the center-right National Coalition Party, part of the European People's Party, she was a Member of the European Parliament (MEP) from 2014 to 2024."
-  > Source: [[sources/wikipedia-henna-virkkunen|Henna Virkkunen]] · grade A
+  > "Member of the European Parliament /European People’s Party), 2014-November 2024"
+  > Source: [[sources/declaration-doi-henna-virkkunen-en|Henna Virkkunen]] · grade A
 
 - [[organisations/european-parliament-committee-of-inquiry-to-investigate-the-use-of-pegasus-and-equivalent-surveillance-spyware|European Parliament Committee of Inquiry to investigate the use of Pegasus and equivalent surveillance spyware]]  
   > "In 2022, she joined the European Parliament Committee of Inquiry to investigate the use of Pegasus and equivalent surveillance spyware."
@@ -84,13 +92,29 @@ Commissioner · FIN
   > "She is also a member of the European Internet Forum; the European Parliament Intergroup on LGBT Rights; the European Parliament Intergroup on the Welfare and Conservation of Animals; and the European Parliament Intergroup on Seas, Rivers, Islands and Coastal Areas."
   > Source: [[sources/wikipedia-henna-virkkunen|Henna Virkkunen]] · grade A
 
+- [[organisations/finlands-national-central-organisation-for-trotting-and-horse-breeding-suomen-hippos-ry|Finland’s national central organisation for trotting and horse breeding – Suomen Hippos ry]] (2021–2023)  
+  > "Delegation member, 2021-2023 Finland’s national central organisation for trotting and horse breeding – Suomen Hippos ry Organisation maintaining a register of horse breeds bred in Finland and supervising trotting race activities"
+  > Source: [[sources/declaration-doi-henna-virkkunen-en|Henna Virkkunen]] · grade A
+
 - [[organisations/jyvaskyla-city-council|Jyväskylä City Council]]  
-  > "She was elected to the Jyväskylä City Council in 1996, where she served until 2016, and held several positions within the National Coalition Party’s youth and regional organisations."
-  > Source: [[sources/wikipedia-henna-virkkunen|Henna Virkkunen]] · grade B
+  > "Member of Jyväskylä City Council (National Coalition Party), 2021-November 2024"
+  > Source: [[sources/declaration-doi-henna-virkkunen-en|Henna Virkkunen]] · grade B
+
+- [[organisations/lgbti-intergroup|LGBTI intergroup]] (2014–2024)  
+  > "Member, 2014-2024 A function linked to the MEP status, 8th and 9th legislature of the European Parliament LGBTI intergroup Grouping of MEPs working to advance LGBTI rights in EU policy making"
+  > Source: [[sources/declaration-doi-henna-virkkunen-en|Henna Virkkunen]] · grade A
+
+- [[organisations/mep-horse-group|MEP Horse Group]] (2019–2024)  
+  > "Member, 2019-2024 A function linked to the MEP status, 9th legislature of the European Parliament MEP Horse Group Grouping of MEPs with the aim of increasing the visibility of the horse industry on the European political agenda"
+  > Source: [[sources/declaration-doi-henna-virkkunen-en|Henna Virkkunen]] · grade A
 
 - [[organisations/national-coalition-party|National Coalition Party]] — party_member  
   > "A member of the center-right National Coalition Party, part of the European People's Party, she was a Member of the European Parliament (MEP) from 2014 to 2024."
   > Source: [[sources/wikipedia-henna-virkkunen|Henna Virkkunen]] · grade A
+
+- [[organisations/national-coalition-party-kansallinen-kokoomus-r-p|National Coalition Party – Kansallinen Kokoomus r.p.]]  
+  > "Nature of membership Name of the organisation Area of activity of the organisation Member National Coalition Party – Kansallinen Kokoomus r.p."
+  > Source: [[sources/declaration-doi-henna-virkkunen-en|Henna Virkkunen]] · grade A
 
 - [[organisations/parliament-of-finland|Parliament of Finland]]  
   > "Virkkunen was first elected to the Parliament of Finland in the 2007 parliamentary election for the Central Finland electoral district."
@@ -100,6 +124,40 @@ Commissioner · FIN
 
 - [[organisations/atlantic-council-of-finland-acf|Atlantic Council of Finland (ACF)]] — board_member (2021–2024)  
   > "Nature of the post (during the above-mentioned period) Name of the body Body's objective/activity Member of the Board of Directors, 2021-November 2024 The Atlantic Council of Finland ACF An independent, non-partisan, non-governmental and non-profit organisation promoting transatlantic discussion, research and education on foreign and security policy Chair, 2020-November 2024 Toivo Ajatuspaja – Kansallinen Kulttuurisäätiö Foundation A non-profit, centre-right foundation and think-tank, member organisation of the Wilfried Martens Centre for European Studies Chair, 2020-November 2024 Jyväskylän K […]"
+  > Source: [[sources/declaration-doi-henna-virkkunen-en|Henna Virkkunen]] · grade A
+
+- [[organisations/european-energy-forum|European Energy Forum]] — board_member (2024-07–2024-09)  
+  > "Member of the Board, July 2024-September 2024 European Energy Forum A non-profit organisation focused on energy topics, connecting MEPs with private and public stakeholders"
+  > Source: [[sources/declaration-doi-henna-virkkunen-en|Henna Virkkunen]] · grade A
+
+- [[organisations/the-atlantic-council-of-finland-acf|The Atlantic Council of Finland ACF]] — board_member (2021–2024-11)  
+  > "Member of the Board of Directors, 2021-November 2024 The Atlantic Council of Finland ACF An independent, non-partisan, non-governmental and non-profit organisation promoting transatlantic discussion, research and education on foreign and security policy"
+  > Source: [[sources/declaration-doi-henna-virkkunen-en|Henna Virkkunen]] · grade A
+
+## Chair / president
+
+- [[organisations/epp-sme-circle|EPP SME Circle]] — chair (2019–2024-10)  
+  > "Co-Chair, 2019-October 2024 EPP SME Circle An informal grouping of the EPP MEPs working to advance the viewpoint of SMEs in policy making"
+  > Source: [[sources/declaration-doi-henna-virkkunen-en|Henna Virkkunen]] · grade A
+
+- [[organisations/finnish-association-for-horse-owners-suomen-hevosomistajien-keskusliitto-ry|Finnish Association for Horse Owners – Suomen Hevosomistajien Keskusliitto ry]] — chair (2019–2023)  
+  > "Chair, 2019-2023 Finnish Association for Horse Owners – Suomen Hevosomistajien Keskusliitto ry A common interest organisation of horse owners in Finland"
+  > Source: [[sources/declaration-doi-henna-virkkunen-en|Henna Virkkunen]] · grade A
+
+- [[organisations/finnish-national-commission-for-unesco|Finnish National Commission for UNESCO]] — chair (2019–2022)  
+  > "Chair, 2019-2022 Finnish National Commission for UNESCO An advisory body which issues opinions to the Ministry of Education and Culture and to the Government of Finland"
+  > Source: [[sources/declaration-doi-henna-virkkunen-en|Henna Virkkunen]] · grade A
+
+- [[organisations/jyvaskylan-kirittaret|Jyväskylän Kirittäret]] — chair (2020–2024-11)  
+  > "Chair, 2020-November 2024 Jyväskylän Kirittäret A Finnish female baseball team"
+  > Source: [[sources/declaration-doi-henna-virkkunen-en|Henna Virkkunen]] · grade A
+
+- [[organisations/the-forum-for-mobility-and-society|The Forum for Mobility and Society]] — chair (2019–2024)  
+  > "Co-Chair, 2019-2024 A function linked to the MEP status, 9th legislature of the European Parliament The Forum for Mobility and Society An umbrella organisation of transport and mobility sector stakeholders"
+  > Source: [[sources/declaration-doi-henna-virkkunen-en|Henna Virkkunen]] · grade A
+
+- [[organisations/toivo-ajatuspaja-kansallinen-kulttuurisaatio-foundation|Toivo Ajatuspaja – Kansallinen Kulttuurisäätiö Foundation]] — chair (2020–2024-11)  
+  > "Chair, 2020-November 2024 Toivo Ajatuspaja – Kansallinen Kulttuurisäätiö Foundation A non-profit, centre-right foundation and think-tank, member organisation of the Wilfried Martens Centre for European Studies"
   > Source: [[sources/declaration-doi-henna-virkkunen-en|Henna Virkkunen]] · grade A
 
 ## Affiliation

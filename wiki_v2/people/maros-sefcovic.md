@@ -14,7 +14,7 @@ generated: 2026-11-02
 
 Commissioner · SVK
 
-*Verified assertions: 26*
+*Verified assertions: 27*
 
 ## Commission service
 
@@ -57,6 +57,10 @@ Commissioner · SVK
   > Source: [[sources/wikipedia-maros-sefcovic|Maros Sefcovic]] · grade A
 
 ## Membership
+
+- [[organisations/committee-of-the-slovak-atlantic-commission|Committee of the Slovak Atlantic Commission]]  
+  > "Honorary Member of the Committee of the Slovak Atlantic Commission"
+  > Source: [[sources/declaration-doi-maros-sefcovic-en|Maros Sefcovic]] · grade A
 
 - [[organisations/communist-party-of-czechoslovakia|Communist Party of Czechoslovakia]]  
   > "In June 1987, Šefčovič became a candidate for membership of the Communist Party of Czechoslovakia."

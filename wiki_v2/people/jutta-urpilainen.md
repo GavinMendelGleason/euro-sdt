@@ -40,7 +40,7 @@ Commissioner
   > "European Council on Foreign Relations (ECFR), Member of the Council (since 2023)"
   > Source: [[sources/wikipedia-jutta-urpilainen|Jutta Urpilainen]] · grade A
 
-- [[organisations/european-leadership-network|European Leadership Network]]  
+- [[organisations/european-leadership-network|European Leadership Network]] (2025)  
   > "European Leadership Network (ELN), Member (since 2025)"
   > Source: [[sources/wikipedia-jutta-urpilainen|Jutta Urpilainen]] · grade A
 

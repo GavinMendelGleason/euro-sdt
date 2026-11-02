@@ -14,7 +14,7 @@ generated: 2026-11-02
 
 Commissioner · LVA
 
-*Verified assertions: 42*
+*Verified assertions: 46*
 
 ## Portfolio
 
@@ -35,8 +35,8 @@ Commissioner · LVA
   > Source: [[sources/wikipedia-valdis-dombrovskis|Valdis Dombrovskis]] · grade A
 
 - [[organisations/riga-technical-university|Riga Technical University]]  
-  > "Dombrovskis earned a bachelor's degree in economics for engineers from Riga Technical University in 1995"
-  > Source: [[sources/wikipedia-valdis-dombrovskis|Valdis Dombrovskis]] · grade A
+  > "Honorary Membership Riga Technical University University"
+  > Source: [[sources/declaration-doi-valdis-dombrovskis-en|Valdis Dombrovskis]] · grade A
 
 - [[organisations/university-of-maryland-college-park|University Of Maryland, College Park]]  
   > "and as a PhD student at the A. James Clark School of Engineering at the University of Maryland, College Park for electrical engineering in 1998"
@@ -68,6 +68,10 @@ Commissioner · LVA
   > "As Member of the European Parliament, Dombrovskis was a member of three European Parliament Committees: Committee on Budgets, Delegation to the ACP-EU Joint Parliamentary Assembly, Delegation to the Euro-Latin American Parliamentary Assembly."
   > Source: [[sources/wikipedia-valdis-dombrovskis|Valdis Dombrovskis]] · grade A
 
+- [[organisations/economists-association|Economists' Association]]  
+  > "Member (passive member, no active role) Economists' Association Think Tank (Latvia)"
+  > Source: [[sources/declaration-doi-valdis-dombrovskis-en|Valdis Dombrovskis]] · grade A
+
 - [[organisations/eu-kazakhstan-parliamentary-cooperation-committee|EU-Kazakhstan Parliamentary Cooperation Committee]]  
   > "He is also a Substitute at Committee on Economic and Monetary Affairs, Committee on Budgetary Control and delegation to the EU-Kazakhstan, EU-Kyrgyzstan, and EU-Uzbekistan Parliamentary Cooperation Committees, and for relations with Tajikistan, Turkmenistan and Mongolia."
   > Source: [[sources/wikipedia-valdis-dombrovskis|Valdis Dombrovskis]] · grade B
@@ -91,6 +95,10 @@ Commissioner · LVA
 - [[organisations/european-parliament|European Parliament]]  
   > "As Member of the European Parliament, Dombrovskis was a member of three European Parliament Committees: Committee on Budgets, Delegation to the ACP-EU Joint Parliamentary Assembly, Delegation to the Euro-Latin American Parliamentary Assembly."
   > Source: [[sources/wikipedia-valdis-dombrovskis|Valdis Dombrovskis]] · grade A
+
+- [[organisations/university-of-latvia|University of Latvia]]  
+  > "Honorary Membership University of Latvia University"
+  > Source: [[sources/declaration-doi-valdis-dombrovskis-en|Valdis Dombrovskis]] · grade A
 
 ## Board / trustee
 

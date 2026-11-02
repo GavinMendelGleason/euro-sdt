@@ -86,7 +86,7 @@ Commissioner · BGR
   > "LEAD International, member of the board of trustees (2003–2009)"
   > Source: [[sources/wikipedia-kristalina-georgieva|Kristalina Georgieva]] · grade A
 
-- [[organisations/world-economic-forum|World Economic Forum]] — board_member  
+- [[organisations/world-economic-forum|World Economic Forum]] — board_member (2020)  
   > "World Economic Forum (WEF), Member of the Board of Trustees (since 2020)"
   > Source: [[sources/wikipedia-kristalina-georgieva|Kristalina Georgieva]] · grade A
 

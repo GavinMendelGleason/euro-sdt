@@ -14,6 +14,6 @@ generated: 2026-11-02
 
 ## Members and roles
 
-- [[people/raffaele-fitto|Raffaele Fitto]] — party_member  
-  > "In 2006, Fitto was investigated by the Bari prosecutor in connection with a donation to his regional party La Puglia Prima di Tutto of €500,000 by Tosinvest, a company owned by Antonio Angelucci, ahead of the 2005 Apulian regional election."
-  > Source: [[sources/wikipedia-raffaele-fitto|Raffaele Fitto]] · grade B
+- [[people/raffaele-fitto|Raffaele Fitto]] — chair; party_member (2005–2023)  
+  > "President (2005 - 2023) La Puglia Prima di Tutto Regional political party for the participation in regional and local elections"
+  > Source: [[sources/declaration-doi-raffaele-fitto-en|Raffaele Fitto]] · grade A

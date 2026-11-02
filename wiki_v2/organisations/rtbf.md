@@ -15,5 +15,5 @@ generated: 2026-11-02
 ## Members and roles
 
 - [[people/hadja-lahbib|Hadja Lahbib]] — employed_by  
-  > "Lahbib graduated in journalism from the Free University of Brussels and worked for a long time for the Belgian Radio-Television of the French Community (RTBF)."
-  > Source: [[sources/wikipedia-hadja-lahbib|Hadja Lahbib]] · grade A
+  > "1997-2022: Journalist - RTBF (radio télévision belge francophone)"
+  > Source: [[sources/declaration-doi-hadja-lahbib-en|Hadja Lahbib]] · grade A

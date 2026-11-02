@@ -15,5 +15,5 @@ generated: 2026-11-02
 ## Members and roles
 
 - [[people/apostolos-tzitzikostas|Apostolos Tzitzikostas]] — chair; employed_by  
-  > "In July 2022, he was also unanimously elected First Vice-President of the European Committee of the Regions."
-  > Source: [[sources/wikipedia-apostolos-tzitzikostas|Apostolos Tzitzikostas]] · grade A
+  > "European Committee of the Regions, member from 26/01/2015 till 29/11/2024"
+  > Source: [[sources/declaration-doi-apostolos-tzitzikostas-en|Apostolos Tzitzikostas]] · grade A
