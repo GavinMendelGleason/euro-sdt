@@ -164,6 +164,8 @@ def main() -> int:
         "European Ombudsman SI/5/2024/KR reports a former DG Competition director who joined **Paul Weiss**, a US law firm, in 2024. The official note anonymises the individual but confirms the move and the Commission's post-service restrictions.",
         "",
         "Commission Article 16 annual reports also document named DDG moves to Latham & Watkins (US) and Clifford Chance (UK), plus an academic and non-profit role.",
+        "",
+        "Official-report coverage: English PDFs for 2018–2025 were searched for `Director-General` / `Deputy Director-General`. DG/DDG cases were found in 2018 (Falkenberg, Faull), 2022 (Borchardt, Esteva Mosso, Madero Villarejo), and 2025 (Koehler); no DG/DDG hits were found in 2019–2021, 2023, or 2024. This is a keyword-assisted review, not a line-by-line audit of every case section.",
     ]
     args.out.with_suffix(".md").write_text("\n".join(lines), encoding="utf-8")
     print(f"wrote {args.out}.csv/.md ({len(filtered)} DG/DDG cases)")
