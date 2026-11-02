@@ -1,8 +1,9 @@
-name,policy_area,former,new,date,employer_region,employer_type,in_graph
-Robert Madelin UK,IT,"European Political Strategy Center & DG CNECT, Senior Adviser on Innovation & Director General","Madelin Innovation, Director - Consultant",Oct 2016,European,consultancy,False
-Hervé Jouanjean France,General,"European commission, DG budget, Director-general","Fidal, Of counsel",May 2014,European,law,False
-Peter Faross Germany,General,"DG Energy, Acting deputy director general","UEAPME (Union Européenne de l’Artisanat et des Petites et Moyennes Entreprises) + Kaesler & Kollegen, Secretary-general + adviser",Jan 2014,European,business association/consultancy,False
-Joao Pacheco Portugal,Agriculture,"European Commission, DG agriculture, Deputy director-general","JSPacheco-International Consulting, Allen F. Johnson Associates, Farm Europe, Various",Oct 2013,Mixed,consultancy/think tank,False
-Jörgen Holmquist Sweden,Finance,"DG Internal Market and Services (MARKT), Director General DG MARKT","Interel, “Senior advisory role” in financial services practice",Oct 2012,European,lobby/consultancy,False
-Mogens Peter Carl Denmark,Environment,"DG Environment, Director-General","Kreab Gavin Anderson (lobby consultancy), Senior Adviser",Feb 2010,European,lobby/consultancy,False
-Michel Petite France,Tobacco,"Legal Service - European Commission, Director-General (for 6 years)","Clifford Chance, Of Counsel",Jan 2008,European,law,False
+name,policy_area,former,new,date,employer_region,employer_type,in_graph,source
+Jean-Paul Mingasson,Enterprise,"Director-General, DG Enterprise and Industry","BusinessEurope, General adviser",2004,European,business association,False,"ALTER-EU 2011, Annexe 1"
+Robert Madelin UK,IT,"European Political Strategy Center & DG CNECT, Senior Adviser on Innovation & Director General","Madelin Innovation, Director - Consultant",Oct 2016,European,consultancy,False,RevolvingDoorWatch
+Hervé Jouanjean France,General,"European commission, DG budget, Director-general","Fidal, Of counsel",May 2014,European,law,False,RevolvingDoorWatch
+Peter Faross Germany,General,"DG Energy, Acting deputy director general","UEAPME (Union Européenne de l’Artisanat et des Petites et Moyennes Entreprises) + Kaesler & Kollegen, Secretary-general + adviser",Jan 2014,European,business association/consultancy,False,RevolvingDoorWatch
+Joao Pacheco Portugal,Agriculture,"European Commission, DG agriculture, Deputy director-general","JSPacheco-International Consulting, Allen F. Johnson Associates, Farm Europe, Various",Oct 2013,Mixed,consultancy/think tank,False,RevolvingDoorWatch
+Jörgen Holmquist Sweden,Finance,"DG Internal Market and Services (MARKT), Director General DG MARKT","Interel, “Senior advisory role” in financial services practice",Oct 2012,European,lobby/consultancy,False,RevolvingDoorWatch
+Mogens Peter Carl Denmark,Environment,"DG Environment, Director-General","Kreab Gavin Anderson (lobby consultancy), Senior Adviser",Feb 2010,European,lobby/consultancy,False,RevolvingDoorWatch
+Michel Petite France,Tobacco,"Legal Service - European Commission, Director-General (for 6 years)","Clifford Chance, Of Counsel",Jan 2008,European,law,False,RevolvingDoorWatch
