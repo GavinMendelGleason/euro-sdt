@@ -55,7 +55,7 @@ def main() -> int:
         company_id = entity_id_for(db, company, "organisation")
         if not company_id:
             raise SystemExit(f"company not in frame: {company}")
-        doc_id = f"official-{company_id}"
+        doc_id = row.get("source_id") or f"official-{company_id}"
         doc = db.execute("SELECT id, subject_id FROM source_document WHERE id=?", (doc_id,)).fetchone()
         if not doc:
             raise SystemExit(f"missing source document {doc_id}; run add_official_source.py first")

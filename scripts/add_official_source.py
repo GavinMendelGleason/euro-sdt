@@ -34,6 +34,7 @@ def fetch_text(url: str) -> str:
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--person-id", required=True)
+    parser.add_argument("--subject-id", default=None)
     parser.add_argument("--url", required=True)
     parser.add_argument("--title", default=None)
     parser.add_argument("--text-file", default=None)
@@ -45,6 +46,7 @@ def main() -> int:
     OUT.mkdir(parents=True, exist_ok=True)
     path = OUT / f"{args.person_id}.txt"
     path.write_text(text, encoding="utf-8")
+    subject_id = args.subject_id or args.person_id
     db = connect()
     doc_id = f"official-{args.person_id}"
     db.execute("DELETE FROM sentence WHERE doc_id=?", (doc_id,))
@@ -55,7 +57,7 @@ def main() -> int:
         "VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?)",
         (doc_id, "official", args.title or args.person_id, args.url,
          str(path.relative_to(PROJECT_ROOT)), sha256_text(text), len(text), 0,
-         now(), None, now()[:10], "Official public document", args.person_id,
+         now(), None, now()[:10], "Official public document", subject_id,
          json.dumps({"url": args.url}, ensure_ascii=False)),
     )
     spans = sentence_spans(text)

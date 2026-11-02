@@ -1,50 +1,103 @@
-company,person,role_kind,role_raw,as_of,source_url
-Airbus,Amparo Moraleda,chair,Chair of the Board of Directors of Airbus SE,2026-10-02,https://www.airbus.com/en/about-us/our-governance/board-and-board-committees
-Airbus,Guillaume Faury,ceo,Chief Executive Officer of Airbus SE,2026-10-02,https://www.airbus.com/en/about-us/our-governance/board-and-board-committees
-Airbus,Jean-Pierre Clamadieu,board_member,Non-Executive Director,2026-10-02,https://www.airbus.com/en/about-us/our-governance/board-and-board-committees
-Airbus,Mark Dunkerley,board_member,Non-Executive Director,2026-10-02,https://www.airbus.com/en/about-us/our-governance/board-and-board-committees
-Airbus,Christophe Fouquet,board_member,Non-Executive Director,2026-10-02,https://www.airbus.com/en/about-us/our-governance/board-and-board-committees
-Airbus,Stephan Gemkow,board_member,Non-Executive Director,2026-10-02,https://www.airbus.com/en/about-us/our-governance/board-and-board-committees
-Airbus,Catherine Guillouard,board_member,Non-Executive Director,2026-10-02,https://www.airbus.com/en/about-us/our-governance/board-and-board-committees
-Airbus,Dr. Doris Höpke,board_member,Non-Executive Director,2026-10-02,https://www.airbus.com/en/about-us/our-governance/board-and-board-committees
-Airbus,Irene Rummelhoff,board_member,Non-Executive Director,2026-10-02,https://www.airbus.com/en/about-us/our-governance/board-and-board-committees
-Airbus,Henriette Hallberg Thygesen,board_member,Non-Executive Director,2026-10-02,https://www.airbus.com/en/about-us/our-governance/board-and-board-committees
-Airbus,Antony Wood,board_member,Non-Executive Director,2026-10-02,https://www.airbus.com/en/about-us/our-governance/board-and-board-committees
-Airbus,Oliver Zipse,board_member,Non-Executive Director,2026-10-02,https://www.airbus.com/en/about-us/our-governance/board-and-board-committees
-LVMH,Bernard Arnault,chair,Chairman & Chief Executive Officer,2026-11-02,https://www.lvmh.com/en/our-group/governance
-LVMH,Alexandre Arnault,board_member,Board member,2026-11-02,https://www.lvmh.com/en/our-group/governance
-LVMH,Antoine Arnault,board_member,Board member,2026-11-02,https://www.lvmh.com/en/our-group/governance
-LVMH,Delphine Arnault,board_member,Board member,2026-11-02,https://www.lvmh.com/en/our-group/governance
-LVMH,Frédéric Arnault,board_member,Board member,2026-11-02,https://www.lvmh.com/en/our-group/governance
-LVMH,Dominique Aumont,board_member,Director representing employees,2026-11-02,https://www.lvmh.com/en/our-group/governance
-LVMH,Henri de Castries,board_member,Lead Director,2026-11-02,https://www.lvmh.com/en/our-group/governance
-LVMH,Sophie Chassat,board_member,Board member,2026-11-02,https://www.lvmh.com/en/our-group/governance
-LVMH,Wei Sun Christianson,board_member,Board member,2026-11-02,https://www.lvmh.com/en/our-group/governance
-LVMH,Clara Gaymard,board_member,Board member,2026-11-02,https://www.lvmh.com/en/our-group/governance
-LVMH,Ariane Gorin,board_member,Board member,2026-11-02,https://www.lvmh.com/en/our-group/governance
-LVMH,Marie-Josée Kravis,board_member,Board member,2026-11-02,https://www.lvmh.com/en/our-group/governance
-LVMH,Laurent Mignon,board_member,Board member,2026-11-02,https://www.lvmh.com/en/our-group/governance
-LVMH,Natacha Valla,board_member,Board member,2026-11-02,https://www.lvmh.com/en/our-group/governance
-LVMH,Hubert Védrine,board_member,Board member,2026-11-02,https://www.lvmh.com/en/our-group/governance
-LVMH,Lydia Zune,board_member,Director representing employees,2026-11-02,https://www.lvmh.com/en/our-group/governance
-LVMH,Diego Della Valle,advisory_board,Advisory board member,2026-11-02,https://www.lvmh.com/en/our-group/governance
-LVMH,Lord Powell of Bayswater,advisory_board,Advisory board member,2026-11-02,https://www.lvmh.com/en/our-group/governance
-TotalEnergies,Patrick Pouyanné,chair,Chairman and Chief Executive Officer,2026-05-29,https://totalenergies.com/company/identity/governance/board-of-directors
-TotalEnergies,Jacques Aschenbroich,board_member,Lead Independent Director,2026-05-29,https://totalenergies.com/company/identity/governance/board-of-directors
-TotalEnergies,Marie-Christine Coisne-Roquette,board_member,Director,2026-05-29,https://totalenergies.com/company/identity/governance/board-of-directors
-TotalEnergies,Lise Croteau,board_member,Independent director,2026-05-29,https://totalenergies.com/company/identity/governance/board-of-directors
-TotalEnergies,Marie-Ange Debon,board_member,Independent director,2026-05-29,https://totalenergies.com/company/identity/governance/board-of-directors
-TotalEnergies,Valérie Della Puppa-Tibi,board_member,Director representing employee shareholders,2026-05-29,https://totalenergies.com/company/identity/governance/board-of-directors
-TotalEnergies,Romain Garcia-Ivaldi,board_member,Director representing employees,2026-05-29,https://totalenergies.com/company/identity/governance/board-of-directors
-TotalEnergies,Glenn Hubbard,board_member,Director,2026-05-29,https://totalenergies.com/company/identity/governance/board-of-directors
-TotalEnergies,Slawomir Krupa,board_member,Director,2026-05-29,https://totalenergies.com/company/identity/governance/board-of-directors
-TotalEnergies,Anelise Lara,board_member,Director,2026-05-29,https://totalenergies.com/company/identity/governance/board-of-directors
-TotalEnergies,Helen Lee Bouygues,board_member,Director,2026-05-29,https://totalenergies.com/company/identity/governance/board-of-directors
-TotalEnergies,Laurent Mignon,board_member,Director,2026-05-29,https://totalenergies.com/company/identity/governance/board-of-directors
-TotalEnergies,Dierk Paskert,board_member,Director,2026-05-29,https://totalenergies.com/company/identity/governance/board-of-directors
-TotalEnergies,Angel Pobo,board_member,Director,2026-05-29,https://totalenergies.com/company/identity/governance/board-of-directors
-Siemens,Roland Busch,ceo,President & Chief Executive Officer,2026-11-02,https://www.siemens.com/global/en/company/about/management.html
-Siemens,Veronika Bienert,cfo,Chief Financial Officer,2026-11-02,https://www.siemens.com/global/en/company/about/management.html
-Siemens,Cedrik Neike,board_member,Member of the Managing Board,2026-11-02,https://www.siemens.com/global/en/company/about/management.html
-Siemens,Judith Wiese,board_member,Member of the Managing Board,2026-11-02,https://www.siemens.com/global/en/company/about/management.html
-Siemens,Peter Koerte,board_member,Member of the Managing Board,2026-11-02,https://www.siemens.com/global/en/company/about/management.html
+company,person,role_kind,role_raw,as_of,source_url,source_id
+Airbus,Amparo Moraleda,chair,Chair of the Board of Directors of Airbus SE,2026-10-02,https://www.airbus.com/en/about-us/our-governance/board-and-board-committees,
+Airbus,Guillaume Faury,ceo,Chief Executive Officer of Airbus SE,2026-10-02,https://www.airbus.com/en/about-us/our-governance/board-and-board-committees,
+Airbus,Jean-Pierre Clamadieu,board_member,Non-Executive Director,2026-10-02,https://www.airbus.com/en/about-us/our-governance/board-and-board-committees,
+Airbus,Mark Dunkerley,board_member,Non-Executive Director,2026-10-02,https://www.airbus.com/en/about-us/our-governance/board-and-board-committees,
+Airbus,Christophe Fouquet,board_member,Non-Executive Director,2026-10-02,https://www.airbus.com/en/about-us/our-governance/board-and-board-committees,
+Airbus,Stephan Gemkow,board_member,Non-Executive Director,2026-10-02,https://www.airbus.com/en/about-us/our-governance/board-and-board-committees,
+Airbus,Catherine Guillouard,board_member,Non-Executive Director,2026-10-02,https://www.airbus.com/en/about-us/our-governance/board-and-board-committees,
+Airbus,Dr. Doris Höpke,board_member,Non-Executive Director,2026-10-02,https://www.airbus.com/en/about-us/our-governance/board-and-board-committees,
+Airbus,Irene Rummelhoff,board_member,Non-Executive Director,2026-10-02,https://www.airbus.com/en/about-us/our-governance/board-and-board-committees,
+Airbus,Henriette Hallberg Thygesen,board_member,Non-Executive Director,2026-10-02,https://www.airbus.com/en/about-us/our-governance/board-and-board-committees,
+Airbus,Antony Wood,board_member,Non-Executive Director,2026-10-02,https://www.airbus.com/en/about-us/our-governance/board-and-board-committees,
+Airbus,Oliver Zipse,board_member,Non-Executive Director,2026-10-02,https://www.airbus.com/en/about-us/our-governance/board-and-board-committees,
+LVMH,Bernard Arnault,chair,Chairman & Chief Executive Officer,2026-11-02,https://www.lvmh.com/en/our-group/governance,
+LVMH,Alexandre Arnault,board_member,Board member,2026-11-02,https://www.lvmh.com/en/our-group/governance,
+LVMH,Antoine Arnault,board_member,Board member,2026-11-02,https://www.lvmh.com/en/our-group/governance,
+LVMH,Delphine Arnault,board_member,Board member,2026-11-02,https://www.lvmh.com/en/our-group/governance,
+LVMH,Frédéric Arnault,board_member,Board member,2026-11-02,https://www.lvmh.com/en/our-group/governance,
+LVMH,Dominique Aumont,board_member,Director representing employees,2026-11-02,https://www.lvmh.com/en/our-group/governance,
+LVMH,Henri de Castries,board_member,Lead Director,2026-11-02,https://www.lvmh.com/en/our-group/governance,
+LVMH,Sophie Chassat,board_member,Board member,2026-11-02,https://www.lvmh.com/en/our-group/governance,
+LVMH,Wei Sun Christianson,board_member,Board member,2026-11-02,https://www.lvmh.com/en/our-group/governance,
+LVMH,Clara Gaymard,board_member,Board member,2026-11-02,https://www.lvmh.com/en/our-group/governance,
+LVMH,Ariane Gorin,board_member,Board member,2026-11-02,https://www.lvmh.com/en/our-group/governance,
+LVMH,Marie-Josée Kravis,board_member,Board member,2026-11-02,https://www.lvmh.com/en/our-group/governance,
+LVMH,Laurent Mignon,board_member,Board member,2026-11-02,https://www.lvmh.com/en/our-group/governance,
+LVMH,Natacha Valla,board_member,Board member,2026-11-02,https://www.lvmh.com/en/our-group/governance,
+LVMH,Hubert Védrine,board_member,Board member,2026-11-02,https://www.lvmh.com/en/our-group/governance,
+LVMH,Lydia Zune,board_member,Director representing employees,2026-11-02,https://www.lvmh.com/en/our-group/governance,
+LVMH,Diego Della Valle,advisory_board,Advisory board member,2026-11-02,https://www.lvmh.com/en/our-group/governance,
+LVMH,Lord Powell of Bayswater,advisory_board,Advisory board member,2026-11-02,https://www.lvmh.com/en/our-group/governance,
+TotalEnergies,Patrick Pouyanné,chair,Chairman and Chief Executive Officer,2026-05-29,https://totalenergies.com/company/identity/governance/board-of-directors,
+TotalEnergies,Jacques Aschenbroich,board_member,Lead Independent Director,2026-05-29,https://totalenergies.com/company/identity/governance/board-of-directors,
+TotalEnergies,Marie-Christine Coisne-Roquette,board_member,Director,2026-05-29,https://totalenergies.com/company/identity/governance/board-of-directors,
+TotalEnergies,Lise Croteau,board_member,Independent director,2026-05-29,https://totalenergies.com/company/identity/governance/board-of-directors,
+TotalEnergies,Marie-Ange Debon,board_member,Independent director,2026-05-29,https://totalenergies.com/company/identity/governance/board-of-directors,
+TotalEnergies,Valérie Della Puppa-Tibi,board_member,Director representing employee shareholders,2026-05-29,https://totalenergies.com/company/identity/governance/board-of-directors,
+TotalEnergies,Romain Garcia-Ivaldi,board_member,Director representing employees,2026-05-29,https://totalenergies.com/company/identity/governance/board-of-directors,
+TotalEnergies,Glenn Hubbard,board_member,Director,2026-05-29,https://totalenergies.com/company/identity/governance/board-of-directors,
+TotalEnergies,Slawomir Krupa,board_member,Director,2026-05-29,https://totalenergies.com/company/identity/governance/board-of-directors,
+TotalEnergies,Anelise Lara,board_member,Director,2026-05-29,https://totalenergies.com/company/identity/governance/board-of-directors,
+TotalEnergies,Helen Lee Bouygues,board_member,Director,2026-05-29,https://totalenergies.com/company/identity/governance/board-of-directors,
+TotalEnergies,Laurent Mignon,board_member,Director,2026-05-29,https://totalenergies.com/company/identity/governance/board-of-directors,
+TotalEnergies,Dierk Paskert,board_member,Director,2026-05-29,https://totalenergies.com/company/identity/governance/board-of-directors,
+TotalEnergies,Angel Pobo,board_member,Director,2026-05-29,https://totalenergies.com/company/identity/governance/board-of-directors,
+Siemens,Roland Busch,ceo,President & Chief Executive Officer,2026-11-02,https://www.siemens.com/global/en/company/about/management.html,
+Siemens,Veronika Bienert,cfo,Chief Financial Officer,2026-11-02,https://www.siemens.com/global/en/company/about/management.html,
+Siemens,Cedrik Neike,board_member,Member of the Managing Board,2026-11-02,https://www.siemens.com/global/en/company/about/management.html,
+Siemens,Judith Wiese,board_member,Member of the Managing Board,2026-11-02,https://www.siemens.com/global/en/company/about/management.html,
+Siemens,Peter Koerte,board_member,Member of the Managing Board,2026-11-02,https://www.siemens.com/global/en/company/about/management.html,
+Sanofi,Frédéric Oudéa,chair,Chairman of the Board of Directors,2026-11-02,https://www.sanofi.com/en/our-company/governance/board-of-directors,
+Sanofi,Belén Garijo,board_member,Director,2026-11-02,https://www.sanofi.com/en/our-company/governance/board-of-directors,
+Sanofi,Christophe Babule,board_member,Director,2026-11-02,https://www.sanofi.com/en/our-company/governance/board-of-directors,
+Sanofi,Clotilde Delbos,board_member,Independent director,2026-11-02,https://www.sanofi.com/en/our-company/governance/board-of-directors,
+Sanofi,Humberto De Sousa,board_member,Director representing employees,2026-11-02,https://www.sanofi.com/en/our-company/governance/board-of-directors,
+Sanofi,Rachel Duan,board_member,Independent director,2026-11-02,https://www.sanofi.com/en/our-company/governance/board-of-directors,
+Sanofi,Carole Ferrand,board_member,Independent director,2026-11-02,https://www.sanofi.com/en/our-company/governance/board-of-directors,
+Sanofi,Christel Heydemann,board_member,Independent director,2026-11-02,https://www.sanofi.com/en/our-company/governance/board-of-directors,
+Sanofi,Lise Kingo,board_member,Independent director,2026-11-02,https://www.sanofi.com/en/our-company/governance/board-of-directors,
+Sanofi,Jean-Paul Kress,board_member,Independent director,2026-11-02,https://www.sanofi.com/en/our-company/governance/board-of-directors,
+Sanofi,Wolfgang Laux,board_member,Director representing employees,2026-11-02,https://www.sanofi.com/en/our-company/governance/board-of-directors,
+Sanofi,Barbara Lavernos,board_member,Director,2026-11-02,https://www.sanofi.com/en/our-company/governance/board-of-directors,
+Sanofi,Anne-Françoise Nesmes,board_member,Independent director,2026-11-02,https://www.sanofi.com/en/our-company/governance/board-of-directors,
+Sanofi,John Sundy,board_member,Independent director,2026-11-02,https://www.sanofi.com/en/our-company/governance/board-of-directors,
+Sanofi,Emile Voest,board_member,Independent director,2026-11-02,https://www.sanofi.com/en/our-company/governance/board-of-directors,
+Sanofi,Antoine Yver,board_member,Independent director,2026-11-02,https://www.sanofi.com/en/our-company/governance/board-of-directors,
+Deutsche Telekom,Timotheus Höttges,ceo,Chief Executive Officer,2026-11-02,https://www.telekom.com/en/about-us/corporate-governance/board-of-management,
+Deutsche Telekom,Ferri Abolhassan,board_member,Member of the Board of Management,2026-11-02,https://www.telekom.com/en/about-us/corporate-governance/board-of-management,
+Deutsche Telekom,Birgit Bohle,board_member,Member of the Management Board,2026-11-02,https://www.telekom.com/en/about-us/corporate-governance/board-of-management,
+Deutsche Telekom,Rodrigo Diehl,board_member,Member of the Board of Management,2026-11-02,https://www.telekom.com/en/about-us/corporate-governance/board-of-management,
+Deutsche Telekom,Jan Hofmeyr,board_member,Member of the Board of Management,2026-11-02,https://www.telekom.com/en/about-us/corporate-governance/board-of-management,
+Deutsche Telekom,Christian P. Illek,board_member,Member of the Deutsche Telekom AG Board of Management,2026-11-02,https://www.telekom.com/en/about-us/corporate-governance/board-of-management,
+Deutsche Telekom,Thorsten Langheim,board_member,Member of the Board of Management,2026-11-02,https://www.telekom.com/en/about-us/corporate-governance/board-of-management,
+Deutsche Telekom,Dominique Leroy,board_member,Member of the Board of Management,2026-11-02,https://www.telekom.com/en/about-us/corporate-governance/board-of-management,
+Eni,Giuseppina Di Foggia,chair,Chairman of the Board,2026-11-02,https://www.eni.com/en-IT/governance/corporate-bodies/board-directors.html,
+Eni,Claudio Descalzi,ceo,Chief Executive Officer,2026-11-02,https://www.eni.com/en-IT/governance/corporate-bodies/board-directors.html,
+Eni,Stefano Cappiello,board_member,Independent Non-executive Director,2026-11-02,https://www.eni.com/en-IT/governance/corporate-bodies/board-directors.html,
+Eni,Carolyn Adele Dittmeier,board_member,Independent Non-executive Director,2026-11-02,https://www.eni.com/en-IT/governance/corporate-bodies/board-directors.html,
+Eni,Benedetta Fiorini,board_member,Independent Non-executive Director,2026-11-02,https://www.eni.com/en-IT/governance/corporate-bodies/board-directors.html,
+Eni,Emma Marcegaglia,board_member,Independent Non-executive Director,2026-11-02,https://www.eni.com/en-IT/governance/corporate-bodies/board-directors.html,
+Eni,Matteo Petrella,board_member,Independent Non-executive Director,2026-11-02,https://www.eni.com/en-IT/governance/corporate-bodies/board-directors.html,
+Eni,Cristina Sgubin,board_member,Independent Non-executive Director,2026-11-02,https://www.eni.com/en-IT/governance/corporate-bodies/board-directors.html,
+Eni,Raphael Louis L. Vermeir,board_member,Independent Non-executive Director,2026-11-02,https://www.eni.com/en-IT/governance/corporate-bodies/board-directors.html,
+Siemens,Jim Hagemann Snabe,chair,Chairman,2026-11-02,https://www.siemens.com/en-us/company/leadership/supervisory-board,official-siemens-supervisory
+Siemens,Jürgen Kerner,board_member,First Deputy Chairman,2026-11-02,https://www.siemens.com/en-us/company/leadership/supervisory-board,official-siemens-supervisory
+Siemens,Werner Brandt,board_member,Second Deputy Chairman,2026-11-02,https://www.siemens.com/en-us/company/leadership/supervisory-board,official-siemens-supervisory
+Siemens,Tobias Bäumler,board_member,Member of the Supervisory Board,2026-11-02,https://www.siemens.com/en-us/company/leadership/supervisory-board,official-siemens-supervisory
+Siemens,Regina E. Dugan,board_member,Member of the Supervisory Board,2026-11-02,https://www.siemens.com/en-us/company/leadership/supervisory-board,official-siemens-supervisory
+Siemens,Andrea Fehrmann,board_member,Member of the Supervisory Board,2026-11-02,https://www.siemens.com/en-us/company/leadership/supervisory-board,official-siemens-supervisory
+Siemens,Oliver Hartmann,board_member,Member of the Supervisory Board,2026-11-02,https://www.siemens.com/en-us/company/leadership/supervisory-board,official-siemens-supervisory
+Siemens,Keryn Lee James,board_member,Member of the Supervisory Board,2026-11-02,https://www.siemens.com/en-us/company/leadership/supervisory-board,official-siemens-supervisory
+Siemens,Saskia Kraußer,board_member,Member of the Supervisory Board,2026-11-02,https://www.siemens.com/en-us/company/leadership/supervisory-board,official-siemens-supervisory
+Siemens,Stefanie Lengfelder,board_member,Member of the Supervisory Board,2026-11-02,https://www.siemens.com/en-us/company/leadership/supervisory-board,official-siemens-supervisory
+Siemens,Christian Pfeiffer,board_member,Member of the Supervisory Board,2026-11-02,https://www.siemens.com/en-us/company/leadership/supervisory-board,official-siemens-supervisory
+Siemens,Benoît Potier,board_member,Member of the Supervisory Board,2026-11-02,https://www.siemens.com/en-us/company/leadership/supervisory-board,official-siemens-supervisory
+Siemens,Hagen Reimer,board_member,Member of the Supervisory Board,2026-11-02,https://www.siemens.com/en-us/company/leadership/supervisory-board,official-siemens-supervisory
+Siemens,Kasper Rørsted,board_member,Member of the Supervisory Board,2026-11-02,https://www.siemens.com/en-us/company/leadership/supervisory-board,official-siemens-supervisory
+Siemens,Ulf Mark Schneider,board_member,Member of the Supervisory Board,2026-11-02,https://www.siemens.com/en-us/company/leadership/supervisory-board,official-siemens-supervisory
+Siemens,Nathalie von Siemens,board_member,Member of the Supervisory Board,2026-11-02,https://www.siemens.com/en-us/company/leadership/supervisory-board,official-siemens-supervisory
+Siemens,Dorothea Simon,board_member,Member of the Supervisory Board,2026-11-02,https://www.siemens.com/en-us/company/leadership/supervisory-board,official-siemens-supervisory
+Siemens,Mimon Uhamou,board_member,Member of the Supervisory Board,2026-11-02,https://www.siemens.com/en-us/company/leadership/supervisory-board,official-siemens-supervisory
+Siemens,Grazia Vittadini,board_member,Member of the Supervisory Board,2026-11-02,https://www.siemens.com/en-us/company/leadership/supervisory-board,official-siemens-supervisory
+Siemens,Matthias Zachert,board_member,Member of the Supervisory Board,2026-11-02,https://www.siemens.com/en-us/company/leadership/supervisory-board,official-siemens-supervisory
