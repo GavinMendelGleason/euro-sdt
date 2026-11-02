@@ -271,3 +271,69 @@ CREATE TABLE IF NOT EXISTS judicial_affiliation (
 );
 CREATE INDEX IF NOT EXISTS idx_judicial_affiliation_person ON judicial_affiliation(person_id);
 CREATE INDEX IF NOT EXISTS idx_judicial_affiliation_kind ON judicial_affiliation(kind);
+
+
+CREATE TABLE IF NOT EXISTS institution_profile (
+    institution_id TEXT PRIMARY KEY REFERENCES entity(id),
+    institution_type TEXT,
+    country TEXT,
+    founded TEXT,
+    selectivity TEXT,
+    source_url TEXT,
+    status TEXT NOT NULL DEFAULT 'provisional',
+    notes TEXT
+);
+
+CREATE TABLE IF NOT EXISTS institution_cohort (
+    id TEXT PRIMARY KEY,
+    institution_id TEXT NOT NULL REFERENCES entity(id),
+    programme TEXT,
+    year INTEGER NOT NULL,
+    applicants INTEGER,
+    admitted INTEGER,
+    enrolled INTEGER,
+    graduates INTEGER,
+    source_url TEXT,
+    source_file TEXT,
+    notes TEXT
+);
+CREATE INDEX IF NOT EXISTS idx_institution_cohort_inst ON institution_cohort(institution_id, year);
+
+CREATE TABLE IF NOT EXISTS position_census (
+    id TEXT PRIMARY KEY,
+    track TEXT NOT NULL,
+    organisation_id TEXT REFERENCES entity(id),
+    role TEXT NOT NULL,
+    year INTEGER NOT NULL,
+    stock INTEGER,
+    openings INTEGER,
+    source_url TEXT,
+    source_file TEXT,
+    notes TEXT
+);
+CREATE INDEX IF NOT EXISTS idx_position_census_track ON position_census(track, year);
+
+CREATE TABLE IF NOT EXISTS role_intake (
+    id TEXT PRIMARY KEY,
+    person_id TEXT NOT NULL REFERENCES entity(id),
+    institution_id TEXT REFERENCES entity(id),
+    position_id TEXT REFERENCES position_census(id),
+    track TEXT,
+    intake_year INTEGER,
+    source_doc_id TEXT,
+    source_quote TEXT,
+    notes TEXT
+);
+
+CREATE TABLE IF NOT EXISTS institution_metric (
+    institution_id TEXT NOT NULL REFERENCES entity(id),
+    track TEXT NOT NULL,
+    observed_alumni INTEGER,
+    observed_role_holders INTEGER,
+    production INTEGER,
+    openings INTEGER,
+    placement_rate REAL,
+    overproduction_ratio REAL,
+    source_status TEXT NOT NULL DEFAULT 'incomplete',
+    PRIMARY KEY (institution_id, track)
+);

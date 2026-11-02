@@ -1,0 +1,41 @@
+institution_id,institution_name,track,observed_alumni,observed_role_holders,production,openings,placement_rate,overproduction_ratio,source_status
+college-of-europe,College of Europe,Commissioners,3,3,,,,,observed_only
+college-of-europe,College of Europe,Corporate elites,0,0,,,,,observed_only
+college-of-europe,College of Europe,DGs/DDGs,8,8,,,,,observed_only
+college-of-europe,College of Europe,Judicial,7,7,,,,,observed_only
+harvard,Harvard,Commissioners,6,6,,,,,observed_only
+harvard,Harvard,Corporate elites,0,0,,,,,observed_only
+harvard,Harvard,DGs/DDGs,2,2,,,,,observed_only
+harvard,Harvard,Judicial,6,6,,,,,observed_only
+london-school-of-economics,London School Of Economics,Commissioners,4,4,,,,,observed_only
+london-school-of-economics,London School Of Economics,Corporate elites,1,1,,,,,observed_only
+london-school-of-economics,London School Of Economics,DGs/DDGs,1,1,,,,,observed_only
+london-school-of-economics,London School Of Economics,Judicial,2,2,,,,,observed_only
+university-of-oxford,University Of Oxford,Commissioners,3,3,,,,,observed_only
+university-of-oxford,University Of Oxford,Corporate elites,2,2,,,,,observed_only
+university-of-oxford,University Of Oxford,DGs/DDGs,1,1,,,,,observed_only
+university-of-oxford,University Of Oxford,Judicial,2,2,,,,,observed_only
+university-of-cambridge,University of Cambridge,Commissioners,2,2,,,,,observed_only
+university-of-cambridge,University of Cambridge,Corporate elites,0,0,,,,,observed_only
+university-of-cambridge,University of Cambridge,DGs/DDGs,3,3,,,,,observed_only
+university-of-cambridge,University of Cambridge,Judicial,5,5,,,,,observed_only
+university-of-cologne,University of Cologne,Commissioners,2,2,,,,,observed_only
+university-of-cologne,University of Cologne,Corporate elites,1,1,,,,,observed_only
+university-of-cologne,University of Cologne,DGs/DDGs,0,0,,,,,observed_only
+university-of-cologne,University of Cologne,Judicial,3,3,,,,,observed_only
+universite-catholique-de-louvain,Université Catholique De Louvain,Commissioners,1,1,,,,,observed_only
+universite-catholique-de-louvain,Université Catholique De Louvain,Corporate elites,1,1,,,,,observed_only
+universite-catholique-de-louvain,Université Catholique De Louvain,DGs/DDGs,2,2,,,,,observed_only
+universite-catholique-de-louvain,Université Catholique De Louvain,Judicial,4,4,,,,,observed_only
+vilnius-university,Vilnius University,Commissioners,3,3,,,,,observed_only
+vilnius-university,Vilnius University,Corporate elites,0,0,,,,,observed_only
+vilnius-university,Vilnius University,DGs/DDGs,0,0,,,,,observed_only
+vilnius-university,Vilnius University,Judicial,4,4,,,,,observed_only
+ecole-polytechnique,École Polytechnique,Commissioners,0,0,,,,,observed_only
+ecole-polytechnique,École Polytechnique,Corporate elites,7,7,,,,,observed_only
+ecole-polytechnique,École Polytechnique,DGs/DDGs,0,0,,,,,observed_only
+ecole-polytechnique,École Polytechnique,Judicial,0,0,,,,,observed_only
+ecole-nationale-d-administration,École nationale d'administration,Commissioners,3,3,,,,,observed_only
+ecole-nationale-d-administration,École nationale d'administration,Corporate elites,1,1,,,,,observed_only
+ecole-nationale-d-administration,École nationale d'administration,DGs/DDGs,0,0,,,,,observed_only
+ecole-nationale-d-administration,École nationale d'administration,Judicial,6,6,,,,,observed_only
