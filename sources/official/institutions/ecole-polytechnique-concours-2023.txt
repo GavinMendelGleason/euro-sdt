@@ -1,0 +1,137 @@
+SOURCE: https://www.polytechnique.edu/admission-cycle-ingenieur/sites/admission/files/content/Livret_Stats-6%20POUR%20WEB.pdf
+PUBLISHER: École polytechnique / ESPCI Paris, 'Bilan et statistiques du concours d'admission'
+RETRIEVED: 2026-11-02 (PDF text via pdftotext -layout)
+EXTRACT: title page and the concours 2023 recapitulative tables (candidates, admissibles, admission lists, entrants)
+====================================================================================================
+BILAN
+ET STATISTIQUES
+DU CONCOURS
+D’ADMISSION
+
+
+        2023
+        École polytechnique
+        ESPCI Paris
+
+
+   BILAN ET STATISTIQUES
+  DU CONCOURS D’ADMISSION
+École polytechnique • ESPCI Paris
+
+====================================================================================================
+
+--- table block 1 (lines 313-367) ---
+■■ RÉCAPITULATIF
+                       Candidats français
+                                                                                             Voie CPGE
+                                  Total général                                                                                                Voie
+                                                          M P - INFO      M P - P & SI         PC          MPI   PSI     PT    BCPST T S I
+                                                                                                                                               UNIV
+                                      Nombre             Nombre    %     Nombre      %     Nombre    %
+
+  Places offertes                           431             86    20 %       77     18 %      131   30%     24     56     10      13      2     32
+
+  Candidats inscrits                    5557               808    15 %     806      15 %    1324    24%    261   945     381    351     516     165
+
+  Présents à l’écrit                    4519               748    17 %     708      16 %     1186   26%    232   792     378    349      41
+
+  Admissibles                               834            168    20 %      141     17 %     244    29%     39     111   22      34       3     85
+
+  Listes d'admission                        431             86    20 %       77     18 %      131   30%     24     56     10      13      2     32
+
+  Listes complémentaires                    139             52    37 %      28     20 %       30    22%      4     10     4       11      0       0
+
+  Désistements                               80             35    44 %        3     4%         16   20 %     8      5     0        9      0       3
+
+
+  Entrants concours 2023
+                                            431             89              79               132            20     57     10      13      2     29
+  à la clôture des désistements
+
+  3/2                                357          89 %      76    85 %      67     85 %       119   90 %    20     52      9      13       1
+
+  5/2                                 45          11 %      13    15 %       12     15 %       13   10 %            5      1               1
+
+  Prépa ou Univ Île de France        323          75 %      63    71 %      65     82 %      106    80 %    14     33      7      12            23
+
+  Prépa ou Univ Province             107          25 %      26    29 %       14     18 %      26    20 %     6     24      3       1      2       5
+
+  Prépa ou Univ Étranger                1     0,2 %                                                                                               1
+
+  Femmes                              86      20,0 %         9    10 %       17    22 %       37    28 %     1      7      1       8              6
+
+  Boursiers                           53      12,3 %        12    13 %        9     11 %       17   13 %     2      3      1               1      8
+
+  TOTAL CONCOURS X23                   431                  89              79               132            20     57     10      13      2     29
+
+
+
+
+         Dans les 7 premières lignes, les % indiqués dans les colonnes MP, MPI et PC sont calculés par rapport au nombre de candidats français indi-
+         qués dans la première colonne.
+         Les % indiqués dans les lignes suivantes sont calculés par rapport au nombre d’entrants correspondants (ligne 8) dans la filière considérée.
+
+
+
+
+■ 10
+■■
+
+
+--- table block 2 (lines 372-426) ---
+
+                                Total général                                                                                       Formation
+                                                  Total   MP-    MP-P                                   Total
+                                                                         PC   MPI P S I    PT   BCPST                               française
+                                                  CPGE    INFO    & SI                                  Univ.    FUF     FUI
+                                                                                                                                 FUI-FF    FUI-FF
+                                                                                                                                   S1        S2
+
+Places offertes                        140         45                                                    95
+
+Candidats inscrits                    1204        737      59    502     72   24      70    6      4    467       28     113        57          269
+
+Présents à l’écrit                    605         605      47    408     58   23      59    6      4
+
+Admissibles                           259         108      11     70     15    5       6           1    151        13    65         24          49
+
+
+Listes d'admission                     128         60      10      37     9    4                         68        5     24          11          28
+
+Listes complémentaires                   9          9       1       7     1
+
+Désistements                             9           7      5       1     1                               2         1      1
+
+
+Entrants concours 2023
+                                126      90 %      60       6      41     9    4                         66        4     23          11          28
+à la clôture des désistements
+
+Région parisienne                23      18 %       21      5      6      8    2                          2        2
+
+Province                         10          8%     8       1      4      1    2                          2        2
+
+Maroc                            25      20 %      25             25
+
+Tunisie                           6          5%     6              6
+
+Étranger                         62      49 %                                                            62              23          11          28
+
+
+Femmes                           28      22 %       10             8      2                              18        2      3           3          10
+
+Boursiers                         4          3%     3               1     1     1                         1         1
+
+TOTAL CONCOURS X23                 126             60       6      41     9    4                         66        4     23          11         28
+
+
+
+
+                                                                                                                                          11 ■
+                                                                                                                                          ■■
+
+■ BARRES
+■■ D’ADMISSIBILITÉ
+       Candidats français
+
+

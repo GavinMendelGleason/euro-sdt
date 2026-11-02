@@ -1,0 +1,137 @@
+SOURCE: https://www.polytechnique.edu/admission-cycle-ingenieur/sites/admission/files/content/Fascicule%20de%20Statistiques%20concours%202020%20pour%20CA.pdf
+PUBLISHER: École polytechnique / ESPCI Paris, 'Bilan et statistiques du concours d'admission'
+RETRIEVED: 2026-11-02 (PDF text via pdftotext -layout)
+EXTRACT: title page and the concours 2020 recapitulative tables (candidates, admissibles, admission lists, entrants)
+====================================================================================================
+     BILAN ET STATISTIQUES
+  DU CONCOURS D’ADMISSION
+École polytechnique • ESPCI Paris
+
+            2020
+
+                          LE MOT DU DIRECTEUR DU CONCOURS
+
+
+
+
+Le concours 2020 voie CPGE et voie UNIV s’est déroulé dans des conditions exceptionnelles liées à
+la situation sanitaire du printemps 2020. Suite au confinement généralisé à la mi-mars, nous avons
+dû en l’espace d’environ un mois mettre en place les principes d’un nouveau concours. Les écrits
+
+====================================================================================================
+
+--- table block 1 (lines 166-220) ---
+                                                                                   CONCOURS 2020
+
+                                                                                                 Voie CPGE 2020
+                                                                                                                                                                            Voie
+      CANDIDATS FRANÇAIS                       TOTAL             M P - INFO            M P - P&SI                   PC            PSI      PT       BCPST          TSI      UNIV
+
+                                      NOMBRE           %     NOMBRE          %      NOMBRE        %      NOMBRE            %
+
+
+Places offertes                           425        100        102         24,0      80         18,8       130           30,6     57      11          13             2      30
+Candidats inscrits                       5562        100        887         15,9      820        14,7      1298           23,3    1028     380         394            589   166
+Admissibles                              1035        100        240         23,2      190        18,4       320           30,9     113     22          40             2     108
+
+Listes d'admission                        425        100        102         24,0      80         18,8       130           30,6     57      11          13              2     30
+Listes complémentaires                    153        100        60          39,2      39         25,5       29            19,0     12       2           9              0     2
+Désistements                              78         100        44          56,4      11         14,1       10            12,8      6       0           5              0     2
+
+
+Entrants concours 2020                    425                   102                   80                    130                    57      11          13             2      30
+à la clôture des désistements
+3/2                                       333        100        81          24,3      66         19,8       106           31,8     54      11          13             2
+5/2                                       62         100        21          33,9      14         22,6       24            38,7      3       0           0             0
+7/2                                        -           -         -           -         -          -          -              -
+
+Région parisienne                         316        100        71          22,5      66         20,9       97            30,7     39       8          10             0      25
+Province                                  108        100        31          28,7      14         13,0       33            30,6     18       3           3             2      4
+Etranger                                                                                                                                                                     1
+Femmes                                    76         100         8          10,5      10         13,2       24            31,6     11       2           9             0      12
+Boursiers                                 54         100        16          29,6       5         9,3        15            27,8      6       2           1             1      8
+
+
+TOTAL CONCOURS X20                                                    102                   80                      130            57      11          13             2      30
+au 09 septembre                                                                                              425
+Dans les 6 premières lignes, les % indiqués dans les colonnes MP et PC sont calculés par rapport au nombre de candidats français indiqués dans la première colonne.
+Les % indiqués dans les lignes suivantes sont calculés par rapport au nombre d'entrants correspondants (ligne 7).
+
+
+
+                                                                        Voie CPGE 2020                                              Voie UNIVERSITAIRE
+
+CANDIDATS                                Total                                                                                    France          Internationale
+
+       INTERNATIONAUX                  général     Total        MP           MP       PC         PSI        PT            Total                    Formation    Formation
+                                                   CPGE        INFO         P&SI                                          Univ.    FUF     FUI     française    française
+                                                                                                                                                   FUI-FF S1    FUI-FF S2
+
+
+Places offertes                           140        45                               45                                   95                     95
+
+Candidats inscrits                       1195        735        74          483       79         90          9            460      42      115         70             233
+Admissibles                               292        101        18           62       14          7          0            191      23      85          26             57
+
+
+Listes d'admission                        137        45          7           30        4          4          0             92       7      41          14             30
+Listes complémentaires                    12         12          2           7         2          1          0             0        0       -           -              -
+
+
+--- table block 2 (lines 205-259) ---
+
+CANDIDATS                                Total                                                                                    France          Internationale
+
+       INTERNATIONAUX                  général     Total        MP           MP       PC         PSI        PT            Total                    Formation    Formation
+                                                   CPGE        INFO         P&SI                                          Univ.    FUF     FUI     française    française
+                                                                                                                                                   FUI-FF S1    FUI-FF S2
+
+
+Places offertes                           140        45                               45                                   95                     95
+
+Candidats inscrits                       1195        735        74          483       79         90          9            460      42      115         70             233
+Admissibles                               292        101        18           62       14          7          0            191      23      85          26             57
+
+
+Listes d'admission                        137        45          7           30        4          4          0             92       7      41          14             30
+Listes complémentaires                    12         12          2           7         2          1          0             0        0       -           -              -
+Désistements                              11           3         1           0         1          1          0             8        0       7           1              0
+
+
+
+Admis concours 2020                       129        45          7           31        4          3          0             84       7      34          13             30
+à la clôture des désistements
+Région parisienne                         15         15          4           7         4          0          0             0        0       0           0             0
+Province                                   3           3         1           0         0          2          0             0        0       0           0              0
+Maroc                                     24         24          1           23        0          0          0             0        0       0           0              0
+Tunisie                                    3           3         1           1         0          1          0             0        0       0           0              0
+Autres                                    84           0         0           0         0          0          0             84       7      34          13             30
+
+Femmes                                    20           8         0           6         1          1          0             12       2       3           5              2
+Boursiers                                  3           3         2           0         1          0          0             0        0       -           -              -
+
+
+TOTAL CONCOURS 2020                       129        45          7           31        4          3          0             84       7      34          13             30
+au 16 novembre                                                                                               129
+
+. La promo X2020 sera complétée par des élèves étrangers issus du concours 2021
+
+
+                                                                                           11
+
+BARRES ET MOYENNES
+
+
+
+
+        13
+
+                                                CONCOURS 2020
+
+
+                                     BARRES D'ADMISSIBILITE
+
+
+
+                                                                                  ETRANGERS
+

@@ -2,44 +2,58 @@
 
 ## Gathered
 
-### College of Europe
+### Programme cohorts
 
-- Academic year 2024–25: **496 enrolled students**.
-- Source: Rector Mogherini 2020–2025 Mandate Report.
-- Graduates not stated.
-- The report gives 460–476 as the enrolment range for 2020–21 to 2024–25, but not an exact annual series.
+`institution_cohort` now holds **53 rows** across eight institutions:
 
-### INSP / former ENA
+| Institution | Rows | Years |
+|---|---:|---|
+| College of Europe | 2 | 2019, 2024 |
+| ENA / INSP | 9 | 2019–2025 |
+| École Polytechnique | 12 | 2020–2025 |
+| Harvard LL.M. | 7 | 2019–2025 |
+| LSE LLM | 2 | 2020–2021 |
+| University of Oxford BCL/MJur | 14 | 2019–2025 |
+| University of Cologne law | 6 | 2019–2024 |
+| Vilnius University law | 1 | 2025 |
 
-- Promotion 2025–2027 A: **61 students admitted/enrolled**.
-- Source: INSP Activity Report 2024.
-- Graduates not yet observable.
+Field completeness:
 
-### CJEU 2024 openings
-
-From CURIA Press Release 174/24, counting new appointments and excluding renewals:
-
-| Position | Openings |
+| Field | Rows |
 |---|---:|
-| Court of Justice Judges | 6 |
-| Advocates General | 3 |
-| General Court Judges | 2 |
+| Applicants | 24 |
+| Admitted | 18 |
+| Enrolled | 46 |
+| Graduates | 12 |
 
-These are **2024 openings**, not total stock.
+Cambridge and UCLouvain have no programme-level rows; the missing files document why.
 
-## What is still missing
+### CJEU openings
 
-- Exact annual applicant, admitted and graduate counts for the other eight institutions.
-- Programme-level denominators. “Harvard”, “Oxford” and “Cambridge” are not comparable as whole-university totals; the relevant units are Harvard Law/Government, Oxford Law/PPE, Cambridge Law, etc.
-- Annual position openings for the Commission, DGs/DDGs and corporate boards.
-- Role-intake events with intake year and institution.
+`position_census` now holds **51 annual opening rows** for 2019–2025:
 
-## Why no ratio yet
+| Track | Annual rows | Openings |
+|---|---:|---:|
+| Court of Justice judges | 18 | 18 |
+| Advocates General | 13 | 10 |
+| General Court judges | 20 | 37 |
 
-The current rows do not provide a matched numerator and denominator:
+Openings exclude renewals of incumbents. Zero-opening years are retained.
 
-- College of Europe: enrolled students known, graduates unknown; no dated intake by institution.
-- INSP: one entering cohort known, graduates not observed.
-- CJEU: 2024 openings known, but institution-specific intake and graduate production are not yet linked.
+## Not yet computable
 
-Therefore `placement_rate` and `overproduction_ratio` remain null. No values were imputed.
+No `placement_rate` or `overproduction_ratio` is yet valid:
+
+- Cohorts and openings are not matched by institution-specific intake year.
+- College of Europe has enrolment but no graduate count.
+- Harvard has graduates but not applicants/admissions.
+- Oxford has enrolment but no graduate count.
+- The CJEU openings are not yet linked to the educational institutions of the appointees.
+- Commission, DG/DDG and corporate-board annual openings remain missing.
+
+## Next
+
+1. Build `role_intake` from dated appointments.
+2. Link each intake to the person's education institution(s).
+3. Use graduate cohorts, not enrolment, as production.
+4. Compute only where cohort, intake and openings are jointly observed.

@@ -1,0 +1,133 @@
+SOURCE: https://strategy.uni-koeln.de/e143393/e143429/e108817/ZDF_2024_web_interaktiv_JUNI2026_ger.pdf
+PUBLISHER: Zahlen | Daten | Fakten 2024 (Universität zu Köln), chapter Lehre
+RETRIEVED: 2026-11-02 (PDF text via pdftotext -layout)
+NOTE: extracts are the tables reporting the Rechtswissenschaftliche Fakultät / Lehreinheit Rechtswissenschaft.
+====================================================================================================
+
+--- Studien- und Fachanfänger*innen nach Fakultät und Lehreinheit, Köpfe, SJ 2020-2024 (file lines 1556-1577) ---
+STUDIENANFÄNGER*INNEN
+
+Entwicklung der Studien- und Fachanfänger*innen nach Fakultät und
+Lehreinheit in Köpfen (exkl. Promotionen)
+
+                                         SJ 2020                      SJ 2021                    SJ 2022                     SJ 2023                   SJ 2024
+                  Lehreinheit        1. FS     1. HS             1. FS      1. HS            1. FS     1. HS             1. FS     1. HS           1. FS     1. HS
+                                 Wirtschafts- und Sozialwissenschaftliche Fakultät
+   Wirtschaftswissenschaften        2.443       1.316     1.884        844       1.777                         764        1.734           756       1.683      732
+             sonstige WisoF*          242         231       343        325        423                          394          436           376         375      359
+          Fakultät zusammen           2.685          1.547        2.227           1.169       2.200           1.158       2.170           1.132    2.058       1.091
+                                 Rechtswissenschaftliche Fakultät
+          Rechtswissenschaft         868        577        893                      614         827            578          841           576        926       563
+            sonstige ReWiF*            34        32         89                       86         108            105           110          105         67        65
+          Fakultät zusammen          902       609         982                     700          935            683          951           681        993       628
+                                 Medizinische Fakultät
+Klinisch-Theoretische Medizin          47        24                   35             15           53            24            41             16       50          18
+           Pflegewissenschaft/             10             7           55            30            52            35           46             29        53         36
+                -management
+          Vorklinische Medizin          395           267           396           274           396           272          392            244        400       250
+                  Zahnmedizin            70            44             71           46            76            40            71            35         77        43
+               sonstige MedF*            48            26            112            81           99             71          85             59         92        64
+
+--- Studienanfänger*innen nach angestrebter Abschlussprüfung, SJ 2020-2024 (file lines 1876-1907) ---
+                           Entwicklung der Studien- und Fachanfänger*innen nach
+                           angestrebter Abschlussprüfung – Studienjahre 2020 bis 2024
+
+         angestrebte                   SJ 2020                         SJ 2021                        SJ 2022                         SJ 2023                          SJ 2024
+    Abschlussprüfung        ges.        weibl.   int.       ges.        weibl.    int.       ges.      weibl.    int.        ges.      weibl.    int.       ges.        weibl.    int.
+                   1.HS     3.461 2.030           314       2.606       1.549      227       2.807      1.629      220       2.759      1.638     218       2.974        1.745     216
+       Bachelor
+                   1.FS     5.887 3.450          455        4.582 2.744            367       4.882      2.891      353      4.254 2.550           368       4.732       2.799     387
+
+      Lehramt      1.HS     1.826        1.378     92       1.403       1.039       59       1.396      1.008       60       1.336       993       57        1.252         917      54
+      Bachelor     1.FS     2.881 2.083           135       2.183        1.521      95       2.185      1.499       98      2.049      1.456       86        2.061       1.462      88
+
+                   1.HS         292       174     260        282          154      250         261       166       240        265         164     246         285         162     259
+         Master
+                   1.FS     1.956        1.235    391       1.968        1.214     395        1.981     1.236      419        2.116    1.300      435       2.240        1.374    449
+
+       Lehramt     1.HS            1         1          0          1          1          1       0          0           0         2         2           2          1         1           1
+        Master     1.FS     1.055         720      40        1.261       944        58        1.512      1.110     64        1.532       1.140     52        1.519       1.146      58
+
+ Staatsexamen      1.HS          311      207         12     320          209        16        312       197        12        279         199           9     293         201        16
+       Medizin     1.FS         465      305       37        467         304        46        472         311       39        463         318      38         477         322       44
+      1.Prüfung    1.HS         474      304          19     537          322        17        501       352       40         509         313      36         479         324       46
+ Rechtswissen-
+       schaften    1.FS         655       416      26        698          421       25        646       442        44         658         410      44         661         430       55
+
+     Abschluss     1. HS        398       231     393        703         456       685        847        489       837        765        475      758         778         461     770
+      Ausland*     1. FS        426      248      417        743         480       721        895        521       876        807         501     797         816         487      801
+
+                   1. HS         112       70         111     53            21      53         56         34        56          79        45       76          48          20       45
+     Sonstige**
+                   1. FS        165       105     125         314        204      248           171       98       135         176        114     129         168          99      104
+
+
+--- Absolvent*innen nach Abschluss, Köpfe, PJ 2020-2024 (file lines 2685-2718) ---
+Entwicklung der Absolvent*innen nach Abschluss in Köpfen
+(ohne Promotionen)
+
+
+                                 PJ 2020                            PJ 2021                       PJ 2022                  PJ 2023*          PJ 2024*
+           Abschluss
+                          ges.     weibl.       int.       ges.      weibl.    int.    ges.        weibl.       int.     ges.     weibl.    ges.    weibl.
+
+            Bachelor      2.198     1.333       212        2.420       1.531   288     2.145        1.274       234     2.024     1.220     2.183     1.316
+
+    Bachelor Lehramt       1.198      868        46        1.782      1.296     84     1.357        1.006         69      1.401   1.072     1.473    1.098
+
+              Master       1.513      908       207         1.561      963     227     1.543         900        244      1.428      909     1.609     995
+
+      Lehramt Master      1.380     1.036        36        1.377      1.045     42     1.240         888         43      1.376     1.001    1.343     975
+
+
+Staatsexamen Medizin        376        261       52         372        240      56      348           231         41      340       205      363       217
+
+            1.Prüfung
+                           390        249         14        370        223       13     377          225           12     372       232      420      262
+Rechtswissenschaften
+             Lehramt
+                              19            9          1      19          12      2           0             0      0         0          0      0             0
+         (auslaufend)
+
+     Absolvent*innen
+                         7.074     4.664        568        7.901      5.310     712    7.010       4.524        643      6.941    4.639     7.391   4.863
+          insgesamt
+
+
+                        * Aus datenschutzrechtlichen Gründen werden keine internationalen Absolvent*innen mehr ausgewiesen
+
+
+
+--- Absolvent*innen nach Lehreinheit, Köpfe, PJ 2024 (file lines 2801-2816) ---
+Absolvent*innen nach Lehreinheit und Abschluss im Prüfungsjahr 2024
+in Köpfen
+                                                                                                                       Anteil
+                                                                     St./ 1.       Lehramt     Lehramt
+                           Lehreinheit     Bachelor   Master                                              Summe       Frauen
+                                                                     Prfg.         Bachelor     Master                absolut
+
+                                           Wirtschafts- und Sozialwissenschaftliche Fakultät
+           Wirtschaftswissenschaften            919        597          0          26        41             1.583          773
+                  Fakultät zusammen             919        597          0          26        41             1.583          773
+                                           Rechtswissenschaftliche Fakultät
+                  Rechtswissenschaft            97         66        420                  0          0       583           378
+                  Fakultät zusammen             97         66        420                  0          0       583           378
+                                           Medizinische Fakultät
+        Klinisch-Theoretische Medizin            15         15                 0          0          0         30            23
+    Pflegewissenschaft /-management              14          0                 0          0          0          14           13
+
+--- Studierende nach Lehreinheit, WS 2024/25 (file lines 2323-2336) ---
+ Studierende nach Lehreinheit und angestrebter Abschlussprüfung im Wintersemester 2024/25 in Köpfen
+ (exkl. Promotionen)
+                                                                           Lehramt BA                                       Lehramt MA                           Stu-                     Gesamt Gesamt
+                                                                                                                                                           In-           Sons-
+                                              St./ 1.                                                                                                            dien-                              Int.
+       Lehreinheit        BA        MA                                                                                                                   com-                    Ges.     Frauen
+                                              Prfg.               HRS     Gym/                                                HRS       Gym/                     start    tige
+                                                            BK       GS                           SP        BK    GS                            SP        ings                            absolut absolut
+                                                                   Ge      Ge                                                 Ge         Ge                       Int.
+                        Wirtschafts- und Sozialwissenschaftliche Fakultät
+  Wirtschaftswiss.       3.784     2.342            0       44        0         0        0             0    66     0             0         0         0      0       0      46     6.282     2.881    1.052
+  sonstige WisoF*              0         0          0        0        0         0        0             0     0     0             0         0         0    234        6      0      240        126     239
+Fakultät zusammen        3.784     2.342            0       44        0         0        0             0    66     0             0         0         0    234        6     46     6.522    3.007     1.291
+                        Rechtswissenschaftliche Fakultät

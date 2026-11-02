@@ -1,0 +1,77 @@
+SOURCE: https://strategy.uni-koeln.de/e143393/e143429/e105942/akkordeon_oeffner105943/text105947/ZDF_2021_WEB_komp_ger.pdf
+PUBLISHER: Zahlen | Daten | Fakten 2021 (Universität zu Köln), chapter Lehre
+RETRIEVED: 2026-11-02 (PDF text via pdftotext -layout)
+NOTE: extracts are the tables reporting the Rechtswissenschaftliche Fakultät / Lehreinheit Rechtswissenschaft.
+====================================================================================================
+
+--- Studienanfänger*innen nach angestrebter Abschlussprüfung, SJ 2017-2021 (file lines 2065-2098) ---
+Entwicklung der Studien- und FachanfängerInnen nach angestrebter
+Abschlussprüfung im Studienjahr 2021
+
+        angestrebte                 SJ 2017                       SJ 2018                     SJ 2019                          SJ 2020                            SJ 2021
+   Abschlussprüfung      ges.        weibl.   int.     ges.        weibl.   int.   ges.       weibl.    int.        ges.       weibl.     int.         ges.        weibl.    int.
+                 1.HS    3.266       2.011    292      3.324       1.934    321    3.386       1.983     343        3.461       2.030         314      2.606       1.549      227
+     Bachelor
+                  1.FS   4.876       2.889    451      5.321       3.000    532    5.864       3.405     543        5.887       3.450         455      4.582       2.744      367
+
+     Lehramt     1.HS    1.696       1.246    123      1.602       1.166    103    1.735       1.249     100        1.826       1.378         92       1.403       1.039        59
+     Bachelor     1.FS   2.597       1.784    168      2.469       1.705    149    2.653       1.794     132        2.881       2.083         135      2.183       1.521        95
+
+                 1.HS      262         158    239       316          194    283     258          156     221         292          174         260          282       154      250
+       Master
+                  1.FS   2.277       1.390    378      2.330       1.456    433    2.351       1.408     360        1.956       1.235         391      1.968       1.214      395
+
+      Lehramt    1.HS           0        0       0            1        1       0          1        0           1           1        1            0            1         1           1
+       Master     1.FS   1.460       1.091      44     1.568       1.159      58   1.484       1.084      53        1.055         720         40       1.261         944        58
+
+ Staatsexamen    1.HS      336         203      24      313          183      14    293          184           7     311          207         12           320       209        16
+       Medizin    1.FS     488         281      56      458          259      41    462          274      34         465          305         37           467       304        46
+    1.Prüfung    1.HS      488         286      35      666          425      45    628          422      25         474          304         19           537       322        17
+ Rechtswissen-
+      schaften    1.FS     658         386      48      866          540      62    837          554      34         655          416         26           698       421        25
+
+     Abschluss 1. HS     1.049         664 1.040        981          606    971    1.032         632    1.029        398          231      393             703       456      685
+     Ausland* 1. FS      1.092         690 1.079       1.041         641 1.029     1.077         663    1.070        426          248      417             743       480      721
+
+                 1. HS      91          55      88       41           16      38     57           28      56         112           70      111             53           21      53
+   Sonstige**
+                 1. FS     141          91    109       141           96      83    137           83      90         165          105      125             314       204      248
+
+AnfängerInnen 1.HS 7.188             4.623 1.841       7.244       4.525 1.775     7.390       4.654    1.782       6.875       4.395    1.201         5.905       3.751 1.308
+     insgesamt
+
+--- Absolvent*innen nach Abschluss, Köpfe, PJ 2017-2021 (file lines 2984-3017) ---
+Entwicklung der AbsolventInnen nach Abschluss in Köpfen
+(ohne Promotionen)
+
+                                PJ 2017                 PJ 2018                      PJ 2019                  PJ 2020                      PJ 2021
+           Abschluss
+                        ges.     weibl.   int.   ges.    weibl.   int.     ges.       weibl.   int.   ges.     weibl.   int.       ges.      weibl.   int.
+
+            Bachelor    2.679    1.698    236 2.549       1.539   221 2.606           1.572    239    2.198    1.333     212       2.420     1.531    288
+
+   Bachelor Lehramt     1.429    1.081     50 1.435       1.063     52 1.408          1.044      48   1.198      868      46       1.782     1.296     84
+
+              Master    1.423      786    150 1.378        768    156 1.488            902     171    1.513      908     207       1.561       963    227
+
+     Lehramt Master      808       642     17 1.096        857      25 1.291           972       38   1.380    1.036      36       1.377     1.045     42
+
+       Staatsexamen
+                         372       233     34     333      206      32         349     206       35    376       261      52        372        240     56
+             Medizin
+
+           1.Prüfung
+                         441       265     11     437      279      19         484     324       13    390       249      14        370        223     13
+Rechtswissenschaften
+            Lehramt
+                         708       443     29     401      236      29         33        15       2     19         9           1     19         12       2
+        (auslaufend)
+             Diplom
+                           1         1       0      2         2      1          0         0       0      0         0           0      0          0       0
+        (auslaufend)
+            Magister
+                           0         0       0      0         0      0          0         0       0      0         0           0      0          0       0
+        (auslaufend)
+  sonstige Abschlüsse
+                           1         1       0      0         0      0          0         0       0      0         0           0      0          0       0
+    (ohne Promotion)

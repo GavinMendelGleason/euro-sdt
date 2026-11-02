@@ -1,0 +1,71 @@
+NUMBER OF ADMITTED STUDENTS 2018-2019
+
+COUNTRY                  ECO   EEIB   IRD   LAW   POL   TOTAL BRUGES   EIS   GRAND TOTAL
+Albania                                1           1         2         1          3
+Algeria                         2                            2         4          6
+Andorra                                1                     1                    1
+Armenia                         2      1     3               6         6         12
+Austria                                1     2               3                    3
+Azerbaijan                      2                            2         1          3
+Belarus                                1                     1         1          2
+Belgium                   4            7    12     5         28        5         33
+Bosnia and Herzegovina                                                 1          1
+Bulgaria                               1     2     1         4         1          5
+Canada                                       1               1                    1
+China                     1            2     1               4         2          6
+Croatia                                      1               1                    1
+Cyprus                                       1               1                    1
+Czech Republic                         1     2               3                    3
+Denmark                                      1     1         2         2          4
+Egypt                                              1         1         1          2
+Estonia                                      1               1                    1
+Finland                                1                     1                    1
+France                    1     1     14    17    32         65        40        105
+FYROM                                                                  2          2
+Georgia                   1     1      2           1         5         5         10
+Germany                   2            9     8     6         25        6         31
+Gibraltar                                                              1          1
+Greece                                 2     6     6         14                  14
+Hungary                                2     2     1         5                    5
+Ireland                                2     4     3         9         1         10
+Italy                     1           10    15     8         34        5         39
+Korea, South                           1                     1                    1
+Latvia                                                                 1          1
+Lebanon                                1                     1                    1
+Lithuania                              1                     1                    1
+Luxembourg                             1     1               2                    2
+Malta                                        1               1                    1
+Mexico                                             1         1                    1
+NUMBER OF ADMITTED STUDENTS 2018-2019
+
+COUNTRY                        ECO   EEIB    IRD    LAW   POL   TOTAL BRUGES   EIS   GRAND TOTAL
+Moldova                               2       1      2     2         7         3         10
+Montenegro                                                                     1          1
+Morocco                         1     1       1      1               4         2          6
+Netherlands                     1             3      1     1         6         3          9
+Palestinian Territory                         1                      1         2          3
+Poland                                1       1      5               7         13        20
+Portugal                                      2      3     3         8         1          9
+Romania                               1       2      2     1         6         2          8
+Russia                                               1               1                    1
+San Marino                            1       1                      2                    2
+Serbia                                                                         1          1
+Slovakia                                      1      1               2                    2
+Slovenia                                                                       1          1
+Spain                           3     1       5     14     8         31        6         37
+Sweden                                        1            3         4                    4
+Switzerland                                   2            1         3                    3
+Syria                                         1                      1                    1
+Tunisia                               2       2      1     1         6         1          7
+Ukraine                         1             2      1     1         5         10        15
+United Kingdom                                6      2               8         4         12
+United States                                 1                      1                    1
+Zimbabwe                                                                       1          1
+Grand Total                    16     17      95    115   88        331        137       468
+
+
+
+  Nationalities (total)   57          Bruges 331
+  Nationalities Bruges    49          Natolin 137
+  Nationalities Natolin   34          Total   468
+

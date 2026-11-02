@@ -1,0 +1,28 @@
+Source: London School of Economics and Political Science, published admission data spreadsheets.
+Publisher: LSE Secretary's Division, Information Records Management (info.lse.ac.uk).
+
+File 1 (2020/21 entry)
+URL: https://info.lse.ac.uk/staff/divisions/Secretarys-Division/Assets/Documents/Information-Records-Management/Admissions-Data/New/20201-applications-offer-registrations-data-for-publication.xlsx
+Sheet: Sheet1
+Header row: Level/Department/Programme | Applications | Offers | Registrations
+Rows (verbatim values, comma-separated in the original sheet):
+  Law,2392,756,297
+  Executive LLM,63,31,19
+  Master of Laws,2307,723,277
+  Master of Laws (extended part-time study),22,<10,<10
+
+File 2 (2021/22 entry)
+URL: https://info.lse.ac.uk/staff/divisions/Secretarys-Division/Assets/Documents/Information-Records-Management/Admissions-Data/Admissionsdata202122.xlsx
+Sheet: by Programme
+Header row: Level/Department/Programme | Applications | Offers | Registrations
+Rows (verbatim values):
+  Law,2471,826,327
+  Executive LLM,57,27,10
+  Master of Laws,2390,796,315
+  Master of Laws (extended part-time study),24,<10,<10
+
+Notes:
+- "Master of Laws" is the LSE LLM programme row; "Executive LLM" and "Master of Laws (extended part-time study)" are separate programmes and are excluded from the LLM figures.
+- LSE defines the three columns as applications, offers of admission, and registrations (students who registered/enrolled). Offers are recorded in the fragment's "admitted" column; registrations in "enrolled".
+- Values below 10 are suppressed by LSE as "<10"; none of the LLM figures used are suppressed.
+- 2020/21 and 2021/22 are the only entry years for which LSE publishes these programme-level spreadsheets at the above public URLs (searched 2026-11-02).

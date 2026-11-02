@@ -1,0 +1,63 @@
+SOURCE: https://strategy.uni-koeln.de/e143393/e143429/e105942/akkordeon_oeffner105943/text105945/ZDF_2023gesamt_WEB_ger.pdf
+PUBLISHER: Zahlen | Daten | Fakten 2023 (Universität zu Köln), chapter Lehre
+RETRIEVED: 2026-11-02 (PDF text via pdftotext -layout)
+NOTE: extracts are the tables reporting the Rechtswissenschaftliche Fakultät / Lehreinheit Rechtswissenschaft.
+====================================================================================================
+
+--- Studien- und Fachanfänger*innen nach Fakultät und Lehreinheit, Köpfe, SJ 2019-2023 (file lines 1604-1625) ---
+STUDIENANFÄNGER*INNEN
+
+Entwicklung der Studien- und Fachanfänger*innen nach Fakultät und
+Lehreinheit in Köpfen (exkl. Promotionen)
+
+                                          SJ 2019                     SJ 2020                     SJ 2021                    SJ 2022                  SJ 2023
+                  Lehreinheit        1. FS       1. HS           1. FS      1. HS            1. FS      1. HS            1. FS     1. HS          1. FS     1. HS
+                                 Wirtschafts- und Sozialwissenschaftliche Fakultät
+   Wirtschaftswissenschaften        2.647       1.338    2.443         1.316    1.884                         844         1.777           764      1.734       756
+             sonstige WisoF*          443         428      242           231      343                         325          423            394        436       376
+          Fakultät zusammen           3.090          1.766       2.685           1.547        2.227           1.169      2.200           1.158     2.170      1.132
+                                 Rechtswissenschaftliche Fakultät
+          Rechtswissenschaft        1.076       733        868                    577           893            614         827            578        841       576
+            sonstige ReWiF*             94       91         34                     32            89             86         108            105         110      105
+          Fakultät zusammen          1.170     824         902                    609           982           700          935            683        951       681
+                                 Medizinische Fakultät
+Klinisch-Theoretische Medizin          43         16                  47            24            35             15          53            24         41            16
+           Pflegewissenschaft/            28             19            10             7           55            30           52            35        46         29
+                -management
+          Vorklinische Medizin          393           254           395            267          396           274          396            272       392       244
+                  Zahnmedizin            69             39           70             44            71           46           76             40         71       35
+               sonstige MedF*            114            93           48             26           112            81          99              71       85        59
+
+--- Studienanfänger*innen nach angestrebter Abschlussprüfung, SJ 2019-2023 (file lines 1919-1950) ---
+                           Entwicklung der Studien- und Fachanfänger*innen nach
+                           angestrebter Abschlussprüfung – Studienjahre 2019 bis 2023
+
+         angestrebte                    SJ 2019                         SJ 2020                          SJ 2021                          SJ 2022                          SJ 2023
+    Abschlussprüfung        ges.         weibl.   int.       ges.        weibl.    int.       ges.        weibl.    int.         ges.      weibl.    int.       ges.        weibl.    int.
+                   1.HS     3.386        1.983     343       3.461 2.030            314       2.606       1.549     227          2.807      1.629     220       2.759        1.638     218
+       Bachelor
+                   1.FS     5.864 3.405           543        5.887 3.450           455        4.582 2.744           367         4.882       2.891     353       4.254       2.550     368
+
+      Lehramt      1.HS     1.735        1.249     100       1.826        1.378      92       1.403        1.039      59         1.396     1.008       60       1.336         993       57
+      Bachelor     1.FS     2.653        1.794     132       2.881 2.083            135       2.183        1.521      95         2.185      1.499      98       2.049        1.456      86
+
+                   1.HS         258        156     221        292          174      260        282          154     250            261       166      240        265          164     246
+         Master
+                   1.FS     2.351        1.408     360       1.956        1.235     391       1.968        1.214    395           1.981     1.236     419        2.116       1.300    435
+
+       Lehramt     1.HS             1        0           1          1          1          0          1         1           1          0         0           0          2         2           2
+        Master     1.FS     1.484        1.084      53       1.055         720       40        1.261       944        58          1.512      1.110     64       1.532        1.140      52
+
+ Staatsexamen      1.HS         293        184           7     311         207        12       320          209        16          312        197       12       279          199            9
+       Medizin     1.FS         462        274      34        465         305        37        467         304        46          472         311      39        463          318       38
+      1.Prüfung    1.HS         628       422       25        474         304         19       537          322        17          501       352       40        509          313       36
+ Rechtswissen-
+       schaften    1.FS          837      554       34        655          416       26        698          421       25          646        442       44        658          410       44
+
+     Abschluss     1. HS    1.032          632    1.029       398          231      393        703         456      685           847        489      837        765          475     758
+      Ausland*     1. FS        1.077      663    1.070       426         248       417        743         480       721          895        521      876        807          501     797
+
+                   1. HS          57        28      56         112          70        111        53           21      53            56        34       56          79          45       76
+     Sonstige**
+                   1. FS         137        83      90         165         105      125         314        204      248             171       98      135         176          114     129
+

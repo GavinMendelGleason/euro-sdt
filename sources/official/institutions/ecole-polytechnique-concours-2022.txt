@@ -1,0 +1,137 @@
+SOURCE: https://www.polytechnique.edu/admission-cycle-ingenieur/sites/admission/files/content/Livret_Stats%20pour%20WEB.pdf
+PUBLISHER: École polytechnique / ESPCI Paris, 'Bilan et statistiques du concours d'admission'
+RETRIEVED: 2026-11-02 (PDF text via pdftotext -layout)
+EXTRACT: title page and the concours 2022 recapitulative tables (candidates, admissibles, admission lists, entrants)
+====================================================================================================
+   BILAN ET STATISTIQUES
+  DU CONCOURS D’ADMISSION
+École polytechnique • ESPCI Paris
+
+
+           2022
+
+
+   BILAN ET STATISTIQUES
+  DU CONCOURS D’ADMISSION
+École polytechnique • ESPCI Paris
+
+
+           2022
+
+====================================================================================================
+
+--- table block 1 (lines 302-356) ---
+
+                       Candidats français
+                                                                                                   Voie CPGE
+                                         Total général                                                                                          Voie
+                                                             M P - INFO          M P - P & SI           PC            PSI   PT    BCPST T S I
+                                                                                                                                                UNIV
+                                         Nombre      %      Nombre     %        Nombre      %      Nombre      %
+
+         Places offertes                     431     100      104     24,1         80      18,6       132      30,6    57    11      13     2    32
+
+         Candidats inscrits                 5300     100      823     15,5        808      15,2      1253      23,6   984   365    358    527    182
+
+         Admissibles                         842     100      199     23,6         156     18,5       265      31,5    96    22     36      3    65
+
+         Listes d'admission                  431     100      105     24,4          81     18,8       133      30,9    57    11      13     2    30
+
+         Listes complémentaires              149     100       60     40,3         39      26,2        29      19,5     9     2     10            0
+
+         Désistements                         69     100       35     50,7           4      5,8        14      20,3     4            11            1
+
+
+         Entrants concours 2022
+                                             431              105                  82                 133              57    11      12     2    29
+         à la clôture des désistements
+
+         3/2                                  361   89,8       95     90,5         68      82,9        117     88,0    56    11      12     2
+
+         5/2                                   41   10,2        10        9,5       14      17,1       16      12,0     1
+
+         Prépa ou Univ Ile de France          341    79,1      76     72,4         68      82,9        117     34,3    36     9      11     1    23
+
+         Prépa ou Univ Province               88    20,4       29     27,6          14      17,1       16      16,3    21     2       1     1     4
+
+         Prépa ou Univ Étranger                 2    -                    -                 -
+
+         Femmes                               87    20,2        9         8,6       13     15,9        39      29,3     9     2      4            11
+
+         Boursiers                            52     12,1       15    14,3           8      9,8         9       6,8     7     2      2      1     8
+
+         TOTAL CONCOURS X22                  431              105                  82                 133              57    11     12      2    29
+
+
+        Dans les 6 premières lignes, les % indiqués dans les colonnes MP et PC sont calculés par rapport au nombre de candidats français indiqués
+        dans la première colonne.
+        Les % indiqués dans les lignes suivantes sont calculés par rapport au nombre d’entrants correspondants (ligne 7) dans la filière considérée.
+
+
+
+
+   10
+Statistiques
+
+Candidats internationaux
+                                                                 Voie CPGE                                     Voie Universitaire
+                                                                                                      France             Internationale
+
+
+--- table block 2 (lines 355-409) ---
+                                                                 Voie CPGE                                     Voie Universitaire
+                                                                                                      France             Internationale
+                                 Total
+                                général   Total   MP-    MP-P                                 Total                       Formation Formation
+                                                                  PC     PSI     PT   BCPST
+                                          CPGE    INFO    & SI                                Univ.    FUF        FUI     française française
+                                                                                                                          FUI-FF S1 FUI-FF S2
+
+Places offertes                   140      45                       45                         95                         95
+
+Candidats inscrits               1209     752      79     506      78     73     8       8    457       46         135          46               230
+
+Admissibles                       251      89      20      53      12     4                   162        19         75          22                46
+
+
+Listes d'admission                 119     45       17     21       6        1                 74        5          33              10            30
+
+Listes complémentaires             14       14       1     12                1                  0        0           0              0              0
+
+Désistements                       10       6       3       1       1        1                  4        0           3               1             0
+
+
+Entrants concours 2022
+                                  120      45       15     25       5                          75        5          30              10            30
+à la clôture des désistements
+
+Région parisienne                  19       15      8       3       4                           4        4
+
+Province                            11      10      6       3       1                            1        1
+
+Maroc                              18       18             18
+
+Tunisie                             2       2        1      1
+
+Étranger                           70                                                          70                   30              10            30
+
+
+Femmes                             20       6        1      4       1                           12       2           4              2              6
+
+Boursiers                           6       5       3       1       1                            1        1
+
+TOTAL CONCOURS 2022               120      45       15     25       5                          75        5          30              10            30
+
+
+
+
+                                                                                                                                            11
+                                                                                                                                         Statistiques
+
+               BARRES
+               D’ADMISSIBILITÉ
+
+               Candidats français
+
+                                                                      Total des points
+

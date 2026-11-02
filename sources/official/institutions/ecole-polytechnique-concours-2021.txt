@@ -1,0 +1,137 @@
+SOURCE: https://www.polytechnique.edu/admission-cycle-ingenieur/sites/admission/files/content/fichier%20Statistiques-2021-web-4.pdf
+PUBLISHER: École polytechnique / ESPCI Paris, 'Bilan et statistiques du concours d'admission'
+RETRIEVED: 2026-11-02 (PDF text via pdftotext -layout)
+EXTRACT: title page and the concours 2021 recapitulative tables (candidates, admissibles, admission lists, entrants)
+====================================================================================================
+    BILAN ET STATISTIQUES
+ DU CONCOURS D’ADMISSION
+École polytechnique • ESPCI Paris
+
+            2021
+
+                                           CONCOURS D’ADMISSION 2021
+
+
+
+
+La Direction du Concours d’Admission est chargée du recrutement des élèves polytechniciens
+français et étrangers.
+Les différentes filières d’admission au cycle ingénieur polytechnicien sont les suivantes :
+
+====================================================================================================
+
+--- table block 1 (lines 157-211) ---
+
+                                                  Total                                                      Voie CPGE 2021
+                                                                                                                                                                                Voie
+                                                 général
+      CANDIDATS FRANÇAIS                                           M P - INFO            M P - P&SI                  PC           PSI        PT       BCPST           TSI       UNIV
+
+                                        NOMBRE             %    NOMBRE         %      NOMBRE           %     NOMBRE         %
+
+
+Places offertes                            431         100        104         24,1      80            18,6    132          30,6    57         11         13            2         32
+Candidats inscrits                         5233        100        809         15,5      771           14,7    1201         23,0   897        403        374           578       200
+Admissibles                                931         100        212         22,8      176           18,9    269          28,9   115         22         35            3         99
+
+Listes d'admission                         431         100        105         24,4      80            18,6    132          30,6    57         11         13            1         32
+Listes complémentaires                      140        100        51          36,4      39            27,9     27          19,3     9          3         9             0         2
+Désistements                                91         100        51          56,0       6            6,6      18          19,8     5          0         9             0         2
+
+
+Entrants concours 2021                     431                    105                   80                    132                  57         11         13            1         32
+à la clôture des désistements
+3/2                                        354         100        94          26,6      72            20,3    112          31,6    52         11         13            0
+5/2                                         45         100        11          24,4       8            17,8     20          44,4     5          0         0             1
+7/2                                          -             -       -           -         -             -       -            -       -          -          -            -
+
+Région parisienne                          351         100        83          23,6      70            19,9    115          32,8    40         10         10            0         23
+Province                                    79         100        22          27,8      10            12,7     17          21,5    17          1         3             1         8
+Etranger                                     -             -       -           -         -             -       -            -       -          -          -            -
+Femmes                                      73         100         9          12,3       8            11,0     31          42,5     9          0         8             0         8
+Boursiers                                   47         100        10          21,3      15            31,9     12          25,5     3          1         1             1         4
+
+
+TOTAL CONCOURS X21                                                      105                      80                  132           57         11         13            1         32
+au 02 septembre                                                                                                431
+Dans les 6 premières lignes, les % indiqués dans les colonnes MP et PC sont calculés par rapport au nombre de candidats français indiqués dans la première colonne.
+Les % indiqués dans les lignes suivantes sont calculés par rapport au nombre d'entrants correspondants (ligne 7).
+
+
+
+                                                                                   Voie CPGE 2021                                              Voie UNIVERSITAIRE
+
+CANDIDATS                                  Total                                                                                            France             Internationale
+
+         INTERNATIONAUX                  général      Total       MP           MP       PC            PSI      PT      BCPST      Total                          Formation   Formation
+                                                      CPGE       INFO         P&SI                                                Univ.      FUF        FUI      française   française
+                                                                                                                                                                 FUI-FF S1   FUI-FF S2
+
+
+Places offertes                            140             45                                    45                                95                           95
+
+Candidats inscrits                         1224        755        76          521       69            81       8            1     469         39        177           33        220
+Admissibles                                282             80     10           55        9             6       0            0     202         18        108           26         50
+
+
+Listes d'admission                         108             36      4           23        5             4       0            0      72          6         31            8         27
+Listes complémentaires                       0             0       0           0         0             0       0            0       0          0         0             0         0
+
+
+--- table block 2 (lines 196-250) ---
+
+CANDIDATS                                  Total                                                                                            France             Internationale
+
+         INTERNATIONAUX                  général      Total       MP           MP       PC            PSI      PT      BCPST      Total                          Formation   Formation
+                                                      CPGE       INFO         P&SI                                                Univ.      FUF        FUI      française   française
+                                                                                                                                                                 FUI-FF S1   FUI-FF S2
+
+
+Places offertes                            140             45                                    45                                95                           95
+
+Candidats inscrits                         1224        755        76          521       69            81       8            1     469         39        177           33        220
+Admissibles                                282             80     10           55        9             6       0            0     202         18        108           26         50
+
+
+Listes d'admission                         108             36      4           23        5             4       0            0      72          6         31            8         27
+Listes complémentaires                       0             0       0           0         0             0       0            0       0          0         0             0         0
+Désistements                                 4             0       0           0         0             0       0            0       4          0         4             0         0
+
+
+
+Admis concours 2021                        104             36      4           23        5             4       0            0      68          6         27            8         27
+à la clôture des désistements
+Région parisienne                           16             11      3           4         3             1       0            0       5          5         0             0         0
+Province                                     7             6       1           1         2             2       0            0       1          1         0             0         0
+Maroc                                       15             15      0           15        0             0       0            0       0          0         0             0         0
+Tunisie                                      4             4       0           3         0             1       0            0       0          0         0             0         0
+Autres                                      62             0       0           0         0             0       0            0      62          0         27            8         27
+
+Femmes                                      17             5       0           3         1             1       0            0      12          1         4             1         6
+Boursiers                                    2             2       0           1         1             0       0            0       0          0          -            -         -
+
+
+TOTAL CONCOURS 2021                         104            36      4           23        5             4       0            0      68          6         27            8         27
+au 02 septembre                                                                                                       104
+
+. La promo X2021 sera complétée par des élèves étrangers issus du concours 2022.
+
+
+                                                                                             11
+
+
+
+
+                                                                                             6
+
+                                                      Candidats en situation de handicap français - Concours 2021
+
+                                                              Epreuves écrites                                              Epreuves orales
+                                                                                                                                                            Démis-
+                              Candidats   Pas de temps                                          Total temps    Candidats     Pas de temps                              Entrants
+                                                          1/6 temps     1/4 temps   1/3 temps                                                 1/3 temps   sionnaires
+                               incrits     additionnel                                          additionnel   admissibles     additionnel
+BCPST                            17             6             4                         7           11             1               1                          1           0
+MP Info                          15             4             1              1          9           11             4               1              3           1           2
+MP P&SI                          17            10                            2          5             7            5               3              2           1           3
+
