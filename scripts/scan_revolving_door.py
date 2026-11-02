@@ -16,6 +16,10 @@ BASE = "https://corporateeurope.org/en/revolvingdoorwatch"
 UA = {"User-Agent": "euro-sdt/0.2 (research)"}
 EMPLOYER_CLASS = {
     "Jean-Paul Mingasson": ("European", "business association"),
+    "Carles Esteva Mosso": ("US", "law"),
+    "Cecilio Madero Villarejo": ("European", "law"),
+    "Klaus-Dieter Borchardt": ("European", "academic"),
+    "Michael Koehler": ("Mixed", "non-profit advisory boards"),
     "Robert Madelin": ("European", "consultancy"),
     "Hervé Jouanjean": ("European", "law"),
     "Peter Faross": ("European", "business association/consultancy"),
@@ -60,14 +64,48 @@ def main() -> int:
             break
     filtered = []
     # Additional named case from ALTER-EU, "Block the revolving door" (2011), Annexe 1.
-    extra = [{
-        "name": "Jean-Paul Mingasson", "policy_area": "Enterprise",
-        "former": "Director-General, DG Enterprise and Industry",
-        "new": "BusinessEurope, General adviser", "date": "2004",
-        "employer_region": "European", "employer_type": "business association",
-        "in_graph": "Jean-Paul Mingasson" in people,
-        "source": "ALTER-EU 2011, Annexe 1",
-    }]
+    extra = [
+        {
+            "name": "Jean-Paul Mingasson", "policy_area": "Enterprise",
+            "former": "Director-General, DG Enterprise and Industry",
+            "new": "BusinessEurope, General adviser", "date": "2004",
+            "employer_region": "European", "employer_type": "business association",
+            "in_graph": "Jean-Paul Mingasson" in people,
+            "source": "ALTER-EU 2011, Annexe 1",
+        },
+        {
+            "name": "Carles Esteva Mosso", "policy_area": "Competition",
+            "former": "Deputy Director-General, DG COMP",
+            "new": "Latham & Watkins LLP, Partner", "date": "2021",
+            "employer_region": "US", "employer_type": "law",
+            "in_graph": "Carles Esteva Mosso" in people,
+            "source": "Commission Article 16 annual report 2022",
+        },
+        {
+            "name": "Cecilio Madero Villarejo", "policy_area": "Competition",
+            "former": "Deputy Director-General, DG COMP",
+            "new": "Clifford Chance LLP, Of Counsel", "date": "2020",
+            "employer_region": "European", "employer_type": "law",
+            "in_graph": "Cecilio Madero Villarejo" in people,
+            "source": "Commission Article 16 annual report 2022",
+        },
+        {
+            "name": "Klaus-Dieter Borchardt", "policy_area": "Energy",
+            "former": "Deputy Director-General, DG ENER",
+            "new": "Oxford Institute for Energy Studies, Senior Visiting Research Fellow", "date": "2021",
+            "employer_region": "European", "employer_type": "academic",
+            "in_graph": "Klaus-Dieter Borchardt" in people,
+            "source": "Commission Article 16 annual report 2022",
+        },
+        {
+            "name": "Michael Koehler", "policy_area": "Humanitarian Aid",
+            "former": "Deputy Director-General, DG ECHO",
+            "new": "Positive Agenda, Polisync, Candid Foundation, Deutsche Welthungerhilfe, advisory boards", "date": "2024",
+            "employer_region": "Mixed", "employer_type": "non-profit advisory boards",
+            "in_graph": "Michael Koehler" in people,
+            "source": "Commission Article 16 annual report 2025",
+        },
+    ]
     filtered.extend(extra)
     seen = {tuple((r["name"], r["former"], r["new"], r["date"])) for r in filtered}
     for row in all_rows:
@@ -106,6 +144,8 @@ def main() -> int:
         "## Additional source",
         "",
         "European Ombudsman SI/5/2024/KR reports a former DG Competition director who joined **Paul Weiss**, a US law firm, in 2024. The official note anonymises the individual but confirms the move and the Commission's post-service restrictions.",
+        "",
+        "Commission Article 16 annual reports also document named DDG moves to Latham & Watkins (US) and Clifford Chance (UK), plus an academic and non-profit role.",
     ]
     args.out.with_suffix(".md").write_text("\n".join(lines), encoding="utf-8")
     print(f"wrote {args.out}.csv/.md ({len(filtered)} DG/DDG cases)")
