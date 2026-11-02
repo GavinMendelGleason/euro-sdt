@@ -200,3 +200,20 @@ CREATE TABLE IF NOT EXISTS role_tenure (
 );
 CREATE INDEX IF NOT EXISTS idx_role_tenure_person ON role_tenure(person_id);
 CREATE INDEX IF NOT EXISTS idx_role_tenure_organisation ON role_tenure(organisation_id);
+
+
+CREATE TABLE IF NOT EXISTS company_frame (
+    id TEXT PRIMARY KEY,
+    company_id TEXT NOT NULL,
+    frame_name TEXT NOT NULL,
+    selection_rule TEXT NOT NULL,
+    snapshot_year INTEGER,
+    sector TEXT,
+    headquarters TEXT,
+    market_cap_bn REAL,
+    eu_countries TEXT,
+    source_url TEXT,
+    notes TEXT
+);
+CREATE INDEX IF NOT EXISTS idx_company_frame_company ON company_frame(company_id);
+CREATE INDEX IF NOT EXISTS idx_company_frame_name ON company_frame(frame_name);
