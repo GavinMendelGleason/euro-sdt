@@ -40,7 +40,7 @@ Detailed URLs and extraction notes: `audit/historical_series_sources.md`. Machin
 
 ## Per-capita version
 
-`assets/papers/methodology/gating-trajectories-per-capita.png` divides each output series by the **EU/EC population of the member states at that date** and expresses the result per 100,000 population. It includes a dashed **mean of available series** line: an unweighted mean across institutions with a value in that year. A mean is computed every year with at least one available series; the number of contributing series is annotated at the endpoints. The mean is descriptive and its composition changes as series enter and leave. In 2024 five series contribute; in 2025 only Polytechnique and ENA/INSP remain, so the endpoint reflects a two-series mean, not a general decline.
+`assets/papers/methodology/gating-trajectories-per-capita.png` divides each output series by the **EU/EC population of the member states at that date** and expresses the result per 100,000 population. It includes a dashed **mean of available series** line: an unweighted mean across institutions with a value in that year. A mean is computed every year with at least one available series; the number of contributing series is annotated at the endpoints. College, Harvard and LSE are plotted at academic-year end, so their 2024--25 outputs appear in 2025. In 2025 four series contribute: College, Harvard, Polytechnique, and ENA/INSP. Oxford ends in 2019, LSE in 2021, and Cologne in 2024 because those are their last available data, not because of EU membership. The mean is descriptive and its composition changes as series enter and leave.
 
 - Denominator: World Bank `SP.POP.TOTL`, summed over the member states at each date.
 - Membership: EU-6 in 1960; EU-9 from 1973; EU-10 from 1981; EU-12 from 1986; EU-15 from 1995; EU-25 from 2004; EU-27 from 2007; EU-28 from 2013; EU-27 after the UK's 2020 withdrawal.
@@ -54,3 +54,8 @@ Detailed URLs and extraction notes: `audit/historical_series_sources.md`. Machin
 - **Cologne:** the comparable series starts in 2010. The 2007 old-law backlog is excluded as non-comparable; 2008 and 2009 are omitted because the university marks 2008 as an incomplete IT.NRW report and folds it into 2009. Pre-2007 university-specific counts were not located.
 - **LSE:** no official numeric LLM series before 2014/15. The LSE Digest has named degree-award lists from 2003–04 to 2012–13, but no printed totals; counting them would create a separate graduates series, not an enrolled-headcount extension.
 - **ENA/INSP:** no compiled annual output series before 2019, but pre-2019 observations exist: places offered 2006–2021; a 2014 cohort of 80; a 2016 cohort of 89; 104 admitted for 1993; 105 graduates in 1996; and a 2018 stock of 177 French students across two overlapping promotions. These are different metrics and are not spliced into one line. Pre-2006 cohort counts require counting Journal officiel name lists.
+
+
+## Numerator geography
+
+The denominator is the EU/EC population of member states at each date; it excludes the UK after 2020. The numerator is **not** restricted to EU institutions: Harvard, Oxford, and LSE remain in the series regardless of location. Their lines stop only at their last observed year (Oxford 2019, LSE 2021), not because of UK membership.

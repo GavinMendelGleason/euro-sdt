@@ -68,3 +68,8 @@
 
 ### ENA before 2019
 - No compiled output series. Only places offered (2006-2020) is tabulated. Promotion sizes and graduate counts exist only in Journal officiel name lists; Légifrance blocks automated access, and mirrored texts require name-by-name counting.
+
+
+## Display-year convention
+
+In the per-capita chart, College of Europe, Harvard, and LSE are displayed at academic-year end: their 2024--25 observations are plotted in 2025. This is a display convention; `institution_cohort.year` retains the source year label. Oxford (examination year), Cologne (examination year), Polytechnique (entrants), and ENA (promotion entry) remain as recorded.

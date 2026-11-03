@@ -11,6 +11,7 @@ import matplotlib.pyplot as plt
 
 COLORS = ["#0072B2", "#D55E00", "#009E73", "#CC79A7", "#E69F00", "#56B4E9", "#000000"]
 ENLARGEMENTS = [(1973,"1973"),(1981,"1981"),(1986,"1986"),(1995,"1995"),(2004,"2004"),(2007,"2007"),(2013,"2013"),(2020,"2020")]
+YEAR_SHIFT = {'College of Europe': 1, 'Harvard LL.M.': 1, 'LSE LLM': 1}  # show academic-year series at their end year
 
 def fetch(db, iid, programme, metric):
     if "%" in programme:
@@ -36,7 +37,8 @@ def main():
     fig, ax=plt.subplots(figsize=(12,6.2))
     rates_by_year=defaultdict(list)
     for color,(name,pts) in zip(COLORS,series.items()):
-        raw=sorted((y,v) for y,v in pts if y in pop)
+        shift=YEAR_SHIFT.get(name,0)
+        raw=sorted((y+shift,v) for y,v in pts if y+shift in pop)
         if not raw: continue
         vals=dict(raw); ys=list(range(raw[0][0],raw[-1][0]+1))
         xs=ys; rates=[None if vals.get(y) is None else vals[y]/pop[y]*100000 for y in ys]
@@ -56,7 +58,7 @@ def main():
     ax.set_xlabel('Year')
     ax.set_ylabel('Output per 100,000 EU/EC population')
     fig.suptitle('Gating institutions: output per 100,000 EU/EC population',x=0.012,y=0.975,ha='left',fontsize=14,fontweight='bold')
-    fig.text(0.012,0.925,'Denominator = population of member states at each date; EU-6 in 1960, with enlargements applied at accession and the UK removed in 2020. Mean line = unweighted mean of all series with a value that year; the number of available series changes over time.',ha='left',fontsize=8.5,color='#555')
+    fig.text(0.012,0.925,'Denominator = EU/EC member-state population at each date; EU-6 in 1960, with enlargements at accession and the UK removed in 2020. Numerator includes gating institutions regardless of location. College, Harvard and LSE are shown at academic-year end. Mean = unweighted mean of all series with a value that year; n changes.',ha='left',fontsize=8.5,color='#555')
     ax.grid(axis='y',alpha=.25)
     ax.legend(loc='upper left',fontsize=8,frameon=False)
     fig.tight_layout(rect=[0,0,1,0.90])
