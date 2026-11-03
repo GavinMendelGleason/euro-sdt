@@ -78,7 +78,7 @@ LongCite (2024) provides direct evidence that LLMs can reliably anchor claims to
 
 \subsection{System Architecture}
 
-The pipeline has six stages: acquire and hash sources; segment each source into sentences with exact character offsets; propose candidate claims; locate and grade their evidence; adjudicate uncertain evidence; and resolve entities and render the graph. Each stage writes a durable artifact: a source snapshot, a sentence table, claim and evidence rows, assertion decisions, and a graph export. The first two stages replace the v1 assumption that a phrase index could be reused across tokenisers.
+The pipeline has six stages: acquire and hash sources; segment each source into sentences with exact character offsets; propose candidate claims; locate and grade their evidence; adjudicate uncertain evidence; and resolve entities and render the graph. Each stage writes a durable artifact: a source snapshot, a sentence table, claim and evidence rows, assertion decisions, and a graph export.
 
 \subsection{Database Schema}
 
@@ -95,11 +95,11 @@ The database is a provenance graph on a relational backend. Its core tables are:
 \item \texttt{organisation\_profile}: sourced or manual-seed organisation attributes, kept separate from graph edges.
 \end{itemize}
 
-A verified assertion must have at least one located evidence row. A claim whose quote cannot be found in the cited document is rejected rather than assigned a guessed index. The v2 invariant checker (\texttt{check\_v2.py}) enforces this, together with foreign keys, source hashes, and the absence of duplicate active entities. This replaces v1's \texttt{fact}/\texttt{provenance} pair and its claim that facts without provenance were simply deleted.
+A verified assertion must have at least one located evidence row. A claim whose quote cannot be found in the cited document is rejected rather than assigned a guessed index. The invariant checker enforces this, together with foreign keys, source hashes, and the absence of duplicate active entities.
 
 \subsection{Phrase-Level Extraction}
 
-Documents are segmented once into sentences with exact character offsets. The corpus is not truncated: long biographies are chunked, and every sentence keeps its ID. The LLM receives a numbered chunk and returns an organisation, a role phrase, a relation, the exact evidence sentence, and the sentence number. The evidence string is then located deterministically in the source; if it is not found, the claim is rejected. A separate grading step checks whether the located span contains the subject, object, and role; grade A is deterministic, grade B has an implicit role, and grade C is sent to adjudication. This replaces the v1 practice of storing a phrase index produced by a different tokeniser from the one that generated the evidence.
+Documents are segmented once into sentences with exact character offsets. The corpus is not truncated: long biographies are chunked, and every sentence keeps its ID. The LLM receives a numbered chunk and returns an organisation, a role phrase, a relation, the exact evidence sentence, and the sentence number. The evidence string is then located deterministically in the source; if it is not found, the claim is rejected. A separate grading step checks whether the located span contains the subject, object, and role; grade A is deterministic, grade B has an implicit role, and grade C is sent to adjudication.
 
 \subsection{Official Source Acquisition}
 
@@ -111,11 +111,11 @@ Fifteen people remain without a source: seven CJEU judges, one advocate general,
 
 Extraction produces organisation names as they appear in source texts: ``Radio Netherlands'', ``Radio Netherlands Worldwide'', ``FEPS'', ``Foundation for European Progressive Studies''. String similarity alone is dangerous: ``CFR'' and ``ECFR'' score 0.857 on difflib, yet one is the US Council on Foreign Relations and the other the European Council on Foreign Relations. Pure auto-merge below 0.95 would collapse them.
 
-V2 resolves names with a deterministic merge key that strips parenthetical qualifiers, normalises punctuation and accents, and preserves sub-entities such as an ``EPP group'' as distinct from the party. The registry carries aliases, stable slugs, external identifiers where available, and a quarantine status for junk surface forms. Residual fuzzy variants are listed for review rather than silently merged. The earlier v1 LLM judge is no longer the merge authority; it remains useful only as an advisory signal. Every final merge is reproducible from the registry.
+The registry resolves names with a deterministic merge key that strips parenthetical qualifiers, normalises punctuation and accents, and preserves sub-entities such as an ``EPP group'' as distinct from the party. It carries aliases, stable slugs, external identifiers where available, and a quarantine status for junk surface forms. Residual fuzzy variants are listed for review rather than silently merged. Every final merge is reproducible from the registry.
 
 \subsection{Organisation Profiles}
 
-Organisation type, funding, headquarters, and descriptions are stored in \texttt{organisation\_profile}, separate from graph edges. The current seed is manually researched and marked \texttt{manual\_seed}; it is not presented as a sourced assertion. The v2 graph does not use LLM-generated classifications for colouring or analysis. Entity categories come from the registry, and uncertain classifications remain in the review queue. This replaces the v1 practice of treating LLM classifications as evidence.
+Organisation type, funding, headquarters, and descriptions are stored in \texttt{organisation\_profile}, separate from graph edges. The current seed is manually researched and marked \texttt{manual\_seed}; it is not presented as a sourced assertion. The graph does not use LLM-generated classifications for colouring or analysis. Entity categories come from the registry, and uncertain classifications remain in the review queue.
 
 \section{Wiki Output and Human Review}
 
