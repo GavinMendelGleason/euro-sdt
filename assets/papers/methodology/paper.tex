@@ -128,6 +128,27 @@ The verified layer renders to a browsing snapshot with 3,485 pages: 460 people, 
 
 The typed graph is exported separately: 3,226 nodes and 3,850 edges, of which 2,837 are network edges, 486 education, 431 occupational, 94 institutional, and 2 other. The graph is not an Obsidian screenshot: \texttt{nodes.csv}, \texttt{edges.csv}, and \texttt{graph.graphml} carry edge class, predicate, role, grade, quote, document path, SHA-256, and a URL where the source is a public web page. Obsidian is a browsing view; the analysis uses the export.
 
+\begin{table}[htbp]
+\centering
+\small
+\begin{tabular}{lrrr}
+\toprule
+Metric & All verified & Grade A only & Network edges only \\
+\midrule
+Nodes & 3,226 & 2,842 & 2,520 \\
+Edges & 3,850 & 3,211 & 2,837 \\
+Unique person--entity pairs & 3,633 & 3,080 & 2,702 \\
+Largest component & 2,828 & 2,395 & 2,024 \\
+Degree-1 nodes & 2,670 & 2,355 & 2,116 \\
+\bottomrule
+\end{tabular}
+\caption{Numerical sensitivity of the graph export to evidence grade and edge class. These are export counts, not estimates of extraction accuracy.}
+\label{tab:graph-sensitivity}
+\end{table}
+
+The stricter grade-A view retains most edges (3,211 of 3,850) but fewer nodes (2,842 of 3,226); the network-only view retains 2,837 edges. The central network claims should therefore be read as stable in direction under these filters, not as numerically identical.
+
+
 \begin{figure}[htbp]
 \centering
 \includegraphics[width=0.48\textwidth]{graph-view-1.png}
