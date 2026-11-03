@@ -3,6 +3,7 @@
 from __future__ import annotations
 import csv, sqlite3
 from collections import defaultdict
+from statistics import mean
 from pathlib import Path
 import matplotlib
 matplotlib.use("Agg")
@@ -33,12 +34,17 @@ def main():
     series['ENA/INSP'] = [(r['year'],r['value']) for r in fetch(db,'ecole-nationale-d-administration','Formation initiale – voie générale%','enrolled')]
 
     fig, ax=plt.subplots(figsize=(12,6.2))
+    rates_by_year=defaultdict(list)
     for color,(name,pts) in zip(COLORS,series.items()):
         raw=sorted((y,v) for y,v in pts if y in pop)
         if not raw: continue
         vals=dict(raw); ys=list(range(raw[0][0],raw[-1][0]+1))
         xs=ys; rates=[None if vals.get(y) is None else vals[y]/pop[y]*100000 for y in ys]
+        for y,r in zip(xs,rates):
+            if r is not None: rates_by_year[y].append(r)
         ax.plot(xs,rates,marker='o',markersize=3.5,linewidth=1.9,color=color,label=name)
+    avg_years=sorted(y for y,v in rates_by_year.items() if len(v)>=2)
+    ax.plot(avg_years,[mean(rates_by_year[y]) for y in avg_years],color='#333333',linewidth=2.6,linestyle='--',label='Mean of available series')
     for y,label in ENLARGEMENTS:
         ax.axvline(y,color='#999999',linewidth=.6,linestyle=':',alpha=.7)
         ax.text(y,0.120,label,rotation=90,fontsize=6,color='#777',ha='right',va='top')
@@ -47,7 +53,7 @@ def main():
     ax.set_xlabel('Year')
     ax.set_ylabel('Output per 100,000 EU/EC population')
     fig.suptitle('Gating institutions: output per 100,000 EU/EC population',x=0.012,y=0.975,ha='left',fontsize=14,fontweight='bold')
-    fig.text(0.012,0.925,'Denominator = population of member states at each date; EU-6 in 1960, with enlargements applied at accession and the UK removed in 2020.',ha='left',fontsize=8.5,color='#555')
+    fig.text(0.012,0.925,'Denominator = population of member states at each date; EU-6 in 1960, with enlargements applied at accession and the UK removed in 2020. Mean line = unweighted mean of series available in that year (at least two).',ha='left',fontsize=8.5,color='#555')
     ax.grid(axis='y',alpha=.25)
     ax.legend(loc='upper left',fontsize=8,frameon=False)
     fig.tight_layout(rect=[0,0,1,0.90])

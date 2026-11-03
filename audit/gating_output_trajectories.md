@@ -40,7 +40,7 @@ Detailed URLs and extraction notes: `audit/historical_series_sources.md`. Machin
 
 ## Per-capita version
 
-`assets/papers/methodology/gating-trajectories-per-capita.png` divides each output series by the **EU/EC population of the member states at that date** and expresses the result per 100,000 population.
+`assets/papers/methodology/gating-trajectories-per-capita.png` divides each output series by the **EU/EC population of the member states at that date** and expresses the result per 100,000 population. It includes a dashed **mean of available series** line: an unweighted mean across institutions with a value in that year, shown only when at least two series are available. The mean is descriptive and its composition changes as series enter.
 
 - Denominator: World Bank `SP.POP.TOTL`, summed over the member states at each date.
 - Membership: EU-6 in 1960; EU-9 from 1973; EU-10 from 1981; EU-12 from 1986; EU-15 from 1995; EU-25 from 2004; EU-27 from 2007; EU-28 from 2013; EU-27 after the UK's 2020 withdrawal.
