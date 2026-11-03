@@ -1,0 +1,103 @@
+institution_id,programme,year,applicants,admitted,enrolled,graduates,source_url,source_file,notes
+harvard,LL.M.,1983,,,,95,https://educationdata.urban.org/api/v1/college-university/ipeds/completions-cip-6/1985/?unitid=166027&cipcode_6digit=220101&race=99&sex=99,,IPEDS Completions; LL.M. degrees conferred; chart year = academic-year start
+harvard,LL.M.,1984,,,,128,https://educationdata.urban.org/api/v1/college-university/ipeds/completions-cip-6/1985/?unitid=166027&cipcode_6digit=220101&race=99&sex=99,,IPEDS Completions; LL.M. degrees conferred
+harvard,LL.M.,1985,,,,110,https://educationdata.urban.org/api/v1/college-university/ipeds/completions-cip-6/1985/?unitid=166027&cipcode_6digit=220101&race=99&sex=99,,IPEDS Completions; LL.M. degrees conferred
+harvard,LL.M.,1986,,,,105,https://educationdata.urban.org/api/v1/college-university/ipeds/completions-cip-6/1985/?unitid=166027&cipcode_6digit=220101&race=99&sex=99,,IPEDS Completions; LL.M. degrees conferred
+harvard,LL.M.,1987,,,,95,https://educationdata.urban.org/api/v1/college-university/ipeds/completions-cip-6/1985/?unitid=166027&cipcode_6digit=220101&race=99&sex=99,,IPEDS Completions; LL.M. degrees conferred
+harvard,LL.M.,1988,,,,122,https://educationdata.urban.org/api/v1/college-university/ipeds/completions-cip-6/1985/?unitid=166027&cipcode_6digit=220101&race=99&sex=99,,IPEDS Completions; LL.M. degrees conferred
+harvard,LL.M.,1989,,,,125,https://educationdata.urban.org/api/v1/college-university/ipeds/completions-cip-6/1985/?unitid=166027&cipcode_6digit=220101&race=99&sex=99,,IPEDS Completions; LL.M. degrees conferred
+harvard,LL.M.,1990,,,,134,https://web.archive.org/web/20020320082926/http://vpf-web.harvard.edu/factbook/96-97/page11.htm,,Harvard Fact Book 1996-97; FY1991 = AY1990-91
+harvard,LL.M.,1991,,,,140,https://web.archive.org/web/20020320082926/http://vpf-web.harvard.edu/factbook/96-97/page11.htm,,Harvard Fact Book 1996-97
+harvard,LL.M.,1992,,,,133,https://web.archive.org/web/20020320082926/http://vpf-web.harvard.edu/factbook/96-97/page11.htm,,Harvard Fact Book 1996-97
+harvard,LL.M.,1993,,,,125,https://web.archive.org/web/20020320082926/http://vpf-web.harvard.edu/factbook/96-97/page11.htm,,Harvard Fact Book 1996-97
+harvard,LL.M.,1994,,,,145,https://web.archive.org/web/20020320082926/http://vpf-web.harvard.edu/factbook/96-97/page11.htm,,Harvard Fact Book 1996-97
+harvard,LL.M.,1995,,,,146,https://web.archive.org/web/20020320082926/http://vpf-web.harvard.edu/factbook/96-97/page11.htm,,Harvard Fact Book 1996-97
+harvard,LL.M.,1996,,,,146,https://oira.harvard.edu/files/2023/02/harvard_fact_book_2002-2003.pdf,,Harvard Fact Book 2002-03; AY1996-97
+harvard,LL.M.,1997,,,,135,https://oira.harvard.edu/files/2023/02/harvard_fact_book_2002-2003.pdf,,Harvard Fact Book 2002-03
+harvard,LL.M.,1998,,,,158,https://oira.harvard.edu/files/2023/02/harvard_fact_book_2002-2003.pdf,,Harvard Fact Book 2002-03
+harvard,LL.M.,1999,,,,134,https://oira.harvard.edu/files/2023/02/harvard_fact_book_2002-2003.pdf,,Harvard Fact Book 2002-03
+harvard,LL.M.,2000,,,,130,https://oira.harvard.edu/files/2023/02/harvard_fact_book_2002-2003.pdf,,Harvard Fact Book 2002-03
+harvard,LL.M.,2001,,,,144,https://oira.harvard.edu/files/2023/02/harvard_fact_book_2002-2003.pdf,,Harvard Fact Book 2002-03
+harvard,LL.M.,2002,,,,130,https://oira.harvard.edu/files/2023/02/harvard_fact_book_2007-2008.pdf,,Harvard Fact Book 2007-08
+harvard,LL.M.,2003,,,,157,https://oira.harvard.edu/files/2023/02/harvard_fact_book_2007-2008.pdf,,Harvard Fact Book 2007-08
+harvard,LL.M.,2004,,,,161,https://oira.harvard.edu/files/2023/02/harvard_fact_book_2007-2008.pdf,,Harvard Fact Book 2007-08
+harvard,LL.M.,2005,,,,159,https://oira.harvard.edu/files/2023/02/harvard_fact_book_2007-2008.pdf,,Harvard Fact Book 2007-08
+harvard,LL.M.,2006,,,,154,https://oira.harvard.edu/files/2023/02/harvard_fact_book_2007-2008.pdf,,Harvard Fact Book 2007-08
+harvard,LL.M.,2007,,,,168,https://oira.harvard.edu/files/2023/02/harvard_fact_book_2011-12_final.pdf,,Harvard Fact Book 2011-12
+harvard,LL.M.,2008,,,,151,https://oira.harvard.edu/files/2023/02/harvard_fact_book_2011-12_final.pdf,,Harvard Fact Book 2011-12
+harvard,LL.M.,2009,,,,160,https://oira.harvard.edu/files/2025/11/Factbook_2016_2017.pdf,,Harvard Fact Book 2016-17 (revised)
+harvard,LL.M.,2010,,,,175,https://oira.harvard.edu/files/2025/11/Factbook_2016_2017.pdf,,Harvard Fact Book 2016-17 (revised)
+harvard,LL.M.,2011,,,,172,https://oira.harvard.edu/files/2025/11/Factbook_2016_2017.pdf,,Harvard Fact Book 2016-17
+harvard,LL.M.,2012,,,,167,https://oira.harvard.edu/files/2025/11/Factbook_2016_2017.pdf,,Harvard Fact Book 2016-17
+harvard,LL.M.,2013,,,,178,https://oira.harvard.edu/files/2025/11/Factbook_2016_2017.pdf,,Harvard Fact Book 2016-17
+harvard,LL.M.,2014,,,,163,https://oira.harvard.edu/files/2025/11/Factbook_2016_2017.pdf,,Harvard Fact Book 2016-17
+harvard,LL.M.,2015,,,,172,https://oira.harvard.edu/files/2025/11/Factbook_2016_2017.pdf,,Harvard Fact Book 2016-17
+harvard,LL.M.,2016,,,,175,https://oira.harvard.edu/factbook/fact-book-degrees,,OIRA Fact Book current table
+harvard,LL.M.,2017,,,,172,https://oira.harvard.edu/factbook/fact-book-degrees,,OIRA Fact Book current table
+harvard,LL.M.,2018,,,,190,https://oira.harvard.edu/factbook/fact-book-degrees,,OIRA Fact Book current table
+university-of-oxford,BCL,2002,,,,67,https://www.law.ox.ac.uk/sites/default/files/migrated/bclexam2002.pdf,,Candidates examined (not enrolled/graduates)
+university-of-oxford,BCL,2003,,,,68,https://www.law.ox.ac.uk/sites/default/files/migrated/bclexam2003.pdf,,Candidates examined
+university-of-oxford,BCL,2006,,,,90,https://www.law.ox.ac.uk/sites/default/files/migrated/bclexam2010.pdf,,Candidates examined
+university-of-oxford,BCL,2007,,,,94,https://www.law.ox.ac.uk/sites/default/files/migrated/bclexam2010.pdf,,Candidates examined
+university-of-oxford,BCL,2008,,,,85,https://www.law.ox.ac.uk/sites/default/files/migrated/bclexam2010.pdf,,Candidates examined
+university-of-oxford,BCL,2009,,,,95,https://www.law.ox.ac.uk/sites/default/files/migrated/bclexam2010.pdf,,Candidates examined
+university-of-oxford,BCL,2010,,,,90,https://www.law.ox.ac.uk/sites/default/files/migrated/bclexam2010.pdf,,Candidates examined
+university-of-oxford,BCL,2011,,,,133,https://www.law.ox.ac.uk/sites/default/files/migrated/bcl_mjur_examiners_report_2_2015.pdf,,Candidates examined
+university-of-oxford,BCL,2012,,,,118,https://www.law.ox.ac.uk/sites/default/files/migrated/bcl_mjur_examiners_report_2_2015.pdf,,Candidates examined
+university-of-oxford,BCL,2013,,,,151,https://www.law.ox.ac.uk/sites/default/files/migrated/bcl_mjur_examiners_report_2_2015.pdf,,Candidates examined
+university-of-oxford,BCL,2014,,,,89,https://www.law.ox.ac.uk/sites/default/files/migrated/bcl_mjur_examiners_report_2_2015.pdf,,Candidates examined
+university-of-oxford,BCL,2015,,,,111,https://www.law.ox.ac.uk/sites/default/files/migrated/bcl_mjur_examiners_report_2_2015.pdf,,Candidates examined
+university-of-oxford,BCL,2016,,,,98,https://www.law.ox.ac.uk/sites/default/files/migrated/bclmjur_examiners_report_2016_0.pdf,,Candidates examined
+university-of-oxford,BCL,2017,,,,92,https://www.law.ox.ac.uk/sites/default/files/migrated/examiners_report_2019._final_draft.pdf,,Candidates examined
+university-of-oxford,BCL,2018,,,,101,https://www.law.ox.ac.uk/sites/default/files/migrated/examiners_report_2019._final_draft.pdf,,Candidates examined
+university-of-oxford,BCL,2019,,,,111,https://www.law.ox.ac.uk/sites/default/files/migrated/examiners_report_2019._final_draft.pdf,,Candidates examined
+university-of-oxford,MJur,2002,,,,61,https://www.law.ox.ac.uk/sites/default/files/migrated/bclexam2002.pdf,,Candidates examined
+university-of-oxford,MJur,2003,,,,66,https://www.law.ox.ac.uk/sites/default/files/migrated/bclexam2003.pdf,,Candidates examined
+university-of-oxford,MJur,2005,,,,63,https://www.law.ox.ac.uk/sites/default/files/migrated/bclexam2009.pdf,,Candidates examined
+university-of-oxford,MJur,2006,,,,64,https://www.law.ox.ac.uk/sites/default/files/migrated/bclexam2010.pdf,,Candidates examined
+university-of-oxford,MJur,2007,,,,67,https://www.law.ox.ac.uk/sites/default/files/migrated/bclexam2010.pdf,,Candidates examined
+university-of-oxford,MJur,2008,,,,59,https://www.law.ox.ac.uk/sites/default/files/migrated/bclexam2010.pdf,,Candidates examined
+university-of-oxford,MJur,2009,,,,35,https://www.law.ox.ac.uk/sites/default/files/migrated/bclexam2010.pdf,,Candidates examined
+university-of-oxford,MJur,2010,,,,34,https://www.law.ox.ac.uk/sites/default/files/migrated/bclexam2010.pdf,,Candidates examined
+university-of-oxford,MJur,2011,,,,44,https://www.law.ox.ac.uk/sites/default/files/migrated/bcl_mjur_examiners_report_2_2015.pdf,,Candidates examined
+university-of-oxford,MJur,2012,,,,39,https://www.law.ox.ac.uk/sites/default/files/migrated/bcl_mjur_examiners_report_2_2015.pdf,,Candidates examined
+university-of-oxford,MJur,2013,,,,35,https://www.law.ox.ac.uk/sites/default/files/migrated/bcl_mjur_examiners_report_2_2015.pdf,,Candidates examined
+university-of-oxford,MJur,2014,,,,45,https://www.law.ox.ac.uk/sites/default/files/migrated/bcl_mjur_examiners_report_2_2015.pdf,,Candidates examined
+university-of-oxford,MJur,2015,,,,52,https://www.law.ox.ac.uk/sites/default/files/migrated/bcl_mjur_examiners_report_2_2015.pdf,,Candidates examined
+university-of-oxford,MJur,2016,,,,55,https://www.law.ox.ac.uk/sites/default/files/migrated/bclmjur_examiners_report_2016_0.pdf,,Candidates examined
+university-of-oxford,MJur,2017,,,,51,https://www.law.ox.ac.uk/sites/default/files/migrated/examiners_report_2019._final_draft.pdf,,Candidates examined
+university-of-oxford,MJur,2018,,,,48,https://www.law.ox.ac.uk/sites/default/files/migrated/examiners_report_2019._final_draft.pdf,,Candidates examined
+university-of-oxford,MJur,2019,,,,38,https://www.law.ox.ac.uk/sites/default/files/migrated/examiners_report_2019._final_draft.pdf,,Candidates examined
+university-of-cologne,Rechtswissenschaft (Staatsexamen / 1. Prüfung),2011,,,,358,https://strategy.uni-koeln.de/e143393/e143429/e105942/akkordeon_oeffner105943/text105953/ZDF_2016_12_22_komprimiert_ger.pdf,,ZDF 2015; first-examination graduates
+university-of-cologne,Rechtswissenschaft (Staatsexamen / 1. Prüfung),2012,,,,357,https://strategy.uni-koeln.de/e143393/e143429/e105942/akkordeon_oeffner105943/text105953/ZDF_2016_12_22_komprimiert_ger.pdf,,ZDF 2015; first-examination graduates
+university-of-cologne,Rechtswissenschaft (Staatsexamen / 1. Prüfung),2013,,,,332,https://strategy.uni-koeln.de/e143393/e143429/e105942/akkordeon_oeffner105943/text105953/ZDF_2016_12_22_komprimiert_ger.pdf,,ZDF 2015; first-examination graduates
+university-of-cologne,Rechtswissenschaft (Staatsexamen / 1. Prüfung),2014,,,,320,https://strategy.uni-koeln.de/e143393/e143429/e105942/akkordeon_oeffner105943/text105953/ZDF_2016_12_22_komprimiert_ger.pdf,,ZDF 2015; first-examination graduates
+university-of-cologne,Rechtswissenschaft (Staatsexamen / 1. Prüfung),2015,,,,373,https://strategy.uni-koeln.de/e143393/e143429/e105942/akkordeon_oeffner105943/text105953/ZDF_2016_12_22_komprimiert_ger.pdf,,ZDF 2015; first-examination graduates
+university-of-cologne,Rechtswissenschaft (Staatsexamen / 1. Prüfung),2016,,,,365,https://strategy.uni-koeln.de/e143393/e143429/e105942/akkordeon_oeffner105943/text105952/ZahlenIDatenIFakten2016_WEB-Version_ger.pdf,,ZDF 2016; first-examination graduates
+university-of-cologne,Rechtswissenschaft (Staatsexamen / 1. Prüfung),2017,,,,441,https://strategy.uni-koeln.de/e143393/e143429/e105942/akkordeon_oeffner105943/text105949/ZDF_AW_web_compressed_FINAL_ger.pdf,,ZDF 2019; first-examination graduates
+university-of-cologne,Rechtswissenschaft (Staatsexamen / 1. Prüfung),2018,,,,437,https://strategy.uni-koeln.de/e143393/e143429/e105942/akkordeon_oeffner105943/text105949/ZDF_AW_web_compressed_FINAL_ger.pdf,,ZDF 2019; first-examination graduates
+london-school-of-economics,LLM (Master of Laws),2014,,,277,,https://info.lse.ac.uk/staff/divisions/Planning-Division/Assets/Documents/Student-Statistics-2021.pdf,,Table F; enrolled LLM headcount 2014/15
+london-school-of-economics,LLM (Master of Laws),2015,,,274,,https://info.lse.ac.uk/staff/divisions/Planning-Division/Assets/Documents/Student-Statistics-2021.pdf,,Table F; 2015/16
+london-school-of-economics,LLM (Master of Laws),2016,,,266,,https://info.lse.ac.uk/staff/divisions/Planning-Division/Assets/Documents/Student-Statistics-2021.pdf,,Table F; 2016/17
+london-school-of-economics,LLM (Master of Laws),2017,,,314,,https://info.lse.ac.uk/staff/divisions/Planning-Division/Assets/Documents/Student-Statistics-2021.pdf,,Table F; 2017/18
+london-school-of-economics,LLM (Master of Laws),2018,,,314,,https://info.lse.ac.uk/staff/divisions/Planning-Division/Assets/Documents/Student-Statistics-2021.pdf,,Table F; 2018/19
+london-school-of-economics,LLM (Master of Laws),2019,,,277,,https://info.lse.ac.uk/staff/divisions/Planning-Division/Assets/Documents/Student-Statistics-2021.pdf,,Table F; 2019/20
+london-school-of-economics,LLM (Master of Laws),2020,,,273,,https://info.lse.ac.uk/staff/divisions/Planning-Division/Assets/Documents/Student-Statistics-2021.pdf,,Table F; 2020/21
+ecole-polytechnique,Cycle ingénieur – voie française (concours CPGE/universitaire),2002,,383,,,https://www.scei-concours.fr/statistiques/stat2002/recap_concours_MP.html,,SCEI entrants; French CPGE only
+ecole-polytechnique,Cycle ingénieur – voie française (concours CPGE/universitaire),2003,,393,,,https://www.scei-concours.fr/statistiques/stat2003/recap_concours_MP.html,,SCEI entrants; French CPGE only
+ecole-polytechnique,Cycle ingénieur – voie française (concours CPGE/universitaire),2004,,391,,,https://www.scei-concours.fr/statistiques/stat2004/recap_concours_MP.html,,SCEI entrants; French CPGE only
+ecole-polytechnique,Cycle ingénieur – voie française (concours CPGE/universitaire),2005,,387,,,https://www.scei-concours.fr/statistiques/stat2005/recap_concours_MP.html,,SCEI entrants; French CPGE only
+ecole-polytechnique,Cycle ingénieur – voie française (concours CPGE/universitaire),2006,,392,,,https://www.scei-concours.fr/statistiques/stat2006/recap_concours_MP.html,,SCEI entrants; French CPGE only
+ecole-polytechnique,Cycle ingénieur – voie française (concours CPGE/universitaire),2007,,397,,,https://www.scei-concours.fr/statistiques/stat2007/recap_concours_MP.html,,SCEI entrants; French CPGE only
+ecole-polytechnique,Cycle ingénieur – voie française (concours CPGE/universitaire),2008,,393,,,https://www.scei-concours.fr/statistiques/stat2008/mp.html,,SCEI entrants; French CPGE only
+ecole-polytechnique,Cycle ingénieur – voie française (concours CPGE/universitaire),2009,,391,,,https://www.scei-concours.fr/statistiques/stat2009/mp.html,,SCEI entrants; French CPGE only
+ecole-polytechnique,Cycle ingénieur – voie française (concours CPGE/universitaire),2010,,383,,,https://www.scei-concours.fr/statistiques/stat2010/mp.html,,SCEI entrants; French CPGE only
+ecole-polytechnique,Cycle ingénieur – voie française (concours CPGE/universitaire),2011,,384,,,https://www.scei-concours.fr/statistiques/stat2011/mp.html,,SCEI entrants; French CPGE only
+ecole-polytechnique,Cycle ingénieur – voie française (concours CPGE/universitaire),2012,,379,,,https://www.scei-concours.fr/statistiques/stat2012/mp.html,,SCEI entrants; French CPGE only
+ecole-polytechnique,Cycle ingénieur – voie française (concours CPGE/universitaire),2013,,384,,,https://www.scei-concours.fr/statistiques/stat2013/mp.html,,SCEI entrants; French CPGE only
+ecole-polytechnique,Cycle ingénieur – voie française (concours CPGE/universitaire),2014,,382,,,https://www.scei-concours.fr/statistiques/stat2014/mp.html,,SCEI entrants; French CPGE only
+ecole-polytechnique,Cycle ingénieur – voie française (concours CPGE/universitaire),2015,,379,,,https://www.scei-concours.fr/statistiques/stat2015/mp.html,,SCEI entrants; French CPGE only
+ecole-polytechnique,Cycle ingénieur – voie française (concours CPGE/universitaire),2016,,384,,,https://www.scei-concours.fr/statistiques/stat2016/mp.html,,SCEI entrants; French CPGE only
+ecole-polytechnique,Cycle ingénieur – voie française (concours CPGE/universitaire),2017,,390,,,https://www.scei-concours.fr/statistiques/stat2017/mp.html,,SCEI entrants; French CPGE only
+ecole-polytechnique,Cycle ingénieur – voie française (concours CPGE/universitaire),2018,,389,,,https://www.scei-concours.fr/statistiques/stat2018/mp.html,,SCEI entrants; French CPGE only
+ecole-polytechnique,Cycle ingénieur – voie française (concours CPGE/universitaire),2019,,390,,,https://www.scei-concours.fr/statistiques/stat2019/mp.html,,SCEI entrants; French CPGE only

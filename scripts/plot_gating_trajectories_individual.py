@@ -10,9 +10,9 @@ import matplotlib.pyplot as plt
 
 SERIES = [
     ("ena-insp", "ENA / INSP", "ecole-nationale-d-administration", [("Formation initiale – voie générale%", "Initial training")], "enrolled", "Enrolled students"),
-    ("ecole-polytechnique", "École Polytechnique", "ecole-polytechnique", [("Cycle ingénieur – voie française (concours CPGE/universitaire)", "French cycle"), ("Cycle ingénieur – voie internationale (concours)", "International cycle")], "enrolled", "Enrolled students"),
+    ("ecole-polytechnique", "École Polytechnique", "ecole-polytechnique", [("Cycle ingénieur – voie française (concours CPGE/universitaire)", "French cycle"), ("Cycle ingénieur – voie internationale (concours)", "International cycle")], "admitted", "Entrants/admitted"),
     ("harvard", "Harvard LL.M.", "harvard", [("LL.M.", "LL.M.")], "graduates", "Degrees conferred"),
-    ("oxford", "Oxford BCL / MJur", "university-of-oxford", [("BCL", "BCL"), ("MJur", "MJur")], "enrolled", "Enrolled students"),
+    ("oxford", "Oxford BCL / MJur", "university-of-oxford", [("BCL", "BCL"), ("MJur", "MJur")], "graduates", "Candidates examined"),
     ("cologne", "Cologne law", "university-of-cologne", [("Rechtswissenschaft (Staatsexamen / 1. Prüfung)", "Law")], "graduates", "First-examination graduates"),
     ("lse", "LSE LLM", "london-school-of-economics", [("LLM (Master of Laws)", "LLM")], "enrolled", "Enrolled students"),
     ("college-of-europe", "College of Europe", "college-of-europe", [("All programmes (promotions table)", "All programmes")], "enrolled", "Matriculated students"),
@@ -38,14 +38,15 @@ def main():
             ax.plot(xs,ys,marker='o',markersize=4,linewidth=1.8,color=COLORS[j],label=label if len(programmes)>1 else None)
         ax.set_title(title,loc='left',fontsize=13,fontweight='bold')
         ax.set_ylabel(ylabel,fontsize=9)
-        ax.set_xlim(1989.5,2025.5)
-        ax.set_xticks(range(1990,2026,5))
+        xmin=max(1948, (min(xs) if first is None else first)-2)
+        ax.set_xlim(xmin,2025.5)
+        ax.set_xticks(range((int(xmin)//5)*5,2026,5))
         ax.tick_params(labelsize=8)
         ax.grid(axis='y',alpha=.25)
         if len(programmes)>1: ax.legend(fontsize=8,frameon=False)
         if first and first>1990:
             ax.axvspan(1990,first,color='#999999',alpha=.08)
-            ax.text(1991,0.94,f'Annual series begins {first}',transform=ax.get_xaxis_transform(),fontsize=8,color='#555')
+            ax.text(0.02,0.94,f'Annual series begins {first}',transform=ax.transAxes,fontsize=8,color='#555')
         fig.tight_layout()
         fig.savefig(outdir/f'{slug}.png',dpi=180,bbox_inches='tight',facecolor='white')
         fig.savefig(outdir/f'{slug}.svg',bbox_inches='tight',facecolor='white')
