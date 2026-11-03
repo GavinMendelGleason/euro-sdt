@@ -82,7 +82,9 @@ The pipeline has six stages: acquire and hash sources; segment each source into 
 
 \subsection{Database Schema}
 
-The database is a provenance graph on a relational backend. Its core tables are:
+The database is best read as an evidence chain rather than a table inventory. A source snapshot is segmented into sentences; a candidate claim records a subject, predicate, object and role; one or more evidence rows point to recoverable sentence spans; and an assertion records the acceptance decision together with the evidence grade and adjudication history. Entities, aliases and organisation profiles are supporting registries, not additional evidence. The relational tables implement this chain; the unit of analysis is the claim and its located evidence.
+
+The implementation stores:
 
 \begin{itemize}
 \item \texttt{source\_document}: one snapshot per source, with URL, local path, SHA-256, revision, retrieval date, and access date.
@@ -112,7 +114,7 @@ Missing sources are recorded as missing evidence, not as negative findings. The 
 
 \subsection{Entity Resolution and the Limits of String Similarity}
 
-Extraction produces organisation names as they appear in source texts: ``Radio Netherlands'', ``Radio Netherlands Worldwide'', ``FEPS'', ``Foundation for European Progressive Studies''. String similarity alone is dangerous: ``CFR'' and ``ECFR'' score 0.857 on difflib, yet one is the US Council on Foreign Relations and the other the European Council on Foreign Relations. Pure auto-merge below 0.95 would collapse them.
+Extraction produces organisation names as they appear in source texts: ``Radio Netherlands'', ``Radio Netherlands Worldwide'', ``FEPS'', ``Foundation for European Progressive Studies''. String similarity alone is dangerous: ``CFR'' and ``ECFR'' score 0.857 on difflib, yet one is the US Council on Foreign Relations and the other the European Council on Foreign Relations. An auto-merge rule set at 0.95 similarity would merge them: one false-merge example, not a general threshold recommendation.
 
 The registry resolves names with a deterministic merge key that strips parenthetical qualifiers, normalises punctuation and accents, and preserves sub-entities such as an ``EPP group'' as distinct from the party. It carries aliases, stable slugs, external identifiers where available, and a quarantine status for junk surface forms. Residual fuzzy variants are listed for review rather than silently merged. Every final merge is reproducible from the registry.
 
@@ -136,11 +138,11 @@ The typed graph is exported separately: 3,226 nodes and 3,850 edges, of which 2,
 \begin{figure}[htbp]
 \centering
 \includegraphics[width=0.48\textwidth]{graph-view-2.png}
-\caption{The same export restricted to grade-A edges. The stricter view is used as a sensitivity check on the network findings.}
+\caption{The same export restricted to grade-A edges. This is a descriptive stricter view, not a numerical sensitivity test.}
 \label{fig:graph2}
 \end{figure}
 
-The review layer is explicit. Assertions that the deterministic checks cannot settle are marked \texttt{needs\_review}; grade-C claims are rechecked by a second judge, and disagreements are not silently promoted. In the audited release, 235 assertions remain under review; they are not counted as verified. The queue is exported as a priority-scored table. Human review is a recorded workflow step, not evidence that every decision has yet been independently audited.
+The review layer is explicit. Assertions that the deterministic checks cannot settle are marked \texttt{needs\_review}; grade-C claims are rechecked by a second model, and disagreements are not silently promoted. In the audited release, 235 assertions remain under review; they are not counted as verified. The queue is exported as a priority-scored table, but the audited database contains no completed human-review rows: the queue describes work still to be done, not a completed validation exercise. Model agreement is an acceptance rule, not independent evidence of correctness.
 
 \section{Findings}
 
@@ -230,6 +232,8 @@ Coverage is uneven across the frame. Commissioners and senior administrators hav
 The position indicators are exploratory scale comparisons. Commission establishment-plan posts are posts, not incumbent persons; listed-board seats are seats, not unique directors; educational measures include degrees, entrants, enrolment and examined candidates. A flow-to-stock ratio from these components is not an appointment probability. A substantive overproduction test would need matched aspirant and opening definitions, appointment-linked cohorts, mobility and exits.
 
 Future work follows from those limits. The next useful studies are an independently annotated validation of extraction precision and recall; institution-specific reference populations for educational representation; and harmonised applicant, nominee and opening series. Each addresses a different uncertainty. The internal acquisition queue and model operations belong in repository documentation rather than in the research argument.
+
+The reproducible release is the database \texttt{euro\_sdt\_v2.db}, the source snapshots, the analysis scripts and the commit recorded with the manuscript. Re-running extraction or adjudication may require API access and can produce different outputs; reproducing the published tables from the frozen accepted records does not. Model identifiers, prompts, caches and run metadata are kept with the implementation rather than reconstructed from prose.
 
 \section{Conclusion}
 
