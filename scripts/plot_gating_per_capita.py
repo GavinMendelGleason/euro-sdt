@@ -34,18 +34,22 @@ def main():
 
     fig, ax=plt.subplots(figsize=(12,6.2))
     for color,(name,pts) in zip(COLORS,series.items()):
-        pts=sorted((y,v) for y,v in pts if y in pop)
-        if not pts: continue
-        ax.plot([y for y,_ in pts],[v/pop[y]*100000 for y,v in pts],marker='o',markersize=3.5,linewidth=1.9,color=color,label=name)
+        raw=sorted((y,v) for y,v in pts if y in pop)
+        if not raw: continue
+        vals=dict(raw); ys=list(range(raw[0][0],raw[-1][0]+1))
+        xs=ys; rates=[None if vals.get(y) is None else vals[y]/pop[y]*100000 for y in ys]
+        ax.plot(xs,rates,marker='o',markersize=3.5,linewidth=1.9,color=color,label=name)
     for y,label in ENLARGEMENTS:
         ax.axvline(y,color='#999999',linewidth=.6,linestyle=':',alpha=.7)
         ax.text(y,0.120,label,rotation=90,fontsize=6,color='#777',ha='right',va='top')
     ax.set_xlim(1959,2026)
-    ax.set_ylim(0,0.125)
+    ax.set_ylim(0,0.15)
     ax.set_xlabel('Year')
     ax.set_ylabel('Output per 100,000 EU/EC population')
+    ax.annotate('2007: old-law backlog',xy=(2007,677/pop[2007]*100000),xytext=(2008.2,0.145),fontsize=7.5,color='#E69F00',arrowprops=dict(arrowstyle='-',color='#E69F00',lw=.8))
+    ax.text(2008.3,0.132,'2008–09 omitted',fontsize=7.5,color='#777')
     fig.suptitle('Gating institutions: output per 100,000 EU/EC population',x=0.012,y=0.975,ha='left',fontsize=14,fontweight='bold')
-    fig.text(0.012,0.925,'Denominator = population of member states at each date; EU-6 in 1960, with enlargements applied at accession and the UK removed in 2020.',ha='left',fontsize=8.5,color='#555')
+    fig.text(0.012,0.925,'Denominator = population of member states at each date; EU-6 in 1960, with enlargements applied at accession and the UK removed in 2020. Cologne 2007 is an old-law backlog, not a normal cohort.',ha='left',fontsize=8.5,color='#555')
     ax.grid(axis='y',alpha=.25)
     ax.legend(loc='upper left',fontsize=8,frameon=False)
     fig.tight_layout(rect=[0,0,1,0.90])
