@@ -68,11 +68,13 @@ The step we take is methodological. The evidentiary challenge follows from the c
 
 The remainder of this paper describes a methodology that treats the LLM as an extraction engine, not an authority. Every claim in our database is linked to a specific sentence in a specific document. The LLM's output is a hypothesis, verified against the source before acceptance. The current build contains 5,707 claims, of which 4,326 are verified, across 3,850 entities and 823 hashed source documents. It supports analysis of seven European Commissions from Santer (1995) through Von der Leyen II (2024--2029).
 
-\section{Methodology}
+\section{Data and methods}
 
 LLM-assisted extraction produces candidate statements, and hallucination is one failure mode. Self-consistency checks \cite{manakul2023}, self-evaluation under controlled formats \cite{kadavath2022}, and citation-grounded generation \cite{zhang2024} motivate the design used here. They do not establish that this workflow extracts relations accurately. The method therefore separates three operations: proposing a subject--relation--object candidate, locating a recoverable source span, and deciding whether that span supports the proposed relation. Source location is a necessary condition, not a guarantee that the relation is entailed, correctly dated, or true.
 
 The pipeline has six stages: acquire and hash sources; segment each source into sentences with exact character offsets; propose candidate claims; locate and grade their evidence; adjudicate uncertain evidence; and resolve entities and render the graph. Each stage writes a durable artifact: a source snapshot, a sentence table, claim and evidence rows, assertion decisions, and a graph export.
+
+\subsection{Study design and populations}
 
 The study population is a set of unique people, not person--term observations: 150 commissioners across seven terms, 85 Directors-General and Deputy Directors-General, 1{,}000 corporate elites, and 98 judicial elites. MEP records are retained in the corpus but excluded from the analyses below. Each frame has its own roster and source cutoff; a person is counted once within a frame even when several roles or sources refer to the same individual. The frames are comparison groups for descriptive coverage, not a random sample of a wider European elite population.
 
@@ -122,7 +124,7 @@ The registry resolves names with a deterministic merge key that strips parenthet
 
 Organisation type, funding, headquarters, and descriptions are stored in \texttt{organisation\_profile}, separate from graph edges. The current seed is manually researched and marked \texttt{manual\_seed}; it is not presented as a sourced assertion. The graph does not use LLM-generated classifications for colouring or analysis. Entity categories come from the registry, and uncertain classifications remain in the review queue.
 
-\section{Wiki Output and Human Review}
+\section{Method assessment and research outputs}
 
 The verified layer renders to a browsing snapshot with 3,485 pages: 460 people, 2,494 organisations, 7 commissions, 519 source documents, plus index, statistics, and citation pages. The snapshot is not a count of the audited corpus (994 source documents); pages and graph exports describe earlier renderings and should not be read as claim or document totals. Each page shows only verified assertions, with role, date, quote, evidence grade, and a link to the source document. The wiki is a browsing interface; the analysis input is the typed graph export, not the Obsidian view.
 
@@ -165,7 +167,7 @@ The stricter grade-A view retains most edges (3,211 of 3,850) but fewer nodes (2
 
 The review layer is explicit. Assertions that the deterministic checks cannot settle are marked \texttt{needs\_review}; grade-C claims are rechecked by a second model, and disagreements are not silently promoted. In the audited release, 235 assertions remain under review; they are not counted as verified. The queue is exported as a priority-scored table, but the audited database contains no completed human-review rows: the queue describes work still to be done, not a completed validation exercise. Model agreement is an acceptance rule, not independent evidence of correctness. The run metadata in the audited database identifies the extraction and adjudication model as \texttt{deepseek-chat}; the second-judge rechecks use \texttt{deepseek-flash} with thinking enabled. Prompts and cache keys are implementation artifacts. A ten-case recheck of grade-A claims retained eight and sent two to review (a governing-board versus academy member confusion and a founder relation not stated in the quote). This is a failure-mode sample, not a precision estimate, and no independent human validation was completed.
 
-\section{Findings}
+\section{Descriptive findings}
 
 The introduction reports a frozen release of 5,707 claims and 823 source documents. The body analyses a later audited release: 6,716 claims, 994 source documents, 5,331 verified assertions, 235 under review and 1,150 rejected. These counts are not interchangeable; all figures below refer to the audited release unless stated. The following findings describe the verified subset, not the larger candidate pool. The dataset covers 150 commissioners, 85 DGs and DDGs, 1{,}000 corporate elites, and 98 judicial elites. MEP records are retained in the corpus but excluded from the graph. Coverage is uneven: commissioner education is verified for 119/150, DG/DDG for 78/85, corporate for 64/1{,}000, and judicial for 98/98. The education table below uses the expanded non-MEP frame; the network findings describe the verified graph snapshot. We therefore report descriptive patterns and avoid claims that depend on the unverified remainder.
 
