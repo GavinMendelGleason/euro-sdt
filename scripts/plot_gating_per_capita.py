@@ -3,7 +3,6 @@
 from __future__ import annotations
 import csv, sqlite3
 from collections import defaultdict
-from statistics import mean
 from pathlib import Path
 import matplotlib
 matplotlib.use("Agg")
@@ -35,21 +34,13 @@ def main():
     series['ENA/INSP'] = [(r['year'],r['value']) for r in fetch(db,'ecole-nationale-d-administration','Formation initiale – voie générale%','enrolled')]
 
     fig, ax=plt.subplots(figsize=(12,6.2))
-    rates_by_year=defaultdict(list)
     for color,(name,pts) in zip(COLORS,series.items()):
         shift=YEAR_SHIFT.get(name,0)
         raw=sorted((y+shift,v) for y,v in pts if y+shift in pop)
         if not raw: continue
         vals=dict(raw); ys=list(range(raw[0][0],raw[-1][0]+1))
         xs=ys; rates=[None if vals.get(y) is None else vals[y]/pop[y]*100000 for y in ys]
-        for y,r in zip(xs,rates):
-            if r is not None: rates_by_year[y].append(r)
         ax.plot(xs,rates,marker='o',markersize=3.5,linewidth=1.9,color=color,label=name)
-    avg_years=sorted(rates_by_year)  # every year with at least one available series
-    avg_vals=[mean(rates_by_year[y]) for y in avg_years]
-    ax.plot(avg_years,avg_vals,color='#333333',linewidth=2.6,linestyle='--',label='Mean of available series')
-    for y in (avg_years[0], avg_years[-1]):
-        ax.annotate(f'n={len(rates_by_year[y])}',xy=(y,mean(rates_by_year[y])),xytext=(4,6),textcoords='offset points',fontsize=7,color='#333333')
     for y,label in ENLARGEMENTS:
         ax.axvline(y,color='#999999',linewidth=.6,linestyle=':',alpha=.7)
         ax.text(y,0.120,label,rotation=90,fontsize=6,color='#777',ha='right',va='top')
@@ -58,7 +49,7 @@ def main():
     ax.set_xlabel('Year')
     ax.set_ylabel('Output per 100,000 EU/EC population')
     fig.suptitle('Gating institutions: output per 100,000 EU/EC population',x=0.012,y=0.975,ha='left',fontsize=14,fontweight='bold')
-    fig.text(0.012,0.925,'Denominator = EU/EC member-state population at each date; EU-6 in 1960, with enlargements at accession and the UK removed in 2020. Numerator includes gating institutions regardless of location. College, Harvard and LSE are shown at academic-year end. Mean = unweighted mean of all series with a value that year; n changes.',ha='left',fontsize=8.5,color='#555')
+    fig.text(0.012,0.925,'Denominator = EU/EC member-state population at each date; EU-6 in 1960, with enlargements at accession and the UK removed in 2020. Numerator includes gating institutions regardless of location. College, Harvard and LSE are shown at academic-year end.',ha='left',fontsize=8.5,color='#555')
     ax.grid(axis='y',alpha=.25)
     ax.legend(loc='upper left',fontsize=8,frameon=False)
     fig.tight_layout(rect=[0,0,1,0.90])

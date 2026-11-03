@@ -40,7 +40,7 @@ Detailed URLs and extraction notes: `audit/historical_series_sources.md`. Machin
 
 ## Per-capita version
 
-`assets/papers/methodology/gating-trajectories-per-capita.png` divides each output series by the **EU/EC population of the member states at that date** and expresses the result per 100,000 population. It includes a dashed **mean of available series** line: an unweighted mean across institutions with a value in that year. A mean is computed every year with at least one available series; the number of contributing series is annotated at the endpoints. College, Harvard and LSE are plotted at academic-year end, so their 2024--25 outputs appear in 2025. In 2025 four series contribute: College, Harvard, Polytechnique, and ENA/INSP. Oxford ends in 2019, LSE in 2021, and Cologne in 2024 because those are their last available data, not because of EU membership. The mean is descriptive and its composition changes as series enter and leave.
+`assets/papers/methodology/gating-trajectories-per-capita.png` divides each output series by the **EU/EC population of the member states at that date** and expresses the result per 100,000 population. It shows the individual series only; the available-series level mean was removed because its composition changes when series enter or leave. College, Harvard and LSE are plotted at academic-year end, so their 2024--25 outputs appear in 2025. Oxford ends in 2019, LSE in 2021, and Cologne in 2024 because those are their last available data, not because of EU membership.
 
 - Denominator: World Bank `SP.POP.TOTL`, summed over the member states at each date.
 - Membership: EU-6 in 1960; EU-9 from 1973; EU-10 from 1981; EU-12 from 1986; EU-15 from 1995; EU-25 from 2004; EU-27 from 2007; EU-28 from 2013; EU-27 after the UK's 2020 withdrawal.
@@ -48,6 +48,20 @@ Detailed URLs and extraction notes: `audit/historical_series_sources.md`. Machin
 - Pre-1960 output is not plotted because the population series starts in 1960.
 - The numerator units still differ (degrees, entrants, examined candidates, enrolled students), so the per-capita lines are comparable in denominator, not in numerator definition.
 
+
+## Chained index
+
+`assets/papers/methodology/gating-trajectories-chained-index.png` is the trend summary.
+
+- Base: 1960 = 100.
+- For each year, compute the annualised log change in each series' per-capita rate for every institution observed in both the current year and its previous observation.
+- Take the **median** annual log change across available series; median avoids a single COVID or backlog outlier driving the index.
+- Chain the median growth rates from 1960.
+- A series entering or leaving does not create a level jump; it contributes only where a pair of observations exists.
+- Gaps are annualised; a one-year gap is skipped if no pair exists.
+- The index still depends on which institutions are observed, and it does not make the different numerator concepts identical.
+
+The median index is **285.4 in 2025** (1960 = 100), versus **283.2 in 2020**. It does not reproduce the artificial 2023–25 drop of the available-series level mean.
 
 ## Extension attempts
 
