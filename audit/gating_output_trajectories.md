@@ -73,3 +73,21 @@ The median index is **285.4 in 2025** (1960 = 100), versus **283.2 in 2020**. It
 ## Numerator geography
 
 The denominator is the EU/EC population of member states at each date; it excludes the UK after 2020. The numerator is **not** restricted to EU institutions: Harvard, Oxford, and LSE remain in the series regardless of location. Their lines stop only at their last observed year (Oxford 2019, LSE 2021), not because of UK membership.
+
+
+## ENA pre-2019 observations
+
+`assets/papers/methodology/ena-insp-history.png` collects every located ENA/INSP observation, with metrics kept separate.
+
+| Year | Observation | Metric |
+|---:|---:|---|
+| 1993 | 104 | admitted |
+| 1996 | 105 | graduates |
+| 2000 | 110 | admitted |
+| 2001 | 103 | admitted |
+| 2014 | 80 | enrolled |
+| 2016 | 89 | admitted |
+| 2006–2021 | 80–90 | places offered |
+| 2019–2025 | 80, 82, 84, 90, missing, 89, 61 | enrolled |
+
+The 1993, 2000, and 1996 values are name-list counts from Journal officiel texts; 2001 is a stated report figure. These observations are not spliced into the enrolled line because the metrics differ.

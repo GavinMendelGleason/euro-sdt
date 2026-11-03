@@ -73,3 +73,14 @@
 ## Display-year convention
 
 In the per-capita chart, College of Europe, Harvard, and LSE are displayed at academic-year end: their 2024--25 observations are plotted in 2025. This is a display convention; `institution_cohort.year` retains the source year label. Oxford (examination year), Cologne (examination year), Polytechnique (entrants), and ENA (promotion entry) remain as recorded.
+
+
+## ENA additional observations
+
+- 1993 admitted: `https://web.archive.org/web/20230309185744id_/https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000345548`
+- 2000 admitted: `https://politique.pappers.fr/document/JORFTEXT000000216348`
+- 2001 admitted: `https://www.vie-publique.fr/files/rapport/pdf/034000172.pdf` (stated figure, not JO count)
+- 2014 enrolled: `https://www.documentation-administrative.gouv.fr/adm-01859764/document`
+- 2016 admitted: `https://www.documentation-administrative.gouv.fr/adm-01859768/document`
+- 1996 graduates: `https://politique.pappers.fr/document/arrete-11-avril-1996-portant-affectation-carrieres-eleves-promotion-1994-1996-lecole-nationale-dadministration-termine-scolarite-mois-mars-1996-JORFTEXT000000559645`
+- Places offered 2006–2021: `data/institutions/ena_places_offered.csv`.
