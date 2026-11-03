@@ -119,9 +119,9 @@ Organisation type, funding, headquarters, and descriptions are stored in \texttt
 
 \section{Wiki Output and Human Review}
 
-The verified layer renders to a static wiki with 3,485 pages: 460 people, 2,494 organisations, 7 commissions, 1 award, 519 source documents, plus index, statistics, and citation pages. Each page shows only verified assertions, with role, date, quote, evidence grade, and a link to the source document. Internal links are Obsidian wikilinks; source pages are filtered from the default graph view, so the browsing graph is not dominated by document nodes.
+The verified layer renders to a static wiki with 3,485 pages: 460 people, 2,494 organisations, 7 commissions, 519 source documents, plus index, statistics, and citation pages. Each page shows only verified assertions, with role, date, quote, evidence grade, and a link to the source document. Internal links are Obsidian wikilinks; source pages are filtered from the default graph view, so the browsing graph is not dominated by document nodes.
 
-The typed graph is exported separately: 3,101 nodes and 3,884 edges, of which 2,784 are network edges, 3 award, 632 education, 369 occupational, 94 institutional, and 2 other. The graph is not an Obsidian screenshot: \texttt{nodes.csv}, \texttt{edges.csv}, and \texttt{graph.graphml} carry edge class, predicate, role, grade, quote, document path, SHA-256, and a URL where the source is a public web page. Obsidian is a browsing view; the analysis uses the export.
+The typed graph is exported separately: 3,101 nodes and 3,884 edges, of which 2,784 are network edges, 632 education, 369 occupational, 94 institutional, and 2 other. The graph is not an Obsidian screenshot: \texttt{nodes.csv}, \texttt{edges.csv}, and \texttt{graph.graphml} carry edge class, predicate, role, grade, quote, document path, SHA-256, and a URL where the source is a public web page. Obsidian is a browsing view; the analysis uses the export.
 
 \begin{figure}[htbp]
 \centering
@@ -208,10 +208,6 @@ A second, narrower measure comes from the DG/DDG tenure layer: 14 post-service i
 \subsection{Fellowships and Scholarships}
 
 Fellowships are not yet represented systematically in the graph. The general extractor records a \texttt{fellow} relationship when it is attached to an organisation, but it excludes universities and treats most awards as out of scope, and it was applied uniformly rather than as a targeted search. A targeted scan of local sources for commissioners, DGs and deputy DGs, and CJEU members---MEPs were excluded---found 66 sentences mentioning fellows, scholars, scholarships, or named programmes. High-confidence named-programme cases included five Fulbright awards (Juliane Kokott, Sini\v{s}a Rodin, Danuta H\"ubner, Josep Borrell, and Kristalina Georgieva), a Henry Fellowship (Leon Brittan), a DAAD scholarship (Maciej Popowski), and a Schuman scholarship (Pia Ahrenkilde Hansen). These eight claims are now in the graph. Coverage remains thin, especially for DGs and judges, whose biographies often mention fellowships only in passing. A separate scan of German Marshall Fund sources found Catherine Ashton's membership of its 2019 Transatlantic Task Force; this is recorded as task-force membership, not a GMF board or staff role.
-
-\subsection{Awards}
-
-Awards are represented separately from fellowships. A CEPA Transatlantic Leadership Award entity carries the award; recipients are connected with \texttt{award\_received}, and the award is connected to CEPA with \texttt{awarded\_by}. Kaja Kallas (2022) and Gabrielius Landsbergis (2024) are verified recipients, and CEPA is the awarding body. These edges use the \texttt{award} edge class, so they do not inflate the fellowship or network counts.
 
 \subsection{The French Pipeline in the Verified Record}
 
