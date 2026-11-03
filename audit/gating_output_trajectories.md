@@ -54,14 +54,14 @@ Detailed URLs and extraction notes: `audit/historical_series_sources.md`. Machin
 `assets/papers/methodology/gating-trajectories-chained-index.png` is the trend summary.
 
 - Base: 1960 = 100.
-- For each year, compute the annualised log change in each series' per-capita rate for every institution observed in both the current year and its previous observation.
+- For each observed interval, compute the annualised log change in each series' per-capita rate and distribute it across every intervening year; this is an explicit interpolation model for gaps.
 - Take the **median** annual log change across available series; median avoids a single COVID or backlog outlier driving the index.
 - Chain the median growth rates from 1960.
 - A series entering or leaving does not create a level jump; it contributes only where a pair of observations exists.
-- Gaps are annualised; a one-year gap is skipped if no pair exists.
+- Gaps are annualised and distributed across the missing years; a series contributes from its first observed interval.
 - The index still depends on which institutions are observed, and it does not make the different numerator concepts identical.
 
-The median index is **285.4 in 2025** (1960 = 100), versus **283.2 in 2020**. It does not reproduce the artificial 2023–25 drop of the available-series level mean.
+The median index is **296.6 in 2025** (1960 = 100), versus **293.8 in 2020**. It does not reproduce the artificial 2023–25 drop of the available-series level mean.
 
 ## Extension attempts
 

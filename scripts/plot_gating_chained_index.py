@@ -38,22 +38,19 @@ def main():
 
     first=min(min(r) for r in rates.values())
     last=max(max(r) for r in rates.values())
-    index={first:100.0}
-    values={first:100.0}
-    n_pairs={first:0}
-    current=100.0
-    for y in range(first+1,last+1):
-        growth=[]; npairs=0
-        for name,obs in rates.items():
-            earlier=[yy for yy in obs if yy<y]
-            if not earlier or y not in obs: continue
-            prev=max(earlier); gap=y-prev
+    growth_by_year=defaultdict(list)
+    for obs in rates.values():
+        ys=sorted(obs)
+        for p,y in zip(ys,ys[1:]):
+            gap=y-p
             if gap<=0: continue
-            growth.append(math.log(obs[y]/obs[prev])/gap)
-            npairs+=1
-        if growth:
-            current*=math.exp(statistics.median(growth))
-        values[y]=current; n_pairs[y]=npairs
+            g=math.log(obs[y]/obs[p])/gap
+            for yy in range(p+1,y+1): growth_by_year[yy].append(g)
+    values={first:100.0}; n_pairs={first:0}; current=100.0
+    for y in range(first+1,last+1):
+        growth=growth_by_year[y]
+        if growth: current*=math.exp(statistics.median(growth))
+        values[y]=current; n_pairs[y]=len(growth)
 
     fig, ax=plt.subplots(figsize=(12,6.2))
     ys=sorted(values)
@@ -66,7 +63,7 @@ def main():
     ax.set_xlabel('Year')
     ax.set_ylabel('Chained index of output per 100,000 EU/EC population (1960 = 100)')
     fig.suptitle('Gating institutions: chained per-capita index',x=0.012,y=0.975,ha='left',fontsize=14,fontweight='bold')
-    fig.text(0.012,0.925,'Median annual log growth across series observed in consecutive available years; gaps are annualised. No level jump when a series enters or leaves.',ha='left',fontsize=8.5,color='#555')
+    fig.text(0.012,0.925,'Median annual log growth across observed intervals, distributed across missing years; no level jump when a series enters or leaves.',ha='left',fontsize=8.5,color='#555')
     ax.grid(axis='y',alpha=.25)
     ax.legend(loc='upper left',fontsize=9,frameon=False)
     fig.tight_layout(rect=[0,0,1,0.90])

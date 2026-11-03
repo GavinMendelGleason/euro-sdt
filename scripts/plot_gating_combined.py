@@ -38,15 +38,18 @@ def main():
         rates[name]={y+shift:v/pop[y+shift]*100000 for y,v in pts if y+shift in pop}
 
     first=min(min(r) for r in rates.values()); last=max(max(r) for r in rates.values())
+    # Annualise each observed interval and distribute it across every intervening year.
+    growth_by_year=defaultdict(list)
+    for obs in rates.values():
+        ys=sorted(obs)
+        for p,y in zip(ys,ys[1:]):
+            gap=y-p
+            if gap<=0: continue
+            g=math.log(obs[y]/obs[p])/gap
+            for yy in range(p+1,y+1): growth_by_year[yy].append(g)
     index={first:100.0}; cur=100.0
     for y in range(first+1,last+1):
-        growth=[]
-        for obs in rates.values():
-            earlier=[yy for yy in obs if yy<y]
-            if not earlier or y not in obs: continue
-            prev=max(earlier); gap=y-prev
-            if gap>0: growth.append(math.log(obs[y]/obs[prev])/gap)
-        if growth: cur*=math.exp(statistics.median(growth))
+        if growth_by_year[y]: cur*=math.exp(statistics.median(growth_by_year[y]))
         index[y]=cur
 
     fig, ax=plt.subplots(figsize=(12,6.4))
@@ -75,7 +78,7 @@ def main():
         ax.axvline(y,color='#999999',linewidth=.6,linestyle=':',alpha=.7)
         ax.text(y,0.121,label,rotation=90,fontsize=6,color='#777',ha='right',va='top')
     fig.suptitle('Gating institutions: population-adjusted output and chained index',x=0.012,y=0.975,ha='left',fontsize=14,fontweight='bold')
-    fig.text(0.012,0.925,'Per-capita lines use EU/EC member-state population; the black-red index chains median annual log growth across observed pairs, 1960 = 100.',ha='left',fontsize=8.5,color='#555')
+    fig.text(0.012,0.925,'Per-capita lines use EU/EC member-state population; the black-red index chains median annual log growth, interpolated across observation gaps, 1960 = 100.',ha='left',fontsize=8.5,color='#555')
     ax.legend(lines,labels,loc='upper left',fontsize=8,frameon=False)
     fig.tight_layout(rect=[0,0,1,0.90])
     out=Path('assets/papers/methodology/gating-trajectories-combined.png')
