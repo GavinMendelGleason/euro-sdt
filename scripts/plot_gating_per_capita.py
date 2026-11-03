@@ -43,7 +43,7 @@ def main():
         for y,r in zip(xs,rates):
             if r is not None: rates_by_year[y].append(r)
         ax.plot(xs,rates,marker='o',markersize=3.5,linewidth=1.9,color=color,label=name)
-    avg_years=sorted(y for y,v in rates_by_year.items() if len(v)>=2)
+    avg_years=sorted(y for y,v in rates_by_year.items() if len(v)>=3)
     ax.plot(avg_years,[mean(rates_by_year[y]) for y in avg_years],color='#333333',linewidth=2.6,linestyle='--',label='Mean of available series')
     for y,label in ENLARGEMENTS:
         ax.axvline(y,color='#999999',linewidth=.6,linestyle=':',alpha=.7)
@@ -53,7 +53,7 @@ def main():
     ax.set_xlabel('Year')
     ax.set_ylabel('Output per 100,000 EU/EC population')
     fig.suptitle('Gating institutions: output per 100,000 EU/EC population',x=0.012,y=0.975,ha='left',fontsize=14,fontweight='bold')
-    fig.text(0.012,0.925,'Denominator = population of member states at each date; EU-6 in 1960, with enlargements applied at accession and the UK removed in 2020. Mean line = unweighted mean of series available in that year (at least two).',ha='left',fontsize=8.5,color='#555')
+    fig.text(0.012,0.925,'Denominator = population of member states at each date; EU-6 in 1960, with enlargements applied at accession and the UK removed in 2020. Mean line = unweighted mean of series available in that year, shown where at least three institutions have data.',ha='left',fontsize=8.5,color='#555')
     ax.grid(axis='y',alpha=.25)
     ax.legend(loc='upper left',fontsize=8,frameon=False)
     fig.tight_layout(rect=[0,0,1,0.90])
