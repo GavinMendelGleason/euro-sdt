@@ -86,7 +86,9 @@ The pipeline has six stages: acquire and hash sources; segment each source into 
 
 The database is best read as an evidence chain rather than a table inventory. A source snapshot is segmented into sentences; a candidate claim records a subject, predicate, object and role; one or more evidence rows point to recoverable sentence spans; and an assertion records the acceptance decision together with the evidence grade and adjudication history. Entities, aliases and organisation profiles are supporting registries, not additional evidence. The relational tables implement this chain; the unit of analysis is the claim and its located evidence.
 
-The implementation stores:
+The implementation stores: Acquisition, model-run and graph-query details are recorded in the repository audit directory.
+
+
 
 \begin{itemize}
 \item \texttt{source\_document}: one snapshot per source, with URL, local path, SHA-256, revision, retrieval date, and access date.
