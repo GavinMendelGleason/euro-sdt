@@ -6,6 +6,7 @@
 |---|---|---|---|---|
 | Harvard | LL.M. | 1983–2024 | Harvard Fact Books / OIRA / IPEDS | LL.M. degrees conferred |
 | Bocconi | Law (Giuridico / LMG/01) | 2003–2025 | MUR/USTAT `Laureati` | 2004 reform break; law group |
+| Bocconi | Economics/management (Economico) | 2010–2025 | MUR/USTAT `Laureati` | discipline-group aggregate, not single programme |
 | LUISS | Law (Giuridico / LMG/01) | 2001–2025 | MUR/USTAT `Laureati` | 2004 reform break; law group |
 | École Polytechnique | Engineering degree | 1995, 2024 | Journal officiel degree lists | observed points only; no annual series |
 
@@ -23,3 +24,8 @@
 ## Practical consequence
 
 A degree-based replacement is only possible for Harvard and for a new Bocconi/LUISS law series. Oxford, LSE, Cologne, ENA and the College cannot be converted from their current measures without either estimating or changing the construct.
+
+
+## Bocconi economic elites in the corpus
+
+`audit/education_aggregate_non_mep.md` records 5 observed people educated at Bocconi: 2 commissioners and 3 corporate elites. The economics/management series is the relevant degree context for the economic-elite side; the law series is separate.
