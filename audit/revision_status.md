@@ -25,7 +25,7 @@ Status against `euro-sdt-scholarly-revision-map.md`.
 | M19 | done | Subsection renamed exploratory |
 | M20 | done | Chained index now interpolates observed intervals across gaps; endpoint 296.6 |
 | M21 | done | Fixed 2025 EU-27 sensitivity computed; 2025 index 540.9 vs 296.6 |
-| M22 | partial | Programme-output label and A/B local-label caveat added; source A/C mapping documented |
+| M22 | done | Programme-output label, exploratory-ratio caveat, and local A/B vs source A/C mapping documented in paper and audit |
 | M23 | done | Unmatched judicial ratio and lower-bound claim removed |
 | M24 | done | Record unit and residual-category caveat corrected |
 | M25 | done | Future Work replaced by Discussion and limitations |
