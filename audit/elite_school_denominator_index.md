@@ -64,3 +64,19 @@ If a weighted index of component growth is required, use weights \(A_t/D_t\), \(
 - Output measures differ across institutions: degrees, entrants, examined candidates, and enrolled students. The index measures growth in output per denominator, not a common production level.
 - B is dominated by lawyer counts; A and C are much smaller.
 - The five-year panel mixes observed and estimated denominator components; see `audit/elite_position_denominator_5y.md`.
+
+## Four panels
+
+`assets/papers/methodology/elite-school-denominator-panels.png` shows each denominator separately.
+
+In each panel:
+
+- dashed grey: median chained production index, no denominator
+- solid colour: production divided by A, B, C, or A+B+C
+
+The raw median production index rises from 100 in 1990 to **175 in 2025**. The adjusted lines show what the denominator does to that production:
+
+- A: production per Commission post = **126**
+- B: production per lawyer = **49**
+- C: production per board seat = **206**
+- A+B+C: production per aggregate position = **55**

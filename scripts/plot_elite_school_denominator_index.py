@@ -68,6 +68,16 @@ def main():
             vals[y]=cur; ns[y]=len(growth)
         index[key]=vals; counts[key]=ns
 
+    # raw median production index, same pair logic, no denominator
+    prod={YEARS[0]:100.0}; pn={YEARS[0]:0}; pcur=100.0
+    for prev,y in zip(YEARS,YEARS[1:]):
+        growth=[]
+        for name,o in outs.items():
+            if prev in o and y in o:
+                growth.append(math.log(o[y]/o[prev])/5)
+        if growth: pcur*=math.exp(statistics.median(growth)*5)
+        prod[y]=pcur; pn[y]=len(growth)
+
     fig,ax=plt.subplots(figsize=(12,6.2))
     for key,vals in index.items():
         ax.plot(list(vals),list(vals.values()),marker='o',markersize=4,linewidth=2.1,color=COLORS[key],label=key)
@@ -88,10 +98,32 @@ def main():
     plt.close(fig);print(out)
     csvout=Path('data/denominator/elite_school_denominator_index_5y.csv')
     with csvout.open('w',newline='') as f:
-        w=csv.writer(f); w.writerow(['year','index_A','index_B','index_C','index_total','n_A','n_B','n_C','n_total'])
+        w=csv.writer(f); w.writerow(['year','production_index','index_A','index_B','index_C','index_total','n_A','n_B','n_C','n_total'])
         for y in YEARS:
-            w.writerow([y]+[round(index[k][y],2) for k in index]+[counts[k][y] for k in counts])
+            w.writerow([y,round(prod[y],2)]+[round(index[k][y],2) for k in index]+[counts[k][y] for k in counts])
     print(csvout)
-    for y in YEARS: print(y,{k:round(index[k][y],1) for k in index},'n',{k:counts[k][y] for k in counts})
+
+    panel_keys=['A (Commission posts)','B (bar lawyers)','C (listed board seats)','A+B+C total']
+    panel_colors=['#0072B2','#D55E00','#009E73','#8B0000']
+    figp,axs=plt.subplots(2,2,figsize=(12,7.2),sharex=True,sharey=True)
+    for ax,key,color in zip(axs.ravel(),panel_keys,panel_colors):
+        ax.plot(list(prod),list(prod.values()),color='#777777',linewidth=1.6,linestyle='--',marker='o',markersize=3,label='Median chained production')
+        ax.plot(list(index[key]),list(index[key].values()),color=color,linewidth=2.2,marker='o',markersize=4,label='Production / denominator')
+        ax.axhline(100,color='#999999',linewidth=.7,linestyle=':')
+        ax.set_yscale('log'); ax.set_ylim(40,400)
+        ax.set_yticks([40,50,60,80,100,150,200,300,400]); ax.set_yticklabels(['40','50','60','80','100','150','200','300','400'])
+        ax.yaxis.set_minor_formatter(matplotlib.ticker.NullFormatter())
+        ax.set_title(key,loc='left',fontsize=10,fontweight='bold')
+        ax.grid(axis='y',alpha=.2)
+        ax.legend(fontsize=7,frameon=False,loc='upper left')
+    figp.suptitle('Gating-school production with each denominator',x=0.012,y=0.975,ha='left',fontsize=14,fontweight='bold')
+    figp.text(0.012,0.925,'Dashed: median chained production index. Solid: production divided by A, B, C, or A+B+C. Both 1990 = 100.',ha='left',fontsize=8,color='#555')
+    figp.tight_layout(rect=[0,0,1,0.90])
+    outp=Path('assets/papers/methodology/elite-school-denominator-panels.png')
+    figp.savefig(outp,dpi=200,bbox_inches='tight',facecolor='white')
+    figp.savefig(outp.with_suffix('.svg'),bbox_inches='tight',facecolor='white')
+    plt.close(figp)
+    print(outp)
+    for y in YEARS: print(y,{k:round(index[k][y],1) for k in index},'prod',round(prod[y],1),'n',{k:counts[k][y] for k in counts})
 
 if __name__=='__main__': main()
