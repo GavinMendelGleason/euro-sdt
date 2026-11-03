@@ -14,8 +14,7 @@ The relevant temporal object is the institution's output of qualified people, no
 | Cologne | Rechtswissenschaft | 2019–2024 | enrolled | 837, 655, 698, 646, 658, 661 |
 | Cologne | Rechtswissenschaft | 2019–2024 | graduates | 484, 390, 370, 377, 372, 420 |
 | LSE | LLM | 2020–2021 | enrolled | 277, 315 |
-| College of Europe | all programmes | 2024 | enrolled | 496 |
-| College of Europe | Natolin EIS | 2019 | enrolled | 133 |
+| College of Europe | all programmes | 1990–2024 | matriculated students | 145 (1990) → 494 (2024) |
 
 ## What the trajectories show
 
@@ -25,8 +24,8 @@ The relevant temporal object is the institution's output of qualified people, no
 - **Oxford:** BCL/MJur enrolment is volatile, with a COVID-era spike and incomplete 2024 data.
 - **Cologne:** first-semester enrolment and first-examination graduates both fell from 2019 to 2024, then partly recovered.
 - **LSE:** only two years; no trajectory.
-- **College of Europe:** no annual graduate series; one Natolin figure and one all-College enrolment figure are not a time series.
+- **College of Europe:** the only institution here with a genuine pre-2018 annual series: matriculated students rose from 145 in 1990 to 494 in 2024, with a dip around 2009.
 
 ## Consequence
 
-There is no defensible aggregated trajectory of gating-institution output. The series do not cover the same years, programmes, units or outcome definition. A long-run claim would require annual graduate counts for each institution and a fixed programme definition.
+There is no defensible aggregated trajectory of gating-institution output across institutions. Only the College of Europe has a pre-2018 annual series. The other series do not cover the same years, programmes, units or outcome definition. A long-run claim would require annual graduate counts for each institution and a fixed programme definition.

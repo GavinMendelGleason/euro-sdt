@@ -14,6 +14,7 @@ SERIES = [
     ("Oxford BCL / MJur", "university-of-oxford", ["BCL", "MJur"], "enrolled", "Master's law enrolment"),
     ("Cologne law", "university-of-cologne", ["Rechtswissenschaft (Staatsexamen / 1. Prüfung)"], "graduates", "First-examination graduates"),
     ("LSE LLM", "london-school-of-economics", ["LLM (Master of Laws)"], "enrolled", "LLM enrolment"),
+    ("College of Europe", "college-of-europe", ["All programmes (promotions table)"], "enrolled", "Matriculated students"),
 ]
 COLORS = ["#0072B2", "#E69F00", "#D55E00", "#CC79A7", "#009E73", "#56B4E9"]
 
@@ -36,14 +37,11 @@ def main():
         ax.grid(axis='y', alpha=.25)
         if len(programmes)>1:
             ax.legend(fontsize=7, frameon=False)
-        ax.set_xlim(2018.5, 2025.5)
-    # College panel: no common annual series
-    ax=axes[6]; ax.set_title('College of Europe', fontsize=10, loc='left')
-    ax.text(.5,.55,'No annual graduate series',ha='center',va='center',fontsize=10,transform=ax.transAxes)
-    ax.text(.5,.42,'2019 Natolin and 2024 all-College\nare not comparable points',ha='center',va='center',fontsize=8,transform=ax.transAxes,color='#555')
-    ax.set_xticks([]); ax.set_yticks([]); ax.set_frame_on(False)
+        ax.set_xlim(1989.5, 2025.5)
+        ax.set_xticks(range(1990, 2026, 5))
+        ax.tick_params(axis='x', labelsize=7)
     axes[7].axis('off'); axes[8].axis('off')
-    fig.suptitle('Available gating-institution output series, 2019–2025\nEach panel uses its own reported measure; no common scale', fontsize=12, x=.02, ha='left')
+    fig.suptitle('Available gating-institution output series, 1990–2025\nEach panel uses its own reported measure; no common scale', fontsize=12, x=.02, ha='left')
     fig.tight_layout(rect=[0,0,1,.92])
     out=Path('assets/papers/methodology/gating-trajectories.png')
     fig.savefig(out,dpi=180,bbox_inches='tight',facecolor='white')
