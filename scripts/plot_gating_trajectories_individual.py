@@ -46,7 +46,9 @@ def main():
         if len(programmes)>1: ax.legend(fontsize=8,frameon=False)
         if first and first>1990:
             ax.axvspan(1990,first,color='#999999',alpha=.08)
-            ax.text(0.02,0.94,f'Annual series begins {first}',transform=ax.transAxes,fontsize=8,color='#555')
+            ax.text(0.02,0.82,f'Annual series begins {first}',transform=ax.transAxes,fontsize=8,color='#555')
+            if max(xs)-min(xs)+1 > len(xs):
+                ax.text(0.02,0.74,'Some years not reported',transform=ax.transAxes,fontsize=8,color='#777')
         fig.tight_layout()
         fig.savefig(outdir/f'{slug}.png',dpi=180,bbox_inches='tight',facecolor='white')
         fig.savefig(outdir/f'{slug}.svg',bbox_inches='tight',facecolor='white')

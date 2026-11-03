@@ -8,7 +8,7 @@ The relevant temporal object is the institution's output of qualified people, no
 | Harvard LL.M. | degrees conferred | 1983–2024 | LL.M. degrees | 95 (1983) → 190 (2018) → 59 (2020) → 175 (2024) |
 | École Polytechnique | entrants/admitted | 2002–2025 | entrants | 383 (2002) → 379–397 (2002–19) → 431 (2020–25) |
 | Oxford BCL/MJur | candidates examined | 2002–2019 | examined | BCL 67 → 111; MJur 61 → 38 |
-| Cologne law | first-examination graduates | 2011–2024 | graduates | 358 (2011) → 320 (2014) → 484 (2019) → 370 (2021) → 420 (2024) |
+| Cologne law | first-examination graduates | 2007–2024 (2008–09 missing) | graduates | 677 (2007) → 444 (2010) → 358 (2011) → 320 (2014) → 484 (2019) → 420 (2024) |
 | LSE LLM | enrolled headcount | 2014–2020 | enrolled | 277 (2014/15) → 273 (2020/21) |
 | ENA/INSP | initial-training enrolment | 2019–2025 | enrolled | 80 (2019) → 89 (2024) → 61 (2025) |
 
@@ -18,7 +18,7 @@ The relevant temporal object is the institution's output of qualified people, no
 - **Harvard LL.M.:** stable band of roughly 130–180 degrees, not a growth trend; 2020 is a COVID-year exception.
 - **École Polytechnique:** a flat 379–397 band from 2002 to 2019, then a higher 425–431 plateau.
 - **Oxford BCL/MJur:** BCL expanded while MJur contracted; the series is volatile and ends in 2019 because the later metric is enrolment, not examinations.
-- **Cologne law:** no monotonic expansion; a deep trough in the mid-2010s and a partial recovery.
+- **Cologne law:** a high 2007 value reflects the old-law backlog; after 2010 there is no monotonic expansion, with a mid-2010s trough and partial recovery. The 2008 and 2009 values are not usable as annual values because the university folded an incomplete IT.NRW report into 2009.
 - **LSE LLM:** a short but genuine enrolled series from 2014/15; it does not support a trend claim.
 - **ENA/INSP:** still only a recent window; no public annual output series before 2019 was located.
 
@@ -47,3 +47,10 @@ Detailed URLs and extraction notes: `audit/historical_series_sources.md`. Machin
 - Vertical lines mark those accession/withdrawal dates.
 - Pre-1960 output is not plotted because the population series starts in 1960.
 - The numerator units still differ (degrees, entrants, examined candidates, enrolled students), so the per-capita lines are comparable in denominator, not in numerator definition.
+
+
+## Extension attempts
+
+- **Cologne:** extended to 2007 using archived ZDF 2011/12; 2010 is 444, 2007 is 677. 2008 and 2009 are omitted because the university marks 2008 as an incomplete IT.NRW report and folds it into 2009. Pre-2007 university-specific counts were not located; district-level JPA Köln counts cover Cologne and Bonn and cannot be converted.
+- **LSE:** no official numeric LLM series before 2014/15. The LSE Digest has named degree-award lists from 2003–04 to 2012–13, but no printed totals; counting them would create a separate graduates series, not an enrolled-headcount extension.
+- **ENA/INSP:** no compiled output series before 2019. The earlier official series is places offered (2006–2020), not enrolment or graduates. Pre-2006 promotion sizes exist only as Journal officiel name lists and require document-by-document counting.

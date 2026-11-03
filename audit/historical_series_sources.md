@@ -53,3 +53,18 @@
 - **Source:** World Bank, `SP.POP.TOTL`, annual population by country, 1960–2025.
 - **Construction:** sum of the member states at each date; membership timeline is recorded in `data/institutions/eu_population.csv`.
 - **Coverage:** 1960–2025 only. Pre-1960 output is not normalised.
+
+
+## Extension status
+
+### Cologne 2007-2010
+- ZDF 2011/12, p. 60: `https://web.archive.org/web/20210413211301/https://strategy.uni-koeln.de/e143393/e143429/e145027/ZDF_2011_12_ger.pdf`
+- ZDF 2012/13, p. 60: `https://web.archive.org/web/20210413194035/https://strategy.uni-koeln.de/e143393/e143429/e145026/ZDF_2012_13_ger.pdf`
+- ZDF 2014/15, p. 58: `https://web.archive.org/web/20210414021704/https://strategy.uni-koeln.de/e143393/e143429/e144953/ZDF_2014_2015_V3_ger.pdf`
+- 2008 and 2009 omitted: incomplete IT.NRW report; the 2008 late report is folded into 2009.
+
+### LSE before 2014/15
+- No numeric LLM series. LSE Digest degree-award lists exist for 2003-04 to 2012-13 but have names only, not counts; a derived count would be a graduates series, not enrolled headcount.
+
+### ENA before 2019
+- No compiled output series. Only places offered (2006-2020) is tabulated. Promotion sizes and graduate counts exist only in Journal officiel name lists; Légifrance blocks automated access, and mirrored texts require name-by-name counting.
