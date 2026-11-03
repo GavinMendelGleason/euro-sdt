@@ -13,7 +13,7 @@ C=[float(r['index_C']) for r in rows]
 
 fig, ax=plt.subplots(figsize=(9,5.2))
 ax.plot(years,A,color='#0072B2',marker='o',markersize=4,linewidth=2.2,label='A: all included gating schools / Commission posts')
-ax.plot(years,C,color='#009E73',marker='o',markersize=4,linewidth=2.2,label='C: all included gating schools / listed-board seats')
+ax.plot(years,C,color='#009E73',marker='o',markersize=4,linewidth=2.2,label='B: all included gating schools / listed-board seats')
 ax.axhline(100,color='#999999',linewidth=.8,linestyle='--')
 ax.annotate(f'{A[-1]:.0f}',xy=(years[-1],A[-1]),xytext=(-28,-14),textcoords='offset points',color='#0072B2',fontsize=9)
 ax.annotate(f'{C[-1]:.0f}',xy=(years[-1],C[-1]),xytext=(-28,8),textcoords='offset points',color='#009E73',fontsize=9)
@@ -27,7 +27,7 @@ fig.text(0.012,0.915,'Median chained production of elite graduates from all incl
 ax.grid(axis='y',alpha=.25)
 ax.legend(loc='upper left',fontsize=9,frameon=False)
 fig.tight_layout(rect=[0,0,1,0.86])
-out=Path('assets/papers/methodology/elite-school-denominator-A-C.png')
+out=Path('assets/papers/methodology/elite-school-denominator-A-B.png')
 fig.savefig(out,dpi=200,bbox_inches='tight',facecolor='white')
 fig.savefig(out.with_suffix('.svg'),bbox_inches='tight',facecolor='white')
 plt.close(fig);print(out)
