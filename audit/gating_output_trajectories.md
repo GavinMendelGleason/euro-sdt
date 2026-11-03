@@ -29,3 +29,17 @@ The relevant temporal object is the institution's output of qualified people, no
 ## Consequence
 
 There is no defensible aggregated trajectory of gating-institution output across institutions. Only the College of Europe has a pre-2018 annual series. The other series do not cover the same years, programmes, units or outcome definition. A long-run claim would require annual graduate counts for each institution and a fixed programme definition.
+
+## Why most series begin in 2019 or 2020
+
+The start dates are an acquisition boundary, not the date the institutions began producing graduates. The current corpus contains:
+
+- **ENA/INSP:** activity reports from 2019 onward (`ena-rapport-activite-2019.txt`, `insp-rapport-activite-2024.txt`); earlier annual reports have not been acquired.
+- **École Polytechnique:** concours statistics for 2020--2025 (`ecole-polytechnique-concours-2020.txt` onward); earlier concours reports have not been acquired.
+- **Harvard LL.M.:** class news from 2019 and the 2022--2025 class profile; the degree-completions table covers AY2016--25, but only the recent degree counts were loaded.
+- **Oxford BCL/MJur:** programme profiles from 2019--20 onward.
+- **Cologne law:** the 2023 and 2024 teaching statistics tables, which report 2019--2024.
+- **LSE LLM:** two rows in the acquired LLM table, 2020 and 2021.
+- **College of Europe:** the official *Promotions and Patrons* table preserves annual matriculation back to 1949; the chart uses 1990 onward.
+
+These are gaps in the corpus, not evidence that the series did not exist. Extending the other panels requires acquiring the earlier annual reports or statistical tables.
