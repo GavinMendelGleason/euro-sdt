@@ -26,3 +26,7 @@ Method, definitions, sensitivity and caveats: `audit/elite_position_denominator.
 - `total = A + B + C`
 
 Method and caveats: `audit/elite_position_denominator_5y.md`.
+
+## Gating-school indices
+
+`elite_school_denominator_index_5y.csv` contains chained median indices of gating-school output divided by A, B, C, and A+B+C, 1990–2025 (1990 = 100). Method: `audit/elite_school_denominator_index.md`; chart: `assets/papers/methodology/elite-school-denominator-index.png`.
