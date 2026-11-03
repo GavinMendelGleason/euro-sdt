@@ -46,3 +46,10 @@
 - **Current output source:** ENA/INSP activity reports 2019–2025.
 - **Earlier official series found:** places offered at the entrance concours, 2006–2020, from ENA activity reports (e.g. `https://www.documentation-administrative.gouv.fr/adm-01859770v1/file/ENA_RA_2020.pdf`).
 - **Limitation:** places offered is not enrolment or graduation; no public annual output series before 2019 was located.
+
+
+## Population denominator
+
+- **Source:** World Bank, `SP.POP.TOTL`, annual population by country, 1960–2025.
+- **Construction:** sum of the member states at each date; membership timeline is recorded in `data/institutions/eu_population.csv`.
+- **Coverage:** 1960–2025 only. Pre-1960 output is not normalised.

@@ -36,3 +36,14 @@ The start dates are acquisition and publication boundaries, not the institutions
 ## Sources
 
 Detailed URLs and extraction notes: `audit/historical_series_sources.md`. Machine-readable rows: `data/institutions/historical_series.csv`.
+
+
+## Per-capita version
+
+`assets/papers/methodology/gating-trajectories-per-capita.png` divides each output series by the **EU/EC population of the member states at that date** and expresses the result per 100,000 population.
+
+- Denominator: World Bank `SP.POP.TOTL`, summed over the member states at each date.
+- Membership: EU-6 in 1960; EU-9 from 1973; EU-10 from 1981; EU-12 from 1986; EU-15 from 1995; EU-25 from 2004; EU-27 from 2007; EU-28 from 2013; EU-27 after the UK's 2020 withdrawal.
+- Vertical lines mark those accession/withdrawal dates.
+- Pre-1960 output is not plotted because the population series starts in 1960.
+- The numerator units still differ (degrees, entrants, examined candidates, enrolled students), so the per-capita lines are comparable in denominator, not in numerator definition.

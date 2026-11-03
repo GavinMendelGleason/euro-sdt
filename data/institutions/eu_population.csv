@@ -1,0 +1,67 @@
+year,population,membership,source
+1960,191381654,EU-6,World Bank SP.POP.TOTL; sum of member states at each date
+1961,192959469,EU-6,World Bank SP.POP.TOTL; sum of member states at each date
+1962,194641767,EU-6,World Bank SP.POP.TOTL; sum of member states at each date
+1963,196423756,EU-6,World Bank SP.POP.TOTL; sum of member states at each date
+1964,198228162,EU-6,World Bank SP.POP.TOTL; sum of member states at each date
+1965,200043669,EU-6,World Bank SP.POP.TOTL; sum of member states at each date
+1966,201748901,EU-6,World Bank SP.POP.TOTL; sum of member states at each date
+1967,203088814,EU-6,World Bank SP.POP.TOTL; sum of member states at each date
+1968,204327371,EU-6,World Bank SP.POP.TOTL; sum of member states at each date
+1969,205845162,EU-6,World Bank SP.POP.TOTL; sum of member states at each date
+1970,207031554,EU-6,World Bank SP.POP.TOTL; sum of member states at each date
+1971,208095965,EU-6,World Bank SP.POP.TOTL; sum of member states at each date
+1972,209418461,EU-6,World Bank SP.POP.TOTL; sum of member states at each date
+1973,274914063,EU-9,World Bank SP.POP.TOTL; sum of member states at each date
+1974,275910168,EU-9,World Bank SP.POP.TOTL; sum of member states at each date
+1975,276418605,EU-9,World Bank SP.POP.TOTL; sum of member states at each date
+1976,276763202,EU-9,World Bank SP.POP.TOTL; sum of member states at each date
+1977,277213704,EU-9,World Bank SP.POP.TOTL; sum of member states at each date
+1978,277754086,EU-9,World Bank SP.POP.TOTL; sum of member states at each date
+1979,278410960,EU-9,World Bank SP.POP.TOTL; sum of member states at each date
+1980,279219878,EU-9,World Bank SP.POP.TOTL; sum of member states at each date
+1981,289622101,EU-10,World Bank SP.POP.TOTL; sum of member states at each date
+1982,289924985,EU-10,World Bank SP.POP.TOTL; sum of member states at each date
+1983,290193270,EU-10,World Bank SP.POP.TOTL; sum of member states at each date
+1984,290425984,EU-10,World Bank SP.POP.TOTL; sum of member states at each date
+1985,290796550,EU-10,World Bank SP.POP.TOTL; sum of member states at each date
+1986,340001240,EU-12,World Bank SP.POP.TOTL; sum of member states at each date
+1987,340798611,EU-12,World Bank SP.POP.TOTL; sum of member states at each date
+1988,341813625,EU-12,World Bank SP.POP.TOTL; sum of member states at each date
+1989,343172406,EU-12,World Bank SP.POP.TOTL; sum of member states at each date
+1990,344663851,EU-12,World Bank SP.POP.TOTL; sum of member states at each date
+1991,346147911,EU-12,World Bank SP.POP.TOTL; sum of member states at each date
+1992,347709210,EU-12,World Bank SP.POP.TOTL; sum of member states at each date
+1993,349133451,EU-12,World Bank SP.POP.TOTL; sum of member states at each date
+1994,350223843,EU-12,World Bank SP.POP.TOTL; sum of member states at each date
+1995,373124720,EU-15,World Bank SP.POP.TOTL; sum of member states at each date
+1996,374185695,EU-15,World Bank SP.POP.TOTL; sum of member states at each date
+1997,375162233,EU-15,World Bank SP.POP.TOTL; sum of member states at each date
+1998,376069071,EU-15,World Bank SP.POP.TOTL; sum of member states at each date
+1999,377128652,EU-15,World Bank SP.POP.TOTL; sum of member states at each date
+2000,378446098,EU-15,World Bank SP.POP.TOTL; sum of member states at each date
+2001,380011784,EU-15,World Bank SP.POP.TOTL; sum of member states at each date
+2002,381957431,EU-15,World Bank SP.POP.TOTL; sum of member states at each date
+2003,384138154,EU-15,World Bank SP.POP.TOTL; sum of member states at each date
+2004,460707945,EU-25,World Bank SP.POP.TOTL; sum of member states at each date
+2005,462901543,EU-25,World Bank SP.POP.TOTL; sum of member states at each date
+2006,465004682,EU-25,World Bank SP.POP.TOTL; sum of member states at each date
+2007,495808249,EU-27,World Bank SP.POP.TOTL; sum of member states at each date
+2008,497768009,EU-27,World Bank SP.POP.TOTL; sum of member states at each date
+2009,499359662,EU-27,World Bank SP.POP.TOTL; sum of member states at each date
+2010,500559248,EU-27,World Bank SP.POP.TOTL; sum of member states at each date
+2011,500392266,EU-27,World Bank SP.POP.TOTL; sum of member states at each date
+2012,501520471,EU-27,World Bank SP.POP.TOTL; sum of member states at each date
+2013,506563741,EU-28,World Bank SP.POP.TOTL; sum of member states at each date
+2014,507539819,EU-28,World Bank SP.POP.TOTL; sum of member states at each date
+2015,508880218,EU-28,World Bank SP.POP.TOTL; sum of member states at each date
+2016,510282652,EU-28,World Bank SP.POP.TOTL; sum of member states at each date
+2017,511285060,EU-28,World Bank SP.POP.TOTL; sum of member states at each date
+2018,512345453,EU-28,World Bank SP.POP.TOTL; sum of member states at each date
+2019,513538453,EU-28,World Bank SP.POP.TOTL; sum of member states at each date
+2020,446870959,EU-27 (post-Brexit),World Bank SP.POP.TOTL; sum of member states at each date
+2021,446228281,EU-27 (post-Brexit),World Bank SP.POP.TOTL; sum of member states at each date
+2022,447203596,EU-27 (post-Brexit),World Bank SP.POP.TOTL; sum of member states at each date
+2023,448897545,EU-27 (post-Brexit),World Bank SP.POP.TOTL; sum of member states at each date
+2024,450228188,EU-27 (post-Brexit),World Bank SP.POP.TOTL; sum of member states at each date
+2025,451127411,EU-27 (post-Brexit),World Bank SP.POP.TOTL; sum of member states at each date
