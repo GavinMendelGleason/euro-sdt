@@ -107,16 +107,6 @@ Wikipedia biographies supplied broad initial coverage, but a substantial minorit
 
 Fifteen people remain without a source: seven CJEU judges, one advocate general, four MEPs, and three corporate elites. In most cases the institution publishes no CV or biography for the person, or the page is unavailable to automated retrieval; one corporate case is a duplicate entity under two name forms. These are recorded as missing evidence, not as negative findings.
 
-\subsection{Failure Modes}
-
-\subsubsection{The Short-Extract Problem}
-
-Our initial v1 extraction runs used Wikipedia API extracts of 300--400 characters. The LLM hallucinated freely: it returned the commissioner's own name as an educational institution and produced generic names such as ``aeronautical engineer''. Re-scraping the same biographies as full texts produced clean extractions with specific institutions. The lesson is that the input, not the model's capability, was the immediate cause. The v2 corpus therefore stores full texts and sentence offsets, and rejects claims whose quotes cannot be located.
-
-\subsubsection{Non-Deterministic Extraction}
-
-Identical prompts can produce different candidate sets. V2 treats extraction output as a candidate pool rather than a finding: manifests and caches are versioned, each run records its model and parameters, and the assertion layer is rebuilt from the located evidence. This makes a rerun auditable even when the candidate set changes.
-
 \subsection{Entity Resolution and the Limits of String Similarity}
 
 Extraction produces organisation names as they appear in source texts: ``Radio Netherlands'', ``Radio Netherlands Worldwide'', ``FEPS'', ``Foundation for European Progressive Studies''. String similarity alone is dangerous: ``CFR'' and ``ECFR'' score 0.857 on difflib, yet one is the US Council on Foreign Relations and the other the European Council on Foreign Relations. Pure auto-merge below 0.95 would collapse them.
