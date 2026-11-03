@@ -153,19 +153,7 @@ Degree-1 nodes & 2,670 & 2,355 & 2,116 \\
 The stricter grade-A view retains most edges (3,211 of 3,850) but fewer nodes (2,842 of 3,226); the network-only view retains 2,837 edges. The central network claims should therefore be read as stable in direction under these filters, not as numerically identical.
 
 
-\begin{figure}[htbp]
-\centering
-\includegraphics[width=0.48\textwidth]{graph-view-1.png}
-\caption{Verified elite network (network edges, grades A--B; top nodes by degree). Commissioners are blue, DGs are orange, corporate elites are red, CJEU members are purple, and organisations are grey. MEPs are excluded from the graph.}
-\label{fig:graph1}
-\end{figure}
-
-\begin{figure}[htbp]
-\centering
-\includegraphics[width=0.48\textwidth]{graph-view-2.png}
-\caption{The same export restricted to grade-A edges. This is a descriptive stricter view, not a numerical sensitivity test.}
-\label{fig:graph2}
-\end{figure}
+The network rendering is not reproduced here: at 3,226 nodes it is unreadable at page scale. The typed export and the numerical sensitivity table are the analysis record; the wiki remains the browsing view.
 
 The review layer is explicit. Assertions that the deterministic checks cannot settle are marked \texttt{needs\_review}; grade-C claims are rechecked by a second model, and disagreements are not silently promoted. In the audited release, 235 assertions remain under review; they are not counted as verified. The queue is exported as a priority-scored table, but the audited database contains no completed human-review rows: the queue describes work still to be done, not a completed validation exercise. Model agreement is an acceptance rule, not independent evidence of correctness. The run metadata in the audited database identifies the extraction and adjudication model as \texttt{deepseek-chat}; the second-judge rechecks use \texttt{deepseek-flash} with thinking enabled. Prompts and cache keys are implementation artifacts. A ten-case recheck of grade-A claims retained eight and sent two to review (a governing-board versus academy member confusion and a founder relation not stated in the quote). This is a failure-mode sample, not a precision estimate, and no independent human validation was completed.
 
