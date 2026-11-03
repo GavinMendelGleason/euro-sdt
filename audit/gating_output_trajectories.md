@@ -1,6 +1,6 @@
 # Gating-institution output trajectories
 
-The relevant temporal object is the institution's output of qualified people, not its applicants. The series below are not a common measure: each panel uses the institution's own reported series.
+The relevant temporal object is the institution's output of qualified people, not its applicants. The series below are not a common measure: each panel uses the institution's own reported series. A single indexed overlay is at `assets/papers/methodology/gating-trajectories-overlay.png`; each line is set to 100 at its first observation and plotted on a log scale.
 
 | Institution | Series | Years | Metric | Trajectory |
 |---|---|---|---|---|
