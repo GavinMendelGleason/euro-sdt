@@ -2,6 +2,7 @@
 """Build the catalogue of institution time series."""
 from __future__ import annotations
 import csv, re, sqlite3
+from collections import defaultdict
 from pathlib import Path
 
 METRICS = ['applicants', 'admitted', 'enrolled', 'graduates']
@@ -37,6 +38,22 @@ def main():
                 'source_urls': '; '.join(sources),
                 'notes': obs[0]['notes'] or '',
             })
+    # Degree/qualifier CSV series
+    degree_rows=list(csv.DictReader(open('data/institutions/degrees_awarded.csv')))
+    degree_groups=defaultdict(list)
+    for r in degree_rows:
+        degree_groups[(r['institution_id'],r['programme'],r['metric'])].append(r)
+    for (iid,prog,metric),rr in sorted(degree_groups.items()):
+        years=[int(x['year']) for x in rr]
+        rows.append({
+            'series_id':f"{iid}::{re.sub(r'[^a-z0-9]+','-',prog.lower()).strip('-')}::{re.sub(r'[^a-z0-9]+','-',metric.lower()).strip('-')}",
+            'institution_id':iid,'programme':prog,'metric':metric,
+            'first_year':min(years),'last_year':max(years),'n_obs':len(rr),
+            'has_gaps':'yes' if max(years)-min(years)+1>len(rr) else 'no',
+            'storage':'data/institutions/degrees_awarded.csv','chart':'',
+            'source_urls':'; '.join(sorted({x['source_url'] for x in rr if x['source_url']})),
+            'notes':'Degree/qualifier series; see audit/degrees_awarded_sources.md'
+        })
     # CSV-only series
     places=list(csv.DictReader(open('data/institutions/ena_places_offered.csv')))
     rows.append({

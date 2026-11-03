@@ -1,0 +1,109 @@
+institution_id,programme,year,degrees,metric,source_url,notes
+harvard,LL.M.,1983,95,LL.M. degrees conferred,https://educationdata.urban.org/api/v1/college-university/ipeds/completions-cip-6/1985/?unitid=166027&cipcode_6digit=220101&race=99&sex=99,Harvard/IPEDS; observed
+harvard,LL.M.,1984,128,LL.M. degrees conferred,https://educationdata.urban.org/api/v1/college-university/ipeds/completions-cip-6/1985/?unitid=166027&cipcode_6digit=220101&race=99&sex=99,Harvard/IPEDS; observed
+harvard,LL.M.,1985,110,LL.M. degrees conferred,https://educationdata.urban.org/api/v1/college-university/ipeds/completions-cip-6/1985/?unitid=166027&cipcode_6digit=220101&race=99&sex=99,Harvard/IPEDS; observed
+harvard,LL.M.,1986,105,LL.M. degrees conferred,https://educationdata.urban.org/api/v1/college-university/ipeds/completions-cip-6/1985/?unitid=166027&cipcode_6digit=220101&race=99&sex=99,Harvard/IPEDS; observed
+harvard,LL.M.,1987,95,LL.M. degrees conferred,https://educationdata.urban.org/api/v1/college-university/ipeds/completions-cip-6/1985/?unitid=166027&cipcode_6digit=220101&race=99&sex=99,Harvard/IPEDS; observed
+harvard,LL.M.,1988,122,LL.M. degrees conferred,https://educationdata.urban.org/api/v1/college-university/ipeds/completions-cip-6/1985/?unitid=166027&cipcode_6digit=220101&race=99&sex=99,Harvard/IPEDS; observed
+harvard,LL.M.,1989,125,LL.M. degrees conferred,https://educationdata.urban.org/api/v1/college-university/ipeds/completions-cip-6/1985/?unitid=166027&cipcode_6digit=220101&race=99&sex=99,Harvard/IPEDS; observed
+harvard,LL.M.,1990,134,LL.M. degrees conferred,https://web.archive.org/web/20020320082926/http://vpf-web.harvard.edu/factbook/96-97/page11.htm,Harvard/IPEDS; observed
+harvard,LL.M.,1991,140,LL.M. degrees conferred,https://web.archive.org/web/20020320082926/http://vpf-web.harvard.edu/factbook/96-97/page11.htm,Harvard/IPEDS; observed
+harvard,LL.M.,1992,133,LL.M. degrees conferred,https://web.archive.org/web/20020320082926/http://vpf-web.harvard.edu/factbook/96-97/page11.htm,Harvard/IPEDS; observed
+harvard,LL.M.,1993,125,LL.M. degrees conferred,https://web.archive.org/web/20020320082926/http://vpf-web.harvard.edu/factbook/96-97/page11.htm,Harvard/IPEDS; observed
+harvard,LL.M.,1994,145,LL.M. degrees conferred,https://web.archive.org/web/20020320082926/http://vpf-web.harvard.edu/factbook/96-97/page11.htm,Harvard/IPEDS; observed
+harvard,LL.M.,1995,146,LL.M. degrees conferred,https://web.archive.org/web/20020320082926/http://vpf-web.harvard.edu/factbook/96-97/page11.htm,Harvard/IPEDS; observed
+harvard,LL.M.,1996,146,LL.M. degrees conferred,https://oira.harvard.edu/files/2023/02/harvard_fact_book_2002-2003.pdf,Harvard/IPEDS; observed
+harvard,LL.M.,1997,135,LL.M. degrees conferred,https://oira.harvard.edu/files/2023/02/harvard_fact_book_2002-2003.pdf,Harvard/IPEDS; observed
+harvard,LL.M.,1998,158,LL.M. degrees conferred,https://oira.harvard.edu/files/2023/02/harvard_fact_book_2002-2003.pdf,Harvard/IPEDS; observed
+harvard,LL.M.,1999,134,LL.M. degrees conferred,https://oira.harvard.edu/files/2023/02/harvard_fact_book_2002-2003.pdf,Harvard/IPEDS; observed
+harvard,LL.M.,2000,130,LL.M. degrees conferred,https://oira.harvard.edu/files/2023/02/harvard_fact_book_2002-2003.pdf,Harvard/IPEDS; observed
+harvard,LL.M.,2001,144,LL.M. degrees conferred,https://oira.harvard.edu/files/2023/02/harvard_fact_book_2002-2003.pdf,Harvard/IPEDS; observed
+harvard,LL.M.,2002,130,LL.M. degrees conferred,https://oira.harvard.edu/files/2023/02/harvard_fact_book_2007-2008.pdf,Harvard/IPEDS; observed
+harvard,LL.M.,2003,157,LL.M. degrees conferred,https://oira.harvard.edu/files/2023/02/harvard_fact_book_2007-2008.pdf,Harvard/IPEDS; observed
+harvard,LL.M.,2004,161,LL.M. degrees conferred,https://oira.harvard.edu/files/2023/02/harvard_fact_book_2007-2008.pdf,Harvard/IPEDS; observed
+harvard,LL.M.,2005,159,LL.M. degrees conferred,https://oira.harvard.edu/files/2023/02/harvard_fact_book_2007-2008.pdf,Harvard/IPEDS; observed
+harvard,LL.M.,2006,154,LL.M. degrees conferred,https://oira.harvard.edu/files/2023/02/harvard_fact_book_2007-2008.pdf,Harvard/IPEDS; observed
+harvard,LL.M.,2007,168,LL.M. degrees conferred,https://oira.harvard.edu/files/2023/02/harvard_fact_book_2011-12_final.pdf,Harvard/IPEDS; observed
+harvard,LL.M.,2008,151,LL.M. degrees conferred,https://oira.harvard.edu/files/2023/02/harvard_fact_book_2011-12_final.pdf,Harvard/IPEDS; observed
+harvard,LL.M.,2009,160,LL.M. degrees conferred,https://oira.harvard.edu/files/2025/11/Factbook_2016_2017.pdf,Harvard/IPEDS; observed
+harvard,LL.M.,2010,175,LL.M. degrees conferred,https://oira.harvard.edu/files/2025/11/Factbook_2016_2017.pdf,Harvard/IPEDS; observed
+harvard,LL.M.,2011,172,LL.M. degrees conferred,https://oira.harvard.edu/files/2025/11/Factbook_2016_2017.pdf,Harvard/IPEDS; observed
+harvard,LL.M.,2012,167,LL.M. degrees conferred,https://oira.harvard.edu/files/2025/11/Factbook_2016_2017.pdf,Harvard/IPEDS; observed
+harvard,LL.M.,2013,178,LL.M. degrees conferred,https://oira.harvard.edu/files/2025/11/Factbook_2016_2017.pdf,Harvard/IPEDS; observed
+harvard,LL.M.,2014,163,LL.M. degrees conferred,https://oira.harvard.edu/files/2025/11/Factbook_2016_2017.pdf,Harvard/IPEDS; observed
+harvard,LL.M.,2015,172,LL.M. degrees conferred,https://oira.harvard.edu/files/2025/11/Factbook_2016_2017.pdf,Harvard/IPEDS; observed
+harvard,LL.M.,2016,175,LL.M. degrees conferred,https://oira.harvard.edu/factbook/fact-book-degrees,Harvard/IPEDS; observed
+harvard,LL.M.,2017,172,LL.M. degrees conferred,https://oira.harvard.edu/factbook/fact-book-degrees,Harvard/IPEDS; observed
+harvard,LL.M.,2018,190,LL.M. degrees conferred,https://oira.harvard.edu/factbook/fact-book-degrees,Harvard/IPEDS; observed
+harvard,LL.M.,2019,178,LL.M. degrees conferred,https://hls.harvard.edu/today/welcoming-new-students,Harvard/IPEDS; observed
+harvard,LL.M.,2020,59,LL.M. degrees conferred,https://oira.harvard.edu/factbook/fact-book-degrees,Harvard/IPEDS; observed
+harvard,LL.M.,2021,209,LL.M. degrees conferred,https://hls.harvard.edu/today/a-new-academic-year-begins-one-step-at-a-time,Harvard/IPEDS; observed
+harvard,LL.M.,2022,179,LL.M. degrees conferred,https://web.archive.org/web/20220925215214/https://hls.harvard.edu/graduate-program/ll-m-program/llm-class-profile/,Harvard/IPEDS; observed
+harvard,LL.M.,2023,171,LL.M. degrees conferred,https://web.archive.org/web/20230911163520/https://hls.harvard.edu/graduate-program/ll-m-program/llm-class-profile/,Harvard/IPEDS; observed
+harvard,LL.M.,2024,175,LL.M. degrees conferred,https://web.archive.org/web/20240909232352/https://hls.harvard.edu/graduate-program/ll-m-program/llm-class-profile/,Harvard/IPEDS; observed
+bocconi,Law (Giuridico / LMG/01),2003,67,law degrees conferred,https://dati-ustat.mur.gov.it/dataset/laureati,USTAT; 2004 reform break
+bocconi,Law (Giuridico / LMG/01),2004,254,law degrees conferred,https://dati-ustat.mur.gov.it/dataset/laureati,USTAT; 2004 reform break
+bocconi,Law (Giuridico / LMG/01),2005,262,law degrees conferred,https://dati-ustat.mur.gov.it/dataset/laureati,USTAT; 2004 reform break
+bocconi,Law (Giuridico / LMG/01),2006,320,law degrees conferred,https://dati-ustat.mur.gov.it/dataset/laureati,USTAT; 2004 reform break
+bocconi,Law (Giuridico / LMG/01),2007,417,law degrees conferred,https://dati-ustat.mur.gov.it/dataset/laureati,USTAT; 2004 reform break
+bocconi,Law (Giuridico / LMG/01),2008,431,law degrees conferred,https://dati-ustat.mur.gov.it/dataset/laureati,USTAT; 2004 reform break
+bocconi,Law (Giuridico / LMG/01),2009,233,law degrees conferred,https://dati-ustat.mur.gov.it/dataset/laureati,USTAT; 2004 reform break
+bocconi,Law (Giuridico / LMG/01),2010,213,law degrees conferred,https://dati-ustat.mur.gov.it/dataset/laureati,USTAT; 2004 reform break
+bocconi,Law (Giuridico / LMG/01),2011,205,law degrees conferred,https://dati-ustat.mur.gov.it/dataset/laureati,USTAT; 2004 reform break
+bocconi,Law (Giuridico / LMG/01),2012,242,law degrees conferred,https://dati-ustat.mur.gov.it/dataset/laureati,USTAT; 2004 reform break
+bocconi,Law (Giuridico / LMG/01),2013,261,law degrees conferred,https://dati-ustat.mur.gov.it/dataset/laureati,USTAT; 2004 reform break
+bocconi,Law (Giuridico / LMG/01),2014,243,law degrees conferred,https://dati-ustat.mur.gov.it/dataset/laureati,USTAT; 2004 reform break
+bocconi,Law (Giuridico / LMG/01),2015,225,law degrees conferred,https://dati-ustat.mur.gov.it/dataset/laureati,USTAT; 2004 reform break
+bocconi,Law (Giuridico / LMG/01),2016,297,law degrees conferred,https://dati-ustat.mur.gov.it/dataset/laureati,USTAT; 2004 reform break
+bocconi,Law (Giuridico / LMG/01),2017,253,law degrees conferred,https://dati-ustat.mur.gov.it/dataset/laureati,USTAT; 2004 reform break
+bocconi,Law (Giuridico / LMG/01),2018,259,law degrees conferred,https://dati-ustat.mur.gov.it/dataset/laureati,USTAT; 2004 reform break
+bocconi,Law (Giuridico / LMG/01),2019,286,law degrees conferred,https://dati-ustat.mur.gov.it/dataset/laureati,USTAT; 2004 reform break
+bocconi,Law (Giuridico / LMG/01),2020,243,law degrees conferred,https://dati-ustat.mur.gov.it/dataset/laureati,USTAT; 2004 reform break
+bocconi,Law (Giuridico / LMG/01),2021,285,law degrees conferred,https://dati-ustat.mur.gov.it/dataset/laureati,USTAT; 2004 reform break
+bocconi,Law (Giuridico / LMG/01),2022,275,law degrees conferred,https://dati-ustat.mur.gov.it/dataset/laureati,USTAT; 2004 reform break
+bocconi,Law (Giuridico / LMG/01),2023,257,law degrees conferred,https://dati-ustat.mur.gov.it/dataset/laureati,USTAT; 2004 reform break
+bocconi,Law (Giuridico / LMG/01),2024,259,law degrees conferred,https://dati-ustat.mur.gov.it/dataset/laureati,USTAT; 2004 reform break
+bocconi,Law (Giuridico / LMG/01),2025,261,law degrees conferred,https://dati-ustat.mur.gov.it/dataset/laureati,USTAT; 2004 reform break
+luiss,Law (Giuridico / LMG/01),2001,310,law degrees conferred,https://dati-ustat.mur.gov.it/dataset/laureati,USTAT; 2004 reform break
+luiss,Law (Giuridico / LMG/01),2002,312,law degrees conferred,https://dati-ustat.mur.gov.it/dataset/laureati,USTAT; 2004 reform break
+luiss,Law (Giuridico / LMG/01),2003,329,law degrees conferred,https://dati-ustat.mur.gov.it/dataset/laureati,USTAT; 2004 reform break
+luiss,Law (Giuridico / LMG/01),2004,510,law degrees conferred,https://dati-ustat.mur.gov.it/dataset/laureati,USTAT; 2004 reform break
+luiss,Law (Giuridico / LMG/01),2005,652,law degrees conferred,https://dati-ustat.mur.gov.it/dataset/laureati,USTAT; 2004 reform break
+luiss,Law (Giuridico / LMG/01),2006,457,law degrees conferred,https://dati-ustat.mur.gov.it/dataset/laureati,USTAT; 2004 reform break
+luiss,Law (Giuridico / LMG/01),2007,305,law degrees conferred,https://dati-ustat.mur.gov.it/dataset/laureati,USTAT; 2004 reform break
+luiss,Law (Giuridico / LMG/01),2008,435,law degrees conferred,https://dati-ustat.mur.gov.it/dataset/laureati,USTAT; 2004 reform break
+luiss,Law (Giuridico / LMG/01),2009,415,law degrees conferred,https://dati-ustat.mur.gov.it/dataset/laureati,USTAT; 2004 reform break
+luiss,Law (Giuridico / LMG/01),2010,445,law degrees conferred,https://dati-ustat.mur.gov.it/dataset/laureati,USTAT; 2004 reform break
+luiss,Law (Giuridico / LMG/01),2011,457,law degrees conferred,https://dati-ustat.mur.gov.it/dataset/laureati,USTAT; 2004 reform break
+luiss,Law (Giuridico / LMG/01),2012,471,law degrees conferred,https://dati-ustat.mur.gov.it/dataset/laureati,USTAT; 2004 reform break
+luiss,Law (Giuridico / LMG/01),2013,476,law degrees conferred,https://dati-ustat.mur.gov.it/dataset/laureati,USTAT; 2004 reform break
+luiss,Law (Giuridico / LMG/01),2014,538,law degrees conferred,https://dati-ustat.mur.gov.it/dataset/laureati,USTAT; 2004 reform break
+luiss,Law (Giuridico / LMG/01),2015,495,law degrees conferred,https://dati-ustat.mur.gov.it/dataset/laureati,USTAT; 2004 reform break
+luiss,Law (Giuridico / LMG/01),2016,507,law degrees conferred,https://dati-ustat.mur.gov.it/dataset/laureati,USTAT; 2004 reform break
+luiss,Law (Giuridico / LMG/01),2017,466,law degrees conferred,https://dati-ustat.mur.gov.it/dataset/laureati,USTAT; 2004 reform break
+luiss,Law (Giuridico / LMG/01),2018,472,law degrees conferred,https://dati-ustat.mur.gov.it/dataset/laureati,USTAT; 2004 reform break
+luiss,Law (Giuridico / LMG/01),2019,440,law degrees conferred,https://dati-ustat.mur.gov.it/dataset/laureati,USTAT; 2004 reform break
+luiss,Law (Giuridico / LMG/01),2020,495,law degrees conferred,https://dati-ustat.mur.gov.it/dataset/laureati,USTAT; 2004 reform break
+luiss,Law (Giuridico / LMG/01),2021,538,law degrees conferred,https://dati-ustat.mur.gov.it/dataset/laureati,USTAT; 2004 reform break
+luiss,Law (Giuridico / LMG/01),2022,511,law degrees conferred,https://dati-ustat.mur.gov.it/dataset/laureati,USTAT; 2004 reform break
+luiss,Law (Giuridico / LMG/01),2023,502,law degrees conferred,https://dati-ustat.mur.gov.it/dataset/laureati,USTAT; 2004 reform break
+luiss,Law (Giuridico / LMG/01),2024,447,law degrees conferred,https://dati-ustat.mur.gov.it/dataset/laureati,USTAT; 2004 reform break
+luiss,Law (Giuridico / LMG/01),2025,487,law degrees conferred,https://dati-ustat.mur.gov.it/dataset/laureati,USTAT; 2004 reform break
+university-of-oxford,All qualifications,2014,7810,HE qualifiers (all levels),https://cdn.hesa.ac.uk/open-data/ODSTU2021-22/table-16.csv,HESA Table 16; institution-wide; rounded to 5
+university-of-oxford,All qualifications,2015,7795,HE qualifiers (all levels),https://cdn.hesa.ac.uk/open-data/ODSTU2021-22/table-16.csv,HESA Table 16; institution-wide; rounded to 5
+university-of-oxford,All qualifications,2016,8170,HE qualifiers (all levels),https://cdn.hesa.ac.uk/open-data/ODSTU2021-22/table-16.csv,HESA Table 16; institution-wide; rounded to 5
+university-of-oxford,All qualifications,2017,8455,HE qualifiers (all levels),https://cdn.hesa.ac.uk/open-data/ODSTU2021-22/table-16.csv,HESA Table 16; institution-wide; rounded to 5
+university-of-oxford,All qualifications,2018,8540,HE qualifiers (all levels),https://cdn.hesa.ac.uk/open-data/ODSTU2021-22/table-16.csv,HESA Table 16; institution-wide; rounded to 5
+university-of-oxford,All qualifications,2019,8395,HE qualifiers (all levels),https://cdn.hesa.ac.uk/open-data/ODSTU2021-22/table-16.csv,HESA Table 16; institution-wide; rounded to 5
+university-of-oxford,All qualifications,2020,8740,HE qualifiers (all levels),https://cdn.hesa.ac.uk/open-data/ODSTU2021-22/table-16.csv,HESA Table 16; institution-wide; rounded to 5
+university-of-oxford,All qualifications,2021,8945,HE qualifiers (all levels),https://cdn.hesa.ac.uk/open-data/ODSTU2021-22/table-16.csv,HESA Table 16; institution-wide; rounded to 5
+london-school-of-economics,All qualifications,2014,5885,HE qualifiers (all levels),https://cdn.hesa.ac.uk/open-data/ODSTU2021-22/table-16.csv,HESA Table 16; institution-wide; rounded to 5
+london-school-of-economics,All qualifications,2015,5980,HE qualifiers (all levels),https://cdn.hesa.ac.uk/open-data/ODSTU2021-22/table-16.csv,HESA Table 16; institution-wide; rounded to 5
+london-school-of-economics,All qualifications,2016,6105,HE qualifiers (all levels),https://cdn.hesa.ac.uk/open-data/ODSTU2021-22/table-16.csv,HESA Table 16; institution-wide; rounded to 5
+london-school-of-economics,All qualifications,2017,6420,HE qualifiers (all levels),https://cdn.hesa.ac.uk/open-data/ODSTU2021-22/table-16.csv,HESA Table 16; institution-wide; rounded to 5
+london-school-of-economics,All qualifications,2018,6805,HE qualifiers (all levels),https://cdn.hesa.ac.uk/open-data/ODSTU2021-22/table-16.csv,HESA Table 16; institution-wide; rounded to 5
+london-school-of-economics,All qualifications,2019,6775,HE qualifiers (all levels),https://cdn.hesa.ac.uk/open-data/ODSTU2021-22/table-16.csv,HESA Table 16; institution-wide; rounded to 5
+london-school-of-economics,All qualifications,2020,6985,HE qualifiers (all levels),https://cdn.hesa.ac.uk/open-data/ODSTU2021-22/table-16.csv,HESA Table 16; institution-wide; rounded to 5
+london-school-of-economics,All qualifications,2021,7550,HE qualifiers (all levels),https://cdn.hesa.ac.uk/open-data/ODSTU2021-22/table-16.csv,HESA Table 16; institution-wide; rounded to 5
+ecole-polytechnique,Engineering degree (titre ingénieur),1995,437,degrees conferred,https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000371409,JO degree list; observed point only
+ecole-polytechnique,Engineering degree (titre ingénieur),2024,510,degrees conferred,https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051021071,JO degree list; observed point only

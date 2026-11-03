@@ -35,6 +35,7 @@ The index is generated from the database plus the two CSV-only series:
 | `eu_population.csv` | EU/EC member-state population by year, 1960–2025. |
 | `eu_member_population_wb.json` | World Bank country population cache used to construct `eu_population.csv`. |
 | `time_series_index.csv` | Catalogue of all series and their coverage. |
+| `degrees_awarded.csv` | Observed degree/qualifier series; metrics are not interchangeable. |
 
 ## Coverage caveats
 
