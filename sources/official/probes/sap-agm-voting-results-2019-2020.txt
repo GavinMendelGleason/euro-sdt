@@ -1,0 +1,1587 @@
+
+Voting on Resolutions | Annual General Meetings
+ (function(){
+ window.SAP = window.SAP || {};
+ SAP.DTM = SAP.DTM || {};
+ SAP.DTM.pageComponents = ["sapdx/components/modular/heroes/heroSpaceProductCategory","sapdx/components/corporate/tableAdvancedStandard","sapdx/components/page/contentpages/corporateStandardPage","sapdx/components/modular/nav/headerStandard","nt:unstructured","sapdx/components/modular/inpageTabs","sapdx/components/modular/nav/footer","sapdx/components/modular/container/section","sapdx/components/modular/heroes/heroSpaceProductCategory/promo","sapdx/components/modular/inpageTabs/item","foundation/components/iparsys/par","foundation/components/parsys","sapdx/components/modular/countrySelector","foundation/components/iparsys","sapdx/components/page/contentpages/homePageStandard"];
+ SAP.DTM.runMode = "prod";
+ })();
+Javascript must be enabled for the correct page display
+Skip to Content
+Investor Relations
+Home
+Capital Markets Story
+Publications
+Calendar
+Stock
+News
+Governance
+Fixed Income
+Services
+Language
+Capital Markets Story
+Overview
+Overview
+Recent Results
+Outlook & Ambition
+Acquisitions
+SAP Investor Magazine
+Publications
+Overview
+Financial Reports
+Presentations
+Reporting Framework
+Calendar
+Overview
+Upcoming Events
+Past Events
+Annual General Meeting
+Stock
+Overview
+SAP Stock Performance
+Dividends & Share Buyback
+Basic Data
+ADR Program
+Analyst Coverage
+Share Price History
+News
+Overview
+Financial News
+Ad hoc News
+Governance
+Overview
+Policies and Statutes
+Executive Board
+Supervisory Board
+Managers´ Transactions
+Fixed Income
+Overview
+Rating and Outstanding Debt
+Credit Profile
+Services
+Overview
+Team
+Services
+FAQ
+Language
+Search
+Clear
+Search
+Menu
+Search
+Search
+Clear
+Search
+Close
+Language
+ {{#each this}}
+ <li class="language-selector__list-item {{#if isActiveLanguage}}active{{/if}}">
+ <a class="language-selector__list-link" href="{{languageCodeUrlMapping}}" target="_self">{{siteLanguageName}}</a>
+ </li>
+ {{/each}}
+ {{#each this}}
+ <li class="dropdown__nav-block {{#if isActiveLanguage}}active{{/if}}">
+ <p class="nav-block__title">
+ <a class="dropdown__link" href="{{languageCodeUrlMapping}}" target="_self">{{siteLanguageName}}</a>
+ </p>
+ </li>
+ {{/each}}
+Contact Us
+Contact Us
+Investor Relations Hotline
++49 6227 76 73 36 
+ during office hours CET
+Service Request
+ If you would like to register for an information service, get in contact with one of the team members, or if you have dedicated questions.
+Investor Relations
+Calendar
+Upcoming Events
+Past Events
+Annual General Meeting
+Upcoming Events
+Past Events
+Annual General Meeting
+Q2 and Half-Year 2020Financial Results
+ July 27, 2020SAP senior management hosted a financial analyst conference call to explain and discuss the results.
+Webcast Replay
+Results in detail
+SAP Announces Intent to Take Qualtrics Public
+SAP today announced its intent to take Qualtrics public through an initial public offering (IPO) in the United States.
+Read the press release
+Voting on Resolutions
+General Meeting of Shareholders
+2020
+2019
+2018
+2017
+2016
+2015
+2014 - 2010
+Item
+Shares for which valid votes were cast
+For
+Against
+2
+Resolution on the appropriation of the retained earnings of fiscal year 2019
+894,784,575
+(72.84 % of capital stock)
+886,603,448
+(99.09 % )
+8,181,127
+(0.91 % )
+3
+Resolution on the formal approval of the acts of the Executive Board in fiscal year 2019
+890,145,930
+(72.46 % of capital stock)
+874,241,786
+(98.21 % )
+15,904,144
+(1.79 % )
+4
+Resolution on the formal approval of the acts of the Supervisory Board in fiscal year 2019
+790,587,555
+(64.35 % of capital stock)
+746,157,299
+(94.38 % )
+44,430,256
+(5.62 % )
+5
+Appointment of the auditors of the annual financial statements and group annual financial statements for fiscal year 2020
+894,675,690
+(72.83 % of capital stock)
+861,413,990
+(96.28 % )
+33,261,700
+(3.72 % )
+6
+Resolutions on the creation of new Authorized Capital I and II and on the corresponding amendment of Section 4 (5) and (6) of the Articles of Incorporation
+a)
+Resolution on the creation of new Authorized Capital I for the issuance of shares against contributions in cash, with the option to exclude the shareholders' subscription rights (in respect of fractional shares only), and on the corresponding amendment of Section 4 (5) of the Articles of Incorporation
+893,915,466
+(72.76 % of capital stock)
+859,214,906
+(96.12 % )
+34,700,560
+(3.88 % )
+b)
+Resolution on the creation of new Authorized Capital II for the issuance of shares against contributions in cash or in kind, with the option to exclude the shareholders' subscription rights, and on the corresponding amendment of Section 4 (6) of the Articles of Incorporation
+875,317,582
+(71.25 % of capital stock)
+819,476,373
+(93.62 % )
+55,841,209
+(6.38 % )
+7
+Resolution on the approval of the compensation system for the Executive Board members
+878,195,938
+(71.48 % of capital stock)
+688,638,836
+(78.42 % )
+189,557,102
+(21.58 % )
+8
+Resolution on the confirmation of the compensation of the Supervisory Board members
+894,587,796
+(72.82 % of capital stock)
+886,894,062
+(99.14 % )
+7,693,734
+(0.86 % )
+Enlarge
+View table
+Item
+Shares for which valid votes were cast
+For
+Against
+Abstentions
+2
+Resolution on the appropriation of the retained earnings of fiscal year 2018 - adopted
+880,250,059
+(71.65 % of capital stock)
+878,734,977
+(99.83 %)
+1,515,082
+(0.17 %)
+408,347
+3
+Resolution on the formal approval of the acts of the Executive Board in fiscal year 2018 - adopted
+867,916,309
+(70.65 % of capital stock)
+862,299,193
+(99.35 %)
+5,617,116
+(0.65 %)
+12,742,097
+4
+Resolution on the formal approval of the acts of the Supervisory Board in fiscal year 2018 - adopted
+793,597,051
+(64.60 % of capital stock)
+786,666,465
+(99.13 %)
+6,930,586
+(0.87 %)
+12,726,545
+5
+Appointment of the auditors of the annual financial statements and group annual financial statements for fiscal year 2019 - adopted
+880,201,822
+(71.65 % of capital stock)
+862,805,390
+(98.02 %)
+17,396,432
+(1.98 %)
+456,584
+6a
+Election of Prof Dr h. c. mult. Hasso Plattner to the Supervisory Board - adopted
+865,996,310
+(70.49 % of capital stock)
+803,889,657
+(92.83 %)
+62,106,653
+(7.17 %)
+14,662,096
+6b
+Election of Dr h. c. mult. Pekka Ala-Pietilä to the Supervisory Board - adopted
+879,769,023
+(71.61% of capital stock)
+697,053,378
+(79.23 %)
+182,715,645
+(20.77 %)
+888,623
+6c
+Election of Aicha Evans to the Supervisory Board - adopted
+843,771,666
+(68.68 % of capital stock)
+771,761,759
+(91.47 %)
+72,009,907
+(8.53 %)
+36,886,714
+6d
+Election of Diane Greene to the Supervisory Board - adopted
+838,495,160
+(68.25 % of capital stock)
+792,266,501
+(94.49 %)
+46,228,659
+(5.51 %)
+42,163,246
+6e
+Election of Prof Dr Gesche Joost to the Supervisory Board - adopted
+875,591,708
+(71.27 % of capital stock)
+867,793,241
+(99.11 %)
+7,798,467
+(0.89 %)
+5,066,698
+6f
+Election of Bernard Liautaud to the Supervisory Board - adopted
+879,949,864
+(71.63 % of capital stock)
+818,322,752
+(93.00 %)
+61,627,112
+(7.00 %)
+708,542
+6g
+Election of Gerhard Oswald to the Supervisory Board - adopted
+879,608,423
+(71.60 % of capital stock)
+816,349,234
+(92.81 %)
+63,259,189
+(7.19 %)
+1,049,983
+6h
+Election of Dr Friederike Rotsch to the Supervisory Board - adopted
+879,723,471
+(71.61 % of capital stock)
+862,202,740
+(98.01 %)
+17,520,731
+(1.99 %)
+934,909
+6i
+Election of Dr Gunnar Wiedenfels to the Supervisory Board - adopted
+880,036,736
+(71.63 % of capital stock)
+876,328,813
+(99.58 %)
+3,707,923
+(0.42 %)
+621,670
+Enlarge
+View table
+Item
+Shares for which valid votes were cast
+For
+Against
+Abstentions
+2
+Resolution on the appropriation of the retained earnings of fiscal year 2017 - adopted
+883,547,847
+(71.92% of capital stock)
+882,762,084
+(99.91%)
+785,763
+(0.09%)
+1,619,784
+3
+Resolution on the formal approval of the acts of the Executive Board in fiscal year 2017 - adopted
+873,454,063
+(71.10% of capital stock)
+865,663,714
+(99.11%)
+7,790,349
+(0.89%)
+11,713,608
+4
+Resolution on the formal approval of the acts of the Supervisory Board in fiscal year 2017 - adopted
+801,530,548
+(65.24% of capital stock)
+790,481,193
+(98.62%)
+11,049,355
+(1.38%)
+4,129,744
+5
+Resolution on the approval of the system of
+Executive Board compensation - adopted
+862,442,249
+(70.20% of capital stock)
+776,647,700
+(90.05%)
+85,794,549
+(9.95%)
+22,724,322
+6
+Appointment of the auditors of the annual financial statementsand group annual financial statements for fiscal year 2018 - adopted
+882,954,976
+(71.87% of capital stock)
+853,349,655
+(96.65%)
+29,605,321
+(3.35%)
+2,212,695
+7a
+Election of Aicha Evans to the Supervisory Board - adopted
+883,691,787
+(71.93% of capital stock)
+878,875,243
+(99.45%)
+4,816,544
+(0.55%)
+1,475,841
+7b
+Election of  Dr. Friederike Rotsch to the Supervisory Board - adopted
+883,688,818
+(71.93% of capital stock)
+879,637,715
+(99.54%)
+4,051,103
+(0.46%)
+1,478,853
+7c
+Election of  Gerhard Oswald to the Supervisory Board - adopted
+878,664,689
+(71.52% of capital stock)
+849,696,983
+(96.70%)
+28,967,706
+(3.30%)
+6,502,982
+7d
+Election of  Diane Greene to the Supervisory Board - adopted
+876,840,952
+(71.37% of capital stock)
+865,614,959
+(98.72%)
+11,225,993
+(1.28%)
+8,326,719
+8
+Resolution on the authorization to acquire and use treasury shares pursuant to Section 71 (1) no. 8 of the German Stock Corporation Act (Aktiengesetz; "AktG"), with possible exclusion of the shareholders' subscription rights and potential rights to offer shares and the possibility to redeem treasury shares while reducing the capital stock - adopted 
+882,576,937
+(71.84% of capital stock)
+823,481,445
+(93.30%)
+59,095,492
+(6.70%)
+2,590,529
+9
+Amendment to Article 10 of the Articles of Incorporation introducing flexibility regarding the term of office of Supervisory Board members - adopted
+883,787,885
+(71.94% of capital stock)
+882,027,284
+(99.80%)
+1,760,601
+(0.20%)
+1,379,786
+Enlarge
+View table
+Item
+Shares for which valid votes were cast
+For
+Against
+Abstentions
+2
+Resolution on the appropriation of the retained earnings of fiscal year 2016 - adopted
+858,273,904
+(69.86 % of capital stock)
+857,318,503
+(99.89 %)
+955,401
+(0.11 %)
+593,156
+3
+Resolution on the formal approval of the acts of the Executive Board in fiscal year 2016 - adopted
+856,954,512
+(69.76 % of capital stock)
+853,229,020
+(99.57 %)
+3,725,492
+(0.43 %)
+1,903,327
+4
+Resolution on the formal approval of the acts of the Supervisory Board in fiscal year 2016 - adopted
+759,334,185
+(61.81 % of capital stock)
+383,390,129
+(50.49 %)
+375,944,056
+(49.51 %)
+12,365,986
+5
+Appointment of the auditors of the financial statements and group annual financial statements for fiscal year 2017 - adopted
+857,405,345
+(69.79 % of capital stock)
+851,903,232
+(99.36 %)
+5,502,113
+(0.64 %)
+1,462,101
+Enlarge
+View table
+Item
+Shares for which valid votes were cast
+For
+Against
+Abstentions
+2
+Resolution on the appropriation of the retained earnings of fiscal year 2015 - adopted
+862,992,822
+(70.25 % of capital stock)
+862,612,194
+(99.96 %)
+380,628
+(0.04 %)
+620,132
+3
+Resolution on the formal approval of the acts of the Executive Board in fiscal year 2015 - adopted
+853,390,074
+(69.47 % of capital stock)
+843,622,540
+(98.86 %)
+9,767,534
+(1.14 %)
+10,216,585
+4
+Resolution on the formal approval of the acts of the Supervisory Board in fiscal year 2015 - adopted
+738,871,946
+(60.14 % of capital stock)
+689,302,652
+(93.29 %)
+49,569,294
+(6.71 %)
+14,308,879
+5
+Resolution on the approval of the system of Executive Board remuneration - adopted
+812,062,480
+(66.10 % of capital stock)
+444,138,025
+(54.69 %)
+367,924,455
+(45.31 %)
+51,550,354
+6
+Appointment of the auditors of the financial statements and group annual financial statements for fiscal year 2016 - adopted
+856,991,097
+(69.76 % of capital stock)
+806,420,680
+(94.10 %)
+50,570,417
+(5.90 %)
+6,621,857
+7
+By-election of a Supervisory Board member - adopted
+848,490,403
+(69.07 % of capital stock)
+846,804,244
+(99.80 %)
+1,686,159
+(0.20 %)
+15,122,551
+8
+Resolution on the cancellation of the existing authorization and the granting of a new authorization of the Executive Board to issue convertible and/or warrant-linked bonds, profit sharing rights and/or income bonds (or combinations of these instruments), the option to exclude shareholders' subscription rights, the cancellation of Contingent Capital IV and the creation of new contingent capital and the corresponding amendment to Section 4 of the Articles of Incorporation - adopted
+859,075,087
+(69.93 % of capital stock)
+816,495,028
+(95.04 %)
+42,580,059
+(4.96 %)
+4,537,867
+Enlarge
+View table
+Item
+Shares for which valid votes were cast
+For
+Against
+Abstentions
+2
+Resolution on the appropriation of the retained earnings of fiscal year 2014 - adopted
+812,486,608
+(66.14 % of capital stock)
+809,762,997
+(99.66 %)
+2,723,611
+(0.34 %)
+1,810,506
+3
+Resolution on the formal approval of the acts of the Executive Board in fiscal year 2014 - adopted
+809,091,518
+(65.86 % of capital stock)
+801,210,281
+(99.03 %)
+7,881,237
+(0.97 %)
+5,195,374
+4
+Resolution on the formal approval of the acts of the Supervisory Board in fiscal year 2014 - adopted
+680,644,637
+(55.40 % of capital stock)
+619,861,698
+(91.07 %)
+60,782,939
+(8.93 %)
+18,820,663
+5
+Appointment of the auditors of the financial statements and groupannual financial statements for fiscal year 2015 - adopted
+809,148,499
+(65.86 % of capital stock)
+782,716,522
+(96.73 %)
+26,431,977
+(3.27 %)
+5,148,395
+6
+Resolutions on the cancellation of the existing Authorized Capital I and II, and on the creation of new Authorized Capital I and II, and on the corresponding amendment of Section 4 (5) and (6) of the Articles of Incorporation
+6a
+Resolution on the cancellation of the existing Authorized Capital I and the creation of new Authorized Capital I for the issuance of shares against contributions in cash, with the option to exclude the shareholders' subscription rights (in respect of fractional shares only), and on the corresponding amendment of Section 4 (5) of the Articles of Incorporation - adopted
+812,399,796
+(66.13 % of capital stock)
+776,217,645
+(95.55 %)
+36,182,151
+(4.45 %)
+1,897,098
+6b
+Resolution on the cancellation of the existing Authorized Capital II and the creation of new Authorized Capital II for the issuance of shares against contributions in cash or in kind, with the option to exclude the shareholders' subscription rights, and on the corresponding amendment of Section 4 (6) of the Articles of Incorporation - adopted
+812,388,152
+(66.13 % of capital stock)
+718,673,627
+(88.46 %)
+93,714,525
+(11.54 %)
+1,908,915
+7
+Resolution on the amendment of the Supervisory Board remuneration and the corresponding amendment of Section 16 of the Articles of Incorporation - adopted
+809,028,609
+(65.85 % of capital stock)
+798,457,621
+(98.69 %)
+10,570,988
+(1.31 %)
+5,268,505
+Enlarge
+View table
+2014
+Item
+Shares for which valid votes were cast
+For
+Against
+Abstentions
+2
+Resolution on the appropriation of the retained earnings of fiscal year 2013
+805,044,379
+(65.53 % of capital stock)
+804,626,241
+(99.95 %)
+418,138
+(0.05 %)
+1,942,840
+3
+Resolution on the formal approval of the acts of the Executive Board in fiscal year 2013
+801,478,443
+(65.24 % of capital stock)
+792,145,315
+(98.84 %)
+9,333,128
+(1.16 %)
+5,498,542
+4
+Resolution on the formal approval of the acts of the Supervisory Board in fiscal year 2013
+676,065,907
+(55.03 % of capital stock)
+664,185,256
+(98.24 %)
+11,880,651
+(1.76 %)
+12,332,374
+5
+Appointment of the auditors of the financial statements and group annual financial statements for fiscal year 2014
+802,179,827
+(65.30 % of capital stock)
+799,177,554
+(99.63 %)
+3,002,273
+(0.37 %)
+4,812,056
+6
+Resolution on the approval of two amendment agreements to existing control and profit and loss transfer agreements between SAP AG and two subsidiaries
+6a
+Approval of the amendment agreement to the control and profit and loss transfer agreement with SAP Erste Beteiligungs- und Vermögensverwaltungs GmbH
+805,000,637
+(65.53 % of capital stock)
+804,936,282
+(99.99 %)
+64,355
+(0.01 %)
+1,991,135
+6b
+Approval of the amendment agreement to the control and profit and loss transfer agreement with SAP Zweite Beteiligungs- und Vermögensverwaltungs GmbH
+805,000,572
+(65.53 % of capital stock)
+804,939,525
+(99.99 %)
+61,047
+(0.01 %)
+1,991,191
+7
+Resolution on the approval of a control and profit and loss transfer agreement between SAP AG and a subsidiary
+804,990,906
+(65.53 % of capital stock)
+804,804,952
+(99.98 %)
+185,954
+(0.02 %)
+2,000,866
+8
+Conversion with change of legal form of the Company to a European Company (SE) and elections to the first Supervisory Board of SAP SE
+8a
+Approval to the Conversion Plan dated March 21, 2014
+805,030,729
+(65.53 % of capital stock)
+801,601,412
+99.57 %
+3,429,317
+(0.43 %)
+1,960,894
+8b
+Elections to the Supervisory Board
+8b (i)
+Prof. Dr h. c. mult. Hasso Plattner
+786,608,975
+(64.03 % of capital stock)
+579,860,931
+(73.72 %)
+206,748,044
+(26.28 %)
+20,381,664
+8b (ii)
+Pekka Ala-Pietilä
+791,704,673
+(64.44 % of capital stock)
+607,321,691
+(76.71 %)
+184,382,982
+(23.29 %)
+15,286,840
+8b (iii)
+Prof. Anja Feldmann. Ph.D.
+797,117,804
+(64.89 % of capital stock)
+782,796,265
+(98.20 %)
+14,321,539
+(1.80 %)
+9,873,950
+8b (iv)
+Prof. Dr Wilhelm Haarmann
+788,947,197
+(64.22 % of capital stock)
+527,662,715
+(66.88 %)
+261,284,482
+(33.12 %)
+18,044,661
+8b (v)
+Bernard Liautaud
+794,722,756
+(64.69 % of capital stock)
+747,849,528
+(94.10 %)
+46,873,228
+(5.90 %)
+12,269,022
+8b (vi)
+Dr h. c. Hartmut Mehdorn
+797,939,008
+(64.95 % of capital stock)
+604,585,135
+(75.77 %)
+193,353,873
+(24.23 %)
+9,045,604
+8b (vii)
+Dr Erhard Schipporeit
+802,602,225
+(65,33 % of capital stock)
+615,331,494
+(76.67 %)
+187,270,731
+(23.33 %)
+4,389,608
+8b (viii)
+Jim Hagemann Snabe
+788,648,110
+(64.20 % of capital stock)
+559,911,791
+(71.00 %)
+228,736,319
+(29.00 %)
+18,343,266
+8b (ix)
+Prof. Dr-Ing. Dr-Ing. E. h. Klaus Wucherer
+794,056,287
+(64.64 % of capital stock)
+727,265,221
+(91.59 %)
+66,791,066
+(8.41 %)
+12,935,596
+Enlarge
+View table
+2013
+Item
+Shares for which valid votes were cast
+For
+Against
+Abstentions
+2
+Resolution on the appropriation of the retained earnings of fiscal year 2012 - accepted
+810,541,585
+(65.98 % of capital stock)
+809,989,245
+(99.93 %)
+552,340
+(0.07 %)
+1,473,379
+3
+Resolution on the formal approval of the acts of the Executive Board in fiscal year 2012 - accepted
+807,923,692
+(65.76 % of capital stock)
+802,675,733
+(99.35 %)
+5,247,959
+(0.65 %)
+4,072,173
+4
+Resolution on the formal approval of the acts of the Supervisory Board in fiscal year 2012 - accepted
+670,442,120
+(54.57 % of capital stock)
+629,109,824
+(93.84 %)
+41,332,296
+(6.16 %)
+21,063,498
+5
+Resolution on the authorization to acquire and use treasury shares pursuant to Section 71 (1) no. 8 of the German Stock Corporation Act (Aktiengesetz; AktG) - accepted
+810,484,482
+(65.97 % of capital stock)
+784,685,411
+(96.82 %)
+25,799,071
+(3.18 %)
+1,530,482
+6
+Appointment of the auditors of the financial statements and group financial statements for fiscal year 2013 - accepted
+808,393,636
+(65.80 % of capital stock)
+807,378,947
+(99.87 %)
+1,014,689
+(0.13 %)
+3,621,328
+Enlarge
+View table
+2012
+Item
+Shares for which valid votes were cast
+For
+Against
+Abstentions
+2
+Resolution on the appropriation of the retained earnings of fiscal year 2011
+827,991,309
+(67.41 % of capital stock)
+827,900,181
+(99.99 %)
+91,128
+(0.01 %)
+1,081,389
+3
+Resolution on the formal approval of the acts of the Executive Board in fiscal year 2011
+821,553,411
+(66.88 % of capital stock)
+820,324,601
+(99.85 %)
+1,228,810
+(0.15%)
+7,503,870
+4
+Resolution on the formal approval of the acts of the Supervisory Board in fiscal year 2011
+688,532,489
+(56.05 % of capital stock)
+685,965,375
+(99.63 %)
+2,567,114
+(0.37 %)
+19,049,607
+5
+Resolution on the approval of the system of Executive Board compensation
+817,721,609
+(66.57 % of capital stock)
+538,490,705
+(65.85 %)
+279,230,904
+(34.15 %)
+11,351,067
+6
+Appointment of the auditors of the financial statements and group financial statements for fiscal year 2012
+826,119,251
+(67.25 % of capital stock)
+825,306,576
+(99.90 %)
+812,675
+(0.10 %)
+2,953,847
+7a
+Election of new members to the Supervisory Board - Prof. Dr. h. c. mult. Hasso Plattner
+822,243,376
+(66.94 % of capital stock)
+604,524,862
+(73.52 %)
+217,718,514
+(26.48 %)
+6,829,632
+7b
+Election of new members to the Supervisory Board - Pekka Ala-Pietilä
+826,823,062
+(67.31 % of capital stock)
+816,815,657
+(98.79 %)
+10,007,405
+(1.21 %)
+2,249,682
+7c
+Election of new members to the Supervisory Board - Prof. Anja Feldmann, Ph.D.
+825,370,273
+(67.19 % of capital stock)
+819,620,793
+(99.30 %)
+5,749,480
+(0.70 %)
+3,702,825
+7d
+Election of new members to the Supervisory Board - Prof. Dr. Wilhelm Haarmann
+822,233,807
+(66.94 % of capital stock)
+605,829,292
+(73.68 %)
+216,404,515
+(26.32 %)
+6,839,291
+7e
+Election of new members to the Supervisory Board - Bernard Liautaud
+817,434,236
+(66.55 % of capital stock)
+590,373,806
+(72.22 %)
+227,060,430
+(27.78 %)
+11,638,862
+7f
+Election of new members to the Supervisory Board - Dr. h. c. Hartmut Mehdorn
+822,036,207
+(66.92 % of capital stock)
+610,485,964
+(74.27 %)
+211,550,243
+(25.73 %)
+7,036,805
+7g
+Election of new members to the Supervisory Board - Dr. Erhard Schipporeit
+822,089,391
+(66.93 % of capital stock)
+786,800,694
+(95.71 %)
+35,288,697
+(4.29 %)
+6,983,707
+7h
+Election of new members to the Supervisory Board - Prof. Dr.-Ing. Dr.-Ing. E. h. Klaus Wucherer
+825,269,508
+(67.19 % of capital stock)
+788,842,516
+(95.59 %)
+36,426,992
+(4.41 %)
+3,803,590
+8
+Resolution on the cancellation of Contingent Capital III and Contingent Capital IIIa and the corresponding amendment of Section 4 of the Articles of Incorporation, as well as other amendments to Sections 4, 19 and 23 of the Articles of Incorporation
+828,000,719
+(67.41 % of capital stock)
+825,801,755
+(99.73 %)
+2,198,964
+(0.27 %)
+1,072,379
+Enlarge
+View table
+2011
+Item
+Shares for which valid votes were cast
+For
+Against
+Abstentions
+2
+Resolution on the appropriation of the retained earnings of fiscal year 2010 - adopted
+804,056,010
+(65.50 % of capital stock)
+803,970,764
+(99.99 %)
+85,246
+(0.01 %)
+391,251
+3
+Resolution on the formal approval of the acts of the Executive Board in fiscal year 2010 - adopted
+800,276,442
+(65.19 % of capital stock)
+787,518,133
+(98.41 %)
+12,758,309
+(1.59 %)
+4,170,495
+4
+Resolution on the formal approval of the acts of the Supervisory Board in fiscal year 2010 - adopted
+670,892,867
+(54.65 % of capital stock)
+655,936,145
+(97.77 %)
+14,956,722
+(2.23 %)
+11,430,192
+5
+Appointment of the auditors of the financial statements and group financial statements for fiscal year 2011 - adopted
+802,443,199
+(65.37 % of capital stock)
+801,176,342
+(99.84 %)
+1,266,857
+(0.16 %)
+2,004,062
+6
+Resolution on the amendment to Section 4 of the Articles of Incorporation to reflect changes in the capital structure since the Articles of Incorporation were last amended as well as on the cancellation of Contingent Capital VI and the corresponding amendment to Section 4 of the Articles of Incorporation - adopted
+803,995,734
+(65.49 % of capital stock)
+803,917,833
+(99.99 %)
+77,901
+(0.01 %)
+451,527
+7
+Resolution on the authorization of the Executive Board to issue convertible and/or warrant-linked bonds, the option to exclude shareholders' subscription rights, the cancellation of Contingent Capital IV and Contingent Capital IVa, the creation of new Contingent Capital IV and the corresponding amendment to Section 4 of the Articles of Incorporation - adopted
+799,885,298
+(65.16 % of capital stock)
+767,430,828
+(95.94 %)
+32,454,470
+(4.06 %)
+4,561,943
+8
+Resolution on the approval of a Control and Profit Transfer Agreement between SAP AG and a subsidiary - adopted
+804,058,101
+(65.50 % of capital stock)
+803,965,522
+(99.99 %)
+92,579
+(0.01 %)
+389,160
+Enlarge
+View table
+2010
+Item
+Shares for which valid votes were cast
+For
+Against
+Abstentions
+2
+Resolution on the appropriation of the retained earnings of the fiscal year 2009 – adopted
+693,114,886
+(56.50% of capital stock)
+692,998,633
+(99.98%)
+116,253
+(0.02%)
+4,298,511
+3
+Resolution on the formal approval of the acts of the Executive Board in the fiscal year 2009 – adopted
+692,170,119
+(56.43% of capital stock)
+688,475,199
+(99.47 %)
+3,694,920
+(0.53 %)
+5,231,398
+4
+Resolution on the formal approval of the acts of the Supervisory Board in the fiscal year 2009 – adopted
+566,781,970
+(46.21% of capital stock)
+563,075,588
+(99.35 %)
+3,706,382
+(0.65 %)
+5,230,869
+5
+Resolution on the approval of the system for the remuneration of Executive Board members – adopted
+689,921,293
+(56.24% of capital stock)
+672,915,381
+(97.54 %)
+17,005,912
+(2.46 %)
+7,491,877
+6
+Appointment of the auditors of the financial statements and group financial statements for the fiscal year 2010 – adopted
+687,822,518
+(56.07% of capital stock)
+685,715,435
+(99.69 %)
+2,107,083
+(0.31 %)
+9,590,999
+7
+Resolution on the amendment to Section 4 (1), (6) and (10) of the Articles of Incorporation to reflect changes in the capital structure since the Articles of Incorporation were last amended – adopted
+692,864,188
+(56.48% of capital stock)
+692,622,578
+(99.97 %)
+241,610
+(0.03 %)
+4,549,329
+8a
+Resolutions on amendments to the Articles of Incorporation to reflect the requirements of the German Act Implementing the Directive on Shareholders' Rights – Restatement of Section 17 (3) of the Articles of Incorporation – adopted
+692,870,788
+(56.48% of capital stock)
+692,380,815
+(99.93 %)
+489,973
+(0.07 %)
+4,542,359
+8b
+Amendments to the Articles of Incorporation to reflect the requirements of the German Act Implementing the Directive on Shareholders' Rights – Restatement of Section 18 (2) of the Articles of Incorporation – adopted
+692,885,237
+(56.49% of capital stock)
+692,390,138
+(99.93 %)
+495,099
+(0.07 %)
+4,528,280
+8c
+Amendments to the Articles of Incorporation to reflect the requirements of the German Act Implementing the Directive on Shareholders' Rights – Supplement to Section 18 of the Articles of Incorporation to allow online participation – adopted
+692,899,384
+(56.49% of capital stock)
+692,406,363
+(99.93 %)
+493,021
+(0.07 %)
+4,514,133
+8d
+Amendments to the Articles of Incorporation to reflect the requirements of the German Act Implementing the Directive on Shareholders' Rights – Supplement to Section 18 of the Articles of Incorporation to allow postal voting – adopted
+696,862,324
+(56.81% of capital stock)
+696,191,487
+(99.90 %)
+670,837
+(0.10 %)
+551,193
+8e
+Amendments to the Articles of Incorporation to reflect the requirements of the German Act Implementing the Directive on Shareholders' Rights – Restatement of Section 19 (2) of the Articles of Incorporation – adopted
+694,925,286
+(56.65% of capital stock)
+692,984,462
+(99.72 %)
+1,940,824
+(0.28 %)
+2,485,048
+8f
+Amendments to the Articles of Incorporation to reflect the requirements of the German Act Implementing the Directive on Shareholders' Rights – Restatement of Section 20 (4) of the Articles of Incorporation – adopted
+694,928,174
+(56.65% of capital stock)
+694,251,938
+(99.90 %)
+676,236
+(0.10 %)
+2,483,913
+9a
+Resolutions on the renewal of the Authorized Capital facilities, in particular on the deletion of paragraphs (5) and (7) of Section 4 of the current version of the Articles of Incorporation (Authorized Capital I and II) – adopted
+689,529,058
+(56.21% of capital stock)
+673,434,155
+(97.67 %)
+16,094,903
+(2.33 %)
+7,884,459
+9b
+Resolutions on the renewal of the Authorized Capital facilities, in particular on the cancellation of the existing Authorized Capital Ia, on the creation of new Authorized Capital I, and on the corresponding amendment to Section 4 of the Articles of Incorporation – adopted
+688,638,693
+(56.14% of capital stock)
+667,072,154
+(96.87 %)
+21,566,539
+(3.13 %)
+8,774,824
+9c
+Resolutions on the renewal of the Authorized Capital facilities, in particular on the cancellation of the existing Authorized Capital IIa, on the creation of new Authorized Capital II, and on the corresponding amendment to Section 4 of the Articles of Incorporation – adopted
+688,449,849
+(56.12% of capital stock)
+577,018,376
+(83.81 %)
+111,431,473
+(16.19 %)
+8,963,668
+10
+Resolution on the creation of Authorized Capital III for the purpose of granting shares to employees of the Company and its affiliates against contributions in cash or in kind and on the corresponding amendment to Section 4 of the Articles of Incorporation – adopted
+690,933,009
+(56.33% of capital stock)
+682,993,392
+(98.85 %)
+7,939,617
+(1.15 %)
+6,480,496
+11
+Resolution on the authorization to acquire and use treasury shares pursuant to Section 71 (1) no, 8 of the German Stock Corporation Act (Aktiengesetz; AktG), with possible exclusion of the shareholders' subscription rights and potential rights to offer shares – adopted
+696,433,021
+(56.77% of capital stock)
+678,517,904
+(97.43 %)
+17,915,117
+(2.57 %)
+973,716
+12
+Resolution on a change in the remuneration of the members of the Supervisory Board and on the corresponding amendment to the Articles of Incorporation – adopted
+692,982,042
+(56.49% of capital stock)
+657,475,633
+(94.88 %)
+35,506,409
+(5.12 %)
+4,431,428
+Enlarge
+View table
+Quick Links
+Why SAP
+Intelligent Enterprise
+Small and Midsize Enterprises
+SAP Trust Center
+SAP Insights
+SAP Community
+Developer
+Support Portal
+About SAP
+Company Information
+Worldwide Directory
+Investor Relations
+Careers
+News and Press
+Events
+Customer Stories
+Newsletter
+Site Information
+Privacy
+Terms of Use
+Legal Disclosure
+Copyright
+Trademark
+Sitemap
+Text View
+Cookie Preferences
+ Contact Us
++49 6227 76 73 36 
+ during office hours CET
+Service Request
+Find us on
+Return to Full Browser View
+Back to top
+ <div class="lightboxPopup" id="openPopup">
+ <section>
+ <div class="loadingBar">
+ <div class="bar bar-first"></div>
+ <div class="bar bar-second"></div>
+ <div class="bar bar-third"></div>
+ </div>
+ </section>
+ <div class="lightboxContainer">
+ <div class="popupHeader container-extended">
+ <div class="header-container grid-container">
+ <div class="row">
+ <div class="col-xs-11 col-sm-10 col-md-10 col-lg-10">
+ <div class="sectionTitle he">{{assetTitle}}</div>
+ <div class="descriptionText text">{{assetDescription}}</div>
+ </div>
+ </div>
+ </div>
+ <div class="toolbar-container {{#if pageRating}}{{pageRating}} col-xlg-12 col-lg-12 col-md-12 col-xs-12 col{{/if}}">
+ <nav class="toolbar">
+ <ul class="toolbar-list">
+ <li><a id="download-link" class="toolbtn download icon-download exclude-ligthbox-handler"></a></li>
+ <li><a target="_top" class="toolbtn mail icon-email exclude-ligthbox-handler" data-share-tracking-analytics="SHARE" data-share-channel="mailto"></a></li>
+ <li class="share-wrap"><a class="toolbtn share icon-share"></a>
+ <ul class="share-dropdown">
+ {{#each socialItems}}
+ <li>
+ <a class="{{shareClass}}" title="{{title}}" data-share-channel="{{share-channel}}" data-share-tracking-analytics="SHARE" target="_blank"
+ data-share-url="{{resourceLink}}"><span class="{{class}}"></span>{{title}}</a>
+ </li>
+ {{/each }}
+ </ul>
+ </li>
+ <li class="rating-message initial hidden">
+ <div class="thanksLikeBlock ds-body ds-body--l"></div>
+ <div class="thanksDisliking"></div>
+ <div class="question firstQuestion initial">
+ <div class="question-headline ds-body"></div>
+ <div class="question-buttons">
+ <div class="button-block">
+ <a class="like-button ds-button ds-button--secondary ds-button--secondary--white ds-m-r-m ds-m-l-l"/>
+ <a class="dislike-button dislike-icon ds-button ds-button--secondary ds-button--secondary--white"/>
+ </div>
+ </div>
+ </div>
+ </li>
+ </ul>
+ </nav>
+ <div class="toolbtn exit icon-close mfp-close"></div>
+ </div>
+ <div class="question-container">
+ <div class="rating-wrapper-lightbox">
+ <div class="question secondQuestion col-xlg-10 col-lg-10 col-sm-10 col-md-10 col">
+ <div class="blockReasons">
+ <div class="question-wrapper">
+ <div class="questionText"></div>
+ <ul class="radio-rating ds-m-t-m"></ul>
+ </div>
+ </div>
+ </div>
+ <div class="close-feedback icon-close"></div>
+ </div>
+ </div>
+ </div>
+ <div class="popupContent">
+ {{{popupContent}}}
+ </div>
+ <div class="popupFooter">
+ {{#if isFooterConfigured}}
+ <div class="footer-container grid-container">
+ <div class="row">
+ <div class="col-xs-7 col-sm-12 col-md-12 col-lg-12">
+ <div class="info-container">
+ <div class="he footer-headine">{{assetFooterTitle}}</div>
+ <div class="text footer-paragraph">{{assetFooterDescription}}</div>
+ </div>
+ </div>
+ <div class="btn-wrapper col-xs-5 col-sm-5 col-md-5 col-lg-5">
+ <a href="{{assetFooterLinkPath}}" target="{{assetFooterLinkTarget}}"
+ title="{{assetFooterLinkTooltip}}" class="button2017 version1 lightbox-footer-link">
+ <span class="buttonText">{{assetFooterLinkName}}</span>
+ <span class="hoverboxes"><span class="hoverbox"></span><span
+ class="hoverbox"></span><span class="hoverbox"></span></span>
+ </a>
+ </div>
+ </div>
+ </div>
+ {{/if}}
+ </div>
+ </div>
+ </div>
+ <div class="lightboxPopup lightboxFeedback" id="openPopup">
+ <div class="wrapper">
+ <div class="header">
+ <div class="title he">{{assetTitle}}</div>
+ <div class="toolbtn exit icon-close mfp-close"></div>
+ </div>
+ <div class="popupContent">
+ {{{popupContent}}}
+ </div>
+ </div>
+ </div>
+ <div class="videoWrapper lightBoxVideoWrapper mfp-hide" data-light-box-type="video" data-asset-title="{{title}}" data-asset-description="{{description}}">
+ <div class="topDiv"></div>
+ <video class="video-js vjs-default-skin vjs-big-play-centered vjs-fluid"
+ controls="true"
+ preload="none"
+ data-publishingdate="{{publishingDate}}"
+ data-expirationdate="{{expirationDate}}"
+ data-title="{{videoTitle}}"
+ poster="{{poster}}"
+ data-akamaiUrl="{{akamaiUrl}}"
+ data-akamaiMobileUrl="{{akamaiMobileUrl}}"
+ data-analyticsAssetId="{{analyticsAssetId}}"
+ data-sap-digital-id="{{sap_digital_id}}"
+ data-crm-code="{{crmCode}}"
+ data-is-stream="{{streamVideo}}"
+ data-is-youtube="{{isYoutubeURI}}"
+ data-is-lightbox="true"
+ data-dam-link="{{damLink}}"
+ data-asset-id="{{id}}"
+ data-video-setup="{{videoSetup}}">
+ <source src="{{source.src}}" type="{{source.type}}"/>
+ </video>
+ </div>
+ <div class="lightboxPopup" id="openPopup">
+ <section>
+ <div class="loadingBar">
+ <div class="bar bar-first"></div>
+ <div class="bar bar-second"></div>
+ <div class="bar bar-third"></div>
+ </div>
+ </section>
+ <div class="lightboxContainer">
+ <div class="toolbtn exit icon-close mfp-close"></div>
+ <div class="aside-lightbox">
+ <div class="toolbtn exit icon-close mfp-close"></div>
+ <div class="popupHeader">
+ <div class="header-container grid-container">
+ <div class="row">
+ <div class="col-xs-11 col-sm-10 col-md-10 col-lg-10">
+ <div class="sectionTitle he">{{assetTitle}}</div>
+ <div class="descriptionText text">{{assetDescription}}</div>
+ </div>
+ </div>
+ </div>
+ <div class="toolbar-container">
+ <nav class="toolbar">
+ <ul class="toolbar-list">
+ <li><a id="download-link" class="toolbtn download icon-download exclude-ligthbox-handler"></a></li>
+ <li><a class="toolbtn mail icon-email exclude-ligthbox-handler" data-share-tracking-analytics="SHARE" data-share-channel="mailto"></a></li>
+ <li class="share-wrap"><a class="toolbtn share icon-share"></a>
+ <ul class="share-dropdown">
+ {{#each socialItems}}
+ <li>
+ <a class="{{shareClass}}" title="{{title}}" data-share-channel="{{share-channel}}" data-share-tracking-analytics="SHARE" target="_blank"
+ data-share-url="{{resourceLink}}"><span class="{{class}}"></span>{{title}}</a>
+ </li>
+ {{/each }}
+ </ul>
+ </li>
+ </ul>
+ </nav>
+ </div>
+ <div class="search-toc-container">
+ <div class="content-btn_mobile">
+ <span class="icon-menu"></span>
+ <span class="content-label">Contents</span>
+ </div>
+ <div class="search-form">
+ <form class="search__form" action="#">
+ <div class="search__holder">
+ <div class="search__field">
+ <input class="search__input" type="text" name="searchInput"
+ placeholder="Search" autocomplete="off">
+ <span class="search__icon icon-search">
+ <input type="submit" class="search__btn">
+ </span>
+ <span class="clear-search-btn"><span class="icon-close"></span></span>
+ </div>
+ </div>
+ </form>
+ <div class="matches__holder">
+ <div class="search-results-control">
+ <span class="overall__matches"></span>
+ <span class="find-arrow find__prev icon-arrowleft"></span>
+ <span class="find-arrow find__next icon-arrowright"></span>
+ </div>
+ <div class="entries"><span class="num__count"></span></div>
+ </div>
+ </div>
+ </div>
+ </div>
+ <div class="outlinePanel jcf-scrollable" data-jcf='{"handleResize": false}'>
+ <h2 class="hd outline-headline">Contents</h2>
+ <ul class="outline-tree"></ul>
+ </div>
+ <div class="popupFooter">
+ <div class="fullscreen-control">Fullscreen<a href="#" class="fullscreen-link"><span
+ class="icon-fullscreen"></span></a></div>
+ <div class="zoom-control"><span class="zoom-control__label">Zoom</span><a href="#" class="zoomOut"><span class="icon-zoomOut"></span></a><a href="#" class="zoomIn"><span class="icon-zoomIn"></span></a></div>
+ </div>
+ </div>
+ <div class="popupContent jcf-scrollable">
+ {{{popupContent}}}
+ </div>
+ </div>
+ </div>
+ <div class="lightboxPopup lightboxCompatibility" id="openPopup">
+ <div class="wrapper">
+ <div class="header">
+ <div class="title he">{{compatibilityTitle}}</div>
+ <div class="toolbtn exit icon-close mfp-close"></div>
+ </div>
+ <div class="popupContent">
+ <div class="compatibility-wrapper">
+ <div class="compatibility-content">
+ <div class="compatibility-headline">
+ {{compatibilityHeadline}}
+ </div>
+ <div class="compatibility-body">
+ {{compatibilityContent}}
+ </div>
+ <div class="compatibility-button-wrapper">
+ <a class="compatibility-button button2017 version1">
+ <span class="buttonText">{{compatibilityConfirmButton}}</span>
+ <span class="hoverboxes">
+ <span class="hoverbox"></span>
+ <span class="hoverbox"></span>
+ <span class="hoverbox"></span>
+ </span>
+ </a>
+ </div>
+ </div>
+ </div>
+ </div>
+ </div>
+ </div>
+ <div class="popup-header">
+ <p class="title">{{headerMessage}}</p>
+ <button class="close-button" type="button">×</button>
+ </div>
+ <div class="popup-container">
+ {{> content}}
+ <div class="loading-bar-overlay">
+ <div class="loadingBar">
+ <div class="bar bar-first"></div>
+ <div class="bar bar-second"></div>
+ <div class="bar bar-third"></div>
+ </div>
+ </div>
+ </div>
+ <div class="content-container content-partial content-fail-partial grid-container">
+ <div class="row">
+ <div class="col-lg-offset-1 col-lg-10 col-md-offset-1 col-md-10 col-sm-offset-1 col-sm-10 col-xs-12">
+ <div class="standardText">
+ <h1 class="header-title hd">{{failTitle}}</h1>
+ <div class="content-block">
+ <div class="body-text text">
+ <p>{{errorMessage}}</p>
+ </div>
+ <div class="links-list">
+ <ul class="links list-unstyled">
+ <li class="type-link">
+ <a class="button2017 version1 error-close-button" type="button" href="#">
+ <span class="buttonText">{{buttonTitle}}</span>
+ <span class="hoverboxes">
+ <span class="hoverbox"></span>
+ <span class="hoverbox"></span>
+ <span class="hoverbox"></span>
+ </span>
+ </a>
+ </li>
+ </ul>
+ </div>
+ </div>
+ </div>
+ </div>
+ </div>
+ </div>
+ <div class="popupHeader">
+ {{#if isHeaderConfigured}}
+ <div class="header-container grid-container">
+ <div class="row">
+ <div class="col-xs-11 col-sm-10 col-md-10 col-lg-10">
+ <div class="sectionTitle he">{{assetTitle}}</div>
+ <div class="descriptionText text">{{assetDescription}}</div>
+ </div>
+ </div>
+ </div>
+ {{/if}}
+ <div class="toolbar-container">
+ {{#if isHeaderConfigured}}
+ {{#if isEnabledShareLink}}
+ <nav class="toolbar">
+ <ul class="toolbar-list">
+ <li><a class="toolbtn mail icon-email exclude-ligthbox-handler" data-share-tracking-analytics="SHARE" data-share-channel="mailto"></a></li>
+ <li class="share-wrap"><a class="toolbtn share icon-share"></a>
+ <ul class="share-dropdown">
+ {{#each socialItems}}
+ <li>
+ <a class="{{shareClass}}" title="{{title}}" data-share-channel="{{share-channel}}" data-share-tracking-analytics="SHARE" target="_blank"
+ data-share-url="{{resourceLink}}"><span class="{{class}}"></span>{{title}}</a>
+ </li>
+ {{/each }}
+ </ul>
+ </li>
+ </ul>
+ </nav>
+ {{/if}}
+ {{/if}}
+ <div class="toolbtn exit icon-close mfp-close"></div>
+ </div>
+ </div>
+ <div class="popup-container">
+ <iframe 
+ class="html-content-lightbox-frame"
+ src={{src}}
+ width='1100px' height='700px'>
+ </iframe>
+ </div>
+ <div class="popupFooter">
+ {{#if isFooterConfigured}}
+ <div class="footer-container grid-container">
+ <div class="row">
+ <div class="col-xs-7 col-sm-12 col-md-12 col-lg-12">
+ <div class="info-container">
+ <div class="he footer-headine">{{assetFooterTitle}}</div>
+ <div class="text footer-paragraph">{{assetFooterDescription}}</div>
+ </div>
+ </div>
+ <div class="btn-wrapper col-xs-5 col-sm-5 col-md-5 col-lg-5">
+ <a href="{{assetFooterLinkPath}}" target="{{assetFooterLinkTarget}}"
+ title="{{assetFooterLinkTooltip}}" class="button2017 version1 lightbox-footer-link">
+ <span class="buttonText">{{assetFooterLinkName}}</span>
+ <span class="hoverboxes"><span class="hoverbox"></span><span
+ class="hoverbox"></span><span class="hoverbox"></span></span>
+ </a>
+ </div>
+ </div>
+ </div>
+ {{/if}}
+ </div>
+ try{
+ if (!!window._satellite) {
+ _satellite.pageBottom();
+ }
+ } catch(e) {
+ console.error("Error while calling _satellite.pageBottom(), Error thrown : " + e);
+ }
+Call me now

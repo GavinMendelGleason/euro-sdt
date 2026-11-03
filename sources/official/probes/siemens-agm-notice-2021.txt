@@ -1,0 +1,1706 @@
+  Notice of Annual
+  Shareholders ’ ­Meeting
+  2021
+of Siemens AG on February 3, 2021
+Overview containing information in accordance
+with ­Section 125 of the German Stock Corporation
+Act (AktG) in conjunction with Table 3 of the
+Implementing Regulation (EU) 2018 / 1212
+A. Specification of the message
+
+1. Virtual Annual Shareholders’ Meeting 2021
+   of Siemens ­Aktiengesellschaft
+
+2. Notice of Annual Shareholders’ Meeting
+
+B. Specification of the issuer
+
+1. ISIN: DE0007236101
+
+2. Name of issuer: Siemens Aktiengesellschaft (Siemens AG)
+
+C. Specification of the meeting
+
+1. Date of the meeting: February 3, 2021
+
+2. Start: 10:00 a. m. CET (corresponds to 9:00 a. m. UTC).
+
+3. Type of meeting: Virtual Annual Shareholders’ Meeting without the
+   physical attendance of shareholders or their proxy representatives
+
+4. Location of the meeting:     WWW.SIEMENS.COM/AGM-SERVICE
+   Place of the meeting within the meaning of the German Stock
+   ­Corporation Act (AktG): Werner-von-Siemens-Str. 1, 80333 Munich,
+    Germany
+
+5. Technical Record Date: January 27, 2021
+   The right to attend and vote is based on the shareholding evidenced
+   by entry in the Company ’s share register as of the date of the Annual
+   Shareholders’ Meeting, irrespective of the balances in the security
+   ­account. Applications for registration in the Company’s share register
+    received by the Company from January 28, 2021, through February 3,
+    2021, i. e., after the end of the closing date of the notification period,
+    will be processed and considered only with effect after the Annual
+    Shareholders’ Meeting on February 3, 2021. The technical record date
+    is therefore the end of January 27, 2021.
+
+6. Website for the meeting / URL:      WWW.SIEMENS.COM/AGM
+
+
+
+
+NOTICE    3
+  Overview of the agenda
+1. To receive and consider the adopted Annual Financial
+   ­Statements of Siemens AG and the approved Consolidated
+    ­Financial Statements, together with the Combined
+     ­Management Report of Siemens AG and the Siemens Group
+      as of September 30, 2020, as well as the Report of the
+      ­Supervisory Board for fiscal year 2020                    Page 7
+
+2. To resolve on the appropriation of the net income of
+   Siemens AG                                                    Page 7
+
+3. To ratify the acts of the members of the Managing Board       Page 8
+   a) Joe Kaeser (President and CEO)
+   b) Dr. Roland Busch (Deputy CEO)
+   c) Lisa Davis (member until February 29, 2020)
+   d) Klaus Helmrich
+   e) Janina Kugel (member until January 31, 2020)
+   f) Cedrik Neike
+   g) Michael Sen (member until March 31, 2020)
+   h) Prof. Dr. Ralf P. Thomas
+
+4. To ratify the acts of the members of the Supervisory Board    Page 8
+   a) Jim Hagemann Snabe (Chairman)
+   b) Birgit Steinborn (First Deputy Chairwoman)
+   c) Werner Wenning (Second Deputy Chairman)
+   d) Dr. Werner Brandt
+   e) Michael Diekmann
+   f) Dr. Andrea Fehrmann
+   g) Bettina Haller
+   h) Robert Kensbock (member until September 25, 2020)
+   i) Harald Kern
+   j) Jürgen Kerner
+   k) Dr. Nicola Leibinger-Kammüller
+   l) Benoît Potier
+   m) Hagen Reimer
+   n) Dr.-Ing. Dr. Ing. E. h. Nobert Reithofer
+   o) Baroness Nemat Shafik (DBE, DPhil)
+   p) Dr. Nathalie von Siemens
+   q) Michael Sigmund
+   r) Dorothea Simon
+   s) Matthias Zachert
+   t) Gunnar Zukunft
+
+
+
+
+NOTICE   4
+5. To resolve on the appointment of independent auditors
+   for the audit of the Annual Financial Statements and
+   the ­Consolidated Financial Statements and for the review
+   of the Half-year Financial Report                           Page 9
+
+6. To resolve on the election of members to the Supervisory
+   Board                                                        Page 9
+   a) Grazia Vittadini, Munich,
+       Chief Technology Officer and member of the Airbus Execu-
+       tive Committee
+   b) Kasper Rørsted, Pöcking,
+       Chief Executive Officer and Board Member of adidas AG
+   c) Jim Hagemann Snabe, Klampenborg, Denmark,
+       Chairman of the Supervisory Board of Siemens AG
+       and of the Board of Directors of A. P. Møller-Mærsk A / S
+
+7. To resolve on the compensation for Supervisory Board
+   ­members and related amendments to the Articles
+    of Association                                             Page 12
+
+8. To resolve on the creation of an Authorized Capital 2021
+   ­reserved for the issuance to employees with shareholders’
+    ­subscription rights excluded, and related amendments
+     to the Articles of Association                            Page 16
+
+9. To resolve on the approval of the agreement dated
+   ­November 27, 2020, amending the Profit-and-Loss
+    ­Transfer Agreement between Siemens AG and Siemens
+     Bank GmbH, Munich                                         Page 17
+
+
+
+
+NOTICE   5
+­Siemens Aktiengesellschaft
+ Berlin and Munich
+ ISIN DE0007236101
+
+Notice of Annual Shareholders’
+Meeting 2021
+
+Berlin and Munich,
+December 2020
+
+
+
+
+To Our Shareholders:
+
+NOTICE IS HEREBY GIVEN
+that the Annual Shareholders’ Meeting
+of Siemens Aktiengesellschaft (herein-
+after “Siemens AG” or “Company”)
+
+will be held on Wednesday, February 3, 2021,
+10:00 a.m. (CET), as a virtual Shareholders’
+Meeting without the physical attendance of
+shareholders or their proxy representatives.
+
+
+
+
+The entire Shareholders’ Meeting will be web­
+cast live in sound and vision over the Internet
+for shareholders of Siemens AG and their proxy
+­representatives. The voting rights of the share­
+ holders and their proxy representatives are exer­
+ cised exclusively by way of absentee voting
+ or by granting proxy authorization to the proxy
+ ­representatives nominated by the Company.
+  The place of the Annual Shareholders’ Meeting
+  within the meaning of the German Stock Cor­
+  poration Act (AktG) is Werner-von-Siemens-Str. 1,
+  80333 Munich.
+
+
+NOTICE   6
+  Agenda
+1. To receive and consider the adopted Annual Financial
+   Statements of Siemens AG and the approved Consolidated
+   Financial Statements, together with the Combined
+   ­Management Report of Siemens AG and the Siemens
+    Group as of September 30, 2020, as well as the Report
+    of the Supervisory Board for fiscal year 2020
+   The materials referred to also include the Compensation Report, the
+   Explanatory Report on the information required pursuant to Sec-
+   tion 289 a, Section 315 a of the German Commercial Code (HGB) and the
+   Corporate Governance statement with the Corporate Governance re-
+   porting for fiscal year 2020. With the exception of the adopted Annual
+   Financial Statements, they are part of the Annual Report 2020. The
+   ­materials are available on our website at      WWW.SIEMENS.COM/AGM
+   and copies will be sent to shareholders upon request without undue
+   delay and free of charge. In addition, they will be available there during
+   the Annual Shareholders’ Meeting and will also be explained in more
+   detail at the Annual Shareholders’ Meeting.
+
+   The Supervisory Board has already approved the Annual Financial State-
+   ments and the Consolidated Financial Statements prepared by the
+   ­Managing Board; the Annual Financial Statements are thus adopted. In
+    accordance with the applicable legal provisions, no resolution on
+    Agenda Item 1 is therefore proposed to be adopted.
+
+2. To resolve on the appropriation of the net income
+   of Siemens AG
+   The Supervisory Board and the Managing Board propose that the unappro-
+   priated net income of Siemens AG for the fiscal year ended September 30,
+   2020, amounting to €2,975,000,000.00, be appropriated as follows:
+
+   Distribution of a dividend of € 3.50 on each
+   share of no par value entitled to the dividend
+   for fiscal year 2020:                                   € 2,803,362,670.50
+   Amount carried forward:                                   € 171,637,329.50
+
+
+   The proposal for appropriation of the net income reflects the 49,039,237
+   treasury shares that were held directly or indirectly by the Company at the
+   time the Annual Financial Statements were prepared by the Managing
+   Board and that are not entitled to a dividend pursuant to Section 71b of the
+   German Stock Corporation Act (AktG). Should there be any change in the
+   number of shares of no par value entitled to the dividend for fiscal year
+   2020 before the date of the Annual Share­holders’ Meeting, the above pro-
+   posal will be amended accordingly and presented at the Annual Share-
+   holders’ Meeting, with an unchanged dividend of €3.50 on each share of
+   no par value entitled to the dividend for fiscal year 2020, as well as suitably
+   amended amounts for the sum to be distributed and the carryforward.
+
+
+NOTICE   7
+   In accordance with Section 58 (4) sentence 2 of the German Stock Corpo­
+   ration Act (AktG), the dividend is due on the third business day following the
+   resolution by the Annual Shareholders’ Meeting, i.e., on February 8, 2021.
+
+3. To ratify the acts of the members of the Managing Board
+   The Supervisory Board and the Managing Board propose that the acts
+   of the members of the Managing Board listed below under lit. a) to h)
+   in fiscal year 2020 be ratified for that period:
+
+   a) Joe Kaeser (President and CEO)
+   b) Dr. Roland Busch (Deputy CEO)
+   c) Lisa Davis (member until February 29, 2020)
+   d) Klaus Helmrich
+   e) Janina Kugel (member until January 31, 2020)
+   f) Cedrik Neike
+   g) Michael Sen (member until March 31, 2020)
+   h) Prof. Dr. Ralf P. Thomas
+
+   It is intended to let the Annual Shareholders’ Meeting decide by sepa-
+   rate ballot whether to ratify the acts of each individual member of the
+   Managing Board.
+
+4. To ratify the acts of the members of the Supervisory Board
+   The Supervisory Board and the Managing Board propose that the acts
+   of the members of the Supervisory Board listed below under lit. a) to t)
+   in fiscal year 2020 be ratified for that period:
+
+   a) Jim Hagemann Snabe (Chairman)
+   b) Birgit Steinborn (First Deputy Chairwoman)
+   c) Werner Wenning (Second Deputy Chairman)
+   d) Dr. Werner Brandt
+   e) Michael Diekmann
+   f) Dr. Andrea Fehrmann
+   g) Bettina Haller
+   h) Robert Kensbock (member until September 25, 2020)
+   i) Harald Kern
+   j) Jürgen Kerner
+   k) Dr. Nicola Leibinger-Kammüller
+   l) Benoît Potier
+   m) Hagen Reimer
+   n) Dr.-Ing. Dr.-Ing. E. h. Nobert Reithofer
+   o) Baroness Nemat Shafik (DBE, DPhil)
+   p) Dr. Nathalie von Siemens
+   q) Michael Sigmund
+   r) Dorothea Simon
+   s) Matthias Zachert
+   t) Gunnar Zukunft
+
+
+NOTICE   8
+   It is intended to let the Annual Shareholders’ Meeting decide by sepa-
+   rate ballot whether to ratify the acts of each individual member of the
+   Supervisory Board.
+
+5. To resolve on the appointment of independent auditors
+   for the audit of the Annual Financial Statements and
+   the Consolidated Financial Statements and for the review
+   of the Half-year Financial Report
+   On the basis of its Audit Committee’s recommendation, the Supervisory
+   Board proposes that Ernst & Young GmbH Wirtschaftsprüfungsgesell­
+   schaft, Stuttgart, be appointed to serve as independent auditor of the
+   Annual Financial Statements and the Consolidated Financial Statements
+   for fiscal year 2021 and auditor for the review of the condensed Finan-
+   cial Statements and the Interim Management Report for the Siemens
+   Group for the first half of fiscal year 2021.
+
+   The Audit Committee has stated that its recommendation is free from
+   influence by third parties and that no clause restricting the choice
+   within the meaning of Art. 16 (6) of the EU Regulation on statutory
+   ­auditors or audit firms (Regulation (EU) No 537 / 2014 of the European
+    Parliament and of the Council of 16 April 2014 on specific requirements
+    regarding the statutory audit of public-interest entities and repealing
+    Commission Decision 2005 / 909 / EC) has been imposed upon it.
+
+6. To resolve on the election of members
+   to the Supervisory Board
+   The term of office of Dr. Nicola Leibinger-Kammüller, Mr. Jim Hagemann
+   Snabe and Mr. Werner Wenning, who were reelected prematurely as
+   shareholder representatives to the Supervisory Board by the Annual
+   Shareholders’ Meeting on January 26, 2016, will expire at the end of the
+   Annual Shareholders’ Meeting on February 3, 2021. New elections are
+   therefore necessary for these three shareholder representatives on the
+   Supervisory Board.
+
+   The term of office of the other shareholder representatives on the
+   Super­visory Board, who were elected by the Annual Shareholders’
+   Meeting on January 31, 2018, runs until the end of the Annual Share-
+   holders’ Meeting that ratifies the acts of the members of the Super­
+   visory Board for fiscal year 2022. The same applies to the term of office
+   of the employee representatives on the Supervisory Board, who were
+   elected on October 5, 2017, in accordance with the provisions of the
+   German Codetermination Act (MitbestG) with effect as from the end
+   of the Annual Shareholders’ Meeting held on January 31, 2018, or were
+   appointed by means of a court resolution as successor to a Supervisory
+   Board member elected in this way.
+
+
+
+
+NOTICE   9
+   Pursuant to Sections 96 (1) and 101 (1) of the German Stock Corporation
+   Act (AktG) and pursuant to Section 7 (1) sentence 1 no. 3 of the German
+   Codetermination Act (MitbestG), the Supervisory Board is composed of
+   ten shareholder representatives and ten employee representatives. Pur-
+   suant to Section 96 (2) sentence 1 of the German Stock Corporation Act
+   (AktG), the Supervisory Board must comprise at least 30 per cent
+   women and at least 30 per cent men. Under the provision in the Bylaws
+   for the Supervisory Board of Siemens AG, the legal requirements relat-
+   ing to the gender quota shall be fulfilled separately by the shareholder
+   representatives and the employee representatives. Based on a majority
+   resolution, the shareholder representatives have accordingly given no-
+   tice to the Chairman of the Supervisory Board pursuant to Section 96 (2)
+   sentence 3 of the German Stock Corporation Act (AktG) of their objec-
+   tion to joint compliance. Consequently, the shareholder representatives
+   and the employee representatives must each consist of at least three
+   women and at least three men in order to comply with the minimum
+   quota required by Section 96 (2) sentence 1 of the German Stock Corpo-
+   ration Act (AktG).
+
+   The Supervisory Board currently has a total of seven female members,
+   three of them shareholder representatives and four of them employee
+   representatives. It therefore meets the requirement for a minimum
+   quota at present. In order still to fulfill the required minimum quota, at
+   least one woman must be elected as a shareholder representative. After
+   the election of the candidates proposed by the Supervisory Board, the
+   shareholder representatives on the Supervisory Board would still consist
+   of three women and seven men, meaning the required minimum quota
+   would be fulfilled.
+
+   The election nominations by the Supervisory Board are based on the
+   recommendation of its Nominating Committee, take into account the
+   targets for the Supervisory Board’s composition resolved by the Super-
+   visory Board and aim to ensure that the profile of required skills and
+   expertise and the diversity concept formulated by the Supervisory Board
+   for the Board as a whole are achieved. The targets, profile of required
+   skills and expertise and diversity concept were adopted by the Super­
+   visory Board and are published – along with the implementation sta-
+   tus – in the Corporate Governance statement for fiscal year 2020. This
+   statement is contained in the Annual Report 2020 and is among the
+   materials specified in Agenda Item 1 and available on our website at
+      WWW.SIEMENS.COM/AGM , copies of which will also be sent to share-
+   holders upon request. As part of these materials, it will also be available
+   there during the Annual Shareholders’ Meeting.
+
+
+
+
+NOTICE   10
+   The candidates proposed below are to be elected for a four-year term of
+   office. That means that the option provided for under the Articles of
+   Association of Siemens AG, namely that members of the Supervisory
+   Board can be appointed for a shorter term of office than the regular
+   five-year term of office is to be utilized (Section 11 (2) of the Articles
+   of Association). The intention is to address requirements of modern
+   corporate governance and to take account of the expectations of inter-
+   national investors in particular. The Government Commission on the
+   German Corporate Governance Code also states in its reasoning on Prin-
+   ciple 10 of the German Corporate Governance Code in the version dated
+   December 16, 2019, that a shorter term of office increases flexibility,
+   in particular so that an evolving profile of required skills and expertise
+   can be better fulfilled and changes in the shareholder structure can
+   be reflected.
+
+   The Supervisory Board proposes that the candidates listed below under
+   lit. a) to c) be elected as shareholder representatives to the Supervisory
+   Board with effect as of the end of the Annual Shareholders’ Meeting.
+   They shall be appointed for a term of office until the end of the Annual
+   Shareholders’ Meeting that ratifies the acts of the members of the Super­
+   visory Board for the third fiscal year following the start of the term of
+   office. The fiscal year in which the term of office begins is not counted.
+
+   a) Grazia Vittadini, Munich,
+      Chief Technology Officer and member of the Airbus Executive
+      ­Committee
+   b) Kasper Rørsted, Pöcking,
+       Chief Executive Officer and Board Member of adidas AG
+   c) Jim Hagemann Snabe, Klampenborg, Denmark,
+       Chairman of the Supervisory Board of Siemens AG and of the Board
+       of Directors of A. P. Møller-Mærsk A / S
+
+   It is intended to let the Annual Shareholders’ Meeting decide the elec-
+   tion of the shareholder representatives on the Supervisory Board by way
+   of separate ballots.
+
+   It should also be noted that Mr. Snabe is to be proposed as candidate for
+   the position of Chairman of the Supervisory Board.
+
+   Further information on the Supervisory Board candidates proposed for
+   election is printed following the Agenda.
+
+
+
+
+NOTICE   11
+7. To resolve on the compensation for Supervisory Board
+   members and related amendments to the Articles
+   of ­Association
+   Under Section 113 (3) of the German Stock Corporation Act (AktG) in the
+   version amended by the German Act Implementing the Second Share-
+   holders’ Rights Directive (ARUG II), the Annual Shareholders’ Meeting of
+   listed companies must resolve on compensation for the members of the
+   Supervisory Board at least every four years. A resolution on this matter
+   must be adopted for the first time by the end of the first Annual Share-
+   holders’ Meeting after December 31, 2020.
+
+   The currently applicable provisions on the Supervisory Board’s compen-
+   sation under Section 17 of the Articles of Association of Siemens AG
+   date back to a resolution adopted by the Annual Shareholders’ Meeting
+   on January 25, 2011. The only amendment to these provisions was ad-
+   opted by the Annual Shareholders’ Meeting on January 28, 2014, in re-
+   lation to the compensation for the Compensation Committee that was
+   newly established at the time; they are otherwise unchanged. Based
+   on the system of Supervisory Board compensation presented under
+   Agenda Item 7 a) below, the current provisions in Section 17 of the
+   ­Articles of Association are to be amended with effect from October 1,
+    2021, and be replaced by simplified compensation arrangements.
+
+   In the future, the compensation of the Chairman of the Supervisory
+   Board is to be two times the basic compensation, and that of his or her
+   Deputies is to be one-and-a-half times the basic compensation, result-
+   ing in a reduction in the compensation for the Deputies.
+
+   The compensation for services on the Audit Committee is to be in-
+   creased moderately due to the significantly higher workload and time
+   requirements of the position, while the previously envisaged compen-
+   sation for services on the Compliance Committee is scrapped because
+   the latter committee was disbanded with effect from September 30,
+   2020, and its duties were assumed by the Audit Committee again. Com-
+   pensation for serving as chair or member of the Chairman’s Committee
+   or of the Compensation Committee is to be reduced to the level of com-
+   pensation for the Innovation and Finance Committee. As a result, the
+   amount of compensation for all committees – apart from the Audit
+   Committee – would be equal. In return, the compensation for serving
+   on multiple committees will no longer be offset or reduced.
+
+   The attendance fee is to be paid once only if multiple meetings are held
+   on one day. In return, it is to be increased from € 1,500 at present to
+   € 2,000.
+
+   The Supervisory Board – on the basis of its Chairman’s Committee’s rec-
+   ommendation – and the Managing Board propose that the following
+   resolution be approved and adopted:
+
+
+NOTICE   12
+   a) System of Supervisory Board compensation
+
+         The system of Supervisory Board compensation is based on the stat-
+         utory regulations and takes into account German and international
+         corporate governance requirements, in particular those under the
+         German Corporate Governance Code.
+
+         The compensation of Supervisory Board members should be bal-
+         anced overall and be in reasonable proportion to the responsibility
+         and tasks of the Supervisory Board members and the Company ’s
+         situation, taking into account the provisions for compensation at
+         other large listed companies. At the same time, agreeing to serve
+         as a member or chair of the Supervisory Board or of a committee
+         should be attractive enough that excellent persons can be acquired
+         and retained to serve on them. That is vital to ensuring the best-­
+         possible supervision of and advice for the Managing Board as well
+         making a key contribution to the Company ’s successful business
+         strategy and long-term success.
+
+         The Supervisory Board members should continue to receive a pure
+         fixed compensation so as to strengthen the Supervisory Board’s in-
+         dependence as well as to enable objective and neutral performance
+         of its advisory and supervisory functions and its independence in
+         personnel and compensation-related decisions. As a general rule,
+         the scope of the workload and liability risk of the members of the
+         Supervisory Board does not develop in parallel with the Company ’s
+         business success or its financial position. On the contrary, especially
+         difficult times, during which variable compensation may decrease,
+         require a particularly intensive exercise of the advisory and super­
+         visory functions of the Supervisory Board members.
+
+         In accordance with the recommendation in the German Corporate
+         Governance Code, additional compensation should be paid to take
+         appropriate account of the larger time commitment of the Chairman
+         of the Supervisory Board and of his or her Deputies, as well as of the
+         chairs and the members of committees. The Chairman of the Super-
+         visory Board is to receive twice the basic compensation of a simple
+         member of the Supervisory Board and each of his or her Deputies is
+         to receive one-and-a-half times the basic compensation. The chair of
+         each committee is to receive twice the compensation of a committee
+         member. Service on the Chairman’s Committee, the Compensation
+         Committee and the Innovation and Finance Committee but not the
+         Nominating Committee or the Mediation Committee are to be addi-
+         tionally compensated, in principle with the same amount. In view of
+         the fact that their work is particularly time-consuming, members of
+         the Audit Committee are to receive higher additional compensation
+         than that for services on other committees. The compensation for
+         serving on multiple committees will no longer be offset or reduced.
+
+
+
+NOTICE     13
+         The attendance fee is to be paid once only if multiple meetings are
+         held on one day; members will also be entitled to the attendance fee
+         if they participate by telephone, by video conference or with the aid
+         of similar common means of communication.
+
+         The pro rata temporis compensation and the attendance fee will
+         each be paid every quarter.
+
+         Finally, the Supervisory Board members shall be included in a D & O
+          liability insurance for board members and certain employees of the
+         Siemens Group maintained and paid for by the Company in the
+         Company ’s interests that, where existing, will provide reasonable
+         coverage against financial damages. Furthermore, the Company will
+         reimburse the members of the Supervisory Board for expenses
+         ­incurred and for sales taxes to be paid on their compensation.
+
+         The appropriateness of the provisions on compensation and the
+         compensation system is to be reviewed regularly by the Chairman’s
+         Committee of the Supervisory Board; external compensation ex-
+         perts can also be engaged to assist in that review. The Annual Share-
+         holders’ Meeting will resolve on the compensation for the members
+         of the Supervisory Board at least every four years and in the event of
+         proposals to amend the provisions on compensation. The Annual
+         Shareholders’ Meeting can ratify the existing system of Supervisory
+         Board compensation or adopt a resolution to amend it. Resolutions
+         to that effect proposed to the Annual Shareholders’ Meeting will be
+         submitted by the Managing Board and Supervisory Board in accor-
+         dance with the competencies assigned under the law, ensuring that
+         the two governing bodies control each other. The decision on the
+         ultimate form of the compensation system lies with the Annual
+         Shareholders’ Meeting.
+
+   b) Section 17 of the Articles of Association shall be amended to read
+      as follows:
+
+         “§ 17
+
+         1. The members of the Supervisory Board shall receive fixed basic
+            compensation of € 140,000 for each full fiscal year. The Chair-
+            man of the Supervisory Board shall receive twice this basic com-
+            pensation, and each Deputy one-and-a-half times this basic com-
+            pensation, for each full fiscal year.
+
+
+
+
+NOTICE     14
+         2. For their services on the Supervisory Board committees, addi-
+            tional compensation shall be paid for each full fiscal as follows:
+
+            a) € 180,000 to the Chairman of the Audit Committee and
+               € 90,000 to every other member of the Audit Committee;
+
+            b) € 80,000 each to the Chairman of the Chairman’s Committee,
+               of the Compensation Committee and of the Innovation and
+               Finance Committee and € 40,000 to every other member of
+               said committees for each committee to which the member
+               belongs.
+
+         3. In case there are changes on the Supervisory Board and /or its
+            committees during the year, the compensation shall be in pro-
+            portion to the term of office, with parts of months being rounded
+            up to full months.
+
+         4. The remuneration shall be payable pro rata temporis within one
+            month of the end of each quarter.
+
+         5. In addition, an attendance fee of € 2,000 shall be paid to every
+            member of the Supervisory Board for each meeting of the Super-
+            visory Board or its committees he or she attends. Attendance at
+            a meeting shall also include participation by telephone, by video
+            conference or with the aid of similar common means of commu-
+            nication. The attendance fee shall be paid once only if multiple
+            meetings are held on one day. The attendance fee for the meet-
+            ings held in a quarter shall be paid within one month of the end
+            of each quarter.
+
+         6. The Supervisory Board members shall be included in D & O liabil-
+            ity insurance in the interests of the Company with appropriate
+            coverage for board members and certain employees of the
+            Siemens Group, to the degree that such an insurance policy ex-
+            ists. The premiums for this insurance policy shall be paid by the
+            Company. Furthermore, the Company will reimburse the mem-
+            bers of the Supervisory Board for expenses incurred and for sales
+            taxes to be paid on their compensation.”
+
+   c) The provisions of the above amendment to Section 17 of the Articles
+      of Association shall apply as from October 1, 2021, and shall replace
+      the existing provisions on Supervisory Board compensation in Sec-
+      tion 17 of the Articles of Association as of that date. The Managing
+      Board shall be instructed to apply for the registration of the changes
+      to the Articles of Association stated under Agenda Item 7 b) in the
+      commercial register such that they are not entered before Octo-
+      ber 1, 2021.
+
+
+
+
+NOTICE     15
+8. To resolve on the creation of an Authorized Capital 2021
+   reserved for the issuance to employees with shareholders’
+   subscription rights excluded, and related amendments
+   to the Articles of Association
+   The Authorized Capital 2016 resolved by the Annual Shareholders’ Meet-
+   ing on January 26, 2016, and currently reserved for the issuance of
+   Siemens shares to employees will expire on January 25, 2021. The Man-
+   aging Board shall again be authorized to transfer Siemens shares from
+   authorized capital to employees of Siemens AG and any of its affiliated
+   companies. It is therefore proposed that a new Authorized Capital 2021
+   be created to replace the current unused Authorized Capital 2016, and
+   that it have the same volume.
+
+   The Supervisory Board and the Managing Board propose that the fol-
+   lowing resolution be approved and adopted:
+
+   a) The Managing Board shall be authorized to increase, with the ap-
+      proval of the Supervisory Board, the capital stock once or several
+      times until February 2, 2026, by up to a total of € 90,000,000 nomi-
+      nal through the issuance of up to 30,000,000 shares of no par value
+      registered in the names of the holders against contributions in cash.
+      Subscription rights of existing shareholders shall be excluded. The
+      new shares shall be issued only under the condition that they are
+      offered exclusively to employees of Siemens AG and any of its affili-
+      ated companies (“employee shares”). As part of this, the new shares
+      can also be issued through a credit institution or a company operat-
+      ing in accordance with Section 53 (1) sentence 1 or Section 53 b (1)
+      sentence 1 or (7) of the German Banking Act (KWG) that acts as an
+      intermediary. To the extent permitted by law, employee shares may
+      also be issued in such a manner that the contribution to be paid on
+      such shares is covered by that part of the annual net income which
+      the Managing Board and the Supervisory Board could allocate to
+      other retained earnings under Section 58 (2) of the German Stock
+      Corporation Act (AktG).
+
+         The Managing Board shall be authorized to determine, with the ap-
+         proval of the Supervisory Board, the further content of the rights em­
+         bodied in the shares and the terms and conditions of the share issue.
+
+   b) Section 4 (7) of the Articles of Association which contains the previ-
+      ous Authorized Capital 2016 shall be deleted and replaced by the
+      following new Section 4 (7):
+
+         “7. The Managing Board is authorized to increase, with the approval
+             of the Supervisory Board, the capital stock once or several times
+             until February 2, 2026, by up to a total of € 90,000,000 nominal
+             through the issuance of up to 30,000,000 shares of no par value
+
+
+
+
+NOTICE     16
+          registered in the names of the holders against contributions in
+          cash. Subscription rights of existing shareholders are excluded.
+          The new shares shall be issued only under the condition that
+          they are offered exclusively to employees of Siemens AG and any
+          of its affiliated companies (“employee shares”). As part of this,
+          the new shares can also be issued through a credit institution or
+          a company operating in accordance with Section 53 (1) sen-
+          tence 1 or Section 53 b (1) sentence 1 or (7) of the German Bank-
+          ing Act (KWG) that acts as an intermediary. To the extent permit-
+          ted by law, employee shares may also be issued in such a manner
+          that the contribution to be paid on such shares is covered by that
+          part of the annual net income which the Managing Board and
+          the Supervisory Board could allocate to other retained earnings
+          under Section 58 (2) of the German Stock Corporation Act
+          (AktG). The Managing Board shall be authorized to determine,
+          with the approval of the Supervisory Board, the further content
+          of the rights embodied in the shares and the terms and condi-
+          tions of the share issue (Authorized Capital 2021).”
+
+   c) The Supervisory Board shall be authorized to amend Section 4 of the
+      Articles of Association depending on the respective utilization of the
+      Authorized Capital 2021 and upon expiration of the effective term of
+      the authorization.
+
+   Against the background of the above-proposed authorization to in-
+   crease the capital stock, the Managing Board has prepared a written
+   report on the reasons for which shareholders’ subscription rights are to
+   be excluded. The report is reproduced after the Agenda and, from the
+   time of giving Notice of Annual Shareholders’ Meeting, is available
+   on our website at     WWW.SIEMENS.COM/AGM . The report will also be
+   available there during the Annual Shareholders’ Meeting.
+
+9. To resolve on the approval of the agreement dated
+   November 27, 2020, amending the Profit-and-Loss
+   ­Transfer Agreement between Siemens AG and
+    Siemens Bank GmbH, Munich
+   Siemens AG, as the controlling company, and its wholly-owned, Munich-­
+   based subsidiary Siemens Bank GmbH (formerly named Siemens F­ inance
+   GmbH), as the controlled company, concluded a Profit-and-Loss Trans-
+   fer Agreement on October 29 / November 5, 2010, which the Annual
+   Shareholders’ Meeting of Siemens AG approved on January 25, 2011. An
+   amendment to Article 28 (3) of Regulation (EU) No 575 / 2013 (Capital
+   Requirements Regulation (CRR)) meant that this Profit-and-Loss Transfer
+   Agreement has to be modified. So that the equity of Siemens Bank
+   GmbH can qualify as “Common Equity Tier 1 capital” under the regu­
+   latory framework if there is a Profit-and-Loss Transfer Agreement,
+
+
+
+NOTICE   17
+   ­ rticle 28 (3) CRR stipulates, among other things, that (i) allocation of
+   A
+   part or all of the profit as retained earnings within the meaning of Sec-
+   tion 272 (3) of the German Commercial Code (HGB) or as a special item
+   for general banking risks within the meaning of Section 340 g of the
+   German Commercial Code (HGB) is a discretionary decision by the sub-
+   sidiary (controlled company) and (ii) the agreement must have a notice
+   period under which it can be terminated only effective with the end of
+   a fiscal year, without that entailing any change to the parent company’s
+   obligation to fully compensate for all losses incurred during a current
+   fiscal year. In order to satisfy these regulatory requirements, Siemens AG
+   and Siemens Bank GmbH concluded an agreement amending the exist-
+   ing Profit-and-Loss Transfer Agreement on November 27, 2020.
+
+   The Supervisory Board and the Managing Board propose that the agree-
+   ment dated November 27, 2020 amending the Profit-and-Loss Transfer
+   Agreement between Siemens AG and Siemens Bank GmbH, Munich,
+   be approved.
+
+   The essential content of the Amendment Agreement is as follows:
+
+         Under the amended Articles 1.2 and 1.3 of the Profit-and-Loss Trans-
+         fer Agreement, Siemens Bank GmbH may appropriate amounts from
+         the net income to other retained earnings pursuant to Section 272
+         (3) of the German Commercial Code (HGB) or to the special item
+         “Fund for general banking risks” in accordance with Section 340 g of
+         the German Commercial Code (HGB) insofar as this is permitted
+         ­under commercial law and, in relation to allocation to other retained
+          earnings, is economically justified based on reasonable business
+          judgment or, in relation to allocation to the special item “Fund for
+          general banking risks,” is necessary based on reasonable business
+          judgment due to the special risks of its line of business as a credit
+          institution. Upon request by Siemens AG, amounts appropriated to
+          other retained earnings pursuant to Section 272 (3) of the German
+          Commercial Code (HGB) during the term of the Agreement shall be
+          released and used to compensate a net loss or be transferred as
+          profits, whereby the release of other retained earnings for the pur-
+          pose of transferring profits is subject to the proviso that the subsid-
+          iary has sufficient equity, in part to allow for the intended transfer
+          of profits.
+           The following applies in accordance with the amended Article 3.3 of
+          the Profit-and-Loss Transfer Agreement: Unless terminated earlier
+          on mandatory legal grounds, the Agreement has a fixed term of five
+          (5) years as from the beginning of the Subsidiary ’s fiscal year in
+          which the Agreement becomes effective by registration in the
+          ­Commercial Registry at the domicile of the Subsidiary. Thereafter,
+           the Agreement shall be automatically renewed for successive one
+           (1) year terms unless terminated by either party upon two (2) weeks’
+           notice prior to the end of the Subsidiary’s fiscal year. Article 3.4 of
+
+
+NOTICE     18
+         the Profit-and-Loss Transfer Agreement, which points out that either
+         party has the right to terminate the Agreement for good cause
+         ­under the law, is deleted in its entirety.
+
+   The Amendment Agreement does not provide for other significant mod-
+   ifications.
+
+   From the time of giving Notice of Annual Shareholders’ Meeting, the
+   following materials are available on our website at WWW.SIEMENS.
+   COM/AGM :
+
+           The agreement dated November 27, 2020, amending the Profit-­and-
+         Loss Transfer Agreement between Siemens AG and Siemens Bank
+         GmbH,
+         The currently existing Profit-and-Loss Transfer Agreement between
+         Siemens AG and Siemens Bank GmbH (formerly named Siemens
+         Finance GmbH),
+           The adopted Annual Financial Statements and the approved Consol-
+         idated Financial Statements, together with the Combined Manage-
+         ment Report of Siemens AG and the Siemens Group, in each case
+         as of September 30, 2018, September 30, 2019, and September 30,
+         2020,
+           The adopted Annual Financial Statements and the Management
+         ­Report of Siemens Bank GmbH, in each case as of September 30,
+          2018, September 30, 2019, and September 30, 2020,
+         The Joint Report of the Managing Board of Siemens AG and Manage-
+          ment of Siemens Bank GmbH in accordance with Section 293 a of
+           the German Stock Corporation Act (AktG) and dated November 27,
+          2020, on the agreement amending the Profit-and-Loss Transfer
+          Agreement between Siemens AG and Siemens Bank GmbH,
+         The Joint Report of the Managing Board of Siemens AG and Manage-
+          ment of Siemens Bank GmbH (formerly named Siemens Finance
+          GmbH) in accordance with Section 293 a of the German Stock
+          ­Corporation Act (AktG) at the time of conclusion of the currently
+           existing Profit-and-Loss Transfer Agreement, and dated Novem-
+           ber 25, 2010.
+
+   Upon request, every shareholder will be provided with a copy of these
+   materials without undue delay and free of charge. The materials will
+   also be available to shareholders during the Annual Shareholders’ Meet-
+   ing on our website at     WWW.SIEMENS.COM/AGM .
+
+
+
+
+NOTICE     19
+  Further information, details,
+  and reports
+
+Information on the Supervisory Board candidates proposed
+for election under Agenda Item 6
+
+
+
+
+Grazia Vittadini         Kasper Rørsted            Jim Hagemann Snabe
+
+
+Grazia Vittadini, Munich,
+Chief Technology Officer and member of the Airbus Executive Committee
+(listed company)
+
+Personal information:
+Date of birth: September 23, 1969
+Place of birth: Lodi, Italy
+Nationality: Italian
+
+Education:
+   Master ’s degree, Aeronautical Engineering (Aerodynamics) P
+                                                             ­ olitecnico
+   di Milano, Milan, Italy
+
+Professional career:
+1998 – 1999	Marves Milano S. a. s., Milan, Italy – Head of the Technical
+              Department
+1999 – 2000	AEREA S. p. A., Milan, Italy – Eurofighter Role Equipment
+              Program
+2000 – 2002	Geci Ltd. for Fairchild Dornier GmbH, Oberpfaffenhofen –
+              Design Engineer
+2002 – 2005	Airbus GmbH, Hamburg – A380 Design
+2005 – 2009	Airbus GmbH, Bremen – Chief Engineer High Lift Devices
+              A380
+2009 – 2012	Airbus GmbH, Hamburg – Head of Major Structural Tests
+2013 – 2014	Airbus GmbH, Hamburg – Vice President Head of Airframe
+              Design
+
+
+
+
+NOTICE   20
+2014 – 2016	Airbus Group SE, Toulouse – Senior Vice President Head
+             of Corporate Audit
+2017 – 2018	Airbus Defence and Space SE, Toulouse, France – Executive
+             Vice President Head of Engineering and member of the
+             ­Executive Committee
+since 2018	Airbus, Toulouse / Ottobrunn, France / Germany – Chief
+              ­Technology Officer and Member of the Executive Committee
+
+Membership in domestic supervisory boards whose establishment
+is ­required by law:
+     Airbus Operations GmbH, Hamburg (group company position)
+
+Membership in comparable domestic or foreign controlling bodies
+of business enterprises:
+    UAM / Urban Air Mobility GmbH, Taufkirchen (Advisory Board)
+    (group company position)
+
+No other significant activities.
+
+
+
+Kasper Rørsted, Pöcking,
+Chief Executive Officer and Board Member of adidas AG (listed company)
+
+Personal information:
+Date of birth: February 24, 1962
+Place of birth: Aarhus, Denmark
+Nationality: Danish
+
+Education:
+   International Business Studies, Copenhagen Business College, Denmark
+   Executive Program, Harvard Business School, USA
+
+Professional career:
+1986 – 1991	Digital Equipment Corporation, Aarhus / Copenhagen,
+              ­Denmark – Various management positions (sales, marketing)
+1991 – 1994	Digital Equipment, Munich – Various management positions
+1994–1995	Oracle Corporation, Munich – Director Business Alliances,
+               EMEA
+1995 – 2001	Compaq Computer, Munich – Various management
+               ­positions (Head of Enterprise Business Group EMEA;
+                Vice President and General Manager EMEA)
+
+
+
+
+NOTICE    21
+2001 – 2002	Compaq Computer, Zurich, Switzerland – Senior Vice
+             ­President and General Manager EMEA
+2002 – 2004	Hewlett-Packard SA, Zurich, Switzerland – Senior Vice
+              ­President and General Manager EMEA
+2005 – 2007	Henkel AG & Co. KGaA, Düsseldorf – Executive Vice
+               ­President, Human Resources Management, Procurement,
+                Information Technologies and Infrastructure Services
+2007 – 2008	Henkel AG & Co. KGaA, Düsseldorf – Vice Chairman
+                of the Management Board
+2008 – 2016	Henkel AG & Co. KGaA, Düsseldorf – Chief Executive Officer
+                (CEO)
+since 2016	adidas AG, Herzogenaurach – Chief Executive Officer (CEO)
+
+No membership in domestic supervisory boards whose establishment
+is required by law.
+
+Membership in comparable domestic or foreign controlling bodies
+of business enterprises:
+    Member of the Board of Directors, Nestlé S. A., Vevey, Switzerland
+    (listed company)
+
+No other significant activities.
+
+
+
+Jim Hagemann Snabe, Klampenborg, Denmark,
+Chairman of the Supervisory Board of Siemens AG and of the Board
+of ­Directors of A. P. Møller-Mærsk A / S
+
+Personal information:
+Date of birth: October 27, 1965
+Place of birth: Egedal, Denmark
+Nationality: Danish
+
+Education:
+   Studies and MA in Operational Research and Finance, Aarhus School
+   of Business, Denmark
+
+Professional career:
+1990 – 1994	SAP AG – Consultant, head of consulting at the Danish
+              ­subsidiary of SAP
+1994 – 1996	IBM Denmark ApS, Lyngby, Denmark – Practise Leader
+               of Management Consulting Practise, Europe
+
+
+
+
+NOTICE    22
+1996 – 2008	SAP AG – Various management positions at SAP (managing
+             director of the Swedish subsidiary of SAP, Managing Director
+             of the SAP Nordic region, member of SAP’s EMEA manage-
+             ment team, member of the global development unit, Chief
+             Operating Officer of the Business Solution Group, head of
+             application development)
+2008 – 2010	SAP AG – Member of the Managing Board responsible
+             for Research and Development
+2010 – 2014	Co-Chief Executive Officer of SAP AG
+since 2013	Member of the Supervisory Board of Siemens AG
+2014 – 2017	Member of the Supervisory Board of SAP AG
+since 2016	Member of the Board of Directors of A. P. Møller-Mærsk A / S,
+             Denmark
+since 2017	Chairman of the Board of Directors of A. P. Møller-Mærsk A / S
+since 2017	Adjunct Professor at Copenhagen Business School, Copen-
+             hagen, Denmark
+since 2018	Chairman of the Supervisory Board of Siemens AG
+
+Membership in domestic supervisory boards whose establishment
+is ­required by law:
+     Allianz SE, Munich (Deputy Chairman) (listed company)
+     Siemens Aktiengesellschaft, Berlin and Munich (Chairman)
+     (listed company)
+
+   Mr. Snabe has been a member of the Supervisory Board of
+   Siemens AG since October 1, 2013, and its Chairman since January 31,
+   2018. He is also a member and Chairman of the Chairman’s Commit-
+   tee, the Nominating Committee, the Mediation Committee and the
+   Innovation and Finance Committee as well as a member of the Audit
+   Committee and the Compensation Committee of the Supervisory
+   Board of Siemens AG.
+
+Membership in comparable domestic or foreign controlling bodies
+of business enterprises:
+    A. P. Møller-Mærsk A / S, Denmark (Chairman) (listed company)
+
+No other significant activities.
+
+
+
+
+NOTICE    23
+The proposed candidates hold high-ranking positions at other companies.
+Siemens has relationships with almost all these companies in the ordinary
+course of its business. Normal market terms and conditions were applied in
+purchasing and selling a broad range of products and services with those
+companies.
+
+In addition to the above details, and with regard to C.13 of the German
+Corporate Governance Code, it is hereby declared that, in the appraisal of
+the Supervisory Board, none of the proposed candidates has personal or
+business relations subject to disclosure requirements under this provision
+with Siemens AG or its Group Companies, the governing bodies of
+Siemens AG, or with a shareholder holding a material interest in
+Siemens AG. According to the appraisal of the Supervisory Board, the
+­candidates are independent within the meaning of the German Corporate
+ Governance Code. In addition, the Supervisory Board has satisfied itself that
+ the proposed candidates can devote the expected amount of time required.
+
+Report of the Managing Board on Agenda Item 8
+The Authorized Capital 2021 is to replace the Authorized Capital 2016 that
+was adopted by the Annual Shareholders’ Meeting on January 26, 2016, and
+has not been utilized. It is to have the same volume as the Authorized Cap-
+ital 2016. This authorized capital currently reserved for the issuance of
+Siemens shares to employees will expire on January 25, 2021. The Autho-
+rized Capital 2021 is intended to enable Siemens AG again to issue new
+shares under employee share programs and share-based compensation to
+employees of Siemens AG and any of its affiliated companies also in the
+future. For this purpose, the remaining shareholders’ subscription rights
+must be excluded.
+
+Siemens promotes an ownership culture at the Company and enables em-
+ployees and managers, where possible worldwide, to participate in the
+Company and its development by means of share programs and share-
+based compensation. This participation is also desired by legislators and
+therefore is facilitated in several ways. The issue of Siemens shares to em-
+ployees of Siemens AG and its affiliated companies is intended to enhance
+the identification of these persons with Siemens and serve as an incentive
+to focus on a sustainable increase in the Company’s value. Their long-term
+affiliation with the Company is to be reinforced and they are to be enabled
+to participate as shareholders in the Company’s long-term development.
+The aim, in the interests of the Company and its shareholders, is to
+strengthen the understanding and willingness to accept greater, especially
+economic, responsibility. The issue of shares also makes it possible to create
+schemes with long-term incentive effects in which both positive and nega-
+tive developments can be reflected. For example, this enables the grant of
+shares with a lock-up period or vesting period or sales-deferring induce-
+ments to have not just a bonus effect, but, in the case of negative develop-
+ments, also a malus effect.
+
+
+NOTICE   24
+The targets described above are currently being pursued in the Siemens
+Group using a variety of models for employee share programs and share-
+based compensation.
+
+Under what is termed a Share Matching Plan, eligible employees and man-
+agers of Siemens AG and its affiliated companies that participate in the plan
+have the opportunity, every year in which a new plan tranche is issued, to
+invest a certain portion of their compensation in the acquisition of Siemens
+shares at the stock market price. After a vesting period of several years, plan
+participants receive one additional free Siemens share (“matching share”)
+for every three Siemens shares acquired and continuously held under the
+Share Matching Plan, provided they are employed with Siemens AG or any
+of its affiliated companies without interruption until the end of the vest-
+ing period.
+
+So as to simplify administration, it shall also be possible to offer a modified
+Share Matching Plan, under which the plan participants immediately re-
+ceive one additional free matching share for every three Siemens shares
+purchased at the stock market price under the Share Matching Plan, and
+under which the purchased and matching shares are subject to a vesting
+period of at least one year, during which they cannot be disposed of. How-
+ever, a decision to launch such a plan has not yet been made at present.
+
+In addition, eligible Siemens managers and employees in Germany have the
+opportunity to acquire Siemens shares with the purchase funded in equal
+parts through their own investments and a company contribution in accor-
+dance with the applicable tax privileges. Shares that are acquired or held in
+this way on preferential terms also entitle the holders to receive matching
+shares under the same conditions as under the Share Matching Plan.
+
+Selected employees and managers of Siemens AG and of its affiliated com-
+panies are currently granted Siemens shares likewise without their own
+previous investments with a vesting period of several years. The shares are
+transferred when the vesting period ends (“Siemens stock awards”). As a
+matter of principle, the vesting periods are several years in length. How-
+ever, an annual pro-rata transfer of equal parts of a total number of granted
+shares over a term of several years can also be provided for. Stock awards
+are also predominantly linked to performance targets, such as targets
+­related to increases in company value and sustainability.
+
+In addition, it should be possible to transfer Siemens shares to eligible em-
+ployees of Siemens AG and its affiliated companies without any own invest-
+ment to allow for a participation in the Company’s success after successful
+fiscal years or to reward employees for their long service.
+
+The Authorized Capital 2021 is not intended to be available only to the
+above-mentioned existing employee share programs and share-based com-
+pensation, but also in cases in which, to the benefit of employees of
+Siemens AG or its affiliated companies, new employee share programs and
+
+
+
+NOTICE    25
+share-based compensation are introduced, including programs limited to
+individual companies, or when existing employee share programs or share-
+based compensation are extended or adjusted.
+
+If the Authorized Capital 2021 is utilized, the total number of shares issued
+and the preferential treatment granted to the beneficiaries as a result of the
+shares being granted at a reduced price or without any own investment
+should be in reasonable relation to the Company ’s situation and the
+­anticipated advantages for the Company. The issue of the shares can be tied
+ to other conditions, such as vesting periods, lock-up periods, achievement
+ of specific targets or continued employment at the Siemens Group, and
+ alternative forms of servicing or fulfilling existing obligations to issue em-
+ ployee shares (such as treasury shares or cash settlement) are also taken
+ into ­account.
+
+New shares from the Authorized Capital 2021 shall be issued exclusively to
+employees of Siemens AG or any of its affiliated companies (“employee
+shares”). By contrast, no new shares from the Authorized Capital 2021 shall
+be issued to members of the managing or supervisory bodies of Siemens AG
+or any of its affiliated companies.
+
+The employee shares shall be issued against cash contributions. As part of
+this, the new shares can also be issued through a credit institution or a
+company operating in accordance with Section 53 (1) sentence 1 or Sec-
+tion 53 b (1) sentence 1 or (7) of the German Banking Act (KWG) that acts as
+an intermediary. Furthermore, the Company shall be enabled to issue the
+employee shares pursuant to the more detailed requirements of Sec-
+tion 204 (3) of the German Stock Corporation Act (AktG) in such a manner
+that the contribution to be paid on such shares is covered by that part of the
+annual net income which the Managing Board and the Supervisory Board
+could allocate to other retained earnings under Section 58 (2) of the Ger-
+man Stock Corporation Act (AktG).
+
+The issue price of the employee shares can – depending on the employee
+share programs serviced by them or the share-based compensation fulfilled
+by them – be between the minimum issue price (Section 9 (1) of the Ger-
+man Stock Corporation Act (AktG)) and a suitable market value, less any
+benefits from preferential treatment granted to the workforce if applicable.
+
+
+
+
+NOTICE    26
+The volume of the proposed Authorized Capital 2021 of up to a total of
+€ 90,000,000 nominal through the issuance of up to 30,000,000 shares of
+no par value registered in the names of the holders accounts for approxi-
+mately 3.53 % of the current capital stock. It is in an adequate proportion to
+the amount of the Company’s capital stock, the number of employees of
+Siemens AG and its affiliated companies and the term of the authorization.
+Repurchased treasury shares can also be used for the various employee
+share programs and share-based compensation, to the extent this is legally
+permissible or the Managing Board has been authorized accordingly pursu-
+ant to Section 71 (1) no. 8 of the German Stock Corporation Act (AktG). The
+Annual Shareholders’ Meeting on February 5, 2020, adopted such an au-
+thorization under Agenda Item 7. Nevertheless, the Company should also
+retain the necessary flexibility to create and issue new shares by way of a
+capital increase, as an alternative or in addition to the issuance of shares
+held in treasury. By using the Authorized Capital 2021, the Company may
+then issue shares as employee shares without having to resort to its stock
+of treasury shares and independently of any previous repurchase, without
+detriment to its liquidity.
+
+In order to be able to issue new shares in the form of employee shares un-
+der the Authorized Capital 2021, it is necessary to exclude the shareholders’
+subscription rights. Otherwise the Company and its shareholders would not
+be able to reap the benefits associated with the employee share programs
+and share-based compensation. After weighing the circumstances above,
+the Managing Board considers the exclusion of the shareholders’ subscrip-
+tion rights in the cases mentioned to be objectively justified and reasonable
+to the shareholders, even after taking into consideration a possible dilutive
+effect. The issuance of new shares in the form of employee shares is basi-
+cally in the interest of the Company and its shareholders. Additionally, this
+form of issuance is promoted by legislators and facilitated by law in several
+ways. Prior to making use of the Authorized Capital 2021, the Managing
+Board shall carefully examine on a case-by-case basis whether the utiliza-
+tion is in the interest of the Company and its shareholders.
+
+The Managing Board will inform the Annual Shareholders’ Meeting of
+­utilization of the Authorized Capital 2021.
+
+
+
+
+NOTICE   27
+Total number of shares and voting rights
+At the time of giving Notice of the Annual Shareholders’ Meeting, the
+­Company’s capital stock amounts to 850,000,000 shares of no par value, with
+ each share entitling to one vote. The total number of voting rights thus
+ amounts to 850,000,000. Of these 850,000,000 shares, at the time the An-
+ nual Financial Statements were prepared by the Managing Board, 49,039,237
+ shares were held as treasury shares from which the Company derives no rights.
+
+Prerequisites for attending the virtual Annual Shareholders’
+Meeting and for exercising voting rights
+The holding of the Annual Shareholders’ Meeting as a virtual Annual Share-
+holders’ Meeting leads to some modifications in the conduct of the meeting
+and the exercise of shareholders’ rights. We therefore ask that particular
+attention be paid to the following information, especially regarding the
+possibility of following the Annual Shareholders’ Meeting through sound
+and vision, exercising voting rights, the possibility of asking questions and
+the possibility of objection.
+
+On the basis of Section 1 of the Act on Measures in Corporate Law, Cooper-
+atives Law, Associations Law, Trust Law, and Real Estate Owner Law to Com-
+bat the Effects of the COVID-19 Pandemic of March 27, 2020 (Federal Law
+Gazette I No. 14 2020, p. 570), the application of which was extended by the
+Ordinance on Extending Measures in Corporate Law, Cooperatives Law,
+Associations Law and Trust Law to Combat the Effects of the COVID-19 Pan-
+demic of October 20, 2020 (Federal Law Gazette I No. 48 2020, p. 2258)
+until December 31, 2021, (hereinafter “COVID-19 Measures Act”), the Man-
+aging Board of Siemens AG decided, with the approval of the Supervisory
+Board, to hold the Annual Shareholders’ Meeting as a virtual Annual Share-
+holders’ Meeting without the physical attendance of the shareholders or
+their proxy representatives. Physical attendance by shareholders or their
+proxy representatives (except for the proxy representatives nominated by
+the Company) is therefore excluded.
+
+Shareholders and their proxy representatives will be able to follow the en-
+tire Annual Shareholders’ Meeting live through sound and vision from
+10:00 a. m. (CET) on Wednesday, February 3, 2020, by using the Internet
+Service at    WWW.SIEMENS.COM/AGM-SERVICE . The live transmission does
+not allow for participation in the Annual Shareholders’ Meeting within the
+meaning of Section 118 (1) sentence 2 of the German Stock Corporation
+Act (AktG).
+
+Shareholders or their proxies may exercise their voting rights exclusively by
+absentee voting or by authorizing the proxy representatives nominated by
+the Company as specified below. The envisaged votes on Agenda Items 2
+to 9 are binding; it is possible in each case to vote in favor or against or
+abstain or to refrain from voting.
+
+
+
+NOTICE   28
+Notification of attendance
+Only those shareholders are entitled to attend and vote at the Annual
+Shareholders’ Meeting who are recorded as shareholders of the Company
+in the Company ’s share register and who have submitted timely notifica-
+tion of attendance at the Annual Shareholders’ Meeting. The notification of
+attendance must be received by the Company no later than midnight (CET)
+on Wednesday, January 27, 2021.
+
+Shareholders who are registered in the Company’s share register may sub-
+mit their notification of attendance in text form in the German or English
+language to Siemens AG at the following address:
+
+   Siemens Hauptversammlung
+   c /o ADEUS Aktienregister-Service-GmbH
+   20636 Hamburg, Germany
+   Telefax: + 49 (0) 89 / 2070-37951
+   E-mail: hv-service.siemens@adeus.de
+
+or by using the password-protected Internet Service for the Annual Share-
+holders’ Meeting electronically via the Internet at
+
+  WWW.SIEMENS.COM/AGM-SERVICE
+
+You can obtain online access by entering your Shareholder Control Number
+and your related Personal Identification Number (PIN), both of which are
+contained in the materials sent to you. Instead of their PIN, shareholders
+who have registered for electronic delivery of invitations to Shareholders’
+Meetings with an Access Password selected by them must use this Access
+Password.
+
+Upon registering, you can choose whether you wish to exercise your vote
+by absentee voting, authorize the proxy representatives nominated by the
+Company or other proxy representatives – such as intermediaries (e. g.
+credit institutions), shareholders’ associations, proxy advisors as well as
+persons who tender the service commercially to shareholders of exercising
+their voting rights at the Annual Shareholders’ Meeting. Details of these
+options are explained in the following sections. Further information on the
+attendance notification procedure is provided on the Attendance Notifica-
+tion Form (which may also be used to assign a proxy representative and
+vote by absentee voting) sent to you together with the Notice of Annual
+Shareholders’ Meeting, as well as at the above-mentioned website, where
+you will also find an Attendance Notification Form.
+
+
+
+
+NOTICE   29
+After timely notification of your attendance, changes to your absentee
+­voting, proxy authorization and voting instructions, including a change
+ ­between absentee voting and proxy authorization (or vice versa), are still
+  possible as follows: They may be sent by letter, e-mail or fax to the
+  above-mentioned address, where they must be received by no later than
+  the beginning of voting on the day of the Annual Shareholders’ Meeting for
+  them to be considered. In addition, you can use our Internet Service for
+  such changes until the beginning of voting on the day of the Annual Share-
+  holders’ Meeting. Special conditions apply to the use of our Internet Service
+  for notification of attendance from intermediaries (e. g. credit institutions),
+  shareholders’ associations, proxy advisors as well as persons who tender
+  the service commercially to shareholders of exercising their voting rights at
+  the Annual Shareholders’ Meeting. Detailed information can be found on
+  the above-mentioned website.
+
+Intermediaries (such as credit institutions), shareholders’ associations,
+proxy advisors as well as persons who tender the service commercially to
+shareholders of exercising their voting rights at the Annual Shareholders’
+Meeting are not entitled to vote such shares not owned by them, but which
+are recorded under their names in the Company ’s share register (com-
+monly referred to as nominee or “street name” registration), unless they
+have the shareholder ’s authority.
+
+Holders of American Depositary Receipts (ADRs) may obtain further infor-
+mation through Deutsche Bank Trust Company Americas, c /o AST & Trust
+Co, 6201 15th Avenue, Brooklyn, NY 11219, USA (phone: + 1 (866) 249-2593,
+e-mail: dbemails@astfinancial.com).
+
+Free disposability of shares
+Shareholders may dispose of their shares even after having registered for
+attendance at the Annual Shareholders’ Meeting. The right to attend and
+vote is based on the shareholding evidenced by entry in the Company ’s
+share register as of the date of the Annual Shareholders’ Meeting, irrespec-
+tive of the balances in the security account. Applications for registration in
+the Company’s share register received by the Company from January 28,
+2021, through February 3, 2021, i. e., after the end of the closing date of the
+notification period, will be processed and considered only with effect after
+the Annual Shareholders’ Meeting on February 3, 2021. The technical
+­record date is therefore the end of January 27, 2021.
+
+
+
+
+NOTICE    30
+Absentee voting procedure
+Shareholders who are registered in the Company’s share register are enti-
+tled to submit their votes by way of absentee voting, even without attend-
+ing the virtual Annual Shareholders’ Meeting. Only those registered share-
+holders whose notification of attendance at the Annual Shareholders’
+Meeting has been given in a timely manner (see “Notification of atten-
+dance” above) are entitled to vote by absentee voting. Proxy representa-
+tives, including authorized intermediaries (e. g. credit institutions), share-
+holders’ associations, proxy advisors as well as persons who tender the
+service commercially to shareholders of exercising their voting rights at the
+Annual Shareholders’ Meeting may also take advantage of absentee voting.
+
+Voting by absentee voting shall be in writing or by using electronic commu-
+nication. Please use the above-mentioned Internet Service or send your
+absentee voting by letter, e-mail or fax to the above-mentioned address. If
+possible, please use the Attendance Notification Form sent to you together
+with the Notice of Annual Shareholders’ Meeting. Please note that if you
+use the Internet Service, any other absentee voting or proxy authorization
+and instructions with the same Shareholder Control Number are rendered
+invalid. For the option of changing absentee voting, please see the instruc-
+tions above in the “Notification of attendance” section.
+
+Further information is provided on the Attendance Notification Form sent
+together with the Notice of Annual Shareholders’ Meeting and on the
+above-mentioned website.
+
+Procedure for voting by authorizing proxy representatives
+nominated by the Company
+We also offer you the option of being represented by company employees
+as proxy representatives nominated by the Company in exercising your
+­voting rights at the virtual Annual Shareholders’ Meeting in accordance
+ with your instructions. Here again, timely notification of attendance must
+ be given (see “Notification of attendance” above).
+
+A proxy authorization, its revocation and evidence of proxy authorization
+vis-à-vis the Company must be provided in text form or via the above-­
+mentioned Internet Service. Please use the Internet Service mentioned
+above or send your proxy authorization and instructions by letter, e-mail or
+fax to the above-mentioned address. If possible, please use the Attendance
+Notification Form sent to you together with the Notice of Annual Share-
+holders’ Meeting. Upon return of the Attendance Notification Form or by
+using the Internet Service, proof of authorization is provided to Siemens AG.
+Please note that if you use the Internet Service, any other absentee voting
+or proxy authorization and instructions with the same Shareholder Control
+Number are rendered invalid. For the option of changing absentee voting,
+please see the instructions above in the “Notification of attendance” ­section.
+
+
+
+NOTICE   31
+Please note that the proxy representatives nominated by the Company will
+not accept any instructions for requests to speak, to ask questions or to
+submit proposals or to raise objections to resolutions of the Annual Share-
+holders’ Meeting.
+
+Proxy representatives, including authorized intermediaries (e. g. credit in-
+stitutions), shareholders’ associations, proxy advisors and persons who
+tender the service commercially to shareholders of exercising their voting
+rights at the Annual Shareholders’ Meeting may also be represented by
+proxy representatives nominated by the Company in exercising voting
+rights in accordance with their instructions, subject to any provisions to the
+contrary of those represented.
+
+Further information is provided on the Attendance Notification Form sent
+together with the Notice of Annual Shareholders’ Meeting and on the
+above-mentioned website.
+
+Procedure for voting by other proxy representatives
+Shareholders who are registered in the Company’s share register are enti-
+tled to have their voting rights exercised by other proxy representatives,
+such as an intermediary (e. g. a credit institution), a shareholders’ associa-
+tion, a proxy advisor, a person who tenders the service commercially to
+shareholders of exercising their voting rights at the Annual Shareholders’
+Meeting or another third party. Here again, timely notification of atten-
+dance must be given (see “Notification of attendance” above). If a share-
+holder appoints more than one proxy representative, the Company may
+reject one or more of these.
+
+A proxy authorization, its revocation and evidence of proxy authorization
+vis-à-vis the Company must be provided in text form or via the above-­
+mentioned Internet Service if neither an intermediary (e. g. a credit institu-
+tion) nor a shareholders’ association, a proxy advisor nor a person who
+tenders the service commercially to shareholders of exercising their voting
+rights at the Annual Shareholders’ Meeting are authorized. Please use the
+above-mentioned Internet Service or send your proxy authorization and,
+if applicable, instructions by letter, e-mail or fax to the above-mentioned
+address. If possible, please use the Attendance Notification Form sent to
+you together with the Notice of Annual Shareholders’ Meeting. Upon return
+of the Attendance Notification Form or by using the Internet Service, proof
+of authorization is provided to Siemens AG. Please note that if you use the
+Internet Service, any other absentee voting or proxy authorization and
+­instructions with the same Shareholder Control Number is rendered invalid.
+ For the option of changing your proxy authorization or voting instructions,
+ please see the instructions above in the “Notification of attendance” ­section.
+
+
+
+
+NOTICE    32
+Intermediaries (e. g. credit institutions), shareholders’ associations, proxy
+advisors as well as persons who tender the service commercially to share-
+holders of exercising their voting rights at the Annual Shareholders’ Meet-
+ing may stipulate different requirements with regard to their own appoint-
+ment as proxies. In these cases, shareholders should consult with the
+person to be authorized about the form of the proxy authorization.
+
+Proxy representatives (except for the proxy representatives nominated by
+the Company) may not physically attend the Annual Shareholders’ Meeting.
+They may only exercise the voting rights of the shareholders they represent
+by way of absentee voting or by granting (sub-)authorization to the proxy
+representatives nominated by the Company. In that regard, the information
+above applies accordingly. In order to use the Internet Service, the proxy
+representatives will be sent access data after due registration by the share-
+holder, enabling them to exercise their rights by using electronic commu-
+nication via the Internet Service. Proxy authorization should therefore be
+granted as early as possible in order to enable timely receipt of the access
+data by the proxy representative.
+
+Further details are provided on the Attendance Notification Form sent to
+you together with the Notice of Annual Shareholders’ Meeting and on the
+above-mentioned website.
+
+
+
+
+NOTICE   33
+Inquiries, proposals, election nominations, information
+requests, questions, objection
+(Information on shareholders’ rights pursuant to Section 122 (2),
+­Section 126 (1), Section 127, Section 131 (1), Section 295, Section 293 g (3)
+ of the German Stock Corporation Act (AktG), Section 1 (2) sentence 1
+ no. 3 in conjunction with sentence 2 of the COVID-19 Measures Act,
+ ­Section 245 no. 1 of the German Stock Corporation Act (AktG), Section 1 (2)
+  sentence 1 no. 4 of the COVID-19 Measures Act)
+
+Requests for additions to the agenda pursuant to Section 122 (2)
+of the German Stock Corporation Act (AktG)
+Shareholders whose combined shares amount to at least one-twentieth of
+the capital stock or a proportionate ownership of at least € 500,000 (the
+latter equivalent to 166,667 shares) may request that items be placed on the
+agenda and be published.
+
+Persons submitting a request must prove that they have held the shares for
+at least 90 days before the date the request is received and that they hold
+the shares until the Managing Board decides on the request, with Sec-
+tion 70 of the German Stock Corporation Act (AktG) being applicable when
+calculating the time for which shares have been held. The day on which the
+request is received shall not be counted. Any move from a Sunday, Saturday
+or public holiday to a preceding or subsequent business day shall not be
+possible. Sections 187 to 193 of the German Civil Code (BGB) shall not be
+applied mutatis mutandis.
+
+Each new item must be accompanied by supporting information or a formal
+resolution proposal. The request must be submitted in writing to the Man-
+aging Board of Siemens AG and be received by the Company no later than
+midnight (CET) on January 3, 2021. Please use the following address to sub-
+mit your respective requests:
+
+   Managing Board of Siemens AG
+   Werner-von-Siemens-Str. 1
+   80333 Munich, Germany.
+
+Unless made public at the same time as the Notice of Annual Shareholders’
+Meeting, requests for additions to the agenda that are required to be pub-
+lished are published without undue delay upon receipt in the German Fed-
+eral Gazette (Bundesanzeiger). In addition, such requests are published on
+the Internet at     WWW.SIEMENS.COM/AGM and communicated to the
+shareholders. Formal resolution proposals that accompany such requests
+for additions to the agenda will be treated as if they had been submitted
+orally at the Annual Shareholders’ Meeting.
+
+
+
+
+NOTICE   34
+Counterproposals and election nominations pursuant to
+Section 126 (1), Section 127 of the German Stock Corporation
+Act (AktG)
+In addition, shareholders may submit to the Company counterproposals to
+Managing and /or Supervisory Board proposals relating to agenda items and
+make election nominations for Supervisory Board members or indepen-
+dent auditors. All counterproposals (along with supporting information)
+and election nominations must be sent to:
+
+   Siemens Aktiengesellschaft
+   Controlling and Finance
+   Investor Relations (CF IR)
+   Werner-von-Siemens-Str. 1, G4.23
+   80333 Munich, Germany
+   Telefax: + 49 (0) 89 / 636-1332474
+
+or e-mailed to:
+
+   hv2021@siemens.com
+
+Counterproposals and election nominations by shareholders to be made
+available, including the shareholder ’s name and place of residence or reg-
+istered office and any supporting information to be made available, will be
+posted on the Internet at     WWW.SIEMENS.COM/AGM without undue delay
+upon their receipt, if applicable along with the content to be added in ac-
+cordance with Section 127 sentence 4 of the German Stock Corporation Act
+(AktG). All counterproposals and election nominations relating to items on
+the agenda that are received at the above-mentioned address by midnight
+(CET) on January 19, 2021, will be considered. Management’s position, if
+any, on the counterproposals and election nominations will also be avail-
+able at the above-mentioned website.
+
+The Company will treat the published counterproposals as if they had been
+submitted orally at the Annual Shareholders’ Meeting.
+
+Right to obtain information pursuant to Section 131 (1),
+Section 295, Section 293 g (3) of the German Stock
+­Corporation Act (AktG), possibility to ask questions pursuant
+ to Section 1 (2) sentence 1 no. 3 in conjunction with sentence 2
+ of the COVID-19 Measures Act
+ According to Section 131 (1) of the German Stock Corporation Act (AktG),
+ each shareholder or shareholder representative at a present Annual Share-
+ holders’ Meeting may ask the Managing Board to provide information re-
+ garding the Company’s affairs, the Company’s legal and business relations
+ with affiliated companies, and the position of the Group and any c­ ompanies
+ included in the Consolidated Financial Statements, to the extent that such
+ information is necessary to permit a proper evaluation of the relevant item
+ on the agenda. Moreover, pursuant to Section 295, Section 293 g (3) of
+ the German Stock Corporation Act (AktG), any shareholder or shareholder
+ representative must, upon request in the Annual Shareholders’ Meeting
+
+
+NOTICE   35
+that decides on the amendment of a profit-and-loss transfer agreement,
+also be provided at the Annual Shareholders’ Meeting with information
+on all matters that are material to the amendment of the profit-and-loss
+transfer agreement.
+
+The above-mentioned right to obtain information does not apply to the
+virtual Annual Shareholders’ Meeting to be held on February 3, 2021. Based
+on the COVID-19 Measures Act, shareholders are not granted a statutory
+right to obtain information, but rather given the opportunity to ask ques-
+tions at the virtual Annual Shareholders’ Meeting by using electronic com-
+munication. This does not imply a right to an answer.
+
+With the approval of the Supervisory Board, the Managing Board of
+Siemens AG has decided that shareholders or their proxy representatives
+may direct questions to the Managing Board via the Internet Service at
+   WWW.SIEMENS.COM/AGM-SERVICE after registration. Shareholders can
+obtain online access by entering their Shareholder Control Number and
+their related Personal Identification Number (PIN) specified in the materials
+sent to them. Instead of their PIN, shareholders who have registered for
+electronic delivery of invitations to Shareholders’ Meetings with an Access
+Password selected by them must use this Access Password. The share­
+holders’ proxy representatives use the access data sent to them.
+
+Such questions must be received by the Company via the Company’s Inter-
+net Service by no later than noon (CET) on February 1, 2021. It is not possi-
+ble to ask questions after this time and in particular not during the virtual
+Annual Shareholders’ Meeting.
+
+The Managing Board decides at its duty-bound and free discretion which
+questions it will respond to and how to answer them. In particular, it may
+summarize questions and select meaningful questions in the interest of
+other shareholders. In doing so, the Managing Board may give preference
+to shareholders’ associations and institutional investors with significant
+voting rights. Questions in languages other than German will not be
+­considered.
+
+Objection pursuant to Section 245 no. 1 of the German
+Stock ­Corporation Act (AktG), Section 1 (2) sentence 1 no. 4
+of the COVID-19 Measures Act
+Shareholders who are registered as shareholders of the Company in the
+Company ’s share register and who have submitted timely notification of
+attendance at the Annual Shareholders’ Meeting and their proxy represen-
+tatives may, from the beginning to the end of the Annual Shareholders’
+Meeting, declare objections to resolutions of the Annual Shareholders’
+Meeting for the record in accordance with Section 245 no. 1 of the German
+Stock Corporation Act (AktG), Section 1 (2) sentence 1 no. 4 of the COVID-19
+Measures Act via the Internet Service at         WWW.SIEMENS.COM/AGM-­
+SERVICE . The notary has authorized the Company to accept objections via
+the Internet Service; the notary will have access to the objections received
+
+
+NOTICE   36
+via the Internet Service. Shareholders can obtain online access by entering
+their Shareholder Control Number and their related Personal Identification
+Number (PIN) specified in the materials sent to them. Instead of their PIN,
+shareholders who have registered for electronic delivery of invitations to
+Shareholders’ Meetings with an Access Password selected by them must
+use this Access Password. The shareholders’ proxy representatives use the
+access data sent to them.
+
+Additional explanations
+Additional explanations regarding shareholders’ rights pursuant to Sec-
+tion 122 (2), Section 126 (1), Section 127, Section 131 (1), Section 295, Sec-
+tion 293 g (3) of the German Stock Corporation Act (AktG), Section 1 (2)
+sentence 1 no. 3 in conjunction with sentence 2 of the COVID-19 Measures
+Act, Section 245 no. 1 of the German Stock Corporation Act (AktG), Sec-
+tion 1 (2) sentence 1 no. 4 of the COVID-19 Measures Act can be found on
+the Company’s website at        WWW.SIEMENS.COM/AGM .
+
+
+Live transmission of the Annual Shareholders’ Meeting
+The entire Annual Shareholders’ Meeting on February 3, 2021, will be web-
+cast live by means of sound and vision for shareholders of Siemens AG and
+their proxies via the Internet Service at        WWW.SIEMENS.COM/AGM-­
+SERVICE starting at 10:00 a. m. (CET). Shareholders can obtain online access
+by entering their Shareholder Control Number and their related Personal
+Identification Number (PIN) specified in the materials sent to them. Instead
+of their PIN, shareholders who have registered for electronic delivery of
+invitations to Shareholders’ Meetings with an Access Password selected by
+them must use this Access Password. The shareholders’ proxy representa-
+tives use the access data sent to them.
+
+The comments of the Chairman of the Meeting and the Managing Board at
+the opening of the Annual Shareholders’ Meeting may also be viewed by
+other interested parties live over the Internet ( WWW.SIEMENS.COM/AGM ).
+A replay of these speeches, but not of the entire Annual Shareholders’
+Meeting, will be available after the Annual Shareholders’ Meeting at the
+above Internet address.
+
+The live transmission of the Annual Shareholders’ Meeting does not allow
+for a participation in the Annual Shareholders’ Meeting within the meaning
+of Section 118 (1) sentence 2 of the German Stock Corporation Act (AktG).
+
+
+
+
+NOTICE   37
+Website where information pursuant to Section 124 a
+of the German Stock Corporation Act (AktG) is available
+The Notice of Annual Shareholders’ Meeting, together with the information
+and explanations required by law, is also available on our website at
+   WWW.SIEMENS.COM/AGM , where the information pursuant to Section 124a
+of the German Stock Corporation Act (AktG) and the currently valid version
+of the Articles of Association of Siemens AG can also be found.
+
+Furthermore, during the virtual Annual Shareholders’ Meeting, the list of
+attendance will be available via the Internet Service on our website at
+   WWW.SIEMENS.COM/AGM-SERVICE prior to the first vote.
+
+The voting results will be posted on our website at WWW.SIEMENS.COM/
+AGM after the Annual Shareholders’ Meeting. That website also contains
+information on the provision of confirmation on whether and how votes
+were counted pursuant to Section 129 (5) of the German Stock Corporation
+Act (AktG), which anyone who has voted can demand within one month as
+of the date of the Annual Shareholders’ Meeting.
+
+Information on data protection
+You can find information on processing of your personal data in connection
+with the Annual Shareholders’ Meeting and the share register at     WWW.
+SIEMENS.COM/AGM-PRIVACY . We will also gladly send you this information
+by regular mail.
+
+By order of the Managing Board
+Siemens Aktiengesellschaft
+
+
+
+
+NOTICE   38
+This version of the Notice of Annual Shareholders’ Meeting prepared
+for the convenience of English-speaking readers is a translation of
+the German original. For purposes of interpretation, the German text
+shall be authoritative and final.
+
+
+
+
+Siemens Aktiengesellschaft
+Chairman of the Supervisory Board: Jim Hagemann Snabe
+Managing Board: Joe Kaeser, President and Chief Executive Officer
+Members of the Managing Board: Roland Busch, Klaus Helmrich,
+Cedrik Neike, Matthias Rebellius, Ralf P. Thomas, Judith Wiese
+Registered offices: Berlin and Munich, Germany
+Commercial registries: Berlin Charlottenburg, HRB 12300,
+Munich, HRB 6684; WEEE-Reg.-Nr. DE 23691322
+

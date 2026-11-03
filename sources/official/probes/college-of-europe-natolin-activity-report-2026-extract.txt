@@ -1,0 +1,47 @@
+Source: College of Europe in Natolin, "Natolin Activity Report" (2026 volume)
+Publication page: https://issuu.com/collegeofeuropenatolin/docs/college_of_europe_in_natolin_activity_report_vol._
+Published: 2025-10-30
+Text obtained: 2026-11-03 from the publisher's Issuu text layer
+(reader3 text blob), reconstructed from the extracted strings. Page-level
+word order can be interleaved by the extraction; quoted sentences below are
+contiguous in the text layer.
+
+Statements on graduates and completion (verbatim from the text layer):
+
+1. "Over 3,300 graduates have completed their studies at Natolin since 1992."
+
+2. "Since the academic year 1992/1993, 3,300 students have studied at the
+   College of Europe in Natolin."
+
+3. "With more than 3,300 alumni from some 70 countries (forming an integral
+   part of the wider College of Europe alumni community of over 17,000), our
+   graduates join a global network of young professionals ..."
+
+4. "The academic year 2019/2020 saw a 100% completion rate, meaning that the
+   same number of students started and finished their academic year. In the
+   academic year 2020/2021, the figure was the same. The graduation rate
+   remained high at 94.7% in 2019/2020, and 97.8% in 2020/2021."
+
+5. "As shown by the cumulative average graduation rate (see Figure 12 below),
+   we have maintained a remarkable long-term success rate, with an average
+   graduation rate exceeding 93% since 2009."
+
+6. Figure 12 is titled "Cumulative graduation rate (% of students awarded
+   diplomas after completing the academic year)", source "College of Europe
+   in Natolin, internal data". Its axis labels are years only; the chart
+   prints no per-year data labels in the text layer.
+
+7. Figure 6 is titled "Trends in the number of students, professors, and
+   courses in the EIS programme"; it plots series without printed data
+   labels.
+
+Conclusion: the report gives cumulative alumni (3,300 since 1992), a
+completion rate (100% in 2019/20 and 2020/21) and a graduation rate
+(94.7%, 97.8%), but no integer count of diplomas awarded in any single year.
+
+The earlier report in the repository
+(sources/official/institutions/college-of-europe-natolin-activity-report-2009-2019.txt)
+gives the same kind of evidence for 2008/09-2018/19:
+"Over the last ten years, 93 per cent of those who completed the year
+received their diplomas" and Figure 11 "Graduation Rate (how many students
+received their diplomas after finishing their year)" with no printed values.

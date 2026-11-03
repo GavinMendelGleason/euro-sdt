@@ -1,0 +1,37 @@
+Title: NR-208-2025-Table-3.xlsx
+
+URL Source: https://nso.gov.mt/wp-content/uploads/NR-208-2025-Table-3.xlsx
+
+Published Time: Wed, 12 Nov 2025 10:09:44 GMT
+
+Number of Pages: 1
+
+Markdown Content:
+**Table 3. Teachers and academic staff1 by academic year, sex and education level2**
+
+**Education level****Academic year**
+**Males****Females****Total**
+******2023-2024**
+Pre-primary education 8 973 981
+Primary education 275 1,666 1,941
+Lower secondary education 623 1,498 2,121
+Upper secondary and post-secondary non-tertiary education 989 1,603 2,592
+Tertiary education 1,723 1,103 2,826
+**Total****3,618****6,843****10,461**
+******2022-2023**
+Pre-primary education 8 929 937
+Primary education 299 1,821 2,120
+Lower secondary education 602 1,529 2,131
+Upper secondary and post-secondary non-tertiary education 1,020 1,536 2,556
+Tertiary education 1,581 1,011 2,592
+**Total****3,510****6,826****10,336**
+******2021-2022**
+Pre-primary education 11 951 962
+Primary education 290 1,839 2,129
+Lower secondary education 623 1,466 2,089
+Upper secondary and post-secondary non-tertiary education 1,033 1,548 2,581
+Tertiary education 1,506 962 2,468
+**Total****3,463****6,766****10,229**
+
+1 For grade descriptions refer to methodological note 12.
+2 Education level refers to the level in which staff are engaged. For education classification refer to methodological note 11.

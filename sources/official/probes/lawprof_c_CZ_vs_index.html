@@ -1,0 +1,94 @@
+
+
+<!DOCTYPE html>
+
+<html>
+    
+<head><link href="Style_m.css" rel="stylesheet" type="text/css" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Základy statistiky vysokých škol</title>
+<style type="text/css">
+	/* <![CDATA[ */
+	#Menu1 img.icon { border-style:none;vertical-align:middle; }
+	#Menu1 img.separator { border-style:none;display:block; }
+	#Menu1 ul { list-style:none;margin:0;padding:0;width:auto; }
+	#Menu1 ul.dynamic { z-index:1; }
+	#Menu1 a { text-decoration:none;white-space:nowrap;display:block; }
+	#Menu1 a.popout { background-image:url("/statistikyvs/WebResource.axd?d=8m5SmlVDreXhkEZju_mQeOQ3ARY8Ja4RIaGtW5pwSqad1-KBPSXbO7YPAt9xb9q2PxCvCxptio-VjNxNYmwMWMzIlIHJsqHhAif6cqUVYeo1&t=638901843720898773");background-repeat:no-repeat;background-position:right center;padding-right:14px; }
+	#Menu1 a.level2 { padding-left:1em; }
+	#Menu1 a.level3 { padding-left:2em; }
+	#Menu1 a.level4 { padding-left:3em; }
+	#Menu1 a.static.selected { color:Red;text-decoration:none; }
+	/* ]]> */
+</style><title>
+
+</title></head>
+<body>
+   
+    <form method="post" action="./" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1Mg9kFgJmD2QWAgIDD2QWAgIBDzwrAA0CAA8WAh4LXyFEYXRhQm91bmRnZAwUKwACBQMwOjAUKwACFhIeB0VuYWJsZWRnHglEYXRhQm91bmRnHghEYXRhUGF0aAUYL3N0YXRpc3Rpa3l2cy9pbmRleC5hc3B4HgRUZXh0BRdaw6FrbGFkeSBzdGF0aXN0aWt5IFbFoB4FVmFsdWUFF1rDoWtsYWR5IHN0YXRpc3Rpa3kgVsWgHgpTZWxlY3RhYmxlZx4HVG9vbFRpcAUjWsOha2xhZHkgc3RhdGlzdGlreSB2eXNva8O9Y2ggxaFrb2weCFNlbGVjdGVkZx4LTmF2aWdhdGVVcmwFGC9zdGF0aXN0aWt5dnMvaW5kZXguYXNweBQrAAUFDzA6MCwwOjEsMDoyLDA6MxQrAAIWEB8EBQ52eXNva8OpIMWha29seR8FBQ52eXNva8OpIMWha29seR8JBRgvc3RhdGlzdGlreXZzL3Nrb2x5LmFzcHgfBwUzSW5zdGl0dWNlIHBvc2t5dHVqw61jw60gdnlzb2tvxaFrb2xza8OpIHZ6ZMSbbMOhbsOtHwFnHwZnHwMFGC9zdGF0aXN0aWt5dnMvc2tvbHkuYXNweB8CZxQrAAQFCzA6MCwwOjEsMDoyFCsAAhYQHwQFHHJlem9ydG7DrSBpZGVudGlmaWvDoXRvciBSSUQfBQUccmV6b3J0bsOtIGlkZW50aWZpa8OhdG9yIFJJRB8JBSAvc3RhdGlzdGlreXZzL2lkZW50aWZpa2F0b3IuYXNweB8HBRxSZXpvcnRuw60gaWRlbnRpZmlrw6F0b3IgUklEHwFnHwZnHwMFIC9zdGF0aXN0aWt5dnMvaWRlbnRpZmlrYXRvci5hc3B4HwJnZBQrAAIWEB8EBQp0eXB5IMWha29sHwUFCnR5cHkgxaFrb2wfCQUbL3N0YXRpc3Rpa3l2cy90eXB5c2tvbC5hc3B4HwcFFFR5cHkgdnlzb2vDvWNoIMWha29sHwFnHwZnHwMFGy9zdGF0aXN0aWt5dnMvdHlweXNrb2wuYXNweB8CZ2QUKwACFhAfBAUXdnlzb2tvxaFrb2xza8OpIHN0dWRpdW0fBQUXdnlzb2tvxaFrb2xza8OpIHN0dWRpdW0fCQUcL3N0YXRpc3Rpa3l2cy9WU3N0dWRpdW0uYXNweB8HBRd2eXNva2/FoWtvbHNrw6kgc3R1ZGl1bR8BZx8GZx8DBRwvc3RhdGlzdGlreXZzL3Zzc3R1ZGl1bS5hc3B4HwJnZBQrAAIWEB8EBQdzdHVkZW50HwUFB3N0dWRlbnQfCQUaL3N0YXRpc3Rpa3l2cy9zdHVkZW50LmFzcHgfBwUWU3R1ZGVudCB2eXNva8OpIMWha29seR8BZx8GZx8DBRovc3RhdGlzdGlreXZzL3N0dWRlbnQuYXNweB8CZxQrAAMFBzA6MCwwOjEUKwACFhAfBAUUc3TDoXRuw60gb2LEjWFuc3R2w60fBQUUc3TDoXRuw60gb2LEjWFuc3R2w60fCQUcL3N0YXRpc3Rpa3l2cy9vYmNhbnN0dmkuYXNweB8HBR1TdMOhdG7DrSBvYsSNYW5zdHbDrSBzdHVkZW50YR8BZx8GZx8DBRwvc3RhdGlzdGlreXZzL29iY2Fuc3R2aS5hc3B4HwJnZBQrAAIWEB8EBQ9hZHJlc2Egc3R1ZGVudGEfBQUPYWRyZXNhIHN0dWRlbnRhHwkFGS9zdGF0aXN0aWt5dnMvYWRyZXNhLmFzcHgfBwUPQWRyZXNhIHN0dWRlbnRhHwFnHwZnHwMFGS9zdGF0aXN0aWt5dnMvYWRyZXNhLmFzcHgfAmdkFCsAAhYQHwQFB3N0dWRpdW0fBQUHc3R1ZGl1bR8JBRovc3RhdGlzdGlreXZzL3N0dWRpdW0uYXNweB8HBRlzdHVkaXVtIG5hIHZ5c29rw6kgxaFrb2xlHwFnHwZnHwMFGi9zdGF0aXN0aWt5dnMvc3R1ZGl1bS5hc3B4HwJnFCsABQUPMDowLDA6MSwwOjIsMDozFCsAAhYQHwQFEXN0dWRpam7DrSBwcm9ncmFtHwUFEXN0dWRpam7DrSBwcm9ncmFtHwkFHi9zdGF0aXN0aWt5dnMvc3R1ZHByb2dyYW0uYXNweB8HBRFzdHVkaWpuw60gcHJvZ3JhbR8BZx8GZx8DBR4vc3RhdGlzdGlreXZzL3N0dWRwcm9ncmFtLmFzcHgfAmcUKwAEBQswOjAsMDoxLDA6MhQrAAIWEB8EBQd0eXB5IFNQHwUFB3R5cHkgU1AfCQUZL3N0YXRpc3Rpa3l2cy90eXB5U1AuYXNweB8HBRp0eXB5IHN0dWRpam7DrWNoIHByb2dyYW3Frx8BZx8GZx8DBRkvc3RhdGlzdGlreXZzL3R5cHlzcC5hc3B4HwJnZBQrAAIWEB8EBQlwcm9maWwgU1AfBQUJcHJvZmlsIFNQHwkFGy9zdGF0aXN0aWt5dnMvcHJvZmlsU1AuYXNweB8HBRtwcm9maWwgc3R1ZGlqbsOtaG8gcHJvZ3JhbXUfAWcfBmcfAwUbL3N0YXRpc3Rpa3l2cy9wcm9maWxzcC5hc3B4HwJnZBQrAAIWEB8EBQ5zdHVkaWpuw60gb2Jvch8FBQ5zdHVkaWpuw60gb2Jvch8JBRsvc3RhdGlzdGlreXZzL3N0dWRvYm9yLmFzcHgfBwUOc3R1ZGlqbsOtIG9ib3IfAWcfBmcfAwUbL3N0YXRpc3Rpa3l2cy9zdHVkb2Jvci5hc3B4HwJnZBQrAAIWEB8EBQxmb3JtYSBzdHVkaWEfBQUMZm9ybWEgc3R1ZGlhHwkFHi9zdGF0aXN0aWt5dnMvZm9ybWFzdHVkaWEuYXNweB8HBQxmb3JtYSBzdHVkaWEfAWcfBmcfAwUeL3N0YXRpc3Rpa3l2cy9mb3JtYXN0dWRpYS5hc3B4HwJnZBQrAAIWEB8EBQ1tw61zdG8gc3R1ZGlhHwUFDW3DrXN0byBzdHVkaWEfCQUYL3N0YXRpc3Rpa3l2cy9taXN0by5hc3B4HwcFDW3DrXN0byBzdHVkaWEfAWcfBmcfAwUYL3N0YXRpc3Rpa3l2cy9taXN0by5hc3B4HwJnZBQrAAIWEB8EBRRmaW5hbmNvdsOhbsOtIHN0dWRpYR8FBRRmaW5hbmNvdsOhbsOtIHN0dWRpYR8JBR4vc3RhdGlzdGlreXZzL2ZpbmFuY292YW5pLmFzcHgfBwUUZmluYW5jb3bDoW7DrSBzdHVkaWEfAWcfBmcfAwUeL3N0YXRpc3Rpa3l2cy9maW5hbmNvdmFuaS5hc3B4HwJnZBQrAAIWEB8EBRRvYm9yb3bDoSBrbGFzaWZpa2FjZR8FBRRvYm9yb3bDoSBrbGFzaWZpa2FjZR8JBR4vc3RhdGlzdGlreXZzL2tsYXNpZmlrYWNlLmFzcHgfBwUUb2Jvcm92w6Ega2xhc2lmaWthY2UfAWcfBmcfAwUeL3N0YXRpc3Rpa3l2cy9rbGFzaWZpa2FjZS5hc3B4HwJnFCsAAgUDMDowFCsAAhYQHwQFEHDFmWV2b2QgbmEgSVNDRUQfBQUQcMWZZXZvZCBuYSBJU0NFRB8JBSAvc3RhdGlzdGlreXZzL3ByZXZvZG5hSVNDRUQuYXNweB8HBSZwxZlldm9kIHN0dWRpam7DrWNoIHByb2dyYW3FryBuYSBJU0NFRB8BZx8GZx8DBSAvc3RhdGlzdGlreXZzL3ByZXZvZG5haXNjZWQuYXNweB8CZxQrAAMFBzA6MCwwOjEUKwACFhAfBAUYcMWZZXZvZG7DrWtrIFNQIG5hIElTQ0VEHwUFGHDFmWV2b2Ruw61rayBTUCBuYSBJU0NFRB8JBRsvc3RhdGlzdGlreXZzL3ByZXZvZFNQLmFzcHgfBwUmcMWZZXZvZCBzdHVkaWpuw61jaCBwcm9ncmFtxa8gbmEgSVNDRUQfAWcfBmcfAwUbL3N0YXRpc3Rpa3l2cy9wcmV2b2RzcC5hc3B4HwJnZBQrAAIWEB8EBQtvYm9yeSBJU0NFRB8FBQtvYm9yeSBJU0NFRB8JBR0vc3RhdGlzdGlreXZzL29ib3J5SVNDRUQuYXNweB8HBQtvYm9yeSBJU0NFRB8BZx8GZx8DBR0vc3RhdGlzdGlreXZzL29ib3J5aXNjZWQuYXNweB8CZ2RkGAEFC2N0bDAwJE1lbnUxDw9kBRdaw6FrbGFkeSBzdGF0aXN0aWt5IFbFoGTkfSv6Hlwtqwyh7smMDGWc5o9/NIw1Wvr0U4lxLGP0fg==" />
+</div>
+
+
+<script src="/statistikyvs/WebResource.axd?d=XD40lU-lMY3_31a4yCeylhokeBPogDj8amaR-8HRLypvOACSQv0e4EzGT29wMu2wkVKpIR_zOCWXnhPku5Oq0zDxI9qvuY2s02nmL2O3UJM1&amp;t=638901843720898773" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="7981CEE4" />
+</div>
+      <div class="page">
+       <div class="header">
+          
+           <img alt="LOGO" src="images/logo_msmt2.png" id="vlevo" height="50" width="110" />
+          <h1>Základy statistiky vysokých škol 2001 až 2025</h1> 
+       </div>
+       <div class="clear">
+       </div>
+       <div id="menu">
+            <a href="#Menu1_SkipLink"><img alt="Přeskočit navigační odkazy" src="/statistikyvs/WebResource.axd?d=KRS6WnnKYeABQn4d5Y5XYCH8Mi1SeVL52F2Yu-3fIqJcIQmFj_X4HWT2TumCs1FVlGR0rABmN7Kgq4-hvMyDMO367IfRM9aORWujpMfo9Yc1&amp;t=638901843720898773" width="0" height="0" style="border-width:0px;" /></a><div id="Menu1">
+	<ul class="level1">
+		<li><a title="Základy statistiky vysokých škol" class="level1 selected" href="/statistikyvs/index.aspx">Základy statistiky VŠ</a></li><li><a title="Instituce poskytující vysokoškolské vzdělání" class="level2" href="/statistikyvs/skoly.aspx">vysoké školy</a></li><li><a title="Rezortní identifikátor RID" class="level3" href="/statistikyvs/identifikator.aspx">rezortní identifikátor RID</a></li><li><a title="Typy vysokých škol" class="level3" href="/statistikyvs/typyskol.aspx">typy škol</a></li><li><a title="vysokoškolské studium" class="level3" href="/statistikyvs/VSstudium.aspx">vysokoškolské studium</a></li><li><a title="Student vysoké školy" class="level2" href="/statistikyvs/student.aspx">student</a></li><li><a title="Státní občanství studenta" class="level3" href="/statistikyvs/obcanstvi.aspx">státní občanství</a></li><li><a title="Adresa studenta" class="level3" href="/statistikyvs/adresa.aspx">adresa studenta</a></li><li><a title="studium na vysoké škole" class="level2" href="/statistikyvs/studium.aspx">studium</a></li><li><a title="studijní program" class="level3" href="/statistikyvs/studprogram.aspx">studijní program</a></li><li><a title="typy studijních programů" class="level4" href="/statistikyvs/typySP.aspx">typy SP</a></li><li><a title="profil studijního programu" class="level4" href="/statistikyvs/profilSP.aspx">profil SP</a></li><li><a title="studijní obor" class="level4" href="/statistikyvs/studobor.aspx">studijní obor</a></li><li><a title="forma studia" class="level3" href="/statistikyvs/formastudia.aspx">forma studia</a></li><li><a title="místo studia" class="level3" href="/statistikyvs/misto.aspx">místo studia</a></li><li><a title="financování studia" class="level3" href="/statistikyvs/financovani.aspx">financování studia</a></li><li><a title="oborová klasifikace" class="level2" href="/statistikyvs/klasifikace.aspx">oborová klasifikace</a></li><li><a title="převod studijních programů na ISCED" class="level3" href="/statistikyvs/prevodnaISCED.aspx">převod na ISCED</a></li><li><a title="převod studijních programů na ISCED" class="level4" href="/statistikyvs/prevodSP.aspx">převodníkk SP na ISCED</a></li><li><a title="obory ISCED" class="level4" href="/statistikyvs/oboryISCED.aspx">obory ISCED</a></li>
+	</ul>
+</div><a id="Menu1_SkipLink"></a>
+            
+            <hr />
+            <a class="m_odkaz" href="vystupy/vystupy.aspx">výkony VŠ       <br /><a class="m_odkaz" href="prijimaci/prijimaci.aspx">přijímací řízení</a>
+            <br /><a class="m_odkaz" href="bilance/bilance.aspx">bilanční přehledy</a>
+            <br /> <a class="m_odkaz" href="finance/finance.aspx">financování VŠ ve statistice</a>
+            <hr />
+            <a class="m_odkaz" href="prohlizece.aspx">data</a>
+            <hr />
+            <a class="m_odkaz" href="faq/faq.aspx">často kladené otázky</a>
+            
+       </div>
+       
+
+        <div id="hlavni">
+            
+
+            
+    <h2>
+       Úvodem
+    </h2>
+    <p>
+       Tyto stránky si kladou za cíl shrnout všechny dosavadní poznatky týkající se 
+        metodiky tvorby statistických výstupů. Byli bychom rádi, kdyby otevřely debatu nad 
+        některými problémy a pomohly odpovědět na otázky, které jsme si kladli již 
+        dříve.</p>
+    <!--    <p>Protože vše od metodiky sběru dat, zpracování a výstupů, analýz všech úrovní, programování software 
+            pro sběr dat, jejich zpracování i prezentaci a konečného testování je prací 
+            jediného člověka, chybí tomuto projektu jakýkoliv kritický pohled.</p>-->
+    <p>Prosíme vás tedy o přečtení a doplnění <!--či vyvrácení--> zde prezentovaných myšlenek.</p>
+    <p class="vpravo">Jan Hraba</p>
+    
+
+        </div>
+        <div class="footer">
+        Odbor školské statistiky a analýz<br/>Oddělení statistických výstupů<span class="vpravo">jan.hraba@msmt.cz</span>
+        </div>
+        <div class="clear">
+        </div>
+      </div>
+    
+<script type='text/javascript'>new Sys.WebForms.Menu({ element: 'Menu1', disappearAfter: 500, orientation: 'vertical', tabIndex: 0, disabled: false });</script></form>
+</body>
+</html>

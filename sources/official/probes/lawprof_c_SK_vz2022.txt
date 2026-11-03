@@ -1,0 +1,2070 @@
+        Ministerstvo školstva, vedy, výskumu a športu
+                    Slovenskej republiky
+
+
+
+
+  Výročná správa o stave vysokého školstva za rok 2022
+(Materiál vypracovaný v súlade s § 102 ods. 2 písm. c) zákona č. 131/2002 Z. z. o vysokých
+     školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov)
+
+
+
+
+                                      Bratislava
+Obsah
+
+Výročná správa o stave vysokého školstva za rok 2022 ........................................................ 4
+
+Úvod ........................................................................................................................................... 5
+
+Stručný prehľad najdôležitejších informácií o vysokom školstve v roku 2022 .................. 5
+
+Časť I ......................................................................................................................................... 7
+
+1. Správa o činnosti vysokých škôl v roku 2022 .................................................................... 7
+1.1 Právne podmienky ................................................................................................................ 7
+1.2 Poskytovatelia vysokoškolského vzdelávania ...................................................................... 8
+1.3 Poskytovanie vysokoškolského vzdelávania ...................................................................... 11
+     Systém vysokoškolského vzdelávania ............................................................................. 11
+     Prijímacie konanie na 1. stupeň........................................................................................ 13
+     Prijímacie konanie na 2. stupeň........................................................................................ 15
+     Dostupnosť štúdia pre občanov so špecifickými potrebami ............................................ 15
+     Vysokoškolská mobilita ................................................................................................... 15
+1.4 Zamestnanci vysokých škôl ............................................................................................... 16
+1.5 Vysokoškolská veda a technika.......................................................................................... 18
+     Podprogram Vysokoškolská veda a technika ................................................................... 19
+     Aktivity VVŠ v rámci štátnych programov a projektov podporovaných APVV ............. 19
+     Publikačná a umelecká činnosť ........................................................................................ 20
+     Publikačná činnosť – prírodné vedy................................................................................. 22
+     Publikačná činnosť – technické vedy ............................................................................... 23
+     Publikačná činnosť – lekárske vedy ................................................................................. 24
+     Publikačná činnosť – pôdohospodárske vedy .................................................................. 24
+     Publikačná činnosť – spoločenské vedy ........................................................................... 25
+     Publikačná činnosť – humanitné vedy ............................................................................. 25
+1.6 Rozvoj vysokého školstva .................................................................................................. 27
+1.7 Systém sociálnej podpory študentov a sociálnych služieb................................................. 29
+
+Časť II ..................................................................................................................................... 33
+
+2. Správa o hospodárení verejných vysokých škôl v roku 2022 ......................................... 33
+2.1 Výška dotácií zo štátneho rozpočtu verejným vysokým školám v roku 2022 a spôsob ich
+rozdelenia ................................................................................................................................. 33
+     Výška dotácií zo štátneho rozpočtu verejným vysokým školám v roku 2022 ................. 33
+     Spôsob rozdelenia dotácií zo štátneho rozpočtu verejným vysokým školám .................. 36
+     Jednotkové dotácie ........................................................................................................... 37
+2.2 Výsledky hospodárenia verejných vysokých škôl za rok 2022 .......................................... 38
+     Sumárne údaje zo súvah verejných vysokých škôl k 31. decembru 2022 ....................... 38
+     Sumárne údaje o výnosoch a nákladoch verejných vysokých škôl .................................. 39
+     Kapitálové výdavky.......................................................................................................... 42
+
+Časť III .................................................................................................................................... 42
+
+3. Záver k správe .................................................................................................................... 42
+                            Výročná správa o stave vysokého školstva za rok 2020
+
+Zoznam grafov v textovej časti správy
+
+Graf č. 1 - Vývoj počtu prihlášok, prijatí a zápisov, prihlásených (fyzické osoby), prijatých
+(fyzické osoby) a zapísaných (fyzické osoby) – fyzická osoba je za všetky školy zohľadnená
+len raz, aj keď sa zúčastnila viacerých prijímacích konaní v rokoch 2017 - 2022 .................. 13
+Graf č. 2 - Veková štruktúra vysokoškolských učiteľov vysokých škôl (vrátane štátnych)
+(minimálny vek, prvý kvartil, medián, tretí kvartil a maximálny vek), zdroj: Register
+zamestnancov vysokých škôl ................................................................................................... 17
+Graf č. 3 - Počet publikácií verejných vysokých škôl registrovaných vo WoS Core Collection
+v rokoch 2018 – 2022, zdroj: WoS Core/InCites ..................................................................... 20
+Graf č. 4- Zastúpenie publikácií verejnej vysokej školy registrovaných vo WoS Core
+Collection za obdobie 2018 – 2022 publikovaných formou voľného prístupu (OA), zdroj:
+WoS Core/InCites .................................................................................................................... 20
+Graf č. 5 - Priemerný počet citácií na publikáciu verejnej vysokej školy v rokoch 2018 – 2022
+v porovnaní so svetovým priemerom, zdroj: WoS Core /InCtes ............................................. 21
+Graf č. 6 - Priemerný citačný ohlas normalizovaný podľa vedného odboru v rokoch 2018 –
+2022 v porovnaní s priemernou svetovou hodnotou (pribl. 1), zdroj: WoS Core/InCites ....... 21
+Graf č. 7 - 5-ročné trendy v kumulatívnom počte a) publikácií a b) citácií verejných vysokých
+škôl v základných vedných odboroch OECD v rokoch 2014 – 2018, 2015 – 2019, 2016–2020,
+2017 –2021 a 2018 – 2022, zdroj: WoS CC/InCites ................................................................ 26
+
+
+Zoznam tabuliek v textovej časti správy
+
+Tabuľka č. 1 - Počet rozhodnutí o akreditácii činností vysokých škôl mimo komplexnej
+akreditácie vydaných Slovenskou akreditačnou agentúrou pre vysoké školstvo......................11
+
+
+
+Tabuľková príloha k správe
+
+
+
+
+                                                                   3
+             Výročná správa o stave vysokého školstva za rok 2022
+       Ministerstvo školstva, vedy, výskumu a športu Slovenskej republiky (ďalej len
+„ministerstvo“) v súlade s § 102 ods. 2 písm. c) zákona č. 131/2002 Z. z. o vysokých školách
+a o zmene a doplnení niektorých zákonov v znení neskorších predpisov (ďalej len „zákon“)
+každoročne vypracúva a zverejňuje výročnú správu o stave vysokého školstva. Tento
+dokument obsahuje výročnú správu o stave vysokého školstva za rok 2022 (ďalej len
+„správa“).
+       V úvode správy sú v stručnej forme zhrnuté najdôležitejšie informácie o vysokom
+školstve za rok 2022.
+        Prvú časť správy tvorí správa o činnosti vysokých škôl v Slovenskej republike
+(ďalej len „SR“) v roku 2022. Je zameraná na plnenie ich hlavných úloh v oblasti
+vysokoškolského vzdelávania, v oblasti vysokoškolskej vedy a techniky, v oblasti rozvoja
+a v oblasti sociálnej podpory študentov. Druhá časť sa zaoberá hospodárením verejných
+vysokých škôl. Správa je doplnená podrobnou tabuľkovou prílohou.
+        Správa vychádza z údajov, ktoré vysoké školy uviedli vo svojich výročných správach
+o činnosti a výročných správach o hospodárení za rok 2022, z výkazníctva vysokých škôl
+za rok 2022 a ďalej z oficiálnych štatistických údajov a z údajov, ktoré má ministerstvo
+k dispozícii v rámci svojej koordinačnej činnosti, ako aj z poznatkov získaných na stretnutiach
+so Slovenskou rektorskou konferenciou, Radou vysokých škôl a Študentskou radou vysokých
+škôl. V správe sa uvádzajú prioritne údaje za sledované obdobie roku 2022 a v niektorých
+oblastiach sa pre lepšie porovnanie a sledovanie vývoja uvádzajú údaje za päťročné obdobie
+(roky 2017 – 2022).
+       Správa sa zaoberá najmä vysokými školami v pôsobnosti rezortu ministerstva, teda
+verejnými vysokými školami a súkromnými vysokými školami, v niektorých častiach taktiež
+zahraničnými vysokými školami. Ak to nie je výslovne uvedené, nezaoberá sa vysokými
+školami v rezortoch obrany, vnútra a zdravotníctva. Ak nie je uvedené inak, vysokou školou
+sa rozumie verejná vysoká škola alebo súkromná vysoká škola. V časti o hospodárení sa
+správa zaoberá len verejnými vysokými školami.
+
+
+
+
+                                               4
+                    Výročná správa o stave vysokého školstva za rok 2022
+
+
+Úvod
+Stručný prehľad najdôležitejších informácií o vysokom školstve v roku 2022
+(1)     V roku 20221 bol celkový počet študentov 136 168, z toho 78 328 (57,52 %) žien.
+Celkovo medziročne počet študentov na vysokých školách poklesol o 478 (0,35 %)
+študentov, pričom 305 študentov pribudlo na verejných vysokých školách, o 35 študentov
+poklesol počet študentov na štátnych vysokých školách a o 748 poklesol počet študentov
+na súkromných vysokých školách v porovnaní s predchádzajúcim rokom. Počet študentov
+iného štátneho občianstva sa pritom medziročne zvýšil o 27,40 % (celkom o 4 563 študentov).
+Tento nárast bol spôsobný najmä v kontexte situácie na Ukrajine a nárastom počtu študentov
+ukrajinskej národnosti. Najviac študentov verejných vysokých škôl v prvých dvoch stupňoch
+študovalo v spoločenských vedách, náukách a službách (52,01 %). Podiel žien na celkovom
+počte vysokoškolských študentov na verejných školách v roku 2022 dosiahol 57,42 %;
+v prípade doktorandského štúdia 47,75 %. Podiel žien študentiek na súkromných vysokých
+školách bol 62,30 %.
+(2)    V priebehu roka 2022 riadne skončilo vysokoškolské štúdium na verejných
+a súkromných vysokých školách 35 484 študentov, z toho 21 633 žien (60,96 %), čo
+predstavuje medziročný pokles o 4,92 % (1 835 absolventov). Pod tento pokles sa v
+najvýraznejšej miere podpísali absolventi druhého stupňa externej formy štúdia medziročným
+poklesom o 40,28 % (1 353 absolventov); zatiaľ čo v prípade absolventov druhého stupňa
+dennej formy štúdia bol zaznamenaný medziročný pokles o 4,19 % (599 absolventov).
+(3)     O štúdium na vysokej škole v prvom stupni, v spojenom prvom a druhom stupni sa
+uchádzalo 37 271 uchádzačov - občanov SR, čo je medziročný pokles o 1 328 uchádzačov
+(v prípade žien o 988 na 21 258). Slovenskí uchádzači o štúdium podali 68 303 (z toho žien
+40 985) prihlášok, spolu s cudzincami 88 244 prihlášok, čo je medziročne o 8 570 prihlášok
+viac. Celkovo bolo prijatých 32 483 uchádzačov - občanov SR a zapísalo sa
+28 689 uchádzačov. Zo všetkých úspešných uchádzačov sa na štúdium zapísalo 36 232
+(medziročný nárast o 5,07 %), z toho 28 689 uchádzačov - občanov SR a 7 543 cudzincov.
+(4)     Priemerný plat zamestnanca verejnej vysokej školy v roku 2022 bol 1 582,5 €, čo je
+o 4,2 % viac ako v roku 2021. Priemerný plat vysokoškolského učiteľa verejnej vysokej školy
+v roku 2022 bol 1 898,3 €, čo je o 3,4 % viac ako v roku 2021. V roku 2022 bol priemerný
+plat profesora verejnej vysokej školy 2 686,5 €, čo predstavuje nárast o 2,25 %.
+(5)   Veková štruktúra profesorov a docentov vysokých škôl sa medziročne významne
+nezmenila. Medián veku vysokoškolského učiteľa vo funkcii profesora bol 61 rokov.
+(6)    V schválenom rozpočte na rok 2022 bola na vysokoškolské vzdelávanie a sociálnu
+podporu študentov vysokých škôl v kapitole ministerstva vyčlenená suma 561 318 945 €.
+Z uvedeného objemu finančných prostriedkov bola pre vysoké školy vyčlenená suma
+553 266 628 €. Podpora vysokoškolskej vedy a techniky v rámci finančných prostriedkov
+vyčlenených na vysoké školstvo v kapitole ministerstva v roku 2022 predstavovala (vrátane
+dotácie pre Medzinárodné laserové centrum) 179 559 856 €.
+(7)    Verejné vysoké školy hospodária podľa rozpočtu výnosov a nákladov. Celkové
+náklady (vrátane odvodov a dane z príjmu) verejných vysokých škôl v roku 2022 v hlavnej
+činnosti predstavovali 852 786 627 € a celkové výnosy verejných vysokých škôl v roku 2022
+v hlavnej činnosti boli 856 894 130 €.
+
+1
+ Počtom študentov v roku 2022 rozumieme počet študentov v akademickom roku 2022/2023 k 31.10.2022. Do
+celkového počtu sú započítaní aj študenti štátnych vysokých škôl, čomu sú prispôsobené aj medziročné
+porovnania.
+
+                                                 5
+                  Výročná správa o stave vysokého školstva za rok 2022
+
+(8)     V roku 2022 skončilo s kladným výsledkom hospodárenia (hlavná a podnikateľská
+činnosť spolu) svoje hospodárenie 15 verejných vysokých škôl. Hospodársky výsledok
+verejných vysokých škôl za rok 2022 v hlavnej činnosti bol zisk vo výške 4 045 368 €
+a v podnikateľskej činnosti bol zisk v objeme 6 680 271 €. Celkový hospodársky výsledok bol
+zisk v hodnote 10 725 638 €.
+(9)     Správa a jej tabuľková príloha aj v tomto roku poskytuje ďalšie podrobné informácie
+o stave vysokého školstva v SR za rok 2022.
+
+
+
+
+                                            6
+                   Výročná správa o stave vysokého školstva za rok 2022
+
+
+Časť I
+1. Správa o činnosti vysokých škôl v roku 2022
+(10) Prvá časť správy sa zameriava na hlavné činnosti vysokých škôl v roku 2022
+a podmienky, za ktorých tieto činnosti vykonávajú.
+
+
+1.1 Právne podmienky
+(11)   V roku 2022 Národná rada SR schválila zákony:
+-       Zákon č. 137/2022 Z. z., ktorým sa mení a dopĺňa zákon č. 131/2002 Z. z. o vysokých
+školách a o zmene a doplnení niektorých zákonov v znení neskorších predpisov a ktorým sa
+menia a dopĺňajú niektoré zákony. Novela zákona priniesla predovšetkým zmenu v oblasti
+manažmentu vysokých škôl. Posilnilo sa postavenie rektora v rámci akademických orgánov,
+a taktiež sa zmenil spôsob voľby rektora, ktorého na spoločnom zhromaždení volí správna
+rada a akademický senát vysokej školy.
+Zmenil sa spôsob obsadzovania funkcie dekana na fakultách a tiež úloha a spôsob menovania
+členov správnych rád verejných vysokých škôl. Novelou zákona boli oddelené funkčné miesta
+docentov a profesorov od vedecko-pedagogického alebo umelecko-pedagogického titulu
+docent a profesor. V oblasti internacionalizácie bolo zavedené do študijných programov
+mobilitné okno. Novela taktiež upravuje štandardnú dĺžku externého štúdia študijných
+programov I., II. a spojeného I. a II. stupňa, zaviedla tzv. výkonnostné zmluvy pre verejné
+vysoké školy, pridaná bola definícia akademického podvodu a prípadných sankcii.
+Súčasťou novely zákona o vysokých školách bola aj úprava pôsobnosti správnych rád
+verejných vysokých škôl, vrátane spôsobu stanovenia počtu členov, postupu ich kreovania,
+kvalifikačných nárokov a stanovenia nezlučiteľnosti ich funkcií. Vo vzťahu k úprave
+pôsobnosti správnych rád novela zaviedla najmä určovanie platu rektorov, schvaľovanie
+návrhu rozpisu dotácie zo štátneho rozpočtu a rozpočtu školy, či udeľovanie súhlasu na výkon
+niektorých právnych úkonov.
+Časť členov správnej rady verejnej vysokej školy podľa novelizovaného zákona vymenúva a
+odvoláva minister školstva, časť volí a odvoláva akademický senát verejnej vysokej školy (z
+toho aspoň jedného člena správnej rady verejnej vysokej školy volí a odvoláva len jeho
+študentská časť) a jedného nepárneho člena správnej rady verejnej vysokej školy volia a
+odvolávajú tajným hlasovaním ostatní členovia správnej rady verejnej vysokej školy.
+V nadväznosti na uvedené si 20 verejných vysokých škôl v rámci pravidiel zákona stanovilo,
+že celkovo v správnych radách verejných vysokých škôl pôsobí alebo bude pôsobiť 184
+významných vedeckých a umeleckých osobností, predstaviteľov verejného života a
+podnikateľskej oblasti. Z toho 82 členov menuje minister školstva, 82 členov volia
+akademické senáty a 20 členov menujú samotní členovia správnych rád.
+-       Zákon č. 137/2022 Z. z., ktorým sa mení a dopĺňa zákon č. 269/2018 Z. z. o
+zabezpečovaní kvality vysokoškolského vzdelávania a o zmene a doplnení zákona č. 343/2015
+Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení neskorších
+predpisov. Novelou bola rozdelená akreditácia habilitačného konania a inauguračného
+konania na dva samostatné procesy. Vzhľadom na novelu zákona č. 131/2002 Z. z. o
+vysokých školách a o zmene a doplnení niektorých zákonov boli pridané možnosti vydať
+špecifické akreditačné štandardy pre študijné programy zamerané na vychovávateľstvo a
+neformálne vzdelávanie detí a žiakov.
+
+
+                                             7
+                   Výročná správa o stave vysokého školstva za rok 2022
+
+-      Zákon č. 175/2022 Z. z., ktorým sa mení a dopĺňa zákon č. 396/2012 Z. z. o fonde na
+podporu vzdelávania. Novela upravuje počet a zloženie členov Rady fondu a rozširuje sa jej
+pôsobnosť. Upravuje pravidlá menovania členov dozornej rady a dĺžku ich mandátu, pravidlá
+pre hospodárenie s prostriedkami fondu a predpisy pre poskytovanie a splatnosť poskytovania
+pôžičiek pre študentov, pedagógov a stabilizačných pôžičiek.
+-       Zákon č. 176/2022 Z. z., ktorým sa mení a dopĺňa zákon č. 422/2015 Z. z. o uznávaní
+dokladov o vzdelaní a o uznávaní odborných kvalifikácií a o zmene a doplnení niektorých
+zákonov v znení neskorších predpisov a ktorým sa menia a dopĺňajú niektoré zákony. Cieľom
+zákona bolo zjednodušiť proces uznávania dokladov o vzdelaní získaných mimo európskeho
+priestoru vysokoškolského vzdelávania. Zároveň sa odstránila požiadavka na predkladanie
+tzv. potvrdenia o akreditácii v konaní o uznaní dokladu o vzdelaní v prípade vysokoškolskej
+inštitúcie z tretích štátov. Odstránila sa aj požiadavka na predkladanie dokladov o vzdelaní
+s tzv. apostille – vyššie overenie dokladu o vzdelaní vo všetkých konaniach. Ministerstvo bolo
+zákonom ustanovené ako príslušný orgánu na uznávanie dosiahnutého stupňa
+vysokoškolského vzdelania zo všetkých štátov sveta. Vysoké školy boli ustanovené ako
+príslušné orgány na uznávanie dokladov o vzdelaní mimo štátov európskeho priestoru
+vysokoškolského vzdelávania.
+(12)   V roku 2022 bolo vydaných niekoľko vykonávacích predpisov, napríklad:
+-      Nariadenie vlády Slovenskej republiky č. 51/2022 Z. z., ktorým sa zrušuje nariadenie
+vlády Slovenskej republiky č. 459/2021 Z. z. na vykonanie opatrenia hospodárskej
+mobilizácie v súvislosti s vyhláseným núdzovým stavom na zabezpečenie riešenia ochorenia
+COVID-19.
+-      Nariadenie vlády SR č. 100/2022 Z. z., o príspevku za poskytnutie ubytovania
+odídencovi v súvislosti so situáciou na Ukrajine.
+-       Nariadenie vlády SR č. 524/2022 Z. z., ktorým sa dopĺňa nariadenie vlády Slovenskej
+republiky č. 131/2022 Z. z. o niektorých opatreniach v oblasti dotácií v pôsobnosti
+Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky v čase mimoriadnej
+situácie, núdzového stavu alebo výnimočného stavu vyhláseného v súvislosti s hromadným
+prílevom cudzincov na územie Slovenskej republiky spôsobeným ozbrojeným konfliktom na
+území Ukrajiny v znení neskorších predpisov.
+-       Opatrenie ministerstva oznámené pod č. 20/2022 Z. z., ktorým sa ustanovuje suma
+maximálneho ročného školného na akademický rok 2022/2023 pre študijné programy
+v externej forme štúdia uskutočňované na verejných vysokých školách a na štátnych vysokých
+školách, čo je každoročná aktualizácia maximálnych súm ročného školného v externej forme
+štúdia.
+
+
+1.2 Poskytovatelia vysokoškolského vzdelávania
+(13) V roku 2022 poskytovalo vysokoškolské vzdelávanie dvadsať verejných vysokých
+škôl, tri štátne vysoké školy a desať súkromných vysokých škôl.
+(14) Okrem nich oprávnenie na poskytovanie vysokoškolského vzdelávania na území SR
+malo aj osem zahraničných vysokých škôl, päť so sídlom v Českej republike (Vysoká škola
+mezinárodních a veřejných vztahů Praha, o. p. s.; Vysoká škola NEWTON, a.s.; Vysoká škola
+hotelová v Praze 8, spol. s r.o.; Soukromá vysoká škola ekonomická Znojmo s.r.o. a Vysoká
+škola logistiky o.p.s.), jedna so sídlom vo Francúzskej republike (INSTITUT SUPÉRIEUR
+SPÉCIALISÉ DE LA MODE - MOD´SPÉ Paris), jedna so sídlom v Poľskej republike
+
+
+                                              8
+                   Výročná správa o stave vysokého školstva za rok 2022
+
+(Collegium Humanum - Szkoła Główna Menedżerska) a jedna so sídlom v Maďarskej
+republike (Magyar Agrár- és Élettudományi Egyetem).
+(15) Na základe novely zákona o vysokých školách z roku 2019 môžu vysoké školy
+od 1. 7. 2019 zakladať záujmové združenie právnických osôb – konzorcium vysokých škôl na
+účel spoločného postupu pri tvorbe študijných programov, vytvárania spoločných študijných
+programov, spoločného postupu v prijímacom konaní, spoločného uskutočňovania
+výskumnej, vývojovej alebo inej tvorivej činnosti alebo spoločného zabezpečovania možností
+stravovania a ubytovania pre študentov, pričom zápis takto vytvorených právnických osôb
+vykonáva ministerstvo. V roku 2022 evidujeme pôsobenie jedného konzorcia pod názvom
+Konzorcium slovenských vysokých škôl, ktorého zápis do registra konzorcií vysokých škôl
+vykonalo ministerstvo 22. 1. 2021.
+(16) Jednotlivé vysoké školy spracovali svoje výročné správy o činnosti za rok 2022.
+Z niektorých z nich vyberáme nasledujúce informácie:
+-       Medzinárodný vedecký tím Univerzity Komenského v Bratislave pod vedením prof.
+Josefa Jampíleka z Prírodovedeckej fakulty UK a ďalších českých vedeckých inštitúcií
+vyvinul unikátne molekuly odvodené od kyseliny škoricovej. Zlúčeniny sú až stokrát
+účinnejšie proti rezistentným kmeňom baktérií ako štandardne používané antibiotiká.
+Vykazujú niekoľko rôznych mechanizmov účinkov, vďaka čomu sú odolné proti vzniku
+rezistencie. Vedci z Prírodovedeckej fakulty UK taktiež objavili raritný nový minerál
+gadolína, monazit-(Gd), ktorý bol v októbri 2022 schválený Komisiou pre nové minerály,
+nomenklatúru klasifikáciu (CNMNC) pri Medzinárodnej mineralogickej asociácii IMA.
+Minerál bol opísaný z lokality Prakovce-Zimná voda.
+-      Viac ako 16-ročný výskum v oblasti vodíkových technológií na Technickej univerzite
+v Košiciach vyústil k vývoju unikátnych metalhydridových zásobníkov vodíka, ktoré boli
+použité v koncepte vodíkového automobilu MH2 a v prototype vodíkového autobusu.
+Exponáty boli prezentované v slovenskom pavilóne na EXPO v Dubaji do marca 2022.
+Súčasne prebiehal výskum nových zliatin pre absorpčné uskladnenie vodíka s intenzifikáciou
+transportu tepla pri tankovaní, čo umožnilo ešte viac znížiť čas tankovania a prispelo k
+homologizácii autobusu v spolupráci s priemyselným partnerom.
+-      Podpisom Memoranda o spolupráci medzi Trenčianskou univerzitou Alexandra
+Dubčeka v Trenčíne, Trenčianskym samosprávnym krajom, zástupcami zamestnávateľov a
+zahraničných partnerov sa začala prvá etapa budovania vzdelávacieho a technologického
+kampusu EDUTECH v areáli Fakulty priemyselných technológii a Spojenej školy v Púchove.
+Kampus bude poskytovať odborné vzdelávanie pre prax a moderný aplikovaný výskum
+viazaný na Priemysel 4.0 a prepojí stredné odborné školy a univerzity z Nemecka, Fínska,
+Poľska a Českej republiky.
+-      Univerzita Pavla Jozefa Šafárika v Košiciach sa stala externým partnerom EIT Digital
+a organizačne je začlenená do uzla so sídlom v Budapešti. EIT Digital vznikol v roku 2010
+ako jeden z prvých EIT KICs (Knowledge and Innovation Communities) a postupne sa stal
+najväčším digitálnym inovačným ekosystémom v Európe zameraným na digitálne
+podnikateľstvo, inovácie, podporu talentov a rozvoj digitálnych zručností.
+-      Európska komisia udelila v roku 2022 Ekonomickej univerzite v Bratislave
+a Slovenskej technickej univerzite, ako tretej a štvrtej univerzite na Slovensku ocenenie „HR
+Excellence in Research“. Toto ocenenie potvrdzuje, že univerzity sa kontinuálne snažia
+napĺňať európske štandardy v oblasti starostlivosti o svojich zamestnancov, podpory ich
+profesionálneho rozvoja a transparentnosti ich výberového procesu v súlade so štandardmi
+
+
+                                             9
+                      Výročná správa o stave vysokého školstva za rok 2022
+
+Európskej charty výskumných pracovníkov a Kódexu správania pre nábor výskumných
+pracovníkov.
+-      V roku 2022 bola podpísaná historicky prvá licenčná zmluva na využitie vynálezu,
+konkrétne Granulátora partikulárneho materiálu s matricou, na ktorom sa spoločne podieľali
+zamestnanci Strojníckej fakulty Slovenskej technickej univerzity.
+(17) Tri slovenské vysoké školy v roku 2022 naďalej rozvíjali spoluprácu v rámci iniciatívy
+Európskych univerzít2. V nadväznosti na zverejnené výsledky Erasmus+ výzvy Európskej
+komisie, vyhlásenej v roku 2022, sa k doterajším trom slovenským vysokým školám pridali
+ďalšie dve vysoké školy.
+-       Univerzita Komenského v Bratilslave aj v roku 2022 úspešne rozvíjala spoluprácu s
+ďalšími ôsmimi univerzitami (Ghent University, University of Bordeaux, National University
+of Ireland, Galway; University of Göttingen, University of the Basque Country, University of
+Gronningen, University of Tartu, Uppsala University) v rámci aliancie ENLIGHT.
+-      Technická univerzita v Košiciach bola aj v roku 2022 súčasťou aliancie európskych
+univerzít ULYSSEUS. Aliancia pozostáva zo šiestich univerzít: troch komplexných univerzít
+(Univerzita v Seville v Španielsku, Univerzita Côte d'Azur vo Francúzsku, Univerzita v
+Janove v Taliansku), jednej technickej univerzity (Technická univerzita v Košiciach) a dvoch
+univerzít aplikovaných vied (Management Center Innsbruck v Rakúsku a Univerzita
+aplikovaných vied Haaga-Helia vo Fínsku).
+-       Slovenská poľnohospodárska univerzita bola v roku 2022 ako hlavný koordinátor
+aliancie INVEST prispievala k dosiahnutiu spoločných cieľov s University of Applied
+Sciences (Fínsko), University of Agribusiness and Rural Development (Bulharsko),
+University of Applied Sciences (Holandsko), University of Thessaly (Grécko).
+V nadväznosti na zverejnené výsledky Erasmus+ výzvy Európskej komisie, vyhlásenej v roku
+2022, sa k doterajším trom slovenským vysokým školám pridali ďalšie dve vysoké školy,
+ktoré budú pôsobiť v rámci aliancií Európskych univerzít.
+-      Slovenská technická univerzita bude v rámci konzorcia EULiST spolupracovať s
+Leibniz University Hannover, Nemecko, LUT (Fínsko), Univerzita Jönköping (Švédsko),
+Technická univerzita vo Viedni (Rakúsko), Národná technická univerzita v Aténach (Grécko),
+Vysoké učení technické v Brne (Česká republika), Univerzita Rey Juan Carlos (Španielsko),
+Univerzita v L'Aquila (Taliansko), Institut Mines-Télécom, (Francúzsko).
+-       Vysoká škola múzických umení sa pripojila k existujúcej aliancii FilmEU+ a zaradila
+sa tak k svojim partnerom Lusófona University of Portugal (Portugalsko), Luca School of Arts
+(Belgicko), IADT (Írsko), TLU (Estónsko), LMTA (Litva), VIA University College (Dánsko)
+a NATFA (Bulharsko)
+
+
+
+
+2
+  Európske univerzity predstavujú inštitucionálnu spoluprácu vysokých škôl v celej Európskej únii, Albánsku,
+Bosne a Hercegovine, Islande, Čiernej Hore, Nórsku, Severnom Macedónsku, Srbsku a Turecku. Táto iniciatíva
+sa zameriava na dlhodobú systematickú spoluprácu inštitúcií vysokoškolského vzdelávania v oblasti
+vzdelávania, výskumu a inovácií. Cieľom Európskej komisie je prostredníctvom prehĺbenia spolupráce prispieť
+k vytvoreniu Európskeho vzdelávacieho priestoru. Aliancie majú zvýšiť celkovú atraktívnosť a
+konkurencieschopnosť európskeho vysokoškolského vzdelávania. Bližšie informácie dostupné na
+https://education.ec.europa.eu/sk/education-levels/higher-education/european-universities-initiative
+
+                                                    10
+                       Výročná správa o stave vysokého školstva za rok 2022
+
+
+1.3 Poskytovanie vysokoškolského vzdelávania
+Systém vysokoškolského vzdelávania
+(18) Od 1. 1. 2020 prevzala Slovenská akreditačná agentúra pre vysoké školstvo (ďalej len
+„SAAVŠ“) úlohy ministerstva a Akreditačnej komisie v oblasti akreditácií činností vysokých
+škôl. Významná časť aktivít SAAVŠ v roku 2022 sa týkala prípravy na systémové akreditácie
+vysokých škôl, ale aj aktivít spojených s ambíciou agentúry stať sa členom Európskej
+asociácie pre zabezpečovanie kvality vysokoškolského vzdelávania (ENQA) a byť zapísanou
+v Európskom registri zabezpečovania kvality vysokoškolského vzdelávania (EQAR).
+(19) Vzhľadom na novú sústavu študijných odborov (platnú od 1. 9. 2019) boli študijné
+programy uskutočňované v 48 študijných odboroch. Vysokoškolské vzdelanie prvého stupňa
+je možné získať v niektorom zo 45 študijných odborov a vysokoškolské vzdelanie druhého
+alebo tretieho stupňa v niektorom zo 48 študijných odborov. V prípade troch študijných
+odborov nie je možné uskutočňovať študijné programy I. alebo II. stupňa samostatne, ale len
+študijné programy spájajúce prvý a druhý stupeň (farmácia, všeobecné lekárstvo a zubné
+lekárstvo). Naopak, v štyroch študijných odboroch (logopédia a liečebná pedagogika,
+teológia, učiteľstvo a pedagogické vedy a veterinárske lekárstvo) je možné okrem
+bakalárskych a magisterských programov vytvárať aj študijné programy spájajúce prvý
+a druhý stupeň.
+(20) V roku 2022 výkonná rada SAAVŠ rozhodla v oblasti akreditácie študijných
+programov spolu v 16 prípadoch. SAAVŠ rozhodla o akreditácií 16 nových študijných
+programov. Agentúra zároveň na žiadosť vysokých škôl rozhodla o zrušení akreditácie 149
+odborov habilitačného konania a inauguračného konania.
+
+                                               Študijné programy                     Habilitačné a
+       Typ rozhodnutia                                                               inauguračné     Spolu
+                                                         spojeného
+                               I. stupeň   II. stupeň                  III. stupeň     konanie
+                                                        I+II stupňa
+
+Udelenie akreditácie                   4            6              0             6               0      16
+
+Pozastavenie akreditácie               0            0              0             0               0       0
+Odňatie akreditácie                    0            0              0             0               1       1
+Spolu                                  4            6              0             6               0      33
+Tabuľka č. 2 - Počet rozhodnutí o akreditácii činností vysokých škôl mimo komplexnej
+akreditácie vydaných SAAVŠ
+Študenti
+(21) Medziročne bolo zaznamenané zníženie počtu študentov na vysokých školách
+na 136 168 študentov (pokles o 478 študentov, t. j. o 0,35 %). Verejné vysoké školy
+zaznamenali medziročný nárast počtu študentov o 305, na súkromných vysokých školách
+počet študentov klesol o 748 a na štátnych vysokých školách počet medziročne klesol o 35
+študentov. Podiel študentov na súkromných vysokých školách sa tak medziročne mierne
+znížil na 11,00 % (medziročný pokles o 0,51 percentuálneho bodu).
+(22) Podiel žien na celkovom počte študentov vysokých škôl dosiahol v roku 2022
+hodnotu 57,52 % (medziročný pokles o 1,12 percentuálneho bodu). V prípade verejných
+vysokých škôl to bolo 56,96 %, na súkromných vysokých školách 62,30 % a na štátnych
+vysokých školách 56,11 %. Z hľadiska formy a stupňa štúdia mali ženy najvýraznejšie
+zastúpenie v rámci externého štúdia na prvom a druhom stupni, kde ich podiel dosiahol
+68,44 %. Najvyšší podiel žien bol na Univerzita veterinárskeho lekárstva a farmácie v
+Košiciach, kde bolo v roku 2022 84,28 % (medziročný nárast o 0,35 percentuálneho bodu)
+
+                                                   11
+                   Výročná správa o stave vysokého školstva za rok 2022
+
+študentov ženského pohlavia. Naopak, najnižší podiel žien študoval na Akadémii ozbrojených
+síl (23,09 % podiel).
+(23) Po miernom náraste počtu novoprijatých študentov vysokých škôl v roku 2020
+(občanov SR) bol v roku 2021 a 2022 zaznamenaný opätovný pokles novoprijatých študentov
+na prvý stupeň štúdia na verejných vysokých školách (pokles o 926 študentov; 3,94 %).
+V roku 2022 bolo na prvý stupeň štúdia na súkromných vysokých školách prijatých 2 526
+študentov (nárast oproti roku 2021 o 44,8 %).
+(24) Z hľadiska formy štúdia pokračoval pokles podielu študentov v externej forme, keď
+ich podiel na celkovom počte študentov v roku 2022 poklesol na 16,85 % (v roku 2021 to
+bolo 18,03%).
+(25) Počet doktorandov v dennej (3 436) aj externej (2 742) forme štúdia na verejných,
+súkromných a štátnych vysokých školách medziročne poklesol o 304 študentov (o 4,69 %).
+V dennej forme štúdia bol na slovenských vysokých školách medziročný pokles o 192
+doktorandov (o 5,29 %), v externej forme bol zaznamenaný pokles o 112 študentov (o
+3,92 %). Na verejných vysokých školách bol počet študujúcich v doktorandskom štúdiu
+v porovnaní s predchádzajúcim rokom nižší o 276 (medziročný pokles o 4,73 %), na
+súkromných vysokých školách sa ich počet medziročne znížil o 16 (4,05 %) a v prípade
+štátnych vysokých škôl bol zaznamenaný medziročný pokles počtu doktorandov o 12
+(4,82 %). Podiel doktorandov na celkovom počte študentov predstavoval 4,54 %.
+(26) Počet cudzincov študujúcich v SR (21 216) medziročne vzrástol o 4 563 študentov,
+ich podiel na celkovom počte študentov sa zvýšil o 3,39 percentuálneho bodu (na 15,58 %).
+Ženy boli medzi zahraničnými študentmi zastúpené 48,41 % podielom, pričom v prípade
+súkromných vysokých škôl ich podiel v rámci zahraničných študentov dosiahol 61,28 %.
+(27) Z pohľadu štatistickej klasifikácie odborov vzdelania 52,49 % zo všetkých študentov
+prvého a druhého stupňa na slovenských vysokých školách študovalo spoločenské vedy,
+náuky a služby. Rovnako aj v prípade doktorandského štúdia je najviac doktorandov
+v spoločenských vedách a náukách (32,99 %). V rámci súkromných vysokých škôl
+v spoločenských vedách, náukách a službách študovalo 69,38 % študentov (prvý a druhý
+stupeň). Takmer vo všetkých skupinách odborov mali medzi študentami ženy vyššie
+zastúpenie ako muži. Výnimku predstavovali iba technické vedy a náuky (22,23 %)
+a vojenské a bezpečnostné vedy a náuky (34,38 %). Najvýraznejšiu prevahu mali ženy
+v prípade zdravotníckych odborov (73,93 %).
+(28) V rámci spoločenských vied a náuk na prvých dvoch stupňoch denného
+vysokoškolského štúdia na verejných vysokých školách tvorili najväčší podiel študenti
+ekonomických vied (31,53 %); v prípade externého štúdia dosiahol podiel ekonomických vied
+23,14 %. Na súkromných vysokých školách v rámci spoločenských vied a náuk na prvých
+dvoch stupňoch denného štúdia tvorili najväčší podiel rovnako ekonomické vedy (44,49 %),
+avšak v prípade externého štúdia dominovali študijné programy zo skupiny spoločenských
+a behaviorálnych vied (71,60 %). Najväčšie zastúpenie z tejto skupiny mali študijné programy
+zamerané na sociálnu prácu, ktorých podiel na celkovom počte externých študentov I. a II.
+stupňa vysokoškolského štúdia predstavoval 39,13 %.
+(29) Na siedmich verejných vysokých školách študovala viac ako polovica (55,15 %)
+študentov, pričom 32,90 % všetkých študentov študovalo na troch vysokých školách
+(UK Bratislava, TU Košice a STU Bratislava). Najväčší podiel doktorandov z počtu
+študentov vysokej školy mali AOZ Liptovský Mikuláš (10,99 %), AU Banská Bystrica
+(9,92 %), VŠVU Bratislava (9,87 %). Najmenší podiel doktorandov z počtu študentov
+z verejných vysokých škôl mala UMB Banská Bystrica (2,12 %). Najväčší podiel
+
+                                            12
+                      Výročná správa o stave vysokého školstva za rok 2022
+
+doktorandov z počtu študentov zo súkromných vysokých škôl mala VŠ Danubius
+Sládkovičovo (6,39 %). Najväčší podiel študentov cudzincov mala TU Košice (39,47 %).
+(30) Z hľadiska veku tri pätiny (61,93 %) študentov v dennej forme štúdia v prvých
+dvoch stupňoch vysokoškolského vzdelávania boli vo veku do 22 rokov (vrátane). V prípade
+externej formy štúdia necelé dve tretiny (65,46 %) študentov na prvých dvoch stupňoch boli
+starších ako 27 rokov (vrátane). Až 93,49 % doktorandov v dennej forme štúdia mali vek
+do 27 rokov (vrátane), v externej forme štúdia bolo 83,84 % doktorandov vo veku
+nad 29 rokov.
+(31) V priebehu roka 2022 riadne skončilo vysokoškolské štúdium (prvý až tretí stupeň)
+35 484 absolventov (medziročný pokles o 1 835 absolventov), z nich 19 583 (55,19 %)
+v spoločenských vedách, náukách a službách. V rámci technických vied a náuk skončilo
+štúdium spolu 6 749 študentov (19,02 %). Absolventi doktorandského štúdia tvorili 3,70 %
+z počtu absolventov.
+(32) V roku 2022 bolo do centrálneho registra záverečných, rigoróznych a habilitačných
+prác zaslaných celkom 39 610 záverečných prác v prvom, druhom a treťom stupni
+vysokoškolského vzdelávania, z toho bolo 20 013 bakalárskych prác, 16 362 diplomových
+prác a 1 333 dizertačných prác. Obhájených záverečných prác bolo v roku 2022 v prvom,
+druhom a treťom stupni vysokoškolského vzdelávania celkom 33 459. Z celkového počtu
+záverečných prác bola prevažná väčšina predložená v slovenskom jazyku (91,04 %), časť v
+anglickom jazyku (5,06%), v českom jazyku (1,89%), v maďarskom jazyku (1,76 %), v
+nemeckom jazyku (0,38 %) a v malom množstve v inom jazyku (0,77 %). Rozdiel v počte
+zaslaných záverečných prác do centrálneho registra záverečných prác a počtom obhájených
+prác sú najmä neobhájené práce, resp. preloženie termínu obhajoby, prípadne nepotvrdenie
+obhájenia práce zo strany vysokej školy.
+(33) Podľa údajov Ústredia práce, sociálnych vecí a rodiny SR bolo v evidencii
+uchádzačov o zamestnanie v decembri 2022 z verejných, súkromných a štátnych vysokých
+škôl 1 302 uchádzačov - absolventov vysokých škôl3, čo bolo o 291 menej oproti roku 2021,
+z ktorých bolo 965 absolventov druhého, 337 absolventov prvého stupňa. Z celkového počtu
+absolventov – evidovaných uchádzačov o zamestnanie vysokých škôl bolo 5,0 % v evidencii
+viac ako 12 mesiacov. Najviac absolventov z evidovaných uchádzačov o zamestnanie bolo
+v decembri 2022 v evidencii sedem až deväť mesiacov (44,1 %).
+(34) Podrobnejšie údaje o študentoch a absolventoch sú uvedené v tabuľkovej prílohe,
+v tabuľkách č. 1 až 5.
+Prijímacie konanie na 1. stupeň
+(35) O štúdium na vysokej škole v prvom stupni, v spojenom prvom a druhom stupni sa
+uchádzalo 37 271 uchádzačov - občanov SR, čo je medziročný pokles o 1 328 uchádzačov (v
+prípade žien o 988 na 21 258). Slovenskí uchádzači na štúdium podali 68 303 (v prípade žien
+40 985) prihlášok, spolu s cudzincami 88 244 prihlášok, čo je medziročne o 8 570 prihlášok
+viac.
+
+
+
+
+3
+  Za absolventa - uchádzača o zamestnanie sa považujú len absolventi z dennej formy štúdia a len do veku 25
+rokov. Absolvent mohol ukončiť štúdium aj v predchádzajúcom roku.
+
+                                                    13
+                       Výročná správa o stave vysokého školstva za rok 2022
+
+
+ 80000
+
+ 70000
+
+ 60000
+
+ 50000
+
+ 40000
+
+ 30000
+
+ 20000
+
+ 10000
+
+     0
+           prihlášky        prijatia          zápis            prihlásení          prijatí   zapísaní
+
+                              2017     2018     2019        2020    2021    2022
+
+
+Graf č. 1 - Vývoj počtu prihlášok, prijatí a zápisov, prihlásených (fyzické osoby), prijatých (fyzické
+osoby) a zapísaných (fyzické osoby) – fyzická osoba je za všetky školy zohľadnená len raz, aj keď
+sa zúčastnila viacerých prijímacích konaní
+
+(36) V roku 2022 sa na každých 100 prijatých uchádzačov nezapísalo na štúdium takmer
+dvanásť (11,7) uchádzačov. Celkovo bolo prijatých na štúdium v prvom stupni, v spojenom
+prvom a druhom stupni 32 483 uchádzačov - občanov SR a zapísalo sa 28 689 uchádzačov.
+Zo všetkých úspešných uchádzačov sa na štúdium zapísalo 36 232 (medziročný nárast
+o 5,07 %), z toho 28 689 uchádzačov - občanov SR a 7 543 cudzincov.
+(37) Najviac, 21 170 uchádzačov, podalo prihlášku na štúdium spoločenských vied, náuk
+a služieb, z nich 87,00 % bolo na štúdium prijatých a zapísalo sa 15 565 uchádzačov, čo je
+84,51 % z prijatých na študijné programy patriace do tejto skupiny študijných odborov.
+V prípade žien bolo na štúdium prijatých 18 385 uchádzačiek a zapísalo sa 16 122
+uchádzačiek. Najviac, 13 633 uchádzačiek, podalo prihlášku na štúdium spoločenských vied,
+náuk a služieb, z nich 87,71 % bolo na štúdium prijatých a zapísalo sa 10 047 uchádzačiek,
+čo je 84,02 % z prijatých žien na študijné programy patriace do tejto skupiny študijných
+odborov.
+(38) Najväčšia skupina uchádzačov o vysokoškolské štúdium mala menej ako 20 rokov
+(vrátane) a tvorila 62,19 %, v prípade dennej formy štúdia 71,44 % z uchádzačov.
+Maturujúci v roku 2022 tvorili z uchádzačov 58,11 % (v dennej forme štúdia 67,70 %;
+v externej forme 12,81 %).
+(39) Podľa štatistických údajov v školskom roku 2021/2022 absolvovalo strednú školu
+s maturitou 37 192 žiakov (z toho 18 975 žien). O štúdium na vysokej škole v SR sa uchádzalo
+59,39 % všetkých absolventov (z absolventiek 66,22 %). Na štúdium na vysokej škole v SR
+sa zapísalo 47,82 % maturantov zo školského roka 2021/2022 (v prípade žien 53,10 %
+maturantiek).
+
+
+
+
+                                                       14
+                     Výročná správa o stave vysokého školstva za rok 2022
+
+Prijímacie konanie na 2. stupeň
+(40) V roku 2022 bolo podaných 16 038 prihlášok na štúdium na vysokej škole4
+v študijných programoch druhého stupňa v dennej forme a 3 334 v externej forme štúdia,
+čo predstavuje o 606 podaných prihlášok menej ako v roku 2021, z toho o 494 menej na dennú
+formu a o 112 menej na externú formu. O štúdium sa uchádzalo 17 048 občanov
+SR, prijatých bolo 15 908 uchádzačov (93,31 %) a na štúdium sa zapísalo
+14 817 uchádzačov (93,14 % z prijatých). Ženy podali 9 303 prihlášok na štúdium
+na vysokej škole v študijných programoch druhého stupňa v dennej forme a 2 386 v externej
+forme štúdia. O štúdium sa uchádzalo 10 110 občianok SR, prijatých bolo 9 450 (93,47 %)
+a na štúdium sa zapísalo 8 698 uchádzačiek (92,04 % z prijatých).
+(41) Takmer tri štvrtiny (73,36 %) prihlášok podali absolventi bakalárskeho štúdia na tej
+istej vysokej škole. Najmenší podiel prihlášok absolventov bakalárskeho štúdia z inej vysokej
+školy mala medzi verejnými vysokými školami UJS Komárno (5,14 %).
+(42) Z uchádzačov o štúdium v druhom stupni získalo 84,31 % z nich vysokoškolské
+vzdelanie v prvom stupni v roku 2022. Z hľadiska zápisu na štúdium druhého stupňa
+predstavovali absolventi z roku 2022 z celkového počtu zapísaných 85,76 %.
+(43)    Podrobnejšie údaje sú uvedené v tabuľkách č. 6 až 9.
+Dostupnosť štúdia pre občanov so špecifickými potrebami
+(44) V roku 2022 pokračovala vo svojej činnosti Rada ministra školstva, vedy, výskumu a
+športu Slovenskej republiky na podporu štúdia študentov so špecifickými potrebami ako
+konzultačný orgán, v ktorej sú zastúpení predstavitelia akademickej obce, neziskového
+sektora a ministerstva. V roku 2022 boli zabezpečené pre koordinátorov vysokých škôl
+vzdelávacie aktivity prostredníctvom podporných centier na UK Bratislava a TU Košice.
+Taktiež bola na zabezpečenie podporných služieb študentov so špecifickými potrebami
+verejným vysokým školám rozpísaná suma 700 000 €, rovnako ako v roku 2021. V rozpise sa
+zohľadnili jednotlivé špecifické potreby, ktoré boli začlenené do niekoľkých kategórií
+zohľadňujúc predpokladanú finančnú náročnosť zabezpečenia podpornej služby (od 325 € v
+prípade chronicky chorých študentov po 5 400 € v prípade nepočujúcich a nedoslýchavých
+študentov).
+Vysokoškolská mobilita
+(45) Výzva 20215 bola prvou výzvou v rámci nového programového obdobia Erasmus+
+2021 – 2027. Žiadosť v Kľúčovej akcii 1 – Vzdelávacia mobilita jednotlivcov podalo 31
+vysokých škôl a konzorcium WorkSpace Europe. Od Výzvy 2021 je už jednotné trvanie
+projektov v dĺžke 26 mesiacov. V rámci prvej výzvy nového programového obdobia bol
+začiatok projektov výnimočne posunutý na 1. september 2021, ale v ďalších výzvach sa
+projekty začínajú od 1. júna daného roku výzvy. Projekty 2021 končia k 31. októbru 2023 a
+k dátumu 11. 7. 2023 vycestovalo prostredníctvom tohto programu 1 665 študentov na
+študijný pobyt v priemernej dĺžke 122 dní a 1 001 študentov na pracovnú stáž do podnikov v
+
+
+4
+  Sú započítaní len občania SR. V počte sú aj prihlášky na štátne vysoké školy s výnimkou AOS s necivilným
+vysokoškolským štúdiom.
+4
+  Výzvy sú vyhlasované každý rok a školy sa do nich zapájajú každoročne, dochádza vždy k prelínaniu
+oprávneného obdobia projektov z dvoch výziev. Z tohto dôvodu vychádzajú štatistiky v rámci programu
+Erasmus+ z údajov z oprávneného obdobia projektov a nie z údajov z akademického roku.
+
+
+
+
+                                                   15
+                    Výročná správa o stave vysokého školstva za rok 2022
+
+priemernej dĺžke 92 dní. Spolu vycestovalo 2 666 študentov. Najviac študentov vyslala UK
+Bratislava (611).
+(46) Priemerný mesačný grant študenta na štúdium bol 675 € a na stáž 690 €6. Najviac
+študentov vycestovalo na štúdium do Českej republiky (366), do Španielska (144) a do Poľska
+(133). Najviac študentov vycestovalo na stáž do Českej republiky (430), do Španielska (84)
+a do Nemecka (56).
+(47) V rámci prebiehajúcich projektov z Výzvy 2021 (k 11. 7. 2023) vycestovalo
+prostredníctvom programu Erasmus+ 1 642 pracovníkov vysokých škôl za účelom výučby
+(550) alebo školenia (1 092).
+(48)    V rámci Výzvy 2021 predstavoval počet prichádzajúcich študentov 1 834 mobilít, z
+toho na účely štúdia to bolo 1 376 študentov a na účely stáže 460 študentov. Najviac študentov
+prijala UK Bratislava (378), EU Bratislava (188), ŽU Žilina (176), STU Bratislava (149) a
+UPJŠ Košice (102). Študenti prišli na štúdium alebo stáž najčastejšie z týchto krajín:
+Španielsko (291), Francúzsko (265), Poľsko (225), Turecko (146) a Taliansko (139).
+(49)     V roku 2022 vycestovalo prostredníctvom Národného štipendijného programu 8
+študentov, 67 doktorandov a 22 postdoktorandov s trvalým pobytom na Slovensku. Naopak,
+na štipendijný pobyt v SR prišlo 92 študentov, 46 doktorandov a 160 vysokoškolských
+učiteľov a výskumných alebo umeleckých pracovníkov zo zahraničia. Priemerná dĺžka pobytu
+bola u vyslaných študentov päť mesiacov, u doktorandov päť mesiacov a u postdoktorandov
+štyri a pol mesiaca. V prípade študentov bola priemerná mesačná výška poskytnutého
+štipendia 710 €, v prípade doktorandov 1 050 € a postdoktorandov 915 €. V prípade prijatých
+študentov v roku 2022 bola priemerná dĺžka ich pobytu na Slovensku päť mesiacov, v prípade
+doktorandov sedem mesiacov a v prípade vysokoškolských učiteľov 7 mesiacov. V priemere
+bolo prichádzajúcim štipendistom poskytnuté štipendium v mesačnej výške 400 € pre
+študentov, 734 € pre doktorandov a 1000 € pre vysokoškolských učiteľov.
+(50) V roku 2022 pokračovala podpora účasti študentov na medzinárodných študentských
+súťažiach formou refundácie časti cestovných nákladov spojených s ich účasťou. Na rok 2022
+bola poskytnutá na tento účel suma 11 610 €. Možnosť refundácie využila UK Bratislava,
+Akadémia umení, UMB Banská Bystrica, UKF v Nitre a UPJŠ v Košiciach.
+
+
+1.4 Zamestnanci vysokých škôl
+(51) Priemerný evidenčný prepočítaný počet zamestnancov verejných vysokých škôl
+v roku 2022 ku dňu 31.12. bol 17 742,1. Z toho vysokoškolskí učitelia tvoria 49,3 %,
+výskumní pracovníci 7,2 % a ostatní zamestnanci (administratíva, prevádzka, a pod.) tvoria
+43,5 % zamestnancov.
+(52) Priemerný plat zamestnanca verejnej vysokej školy v roku 2022 bol 1 582,5 €, čo
+predstavuje medziročný nárast o 4,2 %. Priemerné platy zamestnancov verejných vysokých
+škôl v roku 2022 sú v rozpätí od 1 327,4 € na UVLF Košice do 1 880,3 € na TU Košice.
+Priemerný plat v národnom hospodárstve v roku 2022 bol 1 418 €7, čo predstavuje
+medziročný nárast o 6, 5 %.
+(53) Priemerný plat učiteľa verejnej vysokej školy v roku 2022 bol 1 898,3 €, čo
+predstavuje medziročný nárast o 3,4 %. Priemerný plat profesorov na verejných vysokých
+
+6
+  Rozdelenie krajín podľa výšky životných nákladov a im príslušné granty sú dostupné na:
+https://www.erasmusplus.sk/erasmus_2021_2027/doc/vyzva/2023/Sadzby_grantov_2023_VS.pdf
+7
+  Zdroj: Štatistický úrad SR
+
+                                                16
+                     Výročná správa o stave vysokého školstva za rok 2022
+
+školách v roku 2022 bol 2 686,5 € (nárast o 2,25 %). Priemerný plat docentov v roku 2022
+bol 2 050,2 € (nárast o 0,59 %). Priemerný plat profesorov v pomere k priemernému platu
+vysokoškolských učiteľov bol na úrovni 1,415 násobku. Pomer priemerného platu
+vysokoškolského učiteľa k priemernému platu zamestnanca verejných vysokých škôl bol
+na úrovni 1,20 násobku.
+(54) Priemerný plat výskumných pracovníkov8 na verejných vysokých školách dosiahol
+v roku 2022 výšku 1 772 €. V porovnaní s priemerným platom z roku 2021 ide o 4,66 %
+nárast.
+(55) Priemerný plat neučiteľských pracovníkov9 na verejných vysokých školách
+dosiahol v roku 2022 výšku 1 193,4 €. V porovnaní s priemerným platom z roku 2021 ide
+o 4,92 % nárast.
+(56) V roku 2022 bol podiel tvorivých pracovníkov (vysokoškolskí učitelia, výskumní
+a umeleckí pracovníci) 54,99 % na celkovom počte zamestnancov verejných vysokých škôl.
+Najnižší podiel tvorivých pracovníkov 44,71 % mala UVLF Košice, najvyšší podiel 65,49 %
+mala VŠMU Bratislava. Zamestnanci vo funkcii profesora tvorili 16,22 % na počte
+vysokoškolských učiteľov verejných vysokých škôl. Najvyšší podiel vysokoškolských
+učiteľov vo funkcii profesora mala UJS Komárno, a to 23,07 % (podiel docentov na tejto
+vysokej škole bol 29,75 %), naopak najnižší podiel vysokoškolských učiteľov z verejných
+vysokých škôl vo funkcii profesora mala EU Bratislava (9,46 %).
+(57) Najnižší počet študentov na počet vysokoškolských učiteľov mali TU Zvolen (11,22),
+UK Bratislava (9,87) a UPJŠ Košice (9,45) bez zohľadnenia umelecky orientovaných
+vysokých škôl. Najvyšší počet študentov na jedného vysokoškolského učiteľa mala TUAD
+Trenčín (21,81). Najmenej študentov na jedného vysokoškolského učiteľa vo funkcii profesor
+pripadá na TU Zvolen (8,90).
+(58) Vysoké školy v roku 2022 vypísali 2 529 výberových konaní na obsadenie miesta
+vysokoškolského učiteľa (z toho 313 vo funkcii profesora a 850 vo funkcii docent). V prípade
+1 713 (67,73 %) výberových konaniach obsadili danú pozíciu uchádzači opakovane.
+(59) V roku 2022 prezidentka SR vymenovala na základe návrhov verejných vysokých škôl
+a súkromných vysokých škôl spolu 81 profesorov, z toho 26 žien. Priemerný vek
+vymenovaných profesorov sa znížil na 51,60 rokov (v roku 2021 to bolo 52,55 rokov).
+Najstarší vymenovaný profesor bol vo veku 76 rokov, najmladší vymenovaný profesor bol
+vo veku 38 rokov. Najviac vymenovaných profesorov bolo navrhnutých z TU Košice (18),
+UK Bratislava (14), ŽU Žilina (7) a STU Bratislava (7).
+(60) Podľa údajov z registra zamestnancov vysokých škôl k 31.12.2022 najstarší
+vysokoškolský učiteľ vo funkcii profesora mal na vysokých školách (vrátane štátnych) vek
+86 rokov, najmladší 37 rokov. Menej ako 53 rokov má štvrtina vysokoškolských učiteľov
+vo funkcii profesora, medián veku bol 61 rokov a štvrtina vysokoškolských učiteľov
+vo funkcii profesora mala vek viac ako 67 rokov10.
+(61) Vek vysokoškolských učiteľov vo funkcii docent bol od 30 do 86 rokov. Štvrtina
+vysokoškolských učiteľov vo funkcii docenta má vek do 43 rokov, medián veku bol 49 rokov
+a štvrtina mala viac ako 59 rokov.
+
+
+8
+  V rámci vykazovania sa v kategórií výskumných pracovníkov uvádzajú aj zamestnanci bez vysokoškolského
+vzdelania, ktorí sa podieľajú na výskumnej činnosti, resp. pri nej asistujú.
+9
+   V rámci vykazovania neučiteľských pracovníkov sa uvádzajú zamestnanci, ktorí sa nepodieľajú
+na pedagogickej a výskumnej činnosti.
+10
+   Nezohľadňuje sa výška úväzku príslušného vysokoškolského učiteľa.
+
+                                                  17
+                  Výročná správa o stave vysokého školstva za rok 2022
+
+
+
+
+Graf č. 2 - Veková štruktúra vysokoškolských učiteľov vysokých škôl (vrátane štátnych)
+(minimálny vek, prvý kvartil, medián, tretí kvartil a maximálny vek), zdroj: Register
+zamestnancov vysokých škôl
+(62) Podľa stavu k 31. 12. 2022 počet fyzických osôb zamestnaných na vysokých školách
+(vrátane súkromných a štátnych) ako vysokoškolský učiteľ alebo výskumný/umelecký
+pracovník medziročne poklesol (vrátane počtu zamestnancov mimo pracovného pomeru,
+pričom sa nezohľadňuje výška úväzku). V rámci zamestnancov v pracovnom pomere v roku
+2022 bol zaznamenaný nárast v prípade funkčných miest profesorov o 113 osôb a taktiež
+nárast o 308 osôb bol zaznamenaný v prípade docentov. Počet vedeckých pracovníkov sa
+medziročne zvýšil o 24 osôb a počet lektorov o 33 osôb. K najväčšiemu poklesu v rámci
+zamestnancov v pracovnom pomere došlo v prípade asistentov, kde sa počet fyzických osôb
+v tejto funkcii znížil medziročne o 2 222 osôb a v prípade odborných asistentov o 538 osôb.
+(63) Prezidentka Slovenskej republiky vymenovala v roku 2022 štyroch rektorov a dve
+rektorky verejných vysokých škôl (UMB, ŽU, UKF, KU, SPU a UCM) a troch rektorov
+a jednu rektorku súkromných vysokých škôl (BISLA, Vysoká škola DTI, VŠ Danubius
+a VŠM)
+(64) Slovenská komisia pre vedecké hodnosti (ďalej len „SKVH“), poradný orgán ministra
+školstva, vedy, výskumu a športu SR na rozhodovanie o otázkach týkajúcich sa udeľovania
+najvyššej vedeckej hodnosti doktora vied „DrSc.“, prerokovala v roku 2022 celkovo 8
+návrhov na obhajobu vedeckej hodnosti doktora vied (čo je o 5 menej ako v predchádzajúcom
+roku). Z návrhov, ktoré SKVH odporučila na obhajobu, bolo v roku 2022 vedeckými radami
+vysokých škôl a Slovenskej akadémie vied na Slovensku udelených 17 vedeckých hodností
+doktora vied „DrSc.“, čo je o 7 viac ako v prechádzajúcom roku.
+(65) Podrobnejšie údaje týkajúce sa zamestnancov vysokých škôl sú uvedené v tabuľkách
+č. 10, 11a, 11b, 11c a 12.
+1.5 Vysokoškolská veda a technika
+(66) Vysoké školy získali v roku 2022 finančné prostriedky na uskutočňovanie výskumu
+a vývoja zo štátneho rozpočtu takmer výlučne prostredníctvom kapitoly ministerstva.
+Získavali ich ako inštitucionálnu formu podpory výskumu a vývoja v rámci rozpočtového
+programu 077 – Vysokoškolské vzdelávanie a veda, sociálna podpora študentov vysokých
+
+                                            18
+                      Výročná správa o stave vysokého školstva za rok 2022
+
+škôl a tiež ako účelovú formu podpory na základe súťaže s ostatnými subjektmi zaoberajúcimi
+sa výskumom a vývojom z Agentúry na podporu výskumu a vývoja (ďalej „APVV“).
+Podprogram Vysokoškolská veda a technika
+(67) V rámci podprogramu 077 12 – Vysokoškolská veda a technika bola v roku 2022
+ministerstvom podporovaná oblasť:
+a) prevádzky a rozvoja infraštruktúry pre výskum a vývoj,
+b) základného výskumu prostredníctvom vnútorného grantového systému VEGA,
+c) aplikovaného výskumu pre rezort školstva prostredníctvom vnútorného grantového
+systému KEGA.
+(68)   Na prevádzku a rozvoj infraštruktúry pre výskum a vývoj bolo z dotácie pre verejné
+vysoké školy v roku 2022 vyčlenených 156 306 076 €, t.j. rozpočet vyšší o 3 377 977 Eur
+ako bolo v roku 2021. Spôsob rozpisu finančných prostriedkov je uvedený v časti 2.1.
+(69) Na podporu projektov základného výskumu prostredníctvom grantovej schémy
+VEGA bolo v roku 2022 na verejné vysoké školy rozpísaných 12 750 000 €11 (uvedená suma
+je vrátane spoločných projektov so Slovenskou akadémiou vied, ďalej len „SAV“), čo je o 2
+345 € viac ako v roku 2021. Výber a hodnotenie projektov uskutočnilo trinásť komisií
+zložených z odborníkov z vysokých škôl a z pracovísk SAV.
+(70) V rámci verejných vysokých škôl na jeden projekt VEGA bolo v priemere
+vynaložených 10 127 €, čo je o 42 € viac ako v predchádzajúcom roku, pričom počet
+financovaných projektov VEGA oproti roku 2021 poklesol o 5 projektov.
+(71) Prehľad o úspešnosti jednotlivých vysokých škôl v rámci VEGA je v tabuľke č. 13a.
+Údaje o počte riešených projektov a výška finančných prostriedkov poskytnutých na ich
+riešenie podľa jednotlivých odborných komisií VEGA sú uvedené v tabuľke č. 13b.
+(72) Na podporu projektov v oblasti výskumu pre rezort školstva prostredníctvom systému
+KEGA bolo v roku 2022 rozpísaných 4 900 000 € (rovnako ako v roku 2021). V roku 2022
+bolo prostredníctvom KEGA finančne podporených 555 projektov (180 nových projektov
+so začiatkom riešenia v roku 2022 a 375 projektov pokračujúcich v riešení). V roku 2022 sa
+zvýšil počet financovaných projektov o 15 oproti predchádzajúcemu roku. Výber a
+hodnotenie projektov KEGA zabezpečovali štyri komisie zložené z odborníkov z vysokých
+škôl. Prehľad o úspešnosti jednotlivých vysokých škôl v rámci KEGA je uvedený v tabuľke
+č. 14.
+Aktivity verejných vysokých škôl v rámci štátnych programov a projektov podporovaných
+APVV
+(73) APVV poskytla v rámci podpory projektov financovaných na verejných vysokých
+školách z prostriedkov APVV spolu 21 376 219,00 € (v roku 2021 to bolo 24 072 004,10 €,
+čo predstavuje pokles o 11,20 %). Od roku 2016 podiel poskytovaných finančných
+prostriedkov narastal (v roku 2016 to bolo 14 744 636,00 €, čo predstavuje nárast o 44,98 %).
+Podiel verejných vysokých škôl na celkovom objeme finančných prostriedkov poskytnutých
+na podporu projektov APVV predstavuje 59,45 %. V porovnaní s rokom 2021 ide o mierny
+pokles (o 2,03 percentuálneho bodu). Od roku 2016 tento podiel kontinuálne narastal, a v roku
+2022 mierne klesol (o 5,52 percentuálneho bodu).
+
+
+
+11
+  Ide o rozpis dotácií bez zohľadnenia neskorších vratiek (v prípade predčasne ukončeného projektu, zrušenia
+projektu, nedočerpania dotácie sa zvyšné finančné prostriedky počas roka vracajú ministerstvu).
+
+                                                    19
+                      Výročná správa o stave vysokého školstva za rok 2022
+
+(74) Pozícia sektora verejných vysokých škôl v rámci sektorov výskumu a vývoja
+pri získavaní účelovej podpory výskumu a vývoja prostredníctvom APVV zostala v roku 2022
+dominantná. V roku 2022 bola vyhlásená všeobecná výzva APVV. Podporené projekty z tejto
+grantovej schémy budú financované od 1. júla 2023. V roku 2022 bola vyhlásená verejná
+výzva na predkladanie žiadostí v rámci programu „Posilnenie účasti SR v európskej
+spolupráci vo výskume a vývoji“ (PP MSCA PF 2022) so začiatkom financovania v roku 2022
+a celkovou sumou 24 870 €. V roku 2022 boli zároveň poskytované finančné prostriedky na
+pokračujúce projekty z predchádzajúcich rokov v grantových schémach všeobecnej výzvy,
+mobilitných projektov a výskumných bilaterálnych projektov.
+(75)    Úspešnosť jednotlivých verejných vysokých škôl v získavaní podpory na riešenie
+úloh výskumu a vývoja priamo z APVV je uvedená v tabuľke č. 15a. Porovnanie úspešnosti
+jednotlivých sektorov výskumu a vývoja na získavaní podpory od APVV v roku 2022 sa
+nachádza v tabuľke č. 15b.
+Publikačná a umelecká činnosť
+(76) Za vykazovacie obdobie 2022 bolo vysokými školami v Centrálnom registri evidencie
+publikačnej činnosti (CREPČ) evidovaných spolu 36 952 výstupov publikačnej činnosti
+vo všetkých kategóriách evidencie publikačnej činnosti v zmysle platnej legislatívy
+(Vyhláška č. 397/2020 o CREPČ a CREUČ). Všetky publikácie vykazovacieho obdobia 2022
+podliehajú formálnej i obsahovej verifikácii, ktorej výsledkom môže byť zmena kategorizácie
+výstupu publikačnej činnosti, ako aj vyradenie výstupu z evidencie. Verifikácia prebieha
+priebežne počas roka 2023, po ukončení vykazovacieho obdobia CREPČ 2022.
+(77) Za vykazovacie obdobie 2022 bolo vysokými školami v Centrálnom registri evidencie
+umeleckej činnosti (CREUČ) evidovaných spolu 5170 výstupov umeleckej činnosti
+v zmysle platnej legislatívy (Vyhláška č. 397/2020 o CREPČ a CREUČ). Všetky umelecké
+výstupy vykazovacieho obdobia 2022 podliehajú formálnej i obsahovej verifikácii, ktorej
+výsledkom môže byť zmena kategorizácie umeleckého výstupu, ako aj vyradenie výstupu
+z evidencie. Verifikácia prebieha priebežne počas roka 2023, po ukončení vykazovacieho
+obdobia CREUČ 2022.
+(78) Vývoj počtu publikácií, ktoré sú registrované v databáze Web of Science Core
+Collection12 (ďalej len „WoS CC“) za obdobie 2018 – 2022 je zobrazený v grafe č. 3,
+rozdelenom do dvoch častí kvôli prehľadnosti.
+
+
+
+
+Graf č. 3 a), b) - Počet publikácií verejných vysokých škôl registrovaných vo WoS CC v rokoch
+2018 – 2022, zdroj: WoS CC/InCites
+
+(79) Zastúpenie publikácii v režime voľného prístupu (open access, v skratke OA)
+a v rámci neho voľným prístupom zlatou cestou v časopisoch z registra OA časopisov (gold
+
+12
+  Údaje v tejto časti za 17 verejných vysokých škôl okrem umelecky zameraných. Spracované na základe údajov
+v InCites.
+
+                                                    20
+                      Výročná správa o stave vysokého školstva za rok 2022
+
+open access – zlatá cesta) je znázornené v grafe č. 4 a), b). Tretinové až nadpolovičné
+zastúpenie publikácií (od 36% do 71%) v režime OA za obdobie 2018 – 2022 majú všetky
+vysoké školy okrem UCM Trnava (30%). Okrem UCM Trnava a UKF Nitra, UMB Banská
+Bystrica, STU Bratislava a EU Bratislava všetky vysoké školy sú na úrovni, resp. prevyšujú
+svetový priemer s hodnotou 47%. Pozorovaný je významný trend absolútneho a aj relatívneho
+rastu voľne prístupných publikácií.
+
+
+
+
+Graf č. 4 a), b)- Zastúpenie publikácií verejnej vysokej školy registrovaných vo WoS CC za
+obdobie 2018 – 2022 publikovaných formou voľného prístupu (OA), zdroj: WoS CC/InCites
+(80) Graf č. 5 a), b) ilustruje priemerný počet citácií na priemernú publikáciu autorov
+verejnej vysokej školy v období 2018 – 2022 a svetový priemer. UK Bratislava si za 5-ročné
+obdobie udržiava svetovo nadpriemerné hodnoty počtu citácií na publikáciu, tesne pod
+priemernými hodnotami je TU Zvolen a SPU Nitra. Výrazný nárast počtu citácií v roku 2019
+pre TUAD Trenčín je spôsobený publikáciou, ktorá bola citovaná takmer 1 400-krát.
+
+
+
+
+Graf č. 5 a), b)- Priemerný počet citácií na publikáciu verejnej vysokej školy v rokoch 2018 –
+2022 v porovnaní so svetovým priemerom, zdroj: WoS CC/InCites 13
+(81) V grafe č. 6 sú uvedené priemerné hodnoty citačného ohlasu normalizovaného podľa
+vedného odboru (ďalej normalizovaný citačný ohlas, NCO)14 za roky 2018 – 2022 (členenie
+
+
+13
+   Údaje pre TvU Trnava nie sú do grafu zahrnuté, uvedené sú v tabuľke č. 16b. Hodnota 169,62 za rok 2018 je
+dôsledkom kulminácie mimoriadne vysokého počtu citácií v oblasti lekárskych vied (podrobnejšie v príslušnom
+odseku); po roku 2018 tento ukazovateľ za TvU Trnava vykazuje klesajúci trend, no do roku 2021 stále nad
+hodnotou svetového priemeru počtu citácií na publikáciu za príslušný rok.
+14
+   NCO – normalizovaný citačný ohlas je normalizovaný na základe kategorizácie časopisov podľa vedných
+disciplín/vedných odborov. Je v ňom zohľadnený typ publikácie (článok, prehľadová práca, konferenčný
+príspevok, poznámka), rok publikovania a vedný odbor. I napriek normalizácii (vyjadrenej pomerom voči
+celosvetovému ohlasu pre daný vedný odbor, typ publikácie a rok) v prípade súboru s malým počtom publikácií
+hodnota normalizovaného citačného ohlasu môže byť významne ovplyvnená nízkym počtom alebo aj len jednou
+publikáciou v súbore, ktorá získala veľmi vysoký počet citácií. Z tohto dôvodu sú v grafe uvedené priemerné
+hodnoty normalizovaného citačného ohlasu v prípadoch, keď vysoká škola disponuje dostatočne vysokým
+počtom publikácií.
+
+
+                                                    21
+                       Výročná správa o stave vysokého školstva za rok 2022
+
+podľa kategórií odborov Veda a technika z Frascati manuálu)15 v porovnaní so svetovou
+hodnotou približne 1. Podrobnosti sú uvedené v odsekoch pre jednotlivé vedné odbory OECD.
+
+                 prírodné vedy               technické vedy             lekárske vedy
+                 pôdohospodárske vedy        spoločenské vedy           humanitné vedy
+     2,00                    2,5      6,89             14,29                                             7,48
+     1,80
+     1,60
+     1,40
+     1,20
+     1,00
+     0,80
+     0,60
+     0,40
+     0,20
+     0,00
+
+
+
+
+Graf č. 6 - Priemerný citačný ohlas normalizovaný podľa vedného odboru v rokoch 2018 – 2022
+v porovnaní s priemernou svetovou hodnotou, zdroj: WoS CC/InCites
+Publikačná činnosť – prírodné vedy
+(82) Všetky verejné vysoké školy (okrem umeleckých) publikovali v časopisoch
+zaradených do prírodných vied vo WoS CC celkovo 16 416 publikácií za roky 2018 – 2022,
+najviac UK Bratislava (4 747) a STU Bratislava (2 628). Nad 1 500 publikácií majú TU Košice
+(1 922) a UPJŠ Košice (1 799). Najmenej publikácií v prírodných vedách bolo vytvorených
+na KU Ružomberok (86).
+(83) V prírodných vedách je najvyššie zastúpenie - 104 často citovaných prác (HCP)16,
+z nich UK Bratislava (34), SPU Nitra (25), STU Bratislava a TU Zvolen (8), UPJŠ Košice (6),
+TU Košice, ŽU Žilina a UKF Nitra (5) UJS Komárno (4), UMB Banská Bystria (2), jednu EU
+Bratislava a UVLF Košice (1). Niektoré práce vznikli v spoluautorstve viacerých verejných
+vysokých škôl a sú zaradené vo viacerých podskupinách.
+(84) Väčšina verejných vysokých škôl uprednostňuje voľne prístupné publikovanie (OA
+všetky cesty) v rozsahu 40,7 % - 72,2 % publikácií a všetky okrem 3 vysokých škôl (STU
+Bratislava, TvU Trnava a EU Bratislava) prevyšujú podielom OA publikácií svetový priemer
+v prírodných vedách (47,5 %). Najvyššie zastúpenie majú OA práce registrované vo WoS CC
+v prírodných vedách za roky 2018-2022 z SPU Nitra (72,2 %), TU Zvolen (71,4 %), UVLF
+Košice (71,2 %), TU Košice (63,5 %), UK Bratislava (62,4 %), UPJŠ Košice (60,1 %), UKF
+Nitra (60,5 %) a UJS Komárno (60,1 %). TvU Trnava má najnižší podiel prác publikovaných
+v režime OA (40,7 %) v prírodných vedách. V ostatných verejných vysokých školách OA
+práce tvoria 50,2 % až 58,5 % všetkých publikácií typu článok, prehľad, konferenčný
+príspevok a list.
+
+15
+   Dostupné na: https://read.oecd-ilibrary.org/science-and-technology/frascati-manual-2015_9789264239012-
+en#page1.
+16
+   Highly cited papers (HCP) sú publikácie typu článok, prehľadová práca, konferenčný príspevok a poznámka,
+ktoré sú na základe počtu citácií vo svojej vednej disciplíne podľa klasifikácie Essential Science Indicators za
+posledných 10 rokov (za každý rok samostatne) zaradené do horného 1 % najčastejšie citovaných prác na svete.
+
+                                                      22
+                   Výročná správa o stave vysokého školstva za rok 2022
+
+(85) Publikácie SPU Nitra (88 %), UVLF Košice (87,7 %), TU Zvolen (86,8 %), UK
+Bratislava (83,4 %) a UPJŠ Košice (81,5 %) dosiahli, resp. presiahli svetové priemerné
+podiely citovaných publikácií (80 %). UJS Komárno (1,36), TU Zvolen (1,12) a SPU Nitra
+(1,09) presiahli úroveň svetového priemerného normalizovaného citačného ohlasu (NCO) v
+prírodných vedách (1). Zároveň TU Zvolen (11,4), SPU Nitra (11) a UJS Komárno (10,8)
+presiahli aj hodnotu svetového priemeru počtu citácií na priemernú publikáciu v prírodných
+vedách (10,4) za obdobie 2018 – 2022. Menej než polovičný podiel aspoň raz citovaných
+publikácií bol registrovaný v prípade EU Bratislava (41, 4 %). Pre ostatné verejné vysoké
+školy bol zaznamenaný viac ako polovičný až dvojtretinový počet publikácií, ktoré boli
+citované aspoň raz.
+(86) Publikovanie v prírodovedných časopisoch zaradených na základe hodnoty Journal
+impact factor (ďalej ako JIF) do 1. a 2. kvartilu významne prevláda nad publikáciami
+v časopisoch 3. a 4. kvartilu. Najvyšší pomer v prospech prác z časopisov v 1. a 2. kvartile bol
+zaznamenaný pre ŽU Žilina (6,1), ďalej je nad svetovým priemerom (3,5) TUAD Trenčín
+(4,8), EU Bratislava (3,6) a UJS Komárno (3,5).
+Publikačná činnosť – technické vedy
+(87) V rámci časopisov zaradených do technických vied v období rokov 2018 – 2022
+vytvorili verejné vysoké školy 10 666 publikácií registrovaných vo WoS CC. Nad tisíc
+publikácií bolo vytvorených na STU Bratislava (2 453), TU Košice (2 222), ŽU Žilina (2 204)
+a UK Bratislava (1 199). Ostatné verejné vysoké školy vytvorili do 500 technicky zameraných
+publikácií, najmenej KU Ružomberok (25).
+(88) Z celkového počtu 30 HCP, šesť prislúcha STU Bratislava, zhodne po 5 UK Bratislava
+a TU Zvolen, po 3 majú ŽU Žilina SPU Nitra, 2 má UJS Komárno. Po jednej práci majú TU,
+Košice, UKF Nitra, UMB B. Bystrica a UVLF Košice.
+(89) Svetový priemer podielu voľne prístupných publikácií v technických vedách je
+36,2 %, v rámci slovenských verejných vysokých škôl majú najvyšší podiel UJS Komárno
+(65,8 %), TU Zvolen (64,8 %), KU Ružomberok (64 %), UVLF Košice (60,1 %), PU Prešov
+(60,7 %) a SPU Nitra (60,5 %) . Len jedna verejná vysoká škola (TvU Trnava – 35,1 %)
+nedosahuje svetový priemer podielu voľne prístupných publikácií.
+(90) Svetový priemer podielu citovaných publikácií v technických vedách (76,8 %)
+prekračujú UVLF Košice (88 % z 92 publikácií), UPJŠ Košice (81,8 % z 489 publikácií), UJS
+Komárno (80,7 % z 114 publikácií), UK Bratislava (80 % z 1 199 publikácií), TUAD Trenčín
+(79,4 % z 205 publikácií), UKF Nitra (79 % z 205 publikácií) a TU Zvolen (78,1 % z 398
+publikácií). Priemerne sú publikácie verejných vysokých škôl v technických vedách
+citované menej ako vo svete (9,8) okrem UJS Komárno (14,18). K svetovému priemeru sa
+približujú publikácie UVLF Košice (9,04), UK Bratislava (8,05), TU Zvolen (7,54), UPJŠ
+Košice (7,43) a TvU Trnava (7,02). Priemernú svetovú hodnotu NCO (1) presahuje UJS
+Komárno (1,34).
+(91) V technických vedách je zastúpenie prác publikovaných v časopisoch zaradených
+do 1. a 2. kvartilu na výrazne vyššie ako počty prác publikovaných v časopisoch v 3. a 4.
+kvartile. Viac ako dvojnásobný počet prác publikovaných v časopisoch v 1. a 2. kvartile
+v porovnaní s prácami publikovanými v časopisoch v 3. a 4. kvartile majú všetky vysoké
+školy okrem SPU Nitra (1,75-krát viac prác v 1. a 2. kvartile ako 3. a 4. kvartile). Svetový
+priemer (3,5) prekročili UKF Nitra (5), UMB B. Bystrica (5), TUAD Trenčín (4,8), UVLF
+Košice (3,8) a TU Zvolen (3,7).
+
+
+
+                                              23
+                  Výročná správa o stave vysokého školstva za rok 2022
+
+Publikačná činnosť – lekárske vedy
+(92) Verejné vysoké školy v časopisoch zaradených do lekárskych vied v období rokov
+2018 – 2022 vytvorili 4 568 publikácií registrovaných vo WoS CC. Najvyšší počet 2 488
+publikácií má UK Bratislava, nasleduje UPJŠ Košice s 774 publikáciami, STU Bratislava
+(165), UVLF Košice (161), PU Prešov (154), UKF Nitra (145), TU Košice (128), SPU Nitra
+(125) a TvU Trnava (113). Ostatné vysoké školy vytvorili do 80 prác.
+(93) Z celkového počtu 88 HCP v lekárskych vedách ma najviac publikácií UK Bratislava
+(37 HCP z 2 488 publikácií), nasleduje TvU Trnava (20 HCP zo 113 publikácií), UPJŠ Košice
+(14 HCP zo 774 publikácií), UKF Nitra (5 HCP zo 145 publikácií), PU Prešov (4 HCP z 130
+publikácií), SPU Nitra (3 HCP z 125 publikácií) a STU Bratislava (2 HCP zo 165 publikácií).
+1 HCP publikáciu má TUAD Trenčín, TU Zvolen a UMB Banská Bystrica.
+(94) V rámci lekárskych vied je podiel publikovania voľným prístupom na úrovni 59,2%.
+V rámci slovenských verejných vysokých škôl dosiahli nadpriemernú svetovú hodnotu
+otvoreného publikovania všetky vysoké školy, okrem UCM Trnava (49,32 %), UMB B.
+Bystrica (50,1 %), ŽU Žilina (51,1 %), UKF Nitra (53 8 %) a TUAD Trenčín (58,8 %). UJS
+Komárno a EU Bratislava dosiahli vyššiu hodnotu, než 80 % (85 % a 94,4 %), TU Košice
+78,1 % a TU Zvolen 70,8 %, ostatné verejné vysoké školy majú voľne prístupných 63 % až
+69 % publikácií.
+(95) Vyšší ako svetový normalizovaný citačný ohlas (1) presiahli za lekárske vedy výrazne
+najmä TvU Trnava (14,28) a TUAD Trenčín (6,89), ďalej nadpriemernú hodnotu dosahujú
+UK Bratislava (1,35), TU Zvolen (1,27), KU Ružomberok (1,26), SPU Nitra (1,1) a STU
+Bratislava (1,03).
+(96) Svetovo je počet lekárskych prác publikovaných v časopisoch v 1. a 2. kvartile
+dvojnásobne vyšší ako v 3. a 4. kvartile, presný pomer je 2,14. Tento pomer prekonávajú ŽU
+Žilina (3,6), TU Košice (3,2), KU Ružomberok (3), EU Bratislava (2,6) a TU Zvolen
+(2,2). Vo všeobecnosti prevažujú publikácie v časopisoch s JIF kvartilom 1 a 2 na všetkých
+vysokých školách okrem UVLF Košice, SPU Nitra, TUAD Trenčín a UCM Trnava.
+Publikačná činnosť – pôdohospodárske vedy
+(97) V pôdohospodárskych vedách publikovali v období rokov 2018 – 2022 verejné
+vysoké školy spolu 2 060 publikácií vo WoS CC, čo spomedzi základných odborov vied
+OECD predstavuje druhé najnižšie zastúpenie. Najviac publikácií má SPU Nitra (604), TU
+Zvolen (353), UK Bratislava (274) a UVLF Košice (232). Od 103 do 141 publikácií má STU
+Bratislava, UKF Nitra a UPJŠ Košice. Aktívne s viac ako 50 publikáciami sú aj PU Prešov
+a UCM Trnava. Ostatné vysoké školy majú menej ako 30 publikácií.
+(98) V rámci pôdohospodárskych vied verejné vysoké školy zaznamenali 30 HCP, až 20
+dosiahla SPU Nitra, 5 patrí UK Bratislava, 4 má TU Zvolen a 1 HCP má STU Bratislava.
+(99) Kým 50,9 % svetovej produkcie prác v pôdohospodárskych vedách je voľne
+prístupných, UJ Komárno, EU Bratislava, ŽU Žilina a UVLF Košice majú voľne prístupných
+približne tri štvrtiny svojich publikácií, konkrétne od 77,5 % UVLF Košice až po 70 % UJS
+Komárno. Okrem 5 vysokých škôl (UK Bratislava, TvU Trnava, STU Bratislava, KU
+Ružomberok a TU Košice) všetky presahujú svetový priemer. TUAD Trenčín ako jediná
+vysoká škola dosahuje 100 % mieru voľne prístupných publikácií, vzhľadom na celkovo nízky
+počet publikácií (2) dochádza k skresleniu.
+(100) Podiel citovaných prác s pôdohospodárskou tematikou vytvorených na verejných
+vysokých školách je nižší ako svetový priemer (82,2 %) s výnimkou TvU Trnava (92,3 %),
+UK Bratislava (88,6 %), UPJŠ Košice (88,3 %) a SPU Nitra (82,7). Tesne pod svetovým
+
+                                            24
+                  Výročná správa o stave vysokého školstva za rok 2022
+
+priemerom sú STU Bratislava (80,8 %), PU Prešov (79,6 %) a TU Zvolen (79,3 %). Práce KU
+Ružomberok (12,6), SPU Nitra (9,43) a UK Bratislava (8,83) získali priemerne počet citácií
+na publikáciu na mierne vyššej úrovni, ako je svetový priemer (8,75). Svetovému priemeru sa
+ďalej približuje TU Zvolen s hodnotou 8,05. Svetový priemer NCO (1) v pôdohospodárskych
+vedách prevýšili SPU Nitra (1,23), KU Ružomberok (1,09), TU Zvolen (1,06). Nasleduje UK
+Bratislava (1) a ŽU Žilina (0,98), STU Bratislava (0,83) TvU Trnava (0,8) sa priemernej
+hodnote priblížili.
+(101) Pre všetky verejné vysoké školy majú prevahu publikácie v pôdohospodárskych
+vedách v časopisoch v 1. a 2. kvartile okrem EU Bratislava. Najvyšší pomer v prospec prácam
+v 1. a 2. kvartile dosiahli UCM Trnava (5,6), TU Zvolen (4,8), ŽU Žilina a TvU Trnava (obe
+4) a UK Bratislava (3,6). Ostatné vysoké školy neprekračujú svetový s hodnotou 3.
+Publikačná činnosť – spoločenské vedy
+(102) V spoločenských vedách verejné vysoké školy v období rokov 2018 – 2022
+publikovali 5 750 prác vo WoS CC. Najviac publikácii má ŽU Žilina, konkrétne 953,
+nasleduje UK Bratislava (848) a EU Bratislava (630).
+(103) Z celkom 22 HCP majú 6 autorstvo na UK Bratislava, 3 HCP publikácie patria ŽU
+Žilina, po 2 prislúchajú PU Prešov, UMB B. Bystrica a UPJŠ Košice. Jednu HCP publikáciu
+majú EU Bratislava, TU Košice, UKF Nitra, STU Bratislava, SPU Nitra, TvU Trnava a UJS
+Komárno.
+(104) Voľne prístupných je 37,9 % svetovej produkcie spoločenskovedných prác. Túto
+hranicu prekračuje 8 verejných vysokých škôl, konkrétne SPU Nitra (57 %), TU Košice (53,8
+%), ŽU Žilina (53,2 %), UVLF Košice (44,4 %), UPJŠ Košice (44,1 %), PU Prešov (40,9 %)
+a TU Zvolen s STU Bratislava (obe 39,6 %). Najmenšie zastúpenie majú na UCM Trnava
+(11,7 %).
+(105) Žiadna z verejných vysokých škôl nedosiahla priemerný podiel citovaných prác na
+úrovni svetového priemeru (64,9 %). Viac ako 50 % dosiahli TU Košice (58 %), UPJŠ
+Košice (55,8 %), TU Zvolen (54,8 %), ŽU Žilina (53,6 %), STU Bratislava (53,1 %) a UK
+Bratislava (52,3 %). V ostatných verejných vysokých školách sa podiel citovaných prác
+pohybuje od 22 % do 49 %. Vyšší ako svetový normalizovaný citačný ohlas (1) dosiahli ŽU
+Žilina (1,29) a STU Bratislava (1,1).
+(106) V spoločenských vedách je zastúpenie prác publikovaných v časopisoch zaradených
+do 1. a 2. kvartilu vyše dvojnásobné, ako počty prác publikovaných v časopisoch v 3. a 4.
+kvartile, konkrétne je pomer 2,4. Nakoľko prevažná väčšina verejných vysokých škôl
+uprednostňuje publikovanie v konferenčných príspevkoch, zastúpenie prác v časopisoch s JIF
+je nízke. I napriek nižšiemu počtu článkov so spoločenskovednou tematikou v časopisoch s
+JIF, nadpriemerný pomer dosiahli TU Zvolen (20,5), ŽU Žilina (8,2), SPU Nitra (4,1), UKF
+Nitra (3,7), STU Bratislava (obe 3,7). Publikácie UVLF Košice sú zaradené len v kvartile 2,
+vzhľadom na nízky počet publikácií (4) nejde o relevantný pomer medzi publikáciami
+zaradenými v 1. a 2. kvartile a 3. a 4. kvartile.
+Publikačná činnosť – humanitné vedy
+(107) Na celkovom počte 500 publikácií z humanitných vied 17 verejných vysokých škôl
+za obdobie 2018 – 2022 vo WoS CC, sa 224 publikáciami podieľa UK Bratislava, STU
+Bratislava 86 publikáciami a PU Prešov a UCM Trnava zhodne s 82 publikáciami. Nad 50
+publikácií má UKF Nitra (68). Ostatné školy majú v humanitných vedách zaradených menej
+ako 50 publikácií.
+
+
+                                            25
+                   Výročná správa o stave vysokého školstva za rok 2022
+
+(108) Z troch HCP publikácií v humanitných vedách majú po jednej HCP publikácii UK
+Bratislava, STU Bratislava a ŽU Žilina.
+(109) Z 800 prác zaradených do humanitných vied je 327 (40,1 %) voľne prístupných
+a z nich až 273 zlatou cestou v DOAJ (Directory of Open Access Journals) časopisoch. Vyšší
+počet voľne prístupných publikácií má ŽU Žilina (66,6 % z 9 publikácií) a STU Bratislava
+(62,7 % z 86 publikácií). Okrem spomenutých, takmer všetky vysoké školy dosiahli vyšší
+podiel voľne dostupných publikácií, ako je svetový priemer 23,3 % humanitných publikácií.
+Publikovanie zlatou cestou intenzívnejšie využívajú SPU Nitra (75 %), ŽU Žilina (66,6 %)
+a STU Bratislava (60, 4 %).
+(110) O nadpriemer svetového normalizovaného citačného ohlasu (1) sa zaslúžili práce ŽU
+Žilina (7,48), SPU Nitra (2,05), STU Bratislava (1,63) a TU Zvolen (1,31), pričom okrem
+STU Bratislava majú tieto vysoké školy nízky počet publikácií (do 10), čo môže čiastočne
+skresliť hodnoty. 7 zo 17 verejných vysokých škôl prekonalo priemerný podiel citovaných
+prác (32,4 %), na prvom mieste je SPU (75 % zo 4 publikácií), nasleduje TU Zvolen (60 %
+z 5 publikácií) a ŽU Žiline (55,5 % z 9 publikácii), v týchto prípadoch však ide o celkovo
+nízky počet publikácií. Vysoká škola s vyšším počtom publikácií, ktorá prekonala priemerný
+podiel citovaných prác, je STU Bratislava (45,3 % zo 86 publikácii).
+(111) Publikovanie v humanitných vedách v časopisoch s JIF je zriedkavé, z celkového
+počtu 800 publikácií je len 94 zaradených v časopisoch s JIF, čo predstavuje takmer 12 %.
+Okrem STU Bratislava (2,6) žiadna zo sledovaných vysokých škôl nedosiahla svetový
+priemer publikácií zaradených v 1. a 2. kvartile voči publikácií zaradených v kvartiloch 3. a 4.
+na úrovni 1,46. Vzhľadom na nízky počet publikácii v týchto časopisoch ide primárne
+o odchýlku.
+(112) Kumulatívne sa za jednotlivé päťročné obdobia v rokoch 2013 – 2022 prejavuje počet
+publikácií a počet citácií v základných vedných odboroch rastúcimi trendmi, ako dokumentuje
+graf č. 7 – časť a) pre publikácie a časť b) pre citácie. Významným zastúpením publikácií je
+konferenčný príspevok, ktorého 5-ročný trend v kumulatívnom počte sa v prípade technických
+a spoločenských vied javí ako stagnujúci až klesajúci. Pri porovnaní jednotlivých posledných
+rokov má ale tento trend rastúci charakter.
+a)
+
+
+
+
+                                              26
+                   Výročná správa o stave vysokého školstva za rok 2022
+
+b)
+
+
+
+
+Graf č. 7 a), b) - 5-ročné trendy v kumulatívnom počte a) publikácií a b) citácií verejných
+vysokých škôl v základných vedných odboroch OECD v rokoch 2014 – 2018 (1. stĺpec v poradí
+pre každý vedný odbor), 2015 – 2019 (2. stĺpec). 2016–2020 (3. stĺpec), 2017 –2021 (4. stĺpec) a
+2018 – 2022 (5. stĺpec), zdroj: WoS CC/InCites
+(113) Podrobnejšie informácie o publikačnej činnosti vysokých škôl sú uvedené
+v tabuľkách č. 16a, tabuľka č. 16b uvádza priemerný počet citácií na priemernú publikáciu
+verejnej vysokej školy, tabuľka č. 16c uvádza počty publikácií verejných vysokých škôl
+v základných vedných odboroch OECD, ktoré sa vyznačujú vysokým počtom citácií a sú
+zaradené ako HCP, tabuľka č. 16d uvádza priemernú hodnotu normalizovaného svetového
+citačného ohlasu pre základný vedný odbor OECD a údaj, či vysoká škola dosiahla, prípadne
+sa priblížila k tejto hodnote a tabuľka č. 16e uvádza prehľad umeleckej činnosti.
+
+1.6 Rozvoj vysokého školstva
+(114) V roku 2022 pokračovala realizácia 29 rozvojových projektov z výzvy na
+podávanie rozvojových projektov verejných vysokých škôl v roku 2020 a 2021 v týchto
+ôsmych tematických oblastiach: Podpora aktivít vysokých škôl v Iniciatíve Európskych
+univerzít, Získanie značky HR Ecxellence in Research Award, Zlepšovanie praktických
+zručností študentov vysokých škôl prostredníctvom vytvárania a rozvoja simulačných centier
+a coworkingových centier, Integrácia vysokých škôl, Materské školy pri vysokých školách,
+Rozvoj výskumných kapacít v oblasti pedagogického výskumu, Koncept Zelenej univerzity,
+Podpora internacionalizácie vysokoškolského prostredia.
+(115) V roku 2022 bolo v rámci výzvy na získanie dotácie na rozvoj podporených 6
+rozvojových projektov verejných vysokých škôl s predpokladaným obdobím realizácie v
+rokoch 2022 - 2023 v tejto tematickej oblasti: Podpora pri poskytovaní a uskutočňovaní
+doplňujúceho pedagogického štúdia alebo rozširujúceho štúdia. Celková poskytnutá suma
+dotácie na túto tému bola vo výške 1 487 981 €.
+(116) Podporená bola činnosť 54 vedeckých tímov, ktoré boli identifikované Akreditačnou
+komisiou v rámci projektu „Identifikácia špičkových vedeckých tímov vysokých škôl
+na Slovensku“. Celková výška podpory určenej týmto tímom bola 1 160 000 €.
+(117) V zmysle uzatvorenej zmluvy č. 0393/2022 zo dňa 24.6.2022 o poskytnutí dotácie zo
+štátneho rozpočtu prostredníctvom rozpočtu ministerstva, sekcia informačných technológií
+
+                                              27
+                   Výročná správa o stave vysokého školstva za rok 2022
+
+ministerstva školstva poskytla Združeniu používateľov Slovenskej akademickej dátovej siete
+SANET na realizáciu projektu SANET II dotáciu v celkovej výške 2 080 098 €. V zmysle
+uzatvorenej zmluvy č. 0864/2022 zo dňa 22.12.2022 bola Združeniu používateľov Slovenskej
+akademickej dátovej siete SANET poskytnutá dodatočná dotácia vo výške 324 518,00 €.
+Z tejto dotácie tvorili tovary a služby 1 629 518,00 €, bežné transfery 345 000,00 € a
+obstarávanie kapitálových aktív 430 098,00 €. Bežné finančné prostriedky SANET boli
+použité na podporu a zabezpečenie prevádzky Akademickej dátovej siete a úhrady nákladov
+spojených s prenájmom a údržbou optickej infraštruktúry sietí, prenájmom
+telekomunikačných služieb, pripojením Akademickej dátovej siete do medzinárodných sietí a
+pod.. Kapitálové finančné prostriedky boli použité na investičné vybavenie Akademickej
+dátovej siete a jej ďalšie rozširovanie.
+(118) V roku 2022 pokračovala kontinuálna prevádzka a rozvoj finančného informačného
+systému pre verejné vysoké školy IS SOFIA na 19 verejných vysokých školách. V oblasti
+migrácie IS SOFIA do vládneho cloudu prebiehalo verejné obstarávanie na projekt Migrácia
+systémov IS Centrálny finančný informačný systém pre verejné vysoké školy do Vládneho
+cloudu, financovaného z Operačného programu Integrovaná infraštruktúra na základe zmluvy
+o NFP. Na centrálnej úrovni v spolupráci s Ministerstvom investícií a regionálneho rozvoja
+SR bola uzatvorená zmluva č. 0266/2023 o pristúpení k Rámcovej dohode o centrálnom
+obstarávaní licenčnej podpory a licencií SAP č. 2925/2022, v zmysle ktorej bude zabezpečená
+podpora licencií SAP pre systém SOFIA.
+(119) V roku 2020 bola uzatvorená zmluva č. 0201/2020 so spoločnosťou DNS, a.s. ako
+licenčným partnerom spoločnosti Microsoft na nákup licencií spoločnosti Microsoft v rámci
+programu Campus Agreement – Enrollment fo Education Solutions pre verejné vysoké školy.
+V rámci tejto zmluvy boli aj v roku 2022 na verejné vysoké školy distribuované licencie MS
+Windows Pro upgrade a MS Office 365 A3.
+(120) V roku 2022 pokračovalo prevádzkovanie a rozvoj centrálnych informačných
+systémov v oblasti vysokého školstva (centrálny register študentov, register zamestnancov
+vysokých škôl, centrálne registre publikačnej a umeleckej činnosti, centrálny register
+záverečných prác, portál vysokých škôl).
+(121) V rámci implementácie Reformy 2 Komponentu 8 Plánu obnovy a odolnosti s názvom
+Zavedenie systému periodického hodnotenia vedeckého výkonu sa zrealizovalo v roku 2022
+Periodické hodnotenie výskumnej, vývojovej, umeleckej a ďalšej tvorivej činnosti VER 2022.
+To predstavovalo prvé nezávislé peer-review hodnotenie slovenských verejných vysokých
+škôl ako i verejných výskumných inštitúcii z pohľadu špičkovej medzinárodnej vedeckej
+komunity.
+(122) V rámci legislatívnej a administratívnej časti prípravy hodnotenia nadobudla 2. mája
+2022 účinnosť Smernica č. 36/2022 o periodickom hodnotení výskumnej, vývojovej,
+umeleckej a ďalšej tvorivej činnosti, ktorá poskytla hodnoteniu metodologický rámec.
+(123) Na začiatku procesu hodnotenia každá verejná vysoká škola a verejná výskumná
+inštitúcia, prípadne ich súčasti, podávali žiadosti o hodnotenie v jednej alebo viacerých z 28
+oblastí výskumu (spadajúcich pod 7 skupín oblastí výskumu). Každá žiadosť obsahovala
+maximálne 25 výstupov (vedeckých článkov, monografií, konferenčných príspevkov,
+umeleckých výstupov, atď.) v konkrétnej oblasti výskumu. Za každého vedca a vedkyňu bolo
+predložených maximálne 5 výstupov. Finálny výber výstupov pre každú žiadosť o periodické
+hodnotenie bol nastavený na základe snahy o dodržanie princípov reprezentatívnosti
+a rovnomernosti.
+
+
+
+                                             28
+                     Výročná správa o stave vysokého školstva za rok 2022
+
+(124) Členovia Rady pre periodické hodnotenie výskumnej, vývojovej, umeleckej a ďalšej
+tvorivej činnosti (zástupcovia slovenských a českých vedeckých pracovísk) schválili výber
+členov a náhradníkov, ako aj návrh predsedov jednotlivých hodnotiteľských komisií,
+zložených primárne zo zahraničných expertov a expertiek z 19 krajín a 66 univerzít (napr.
+University of Cambridge, Princeton University, McGill University, University of Melbourne,
+Technical University of Munich, ETH Zürich, Paris-Saclay University, Sapienza University
+of Rome).
+(125) Výsledky hodnotenia VER 2022 budú súčasťou Výročnej správy o stave vysokého
+školstva za rok 2023.
+
+
+1.7 Systém sociálnej podpory študentov a sociálnych služieb
+(126) V roku 2022 systém sociálnej podpory študentov pozostával z priamej podpory formou
+štipendií z prostriedkov štátneho rozpočtu (sociálne štipendium a motivačné štipendium),
+štipendií z vlastných zdrojov vysokej školy, pôžičiek z Fondu na podporu vzdelávania a
+pôžičiek zo štipendijného fondu vysokej školy.
+(127) Prostredníctvom nepriamej podpory mali študenti prístup k dotovanému ubytovaniu
+a stravovaniu, finančná podpora bola poskytovaná aj umeleckým súborom a športovým
+klubom pôsobiacim pri vysokých školách a univerzitným pastoračným centrám.
+(128) Maximálna mesačná výška sociálneho štipendia v akademickom roku 2021/2022
+bola 325 €, čo predstavuje medziročný nárast o 20 €. Výška sociálneho štipendia sa odvíja
+od súm životného minima. Verejné vysoké školy v roku 2022 vyplatili sociálne štipendiá
+v objeme 6 373 950 €, čo je oproti roku 2021 pokles o 1 338 503 €17. K 31. decembru 2022
+poberalo sociálne štipendiá 3 876 študentov verejných vysokých škôl, čo predstavuje oproti
+roku 2021 pokles o 609 poberateľov. Súkromné vysoké školy v roku 2022 vyplatili sociálne
+štipendiá v objeme 107 845 €, čo je oproti roku 2021pokles o 5 680 €. K 31. decembru 2022
+poberalo sociálne štipendiá 67 študentov súkromných vysokých škôl, čo predstavuje oproti
+roku 2021 pokles o 22 poberateľov. Údaje za súkromné vysoké školy sú uvedené bez údajov
+za Vysokú školu ekonómie a manažmentu v Bratislave.
+(129) V roku 2022 poskytlo ministerstvo vysokým školám dotáciu na motivačné štipendiá
+v sume 9 700 657 €, z toho čiastku 692 627 € súkromným vysokým školám. Prostriedky
+na motivačné štipendium v roku 2022 boli poskytnuté tak, aby desiatim percentám študentov
+študijných programov prvých dvoch stupňov denného štúdia, mohlo byť priznané štipendium
+vo výške 500 € a pätnástim percentám študentov vo vybraných študijných odboroch denného
+štúdia mohlo byť priznané štipendium v priemernej výške 1 200 €.
+(130) Motivačné štipendiá (bez väzby na študijný odbor) boli vyplatené v priemernej
+výške 449,- € (medián 434 €), výška štipendia bola od 7 € po 4 000 € a boli poskytnuté
+11 821 študentom (9,6 %).
+(131) Vysoké školy vyplatili motivačné štipendiá 8 794 študentom vo vybraných
+študijných odboroch v priemernej výške 483 € (medián 350 €), výška štipendia bola od
+19 € po 2 070 €.
+(132) Vysoké školy v roku 2022 poskytli z vlastných zdrojov štipendiá v sume 1 571 827 €
+celkovo 7 172 študentom. Vyplatená suma predstavuje oproti roku 2021 nárast o 223 537 €.
+Z uvedenej sumy vyplatili čiastku 21 687 € súkromné vysoké školy 48 študentom. Najvyššiu
+
+17
+  Finančné prostriedky boli zabezpečené účelovou dotáciou v roku 2021 a zostatkom účelovej dotácie z roku
+2020.
+
+                                                   29
+                   Výročná správa o stave vysokého školstva za rok 2022
+
+sumu na štipendiá z vlastných zdrojov poskytla v roku 2022 UK Bratislava a to vo výške
+533 455 € pre 1 823 študentov. Zo súkromných vysokých škôl poskytla najvyššiu sumu
+štipendií z vlastných zdrojov BISLA a to vo výške 11 750 € pre 31 študentov.
+(133) Podnikové štipendium poskytovali STU Bratislava a TU Košice. Priemerná výška
+podnikového štipendia bola 316 € (medián 155 €), výška štipendia bola od 33 € do 1 720 €.
+Podnikové štipendium bolo vyplatené 41 študentom.
+(134) Súčasťou zavedenia podnikových štipendií je aj podmienka, že vysoká škola
+zaznamenáva údaje o poskytnutých podnikových štipendiách do registra študentov a následne
+aj do centrálneho registra študentov. Podnikové štipendiá sú nastavené tak, že sú oslobodené
+od daňovo odvodových povinností a pre poskytujúci podnik ide o daňovo uznateľné náklady.
+(135) Od 1. 4. 2021 nadobudla účinnosť novela zákona o vysokých školách, ktorou sa
+zaviedlo tehotenské štipendium. Tehotenské štipendium je určené pre tehotné študentky od
+začiatku 27. týždňa pred očakávaným dňom pôrodu určeným lekárom. Výška tehotenského
+štipendia je 200 € mesačne. V roku 2022 poberalo tehotenské štipendium 781 študentiek
+verejných a súkromných vysokých škôl.
+(136) Ministerstvo prostredníctvom vysokých škôl poskytlo v ak. roku 2022/2023 formou
+štipendií finančné prostriedky študentom slovenských vysokých škôl, ktorí sa v zmysle
+podmienok štipendijnej schémy „Študuj doma, Slovensko ťa odmení“ stali úspešnými
+uchádzačmi o štipendium pre talentovaných domácich študentov. Štipendiá boli udelené v
+dvoch kategóriách: najväčšie talenty spomedzi slovenských maturantov a nadpriemerní
+študenti, ktorí sú zo sociálne znevýhodneného prostredia alebo patria do špecifických
+znevýhodnených skupín.
+(137) Umiestnenie študenta v poradí uchádzačov záviselo od jeho doterajších študijných
+výsledkov, a to najmä jeho zapojenia sa do rôznych vedomostných, umeleckých a ďalších
+súťaží a výsledku externej časti jeho maturitnej skúšky zo slovenského jazyka alebo jazyka
+menšiny, cudzieho jazyka a matematiky. Štipendiá boli udelené zo zdrojov Fondu obnovy a
+odolnosti v rámci investície 3 – „Štipendiá pre talentovaných domácich a zahraničných
+študentov“ komponentu 10 „Lákanie a udržanie talentov“. Úspešným žiadateľom bolo
+priznané štipendium vo výške 3 000 € na jeden akademický rok, resp. 9 000 € za tri
+akademické roky. Štipendiá sa budú poskytovať počas prvých troch rokov vysokoškolského
+štúdia študijných programov I. stupňa alebo spájajúcich I. a II. stupeň štúdia v dennej forme.
+Vyplácanie štipendií prebieha prostredníctvom vysokých škôl.
+(138) Počet doručených žiadostí o štipendium v skupine „najväčšie talenty spomedzi
+slovenských maturantov“ bol 3516, z toho podporených bolo 1002 študentov. V skupine
+„nadpriemerní študenti, ktorí sú zo sociálne znevýhodneného prostredia alebo patria do
+špecifických znevýhodnených skupín“ bolo doručených 519 žiadostí, z toho podporených
+bolo 235 študentov.
+Pôžičky pre študentov
+(139) V roku 2022 vstúpil Fond na podporu vzdelávania (ďalej len „fond“) do desiateho roka
+svojej existencie.
+(140) V akademickom roku 2021/2022 fond vyčlenil na pôžičky pre študentov 7 mil. € (v
+akademickom roku 2020/2021 bolo vyčlenených 6 mil. €).
+(141) Celkovo bolo v akademickom roku 2021/2022 schválených 765 žiadostí o pôžičku pre
+študentov v sume 3 481 400 € (v akademickom roku 2020/2021 ich bolo schválených 982 v
+sume 3 657 400 €).
+
+
+                                             30
+                    Výročná správa o stave vysokého školstva za rok 2022
+
+(142) Študentom bolo v akademickom roku 2021/2022 celkovo vyplatených 659 pôžičiek
+v sume 3 033 400 €, z čoho bolo 492 pôžičiek vyplatených študentom slovenských vysokých
+škôl a 114 študentom na zahraničných vysokých školách (vrátane študentov zahraničných
+vysokých škôl pôsobiacich v Slovenskej republike). V predchádzajúcom akademickom roku
+bolo vyplatených 814 pôžičiek v celkovej sume 3 080 300 €.
+(143) Najviac podporených študentov v akademickom roku 2021/2022 malo trvalý pobyt v
+Prešovskom kraji (19,18% ) a najviac študentov študovalo na Univerzite Komenského (24%).
+(144) Priemerná výška pôžičky v akademickom roku 2021/2022 u študentov predstavovala
+3 249 € (v predchádzajúcom akademickom roku to bolo 3 722 €).
+Pôžičky pre pedagógov
+
+V kalendárnom roku 2022 fond vyčlenil na pôžičky pre pedagógov 3,2 mil. € (rovnako ako
+v roku 2021). Celkovo bolo v kalendárnom roku 2022 schválených 309 žiadostí o pôžičku pre
+pedagógov v celkovej sume 3 023 500 €, z čoho vyplatených bolo 181 pôžičiek v celkovej
+sume 1 659 100 € (v predchádzajúcom roku bolo schválených 333 žiadostí o pôžičku pre
+pedagógov v sume 3 200 900 €, z čoho vyplatených bolo 293 v celkovej výške 2 749 900 €).
+(145) Priemerná výška pôžičky v kalendárnom roku 2022 u pedagógov predstavovala
+10 180 €, v roku 2021 bola 9 656 €.
+Stabilizačné pôžičky
+(146) Od 1. 6. 2019 nadobudla účinnosť novela zákona č. 396/2012 Z. z. o Fonde na podporu
+vzdelávania, ktorou sa zaviedli stabilizačné pôžičky. V akademickom roku 2021/2022 mohli
+o stabilizačnú pôžičku požiadať študenti bakalárskeho študijného programu ošetrovateľstvo v
+dennej forme štúdia v študijnom odbore ošetrovateľstvo. Termíny na doručenie žiadostí o
+stabilizačnú pôžičku boli stanovené na 15.9.2021, 31. 10. 2021, 31.1.2022 a 31. 3 2022.
+(147) Na poskytovanie stabilizačných pôžičiek v akademickom roku 2021/2022 boli na
+základe Zmluvy o poskytnutí dotácie na stabilizačné pôžičky uzatvorenej medzi
+ministerstvom a fondom vyčlenené finančné prostriedky v celkovej sume 2 588 000 €.
+(148) O stabilizačnú pôžičku mohli požiadať študenti bakalárskeho študijného programu
+ošetrovateľstvo v dennej forme štúdia v študijnom odbore ošetrovateľstvo. Celkovo bolo
+schválených 463 žiadostí o stabilizačnú pôžičku v celkovej sume 1 852 000 €. Celkovo bolo
+vyplatených 432 pôžičiek v celkovej sume 1 728 000 €.
+Študentské domovy
+(149) K 31. decembru 2022 uviedli vysoké školy v štatistike 45 702 lôžok projektovanej
+lôžkovej kapacity v študentských domovoch a 2276 lôžok v zmluvných zariadeniach, čo
+v porovnaní s predchádzajúcim rokom predstavuje nárast o 2059 ubytovacích zariadení.
+Nárast počtu lôžok súvisí s riadnym chodom prevádzok študentských domov v súvislosti so
+stabilizáciou situácie spôsobenou pandémiou COVID-19.
+(150) Suma dotácií poskytnutých na prevádzku študentských domovov v roku 2022 bola tak
+ako v roku 2021 odvodená od počtu lôžok s pevne stanoveným príspevkom na lôžko, ktorého
+výška závisela od veku študentského domova. Na mzdy zamestnancov študentských domovov
+sa polovica finančných prostriedkov poskytovala „historickým princípom“ a druhá polovica
+finančných prostriedkov výkonovo. Zo štátneho rozpočtu sa poskytovali dotácie aj
+na ubytovanie študentov v zariadeniach, ktoré nie sú študentskými domovmi, ale s ktorými
+mala vysoká škola uzatvorenú zmluvu o ubytovaní svojich študentov. Celková suma
+poskytnutých bežných dotácií na ubytovanie študentov, študentské domovy a ubytovacie
+zariadenia vysokých škôl v roku 2022 bola 27 622 899 €. V uvedenom objeme poskytnutej
+                                            31
+                   Výročná správa o stave vysokého školstva za rok 2022
+
+dotácie sú zaradené aj dotácie na uhradenie príspevkov na rekreácie zamestnancov vo výške
+40 551 €, a dotácie na základe kolektívnej zmluvy vyššieho stupňa pre rok 2022 na vyplatenie
+odmien vo výške 500 € v celkovej výške 977 927 €. Aj napriek uvedenému evidujeme v roku
+2022 v porovnaní s rokom 2021 pokles v objeme poskytnutej dotácie. Tento pokles nebol
+spôsobený znížením dotácií na ubytovacie zariadenia či ubytovaného študenta v zmysle
+platnej metodiky, ale vznikol tým, že v roku 2021 boli vysokým školám poskytnuté
+jednorázové dotácie (ako kompenzácie výpadku príjmov a výdavkov negatívne ovplyvnených
+pandémiou COVID-19). Priemerná ročná dotácia na lôžko študenta, vrátane lôžok
+v zmluvných zariadeniach, bola vo výške 575,74 €.
+(151) V roku 2022 pokračovalo poskytovanie stravovacích služieb študentom vysokých
+škôl. Dotovanie stravovacích služieb sa uskutočňovalo formou príspevku na dve vydané jedlá
+denne študentom v dennej forme štúdia. Výška príspevku na jedno jedlo sa v roku 2022
+zvýšila od 1. 7. 2022 z 1,4 € na 1,5 €. Vysokoškolské jedálne vydali v roku 2022 študentom
+vysokých škôl 2 675 000 jedál, čo je o 1 606 000 jedál viac ako v roku 2021. Celková suma
+poskytnutých dotácií na stravovanie študentov v roku 2022 bola 3 269 000 €, čo
+predstavuje oproti roku 2021 nárast o 1 884 000 €. Nárast počtu vydaných jedál súvisí
+s riadnym chodom prevádzok študentských jedálni v súvislosti so stabilizáciou situácie
+spôsobenou pandémiou COVID-19.
+Športová a kultúrna činnosť
+(152) V roku 2022 ministerstvo poskytlo vysokým školám na organizačnú
+podporu športových aktivít, na kultúrnu činnosť, na podporu univerzitných
+pastoračných centier vysokých škôl a záujmovú činnosť študentov dotácie v sume
+615 998 €, na podporu akademických súťaží (Akademický Prešov, Akademická Nitra,
+Akademický Zvolen, Istropolitana, UNIUM Ružomberok) dotácie vo výške 210 000 € .
+Okrem uvedených dotácií boli verejným vysokým školám poskytnutá v súlade s Metodikou
+rozpisu dotácií zo štátneho rozpočtu na rok 2022 dotácie na činnosť vysokoškolských
+telovýchovných jednôt a športových klubov (podľa Kritérií na prerozdelenie príspevku
+ministerstva vysokoškolským telovýchovným jednotám a športovým klubom) vo výške
+611 540 €. Podrobnejšie údaje o finančných prostriedkoch poskytnutých na podporu športovej
+a kultúrnej činnosti vysokých škôl sú uvedené v tabuľkovej prílohe v tabuľke č. 27.
+
+
+
+
+                                            32
+                  Výročná správa o stave vysokého školstva za rok 2022
+
+
+Časť II
+
+2. Správa o hospodárení verejných vysokých škôl v roku 2022
+(153) Táto časť správy sa zaoberá hospodárením verejných vysokých škôl v roku 2022.
+Verejné vysoké školy hospodária podľa rozpočtu výnosov a nákladov vrátane odpisov podľa
+odpisového plánu, ktorý si v súlade so zákonom o účtovníctve zostavuje každá verejná vysoká
+škola.
+(154) Hlavným zdrojom financovania verejných vysokých škôl sú naďalej dotácie
+zo štátneho rozpočtu, ktoré sa verejnej vysokej škole poskytujú vo forme tzv. blokového
+grantu, teda vnútorne neštruktúrované s výnimkou účelovo určených finančných
+prostriedkov a záväzného ukazovateľa maximálnej sumy osobných nákladov (mzdy
+a odvody). Objem finančných prostriedkov z dotácií vynaložený na mzdy a odvody
+do poistných fondov nesmie prekročiť 80 % objemu finančných prostriedkov poskytnutých
+v danom roku verejnej vysokej škole na bežné výdavky.
+(155) V prvej časti správy o hospodárení sú uvedené informácie o výške a o spôsobe
+rozdelenia dotácií zo štátneho rozpočtu verejným vysokým školám v roku 2022 a v druhej
+časti správy o hospodárení sa uvádzajú výsledky hospodárenia verejných vysokých škôl
+v roku 2022 tak, ako vyplývajú z výročných správ vysokých škôl o hospodárení
+a z výkazníctva vysokých škôl za rok 2022.
+
+
+2.1 Výška dotácií zo štátneho rozpočtu verejným vysokým školám v roku 2022
+a spôsob ich rozdelenia
+(156) Podľa § 89 zákona sú hlavným zdrojom financovania verejnej vysokej školy dotácie
+zo štátneho rozpočtu. Na pokrytie výdavkov na svoju činnosť verejná vysoká škola využíva
+v zmysle § 16 a § 89 ods.1 zákona okrem dotácií zo štátneho rozpočtu aj ďalšie zdroje.
+Výška dotácií zo štátneho rozpočtu verejným vysokým školám v roku 2022
+(157) V schválenom rozpočte na rok 2022 bola na vysokoškolské vzdelávanie a vedu,
+sociálnu podporu študentov vysokých škôl v kapitole ministerstva vyčlenená
+suma 561 318 945 €. Z takto prideleného objemu finančných prostriedkov bola pre vysoké
+školy vyčlenená suma 553 266 628 € (v uvedenom objeme bola zahrnutá aj časť finančných
+prostriedkov určená na dotácie pre súkromné vysoké školy). Vyčlenená suma bola určená len
+na bežné dotácie. Kapitálové dotácie boli v sume 8 086 000 €.
+        V priebehu roka 2022 bol objem bežných a kapitálových dotácií v programe 077 –
+Vysokoškolské vzdelávanie a veda, sociálna podpora študentov upravovaný (znižovaný
+a zvyšovaný) v jednotlivých podprogramoch a prvkoch už pri rozpise dotácie na vysoké školy
+a potom v priebehu roka viacerými rozpočtovými opatreniami. K 31. 12. 2022 bol rozpočet
+na bežné výdavky upravený rozpočtovými opatreniami nasledovne
+-       Rozpočtové opatrenie v sume 658,70 € presunuté v prospech CVTI za účelom
+dofinancovania odmien v zmysle uzatvorenej Kolektívnej zmluvy vyššieho stupňa pre rok
+2022.
+-       Rozpočtové opatrenie v sume 550 000 €, ktorá sa presúva v prospech sekcii vysokých
+škôl za účelom dofinancovania štipendií a grantov Národného štipendijného programu v roku
+2022.
+-     Rozpočtové opatrenie v sume 1 520 460 € presunuté v prospech CVTI na
+zabezpečenie financovania prístupov k EIZ databázam na rok 2023.
+
+
+                                            33
+                   Výročná správa o stave vysokého školstva za rok 2022
+
+-     Rozpočtové opatrenie č. 138/2022 v sume 1 225 000 € sa znižuje rozpočet v prospech
+Oddelenia financovania vysokých škôl sekcie rozpočtu ministerstva školstva (ďalej len
+„OFVŠ“), ktorá je určená pre Univerzitu sv. Cyrila a Metoda v Trnave z projektu Plánu
+obnovy a odolnosti.
+-       Rozpočtové opatrenie č. 213/2022 v sume 465 426,30 € sa viaže rozpočet OFVŠ
+z dôvodu nevyčerpania finančných prostriedkov určených na zabezpečenie plnenia Dodatku
+č. 1 ku Kolektívnej zmluve vyššieho stupňa pre zamestnávateľov.
+-     Rozpočtové opatrenie č. 63/2022 v sume 6 039 403,67 € sa zvýšil rozpočet OFVŠ
+z dôvodu valorizácie platov o 3% od 01.07.2022 pre zamestnancov verejných vysokých škôl.
+-       Rozpočtové opatrenie č. 117/2022 v sume 206 900 € sa zvyšuje rozpočet OFVŠ, ktorá
+je určená pre Technickú univerzitu v Košiciach – Letecká fakulta na podporu medzinárodného
+vedeckého projektu – spustenie vesmírnej misie a dofinancovanie vesmírnej družici – satelitu
+GRBBeta.
+-      Rozpočtové opatrenie č. 108/2022 v sume 13 444 814 € sa zvýšil rozpočet OFVŠ
+z dôvodu vyplácania odmien zamestnancov pri výkone práce vo verejnom záujme, ktorý
+vyplýva z Dodatku č. 1 ku Kolektívnej zmluve vyššieho stupňa pre zamestnávateľov, ktorí
+postupujú podľa zákona č. 553/2003 Z. z. o odmeňovaní niektorých zamestnancov pri výkone
+práce vo verejnom záujme na rok 2022.
+-       Rozpočtové opatrenie č. 134/2022 v sume 16 864 182 € sa zvyšuje rozpočet OFVŠ,
+ktorá je účelovo určená na dofinancovanie výdavkov na zvýšené ceny energií pre verejné
+vysoké školy.
+-      Rozpočtové opatrenie č. 154/2022 v sume 1 218 800 € sa zvyšuje rozpočet OFVŠ,
+ktorá je účelovo určená na poskytnutie príspevku na rekreáciu zamestnancov verejných
+vysokých škôl v zmysle ustanovenia § 152a Zákona č. 311/2001 Z. z. Zákonníka práce v znení
+neskorších predpisov.
+-      Rozpočtové opatrenie v II. polroku 2022 v sume 41 389 € sa zvýšil na dofinancovanie
+prevádzky vysokých škôl.
+-      Rozpočtové opatrenie č. 212/2022 v sume 1 084 608 € sa zvyšuje rozpočet OFVŠ
+presunom z rozpočtu sekcie informačných technológií na dofinancovanie Centrálneho registra
+študentov pre Žilinskú univerzitu.
+-     Rozpočtové opatrenie č. 85/2022 v sume 557 028,00 € sa zvyšuje rozpočet OFVŠ
+z dôvodu 3% valorizácie štipendií študentov doktorandského štúdia.
+(158) K 31.12.2022 bol rozpočet na kapitálové výdavky upravený rozpočtovými
+opatreniami nasledovne:
+-       Spolu boli vysokým školám k 31.12.2022 poskytnuté v programe 077 finančné
+prostriedky vo výške 587 346 916 € zo zdroja 111. Súkromným vysokým školám boli
+z uvedenej sumy v roku 2022 poskytnuté v programe 077 finančné prostriedky vo výške 805
+077 €.
+-      Okrem dotácií, ktoré boli rozpočtované v programe 077, získali verejné vysoké školy
+ďalšie finančné prostriedky zo štátneho rozpočtu prostredníctvom kapitoly ministerstva
+v objeme 25 194 049 € z národného programu rozvoja vedy a techniky, z toho objem
+21 923 262 € získali verejné vysoké školy na výskumné projekty z APVV (z toho čiastku 1
+519 434 € zo zdroja 131) a objem 3 270 787 € z programu 06K 12 Koordinácia
+prierezových aktivít štátnej vednej a technickej politiky.
+
+
+                                            34
+                  Výročná správa o stave vysokého školstva za rok 2022
+
+-      V rámci medzirezortného podprogramu 05T 08 - Oficiálna rozvojová pomoc boli
+v roku 2022 čerpané verejnými vysokými školami finančné prostriedky v objeme 2 025 820
+€, v operačnom programe Ľudské zdroje 1 717 293 € a v podprograme 021 02 03 -
+Zabezpečenie mobilít a záväzkov v oblasti vzdelávania v objeme 735 284 €.
+-      RO MF SR č. 65/2022: + 1 386 000 € – finančné prostriedky určené na monitorovacie
+laboratóriá - Radiačná monitorovacia sieť SR pre Univerzitu Komenského v Bratislave.
+Okrem uvedeného získali v roku 2022 verejné vysoké školy finančné prostriedky
+na projektoch podporovaných z Európskej únie vo výške 146 993 720 € v operačnom
+programe Podpora výskumu, vývoja a inovácií.
+-       V rámci všetkých rozpočtových zdrojov získali vysoké školy (verejné a súkromné
+spolu) v roku 2022 spolu 705 582 401 € (z toho čiastku 805 077 € získali súkromné vysoké
+školy).
+(159) Dotácie v programe 077 - Vysokoškolské vzdelávanie a veda, sociálna podpora
+študentov vysokých škôl boli rozpisom dotácie štátneho rozpočtu rozdelené verejným
+vysokým školám v súlade s programovou štruktúrou do podprogramov a prvkov nasledovne:
+a)     Podprogram 077 11 – Poskytovanie vysokoškolského vzdelávania a zabezpečenie
+       prevádzky vysokých škôl – 356 864 650 € (BD 350 164 650 €, KD 6 700 000 €).
+b)     Podprogram 077 12 – Vysokoškolská veda a technika – 189 076 279 € (BD 187 690
+       279 €, KD 1 386 000 €). V tom:
+i)         prvok 077 12 01 – Prevádzka a rozvoj infraštruktúry pre výskum a vývoj –
+           171 451 719 € (BD 170 065 719 €, KD 1 386 000€),
+ii)        prvok 077 12 02 – Úlohy základného výskumu na vysokých školách iniciované
+           riešiteľmi (VEGA) – 12 728 765 € (vrátane dotácie pre súkromné vysoké školy
+           a Medzinárodné laserové centrum, BD 12 728 765 €, KD 0 €),
+iii)       prvok 077 12 03 – Aplikovaný výskum na vysokých školách pre potreby praxe –
+           0 € (BD 0 €, KD 0 €),
+iv)        prvok 077 12 04 – Medzinárodná vedecká a vedecko-technická spolupráca
+           vysokých škôl – 0 € (BD 0 €, KD 0 €),
+v)         prvok 077 12 05 – Úlohy výskumu a vývoja na vysokých školách pre rozvoj
+           školstva v stanovených oblastiach iniciované riešiteľmi (KEGA) – 4 895 795 €
+           (vrátane dotácie pre súkromné vysoké školy, BD 4 895 795 €, KD 0 €),
+c)     Program 077 13 – Rozvoj vysokého školstva – 1 562 949 € (BD 1 562 949 €, KD 0
+       €).
+d)     Podprogram 077 15 – Sociálna podpora študentov vysokých škôl – 47 123 961 €
+       (BD 47 123 961 €),
+i)         prvok 077 15 01 – Sociálne a tehotenské štipendiá – 5 743 658 € (BD 5 743 658
+           €),
+ii)        prvok 077 15 02 – Motivačné štipendiá – 9 008 030 € (BD 9 008 030 €),
+iii)       prvok 077 15 03 – Podpora stravovania, ubytovania, športových a kultúrnych
+           aktivít študentov a pastoračných centier – 32 372 273 € (BD 32 372 273 €).
+
+
+
+
+                                          35
+                   Výročná správa o stave vysokého školstva za rok 2022
+
+Spôsob rozdelenia dotácií zo štátneho rozpočtu verejným vysokým školám
+(160) Na základe ustanovenia § 89 ods. 2 zákona pozostáva finančná podpora zo štátneho
+rozpočtu pre verejnú vysokú školu z nasledovných štyroch dotácií poskytovaných na základe
+zmluvy:
+a)     dotácia na uskutočňovanie akreditovaných študijných programov,
+b)     dotácia na výskumnú, vývojovú alebo umeleckú činnosť,
+c)     dotácia na rozvoj vysokej školy,
+d)     dotácia na sociálnu podporu študentov.
+(161) Určenie výšky dotácií pre jednotlivé verejné vysoké školy sa uskutočňuje podľa
+každoročne aktualizovanej metodiky rozpisu dotácií zo štátneho rozpočtu verejným vysokým
+školám, do ktorej ministerstvo v súlade so zákonom premieta ekonomické nástroje
+na podporu plnenia cieľov vlády v oblasti vysokého školstva.
+(162) Dotácia na uskutočňovanie akreditovaných študijných programov bola rozpočtovaná
+v podprograme 077 11 – Poskytovanie vysokoškolského vzdelávania a zabezpečenie
+prevádzky vysokých škôl. Prostredníctvom dotácie na uskutočňovanie akreditovaných
+študijných programov získava vysoká škola hlavnú časť finančných prostriedkov zo štátneho
+rozpočtu vrátane finančných prostriedkov na prevádzku.
+(163) V súlade s § 89 ods. 4 zákona bol pri určovaní výšky dotácií na uskutočňovanie
+akreditovaných študijných programov pre jednotlivé vysoké školy rozhodujúci počet
+študentov, počet absolventov, ekonomická náročnosť uskutočňovaných študijných
+programov, kvalita vyjadrená kvalifikačnou štruktúrou vysokoškolských učiteľov
+a publikačnými resp. umeleckými aktivitami vysokej školy.
+(164) Na účely stanovenia výšky bežnej dotácie na uskutočňovanie akreditovaných
+študijných programov pre jednotlivé verejné vysoké školy na úrovni ministerstva sa
+predpokladá jej nasledovná vnútorná štruktúra:
+a)     dotácia na mzdy a poistné,
+b)     dotácia na tovary a služby,
+c)     dotácia na špecifiká,
+d)     dotácia na kapitálové výdavky.
+(165) Výsledná hodnota bežnej dotácie na uskutočňovanie akreditovaných študijných
+programov sa vypočíta ako súčet dotácií uvedených v písmenách a) až d) v predošlom bode.
+(166) Dotácia na výskumnú, vývojovú alebo umeleckú činnosť bola rozpočtovaná v rámci
+podprogramu 077 12 – Vysokoškolská veda a technika. Finančné prostriedky na projekty
+VEGA a na projekty KEGA boli prideľované v rámci vnútorného grantového systému
+ministerstva súťažným spôsobom. Poslednú časť tvorila dotácia na prevádzku a rozvoj
+infraštruktúry pre výskum a vývoj.
+(167) Pri určovaní výšky dotácie na prevádzku a rozvoj infraštruktúry pre výskum
+a vývoj pre jednotlivé verejné vysoké školy sa vychádzalo z vymedzenia, na aký účel majú
+tieto finančné prostriedky slúžiť. Toto vymedzenie je sformulované v opise zodpovedajúceho
+prvku v rámci podprogramu 077 12 – Vysokoškolská veda a technika. V nadväznosti na to sa
+pri rozpise zohľadňovali:
+    a) výsledky hodnotenia kvality výskumnej činnosti vysokej školy podľa poslednej
+         komplexnej akreditácie, t. j. 30% garantované minimum (váha 0,0526) a podľa
+         výkonu 1. kvartilu excelentných pracovísk (0,1194)
+
+                                           36
+                       Výročná správa o stave vysokého školstva za rok 2022
+
+     b) priemerný podiel vysokej školy na dotácií na prevádzku a rozvoj infraštruktúry pre
+        výskum a vývoj za roky 2016 až 2021 (okrem dotácie odvodenej od výsledkov
+        hodnotenia kvality výskumnej činnosti vysokej školy podľa poslednej komplexnej
+        akreditácie) (váha 0,258),
+     c) podiel vysokej školy na objeme finančných prostriedkov získaných v rokoch 2019
+        a 2020 na výskumné aktivity v rámci zahraničných grantových schém (váha 0,10),
+
+     d) podiel vysokej školy na objeme finančných prostriedkov (bežné transfery) získaných
+        v rokoch 2019 a 2020 na výskumné aktivity od subjektov verejnej správy, (váha 0,09),
+
+     e) podiel vysokej školy na objeme finančných prostriedkov (bežné transfery) získaných
+        v rokoch 2019 a 2020 na výskumné aktivity od iných subjektov ako sú subjekty
+        verejnej správy a od subjektov zo zahraničia (mimo grantových schém) (váha 0,03),
+     f) podiel vysokej školy na priemernom počte doktorandov v dennej forme
+        doktorandského štúdia po dizertačnej skúške v kalendárnom roku 2020 (váha 0,10 )18,
+
+     g) podiel vysokej školy na publikačnej činnosti (váha 0,225) a
+
+     h) podiel vysokej školy na umeleckej tvorbe (váha 0,025).
+
+(168) Dotácia na rozvoj vysokej školy bola rozpočtovaná v rámci podprogramu 077 13 -
+Rozvoj vysokého školstva. V roku 2022 sa táto dotácia použila na centrálne rozvojové
+projekty pre potreby rezortu školstva.
+(169) Dotácia na sociálnu podporu študentov bola rozpočtovaná v rámci podprogramu
+077 15 – Sociálna podpora študentov vysokých škôl. V prvku 077 15 01 boli v roku 2022
+rozpočtované finančné prostriedky na sociálne a tehotenské štipendiá. Tieto sú nárokovateľné
+a verejná vysoká škola ich dostáva v sume podľa zákonných nárokov jej študentov. V prvku
+077 15 02 boli rozpočtované finančné prostriedky na motivačné štipendiá. V prvku 077 15 03
+boli rozpočtované finančné prostriedky na príspevky na ubytovanie, stravovanie, športové
+a kultúrne aktivity. Podrobnosti o spôsobe rozpisu tejto časti dotácie sú uvedené v časti
+venovanej systému sociálnej podpory študentov a sociálnym službám.
+Jednotkové dotácie
+(170) V prípade verejných vysokých škôl sa nepoužíva financovanie prostredníctvom
+normatívov (vopred určená cena na jednotku výkonu), ale spätne z rozpisu dotácií sa dá
+odvodiť, aká časť dotácie pripadala na jednotku výkonu vysokej školy v jednotlivých
+oblastiach. V ďalšom texte tak uvádzame výšky dotácie na vybrané ukazovatele. Uvádzané
+sumy vychádzajú z pôvodného rozpisu dotácií zo štátneho rozpočtu pre verejné vysoké školy
+(teda nie je napr. zohľadnené dodatočné navýšenie prostriedkov na zvýšenie platových taríf
+v priebehu roka 2021), a v niektorých prípadoch sú výpočty zjednodušené (napr. v prípade
+dotácie na mzdy a poistné odvodenej od počtu študentov sa nezohľadňuje príspevok študenta
+pri zohľadňovaní centrálnej administratívy, zohľadnenie študenta ako absolventa, dotácia
+na špecifiká – praxe a pod.). Uvedené hodnoty sú tak indikatívne.
+
+
+
+18
+   Priemerný počet za kalendárny rok 2022 sa určí ako priemerný mesačný počet doktorandov v dennej forme
+doktorandského štúdia po dizertačnej skúške (financovaných zo všetkých zdrojov: z dotácie zo štátneho
+rozpočtu, z vlastných zdrojov a zo zdrojov externých vzdelávacích inštitúcií) podľa údajov z centrálneho registra
+študentov.
+
+
+                                                      37
+                     Výročná správa o stave vysokého školstva za rok 2022
+
+Niektoré ukazovatele sú zohľadňované vo viacerých rokoch, napríklad príjmy z grantov, preto
+pre celkovo získanú dotáciu na základe viacročných ukazovateľov by bolo potrebné zohľadniť
+ich vplyv na dotáciu v jednotlivých rokoch.
+(171) Pri zohľadňovaní publikačných výstupov sa zohľadňujú publikačné výstupy za dve
+vykazovacie obdobia, to je dva roky. Publikácie sú rozčlenené do piatich skupín, ktoré boli
+pre rozpis roku 2022 upravené. Princíp rozpisu pre rok 2022 ostáva rovnaký. Publikácie
+v karentovaných časopisoch alebo registrovaných vo WoS alebo Scopus vytvorili spoločnú
+skupinu B a do samostatnej skupiny boli vyčlenené patenty. Ďalšia skupina A1 boli
+monografie, A2 najmä učebnice, skriptá a odborné knižné publikácie a poslednú skupinu D
+tvorili ostatné publikácie (napr. abstrakty, odborné práce v zborníkoch, publikované
+príspevky na vedeckých konferenciách a pod.).
+
+
+2.2 Výsledky hospodárenia verejných vysokých škôl za rok 2022
+(172) Údaje prezentované v tejto časti vychádzajú z výročných správ o hospodárení
+verejných vysokých škôl za rok 2022, ktorých hlavné body predpisuje zákon a podrobnosti
+určuje ministerstvo. Základom výročnej správy o hospodárení je ročná účtovná závierka
+obsahujúca súvahu, výkaz ziskov a strát a poznámky.
+Sumárne údaje zo súvah verejných vysokých škôl k 31. decembru 2022
+(173) Súhrnná súvaha19 za všetky verejné vysoké školy je uvedená v tabuľkovej prílohe,
+v tabuľkách č. 19a a 19b.
+(174) Celková suma aktív verejných vysokých škôl k 31. decembru 2022 predstavuje
+čiastku 1 708 755 823 €. V rámci tejto čiastky vykázali vysoké školy:
+      1.    dlhodobý nehmotný majetok                                                 4 853 016 €
+      2.    dlhodobý hmotný majetok                                               1 170 392 257 €
+      3.    dlhodobý finančný majetok                                                 5 510 337 €
+      4.    zásoby                                                                    5 197 921 €
+      5.    dlhodobé pohľadávky                                                         608 237 €
+      6.    krátkodobé pohľadávky20                                                  25 569 582 €
+      7.    finančné účty                                                           493 222 303 €
+      8.    časové rozlíšenie                                                         3 402 107 €
+(175) Hlavnou položkou v rámci dlhodobého nehmotného majetku bol software v sume
+4 239 036 €. Účtovná hodnota dlhodobého hmotného majetku verejných vysokých škôl
+predstavovala k 31. decembru 2022 objem 1 170 392 257 €. Hlavnými položkami v rámci
+dlhodobého hmotného majetku boli:
+      1.    pozemky                                                                 132 501 772 €
+      2.    stavby                                                                  895 240 257 €
+      3.    samostatné hnuteľné veci a súbory hnuteľných vecí                        83 723 603 €
+      4.    dopravné prostriedky                                                      1 881 248 €
+      5.    ostatný dlhodobý hmotný majetok                                           2 803 747 €
+      6.    obstaranie dlhodobého hmotného majetku                                   51 639 563 €
+
+
+19
+   Súvaha vyjadruje v prehľadnej a usporiadanej forme peňažné vyjadrenie majetku podľa druhov (aktíva)
+a podľa zdrojov (pasíva) k určitému dňu.
+20
+   Objem krátkodobých pohľadávok zvyšujú pohľadávky zo zmlúv zo štrukturálnych fondov.
+
+
+                                                 38
+                   Výročná správa o stave vysokého školstva za rok 2022
+
+(176) Finančné účty v objeme 493 222 303 € predstavujú finančné prostriedky
+na bankových účtoch a v pokladnici. Pozostávajú najmä z finančných prostriedkov na mzdy
+za december vyplácaných v januári 2023 a príslušných odvodov, z prostriedkov finančných
+fondov, z finančných prostriedkov na projekty prechádzajúce do roku 2023 vrátane
+zahraničných projektov, z finančných prostriedkov na kapitálové výdavky nerealizované
+v roku 2022, z finančných prostriedkov účtu sociálneho fondu a z finančných prostriedkov
+účtov podnikateľskej činnosti.
+(177) Na bankových účtoch vysokých škôl (vedených v štátnej pokladnici) vykázali verejné
+vysoké školy k 31. 12. 2022 finančné prostriedky v objeme 492 868 tis. €. Z toho na účtoch
+pre hlavnú činnosť boli vykázané finančné prostriedky v objeme 465 770 tis. €, na účtoch
+podnikateľskej činnosti vykázali verejné vysoké školy finančné prostriedky v objeme
+25 237 tis. € a na účtoch sociálneho fondu 1 860 tis. €.
+(178) Celková suma pasív verejných vysokých škôl k 31. decembru 2022 predstavuje
+čiastku 2 698 755 823 €. Štruktúra pasív verejných vysokých škôl bola k 31. decembru 2022
+nasledovná:
+     1. imanie a peňažné fondy                                           1 642 568 096 €
+     2. fondy tvorené zo zisku                                               99 177 527 €
+     3. výsledok hospodárenia za účt. obdobie                                10 725 639 €
+     4. nevysporiadaný výsledok hospodárenia minulých rokov                  18 631 240 €
+     5. rezervy celkom                                                       11 508 029 €
+     6. dlhodobé záväzky                                                      4 267 392 €
+     7. krátkodobé záväzky                                                   79 186 669 €
+     8. bankové výpomoci a pôžičky                                            8 354 668 €
+     9. časové rozlíšenie                                                  824 336 564 €
+(179) Hlavnými položkami imania a peňažných fondov sú základné imanie v hodnote
+521 996 560 €, fondy podľa osobitného predpisu vo výške 11 948 743 €, fond reprodukcie
+vo výške 1 108 622 792 €. Hlavnými položkami fondov tvorených zo zisku sú najmä
+rezervný fond vo výške 92 264 163 € a ostatné fondy vo výške 5 440 566 €. Výsledok
+hospodárenia za rok 2022 bol po odvedení dane z príjmu vo výške 10 726 639 €. Verejné
+vysoké školy vykazujú ako nevysporiadaný výsledok hospodárenia minulých rokov
+sumu 18 631 240 €. Hlavnými položkami v rámci krátkodobých záväzkov boli:
+    1. záväzky z obchodného styku                                            19 536 150 €
+    2. záväzky voči zamestnancom                                             25 305 975 €
+    3. zúčtovanie so Sociálnou poisťovňou a zdravotnými poisťovňami          15 869 765 €
+    4. daňové záväzky                                                         7 001 249 €
+    5. ostatné záväzky                                                       11 456 037 €
+(180) K 31. decembru 2022 štyri verejné vysoké školy (UPJŠ Košice, PU Prešov, SPU Nitra,
+KU Ružomberok) evidujú záväzky voči bankám v sume 2 083 tis. €.
+(181) Hlavnou položkou pri časovom rozlíšení pasív boli výnosy budúcich období v sume
+823 298 tis. €. Ďalšie podrobnosti sú v tabuľke č. 20.
+Sumárne údaje o výnosoch a nákladoch verejných vysokých škôl
+(182) Hospodárenie verejných vysokých škôl pozostáva z hospodárenia v oblasti hlavnej
+činnosti a v oblasti podnikateľskej činnosti. V oblasti hlavnej činnosti sa osobitne sleduje
+oblasť sociálnej podpory študentov.
+(183) Celkové náklady verejných vysokých škôl (vrátane dane z príjmov) v roku 2022
+predstavovali 887 469 398 €. Z toho:
+
+                                            39
+                      Výročná správa o stave vysokého školstva za rok 2022
+
+      1.     náklady hlavnej činnosti                                                     852 849 762 €
+      2.     náklady podnikateľskej činnosti                                               34 621 627 €
+(184) Celkové výnosy verejných vysokých škôl v roku 2022 predstavovali 898 195 028 €.
+Z toho:
+     1. výnosy hlavnej činnosti                                       856 894 130 €
+     2. výnosy podnikateľskej činnosti                                  41 300 898 €
+(185) Výsledok hospodárenia verejných vysokých škôl bol v roku 2022 vo výške
+10 725 639 €. Z toho:
+     1. výsledok hospodárenia v hlavnej činnosti                 4 045 368 €
+     2. výsledok hospodárenia v podnikateľskej činnosti          6 680 271 €
+(186) V porovnaní s rokom 2021 sa výnosy verejných vysokých škôl v hlavnej činnosti
+zvýšili o 42 968 tis. € (5,28 %). Náklady verejných vysokých škôl sa v hlavnej činnosti zvýšili
+oproti roku 2021 o 70 505 tis. € (9,01 %).
+(187) Súhrnné náklady a výnosy verejných vysokých škôl, ako i výsledky hospodárenia
+jednotlivých verejných vysokých škôl, sú uvedené v tabuľkách č. 20, 21 a - 22. Náklady,
+výnosy a výsledky hospodárenia v oblasti sociálnej podpory sú v tabuľkách č. 23, 24 a 25.
+(188) Za rok 2022 dosiahlo 15 verejných vysokých škôl celkový kladný výsledok (teda súčet
+výsledku hospodárenia v hlavnej činnosti a hospodárenia v podnikateľskej činnosti). Päť
+z verejných vysokých škôl dosiahli záporný celkový hospodársky výsledok (UMB v Banskej
+Bystrici, TU v Trnave, AU v Banskej Bystrici, KU v Ružomberku a UJS v Komárne).
+Celkový výsledok hospodárenia za všetky verejné vysoké školy za rok 2022 bol oproti
+celkovému výsledku hospodárenia v roku 2021 (po odvedení dane z príjmov v hlavnej aj
+podnikateľskej činnosti) nižší o 23 898 tis. €. Najvyšší celkový výsledok hospodárenia v roku
+2022 dosiahla UK v Bratislave, pričom zisk dosiahla najmä aktivitami v hlavnej činnosti21.
+(189) Výsledok hospodárenia verejných vysokých škôl za všetky verejné vysoké školy v
+hlavnej činnosti bol v roku 2022 vo výške 4 045 368 €. Kladný výsledok hospodárenia
+v hlavnej činnosti dosiahlo trinásť verejných vysokých škôl: UPJŠ Košice, PU Prešov,
+UCM Trnava, UVLF Košice, UKF Nitra, TU Košice, ŽU Žilina, TUAD Trenčín, EU
+Bratislava, SPU Nitra, TU Zvolen, VŠMU Bratislava, VŠVU Bratislava. Sedem z verejných
+vysokých škôl hospodárili v hlavnej činnosti so stratou (UK Bratislava, UMB Banská
+Bystrica, TVU Trnava, STU Bratislava, AU Banská Bystrica, KU Ružomberok a UJS
+Komárno). UK Bratislava a STU Bratislava túto stratu úplne vykompenzovali ziskom z
+podnikateľskej činnosti a päť zo škôl (UMB Banská Bystrica, TVU Trnava, AU Banská
+Bystrica, KU Ružomberok a UJS Komárno) vykazujú stratu aj v celkovom hospodárskom
+výsledku.
+Štruktúra nákladov a výnosov v hlavnej činnosti
+(190) Hlavné položky nákladov verejných vysokých škôl v hlavnej činnosti vrátane ich
+percentuálneho podielu na celkových nákladoch sú nasledovné (tabuľka č. 21):
+     1.        501 – spotreba materiálu                40 286 492 €          4,7 %
+     2.        502 – spotreba energie                  37 777 469 €          4,4 %
+     3.        504 – predaný tovar                      2 893 462 €          0,3 %
+     4.        511 – opravy a udržiavanie              15 240 418 €          1,8 %
+
+21
+  Štandardným cieľom verejných vysokých škôl nie je dosahovanie zisku, ale vyrovnané hospodárenie. Tvorba
+zisku u verejných vysokých škôl má však význam v prípadoch, keď si potrebujú akumulovať prostriedky do
+budúcich rokov, napríklad na nákladnejšie rozvojové projekty, alebo v prípade, že potrebujú vyrovnať stratu z
+minulých rokov (verejná vysoká škola musí v každom prípade celý zisk použiť na svoju hlavnú činnosť).
+
+                                                     40
+                   Výročná správa o stave vysokého školstva za rok 2022
+
+      5.       512 – cestovné                              9 498 466 €                  1,1 %
+      6.       518 – ostatné služby                       53 883 489 €                  6,3 %
+      7.       521 – mzdové náklady                      390 816 232 €                45,8 %
+      8.       524 – zákonné sociálne poistenie          134 278 004 €                 15,7%
+      9.       527 – zákonné sociálne náklady             17 870 314 €                  2,1 %
+      10.      549 – iné ostatné náklady                  59 644 936 €                  7,0 %
+      11.      551 – odpisy DNM a DHM                     40 513 520 €                  4,8 %
+      12.      591 – daň z príjmu                             62 135 €                  0,0 %
+(191) Hlavnými nákladovými položkami verejných vysokých škôl na okruhu hlavnej
+činnosti v rámci účtu 501 – spotreba materiálu v roku 2021 boli náklady na prístroje
+a zariadenia laboratórií, ktoré nepatria do dlhodobého hmotného majetku (7 815 tis. €),
+chemikálie a iný materiál na zabezpečenie experimentálnej výučby (7 700 tis. €), nábytok
+(2 599 tis. €), potraviny (1 865 tis. €), kancelárske potreby, papier a materiál (2 137 000 €),
+knihy, časopisy a noviny (1 265 tis. €), stavebný, vodoinštalačný a elektroinštalačný materiál
+(1 871 €), čistiace, hygienické a dezinfekčné potreby (1 344 tis. €), pohonné hmoty a ostatný
+materiál na dopravu (851 000 €), ostatný materiál (7 283 tis. €) a iné analyticky sledovane
+náklady (5 250 tis. €).
+(192) Hlavnými nákladovými položkami v rámci účtu 502 – spotreba energie v roku 2022
+boli náklady na elektrickú energiu (16 178 tis. €), na tepelnú energiu (9 010 tis. €), na plyn
+(8 928 tis. €) a vodné a stočné (3 275 tis. €).
+(193) Hlavnými nákladovými položkami v rámci účtu 511 – opravy a udržiavanie v roku
+2022 boli náklady na opravu a udržiavanie stavieb (8 756 tis. €), na opravy a udržiavanie
+strojov, prístrojov, zariadení a inventára (3 215 tis. €), na opravy dopravných prostriedkov
+(320 tis. €), na opravy a udržiavanie prostriedkov IT (851 tis. €), údržba a opravy meracej
+techniky, telovýchovných zariadení (215 tis. €), ostatná údržba a opravy (1 017 tis. €), iné
+analyticky sledované náklady (825 tis. €).
+(194) Hlavnými nákladovými položkami v rámci účtu 512 – cestovné v roku 2022 boli
+náklady na zahraničné cestovné (7 993 tis. €) a domáce cestovné (1 504 tis. €).
+(195) Náklady na účte 551 – odpisy dlhodobého nehmotného a hmotného majetku sa
+členia na náklady na odpisy dlhodobého nehmotného a hmotného majetku nadobudnutého
+z kapitálových dotácií zo štátneho rozpočtu a odpisy dlhodobého nehmotného a hmotného
+majetku nadobudnutého zo štrukturálnych fondov a odpisy ostatného dlhodobého
+nehmotného a hmotného majetku.
+(196) Hlavné položky výnosov verejných vysokých škôl v hlavnej činnosti vrátane ich
+percentuálneho podielu na celkových výnosoch sú nasledovné (tabuľka č. 20):
+     1. 601 – tržby za vlastné výrobky                    554 659 €          0,1 %
+     2. 602 – tržby z predaja služieb                 33 585 058 €           3,9 %
+     3. 604 – tržby za predaný tovar                    3 580 729 €          0,4 %
+     4. 648 – zákonné poplatky                         59 601 290 €          7,0 %
+     5. 649 – iné ostatné výnosy                       37 378 348 €          4,4 %
+     6. 651 – tržby z predaja dlhodobého
+              nehmotného a hmotného majetku             2 590 632 €          0,3 %
+     7. 656 – výnosy z použitia fondu                   10 107 143 €         1,2 %
+      8. 658 – výnosy z prenájmu majetku                  113 026 €          0,0 %
+      9. 691 – dotácie                               704 777 401 €          82,2 %
+(197) Hlavnou položkou v rámci účtu 601 – tržby za vlastné výrobky boli výnosy za vlastné
+výrobky (542 000 €).
+
+                                              41
+                   Výročná správa o stave vysokého školstva za rok 2022
+
+(198) Hlavnou položkou v rámci účtu 602 – tržby z predaja služieb boli najmä výnosy
+z ubytovania denných študentov (22 557 000 €), zo stravných lístkov študentov
+(2 087 000 €), z ubytovania a stravovania iných fyzických osôb (1 113 000 €), iné analyticky
+sledované výnosy (7 346 000 €).
+(199) Hlavnými položkami v rámci účtu 648 – zákonné poplatky boli výnosy zo školného
+49 300 000 € (v tom 4 419 000 € za prekročenie štandardnej dĺžky štúdia v dennej forme, 413
+000 € za cudzojazyčné štúdium a školné od cudzincov v dennej forme a 10 199 000 €, školné
+za štúdium v externej forme štúdia, 15 000 € za súbežné štúdium), výnosy z poplatkov
+spojených so štúdiom 4 573 000 € (v tom 3 201 000 € poplatky za prijímacie
+konanie,507 000 € poplatky za rigorózne konanie, 777 000 € výnosy za vydanie dokladov
+o štúdiu a ich kópií, 15 000 € za uznávanie rovnocennosti dokladov o štúdiu v rámci
+medzinárodných zmlúv a ďalšie analyticky samostatne nesledované výnosy).
+(200) Hlavnými položkami v rámci účtu 691 – dotácie boli bežné dotácie poskytnuté v roku
+2022 verejným vysokým školám zo štátneho rozpočtu a zo štrukturálnych fondov. Tieto
+dotácie boli vyššie ako je vykázaný objem výnosov, pretože do výnosov sa dostali len tie
+dotácie, ktoré neboli zúčtované ako výnosy budúcich období (napríklad na pokračujúce
+projekty).
+Kapitálové výdavky
+(201) V roku 2022 boli verejným vysokým školám prostredníctvom kapitoly ministerstva
+poskytnuté zo štátneho rozpočtu kapitálové dotácie vo výške 8 174 460 €, z toho čiastka
+8 086 000 € z programu 077. Z tejto sumy bola čiastka 6 353 000 € určená na rekonštrukcie
+a odstránenie havarijných stavov študentských domovov vysokých škôl, na realizáciu stavieb,
+rekonštrukcie a modernizácie objektov verejných vysokých škôl, čiastka 47 000 € bola určená
+na nákup Helikálneho CT prístroja so stolom akvizičnou stanicou a vyhodnocovacou stanicou,
+čiastka 300 000 € na odstránenie havarijnej situácie aktívnej vrstvy počítačovej siete dátového
+centra budovy STU v Bratislave a čiastka 1 386 000 € na monitorovacie laboratóriá –
+Radiačná monitorovacia sieť SR pre UK v Bratislave.
+
+
+Časť III
+
+3. Záver k správe
+(202) V roku 2022 bol celkový počet študentov 136 168 a nastal medziročný pokles počtu
+študentov vysokých škôl o 478 (0,35 %), Počet cudzincov študujúcich v SR (21 216)
+medziročne vzrástol o 4 563 študentov, ich podiel na celkovom počte študentov sa zvýšil o
+3,39 percentuálneho bodu (na 15,58 %). Pokračoval nárast platov zamestnancov verejných
+vysokých škôl, pričom priemerný plat vysokoškolského učiteľa verejnej vysokej školy
+narástol o 3,4 % v porovnaní s rokom 2021 a dosiahol hodnotu 1 898,3 € mesačne a priemerný
+plat profesora verejnej vysokej školy bol 2 686,5 € mesačne (nárast o 2,25 %).
+(203) V priebehu roka 2022 riadne skončilo vysokoškolské štúdium (prvý až tretí stupeň)
+35 484 študentov (medziročný pokles o 1 835 absolventov), z nich 19 583 študentov
+(55,19 %) v spoločenských vedách, náukách a službách. V rámci technických vied a náuk
+skončilo štúdium spolu 6 749 študentov (19,02 %). Absolventi doktorandského štúdia tvorili
+3,70 % z počtu absolventov.
+(204) V posledných rokoch kontinuálne rástla miera participácie populácie
+na vysokoškolskom vzdelávaní. V roku 2022 podiel osôb s dosiahnutým terciárnym
+
+
+                                              42
+                         Výročná správa o stave vysokého školstva za rok 2022
+
+vzdelaním vo vekovej kohorte 25-34 rokov dosiahol 39,1 %22, oproti roku 2021 došlo
+k miernemu poklesu o 0,4 %. Priemer EÚ v tejto vekovej štruktúre v roku 2022 predstavuje
+42,0 %, pričom priemer krajín OECD23 je 47,4%. Vyšší percentuálny podiel krajín OECD je
+zabezpečený na úrovni prvého stupňa, či krátkych terciárnych programov, v Slovenskej
+republike väčšina občanov získava vysokoškolské vzdelanie druhého stupňa.
+(205) Vysoké školy v roku 2022 aj naďalej pokračovali v upravenej organizácii výučby
+v dôsledku šírenia pandémie ochorenia COVID-19. Vzhľadom na veľké množstvo rôznych
+študijných odborov a študijných programov si jednotlivé fakulty vysokých škôl upravovali
+harmonogram a formy výučby individuálne. Dekani a dekanky fakúlt mohli v prípade potreby
+umožniť presun predmetov do ďalších semestrov štúdia a prehodnotiť aj prerekvizity na
+absolvovanie príslušných predmetov. Okrem predmetov nevyhnutných na prezenčnú výučbu
+umožnili vysoké školy študentom absolvovať vzdelávanie dištančnou metódou.
+(206) Vysoké školy boli v roku 2022 povinné požiadať SAAVŠ o posúdenie svojho
+vnútorného systému zabezpečovania kvality. Vysoké školy ohlásili zosúladenie s vnútorným
+systémom zabezpečovania kvality najneskôr do 31. 8. 2022 a podali žiadosť o posúdenie
+systému na SAAVŠ najneskôr do 31. 12. 2022. V súvislosti s potrebou komplexnejšieho
+zohľadnenia predpokladaných nákladov spojených s úkonmi agentúry a vo väzbe na zmenu
+legislatívy v tejto oblasti agentúra zrealizovala zmenu sadzobníka poplatkov za úkony
+agentúry.
+(207) Novela zákona o vysokých školách zmenila pôsobnosť správnych rád verejných
+vysokých škôl, vrátane určovania počtu členov, kvalifikácie a obmedzení funkcií. Novinky
+zahŕňajú taktiež kompetencie ako schvaľovanie rozpočtu a určovanie platu rektorov. Mandát
+starých správnych rád skončil k 30. novembru 2022. Minister vymenoval nových členov a
+akademické senáty zvolili novú správnu radu podľa nových predpisov platných od 25. apríla
+2022. V snahe dodržať zákonné smernice sa 20 verejných vysokých škôl dohodlo, že celkovo
+184 významných osobností bude pôsobiť v správnych radách. Minister menoval 82 členov,
+akademické senáty ďalších 82 a samotné správne rady zvolili 20 členov.
+(208) V roku 2022 boli verejným vysokým školám prostredníctvom kapitoly ministerstva
+poskytnuté zo štátneho rozpočtu kapitálové dotácie vo výške 8 174 460 €, z toho čiastka 8 086
+000 € z programu 077. Z tejto sumy bola čiastka 6 353 000 € určená na rekonštrukcie a
+odstránenie havarijných stavov študentských domovov vysokých škôl, na realizáciu stavieb,
+rekonštrukcie a modernizácie objektov verejných vysokých škôl, čiastka 47 000 € bola určená
+na nákup Helikálneho CT prístroja so stolom akvizičnou stanicou a vyhodnocovacou stanicou,
+čiastka 300 000 € na odstránenie havarijnej situácie aktívnej vrstvy počítačovej siete dátového
+centra budovy STU v Bratislave a čiastka 1 386 000 € na monitorovacie laboratóriá –
+Radiačná monitorovacia sieť SR pre UK v Bratislave.
+(209) V roku 2022 sa uskutočnilo periodické hodnotenie výskumnej, vývojovej, umeleckej
+a ďalšej tvorivej činnosti - VER 2022. Toto hodnotenie sa týkalo slovenských verejných
+vysokých škôl a výskumných inštitúcií v rámci Reformy 2 Plánu obnovy a odolnosti SR.
+Proces hodnotenia zahŕňal žiadosti o hodnotenie v 28 oblastiach výskumu s maximálnym
+počtom 25 výstupov na každú žiadosť. Výsledky VER 2022 budú súčasťou Výročnej správy
+o stave vysokého školstva za rok 2023.
+(210) MŠVVaŠ SR poskytlo v roku 2022 štipendiá slovenským vysokoškolským študentom
+v rámci štipendijnej schémy „Študuj doma, Slovensko ťa odmení“. Štipendiá boli udelené
+v dvoch skupinách – „najväčším talentom medzi maturantmi“ a „nadpriemerným študentom
+
+22
+     Eurostat. Dostupné na: https://ec.europa.eu/eurostat/databrowser/view/edat_lfs_9903/default/table?lang=en
+23
+     Eurostat. Dostupné na: https://data.oecd.org/eduatt/population-with-tertiary-education.htm
+
+                                                       43
+                   Výročná správa o stave vysokého školstva za rok 2022
+
+zo sociálne znevýhodneného prostredia alebo špecifických skupín“. Finančné prostriedky
+pochádzali z Fondu obnovy a odolnosti, komponentu 10 „Lákanie a udržanie talentov“.
+Štipendiá sú vo výške 3 000 € na akademický rok, resp. 9 000 € za tri roky štúdia. Štipendiá
+sa poskytujú počas prvých troch rokov vysokoškolského štúdia študijných programov I.
+stupňa alebo spájajúcich I. a II. stupeň štúdia v dennej forme a vyplácajú sa prostredníctvom
+vysokých škôl. V skupine „najväčších talentov“ bolo podporených 1002 zo 3516 podaných
+žiadostí. V skupine, „nadpriemerných študentov zo znevýhodneného prostredia“ bolo
+podporených 235 zo 519 podaných žiadostí.
+(211) V roku 2022 boli 3 slovenské vysoké školy súčasťou aliancií Európskych univerzít.
+Univerzita Komenského v Bratislave pôsobila v rámci aliancie ENLIGHT, Technická
+univerzita v Košiciach bola súčasťou aliancie Európskych univerzít ULYSSEUS, Slovenská
+poľnohospodárska univerzita naďalej pôsobila ako hlavný koordinátor v rámci aliancie
+INVEST. V nadväznosti na zverejnené výsledky Erasmus+ výzvy Európskej komisie,
+vyhlásenej v roku 2022, sa k doterajším trom slovenským vysokým školám pridali ďalšie dve
+vysoké školy, ktoré budú pôsobiť v rámci aliancií Európskych univerzít – Slovenská technická
+univerzita v rámci aliancie EULiST a Vysoká škola múzických umení v rámci aliancie
+FilmEU+.
+
+
+
+
+                                             44
+

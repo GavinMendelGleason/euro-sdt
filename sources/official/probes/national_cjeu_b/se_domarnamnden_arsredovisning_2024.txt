@@ -1,0 +1,1932 @@
+Årsredovisning 2022
+
+
+
+
+                      Årsredovisning 2024
+                       Domarnämnden
+
+
+
+
+                            Fastställd 2025-02-12
+Årsredovisning 2024, Domarnämnden
+
+
+
+
+Innehållsförteckning
+1    Nämndens ordförande inleder ............................................................ 3
+
+2    Om Domarnämnden ............................................................................... 4
+     2.1 Verksamhetsöversikt .................................................................................. 4
+
+     2.2 Domarnämndens ledamöter ................................................................... 4
+
+     2.3 Domarnämndens kansli ............................................................................ 5
+
+3    Resultatredovisning ................................................................................. 6
+     3.1 Så här redovisas resultatet ....................................................................... 6
+
+     3.2 Sammanfattande bedömning av årets finansiella resultat ............... 6
+
+     3.3 Anställning av domare och hyresråd ...................................................... 7
+             3.3.1         Förslag i anställningsärenden................................................................. 7
+
+             3.3.2         Arbetet för att främja rekryteringen av domare ............................. 12
+
+     3.4 Särskilt om ärenden om nomineringar till Europeiska unionens domstol och
+     Europeiska domstolen för de mänskliga rättigheterna ............................. 13
+
+     3.5 Intresseanmälningar ................................................................................ 14
+
+     3.6 Domarnämndens övriga uppgifter ....................................................... 14
+             3.6.1         Bisysslor.................................................................................................... 14
+
+             3.6.2         Tillstånd enligt 12 kap. 3 § rättegångsbalken................................... 15
+
+             3.6.3         Övervakningsnämnderna ..................................................................... 16
+
+             3.6.4         Förslag på offentliga ombud ................................................................ 16
+
+             3.6.5         Förslag på integritetsskyddsombud................................................... 16
+
+             3.6.6         Förordnande av särskilda ledamöter ................................................ 16
+
+             3.6.7         Säkerhetsprövningar ............................................................................. 18
+
+     3.7 Uppföljning av verksamhetsmål i verksamhetsplanen ..................... 18
+             3.7.1         Genomströmningstider ........................................................................ 18
+
+             3.7.2         Mål för verksamheten ........................................................................... 19
+
+     3.8 Remisser...................................................................................................... 19
+
+     3.9 Kompetensförsörjning ............................................................................. 19
+
+4    Finansiell redovisning............................................................................ 21
+     4.1 Resultaträkning .......................................................................................... 21
+
+     4.2 Balansräkning ............................................................................................ 22
+
+     4.3 Anslagsredovisning ................................................................................... 23
+
+     4.4 Tilläggsupplysningar och noter .............................................................. 23
+             4.4.1         Tilläggsupplysningar .............................................................................. 23
+
+             4.4.2         Noter ......................................................................................................... 25
+
+     4.5 Sammanställning över väsentliga uppgifter ........................................ 28
+
+5    Tabellbilaga ............................................................................................. 29
+
+
+
+
+                                                                                   2
+Årsredovisning 2024, Domarnämnden
+
+
+
+
+1 Nämndens ordförande inleder
+Sveriges Domstolar har de senaste åren tilldelats resursförstärkningar för att mål och
+ärenden ska kunna avgöras med bibehållen hög kvalitet och effektivitet. Detta har
+märkts i Domarnämndens verksamhet genom att ärendeinströmingen kontinuerligt har
+ökat. För 2025 och de kommande åren har det dessutom både beslutats och aviserats
+ytterligare rejäla budgettillskott, vilket innebär att domstolarna kommer att ha
+förutsättningar att utöka sin verksamhet och rekrytera ännu fler ordinarie domare. I
+nämnden märktes detta i och med att antalet nya ärenden som innebar utökningar på
+domstolarna ökade kraftigt under årets sista månader. Sammantaget fick
+Domarnämnden under 2024 in fler anställningsärenden än någon gång tidigare.
+
+Samtidigt var också antalet avskrivna ärenden betydligt högre än tidigare år. Det höga
+antalet avskrivna ärenden bidrog till att antalet slutbehandlade och till regeringen
+överlämnade anställningsärenden var färre jämfört med tidigare. Även det
+genomsnittliga antalet sökande per ärende och per anställning har minskat sedan
+föregående år och uppgår till de lägsta siffror som uppmätts sedan 2011 då
+Domarnämnden inrättades i sin nuvarande form. Kompetensförsörjningsproblemet har
+tagits upp i många sammanhang under flera år och det krävs fortsatt samordning
+mellan Domarnämnden, domstolarna och Domstolsverket i det långsiktiga arbetet med
+att främja rekryteringen av domare.
+
+Under året har Domarnämnden fortsatt arbetet med att nå ut till potentiella sökande
+med närmare information om ansökningsprocessen och meritering för en anställning
+som ordinarie domare, bl.a. vid alumndagar. Dessa informationsmöten har varit mycket
+uppskattade och kommer att fortsätta framöver. Under 2024 beslutade nämnden också
+om en ny kravprofil för chefer. Kravprofilen kommer att träda i kraft under 2025.
+Målsättningen med den uppdaterade och moderniserade kravprofilen är bl.a. att bidra
+till en mer effektiv rekryteringsprocess, vilket kan skapa bättre förutsättningar för att
+attrahera och rekrytera möjliga sökande till chefsdomaranställningar.
+
+Avslutningsvis konstateras att det ekonomiska tillskottet till Sveriges Domstolar i
+kombination med det höga antalet förväntade pensionsavgångar under 2025 med stor
+sannolikhet kommer att medföra ett fortsatt högt antal anställningsärenden avseende
+ordinarie domare och hyresråd i Domarnämnden även under kommande år.
+
+
+
+
+Monica Dahlbom
+
+Ordförande
+
+
+
+
+                                            3
+Årsredovisning 2024, Domarnämnden
+
+
+
+
+2 Om Domarnämnden
+
+2.1 Verksamhetsöversikt
+Domarnämnden bildades den 1 januari 2011 när lagen (2010:1390) om utnämning av
+ordinarie domare trädde i kraft.
+
+Domarnämnden är en statlig myndighet som har till främsta uppgift att lämna förslag
+till regeringen i ärenden om utnämning av ordinarie domare eller hyresråd samt bereda
+ärenden om nominering av domare och generaladvokater till Europeiska unionens
+domstol och domare till Europeiska domstolen för de mänskliga rättigheterna.
+Nämnden ska även bedriva ett aktivt och långsiktigt arbete för att främja rekryteringen
+av ordinarie domare.
+
+Domarnämnden har även i uppdrag att genomföra säkerhetsprövningar av cheferna för
+de allmänna domstolarna, de allmänna förvaltningsdomstolarna, Arbetsdomstolen och
+cheferna för hyres- och arrendenämnderna i Stockholm, Göteborg och Malmö.
+
+Domarnämnden har även andra i lag givna uppgifter och regeringen får meddela
+föreskrifter om uppgifter för nämnden, vilket har skett i flera fall. I tabell 7 i tabell-
+bilagan anges de uppgifter som Domarnämnden har enligt lagen om utnämning av
+ordinarie domare, andra lagar, förordningen (2010:1793) med instruktion för Domar-
+nämnden och andra författningar.
+
+
+2.2 Domarnämndens ledamöter
+Nämnden består av nio ledamöter som inom sig utser en ordförande och en vice
+ordförande. Fem ledamöter ska vara, eller ha varit, ordinarie domare, två ska vara
+jurister verksamma utanför domstolsväsendet, varav en ska vara advokat, och två
+ledamöter ska representera allmänheten. För varje ledamot finns det en personlig
+ersättare. Ledamöterna och ersättarna utses av regeringen, utom allmänhetens
+representanter som utses av riksdagen. En företrädare för Domstolsverket har rätt att
+närvara och yttra sig vid nämndens sammanträden när ett ärende som avser anställning
+som myndighetschef behandlas.
+
+Domarnämnden har under 2024 haft följande sammansättning.
+
+
+
+
+                                             4
+Årsredovisning 2024, Domarnämnden
+
+
+
+
+Tabell 1 Ledamöter och ersättare i Domarnämnden
+
+ Ordinarie                                     Ersättare
+
+ Hovrättspresidenten, numera                   Lagmannen
+ rikspolischefen,                              Nina Stubbe
+ Petra Lundh t.o.m. 2024-03-26
+
+ Hovrättspresidenten
+ Ylva Norling Jönsson fr.om. 2024-03-27
+ Kammarrättspresidenten                        Kammarrättspresidenten
+ Monica Dahlbom, ordförande                    Stefan Holgersson
+
+ Justitierådet                                 Justitierådet
+ Stefan Johansson                              Per Classon
+
+ Lagmannen                                     Lagmannen
+ Johan Kvart, vice ordförande                  Monica Felding
+
+ Lagmannen                                     Lagmannen
+ Victoria Bäckström                            Helena von Braun
+
+ Advokaten                                     Advokaten
+ Mia Edwall Insulander                         Jan-Mikael Bexhed
+
+ Personaldirektören                            Generaldirektören
+ Nicklas Lagrell                               Anneli Wirtén
+
+ F.d. riksdagsledamoten                        Riksdagsledamoten
+ Susanne Eberstein                             Johan Büser
+
+ Riksdagsledamoten                             Riksdagsledamoten
+ Matheus Enholm                                Mattias Eriksson Falk
+
+
+
+Domstolsverket representerades vid sammanträden av generaldirektören
+Thomas Rolén eller av HR-direktören Maria Isaksson.
+
+Domarnämnden hade under 2024 elva sammanträden för behandling av anställnings-
+ärenden och andra ärenden som Domarnämnden har att hantera. Därtill fattade
+nämnden ett beslut per capsulam om urval för test- och intervjuförfarande.1
+
+
+2.3 Domarnämndens kansli
+Vid Domarnämnden finns ett kansli som administrerar och bereder ärenden till
+Domarnämnden. Chefen för kansliet ska enligt 5 § lagen om utnämning av ordinarie
+domare vara, eller ha varit, ordinarie domare eller ha liknande yrkeserfarenhet och
+kompetens. Utöver kanslichefen finns en biträdande kanslichef, tre till fyra
+föredragande och två till tre administratörer. Kanslichefen ansvarar för den dagliga
+verksamheten i Domarnämnden samt leder och fördelar arbetet vid kansliet och biträds
+i detta arbete av den biträdande kanslichefen.
+
+
+
+
+1 Se avsnitt 4.3 ”Test- och intervjuförfarande” och avsnitt 4.4 ”Beslut avseende ärenden och frågor”
+
+i Domarnämndens arbetsordning.
+
+
+
+                                                 5
+Årsredovisning 2024, Domarnämnden
+
+
+
+
+3 Resultatredovisning
+
+3.1 Så här redovisas resultatet
+I regleringsbrevet för 2024 hade Domarnämnden som mål att verka för att allmänna
+domstolar, allmänna förvaltningsdomstolar, specialdomstolar och hyres- och
+arrendenämnder kan rekrytera ordinarie domare respektive hyresråd som tillhör de
+skickligaste och för yrket mest lämpade juristerna.
+
+I årsredovisningen redovisas de uppgifter som följer av författningar som varit aktuella
+för Domarnämnden under 2024. Därutöver redovisas särskilt
+
+•   det genomsnittliga antalet ansökningar per utlyst ärende och per utlyst anställning
+    (se avsnitt 3.3.1),
+•   nämndens arbete för att främja rekryteringen av ordinarie domare, bl.a. vilka
+    åtgärder som har vidtagits dels för att bredda rekryteringen av domare, dels för att
+    främja att det finns behöriga sökande till de anställningar som lyses ut (se avsnitt
+    3.3.2),
+•   information om ärenden enligt lagen (2014:414) om nomineringar till Europeiska
+    unionens domstol och Europeiska domstolen för de mänskliga rättigheterna (se
+    avsnitt 3.4) och
+•   antalet inkomna generella intresseanmälningar fördelat på kön och handläggningen
+    av dessa ärenden (se avsnitt 3.5).
+
+Enligt 3 kap. 1 § förordningen (2000:605) om årsredovisning och budgetunderlag ska
+resultatredovisningen innehålla bl.a. analyser och bedömningar av verksamhetens
+resultat och dess utveckling. Med hänsyn till karaktären på Domarnämndens
+verksamhet är det dock svårt att mäta eller bedöma ett resultat samt att hitta lämpliga
+och rättvisande nyckeltal eller resultatindikatorer. Ett internt uppsatt mål för
+verksamheten är hur lång tid det ska ta från det att ett ärende inleds till det att nämnden
+fattar beslut, dvs. ett ärendes genomströmningstid. I ett särskilt avsnitt redovisas därför
+en bedömning av resultatet för 2024 i förhållande till det uppsatta målet. I övrigt
+redovisas bedömningar och analyser av olika utfall i verksamheten löpande och i den
+mån det bedömts möjligt.
+
+Till följd av att Domarnämndens hantering av ärenden om anställningar av domare och
+hyresråd är så dominerande i verksamheten har Domarnämnden bedömt att en
+särredovisning med avseende på till exempel olika ärendetyper med fördelning av
+indirekta kostnader inte innebär någon ökad tydlighet i årsredovisningen.
+
+Antalet genomförda säkerhetsprövningar redovisas inte med hänsyn till
+bestämmelserna i 1 kap. 2 § säkerhetsskyddslagen (2018:585) enligt vilka
+säkerhetsskyddsklassificerade uppgifter omfattas av sekretess. Domarnämnden
+genomförde alla de säkerhetsprövningar som anmäldes av Regeringskansliet under
+2024.
+
+
+3.2 Sammanfattande bedömning av årets finansiella resultat
+Domarnämndens totala intäkter under 2024 uppgick till 11 301 tkr, varav 11 226 tkr
+avsåg anslagsintäkter, 7 tkr bidragsintäkter och 69 tkr finansiella intäkter. De totala
+kostnaderna under 2024 uppgick till 11 301 tkr, fördelat enligt följande: 7 885 tkr för
+personal, 1 030 tkr för lokaler och 2 386 tkr övriga driftskostnader. Därmed blev
+verksamhetsutfallet och årets kapitalförändring 0 kr.
+
+För 2023 uppgick de totala intäkterna till 10 110 tkr, varav 10 025 tkr avsåg
+anslagsintäkter, 2 tkr bidragsintäkter och 83 tkr finansiella intäkter. De totala
+kostnaderna under 2023 uppgick till 10 110 tkr, fördelat enligt följande: 6 884 tkr för
+
+
+
+                                             6
+Årsredovisning 2024, Domarnämnden
+
+
+
+
+personal, 980 tkr för lokaler och 2 242 tkr övriga driftskostnader. Därmed blev även det
+årets verksamhetsutfall och kapitalförändring 0 kr.
+
+Under 2022 uppgick de totala intäkterna till 9 794 tkr, varav 9 764 tkr avsåg
+anslagsintäkter, 17 tkr bidragsintäkter och 13 tkr finansiella intäkter. De totala
+kostnaderna under 2022 uppgick till 9 794 tkr, fördelat enligt följande: 6 861 tkr för
+personal, 915 tkr för lokaler, 1 982 tkr övriga driftskostnader och 35 tkr avskrivningar
+och nedskrivningar. Verksamhetsutfall och kapitalförändring blev därmed 0 kr.
+
+Domarnämnden redovisar vidare ett utgående överföringsbelopp på 875 tkr av anslaget.
+
+Under året har personalkostnaderna ökat till följd av ökade lönekostnader och att flera
+föredragande varit anställda under överlappande perioder. Skälet till de överlappande
+anställningarna har varit behovet av arbetskraft och för att möjliggöra en bra
+introduktion för nyanställda.
+
+Även Domarnämndens annonseringskostnader ökade under året. Som regel annonseras
+lediga anställningar framför allt på Domarnämndens och Sveriges Domstolars
+webbplats, men ibland också i dagspress, specialpress inom olika branscher och digitala
+kanaler, i den mån det bedöms gagna rekryteringsförfarandet. Under året har
+Domarnämnden hanterat ett antal ärenden där sådan ytterligare annonsering har
+bedömts gagna rekryteringsförfarandet.
+
+Ärenden avseende befordrade anställningar genererar som regel högre kostnader för
+Domarnämnden eftersom det i samband med dessa ärenden tillkommer kostnader för
+resor och ibland hotell i samband med intervjuer och presentationer för nämnden. Trots
+att nämnden behandlade färre ärenden avseende befordrade anställningar under 2024
+har nämndens resekostnader ökat. Detta beror framför allt på generella
+kostnadsökningar för resor och hotellövernattningar.
+
+Även de övriga generella kostnadsökningar som har skett i samhället påverkar
+Domarnämndens verksamhet. Dessa kostnadsökningar förväntas bestå även under
+2025.
+
+
+3.3 Anställning av domare och hyresråd
+
+3.3.1   Förslag i anställningsärenden
+Vid ingången av året fanns det 35 anställningsärenden i balans. Under året har det
+kommit in 141 anställningsärenden och nämnden har slutbehandlat 96 anställnings-
+ärenden som lämnats vidare till regeringen. Eftersom det tar från ca fem veckor upp till
+fyra månader att handlägga ett ärende innan det kan slutbehandlas på ett sammanträde,
+beroende på om det gäller ärenden avseende obefordrade eller befordrade anställningar,
+är antalet inkomna ärenden ett visst år inte detsamma som antalet slutbehandlade
+ärenden som överlämnats till regeringen. Vid utgången av året var
+51 anställningsärenden under handläggning.
+
+Under året har 28 anställningsärenden skrivits av från vidare handläggning av
+Domarnämnden, vilket antingen berott på brist på sökande eller ändrade
+förutsättningar hos den anställande domstolen. I tabell 2 nedan redovisas en jämförelse
+av Domarnämndens anställningsärenden under åren 2021–2024. Antalet av nämnden
+slutbehandlade anställningsärenden som har överlämnats till regeringen och som
+redovisas i tabell 2 inkluderar inte de 28 ärenden som avskrivits.
+
+I tabell 8 i tabellbilagan redovisas däremot alla anställningsärenden som har
+slutbehandlats av nämnden under året, dvs. även de ärenden som har avskrivits av
+Domarnämnden. I tabell 8 redovisas per typ av anställning, antalet ärenden, antalet
+anställningar, antalet ansökningar, antal ansökningar per ärende och per anställning,
+
+
+
+
+                                             7
+Årsredovisning 2024, Domarnämnden
+
+
+
+
+hur många som har förts upp på förslag och hur många som utnämnts eller anställts,
+fördelat på kvinnor och män.
+
+Tabell 2 Jämförelse 2021–20242
+
+                                                                       2024       2023       2022    2021
+
+   Antal inkomna anställningsärenden                                   141         131        133    116
+
+   Antal slutbehandlade anställningsärenden som lämnats till            96         122        120    103
+   regeringen
+
+   Antal anställningar3                                                188         221        239    181
+
+   Antal ansökningar                                                   394         488        635    476
+
+         Andel kvinnor i procent                                        58          55          53    55
+
+         Andel män i procent                                            42          45          47    45
+
+   Genomsnitt ansökningar/anställningsärende                            3,2         4         4,9    4,1
+
+   Genomsnitt ansökningar/anställning                                   2,1        2,2        2,7    2,6
+
+   Antal ärenden som Domarnämnden har skrivit av                        28          16          6     11
+
+   Utnämningar och anställningar till följd av lämnade förslag i       128         186        207    135
+   anställningsärenden
+
+         Andel kvinnor i procent                                        59          54          59    60
+
+         Andel män i procent                                            41          46          41    40
+
+   Antal slutbehandlade ärenden avseende befordrade                     30          42          33    34
+   anställningar som lämnats till regeringen
+
+
+
+Domarnämnden fick under 2024 in fler anställningsärenden än någon gång tidigare.
+Samtidigt var också antalet avskrivna ärenden betydligt högre än tidigare år. Under året
+skrev nämnden av 28 anställningsärenden, vilket kan jämföras med 16 föregående år
+och sex ärenden året dessförinnan. Ett ärende skrivs som regel av hos Domarnämnden
+om det helt saknas sökande i ett ärende eller om det har uppstått ändrade förhållanden
+på domstolen som gör att anställningsärendet behöver avbrytas. Ärenden kan också
+skrivas av i Justitiedepartementet bl.a. om Domarnämnden inte fört upp någon av de
+sökande på förslag eller om den enda uppförda på förslag återkallar sin ansökan under
+behandling i departementet. Siffrorna avseende avskrivningar i tabell 2 avser de
+ärenden som har skrivits av hos Domarnämnden. Det höga antalet avskrivna ärenden
+hos Domarnämnden bidrog till att antalet slutbehandlade och till regeringen
+överlämnade anställningsärenden var färre än tidigare år.
+
+
+
+
+2 Antalet anställningsärenden som slutbehandlades av nämnden och överlämnades till regeringen
+
+inkluderar inte de 28 ärenden som Domarnämnden har skrivit av. Däremot är uppgifter som
+förekommer i de avskrivna ärendena inkluderade i kolumnerna som avser antal anställningar, antal
+ansökningar, antal ansökningar/ärende och antal ansökningar/anställning.
+3 Antalet anställningar baseras på vad som angetts i Domstolsverkets anmälan om anställning, i
+
+anställningsannonsen och det som angetts vid tidpunkten för sammanträdet. Om det i ärendet inte
+finns ytterligare underlag än Domstolsverkets anmälan och det däri endast angetts ”En eller flera
+anställningar” har detta för 2024 tolkats som ett önskemål från domstolen om att anställa två
+domare.
+
+
+
+                                                 8
+Årsredovisning 2024, Domarnämnden
+
+
+
+
+Antalet ärenden avseende befordrade anställningar som slutbehandlades av nämnden
+och lämnades vidare till regeringen var under 2024 lägre än under 2023, och mer i linje
+med hur det har sett ut under tidigare år. Av de 30 ärenden som överlämnades till
+regeringen avsåg 23 ärenden anställningar med chefskap, varav sju av dessa 23 avsåg
+anställning som myndighetschef. Under 2023 var antalet anställningar avseende
+myndighetschefer exceptionellt högt, medan det under 2024 varit mer i
+överensstämmelse med hur det har sett ut före 2023.4
+
+Både antalet anställningar och antalet sökande har minskat under 2024. Antalet
+anställningar ökade dock under 2022 och 2023 med ca 30 procent jämfört med tidigare
+år. Nivåerna avseende antalet anställda ligger därmed fortsatt högt under 2024 jämfört
+med tidigare år. Det lägre antalet ansökningar bidrar till att det genomsnittliga antalet
+ansökningar per ärende fortsätter att minska.
+
+Andelen ansökningar gjorda av kvinnor uppgick under 2024 till 58 procent, dvs. har
+fortsatt att öka jämfört med tidigare år. Att det är fler kvinnliga än manliga sökande i
+anställningsärendena kommer dock sannolikt att bestå under en lång tid framöver då
+fördelningen av fiskaler och tf. assessorer inom Sveriges Domstolar per den 2 december
+2024 var 68 procent kvinnor och 32 procent män. Denna ojämna könsfördelning har
+sett liknande ut under flera år.
+
+Det var 59 procent kvinnor som utnämndes under 2024. Därmed har fördelningen
+mellan kvinnor och män avseende utnämnda ordinarie domare och hyresråd återigen
+blivit mer ojämn jämfört med föregående år. Regeringen har vid utnämningar under
+året inte frångått Domarnämndens rangordningar.
+
+3.3.1.1    Bedömning av ärendemängden
+Sveriges Domstolar har de senaste åren tilldelats resursförstärkningar för att mål och
+ärenden ska kunna avgöras med bibehållen hög kvalitet och effektivitet. Därtill har det
+beslutats och aviserats rejäla ekonomiska tillskott till Sveriges Domstolar under
+kommande år, bl.a. för att stärka domstolarnas verksamhet att hantera inflödet av mål
+och ärenden med bibehållen rättssäkerhet. De budgettillskott som skett till Sveriges
+Domstolar under de senaste åren bedöms utgöra en anledning till det fortsatt höga
+antalet anställningsärenden i Domarnämnden.
+
+Under 2022 framträdde det utökade rekryteringsbehovet tydligt i statistiken i och med
+att drygt 20 procent av de anställningar som domstolarna hade behov av att tillsätta var
+en utökning av sedan tidigare anställda domare och inte ersättningsrekryteringar.
+Under 2023 var antalet rekryteringar till följd av utökningar av anställningar inte lika
+stort, knappt 10 procent av anställningarna. Under 2024 ses en tydlig trend i och med
+att antalet anställningar till följd av utökningar av domare på domstolarna var betydligt
+högre under årets sista månader. Det ekonomiska tillskottet innebär att flera domstolar
+har förutsättningar att utöka sin verksamhet och rekrytera fler ordinarie domare. Av de
+anställningsärenden som kom in till Domarnämnden under 2024 (141 stycken) utgjorde
+drygt 18 procent utökningsrekryteringar varav nästan hälften av dessa anmäldes under
+november och december.
+
+Jämfört med 2023 var det under året färre som utnämndes som sedan tidigare varit
+utnämnda (49 procent). Under 2023 var det 56 procent medan det år 2022 var
+48 procent. En utnämning av en sedan tidigare utnämnd person föranleder ofta ett nytt
+anställningsärende eftersom de allra flesta av dessa innehar en domaranställning. Detta
+gäller inte minst vid ärenden avseende befordrade anställningar.
+
+
+
+
+4 År 2023 var antalet myndighetschefsärenden 17 stycken, 2022 var det 6 stycken, 2021 var det
+
+10 stycken och 2020 var det 8 stycken.
+
+
+
+                                                 9
+Årsredovisning 2024, Domarnämnden
+
+
+
+
+Av de ärenden i vilka Domarnämnden under 2024 lämnade förslag till regeringen utgör
+ärenden avseende befordrade anställningar cirka 31 procent. Under 2023 uppgick den
+siffran till 34 procent medan den under 2022 och 2021 uppgick till 27 respektive
+33 procent. Av de ärenden som avsåg befordrade anställningar var även i år merparten
+av anställningarna förenade med chefskap. Det utnämndes under året sammanlagt
+39 personer till befordrade anställningar. Av dessa var 26 utnämningar (14 kvinnor och
+12 män) till anställningar med chefskap, varav sju utnämningar till
+myndighetschefsanställningar. Varje utnämning avseende en befordrad anställning
+genererar ofta behov av ersättningsrekryteringar i flera led inom domstolarna. Av de
+som utnämndes till en befordrad anställning var nämligen ca 92 procent redan
+ordinarie domare.
+
+Ett behov av att ersättningsrekrytera uppkommer också till följd av pensionsavgångar.
+Under 2024 var det totalt 97 ordinarie domare inom Sveriges Domstolar som var 65 år
+eller äldre och av dessa gick 52 domare i pension under året.
+
+Tabell 3 Åldersfördelning ordinarie domare, antal som fyller 65–69 år
+
+   Ålder               2025             2024             2023             2022
+
+   65                    41              43               35               37
+
+   66                    37              23               23               21
+
+   67                    18              15               14               18
+
+   68                    13               9               12               10
+
+   69                    7                7                -                -
+
+   Totalt               116              97               84               86
+
+
+
+Under 2025 beräknas det vara 116 ordinarie domare inom Sveriges Domstolar som är
+65 år eller äldre. Utifrån dessa siffror gör Domarnämnden bedömningen att antalet
+ersättningsrekryteringar på grund av pensionsavgångar troligtvis kommer att ligga på
+en högre nivå under 2025 än tidigare år.
+
+Sammanfattningsvis bedöms pensionsavgångar i kombination med det rejäla
+budgettillskottet till Sveriges Domstolar leda till en fortsatt hög ärendemängd och ett
+högre antal anställningar för Domarnämnden även framöver.
+
+3.3.1.2     Bedömning av ärendehanteringen
+Anställningsärendena innebär olika stor arbetsinsats för såväl kansliet som ledamöterna
+beroende både på antalet sökande i ärendena och om det rör sig om ärenden avseende
+obefordrade eller befordrade anställningar.
+
+I ärenden avseende befordrade anställningar sker ett urvalsförfarande bland de som
+sökt anställningen, vilket innebär att varje ärende tas upp på två av nämndens
+sammanträden. I alla ärenden avseende befordrade anställningar tillkommer ett
+intervjuförfarande där en ledamot i nämnden tillsammans med en föredragande på
+kansliet håller i intervjuer med de sökande som har omfattats av nämndens
+urvalsbeslut. Under 2024 slutbehandlade och överlämnande nämnden 30 ärenden
+avseende befordrade anställningar till regeringen. Av dessa var det två ärenden i Högsta
+domstolen och ett i Högsta förvaltningsdomstolen. Utöver dessa 30 ärenden avseende
+befordrade anställningar har nämnden även under året hanterat två ärendena enligt
+lagen om nomineringar till Europeiska unionens domstol och Europeiska domstolen för
+
+
+
+
+                                              10
+Årsredovisning 2024, Domarnämnden
+
+
+
+
+de mänskliga rättigheterna.5 Ärendena i de högsta domstolarna och de enligt lagen om
+nomineringar till Europeiska unionens domstol och Europeiska domstolen för de
+mänskliga rättigheterna är förenade med en mycket stor arbetsinsats och även betydligt
+högre kostnader än andra ärenden.
+
+I ärenden avseende befordrade anställningar med chefskap genomförs dessutom tester
+och djupintervju med en extern konsult innan ärendet slutbehandlas av nämnden på ett
+ytterligare sammanträde. Konsulten presenterar sina bedömningar i en skriftlig rapport
+och även muntligt för nämndens kansli. Under året har 45 personer förts upp på förslag
+avseende befordrade anställningar med chefskap, vilket alltså innebär att samtliga dessa
+personer i något skede har genomgått både test- och intervjuförfarande.
+
+I ärenden avseende befordrade anställningar som gäller bl.a. justitieråd, hovrätts- och
+kammarrättslagman, chefsrådman samt vice ordförande i hovrätt eller kammarrätt
+deltar representanter för den anställande domstolen i intervjuerna. Till dessa intervjuer
+reser representanterna för Domarnämnden till den aktuella domstolen och genomför
+intervjuerna på plats. I ärenden som avser anställning som domstolschef eller chef för
+en hyres- och arrendenämnd deltar vanligtvis även kanslichefen eller den biträdande
+kanslichefen i intervjuerna. Dessa intervjuer hålls i normalfallet i Domarnämndens
+lokaler i Stockholm varvid nämndens intervjuande ledamot och de sökande i ärendet
+reser till Stockholm för genomförandet av intervjuerna.
+
+I ärenden som avser anställning som myndighetschef bereds de sökande som omfattas
+av nämndens urvalsbeslut därtill tillfälle att muntligen presentera sig för nämnden. De
+sökande reser därför ytterligare en gång till Domarnämnden för att presentera sig inför
+nämnden vid ett sammanträde. Dessa resor kräver inte sällan att hotellövernattningar
+måste ske. Under 2024 genomfördes förhållandevis få sådana presentationer, 14 jämfört
+med 28 föregående år. Sedan 2017 har antalet presentationer per år uppgått till ca 20
+eller strax däröver, med undantag för 2022 då det var betydligt färre (12) och 2019 då
+det var betydligt fler (41).
+
+I ärenden avseende befordrade anställningar tillkommer också kostnader för resor m.m.
+i samband med intervjuer med och presentationer för nämnden.
+
+3.3.1.3   Antal sökande
+Det genomsnittliga antalet sökande per ärende och per anställning har minskat
+ytterligare sedan föregående år och uppgår till de lägsta siffror som uppmätts sedan
+2011 då Domarnämnden inrättades i sin nuvarande form. Siffrorna från tiden före 2021
+är dock inte framräknade på samma sätt som för tiden därefter, varför jämförelser
+mellan åren före 2021 och efter bör göras med en viss försiktighet. Tidigare baserades
+antalet anställningar på vad som angetts i Domstolsverkets anmälan och i
+anställningsannonsen, men sedan 2021 görs bedömningen även med hänsyn till vad
+som angetts av domstolschefen vid tidpunkten för sammanträdet. Det höga antalet
+ärenden som har skrivits av till följd av att det inte fanns någon sökande alls bidrog till
+att det genomsnittliga antalet sökande per ärende och per anställning minskade även i
+år.
+
+Under året var det dock flera anställningsärenden som hade ett högt antal sökande per
+anställning, exempelvis ärenden avseende anställning som hovrättslagman,
+kammarrättsråd tillika vice ordförande och tekniskt råd. Det större antalet ärenden med
+ett högt antal sökande per anställning är en skillnad mot förra året.
+
+
+
+
+5 Dessa två ärenden redovisas inte som anställningsärenden eftersom de hanteras enligt lagen om
+
+nomineringar till Europeiska unionens domstol och Europeiska domstolen för de mänskliga
+rättigheterna. De redovisas i stället särskilt i avsnitt 3.4.
+
+
+
+                                                11
+Årsredovisning 2024, Domarnämnden
+
+
+
+
+Antalet sökande varierade också stort mellan olika domstolar. Ärenden skrivs som regel
+av i Domarnämnden om det helt har saknats sökande eller om det blivit ändrade
+förhållanden på domstolen. Av de 28 ärenden som Domarnämnden skrev av under året
+skrevs 24 av från vidare handläggning på grund av att det helt saknades sökande i
+ärendet. Av dessa 24 avsåg alla utom två6 domaranställningar vid tingsrätt. Det
+begränsade antalet sökande ledde dessutom till att Justitiedepartementet avbröt
+anställningsförfarandet eller skrev av ärendet i sju fall.
+
+I vissa ärenden fanns endast ett fåtal sökande vilket inneburit att det har saknats
+förutsättningar för Domarnämnden att i sitt förslag rangordna tre sökande i de fall det
+var fråga om en anställning. Det bör också framhållas att det förhållandet att det är få
+sökande i ett visst ärende inte alltid behöver betyda att intresset för anställningen är
+lågt. Eftersom sökförfarandet är öppet är det i allmänhet väl känt vilka ansökningar som
+har kommit in i ett ärende. Om en eller två mycket välmeriterade personer redan har
+sökt en viss anställning kan detta medföra att andra intresserade på goda grunder drar
+slutsatsen att de inte kommer att komma i fråga för anställningen och därför avstår från
+att söka.
+
+Tidigare förlängdes ansökningstiden rutinmässigt i vissa fall med syftet att få tillräckligt
+många sökande att kunna föra upp på förslag. Denna rutin ändrades under 2023
+eftersom det visade sig att en förlängd ansökningstid inte gav den önskade effekten, dvs.
+fler sökande per ärende. Ansökningstiden förlängs därför numera inte som huvudregel.
+Bristen på sökande har dock lett till att ansökningstiden förlängts i 19 procent av
+ärendena som slutbehandlades eller skrevs av under 2024. Detta kan jämföras med
+17 procent av ärendena under 2023, 35 procent av ärendena under 2022, 40 procent av
+ärendena under 2021 och mer än hälften av ärendena under 2020.
+
+Det är bekymmersamt att det är så få sökande till vissa anställningar som ordinarie
+domare. Detta är ett problem som har tagits upp i många sammanhang under flera år
+och det krävs fortsatt samordning mellan Domarnämnden, domstolarna och
+Domstolsverket i det långsiktiga arbetet med att främja rekryteringen av domare.
+
+3.3.2   Arbetet för att främja rekryteringen av domare
+Domarnämnden har enligt 3 § lagen om utnämning av ordinarie domare i uppdrag att
+bedriva ett aktivt och långsiktigt arbete för att främja rekryteringen av ordinarie
+domare. Det krävs dock en rad olika åtgärder och samordning och samarbete mellan
+Domarnämnden, domstolarna och Domstolsverket för att åstadkomma detta.
+
+Under året diskuterade Domarnämnden frågor om rekrytering av domare m.m. i den
+årliga myndighetsdialogen med Justitiedepartementet. Domarnämnden deltar också
+regelmässigt i diskussioner om domarrekrytering vid Domstolsverkets Chefsdagar.
+Detta kommer att ske även framöver. Under året har nämnden också fortsatt arbetet
+med att nå ut till potentiella sökande med närmare information om ansöknings-
+processen och meritering för en anställning som ordinarie domare, bl.a. vid
+alumnidagar. Dessa informationsmöten har varit mycket uppskattade och kommer att
+fortsätta framöver.
+
+I början av året tillsattes en arbetsgrupp som fick i uppdrag att utarbeta en ny kravprofil
+för chefer. Den nya kravprofilen skulle enligt uppdragsbeskrivningen på ett tydligare
+sätt än den nuvarande kravprofilen fokusera på de viktigaste förmågorna för en
+chefsanställning. Vid nämndens seminarium i april 2024 presenterades och
+diskuterades ett utkast till en ny kravprofil för chefer. Därefter har nämndens
+ordförande tillsammans med nämndens kanslichef och biträdande kanslichef deltagit
+vid de flesta överrätters chefsdomarmöten under året. Vid dessa möten har också
+
+
+6 Det ena ärendet avsåg en hyres- och arrendenämnd och det andra en hovrätt.
+
+
+
+
+                                               12
+Årsredovisning 2024, Domarnämnden
+
+
+
+
+utkastet presenterats och diskuterats. Även frågor med koppling till
+referensinhämtningen har diskuterats vid dessa möten. Nämnden beslutade om den nya
+kravprofilen för chefer vid sammanträdet den 11 december 2024. Kravprofilen kommer
+att träda i kraft under 2025. Målsättningen med den uppdaterade och moderniserade
+kravprofilen är bl.a. att bidra till en mer effektiv rekryteringsprocess, vilket kan skapa
+bättre förutsättningar för att attrahera och rekrytera möjliga sökande till
+chefsdomaranställningar. Med anledning av den nya kravprofilen kommer även
+referensinhämtningen och andra dokument kopplade till ärendehanteringen ses över
+under 2025.
+
+Domarnämnden har annonserat lediga anställningarna framför allt på Domarnämndens
+och Sveriges Domstolars webbplats, men också på annat håll, i dagspress, specialpress
+inom olika branscher och digitala kanaler, i den mån det bedömdes gagna
+rekryteringsförfarandet. Frågan om vilka åtgärder som kan och bör vidtas för att uppnå
+ett ökat antal sökande i ärendena och bredda rekryteringsunderlaget, samt
+Domarnämndens roll i det sammanhanget, diskuteras löpande inom nämnden och med
+andra relevanta aktörer, framför allt med Domstolsverket och de enskilda domstolarna.
+
+
+3.4 Särskilt om ärenden om nomineringar till Europeiska
+    unionens domstol och Europeiska domstolen för de
+    mänskliga rättigheterna
+Domarnämnden har enligt lagen om nomineringar till Europeiska unionens domstol
+och Europeiska domstolen för de mänskliga rättigheterna i uppgift att bereda ärenden
+om nominering av domare och generaladvokater till den förstnämnda domstolen och
+domare till den senare. Nämnden biträds i dessa ärenden av en av regeringen utsedd
+person med särskilda kunskaper om arbetet i den domstol som ärendet avser. Även i
+övrigt avviker handläggningen i vissa avseenden från den som gäller för ordinarie
+anställningsärenden.
+
+Under 2024 har Domarnämnden handlagt ett ärende om nominering av domare till
+Europeiska unionens domstol (EU-domstolen) och därefter ett ärende om nominering
+av domare till Europeiska unionens tribunal (tribunalen).
+
+Domarnämnden fick i slutet av 2023 i uppdrag av Regeringskansliet att inleda
+beredningen av ett ärende om att föreslå en person att nominera till EU-domstolen för
+mandatperioden den 7 oktober 2024 till den 6 oktober 2030. Detta eftersom den
+tidigare svenska domaren i EU-domstolen meddelat regeringen att han inte önskade stå
+till förfogande för ytterligare en mandatperiod. Domarnämnden annonserade uppdraget
+i bl.a. två dagstidningar och på flera olika hemsidor.
+
+Den person som Domarnämnden föreslog skulle nomineras i första hand för uppdraget
+som domare i EU-domstolen var vid tillfället en av de svenska domarna i tribunalen.
+Regeringen beslutade den 18 april 2024 att nominera i enlighet med Domarnämndens
+förslag och nämnden fick som en följd av detta därefter i uppdrag att inleda
+beredningen av ett ärende om nominering av domare till tribunalen. Ärendet hos
+Domarnämnden avsåg en ersättningsrekrytering för den återstående tiden av den
+svenska domarens mandatperiod, dvs. till och med den 31 augusti 2025 men med en
+förväntan att den som söker även skulle kunna tänka sig att ställa upp för ytterligare en
+mandatperiod. Domarnämnden annonserade även detta uppdrag i bl.a. två
+dagstidningar och på flera olika hemsidor.
+
+I båda ärendena genomfördes intervjuer i nämndens regi med en av nämndens
+ledamöter tillsammans med den person som av regeringen utsetts till sakkunnig.
+Kanslichefen och en föredragande vid Domarnämndens kansli närvarade också under
+
+
+
+
+                                            13
+Årsredovisning 2024, Domarnämnden
+
+
+
+
+intervjuerna. I båda ärendena har regeringen nominerat kandidater i enlighet med
+Domarnämndens förslag.
+
+
+3.5 Intresseanmälningar
+Av avsnitt 4.1 i Domarnämndens arbetsordning framgår att generella intresse-
+anmälningar enligt 7 § andra stycket lagen om utnämning av ordinarie domare ska gås
+igenom i anslutning till att ansökningstiden går ut i aktuella ärenden. Personer som har
+lämnat in en anmälan och som vill komma i fråga för prövning i ett ärende ska beredas
+tillfälle att ge in referenser och andra handlingar i ärendet. En anmälan får skrivas av
+från vidare handläggning två år efter att den har getts in. Den som gett in anmälan ska
+beredas tillfälle att yttra sig innan det sker.
+
+Under 2024 fanns det elva registrerade intresseanmälningar, varav sex kom in under
+året. Fem av dessa sex nya intresseanmälningar gjordes av kvinnor. Under året
+aktiverades sex intresseanmälningar genom att den som tidigare gjort en anmälan
+ansökte om en anställning efter underrättelse från nämnden. Vid årets utgång kvarstod
+det sex anmälningar.
+
+En av tankarna bakom systemet med intresseanmälningar var att motverka de problem
+det antogs medföra att handläggningen av de anställningar som tidigare tillsattes efter
+ett kallelseförfarande (bl.a. justitieråd och president i överrätt) numera sker offentligt,
+med de effekter detta skulle tänkas få för viljan att ansöka om en sådan anställning. I
+realiteten har dock intresseanmälningarna i stor utsträckning kommit att användas som
+en prenumerationstjänst för den som är intresserad av en viss typ av domaranställning.
+Den som gjort en intresseanmälan får genom Domarnämndens kansli löpande
+information om anställningar, som omfattas av anmälan, i anslutning till att
+ansökningstiden löper ut.
+
+
+3.6 Domarnämndens övriga uppgifter
+
+3.6.1   Bisysslor
+Domarnämnden prövar frågor om förtroendeskadlig bisyssla enligt 7 a–7 d §§
+lagen (1994:260) om offentlig anställning (LOA) när det gäller ordförandena i Högsta
+domstolen och Högsta förvaltningsdomstolen, hovrättspresidenter och kammarrätts-
+presidenter, lagmän i tingsrätt och förvaltningsrätt samt hyresråd som är chef för en
+hyresnämnd. Domarnämnden ansvarar dock inte för att pröva frågan om
+arbetshindrande bisyssla. Information om bisysslor lämnas på Sveriges Domstolars
+gemensamma intranät i en promemoria som bl.a. behandlar den praxis som bildats på
+området.
+
+Domarnämnden har som rutin att uppmärksamma nyutnämnda domstolschefer enligt
+ovan på skyldigheten att anmäla bisysslor och på informationen i promemorian. Detta
+gjordes även i år. Därutöver gjordes även en allmän genomgång av tidigare anmälda
+bisysslor varvid en påminnelse skickades ut till samtliga domstolschefer om att meddela
+Domarnämnden om tidigare inlämnade uppgifter är korrekta och aktuella.
+
+Under året kom det in 30 anmälningar om bisysslor till Domarnämnden som omfattas
+av nämndens ansvar. Antal inkomna anmälningar var 23 för 2023, 27 för 2022, 14 för
+2021 och 17 för 2020. Anmälningarna har i samtliga fall varit sådana att bedömningen
+gjorts att det stått klart att de inte bör föranleda något beslut enligt 7 c § LOA, dvs. att de
+inte bedömts som förtroendeskadliga.
+
+En anmälan kan innefatta flera olika bisysslor. De olika bisysslor som anmälts kan grovt
+delas in i följande grupper:
+
+
+
+
+                                              14
+Årsredovisning 2024, Domarnämnden
+
+
+
+
+Tabell 4 Typer av anmälda bisysslor
+
+   Typ av bisyssla                                2024     2023      2022       2021
+
+   Offentligt uppdrag i                           20        15         22         7
+   nämnd/styrelse/motsvarande
+
+   Författare/lärare                               8         5         15         2
+
+   Styrelse i                                     12         9         20        18
+   bolag/bostadsrättsförening/stiftelse
+
+   Uppdrag i domkapitel                            -         -         -          -
+
+   Ideella uppdrag                                 8         9         5          3
+
+   Skiljemanna- och                                -         4         5          -
+   medlingsuppdrag/motsvarande
+
+   Offentlig utredning                             5         3         10         5
+
+   Internationellt uppdrag                         1         -         1          -
+
+
+
+Det gjordes alltså fler anmälningar om bisysslor 2024 jämfört med åren 2020–2023.
+Allmänt kan sägas att uppgiften att pröva ärenden av nu aktuellt slag är av
+begränsat omfång. Det finns inte anledning att anta att omfattningen skulle öka
+väsentligt eller att uppgiften i övrigt annat än marginellt påverkar Domarnämndens
+verksamhet.
+
+3.6.2   Tillstånd enligt 12 kap. 3 § rättegångsbalken
+Av 12 kap. 3 § rättegångsbalken framgår att bl.a. lagfaren domare i eller rättsbildad
+befattningshavare vid domstol inte får vara ombud, om inte regeringen eller myndighet
+som regeringen bestämmer ger tillstånd till det. Det följer vidare att detta inte gäller den
+som under tjänstledighet, i utbildningssyfte, tjänstgör såsom biträde åt advokat. Som
+framgår av sammanställningen i tabell 7 i tabellbilagan har Domarnämnden till uppgift
+att pröva dessa frågor om tillstånd för de nu nämnda personkategorierna.
+
+Under året har sex ansökningar kommit in avseende tillstånd enligt 12 kap. 3 §
+rättegångsbalken. Av dessa ansökningar avsåg fyra tillstånd att under tjänstledighet i
+anställning som biträdande jurist på advokatbyrå uppträda som ombud i domstol och en
+ansökan avsåg tillstånd att som jurist uppträda som ombud för myndighet. Tillstånd
+medgavs i samtliga dessa fall. En ansökan avsåg uppdrag som försvarare i domstol, men
+den ansökan återkallades och behandlades därför inte av Domarnämnden.
+
+Allmänt kan sägas att uppgiften att pröva ärenden avseende tillstånd att uppträda som
+ombud är av begränsad omfattning. Antalet ansökningar var under 2024 färre än under
+2023 och 2022, då det kom in tio respektive tolv ansökningar.
+
+Frågor som rör i vilka fall tillstånd bör lämnas enligt den aktuella bestämmelsen är av
+stor betydelse, inte minst med hänsyn till vikten av att upprätthålla ett högt förtroende
+för domstolarna. Domarnämndens möjligheter att ge en korrekt överklagande-
+hänvisning och i förekommande fall överlämna ett överklagande till rätt instans har
+dock begränsats av brister i nuvarande reglering, framför allt i form av otydligheter
+angående vilken instansordning som gäller.
+
+
+
+
+                                             15
+Årsredovisning 2024, Domarnämnden
+
+
+
+
+3.6.3   Övervakningsnämnderna
+Ordförande och vice ordförande i övervakningsnämnder utses enligt 3 § förordningen
+(2007:1174) med instruktion för övervakningsnämnderna av Domarnämnden.
+Uppdragen är tidsbegränsade och nu gällande förordnanden löper till och med den
+31 december 2027. Under 2024 fattade Domarnämnden sex beslut som avsåg
+förordnande av ordförande eller vice ordförande i övervakningsnämnd, eller
+entledigande av en person från ett sådant uppdrag. I samtliga fall har besluten om
+förordnande föregåtts av bland annat annonsering och referensinhämtning.
+
+3.6.4   Förslag på offentliga ombud
+Domarnämnden och Sveriges advokatsamfund ska enligt 27 kap. 27 § rättegångsbalken
+lämna förslag till regeringen på personer som är lämpliga att tjänstgöra som offentliga
+ombud i ärenden om hemlig avlyssning av elektronisk kommunikation, hemlig
+kameraövervakning och hemlig rumsavlyssning. Regeringen förordnar för tre år i
+sänder personer som kan tjänstgöra som offentliga ombud. Under treårsperioden får vid
+behov ytterligare personer förordnas för återstående del av perioden. Befintliga
+förordnanden löper ut 30 september 2025.
+
+Den 1 januari 2025 trädde lagen (2024:1180) om anonyma vittnen i brottmål i kraft. För
+att täcka behovet av offentliga ombud i ärenden om anonyma vittnen fram till dess att
+befintliga förordnanden för offentliga ombud löper ut den 30 september 2025 fick
+Domarnämnden i uppdrag av Regeringskansliet att informera befintliga offentliga
+ombud om att deras förordnande skulle utvidgas till att även omfatta den nya
+lagstiftningen om anonyma vittnen och att samordna eventuella invändningar mot att
+omfattas av ett sådant utvidgat förordnande. Domarnämnden skickade ut information
+om utvidgat förordnande till de befintliga offentliga ombuden. Informationen skickades
+till 49 personer. Av dessa svarade 22 att de inte hade någon invändning mot ett utvidgat
+förordnande och elva återkom med besked om att de inte ville omfattas av ett utvidgat
+förordnande. Domarnämnden förmedlade informationen vidare till Regeringskansliet.
+
+3.6.5   Förslag på integritetsskyddsombud
+Domarnämnden och Sveriges advokatsamfund ska enligt 6 § lagen (2009:966) om
+Försvarsunderrättelsedomstol lämna förslag till regeringen på personer som är lämpliga
+att vara integritetsskyddsombud vid den domstolen.
+
+Det var inte aktuellt med något ärende om integritetsskyddsombud under 2024.
+
+3.6.6   Förordnande av särskilda ledamöter
+Enligt förordningen (2013:391) om Domarnämndens förordnande av särskilda
+ledamöter i allmän domstol och i allmän förvaltningsdomstol ska Domarnämnden
+förordna olika typer av ledamöter och experter i såväl allmänna domstolar som i
+allmänna förvaltningsdomstolar (se redovisning i tabell 7 i tabellbilagan).
+
+Arbetsuppgifterna med att förordna särskilda ledamöter är oregelbundet
+återkommande och kräver varierande arbetsinsatser. En del förordnanden avser endast
+ett fåtal eller några enstaka personer. I flera fall handlar det dock om ett mycket stort
+antal personer som ska förordnas, till exempel särskilda ledamöter i mark- och
+miljödomstolarna. I tabellen nedan framgår de förordnanden som Domarnämnden
+beslutat om under åren 2022–2024.
+
+
+
+
+                                            16
+Årsredovisning 2024, Domarnämnden
+
+
+
+
+Tabell 5 Förordnande av särskilda ledamöter
+
+                                        2024                         2023                         2022
+
+                               Förordnande   Entledigande   Förordnande   Entledigande   Förordnande   Entledigande
+
+ Tekniska experter i Patent-       2              -             64             -              -             -
+ och marknadsdomstolen
+ samt Patent- och
+ marknadsöverdomstolen
+
+ Ekonomiska experter i              -             -             27             1              -             -
+ Patent- och
+ marknadsdomstolen samt
+ Patent- och marknads-
+ överdomstolen
+
+ Särskilda ledamöter i              -             -             7              -              -             -
+ förvaltningsrätten och
+ kammarrätten i mål om
+ åldersgränser för film som
+ ska visas offentligt
+
+ Särskilda ledamöter i mark-       44             -            232             4             72             1
+ och miljödomstolarna
+
+ Värderingstekniska                 -             -              -             -              -             -
+ ledamöter i
+ förvaltningsrätten och
+ särskilda ledamöter i
+ kammarrätten i mål om
+ fastighetstaxering
+
+ Särskilda ledamöter i              -             -             1              1             78             1
+ förvaltningsrätten och
+ kammarrätten i mål om
+ laglighetsprövning enligt
+ kommunallagen
+
+ Ekonomiska experter i             3              -              -             -              -             -
+ tingsrätten och hovrätten
+
+ Ekonomiska experter i              -             -             4              -             6              -
+ förvaltningsrätten och
+ kammarrätten i mål enligt
+ lagen om elektronisk
+ kommunikation
+
+
+
+
+Ansvaret för att förordna särskilda ledamöter i allmän domstol och allmän förvaltnings-
+domstol låg tidigare på regeringen med beredning och handläggning i Justitie-
+departementet. Gemensamt för samtliga dessa ärenden är kansliets omfattande
+kontakter i flera omgångar med befintliga förordnade personer, nya föreslagna
+personer, domstolar och myndigheter samt med i förekommande fall universitet,
+högskolor och andra relevanta institutioner. Arbetet med handläggning av nya
+förordnanden i de olika domstolarna är en uppgift som kräver omfattande
+administration och periodvis tar stora resurser i anspråk av kansliet.
+
+
+
+
+                                                 17
+Årsredovisning 2024, Domarnämnden
+
+
+
+
+3.6.7   Säkerhetsprövningar
+Domarnämnden har ansvar för säkerhetsprövning av cheferna för de allmänna
+domstolarna, de allmänna förvaltningsdomstolarna, Arbetsdomstolen och hyres- och
+arrendenämnderna i Stockholm, Göteborg och Malmö. Ansvaret för säkerhetsprövning
+gäller både vid nyanställning och för den löpande uppföljningen för sedan tidigare
+säkerhetsklassade anställningar.
+
+Som redogjorts för tidigare redovisar inte Domarnämnden antalet genomförda
+säkerhetsprövningar eller vilka anställningar som var aktuella för säkerhetsprövning.
+Domarnämnden redovisar inte heller de uppföljningar av säkerhetsprövningar som
+genomfördes under året.
+
+
+3.7 Uppföljning av verksamhetsmål i verksamhetsplanen
+
+3.7.1   Genomströmningstider
+Domarnämnden har i verksamhetsplanen för 2024 satt som mål att
+anställningsärenden som avser obefordrade anställningar ska slutbehandlas vid det
+sammanträde som infaller närmast fem veckor efter det att ansökningstiden i ärendet,
+efter eventuell förlängning, löpt ut. I ärenden som avser befordrade anställningar som
+inte innefattar chefskap är målet även där att urval för intervjuförfarande ska ske vid det
+sammanträde som infaller närmast fem veckor efter att ansökningstiden löpt ut och att
+slutbehandling av ärendet sedan ska ske vid nästföljande sammanträde. I ärenden
+avseende befordrade anställningar som innefattar chefskap har Domarnämnden
+beslutat att rekryteringskonsultens test och intervju alltid ska ha genomförts och
+rapporterats innan nämnden genomför sin intervju och behandlar ärendet slutligt.
+Skälet för detta är att nämnden ska ha ett så fullständigt bedömningsunderlag som
+möjligt när nämnden fattar beslut. För denna typ av ärenden blir därför
+genomströmningstiden normalt en månad längre än för övriga ärenden som avser
+befordrade anställningar. Genomströmningstiderna ska följas upp av kansliet efter varje
+sammanträde och resultatet redovisas i Domarnämndens årsredovisning.
+
+Av de 96 anställningsärenden som slutbehandlades under året avgjordes alla utom fem
+inom de tidsramar som satts upp som mål. I nedanstående tabell lämnas en översikt
+över antalet ärenden där handläggningstiden tagit längre tid att handlägga än
+Domarnämndens uttalade målsättning samt skälen till det.
+
+Tabell 6 Skäl till försenad behandling
+
+                                                 2024    2023      2022      2021
+
+ Samordning med annan anställning                 -        -         1         -
+
+ Önskemål från/överenskommelse med                5        1         -         3
+ berörd domstol
+
+ Bordläggning                                     -        -         -         1
+
+
+
+Domarnämnden uppnådde det uppsatta målet för genomströmningstiderna i drygt
+95 procent av ärendena trots att det under året kom in en stor mängd ärenden fördelat
+på antalet föredraganden och att ärendetillströmningen var ojämnt fördelad över året. I
+samtliga de fall där avvikelse skedde från det uppsatta målet för genomströmningstid
+föranleddes detta av önskemål från den anställande domstolen.
+
+
+
+
+                                            18
+Årsredovisning 2024, Domarnämnden
+
+
+
+
+3.7.2   Mål för verksamheten
+Under 2024 hade Domarnämndens kansli som eget mål att fortsätta arbeta med att
+utveckla interna processer för en mer effektiv handläggning av ärendena. Kansliet har
+därför sett över ett antal interna rutiner och processer och anpassat dem efter dagens
+förutsättningar och tekniska möjligheter. Under året har också ett omfattande arbete
+gjorts för att utveckla underlag och information som riktar sig till sökande, rekryterande
+domstolar och andra externa aktörer. Vissa frågor kring ärendehanteringen
+diskuterades med nämndens ledamöter löpande under året.
+
+
+3.8 Remisser
+Domarnämnden hanterade och besvarade följande remisser under året.
+
+    -   Betänkandet Ett förändrat regelverk för framtidens el- och gasnät
+        (SOU 2023:64)
+    -   Betänkandet Utredningen om utvärdering av hemlig dataavläsning
+        (SOU 2023:78)
+    -   Betänkandet En statlig ordning med brottsförebyggande åtgärder för barn och
+        unga (SOU 2024:30)
+    -   Domstolsverkets hemställan Särskild forumregel för vissa säkerhetsmål
+    -   Statskontorets rapport En form för kollektivt beslutsfattande – en kartläggning
+        och prövning av nämndmyndigheter (2024:11)
+
+Jämfört med förra året har antalet remisser som ska besvaras av Domarnämnden varit i
+princip oförändrat. I förhållande till åren dessförinnan har antalet dock varit betydligt
+fler.
+
+Även om remisserna var för sig har berört Domarnämndens ansvarsområde i relativt
+begränsad utsträckning är det samlade arbetet med att besvara remisserna numera
+påtagligt i nämndens verksamhet. Detta eftersom de har ökat i antal och
+arbetsresurserna vid nämndens kansli är begränsade.
+
+När det gäller innehållet i remisserna har Domarnämnden också i något av sina
+remissvar fört fram att en trolig konsekvens av förslagen, om de genomförs, är att
+arbetsmängden kan komma att öka för nämnden eftersom förslagen i flera av de senaste
+årens remisser berör Domarnämndens verksamhet.
+
+
+3.9 Kompetensförsörjning
+Under 2024 hade Domarnämndens kansli 7,15 årsarbetare, majoriteten är kvinnor. Vid
+kansliet finns från och med 2023 åtta–nio personer anställda, nämligen kanslichef,
+biträdande kanslichef, tre–fyra föredragande och två–tre administratörer. Kanslichefen,
+den biträdande kanslichefen och administratörerna är anställda tills vidare medan
+föredragandena är anställda på viss tid.
+
+Under en del av året bestod bemanningen av fyra föredragande på grund av det rådande
+behovet av arbetskraft och för att möjliggöra introduktion för nyanställda. Samtliga
+föredragande som arbetat vid nämnden var tjänstlediga från pågående domar-
+utbildning. Inriktningen är att även i framtiden på viss tid anställa personer som
+genomgår domarutbildningen som föredragande. Under 2024 var det ett omfattande
+arbete att rekrytera föredragande till nämndens kansli. Skälet till detta var att kansliet
+behövde rekrytera flera föredragande samtidigt och svårigheter att få tillräckligt många
+kvalificerade sökande. Det är en förändring från tidigare år och en trolig orsak till denna
+förändring är att det numera finns flera andra tillfälliga anställningar att söka för de
+som är under domarutbildning.
+
+
+
+
+                                            19
+Årsredovisning 2024, Domarnämnden
+
+
+
+
+För att Domarnämnden ska kunna fullgöra sina uppgifter är det viktigt att kansliet kan
+attrahera och rekrytera personer med rätt kompetens och det är av största vikt för
+verksamheten att nämnden fortsatt lyckas rekrytera duktiga fiskaler som föredragande.
+
+
+
+
+                                          20
+Årsredovisning 2024, Domarnämnden
+
+
+
+
+4 Finansiell redovisning
+
+4.1 Resultaträkning
+Resultaträkning (tkr)
+
+                                    Not          2024      2023     2022
+
+
+
+Verksamhetens intäkter
+Intäkter av anslag                  1          11 226    10 025    9 764
+Intäkter av bidrag                                  7         2       17
+Finansiella intäkter                2              69        83       13
+Summa                                          11 301    10 110    9 794
+
+
+Verksamhetens kostnader
+Kostnader för personal              3           -7 885    -6 884   -6 861
+Kostnader för lokaler                           -1 030     -980     -915
+Övriga driftkostnader               4           -2 386    -2 242   -1 982
+Avskrivningar och nedskrivningar                    0         -3     -35
+Summa                                          -11 301   -10 110   -9 794
+
+
+Verksamhetsutfall                                   0         0        0
+
+
+Årets kapitalförändring                             0         0        0
+
+
+
+
+                                          21
+Årsredovisning 2024, Domarnämnden
+
+
+
+
+4.2 Balansräkning
+Balansräkning (tkr)
+
+                                        Not        2024-12-31   2023-12-31
+
+TILLGÅNGAR
+Materiella anläggningstillgångar
+Maskiner, inventarier, installationer
+                                        5                  0            0
+m.m.
+Summa                                                      0            0
+
+Kortfristiga fordringar
+Fordringar hos andra myndigheter        6                 33           20
+Summa                                                     33           20
+
+Periodavgränsningsposter
+Förutbetalda kostnader                  7                247          282
+Summa                                                    247          282
+
+Avräkning med statsverket
+Avräkning med statsverket               8                -875       -1 703
+Summa                                                    -875       -1 703
+
+Kassa och bank
+Behållning räntekonto i
+                                        9               2 113        2 994
+Riksgäldskontoret
+Summa                                                   2 113        2 994
+
+
+SUMMA TILLGÅNGAR                                        1 518        1 594
+
+KAPITAL OCH SKULDER
+Myndighetskapital
+Balanserad kapitalförändring            10                 0            0
+Kapitalförändring enligt
+                                                           0            0
+resultaträkningen
+Summa                                                      0            0
+
+Avsättningar
+Övriga avsättningar                     11                90           81
+Summa                                                     90           81
+
+Skulder m.m.
+Lån i Riksgäldskontoret                 12                 0            0
+Kortfristiga skulder till andra
+                                        13               324          475
+myndigheter
+Leverantörsskulder                                       139          132
+Övriga kortfristiga skulder             14               146          143
+Summa                                                    610          750
+
+Periodavgränsningsposter
+Upplupna kostnader                      15               818          763
+Summa                                                    818          763
+
+SUMMA KAPITAL OCH SKULDER                               1 518        1 594
+SUMMA KAPITAL OCH                                                            1 316
+SKULDER
+
+                                              22
+Årsredovisning 2024, Domarnämnden
+
+
+
+
+4.3 Anslagsredovisning
+Redovisning mot anslag (tkr)
+
+                                                  Årets
+                                Ing. över-      tilldelning               Totalt                Utgående
+                                    förings-         enl.     Indrag-   disponibel              överförings
+        Anslag (tkr)      Not       belopp      regl.brev      ning     t belopp     Utgifter     belopp
+
+Uo 4 1:16 Ramanslag
+Domarnämnden
+ap.1 Domarnämnden          16           1 703        11 758    -1 360      12 101    -11 226           875
+(ram)
+Summa                                   1 703        11 758    -1 360      12 101    -11 226           875
+
+
+
+4.4 Tilläggsupplysningar och noter
+Alla belopp redovisas i tusentals kronor (tkr) om inget annat anges. Till följd av detta
+kan summeringsdifferenser förekomma.
+
+4.4.1    Tilläggsupplysningar
+Redovisningsprinciper
+Tillämpade redovisningsprinciper
+Domarnämndens bokföring följer god redovisningssed och förordningen (2000:606)
+om myndigheters bokföring, FBF, samt Ekonomistyrningsverkets (ESV) föreskrifter och
+allmänna råd till denna förordning. Årsredovisningen är upprättad i enlighet med
+förordningen (2000:605) om årsredovisning och budgetunderlag samt ESV:s
+föreskrifter och allmänna råd till denna förordning.
+I enlighet med ESV:s föreskrifter till 10 § FBF tillämpar Domarnämnden brytdagen den
+3 januari 2025. Brytdagen föregående år var den 5 januari 2024. Efter brytdagen har
+fakturor överstigande 20 tkr bokförts som periodavgränsningsposter.
+
+
+Värderingsprinciper
+Anläggningstillgångar
+Som anläggningstillgångar redovisas egenutvecklade dataprogram, förvärvade licenser
+och rättigheter samt maskiner och inventarier som har ett anskaffningsvärde om minst
+20 tkr och en beräknad ekonomisk livslängd som uppgår till lägst tre år. Förvärv av
+likartade tillgångar till ett värde av minst 50 tkr ska redovisas som anläggningstillgångar
+även om respektive tillgång är av mindre värde. Övriga kriterier för anläggningstillgång
+ska dock vara uppfyllt. Beloppsgränsen för förbättringsutgifter på annans fastighet är
+50 tkr. Avskrivningstiden för förbättringsutgifter på annans fastighet uppgår till högst
+den återstående giltighetstiden på hyreskontraktet, dock lägst tre år. Avskrivning sker
+enligt linjär avskrivningsmetod från den månad tillgången tas i bruk.
+
+
+Tillämpade avskrivningstider
+3 år             Egenutvecklade dataprogram, licenser, rättigheter
+3 år             Datorer och kringutrustning
+5 år             Maskiner och tekniska anläggningar
+                 Inredningsinventarier
+
+
+
+
+                                                23
+Årsredovisning 2024, Domarnämnden
+
+
+
+
+Avskrivningstiden för förbättringsutgifter på annans fastighet uppgår till beräknad
+nyttjandeperiod. Nuvarande hyreskontrakt löper till och med 2025-03-31.
+
+Omsättningstillgångar
+Fordringar har tagits upp till det belopp varmed de beräknas inflyta.
+
+Skulder
+Skulderna har tagits upp till nominellt belopp.
+
+
+Ersättningar och andra förmåner
+
+Nämndledamöter/andra styrelseuppdrag
+
+ Namn                           Styrelse-/rådsuppdrag                                Ersättning i tkr
+
+ Monica Dahlbom, ordförande Statsrådsarvodesnämnden                                        75
+
+ Johan Kvart, vice ordförande   Notarienämnden                                             22
+
+ Ylva Norling Jönsson                                                                      10
+ Victoria Bäckström                                                                        23
+ Per Classon                                                                               21
+ Stefan Holgersson                                                                         13
+ Nicklas Lagrell                                                                           23
+ Mia Edwall Insulander          Sveriges Advokaters Serviceaktiebolag                      18
+ Jan Mikael Bexhed              Advokatfirman Bexhed AB                                     8
+ Susanne Eberstein              Domstolsverkets insynsråd                                  21
+ Johan Büser                    Styrelseordförande för Business Region Göteborg AB          8
+ Helena von Braun               Notarienämnden                                             16
+ Nina Stubbe                                                                               26
+ Monica Felding                                                                            16
+                                Ledamot i insynsrådet för Länsstyrelsen
+ Anneli Wirtén                                                                              5
+                                i Västmanlands län
+                                VD och styrelseledamot i Engens Fastighet
+ Matheus Enholm                                                                            18
+                                Ledamot i Integritets- och säkerhetsskyddsnämnden
+                                Ledamot i Insynsrådet för Bolagsverket
+ Mattias Eriksson Falk                                                                     13
+                                Ledamot i Riksdagens överklagandenämnd
+                                sservice AB
+ Petra Lundh                    Ledamot i Arbetsgivarverkets styrelse                       5
+ Stefan Johansson                                                                          21
+
+
+Anställdas sjukfrånvaro
+Redovisning av de anställdas sjukfrånvaro lämnas inte eftersom medeltalet av antalet
+anställda vid Domarnämnden de två senaste räkenskapsåren inte har överstigit tio personer.
+
+
+
+
+                                             24
+Årsredovisning 2024, Domarnämnden
+
+
+
+
+4.4.2   Noter
+Resultaträkning (tkr)
+
+ Not    1    Intäkter av anslag                                      2024      2023
+
+             Intäkter av anslag                                    11 226    10 025
+             Summa                                                 11 226    10 025
+
+
+             Utgifter i anslagsredovisningen                       -11 226   -10 025
+             Saldo                                                      0         0
+
+
+ Not    2    Finansiella intäkter                                    2024      2023
+
+             Ränta på räntekonto i Riksgäldskontoret                   68        83
+             Summa                                                     68        83
+
+
+
+
+ Not    3    Kostnader för personal                                  2024      2023
+
+             Lönekostnader (exkl. arbetsgivaravgifter,
+             pensionspremier och andra avgifter
+             enligt lag och avtal)                                  -5 085    -4 354
+
+             Varav lönekostnader ej anställd personal                 -413      -401
+             Sociala avgifter                                       -2 676    -2 321
+             Övriga kostnader för personal                           -124      -209
+             Summa                                                  -7 885    -6 884
+
+
+
+
+ Not    4    Övriga driftskostnader                                  2024      2023
+
+             Reparationer och underhåll                                 -5        -8
+             Offentligrättsliga avgifter, skatter, kundförluster       -11       -12
+             Resor, representation, information                      -654      -257
+             Köp av varor                                              -12       -65
+             Köp av tjänster                                        -1 704    -1 899
+             Summa                                                  -2 386    -2 242
+
+
+
+
+                                                 25
+Årsredovisning 2024, Domarnämnden
+
+
+
+
+Balansräkning (tkr)
+
+ Not         5         Maskiner, inventarier, installationer    2024-12-31   2023-12-31
+                       m.m.
+
+                       Ingående anskaffningsvärde                      665          665
+                       Summa anskaffningsvärde                         665          665
+                       Ingående ackumulerade avskrivningar            -665         -662
+
+                       Årets avskrivningar                              0            -3
+                       Summa ackumulerade avskrivningar               -665         -665
+                       Utgående bokfört värde                            0            0
+
+
+ Not         6         Fordringar hos andra myndigheter         2024-12-31   2023-12-31
+
+                       Fordran ingående mervärdesskatt                 33           20
+                       Summa                                           33           20
+
+
+ Not         7         Förutbetalda kostnader                   2024-12-31   2023-12-31
+
+                       Förutbetalda hyreskostnader                    247          244
+                       Övriga förutbetalda kostnader                    0           39
+                       Summa                                          247          282
+
+
+ Not         8         Avräkning med statsverket                2024-12-31   2023-12-31
+
+                       Anslag i räntebärande flöde
+                       Ingående balans                              -1 703         -349
+                       Redovisat mot anslag                         11 226       10 025
+                       Anslagsmedel som tillförts räntekonto       -11 758      -11 433
+
+                       Återbetalning av anslagsmedel                 1 360          54
+                       Skulder avseende anslag i räntebärande
+                                                                      -875       -1 703
+                       flöde
+                       Summa Avräkning med statsverket                -875       -1 703
+
+
+ Not         9         Behållning räntekonto i                  2024-12-31   2023-12-31
+                       Riksgäldskontoret
+
+                       Behållning räntekonto i
+                       Riksgäldskontoret                             2 113        2 994
+
+                       Summa                                         2 113        2 994
+
+                       Beviljad kredit enligt regleringsbrev          790          790
+                       Maximalt utnyttjad kredit                        0            0
+
+
+ Not         10        Myndighetskapital                        2024-12-31   2023-12-31
+
+                       Myndighetskapital saknas och därför
+                       redovisas inte någon specifikations-
+                       tabell.
+
+
+
+
+                                              26
+Årsredovisning 2024, Domarnämnden
+
+
+
+
+ Not    11   Övriga avsättningar                                           2024-12-31     2023-12-31
+
+             Avsättning för lokalt omställningsarbete
+             Ingående balans                                                      81               69
+             Årets förändring                                                      9               12
+             Utgående balans                                                      90               81
+             Under år 2025 planeras inte några aktiviteter kopplade till
+             ovanstående avsättningar.
+
+
+ Not    12   Lån i Riksgäldskontoret                                       2024-12-31     2023-12-31
+
+             Avser lån för investeringar i anläggningstillgångar
+             Ingående balans                                                       0                3
+             Årets amorteringar                                                    0               -3
+             Utgående balans                                                       0                0
+
+
+             Beviljad låneram enligt regleringsbrev                              300              300
+
+
+
+ Not    13   Kortfristiga skulder till andra myndigheter                   2024-12-31     2023-12-31
+
+             Arbetsgivaravgifter                                                 159              152
+             Leverantörsskulder andra myndigheter                                166              323
+             Summa                                                               324              475
+
+
+ Not    14   Övriga kortfristiga skulder                                   2024-12-31     2023-12-31
+
+             Personalens källskatt                                               146              143
+             Summa                                                               146              143
+
+
+ Not    15   Upplupna kostnader                                            2024-12-31     2023-12-31
+
+             Upplupna semesterlöner inklusive sociala avgifter                   658              561
+             Övriga upplupna löner inklusive sociala avgifter                     90               50
+             Övriga upplupna kostnader                                            70              151
+             Summa                                                               818              763
+
+
+
+Anslagsredovisning
+
+ Not   16    Uo 4 1:16 Ramanslag Räntebärande
+
+
+             Domarnämnden får disponera 343 tkr av det ingående överföringsbeloppet, dvs. 3 % av
+             föregående års tilldelning 11 433 tkr enligt regleringsbrevet. Anslagsposten får användas
+             för Domarnämndens förvaltningsutgifter.
+
+             Enligt regleringsbrevet disponerar Domarnämnden en anslagskredit på 352 tkr. Under
+             2024 har Domarnämnden inte utnyttjat krediten.
+
+
+
+
+                                                         27
+Årsredovisning 2024, Domarnämnden
+
+
+
+
+4.5 Sammanställning över väsentliga uppgifter
+(tkr)                                                   2024            2023       2022          2021    2020
+
+Låneram Riksgäldskontoret
+Beviljad                                                   300          300        300           400     500
+Utnyttjad                                                   0            0           3            38      80
+
+
+Kontokrediter Riksgäldskontoret
+Beviljad                                                   790          790        790           790     790
+Maximalt utnyttjad                                          0            0           0            0       0
+
+
+Räntekonto Riksgäldskontoret
+Ränteintäkter                                              68            83         13            0       0
+Räntekostnader                                              0            0           0            0       0
+
+
+Avgiftsintäkter
+Avgiftsintäkter som disponeras
+
+Övriga avgiftsintäkter                                      0            0           0            0       0
+
+
+Anslagskredit
+Beviljad                                                   352          342        294           289     257
+Utnyttjad                                                   0            0           0            0       0
+
+
+Anslag
+Ramanslag
+Anslagssparande                                            875          1 703      349           883     1 352
+
+
+
+Bemyndiganden                                                                   Ej tillämpligt
+
+
+Personal
+Antalet årsarbetskrafter (st)                               7            8           7            6       5
+Medelantalet anställda (st)*                                8            8           8            6       6
+
+
+
+Driftkostnad per årsarbetskraft                         1 413           1 263     1 394          1 498   1 487
+
+
+Kapitalförändring
+Årets                                                       0            0           0            0       0
+Balanserad                                                  0            0           0            0       0
+
+* I beräkningen av medelantalet anställda ingår tjänstledig personal.
+
+
+
+
+                                                      28
+Årsredovisning 2024, Domarnämnden
+
+
+
+
+5 Tabellbilaga
+Tabell 7 Uppgifter för Domarnämnden
+
+ Uppgift                                                        Författning
+
+ Lämna förslag till regeringen i ärenden om utnämning av        3 § lagen (2010:1390) om utnämning av
+ ordinarie domare                                               ordinarie domare
+
+ Lämna förslag till regeringen i ärenden om utnämning av        3 § lagen (1973:188) om
+ hyresråd                                                       arrendenämnder och hyresnämnder
+
+ Bedriva ett aktivt och långsiktigt arbete för att främja       3 § lagen (2010:1390) om utnämning av
+ rekryteringen av ordinarie domare                              ordinarie domare
+
+ Genomföra säkerhetsprövning av chefer för allmänna             4 a § säkerhetsskyddslagen (2018:585)
+ domstolar, allmänna förvaltningsdomstolar,
+ Arbetsdomstolen samt chefer för hyres- och
+ arrendenämnd.
+
+ Bereda ärenden om nominering av domare och                     2 § lagen (2014:414) om nomineringar till
+ generaladvokater till Europeiska unionens domstol och          Europeiska unionens domstol och
+ domare till Europeiska domstolen för de mänskliga              Europeiska domstolen för de mänskliga
+ rättigheterna                                                  rättigheterna
+
+ Besluta i fråga om tillstånd som avses i 12 kap. 3 §           1 § förordningen (2010:1793) med
+ rättegångsbalken när det gäller lagfarna domare i och          instruktion för Domarnämnden
+ rättsbildade befattningshavare vid domstol
+
+ Handha och pröva frågor om bisyssla som avses i 7 a–d §§       1 § förordningen (2010:1793) med
+ lagen (1994:260) om offentlig anställning när det gäller       instruktion för Domarnämnden
+ ordförandena i Högsta domstolen och Högsta
+ förvaltningsdomstolen, hovrättspresidenter,
+ kammarrättspresidenter och lagmän i tingsrätt och
+ förvaltningsrätt
+
+ Handha och pröva frågor om bisyssla som avses i 7 a–c §§       1 § förordningen (2010:1793) med
+ lagen om offentlig anställning när det gäller hyresråd som     instruktion för Domarnämnden
+ är chefer för en hyresnämnd
+
+ Lämna förslag till regeringen i ärenden om anställning av      39 § förordningen (1996:381) med
+ vikarie för ordinarie domare eller hyresråd för minst ett år   tingsrättsinstruktion
+                                                                37 § förordningen (1996:379) med
+                                                                hovrättsinstruktion
+                                                                36 § förordningen (1996:382) med
+                                                                förvaltningsrättsinstruktion
+                                                                37 § förordningen (1996:380) med
+                                                                kammarrättsinstruktion
+                                                                26 § förordningen (1980:1030) med
+                                                                hyresnämndsinstruktion
+
+ Pröva överklaganden av domstols                                59 § förordningen (1996:381) med
+ beslut att anställa vikarie för ordinarie domare eller         tingsrättsinstruktion
+ hyresnämnds beslut att anställa vikarie för hyresråd           57 § förordningen (1996:379) med
+                                                                hovrättsinstruktion
+                                                                49 § förordningen (1996:382) med
+                                                                förvaltningsrättsinstruktion
+                                                                55 § förordningen (1996:380) med
+                                                                kammarrättsinstruktion
+
+
+
+                                                  29
+Årsredovisning 2024, Domarnämnden
+
+
+
+
+ Uppgift                                                       Författning
+
+                                                               24 § förordningen (1980:1030) med
+                                                               hyresnämndsinstruktion
+
+ Förordna ordförande och vice ordförande i                     3 § förordningen (2007:1174) med
+ övervakningsnämnderna                                         instruktion för övervakningsnämnderna
+
+ Förordna särskilda ledamöter i allmän domstol och allmän      1 § förordningen (2013:391) om
+ förvaltningsdomstol7                                          Domarnämndens förordnande av
+                                                               särskilda ledamöter i allmän domstol och
+                                                               i allmän förvaltningsdomstol
+
+ Lämna förslag till regeringen på dispaschör och               14 § förordningen med (1975:932) med
+ biträdande dispaschör                                         dispaschörsinstruktion
+
+ Lämna förslag till regeringen på personer lämpliga att        27 kap. 27 § rättegångsbalken
+ tjänstgöra som offentliga ombud i ärenden om hemlig
+ avlyssning av elektronisk kommunikation och hemlig
+ kameraövervakning
+
+ Lämna förslag till regeringen på lämpliga personer att        6 § lagen (2009:966) om
+ tjänstgöra som integritetsskyddsombud vid                     Försvarsunderrättelsedomstol
+ Försvarsunderrättelsedomstolen
+
+
+
+
+7 Domarnämnden förordnar 1. Ekonomiska experter i tingsrätten och hovrätten enligt 1 kap. 8 §
+
+och 2 kap. 4 a § rättegångsbalken, 2. Tekniska och ekonomiska experter i Patent- och
+marknadsdomstolen och Patent- och marknadsöverdomstolen enligt 2 kap. 3 § lagen (2016:188) om
+patent- och marknadsdomstolar, 3. Särskilda ledamöter i mark- och miljödomstolarna, 4.
+Värderingstekniska ledamöter i förvaltningsrätten och särskilda ledamöter i kammarrätten i mål om
+fastighetstaxering enligt fastighetstaxeringslagen (1979:1152), 5. Särskilda ledamöter i
+förvaltningsrätten och kammarrätten i mål om laglighetsprövning enligt 13 kap. kommunallagen
+(2017:725), 6. Ekonomiska experter i förvaltningsrätten och kammarrätten i mål enligt lagen
+(2022:482) om elektronisk kommunikation och 7. Särskilda ledamöter i förvaltningsrätten och
+kammarrätten i mål enligt lagen (2010:1882) om åldersgränser för film som ska visas offentligt.
+
+
+
+                                               30
+Årsredovisning 2024, Domarnämnden
+
+
+
+
+Tabell 8 Statistik i anställningsärenden
+
+                       Antal Antal Antal Varav Varav Antal         Antal   Antal Varav Varav Antal ut- Varav Varav
+                      anställ- anställ- ansök- kvinnor män ansök- ansök-    på kvinnor män nämnda/ kvinnor män
+                      nings- ningar9 ningar                ningar ningar förslag             anställda
+                       ären-              10
+                                                             per    per
+                       den8                                ärende anställ-
+                                                                   ning
+
+Justitieråd tillika     1      1      1      0      1      1       1       1      0      1       1      0      1
+ordföranden,
+Högsta domstolen
+
+Justitieråd, Högsta     1      1      5      2      3      5       5       3      2      1       1      1      0
+domstolen
+
+Justitieråd, Högsta     1      2      6      1      5      6       3       4      1      3       2      0      2
+förvaltningsdomsto
+len
+
+Hovrättspresident       1      1      2      2      0      2       2       1      1      0       1      1      0
+
+Kammarrätts-            1      1      2      0      2      2       2       2      0      2       1      0      1
+president
+
+Hovrättslagman          1      1      5      4      1      5       5       3      2      1       1      1      0
+
+Kammarrätts-            2      3      4      1      3      2      1,3      3      1      2       2      1      1
+lagman
+
+Hovrättsråd, vice       3      6     26     15     11     8,7     4,3     14      8      6       6      4      2
+ordförande
+
+Kammarrättsråd,         3      5     24     13     11      8      4,8     10      8      2       5      5      0
+vice ordförande
+
+Hovrättsråd             7      18    41     30     11     5,9     2,3     24     20      4      18      15     3
+
+Kammarrättsråd          3      7     21     13      8      7       3      13      9      4       4      3      1
+
+Hovrättsråd,            3      4      6      4      2      2      1,5      3      2      1       3      2      1
+tidsbegr. anst
+
+Lagman TR               5      5     14      8      6     2,8     2,8      8      3      5       4      2      2
+
+Lagman FVR              2      2      4      3      1      2       2       3      2      1       2      1      1
+
+Chefsrådman TR          10     12    50     23     27      5      4,2     25     10     15      12      6      6
+
+Chefsrådman FVR         1      1      2      1      1      2       2       2      1      1       1      1      0
+
+Rådman TR               57     92    111    70     41     1,9     1,2     62     37     25      46      24    22
+
+
+
+8 Summan av antalet anställningsärenden är de anställningsärenden som slutbehandlades av
+
+nämnden och överlämnades till regeringen under 2024 (96 ärenden, se tabell 2) samt de ärenden som
+Domarnämnden skrivit av (28 ärenden). Ett ärende kan avse flera anställningar.
+9 Antalet anställningar baseras som utgångspunkt på vad som angetts i Domstolsverkets anmälan om
+
+anställning, i anställningsannonsen och det som angetts vid tidpunkten för sammanträdet. Om det i
+ärendet inte finns ytterligare underlag än Domstolsverkets anmälan och det däri endast angetts ”En
+eller flera anställningar” har detta tolkats som ett önskemål från domstolen om att anställa två
+domare.
+10 Uppgiften avser antalet ansökningar i respektive ärende. En sökande kan förekomma i flera
+
+ärenden. Även ansökningar som har återkallats hos nämnden är inkluderade.
+
+
+
+                                                   31
+Årsredovisning 2024, Domarnämnden
+
+
+
+
+                  Antal Antal Antal Varav Varav Antal         Antal   Antal Varav Varav Antal ut- Varav Varav
+                 anställ- anställ- ansök- kvinnor män ansök- ansök-    på kvinnor män nämnda/ kvinnor män
+                 nings- ningar9 ningar                ningar ningar förslag             anställda
+                  ären-              10
+                                                        per    per
+                  den8                                ärende anställ-
+                                                              ning
+
+Rådman FVR         3      4     15      6      9      5      3,75     9      3      6       4      1      3
+
+Rådman TR,         6      8         4   2      2     0,7     0,5      4      2      2       3      1      2
+tidsbegr.
+anställning
+
+Rådman FVR,        1      1         3   2      1      3       3       3      2      1       1      0      1
+tidsbegr.
+anställning
+
+Tekniskt råd       3      3     22      16     6     7,3     7,3      6      4      2       3      2      1
+
+Patentråd          1      1         3   1      2      3       3       3      1      2       1      0      1
+
+Hyresråd           8      9     23      13    10     2,9     2,6     14      8      6       6      4      2
+
+SUMMA             124    188    394     230   164    3,2     2,1     220    127    93     128      75    53
+
+
+
+
+                                              32
+Årsredovisning 2024, Domarnämnden
+
+
+
+
+Vi intygar att årsredovisningen ger en rättvisande bild av verksamhetens resultat samt
+av kostnader, intäkter och myndighetens ekonomiska ställning.
+
+
+
+
+Stockholm den 12 februari 2025
+
+
+
+
+Monica Dahlbom                      Mari Heidenborg             Helena von Braun
+Ordförande                          Vice ordförande
+
+
+
+
+Per Classon                         Susanne Eberstein           Mia Edwall Insulander
+
+
+
+
+Matheus Enholm                      Mikael Forsgren             Nicklas Lagrell
+
+
+
+
+                                              33
+

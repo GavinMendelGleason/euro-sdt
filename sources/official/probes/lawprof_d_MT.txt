@@ -1,0 +1,7 @@
+SOURCE: NSO Malta, Personnel in Education: 2023-2024, NR 208/2025, 14 Nov 2025
+URL: https://nso.gov.mt/personnel-in-education-2023-2024/
+Table 3 (https://nso.gov.mt/wp-content/uploads/NR-208-2025-Table-3.xlsx): Teachers and academic staff by academic year, sex and education level.
+Tertiary education (ISCED 5-8) academic staff, academic year 2023-2024: Males 1,723; Females 1,103; Total 2,826.
+Academic year 2022-2023: Males 1,581; Females 1,011; Total 2,592.
+Note (methodological note 12): academic staff = tertiary personnel whose primary assignment is instruction, any academic rank (professor to assistant lecturer).
+Note: table XLSX returned HTTP 403 to direct download; page text retrieved and quoted here.

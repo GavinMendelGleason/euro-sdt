@@ -1,0 +1,1393 @@
+  Annual Activity Report
+                   2024
+EUROPEAN PERSONNEL SELECTION OFFICE
+Contents
+EPSO IN BRIEF ................................................................................................................................................................... 3
+
+EXECUTIVE SUMMARY ................................................................................................................................................... 4
+
+      A. Key results and progress towards achieving of the corporate general objectives
+         and EPSO’s specific objectives................................................................................................................... 5
+
+      B. Key performance indicators (KPIs) .......................................................................................................... 7
+
+      C. Key conclusions on internal control and financial management ...........................................10
+
+      D. Provision of information to the Commissioners .............................................................................12
+
+1. Key results and progress towards achieving the corporate general objectives and
+   EPSO’S specific objectives .................................................................................................................................13
+
+2. INTERNAL CONTROL AND FINANCIAL MANAGEMENT ..........................................................................19
+
+      2.1. Control results ..............................................................................................................................................20
+
+                2.1.1. Overview of the budget and relevant control systems (RCS) ..............................21
+
+                2.1.2. Effectiveness of controls ........................................................................................................23
+
+                2.1.3. Efficiency of controls ................................................................................................................26
+
+                2.1.4. Economy of controls..................................................................................................................27
+
+                2.1.5. Conclusion on the cost-effectiveness of controls ......................................................28
+
+      2.2. Audit observations and recommendations ....................................................................................29
+
+      2.3. Assessment of the effectiveness of internal control systems ............................................30
+
+      2.4. Conclusions on the assurance ..............................................................................................................32
+
+      2.5. Declaration of Assurance ........................................................................................................................34
+
+3. MODERNISING THE ADMINISTRATION .........................................................................................................35
+
+      3.1. Human resource management ............................................................................................................36
+
+      3.2. Digital transformation and information management............................................................37
+
+      3.3. Sound environmental management ..................................................................................................39
+
+      3.4. Examples of economy and efficiency...............................................................................................40
+
+
+
+
+EPSO_aar_2024                                                                                                                                              Page 2 of 39
+EPSO IN BRIEF
+The European Personnel Selection Office (EPSO) is an interinstitutional office, which was
+created in July 2002 and became operational in January 2003. EPSO is administratively
+attached to the European Commission, but is governed by an interinstitutional Management
+Board, its highest decision-making body.
+
+‘Competitions organised by the European Personnel Selection Office (EPSO) are the
+gateway to a career in the EU civil service’.
+
+EPSO mandate is laid down in its Founding Decision from 2002: to organise ‘open
+competitions with a view to securing the services of officials on optimal professional and
+financial terms’ for the EU institutions. The vision for the implementation of this mandate
+has evolved with the changing times and is today underpinned by three guiding principles:
+precision (use the right type of tests for the right profile), agility (adapt to specific client
+needs) and speed (run competitions faster).
+
+Working for the EU offers interesting opportunities to make a meaningful impact. The aim is
+to select competent and motivated people, including those with no previous specific EU work
+experience, who can bring their perspective, their skills and their abilities. EPSO is committed
+to seeking top talents (generalists and specialists) in a broad, diverse candidate pool and
+thereby responding to institutions’ evolving needs.
+
+EPSO continues to work on improving the geographical balance in its candidate base, reaching
+highly specialised profiles in a targeted manner, but also talents with non-conventional
+profiles, from different age groups, with a focus on adjustability and capability to learn and
+develop throughout the career. Constantly seeking innovation, with its new competition
+model, EPSO endeavours to be quicker and simpler without compromising on the quality of
+the laureates. Competitions need to be legally sustainable while modernising processes and
+thinking critically about the skills and competencies staff will require in the future.
+
+EPSO follows a 5-year roadmap to implement the transformation of the service. Year 1 of
+the roadmap (May 2020 to May 2021) was a period of observation, mapping, collecting
+information and preparation. Year 2 (June 2021 to June 2022) was devoted to piloting time.
+Year 3 (July 2022 – July 2023) laid the foundation of the new competition model launched
+in early 2023. Year 4 covered the period August 2023 to August 2024 and aimed to review
+the progress so far and adjust where necessary considering factors such as: duration of
+competitions, client satisfaction, test content and design of competitions, delivery modes,
+Selection Board feedback, cost analysis and internal organisation, including staffing. Year 5
+runs from September 2024 until May 2025 and has focused in analysing the results
+achieved, adjusting course as necessary and planning ahead for the next strategic period.
+
+
+
+
+EPSO_aar_2024                                                                      Page 3 of 39
+EXECUTIVE SUMMARY
+This Annual Activity Report (AAR) is a management report of the Director of EPSO to the
+EPSO/EuSA Management Board and to the College of Commissioners. Annual Activity Reports
+are the main instrument of management accountability within the Commission and constitute
+the basis on which the College takes political responsibility for the decisions it takes as well
+as for the coordinating, executive and management functions it exercises, as laid down in the
+Treaties (1).
+
+
+
+
+(1 )   Article 17(1) of the Treaty on European Union.
+
+
+EPSO_aar_2024                                                                      Page 4 of 39
+A. Key results and progress towards achieving of the corporate general
+   objectives and EPSO’s specific objectives
+
+Highlights of the year
+
+In 2024, EPSO continued to deliver laureates from previously launched open competitions
+– the main pipeline of recruitment for the EU institutions. Several large, multi-field ‘old model’
+competitions were finalised providing a total of 842 laureates. Furthermore, EPSO continued
+to produce lists of successfully tested candidates for CAST, an increasingly important
+recruitment channel for the EU institutions.
+
+Mission-critically, EPSO resumed testing activity in mid-2024 following a pause of several
+months due to delivery-related issues. In February 2024, EPSO initiated the termination of
+the framework contract with its long-term contractor and stepped up its efforts to find a
+suitable gap solution as soon as possible. The aim was to ensure that EPSO can resume
+testing activity until a new framework contract is signed with a partner that can offer
+sufficient capacity and quality guarantees in large-scale online testing. Such interim solution
+was found by partnering with a French-based company thereby enabling EPSO to resume
+testing operations, starting with smaller sized selections and gradually upscaling to more
+demanding ones.
+
+Eleven selections (CAST, Junior Professionals Programme, open competitions) were organised
+in 2024 in a fully-fledged 24-language regime. Overall, the testing experience has been
+satisfactory, although imperfect. There have been no major issues of structural nature in the
+testing events, only relatively minor technical issues, which EPSO has handled. The number
+of complaints has been very low compared to previous testing events run on the former
+contractor’s platform. Continuous improvement remains the objective. Therefore, despite a
+promising evolution, EPSO deems it prudent to maintain in this Report the reputational
+reservation declared in the 2023 AAR. The target is to lift it in the next AAR.
+
+Implementation of the recommendations in the European Court of Auditors (ECA) Special
+Report from 2020 was successfully completed.
+
+As regards relations with national public administrations, EPSO’s main fora of
+interaction with EU Member States’ representatives remained the twice-yearly meetings of
+the Network of Selection Experts hosted by the respective Presidency of the Council of the
+EU and the regular exchanges at Council’s Working Party on the Staff Regulations.
+
+In June, the Management Board approved a second reorganisation of EPSO to facilitate the
+finalisation of former model competitions, the launch of the ones organised under the new
+model as well as to achieve efficiency gains and smoother cooperation between teams. The
+main changes included (i) integrating test development and test delivery teams under the
+same Unit and (ii) creating a new Unit, called Planning and Competition Management to cover
+all tasks and teams working on planning, scheduling and managing the competitions.
+Stakeholder relations were centralised under the Director’s team.
+
+
+
+
+EPSO_aar_2024                                                                        Page 5 of 39
+In October, EPSO published an important call for tender for computer-based testing
+services. Attention was paid to design the tender in such a way that over-reliance on a single
+provider is avoided and that contractors have the necessary capacity and resources to
+consistently deliver the required volume and quality of work. The establishment of this long-
+term contract is a critical step towards achieving EPSO’s desired business scenario.
+
+To accelerate and complete EPSO’s transformation process (known as EPSOlution), a
+number of projects were launched in the autumn that can be grouped into three strands: I.
+operational & testing delivery; II. test content & development; III. data management &
+sharing. Highlight objectives include finalising the tender procedure and onboarding the new
+contractor, upgrading the test portfolio, evaluating EPSO’s outreach strategy, improving data
+management & reporting and establishing a long-term planning as part of overall reform.
+
+EPSO also intensified and diversified its outreach activities using a multitude of
+communication channels to reach out to diverse audiences: citizens, including university
+students, EU career ambassadors, Member States’ representatives and partner organisations
+and networks.
+
+EPSO has set the upgrading of its IT infrastructure as a strategic priority. In this context, it
+continued to play an active role in the EC’s Human Resources Transformation project
+(HRT), developing a single platform that will serve all needs of the HR family services,
+including selection and recruitment. First tangible results came in autumn 2024.
+
+The Task Force on the revision of EPSO’s Founding Decisions recommenced its work on this
+file in December following a pause in its deliberations.
+
+Finally, an indicative competition planning for 2025 was published in December inducing
+predictability and transparency in the upcoming cycle. The standout open competition is the
+one for the AD5 generalist administrators, which is set to make a much-awaited return.
+
+
+
+
+EPSO_aar_2024                                                                      Page 6 of 39
+B. Key performance indicators (KPIs)
+
+KPI 1
+
+
+  Laureate delivery rate (2)                          Despite a 5-month pause in testing activity, EPSO
+  (administrators, assistants, linguists,             managed to finalise all former model competitions,
+  specialists: meeting the targets set out in the     delivering 774 laureates of the 710 ones requested
+  Notices of Competition).                            originally. The new competitions will deliver laureates as
+                                                      from 1st quarter of 2025. Additionally, in 2024, EPSO also
+                                                      completed 1 internal competition for the Committee of
+                                                      Regions, with 72 successful candidates.
+
+                                     Laureate delivery rate
+
+
+
+
+                                                                                                    109%
+
+
+
+
+                                               104%
+                             103%
+
+
+
+           98,70%
+                                                                97,70%
+
+
+                                                                                 94,60%
+
+
+
+
+            2019             2020              2021              2022              2023             2024
+
+
+
+
+(2 )   The baseline is the originally requested number of laureates by the EU institutions. Where a number of
+       candidates tie (ex aequo) for the last available place, they are all included on the reserve list, which
+       accounts for exceeding the 100% delivery rate in certain years.
+
+
+EPSO_aar_2024                                                                                     Page 7 of 39
+KPI 2
+
+
+ Candidate satisfaction rate            The overall candidate satisfaction rate for 2024 stands at 65%. Since the
+ with EPSO’s computer-based tests       resumption of testing, the candidate satisfaction is captured via an EPSO
+ at pre-selection stage and             survey issued after testing of each competition as the current, gap-solution,
+ Assessment Centre stage                contractor does not have a survey feature. However, given the low response
+ Target: 90%                            rates from candidates, it is difficult to measure overall candidate
+                                        satisfaction accurately. Nevertheless, there is clearly room for improvement
+                                        and EPSO still remains at some distance from its target of 90% candidate
+                                        satisfaction rate.
+
+          Assessment Centre (source: online candidate survey)
+
+
+
+
+        45%
+                 35%     30%                 27%
+
+                                  24%                         33%
+                                                     45%
+                                                                                        27%
+                                                                                 28%
+                                                                       15%                       25%
+                                                                                                          13%
+
+
+
+
+                         48%                 49%
+        45%      46%              44%
+                                                              40%
+                                                                       35%              36%               34%
+                                                     31%                         33%             31%
+
+
+
+
+        2013     2014    2015     2016      2017    2018      2019     2020      2021   2022     2023     2024
+                                         Somewhat satisfied     Very satisfied
+
+
+ The satisfaction rate decreased slightly post COVID period. This may be due to the online aspect. The
+ competitions stoppage of late 2023 impacted negatively the candidates experience and this reflects in the AC
+ experience too. In 2024 EPSO finalised the last the competitions with Assessment Centres.
+
+
+
+
+EPSO_aar_2024                                                                                    Page 8 of 39
+KPI 3
+
+
+    Awareness of EU Careers brand measured by three sub-indicators:
+            1) visits of the EU Careers website
+            2) number of followers on all communication channels and
+            3) outreach via promotional activities
+
+
+
+
+    1) Visits of EU Careers website3
+     Baseline: 2019             Results 2024
+     4 519 990                  5 510 160.. The number of visits has increased in 2024 because EPSO has
+                                published more competitions and also organised more tests with the new
+                                provider.
+
+
+    2) Total number of followers on EPSO’s communication channels
+     Baseline: 2019               Results 2024:
+      Facebook:      376 160       Facebook:     446 811      +0.84%    (growth compared to 2023)
+      LinkedIn:      100 540       LinkedIn:     296 386    +23.13%     Slight decrease on X due to
+                                                                        EPSO’s cautious editorial
+      Instagram:       19 920      Instagram:     99 342    +34.61%
+                                                                        policy and current uncertainty
+      Twitter/X:       35 470                                           surrounding the platform’s
+                                   Twitter/X:     40 305      -1.19%    future.
+
+
+    3) Outreach via promotional activities (number of events)
+     Baseline: 2019             Results 2024
+     970 events (including      1046 events (including Ambassador events) took place during the year, with
+     Ambassador events).        a total reach of 122 000 people. The number of events has increased by 22%
+                                compared to 2023 (855). This increase is mostly due to the boost in outreach
+                                activities in which EPSO staff has participated or that EPSO staff has
+                                organised. 190 events were done by EPSO staff. 856 events were carried out
+                                by the Student Ambassadors.
+
+
+
+
+3
+    https://epso.europa.eu/
+
+
+
+EPSO_aar_2024                                                                                     Page 9 of 39
+C. Key conclusions on internal control and financial management
+
+In line with the Commission’s Internal Control Framework EPSO/EuSA has assessed its
+internal control system during the reporting year and has concluded that it is effective, and
+the components and principles are present and functioning as intended.
+
+Building on the events of 2023 (temporary pause in competitions due to delivery-related
+issues and discontinuation of the related framework contract) and the lessons learned, risk
+management has been enhanced and integrated into major decision-making processes, as
+well as into a key milestone for EPSO: the specifications of the call for tenders in view of
+signing framework contract(s) for the provision of online testing capacities. The new technical
+specifications incorporate feedback from past experiences and introduce improvements in
+areas such as personal data protection, anti-cheating measures and general quality
+requirements. Despite these measures, as already mentioned, the reservation issued in 2023
+has been maintained in the 2024 AAR.
+
+EPSO has systematically examined the available control results and indicators, as well as the
+observations and recommendations issued by the internal auditor and the European Court of
+Auditors. These elements have been assessed to determine their impact on management's
+assurance about the achievement of the control objectives. Please refer to Section 2 for
+further details.
+
+The improvements and/or remedial measures implemented are:
+   -   Strengthen the risk management process, listing all internal and external factors and
+       carefully assessing their potential impact.
+   -   Assess the risks associated with the procurement of service providers and assuring
+       that the selection criteria are aligned with the risks and controls.
+   -   Improve the user experience by targeting and improving the information and guidance
+       available to candidates.
+   -   Reinforce the support available to the tested population.
+   -   Develop contingency plans to deal with adverse scenarios.
+   -   Review and enhance performance indicators to monitor the effectiveness of the
+       actions taken.
+   -   The Business Continuity Plan (BCP) has been updated, identifying activities and priority
+       functions which should not be interrupted (or recovered as quickly as possible).
+       Contingency measures and staff responsibilities are clearly described and assigned in
+       the BCP.
+   -   The review of the Anti-fraud strategy is ongoing.
+   -   Data protection records have been reviewed and updated as necessary to align with
+       the new competition model, new way of testing and the upcoming onboarding on the
+       new IT tool supporting EPSO's competitions delivery.
+
+Please refer to Annual Activity Report section 2.3 for further details.
+In conclusion, management has reasonable assurance that, overall, suitable controls are in
+place and working as intended; risks are being appropriately monitored and mitigated. The
+
+
+
+EPSO_aar_2024                                                                    Page 10 of 39
+Director, in his capacity as Authorising Officer by Delegation, has signed the Declaration of
+Assurance.
+
+
+
+
+D. Provision of information to the Commissioners
+
+In the context of the regular meetings during the year between the EPSO and the
+Commissioner on management matters, the main elements of this report and assurance
+declaration, including the reputational reservation, have been brought to the attention of the
+Cabinets of Commissioners Hahn and Commissioner Serafin (appointed for the period 2024-
+2029), both responsible for Budget and Administration.
+
+
+
+
+EPSO_aar_2024                                                                   Page 11 of 39
+1.       Key results and progress towards achieving the
+         corporate general objectives and EPSO’S specific
+         objectives
+ Specific objective 1: Highly qualified staff is made available to all EU institutions by
+ organising open competitions and selection procedures in an interinstitutional context –
+ covering thereby the services’ evolving needs.
+
+
+In total, 774 laureates were delivered versus 710 laureates requested in EPSO open
+competitions completed during 2024. Even if this overall delivery rate amounts to 109%, it,
+needs to be put in the context where the testing activity was paused for several months.
+Additionally, EPSO also completed 1 internal competition for the Committee of Regions, with
+72 successful candidates. To be highlighted also that in the beginning of 2024, all the former
+model competitions were finalised, and 8 new open competitions published. The new model
+competitions will start producing results as from 1st quarter of 2025.
+
+In the context of the Junior Professional Programme (JPP), EPSO tested a total of 1 223
+candidates.
+
+By the end of 2024, the CAST Permanent (CAST P) database contained 190 014 applications
+corresponding to 111 125 candidates.
+
+In 2024, recruiting institutions and agencies issued 8 755 requests for candidates to be
+tested, and 8 208 tests were delivered.
+
+The Archivists and Records manager profiles requested by the institutions were introduced
+with an addendum to the Call for Expression of Interest published in June 2024.
+
+A total of 38 851 computer-based tests were administered for open competitions, CAST P,
+and JPP. This increase of nearly 70% could be explained as follows:
+
+- The new competition model foresees that all tests are administered as a first step in the
+competition process;
+
+- The CAST testing, allowing shorter cycles of testing and more occurrences.
+
+99% of these tests in 2024 were conducted remotely.
+
+In 2024, a total of 419 candidates sought reasonable accommodations for testing events.
+Among them, 25 were pregnant women who requested either a postponement of the testing
+event or an additional break for breastfeeding. Additionally, 282 candidates taking computer-
+based tests received various testing accommodations, such as the preparation of Braille
+exams, flexible breaks, extra time, adapted security checks, and the use of special equipment.
+
+
+
+
+EPSO_aar_2024                                                                   Page 12 of 39
+Under Article 45(a) of the Staff Regulations, Assistant (AST) officials of grade 5 or higher can
+be proposed by each institution, to participate in the Certification exercise. They follow a
+specific training programme organised by the European School of Administration to prepare
+for the exams that are organised by EPSO. In the 2024 Certification exercise, 160 candidates
+(78 new candidates and 82 re-sitters) followed the training and participated in the three
+exams organised (1 exam (written) delivered online, 2 exams (group exercise and oral
+presentations) in person). The overall pass rate was 43% for the entire population (69 out of
+160 candidates) and 28% for the new candidates (22 out of 78 candidates, passing all three
+exams).
+
+Ensuring optimal operational capacity
+
+Following the termination of the framework contract with its former contractor, EPSO
+analysed several different alternatives to resume testing and received approval from its
+Management Board to pilot three test events with the company TestWe. In June 2024, the
+Board confirmed this company as a so-called ‘gap-solution’ until the tender would yield an
+outcome in 2025.
+
+Following the decision of the Management Board towards the end of 2023 to move to a 24-
+language regime in all testing for competitions as the only possibility in a legally sustainable
+way, competitions published in 2023 with a restricted language regime had to be amended
+to cater for this change. However, EPSO continued to deliver reserve lists for competitions
+launched under the old competition model and concluded all competitions by the summer
+2024. EPSO also successfully supported an internal competition for the Committee of the
+Regions in 2024.
+
+In October 2024, a new tendering procedure was published, which is expected to be
+completed in the first half of 2025, allowing EPSO to again reach full operational capacity in
+2025.
+
+Planning
+
+Following the restart of publications and testing activity in May-June 2024, EPSO resumed
+implementation of its long-term planning process. With the new approach to long-term
+planning, EPSO aims to arrive, in a given year, at a stable 3-year planning cycle with a fully
+scheduled planning for the coming year (n + 1), conditional approval of a set of potential
+competitions for the year after (n + 2) and domains for potential competitions for the third
+year of the cycle (n + 3).
+
+A planning proposal for open competitions to be delivered in 2025 (n+1) was discussed and
+approved by the Management Board in December 2024, to be followed by a proposal
+covering 2026 (the second year of the cycle or n+2) in 2025.
+
+Collecting interinstitutional feedback
+
+By 2024, EPSO has carried out a variety of actions and fully implemented recommendations
+as regards systematic feedback mechanism.
+
+
+
+EPSO_aar_2024                                                                     Page 13 of 39
+New initiatives, such as the second questionnaire to (middle) managers across all its client
+EU institutions to measure satisfaction with the quality and availability of candidates on EPSO
+reserve lists, were not possible given that no new model competitions were completed by the
+end of 2024 due to delays incurred by EPSO’s delivery crisis. The second questionnaire will
+be launched as soon as there are sufficient number of reserve lists under the new competition
+model, and experience with recruiting from them.
+
+
+
+ Specific objective 2: Improve EPSO's selection methods
+
+
+Implementation of new testing methodology
+
+In 2024 and following the introduction of the 24-language regime, EPSO needed to adapt
+the test catalogue to cater for testing in 24 languages. EPSO has introduced innovative
+tests, such as field-related short text questionnaire (FRSTQ), designed to assess the
+candidate’s field-related knowledge, whilst minimising the workload impact on subject matter
+experts (SMEs), and translation and proofreading services. An EU free text essay (EUFTE) has
+been designed to assess written communication skills as required by the institutions, whilst
+at the same time not being over-burdensome for SMEs and translation services. Existing texts
+in 24 languages are used as the sources for the development of the EUFTE. In parallel, other
+types of written tests have been offered to the institutions who requested to keep the written
+exercise in their field of expertise. The new scoring method for marking of written
+communication has been introduced but no results can yet be drawn as the Selection Boards
+have not yet completed the competitions in question.
+
+EPSO also continued the development of field-related multiple-choice questions (FRMCQ) and
+started establishing a database for possible reuse of items in the future. A pilot for
+developing FRMCQs using AI has been set up. Outcome is expected in 2025.
+
+Given that not all general competencies can be assessed with the new competition mode,
+EPSO has elaborated an offer consisting of advice, training and material to enable the
+assessment of such competencies by the institutions at the recruitment stage.
+
+Following the decision to end the testing of competencies in CAST P selections, EPSO initiated
+a pilot programme to cover such tests in the form of Video Recorded Interviews (VRI). Since
+September 2023, this was successfully delivered to 2 institutions for 6 selection procedures.
+
+EPSO continued its cooperation with research communities at European and international
+level, exchanging best practices on developments in testing modalities in large-scale global
+assessment testing.
+
+Improving the work of Selection Boards
+
+In 2024, EPSO continued to deliver targeted training to Selection Board members and
+specific training for Chairs and Vice-Chairs. All Selection Board members have access to e-
+
+
+
+EPSO_aar_2024                                                                    Page 14 of 39
+learning modules allowing them to participate in the training at their own pace and to review
+individual modules at key stages of the competition.
+
+Selection Board members continued to receive targeted information and training sessions,
+with EPSO psychologists providing advisory and analytical feedback, when required. A team
+of Competition Managers at AD level support Selection Board members in their work.
+
+ Specific objective 3: EPSO’s communication and outreach with potential candidates is
+ proactive and targeted in order to reach a pool of diverse talent in an inclusive manner
+ according to the needs of the recruiting institutions.
+
+
+EU Careers website
+
+With 3 121 590 visitors in 2024, the EU Careers website continues to be one of the most
+visited Europa sites (see KPI 3 on page 9) and the number one source of information for
+applicants interested in a career in the EU institutions. Several EPSO webpages were
+revamped and continue to be improved. New staff testimonials about working in Brussels
+and Luxembourg were to promote EU careers.
+
+Social media initiatives
+
+Throughout 2024, the EU Careers presence on social media kept growing. The number and
+regularity of posts on all social media channels have increased compared to 2023 (except
+on X where EPSO keeps a lower editorial profile). The goal is to create a loyal following that
+will learn about and disseminate information on EU career opportunities and EPSO’s selection
+procedures. This resulted in more followers and increased engagement. LinkedIn and
+Instagram proved to be particularly successful, with a growth rate of respectively 23 and 34
+percent. EPSO increased cooperation with other EU institutions and bodies by promoting their
+campaigns, traineeships, and job vacancies.
+
+External communication and outreach
+
+EPSO's continuous challenge is to reach out to more diverse talent, to communicate the
+attractiveness of EU Careers and to promote the EU institutions as an employer of choice.
+Outreach activities are presented to EPSO’s Network of Experts in the field of personnel
+selection bringing together Member States in twice yearly meetings hosted by the Member
+State holding the rotating Presidency of the Council of the EU.
+
+EPSO maintained and strengthened its flagship EU Careers Student Ambassadors
+programme. This network ensures a visible presence on campuses in all EU Member States.
+Likewise, it expanded the EU Careers Staff Ambassadors programme through which EU staff
+share about their life and work in Brussels, Luxembourg or in Delegations.
+
+Equality, diversity and inclusion
+
+In 2024, EPSO continued to implement its dedicated Equality and Diversity action plan (2022-
+2024), aimed at taking specific actions to increase the diversity of EPSO’s pool of candidates.
+
+
+EPSO_aar_2024                                                                    Page 15 of 39
+The action plan focuses on persons with disabilities and on ethnic minorities (EU Anti-Racism
+Action Plan). Emphasis has been put on the gathering of qualitative data on blocking factors
+for applying to EPSO’s selection procedures, through meetings with focus groups of
+underrepresented backgrounds. The analysis and findings were published in a dedicated
+report in 2024. In addition, a second diversity survey to former EPSO candidates of closed
+competitions between 2022-2024 was launched in 2024 to collect data on the current
+candidate pool. The main findings of the survey results will be published in early 2025.
+
+EPSO continued to organise twice yearly online meetings with its Network of Member States’
+Equality and Diversity coordinators to share good practices and inform Member States of the
+latest actions in terms of Equality & Diversity.
+
+EPSO’s call for cooperation to all EU Diversity and Inclusion organisations remained open on
+EPSO’s website and was promoted throughout various networks and on social media.
+Competition-related information was regularly provided to all diversity organisations.
+
+Internal communication
+
+EPSO’s intranet is partly open to staff from all EU institutions and aims at attracting
+colleagues from across all institutions to become Selection Board members, subject matter
+experts, markers or EU Careers Staff Ambassadors.
+
+EPSO’s Intranet migrated to SharePoint Online in 2024 and continued to be partly open to all
+EU institutions. The new hub will continue to promote corporate and internal communication
+campaigns; training offers, job vacancies, staff transfers and various events. Focus is put on
+the publication of EPSO-specific articles.
+
+Communication with citizens and candidates
+
+In 2024, EPSO's Candidate Contact Service received 16 894 written requests (compared to
+23 500 in 2023) in all 24 EU official languages from candidates and citizens interested in an
+EU career. Candidates mainly asked for information on the competitions published in 2024
+under the new competition model, as well as for help and advice for their online tests.
+
+The Europe Direct Contact Centre also replied to 2 450 queries on EU careers in 2024 (a
+similar number of questions to 2023). The communication with citizens and candidates and
+available information on EU selection processes continued to be supported in 2024 via the
+various channels: an online job search tool, with access to details on vacancies within EU
+Institutions and agencies, including traineeships; regularly updated online information on
+ongoing EPSO selection procedures; regularly updated Frequently Asked Questions on the
+website for detailed information on selection procedures and tests, as well as general
+information on recruitment https://epso.europa.eu/help_en. Citizens and candidates can
+contact the EU on job opportunities through the Europe Direct Contact Centre that responds
+to all EU-related queries by phone and e-mail in 24 languages and via the EPSO online
+contact form in 24 languages for queries on candidates' specific applications and personal
+data.
+
+
+
+
+EPSO_aar_2024                                                                   Page 16 of 39
+    Specific objective 4: The linguistic abilities in a third language of staff eligible for a
+    first promotion4 are evaluated in a harmonised, consistent and cost-efficient manner.
+
+
+During 2024, a total of 937 diplomas underwent assessment across multiple languages. 87%
+of these assessed diplomas were deemed acceptable by the evaluation committees, serving
+as valid evidence of linguistic proficiency in a third language with the rest being rejected.
+
+EPSO delivered 685 language tests in the framework of the compulsory assessment of third
+language skills and with an overall pass rate of 93% (which is 3 percentage points above the
+2023 figure pass rate 90%).
+
+In 2024, third language testing saw a distribution of 95 tests (14%) conducted face-to-face
+and 590 tests (86%) administered remotely. This data highlights the candidates’ inclination
+for online testing, given that the choice of delivery mode is based on their preferences. The
+success rate for face-to face testing amounted to 86%, while in case of the online testing it
+reached 95%.
+
+Since December 2021, EPSO offers face-to-face testing in Brussels and Luxembourg as well
+as remote testing. Staff members are free to choose their preferred option. However, the
+framework contract for face-to-face testing expired on 27/09/2024. EPSO chose not to renew
+the contract to align language testing with its standards, shifting to online assessments as
+the primary method for evaluating language proficiency.
+
+The satisfaction survey, distributed to all staff members utilising the third language
+assessment facilities during the reference period, indicates a consistently high satisfaction
+rate among end-users. Online testing is particularly valued by candidates situated outside of
+Brussels or Luxembourg, and notably, those in EU representations and delegations express a
+strong appreciation for this mode of assessment.
+
+
+
+
+4
+    Article 45(2) of the Staff Regulations
+
+
+EPSO_aar_2024                                                                        Page 17 of 39
+2.   INTERNAL CONTROL AND FINANCIAL MANAGEMENT
+     Management monitors the functioning of the internal control systems on a continuous basis
+     and carries out an objective assessment of their efficiency and effectiveness. In annex 7,
+     there is a list and details of the reports that have been considered. The results of the above
+     assessment are explicitly documented and reported to the Director.
+
+     Assurance is provided on the basis of information on the efficiency and effectiveness of
+     internal control systems and governance processes. The results are explicitly documented
+     and reported to Director of EPSO. The following reports / documentation have been
+     considered:
+
+         •   Reports from Authorising Officers by sub-delegation (AOSDs);
+         •   Contribution by the Director(s) in charge of Risk Management and Internal Control,
+             including the results of internal control monitoring at department level;
+         •   Reports on recorded exceptions, non-compliance events and any cases of
+             ‘confirmation of instructions’ (Art 92.3 FR);
+         •   Reports on ex-post supervision and/or audit results;
+         •   Limited conclusion of the Internal Auditor on the state of internal control, and the
+             observations and recommendations reported by the Internal Audit Service (IAS).
+
+     The systematic analysis of the available evidence provides sufficient guarantees as to the
+     completeness and reliability of the information reported and results in the full coverage of
+     the budget delegated to the Director of EPSO.
+
+     This section covers the control results and other relevant elements that support
+     management's assurance. It is structured into 2.1. Control results, 2.2. Audit observations and
+     recommendations, 2.3. Effectiveness of internal control systems and resulting in 2.4.
+     Conclusions on the assurance.
+
+
+
+
+     EPSO_aar_2024                                                                    Page 18 of 39
+2.1.    Control results
+This section reports on the control results used by management to support the assurance on
+the achievement of the internal control objectives (ICO). EPSO's assurance building, and
+materiality criteria are outlined in annual activity report annex 5. The AAR annex 6 outlines
+the main risks together with the control processes to mitigate them and the indicators used
+to measure the performance of the relevant control systems.
+
+Financial management and control are grouped around three core processes: 1) procurement
+(from the needs assessment to the selection of the suppliers/award decision), 2) financial
+operations (from establishing the financial commitment to payment, contract
+implementation and eventually recoveries) and 3) supervisory measures (including ‘ex-post’
+controls and management checks).
+
+DG HR provides administrative support services to EPSO in internal control and financial
+management (especially ex-post verifications, procurement, SUMMA access management,
+financial reporting and accounting) under the SLA. This SLA is accompanied by a co-
+delegation between Authorising Officers by Delegation.
+A charge back process has also been integrated into the SLA in compliance with the applicable
+corporate rules to accurately reflect and compensate the costs of services provided by DG
+HR to EPSO in this context.
+
+A co-delegation agreed with the Director-General of DG HR covers administrative credits in
+training activities and security.
+
+The Director of EPSO remains responsible for the overall internal control system and the
+design, implementation and monitoring of the internal control measures applied in EPSO.
+
+EPSO has chosen to operate using a partially decentralised financial circuit for its operational
+expenditure. According to this model, the finance team of the unit Corporate Services
+(EPSO.05) carries out financial initiation and ex-ante verification; other units are responsible
+for operational initiation and verification, as well as the function of authorising officer by
+sub-delegation for operating expenditure.
+
+EPSO uses, along with some other low spending DGs, a simplified cut-off procedure.
+
+Management uses control results to support its assurance and reach a conclusion about the
+cost-effectiveness of those controls, meaning whether the right balance between the
+following elements is achieved:
+
+•   Effectiveness The level of error found, based on the controls carried out.
+•   Efficiency The average time taken to inform or pay.
+•   Economy The proportionality between the costs of controls and the funds managed.
+
+
+
+
+EPSO_aar_2024                                                                     Page 19 of 39
+2.1.1. Overview of the budget and relevant control systems (RCS)
+In 2024, EPSO was allocated a budget of around EUR 27.56M, which also included the budget
+of the European School of Administration. The amount of payments made for operating
+administrative expenditure amounted to EUR 4.89M. EPSO has responsibility for
+administrative credits only, committed under its sole responsibility, except for transactions
+made on behalf of EPSO by PMO (staff related expenditure), OIB and OIL (expenditure for
+buildings in Brussels and in Luxembourg), DG HR (expenditure for security and trainings) and
+DIGIT (expenditure for IT), according to Internal Rules or based on Service Level Agreement
+(SLA).
+
+The co-delegated budget for the services indicated above (around EUR 21.3M) is covered by
+the internal control measures of those entities and covered in their AARs.
+
+ Description                                                                   M€
+ Staff related expenditures, managed by PMO                                    15.4
+ Expenditure for buildings, managed by OIB and OIL                             2.44
+ Expenditure for security and some trainings, interim, managed by DG HR        0.4
+ IT expenditures, managed by DIGIT                                             3.06
+ Managed by EPSO and the EU School of Administration                           6.26
+ Grand total                                                                   27.56
+
+The budget directly managed by EPSO/EuSA was reduced from EUR 6.75M to EUR 6.26M
+after an internal transfer to DIGIT of ± 0.5M to reinforce the IT teams working on HRT modules
+for EPSO. The final credits linked to interinstitutional competitions and training activities of
+the School were distributed as follows:
+
+
+
+
+EPSO_aar_2024                                                                     Page 20 of 39
+                                                                                                  Consumption
+EPSO                                                        Final credits       Committed
+                                                                                                       %
+NOT ASSIGNED                                                    61 105 71                 0.00
+COMMUNICATION AND OUTREACH                                     293 000 00           271 583 24
+BGUE-B2024-20.031502.O020100-C1-EPSO 002                             0.00                 0.00
+TEST DESIGN                                                    590 585 00           590 585 00
+BGUE-B2024-20.031502.O020100-C1-EPSO 004                             0.00                 0.00
+TRAVEL EXPENSES (of candidates with special needs)               5 000 00               472 89
+IT SERVICES                                                    622 865 00           622 865 00
+BGUE-B2024-20.031502.O020100-C1-EPSO 007                             0.00                 0.00
+COMPUTER-BASED TESTING                                       1 770 120 00         1 760 667 85
+ASSESSMENT OF 3rd LANGUAGE                                     131 676 29           131 676 29
+TEST FOR DRIVERS                                                21 405 00            21 405 00
+CHARGE-BACK OP                                                   2 482 00             2 482 00
+INTERNAL MEETINGS                                                7 000 00             5 686 00
+                                            SUB-TOTAL        3 505 239 00         3 407 423 27             97.21%
+EUSA                                                        Final credits       Committed
+MANAGEMENT TRAINING                                           1 302 576 23        1 302 576 23
+INDUCTION COURSES                                                888 68 01          888 689 01
+TRAINING FOR CERTIFICATION                                      562 734 76          562 734 76
+                                            SUB-TOTAL         2 754 000 00        2 754 000 00         100.00%
+GRAND TOTAL                                                  6 259 239 00         6 161 423 27             98.60%
+
+
+       The number of payments made for operating administrative expenditure amounted to EUR
+       4.89M. In addition, EPSO/EuSA revenues amounted to 0.53M.
+
+       EPSO uses internal control processes to ensure sound management of risks relating to the
+       legality and regularity of the underlying transactions it is responsible for, taking into account
+       the nature of the payments concerned.
+
+       EPSO's main control objectives aim at ensuring the efficiency of financial transactions, with
+       the main share of our expenditure resulting from services offered by external providers.
+
+       The main efficiency indicator related to the timely paid invoices. DG EPSO score is in 2024
+       97.98% of payments on time. The amount of payment made in 2024 is 4.89M and the
+       revenues were 0.53M.
+       EPSO uses the organisational structure and the internal control systems suited to achieving
+       its policy and internal control objectives and has due regard to the risks associated with the
+       environment in which it operates.
+       As outlined in annex 6, the relevant Control System(s) for budget implementation (RCSs) are
+       articulated in 3 stages:
+          •   Procurement: Ensuring that the decision to tender is optimal, the call for tender is
+              optimally done and the selection of the contractor is optimal
+
+
+       EPSO_aar_2024                                                                      Page 21 of 39
+   •   Financial transactions = Ensuring that the implementation of the contract is in
+       compliance with the contractual provisions
+   •   Supervisory measures: Ensuring that any weakness in the procedures (tender and
+       financial transactions) is corrected
+
+
+2.1.2. Effectiveness of controls
+
+  a) Assessment of control results per RCS for expenditure
+
+
+
+
+Ex ante controls
+
+No erroneous payments were detected during the year and for this reason EPSO didn’t have
+to recover any unduly paid amounts.
+
+Ex-post controls
+
+The frequency of control applied in 2024 was the same as in 2023, meaning there were 3
+series of ex-post controls carried out for 2024 transactions: for January-May, for June-
+September and for October-December (the last one carried out in January 2025).
+
+The ex-post control campaign covered 35 transactions made in 2024 (30 payments and 5
+recovery orders) worth 1M, representing 6.6% of all transactions and 18.5% of their total
+value. The sampling method used was random and stratified, taking into consideration the
+fact that a large proportion of payments are low value and low risk.
+
+
+
+EPSO_aar_2024                                                                     Page 22 of 39
+No material issues were noted (no red code transactions). 25.7% of the verified transactions
+(9 payments) were found with minor issues (yellow code), due mainly to incomplete
+supporting documents. Comments and recommended actions proposed by the ex-post
+verifier were shared with the financial actors for further improvement. For the remaining
+74.3% of the transactions verified no issues were noted (green code).
+
+Given the nature of the expenditure and the very low level/absence of errors found in the
+ex-post controls, the AOD has decided to apply a conservative level of error of 0,5% as per
+the instructions.
+
+Non-compliance events
+
+As a result of ex-ante verification of payments, EPSO reported 2 events in the end of 2024,
+both for the same issues (an order was placed with a contractor without budgetary and legal
+commitment signed by a responsible authorising officer). These 2 transactions totalled
+15 542€ (0.3% of the payment appropriation concerned and 0.4% of EPSO budget).
+
+
+
+
+EPSO_aar_2024                                                                 Page 23 of 39
+       b) Estimation of the overall risk at payment and risk at closure
+
+
+
+
+The estimated overall risk at payment for 2024 expenditure is the AOD's best conservative
+estimate of the amount of relevant expenditure during the year, not in conformity with the
+contractual and regulatory provisions applicable at the time the payment was made. This
+expenditure will subsequently be subject to ex-post controls and a proportion of the
+underlying errors will be detected and corrected in subsequent years, corresponding to the
+conservatively estimated future corrections for 2024 expenditure. The difference between
+those two results in the estimated overall risk at closure (5).
+
+It should be noted that several awareness-raising actions aimed at actors in the financial
+circuits, as well as a refresh of financial trainings in the sector responsible for financial
+initiation and verification, took place in 2024.
+
+For an overview at Commission level, the departments' estimated overall risk at payment,
+estimated future corrections and risk at closure are consolidated in the AMPR.
+
+
+
+
+(5 )    This is the AOD's best, conservative estimation of the expenditure authorised during the year that would
+        remain not in conformity of applicable regulatory and contractual provisions by the end of
+        implementation of the programme.
+
+
+EPSO_aar_2024                                                                                    Page 24 of 39
+  c) Quantitative benefits of controls: Preventive and corrective measures
+
+No erroneous payments were detected during the year and for this reason EPSO didn’t have
+to recover any unduly paid amounts.
+
+With its ex-ante and ex-post controls, EPSO has an effective mechanism in place for detecting
+and correcting errors, resulting in a 0€ correction for 2024. Please see details in annex 3
+table 8. This result is similar to last year.
+
+  d) Fraud: prevention, detection, and correction
+
+EPSO has developed and implemented its own anti-fraud strategy since 2012, based on the
+methodology provided by OLAF. The strategy is currently being revised. Its implementation is
+being monitored and reported to the management as part of the Annual Activity Report
+exercise. All necessary actions linked to the 2019 version have been implemented and will
+be reviewed under the new Anti-Fraud strategy. There were no financial recommendations
+issued to EPSO by OLAF between 2020 and 2024.
+
+On the basis of the available information, EPSO has reasonable assurance overall that the
+anti-fraud measures in place have been effective and we will monitor the effectiveness of
+the revised measures. Current measures are in place mainly at operational level (Selection
+Board training, access monitoring to tools, secured handling of any confidential data, etc.).
+End of 2024 EPSO started the process to update its anti-fraud strategy, to cover new ways
+of tests delivery and changes brought to the way EPSO’s competitions and selection
+procedures are organised, esp. when it comes to the functioning of the Selection Boards. The
+following measures were taken to strengthen the strategy and its implementation:
+
+   •   Identification of high-risk areas (esp. in relation to the new competition model and
+       the use of new contracts)
+   •   Further follow-up on the implementations of the IAS (Internal Audit Service) audit on
+       IT security (incl. access policy and rules)
+   •   Establishment of mandatory training for new staff
+   •   Additional ad-hoc audits/checks of logs/accesses of our IT systems.
+EPSO continued to regularly participate to the meetings hosted by the European Anti-Fraud
+Office (OLAF) in the context of the Fraud Prevention and Detection network where inter alia
+Commission Anti-Fraud Strategy (CAFS) and its Action plan are followed up.
+
+
+2.1.3. Efficiency of controls
+In 2024, the number of payments amounted to 427 transactions totalling 4.9M,, out of which
+0.13M were paid after the deadline (i.e. 2.65%). The underlying reasons for these minor
+delays have been analysed, and corrective measures have been implemented and
+communicated to the relevant actors in the chain to ensure they do not occur again.
+
+The average time to pay in 2024 was 15 days, compared to 11 in 2023.
+
+
+EPSO_aar_2024                                                                  Page 25 of 39
+Comment: to ensure timely payments: systematic use of functional mailbox for reception of
+invoice (for contractors not using eInvoicing). Reminders to be sent regularly, especially prior
+to holidays. Reinforcement of the back-up organisation within the Finance team (6).
+
+2.1.4. Economy of controls
+As a result of ex-post controls, EPSO had no red codes and 9 yellow codes: 6 for payments,
+0 for recoveries and 3 for commitments. It should be noted that the findings from ex-post
+verifications only concern weaknesses related to the necessary documentation, but never the
+payment of undue amounts. The cost of controls is estimated at 0.46M, which amount to
+9.48% of payments made in 2024. Thanks to a refresh/reminder of the principles through
+training, along with a redistribution of tasks and streamlining of workflows, the cost of control
+has fallen below the 10% threshold, which was the target percentage stated in the 2024
+management plan.
+
+EPSO has limited spending operations and only manages administrative appropriations under
+Heading VII. The total number of FTEs involved in the three main control activities in
+EPSO/EuSA (procurement, financial operations and supervisory measures) is estimated at 2.5
+FTEs. The control activities are to a large extent a regulatory requirement which cannot be
+curtailed. It is reminded that the benefits of control in non-financial terms cover: better value
+for money, deterrent effects, efficiency gains, system improvements and, as mentioned
+above, compliance with regulatory provisions. Taking into account the above, EPSO has
+decided to use, again, a single global indicator to monitor and to report on the efficiency of
+its control systems: the overall cost of control, in percentage at DG level.
+
+This indicator is calculated by dividing the total costs of control by all expenditure made
+during the year (payments made). This represents a decrease of 3% compared to 2023,
+thanks to reasons stated above.
+
+
+
+
+(6 )     EPSO does not manage any grants therefore, indicators time-to-grant and time-to-inform are not
+applicable to EPSO
+
+
+
+
+EPSO_aar_2024                                                                           Page 26 of 39
+2.1.5. Conclusion on the cost-effectiveness of controls
+EPSO continues to make efforts to improve the efficiency of financial processes and contract
+implementation. Based on the most relevant key indicators and control results, EPSO has
+assessed the effectiveness, efficiency and economy of its control system and reached a
+positive conclusion on the cost-effectiveness of the controls for which it is responsible.
+
+
+
+
+EPSO_aar_2024                                                                 Page 27 of 39
+2.2.    Audit observations and recommendations
+This section sets out briefly the state of play for all audit observations and recommendations
+reported by auditors related to internal control and financial management – including the
+limited conclusion of the Internal Auditor on the state of internal control. Further details for
+IAS audits can be found in Annex 8.
+
+In 2024, there were no observations or recommendations made by IAS in relation to EPSO’s
+financial management or internal control.
+
+
+
+Internal Audit Service
+
+In its contribution to the 2024 Annual Activity Report process, the Internal Audit Service
+concluded that the internal control systems in place for the audited processes are effective.
+
+
+
+
+EPSO_aar_2024                                                                     Page 28 of 39
+2.3.        Assessment of the effectiveness of internal control
+            systems
+The Commission has adopted an Internal Control Framework based on the highest
+international standards. (7)
+
+EPSO has adapted the Internal Control Framework to their specific characteristics and
+organisational structure. The internal control systems are suited to achieving its policy and
+internal control objectives in accordance with the internal control principles, having due
+regard to the risks associated with the environment in which it operates.
+
+For its assessment EPSO’s management has considered notably the following sources:
+
+   •    Register of exceptions
+   •    Analysis of internal control weaknesses
+   •    Non-compliance events
+   •    Risk assessment
+   •    EDPS audit on data protection
+
+Despite the problems encountered with test delivery, which resulted in a temporary halt of
+operations end of 2023/early 2024, EPSO assessed its control measures and concluded that
+they were effective in identifying issues, while their severity required additional time for
+resolution. All components and principles are in place and functioning well overall and needed
+improvements identified in the 2023 AAR were implemented as follows:
+
+   •    The Business Continuity Plan has been completely revised, identifying activities and
+        priority functions which should not be interrupted (or recovered as quickly as possible).
+        Contingency measures and staff responsibilities are described and assigned.
+
+   •    The review of the Anti-fraud strategy is ongoing.
+
+   •    Data protection records have been reviewed and updated as necessary to align with
+        the new competition model, new way of testing and the upcoming onboarding on the
+        new IT tool supporting EPSO's competitions delivery.
+
+   •    The implementation of the EDPS recommendations from January 2024 is ongoing, with
+        regular updates provided by EPSO. The processing of personal data under the previous
+        contract for test delivery came to an end in May 2024. The tender specifications for
+        the testing delivery have been drafted in a way to enforce further the compliance with
+        the Regulation (EU) 2018/1725, and ask for additional evidence. Specific Data privacy
+        record and statement were drafted for the intermediate testing solution.
+   •    Building on the events of 2023 (temporary pause in competitions) and the lessons
+        learned, the specifications of the call for tenders in view of signing framework
+        contract(s) for the provision of online testing capacities have been overhauled. The new
+
+(7 )   The Committee of Sponsoring Organizations of the Treadway Commission Internal Control Integrated
+       Framework, the golden standard for internal control systems.
+
+
+EPSO_aar_2024                                                                               Page 29 of 39
+     technical specifications incorporate feedback from past experiences and introduce
+     improvements in areas such as personal data protection, anti-cheating measures, etc.
+     Control mechanisms have been integrated at different stages of the procurement
+     procedure, as well as during the implementation of the contract.
+
+EPSO has assessed its internal control system during the reporting year and has concluded
+that it is effective, and the components and principles are present and functioning as
+intended.
+
+
+
+
+EPSO_aar_2024                                                               Page 30 of 39
+2.4.     Conclusions on the assurance
+In relation to the reputational reservation noted in the 2023 AAR on the problems
+encountered with the launch of a new automated proctoring system in online testing,
+corrective measures have been undertaken. Nevertheless, the primary factors contributing to
+the 2023 reservation cannot yet be considered sufficiently mitigated, so the reservation
+warrants to be maintained.
+
+In conclusion, based on the elements reported above, management has reasonable assurance
+that, overall, suitable controls are in place; risks are being appropriately monitored and
+mitigated; and necessary improvements and reinforcements are being implemented. The
+Director, in his capacity as Authorising Officer by Delegation has signed the Declaration of
+Assurance.
+
+In relation to the reputational reservation noted in the 2023 AAR on the problems
+encountered with the launch of a new automated proctoring system in online testing, the
+following measures have been undertaken:
+   •    Resumption of competition activities: in February 2024, EPSO unilaterally
+        terminated its test delivery contract and intensified efforts to implement a suitable
+        interim solution as quickly as possible. Since May 2024, EPSO has successfully
+        organised several selections and open competitions using a gap-solution provider. The
+        testing experience to date has been satisfactory, with no significant structural issues
+        reported.
+   •    Implementation of EPSO’s transformation agenda (EPSOlution): EPSO has
+        launched the implementation of 22 cross-cutting projects aimed at monitoring and
+        completing its transformation process. Key initiatives include:
+            o Conducting a tender procedure to engage new delivery service providers and
+                integrating them into EPSO’s systems;
+            o Upgrading the test portfolio to better meet current needs;
+            o Establishing a mid- to long-term planning system;
+            o Enhancing the candidate experience through targeted improvements;
+            o Evaluating and refining EPSO’s outreach strategy; and
+            o Creating a structured system for data collection and statistical analysis of
+                each competition’s participant population.
+   •    Call for tender for computer-based testing services: in October 2024, EPSO
+        published a call for tender to conclude multiple framework service contracts for
+        computer-based testing capacities. These services include hosting and delivering
+        EPSO tests on a secure online platform accessible to candidates connecting remotely.
+Several mitigation measures have been taken to address past issues, including:
+    •    Assessing risks associated with service providers and aligning selection criteria with
+         identified risks and controls;
+    •    Developing contingency plans to address adverse scenarios effectively;
+    •    Enhancing performance indicators to monitor and evaluate the effectiveness of
+         actions taken. The contract includes objective and measurable KPIs, provisions for
+
+
+EPSO_aar_2024                                                                    Page 31 of 39
+         liquidated damages in cases of non-compliance, and regular management-level
+         monitoring.
+
+While progress has been made, several actions are still ongoing and the primary factors
+contributing to the 2023 reservation cannot be considered sufficiently mitigated. The
+reservation in the preceding AAR is therefore maintained.
+
+ #Reservation           Financial Impact           Residual error Evolution
+ Title                  (in m EUR)                 rate 2024*
+                        2023          2024
+ Reputational                     0             0 N/A               Maintained
+ reservation on the
+ problems
+ encountered with the
+ new automated
+ proctoring system in
+ online testing.
+
+
+
+
+EPSO_aar_2024                                                             Page 32 of 39
+2.5.        Declaration of Assurance
+
+
+I, the undersigned, Director of EPSO
+
+In my capacity as authorising officer by delegation declare that the information contained in
+this report gives a true and fair view (8).
+
+State that I have reasonable assurance that the resources assigned to the activities described
+in this report have been used for their intended purpose and in accordance with the principles
+of sound financial management, and that the control procedures put in place give the
+necessary guarantees concerning the legality and regularity of the underlying transactions.
+
+This reasonable assurance is based on my own judgement and on the information at my
+disposal, such as the results of the self-assessment, ex-post controls, the work of the Internal
+Audit Service, and the lessons learnt from the reports of the Court of Auditors for years prior
+to the year of this declaration.
+
+Confirm that I am not aware of anything not reported here which could harm the interests of
+the institution.
+
+However, the following reservation should be noted: “Reputational reservation on the
+problems encountered with a launch of a new automated proctoring system in online testing”.
+More details are provided in annex 9.
+
+
+Brussels, 5 June 2025
+
+…………………………………..…
+
+(signature)
+
+Olivier SALLES
+
+
+
+
+(8 )   True and fair in this context means a reliable, complete and correct view on the state of affairs in EPSO
+
+
+EPSO_aar_2024                                                                                     Page 33 of 39
+3.      MODERNISING THE ADMINISTRATION
+EPSO is implementing a new IT system which first version has already been deployed and is
+in use, via the HRT Programme, to be used for its core tasks, in particular the organisation
+and running of open competitions. The new tool has features particularly designed to cover
+specific processes and workflows (such as the admission tool) allowing EPSO to be faster,
+more efficient, streamlined with the ability to monitor resources use at the same time. This
+follows the recommendations from the last European Court of Auditors audit on EPSO’s
+selection methods.
+
+Given that this is a corporate DG HR Family project (Commission), a number of synergies will
+be achieved, on top of complying with the Digital strategy (once only principle, data protection
+by default and design, etc.).
+
+
+
+
+EPSO_aar_2024                                                                     Page 34 of 39
+3.1.    Human resource management
+In 2024, EPSO continued to focus on the effective management of human resources in an
+ongoing context of transformation and heavy workload. The Office made the best possible
+use of all the skills available while developing internal capabilities further.
+
+In this context, we continued the analysis and reflections on the ideal future workforce,
+including on how to best develop the knowledge and competencies of the staff. The objective
+is to ensure the adaptability and flexibility of staff in rapidly changing environment while
+maintaining their engagement and ensuring their well-being. The small operational sector,
+‘Rapid Response Team’, directly attached to the Director, has confirmed its important role by
+providing the flexibility and agility needed in a period of major changes (quick reinforcements
+in case of peaks of workload, long term absences and/or specific/punctual needs).
+
+In 2024, EPSO continued to pay particular attention to gender balance in all categories of
+statutory staff and the ratio between AD and AST posts is also improving with the possibility
+to upgrade AST posts to AD posts.
+
+In 2024, EPSO ensured that managers could benefit from appropriate trainings and coaching
+to help them achieve their objectives and those of the Office. In addition to the already
+existing welcome session for newcomers, a mandatory training path including data
+protection, internal control and risk assessment and ethics has been offered to newcomers.
+Thanks to job shadowing and temporary assignments, some staff members continued to
+train or explore new jobs to prepare the implementation of the new competition model while
+finalising the last competitions still running under the old model. Finally, two AD colleagues
+were selected to participate in the corporate Female Talent Development Programme.
+
+Following the Staff Survey results showing an uneven distribution of information among
+EPSO colleagues, the format of some meetings was revamped to ensure that information
+flows more smoothly. Formal and informal meetings with EPSO’s Director have been
+maintained throughout the year in ‘townhall’ as well as bilateral format. “Tours of the units”
+with the Director and the HR correspondent were also organised to present and explain the
+upcoming reorganisation.
+
+EPSO’s internal communication correspondent continued to work closely with the HR
+Correspondent and DG HR to ensure that corporate messages were shared and followed-up.
+
+
+
+
+EPSO_aar_2024                                                                    Page 35 of 39
+3.2.    Digital transformation and information management
+   •   EPSO is a member of the Corporate HR Transformation Programme, which aims to
+       replace the numerous internal legacy IT applications in the field of HR, with modern
+       and up to date ones. EPSO is the front-runner amongst the members of the HR family
+       to have its existing legacy IT applications (and subsequently IT infrastructure and
+       data) replaced with new ones. In 2024, important progress has been made, as the
+       deployment of the first version of the new tools has happened (December 2024) and
+       the first EPSO Competition was launched in these in January 2025.
+   •   Through these new IT applications, EPSO will contribute to the objective of a seamless
+       digital landscape replacing the current legacy solutions.
+   •   As for the objective green, resilient and secure infrastructure, EPSO is contributing by
+       updating its Information Systems IT security plans and with replacing its current
+       obsolete IT applications by modern cloud-based ones (HRT Program). EPSO has one
+       of the highest percentages (at corporate level) of staff migrated to the new Welcome
+       domain and ensures that its staff is encouraged to update their skills in information
+       management, data protection and cyber security.
+   •   EPSO continued to improve its IT security environment as guided by Commission
+       Decision 2017/46 and DIGIT.S IT Security Standards and Policies. Particular attention
+       has been given to protecting the confidentiality, integrity and availability of sensitive
+       non-classified information held by EPSO. This was achieved by implementing the
+       corresponding mitigating measures of the EPSO systems IT Security plans and of
+       relevant audits that took place. In addition, drafting and approval of the IT security
+       plan for the new EPSO IT systems took place in 2024.
+
+   •   EPSO staff were invited to participate in corporate Cyber Awareness training sessions.
+
+   •   Data, information and knowledge management (implementation of a new platform in
+       2024, SharePoint.)
+   •   New EPSO INTER-Institutional Competition platform has been put in place to cover
+       online collaboration needs between EPSO and its stakeholders. SharePoint Online has
+       become a preferred platform to share information, inside the organisation but also
+       with other actors participating in our processes.
+   •   Regarding the new IT applications that have already been deployed as part of the HRT
+       Programme, EPSO actively participates in all the Programme’s activities that will
+       ensure a coherent, efficient and secure Data and information management across all
+       members of the Programme and is implementing its IT applications in line with them.
+
+   Data protection
+
+   EPSO has continued to implement the Commission’s Data Protection Action Plan in
+   particular by further awareness raising amongst EPSO/EuSA staff. Training courses on
+   data protection matters have been made mandatory for newcomers and staff dealing
+   with personal data. The Data Protection Coordinator (DPC) and the assistant DPC have
+   continued to act as a trusted first point of contact and advice for any data protection
+
+
+EPSO_aar_2024                                                                     Page 36 of 39
+   matters in EPSO/EuSA, while the legal aspects, including data subject rights, have been
+   covered by the legal team. The DPC has also been very closely involved in the HRT project
+   and any other IT projects with data protection aspect, or when a Data Protection Impact
+   Assessment (DPIA) is needed.
+
+Both DPC and assistant DPC have continued to participate in relevant specialists’ trainings.
+
+
+
+
+EPSO_aar_2024                                                                   Page 37 of 39
+3.3.    Sound environmental management
+Located in L-107, EPSO staff work in ‘dynamic collaborative space’, reducing energy
+consumption (heating, lighting).
+
+EPSO is actively raising awareness among its staff about climate change and encourage
+sustainable practices both in the professional and private spheres.
+
+In 2024, key actions taken were:
+
+   •   EPSO is using its EMAS functional mailbox to inform colleagues about various
+       sustainability initiatives to reduce the Commission’s carbon footprint.
+   •   Staff are regularly reminded to cancel their paper subscriptions to written press for
+       online ones. They were also encouraged to participate in events like wardrobe
+       revamping, as a fun way to contribute to environmental sustainability.
+   •   EPSO also invited colleagues to attend a training in order to learn how to reduce
+       carbon footprint of websites, as any use of electronic devices has an environmental
+       footprint.
+   •   Following a communication in the EMAS mailbox, several colleagues expressed
+       interest in plant-based cooking. They were informed about the existence of the
+       Sustainable Eating Community (established as a result of a workshop held by the
+       European Commission’s EMAS network), which is part of the Green Transition
+       Multipliers’ Community.
+
+By promoting these initiatives, EPSO fosters a culture of sustainability and encourages staff
+to adopt environmentally friendly practices as every little step counts.
+
+
+
+
+EPSO_aar_2024                                                                  Page 38 of 39
+      3.4.     Examples of economy and efficiency
+      The initial economies resulting from the introduction of innovative technologies, such as and
+      automated proctoring in the delivery of our tests, were impacted by a pause in operations,
+      restarted in 2024 with a gap solution and the publication of a call for tenders. The latter is
+      meant to re-establish an efficient and stable test delivery environment and the related
+      economies.
+
+      Also, major economies are expected from implementation of the HRT programme mentioned
+      in the introductory paragraph. However, these are only expected in the longer-term period
+      once the obsolete systems are fully replaced.
+
+
+
+
+Electronically signed on 05/06/2025 16:56 (UTC+02) in accordance with Article 11 of Commission
+       EPSO_aar_2024                                                                      PageDecision
+                                                                                               39 of 39(EU) 2021/2121
+

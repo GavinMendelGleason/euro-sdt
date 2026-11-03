@@ -1,0 +1,6 @@
+SOURCE: Statistics Lithuania (LSD), SDMX dataflow S3R527 'Universitetų dėstytojai' / 'University lecturers' (M3110712), updated 2026-04-08.
+API URL: https://osp-rs.stat.gov.lt/rest_xml/data/S3R527_M3110712?startPeriod=2000&endPeriod=2026
+Portal (blocked to this host, HTTP 403): https://osp.stat.gov.lt/
+2025-2026, university lecturers (destytojai = main and second job), total: 8,773 persons.
+Same year, main job only (personalas): 5,270; second job only (personalas1): 3,481.
+Dimensions: Lytis (sex), dest_dp (job). No field-of-science and no professorial-rank dimension is published.

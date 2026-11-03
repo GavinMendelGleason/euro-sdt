@@ -1,0 +1,2061 @@
+PROGRAMME REVIEW
+
+
+
+
+                                                                       Brussels - May 2026
+Master of Science in European Economic Studies - Master of
+Arts in European Interdisciplinary Studies - Master of Arts in EU
+International Relations and Diplomacy Studies - Master of European
+Law - Master of Arts in European Political and Governance Studies
+
+
+College of Europe
+
+
+
+
+                                                          qualityassurance.vluhr.be
+PROGRAMME REVIEW COLLEGE OF EUROPE
+
+
+
+VLUHR Quality Assurance
+Sinter-Goedeleplein 14
+1000 Brussels
+
+
+This report is electronically available at https://www.qualityassurance.vluhr.be/assessment-reports.
+
+Legal deposit number: D/2026/12.784/3
+Content
+
+Preface VLUHR Quality Assurance Board .................................................................................. 3
+Programme review ............................................................................................................. 4
+  Introduction ................................................................................................................... 4
+  Panel composition ............................................................................................................ 4
+  Review principles ............................................................................................................. 4
+  Preparation .................................................................................................................... 5
+  Visit ............................................................................................................................ 5
+  Report .......................................................................................................................... 6
+Programme report ............................................................................................................. 7
+  Management of the programmes ........................................................................................... 7
+  Quality Assurance ............................................................................................................ 8
+  Mission and vision of the programmes ..................................................................................... 8
+  Learning outcomes .......................................................................................................... 10
+  Curriculum.................................................................................................................... 11
+  Learning and teaching ...................................................................................................... 13
+  Assessment ................................................................................................................... 15
+  Master’s thesis ............................................................................................................... 16
+  Staff ........................................................................................................................... 19
+  Admission and progression ................................................................................................. 21
+  Student support services ................................................................................................... 22
+  Facilities ...................................................................................................................... 24
+  Information ................................................................................................................... 25
+Conclusion ..................................................................................................................... 26
+  Summary of the commendations .......................................................................................... 28
+  Summary of the recommendations ........................................................................................ 30
+  Summary of the suggestions ............................................................................................... 31
+Annexes ........................................................................................................................ 32
+  Annex 1: Administrative details of the programmes ................................................................... 32
+  Annex 2: Short CV panel members ........................................................................................ 34
+  Annex 3: Visit schedule ..................................................................................................... 36
+  Annex 4: Overview of consulted documents ............................................................................. 38
+
+
+
+
+                                                                                                                                 p. 2
+Preface VLUHR Quality Assurance Board
+
+Dear reader,
+
+This assessment report deals with the programme review of the Master of Science in European Economic Studies,
+Master of Arts in European Interdisciplinary Studies, Master of Arts in EU International Relations and Diplomacy
+Studies, Master of European Law (LLM), and Master of Arts in European Political and Governance Studies at the
+College of Europe. This programme review was conducted by an independent panel of experts in between October
+2024 and April 2026.
+
+This report is intended for all stakeholders of the programmes and provides a snapshot of its quality following
+the review principles for quality assurance for programme assessments in Flanders. As chair of the VLUHR Quality
+Assurance Board, I hope that the panel’s findings, judgements, recommendations, and commendations will
+advance these programmes. Additionally, this report intends to provide information regarding the quality of the
+programmes to a wider audience. For this reason, this report is published on the website of VLUHR QA.
+
+I would like to thank all members of the panel for the time they invested and the dedication they showed carrying
+out this programme review. At the very same time, this review was only possible because of the commitment of
+all those involved at the programmes. I hope this report does justice to their efforts.
+
+                                                                                                       Mia Sas
+                                                                           Chair VLUHR Quality Assurance Board
+
+
+
+
+                                                                                                             p. 3
+Programme review
+
+Introduction
+This assessment report presents the findings, judgements, commendations and recommendations regarding the
+Master of Science in European Economic Studies, Master of Arts in European Interdisciplinary Studies, Master of
+Arts in EU International Relations and Diplomacy Studies, Master of European Law (LLM), and Master of Arts in
+European Political and Governance Studies at the College of Europe. 1
+
+This programme review was carried out in accordance with the ‘Manual for Programme Review’ of VLUHR QA.
+Nina Geenen, Policy Advisor at VLUHR QA, was project manager of this review.
+
+
+
+Panel composition
+The proposal of candidate panel members was approved by the VLUHR Quality Assurance Board on March 10,
+2025. The composition of the panel was ratified by the VLUHR Quality Assurance Board on June 5, 2025.
+
+The panel has the following composition 2:
+
+    -    Peter Bursens, Professor of Political Science at the University of Antwerp (Chair)
+    -    Edward Best, Associate Research Fellow at the UN University Institute on Comparative Regional
+         Integration Studies and former Senior Expert at the European Institute of Public Administration (EIPA)
+    -    Claire Kilpatrick, British Academy Global Professor of Law at Queen’s University Belfast
+    -    Christine Reh, Professor of European Politics at the Hertie School Berlin
+    -    François-Charles Wolff, Professor of Economics at the University of Nantes
+    -    Ruben De La Cruz, Graduate from the Master of EU Studies at Ghent University (2025) and Doctoral
+         Researcher at the Ghent Institute for International and European Studies (GIES) at Ghent University
+
+
+
+Review principles
+The programme review was conducted in accordance with the eight quality features. These features are the
+characteristics of a high-quality higher education programme, defined by NVAO and tied in with the Standards
+and Guidelines for Quality Assurance in the European Higher Education Area (ESG, 2015). For each programme
+whose quality is satisfactory, the presence of the following quality features is guaranteed:
+
+  1.    The programme’s learning outcomes constitute a transparent and programme‐specific interpretation of
+        the international requirements regarding level, content, and orientation;
+  2.    The programme’s curriculum ties in with the most recent developments in the discipline, takes account
+        of the developments in the professional field, and is relevant to society;
+  3.    The staff allocated to the programme provide the students with optimum opportunities for achieving the
+        learning outcomes;
+  4.    The programme offers the students adequate and easily accessible services, facilities, and counselling;
+  5.    The teaching and learning environment encourages the students to play an active role in the learning
+        process and fosters smooth study progress;
+  6.    The assessment of students reflects the learning process and concretises the intended learning outcomes;
+  7.    The programme provides comprehensive and readable information on all stages of study;
+  8.    Information regarding the quality of the programme is publicly accessible.
+
+
+
+
+1 The administrative details of the institution and the programme(s) involved are included in Annex 1.
+
+2 A short cv of the panel members is included as Annex 2.
+
+                                                                                                             p. 4
+In addition, a programme ensures the involvement of internal and external stakeholders on the one hand and
+external and independent peers and experts on the other hand, in a continuous pursuit of quality development.
+If applicable, the programme must also comply with relevant regulations with respect to the admission of
+graduates to corresponding posts or professions.
+
+
+
+Preparation
+In preparation for the site visit, the five master’s programmes of the College of Europe submitted a
+comprehensive self‑evaluation report (SER), developed in accordance with the VLUHR QA Manual for Programme
+Review. The clustered SER presented institution‑wide information alongside detailed programme‑specific
+documentation, demonstrating how each programme addresses the quality criteria set out in the assessment
+framework. In addition, the SER includes a chapter on the Inter-Departmental European Advanced Studies
+Programme (IDEAs), a non-degree initiative that offers interdisciplinary courses to all programmes at the College
+of Europe’s Bruges campus, while being primarily integrated within the POL, LAW and ECO programmes.
+
+The panel received the SER, including all supporting materials, three months prior to the site visit and examined
+the documentation thoroughly in preparation for its work. The SER was found to be clear and well‑structured,
+and it was supported by extensive evidence such as relevant data, policy documents, course materials, and
+outputs from internal quality assurance processes. The panel also noted the open and reflective manner in which
+the programmes described their strengths and areas for improvement, drawing on student and alumni surveys,
+stakeholder consultations, and internal reflections. This constructive and transparent approach, visible both in
+the SER and during the discussions during the site visit, provided the panel with a solid foundation for carrying
+out the review.
+
+Prior to the visit, the panel members attended a training session on December 15, 2025. During the training, the
+panel members received more detailed information on the review and the practical details of how the review
+process takes place. Special attention was given to the status of the programmes, quality assurance in Flanders
+and Europe, and interview techniques. The panel got acquainted with the review principles and was informed
+about how this framework relates to the European Standards and Guidelines (ESG). The visit schedule was also
+discussed and is attached in Annex 3. Finally, the self-evaluation report was discussed in depth to prepare the
+site visit.
+
+During the preparatory phase of the review, the panel requested additional information regarding the European
+Union Diplomatic Academy, a training initiative hosted at the Bruges campus, in light of recent media coverage
+of a fraud investigation related to this externally funded EEAS project. The panel sought to clarify whether any
+developments surrounding the Academy might have implications for the five master’s programmes under review.
+Based on public information, the documentation provided and explanations given during the site visit, the panel
+established that the Diplomatic Academy operates separately from the academic programmes: it has no shared
+funding streams, nor does it play any role in the design, delivery or governance of the programmes’ curricula.
+The panel therefore concluded that the developments concerning the Academy do not affect the programmes
+included in this review, and the matter is considered adequately clarified for the purposes of this procedure.
+
+
+
+Visit
+The panel carried out the programme review on January 26-28, 2026 at College of Europe in Bruges. During the
+site visit, the panel conducted interviews with all those involved in the programmes in order to gain insight into
+the quality of all five programmes, including management, students, teaching and supporting staff, alumni, and
+employers. In order to give all stakeholders the opportunity to talk confidentially to the panel, there was an
+open consultation. At the end of the site visit, the panel discussed its findings, judgements, recommendations,
+and commendations with the programme management in a co-creative session. After a final panel meeting, the
+panel shared its main conclusions with the programme management in an oral report. The interviews took place
+in an open and constructive atmosphere and provided the panel, in addition to the documents studied (see
+Annex 4 for an overview), relevant insights regarding the quality of the programmes.
+
+
+
+                                                                                                              p. 5
+Part of the site visit was dedicated to the review of the programme-specific infrastructure of the four
+programmes offered in Bruges, namely the Masters in European Economic Studies, EU International Relations and
+Diplomacy Studies, European Law, and European Political and Governance Studies. An additional site visit to the
+Natolin Campus was carried out on January 14-15, 2026, by the panel chair and the project manager, to inspect
+the programme-specific infrastructure of the Master of Arts in European Interdisciplinary Studies.
+
+
+
+Report
+This report covers the evaluation of the following master’s programmes of the College of Europe:
+
+    -   Master of Science in European Economic Studies (Bruges)
+    -   Master of Arts in European Interdisciplinary Studies (Natolin)
+    -   Master of Arts in EU International Relations and Diplomacy Studies (Bruges)
+    -   Master of European Law (Bruges)
+    -    Master of Arts in European Political and Governance Studies (Bruges)
+
+Since the institution and the five programmes in question share core institutional characteristics and operate
+within an integrated governance and support system, several topics are analysed at the institutional level rather
+than being repeated for each programme individually. These institution‑wide analyses address aspects such as
+management, facilities, student support services, and quality assurance, which are organised centrally and
+applied uniformly across the Bruges and Natolin campuses. Presenting these elements at the College level avoids
+unnecessary duplication and reflects the structural reality that many academic and operational processes are
+shared between programmes.
+
+Within each thematic section, the report provides programme‑specific analyses where meaningful differences
+exist or where individual programmes display distinctive strengths, challenges, or developmental needs. This
+applies in particular to mission and vision, learning outcomes, curriculum design, learning and teaching, and the
+master’s thesis, where disciplinary profiles and pedagogical approaches vary more substantially. By combining
+institutional‑level discussion with programme‑specific findings, the panel has aimed to offer a holistic yet
+differentiated account of quality across the College of Europe. This structure ensures that the panel’s judgements
+are both coherent – reflecting the common framework within which the programmes operate - and appropriately
+sensitive to the unique academic identities of each programme.
+
+In the subsequent assessment report the panel provides the findings, judgements, recommendations, and
+commendations regarding the quality of the programmes as a whole. The panel also formulates a conclusion at
+the end of the report, readable for a broad audience and including an advice for accreditation, as well as a list
+of commendations, suggestions and recommendations. The programme management was given the opportunity
+to respond to the draft of this report before finalisation.
+
+
+
+
+                                                                                                              p. 6
+Programme report
+
+Management of the programmes
+The College of Europe manages its programmes within a distinctive institutional model characterised by a
+combination of departmental autonomy, central governance, and a flying‑faculty structure.
+
+The five master’s programmes are managed primarily by their like-named Departments. Each department has a
+Director of Studies (DoS) and a Resident Professor (RP) 3, who exercise the core permanent academic leadership
+of their programme. They are supported in this role by a small team of Academic Assistants (AAs). During their
+preparation for the site visit - and confirmed during the discussions with all stakeholders - the panel observed
+that the latter play a critical organisational, pedagogical, and liaison role within the day-to-day operations of
+the programmes. Their involvement includes coordination of Visiting Professors (VPs), supporting students
+academically and pastorally, and ensuring coherence across courses and assessment practices.
+
+The educational governance of the programmes is overseen by the centralised Academic Council, which
+convenes six times per academic year. The Council is chaired by the College’s Rector and is composed of
+academic representatives from all its academic programmes. These academic representatives are the Director
+of Studies, the Resident Professor, a representative of the Visiting Professors, and a representative of the
+Academic Assistants of each programme at the College. Other stakeholder groups such as students, supporting
+staff, and alumni are represented in the Council as well. While its size of nearly 60 members makes meetings
+lengthy, the stakeholders met during the visit confirm that the Council succeeds in ensuring participatory
+decision-making and in overseeing appointments of academic personnel, programme changes, the determination
+of study results, and academic regulations.
+
+The flying faculty model, a key feature of the College educational system, brings academics and practitioners
+to the programmes for short-term educational assignments. This creates a rich, practice oriented and up-to-date
+learning environment for students. At the same time, the model requires significant coordination to manage
+heterogeneity in teaching methods, expectations, and assessment standards. The panel recognised this structural
+challenge in ensuring consistent alignment with learning outcomes, but commends the multiple mechanisms that
+the programmes have in place – such as the support of the AAs, annual faculty meetings, guidelines for Visiting
+Professors, second reader systems for master’s theses, and recurring student evaluations – to navigate this.
+
+The panel considers that the five master’s programmes operate within a clear and effective organisational
+structure. The programme-specific departments enable the College to appoint appropriate academic and
+professional experts and maintain close ties with the respective professional fields. Although the programmes
+are offered across two campuses, the overall academic authority for programme design, approval, and quality
+assurance resides within the centralised body of the Academic Council. The governance mechanisms in place -
+supported by the two campuses’ Academic Administration Offices - allow for consistency across programmes
+while accommodating the specific academic profiles and pedagogical approaches of each department.
+
+The panel also finds it noteworthy that the programmes’ management structure is strongly supported by the
+College’s residential formula and close integration between academic and support services. Informal
+interactions, cooperative culture, and the general availability of DoS, RP, and AAs contribute to a coherent and
+student‑centred organisation. Students themselves also play a meaningful role in this responsiveness through
+well‑structured channels of representation.
+
+
+
+
+3   With exception of the Department of European Economic Studies, which has no Resident Professor.
+
+                                                                                                             p. 7
+Quality Assurance
+Since the previous review in 2017, the College and its programmes have taken steps to further formalise and
+strengthen their quality assurance processes. The introduction of annual programme evaluations, alongside the
+course-level student surveys, has contributed to a more structured approach to monitoring programme quality.
+The panel also noted the coherence between the mission and vision statements of the programmes and their
+implementation in practice, as well as a clearer role for the intended learning outcomes. This increased emphasis
+has supported more systematic efforts toward constructive alignment between programme objectives,
+curriculum content, and assessment methods. Although many internal exchanges remain informal - reflecting the
+College’s educational model and the small scale of its programmes - these developments point to a gradually
+more deliberate and organised approach to quality assurance. Taken together, the developments indicate a
+system that is increasingly transparent and evidence-informed, and that is fit for purpose, even if it is not yet
+fully embedded in a mature PDCA cycle.
+
+Building on these developments, the panel recognises the College’s efforts to streamline quality assurance
+processes across campuses. Structures such as the joint governance through the Academic Council, regular
+cross-campus exchanges among support staff, and the taskforce established to jointly prepare this review
+indicate a growing shared approach to internal procedures. Looking ahead, the panel suggests maintaining this
+focus on consistency and effectiveness. This includes further strengthening cross‑campus coordination where
+structures and policies are shared, enhancing coherence in assessment practices by expanding common guidelines
+and calibrated rubrics for Visiting Professors, and formalising quality‑assurance procedures linked to the
+flying‑faculty model to ensure systematic pedagogical alignment.
+
+During the site visit, the panel gathered a wide range of stakeholder feedback, which confirmed both the
+effectiveness and the embedded nature of the College’s quality culture. Students consistently referred to
+examples where their feedback led to adjustments, such as the scheduling of the POL simulation game, the
+modification of assessment timing in ECO and improvements to the introductory interdisciplinary sessions in EIS.
+Teaching staff, including Visiting Professors, highlighted the constructive and timely feedback they receive from
+Academic Assistants and programme leadership, which helps them adjust their teaching to student needs and
+maintain coherent expectations across courses. Alumni noted that the College frequently reaches out for input,
+for example through participation in career panels, programme advisory exchanges, or informal consultations
+during study trips, allowing them to contribute insights on labour market developments and skills needed.
+
+The panel also observed that the College has a strong and extensive network. Close and often informal
+connections between programme staff, Visiting Professors, alumni, and practitioners allow the programmes to
+remain attuned to professional and academic developments. These networks organically feed into the quality
+assurance cycle, as stakeholders provide feedback on curriculum relevance, evolving policy debates, skills
+required in EU institutions, and emerging trends in their respective fields. Although much of this exchange
+operates through informal channels, the panel notes that the frequent contacts with external stakeholders are
+highly effective in ensuring that programme teams receive timely and practice-relevant insights that
+meaningfully support ongoing improvement.
+
+While students indicated that they generally feel heard and that their suggestions often lead to visible
+adjustments, the panel encourages the College to further strengthen the communication of follow-up actions.
+Some students expressed that, although they trusted their feedback was taken seriously, due to the one-year
+nature of the programmes, the concrete steps taken afterwards were not always visible to them. More explicit
+communication and expectation management - for example via short follow-up notes, structured summaries of
+implemented changes, or regular updates through student representatives - would help reinforce transparency
+and strengthen student confidence in the QA cycle.
+
+
+
+Mission and vision of the programmes
+The College of Europe articulates a clear institutional mission, described in its Self-Evaluation Report as
+“providing an advanced European education that combines academic excellence with professional relevance,
+empowering its graduates to contribute to the European integration process.” The panel’s analysis confirms that
+                                                                                                             p. 8
+this mission is not only well defined, but also effectively translated into the design and delivery of the five
+master’s programmes. Each programme is shaped by a shared institutional commitment to practice-oriented
+and policy-relevant European studies, offered within a residential, multilingual, and distinctly multicultural
+learning environment. Despite their differing academic profiles and disciplinary orientations, all programmes
+work towards the common goal of preparing graduates for roles in European and international institutions,
+national administrations, diplomacy, civil society, academia, and the private sector. Throughout the site visit,
+the panel observed that the College’s mission is well understood and consistently reflected in the attitudes and
+practices of staff, students, alumni and other stakeholders, all of whom showed a strong sense of commitment
+to the College’s overarching purpose and to the aims of their respective programmes.
+
+
+Master of Science in European Economic Studies (ECO)
+The ECO programme’s mission is to offer advanced training in European economic integration, combining strong
+analytical and quantitative skills with applied policy expertise. Its vision is to prepare graduates for analytical
+roles in EU institutions, central banks, think tanks, and consultancies by providing both disciplinary depth and
+understanding of the EU policy context. This mission is reflected in the programme’s clear commitment to
+aligning economic theory with real-world policy challenges, supported by contributions from both academics and
+practitioners. In 2025, the programme underwent an intensive reform that further sharpened this focus by
+discontinuing the specialisation in European Economic Integration and Business and the sub-tracks European Law
+and Economic Analysis and European Public Policy Analysis. The panel commends this strategic choice, which
+has resulted in a coherent and clearly profiled programme centred on econometrics, policy evaluation and
+quantitative analysis, thereby strengthening its identity and enhancing its alignment with the programme’s
+professional orientation.
+
+
+Master of Arts in European Interdisciplinary Studies (EIS)
+The EIS programme has a broad, interdisciplinary mission: studying Europe from multiple disciplinary angles
+(political science, law, economics, history, geopolitics). Its vision builds on the Natolin campus’s unique historical
+and geopolitical identity, initially serving the needs of EU enlargement and now increasingly focused on the EU’s
+neighbourhood, security, and strategic challenges. The programme aims to cultivate graduates with the
+capacity to analyse Europe in its wider regional and global context. The introduction of a new study track on
+European Security and Strategy, starting in the 2026-2027 academic year, further sharpens this evolving profile.
+The panel commends the programme’s distinctive approach to European studies and emphasis on European
+history and civilization as common threads, which is clearly appreciated by students. However, the panel also
+notes the challenge of maintaining focus with such a broad scope.
+
+
+Master of Arts in EU International Relations and Diplomacy Studies (IRD)
+The IRD programme’s mission is to provide advanced training in EU external action, diplomacy, and
+international relations, uniting disciplinary rigour with hands-on diplomatic skills. IRD positions itself as a
+specialised programme focusing on the EU’s role as a global actor, combining academic perspectives with
+simulations, negotiations training, language development, and practitioner engagement. This vision also
+highlights responsiveness to evolving geopolitical dynamics, which the panel sees reflected in the programme’s
+ongoing curriculum adjustments, as well as the programme’s continuous benchmarking against similar
+international relations and diplomacy programmes in Europe.
+
+
+Master of European Law (LAW)
+The LAW programme strives to deliver high-level, bilingual legal training in EU law, anchored in analytical work
+with primary legal sources, case law, and problem-solving. Its mission is to prepare graduates to work at the
+highest professional level in EU institutions, national administrations, private practice, and academia. The
+programme envisions lawyers who can not only interpret but also shape EU legal developments. The panel
+commends the programme’s strong emphasis on bilingualism (French and English), legal methodology, and an
+interactive teaching culture that mirrors the real-world practice of EU law. Its mission has been strengthened
+through reforms focusing on legal skills, bilingual teaching, and enhanced student-practitioner interaction.
+                                                                                                                  p. 9
+Master of Arts in European Political and Governance Studies (POL)
+The POL programme’s mission is to train specialists in European political processes, governance structures,
+and policy-making. POL’s vision combines academic foundations in political science with a strong professional
+focus, emphasising analytical, methodological, and practical skills relevant for EU and national institutions. The
+panel notes that the programme’s recent reforms – such as the introduction of compulsory courses on integrity,
+ethics, populism, and the future of Europe, including multi-level governance – demonstrate the programme’s
+commitment to engaging with contemporary political developments and equipping students to navigate an
+evolving governance landscape. The programme aspires to provide a coherent, practice-oriented curriculum that
+prepares students for roles in public governance while fostering critical reflection on European democracy.
+
+
+
+Learning outcomes
+Based on the documentation provided, the panel finds that the intended learning outcomes (ILOs) across the
+College’s programmes are clearly formulated, aligned with Level 7 of the Flemish Qualifications Framework
+(FQF), and appropriately tailored to each programme’s disciplinary and professional focus. The outcomes also
+correspond closely with the mission and identity of the individual programmes, translating their legal, economic,
+political, diplomatic or interdisciplinary orientations into coherent expectations regarding the knowledge, skills
+and attitudes students are expected to develop.
+
+During the site visit, the panel discussed the ILOs with stakeholders from the five programmes. These exchanges
+showed that the outcomes are well understood by both students and staff, who recognise how learning outcomes
+shape programme design, teaching and assessment. The panel also noted that the ILOs are clearly documented
+on the College’s website and consistently presented at the programmes’ orientation sessions, ensuring that
+students are aware from the start how each course contributes to their overall development.
+
+
+Master of Science in European Economic Studies (ECO)
+The panel finds that the ECO programme (66 ECTS) presents well-described and coherent learning outcomes
+aligned with the programme’s quantitative and policy-oriented mission. The ILOs explicitly match the
+requirements of FQF Level 7, including advanced analytical capacities, quantitative methods, and policy-relevant
+economic reasoning. The programme articulates a strong professional orientation, with outcomes linked to skills
+demanded in EU and global labour markets.
+
+
+Master of Arts in European Interdisciplinary Studies (EIS)
+The EIS programme (66 ECTS) defines an ambitious set of interdisciplinary learning outcomes, covering multi‑,
+inter‑, cross‑, and transdisciplinary analysis of Europe. The panel commends that the learning outcomes reflect
+the programme’s broad ambitions, but highlights concerns about whether the breadth of learning outcomes can
+be fully achieved. The range and depth of the ILOs is high, and some outcomes may exceed what is feasible
+within one academic year. This challenge also relates to the constructive alignment, especially in linking
+interdisciplinary outcomes to the structure and assessment of the master’s thesis. The panel therefore
+recommends clarifying and possibly streamlining the ILO set to ensure focus, coherence, and measurability.
+
+
+Master of Arts in EU International Relations and Diplomacy Studies (IRD)
+The IRD programme (66 ECTS) offers clearly defined and well-structured learning outcomes that reflect the
+programme’s specialised niche in EU external relations and diplomacy. The panel commends the explicit
+benchmarking against similar programmes, as well as the integration of language competences and diplomatic
+skills. The outcomes correspond strongly with the applied diplomatic training provided via simulations,
+negotiation exercises, and practitioner-led workshops. The panel praises the openness and self-critical nature of
+the programme’s articulation of learning outcomes.
+
+
+
+
+                                                                                                             p. 10
+Master of European Law (LAW)
+The LAW programme (66 ECTS) provides exceptionally clear and well-formulated learning outcomes, strongly
+grounded in the programme’s educational vision and aligned with EU legal practice. The outcomes reflect high
+expectations in terms of analytical legal reasoning, bilingual proficiency, and the ability to work with primary
+sources. The panel confirms the alignment with the FQF and praises the transparency and thoroughness with
+which learning outcomes are communicated.
+
+
+Master of Arts in European Political and Governance Studies (POL)
+The POL programme (66 ECTS) presents well-described and coherent learning outcomes that clearly match its
+mission. The panel praises the integration of general and specific competencies, bilingualism, research and
+analytical skills, and self-management capacities. The programme also revised its outcomes to respond to recent
+political developments. While the outcomes overall align well with the FQF, the panel does note a slight gap
+concerning explicit methodological and methods training. Strengthening the methodological component is
+therefore recommended to ensure full attainment of research-oriented outcomes.
+
+
+
+Curriculum
+Across the five master’s programmes, the curricula align well with the intended learning outcomes and balance
+academic, policy-oriented, and skills-focused components. The programmes draw extensively on the expertise
+of Visiting Professors (incl. practitioners), whose contributions enrich the curricula with up-to-date professional
+perspectives. The panel considers this responsiveness and capacity for rapid adaptation to changing European
+and global contexts a notable strength. Programmes regularly introduce new courses, update course content,
+and recruit selected Visiting Professors to respond to emerging developments (e.g., security issues, geopolitical
+shifts, digital transformation, artificial intelligence).
+
+Given the programmes’ distinctly practice-oriented character, the panel emphasises that the academic
+dimension continues to receive adequate attention. The panel observes that the programmes do include the
+research competences required at FQF Level 7, that students are generally able to demonstrate these in their
+master’s thesis and other academic assignments. At the same time, the panel observes that - within the
+constraints of the intensive one-year structure - research competences would benefit from further
+reinforcement. Strengthening ongoing initiatives aimed at supporting students’ methodological skills will help
+ensure that the academic dimension remains sufficiently robust and that the programmes remain well positioned
+within an increasingly competitive academic and professional landscape.
+
+The College’s programmes are all designed to connect foundational knowledge with specialised tracks or
+electives, enabling students to shape their academic trajectories in accordance with their interests and
+professional aspirations. The panel commends the programmes for this student-centred approach, which is
+further enhanced by the College’s rich offering of extracurricular activities, allowing students to explore
+specialised or topical themes, engage with real-world challenges and complement their academic learning in
+meaningful ways. During the site visit, students consistently praised the access they have to such initiatives and
+described them as an integral part of their overall learning experience.
+
+The panel recognises the strong integration of languages within the curricula as a distinctive asset of the
+College. All master’s programmes are taught in English and French. The availability of compulsory and elective
+language courses, the multilingual learning environment and the explicit emphasis on working in more than one
+language significantly contribute to students’ academic and professional development. This linguistic dimension
+not only reflects the multilingual reality of European institutions but also enhances students’ intercultural
+communication skills and is therefore regarded by the panel as an important commendation.
+
+Finally, the panel notes that the programmes collectively offer very rich and densely structured curricula, which
+makes it essential to monitor the overall feasibility of the workload. During the site visit, students frequently
+referred to the high workload they experience, not only in terms of academic demands but also in relation to
+the competitive environment that can arise from the strong drive among students to participate actively in the
+                                                                                                              p. 11
+College’s many extracurricular initiatives. This includes the student societies and other student-led activities,
+which are highly valued but can also add to the overall pressure students feel. In this context, the panel
+encourages the programmes to continue reviewing and adjusting workload distribution - particularly when
+implementing curricular reform - and to remain attentive to the pressures associated with competitiveness over
+extracurricular involvement. Clear communication about expectations and guidance on balancing academic and
+extracurricular commitments can help ensure that students benefit fully from these opportunities without
+compromising their academic or wellbeing progress.
+
+
+Master of Science in European Economic Studies (ECO)
+Across interviews and documents, the panel observed that the curriculum of this one-year programme
+demonstrates a clear progression from foundational training in micro- and macroeconomics, econometrics and
+EU economic integration towards more applied and specialised learning in the second semester. The integration
+of research design, applied econometrics, simulations and policy-oriented assignments creates a coherent bridge
+between theory and practice, offering students a curriculum that remains directly relevant to current economic
+and regulatory debates. The panel particularly commends the two-track approach in the econometrics course,
+which effectively accommodates the diverse levels of prior knowledge and skills among students and ensures
+that all participants can engage meaningfully with the programme’s quantitative components. At the same time,
+the panel notes that the intensive nature of compact teaching blocks and the variability introduced by the
+flying-faculty model occasionally challenges overall coherence and student workload. Continued attention to
+aligning teaching approaches and managing workload peaks will therefore further strengthen an already
+ambitious and well-structured curriculum.
+
+
+Master of Arts in European Interdisciplinary Studies (EIS)
+The EIS curriculum is characterised by its breadth and interdisciplinary ambition, bringing together history,
+politics, law, economics and regional studies in a manner that closely aligns with the broader mission of the
+Natolin campus. After carefully examining the curriculum, the panel finds that the first semester provides a solid
+multidisciplinary grounding that prepares students for one of several more specialised course packages in the
+second semester. This structure is designed to enable students to develop thematic and methodological depth
+while maintaining substantial flexibility in shaping their individual learning trajectories. Students met during the
+site visit expressed particular appreciation for the introduction of the European Security and Strategy track,
+noting that it resonates strongly with their academic and professional interests - an enthusiasm that is also
+echoed in feedback from the professional field. The curriculum is further enriched by a diverse range of
+experiential components, including study trips, the ‘Natolin Nests’, and other forms of non-assessed
+project-based learning, all of which students indicated reinforce the programme’s interdisciplinary ethos and
+contribute meaningfully to their overall educational experience.
+
+However, the panel notes that the extensive course offering and wide conceptual scope make it challenging to
+maintain cohesion and ensure full constructive alignment, particularly in relation to the master’s thesis. Partly
+in response to earlier recommendations to expand coverage of Western Europe, the programme has further
+increased its breadth and diversity. While students value this freedom of choice, the panel is mindful that such
+breadth may complicate efforts to guarantee sufficient depth within individual learning trajectories and may
+lead to variation in thesis comparability. At the same time, the programme’s gradual move towards greater
+specificity - through an area-studies-like focus on Central and Eastern Europe and an emerging thematic emphasis
+on security - appears appropriate in light of the campus’s geographical and historical context, though it may
+gradually affect the profile of the EIS as a general interdisciplinary master programme of pan-European
+relevance. For these reasons, the panel recommends that the programme streamlines its learning outcomes and
+clarifies how these outcomes are translated into the curriculum and into assessment practices, to ensure that
+the overall curriculum remains both focused and feasible for students.
+
+
+Master of Arts in EU International Relations and Diplomacy Studies (IRD)
+The panel observes that the IRD programme offers a well-structured curriculum - consisting of four clusters -
+that strikes a thoughtful balance between academic grounding in EU external action and international relations,
+                                                                                                               p. 12
+and strong professional preparation in diplomacy and negotiation. Core courses in the first semester provide all
+students with a shared analytical foundation, after which the second semester offers a range of specialised
+electives that enable them to tailor their learning trajectory in line with their interests and professional
+aspirations. The programme’s intended learning outcomes are well aligned with the curriculum and its
+assessment practices, which contributes to a coherent and professionally relevant learning experience. While
+the curriculum is generally well coordinated, some students reported feeling pressure in the second semester,
+when thesis work, compact practitioner-taught seminars and extracurricular activities converge. Continued
+attention to scheduling and to the coordination of Visiting Professors should help ensure that the curriculum
+remains balanced and that peaks in workload are manageable.
+
+
+Master of European Law (LAW)
+Overall, the panel finds that the LAW programme demonstrates exemplary constructive alignment between its
+intended learning outcomes and its curriculum, based on both the documentation reviewed and the discussions
+held during the site visit. The programme presents a highly structured and coherent curriculum that combines
+rigorous academic training in EU law with the development of applied legal skills. The first semester offers a
+core of compulsory courses that provide students with a solid grounding in the foundations of EU law, while the
+second semester expands into specialised electives and skills-focused workshops, enabling students to pursue
+both breadth and depth. The panel specifically commends the programme’s bilingual design and its sustained
+emphasis on working with primary sources, which ensure that students engage with EU law in an analytically
+robust and professionally relevant manner.
+
+Although the diversity of Visiting Professors enriches the curriculum by bringing a wide range of perspectives
+from academia, legal practice and European institutions, it also requires careful coordination to maintain
+coherence. Different stakeholder groups met during the site visit confirmed that the programme manages this
+effectively through clear communication, collaborative course design, and the continuous refinement of
+interactive teaching components.
+
+
+Master of Arts in European Political and Governance Studies (POL)
+The one-year curriculum of the POL programme integrates academic training in European politics and governance
+with a strong emphasis on applied learning and professional development. Recent reforms introduced compulsory
+courses on ethics, integrity, populism and the future of Europe, including multi-level governance, and confirm
+the programme’s responsiveness to contemporary political developments. The panel finds that the programme’s
+structure - combining a broad menu of elective courses with interdisciplinary components - offers students
+substantial opportunities to engage with real-world governance scenarios and to develop practical skills relevant
+to the EU as well as supranational and national institutions.
+
+During the site visit, the panel also observed the clear and explicit ambition of the relatively new Director of
+Studies to engage in continuous curricular reform. His responsiveness to evolving student needs and broader
+developments in EU and global governance is reflected in reforms related to research design, digital and AI
+literacy, and the programme’s pre-course preparation, namely the POL/IRD online introductory material, which
+the panel considers particularly commendable. The panel recommends strengthening methodological teaching
+and ensuring clearer sequencing throughout the academic year, which will further support students in managing
+workload peaks and in approaching the master’s thesis with stronger and more consistent methodological
+foundations. Collectively, these efforts reinforce the POL curriculum’s overall coherence and its close alignment
+with the programme’s intended learning outcomes.
+
+
+
+Learning and teaching
+Based on the documents provided by the programmes and the discussions with all stakeholders, the panel states
+that the College of Europe offers a dynamic and immersive learning environment grounded in interactive
+teaching and applied learning formats. Institution-wide, the panel praises the programmes’ commitment to
+
+
+                                                                                                            p. 13
+activating and innovative teaching methods, including simulations, case-based learning, applied workshops and
+interdisciplinary activities.
+
+A central element of the programmes’ learning environment is the distinct “College formula”, characterised by
+a residential set-up, multilingual community and continuous interaction within and beyond the classroom. The
+College has deliberately chosen an educational approach that prioritises personal, on-campus interaction,
+fostering daily engagement between students and staff and creating a learning community in which academic,
+social and professional development are closely intertwined. Students consistently described this formula as
+academically stimulating, intensive and supportive. They emphasised not only the value of hands-on teaching
+and the proximity of both academic staff and Academic Assistants, but also the wide range of extracurricular
+activities and student-led initiatives that shape their daily learning experience. Activities such as student
+societies, conferences, cultural events and practitioner exchanges form an essential part of the educational
+model and provide additional opportunities for students to deepen their engagement with European affairs.
+
+The panel also draws attention to the rapidly evolving role of artificial intelligence in higher education. It
+commends the College for the AI policy introduced in 2025–2026, which demonstrates institutional responsiveness
+to sector-wide developments and provides a regulatory framework for responsible AI use. Students and staff
+expressed appreciation for this policy, while also indicating that further development is both necessary and
+expected. In this regard, the panel highlights the initiatives taken by the IRD programme to inform and guide
+students in the appropriate use of AI tools, which the panel considers a good practice that could be adopted
+across the College. In particular, the panel suggests complementing regulation with more hands-on,
+programme-specific training that equips students with practical AI-related skills - such as prompt engineering,
+technical competencies and the ethical and responsible application of AI - aligned with the expectations of the
+professional field. Programme management confirmed that additional trainings are already being developed for
+the upcoming academic year, which the panel considers a positive and timely step.
+
+
+Master of Science in European Economic Studies (ECO)
+Teaching in the ECO programme is characterised by interactive teaching and learning methods, including case-
+based learning, problem sets, data analysis exercises, applied policy projects, and simulation activities. The
+programmes incorporate a commendable range of applied and policy-specific methods, which play a central role
+in fostering active engagement with economic concepts. Students also appreciate the structured progression
+from theory to application and value the high level of expertise brought by both academic and practitioner staff.
+The panel notes the strong guidance provided by Academic Assistants, especially in supporting incoming students
+with weaker quantitative methods backgrounds.
+
+
+Master of Arts in European Interdisciplinary Studies (EIS)
+The EIS programme offers a highly interactive, interdisciplinary learning environment, shaped by small class
+sizes, diverse pedagogical styles, and strong student–staff engagement. The panel notes that teaching and
+learning methods such as the programme’s ‘Nests’, study trips, and interdisciplinary teamwork are very effective
+in fostering active participation and cross-disciplinary collaboration. Students and teaching staff are both very
+appreciative of the variety of formats used within the programme.
+
+
+Master of Arts in EU International Relations and Diplomacy Studies (IRD)
+The panel observes that the IRD programme offers a highly interactive and practice-oriented learning
+environment that integrates hands-on diplomatic training with academic teaching. Simulations, negotiation
+exercises, Model UN, practitioner-led seminars and language courses encourage active learning and support the
+development of professional skills relevant to EU external action and international diplomacy. Students met
+during the site visit confirmed that these components, together with the compulsory research design course,
+enable them to engage with real-world diplomatic challenges and to apply theoretical insights in practical
+settings.
+
+
+
+                                                                                                            p. 14
+Stakeholders highlighted the strong engagement between instructors and students, noting in particular the
+important role played by Academic Assistants in facilitating communication, supporting course delivery and
+helping students navigate academic expectations. The panel also notes that teaching is well structured across
+clusters, contributing to a coherent and professionally relevant learning experience. Minor challenges relate
+mainly to workload peaks and scheduling pressures in the second semester, when thesis work, compact
+practitioner-taught seminars and extracurricular activities happen at the same time. Continued attention to
+managing these intensities will help maintain a balanced and sustainable learning environment.
+
+
+Master of European Law (LAW)
+The LAW programme offers an interactive, practice-oriented learning environment, with strong emphasis on
+case-law analysis, bilingual instruction, legal drafting, moot courts, and skills workshops. Students value the
+coherence across courses and the well-coordinated teaching team supported by AAs. The panel praises the
+programme’s clear expectations, strong communication culture, and excellent structuring of interactive
+methods. Overall, the teaching quality in LAW is consistently high and deeply appreciated by students.
+
+
+Master of Arts in European Political and Governance Studies (POL)
+The panel observes that the POL programme offers a highly active and professionally oriented learning
+environment that combines seminars, simulations and practitioner-led workshops. The four-week simulation
+game is widely recognised as a flagship component of the programme, providing students with a rich and
+immersive experience of EU governance processes. In addition to these curricular elements, the panel notes that
+the programme is complemented by a particularly vibrant range of extracurricular activities, many of which
+respond directly to current developments - such as the growing focus on audio-visual communication and
+problem-solving with practitioners. These activities, largely student-initiated and supported by the College, form
+an important extension of the learning environment and contribute meaningfully to the development of practical
+skills relevant for careers in European politics and governance.
+
+At the same time, students reported that the simulation game component, together with the varied scheduling
+of Visiting Professor-led seminars, can generate significant workload peaks - particularly when these coincide
+with deadlines for the master’s thesis. The students met also expressed a desire for more systematic training in
+qualitative and quantitative research methods to better prepare them for the thesis and for the analytical
+demands of the professional field, noting that this is particularly important for those who had not written a
+master’s thesis prior to entering the programme.
+
+The panel commends the programme for its openness, strong culture of collecting and integrating student
+feedback, and its consistent efforts to adjust course formats in response to previous recommendations.
+Stakeholders confirmed that the programme has already taken concrete steps to address workload pressures by
+extending the simulation game from three to four weeks, introducing a daily “disconnection time” between 8
+p.m. and 8 a.m., and implementing a semaine blanche to create breathing space during the most intensive
+simulation game periods. Going forward, the panel recommends the programme to remain mindful of the timing
+and length of the simulation game - particularly in relation to other courses and deadlines - to ensure that the
+learning environment remains healthy and sustainable for students. Strengthening methodological teaching and
+ensuring clearer sequencing throughout the year would further support students in managing these demanding
+periods and in developing the skills required for successful thesis preparation.
+
+
+
+Assessment
+Across the programmes, assessment methods are generally well aligned with the intended learning outcomes.
+This is evident from the documentation provided but was also confirmed in the interviews with students and
+teaching staff. All programmes use a rich and varied mix of assessment methods, such as written examinations,
+research papers, policy briefs, oral presentations, moot courts, and simulations. The formats used complement
+one another and enable students to demonstrate knowledge acquisition, analytical capacity and professional
+skills in a different way. Many assessments closely mirror real-world professional tasks. Thereby assignments
+
+                                                                                                             p. 15
+reinforce the programmes’ applied orientation and enable programmes to assess students’ achievement of
+learning outcomes related to problem-solving, applied analysis, and professional readiness.
+
+The panel acknowledges some of the programmes’ good practices concerning assessment, such as the expanding
+use of anonymous marking, which supports transparency and fairness, as well as the institution-wide
+implementation of a digital exam platform, clear rules on academic integrity, and the recently updated AI policy
+(2025). Together, these elements contribute to more reliable assessment practices. The AI policy, in particular,
+is relevant in an increasingly digitalised learning environment, as students must learn to use generative AI
+effectively and responsibly, and understand the boundaries of such use. Students met during the site visit
+expressed appreciation for the institution’s policy framework, as well as for the feedback sessions facilitated by
+Academic Assistants, which help clarify the rationale behind grades.
+
+As part of the improvements implemented since the 2017 review, the College has also strengthened the
+assessment of the master’s thesis. Measures such as mandatory oral defences, the introduction of a
+second-reader system – where external second readers are appointed by the Academic Council on the basis of
+proposals from the Directors of Studies - and the revision of assessment forms in most programmes to enhance
+alignment with intended learning outcomes have contributed to greater transparency and uniformity in grading.
+At the same time, the panel observes that differences in practice remain between programmes, indicating that
+full consistency across the institution has not yet been achieved.
+
+The panel also considers how assessment practices are coordinated among the teaching staff, particularly Visiting
+Professors. Panel members note positively how the programmes brief and support VPs, an appreciation echoed
+by the teaching staff during the site visit. Staff described ongoing dialogue to ensure alignment between
+assessment formats and course-level learning objectives, as well as clear communication of programme-specific
+assessment policies at the start of each teaching assignment. Nevertheless, the panel identifies uniformity in
+grading as an important area for continued attention. Based on discussions with students and staff, the panel
+considers that more explicit use of rubrics could strengthen transparency and support equal treatment across
+the cohort. It also encourages programmes to maintain a structured approach to calibration and expectation
+management, especially with regard to thesis supervision by the visiting professors. In addition, the panel
+suggests that cultivating a stronger sense of community among Visiting Professors may enhance shared ownership
+and promote greater consistency in assessment practices.
+
+
+
+Master’s thesis
+The master’s thesis (15 ECTS) is a standard component of the programmes at the College of Europe. Prior to the
+site visit, the panel reviewed a selection of theses from each programme. Overall, the consulted theses reflect
+the disciplinary profiles of the respective programmes well and demonstrate a sufficient level of academic
+achievement in line with FQF Level 7. At the same time, the panel observes variation across programmes. For
+instance, theses in quantitatively oriented programmes like ECO tend to incorporate more robust empirical
+analysis, whereas in interdisciplinary or more practice-oriented programmes the degree of methodological depth
+or conceptual focus differs more noticeably. During the site visit, the alumni and representatives of the
+professional field confirmed that the College’s programmes adequately prepare students for their professional
+careers, indicating that the skills and networks developed through the thesis process are relevant.
+
+The panel commends the College’s strong supervision culture. The thesis process is clearly structured with
+defined guidelines, milestones, and support mechanisms in place. The second-reader system - where a second
+evaluator reviews the thesis independently - and the recently reintroduced oral thesis defences contribute to
+fairness and transparency and help triangulate the academic judgement. Students met by the panel consistently
+highlighted the vital role played by Academic Assistants in providing day-to-day methodological and
+organisational support. They cited examples such as feedback sessions on draft outlines, guidance on data
+management, and help in interpreting thesis guidelines as particularly valuable. Recognising the valuable role of
+the AAs, the panel recommends that the AAs are offered further methods and research training themselves.
+
+Despite these strengths, the panel notes that feasibility and methodological preparedness vary across
+programmes. These differences are often related to the heterogeneity of incoming students and differences in
+                                                                                                             p. 16
+curricular structure. Some students - particularly those who had not previously written a thesis - reported
+challenges in formulating a research question or selecting appropriate methods within the compressed one-year
+timeline. Although the panel saw good examples of early methodological training, such as introductory
+econometrics support in ECO and the research-design courses in POL and IRD, this support is not yet embedded
+consistently across all programmes. The panel therefore suggests further strengthening training in research skills,
+supported by adequate methodological facilities and guidance throughout the thesis process. In addition, in cases
+where a thesis supervisor does not have an academic profile, the panel considers it important that the second
+reader is an academic in order to safeguard the academic quality of the thesis.
+
+
+Master of Science in European Economic Studies (ECO)
+ECO theses typically involve applied economic analysis, econometric modelling or policy evaluation, and they
+reflect the programme’s quantitative and policy-oriented profile. Students met during the site visit confirmed
+that they receive sufficient research-design training, particularly through the methodological sessions offered in
+the first semester which help them formulate feasible and well-scoped research questions. They also expressed
+appreciation for the guidance provided by thesis supervisors, who ensure methodological soundness and support
+students in selecting appropriate empirical strategies, datasets and analytical frameworks. The programme
+provides clear timelines and written guidelines for each stage of the thesis process, and students noted that
+regular check-ins with supervisors and Academic Assistants help them stay on track during the intensive one-year
+cycle.
+
+The panel commends the strong alignment between the master’s thesis and the programme’s intended learning
+outcomes, particularly regarding quantitative competencies. The thesis process offers students opportunities to
+apply the econometric tools and policy-analysis techniques developed throughout the curriculum, often using
+real-world datasets or evaluating EU policy measures. In several cases reviewed, the panel observed that theses
+demonstrated a high level of technical proficiency, including sophisticated modelling approaches or rigorous
+empirical testing. At the same time, the panel notes that the ECO programme continues to refine its guidance
+on the responsible and transparent use of AI tools within empirical research, which students indicated is
+increasingly relevant when handling data or drafting analytical components. Overall, the thesis trajectory in ECO
+is well structured and effectively supports students in demonstrating the research and analytical capabilities
+expected at Level 7 of the Flemish Qualifications Framework.
+
+
+Master of Arts in European Interdisciplinary Studies (EIS)
+The interdisciplinary character of the EIS programme encourages students to explore thesis topics across politics,
+law, economics, history and regional studies. Discussions with students during the site visit provided further
+insight into how the thesis process is experienced in practice. Students reported that proposing a thesis topic
+and initial design by the end of October can be challenging, particularly because relevant methodological
+components and some thematic content – and therefore possible thesis topics - have not yet been fully covered
+by that point in the academic year. The list of potential supervisors and their areas of expertise was described
+as highly valuable and the programme’s system of tentative deadlines within a clear timeline is appreciated.
+Students also expressed strong appreciation for the role of the Academic Assistants, who provide workshops on
+citation practices and research-question formulation as well as personalised guidance throughout the thesis
+trajectory. Overall, students felt well supported by the programme and they highlighted the strength of the
+student community, which actively shares resources and methodological advice. At the same time, some students
+suggested that additional guidance may be beneficial for those entering the programme without previous
+research or thesis experience.
+
+The theses reviewed showed evidence of core research competences - such as critical argumentation, structured
+use of sources, and a recognisable methodological approach - though often at a modest level of complexity.
+While broadly aligned with the academic competences at FQF Level 7, the panel found that more consistent
+methodological depth and more tightly defined research designs would help ensure a stronger and more robust
+academic standard.
+
+
+
+                                                                                                              p. 17
+In line with this finding, the panel gives two points of attention for further development. First, the panel observed
+some variation across the programme, particularly in cases with ambitious themes or broad thematic scopes.
+While the breadth of possible topics is an important strength of the programme, the panel notes that in a limited
+number of cases this may lead to theses that are somewhat wider in focus or methodology than is feasible in the
+available ten-month time. The panel therefore suggests reinforcing methodological support earlier in the
+academic year, encouraging more precise topic refinement, and providing clearer guidance on how to achieve
+interdisciplinarity without overextension. The panel also encourages the programme to strengthen its
+constructive alignment by simplifying and clarifying the ILOs, so that they can be more easily translated into
+curriculum design and assessment practices, particularly in relation to the thesis. Greater clarity in this regard
+would also help students make feasible and well-scoped choices, while safeguarding the academic integrity and
+distinctive interdisciplinary focus of the EIS programme.
+
+Second, the panel observes that interdisciplinary competencies are not systematically incorporated into, or
+assessed through, the thesis, despite it being a defining characteristic of the programme. The discussions with
+programme management and the documentation provided have made it clear to the panel that interdisciplinary
+competencies are inherently developed in many components of the programme - through both content and
+teaching methods - and assessed in several mandatory courses, while also being present in non‑assessed
+activities. However, the panel maintains that the thesis itself should explicitly reflect the programme’s
+interdisciplinary profile, as this would enhance coherence and more clearly reinforce the distinctiveness of the
+degree.
+
+
+Master of Arts in EU International Relations and Diplomacy Studies (IRD)
+In IRD, theses typically address topics linked to EU external action, diplomacy, multilateralism or security issues,
+reflecting the programme’s analytical and practice-oriented profile. Students follow a mandatory research design
+course, which the panel praises as good practice because it offers a structured introduction to formulating
+research questions, choosing appropriate methods, and developing coherent research designs before drafting
+their thesis proposals. Students met during the site visit confirmed that this course provides valuable early
+guidance, particularly for those with limited prior experience in academic research.
+
+Reported challenges relate mainly to workload peaks in the second semester, when thesis writing coincides with
+compact practitioner-taught seminars, extracurricular commitments, and the approaching submission deadline.
+Students noted that these periods can be demanding, although they also recognised the programme’s increasing
+attention to scheduling and sequencing. Academic Assistants play a vital role throughout the process by offering
+methodological and organisational support. Students highlighted the usefulness of AA-led sessions on referencing,
+research ethics and structuring literature reviews, as well as the accessibility of AAs for individual follow-up
+when needed.
+
+Overall, the panel considers IRD theses to be coherent, well supervised and appropriately aligned with the
+programme’s intended learning outcomes. The theses reviewed demonstrate the conceptual understanding,
+analytical competence, and level of autonomy expected in a one-year programme at FQF Level 7, while also
+reflecting the applied orientation that characterises the IRD degree.
+
+
+Master of European Law (LAW)
+In the LAW programme, theses typically focus on legal analysis of EU case law, legislative developments,
+institutional dynamics, or specific policy domains. The programme’s longstanding emphasis on primary sources -
+including case law, legal texts, and preparatory documents - is clearly reflected in the theses reviewed. Based
+on the sample examined, the panel finds that LAW theses demonstrate the analytical precision, source-based
+reasoning, and autonomy expected at FQF Level 7, while also reflecting the programme’s bilingual and
+practice-oriented profile.
+
+Discussions with students during the site visit provided further insight into how the thesis process is experienced
+in practice. The thesis trajectory is supported by a well-organised process, beginning with early topic selection
+and supervisor allocation, followed by a series of defined milestones. Students confirmed that they receive
+
+                                                                                                                p. 18
+extensive guidance from supervisors and Academic Assistants, particularly in refining research questions,
+interpreting legal sources and structuring doctrinal analysis. AAs were described as highly accessible for questions
+concerning referencing, argument structure and thesis guidelines. While the required thesis length is considered
+appropriate, some students noted that the intensity of the programme limits the extent to which they can explore
+topics in depth, occasionally requiring them to scale back ambitious initial ideas. Overall, the panel finds that
+the thesis component remains one of the programme’s strengths, supported by clear expectations, a coherent
+supervision model, and a rigorous assessment framework that helps students reach the required academic level
+within the one-year structure.
+
+
+Master of Arts in European Political and Governance Studies (POL)
+In POL, thesis topics examine aspects of European governance, institutional functioning, political behaviour,
+policy analysis, or multi-level decision-making. The thesis process is supported by the newly introduced Research
+Design in Governance, Politics and Policy-Making of the EU course, which students described as helpful in
+familiarising them with the basic tools of academic research.
+
+Students met during the site visit expressed appreciation for the support provided by supervisors and Academic
+Assistants, particularly in narrowing broad initial ideas, structuring arguments and identifying feasible
+methodological approaches within the ten-month timeframe. At the same time, several students noted that the
+experience of writing a thesis varies considerably depending on their prior academic background. Those who
+have already completed a master’s thesis elsewhere generally consider the POL thesis comparatively light, while
+students without previous research experience find the process demanding. Recent alumni also mentioned that
+the combination of seminars, the simulation game and other activities left limited time for in-depth research,
+resulting in work they considered “good enough” but not always at the level they had initially hoped to achieve.
+Several students indicated that additional training in and availability of research software for both qualitative
+and quantitative methods would further strengthen their preparation for thesis work, especially for those
+entering the programme without prior experience in empirical research.
+
+Building on this feedback, the panel recommends expanding the existing research-design training to ensure that
+all students - particularly those with limited research backgrounds - have sufficient methodological tools to
+undertake independent thesis work. This could include offering complementary instruction in research design,
+general methodology and specific methods, or providing curated resources for students to consult independently.
+Given the tight curriculum, the panel considers that offering certain components on a voluntary basis, potentially
+supported by short video modules prepared by methodological experts, could be a flexible way of meeting diverse
+student needs and allowing those interested in academic or other research-oriented careers to specialise further.
+
+Overall, the panel finds that the POL thesis trajectory is underpinned by a clear timeline, structured guidelines,
+intermediate checkpoints, and accessible methodological and organisational support from Academic Assistants.
+Based on the sample reviewed, the panel considers that most theses meet the expectations associated with FQF
+Level 7, demonstrating adequate conceptual understanding, analytical competence, and a degree of autonomy
+aligned with the programme’s intended learning outcomes. Looking ahead, further strengthening of
+methodological training and careful sequencing of workload - particularly in relation to the simulation game and
+key thesis milestones - will help ensure that all students are able to meet these academic expectations within
+the programme’s intensive one-year structure.
+
+
+
+Staff
+The staff composition at the College of Europe - across the campuses in Bruges and Natolin - brings together
+Directors of Studies (DoS), Resident Professors (RPs), Visiting Professors (VPs), and Academic Assistants (AAs).
+This structure lies at the heart of the College’s distinctive formula and contributes to a rich and diverse
+academic environment. At the same time, the panel notes that this intensive model brings certain challenges,
+particularly relating to workload management and the need to ensure that teaching remains cohesive across
+courses and departments.
+
+
+
+                                                                                                               p. 19
+Directors of Studies and Resident Professors provide the academic leadership of the programmes. During the
+site visit, students and staff consistently highlighted their accessibility, dedication, and strong engagement in
+both academic and supportive roles. DoS and RPs act as anchors within programmes, ensuring that the curriculum
+evolves coherently and that the programme’s identity is preserved across years. Given their central role in
+safeguarding academic quality and the intensity of the one‑year programmes, the panel considers it important
+that they continue to receive sufficient structural support, particularly during periods of programme reform or
+staff turnover.
+
+Visiting Professors bring specialised expertise and up-to-date professional insights, which students highly value.
+Their diverse backgrounds - including EU institutions, national administrations, international organisations, NGOs,
+and academia - ensure that the programmes remain practice-oriented and responsive to emerging developments.
+Although the flying-faculty model presents inherent logistical and educational challenges, the panel finds the
+integration of VPs at the College particularly successful. Stakeholders consistently praise the clear
+communication and collaborative approach between resident and flying staff, and the panel was impressed by
+the extent to which VPs are embedded in the programmes and contribute meaningfully to the programmes’
+applied orientation.
+
+Throughout the review process, Academic Assistants emerged as an indispensable part of programme delivery.
+AAs serve as organisational and pedagogical bridges between permanent staff, VPs and students, carrying
+responsibilities that include course coordination, methodological support, thesis assistance, communication, and
+daily student guidance. The panel commends the College for its ability to attract AAs with strong academic
+profiles and the right mix of skills to perform these varied tasks effectively. At the same time, the central role
+of AAs brings challenges: their workload is considerable, and their responsibilities are wide-ranging. The panel
+therefore recommends that continued attention be paid to the selection and professionalisation of AAs, including
+access to on-the-job training and sufficient time for their own academic development – such as doctoral research.
+Given their crucial position in safeguarding daily operations and the quality of teaching and assessment, the
+panel also encourages the College to ensure an adequate number of AAs relative to programme size and
+complexity.
+
+Programmes also benefit from strong administrative and support staff, particularly in areas such as student
+affairs, libraries, IT, accommodation, and campus life. Students expressed high appreciation for the commitment
+and approachability of the staff members, underscoring their contribution to the residential model and the sense
+of community that characterises the College.
+
+In its analysis of staff composition, the panel acknowledges the programmes’ awareness of gender balance and
+the measures already taken to address it. While progress is visible, the panel advises adopting an even more
+proactive and sustained approach to fostering diversity among teaching staff, particularly within the pool of
+Visiting Professors.
+
+Across the board, the panel is highly impressed with the quality and strong commitment of all staff. Their
+collective professionalism and dedication are central to the successful delivery of the five master’s programmes.
+Throughout the review procedure - including the preparation of the SER and the discussions during the site visit -
+the panel encountered a very open and reflective attitude from the staff, which panel members consider
+indicative of a mature and embedded quality culture. From an educational perspective, the panel notes that
+formal professionalisation activities for teaching staff are relatively limited. However, based on discussions with
+both students and teaching staff, this does not appear to hinder the quality of teaching or the effectiveness of
+the learning experience.
+
+Finally, the panel notes that the College of Europe offers a demanding and ambitious professional environment.
+While staff expressed strong intrinsic motivation and a strong identification with the College’s mission, the panel
+encourages the institution to remain attentive to staff wellbeing. A more proactive wellbeing policy - recognising
+the cumulative demands placed on academic, administrative and support staff - would help maintain the positive
+and sustainable working environment consistently described by stakeholders.
+
+
+
+
+                                                                                                              p. 20
+Master of Science in European Economic Studies (ECO)
+The ECO Department is supported by 30 Visiting Professors from 17 countries, ensuring strong international and
+disciplinary diversity. Teaching is nearly evenly split between practitioners and academics, reflecting the
+programme’s dual academic–professional orientation. The Department’s permanent staff includes a half-time
+Director of Studies, and 4 Academic Assistants, forming a compact but highly functional academic team.
+
+
+Master of Arts in European Interdisciplinary Studies (EIS)
+The EIS Department has expanded significantly since the previous accreditation, now supported by over 100
+Visiting Professors, reflecting its broad interdisciplinary remit and strong international profile. The Department’s
+permanent academic team includes approximately 17 core staff members, alongside 6 Academic Assistants,
+enabling strong individualised support. The sustained growth in faculty ensures the programme can deliver its
+wide range of courses (134 in 2025) while maintaining manageable staff–student ratios.
+
+
+Master of Arts in EU International Relations and Diplomacy Studies (IRD)
+The IRD programme works with 45 Visiting Professors, of whom 28 are academics and 19 practitioners, ensuring
+a balanced blend of theoretical and applied instruction. The panel commends the substantial improvement in
+gender balance, rising from 22.5% female faculty in 2017 to 47.3% in 2025. The IRD Department is further
+supported by a Resident Professor, a Director of Studies, and 6 Academic Assistants.
+
+
+Master of European Law (LAW)
+The LAW Department draws on approximately 45–50 Visiting Professors, combining senior EU legal scholars with
+high-level practitioners from the Court of Justice, national administrations, and law firms. The permanent
+academic staff includes a Director of Studies, Resident Professor, and 7 Academic Assistants. The Department
+has also made progress towards gender balance, increasing female faculty representation compared to previous
+cycles.
+
+
+Master of Arts in European Political and Governance Studies (POL)
+The POL programme engages 56 Visiting Professors from 18 nationalities, reflecting its broad disciplinary and
+professional orientation. The core academic leadership consists of a half-time Director of Studies and a Resident
+Professor, supported by 7 Academic Assistants. The diversity and size of the faculty allow for a wide range of
+optional courses and strong practitioner involvement across clusters.
+
+
+
+Admission and progression
+The College of Europe applies a similar selective and multi-layered admissions process for all its programmes.
+Candidates can apply for up to two programmes (with ranked or equal preference) and undergo two levels of
+evaluation for each: a pre-selection by the Department, followed by an interview conducted by the College
+and/or National Selection Committees. The final decision of admission – based on the admissibility status – is
+taken by the Admissions Office in Bruges and by the Recruitment Office in Natolin. This structure ensures that
+admitted students meet the requirements for the programmes, while contributing to the College’s multicultural
+and international learning environment. During the site visit, students and staff repeatedly emphasised the
+transparency of the process and the consistency with which admission criteria are applied across countries and
+programmes. Several students noted that interviews with national selection committees were academically
+demanding but fair, and that they appreciated the emphasis on motivation, prior academic preparation, and
+linguistic ability.
+
+Across the institution, the panel is impressed by the level of ambition, drive and quality of the students at the
+College. Overall, the student body is both highly qualified and heterogeneous: the majority already hold a
+master’s degree or equivalent, which contributes to a strong academic base. At the same time, diversity in
+
+                                                                                                               p. 21
+disciplinary background and prior research experience necessitates targeted support measures. Staff and
+students pointed to the value of preparatory tools such as introductory courses, e-learning modules, and writing
+or methods tutorials, which help level the playing field at the start of the year. Academic Assistants play a key
+role in this process, offering guidance on academic expectations, research skills, and programme-specific
+requirements. Students emphasised that these supports are particularly helpful for those who arrive with limited
+prior exposure to EU studies or without experience in writing a thesis.
+
+The panel considers socio‑economic and geographic diversity an important dimension of the College’s
+admissions landscape. While the College succeeds in attracting a wide range of nationalities, students and staff
+indicated that socio‑economic diversity remains uneven across countries due to differing national scholarship
+schemes. The total study fee - € 29.000 for the academic year 2025-2026, covering both tuition, board and
+lodging – represent a significant financial commitment, which further underscores the importance of accessible
+funding opportunities. The College’s own initiatives, such as InclusivEU and various fee‑waiver schemes, provide
+meaningful support, yet financial accessibility continues to depend heavily on external national funding
+structures over which the College has limited influence. The panel therefore recommends that the College
+continue to expand and prioritise targeted measures to promote socio‑economic and geographic diversity,
+recognising the importance of a broadly representative student body for the institution’s mission, classroom
+dynamics and long‑term societal impact.
+
+Progression through the programmes is shaped by the intensive ten-month structure, which requires continuous
+attention to workload distribution, academic performance, and wellbeing. Students generally feel that relevant
+information on deadlines, exam regulations, progression, etc. is clearly communicated within the programmes,
+and many confirmed that they receive timely advice on academic planning. However, workload peaks - often
+linked to compact course delivery, extracurricular commitments, or programme-specific elements such as the
+POL simulation game - require careful planning and occasional adjustments to safeguard feasibility and student
+wellbeing.
+
+From the discussions with students and staff, the panel also learned of helpful programme-specific practices that
+may be usefully adopted across the College. In particular, the IRD programme integrates early instruction on
+Anglo-Saxon and Francophone evaluation styles - including expectations for academic essays and analytical
+writing - which students described as invaluable in navigating the diverse assessment methods used at the
+College. The panel suggests that this practice be incorporated into the preparatory courses across all
+programmes, as it would equip incoming students with a clearer understanding of formal writing conventions and
+reduce the adjustment period at the start of the academic year.
+
+Drawing on the SER and information gathered during the site visit, the panel concludes that the College’s
+admissions process effectively identifies candidates with the academic preparation and personal resilience
+required to succeed in an intensive one-year format. Progression patterns across the five programmes confirm
+the robustness of the support structures in place, including introductory courses, language courses, tutorials,
+e-learning modules and close staff–student interaction. Taken together, these elements ensure that students are
+well positioned to progress through the curriculum and achieve their programmes’ intended learning outcomes.
+
+
+
+Student support services
+Student support at the College of Europe is deeply shaped by its residential model, which integrates academic,
+social and personal wellbeing within a close-knit campus environment. Institution-wide, the panel commends the
+strong culture of accessibility and informal support networks that this model enables. Students consistently
+emphasised their appreciation for administrative staff, Academic Assistants, and the sense of community fostered
+by living and learning together. At the same time, the panel observed that the two campuses sometimes differ
+in their available facilities and access to professional support services, making continued attention to
+inter-campus coordination important.
+
+The students met were very clear about the ambitious and demanding nature of the programmes. While the
+panel recognises that the College has a broad spectrum of support services in place, discussions during the site
+visit highlighted two areas where further strengthening would be beneficial. First, although students generally
+described the support they receive as responsive and effective, several noted that the visibility and accessibility
+                                                                                                              p. 22
+of professional counselling structures could be improved. The panel therefore encourages the College to enhance
+the clarity of information regarding wellbeing pathways and to ensure that students know where to turn for
+specialised support when needed.
+
+Second, the panel observed that many support mechanisms are currently request-driven, requiring students to
+actively seek out assistance. Given the intensity of the one-year academic cycle, the panel suggests adopting a
+more proactive approach to student wellbeing. This includes monitoring workload pressures, communicating
+follow-up actions to student feedback consistently across campuses, and remaining attentive to the cumulative
+demands placed on students. Sustained attention to these aspects will help maintain the positive and supportive
+learning environment that students regard as a distinctive strength of the College.
+
+
+Campus Bruges
+Student support services in Bruges are characterised by a combination of administrative guidance, academic
+support, language assistance and practical, residence-based support. During the site visit, students repeatedly
+emphasised the responsiveness and approachability of administrative staff, noting examples such as the rapid
+help they received in resolving residence-related issues, assistance with visa and registration procedures, and
+the practical guidance offered during peak periods like exam weeks or thesis submission. The panel observed
+that this hands-on administrative support significantly contributes to students’ sense of stability and wellbeing
+on a daily basis.
+
+Students also benefit from structured academic support provided by Academic Assistants, who play a key role
+in guiding coursework, thesis preparation, and methodological skills. Several students shared concrete examples
+of AAs offering targeted support - such as individual thesis-outline discussions, workshops on citation practices,
+and guidance on structuring policy briefs or legal arguments. Students indicated that these sessions are especially
+valuable during the transition into the intensive one-year programme and in periods when compact teaching
+blocks increase academic pressure.
+
+The panel notes that, while adequate support mechanisms exist on the Bruges campus, students expressed some
+uncertainty about how to access professional psychological services, particularly in urgent situations. A number
+of students mentioned that, while they were aware of the presence of a Wellbeing Officer, they were unsure
+about how to schedule appointments or what types of issues could be addressed confidentially through this
+service. Others reported that information on external psychological support - while available - is not always
+clearly signposted or easy to find. The panel therefore recommends strengthening awareness of wellbeing
+pathways by making information about psychological support more visible on digital platforms and during
+orientation activities. Ensuring that students from diverse backgrounds feel comfortable accessing these services
+without stigma or confusion will further improve the inclusiveness of the wellbeing offer.
+
+In terms of community life, Bruges offers a vibrant extracurricular environment supported by student
+associations, cultural activities and events that contribute meaningfully to wellbeing and integration. Students
+highlighted the positive impact of initiatives such as the student-run societies, thematic conferences, language
+tandems, and informal study groups. At the same time, several students noted that the intensity of the academic
+schedule occasionally limits their ability to participate fully in these opportunities, particularly during peak
+workload periods. Nonetheless, the panel finds that the wide array of student-led activities enriches the overall
+learning environment and further strengthens the sense of community that is central to the College’s residential
+model.
+
+
+Campus Natolin
+Student support services at the Natolin campus strongly benefit from its residential setting, which fosters close
+interaction among students, staff and faculty and creates an environment in which academic, social and personal
+wellbeing are closely intertwined. During the site visit, students consistently highlighted the strong sense of
+community and the high level of personalised support provided by administrative and support staff. They
+appreciate the general accessibility of staff and the efforts made by the administrative teams to create an
+inclusive, multicultural environment where students feel supported academically and personally. Students also
+
+                                                                                                              p. 23
+highly valued the range of wellbeing and support structures available, including access to a part-time
+psychologist, wellbeing officers and student life coordinators.
+
+Academic Assistants also play a central role in supporting students at Natolin. Students gave concrete examples
+of AAs providing guidance on coursework expectations, workshop-style sessions on academic writing, and
+research techniques, as well as personalised assistance during thesis preparation. The small-scale campus
+structure means that AAs are present and approachable throughout the week, which students described as
+particularly helpful during compact teaching blocks and in the lead-up to major assignments. In discussions with
+the panel, students emphasised that this proximity enhances both academic support and general wellbeing, as
+AAs often function as first points of contact when students face difficulties.
+
+Community life at Natolin emerged as one of the campus’s defining strengths. Students spoke enthusiastically
+about the wide range of community-building activities embedded into the academic year, including cultural
+evenings, guest lectures, informal discussion groups, and the signature study trips, which they described as
+academically enriching and socially bonding experiences. The panel observed that these activities contribute
+significantly to integration and peer support. At the same time, several students noted that the intensity of the
+academic schedule, combined with the immersive residential environment, can sometimes make it challenging
+to maintain a balanced rhythm, particularly during periods when coursework and thesis milestones converge.
+Overall, however, the panel finds that Natolin’s strong sense of community, together with its structured
+academic and administrative support, offers students a highly engaging and supportive living-learning
+environment.
+
+
+
+Facilities
+The College of Europe operates two distinct campuses. Each offers facilities that support academic work,
+residential life, and extracurricular activities. Institution-wide, the panel commends the high quality and
+accessibility of facilities, noting that both campuses provide well-equipped study environments, strong IT
+support, and spaces conducive to community building. The residential formula is reinforced by the availability
+of dedicated social, cultural, and academic spaces. While overall satisfaction with facilities is high, the panel
+notes that pressures on certain spaces and infrastructure - particularly libraries and study rooms - require
+continued strategic planning.
+
+
+Campus Bruges
+Bruges provides a compact but well-organised set of facilities distributed across several historic buildings in the
+city centre. Students appreciate the central locations and the atmosphere created by the historic architecture.
+Academic facilities include well-equipped classrooms, seminar rooms, computer rooms, and group-study areas.
+
+The library is valued for its specialised collection in European studies, which is further strengthened through
+close collaboration with partner libraries and documentation centres, allowing access to additional resources
+when needed. The panel also noted the responsiveness of the library staff, with the extension of opening hours
+as a concrete example of how the library adapts to student needs. While the library functions as an important
+academic hub, some students mentioned limitations in seating capacity during busy times, suggesting that further
+expansion or space optimisation could be beneficial.
+
+IT infrastructure is reliable and well supported, and students report positive experiences with the digital learning
+environment and exam platform. Residential facilities, divided across several residences, are generally well
+maintained, though some students mentioned variability in room quality. Social spaces - including common
+rooms, the student bar, study rooms, and outdoor areas - are appreciated and contribute to the community
+atmosphere.
+
+
+
+
+                                                                                                               p. 24
+Campus Natolin
+Natolin benefits from a distinctive, self-contained campus environment, set within a protected historical park.
+The panel highlights the exceptional quality of the campus grounds and the integrated nature of academic,
+residential, and social spaces. Facilities include modern classrooms, a well-resourced library with strong support
+services, computer rooms, and multiple dedicated spaces for group work and events. Students emphasise the
+value of the 24/7 library access, which supports the intensive academic workload.
+
+Residential facilities in Natolin are generally high quality, with all students living on campus. The integrated
+logistics - dining hall, gym, sports facilities, study rooms, and common areas - support a cohesive community
+dynamic. Students also appreciate the cultural and historical setting, though the campus’s location outside
+central Warsaw requires reliance on public transport.
+
+
+
+Information
+The panel examined whether the College provides comprehensive and readable information about the full study
+trajectory. Across all programmes, the College offers a wide range of information to prospective and current
+students through multiple channels, including programme websites, brochures, orientation materials and direct
+communication from academic and administrative staff. Students interviewed during the site visit confirmed that
+the programme websites offer clear and accessible information on programme structure, course components and
+practical arrangements, and that the published intended learning outcomes help them form realistic expectations
+prior to enrolment. Once admitted, students have access to all relevant learning materials through the College’s
+digital platforms, and teaching staff actively communicate course updates and requirements via these channels.
+Students also indicated that they are well informed about academic regulations and examination procedures,
+which contributes to a clear understanding of expectations throughout the academic year. They additionally
+highlighted the responsiveness of administrative staff, whose support they regard as a key strength of their
+overall experience.
+
+At the same time, students noted some variability in how information is sequenced, prioritised or repeated
+across programmes and campuses. The panel therefore encourages the College to continue harmonising
+communication practices and to ensure that essential information is delivered in a timely, structured and clearly
+signposted manner.
+
+The panel also explored to what extent information regarding programme quality is publicly accessible. Panel
+members found that the College provides a dedicated webpage with information on its internal quality assurance
+policy, including the core principles of its QA processes, an explanation of how these processes are embedded in
+the governance structure, the tools used for continuous improvement and links to relevant frameworks such as
+the ESG, FQF and Flemish quality characteristics. The page also provides access to published external review
+reports of the programmes, offering stakeholders insight into previous evaluations.
+
+Overall, the panel finds that the availability, quality and clarity of information offered by the College is strong
+and contributes meaningfully to student preparedness and the smooth functioning of academic life.
+
+
+
+
+                                                                                                              p. 25
+Conclusion
+
+Across the five advanced master’s programmes reviewed, the panel concludes that the College of Europe delivers
+education that meets the required quality standards and is firmly grounded in the institution’s distinctive
+“College formula” – which combines academic depth, professional relevance, and an intensive residential
+learning environment. The programmes share a clear mission and identity, yet differ in disciplinary emphasis and
+educational approach, allowing each to serve its intended purpose. At the same time, the panel identifies several
+areas where continued attention will be important to ensure sustained quality within the intensive one-year
+framework.
+
+Quality assurance processes have become more structured since the previous review in 2017, with annual
+programme evaluations, clearer use of intended learning outcomes, and increasing cross-campus alignment.
+These developments have strengthened constructive alignment and contributed to a more transparent,
+evidence-informed QA culture. The panel recommends continued harmonisation of practices across campuses
+and programmes and further formalisation of procedures, to strengthen consistency and transparency.
+
+The curricula across the programmes are coherent, up to date, and closely aligned with the respective missions.
+The integration of practitioners - through simulations, skills workshops, case-based exercises, study trips and
+language training - remains a distinctive strength that supports the applied and policy-oriented profile of the
+College. Nevertheless, the panel finds that research competence, while present, would benefit from further
+deepening, particularly given the compressed nature of the one-year format. Strengthening methodological
+preparation earlier in the academic year and monitoring workload distribution will be important to safeguard the
+academic dimension and ensure feasibility for all students.
+
+The panel recognises the College’s dynamic learning and teaching environment, characterised by intensive
+interaction and multilingualism within a closeknit community. Innovative teaching methods are used effectively,
+and students appreciate the responsiveness of staff. However, the rapid evolution of artificial intelligence and
+digital tools calls for more programme-specific training and practical guidance. The IRD programme’s initiatives
+in this area constitute a promising example that could be adopted more widely.
+
+The panel acknowledges the rich variety of assessment methods and the improvements to the master’s thesis
+process, including the introduction of oral defences and the second-reader system. These measures have
+enhanced transparency and robustness. At the same time, variation between programmes persists - particularly
+in grading practices, use of rubrics, and expectations communicated to Visiting Professors. More systematic
+calibration would support greater consistency across the institution.
+
+The panel also highlights the dedication and professionalism of staff, whose combined academic and practitioner
+expertise greatly enriches the programmes. The diversity of profiles - ranging from senior EU officials to
+researchers and legal experts - supports the applied nature of the curricula. Academic Assistants, in particular,
+play an essential coordinating, pedagogical, and pastoral role. Given their broad responsibilities, the panel
+recommends continued attention to their training and workload, as well as sustained efforts to safeguard staff
+wellbeing more broadly.
+
+Student support services and facilities on both campuses are regarded very positively by students, who value
+the accessibility of administrative staff, the community atmosphere, and the quality of educational infrastructure
+and residential spaces. Nonetheless, the visibility of support could be strengthened and made available more
+proactively, particularly during peak workload periods. The panel also notes that the College provides
+comprehensive information on its programmes, regulations, and quality assurance processes.
+
+Taken together, the panel finds that the programmes are fit for purpose and aligned with FQF Level 7
+expectations. Continued investment in methodological support, QA consistency, assessment coordination, and
+student and staff wellbeing will help ensure that the College of Europe sustains its distinctive strengths and
+remains well positioned in a rapidly evolving academic and professional landscape:
+
+    -    The panel finds that the Master of Science in European Economic Studies meets the review principles.
+         The panel therefore gives a positive final judgement.
+
+
+                                                                                                             p. 26
+-   The panel finds that the Master of Arts in European Interdisciplinary Studies meets the review principles.
+    The panel therefore gives a positive final judgement.
+
+-   The panel finds that the Master of Arts in EU International Relations and Diplomacy Studies meets the
+    review principles. The panel therefore gives a positive final judgement.
+
+-   The panel finds that the Master of European Law (LLM) meets the review principles. The panel therefore
+    gives a positive final judgement.
+
+-   The panel finds that the Master of Arts in European Political and Governance Studies meets the review
+    principles. The panel therefore gives a positive final judgement.
+
+
+
+
+                                                                                                         p. 27
+Summary of the commendations
+
+Common
+      -   The distinctive “College formula” creates a unique and effective learning environment for the policy-
+          oriented curricula.
+
+      -   The College offers a genuinely multicultural learning environment, fostering international exchange,
+          intercultural understanding, and a strong sense of community.
+
+      -   The integration of Visiting Professors into programme delivery is highly effective, ensuring that students
+          benefit from up‑to‑date professional insights alongside academic expertise.
+
+      -   The overall quality, professionalism, and dedication of teaching and support staff is outstanding, with
+          Academic Assistants in particular forming an integral and indispensable part of programme delivery
+          through their wide range of responsibilities and expertise.
+
+      -   The College provides an exceptionally rich ecosystem of extracurricular activities, supported by an
+          extensive external network that enables students to engage with practitioners, institutions, and societal
+          debates beyond the classroom.
+
+      -   The College offers excellent facilities, infrastructure and student support services, contributing to an
+          environment that enables effective study, community life, and personal wellbeing.
+
+      -   The panel praises the high level of ambition, motivation, and overall quality of the student body, which
+          significantly enriches the academic and social dynamics of the College. The panel is impressed with the
+          successful career trajectories of College alumni.
+
+      -   The system of student representation is well structured and meaningfully supported, enabling students
+          to contribute actively and constructively to programme enhancement.
+
+      -   The programmes are highly responsive to feedback from stakeholders, students specifically.
+
+      -   The programmes demonstrate strong adaptability to emerging societal and technological developments,
+          including responsiveness to changes in the global context and the evolving role of artificial intelligence.
+
+      -   The College’s sustained attention to language learning - through compulsory and optional courses -
+          significantly enhances students’ academic and professional competences.
+
+      -   The programmes are effective in supporting and accommodating the heterogeneous academic
+          backgrounds of their student cohorts, ensuring that all students can participate meaningfully in the
+          curriculum.
+
+
+ECO
+      -   The two-track approach in the econometrics course copes effectively with the diverging knowledge of
+          and skills in econometrics among students.
+
+
+EIS
+      -   The programme´s broad approach to European studies, and emphasis on European history and
+          civilization as common threads, is distinctive and is clearly appreciated by students.
+
+
+IRD
+      -   The programme’s preparatory efforts that introduce incoming students to the Anglo-Saxon and
+          Francophone teaching and evaluation styles ensures a shared understanding of assessment expectations
+          for all students.
+
+      -   The IRD initiatives to (in)form their students in AI use are a good practice for the whole College.
+
+
+
+                                                                                                                p. 28
+LAW
+  -   The programme offers a distinctive and valuable curriculum built on primary sources, bilingual
+      requirements and strong skills training.
+
+  -   The programme benefits from a highly supportive and responsive team culture, including the Visiting
+      Professors, which facilitates timely improvements to the curriculum.
+
+
+POL
+  -   The programme management demonstrates a clear and forward-looking ambition for continuous
+      programme reform and implementation - particularly in areas such as research design and AI literacy.
+      Ongoing revisions are well aligned with recent EU and global developments and attentive to Europe’s
+      multilevel governance.
+
+
+
+
+                                                                                                     p. 29
+Summary of the recommendations
+
+Common
+      -   Safeguard the pivotal role of Academic Assistants by ensuring they receive targeted professionalisation
+          and on‑the‑job training, while also providing them with sufficient time and resources to carry out their
+          wide range of responsibilities and pursue their own research activities.
+
+      -   Move beyond regulatory guidance on the use of AI and introduce hands-on, programme specific training
+          in effective and responsible AI use, covering technical aspects (such as prompt engineering) and ethical
+          application in academic work, aligned with the needs of the professional field.
+
+      -   Strengthen and expand measures to improve socio‑economic and geographic diversity within the student
+          body.
+
+      -   Adopt a more proactive and sustained approach to improving gender balance within the teaching staff,
+          including among Visiting Professors.
+
+      -   Ensure the academic nature of the programmes, for instance by strengthening research design and
+          research methodology courses, while safeguarding the unique and effective professional orientation of
+          the programmes.
+
+      -   When a thesis supervisor does not have an academic profile, always assign a second reader who is an
+          academic so that the academic quality and methodological rigour of master’s theses are safeguarded.
+
+
+ECO
+      -   The recommendation concerning gender balance is particularly relevant for the ECO programme, where
+          further improvement is essential.
+
+
+EIS
+      -   Ensure that interdisciplinary competencies, which are central to the programme’s profile, are explicitly
+          incorporated into, and assessed through, the master’s thesis, so that the thesis component fully reflects
+          the interdisciplinary orientation and learning outcomes of the curriculum.
+
+      -   Strengthen constructive alignment by streamlining the learning outcomes, ensuring they can be clearly
+          operationalised within the curriculum and assessed consistently.
+
+
+IRD
+/
+
+
+LAW
+/
+
+
+POL
+      -   Expand the research design course to ensure that students without prior research experience are
+          adequately prepared for the master’s thesis. This should include coverage of research design, general
+          methodology and specific methods, supported - where necessary - by self-study resources and research
+          software. Given the tight curriculum, offering parts of this training on a voluntary basis, complemented
+          by short expert led video modules, would allow students to strengthen essential skills and enable those
+          aiming for academic careers to specialise further.
+
+      -   Continue monitoring and adjusting the timing of (communication on) deadlines and the overall workload
+          of students - particularly in the context of ongoing and future programme reforms - to safeguard
+          feasibility within the intensive one-year structure.
+
+                                                                                                              p. 30
+Summary of the suggestions
+
+Common
+      -   Ensure that Directors of Studies and Resident Professors are sufficiently resourced to sustain day‑to‑day
+          operations, academic leadership and programme quality.
+
+      -   Maintain structural oversight of the flying faculty model to ensure consistent teaching and assessment
+          practices – especially with regard to the master’s thesis - and consider establishing a more formal VP
+          community to further strengthen their shared ownership of the programmes.
+
+      -   Communicate more clearly to students how their feedback on academic and governance matters is
+          followed up, and ensure consistent expectation‑management across student cohorts.
+
+      -   Adopt a more proactive approach to monitoring and supporting student and staff wellbeing within the
+          demanding one-year academic environment. Remain attentive to the pressures created for students –
+          particularly those linked to competitiveness - and communicate clear expectations regarding
+          extracurricular involvement to help safeguard their balance and wellbeing.
+
+
+ECO
+      -   Implement a preparatory introduction to Anglo‑Saxon and Francophone academic and evaluation styles
+          for incoming students, drawing on IRD’s good practices.
+
+
+EIS
+      -   Review the scope and focus of the curriculum to strengthen constructive alignment between learning
+          outcomes and assessment.
+
+      -   Implement a preparatory introduction to Anglo‑Saxon and Francophone academic and evaluation styles
+          for incoming students, drawing on IRD’s good practices.
+
+
+IRD
+/
+
+
+
+
+LAW
+      -   Implement a preparatory introduction to Anglo‑Saxon and Francophone academic and evaluation styles
+          for incoming students, drawing on IRD’s good practices.
+
+
+POL
+      -   Implement a preparatory introduction to Anglo-Saxon and Francophone academic and evaluation styles
+          for incoming students, drawing on IRD’s good practices.
+
+
+
+
+                                                                                                              p. 31
+Annexes
+
+Annex 1: Administrative details of the programmes
+ Name of the institution     College of Europe / Collège d’Europe
+
+ Address and website         Dijver 11, 8000 Brugge (https://www.coleurope.eu/)
+
+ Contact person              Frederik Mesdag, Director of the Academic Administration
+
+ Names of the                –      Master of Arts in European Political and Governance Studies (Bruges)
+ programmes (degree,
+                             –      Master of Science in European Economic Studies (Bruges)
+ qualification, eventually
+ title that holders of the   –      Master of European Law (LLM) (Bruges)
+ degree conferred by this
+                             –      Master of Arts in EU International Relations and Diplomacy Studies (Bruges)
+ programme may use)
+                             –      Master of Arts in European Interdisciplinary Studies (Natolin)
+
+ Potential programme         Full-time post-graduate education
+ routes for working
+ students, full-time/part-
+ time education,
+ day/evening
+ trajectories, different
+ formats of certification
+
+ Tracks                      Specialisation track, to be introduced from the academic year 2026-2027
+                             onwards:
+                                    -   Master of Arts in European Interdisciplinary Studies: European Security
+                                        and Strategy
+
+ Level and orientation       Advanced Master's programmes (“Master na master”), level 7 FQF
+
+ (Parts of) field(s) of      Master of Science in European Economic Studies
+ study                              -   Economische en toegepaste economische wetenschappen;
+                             Master of Arts in European Political and Governance Studies
+                                    -   Politieke en sociale wetenschappen;
+                             Master of European Law (LLM)
+                                    -   Rechten, notariaat en criminologische wetenschappen;
+                             Master of Arts in EU International Relations and Diplomacy Studies
+                                    -   Politieke en sociale wetenschappen;
+                             Master of Arts in European Interdisciplinary Studies
+                                    -   Politieke en sociale wetenschappen;
+                                    -   Rechten, notariaat en criminologische wetenschappen;
+                                    -   Economische en toegepaste economische wetenschappen;
+                                    -   Geschiedenis.
+
+ Languages of instruction    English and French
+
+ The locations at which      Bruges (Belgium) and Natolin (Warsaw, Poland)
+ the programmes are
+ taught
+
+ Workload (in ECTS)          66 ECTS
+
+ Possible, relevant          N.A.
+ collaborations with other
+
+                                                                                                             p. 32
+(higher education)
+institutions and/or
+organizations
+
+Additional national         N.A.
+and/or international
+regulations applicable to
+the programme(s)
+
+
+
+
+                                   p. 33
+Annex 2: Short CV panel members
+
+Peter Bursens (chair)
+
+Peter Bursens is Full Professor of Political Science at the Department of Political Science of the University of
+Antwerp. He is senior member of the Politics and Public Governance research group, co-promoter of the
+GOVTRUST Centre of Excellence, and Director of the STRATEGO Jean Monnet Centre of Excellence. He teaches
+on the topics of European integration, multilevel governance, and negotiations in Bachelor, Master, and Executive
+Master programmes at the University of Antwerp and the Antwerp Management School. He has served several
+terms as Vice Dean for Education and as Programme Director. Peter has also participated in various external
+programme reviews in Flanders and the Netherlands over the course of the last ten years. His research interests
+focus on coordination, implementation, and interest representation in EU policymaking, as well as trust and
+legitimacy in complex multilevel systems.
+
+
+
+Edward Best
+
+Edward Best is an Associate Research Fellow at the United Nations University Institute on Comparative Regional
+Integration Studies (UNU-CRIS) in Bruges. Until May 2023, he was a Senior Expert at the European Institute of
+Public Administration (EIPA) in Maastricht and a Senior Fellow of the University of Maastricht. Edward holds a
+DPhil in international relations from the University of Oxford, and began his career in the regional security
+programme of the International Institute for Strategic Studies (IISS) in London. He moved to EIPA in 1988 to
+coordinate multiannual programmes for the European Commission with Latin America in support of regional
+integration. From 2003 to 2023, he was responsible for successive multiannual contracts for training in EU
+governance issues with the institutions and agencies of the EU. He was also work package leader in EU-funded
+research networks led by the University of Cologne. In this context he delivered courses and published on EU
+policy-making processes as well as on broader dimensions of EU governance.
+
+
+
+Claire Kilpatrick
+
+Claire Kilpatrick is British Academy Global Professor at Queen’s University of Belfast in the Law Faculty. Prior to
+taking up this position in September 2025, she was a Professor of Law at the European University Institute from
+2011 and also served as its Dean of Studies and Co-Director of the Academy of European Law. Claire also held
+academic positions in Bristol, Cambridge and London. Her work focuses on Social Europe, especially on how it is
+shaped by EU law and policy. Her current British Academy project explores labour rights as human rights in EU
+Sustainable Supply Chain regulation.
+
+
+
+Christine Reh
+
+Christine Reh is Professor of European Politics at the Hertie School in Berlin where she also served as Dean of
+Graduate Programmes. Before joining the Hertie School in 2018, Christine held academic positions at the College
+of Europe in Bruges (Belgium) and at University College London (UCL). Christine’s work focuses on the European
+Union’s institutions, politics, and legitimacy, with a particular interest in law-making, informal governance, and
+politicisation. Her research is widely published and has been funded by the British Academy and the Economic
+and Social Research Council (ESRC). Christine is a member of the Jacques Delors Centre at the Hertie School, sits
+on the editorial board of the Journal of European Public Policy, and co-edits the European Union Series at
+Bloomsbury.
+
+
+
+François-Charles Wolff
+
+François-Charles Wolff is Professor of Economics at the Nantes Université, where he is affiliated with the
+Laboratoire d’Économie et de Management Nantes Atlantique (LEMNA). He currently serves as Director of the
+
+                                                                                                              p. 34
+Doctoral School in Economics and Management for the Pays de la Loire region and as Deputy Director for Research
+within the Pôle Sociétés at Nantes Université. His teaching covers econometrics, quantitative methods, and
+applied microeconomics across undergraduate, master’s, and doctoral programmes. His research lies at the
+intersection of labour economics, family economics, health economics, and public policy evaluation, and he has
+published extensively in international peer-reviewed journals. Beyond his institutional responsibilities, François-
+Charles Wolff is actively involved in the national and international academic community through research
+evaluation, scientific committees, and expert activities for organizations such as the Haut Conseil de l'Evaluation
+de la Recherche et de l'Enseignement Supérieur (HCERES) and the French Agence Nationale de la Recherche
+(ANR).
+
+
+
+Ruben De La Cruz (student)
+
+Ruben De La Cruz is a PhD fellow at the Ghent Institute for International and European Studies (GIES), Ghent
+University. Funded by the Research Foundation – Flanders (FWO), his research focuses on the political economy
+of European green industrial policy, examining how the European Union seeks to reinforce its industrial base in
+clean technologies. His broader research interests include EU trade and industrial policies. He holds a Master’s
+degree in EU Studies from Ghent University (2024) and is a graduate of the university’s Quetelet Lectures honors
+program. Since 2025, he has been representing early career researchers in the Faculty and Department Councils
+at Ghent University. He builds on prior experience as a student representative in the Faculty Student Council and
+as a member of the general assembly of the Ghent Student Council (GSR).
+
+
+
+
+                                                                                                              p. 35
+Annex 3: Visit schedule
+
+Site visit to Campus Natolin with the panel chair
+
+14 January 2026
+
+ Time     Activity
+
+ 17:15    Arrival at Warsaw-Chopin Airport
+
+ 19:00    Informal meeting with Vice-Rector Ewa Ośniecka-Tamecka
+
+
+
+15 January 2026
+
+ Time     Activity
+
+ 09:30    Tour around the campus facilities (IES)
+
+ 12:30    Lunch
+
+ 13:45    Presentation of the electronic infrastructure (IES)
+
+ 16:00    Drive to Warsaw-Chopin Airport
+
+ 18:05    Departure
+
+
+
+
+Site visit to Campus Bruges with the full panel
+
+26 January 2026
+
+ Start    End         Activity
+
+ 09:00    11:30       Internal consultation panel
+
+ 11:30    13:00       Interview with the programme management (all programmes)
+
+ 13:00    14:00       Internal consultation panel + lunch
+
+ 14:00    14:45       Interview with students (LAW)
+
+ 14:45    15:15       Internal consultation panel
+
+ 15:15    16:00       Interview with teaching staff (LAW)
+
+ 16:00    16:30       Internal consultation panel
+
+ 16:30    17:15       Interview with students (POL)
+
+ 17:15    17:30       Internal consultation panel
+
+ 17:30    18:15       Interview with teaching staff (POL)
+
+
+
+
+                                                                                 p. 36
+27 January 2026
+
+Start   End       Activity
+
+09:00   9:15      Internal consultation panel
+
+9:15    10:00     Interview with students (ECO)
+
+10:00   10:15     Internal consultation panel
+
+10:15   11:00     Interview with teaching staff (ECO)
+
+11:00   11:30     Internal consultation panel
+
+11:30   12:15     Interview with students (IRD)
+
+12:15   13:15     Internal consultation panel + lunch
+
+13:15   14:00     Interview with teaching staff (IRD)
+
+14:00   14:30     Internal consultation panel
+
+14:30   15:15     Interview with students (IES)
+
+15:15   15:30     Internal consultation panel
+
+15:30   16:15     Interview with teaching staff (IES)
+
+16:15   17:00     Internal consultation panel
+
+17:00   18:00     Interview with alumni and professional field (all programmes)
+
+
+
+28 January 2026
+
+Start   End       Activity
+
+09:00   10:00     Tour of the programme-specific infrastructure (LAW, POL, ECO & IRD)
+
+10:00   10:45     Interview with supporting staff (all programmes)
+
+10:45   11:15     Open consultation
+
+11:15   11:45     Additional discussion with programme management (IES)
+
+11:45   13:30     Internal consultation panel + lunch
+
+13:30   15:00     Co-creative discussion with programme management (all programmes)
+
+15:00   16:00     Final considerations panel
+
+16:00   16:30     Oral report
+
+
+
+
+                                                                                        p. 37
+Annex 4: Overview of consulted documents
+
+Common Section
+   -   Organisation chart of the Bruges campus (incl. Tirana branch)
+   -   Organisation chart of the Natolin campus
+   -   Composition of the Academic Council
+   -   Study Regulations 2025-2026
+   -   Dispositions particulières (Bruges/Tirana)
+   -   Dispositions particulières (Natolin)
+   -   Indicative marking grid
+   -   Admission Procedure Manual 2025-2026
+
+
+
+
+Master of Science in European Economic Studies (ECO)
+   -   Number of ECO applicants (1st vs. 2nd choice) & student intake by cohort, age and gender (2017-2025)
+   -   Nationality of ECO students by cohort (2017-2025)
+   -   Example of an ECTS card
+   -   Schematic overview of the curriculum with number of credits (2017-2025)
+   -   Programme of introductory courses (AY 2025/26)
+   -   Summary of teaching & assessment methods in the ECO program
+   -   List of companies’ visits
+   -   List of speeches organised by the ECO Department (2017-2025)
+   -   List of academic conferences organised by the ECO Department (2017-2025)
+   -   Participation of ECO students to external competitions and Capstone projects
+   -   List of student visits to EU institutions
+   -   List of speakers for the Annual European lecture (2017-2025)
+   -   Number of students per track & by cohort (2017-2025)
+   -   List and nationality of Visiting Professors in the academic year 2025/26
+   -   Number of Visiting Professors in the ECO Department (2017-2025)
+   -   Number of staff deployed in the ECO Department deployed, by appointment category
+   -   Number of Academic Assistants (AAs) over the period 2017-2025
+   -   Overview of passes and distinctions per track & cohort, 2017-2025
+   -   List of 30 sample Master’s theses
+   -   Indicative Marking Grid
+   -   Employment data for 7 cohorts (2017-2024) with occupation title, name of employer & place of work
+   -   Career path of ECO alumni
+   -   List of follow-up of improvements suggested by the previous accreditation panel
+
+
+
+
+Master of Arts in European Interdisciplinary Studies (EIS)
+   -   Policy in Relation to Internationalization
+   -   Application Procedure, Scholarship Support and Student Enrolments
+   -   List of Contributors to the Report
+   -   List of Events Organized by the European Civilization Chair
+   -   List of Events Organized by the European Neighbourhood Chair
+                                                                                                      p. 38
+   -   List of High-level Events
+   -   EIS Academic Programme Innovation and List of Recently Introduced Courses
+   -   Comparison with other Degrees
+   -   Target Group for the Whole EIS Programme and Target Groups Specific to Each Major and Study Track
+   -   EIS Programme-specific Learning Outcomes
+   -   Comparative Summary of the Programme-specific Learning Outcomes Related to the Flemish
+       Qualification Structure
+   -   Schematic Overview of the Curriculum (2025-2026; 2026-2027)
+   -   Comparative Overview of Course Units in Relation to Programme-specific Learning Outcomes
+   -   Links with Access to ECTS Cards
+   -   Detailed Description of the Majors, ERS and Study Track
+   -   Study Trips
+   -   Research Strategies and Tools
+   -   Guidelines for MA thesis Supervision and Master Thesis Guide
+   -   Scheduling Policy, Student Workload, Course Activation
+   -   Expansion of Professional Education Formats since the 2017 Accreditation
+   -   Number of Staff Employed, Analysed by Appointment Category
+   -   Staffing Levels and Quality of Recruitment
+   -   Missions of the Chairs
+   -   Profile of Academic Assistants
+   -   Composition of Faculty and Student-to-Faculty Ratio
+   -   Overview of Group Tutorials
+   -   Language Courses, Examination and Intercultural Workshops
+   -   Natolin Nests Activities
+   -   Capacity Building Programme
+   -   Programme-specific Physical Facilities
+   -   Master's Thesis Assessment Form and Assessment Forms for Coursework
+   -   List of 30 MA Theses over the Last Three Years
+   -   Employability of Graduates
+   -   Questions Asked in the Course Evaluation Survey, Study Trip Surveys
+   -   Anonymized Samples of Reports of Student Evaluations
+   -   List of Improvement Measures Carried out as a Follow-up to the 2017 Reaccreditation Report
+
+
+
+
+Master of Arts in EU International Relations and Diplomacy Studies (IRD)
+   -   Benchmarking of Master programmes in EU External Action Studies
+   -   Students’ academic background (2017-18 to 2025-26)
+   -   Student intake per year, gender and nationality (2017-18 to 2025-26)
+   -   Development of student applications and intakes in the IRD Programme (2017-18 to 2025-26)
+   -   Organisation chart of the IRD Programme and the administrative bodies
+   -   Programme-specific learning outcomes
+   -   Comparative overview of courses in relation to programme-specific learning outcomes
+   -   Comparative summary of programme-specific learning outcomes related to the Flemish Qualification
+       Framework
+   -   Programme structure and ECTS (incl. weblinks to ECTS cards)
+   -   Assessment of the IRD Programme by its Visiting Professors
+
+
+                                                                                                     p. 39
+   -   Comparative overview of the programme-specific learning outcomes in relation to the relevant
+       domain-specific learning outcomes
+   -   Recent IRD alumni survey (2017-18 to 2024-25)
+   -   Schematic overview of the IRD Programme
+   -   Study trip programme
+   -   Pass rates (2017-18 to 2024-25)
+   -   Number and competencies of Professors teaching in the IRD Programme (2025-26)
+   -   Number and competencies of staff deployed by category of appointment
+   -   Development of gender balance among IRD Visiting Professors since 2017-18
+   -   List of titles of 30 Master’s theses of the last three years
+   -   Thesis evaluation form
+   -   Analysis of online biographical profiles of IRD alumni (2008-09 to 2023-24)
+   -   Feedback on the introduction of a second reader and thesis defence
+   -   Development of the averages of students’ course evaluations (2017-18 to 2024-25)
+   -   Follow-up on the suggestions for improvement from the previous review
+   -   List of recent improvement actions taken
+   -   SWOT analysis of the IRD Programme
+
+
+
+
+Master of European Law (LAW)
+   -   LAW Department staff and faculty
+   -   Example ECTS card
+   -   Comparative summary of the programme-specific learning outcomes related to the validated
+       discipline-specific learning outcomes and/or in relation to the Flemish Qualifications Structure
+   -   Law Academic Programme 2025-2026
+   -   Overview of the programme in relation to ECTS credits and workload for the Law Programme
+   -   Overview of the curriculum structured along the specialisations
+   -   Language rule
+   -   Programme Introductory Course for LAW 2025
+   -   Comparative overview of course units in relation to programme-specific learning outcomes
+   -   Study Trip programme
+   -   Global Competition Law Centre (GCLC) Annual Report 2024
+   -   List of LAW publications
+   -   MA Thesis feedback form
+   -   Course evaluation form
+   -   List of titles of 30 Master’s theses
+
+
+
+
+Master of Arts in European Political and Governance Studies (POL)
+   -   Academic Programme
+   -   Overview of the diversity of the intake of POL students (2017-18 to 2025-26)
+   -   Overview of the curriculum of the online introductory course modules offered before the start of the
+       academic year to all (conditionally) admitted POL students
+   -   Overview of all 2017 VLUHR recommendations and their respective implementation
+   -   Domain-specific learning outcomes accredited by the NVAO
+   -   POL learning outcomes
+
+                                                                                                          p. 40
+    -   Flowchart of the academic year
+    -   Students’ thesis guidelines
+    -   Professors’ thesis guidelines
+    -   Visiting Professors’ manual
+    -   Study load and ECTS credits per POL programme component
+    -   Number of course failures each academic year
+    -   Additional guidelines and rules for students
+    -   Academic staff and gender (2017-2026)
+    -   Overview of average grades across different POL courses for the last academic years
+    -   List of titles of 30 theses from the past three years with their marks
+
+
+
+
+Inter-Departmental European Advanced Studies (IDEA)
+    -   Course Catalogue and ECTS Descriptions
+    -   Student Data and Participation
+    -   Student Feedback and Course Evaluations
+    -   Self-evaluation academic programme EG for the AC of 14 May 2025
+    -   Programme guidelines to professors
+    -   Organisation chart of the programme and the administrative bodies
+    -   General overview of visiting professors
+    -   Learning outcomes of the courses of the IDEAs programme
+    -   Review of the EG Reform and Outlook for the CA of 16 May 2024
+    -   Sample of test and evaluation assignments
+    -   Marking grids and evaluation forms
+
+
+
+
+Additionally, the panel received access to the programmes’ online learning platforms, where they could consult
+all relevant study and teaching materials:
+
+    -   https://www2.coleurope.eu/ (Bruges campus)
+    -   https://natolinintranet.eu/ and https://coe.edu.pl/ (Natolin campus)
+
+
+
+
+                                                                                                         p. 41
+

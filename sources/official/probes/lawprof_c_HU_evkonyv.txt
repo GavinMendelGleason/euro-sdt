@@ -1,0 +1,1156 @@
+                                                                                                                                       3.6. Oktatás
+                                                                                                                                         Education
+        Oktatási kiadások − Expenditures on education
+3.6.1.  A költségvetési intézmények oktatási kiadásai ...................................................................... 145
+        Expenditure on education of the budgetary institutions
+        Tanulók, hallgatók − Pupils, students
+3.6.2. Óvodás gyermekek, nappali és nem nappali oktatásban részesülők .................................... 145
+        Kindergarten children, full-time and part-time students
+3.6.3. Az óvodai nevelésben, a nappali iskolai oktatásban, képzésben részesülő
+        népesség aránya korcsoportonként ....................................................................................... 145
+        Enrolment ratio in kindergarten, school education training in full-time education
+         by age group
+3.6.4. A nappali oktatásban, képzésben részesülők életkor szerint, 2024/2025 ............................. 146
+        Children and students in full-time education and training by age, 2024/2025
+3.6.5. Végzettek ................................................................................................................................ 146
+        Graduates
+        Oktatási intézmények − Educational institutions
+3.6.6. Oktatási intézmények fenntartó típusok szerint, 2024/2025 .................................................. 147
+        Educational institutions by type of maintainers, 2024/2025
+3.6.7. A köznevelési és a szakképző intézményekben alkalmazott
+         pedagógusok és oktatók képesítés és beosztás szerint, 2024/2025 .................................. 148
+        Teachers in institutions for initial education and vocational education by qualification
+          and position, 2024/2025
+3.6.8. Óvodai nevelés ....................................................................................................................... 148
+        Education at kindergartens
+3.6.9. Általános iskolai nevelés és oktatás ....................................................................................... 149
+        Education at primary schools
+3.6.10. Szakiskolai és készségfejlesztő iskolai nevelés és oktatás ................................................... 150
+        Education at vocational schools and special skills development schools
+3.6.11. Szakképző iskolai nevelés és oktatás .................................................................................... 151
+        Education at vocational training schools
+3.6.12. Gimnáziumi nevelés és oktatás .............................................................................................. 152
+        Education at secondary general schools
+3.6.13. Technikumi, szakgimnáziumi nevelés és oktatás .................................................................. 153
+        Education at technicums, upper secondary vocational schools
+3.6.14. Szakmai oktatásban tanulók és végzettek, 2024 ................................................................... 154
+        Students and graduates in vocational education, 2024
+        Felsőoktatás − Tertiary education
+3.6.15. Felsőfokú alap- és mesterképzésre jelentkezők és felvettek, nappali képzés ....................... 155
+        Students who were applied and admitted to tertiary undergraduate (BA/BSc) and
+         postgraduate (MA/MSc) training, full-time form
+3.6.16. Felsőoktatás ........................................................................................................................... 156
+        Tertiary education
+3.6.17. Felsőoktatásban hallgatók képzési terület és szint szerint, 2024/2025 ................................. 158
+        Students in tertiary education by field of training and levels, 2024/2025
+3.6.18. A felsőoktatásban végzettek képzési terület és szint szerint, 2024 ....................................... 158
+        Graduates by field of training and levels, 2024
+        Idegen nyelv, számítógép-használat – Foreign languages, use of ICT
+3.6.19. Az iskolarendszerű oktatásban, képzésben idegen nyelvet tanulók, 2024/2025 ................... 159
+        Students learning foreign languages in formal education, 20243/2025
+3.6.20. A nemzetiségi oktatásban részt vevő tanulók, 2024/2025 ..................................................... 159
+        Students in minority initial education, 2024/2025
+3.6.21. Számítógép-használat és -ellátottság, 2024/2025 ................................................................. 160
+        Use and availability of ICT in schools, 2024/2025
+
+           Kapcsolódó táblák − Related tables
+ 1.6.      Oktatás ........................................................................................................................................9
+           Education
+
+
+                                                                                                        TÁRSADALOM – SOCIAL STATISTICS | 143
+   8.12. Óvodai és általános iskolai nevelés és oktatás, 2024/2025 ................................................... 463
+         Education at kindergartens and primary schools, 2024/2025
+   8.13. Középfokú nevelés és oktatás, 2024/2025............................................................................. 464
+         Education at secondary level, 2024/2025
+   8.14. Felsőoktatás, 2024/2025 ........................................................................................................ 466
+         Tertiary education, 2024/2025
+   9.9.  A felsőoktatásban tanulók és oktatók, 2023 .......................................................................... 503
+         Students and teaching staff in tertiary education, 2023
+
+            Módszertani megjegyzések, fogalmak, publikációk ............................................................... 161
+            Methodological notes, concepts, publications ........................................................................ 162
+
+
+
+
+144 | MAGYAR STATISZTIKAI ÉVKÖNYV, 2024 − STATISTICAL YEARBOOK OF HUNGARY, 2024
+3.6.1. A költségvetési intézmények oktatási kiadásai*
+       Expenditure on education of the budgetary institutions*
+                                                                                            (folyó áron, millió forint – at current prices, million HUF)
+                    Megnevezés
+                                                             2001             2010            2020             2021            2022            2023
+                    Denomination
+ Óvoda – Kindergarten                                       106 214          195 249         298 866          309 367         355 269         434 986
+ Alap- és középfokú oktatás                                 409 998          694 708         895 933          938 980       1 000 377       1 153 370
+ Primary and secondary education
+ Felsőfokú oktatás – Tertiary education                     161 871          259 156         393 309          376 732         122 332         136 554
+ Egyéb oktatás – Other education                             23 215           39 571          47 560           49 765          48 918          57 199
+ Oktatással összefüggő egyéb kiadások                        69 581           74 065         175 646          257 174         232 143         247 467
+ Other expenditure on education
+ Összesen – Total                                           770 879        1 262 749       1 811 314       1 932 018        1 759 039       2 029 576
+ A költségvetési intézmények oktatási kiadásai a
+   GDP százalékában                                               5,0             4,6              3,8             3,5              2,7             2,7
+ Expenditure on education of the budgetary
+   institutions as a percentage of GDP
+* 2010-től a központi alrendszer adatainál a támogatási típusú szakfeladatok nélkül. – Since 2010 central subsystem data do not include support for special
+  tasks.
+
+
+3.6.2. Óvodás gyermekek, nappali és nem nappali oktatásban részesülők
+       Kindergarten children, full-time and part-time students
+                    Megnevezés
+                                                           2001/2002       2010/2011       2020/2021       2022/2023        2023/2024       2024/2025
+                    Denomination
+ Óvodás gyermek – Kindergarten children                     342 285          338 162         322 713          322 871         323 526         324 872
+ Általános iskolai tanuló                                   947 037          758 566         729 300          719 118         716 436         714 911
+ Students in primary schools
+ Szakiskolai és készségfejlesztő iskolai tanulóa)              6 631            9 851           6 962           6 783            6 661           6 532
+ Students in vocational schools and special skills
+   development schoolsa)
+ Szakképző iskolai tanulób)                                 126 367          137 489           70 075          85 539          97 216           91 067
+ Students in vocational training schoolsb)
+ Gimnáziumi tanuló                                          223 474          241 872         221 750          227 210         226 588         226 204
+ Students in secondary general schools
+ Technikumi, szakgimnáziumi tanulóc)                        292 646          273 596         178 229          197 473         215 291         224 299
+ Students in technicums, upper secondary
+   vocational schoolsc)
+ Felsőoktatásban hallgató                                   349 301          361 347         287 493          289 991         310 414         328 562
+ Students in tertiary education
+ Összesen – Total                                          2 287 741       2 120 883       1 816 522       1 848 985        1 896 132       1 916 447
+a) A 2016/2017-es tanév előtt speciális szakiskolai tanulók. – Before 2016/2017 school year students in special vocational schools.
+b) A 2016/2017-es tanév előtt szakiskolai tanulók, a 2016/2017–2019/2020-as tanévekben szakközépiskolai tanulók. – Before 2016/2017 school year
+   students in vocational schools, from 2016/2017 to 2019/2020 school years students in secondary vocational schools.
+c) A 2016/2017-es tanév előtt szakközépiskolai tanulók, a 2016/2017–2019/2020-as tanévekben szakgimnáziumi tanulók. – Before 2016/2017 school year
+   students in secondary vocational schools, from 2016/2017 to 2019/2020 school years students in vocational grammar schools.
+
+
+3.6.3. Az óvodai nevelésben, a nappali iskolai oktatásban, képzésben részesülő
+       népesség aránya korcsoportonként
+       Enrolment ratio in kindergarten, school education training in full-time
+       education by age group
+                                                                                                                                                      (%)
+                 Korcsoport, éves
+                                                           2001/2002       2010/2011      2020/2021R       2022/2023        2023/2024       2024/2025
+                Age group, year-olds
+  3– 5                                                          86,4             89,1a)          94,6             93,1            93,2             93,0
+  6–13                                                         100,0             98,9b)          96,5             97,1            96,8             96,8
+ 14–15                                                         100,0            100,0            92,4             96,0            96,1             96,0
+ 16–17                                                          86,3             98,3            88,5             90,0            90,3             90,2
+ 18–22                                                          39,5             57,8            48,1             48,2            49,5             51,7
+ Ebből: – Of which:
+   középfokú – secondary level                                   19,9            32,6            22,5             22,7            22,4             23,6
+   felsőfokú – tertiary education                                19,5            25,1            25,5             25,5            27,1             28,1
+ 3–22                                                            79,6            85,0            82,6             82,8            83,1             83,6
+a) A 3–6 évesek aránya. – Percentage of 3–6-year-olds.
+b) A 7–14 évesek aránya. – Percentage of 7–14-year-olds.
+
+
+                                                                                                     TÁRSADALOM – SOCIAL STATISTICS | 145
+3.6.4. A nappali oktatásban, képzésben részesülők életkor szerint, 2024/2025
+       Children and students in full-time education and training by age, 2024/2025
+                                                                 Szakiskola
+                                                                                                               Technikum,
+                                                                és készség-
+                                                                                                                  szak-           Felső-
+                                                                  fejlesztő    Szakképző
+                                                  Általános                               Gimnázium            gimnázium         oktatási
+                                    Óvoda                           iskola       iskola
+           Életkor                                  iskola                                Secondary            Technicums,     intézmény       Összesen
+                                    Kinder-                      Vocational    Vocational
+        Age, year-olds                             Primary                                 general                upper        Institutions      Total
+                                    gartens                     schools and     training
+                                                   schools                                 schools              secondary       for tertiary
+                                                                special skills  schools
+                                                                                                                vocational      education
+                                                                development
+                                                                                                                 schools
+                                                                   schools
+ 5 éves és annál fiatalabb           270 258                –               –           –         –                       –              –      270 258
+ 5 year-olds and younger
+  6–13                                54 614       643 478                 –             –         19 604                9             –        717 705
+     14                                    –        54 636                64         2 230         19 759            9 441             –         86 130
+     15                                    –         9 944               601        10 773         37 815           33 564             5         92 702
+     16                                    –         2 077             1 131        15 008         38 943           35 140            26         92 325
+     17                                    –           275             1 172        12 129         38 148           32 933           449         85 106
+ 14–17                                     –        66 932             2 968        40 140        134 665          111 078           480        356 263
+     18                                    –            44             1 029         5 537         30 022           31 198         7 070         74 900
+     19                                    –            24               746         2 489          7 298           24 613        27 330         62 500
+     20                                    –             –               587         1 233            492            8 448        38 062         48 822
+     21                                    –             –               470           604             98            2 405        37 127         40 704
+     22                                    –             –               305           310             53            1 030        32 357         34 055
+ 18–22                                     –            68             3 137        10 173         37 963           67 694       141 946        260 981
+ 23 éves és annál idősebb                  –             –               424           251             42              985        79 014         80 716
+ 23 year-olds and older
+ Összesen – Total                    324 872       710 478             6 529        50 564        192 274          179 766       221 440       1 685 923
+
+
+
+3.6.5. Végzettek
+       Graduates
+               Megnevezés
+                                                     2001              2010              2020               2022              2023              2024
+              Denomination
+ A 8. évfolyamot sikeresen befejezte                119 400a)          107 105            93 077            94 481             91 690            89 132
+ Students graduated from 8th grade
+ Ebből: a nappali oktatásban                        118 200a)          106 626            92 409            93 805             91 042            88 528
+ Of which: in full-time education
+ Érettségi vizsgát tett tanulób)                      88 908            87 244            67 816            70 339             72 759            47 933
+ Students having passed final
+   examination at upper secondary
+   levelb)
+ Ebből: a nappali oktatásbanb)                        70 441            77 957            62 285            62 469             64 538            40 986
+ Of which: in full-time educationb)
+ Szakmai vizsgát tett tanuló                          56 788            52 597            49 866            56 958             59 879            70 600
+ Students having passed vocational
+   examination
+ Ebből: a nappali oktatásban                          48 828            45 437            32 862            39 261             33 406            33 796
+ Of which: in full-time education
+ Felsőfokú oklevelet szerzett hallgatóc)              47 436            53 383           162 467            45 057             64 031            54 181
+ Tertiary graduatesc)
+ Ebből: nappali képzésbenc)                           29 746            38 456            85 565            34 422             44 827            39 320
+ Of which: in full-time formc)
+a) Becsült adat. – Estimated data.
+b) 2021-től a tanulói jogviszonnyal nem rendelkezők, illetve a kormányhivatalokban érettségi vizsgát tettek adataival együtt. – From 2021 including also the
+   number of students without student legal status and those graduated in the government offices.
+c) 2020-tól a nyelvvizsga-mentesítésnek köszönhetően oklevelet szerzők számával együtt. 2023-tól jogszabályi változások miatt az oklevelet szerzettek
+   száma a korábbi évek adataival csak korlátozottan hasonlítható össze. – From 2020 including also tertiary graduates due to exemption of language exam
+   requirement. From 2023, due to legislative changes the data on students graduated at tertiary education can only be compared with the data of the
+   previous years to a limited extent.
+
+
+
+
+146 | MAGYAR STATISZTIKAI ÉVKÖNYV, 2024 − STATISTICAL YEARBOOK OF HUNGARY, 2024
+3.6.6. Oktatási intézmények fenntartó típusok szerint, 2024/2025
+       Educational institutions by type of maintainers, 2024/2025
+                                                                 Fővárosi és
+                                                    Központi       települési                   Alapítvány,
+                                                  költségvetési önkormányzat       Egyház,     természetes
+               Megnevezés                             szerv          Local        felekezet      személy      Egyéb       Összesen
+               Denomination                          Central     government        Church,     Foundation,    Other         Total
+                                                   budgetary    of the capital denomination       natural
+                                                   institution        and                         person
+                                                                 settlements
+                                                         Feladatellátási hely – School-sites
+ Óvoda                                                   129            3 639           481           188         166        4 603
+ Kindergartens
+ Általános iskola                                       2 629            76            602            115         115        3 537
+ Primary schools
+ Szakiskola és készségfejlesztő iskola                    168             –             15               5            4        192
+ Vocational schools and special skills
+   development schools
+ Szakképző iskola                                         329             1             51             24          62          467
+ Vocational training schools
+ Gimnázium                                                285             9            262            114         210          880
+ Secondary general schools
+ Technikum, szakgimnázium                                 480             –            151             44          78          753
+ Technicums, upper secondary
+   vocational schools
+ Felsőoktatási intézménya)                                  6             –             25               2         30           63
+ Institutions for tertiary educationa)
+                                                      Pedagógus, oktató – Teachers
+ Óvoda                                               565         25 593            3 325            947           673       31 103
+ Kindergartens
+ Általános iskola                                 56 087          1 488           12 652          2 225           955       73 407
+ Primary schools
+ Szakiskola és készségfejlesztő iskola             1 311               –              78             51            21        1 461
+ Vocational schools and special skills
+   development schools
+ Szakképző iskola                                  4 267               4             379            133           204        4 987
+ Vocational training schools
+ Gimnázium                                        10 133            219            5 492          1 978         1 005       18 827
+ Secondary general schools
+ Technikum, szakgimnázium                         14 127               –           2 158            457           801       17 543
+ Technicums, upper secondary
+   vocational schools
+ Felsőoktatási intézmény                           6 092               –           3 718             38        18 039       27 887
+ Institutions for tertiary education
+                                        Gyermek, tanuló, hallgató a nappali oktatásban, képzésben
+                                     Kindergarten children, students in full-time education and training
+ Óvoda                                             2 577        272 262           36 427          8 165         5 441      324 872
+ Kindergartens
+ Általános iskola                               543 095          13 701         126 417         19 538          7 727      710 478
+ Primary schools
+ Szakiskola és készségfejlesztő iskola             5 542               –             509            332           146        6 529
+ Vocational schools and special skills
+   development schools
+ Szakképző iskola                                 42 682             27            4 750          1 519         1 586       50 564
+ Vocational training schools
+ Gimnázium                                      113 013           1 858           54 402        18 418          4 583      192 274
+ Secondary general schools
+ Technikum, szakgimnázium                       144 216                –          22 421          4 743         8 386      179 766
+ Technicums, upper secondary
+   vocational schools
+ Felsőoktatási intézmény                          55 938               –          16 345            534       148 623      221 440
+ Institutions for tertiary education
+a) Intézmények száma. – Number of institutions.
+
+
+
+
+                                                                                               TÁRSADALOM – SOCIAL STATISTICS | 147
+3.6.7. A köznevelési és a szakképző intézményekben alkalmazott pedagógusok és
+       oktatók képesítés és beosztás szerint, 2024/2025*
+       Teachers in institutions for initial education and vocational education by
+       qualification and position, 2024/2025*
+                                                                Vezető, vezető-                      Egyéb beosztású
+                                                                                   Óvodapedagógus,
+                                                                   helyettes                        pedagógus, oktató
+                        Képesítés                                                    tanító, tanár,                                        Összesen
+                                                                 Directors and          oktató        Other teachers
+                       Qualification                                                                                                         Total
+                                                               deputy directors of                       without
+                                                                                       Teachers
+                                                                  institutions                        specialisation
+ Középiskolai tanár                                                        4 377             38 949            2 150                            45 476
+ Secondary school teachers
+ Általános iskolai tanára)                                                    3 659              22 967                   11 066                37 692
+ Primary school teachers (higher lever)a)
+ Tanító                                                                       1 913              30 412                     723                 33 048
+ Primary school teachers (lower level)
+ Óvodapedagógus                                                               5 398              23 249                     225                 28 872
+ Kindergarten teachers
+ Szakoktató és egyéb felsőfokú végzettségű                                    1 150              12 256                    2 965                16 371
+ Vocational instructors and others with higher
+   qualification
+ Pedagógus képesítéssel nem rendelkező                                          96                 3 131                   1 792                 5 019
+ Teachers without pedagogical qualification
+ Összesen – Total                                                            16 593             130 964                   18 921              166 478
+ Ebből: nő, % – Of which: female, %                                            81,1                80,3                     89,6                 81,5
+* Szakképző intézmények esetén a képesítés szerinti besorolás részben becsült. – For vocational educational institutions classification by qualification is
+   partially estimated.
+a) A gyógypedagógus képesítéssel rendelkezőkkel együtt. – Including also data of special education teachers.
+
+
+
+
+3.6.8. Óvodai nevelés
+       Education at kindergartens
+                      Megnevezés
+                                                              2001/2002         2010/2011     2020/2021      2022/2023       2023/2024       2024/2025
+                      Denomination
+ Óvoda, feladatellátási helya) – Kindergartensa)                   4 633              4 358       4 575           4 599            4 577         4 603
+ Férőhely – Kindergarten places                                 353 801          370 136       386 134         387 979         388 143        390 699
+ Pedagógus – Teachers                                            32 327           30 359        30 957          30 648          30 478         31 103
+ Óvodás gyermek                                                 342 285          338 162       322 713         322 871         323 526        324 872
+ Kindergarten children
+ Ebből: – Of which:
+   sajátos nevelési igényű gyermek
+   children with special educational needs
+       integrált nevelésben részesül                               2 888              4 264       8 271           9 244            9 814         9 957
+       in mainstream education
+       gyógypedagógiai nevelésben részesül                         1 361              1 272       1 847           2 335            2 516         2 791
+       in special education
+       összesen – total                                            4 249              5 536      10 118          11 579         12 330          12 748
+  hátrányos helyzetű gyermekb)                                         ..        105 240c)       16 985          14 854         15 079          15 433
+  disadvantaged childrenb)
+  halmozottan hátrányos helyzetű gyermek                                ..        37 664         17 765          15 572         15 004          14 677
+  multi-disadvantaged children
+ Gyermekcsoport – Children's groups                               15 502          14 560         15 001          15 024         15 045          15 147
+ Ebből: gyógypedagógiai nevelésben                                   175             158            246             289            307             349
+ Of which: in special education
+ Egy gyermekcsoportra jutó gyermek                                  22,1               23,2         21,5           21,5             21,5           21,4
+ Children per children's group
+ Egy pedagógusra jutó gyermek                                       10,6               11,1         10,4           10,5             10,6           10,4
+ Children per teacher
+a) Lásd Módszertani megjegyzések. – See Methodological notes.
+b) Lásd Fogalomtár. – See Glossary.
+c) A halmozottan hátrányos helyzetű gyermekekkel együtt. – Including also multi-disadvantaged children.
+
+
+
+
+148 | MAGYAR STATISZTIKAI ÉVKÖNYV, 2024 − STATISTICAL YEARBOOK OF HUNGARY, 2024
+3.6.9. Általános iskolai nevelés és oktatás
+       Education at primary schools
+                   Megnevezés
+                                                         2001/2002       2010/2011       2020/2021       2022/2023       2023/2024       2024/2025
+                   Denomination
+ Iskola, feladatellátási helya)                              3 852           3 306           3 611           3 575           3 550           3 537
+ Schools, school-sitesa)
+ Osztályterem – Classrooms                                  43 195          37 045          37 459          37 700          37 788          37 838
+ Pedagógus – Teachers                                       90 294          73 565          75 157          73 675          72 514          73 407
+ Ebből: nő, % – Of which: female, %                           86,6            87,5            86,0            85,8            85,8            85,6
+ Tanuló a nappali oktatásban                               944 244         756 569         725 768         715 155         712 394         710 478
+ Full-time students
+ Ebből: – Of which:
+   sajátos nevelési igényű tanuló
+   students with special educational needs
+        integrált oktatásban részesül                        8 263          32 573          41 801          43 239          45 808          47 564
+        in mainstream education
+        gyógypedagógiai oktatásban részesül                 38 312          19 592          15 850          16 434          17 041          17 825
+        in special education
+        összesen – total                                    46 575          52 165          57 651          59 673          62 849          65 389
+   hátrányos helyzetű tanulób)                                   ..        270 745c)        43 096          38 125          39 166          40 482
+   disadvantaged studentsb)
+   halmozottan hátrányos helyzetű tanuló                          ..       105 542          50 996          45 733          44 864          43 801
+   multi-disadvantaged students
+   1. évfolyamos – in 1st grade                            117 648          97 664         103 475          94 342          97 333          95 476
+   1–4. évfolyamos – in 1st–4th grades                     477 584         386 958         366 347         379 621         383 337         375 556
+   5–8. évfolyamos – in 5th–8th grades                     466 660         369 611         359 421         335 534         329 057         334 922
+   étkeztetésben részesül, %                                  57,2            71,0            75,2            75,3            75,3            76,3
+   students receiving meals, %
+   napközi otthoni ellátásban részesül, %d)                    39,4            46,1            54,3            56,2            56,4            55,9
+   attending day-time homes services, %d)
+   ezen belül: – within this:
+       1–4. évfolyamos – in 1st–4th grades                    67,0            78,7            87,6            87,8            87,8            88,1
+       5–8. évfolyamos – in 5th–8th grades                    11,1            12,0            20,4            20,4            19,7            19,7
+ Osztály (nappali oktatásban)                               47 682          37 475          36 406          36 015          35 916          35 820
+ Classes (in full-time education)
+ Egy osztályra jutó tanuló                                     19,8            20,2            19,9            19,9            19,8            19,8
+ Students per class
+ Felnőttoktatásban tanuló                                    2 793           1 997           3 532           3 963           4 042           4 433
+ Students in adult education
+ A 8. évfolyamot sikeresen befejeztee)                     119 400f)       107 105          93 077          94 481          91 690          89 132
+ Students graduated from 8th gradee)
+ Ebből: nappali oktatásban                                 118 200f)       106 626          92 409          93 805          91 042          88 528
+ Of which: in full-time education
+a) Lásd Módszertani megjegyzések. – See Methodological notes.
+b) Lásd Fogalomtár. – See Glossary.
+c) A halmozottan hátrányos helyzetű tanulókkal együtt. – Including also multi-disadvantaged students.
+d) A 2001/2002-es tanévtől az iskolaotthonos osztályba járókkal, a 2013/2014-es tanévtől az egész napos iskolai oktatásban részesülőkkel együtt. – From
+   2001/2002 school year including also data on students at extended schools, from 2013/2014 school year including data on students in all-day schools.
+e) A gimnáziumi oktatásban végzettekkel együtt. – Including also 8th grade graduates of secondary general schools.
+f) Becsült adat. – Estimated data.
+
+
+
+
+                                                                                                  TÁRSADALOM – SOCIAL STATISTICS | 149
+3.6.10. Szakiskolai és készségfejlesztő iskolai nevelés és oktatás*
+        Education at vocational schools and special skills development schools*
+                    Megnevezés
+                                                           2001/2002       2010/2011        2020/2021       2022/2023        2023/2024       2024/2025
+                    Denomination
+ Iskola, feladatellátási helya)                                   128             151              194             201              194           192
+ Schools, school-sitesa)
+ Osztályterem – Classrooms                                        389             737              719             716              679            660
+ Pedagógus – Teachers                                             801           1 518            1 534           1 521            1 485          1 461
+ Ebből: nő, % – Of which: female, %                              62,2            72,2             73,3            73,8             75,1           75,8
+ Tanuló a nappali oktatásban                                    6 594           9 816            6 948           6 781            6 660          6 529
+ Full-time students
+ Ebből: – Of which:
+   hátrányos helyzetű tanulób)                                       ..         3 264c)            418             330              306           260
+   disadvantaged studentsb)
+   halmozottan hátrányos helyzetű tanuló                             ..         1 335            1 069             895              864           869
+   multi-disadvantaged students
+   9. évfolyamos – in 9th grade                                 1 983           2 780            3 195           3 045            3 174          3 029
+   nem szakképző évfolyamokon                                   3 311d)         5 277            3 162           4 489            3 800          3 693
+   in non-vocatioal grades
+   szakképző évfolyamokon                                       3 283e)         4 539            3 786           2 292            2 860          2 836
+   in vocational grades
+   leány, % – girl, %                                            39,2             39,9            38,9             37,5            37,0           37,1
+   kollégiumban lakó, % – living in dormitories, %               21,5             20,9            17,8             16,2            15,3           14,7
+ Osztály (nappali oktatásban)                                     559              851             845              824             822            780
+ Classes (in full-time education)
+ Egy osztályra jutó tanuló – Students per class                  11,8             11,5              8,2             8,2              8,1           8,4
+ Felnőttoktatásban tanuló                                          37               35               14               2                1             3
+ Students in adult education
+ Szakmai vizsgát tett tanuló                                      831           1 354            1 177           1 219            1 282          1 628
+ Students having passed vocational examination
+ Ebből: nappali oktatásban                                        831           1 339            1 169           1 139            1 201          1 628
+ Of which: in full-time education
+* A 2016/2017-es tanév előtt speciális szakiskolai nevelés és oktatás. – Before 2016/2017 school year education at special vocational schools.
+a) Lásd Módszertani megjegyzések. – See Methodological notes.
+b) Lásd Fogalomtár. – See Glossary.
+c) A halmozottan hátrányos helyzetű tanulókkal együtt. – Including also multi-disadvantaged students.
+d) A 9–10. évfolyamos tanulók száma. – Students in 9th–10th grades.
+e) A 11. és annál magasabb évfolyamos tanulók száma. – Students in 11th and higher grades.
+
+
+
+
+150 | MAGYAR STATISZTIKAI ÉVKÖNYV, 2024 − STATISTICAL YEARBOOK OF HUNGARY, 2024
+3.6.11. Szakképző iskolai nevelés és oktatás*
+        Education at vocational training schools*
+                   Megnevezés
+                                                         2001/2002       2010/2011       2020/2021       2022/2023       2023/2024        2024/2025
+                   Denomination
+ Iskola, feladatellátási helya)                                 491             651             455             450             462              467
+ Schools, school-sitesa)
+ Osztályterem – Classrooms                                   3 025           3 956            2 769           3 168           2 848           2 611
+ Pedagógus – Teachers                                        7 982           9 314            4 793           5 302           5 089           4 987
+ Ebből: nő, % – Of which: female, %                           48,3            51,0             49,4            49,5            49,4            49,8
+ Tanuló a nappali oktatásban                               123 951         129 421           54 272          59 642          56 209          50 564
+ Full-time students
+ Ebből: – Of which:
+   sajátos nevelési igényű tanuló
+   students with special educational needs
+        integrált oktatásban részesül                           619           6 265           7 134           8 395           8 295           8 068
+        in mainstream education
+        gyógypedagógiai oktatásban részesül                        –            345               13              36               –               –
+        in special education
+        összesen – total                                        619           6 610           7 147           8 431           8 295           8 068
+   hátrányos helyzetű tanulób)                                    ..         40 330c)         3 802           3 807           3 430           3 477
+   disadvantaged studentsb)
+   halmozottan hátrányos helyzetű tanuló                           ..        12 679           5 474           6 055           5 613           5 252
+   multi-disadvantaged students
+   9. évfolyamos – in 9th grade                              34 210          35 386          20 950          21 742          21 380          20 629
+   nem szakképző évfolyamokon                               60 355d)         50 462               ..         17 474          13 984          10 528
+   in non-vocational grades
+   szakképző évfolyamokon                                   63 596e)         78 959                ..        42 168          42 225          40 036
+   in vocational grades
+   leány, % – girl, %                                          38,5            36,4             35,1           35,4            35,4            35,8
+   kollégiumban lakó, % – living in dormitories, %             10,0              7,2               ..            7,9             7,2             6,7
+ Osztály (nappali oktatásban)                                 4 816           5 345           3 660f)         3 291           3 187           2 877
+ Classes (in full-time education)
+ Egy osztályra jutó tanuló – Students per class                25,7            24,2            14,8f)           18,1            17,6            17,6
+ Tanuló a nem nappali oktatásban                              2 416           8 068          15 803          25 897          41 007          40 503
+ Part-time students
+ Érettségi vizsgát tett tanuló                                     –               –          3 523           2 706           2 442           2 021
+ Students having passed final examination at
+   upper secondary level
+ Ebből: nappali oktatásban                                         –               –          1 906           1 963           1 877           1 686
+ Of which: in full-time education
+ Szakmai vizsgát tett tanuló                                 16 091          22 153          20 849          23 310          25 645          33 667
+ Students having passed vocational examination
+ Ebből: nappali oktatásban                                   15 404          20 705          14 352          15 376          12 299          13 004
+ Of which: in full-time education
+* A 2016/2017-es tanév előtt szakiskolai nevelés és oktatás, a 2016/2017–2019/2020-as tanévekben szakközépiskolai nevelés és oktatás. – Before
+   2016/2017 school year education at vocational schools, from 2016/2017 to 2019/2020 school years education at secondary vocational schools.
+a) Lásd Módszertani megjegyzések. – See Methodological notes.
+b) Lásd Fogalomtár. – See Glossary.
+c) A halmozottan hátrányos helyzetű tanulókkal együtt. – Including also multi-disadvantaged students.
+d) A 9–10. évfolyamos tanulók száma. – Students in 9th–10th grades.
+e) A 11. és annál magasabb évfolyamos tanulók száma. – Students in 11th and higher grades.
+f) Szakképző intézmények esetében a nem nappali oktatással együtt. – For vocational educational institutions including also data on part-time education.
+
+
+
+
+                                                                                                   TÁRSADALOM – SOCIAL STATISTICS | 151
+3.6.12. Gimnáziumi nevelés és oktatás
+        Education at secondary general schools
+                    Megnevezés
+                                                           2001/2002       2010/2011        2020/2021       2022/2023        2023/2024       2024/2025
+                    Denomination
+ Iskola, feladatellátási helya)                                   685             876              877             891              880             880
+ Schools, school-sitesa)
+ Osztályterem – Classrooms                                     6 594           7 649            7 811           7 747            7 840           7 883
+ Pedagógus – Teachers                                         16 845          18 292           18 574          18 721           18 620          18 827
+ Ebből: nő, % – Of which: female, %                             70,5            71,5             70,7            70,4             70,3            70,2
+ Tanuló a nappali oktatásban                                 182 267         198 700          191 526         194 972          194 102         192 274
+ Full-time students
+ Ebből: – Of which:
+   sajátos nevelési igényű tanuló
+   students with special educational needs
+        integrált oktatásban részesül                             100           1 831            3 368           4 052            4 420           4 772
+        in mainstream education
+        gyógypedagógiai oktatásban részesül                       251             136               64               78              76               81
+        in special education
+        összesen – total                                          351           1 967            3 432           4 130            4 496           4 853
+   hátrányos helyzetű tanulób)                                      ..         19 386c)          1 658           1 037            1 031             881
+   disadvantaged studentsb)
+   halmozottan hátrányos helyzetű tanuló                             ..         2 865            1 296           1 095            1 070             942
+   multi-disadvantaged students
+   5–8. évfolyamos – in 5th–8th grades                        27 884          25 511           26 215          25 855           25 924          25 962
+   9. évfolyamos – in 9th grade                               42 050          42 464           48 903          49 129           47 440          46 392
+   9. és magasabb évfolyamos                                 154 383         173 189          165 311         169 117          168 178         166 312
+   in 9th and higher grades
+   leány, % – girl, %                                            59,1            58,0             55,9            55,8             55,8            55,8
+   kollégiumban lakó, % – living in dormitories, %               10,5              8,9              7,2             6,9              6,7             6,5
+ Osztály (nappali oktatásban)                                   6 410           6 952            6 686           6 817            6 850           6 875
+ Classes (in full-time education)
+ Egy osztályra jutó tanuló – Students per class                 28,4             28,6            28,6             28,6            28,3               28
+ Felnőttoktatásban tanuló                                     41 207           43 172          30 224           32 238          32 486           33 930
+ Students in adult education
+ Érettségi vizsgát tett tanulód)                              37 989           46 768          38 994           42 502          44 039           42 985
+ Students having passed final examination at
+   upper secondary leveld)
+ Ebből: nappali oktatásband)                                  32 496           39 830          35 321           36 102          37 135           37 280
+ Of which: in full-time educationd)
+a) Lásd Módszertani megjegyzések. – See Methodological notes.
+b) Lásd Fogalomtár. – See Glossary.
+c) A halmozottan hátrányos helyzetű tanulókkal együtt. – Including also multi-disadvantaged students.
+d) 2021-től a tanulói jogviszonnyal nem rendelkezők, illetve a kormányhivatalokban érettségi vizsgát tettek adataival együtt. – From 2021 including also the
+   number of students without student legal status and those graduated in the government offices.
+
+
+
+
+152 | MAGYAR STATISZTIKAI ÉVKÖNYV, 2024 − STATISTICAL YEARBOOK OF HUNGARY, 2024
+3.6.13. Technikumi, szakgimnáziumi nevelés és oktatás*
+        Education at technicums, upper secondary vocational schools*
+                   Megnevezés
+                                                         2001/2002       2010/2011       2020/2021       2022/2023       2023/2024        2024/2025
+                   Denomination
+ Iskola, feladatellátási helya)                                 891             939             714             735             758              753
+ Schools, school-sitesa)
+ Osztályterem – Classrooms                                   7 564           8 266           6 020           7 743            7 854           8 188
+ Pedagógus – Teachers                                       19 450          19 829          15 314          16 878           16 907          17 543
+ Ebből: nő, % – Of which: female, %                           62,4            65,1            61,4            62,8             62,5            61,8
+ Tanuló a nappali oktatásban                               238 622         240 364         152 610         166 201          170 664         179 766
+ Full-time students
+ Ebből: – Of which:
+   sajátos nevelési igényű tanuló
+   students with special educational needs
+        integrált oktatásban részesül                           389           3 282           7 353           8 862           9 936          11 409
+        in mainstream education
+        gyógypedagógiai oktatásban részesül                      36              36                –               –               –               –
+        in special education
+        összesen – total                                        425           3 318           7 353           8 862           9 936          11 409
+   hátrányos helyzetű tanulób)                                    ..         37 768c)         3 168           3 078           3 048           3 305
+   disadvantaged studentsb)
+   halmozottan hátrányos helyzetű tanuló                           ..         6 524           2 773           2 889           2 814           3 030
+   multi-disadvantaged students
+   9. évfolyamos – in 9th grade                              50 343         46 223           40 173          42 126          41 664          40 551
+   nem szakképző évfolyamokon                              176 841d)       172 421                ..         76 177          56 682          48 474
+   in non-vocational grades
+   szakképző évfolyamokon                                   61 781e)         67 943                ..        90 024         113 982         131 292
+   in vocational grades
+   leány, % – girl, %                                          49,0            48,2             46,9           47,1            47,0            46,8
+   kollégiumban lakó, % – living in dormitories, %             13,4              9,3               ..          10,5            10,2            10,1
+ Osztály (nappali oktatásban)                                 8 873           9 164           6 883f)         7 306           7 505           7 802
+ Classes (in full-time education)
+ Egy osztályra jutó tanuló – Students per class                26,9            26,2            22,2f)           22,7            22,7            23,0
+ Tanuló a nem nappali oktatásban                             54 024          33 232          25 619          31 272          44 627          44 533
+ Part-time students
+ Érettségi vizsgát tett tanuló                               50 919          40 476          25 299          25 131          26 278           2 927
+ Students having passed final examination at
+   upper secondary level
+ Ebből: nappali oktatásban                                   37 945          38 127          25 058          24 404          25 526           2 020
+ Of which: in full-time education
+ Szakmai vizsgát tett tanuló                                 39 866          29 090          27 840          32 429          32 952          35 305
+ Students having passed vocational examination
+ Ebből: nappali oktatásban                                   32 593          23 393          17 341          22 746          19 906          19 164
+ Of which: in full-time education
+* A 2016/2017-es tanév előtt szakközépiskolai nevelés és oktatás, a 2016/2017–2019/2020-as tanévekben szakgimnáziumi nevelés és oktatás. – Before
+   2016/2017 school year education at secondary vocational schools, from 2016/2017 to 2019/2020 school years education at vocational grammar schools.
+a) Lásd Módszertani megjegyzések. – See Methodological notes.
+b) Lásd Fogalomtár. – See Glossary.
+c) A halmozottan hátrányos helyzetű tanulókkal együtt. – Including also multi-disadvantaged students.
+d) A 9–12. évfolyamos tanulók száma. – Students in 9th–12th grades.
+e) A 13. és annál magasabb évfolyamos tanulók száma. – Students in 13th and higher grades.
+f) Szakképző intézmények esetében a nem nappali oktatással együtt. – For vocational educational institutions including also data on part-time education.
+
+
+
+
+                                                                                                   TÁRSADALOM – SOCIAL STATISTICS | 153
+3.6.14. Szakmai oktatásban tanulók és végzettek, 2024
+        Students and graduates in vocational education, 2024
+                                               Szakiskolai és készségfejlesztő iskolai
+                                                                                                                Szakképző iskolai
+                                                Vocational schools and special skills
+                                                                                                             Vocational training schools
+                                                         development schools
+                                                                    szakmai vizsgát tett                                     szakmai vizsgát tett
+                                                                             tanuló                                                   tanuló
+            Képzési területa)                       tanuló                                               tanuló
+                                                                       students having                                          students having
+           Fields of traininga)                   students
+                                                                     passed vocational
+                                                                                                        students
+                                                                                                                              passed vocational
+                                                                         examination                                              examination
+                                                        ebből: nő                ebből: nő                     ebből: nő                  ebből: nő
+                                           összesen                összesen                      összesen                   összesen
+                                                         of which:                of which:                    of which:                   of which:
+                                             total                    total                        total                       total
+                                                          female                   female                       female                      female
+ Oktatás – Education                               –            –           –            –              –             –              –            –
+ Humán tudományok és művészetek                213            96            4            4            737          439            116           69
+ Arts and humanities
+ Üzleti ismeretek, ügyvitel és jog              633           242             240        133         7 706        5 178        3 734         2 487
+ Business, administration and law
+ Információs és kommunikációs
+   technológiák                                  45            13               –          –             –            –             –            –
+ Information and communication
+   technologies
+ Műszaki, ipari és építőipari
+   képzések                                     844           241             684        152        44 415        6 225       20 045         2 450
+ Engineering, manufacturing and
+   construction
+ Mezőgazdaság, erdőgazdálkodás,
+   halászat és állatorvosi
+   tudományok                                   608           220             263         81         4 941        1 382        1 486           490
+ Agriculture, forestry, fisheries and
+   veterinary
+ Egészségügy és szociális
+   gondoskodás                                   75            41              38         26         4 443        4 020        1 526         1 388
+ Health and welfare
+ Szolgáltatások – Services                      421           210          399           204        17 355      11 022         6 760        4 239
+ Összesen – Total                             2 839         1 063        1 628           600        79 597      28 266        33 667       11 123
+a) ISCED (az oktatás szabványos nemzetközi osztályozási rendszere) képzési terület szerint (ISCED-F 2013 főirány). – According to ISCED (International
+   Standard Classification of Education) fields of training (ISCED-F 2013 broad field).
+
+
+
+
+3.6.14. Szakmai oktatásban tanulók és végzettek, 2024 (folytatás)
+        Students and graduates in vocational education, 2024 (continued)
+                                                                                    Technikumi, szakgimnáziumi
+                                                                          Technicums, upper secondary vocational schools
+                                                                                                          szakmai vizsgát tett tanuló
+                  Képzési területa)                                      tanuló
+                                                                                                      students having passed vocational
+                 Fields of traininga)                                   students
+                                                                                                                  examination
+                                                            összesen               ebből: nő            összesen              ebből: nő
+                                                              total            of which: female           total           of which: female
+ Oktatás – Education                                                4 953                  4 606                1 164                 1 110
+ Humán tudományok és művészetek                                   15 307                 11 581                 3 110                 2 034
+ Arts and humanities
+ Üzleti ismeretek, ügyvitel és jog                                   31 441                20 331                   5 514                    4 040
+ Business, administration and law
+ Információs és kommunikációs technológiák                           18 620                 1 650                   2 963                      259
+ Information and communication technologies
+ Műszaki, ipari és építőipari képzések                               32 631                 4 096                   7 680                      808
+ Engineering, manufacturing and construction
+ Mezőgazdaság, erdőgazdálkodás, halászat és
+   állatorvosi tudományok                                             8 812                 2 637                   1 286                      381
+ Agriculture, forestry, fisheries and veterinary
+ Egészségügy és szociális gondoskodás                                17 913                15 695                   6 045                    5 202
+ Health and welfare
+ Szolgáltatások – Services                                           38 070                24 392                   7 543                   5 109
+ Összesen – Total                                                   167 747                84 988                  35 305                  18 943
+a) ISCED (az oktatás szabványos nemzetközi osztályozási rendszere) képzési terület szerint (ISCED-F 2013 főirány). – According to ISCED (International
+   Standard Classification of Education) fields of training (ISCED-F 2013 broad field).
+
+
+154 | MAGYAR STATISZTIKAI ÉVKÖNYV, 2024 − STATISTICAL YEARBOOK OF HUNGARY, 2024
+3.6.15. Felsőfokú alap- és mesterképzésre jelentkezők és felvettek, nappali képzés*
+        Students who were applied and admitted to tertiary undergraduate (BA/BSc)
+        and postgraduate (MA/MSc) training, full-time form*
+                                                                                                                                     Ebből: – Of which:
+                                                                                  Összesen                                        felsőfokú      mester-
+               Megnevezés                                                                                                        alapképzés      képzés
+                                                                                    Total
+               Denomination                                                                                                        BA/BSc        MA/MSc
+                                                                                                                                   training      training
+                                                     2010            2015            2020            2023                            2024
+ Első helyre jelentkezők                           100 777          79 255          68 904          83 190          76 502          53 867          22 635
+ First-place applicants
+ Felvettek – Students admitted                      65 503          53 069          50 726          62 387          59 155          43 660          15 495
+ Felvettek az első helyre jelentkezők
+   százalékában                                        65,0            67,0            73,6            75,0            77,3            81,1            68,5
+ Students admitted as a percentage of
+   first-place applicants
+                              Felvettek az első helyre jelentkezők százalékában képzési terület szerinta)
+                          Students admitted as a percentage of first-place applicants by field of traininga)
+ Agrár – Agriculture                            65,7          69,1        71,0       79,8           84,2                               95,5            66,7
+ Államtudományib) – Political scienceb)         31,3          39,7        60,0       57,0           63,7                               58,8            86,5
+ Bölcsészettudomány – Liberal arts                     66,2            70,5            75,3            72,5            75,2            77,1            69,8
+ Gazdaságtudományok – Economics                        61,6            69,6            75,1            75,2            80,7            82,4            72,9
+ Informatika – Computing                               87,0            72,1            79,1            80,4            83,5            85,5            72,4
+ Jogi – Law                                            50,7            74,3            73,8            76,5            77,0            94,1            73,7
+ Műszaki                                               78,6            74,4            74,5            82,4            85,7            88,2            76,2
+ Engineering, manufacturing and
+   construction
+ Művészet – Arts                                       22,4            31,8            36,5            39,0            38,7            37,1            40,8
+ Művészetközvetítés – Art mediation                    51,1            90,2            74,6            73,2            68,5            68,7            65,8
+ Orvos- és egészségtudomány                            56,5            58,9            74,9            72,7            72,0            89,1            59,7
+ Medical and health sciences
+ Pedagógusképzés – Teacher training                    59,9            64,6            82,4            80,8            82,6            80,4            85,5
+ Sporttudomány – Sport science                         44,7            56,6            69,1            74,0            80,0            80,0            80,0
+ Társadalomtudomány                                    69,1            76,4            84,7            83,0            80,6            84,7            64,4
+ Social sciences
+ Természettudomány                                    100,0            78,8            85,5            85,4            82,2            89,3            71,0
+ Natural sciences
+ Összesen – Total                                      65,0            67,0            73,6            75,0            77,3            81,1            68,5
+* Az osztatlan képzésre jelentkezőkkel és felvettekkel együtt. A pót- és a keresztféléves felvételi eljárás során jelentkezők és felvettek létszámával együtt. –
+   Including students applied and admitted to undivided training. Students applied and admitted in repeated, spring and autumn admission procedures
+   altogether.
+a) A képzési tartalom jogszabályok szerinti képzési csoportosítása. – Classification of education content based on legislation.
+b) 2010-ben nemzetvédelmi és katonai, 2015-ben közigazgatási, rendészeti, katonai. – National defence and military science in 2010, public administration,
+   law enforcement and military science in 2015.
+
+
+
+
+                                                                                                        TÁRSADALOM – SOCIAL STATISTICS | 155
+3.6.16. Felsőoktatás
+        Tertiary education
+                   Megnevezés
+                                                          2001/2002       2010/2011       2020/2021      2022/2023   2023/2024   2024/2025
+                  Denomination
+ Intézmény – Institutions                                         65               69              62          63          63          63
+ Oktató, tanár – Professors, lecturers, teachers
+   oktatói munkakörök – professors, lecturers                17 394           16 893          21 730       24 659      25 625      26 106
+     egyetemi és főiskolai tanár – professors                 3 039            3 082           2 100        2 217       2 251       2 179
+     docens – associate professors                            5 255            5 811           5 335        5 633       5 621       5 755
+     adjunktus – senior lecturers                             5 457            4 603           4 301        4 476       4 643       4 812
+     tanársegéd – assistant lecturers                         3 643            3 397           2 781        2 966       3 040       3 115
+     mesteroktató – master lecturers                              –                –             606          822         943       1 055
+     más oktató – other lecturers                                 –                –           6 607        8 545       9 127       9 190
+   tanári munkakörök – teachers                               5 469            4 602           1 781        1 698       1 785       1 781
+   összesen – total                                          22 863           21 495          23 511       26 357      27 410      27 887
+ Hallgató az összes képzésben
+ Full-time and part-time students
+   felsőoktatási szakképzésa)                                  4 475          20 441          11 834       11 980      11 045       8 310
+   tertiary level vocational traininga)
+   főiskolai szintű oktatás                                 195 291           13 350                –           –           –           –
+   college level education
+   egyetemi szintű oktatás                                  117 947           18 637                –           –           –           –
+   university level education
+   felsőfokú alapképzés – BA/BSc training                           –       224 076          169 699      170 520     189 354     205 584
+     ebből: egyéb képzés                                            –             –            5 592        6 403       6 230       7 672
+     of which: other training
+   mesterképzés – MA/MSc training                                 –           31 567          34 933       35 959      37 394      41 201
+   osztatlan képzés – undivided training                          –           30 389          44 536       44 715      45 368      46 102
+   szakirányú továbbképzés                                   24 558           15 720          16 344       16 236      16 523      16 348
+   postgraduate specialisation
+   doktori (PhD-, DLA-) képzés                                 7 030           7 167          10 147       10 581      10 730      11 017
+   PhD (DLA) training
+   összesen – total                                         349 301         361 347          287 493      289 991     310 414     328 562
+ Hallgató a nappali képzésben
+ Full-time students
+   felsőoktatási szakképzésa)                                  3 810          17 129           8 035        7 302       6 551       4 704
+   tertiary level vocational traininga)
+   főiskolai szintű oktatás                                  88 631            3 455                –           –           –           –
+   college level education
+   egyetemi szintű oktatás                                   95 440           16 432                –           –           –           –
+   university level education
+   felsőfokú alapképzés – BA/BSc training                           –       157 315          127 597      130 686     137 858     145 007
+     ebből: egyéb képzés                                            –             –            5 048        5 671       5 749       6 875
+     of which: other training
+   mesterképzés – MA/MSc training                                  –          16 402          20 932       20 689      20 856      21 407
+   osztatlan képzés – undivided training                           –          24 453          38 708       38 906      39 562      40 170
+   szakirányú továbbképzés                                       280             483             438          175         200         186
+   postgraduate specialisation
+   doktori (PhD-, DLA-) képzés                                 4 813           5 058           9 001        9 604       9 741       9 966
+   PhD (DLA) training
+   összesen – total                                         192 974         240 727          204 711      207 362     214 768     221 440
+a) Felsőfokú szakképzésben részt vevőkkel együtt. – Including students in higher vocational programme.
+
+
+
+
+156 | MAGYAR STATISZTIKAI ÉVKÖNYV, 2024 − STATISTICAL YEARBOOK OF HUNGARY, 2024
+3.6.16. Felsőoktatás (folytatás)
+        Tertiary education (continued)
+                    Megnevezés
+                                                           2001/2002       2010/2011        2020/2021       2022/2023        2023/2024       2024/2025
+                    Denomination
+                                                   Felsőfokú alap- és mesterképzésb)
+                                 Tertiary undergraduate (BA/BSc) and postgraduate (MA/MSc) trainingb)
+ Hallgató a nappali képzésben                         184 071       218 057     187 237     190 281                            198 276         206 584
+ Full-time students
+ Ebből: – Of which:
+   új belépő – new entrants                            48 644        50 074      44 720      48 069                             55 031           53 613
+   külföldi hallgató – foreign students                  8 088       15 090      32 400      36 175                             37 482           40 167
+   nő, % – female, %                                      53,8         51,7        51,5         52,1                              52,0             51,9
+   államilag finanszírozott oktatásban, %c)               86,6         73,0        64,6         63,7                              63,9             63,9
+   in forms financed by government, %c)
+   kollégiumban lakó, %                                          25,5             18,9            18,0             18,5            18,4             18,1
+   living in students' hostels, %
+ Hallgató a nem nappali képzésben                            129 167           99 962          61 931           60 913          73 840           86 303
+ Part-time students
+ Felsőfokú oklevelet szerzett hallgató a nappali
+   képzésbend)                                                29 746           38 456          85 565           34 422          44 827           39 320
+ Students having graduated in full-time formd)
+ Felsőfokú oklevelet szerzett hallgató a nem
+   nappali képzésbend)                                        17 690           14 927          76 902           10 635          19 204           14 861
+ Students having graduated in part-time formsd)
+b) Az egyetemi, főiskolai, osztatlan és az egyéb képzésben részt vevőkkel együtt. – Including also students in university and college level education and in
+   undivided and other training.
+c) A 2013/2014-es tanévtől az állami (rész)ösztöndíjas hallgatókkal együtt. 2020-tól az egyéb képzésben részt vevők nélkül. – From the 2013/2014 academic
+   year including students obtaining full or partial scholarship. From 2020 without students in other training.
+d) 2020-tól a nyelvvizsga-mentesítésnek köszönhetően oklevelet szerzők számával együtt. 2023-tól jogszabályi változások miatt az oklevelet szerzettek
+   száma a korábbi évek adataival csak korlátozottan hasonlítható össze. – From 2020 including also students having graduated from tertiary education due
+   to exemption from language exam requirement. From 2023, due to legislative changes the data on students graduated at tertiary education can only be
+   compared with the data of the previous years to a limited extent.
+
+
+
+
+                                                                                                      TÁRSADALOM – SOCIAL STATISTICS | 157
+3.6.17. Felsőoktatásban hallgatók képzési terület és szint szerint, 2024/2025
+        Students in tertiary education by field of training and levels, 2024/2025
+                                                           Felsőoktatási
+                                                                                 Felsőfokú           Mester-           Szakirányú         PhD-, DLA-
+                                                           szakképzésb)
+                   Képzési területa)                                           alapképzésc)         képzésd)         továbbképzés           képzés
+                                                           Tertiary level
+                  Fields of traininga)                      vocational
+                                                                                  BA/BSc            MA/MSc           Postgraduate         PhD, DLA
+                                                                                 trainingc)         trainingd)       specialisation        training
+                                                             trainingb)
+ Tanárképzés, oktatástudomány                                           –            20 628              13 543               4 558                449
+ Teacher training and education science
+ Művészetek – Arts                                                   212              5 099               2 857                  64                286
+ Humán tudományok – Humanities                                         1             10 961               3 013                 879              1 536
+ Társadalomtudományok                                                  1             25 049               6 644               2 101              1 727
+ Social sciences
+ Gazdaság és irányítás                                             4 123             41 059              10 493               2 419                102
+ Business and administration
+ Jog – Law                                                           665              1 713              12 908               2 218                616
+ Természettudományok – Science                                         –              4 658               1 916                 196              1 561
+ Informatika – Computing                                           1 382             23 431               2 627                 141                553
+ Műszaki tudományok                                                  468             30 894               6 783               1 644              1 033
+ Engineering, manufacturing and construction
+ Mezőgazdaság – Agriculture                                          538              5 473               3 865                 666                467
+ Egészségügy, szociális gondoskodás                                   87             16 676              21 359                 630              2 290
+ Health and welfare
+ Szolgáltatás – Services                                             833             12 271               1 295                 832                397
+ Képzési terület szerint nem besorolhatóe)                             –              7 672                   –                   –                  –
+ Not classifiable by field of traininge)
+ Összesen – Total                                                  8 310            205 584              87 303             16 348              11 017
+a) ISCED (az oktatás szabványos nemzetközi osztályozási rendszere) képzési terület szerint. – According to ISCED (International Standard Classification of
+   Education) fields of training.
+b) Felsőfokú szakképzésben részt vevőkkel együtt. – Including also students in higher vocational programme.
+c) Az egyéb képzésben részt vevők adataival együtt. – Including also students in other training.
+d) Az osztatlan képzésben részt vevőkkel együtt. – Including also students in undivided training.
+e) Részismereti képzésben, nemzetközi program képzésében, vendéghallgatói és előkészítő tanulmányok képzésben részt vevő hallgatók. – Students in
+   specific subfields of studies, students in international training programmes, guest students, and students in preparatory studies.
+
+
+
+
+3.6.18. A felsőoktatásban végzettek képzési terület és szint szerint, 2024
+        Graduates by field of training and level, 2024
+                                                           Felsőoktatási
+                                                                                 Felsőfokú           Mester-           Szakirányú         PhD-, DLA-
+                                                           szakképzésb)
+                   Képzési területa)                                           alapképzésc)         képzésd)         továbbképzés           képzés
+                                                           Tertiary level
+                  Fields of traininga)                      vocational
+                                                                                  BA/BSc            MA/MSc           Postgraduate         PhD, DLA
+                                                                                 trainingc)         trainingd)       specialisation        training
+                                                             trainingb)
+ Tanárképzés, oktatástudomány                                           1             3 304               3 300               2 424                  72
+ Teacher training and education science
+ Művészetek – Arts                                                   124              1 297                 774                  97                 70
+ Humán tudományok – Humanities                                         5              2 076                 845                 641                272
+ Társadalomtudományok                                                  –              4 726               2 443               1 208                292
+ Social sciences
+ Gazdaság és irányítás                                             1 709              7 183               3 758               1 729                   7
+ Business and administration
+ Jog – Law                                                           295                325               1 380               1 484                 71
+ Természettudományok – Science                                         –                976                 735                 168                366
+ Informatika – Computing                                             408              3 419                 722                  94                 95
+ Műszaki tudományok                                                  164              4 398               2 441               1 241                220
+ Engineering, manufacturing and construction
+ Mezőgazdaság – Agriculture                                          198                827                 729                 317                 80
+ Egészségügy, szociális gondoskodás                                   29              2 339               3 176                 321                433
+ Health and welfare
+ Szolgáltatás – Services                                             334              2 515                 465                 426                  55
+ Képzési terület szerint nem besorolható                               –                 18                  10                   4                  17
+ Not classifiable by fields of training
+ Összesen – Total                                                  3 267             33 403              20 778             10 154               2 050
+a) ISCED (az oktatás szabványos nemzetközi osztályozási rendszere) képzési terület szerint. – By ISCED (International Standard Classification of Education)
+   fields of training.
+b) Felsőfokú szakképzésben részt vevőkkel együtt. – Including also students in higher vocational programmes.
+c) Az egyéb képzésben részt vevők adataival együtt. – Including also students in other training.
+d) Az osztatlan képzésben részt vevőkkel együtt. – Including also students in undivided training.
+
+
+
+
+158 | MAGYAR STATISZTIKAI ÉVKÖNYV, 2024 − STATISTICAL YEARBOOK OF HUNGARY, 2024
+3.6.19. Az iskolarendszerű oktatásban, képzésben idegen nyelvet tanulók, 2024/2025*
+        Students learning foreign languages in formal education, 2024/2025*
+                Megnevezés                       Angol        Német         Francia         Olasz      Spanyol       Latin        Orosz        Egyéb
+               Denomination                     English       German        French          Italian    Spanish       Latin       Russian       Other
+ Általános iskola                              444 535        86 875         1 439             375      1 309            51         495         3 622
+ Primary schools
+ Szakiskola és készségfejlesztő iskola            1 913           499             –              –            –           –               –          –
+ Vocational schools and special skills
+   development schools
+ Szakképző iskola                                50 228        16 395           80               –            –           –           26          556
+ Vocational training schools
+ Gimnázium                                     202 529        117 032       17 841         17 438      16 155        2 491         3 196        2 080
+ Secondary general schools
+ Technikum, szakgimnázium                      172 780         41 083        1 322            738           701        335           494          117
+ Technicums, upper secondary
+   vocational schools
+ Felsőoktatás
+ Tertiary education
+   idegen nyelvet tanuló                         24 408         4 887          787          1 040         1 310      6 958           659       11 882
+   students learning foreign languages
+   nyelvszakos hallgató                           6 308         1 205          263            235           232        105           337        2 840
+   tertiary students in language training
+* Egy tanuló annyiszor szerepel, ahány nyelvet tanul.Szakképző intézmények esetében a szakmai idegen nyelv, valamint a munkavállalói idegen nyelv
+  tantárgyakat tanulók számával együtt. – A student is taken into account as many times as many languages he/she learns. In case of vocational educational
+  institutions including also students studying vocational foreign language and foreign language for the labour market.
+
+
+
+
+3.6.20. A nemzetiségi oktatásban részt vevő tanulók, 2024/2025*
+        Students in minority initial education, 2024/2025*
+               Megnevezés                        Német           Szlovák        Horvát           Cigány        Román           Szerb          Egyéba)
+               Denomination                      German         Slovakian      Croatian          Roma         Romanian        Serbian         Othera)
+ Általános iskola                                 46 094           3 483           1 910              684         1 296            424            763
+ Primary schools
+ Szakképző iskola                                         –             –               –               –             –               –             28
+ Vocational training schools
+ Gimnázium                                          2 676            106              164             496           206            385              99
+ Secondary general schools
+ Technikum, szakgimnázium                             108               –               –               –             –               –             60
+ Technicums, upper secondary
+   vocational schools
+* A magyar nyelvű roma/cigány kulturális nevelés/nemzetiségi nevelés-oktatásban részt vevő tanulók nélkül. – Excluding students participating in
+   Hungarian-speaking Roma/Gypsy cultural education/ethnic education.
+a) A kizárólag kiegészítő nemzetiségi nyelvoktatást folytató intézményekben tanulók évfolyamok alapján lettek besorolva. – Students studying in
+   supplementary nationality educational institutions were classified according to grades.
+
+
+
+
+                                                                                                      TÁRSADALOM – SOCIAL STATISTICS | 159
+3.6.21. Számítógép-használat és -ellátottság, 2024/2025
+        Use and availability of ICT at schools, 2024/2025
+                                                                                  Számítógéppel rendelkező
+                                                                                      feladatellátási hely,
+                                                                                   felsőoktatási intézmény
+                                                                                  School-sites, institutions for     Számítógépet
+                                                                                                                                             Egy
+                                                                                    tertiary education with            használó
+                                                                                                                                        számítógépre
+                                                                                                                        tanuló,
+                      Megnevezés                              Számítógépa)                 computers                                     jutó tanuló,
+                                                                                                                        hallgató
+                      Denomination                            Computersa)                              ebből:                              hallgató
+                                                                                                                       Students
+                                                                                                  internetkapcs                         Students per
+                                                                                                                         using
+                                                                                  összesen             olattal                            computer
+                                                                                                                       computer
+                                                                                     total           of which:
+                                                                                                   with Internet
+                                                                                                    connection
+ Általános iskola                                                  259 430              3 398             3 384           567 634                   2,2
+ Primary schools
+ Szakiskola és készségfejlesztő iskola                                4 032                164               156             5 511                  1,4
+ Vocational schools and special skills development
+   schools
+ Szakképző iskola                                                    20 922                359               335            49 658                  2,4
+ Vocational training schools
+ Gimnázium                                                           88 128                718               682          193 403                   2,2
+ Secondary general schools
+ Technikum, szakgimnázium                                            68 564                630               597          178 127                   2,6
+ Technicums, upper secondary vocational schools
+ Felsőoktatás                                                        50 318                 63                63           328 562b)                6,5
+ Tertiary education
+a) Csak oktatási célra használt számítógép, illetve hordozható számítógép. – Only computers and portable computers used for educational purposes.
+b) A felsőoktatási intézmények összes hallgatói létszáma. – Including all students in tertiary educational institutions.
+
+
+
+
+160 | MAGYAR STATISZTIKAI ÉVKÖNYV, 2024 − STATISTICAL YEARBOOK OF HUNGARY, 2024
+Módszertani megjegyzések
+
+Oktatási kiadások
+(3.6.1. tábla)
+   Adatforrás: az adott évi önkormányzati, illetve központi alrendszer költségvetési beszámolóiból készített összesítések.
+
+Oktatási intézmények
+(1.6., 3.6.2–3.6.21., 8.12–8.14. táblák)
+     Adatforrás: az oktatási intézmények tevékenységére, valamint a képzésben részt vevőkre vonatkozóan a
+Belügyminisztérium, a Kulturális és Innovációs Minisztérium, az Oktatási Hivatal, illetve Nemzeti Szakképzési és
+Felnőttképzési Hivatal által gyűjtött és feldolgozott adatok. Az adatfelvétel megﬁgyelési egysége az oktatási intézmény,
+illetve az oktatásban, képzésben részt vevők. Az adatfelvétel eszmei időpontja a 2000/2001-es tanévtől minden év október
+1., illetve október 15. A tanulmányok befejezésére vonatkozó adatok az adatfelvételt megelőző tanév végi eredményeket
+tartalmazzák, az eszmei időpontig letett javító- és pótvizsgák eredményeivel kiegészítve. 2021-től az érettségi vizsgára
+vonatkozó adatok az Oktatási Hivatal érettségi kutatói adatbázisából származnak. 2021-től a szakmai vizsgára vonatkozó
+adatok a Nemzeti Szakképzési és Felnőttképzési Hivatal vizsganyilvántartásából származnak.
+     A 2013/2014-es tanévtől a feladatellátási helyek száma az előző évek adataival csak korlátozottan hasonlítható össze.
+Ennek oka – a szervezeti és a fenntartói változások mellett –, hogy 2013-tól a köznevelési intézmény székhelyével vagy
+annak tagintézményével azonos településen, de nem tagintézményként működő telephelyek adatai önállóan, külön
+feladatellátási helyként szerepelnek.
+     A 2016/2017-es tanévben a középfokú szakképzésben jelentős átalakulások kezdődtek, amelyek egyben az
+iskolatípusok változását is jelentették. A speciális szakiskola új neve szakiskola lett, a korábbi szakiskolák elnevezésükben
+szakközépiskolává, a régi szakközépiskolák pedig szakgimnáziumokká alakultak. Ettől a tanévtől a gimnázium,
+szakgimnázium és a szakközépiskola közös elnevezése középiskola. A 2016/2017-es tanévtől a szakközépiskolák
+érettségire felkészítő programokat is folytattak.
+     A 2020/2021-es tanévtől a köznevelésben és a szakképzésben további átalakulások zajlottak, a köznevelési és a
+szakképző intézmények szétváltak. A köznevelési intézményekben a művészeti, a közművelődési és a pedagógiai képzési
+területet oktató intézmények szakgimnáziumként, a szakképző intézményekben a technikumok és a szakképző iskolák a
+felmenő rendszerű képzések mellett kifutó jelleggel a korábbi szakgimnáziumi és szakközépiskolai képzéseket is folytatják.
+Ettől a tanévtől a szakképző intézményekre vonatkozó adatgyűjtés módszertana változott, ezért a szakképzési feladatokra
+vonatkozó adatok az előző évi adatokkal korlátozottan hasonlíthatók össze.
+     A 2022/2023-as tanévtől a többcélú szakképző intézmények köznevelési feladataira vonatkozó adatgyűjtés
+módszertana változott, ezért a köznevelési feladatok adatai az előző éviekkel korlátozottan hasonlíthatók össze.
+
+
+Fogalmak
+Fogalomtár
+    A fejezetben használt fogalmak magyarázata, deﬁníciója a Fogalomtárban található. A szakstatisztikára (pl. cél, tartalom,
+jogi alap, az adat-előállítás módszertana, az adatok minősége), a fogalmakra, deﬁníciókra, az osztályozásokra, az
+adatforrásokra vonatkozóan további információk a www.ksh.hu internetes oldalunkon található Módszertan menüpontban
+érhetők el.
+
+
+Publikációk
+Összefoglaló táblák (STADAT)
+www.ksh.hu/stadat
+   23. Oktatás
+
+Tájékoztatási adatbázis
+www.ksh.hu/tajekadatbazis
+   Éves adatok: iskolarendszerű oktatás; egész életen át tartó tanulás (felnőttek képzésben való részvétele)
+
+Kiadványok
+www.ksh.hu/kiadvanytar
+   Elemzés: Helyzetkép, 2024 – Nevelés és oktatás
+
+
+
+
+                                                                                 TÁRSADALOM – SOCIAL STATISTICS | 161
+Methodological notes
+
+Expenditures on education
+(Table 3.6.1)
+   Source of data: the current year’s budget reports for local government and for central subsystem.
+
+Educational institutions
+(Tables 1.6, 3.6.2–3.6.21, 8.12–8.14)
+     Source of data: regarding educational institutions and participants the data collected and processed by the Ministry of
+Interior, the Ministry of Culture and Innovation, the Educational Authority as well as National Office of Vocational Education
+and Training and Adult Learning. The observed units of the data survey are the educational institutes and participants. Since
+the 2000/2001 school year, 1 October and 15 October of every school year are designated as the nominal date of data
+survey. Data relating to completed studies refer to the end of the previous school- year, adjusted with the results of passing
+repeated examinations. From 2021 data on final examination at upper secondary level derive from the Maturity examination
+research database of the Educational Authority. From 2021 data on vocational examination derived from the vocational
+examination database of the National Office of Vocational Education and Training and Adult Learning.
+     From the 2013/2014 school year the comparison of the number of school sites with former years is limited. The reason
+for this is that, in addition to changes in organisational structure and maintenance, from 2013 those school-sites operating
+in the same settlement as the seat of the institution or as that of the member institution but not being a member institution
+are counted as a separate school site.
+     In the 2016/2017 school year significant changes started in secondary vocational education which, at the same time,
+means a change in the types of schools as well. Special vocational schools were renamed as vocational schools, earlier
+vocational schools became secondary vocational schools and earlier secondary vocational schools became vocational
+grammar schools. From this school year on, the common name of secondary general schools, vocational grammar schools
+and secondary vocational schools is secondary school. From the 2016/2017 school year secondary vocational schools
+provided programs preparing for final examination at upper secondary level.
+     In the 2020/201 school year further changes took place in initial education and vocational training, the institutions for
+initial education and the vocational educational institutions were separated. In the institutions for initial education the teaching
+of arts, pedagogy and cultural education takes place in upper secondary vocational schools, in the vocational educational
+institutions, technicums and vocational training schools also run courses of phasing-out vocational grammar schools and
+secondary vocational schools. From this school year the methodology of data collection on institutions for vocational
+education has changed, therefore the data on vocational training tasks can be compared with the data of the previous year
+to a limited extent.
+     From the 2022/2023 school year the data collection methodology on the initial education tasks of multipurpose vocational
+educational institutions has changed; therefore, the data on initial education tasks can be compared with the data of the
+previous year to a limited extent.
+
+
+Concepts
+Glossary
+    The explanation and definition of the concepts used in the chapter are available in the Glossary. Further information on
+the statistical domain (e.g. purpose, content, legal base, data production methods, data quality) as well as on concepts and
+definitions, classifications and data sources is available under the Methodology menu at www.ksh.hu.
+
+
+Publications
+Summary tables (STADAT)
+www.ksh.hu/engstadat
+   Education
+
+Dissemination database
+www.ksh.hu/database
+   Time series of annual data: formal education; life-long learning.
+
+Publications
+www.ksh.hu/publications
+   Educational data, 2024/2025
+
+
+
+
+162 | MAGYAR STATISZTIKAI ÉVKÖNYV, 2024 − STATISTICAL YEARBOOK OF HUNGARY, 2024
+

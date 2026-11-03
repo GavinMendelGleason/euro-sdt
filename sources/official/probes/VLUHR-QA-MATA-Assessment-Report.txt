@@ -1,0 +1,957 @@
+PROGRAMME REVIEW
+
+
+
+
+                                                                           Brussels - May 2021
+Master of Arts in Transatlantic Affairs
+
+
+College of Europe and the Fletcher School of Law and Diplomacy at
+Tufts University
+
+
+
+
+                                                                qualityassurance.vluhr.be
+PROGRAMME REVIEW
+Master of Arts in Transatlantic Affairs
+
+VLUHR QA
+Ravensteingalerij 27 Bus 3&6
+1000 Brussels
+T +32 (0)2 792 55 00
+E kwaliteitszorg@vluhr.be
+
+This assessment report is available at www.qualityassurance.vluhr.be/assessment-reports.
+
+Legal deposit number: D/2021/12.784/1
+
+
+
+
+                                                                                           1
+CONTENTS
+
+PREFACE .......................................................................................................................... 3
+PROGRAMME REVIEW............................................................................................................ 4
+ASSESSMENT REPORT ........................................................................................................... 6
+1 Eligibility ....................................................................................................................... 6
+2 Learning outcomes ............................................................................................................ 8
+3 Study programme ............................................................................................................. 9
+4 Admission and recognition .................................................................................................. 11
+5 Learning, teaching and assessment ....................................................................................... 12
+6 Student support .............................................................................................................. 13
+7 Resources ..................................................................................................................... 13
+8 Transparency and documentation ......................................................................................... 14
+9 Quality assurance ............................................................................................................ 14
+ACCREDITATION ADVICE ....................................................................................................... 15
+RECOMMENDATIONS ............................................................................................................ 16
+COMMENDATIONS ............................................................................................................... 16
+ANNEX 1: ADMINISTRATIVE DETAILS ......................................................................................... 17
+ANNEX 2: SHORT CV PANEL MEMBERS ....................................................................................... 18
+ANNEX 3: SITE VISIT SCHEDULE ............................................................................................... 19
+ANNEX 4: DOCUMENTS CONSULTED .......................................................................................... 20
+
+
+
+
+                                                                                                                                     2
+PREFACE
+
+This assessment report deals with the programme review of the Advanced Master of Arts in Transatlantic Affairs
+(MATA) of College of Europe and the Fletcher School of Law and Diplomacy at Tufts University. This programme
+review was conducted by an independent panel of experts in February 2021.
+
+This report is intended for all stakeholders of the programme and provides a snapshot of its quality following the
+Standards for Quality Assurance of Joint Programmes in the European Higher Education Area. As chair of the
+VLUHR Quality Assurance Board I hope that the panel’s findings, judgements, recommendations and
+commendations will advance this unique transatlantic programme. Additionally, this report intends to provide
+information regarding the quality of the programme to a wider audience. For this reason, this report is published
+on the website of VLUHR QA.
+
+I would like to thank all members of the panel for the time they invested and the dedication they showed carrying
+out this programme review. At the very same time, this review was only possible because of the commitment of
+all those involved at the MATA programme. I hope this assessment report does justice to their efforts.
+
+                                                                                                Petter Aaslestad
+
+                                                                            Chair VLUHR Quality Assurance Board
+
+
+
+
+                                                                                                                3
+PROGRAMME REVIEW
+
+Introduction
+This assessment report presents the findings, judgements and recommendations regarding the quality of the
+Advanced Master of Arts in Transatlantic Affairs (MATA) of the College of Europe and the Fletcher School of Law
+and Diplomacy at Tufts University. For the administrative details of the institutions involved and the programme
+see Annex 1.
+
+This programme review was carried out in accordance with the VLUHR QA manual for the European Approach for
+Quality Assurance of Joint Programmes. 1 Dieter Cortvriendt, Policy Advisor of VLUHR QA, was project manager
+of this programme review.
+
+Panel composition
+The proposal of candidate panel members was approved by the VLUHR Quality Assurance Board on the 10th of
+June 2020. The composition of the panel was ratified by the VLUHR Quality Assurance Board on the 20th of
+November 2020.
+
+The panel was composed as follows:
+
+    •    Madeleine Hosli, Professor International Relations, Leiden University (chair of the panel)
+    •    Erik Jones, Professor European Studies and International Political Economy, Johns Hopkins
+    •    Bart Kerremans, Professor American Politics and International Political Economy, KU Leuven
+    •    Alexandra Faveaux, Student International Relations and Diplomacy, Antwerp University
+
+A short cv of the panel members is included as Annex 2.
+
+Assessment standards
+The MATA programme review was conducted in accordance with the nine Standards for Quality Assurance of Joint
+Programmes in the European Higher Education Area. This ‘European Approach’ is based on the European
+Standards and Guidelines for Quality Assurance in the European Higher Education Area and on the Qualifications
+Framework for the European Higher Education Area. The nine standards and underlying substandards are:
+
+    1.   Eligibility
+           1.1      Status
+           1.2      Joint design and delivery
+           1.3      Cooperation agreement
+    2.   Learning outcomes
+           2.1      Level
+           2.2      Disciplinary field
+           2.3      Achievement
+           2.4      Regulated professions
+    3.   Study programme
+           3.1      Curriculum
+           3.2      Credits
+           3.3      Workload
+    4.   Admission and recognition
+           4.1      Admission
+           4.2      Recognition
+    5.   Learning, teaching and assessment
+           5.1      Learning and teaching
+           5.2      Assessment
+    6.   Student support
+
+1 https://www.qualityassurance.vluhr.be/documents
+
+
+
+                                                                                                              4
+    7.   Resources
+          7.1     Staff
+          7.2     Facilities
+    8.   Transparency and documentation
+    9.   Quality assurance
+
+More information regarding these (sub)standards can be found in the assessment report.
+
+Decision rules
+The rules set out below are applicable to each standard and substandard.
+
+    -    ‘Compliant’: The programme acts in accordance with the standard, and its implementation is effective.
+    -    ‘Partially Compliant’: Some aspects or parts of the standard are met while others are not. The
+         interpretation of the standard is correct, but the manner of implementation is not effective enough.
+    -    ‘Non-Compliant’: The programme fails to comply with the standard.
+
+Preparation
+In preparation of the MATA programme review, the programme compiled a self-evaluation report in accordance
+with the VLUHR QA manual for the European Approach for Quality Assurance of Joint Programmes. The panel
+received the informative and conclusive self-evaluation report well in advance and studied this document and
+its annexes thoroughly. The panel also studied a wide selection of Master’s theses and consulted the virtual
+learning environment (containing the ECTS-files) of the programme.
+
+On the 7th of January 2021 the panel members attended a training session organised by VLUHR QA. During this
+session, the panel members were informed about the programme review process. Special attention was given to
+the status of the MATA programme, quality assurance in Flanders and Europe, the Standards for Quality Assurance
+of Joint Programmes in the European Higher Education Area and interviewing techniques. Also, a schedule for
+the site visit was agreed upon, enclosed as Annex 3. Finally, the self-evaluation report and the consulted Master’s
+theses were discussed in depth to prepare the site visit.
+
+Additional documents were provided in advance of the site visit, including teaching and learning materials,
+minutes of joint governance body meetings, examples of internship reports and examination examples.
+
+Site visit
+Given stringent COVID-19 regulations, the review of the MATA programme was conducted online on the 4th and
+5th of February 2021. During this ‘site visit’, the panel conducted interviews with all those involved in the
+programme in order to gain insight into the quality of the programme, including management, students, teaching
+and supporting staff, alumni and employers. These interviews took place in an open and constructive atmosphere
+and provided the panel, in addition to the documents studied (see Annex 4 for an overview), relevant insights
+regarding the quality of the programme. In order to give all stakeholders the opportunity to talk confidentially
+to the panel there was a free consultation. The panel attended a presentation about the facilities at the Bruges
+and the Natolin campuses of the College of Europe as well as at The Fletcher School. At the end of the site visit,
+the panel discussed its findings, judgements, recommendation and commendations with the programme
+management in a co-creative session. After a final panel meeting, the panel shared its main conclusions with the
+programme management in an oral report.
+
+Assessment report
+In the subsequent assessment report the panel provides the findings, judgements, recommendations and
+commendations regarding the quality of the MATA programme as a whole and all study tracks. At the end of this
+report an advice for accreditation is formulated, as well as a list of recommendations and commendations. The
+MATA programme management was given the opportunity to respond to the draft of this report before
+finalisation.
+
+
+
+
+                                                                                                                 5
+ASSESSMENT REPORT
+
+The Advanced Master of Arts in Transatlantic Affairs (MATA) is jointly organised by College of Europe (Bruges,
+Belgium and Natolin, Poland) and The Fletcher School of Law and Diplomacy at Tufts University (Medford, greater
+Boston area, United States). The MATA programme is a two-year (120 ECTS), international postgraduate training,
+awarding a joint Master’s degree. The programme has been running since 2017 and so far fifteen students
+graduated. Each year, approximately ten students are admitted to the programme. Students can enrol at both
+sides of the Atlantic.
+
+MATA is a unique programme, given that there are no other international (cross-Atlantic) postgraduate
+programmes offering a joint degree in transatlantic affairs, broadly defined as the economic, legal and political
+relations between the United States (and North America) and the European Union (and its member states) both
+in a bilateral and multilateral context as well as transnationally. The programme aims at training both academic
+and professional competences on a postgraduate level. The programme consists of a ‘truncus communis’,
+providing a general framework of US-EU relations, and five study tracks, by which the students are able to
+specialise. To complete their curriculum, all students must spend time on each side of the Atlantic, including a
+three/four-month internship, and have to complete a Master’s thesis.
+
+The Joint MATA Committee is the joint governing body of the programme, co-chaired by a representative of the
+College of Europe and Fletcher (the so-called MATA coordinators) and consisting of equal numbers of academic
+and administrative staff from each of the two institutions, as well as two student representatives. This committee
+meets two to three times a year and is responsible for the organisation of the programme, including keeping the
+curriculum up to date, defining the admissions requirements and carrying out the selection procedures, setting
+the parameters of the internship and the Master’s thesis supervision arrangements. As such, this committee is
+responsible for the organisation of the programme, under the final authority of the Academic Councils of the
+College of Europe and The Fletcher School.
+
+1 Eligibility
+The panel assesses standard 1 as compliant
+
+1.1 Status
+The institutions that offer a joint programme should be recognised as higher education institutions by the
+relevant authorities of their countries. Their respective national legal frameworks should enable them to
+participate in the joint programme and, if applicable, to award a joint degree. The institutions awarding the
+degree(s) should ensure that the degree(s) belong to the higher education degree systems of the countries in
+which they are based.
+
+The panel assesses substandard 1.1 as compliant
+
+Based on the relevant documents and the interviews conducted, the panel states that the College of Europe (the
+College) and The Fletcher School (Fletcher), the institutions offering the MATA programme, are both recognised
+as higher education institutions by the relevant authorities.
+
+The College is a public utility foundation and registered as an institution of higher education by the Flemish
+government. Its degrees are officially recognised by it as Master’s degrees (Level 7) in Flanders, and consequently
+in the European Higher Education Area (EHEA). The programmes of the College, including the MATA programme
+for its initial accreditation, have been accredited by the Accreditation Organisation of the Netherlands and
+Flanders (NVAO).
+
+Fletcher is the oldest postgraduate-only school of international affairs in the United States. It is part of Tufts
+University, an American private research university located just outside of Boston and accredited by the New
+England Association of Schools and Colleges (NEASC). The MATA programme is accredited in the United States by
+the New England Commission of Higher Education (NECHE).
+
+
+
+
+                                                                                                                 6
+The panel concludes that the legal status of both institutions enables them to organise the programme jointly
+and to offer a joint Master’s degree, in accordance with the degree systems of the countries in which the
+programme is based.
+
+1.2 Joint design and delivery
+The joint programme should be offered jointly, involving all cooperating institutions in the design and delivery
+of the programme.
+
+The panel assesses substandard 1.2 as compliant
+
+The MATA programme is a unique, two-year (120 ECTS), international programme with strong engagements of
+two renowned ‘schools’ awarding a joint degree. The MATA programme involves academic and administrative
+staff of the College and of Fletcher. All decisions regarding the programme are based on common accord, and
+thus the frequent consultation among both institutions.
+
+Regarding the design, the programme was established by a cooperation agreement defining the terms and
+conditions of the MATA programme, signed by the Rector of the College and the Dean of Fletcher. The Joint
+MATA Committee, the governing body of the MATA programme, was responsible for the operationalisation of the
+design, departing from the strong points of both organising institutions.
+
+Regarding the delivery of the programme, there are joint admissions requirements and selection procedures in
+place, a number of jointly organised course modules, co-monitored internships and a co-supervised Master’s
+thesis. It is important to stress that all students must study at least one semester on each side of the Atlantic,
+be it at the College or at Fletcher. As such, the students’ learning experience is transatlantic in nature. It is the
+responsibility of the Joint MATA Committee to oversee the delivery of the programme. The panel states, based
+on the interviews conducted and the documents studied, that this committee and its composition is well suited
+to guarantee the quality of the programme.
+
+Based on the documents provided as well as the interviews conducted, the panel concludes that both institutions
+are involved in the organisation of MATA programme as equal partners. There are high levels of trust between
+both institutions and clear synergies, for example regarding specialisations in the field of transatlantic affairs,
+which result in a well-integrated programme.
+
+1.3 Cooperation agreement
+The terms and conditions of the joint programme should be laid down in a cooperation agreement. The agreement
+should in particular cover the following issues: Denomination of the degree awarded in the programme;
+Coordination and responsibilities of the partners involved regarding management and financial organisation;
+Admission and selection procedures for students; Mobility of students and teachers; Examination regulations,
+student assessment methods, recognition of credits and degree awarding procedures in the consortium.
+
+The panel assesses substandard 1.3 as compliant
+
+The panel examined the cooperation agreement thoroughly and concludes that the terms and conditions of the
+programme are laid down in a sound way. The cooperation agreement covers all key aspects of the partnership,
+including the denomination of the joint degree awarded, the admissions requirements and selection procedures,
+mobility arrangements for students, examination regulations, financial aspects, the responsibilities of the
+partners and the structure of the curriculum. The panel concludes that the cooperation agreement provides a
+comprehensive and detailed framework to organise the MATA programme jointly and to anchor the cooperation
+in a sustainable fashion.
+
+
+
+
+                                                                                                                   7
+2 Learning outcomes
+The panel assesses standard 2 as compliant
+
+2.1 Level
+The intended learning outcomes should align with the corresponding level of the Framework for Qualifications in
+the European Higher Education Area (FQ-EHEA), as well as the applicable national qualifications framework(s).
+
+The panel assesses substandard 2.1 as compliant
+
+The programme has defined, in accordance with the mission and vision of both institutions, intended learning
+outcomes that are equivalent to Level 7 (the Master level) of the European and Flemish Qualifications
+Frameworks. In the United States, the MATA programme is accredited by NECHE and must meet its accreditation
+standards. As such, MATA’s intended learning outcomes are recognised at a Master level in the US as well.
+According to the panel, the intended learning outcomes are clearly defined, known by the different internal and
+external stakeholders and focus on high level professional and academic competences in the ‘niche’ area of
+transatlantic affairs.
+
+2.2 Disciplinary field
+The intended learning outcomes should comprise competences in the respective disciplinary field(s).
+
+The panel assesses substandard 2.2 as compliant
+
+The panel states that the formulated intended learning outcomes are in accordance with the academic and
+professional requirements of the field of transatlantic affairs, broadly defined as the economic, legal and political
+relations between the United States (and North America) and the EU (and its member states) both in a bilateral
+and multilateral context as well as transnationally.
+
+The intended learning outcomes indicate that the MATA students develop conceptual and methodological,
+academic and professional competences in transatlantic affairs on an (advanced) Master level; this is done in a
+multidisciplinary, analytical and critical fashion. As such, the students get a broad training in US-EU relations.
+Simultaneously, the intended learning outcomes allow students to specialise (by means of choosing a study track)
+and develop their own ‘narrative’ in the field of transatlantic affairs.
+
+It is the responsibility of the Joint MATA Committee to keep the curriculum (and the intended learning outcomes
+which steer the curriculum) in check with the interests of stakeholders. This includes, for example, conducting
+a Critical Friend’s review, but also acquisition of input by internship providers and visiting professors. Based on
+the interviews conducted and the documents received, the panel concludes that the intended learning outcomes
+comprise the required competences in the ‘niche’ of transatlantic affairs, but also leave room to the programme
+to keep up with innovations and trends in this field.
+
+2.3 Achievement
+The programme should be able to demonstrate that the intended learning outcomes are achieved.
+
+The panel assesses substandard 2.3 as compliant
+
+The panel states that the programme (including the structure of the curriculum, the content of the course
+modules, the learning formats and the assessment criteria), the quality of the internship reports and the Master’s
+theses, the overall satisfaction of the students with the programme and the employment opportunities of the
+graduates demonstrate that the students are able to achieve the intended learning outcomes.
+
+The intended learning outcomes of the MATA programme are realised by a comprehensive, well-structured two-
+year curriculum, which starts in the first year with course modules on either side of the Atlantic and two joint
+activities and then has students move to the other side of the Atlantic with a compulsory internship and additional
+elective course modules during the second year. The Master’s thesis (26 ECTS) is carried out mainly in the second
+year and is seen as the ‘capstone’ of the programme. The panel studied more than ten Master’s theses and was
+impressed by the quality of these products, which clearly demonstrate the conceptual and methodological
+competences of the students. In sum, the study programme ensures that all competences are trained. As a
+
+
+                                                                                                                   8
+sidenote, the panel advises the programme management to reflect about the format of the Master’s thesis and
+of the internship report, aiming to give students more flexibility to showcase their products (and achievements).
+
+The students the panel spoke with mentioned that they can achieve the intended learning outcomes and that
+studying on both sides of the Atlantic is an important aspect of their learning experience. They are overall very
+satisfied with the programme. Similarly, the alumni highlighted the relevance and the quality of the programme.
+The list of alumni and their profiles shows that graduates are employed at high level institutions. Graduates move
+into different ‘sectors’ of employment, like intergovernmental organisations, public service institutions, private
+companies, NGOs and think tanks. The programme is of clear added value for the career opportunities of the
+graduates, a fact that was also stressed by the employers the panel met. The graduates also expressed the view
+that the programme is not just about knowledge acquisition, but also about skills and attitudes. However, based
+on these discussions and as a point of attention and to further improve the programme, the panel believes that
+the alumni network should be developed further.
+
+2.4 Regulated professions
+If relevant for the specific joint programme, the minimum agreed training conditions specified in the European
+Union Directive 2005/36/ EC, or relevant common trainings frameworks established under the Directive, should
+be taken into account.
+
+This sub-standard is not applicable to the MATA programme.
+
+3 Study programme
+The panel assesses standard 3 as compliant
+
+3.1 Curriculum
+The structure and content of the curriculum should be fit to enable the students to achieve the intended learning
+outcomes.
+
+The panel assesses substandard 3.1 as compliant
+
+The panel examined the curriculum thoroughly and the content of the various course modules was an important
+topic during the discussions held with the different stakeholders. The curriculum, counting 120 ECTS in total, is
+comprehensive and well-structured, while allowing for space for innovations and the inclusion of new trends in
+the area of transatlantic affairs. Based on the interviews conducted, the panel was impressed by the
+multidisciplinary nature of the curriculum (by means of the joint course and project, the choice of study tracks
+and the content of the course modules) and was pleased to hear that the programme management aims to even
+further develop this multidisciplinary angle, given the challenges that US-EU and international relations face are
+likely to become increasingly ‘multidimensional’ and need answers based on multidisciplinarity.
+
+The curriculum shows a high level of coherence, no superfluous overlaps, and a good balance between the
+training of academic and professional competences on the one hand, and ‘joint’ as well as ‘specialisation’
+activities on the other. The joint part or so-called ‘truncus communis’ comprises, besides the internship and the
+Master’s thesis (26 ECTS), a joint Transatlantic Course in the first and a joint Transatlantic Project in the second
+semester. This ensures a broad perspective on transatlantic affairs for all students. In the specialisation part of
+the programme, students choose a study track: Economics, International Relations and Diplomacy, Legal Studies,
+Political and Governance Studies or an Interdisciplinary Track. The students made it clear to the panel that the
+programme challenges them and triggers them to explore new aspects of the relations between the US and the
+EU. Given many course modules have not been developed specifically for MATA, the faculties involved ensure
+that the content is geared towards the interests of the MATA students and the intended learning outcomes of
+the programme.
+
+Throughout the programme, competences are gradually trained to attain the ‘milestones’ of the programme: the
+project, the internship and Master’s thesis. The Transatlantic Project is, according to the panel, an excellent
+initiative that tackles very different topics at a high level and is attuned to the interests of the students. The
+internship is a crucial component of the programme and seen as a unique selling point by the students in terms
+of their professional skills set. The internship is compulsory and lasts three/four months, conducted at a
+
+
+                                                                                                                  9
+prestigious intergovernmental organisation, public service institute, private company, NGO or think tank. Finally,
+research (methodology) seminars are offered to help students prepare well for their Master’s thesis.
+
+In spite of this overall very positive impression, the panel has two points of attention regarding the programme
+curriculum. First, as some students face difficulties to choose a Master’s thesis topic early on (as they sometimes
+do not know yet what will interest them the most to work on), the programme should ensure that all enrolling
+students really know well what the programme is about and what added value it offers. By setting expectations
+straight from the very start, students can make better informed choices regarding their Master’s thesis topic,
+and will be able to develop their own ‘narrative’ within the programme further. Second, more focus should be
+placed on the US system, given the curriculum at the moment focuses more on the EU rather than the US-side of
+transatlantic affairs. The panel would like to see more balance in the curriculum, with a more equal focus on
+both sides of the Atlantic, according to the intended learning outcomes. Although most students have prior
+knowledge on the EU and on the US and reading courses on both are provided, the panel believes that this
+imbalance must be addressed in a more systematic way.
+
+The panel concludes that the overarching, broad perspective on transatlantic affairs provided by the ‘truncus
+communis’ on the one hand and the different study tracks on the other allow the MATA students to achieve the
+intended learning outcomes.
+
+3.2 Credits
+The European Credit Transfer System (ECTS) should be applied properly and the distribution of credits should be
+clear.
+
+The panel assesses substandard 3.2 as compliant
+
+The MATA programme counts 120 ECTS. Each semester is approximately 30 ECTS. The students are provided with
+ECTS-files which contain the number of credits awarded to each course module, information on the teaching,
+learning and assessment formats, the content of the course modules, reading suggestions and contact information
+of staff. Accordingly, the panel finds that the distribution of credits is clear and balanced across the programme.
+
+3.3 Workload
+A joint bachelor programme will typically amount to a total student workload of 180-240 ECTS-credits; a joint
+master programme will typically amount to 90-120 ECTS-credits and should not be less than 60 ECTS-credits at
+second cycle level (credit ranges according to the FQ-EHEA); for joint doctorates there is no credit range
+specified. The workload and the average time to complete the programme should be monitored.
+
+The panel assesses substandard 3.3 as compliant
+
+As mentioned above, the MATA programme counts 120 ECTS. The programme is developed for students to
+complete it in two years. The programme management monitors students’ workload on a regular basis, by means
+of course and programme evaluation questionnaires and consultations with the student representatives. MATA is
+an intensive programme, as the students testified in discussions with the panel, especially during the second
+year of studies. But in general, the workload is feasible. The panel did not find any indication that students
+encounter problems finishing their programme within the foreseen two-year period. So far, all students have
+completed MATA in the time span of two years. As a point of attention, according to the panel, it could be
+appropriate to allocate more credits to the joint course modules. In this vein, in the respective discussion with
+the panel, the programme management indicated it is exploring to attribute more weight in the curriculum to
+the joint Transatlantic Project; this step could further increase the ‘jointness’ of the programme and
+simultaneously enhance its multidisciplinary angle.
+
+
+
+
+                                                                                                                10
+4 Admission and recognition
+The panel assesses standard 4 as compliant
+
+4.1 Admission
+The admissions requirements and selection procedures should be appropriate in light of the programme’s level
+and discipline.
+
+The panel assesses substandard 4.1 as compliant
+
+The College and Fletcher cap the size of the MATA programme to around ten students, with ideally five students
+starting at each of the two partner institutions each year. The admissions requirements are clearly spelled out
+and geared towards selecting students that have the appropriate qualifications and motivations to successfully
+complete this postgraduate training. The respective admissions requirements are: four years of university
+studies, at least six months of professional experience, a proven interest in transatlantic affairs, a disciplinary
+background in accordance with the study track choice, a high level of proficiency in English and ‘leadership
+potential’. It is the panel’s opinion that the programme has a good perspective as regards the desired profile of
+the candidates, enabling it to select suitable candidates to keep the group of those starting at a size no larger
+than 10. As a point of attention, the websites of both institutions have to communicate the admissions
+requirements in the same way, to avoid potential confusion.
+
+The selection procedures are rigorous, but fair and transparent. Candidates wishing to spend their first year in
+the US apply directly through Fletcher’s admissions system. Students wishing to spend their first year in Europe
+apply through the system of the College. Following the close of the application deadline, the two institutions
+decide jointly which candidates they consider to possess the necessary qualifications and motivation to succeed
+and should be invited for a selection interview. The interviews are conducted by a panel consisting of the MATA
+staff and one additional senior representative of each study track. Consequently, based on the interviews
+conducted, the selection panel establishes a ranking, including a short list of at least five candidates to start
+MATA at the College and at Fletcher, respectively, as well as a reserve list of candidates. In case an admitted
+candidate decides not to join, his/her place is offered to a candidate on the reserve list until the contingent of
+ten students is filled.
+
+Actual admissions have been somewhat unevenly distributed, with more MATA students starting at the College
+than at Fletcher. Recruitment in the US seems to be a challenge and is a concern for the programme management.
+More scholarships could be helpful in this respect to increase the number of candidates on the US side, as well
+as alumni that function as ‘ambassadors’ of the programme. The panel suggests letting students who have applied
+at Fletcher start their programme in Europe, so that they can do their last year in the US, which is important for
+US(-based) students, given the ‘location’ of graduation is very important to enter the US job market.
+
+4.2 Recognition
+Recognition of qualifications and of periods of studies (including recognition of prior learning) should be applied
+in line with the Lisbon Recognition Convention and subsidiary documents.
+
+The panel assesses substandard 4.2 as compliant
+
+The MATA programme, being an (advanced) Master programme, explicitly looks for students already possessing
+a Master’s degree. However, the programme also welcomes applicants with a four-year (240 ECTS) Bachelor
+degree that is equivalent to Level 6 of the European Qualification Framework, providing that the candidate has
+a convincing, outstanding academic and professional track record and thus the competencies to complete the
+programme. According to the panel, both institutions have extensive experience in terms of selecting
+international students based on different types of qualifications across the globe. Hence, the panel concludes,
+the MATA programme management is able to adequately acknowledge prior learning experiences and is in tune
+with the Lisbon Recognition Convention.
+
+
+
+
+                                                                                                                11
+5 Learning, teaching and assessment
+The panel assesses standard 5 as compliant
+
+5.1 Learning and teaching
+The programme should be designed to correspond with the intended learning outcomes, and the learning and
+teaching approaches applied should be adequate to achieve those. The diversity of students and their needs
+should be respected and attended to, especially in view of potential different cultural backgrounds of the
+students.
+
+The panel assesses substandard 5.1 as compliant
+
+The panel finds that the learning formats are in line with the content and the structure of the MATA curriculum
+and the intended learning outcomes. There is a good mixture of activities, ranging from lectures to seminars,
+project work to case studies, and from role playing to negotiation exercises, of which many encompass high
+levels of interaction among students. The students stated they are very pleased with these different forms of
+training. The formats support the goals of the various course modules, ranging from ‘understanding’ to ‘applying’
+and from ‘analysing’ to ‘creating’. The students often have to engage in group work, but also demonstrate high
+levels of autonomy in the course of their studies.
+
+The different backgrounds of the students are taken into account, so that all students are able to achieve the
+intended learning outcomes. Just as is the case in other programmes offered at the College and at Fletcher, the
+composition of the student body is diverse in terms of both national and disciplinary backgrounds. According to
+the panel, both schools have extensive experience in working with this kind of diversity and fostering respective
+student communities. Accordingly, the panel concludes that the learning environment is of a high quality,
+supported by a highly motivated and very committed team and excellent facilities.
+
+5.2 Assessment
+The examination regulations and the assessment of the achieved learning outcomes should correspond with the
+intended learning outcomes. They should be applied consistently among partner institutions.
+
+The panel assesses substandard 5.2 as compliant
+
+The MATA programme is based on an adequate assessment system, including the respective examination
+regulations, guaranteeing its validity, reliability and transparency. The assessment formats are diverse, include
+both written and oral exams, papers and presentations and are well in tune with the curriculum and the
+competences to be trained. The panel has studied a number of assessments given and states that the assessment
+criteria are found to be aligned with students’ gradual achievement of the intended learning outcomes. The
+panel also observed, based on respective documents and discussions, that feedback plays a major role in the
+learning experience of the MATA students.
+
+The students the panel spoke with were of the opinion that the assessments are well-organised and that they
+know what is expected from them during the exams. The students receive sufficient feedback regarding exams
+and, if needed, a complaint procedure is in place. The grades are generally perceived to be fair by the students.
+The grade conversion table, however, is a source of ongoing confusion to some of the students. The panel suggests
+being clear from the very start and inform the students that – beyond ‘the truncus communis’ – the grades are
+attributed on the local scales at the two institutions. The panel believes that ‘managing expectations’ is
+important in this regard.
+
+Based on the quality of the internship reports, the Master’s theses and the exams and their assessments the panel
+has studied, it is clear that the students realise the intended learning outcomes. The assessments tackle all
+competences the students must acquire, and this is done in a consistent way across the two institutions.
+
+
+
+
+                                                                                                              12
+6 Student support
+The student support services should contribute to the achievement of the intended learning outcomes. They
+should take into account specific challenges of mobile students.
+
+The panel assesses standard 6 as compliant
+
+Based on the interviews conducted with the different stakeholders, the panel states that the student support
+services at both the College and Fletcher contribute to the achievement of MATA’s intended learning outcomes.
+The students the panel spoke with clearly stated that the respective support is very well organised and that they
+find their way to the services offered, both at the Bruges and Natolin campuses of the College and at Fletcher.
+The supporting staff is eager to provide the students with tailormade support, as the panel observed during the
+respective interview.
+
+At each partner institute, support is provided for students. Students in need of information or help regarding
+scholarship opportunities, visa requirements, campus life or career opportunities can consult the different
+support offices. In addition to this, workshops are organised in areas where students would like to improve, for
+example, their networking skills. Similarly, language skills can be trained at the different locations of the
+programme. Moreover, psychological counselling is available when needed. Additionally, academic support is
+provided by the professors and by assistants. The panel appreciates that the students receive support to integrate
+well into the campus community, especially given the students at Bruges and Natolin actually live on the campus.
+
+Based on the interviews conducted, it became clear to the panel that the programme is paying special attention
+to the challenges students face when they have to move from one side of the Atlantic to the other. There is a
+well-designed follow-up monitoring of students when they go overseas. Although the persons the panel spoke
+with in the respective session did not signal any shortcomings in this respect, the programme should ensure there
+is no gap in service coverages. The panel suggests that a buddy system could be helpful to ensure no student
+‘falls between the cracks’.
+
+There is financial support available for students eligible for this; the panel supports the programme’s ambition
+to search for more scholarships and sponsors (especially on the US side, in view of the financial burden many
+students are already facing), to increase enrolments on the US side and, with this, obtain an even more balanced
+student population.
+
+7 Resources
+The panel assesses standard 7 as compliant
+
+7.1 Staff
+The staff should be sufficient and adequate (qualifications, professional and international experience) to
+implement the study programme.
+
+The panel assesses substandard 7.1 as compliant
+
+The panel observed that the key MATA staff is very committed to the programme and motivated. The students
+are very satisfied with the MATA staff in general, including the administrative staff. The panel examined the
+curricula vitae of the different members of the teaching staff and finds that the programme’s members of faculty
+have an impressive academic and professional track record. They are highly qualified and internationally
+renowned in the field of transatlantic affairs, both as teachers and as researchers. The students the panel spoke
+with praised the pedagogical and didactical competences of the teaching staff, which is further substantiated by
+the CVs the panel has studied. Faculty and staff members of one institution regularly visit the other institution.
+Moreover, guest lecturers are regularly invited to address specific topics. In sum, the panel can state that the
+programme has sufficient and adequate staff available to implement the study programme.
+
+
+
+
+                                                                                                               13
+7.2 Facilities
+The facilities provided should be sufficient and adequate in view of the intended learning outcomes.
+
+The panel assesses substandard 7.2 as compliant
+
+Given it was not possible to visit the College facilities in person because of stringent COVID-19 regulations in
+place, the panel attended a presentation about the facilities of the College of Europe Bruges and Natolin
+campuses and at The Fletcher School. In addition, the panel discussed the quality of the facilities with the
+different stakeholders. The panel finds that both institutions provide outstanding facilities to make the learning
+experience as positive as possible. This was confirmed by the students and graduates the panel spoke with. As
+all facilities in the two institutions are at the service of the MATA students, they can fully utilise them throughout
+their two years in the programme. The facilities available, including auditoria, classrooms, libraries, study areas,
+restaurants, sports facilities and student residences, are well-equipped and well-accessible at all campuses,
+which constitute safe environments and stimulate interaction among students (and staff). High level ICT services,
+including a secure Video Conference System, are provided and there is a helpdesk in case of problems
+encountered. Online teaching was already in place before the Covid-19 pandemic, but is becoming ‘the norm’
+now. Altogether, the two institutions provide an excellent, complementary and rich learning environment, highly
+conducive to the realisation of the intended learning outcomes.
+
+8 Transparency and documentation
+Relevant information about the programme like admission requirements and procedures, course catalogue,
+examination and assessment procedures should be well documented and published by taking into account specific
+needs of mobile students.
+
+The panel assesses standard 8 as compliant
+
+The two institutions provide all necessary information about the programme to different stakeholders, and
+especially to applicants and students enrolled. The information strategy consists of written documentation
+available on the website and on digital learning platforms on the one hand and of the organisation of supporting
+information meetings on the other.
+
+The MATA programme websites provide detailed information about aspects such as the structure and content of
+the curriculum, admissions requirements and selection procedures, and scholarship possibilities. Once admitted,
+students get access to the digital learning platforms of the College (intranet) and of Fletcher (Canvas). All
+relevant information regarding the course modules are provided, including the ECTS-files, assessment schedules
+and learning materials.
+
+Additionally, Facebook or WebEx chats are organised to welcome students that cross the ocean to study at the
+other side of the Atlantic. Finally, students benefit from an open-door policy of the MATA staff and they can
+always meet with the MATA Academic Assistant upon short notice.
+
+9 Quality assurance
+The cooperating institutions should apply joint internal quality assurance processes in accordance with part one
+of the ESG.
+
+The panel assesses standard 9 as compliant
+
+Based on the documents provided and the interviews conducted, the panel states that the programme has the
+necessary quality assurance policies and processes in place to monitor and improve the quality of the programme
+in a systematic way. In order to guarantee the quality of the programme, there is a well-designed governance
+structure in place which comprises the level of the programme and involves different stakeholders, both internal
+and external ones.
+
+At the level of the programme, the Joint MATA Committee plays a crucial role in monitoring and improving the
+quality of the programme, by reviewing the curriculum in a permanent manner based on the input obtained from
+stakeholders of both the academic and the professional field, including guest professors and internship providers.
+Regarding the student’s input there is a continuous quality check built in to optimise their learning experience.
+
+
+                                                                                                                   14
+This allows the programme management to run a qualitatively convincing assurance system that is ‘fit-for-
+purpose’ and able to respond swiftly to students’ feedback to set up remedying action. Much feedback is
+informal, given the direct communication channels between staff and students. On the formal side, there are
+regular meetings with the two MATA student representatives (one at the College and one at Fletcher) to address
+student-related issues and students, on a regular basis, fill out course and programme evaluation questionnaires.
+Based on the results of these questionnaires and the feedback obtained from the students (both formal and
+informal), remedying actions have been set up by the programme management. Quality assurance also includes
+the conduct of a Critical Friend’s review. The outcomes of this review have also resulted in remedying actions.
+In sum, the panel appreciates the way in which the programme management deals with the feedback and the
+swift and constructive way remedying actions are taken.
+
+Altogether, whereas the MATA programme benefits from the long-standing quality assurance systems in place at
+both the College and Fletcher, it has its own quality assurance system, with the Joint MATA Committee as a
+backbone. As a point of attention, the panel suggests finding ways to ensure that the evaluation of course
+modules not specifically designed for MATA are addressed on the MATA level as well, for example by initiating a
+focus group session to discuss MATA students’ experiences with such courses.
+
+
+
+
+ACCREDITATION ADVICE
+
+As all the standards and substandards are assessed as compliant, the panel advises to grant accreditation to the
+Advanced Master of Arts in Transatlantic Affairs of the College of Europe and The Fletcher School of Law and
+Diplomacy at Tufts University.
+
+
+
+
+                                                                                                              15
+RECOMMENDATIONS
+
+The panel suggests the programme to further develop its alumni network.
+
+The panel advises to reflect about the format of the Master’s thesis and the internship report, allowing
+students more flexibility to showcase their products (and achievements).
+
+The panel advises to set expectations straight from the very start, so students can make more informed choices
+regarding their study trajectory within MATA.
+
+The panel recommends bringing more balance into the MATA curriculum in terms of addressing policies and
+politics of both the US and the EU.
+
+The panel suggests attributing more credits to the joint activities between the institutions.
+
+The panel advises to communicate the admissions requirements in the same manner on the websites of both
+institutions.
+
+The panel suggests letting students who have applied at Fletcher start their programme at the College and vice
+versa.
+
+The panel recommends clearly informing the students about the grading scales used in the programme.
+
+The panel suggests setting up a ‘buddy system’ to welcome students who join from the other side of the
+Atlantic.
+
+The panel advises to find ways that the evaluation of course modules not specifically designed for MATA are
+addressed on the MATA level as well; MATA students’ feedback in this context can, for example, be collected
+based on focus group sessions.
+
+
+
+COMMENDATIONS
+
+The panel applauds that MATA, with its selective admission and selection procedures, ensures that all students
+are talented, engaged and highly interested in transatlantic affairs.
+
+The panel is very pleased that the programme explicitly bridges academic insights with professional skills and
+allows students to benefit from and get trained in both.
+
+The panel finds that MATA provides a good example of how high-quality internships can be secured in a
+competitive environment for such positions.
+
+The panel finds that the programme’s staff is very well dealing with a talented and motivated group of
+international students willing to engage in new experiences at two institutions across the Atlantic.
+
+
+
+
+                                                                                                                 16
+ANNEX 1: ADMINISTRATIVE DETAILS
+
+Details College of Europe:
+
+Status: Public interest foundation registration number: 0409.518.855
+
+Dijver 11
+
+8000 Bruges
+
+BELGIUM
+
+Details The Fletcher School of Law and Diplomacy at Tufts University:
+
+Status: Private institution accredited by the New England Commission of Higher Education (NECHE)
+
+160 Packard Avenue
+
+Medford, Massachusetts 02155
+
+USA
+
+Details MATA programme:
+
+Degree and the qualification of the degree and, where appropriate, the specification of the degree: Master of
+Arts in Transatlantic Affairs (Advanced Master)
+
+Location(s) where the programme will be given:
+
+      •   College of Europe: campus Bruges, Belgium, or campus Natolin, Poland
+      •   The Fletcher School of Law and Diplomacy at Tufts University: Medford (greater Boston area),
+          Massachusetts, USA
+
+Language in which the programme will be given: English (at the College of Europe, students who master French
+may also choose courses taught in French)
+
+Study load, expressed in credit points: 120 ECTS
+
+Study area, part of study area or study areas in which the programme is categorised: International and EU Law;
+Diplomacy, History and Politics (US, EU and international); International and European Economics
+
+ISCED code and name for the study area in which the programme is categorised: 031 (Social and behavioural
+sciences) and 042 (Law)
+
+
+
+
+                                                                                                            17
+ANNEX 2: SHORT CV PANEL MEMBERS
+
+Madeleine O. Hosli is a full Professor of Political Science (International Relations) at Leiden University. Her main
+research interests are in international political economy, international organisations and European integration.
+She is author of The Euro: A Concise Introduction to European Monetary Integration (Lynne Rienner 2004), co-
+editor of Decision-Making in the European Union before and after the Lisbon Treaty (Routledge 2017), The
+Changing Global Order (Springer 2020), The Future of Multilateralism (Rowman and Littlefield 2021) and has
+published widely in peer-reviewed journals, including International Organization, International Studies
+Quarterly, the Journal of Common Market Studies, European Union Politics, the European Journal of Political
+Research and the Review of International Organizations.
+
+Erik Jones is Professor of European Studies and International Political Economy and Director of European and
+Eurasian Studies at the Johns Hopkins School of Advanced International Studies. He is also a senior research
+associate at the Istituto per gli studi di politica internazionale (ISPI) and a visiting fellow at the Robert Schuman
+Centre for Advanced Studies at the European University Institute. Professor Jones is co-editor of Government &
+Opposition and contributing editor of Survival. He writes on European integration, US foreign policy, and the
+transatlantic relationship.
+
+Bart Kerremans is Professor of American Politics and International Political Economy at the Institute for
+International and European Studies at KU Leuven. He is also part of the interdisciplinary Leuven Research Centre
+for Global Governance Studies. His research focuses on the trade policies of the United States and the European
+Union, political processes and decision-making in this area and trade relations between the European Union and
+the United States in the context of the World Trade Organisation. He has published widely on these themes, inter
+alia in the Journal of World Trade, Journal of World Investment, Regional and Federal Studies, the Journal of
+Common Market Studies, Governance and Comparative Political Studies.
+
+Alexandra Faveaux is a Master's student at the University of Antwerp. After a Bachelor's in Literature and
+Linguistics (English-German), she continued a Master's in International Relations and Diplomacy with a focus on
+security and organisation. She is currently a student representative and a board member of UNYA Antwerp, which
+is currently being reinstalled.
+
+
+
+
+                                                                                                                  18
+ANNEX 3: SITE VISIT SCHEDULE
+
+Thursday 4 February 2021
+
+11:30-12:00    Welcome
+
+12:00-14:00    Preparatory panel meeting
+
+14:00-15:00    Interview programme management
+
+15:00-15:30    Panel meeting
+
+15:30-16:30    Interview students
+
+16:30-17:00    Panel meeting
+
+17:00-18:00    Interview teaching staff
+
+18:00-18:30    Panel meeting
+
+18:30-19:15    Interview supporting staff
+
+19:15-20:30    Dinner
+
+20:30-21:15    Interview graduates and employers
+
+
+
+Friday 5 February 2021
+
+09:00-10:00    Presentation facilities Bruges, Natolin and Fletcher campuses
+
+10:00-11:00    Free consultation
+
+11:00-13:30    Concluding panel meeting
+
+13:30-14:45    Co-creative session programme management
+
+14:45-15:30    Preparation oral report
+
+15:30-15:45    Oral report
+
+
+
+
+                                                                               19
+ANNEX 4: DOCUMENTS CONSULTED
+Self-evaluation report Master of Arts in Transatlantic Affairs, including the following annexes:
+Annex 1: Programme-specific intended learning outcomes of the MATA programme
+Annex 2: MATA Critical Friend’s Report (Professor Bindi, May 2020)
+Annex 3: Chart of the Flemish Higher Educational System
+Annex 4: CVs of key MATA academic and administrative staff
+Annex 4 bis: Overview of administrative and support staff at the College of Europe Bruges and Natolin
+campuses and at The Fletcher School
+Annex 5: Cooperation Agreement between the College of Europe and The Fletcher School
+Annex 6: Overview tables linking courses across each of the MATA study tracks to the MATA intended learning
+outcomes
+Annex 7: Detailed description of the contents of the MATA programme study tracks
+Annex 7 bis: Typical study trajectories of MATA students in selected study tracks - examples
+Annex 8: Overview of applications for the MATA programme, of the admitted students and the final
+composition of the MATA student body (academic years 2017/2018 to today)
+Annex 9: Grading systems at the College of Europe and The Fletcher School and grade conversion table for the
+Master of Arts in Transatlantic Affairs
+Annex 10: MATA Internships (2018-2020)
+Annex 11: Completed MATA theses (2017-2020)
+Annex 12: Overview of the MATA internet website
+Annex 13: Overview of the MATA joint repository of key documents (College of Europe intranet)
+
+Additional documents tabled during the site visit:
+Teaching and examination regulations
+Minutes of joint governance body meetings
+Samples of teaching and learning material
+Examples of internship reports
+Samples of written examinations
+Overview of MATA alumni’s employment opportunities
+
+
+
+
+                                                                                                         20
+

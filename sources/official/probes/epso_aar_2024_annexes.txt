@@ -1,0 +1,2150 @@
+               Annual Activity Report
+                                2024
+                                  annexes
+          EUROPEAN PERSONNEL SELECTION OFFICE
+
+
+
+
+[acronym]_aar_2023                         Page 1 of 64
+Contents
+ANNEX 1:                      Statement of the Director(s) in charge of Risk Management and Internal
+                              Control ..................................................................................................................................................4
+ANNEX 2:                      Performance tables .......................................................................................................................5
+ANNEX 3:                      Draft annual accounts and financial reports ................................................................ 23
+ANNEX 4:                      Financial scorecard ..................................................................................................................... 37
+ANNEX 5: Materiality criteria ................................................................................................................................... 40
+ANNEX 6:                      Relevant Control System(s) for budget implementation (RCSs) ......................... 41
+ANNEX 7:                      Specific annexes related to "financial management" ............................................... 49
+      A. Free content....................................................................................................................................................... 49
+      B. Compulsory for all departments ............................................................................................................. 50
+                1.             Reports and documentation considered for the assessment of the DG’s
+                               functioning in view of the AOD’s assurance: ................................................................ 50
+                2.             Financial Regulation: Additional reporting requirements resulting from the
+                               2018 and 2024 revisions. ...................................................................................................... 51
+                3.             Table Y on the estimated “cost of controls” at Commission level .................... 52
+ANNEX 8:                      Reporting on the internal and external audits and assessing the
+                              effectiveness of Internal control systems ...................................................................... 53
+ANNEX 9:                      Specific annexes related to "Control results" and “Assurance:
+                              Reservations” ................................................................................................................................. 54
+      A. Annex related to "Control results" - Table X: Estimated risk at payment and at
+         closure .................................................................................................................................................................. 54
+      B. Reservations ...................................................................................................................................................... 55
+                1.             Reservation fiche ........................................................................................................................ 55
+                2. Reservations not issued or lifted in 2024 due to the application of the ‘de
+                       minimis’ threshold. ..................................................................................................................... 56
+ANNEX 10:                     Reporting – Human resources, digital transformation and information
+                              management and sound environmental management ........................................... 57
+ANNEX 11:                     Implementation through non EU entrusted entities and/or EU Trust
+                              Funds ................................................................................................................................................. 65
+ANNEX 12:                     EAMR of the Union Delegations ........................................................................................... 65
+ANNEX 13:                     Decentralised agencies and other EU bodies................................................................ 65
+ANNEX 14:                     Reporting on the Recovery and Resilience Facility ..................................................... 65
+
+
+
+
+EPSO_aar_2024_annexes                                                                                                                                           Page 2 of 64
+ANNEX 1: Statement of the Director(s) in charge of Risk
+Management and Internal Control
+
+
+For DG HR Services
+
+I declare that in accordance with the Commission’s communication on the internal control
+framework (1), I have reported my advice and recommendations on the overall state of
+internal control in EPSO to the Director.
+
+I hereby certify that the information provided in the present annual activity report and in its
+annexes is, to the best of my knowledge, accurate and complete.
+
+                                                      Date: 5 June 2025
+
+
+
+                                                      Christina Vlassis
+                                                      Internal Control Coordinator
+
+For EPSO
+
+I declare that in accordance with the Commission’s communication on the internal control
+framework (2), I have reported my advice and recommendations on the overall state of
+internal control in EPSO to the Director.
+
+I hereby certify that the information provided in section 2 of the present annual activity report
+and in its annexes is, to the best of my knowledge, accurate and complete.
+
+
+
+
+                                                      Date: 5 June 2025
+
+
+
+                                                      Antonio Friz
+                                                      Acting Head of Corporate Services Unit
+
+
+
+
+(1 )   C(2017)2373 of 19.04.2017.
+(2 )   C(2017)2373 of 19.04.2017.
+
+EPSO_aar_2024_annexes                                                                Page 3 of 64
+ANNEX 2:        Performance tables
+
+General objective 7: A modern, high performing and sustainable European Civil Service
+Impact indicator: Image of the European Union
+Source of the data: Eurobarometer
+Baseline                      Interim Milestone                                  Target                     Latest known results
+(2019)                        (2022)                                             2024                       (2024)
+
+
+43%                           Increase                                           Increase                   44%
+Impact indicator: Staff engagement index in the European Commission
+Source of the data: European Commission
+Baseline                      Interim Milestone                                   Target                    Latest known results
+(2018)                        (2021)                                              2024                      (2023)
+
+
+69%                           Increase                                            Increase                  73%
+
+
+
+
+                         EPSO_aar_2024_annexes                                               Page 4 of 64
+Specific objective 1: Highly qualified staff is made available to all EU institutions by organising open competitions and selection procedures in an inter-
+institutional context – covering thereby the services’ evolving needs
+Result indicator: Laureate delivery rate (administrators, assistants, linguists, specialists: meeting the targets set out in the Notices of Competition).
+Source of the data: Notices of Competition, Reserve lists in Recruiter Portal
+Baseline                                                       Interim Milestone                      Target                                Latest known result
+(2019)                                                         2022                                   2024                                  2024
+≥ 90% of the cumulative published target figures               ≥ 90% of the cumulative                Maintain or increase                  109%
+                                                               published target figures
+Result indicator: Number of candidates tested
+Source of data: Calls for Expression of Interest, CAST lists in Recruiter Portal
+All pre-selected candidates are invited for testing on time.   All profiles requested by the          EPSO continues to integrate all       Recruiters shortlisted 8755
+New profiles are being integrated according to the needs       institutions are being integrated on   profiles requested by the             applications, and 8208 tests were
+of the institutions.                                           a regular basis. Furthermore, EPSO     institutions on a regular basis and   delivered, the difference being
+                                                               is providing the required testing of   to provide the required testing of    due to candidates not presenting
+                                                               candidates as per the Calls for        candidates as per the Calls for       for testing.
+                                                               Expression of Interest.                Expression of Interest. The
+                                                                                                      ultimate goal is to provide an
+                                                                                                      even more cost-efficient and
+                                                                                                      effective selection process.
+Result indicator: Strategic 3-year planning established on time
+Source of data: EPSO, EPSO Working Group and EPSO Management Board
+
+
+
+
+                              EPSO_aar_2024_annexes                                                                              Page 5 of 64
+Baseline                                                     Interim Milestone                         Target                                 Latest known result
+(2019)                                                       2022                                      2024                                   2024
+The 2020 strategic planning exercise, covering the period    The 2023 strategic planning               Complete strategic 3-year              Following the continued technical
+2020-2022, was completed by endorsement of the EPSO          exercise, covering the period 2024-       planning exercise before October       issues EPSO encountered with the
+Management Board in October 2019.                            2026, to be completed by                  each year in cooperation with the      test provider Prometric, EPSO
+                                                             endorsement of the EPSO                   institutions.                          unilaterally terminated the
+                                                             Management Board in October                                                      framework contract in February
+                                                             2022.                                                                            2024. EPSO analysed several
+                                                                                                                                              different alternatives to resume
+                                                                                                                                              testing and received approval
+                                                                                                                                              from its Management Board in
+                                                                                                                                              February 2024 to pilot three test
+                                                                                                                                              events with the company TestWe.
+                                                                                                                                              In June 2024, EPSO’s
+                                                                                                                                              Management Board confirmed
+                                                                                                                                              this company as a so-called "gap-
+                                                                                                                                              solution” until the tender would
+                                                                                                                                              yield an outcome in 2025.
+Result indicator: Timely delivery of accurate certification examinations in compliance with the Institutions’ requirements
+Source of data: EPSO
+All candidates tested within the deadline and list of        100 % timely and accurate                 EPSO continues a 100 % timely          Target met
+certified Officials delivered on time.                       delivery of list of certified officials   and accurate delivery of list of
+                                                             according to the deadlines set by         certified officials according to the
+                                                             Institutions                              deadlines set by Institutions.
+Main outputs in 2023:
+Other important outputs
+Output description                        Indicator                                      Target                                        Latest known results
+                                                                                                                                        (situation on 31/12/2024)
+Finalised open competitions under the     Number of finalised competitions.              100% completed by 31 December 2024.           All competitions published in 2022 were
+‘old’ competition model.                                                                                                               finalised by summer 2024.
+
+
+
+
+                              EPSO_aar_2024_annexes                                                                                Page 6 of 64
+Output description                       Indicator                                      Target                                       Latest known results
+                                                                                                                                      (situation on 31/12/2024)
+Completed open competitions under        Delivery rate of successful candidates, as     ≥90% of the cumulative target figures        Due to delays incurred by EPSO’s
+the new competition model: new           set out in the legally binding notices of      of successful candidates for reserve lists   delivery crisis, no New Model
+reserve lists established for all        competition.                                   of open competitions completed by 31         competitions were completed by the
+categories of officials (AD, AST and                                                    December 2024.                               end of 2024
+AST/SC).                                                                                Competitions completed based on
+                                                                                        initially agreed timelines.
+Support by EPSO to tailored selection  Delivery of support as set out in the            100% of candidates applying to the JPP       78.5% of candidates applying to the
+procedures for: 1) temporary agents 2) Service level agreements.                        programme are invited to be tested           JPP programme were invited be tested.
+internal competitions 3) testing                                                        within agreed deadlines in 2024.             21.5% had already passed tests making
+organised for Junior Professionals                                                                                                   them eligible for the next step of the
+Programmes (JPP).                                                                                                                    programme. 1223 tests were delivered
+                                                                                                                                     in 2024.
+CAST Permanent selection (regular        Candidates pre-selected by the                 100% of candidates pre-selected by the       Recruiters shortlisted 8,755
+testing of pre-selected candidates and   institutions are tested and results            EU institutions are invited to be tested     applications, and 6,976 tests were
+introduction of new profiles).           uploaded in the database. This database        within agreed deadlines throughout           delivered.
+                                         of candidates (both applicants and             2024.
+                                         already tested candidates) across all
+                                         profiles is available to the recruiting
+                                         services of EU institutions (Recruiter
+                                         Portal).
+                                         In order to meet the EU institutions’ needs,   100% of candidates pre-selected by EU        Target met
+                                         EPSO will introduce new profiles into CAST     institutions based on new CAST P profiles
+                                         P and update both the Recruiter Portal and     are invited to be tested within agreed
+                                         the CAST part of its website accordingly.      deadlines throughout 2024.
+
+
+
+
+                             EPSO_aar_2024_annexes                                                                              Page 7 of 64
+Output description                     Indicator                                  Target                  Latest known results
+                                                                                                           (situation on 31/12/2024)
+Second questionnaire launched to       Launched to at least 3000 respondents in   35% response rate.      The second questionnaire was intended
+managers and active Recruiter Portal   all 10 client EU institutions in total.                            to measure the satisfaction following
+users.                                                                                                    the new reserve lists under the New
+                                                                                                          Competition Model, using the first
+                                                                                                          questionnaire as a benchmark. Given
+                                                                                                          that no New Model competitions were
+                                                                                                          completed by the end of 2024 due to
+                                                                                                          delays incurred by EPSO’s delivery
+                                                                                                          crisis, it was not considered useful to
+                                                                                                          launch the second questionnaire. It will
+                                                                                                          be launched as soon as there is a
+                                                                                                          sufficient number of reserve lists under
+                                                                                                          the New Competition Model and
+                                                                                                          experience with recruiting from them.
+
+
+
+
+                            EPSO_aar_2024_annexes                                                      Page 8 of 64
+Specific objective 2: Improve EPSO’s selection methods.
+Result indicator: New types of tests (content and/or delivery mode) introduced in order to improve the quality of assessment and optimise
+the use of resources.
+Source of the data: Notices of Competition, Call for expression of interest, Assessment Centre management tool, markers’ module
+Baseline                             Interim Milestone                                    Target                                     Latest known results
+(2019)                               (2022)                                               (2024)                                     (2024)
+The EPSO Assessment Centre           Improve balance between general and specific         More digitalised and technology-based      Oral tests were delivered in remote
+is delivered in different            competencies and enhance more remote                 selections for improvement of quality      only, via Cammio (framework contract),
+modules and phases, relying          assessment.                                          and efficiency.                            since December 2020.
+on the use of efficient talent-                                                                                                      Equality of treatment and flexibility was
+ranking methods and remote           More flexibility for Selection Boards and improved                                              ensured on one hand by individual
+technologies.                        quality at the preliminary phase of the selection                                               scoring (applied since 2021) and, on the
+                                     process.                                                                                        other hand, by the general use of the
+                                                                                                                                     open book approach (written test
+                                                                                                                                     assignment published on EPSO website
+                                                                                                                                     before the start of the Assessment
+                                                                                                                                     Centre).
+                                                                                                                                     In 2023, EPSO’s Management Board
+                                                                                                                                     has decided to discontinue Assessment
+                                                                                                                                     centres for any competitions published
+                                                                                                                                     under the new model. The last
+                                                                                                                                     Assessment Centre ran from 21
+                                                                                                                                     February to 13 May 2024 (EPSO
+                                                                                                                                     AD/401/22 Green deal competition).
+
+
+
+
+                                  EPSO_aar_2024_annexes                                                                           Page 9 of 64
+Main outputs in 2024:
+Other important outputs
+Output                           Indicator                                      Target                                       Latest known results
+                                                                                                                             (situation on 31/12/2024)
+Development of a reusable        Number of FRMCQ/year.                          25                                           Many FRMCQ items have been
+item database for the            Number of items/year.                          3 500                                        developed in 2024. About 100 items
+elaboration of field related                                                                                                 were created for each field of the
+multiple-choice                                                                                                              specialists competitions. In total, about
+questionnaires (FRMCQ).                                                                                                      1200 items have been created, revised,
+                                                                                                                             translated, proofread and delivered to
+                                                                                                                             candidates.
+Pilot the use of AI based        Use of Automated Item Generation (AIG).        Proceed with existing approaches and         The pilot to develop items via AI has
+methodologies in the context     Use of automated marking tools.                test new tools.                              been ongoing in 2024 with results
+of test development.                                                            Pilot automated marking tool.                expected early 2025.
+                                                                                                                             Marking via AI has been put on hold by
+                                                                                                                             the Management of EPSO.
+Provide support for the          Training of recruiters.                        Delivery of standard e-learning modules      In 2024, EPSO has supported the
+assessment of general            Assessment performed by EPSO psychologists.    and ad-hoc advise.                           Committee of the Regions in its internal
+competencies at recruitment                                                     Delivery of competency-based                 competitions, providing, among other
+stage (3-tier approach).                                                        interviews, situational interviews and       things, training and e-learning modules
+                                                                                marking of written tests.                    on CBI and SCBI. EPSO also provided test
+                                                                                                                             content for those 2 interviews as well as
+                                                                                                                             for a written test (EUFTE).
+Propose to institutions          Propose the use Videorecorded Interview.       Delivery of results of pilot project by Q1   Video recorded interviews have been
+alternative ways to assess       Propose the use of automated item generation   and possible extension                       used by 2 institutions in 2024.
+competencies within CAST-P.      for the development of multiple-choice         Delivery of results of pilot project on      Outcome of the pilot project on finance
+                                 questionnaires.                                finance by Q1 and possible extension to      is expected early 2025.
+                                                                                other fields.
+
+
+
+
+                               EPSO_aar_2024_annexes                                                                    Page 10 of 64
+Output                    Indicator                                       Target                                      Latest known results
+                                                                                                                      (situation on 31/12/2024)
+Introduce new testing     Introduction of the field related essay test.   Pilot the approach in a competition to      Written tests have been developed for at
+approaches                Introduction of the pass/fail scoring system.   be published in Q1.                         least 5 competitions where the written
+                                                                                                                      test was preferred over the EUFTE.
+                                                                          Pilot the approach in a competition to      Source texts in the fields were chosen
+                                                                          be published in Q1.                         and assignment and marking guides
+                                                                                                                      have been developed together with the
+                                                                                                                      SMEs.
+
+
+
+
+                        EPSO_aar_2024_annexes                                                                      Page 11 of 64
+Specific objective 3: EPSO’s communication and outreach with potential candidates is proactive and targeted in order to reach a pool of
+diverse talent in an inclusive manner according to the needs of the recruiting institutions.
+Result indicator: Candidate satisfaction rate with EPSO's selection procedures: pre-selection-stage and Assessment Centre
+Source of the data: Candidates' satisfaction surveys (following computer-based tests and oral tests)
+Baseline                              Interim Milestone                                        Target                            Latest known results
+(2019)                                (2022)                                                   (2024)                            (2024)
+Oral tests (Assessment Centre):       Oral tests (Assessment Centre): ≥80% satisfied/very      Oral tests (Assessment Centre):   The last Assessment Centre ran from 21
+≥73% satisfied/very satisfied (of     satisfied (of which at least 40% very satisfied).        ≥90% satisfied/very satisfied     February to 13 May 2024 (EPSO
+which at least 32% very satisfied).                                                            (of which at least 50% very       AD/401/22 Green deal competition).
+                                                                                               satisfied).
+Computer-based tests (CBT, pre-       CBT Tests:                                               CBT Tests:                        The overall candidate satisfaction rate
+selection stage): ≥90% satisfied.     ≥Achieve pre-Covid levels of 90% satisfaction rate       Maintain the satisfaction rate    stands at 65.5% for tests delivered with
+                                      among candidates who sat the CBT tests.                  of ≥90% of candidates who sat     live remote proctoring from January to
+                                      Rates set as part of EPSO's ambition to provide high     the CBT tests also in line with   December.
+                                      quality, efficient and effective selection procedures.   EPSO's ambition to provide        Since resumption of testing, the
+                                                                                               high quality, efficient and       candidate satisfaction is captured via an
+                                                                                               effective selection procedures.   EPSO survey issued after testing of each
+                                                                                                                                 competition as the gap solution
+                                                                                                                                 contractor does not have a survey
+                                                                                                                                 feature. However, given the low
+                                                                                                                                 response rate from candidates, it is
+                                                                                                                                 difficult to measure candidate
+                                                                                                                                 satisfaction properly. At present, it
+                                                                                                                                 stands at 65% for tests delivered with
+                                                                                                                                 remote proctoring in 2024.
+Result indicator: Strong awareness of the EU Careers brand, especially online and on-campus.
+Source of data: EPSO
+
+
+
+
+                              EPSO_aar_2024_annexes                                                                         Page 12 of 64
+Baseline                             Interim Milestone                                    Target                            Latest known results
+(2019)                               (2022)                                               (2024)                            (2024)
+Number of visits of the EU Careers   General target: Annual increase of sessions by 10%   Maintain the same annual          Number of visits of the EU Careers
+website: 4 519 990                                                                        increase rate for the number of   website: 5 510 160. The number of visits
+                                                                                          sessions of the EU Careers        has increased in 2024 because EPSO
+                                                                                          website.                          has published more competitions and
+                                                                                                                            also organised more tests with the new
+                                                                                                                            provider.
+                                                                                          Sustain an accessible website     The next upcoming external screening
+                                                                                          (AA standard, according to the    exercise is planned in 2025.
+                                                                                          UN Convention on the rights of
+                                                                                          persons with disabilities) with
+                                                                                          regular screening exercises.
+Social media engagement (number      Average annual growth of followers per channel:      Maintain the same rate of         Growth of followers per channel in 2023:
+of followers on all social media     Facebook 5%, LinkedIn: 12%, Instagram: 20%, X:       growth for the number of          Facebook: +0.84%, LinkedIn: +23.13%,
+channels and engagement rates)       2%                                                   followers and the monthly         Instagram: +34.61%, X: -1.19%
+                                                                                          average target for                Slight decrease on X due to EPSO’s
+                                                                                          engagement.                       cautious editorial policy and current
+                                                                                                                            uncertainty surrounding the platform’s
+                                                                                                                            future.
+
+
+
+
+                             EPSO_aar_2024_annexes                                                                      Page 13 of 64
+Baseline                              Interim Milestone                                     Target                            Latest known results
+(2019)                                (2022)                                                (2024)                            (2024)
+Outreach via promotional activities   Maintain the number of activities (events organised   Maintain the number of            •        1 046 events (including
+(number of events and visitors,       by ambassadors and visitors/participants of other     activities (events organised by   Ambassador events) took place during
+number of applicants):                events).                                              ambassadors and                   the year, with a total reach of 122 000
+•   970 events (including             Establish possible links between the number of        visitors/participants of other    people. The number of events has
+    Ambassador events)                events and number of applicants in selection          events).                          increased by 22% compared to 2022
+•   16 843 662 number of page         procedures.                                           Establish possible links          (855). This increase is mostly due to the
+    views EU Careers brand                                                                  between the number of events      boost in outreach activities in which
+•   4 519 990 number of visits on                                                           and number of applicants in       EPSO staff has participated or that EPSO
+    EU Careers website.                                                                     selection procedures.             staff has organised.
+                                                                                                                              •        23 134 360 number of page
+Total number of applicants in EPSO                                                                                            views EU Careers brand
+selection procedures/competitions:                                                                                            •        3 121 590 number of visits on
+42 606 (excl. CAST P)                                                                                                         EU Careers website.
+Result indicator: Targeted communication actions implemented aiming at attracting more talent with disabilities and specific needs.
+Source of data: Candidate application form, Data base of organisations representing disability, EPSO unit.04
+
+
+
+
+                             EPSO_aar_2024_annexes                                                                        Page 14 of 64
+Baseline                              Interim Milestone                               Target                             Latest known results
+(2019)                                (2022)                                          (2024)                             (2024)
+A call for collaboration to all EU    Disability monitoring tool implemented in the   Increased number of                The call for cooperation to EU diversity
+organisations involved in the         application form.                               candidates (500) with              and inclusion organisations remains open
+promotion and welfare of EU                                                           disabilities and specific needs    and offers the possibility to join EPSO’s
+citizens with disabilities was                                                        (at least 10% compared to the      network of partner organisations in
+launched on 03/12/2019                                                                baseline) applying to EPSO         diversity and inclusion. All organisations
+                                                                                      competitions and selections        registered in the data base receive
+                                                                                                                         information material about EPSO’s
+                                                                                                                         competitions upon their publication.
+                                                                                                                         Enhanced cooperation is ongoing with
+                                                                                                                         several identified (umbrella) European
+                                                                                                                         diversity organisations, representing
+                                                                                                                         various underrepresented groups,
+                                                                                                                         including people with disabilities.
+                                                                                                                         In 2024, EPSO participated in a Global
+                                                                                                                         Careers Fair for persons with disabilities
+                                                                                                                         to attract more candidates with special
+                                                                                                                         needs. Communication material on
+                                                                                                                         published competitions was regularly
+                                                                                                                         shared with disability partner
+                                                                                                                         organisations. In addition, a revised
+                                                                                                                         version of EPSO’s Guide for Reasonable
+                                                                                                                         Accommodation was published on
+                                                                                                                         EPSO’s website in 2024.
+In 2019, EPSO received 331            Targeted communication actions and monitoring   Potential corrective measures      In 2024, the total number of requests for
+requests for special adjustments of   extended to other diversity and focus groups.   and additional actions             special accommodations was 419 which
+selection tests (competitions and                                                     implemented based on the           is an increase compared to 2023 due to a
+selections).                                                                          monitoring’s results.              higher number of testing events in 2024.
+
+
+
+
+                               EPSO_aar_2024_annexes                                                                  Page 15 of 64
+Main outputs in 2023:
+Communication with citizens and candidates
+Output                                     Indicator                                             Target                           Latest known results
+                                                                                                                                  (situation on 31/12/2024)
+E-mail queries by individual               Ratio of queries per application dealt with in time   In 2024, 90% of queries          In 2024, 91% of queries were followed
+candidates and citizens are answered       by EPSO's Candidate Contact Service (CCS).            followed up by CCS within the    up within the required deadlines.
+in the respective, one of 24 official EU                                                         required deadlines.
+languages within the required
+deadlines.
+EU Careers website
+Maintain visibility of website in view     Number of visits.                                     Above 3 500 000 by end 2024.     5 510 160
+of reaching targeted and diverse
+                                           Number of visitors.                                   Around 2 200 000 by the end of   3 121 590
+audiences.
+                                                                                                 2024.
+Social Media strategies and initiatives
+Enhance visibility on social media, by     Number of followers.                                  By end 2024, target number of    By end of 2024:
+increasing the number of followers.                                                              followers:
+                                                                                                 Facebook: 465 000 (442 000 in    Facebook: 446 825
+                                                                                                 Oct 2023)
+                                                                                                 X: 42 000 (40 000 in Oct 2023)   X: 40 266
+                                                                                                 LinkedIn: 240 000 (234 000 in
+                                                                                                 Oct 2022)
+                                                                                                                                  LinkedIn: 296 392
+                                                                                                 Instagram: 75 000 (71 000 in
+                                                                                                 Oct 2023)
+                                                                                                                                  Instagram: 99 349
+Outreach strategy
+Action Plan with Member States.            Package of materials to support Member States’        One video tutorial per           EPSO complied
+                                           promotion efforts.                                    competition.
+
+
+
+
+                               EPSO_aar_2024_annexes                                                                         Page 16 of 64
+Output                                  Indicator                                          Target                             Latest known results
+                                                                                                                              (situation on 31/12/2024)
+                                                                                           One webinar per competition        EPSO complied
+                                        Implementation of the Outreach action plan         By the end of 2024, EPSO’s         By end of 2024: 24 playlists
+                                        Number of playlists with testimonials of EU        YouTube channel will contain at
+                                        officials from all Member States.                  least 25 playlists for Member
+                                                                                           States.
+Communication plan on the new           Package of materials and events for promotion      Production of brochure and         By end of 2024:
+competition model.                      purposes.                                          infographics                       Facebook: 446 825
+                                                                                           Organisation of at least one       X: 40 266
+                                                                                           webinar for Member States and
+                                                                                                                              LinkedIn: 296 392
+                                                                                           one webinar for institutional
+                                                                                                                              Instagram: 99 349
+                                                                                           clients.
+EU Careers Students Ambassadors
+Maintain the number of universities     Number of universities from across all EU Member   Maintain number of universities    Academic year 2023/2024: 213
+represented in all Member States with   States participating in the programme.             represented to 160.                Ambassadors at 179 universities
+a focus on high quality, and with a                                                                                           Academic year 2024/2025: 278
+special emphasis on under-                                                                                                    ambassadors at 197 universities
+represented countries
+EU Careers Staff Ambassadors
+Increase the number and diversity of    Number of Staff Ambassadors with a diverse         350 Staff Ambassadors by end       By end of 2024: 360
+Staff Ambassadors.                      profile.                                           of 2024, mainly from under-
+                                                                                           represented Member States.
+Diversity and Inclusion
+Output                                  Indicator                                          Target                             Latest know results
+                                                                                                                              (situation on 31/12/2024)
+
+
+
+
+                             EPSO_aar_2024_annexes                                                                       Page 17 of 64
+Output                                     Indicator                                          Target                               Latest known results
+                                                                                                                                   (situation on 31/12/2024)
+Implement new outreach and                 Number of diversity organisations in EPSO’s        After revision of the database, it   233 diversity organisations are
+communication activities according to      database.                                          contains 180 valid contacts,         registered in EPSO’s dedicated
+EPSO’s Equality & Diversity Action                                                            which represents at least a 10%      database
+Plan, including for EPSO’s diversity                                                          increase in 2023. 10% increase
+target groups to increase the diversity                                                       in the number of diversity
+of the talent pool, with a special focus                                                      organisations by end 2024
+on ethnic minorities and disability.       Enhanced collaboration with selected diversity     Collaboration ongoing with all       Collaboration continued in 2024 with
+Implementation of EPSO’s contribution      umbrella and internal staff organisations.         selected diversity organisations,    ERGO, ‘Keep dreaming’ and ‘Diversité
+to the EU Anti-racism Action Plan.                                                            including enhanced cooperation       Europe’ in the context of the Focus
+                                                                                              with ENAR, ERGO and Diversité        Group meetings.
+                                                                                              Europe via dedicated Focus
+                                                                                              Group meetings.
+                                           Organisation of information sessions to staff,     5 Masterclasses/presentations        In the 2024/25 academic year 6
+                                           Selection Board members and EU Careers             provided to EU Career student        masterclasses are provided to EU
+                                           Ambassadors.                                       and Staff Ambassadors, persons       Career student ambassadors, including
+                                                                                              with disabilities, and various       masterclasses of 4 stakeholders.
+                                                                                              networks. At least 1 information
+                                                                                              session or masterclass per
+                                                                                              stakeholder in 2024
+                                           Development of a new diversity & equality video.   Publication of the video in 2023     Several new staff testimonials were
+                                                                                              (including audio-description). No    published or updated on EPSO’s
+                                                                                              diversity video is foreseen for      dedicated Equal Opportunity web
+                                                                                              2024, however several diverse        pages in 2024 and various social
+                                                                                              staff testimonials should be         media channels.
+                                                                                              published on EPSO’s website
+                                                                                              and social media channels in
+                                                                                              2024.
+
+
+
+
+                              EPSO_aar_2024_annexes                                                                         Page 18 of 64
+Output           Indicator                                            Target                             Latest known results
+                                                                                                         (situation on 31/12/2024)
+                 Equality and Diversity follow-up tool implemented    Implementation of the follow-up    All pending Change Requests with
+                 (via the EPSO accounts or in the application form)   tool, partly via change requests   DIGIT were put on hold and suspended
+                 to collect precise data in a structured way,         about disability, area of          in 2024, due to the planned phasing
+                 including ethnicity.                                 residence, educational level       out of TALENT. Instead, the monitoring
+                                                                      foreseen in 2024, in               tool will be implemented in the context
+                                                                      collaboration with DG DIGIT and    of the HRT-programme, led by DG HR
+                                                                      in the framework of the HRT-       and DIGIT.
+                                                                      programme.
+                 Launch and analysis of the 2nd diversity survey.     Preparation, launch, analysis      The 2nd diversity survey was launched
+                                                                      and reporting foreseen in 2024.    in May 2024. The main findings of the
+                                                                                                         results will be published in early 2025.
+
+
+
+
+         EPSO_aar_2024_annexes                                                                    Page 19 of 64
+Specific objective 4: The linguistic abilities in a third language of staff eligible for a first promotion are evaluated in a harmonised,
+consistent and cost-efficient manner.
+Result indicator: Timely delivery of assessments concerning the diplomas and certificates submitted by the staff members
+Source of the data: EPSO
+Baseline                          Interim Milestone                                                Target                                   Latest known results
+(2019)                            (2022)                                                           (2024)                                   (2024)
+100% of files evaluated within    100 % of files (diplomas and certificates) submitted within      100 % of files (diplomas and             100% delivery, all diplomas
+the deadline                      the deadline evaluated by the end of each year.                  certificates) submitted within the       and certificates submitted
+                                                                                                   deadline evaluated by the end of year.   were evaluated.
+Result indicator: Timely delivery of linguistic tests
+Source of data: EPSO
+All staff members tested          100% satisfaction by the end of each year of requests            100% satisfaction by the end of each     100% delivery, all registered
+within the deadline               received for testing third language capabilities.                year of requests received for testing    staff members were offered
+                                                                                                   third language capabilities.             a language test.
+Main outputs in 2023:
+Other important outputs
+Output                                     Indicator                                     Target                                     Latest known results
+                                                                                                                                    (situation on 31/12/2024)
+Delivery of assessments of linguistic      Timely delivery of assessments                100% evaluation of files (diplomas and     100% evaluation all diplomas and
+ability by EPSO and the Assessment         concerning the diplomas and certificates      certificates) submitted within the         certificates submitted.
+Committee to satisfy the requirement       submitted by the candidates.                  deadline.
+of Article 45(2) and Article 85(3) of
+Staff Regulations.
+Delivery of assessments of linguistic      Delivery of linguistic tests of level B2 in   100% satisfaction of requests received     100% delivery of test results for all
+ability by EPSO and the external service   quarterly sessions                            for testing third language capabilities.   registrations.
+providers to satisfy the requirements of
+Article 45(2) and 85(3) of Staff
+Regulations.
+
+
+
+
+                              EPSO_aar_2024_annexes                                                                          Page 20 of 64
+Output                                      Indicator                                  Target                                    Latest known results
+                                                                                                                                 (situation on 31/12/2024)
+Delivery of an online satisfaction survey   Satisfaction rate of candidates with the   ≥90% satisfaction rate of candidates      95% satisfaction rate of staff
+for candidates processed during the         assessment of their third language         who reply to the satisfaction survey.     members who replied to the survey.
+year.                                       abilities.
+
+
+
+
+                              EPSO_aar_2024_annexes                                                                        Page 21 of 64
+ANNEX 3:       Draft annual accounts and financial reports
+
+
+                                                                  AAR 2024 Version 1
+
+
+
+           Annex 3 Financial Reports - DG EPSO - Financial Year 2024
+
+
+
+
+Table 1: Commitments
+
+Table 2: Payments
+
+Table 3: Commitments to be settled
+
+Table 4: Balance Sheet
+
+Table 5: Statement of Financial Performance
+
+Table 5 Bis: Off Balance Sheet
+
+Table 6: Average Payment Times
+
+Table 7: Income
+
+Table 8: Recovery of undue Payments
+
+Table 9: Ageing Balance of Recovery Orders
+
+Table 10: Waivers of Recovery Orders
+
+Table 11: Negotiated Procedures
+
+Table 12: Summary of Procedures
+
+Table 13: Building Contracts
+
+Table 14: Contracts declared Secret
+
+Table 15: FPA duration exceeds 4 years
+
+Table 16: Commitments co-delegation type 3 in 2024
+
+EPSO_aar_2024_annexes                                             Page 22 of 64
+                        Additional comments
+
+
+
+
+EPSO_aar_2024_annexes                         Page 23 of 64
+       TABLE 1: OUTTURN ON COMMITMENT APPROPRIATIONS IN 2024 (in Mio €) for DG EPSO
+                                                                             Commitment
+                                                                                             Commitments
+                                                                            appropriations                       %
+                                                                                                made
+                                                                             authorised*
+                                                                                  1               2             3=2/1
+
+
+
+                      Title 20 Administrative expenditure of the European Commission
+
+
+  2
+       20 02             Other staff and expenditure relating to persons              0.11            0.11     100.00 %
+  0
+
+       20 03             Administrative operating expenditure                         7.29            6.58      90.34 %
+
+  Total Title 20                                                                      7.40            6.69      90.48 %
+
+  Total Excluding NGEU                                                                7.40            6.69      90.48 %
+
+
+                            Total DG EPSO                                             7.40            6.69      90.48 %
+
+
+  * Commitment appropriations authorised include, in addition to the budget voted by the
+  legislative authority, appropriations carried over from the previous exercise, budget
+  amendments as well as miscellaneous commitment appropriations for the period (e.g.
+  internal and external assigned revenue).
+
+
+
+
+EPSO_aar_2024_annexes                                                                                        Page 24 of 64
+                     TABLE 2: OUTTURN ON PAYMENT APPROPRIATIONS in 2024 (in Mio €) for DG EPSO
+                                                                                Payment
+                                                                              appropriations     Payments made      %
+                                                                               authorised *
+
+                                                                                    1                  2          3=2/1
+
+
+
+
+                                      Title 20 Administrative expenditure of the European Commission
+
+                   Other staff and expenditure relating to persons                        0.25             0.11    45.45 %
+  20   20 02
+                   Administrative operating expenditure                                  10.27             4.78    46.58 %
+       20 03
+  Total Title 20                                                                         10.52             4.90    46.55%
+
+  Total Excluding NGEU                                                                   10.52             4.90    46.55%
+
+
+                                Total DG EPSO                                            10.52             4.90    46.55 %
+
+
+  * Payment appropriations authorised include, in addition to the budget voted by the legislative authority,
+  appropriations carried over from the previous exercise, budget amendments as well as miscellaneous payment
+  appropriations for the period (e.g. internal and external assigned revenue).
+
+
+
+
+EPSO_aar_2024_annexes                                                                                   Page 25 of 64
+                                        TABLE 3 : BREAKDOWN OF COMMITMENTS TO BE SETTLED AT 31/12/2024 (in Mio €) for DG EPSO
+                                                                                                                                                                             Total of
+                                                                                                                                     Commitments            Total of
+                                                                                    Commitments to be settled                                                             commitments
+                                                                                                                                       to be settled   commitments to
+                                                                                                                                                                         to be settled at
+                                                                                                                                      from financial   be settled at end
+                                                                                                                                                                              end of
+                                                                                                                                     years previous    of financial year
+                              Chapter                               Commitments      Payments       RAL            % to be settled                                        financial year
+                                                                                                                                          to 2023            2024
+                                                                                                                                                                              2023
+
+                                                                         1               2          3=1-2             4=1-2/1               5               6=3+5               7
+
+
+20   20 02        Other staff and expenditure relating to persons            0.11            0.01           0.10          94.50%                0.00                0.10            0.14
+
+
+     20 03        Administrative operating expenditure                       6.58            2.09           4.50          68.28%                0.00                4.50            2.98
+
+ Total Title 20                                                              6.69            2.09           4.60           68.71%               0.00                4.60            3.12
+
+Total Excluding NGEU                                                         6.69            2.09           4.60           68.71%               0.00                4.60            3.12
+
+
+                   Total for DG EPSO                                         6.69            2.09           4.60          68.71 %               0.00                4.60            3.12
+
+
+
+
+EPSO_aar_2024_annexes                                                                                                                              Page 26 of 64
+      TABLE 4 : BALANCE SHEET for DG EPSO
+
+
+
+
+                    BALANCE SHEET                                                  2024                                    2023
+
+ A.I. NON CURRENT ASSETS                                                                            0.00                                    0.00
+      A.I.1.
+A.I. NON     IntangibleASSETS
+          CURRENT       Assets                                                                        0.00                                   0.00
+
+ A.II. CURRENT ASSETS                                                                        26,030.00                             76,510.00
+       A.II.3. CurrASSETS
+A.II. CURRENT       Exch Receiv &Non-Ex Recoverables                                            26,030.00                              76,510.00
+ ASSETS
+ASSETS                                                                                       26,030.00                             76,510.00
+ P.II. CURRENT LIABILITIES                                                                          0.00                                    0.00
+       P.II.4. Current
+P.II. CURRENT          Payables
+                  LIABILITIES                                                                         0.00                                   0.00
+      P.II.5. Current Accrued Charges &Defrd Income                                                   0.00                                   0.00
+  LIABILITIES
+LIABILITIES                                                                                         0.00                                    0.00
+
+
+ NET ASSETS (ASSETS less LIABILITIES)                                                        26,030.00                             76,510.00
+
+
+
+
+ Non-allocated central (surplus)/deficit*                                             -82,697,690.05                        -76,577,658.19
+
+
+ TOTAL DG EPSO                                                                                      0.00                                             0.00
+
+
+ P.III.2. Accumulated Surplus/Deficit                                                  82,671,660.05                           76501148.19
+
+
+
+
+It should be noted that the balance sheet and statement of financial performance presented in Annex 3 to this Annual Activity Report,
+represent only the assets, liabilities, expenses and revenues that are under the control of this Directorate General. Significant amounts
+such as own resource revenues and cash held in Commission bank accounts are not included in this Directorate General's accounts
+since they are managed centrally by DG Budget, on whose balance sheet and statement of financial performance they appear.
+Furthermore, since the accumulated result of the Commission is not split amongst the various Directorates General, it can be seen that
+the balance sheet presented here is not in equilibrium.
+
+Additionally, the figures included in tables 4 and 5 are provisional since they are, at this date, still subject to audit by the Court of
+Auditors. It is thus possible that amounts included in these tables may have to be adjusted following this audit.
+
+
+
+
+EPSO_aar_2024_annexes                                                                                                                       Page 27 of 64
+                     TABLE 5 : STATEMENT OF FINANCIAL PERFORMANCE for DG EPSO
+
+
+STATEMENT OF FINANCIAL PERFORMANCE                                2024                       2023
+
+II.1 REVENUES                                                          -297,769.76             -424,064.91
+
+II.1.2. EXCHANGE REVENUES                                              -297,769.76             -424,064.91
+II.1.2.
+ II.1.2.2.
+        EXCHANGE
+           OTHER EXCHANGE
+                   REVENUES
+                          REVENUE                                         -297,769.76               -424,064.91
+
+II.2. EXPENSES                                                       4,648,803.26             6,594,576.77
+
+II.2. EXPENSES                                                       4,648,803.26             6,594,576.77
+II.2.
+ II.2.11.OTHER
+      EXPENSESEXPENSES                                                   4,648,803.26            6,594,576.77
+
+STATEMENT OF FINANCIAL PERFORMANCE                                   4,351,033.50             6,170,511.86
+
+
+
+
+Explanatory Notes (facultative):
+Please enter the text directly (no copy/paste of formatted text which would then disappear when saving the
+document in pdf), use \\\"ctrl+enter\\\" to go to the next line and \\\"enter\\\" to validate your typing.
+
+
+
+
+EPSO_aar_2024_annexes                                                                       Page 28 of 64
+    TABLE 5bis : OFF BALANCE SHEET for DG EPSO
+
+
+
+  OFF BALANCE                                    2024                 2023
+
+  OB.4. Balancing Accounts                              0.00                   0.00
+   OB.4. Balancing Accounts                             0.00                   0.00
+
+  OFF BALANCE                                           0.00                   0.00
+
+
+
+
+EPSO_aar_2024_annexes                                          Page 29 of 64
+ Legal Times
+                                                  Nbr of                           Average
+  Maximum                                                                                                                                   Average
+                       Total Nbr of             Payments                           Payment         Nbr of Late                                         Late Payments
+Payment Time                                               Percentage                                                   Percentage          Payment                            Percentage
+                        Payments               within Time                          Times           Payments                                              Amount
+   (Days)                                                                                                                                 Times (Days)
+                                                  Limit                             (Days)
+       30                     397                  389       97.98 %                 14.78                8                2.02 %            34.38         131,062.86             3. %
+       120                    30                      30            100.00 %         13.10                                                                    0.00                0. %
+
+
+Total Number
+                              427                    419             98.13 %                              8                1.87 %                          131062.86              3. %
+of Payments
+
+Average Net
+                        15.02576112                                                  14.66                                                   34.38
+Payment Time
+
+
+Average Gross
+                        15.19906323                                                14.8329356                                                34.375
+Payment Time
+
+
+
+
+ Suspensions
+  Average               Average                                                         Amount of
+                                               Number of                        Total
+   Report               Payment                                    % of Total           Suspende % of Total Total Paid
+                                               Suspended                      Number of
+  Approval             Suspension                                   Number                  d      Amount     Amount
+                                                Payments                      Payments
+ Suspension               Days                                                          Payments
+     0                     8                           9             2.11 %      427    206,948.83   4.23 % 4,896,682.74
+
+
+
+
+       DG              GL Account                                        Description                             Amount (Eur)
+
+
+
+
+NB: Table 6 only contains payments relevant for the time statistics. Please consult its exact scope in the AAR Annex3 BO User
+Guide ( https://myintracomm.ec.europa.eu/budgweb/EN/abac/dwh/Pages/its-030-10-20_documentation.aspx ).
+
+
+
+
+                                                           TABLE 7 : SITUATION ON REVENUE AND INCOME in 2024 for DG EPSO
+                                                                         Revenue and income recognized                           Revenue and income cashed from                Outstanding
+                            Chapter                            Current year RO Carried over RO       Total            Current Year RO Carried over RO        Total               balance
+
+                                                                     1                 2             3=1+2                   4                 5            6=4+5                 7=3-6
+
+       Revenue from the supply of goods, services and work -
+  32                                                                  535,733.01       76,510.00         612,243.01          509,703.01        76,510.00          586,213.01          26,030.00
+       assigned revenue
+
+                  Total DG EPSO                                       535,733.01       76,510.00         612,243.01          509,703.01        76,510.00          586,213.01          26,030.00
+
+
+
+
+EPSO_aar_2024_annexes                                                                                                                                                 Page 30 of 64
+                        TABLE 8 : FINANCIAL IMPACT OF EX-ANTE AND EX-POST CONTROLS in for DG EPSO
+
+
+
+
+EX-ANTE CONTROLS BY TRANSACTION                                                            Total ex-ante amounts
+
+
+
+NON ELIGIBLE IN COST CLAIMS
+CREDIT NOTES
+RECOVERY ORDERS ON PRE-FINANCING
+                           Sub-Total
+
+
+
+
+EX-POST CONTROLS BY TRANSACTION                                                            Total ex-post amounts
+
+
+
+RECOVERY ORDERS OTHER THAN ON PRE-FINANCING
+
+INCOME LINES IN INVOICES
+
+                           Sub-Total
+
+
+
+               GRAND TOTAL (EX-ANTE + EX-POST)
+
+
+
+
+EPSO_aar_2024_annexes                                                                                 Page 31 of 64
+         TABLE 9: AGEING BALANCE OF RECOVERY ORDERS AT 12/31/2024 for DG EPSO
+
+
+                                                 Open Amount        Open Amount
+          Number at    Number at
+                                    Evolution   (Eur) at 1/1/2024     (Eur) at        Evolution
+          1/1/2024 1   12/31/2024
+                                                        1            12/31/2024
+
+  2023            10                 #######           76,510.00                       -100.00 %
+
+  2024                         5                                         26,030.00
+
+                  10           5     -50.00 %          76,510.00         26,030.00      -65.98 %
+
+
+
+
+EPSO_aar_2024_annexes                                                                Page 32 of 64
+             TABLE 10: Recovery Order Waivers >= 60 000 € in 2024 for DG EPSO
+
+
+                                                                    LE
+                                                 RO Accepted                Commission
+  Waiver Central Key     Linked RO Central Key                    Account                Comments
+                                                 Amount (Eur)                Decision
+                                                                   Group
+
+
+  Total DG EPSO
+
+
+  Number of RO waivers
+
+  There are no waivers below 60 000 €
+
+
+
+
+EPSO_aar_2024_annexes                                                             Page 33 of 64
+                            TABLE 11: Negotiated Procedures in 2024 for DG EPSO
+
+
+
+
+  The procedures are presented in the Annual Management and Performance Report of 2024
+
+
+
+
+                            TABLE 12: Summary of Procedures in 2024 for DG EPSO
+
+
+
+
+  The procedures are presented in the Annual Management and Performance Report of 2024
+
+
+
+
+                     TABLE 13: BUILDING CONTRACTS in 2024 for DG EPSO
+
+
+
+
+                                                                                                     Contracted
+    Legal Base    Procedure subject      Contract Number    Contractor Name      Contract Subject
+                                                                                                     Amount (€)
+
+
+
+
+                 TABLE 14: CONTRACTS DECLARED SECRET in 2024 for DG EPSO
+
+
+
+
+                                      Contract       Contract       Contracted
+   Legal Base     LC Date
+                                      Number         Subject        Amount (€)
+
+
+
+
+                        TABLE 15: FPA duration exceeds 4 years - DG EPSO
+
+
+
+
+EPSO_aar_2024_annexes                                                                    Page 34 of 64
+        TABLE 16 : Commitments co-delegation type 3 in 2024 for DG EPSO
+
+
+
+ANNEX 3: EPSO COMMITMENTS MADE IN 2020 WITH RESPECT TO THE CO-DELEGATIONS TYPE III
+
+                                                                  Commitments made
+
+Total                                                                       6692064.72
+
+              Of which Co-deleg Type III per giving DG                          108800
+
+                                                           HR                   108800
+
+
+
+
+EPSO_aar_2024_annexes                                                     Page 35 of 64
+ANNEX 4:                Financial scorecard
+DG EPSO
+The Annex 4 of each Commission service summarises the annual result of the standard financial indicators
+measurement. Annexed to the Annual Activity Report 2024, 11 standard financial indicators are presented
+below, each with its objective and result for the Commission service and for the EC as a whole (for
+benchmarking purposes)3:
+
+     - Commitment Appropriations (CA) Implementation               - Timely Payments
+     - CA Forecast Implementation                                  - Timely Decommitments
+     - Payment Appropriations (PA) Implementation                  - Invoice Registration Time
+     - PA Forecast Implementation                                  - Accounting Data Quality
+     - Global Commitment Absorption                                - Management Data Quality
+                                                                   - Timely Invoice PF Clearing
+
+For each indicator, its value (in %) for the Commission service is compared to the common target (in %). The
+difference between the indicator’s value and the target is colour coded as follows:
+
+       -   100 – >95% of the target: dark green
+       -   95 – >90% of the target: light green
+       -   90 – >85% of the target: yellow
+       -   85 – >80% of the target: light red
+       -   80 – 0% of the target: dark red
+The Commission services are invited to provide commentary for each indicator’s result in the dedicated
+comment section below the indicators scores as this can help the reader to understand the Commission’s
+service context. In cases when the indicator’s value achieves 80% or less of the target, the comment becomes
+mandatory.
+
+The detailed definitions of the indicators are available on the internal DG BUDG site (BudgPedia) and
+managed by unit BUDG.C5 Financial Reporting.
+
+
+
+
+3
+    If the EC service did not perform any transaction in the area measured by the indicator or the information is
+        not available in the central financial system, the indicator is not calculated (i.e. displayed as “-“) in this
+        Annex.
+
+EPSO_aar_2024_annexes                                                                                 Page 36 of 64
+Indicator          Objective                  Comment4                                      EPSO       EC
+                                                                                            Score      Score
+1. Commitment      Ensure efficient use of
+Appropriations     commitment
+Implementation     appropriations expiring
+                   at the end of Financial
+                   Year
+2. Commitment      Ensure the cumulative
+Forecast           alignment of the
+Implementation     commitment
+                   implementation with
+                   the commitment
+                   forecast in a financial
+                   year
+3. Payment         Ensure efficient use of
+Appropriations     payment
+Implementation     appropriations expiring
+                   at the end of Financial
+                   Year
+4. Payment         Ensure the cumulative     Alignment with the payment forecast was
+Forecast           alignment of the          not 100% respected as a consequence of
+Implementation     payment                   the time-out in the publication of
+                                             competitions in 2023 and the time to put in
+                   implementation with
+                                             place the gap-solution to resume testing in
+                   the payment forecast
+                                             2024. Corrective measures to ensure
+                   in a financial year       forecast is implemented: monthly reports
+                                             distributed to senior management and
+                                             operational units to raise their awareness.
+                                             Systematic review of open commitments by
+                                             staff in the Finance/contracts sector.
+                                             Reactiveness and adjustments in
+                                             collaboration with operational colleagues,
+                                             when needed.
+5. Global          Ensure efficient use of
+Commitment         already earmarked
+Absorption5        commitment
+                   appropriations (at L1
+                   level)
+6. Timely          Ensure efficient          2 invoices were sent by contractors directly
+Payments           processing of             to colleagues while they were absent. It
+                   payments within the       was reminded to all that the Systematic
+                                             use of functional mailbox for reception of
+                   legal deadlines
+                                             invoice (for contractors not using
+                                             eInvoicing). Reminders to be sent regularly,
+                                             especially prior to holidays. Reinforcement
+
+4
+  An explanation behind the indicator result can be provided, e.g. the comment about the achievement itself,
+     reference to the whole Commission performance (better or worse), reasons behind this achievement. The
+     comment is mandatory for the ‘Timely payments’ indicator. For the rest of indicators the comment is
+     mandatory only if the score is equal or below the target of 80%.
+5
+  Due to technical limitation: 1. the indicator does not take into account the Com L1 Consumption between the
+     FDC ILC date and the FA FDI allowed as an exception in the external actions for Com L1 of type GF, i.e.
+     with Financing Agreement, under the FR2018 Article 114.2. 2. it is technically not possible to exclude the
+     decommitment of RAL (C8) which is subsequently re-committed for a new purpose. As a result, the
+     actual Indicator score may be slightly higher than the one reported for DGs using the GF commitments.
+
+
+EPSO_aar_2024_annexes                                                                               Page 37 of 64
+                                          of the back-up organisation within the
+                                          Finance team.
+7. Timely       Ensure efficient          The indicator is not applicable for DG EPSO
+Decommitments   decommitment of           in 2024 due to the lack of underlying
+                outstanding RAL at the    transactions recorded by DG EPSO in 2024.
+                end of commitment
+                life cycle
+8. Invoice      Monitor the accounting
+Registration    risk stemming from
+Time            late registration of
+                invoices in the central
+                accounting system
+                ABAC
+9. Accounting   Ensure the good data
+Data Quality    quality of ABAC
+                transactions with the
+                focus on fields having
+                a primary impact on
+                the accounts
+10.             Ensure the good data       Due to a heavy workload and time
+Management      quality of ABAC           dedicated to SUMMA trainings and
+Data Quality    transactions with the     awareness-raising amongst EPSO and
+                                          EUSA, transactions such as legal
+                focus on fields having
+                                          commitments were not closed in the
+                a primary impact on
+                                          system.
+                the management
+                decisions
+11. Timely      Ensure efficient          The indicator is not applicable for DG EPSO
+Invoice PF                                in 2024 due to the lack of underlying
+                clearing by invoices
+clearing                                  transactions recorded by DG EPSO in 2024.
+                of prefinancing
+                payments within the
+                invoice payment
+                time limit
+
+
+
+
+EPSO_aar_2024_annexes                                                                   Page 38 of 64
+ANNEX 5: Materiality criteria
+Since 2019 (6), a ‘de minimis’ threshold for financial reservations has been introduced.
+Quantified annual activity report reservations related to residual error rates above the 2%
+materiality threshold are deemed not substantial for segments representing less than 5% of
+EPSO total payments and with a financial impact below EUR 5 million. In such cases,
+quantified reservations are no longer needed.
+
+In any case, no such cases are to be reported for 2024.
+The qualitative criteria used by EPSO to establish that there are no specific issues and
+shortfalls in the management and control systems, which give rise to reservations, take into
+account the nature of our activities, the risk environment and the expectations of all of our
+stakeholders.
+They concern events which could:
+       •   Seriously compromise the image or reputation of the EU institutions;
+       •   Relate to serious shortfalls in the internal control system of the Office;
+       •   Concern critical recommendations of the Court of Auditors or the Internal Audit
+           Service.
+       •   Relate to issues possibly entailing reputational damages for the European
+           institutions.
+In accordance with the guidelines in the Communication to the Commission COM (2003)28
+of 21 January 2003 and the accounting modernisation project, EPSO considered the
+quantitative materiality criterion to be below a threshold of 2% of the budget allocated to
+the ABB activity concerned.
+
+
+
+
+(6 )   Agreement of the Corporate Management Board of 30/4/2019.
+
+EPSO_aar_2024_annexes                                                                   Page 39 of 64
+ANNEX 6:           Relevant Control System(s) for budget implementation (RCSs)
+
+
+Procurements
+Stage 1 – Procurement – administrative operating expenses
+A - Planning
+Main control objectives: Ensuring that the decision to tender is optimal
+
+              Main risks                                                      Coverage, frequency and depth of
+                                                    Mitigating controls                                                          Cost effectiveness indicators
+      It may happen (again) that…                                                         controls*
+
+                                                                             Coverage:                             Effectiveness:
+                                                                             Procurement >€60,000
+                                                                                                                   Annual forward planning for procurement processes
+                                              Publication of intended
+                                                                            Depth*: Level 2                           • Project plan of procurement project incl. defined
+                                              procurements / Work programme
+                                                                                                                           milestones
+ The needs are not well defined                                              Frequency: Forward planning reviewed/    • Total contract value / cost of control on
+ (operationally and economically) and that                                   updated at least twice a year                 procurement
+ the decision to procure was inappropriate.
+                                                                                                                   Efficiency:
+                                                                                                                       • Cost of control on procurement / number of
+                                                                              Coverage: 100%
+                                              Note to AO(S)D on justification                                              exceptions / number of procedures without
+                                                                              Depth*: Level 2                              successful award of contract / number of procedures
+                                              (economic, operation) for
+                                              launching a procurement process                                              closed during the year
+                                                                              Frequency: For each procurement
+                                              Orientation note
+                                                                              process                              Economy:
+                                                                                                                      • Number of FTEs dealing with monitoring and control
+                                                                                                                         of procurement processes. Synergies gained through
+ Discontinuation of the services provided                                                                                SLA covering procurement with DG HR.
+ due to a late contracting.                                                  Coverage: Main ones
+                                              Point discussed during         Depth*: Level 2
+                                              management meeting
+                                                                             Frequency: When need arises
+
+NB: for all controls, information in particular financial information related to inputs / outputs and follow-up should be collected
+
+
+                              EPSO_aar_2024_annexes                                                                      Page 40 of 64
+*Depth: (definition of levels)
+1. Minimal administrative / arithmetic control with no reference to supporting documents reference to underlying documents.
+2. Control with reference to corroborative information incorporating an element of independent oversight (e.g. audit certificate or other verification), but no reference to
+   underlying documents.
+3. Control with reference to fully independent corroborative information (e.g. database which justifies certain elements of the claim, 3rd party or Commission assessment of
+   milestones achieved, etc.).
+4. Control with reference to and including access to the underlying documentation available at the stage of the process in question, for all inputs and outputs (e.g.
+   timesheets, invoices, physical verification, etc.); i.e. control of the same intensity of transaction testing as those carried out by the ECA as part of the DAS.
+
+B - Needs assessment & definition of needs
+
+Main control objectives: Ensuring that the call for tender is optimally done
+
+        Main risks
+                                                               Coverage, frequency and
+   It may happen (again)            Mitigating controls                                                             Cost effectiveness indicators
+                                                                  depth of controls*
+           that…
+
+                                                              Coverage: 100%                Effectiveness:
+                              Financial circuit: AOS approval Depth*: Level 3                   • Total contract value / cost of control on procurement.
+                              and supervision of                                                • Number of bidders / procurement process.
+                              specifications                  Frequency: for each
+                                                              procurement process
+
+                                                                                          Efficiency:
+The best offer/s are not
+                                                                                              • Cost of control on procurement / number of procedures closed during
+submitted due to the poor
+                              Additional unit supervision     Coverage: Those replying to         the year.
+definition of the
+specifications.               above a financial threshold:    criteria: procedure             • Number of questions received by HR.R1 on specifications in ongoing
+                              procurement >€60,000            >€60,000                            processes.
+                                                              Depth*: Level 4                 • Number of negative opinions given by GAMA.
+                              Or use of a
+                              consultative/advisory           Frequency: for each           Economy:
+                              committee "CCAM/PPAG"           procurement process              • Number of FTEs dealing with monitoring and control of procurement
+                                                                                                  processes.
+                                                                                               • Synergy gains through SLA covering procurement with DG HR.
+
+
+
+
+                               EPSO_aar_2024_annexes                                                                         Page 41 of 64
+NB: for all controls, information in particular financial information related to inputs / outputs and follow-up should be collected
+
+
+*Depth: (definition of levels)
+1. Minimal administrative / arithmetic control with no reference to supporting documents reference to underlying documents.
+2. Control with reference to corroborative information incorporating an element of independent oversight (e.g. audit certificate or other verification), but no reference to
+   underlying documents.
+3. Control with reference to fully independent corroborative information (e.g. database which justifies certain elements of the claim, 3rd party or Commission assessment of
+   milestones achieved, etc.).
+4. Control with reference to and including access to the underlying documentation available at the stage of the process in question, for all inputs and outputs (e.g.
+   timesheets, invoices, physical verification, etc.); i.e. control of the same intensity of transaction testing as those carried out by the ECA as part of the DAS.
+
+C – Selection of the offer & evaluation
+
+Main control objectives: Ensuring that the selection of the contractor is optimal
+
+         Main risks                     Mitigating controls
+                                                                          Coverage frequency and depth of
+    It may happen (again)            (those in bold are strongly                                                                   Cost effectiveness indicators
+                                                                                     controls*
+            that…                          recommended)
+
+                                                                  Coverage: 100%                                     Effectiveness:
+                                 Opening committee and Evaluation Depth*: Level 4                                        • Total contract value / cost of control on
+                                 committee                                                                                   procurement.
+                                                                  Frequency: for each procurement process
+
+  The most promising offer                                            Coverage: Risk based sampling                  Efficiency:
+  not being selected, due to a Consultative committee                 Depth*: Level 4                                    • Cost of control on procurement / number of
+  biased, inaccurate or ‘unfair’ "CCAM/PPAG" (GAMA)                                                                          procedures closed during the year.
+  evaluation process.                                                 Frequency: random                                  • Number of negative opinions by GAMA.
+
+                                                                      Coverage: 100%                                 Economy:
+                                 Conflict of interests / compulsory
+                                                                      Depth*: Level 4                                   • Number of FTEs dealing with monitoring and control
+                                 note for each member of
+                                                                                                                           of procurement processes.
+                                 committee
+                                                                      Frequency: for each procurement process
+
+
+
+
+                               EPSO_aar_2024_annexes                                                                         Page 42 of 64
+                                                                                                                         •   Synergies gained through SLA covering
+                                                                     Coverage: 100%                                          procurement with DG HR.
+                                                                     Depth*: Level 4
+                               Exclusion criteria documented
+                                                                     Frequency: for each procurement process
+
+                                                                     Coverage: 100%
+                                                                     Depth*: N/A
+                               Standstill period
+                                                                     Frequency: for each procurement process
+
+NB: for all controls, information in particular financial information related to inputs / outputs and follow-up should be collected
+
+*Depth: (definition of levels)
+
+1. Minimal administrative / arithmetic control with no reference to supporting documents reference to underlying documents.
+2. Control with reference to corroborative information incorporating an element of independent oversight (e.g. audit certificate or other verification), but no reference to
+   underlying documents.
+3. Control with reference to fully independent corroborative information (e.g. database which justifies certain elements of the claim, 3rd party or Commission assessment of
+   milestones achieved, etc.)
+4. Control with reference to and including access to the underlying documentation available at the stage of the process in question, for all inputs and outputs (e.g.
+   timesheets, invoices, physical verification, etc.); i.e. control of the same intensity of transaction testing as those carried out by the ECA as part of the DAS.
+
+
+
+
+                               EPSO_aar_2024_annexes                                                                         Page 43 of 64
+Stage 2 – Financial transactions
+
+Main control objectives: Ensuring that the implementation of the contract is in compliance with the signed contract
+
+        Main risks
+                                                                 Coverage, frequency and
+   It may happen (again)            Mitigating controls                                                               Cost effectiveness indicators
+                                                                    depth of controls*
+           that…
+
+                                                                                              Effectiveness:
+                                - Monitoring respect of         Coverage: 100%                    •   Detect error before payment, sound financial management and respect
+Contractor does not comply
+                                contractual provisions.         Depth*: Level 4                       of contractual provisions.
+with the contractual
+provisions.                                                                                       •   Number a/o amount of credit notes / by number a/o amount of total
+                                - ex ante verification          Frequency: constant                   payments.
+                                                                                                  •   Exceptions & NCE / total number of payments.
+
+                                                                Coverage: 100%                Efficiency:
+                            Financial circuit: all steps        Depth*: Level 4                   •   Cost of control on the financial circuit / value of payment executed
+Amount paid is disconnected financial and operational                                                 during the year.
+from the quality and the                                        Frequency: constant               •   Value of payments per year / FTEs
+timing of the deliverables.
+                                                                Coverage: Those replying to Economy:
+                                Signature at higher             criteria
+                                hierarchical level for higher   Depth*: Level 2             - simplified financial circuits (exceptions for very low value payments
+                                amounts                                                     (reimbursement to candidates) / total value of transactions.
+                                                                Frequency: when required
+
+Business discontinues.
+                                                                Coverage: 100%
+Contractor unable to deliver.
+                                                                Depth*: 3
+                                Business continuity plan
+                                                                Frequency: when required
+
+NB: for all controls, information in particular financial information related to inputs / outputs and follow-up should be collected
+
+
+
+
+                                EPSO_aar_2024_annexes                                                                          Page 44 of 64
+*Depth: (definition of levels)
+
+1. Minimal administrative / arithmetic control with no reference to supporting documents reference to underlying documents.
+2. Control with reference to corroborative information incorporating an element of independent oversight (e.g. audit certificate or other verification), but no reference to
+   underlying documents.
+3. Control with reference to fully independent corroborative information (e.g. database which justifies certain elements of the claim, 3rd party or Commission assessment of
+   milestones achieved, etc.).
+4. Control with reference to and including access to the underlying documentation available at the stage of the process in question, for all inputs and outputs (e.g.
+   timesheets, invoices, physical verification, etc.); i.e. control of the same intensity of transaction testing as those carried out by the ECA as part of the DAS.
+
+
+
+
+                               EPSO_aar_2024_annexes                                                                         Page 45 of 64
+Stage 3 – Supervisory measures
+
+Main control objectives: Ensuring that any weakness in the procedures (tender and financial transactions) is corrected
+
+      Main risks                  Mitigating controls
+ It may happen (again)         (those in bold are strongly   Coverage, frequency and depth of controls*                     Cost effectiveness indicators
+         that…                       recommended)
+
+                                                             Coverage: Risk based percentage plus ex post     Effectiveness:
+                            Ex post controls on
+                                                             controls                                     •   Ex post control result / error found
+                                                             Depth*: Level 4
+                            procedures / contractors
+An error or non-
+compliance with                                              Frequency: 3 times per year
+specifications or a fraud
+is not detected                                              Coverage: potentially 100%
+                            Whistle blowing (after yearly
+                                                             Depth*: N/A
+                            reporting of awarded contractors
+                            notably)
+                                                             Frequency: random
+
+                                                             Coverage: Whole process but limited number of    Efficiency:
+                                                             tenders                                    •     Total value checked by Control ex post / costs ex post
+                            Internal Audit Service           Depth*: Level 2                                  controls
+
+                                                             Frequency: random
+
+Management of the                                            Coverage: Whole process but limited number of
+procurement is not                                           tenders
+improved in general         Review of ex post results        Depth*: Level 2
+
+                                                             Frequency: once a year
+
+                                                             Coverage: Whole process but limited number of    Economy:
+                            Review of exception reporting    tenders                                    •     Cost ex post controls / total number of transactions checked
+                                                             Depth*: Level 2
+
+
+
+
+                                EPSO_aar_2024_annexes                                                                      Page 46 of 64
+                                                        Frequency: once a year
+
+
+
+
+                                                         Coverage: Procedure >€60,000
+                        Review of the process after each Depth*: Level 2
+                        procedure
+                                                         Frequency: after each procedure
+
+NB: for all controls, information in particular financial information related to inputs / outputs and follow-up should be collected
+
+
+
+
+                            EPSO_aar_2024_annexes                                                                 Page 47 of 64
+ANNEX 7: Specific                 annexes           related         to       "financial
+management"
+
+A. Free content
+
+Ex-post controls
+
+The frequency of control applied in 2024 was the same as in 2023, meaning there were 3
+series of ex-post controls carried out for 2024 transactions: for January-May, for June-
+September and for October-December (the last one carried out in January 2025).
+
+The ex-post control campaign covered 35 transactions made in 2024 (30 payments and 5
+recovery orders) worth 1M, representing 6.6% of all transactions and 18.5% of their total
+value. The sampling method used was random and stratified, taking into consideration the
+fact that a large proportion of payments are low value and low risk.
+
+No material issues were noted (no red code transactions) 25.7% of the verified transactions
+(9 payments) were found with minor issues (yellow code), due mainly to incomplete
+supporting documents. Comments and recommended actions proposed by the ex-post
+verifier were shared with the financial actors for further improvement. For the remaining
+74.3% of the transactions verified no issues were noted (green code).
+
+Given the nature of the expenditure and the very low/absence of errors found in the ex-post
+controls, the AOD has decided to apply a conservative level of error of 0.5% as per the
+instructions.
+
+Exceptions reporting and non-compliance events
+
+Two non-compliance events were detected during ex-ante verifications of payments and duly
+reported by operational units in 2024, both linked to noncompliance with the rules on
+expenditure, as services under a new framework contract have been ordered before the Order
+form was issued. Both events have been followed internally with a workshop in the form of
+a Q&A with a focus on the main financial transactions on the one hand and trainings (on
+Expenditure lifecycle) made mandatory for the colleagues involved with financial matters.
+
+The total financial impact amounts to 15 542 €.
+In relation to the reputational reservation noted in the 2023 Annual Activity Report on the
+problems encountered with the launch of a new automated proctoring system in online
+testing, the following measures have been undertaken:
+   •   Resumption of competition activities: in February 2024, EPSO unilaterally
+       terminated its test delivery contract and intensified efforts to implement a suitable
+       interim solution as quickly as possible. Since May 2024, EPSO has successfully
+       organised several selections and open competitions using a gap-solution provider. The
+EPSO_aar_2024_annexes
+
+
+                                                                              Page 48 of 64
+        testing experience to date has been satisfactory, with no significant structural issues
+        reported.
+   •    Implementation of EPSO’s transformation agenda (EPSOlution): EPSO has
+        launched the implementation of 22 cross-cutting projects aimed at monitoring and
+        completing its transformation process. Key initiatives include:
+        o Conducting a tender procedure to engage new delivery service providers and
+            integrating them into EPSO’s systems;
+        o Upgrading the test portfolio to better meet current needs;
+        o Establishing a mid- to long-term planning system;
+        o Enhancing the candidate experience through targeted improvements;
+        o Evaluating and refining EPSO’s outreach strategy; and
+        o Creating a structured system for data collection and statistical analysis of each
+            competition’s participant population.
+   •    Call for tender for computer-based testing services: in October 2024, EPSO
+        published a call for tender to conclude multiple framework service contracts for
+        computer-based testing capacities. These services include hosting and delivering
+        EPSO tests on a secure online platform accessible to candidates connecting remotely.
+Several mitigation measures have been taken to address past issues, including:
+        o Assessing risks associated with service providers and aligning selection criteria
+          with identified risks and controls;
+        o Developing contingency plans to address adverse scenarios effectively;
+        o Enhancing performance indicators to monitor and evaluate the effectiveness of
+          actions taken. The contract includes objective and measurable KPIs, provisions for
+          liquidated damages in cases of non-compliance, and regular management-level
+          monitoring.
+
+While several actions are still ongoing, the primary factors contributing to the 2023
+reservation cannot be considered sufficiently mitigated, so the reservation is maintained in
+the AAR 2024.
+
+
+
+B. Compulsory for all departments
+   1. Reports and documentation considered for the assessment of the DG’s
+      functioning in view of the AOD’s assurance:
+    •   the reports from AOSDs.
+    •   the contribution by the Director(s) in charge of Risk Management and Internal
+        Control, including the results of internal control monitoring at department level;
+    •   the reports on non-compliance events;
+    •   the reports on ex-post supervision and/or audit results.
+
+
+EPSO_aar_2024_annexes
+
+
+                                                                                 Page 49 of 64
+   2. Financial Regulation: Additional reporting requirements resulting from the
+      2018 and 2024 revisions.
+In line with the requirements of the Financial Regulation, EPSO reports for the year 2024:
+1) Cases of any in-kind donation made to the Union, for the purposes of humanitarian aid,
+   emergency support, civil protection or crisis management aid (FR art 25.3): not
+   applicable to EPSO
+1) Cases of "confirmation of instructions" (FR art 92.3): zero cases
+2) Cases of financing not linked to costs (FR art 125.3): not applicable to EPSO
+3) Financial Framework Partnerships >4 years (FR art 131.4): not applicable to EPSO
+4) Cases of flat-rates >7% for funding indirect costs (FR art 184.6): not applicable to
+   EPSO
+5) Derogations from the principle of non-retroactivity pursuant to Article 196 of the
+   Financial Regulation: not applicable to EPSO
+6) Cases of financial support to third parties >EUR 60 000 (FR art 207): not applicable to
+   EPSO
+7) Cases of non-financial donations provided in the form of services, supplies or works (FR
+   art 244.3): not applicable to EPSO
+No such cases for EPSO/EUSA.
+
+
+
+
+EPSO_aar_2024_annexes
+
+
+                                                                               Page 50 of 64
+   3. Table Y on the estimated “cost of controls” at Commission level
+
+
+Overview of department ’s estimated cost of controls at Commission (EC) level:
+
+
+
+
+The estimated total costs of control include direct, indirect and overhead costs. The fact that
+some financial tasks (in the context of procurement procedures and ex post controls) are
+performed by staff in the financial unit of DG HR on the basis of an existing SLA has been
+taken into account. It is estimated that a total of 2.5 FTEs (1,5 permanent staff members
+and 1 contractual staff) carry out financial and control activities for EPSO/EUSA. The cost has
+been calculated using the annual FTE costs as instructed by DG BUDG.
+
+For EPSO, this gives an amount of EUR 463 250.
+
+
+
+
+EPSO_aar_2024_annexes
+
+
+                                                                                 Page 51 of 64
+ANNEX 8: Reporting on the internal and external audits and
+assessing the effectiveness of Internal control systems
+Internal Audit Service
+
+Based on all work undertaken by the Internal Audit Service in the period 2020-2024 (3),
+namely:
+   •   IT security management in the HR family (2021);
+and taking into account that:
+   •   Management has accepted all the recommendations issued in 2020-2024;
+   •   Management has adopted an action plan to implement all the accepted
+       recommendations. The IAS considers that the action plan is adequate to address the
+       residual risks identified by the auditors;
+   •   The implementation of the action plan is monitored through reports by management
+       and follow-up audits by the IAS.
+
+
+Conclusion on the state of internal control
+The IAS concluded that the internal control systems in place for the audited processes are
+effective.
+
+
+
+
+EPSO_aar_2024_annexes                                                         Page 52 of 64
+ANNEX 9: Specific annexes related to "Control results" and
+“Assurance: Reservations”
+
+A. Annex related to "Control results" - Table X: Estimated risk at
+   payment and at closure
+Table X: Estimated risk at payment and at closure
+
+
+
+
+Notes to the table X
+(1) Relevant Control Systems differentiated per relevant portfolio segments and at a level which is lower than
+the total.
+(2) Payments made or equivalent, e.g. expenditure registered in the Commission’s accounting system,
+accepted expenditure or cleared pre-financing. In any case, this means after the preventive (ex-ante) control
+measures have already been implemented earlier in the cycle. In all cases of Co-Delegations (Internal Rules
+Article 3), "payments made" are reported by the Delegated departments. For Cross-SubDelegations (Internal
+Rules Article 12), the reporting remains with the Delegating departments.
+(3) New pre-financing actually paid by out by the department itself during the financial year (none in EPSO).
+(4) Pre-financing actually cleared during the financial year (none in EPSO).
+(5) For the purpose of equivalence with the ECA's scope of the EC funds with potential exposure to legality &
+regularity errors (see the ECA's Annual Report methodological annex 1.1), our concept of "relevant
+expenditure" includes the payments made, subtracts the new pre-financing paid out, and adds the pre-
+financing actually cleared during the FY. This is a separate and 'hybrid' concept, intentionally combining
+elements from the budgetary accounting and from the general ledger accounting.
+(6) In this column, we disclose the detected error rates or equivalent estimates.
+(8) The adjusted average recovery and corrections percentage for the last 3 years is EUR 0 million, which is
+the best available indication of the corrective measures EPSO applied over the past years as a result of ex
+post controls. Given the very low level of risk at payment and thus very low amount of corrections, the AOD is
+using a rate of 0.5% as its conservative estimate used for the error rate.
+
+
+
+
+EPSO_aar_2024_annexes
+
+
+                                                                                               Page 53 of 64
+B. Reservations
+
+1.           Reservation fiche
+DG                     EPSO
+Title of the           Reputational reservation on the problems encountered with the new automated proctoring system
+reservation,           in online testing.
+including its scope    EPSO relies exclusively on its contractor for the delivery of online testing to test large numbers of
+                       candidates in competitions. In October 2023, a new automated proctoring system was introduced in
+                       order to respond to issues identified in the live proctoring system in place earlier. However, the roll-
+                       out of the new automated proctoring system was not successful and it led to a temporary suspension
+                       of operations in the end of 2023, and adverse press. As a consequence, EPSO AAR 2023 featured a
+                       reputational reservation.
+                       Actions have been taken without delay to address the underlying problems both in the so-called
+                       “gap-solution” implemented to resume testing as of May 2024 as well as in the specifications of the
+                       call for tenders for online testing capacities published in the fall 2024 and aiming at strengthening
+                       the monitoring of the contractor’s performance through KPIs and deploying contingency actions to
+                       deal with adverse events.
+                       Considering the call for tenders is not awarded at the time of drafting and as a consequence, some
+                       of the mitigations measures (contractual provisions) cannot be implemented yet, it is considered
+                       prudent to maintain the reservation for the AAR 2024. The target is to lift the reservation of the next
+                       AAR, once the new framework contract is up and running.
+Domain                 HR
+Programme (or other    Administrative expenditure. Selection of EU staff via competitions and selection procedures.
+relevant segment) in
+which the
+reservation is made
+and total (annual)
+amount of this
+programme
+Reason for the         One of the specific objectives set in the strategic plan for 2020-2024, is to make available to all
+reservation            EU Institutions highly qualified staff by organising open competitions and selection procedures. The
+                       achievement of this objective was deferred as competitions and selection processes had to be
+                       suspended temporarily in the end of 2023, after the unsuccessful roll-out of the new proctoring
+                       system, until the spring 2024. In particular, EPSO moved to the use of automated proctoring in
+                       order to improve the previously used live proctoring system. The preparation of the launch by the
+                       contractor was followed closely by the operational staff of EPSO, and modifications and
+                       improvements were requested prior to implementing the specific operational modalities. These
+                       modalities were soon revealed to be defective from a technical and legal (data protection) point of
+                       view and resulted in a temporary suspension of operations and incapacity to publish new
+                       competitions and selection processes. Adverse communications on EPSO’s operations appeared in
+                       different media and channels. Sometimes these were inaccurate/incomplete. However, they
+                       resulted a negative image for EPSO and the Commission. This may have a deterrent effect for
+                       future participants of such tests. All the above have led to reputational damage and this
+                       reservation.
+Materiality            This is a reputational reservation without direct financial impact.
+criterion/criteria
+
+
+
+EPSO_aar_2024_annexes
+
+
+                                                                                                            Page 54 of 64
+Quantification            Non-quantified
+of the financial
+impact (amount at risk)
+Impact on the             The achievement of EPSO’s key specific objective, delivering competitions, has been delayed. The
+assurance                 modernisation objectives described in EPSO’s strategic plan 2020-2024 could be delayed and
+                          undermined. The impact of the events that led to the reservation is not quantifiable at the moment.
+Responsibility for the    The adequacy of the supervision which preceded the launch of the new proctoring system proved
+weakness                  to be insufficient. Notably, the impact assessment, the external factors and the contingency
+                          planning aspects required more attention.
+Responsibility for the    EPSO has launched actions to immediately address the identified issues and implemented the gap-
+corrective action         solution to resume testing for both open competitions and CAST as from May 2024, starting with
+                          smaller selections and gradually upscaling to more challenging ones. The overall result has been
+                          satisfactory although imperfect. Once the new framework contract is signed with the new
+                          contractor, EPSO will be able to fully implement the actions relating to the monitoring of its
+                          performance.
+
+
+
+
+   2. Reservations not issued or lifted in 2024 due to the application of the ‘de
+   minimis’ threshold.
+Not applicable.
+
+
+
+
+EPSO_aar_2024_annexes
+
+
+                                                                                                           Page 55 of 64
+ANNEX 10: Reporting   –   Human    resources, digital
+transformation and information management and sound
+environmental management
+Degree of implementation of the digital solutions modernisation plan
+
+In order to provide a state-of-play on the implementation of the 11 core principles defined by the EC
+Digital Strategy (ECDS), EPSO ran its own assessment for its 3 most expensive IT solutions (Talent
+Suite, EPSO Website and iSTAT) and the following scores where achieved:
+
+    •   Talent suite: 45% ECDS mature
+    •   EPSO Website: 68% ECDS mature
+    •   iSTAT: 50% ECDS mature
+
+For Talent suite, the 45% score was expected since it is running mainly on Legacy software
+but its replacement by new Information Systems that the HR Transformation Program will
+provide has already started since December 2024 (EPSO launched its first competition in the
+new Information systems in January 2025) and the same also applies to iSTAT and the
+remaining part of EPSO website.
+
+Implementation of the corporate principles for data governance
+
+EPSO manages datasets that are predominantly confidential and sensitive, given the high
+volume of personal data they contain. Additionally, as an interinstitutional office, EPSO
+operates within a unique framework that requires a tailored approach to data governance.
+While EPSO has not fully aligned with all standard corporate principles of data governance,
+we recognise the importance of a structured and compliant data governance framework.
+
+EPSO has therefore initiated steps to review its current practices. The upcoming reporting
+period, along with the arrival of a new EPSO Director and changes in Corporate Unit
+management, presents an opportunity to reassess EPSO’s data governance approach.
+Furthermore, EPSO is currently recruiting a Data Management Officer, who will be tasked
+with addressing these complexities and ensuring a balanced and effective integration of
+corporate principles where applicable.
+
+During the reporting period, EPSO has taken concrete steps toward structured data
+management, following key aspects of the corporate approach. Specific actions include
+documenting tools, storage locations, and collaboration modalities for competition-specific
+documents, as well as ensuring transparency through roadshows and information sessions
+for EPSO colleagues.
+
+
+
+
+EPSO_aar_2024_annexes                                                                 Page 56 of 64
+ Objective: EPSO/EuSA employs a competent and engaged workforce and
+ contributes to gender equality at all levels of management
+
+ Indicator 1: Number and percentage of first female appointments to middle
+ management positions.
+ Source of data: European Commission [data to be provided by SG / DG BUDG]
+ Baseline                          Target2022 and 2024                  Latest known results
+ (2019)                                                                 (31/12/2024)
+ 3 (75%)                           Target 2020-2022: 2 first female     For the period 2023-2024, 1 first
+                                   appointments for middle              female appointment made (in 2023)
+                                   management functions
+                                   No target assigned for the period
+                                   2023-2024
+ Main outputs in 2024:
+ Description               Indicator               Target                      Latest known results
+                                                                               (31/12/2024)
+ Categories of staff.      Upgrades from AST to    2 posts in 2024.            2
+                           AD.
+ Gender balance at MM      % of men and women      50/50                       50% female representation
+ level: monitoring of                                                          at MM level (2 out of 4 MM)
+ the situation in the
+ context of first female
+ appointments
+ Skills and                Number of specific      2 sessions per year for     2
+ competencies.             training events,        newcomers. Further
+                           onboarding for          implementation of
+                           newcomers.              training packages.
+
+
+ Objective: EPSO/EuSA employs a competent and engaged workforce and
+ contributes to gender equality at all levels of management
+
+ Indicator 2: EPSO staff engagement index.
+ Source of data: European Commission [data to be provided by SG / DG BUDG]
+ Baseline                      Target                                 Latest known results
+ (2018)                        2024                                   (31/12/2024)
+
+ 73%                           ≥ 75% (and above                       71%
+                               Commission average)
+
+
+
+
+EPSO_aar_2024_annexes                                                                        Page 57 of 64
+ Main outputs in 2024:
+ Description                 Indicator              Target                     Latest known results
+                                                                               (31/12/2024)
+ Maintain staff              Staff engagement       Minimum 74%.               71%
+ engagement                  index.                 -   3 all staff meetings   -   4 all staff meetings
+ -   Regular                                            per year and
+     communication                                      regular attendance
+     with staff                                         of the Director at
+                                                        unit meetings
+ -   Regularly monitor
+     extra-hours                                    -   Balanced
+                                                        distribution of work
+ Encourage staff to                                     between units and
+ participate in activities                              teams
+ organised internally or
+ at corporate level          Number of staff        25% of colleagues          NA (this would require an
+                             participating in the   attend at least one        internal survey which has
+                             activities             activity                   not taken place)
+ Raise awareness on          Specific training      2 internal sessions on     The Plan has been
+ diversity, equality and     sessions.              EPSO Equality and          presented at the level of
+ inclusion.                                         Diversity Action Plan.     the EPSO/EuSA all staff
+                                                                               meetings and Management
+                                                                               Meetings
+
+
+
+
+EPSO_aar_2024_annexes                                                                        Page 58 of 64
+    •    Digital Transformation and Information management
+
+ Objective: EPSO is using innovative, trusted digital solutions for better policy-
+ shaping, information management and administrative processes to forge a
+ truly digitally transformed, user-focused and data driven Commission.
+
+ Indicator 2: Degree of implementation of the digital strategy principles by the most
+ important IT solutions
+ Source of data: EPSO
+ Baseline                              Target                         Latest known results
+ (2019)                                2024                           (31/12/2024)
+
+ 10%                                   100%                           65%
+ Main outputs in 2024:
+ Description                     Indicator                 Target                    Latest known results
+                                                                                     (31/12/2024)
+ Deployment and usage of         Percentage of the         100%                      100%. The first version of
+ the new EPSO IT tools           deployment of the                                   the new EPSO IT Tools has
+ (through the HR                 new EPSO IT tools.                                  been deployed and the
+ Transformation Program).                                                            first EPSO competition
+                                                                                     was launched through the
+                                                                                     new tools
+ Digital Culture                 EPSO staff will:          a) 100%                   a) 100%
+ EPSO will continue              a) be able to use basic
+ embracing the whole             functions of M365
+ landscape of M365 tools,        suite, and be aware of
+ with specific focus on          more advanced M365
+ SharePoint Online. Newly        features necessary to
+ designed competition flow       their professional
+ will fully cater for this       functions and
+ aspiration when                 b) have participated in
+ implemented. EPSO staff is      cyber aware               b) 100%                   b) 90%
+ informed and encouraged         training/activities.      c) 2 EPSO staff will be   c) 100%
+ to participate in the cyber     c) enhance staff skills   trained upon EC Data      2 EPSO staff was trained
+ aware training and              and competences for       platform supported        upon EC Data platform
+ activities.                     effective use of data,    tools portfolio besides   supported tools portfolio
+                                 information and           QLIK (e.g. KNIME,         besides QLIK (e.g. KNIME,
+                                 knowledge,                Power BI)                 Power BI)
+                                 particularly related to
+                                 the Data Management
+                                 activities including
+                                 reporting
+ Digital-Ready EU                N/A                       N/A
+ policymaking
+ Ensure outputs related to
+ digital consideration that
+ are taken into account in
+ the early stages of the
+ design of policy initiatives.
+
+
+
+EPSO_aar_2024_annexes                                                                            Page 59 of 64
+ Description                    Indicator                 Target                   Latest known results
+                                                                                   (31/12/2024)
+ Business-driven Digital        EPSO business             All the EPSO business    100%
+ Transformation                 processes are             processes that need
+ EPSO business processes        reconsidered,             to be reflected in the
+ (considering also EPSO’s       documented through        new EPSO IT tools.
+ New Competition Model),        digital tools and
+ are digitally and optimally    validated.
+ implemented in the new
+ EPSO IT tools.
+ Seamless Digital               Percentage of             100%                     100% deployment of the
+ Environment                    deployment of the                                  first version of the new
+                                new EPSO IT tools.                                 EPSO IT tool which will
+                                                                                   gradually replace the
+ The new EPSO IT tools are
+                                                                                   existing ones
+ designed to be
+ streamlined, fit for purpose
+ and to replace the current
+ ones (that are running on
+ legacy software) by using
+ state of the art cloud
+ supported technologies.
+ Green, Resilient and           IT Security plans to be   100%                     100%
+ Secure Digital                 updated for the                                    All IT Security plans have
+ Infrastructure                 current EPSO IT                                    been updated for the
+ Ensure outputs related to      systems and for the                                current EPSO IT systems
+ the continuous                 new ones coming                                    and for the new ones
+ improvement of the             from HRT to be                                     coming from HRT have
+ department's performance       created                                            been created
+ as captured in the risk
+ maturity quadrant (RMQ).
+ IT Security plans for the      Percentage of             100%                     100%
+ new EPSO IT tools or           completion
+ existing ones older than 2
+ years
+ Implementation of              % of implemented          100% of important        100%
+ recommendations of             recommendations
+ quarterly IT security
+ reports.
+ Mandatory cybersecurity        % of newcomers’           100%                     100%,
+ and information security       attendance
+ training for all newcomers.
+ Commitment to 100%             % of EPSO staff           100%                     100% of staff
+ migration of the DG/EA         migrated                                           1 functional account to be
+ personnel to Welcome.                                                             migrated first half of
+                                                                                   2025
+
+
+
+
+EPSO_aar_2024_annexes                                                                          Page 60 of 64
+ Description                   Indicator                 Target                Latest known results
+                                                                               (31/12/2024)
+ List of actions to            Percentage of             Target by 2024: 80%                        50%
+ implement the corporate       implementation of the
+ principles for data           corporate principles
+ governance for [the           for data governance
+ service’s] key data assets.   for [the service’s] key
+                               data assets
+ List of key actions on
+ information
+ management and data
+ protection
+ Mandatory data protection     Training attendance.      100%                  Last year 100%
+ training sessions for all
+ staff, for newcomers and
+ staff dealing with personal
+ data as a priority.
+ Data protection records       Number of DP records      100%                  100%
+ management.                   in DPMS up-to-date.
+ DPIAs completed where         Number of processing      100%                  100%
+ necessary.                    operations requiring
+                               DPIA covered.
+ DPC involved upfront in all   Degree of                 100%                  100%
+ activities (new pilots, new   involvement.
+ IT tools, etc.) with Data
+ protection element.
+ EPSO document                 Staff familiar with       100%                  Staff familiar with the
+ management strategy in        EPSO document                                   principles of the document
+ place with clear              management strategy                             management strategy and
+ instructions where to store   and implementing it in                          in the process of creating
+ which types of documents      daily work.                                     specific Unit libraries in
+                                                                               preparation of the phase-
+                                                                               out of U drives.
+
+
+
+
+EPSO_aar_2024_annexes                                                                      Page 61 of 64
+    •    Sound environmental management
+
+Objective: EPSO/EuSA takes account of its environmental impact in their actions and
+actively promotes measures to reduce the related day-to-day impact of the administration
+and its work, with the support their respective EMAS Correspondents/EMAS Site
+Coordinators.
+Main outputs in 2024:
+
+I. Reducing emissions from staff and expert’ business travel and reducing CO2
+and other atmospheric emissions:
+Output                               Indicator                Target (2019 as      Latest known results
+                                                              baseline)            (31/12/2024)
+Priority action to support the Greening the Commission Communication and
+action plan
+Remote testing of candidates in      Number of candidates     -12%                 99% (only special need
+open competitions, investing in      tested remotely.                              candidates are not
+new digital solutions, reduced       Reduction of                                  tested remotely)
+missions, organising most            emissions linked to
+internal and external meetings       commuting and
+and other events via                 missions travel.
+videoconferencing, use of a low-
+energy building with smarter use
+of office space and increased use
+of teleworking).
+Other recommended actions
+II. Reducing resource use in buildings and workspace (energy)
+More efficient use of resources (energy):
+Output                              Indicator              Target (2019 as
+                                                           baseline)
+Priority action to support the Greening the Commission Communication and
+action plan
+Participation in corporate          Awareness              All EPSO/EuSA staff     100%
+energy saving actions through       campaigns in           aware of this action.
+building closure.                   conjunction with the
+                                    L-107 EMAS team.
+
+
+
+
+EPSO_aar_2024_annexes                                                                     Page 62 of 64
+III. Organise sustainable events
+IV. Circular economy (public procurement (GPP), waste, biodiversity and
+sustainable food
+Output                                     Indicator             Target (2019 as
+                                                                 baseline)
+Priority action to support the Greening the Commission Communication and
+action plan
+Other recommended actions
+Guided walks to discover trees             Number of             Participation of EPSO        100%
+in the neighbouring parks                  participants in the   staff. Two similar tours a
+around our building. Bringing              EPSO/EuSA staff.      year.
+awareness about the
+importance of biodiversity and
+about preserving the natural
+sites in our city.
+
+
+
+IV. Promoting green public procurement (GPP)
+V. Staff awareness
+Output                                 Indicator7                Target (2019 as
+                                                                 baseline)
+Awareness actions in the               Awareness campaigns in    Maintain or improve the
+framework of EMAS                      conjunction with the L-   present situation.
+corporate campaigns on                 107 EMAS team.            100% of corporate or
+(for instance):                        Awareness walks in the    L)107 campaigns shared
+     - Energy and water                Brussels parks close to   with EPSO all.
+          use                          our building.             Yearly participation to
+      -    Paper consumption           Number of participants    walks: at least 25% of
+      -    Digital                     in the EPSO/EuSA staff.   staff
+           mindfulness
+      -    GPP – biodiversity
+      -    Waste
+           reduction/sorting
+Mobility
+
+
+
+
+7
+    In coordination with the OIB/OIL
+
+
+EPSO_aar_2024_annexes                                                                                Page 63 of 64
+      ANNEX 11: Implementation through non EU entrusted
+      entities and/or EU Trust Funds
+      Not applicable
+
+      ANNEX 12: EAMR of the Union Delegations
+      Not applicable
+
+      ANNEX 13: Decentralised agencies and other EU bodies
+      Not applicable
+
+      ANNEX 14: Reporting on the Recovery and Resilience Facility
+      Not applicable
+
+
+
+
+Electronically signed on 05/06/2025 16:56 (UTC+02) in accordance with Article 11 of Commission
+       EPSO_aar_2024_annexes                                                              PageDecision
+                                                                                               64 of 64(EU) 2021/2121
+

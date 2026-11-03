@@ -1,0 +1,1826 @@
+Annual Activity Report
+                 2024
+         SECRETARIAT-GENERAL
+Contents
+THE SECRETARIAT-GENERAL IN BRIEF .................................................................................................................. 3
+
+EXECUTIVE SUMMARY ................................................................................................................................................... 4
+      D. Provision of information to the Commissioner(s) ............................................................................ 9
+
+1. KEY RESULTS AND PROGRESS TOWARDS ACHIEVING THE COMMISSION’S GENERAL
+   OBJECTIVES AND SPECIFIC OBJECTIVES OF THE SECRETARIAT-GENERAL ...............................10
+               General objective 1 – A European Green Deal .............................................................................10
+               General objective 2 – A Europe fit for the digital age .............................................................10
+               General objective 3 – An economy that works for people.....................................................11
+               General objective 4 – A stronger Europe in the world .............................................................14
+               General objective 5 – Promoting our European way of life ..................................................15
+               General objective 6 – A new push for European democracy ...............................................17
+               General objective 7 – A modern, high-performing and sustainable European
+                      Commission ...................................................................................................................................21
+
+2. INTERNAL CONTROL AND FINANCIAL MANAGEMENT ..........................................................................26
+      2.1. Control results ..............................................................................................................................................26
+               2.1.1. Overview of the budget and relevant control systems .........................................27
+               2.1.2. Effectiveness of controls ........................................................................................................28
+               2.1.3. Efficiency of controls ...............................................................................................................31
+               2.1.4. Economy of controls..................................................................................................................33
+               2.1.5. Conclusion on the cost-effectiveness of controls ......................................................33
+      2.2. Audit observations and recommendations ....................................................................................33
+      2.3. Assessment of the effectiveness of internal control systems ............................................36
+      2.4. Conclusions on the assurance ..............................................................................................................36
+      2.5. Declaration of Assurance ........................................................................................................................38
+
+3. MODERNISING THE ADMINISTRATION .........................................................................................................39
+      3.1. Human resource management ............................................................................................................39
+      3.2. Digital transformation and information management............................................................39
+      3.3. Sound environmental management ..................................................................................................41
+      3.4. Examples of economy and efficiency...............................................................................................42
+
+
+
+
+sg_aar_2024                                                                                                                                         Page 2 of 42
+THE SECRETARIAT-GENERAL IN BRIEF
+Under the authority of the President, the Secretariat-General serves the College of
+Commissioners and oversees the implementation of the European Commission's political
+priorities (1). It ensures the collegiality, consistency, efficiency and regularity of the
+Commission’s activities.
+
+                                                                             To this end, the Secretariat-
+                                                                             General       steers       and
+                                                                             coordinates the work of the
+                                                                             Commission services across
+                                                                             all policy areas to ensure
+                                                                             the consistency, quality
+                                                                             and timely delivery of
+                                                                             policy,    legislation,    and
+                                                                             operations, promoting a
+                                                                             ‘whole     of     government’
+                                                                             approach to policymaking. It
+                                                                             does this from the early
+                                                                             stages         of       policy
+                                                                             development, through the
+                                                                             internal      decision-making
+                                                                             process, to interinstitutional
+                                                                             negotiations to agree the
+                                                                             policy,       and         then
+                                                                             implementation             and
+                                                                             enforcement.
+
+                                                              The       Secretariat-General
+                                                              ensures good governance
+within the Commission, fostering a modern, transparent, and sustainable
+administration. It acts together with the Cabinet of the President to promote transparency
+and efficiency in the relationship between all members of the College of Commissioners. It
+supported the Executive Vice-Presidents in their coordination tasks, including through the
+management of Commissioners’ Project Groups. The Secretariat-General also coordinates
+and steers the relations between the Commission and the other European institutions,
+national Parliaments, consultative committees and international and non-governmental
+organisations.
+
+
+
+
+(1 )   2024 was a transition year, in which the Secretariat-General worked both towards the delivery of the
+       2019-2024 political priorities and the definition and implementation of the political priorities for 2024-
+       2029.
+EXECUTIVE SUMMARY
+A. Key results and progress towards achieving the Commission’s
+   general objectives and departments’ specific objectives
+
+In 2024, the Commission successfully managed the transition from Ursula von der Leyen's
+first to her second term as President. The transition required intensive and wide-ranging
+efforts.
+
+On the one hand, the Secretariat-General was instrumental to complete the delivery of the
+2019-2024 Political Guidelines, while contributing to finding solutions to some of the main
+challenges Europe has faced: from responding to Russia’s war of aggression against
+Ukraine, to dealing with the consequences of climate change and to building Europe’s
+digital leadership. In 2024, the Secretariat-General also facilitated agreements between
+co-legislators on key legislative proposals across all priority areas, such as the updated
+Schengen Borders Code or the reform of the economic governance rules.
+
+At the same time, the Secretariat-General prepared the ground for a strong start for the
+new College. This preparatory work encompassed support to the candidate for President
+of the Commission in developing the Political Guidelines; support to the President-elect in
+drawing up the mission letters to the incoming Commissioners, and assistance to
+Commissioners-designate in preparing for their hearings in the European Parliament.
+The Secretariat-General also oversaw the practical preparations for the arrival of the new
+College. Finally, it coordinated the work on the reorganisation of a number of Commission
+departments, on the new rules of procedure, and on the strengthened transparency
+requirements.
+
+While the process to renew the political leadership in the EU was ongoing, the Secretariat-
+General stayed the course on the Commission’s priorities.
+
+Throughout the year, the Secretariat-General steered the Commission’s work on the EU’s
+unwavering political, humanitarian, military and financial support for Ukraine, including
+through the adoption of the 13th, 14th, and 15th packages of sanctions against Russia
+respectively in February, June, and December 2024. The situation in the Middle East also
+required a coordinated response from the Commission. In addition, the Secretariat-General
+steered the preparedness work as regards the EU-US relations.
+
+Boosting the EU’s competitiveness was a key priority in 2024. The recommendations of
+the Draghi report on the future of EU competitiveness fed into the preparations for the
+Competitiveness Compass presented in February 2025, which will serve as the ‘North Star’
+for the Commission’s economic strategy over the 2024-2029 period. The Secretariat-
+General prepared the Compass as well as its immediate follow-up, the Clean Industrial
+Deal, an ambitious plan to boost competitiveness and decarbonise European industry.
+
+
+
+
+sg_aar_2024                                                                    Page 4 of 42
+Similarly, the Secretariat-General coordinated the Commission’s follow-up work to the Letta
+report ‘Much more than a market’ and to the Niinistö report ‘Safer Together – Strengthening
+Europe’s Civilian and Military Preparedness and Readiness’.
+
+As an integral part of the competitiveness agenda, the Secretariat-General led the
+Commission’s work on delivering President von der Leyen’s goal to reduce administrative
+burdens by 25%. This simplification drive began in 2024 with a first set of 41 measures
+to lighten the load for European companies. The work has further intensified with the first
+two so-called Omnibus packages of simplification measures adopted in the first months of
+the new Commission, simplifying rules on sustainability reporting and EU investments.
+
+The Secretariat-General, together with DG Budget, coordinated the mid-term revision of
+the multiannual financial framework. The revision helped ensure the Union was
+equipped to address new challenges, enabling a €50 billion support package for Ukraine
+and providing additional resources for key areas such as migration, natural disasters, and
+support for partners in the Western Balkans and the Southern Neighbourhood.
+
+The Recovery and Resilience Taskforce continued to drive the implementation of the
+Recovery and Resilience Facility, together with DG Economic and Financial Affairs.
+Implementation accelerated significantly in 2024, allowing successful disbursement of
+EUR 85.3 billion in payments and supporting strategic investment and reforms across the
+Union.
+
+The rule of law cycle, coordinated by the Secretariat-General together with DG Justice,
+continued to play a key role in strengthening democracy across the EU. For the first time,
+the 2024 Report included country chapters on four enlargement countries (Albania,
+Montenegro, North Macedonia, Serbia). Their inclusion will support these countries’ reform
+efforts to achieve lasting progress on democracy and the rule of law ahead of accession.
+
+Following the agreement on the Pact on Migration and Asylum, the Secretariat-General
+supported the adoption of the Common Implementation Plan, setting out the key milestones
+for all Member States to put in place the legal and operational capabilities required to
+successfully start applying the new legislation by mid-2026.
+
+Defence and security assumed particular importance in 2024 in the face of rising
+geopolitical tensions and hybrid threats. The Secretariat-General was instrumental in
+preparing the first-ever European Defence Industrial Strategy, an ambitious plan to
+enhance the competitiveness of the European defence industry. The Secretariat-General
+coordinated work on the Commission’s progress report on the Security Union Strategy
+and monitored progress in the economic security risk assessments launched in 2023.
+
+The Secretariat-General continued to lead on the Commission’s relations with Western
+European partners. This included ensuring strong EU coordination on the implementation of
+the EU-UK Withdrawal Agreement, including the Windsor Framework, the Trade
+and Cooperation Agreement and completing negotiations with Switzerland on a broad
+package of agreements deepening and expanding this important relationship.
+
+
+sg_aar_2024                                                                    Page 5 of 42
+The Secretariat-General negotiated, on behalf of the Commission, the agreement on a new
+interinstitutional ethics body for ethical standards for members of European
+institutions and advisory bodies. The new body is designed to develop common ethical
+standards and foster a joint culture of ethics and integrity among EU institutions.
+
+Within the Commission, the Secretariat-General continued to steer and shape key
+corporate policies, working closely with other central services of the Commission. It
+remained at the core of the corporate governance framework, ensuring efficient use of
+human and financial resources and shaping the Commission’s corporate policies in key
+areas such as cybersecurity, data protection, and information management.
+
+The smooth functioning of the collegial decision-making process remains a core
+function of the Secretariat-General and further progress was made in 2024 to improve the
+efficiency and security of the Commission’s internal processes, including through
+digitalisation.
+
+
+
+
+sg_aar_2024                                                                 Page 6 of 42
+B. Key performance indicators
+
+
+
+                                                                          Key performance
+                                                                          indicator 1 - Rate of
+                                                                          progress in
+                                                                          implementing the
+                                                                          country-specific
+                                                                          recommendations (2)
+
+                                                              The       Recovery      and
+                                                              Resilience Facility has
+                                                              significantly   accelerated
+                                                              policy action to implement
+                                                              country-specific
+                                                              recommendations.        The
+                                                              share     of    2019-2020
+                                                              country-specific
+recommendations reaching at least ‘some progress’ increased by 12 percentage points
+from 52% in 2021 before the Recovery and Resilience Facility to 64% in 2024, after three
+years of Facility implementation.
+
+Key performance indicator 2 -
+Annual implementation rate of
+initiatives in Annex 1 of the
+Commission work
+programme (3)
+
+Almost 80% (4) of the new
+initiatives announced in the 2024
+Commission work programme
+were adopted by the end of the
+year. In addition, the Commission
+adopted several initiatives that
+remained from the 2023 Commission work programme.
+
+
+
+
+(2 )   Key performance indicator 1 relates to specific objective 3.1.
+(3 )   Key performance indicator 2 relates to specific objective 7.1.
+(4 )   Out of 18 new initiatives announced in the 2024 Commission work programme, 14 were adopted by the
+       end of the year. The remaining four were postponed to the new mandate.
+
+
+
+sg_aar_2024                                                                               Page 7 of 42
+Key performance indicator 3 - Proportion of legislative initiatives (with an impact
+assessment) for which costs and/or benefits have been quantified (5)
+
+In 2024, 100% (3
+out of 3 (6)) of the
+impact
+assessments
+conducted,        all
+reviewed by the
+Regulatory Scrutiny
+Board,     contained
+quantification     of
+costs          and/or
+benefits.
+
+
+
+Key performance indicator 4 - Percentage of Commission key data assets (7) for
+which corporate principles on data governance have been implemented (8):
+
+                                                                     The        Secretariat-
+                                                                     General continued to
+                                                                     improve its local
+                                                                     governance of key
+                                                                     data assets, through
+                                                                     systematic reporting
+                                                                     in the EC Data
+                                                                     Catalogue, reinforcing
+                                                                     data-related roles and
+                                                                     responsibilities, and
+                                                                     documenting       data
+                                                                     management
+practices. A thorough mapping of data management practices was undertaken for all key
+data assets in the Secretariat-General. The exercise documented current data management
+practices, identified areas for improvement, and further raised awareness of corporate data
+governance principles. As a result, the Secretariat-General has reached the target of 80%
+implementation of corporate principles on data governance.
+
+
+
+
+(5 )   Key performance indicator 3 relates to specific objective 6.5.
+(6 )   As 2024 was the last year of the previous Commission mandate, the number of new legislative
+       proposals and impact assessments was limited.
+(7 )   Key data assets are data relevant for decision-making processes across the organisation and for the
+       functioning of the organisation itself.
+(8 )   Key performance indicator 4 relates to specific objective 7.6.
+
+
+
+sg_aar_2024                                                                                 Page 8 of 42
+C. Key conclusions on internal control and financial management
+
+The Secretariat-General has systematically examined the available control results and
+indicators, as well as the observations and recommendations issued by the internal auditor
+and the European Court of Auditors. These elements have been assessed to determine their
+impact on management's assurance about the achievement of the control objectives.
+Please refer to Section 2 for further details.
+
+In conclusion, management has reasonable assurance that, overall, suitable controls are in
+place and working as intended; risks are being appropriately monitored and mitigated. The
+Secretary-General, in her capacity as Authorising Officer by Delegation, has signed the
+Declaration of Assurance.
+
+
+
+
+D. Provision of information to the Commissioner(s)
+
+In the context of the regular meetings during the year between the Secretariat-General and
+the President on management matters, the main elements of this report and assurance
+declaration have been brought to the attention of President von der Leyen.
+
+
+
+
+sg_aar_2024                                                                   Page 9 of 42
+1.      KEY RESULTS AND PROGRESS TOWARDS
+        ACHIEVING   THE   COMMISSION’S    GENERAL
+        OBJECTIVES AND SPECIFIC OBJECTIVES OF THE
+        SECRETARIAT-GENERAL
+
+General objective 1 – A European Green Deal
+Coordinating the European Green Deal
+
+The Secretariat-General coordinated a communication in February 2024 launching a
+reflection on a climate target for 2040, a crucial step towards achieving a carbon-
+neutral Europe by 2050. The Secretariat-General also steered work on a communication on
+managing climate risks, setting out how the EU can effectively build greater resilience to
+the impacts of climate change.
+
+Implementation efforts in 2024 focused on strengthening engagement with stakeholders.
+
+President von der Leyen announced the launch of a series of clean transition dialogues
+in 2023 to discuss with European industry and social partners how to strengthen and
+support the implementation of the European Green Deal, contributing to a reinforced
+industrial approach. In 2024, the Secretariat-General provided support for these dialogues
+and prepared a stocktaking Communication, adopted in April 2024.
+
+The Secretariat-General swiftly launched
+the preparatory process for the Clean
+Industrial Deal, aiming to strengthen
+European industries and support their
+timely transition to climate neutrality.
+
+Based on the outcome of the strategic
+dialogue with major stakeholders on the
+future of agriculture, the Secretariat-
+General also launched preparations for the Vision for Agriculture and Food, presented
+early in 2025.
+
+
+General objective 2 – A Europe fit for the digital age
+Shaping Europe’s digital future
+
+The Secretariat-General coordinated work together with the Commission services
+responsible to promote artificial intelligence in the EU, following the entry into force in
+August 2024 of the European Artificial Intelligence Act, the world's first comprehensive
+regulation on artificial intelligence. The Secretariat-General also steered initiatives such as
+
+
+sg_aar_2024                                                                      Page 10 of 42
+the Gigabit Infrastructure Act, landmark legislation that aims to ensure the widespread
+deployment of gigabit connectivity and 5G networks across the EU.
+
+The yearly Digital Decade report, coordinated by the Secretariat-General, highlighted
+that the EU has strategically pivoted towards a more assertive digital policy framework,
+with strong regulatory efforts, significant investments, and good progress in areas such as
+high-performing computing and quantum technologies.
+
+One of the key achievements was the successful implementation of the Digital Services
+Act. Under very tight deadlines, the Secretariat-General supported the process whereby 24
+core platform services by 7 gatekeepers were designated under the Digital Markets Act
+and over 20 very large online platforms and services under the Digital Services Act.
+
+
+
+
+General objective 3 – An economy that works for people
+Reforming the economic governance framework and implementing the
+Recovery and Resilience Plans within the framework of the European
+Semester
+
+Implementing the Recovery and Resilience Facility
+
+In 2024, SG RECOVER and DG Economic and Financial Affairs jointly helped Member States
+implement their national recovery and resilience plans. The focus this year was on
+the revision of the plans for 17 Member States and the assessment of payment requests,
+which led to successful disbursement of EUR 85.3 billion in payments to 23 Member States,
+bringing total disbursements by the end of 2024 to EUR 306.1 billion. After some delays in
+2023, mainly linked to the adoption of REPowerEU chapters, the speed of implementation
+and disbursements accelerated in the course of 2024.
+
+
+
+
+sg_aar_2024                                                                  Page 11 of 42
+Based on the independent study carried out in 2023, SG RECOVER and DG Economic and
+Financial Affairs published in February 2024 a Staff Working Document presenting the
+Commission’s mid-term evaluation of the implementation of the facility.
+
+SG RECOVER and DG Economic and Financial Affairs regularly met with representatives
+of Member States’ authorities to share experiences and discuss common challenges.
+Monitoring missions were also organised with Member States, bringing together
+institutions, stakeholders, and recipients of support to discuss the progress of
+implementation.
+
+In 2024, the Commission ensured a high level of transparency and engagement with
+the European Parliament and the Council throughout the implementation phase of the
+Recovery and Resilience Facility. The Commission swiftly shared modified plans submitted
+by Member States, as well as all preliminary assessments of payment requests, with the
+two institutions. Furthermore, the Commission held regular exchanges with the European
+Parliament to discuss horizontal topics concerning the Recovery and Resilience Facility.
+
+                                                    Throughout 2024, the Commission
+                                                    regularly updated the Recovery and
+                                                    Resilience scoreboard showing the
+                                                    implementation status of the plans.
+                                                    Monitoring the fulfilment of Member
+                                                    States’ obligation to publish lists of
+                                                    their 100 biggest final recipients on
+                                                    the Recovery and Resilience Facility
+                                                    also continued.
+
+                                                    The     Annual     Recovery        and
+                                                    Resilience Facility Report, published
+                                                    in October 2024, took stock of the
+                                                    progress in implementing the facility. A
+novelty of the 2024 report is the five annexes which enhance transparency on the eligibility
+period, recurring expenditure rules, the concept of double funding and the notion of final
+recipients.
+
+Steering the European Semester
+
+SG RECOVER prepared the Commission’s economic and social policy guidance to Member
+States under the European Semester by coordinating work on the country reports and the
+Commission’s proposals for country-specific recommendations in the 2024 ‘Spring
+Package’. SG RECOVER ensured that the Semester remained focused on fostering
+competitive sustainability along its four key priorities (promoting environmental
+sustainability, productivity, fairness, and macroeconomic stability). It also considered
+
+
+
+sg_aar_2024                                                                   Page 12 of 42
+current challenges to competitiveness, such as high energy prices, skills shortages, and
+single market fragmentation. In addition, SG RECOVER led the preparation of the Semester
+‘Autumn Package’.
+
+Steering the set-up of the Social Climate Fund
+
+In 2024, SG RECOVER initiated work on the Social Climate Fund, a temporary €65 billion
+funding programme set to operate from 2026 to 2032. In cooperation with DG Climate
+Action and DG Employment, SG RECOVER prepared the guidance on social climate plans,
+designed to support Member States in submitting their plans by mid-2025.
+
+Boosting the European single market and industrial base
+
+The Secretariat-General coordinated the preparation of the first Annual Single Market
+and Competitiveness Report, which was published in 2024. The report built on the nine
+key drivers identified in the 2023 communication on long-term competitiveness, which will
+be used every year to track the EU’s progress.
+
+Following the entry into force of the Critical Raw Materials Act and the Net-Zero
+Industry Act, the Secretariat-General oversaw their implementation through the project
+group meetings on industry, SMEs, single market and critical raw materials.
+
+The Secretariat-General supported the adoption of several important and technical internal
+market regulations, such as the Euro 7 Regulation on road vehicle emissions or revising
+the Regulation on chemicals.
+
+Aiming to tap into the growth and labour productivity potential of biotechnologies and
+biomanufacturing, the Secretariat-General led, in 2024, the preparation of the
+Communication ‘Building the future with nature: Boosting Biotechnology and
+Biomanufacturing in the EU’.
+
+Keeping the multiannual financial framework fit for purpose
+
+Together with DG Budget, the Secretariat-General led the negotiations on the first-ever
+revision of the multiannual financial framework. The agreement in February 2024
+allows the EU to continue delivering on common priorities, including critical support for
+Ukraine thanks to a new €50 billion Ukraine Facility, and further action on migration and
+external challenges. In addition, the midterm revision strengthened sovereignty and
+competitiveness thanks to the Strategic Technologies for Europe Platform and
+enhanced the EU’s ability to respond to crises and unforeseen challenges by reinforcing the
+Flexibility Instrument and the Solidarity and Emergency Aid Reserve.
+
+The Secretariat-General, together with DG Budget, also launched reflections and technical
+preparations for the post-2027 multiannual financial framework proposals, which
+are due in 2025. The Secretariat-General supported DG Budget in concluding the
+
+
+
+
+sg_aar_2024                                                                  Page 13 of 42
+negotiations of the recast of the Financial Regulation, which entered into force in
+September 2024 to strengthen transparency and protection of the EU financial interests.
+
+
+General objective 4 – A stronger Europe in the world
+Strengthening coordination on strategic external policy issues
+
+Throughout 2024, the Secretariat-General continued to steer the Commission’s work in
+support of Ukraine in the face of Russia’s war of aggression, including energy support
+measures. The Secretariat-General was instrumental in facilitating the G7 loans made
+possible through proceeds from Russia’s immobilised sovereign assets. Other aspects of
+the EU response, such as holding Russia accountable for its crimes, countering
+disinformation, following the peace process, and providing humanitarian aid, have also
+been coordinated by the Secretariat-General.
+
+The Secretariat-General led the work on three additional packages of restrictive
+measures (sanctions) in response to Russia’s war of aggression against Ukraine, bringing
+the total number of such packages by end 2024 to fifteen. The EU’s sanctions against
+Russia aim to reduce the Kremlin’s ability to finance the war and impose economic and
+political costs on Putin’s regime and its supporters. The Secretariat-General also
+coordinated the implementation of measures to prevent sanctions circumvention.
+
+The coherent implementation of the Economic Security Strategy was a priority for the
+Secretariat-General in 2024. This entailed monitoring progress in the risk assessments
+launched in 2023 and the roll-out of new initiatives strengthening economic security
+adopted by the Commission in January 2024, notably in the areas of foreign direct
+investment screening, export controls, and research security.
+Furthermore, the Secretariat-General ensured the timely adoption of several other
+proposals, such as the Moldova Growth Plan and Facility.
+
+Boosting the Foreign, Security and Defence Policy
+
+As the Commission took further steps in 2024 towards a European Defence Union, the
+Secretariat-General contributed to the delivery of an EU Defence Industrial Strategy
+and a proposal for a European Defence Industry Programme. The strategy has the
+twofold objective of supporting European defence industrial readiness and strengthening
+ties between the EU and the Ukrainian Defence Industries. The strategy has already
+delivered tangible results, such as the first EU-Ukraine defence Industry Forum and the
+opening of the EU Innovation Office in Kyiv. The Secretariat-General supported the
+implementation of the EU hybrid toolbox and the establishment of Hybrid Rapid
+Response Teams, including elaborating the operational guidance for their deployment.
+
+The Secretariat-General continued to ensure systematic engagement at all levels with
+NATO, including close coordination on Russia’s war of aggression against Ukraine. Four new
+
+
+
+
+sg_aar_2024                                                                  Page 14 of 42
+structured dialogues were established: on climate and defence, emerging and disruptive
+technologies, cyber and defence industry.
+
+Preparing the EU for enlargement
+
+The Secretariat-General led the preparation of the communication on pre-enlargement
+reforms and policy reviews, which looked at the implications of a larger EU in four main
+areas: values, policies, budget and governance.
+
+The Western Balkans Facility was operationalised throughout 2024. As every year, the
+Secretariat-General contributed to and facilitated work on the 2024 enlargement package,
+providing the state of play for each enlargement country in the merit-based accession
+process.
+
+EU’s relations with the United Kingdom and other western European
+partners
+
+The Secretariat-General coordinated the full, timely, and faithful implementation,
+application, and enforcement of the EU-UK Withdrawal Agreement and the EU-UK
+Trade and Cooperation Agreement. On the Withdrawal Agreement, efforts were made
+to ensure that beneficiaries can fully exercise their rights and that the Windsor Framework
+is implemented. Regarding the implementation of the EU-UK Trade and Cooperation
+Agreement, there was a particular focus on level playing field issues, energy, and fisheries.
+The Secretariat-General also continued to lead negotiations with the UK on an EU-UK
+agreement in respect of Gibraltar.
+
+Furthermore, the Secretariat-General led the EU-Switzerland negotiations on a broad
+package of measures to deepen and expand the bilateral relationship, completed in
+December 2024. Close work with the EEA States (Norway, Iceland, and Liechtenstein)
+took place and the Financial Mechanisms 2021-2028 were signed in September, setting out
+the contribution of these countries to reducing the economic and social disparities in the
+European Economic Area. Negotiations of an Association Agreement with Andorra and San
+Marino were finalised. The Commission’s proposals for Council Decisions on the signature
+and provisional application of the Association Agreement are being discussed in the Council.
+
+
+General objective 5 – Promoting our European way of life
+Deepening the Security Union
+
+In 2024, the Secretariat-General provided impetus for the final negotiations on all
+remaining initiatives of the EU Security Union Strategy. Nearly all initiatives on all pillars
+have now been adopted. Newly adopted legislation offers greater protection to all
+Europeans in relation to fighting terrorism and radicalisation, fighting organised crime,
+ensuring the security of borders, and supporting law enforcement and judicial cooperation.
+To tackle interconnected global threats such as terrorism and drug trafficking, the EU has
+
+
+sg_aar_2024                                                                     Page 15 of 42
+stepped up its negotiations with non-EU countries to strengthen law enforcement and
+judicial cooperation at international level.
+
+Migration
+
+                                                  Following the agreement in 2024 on the
+                                                  new Pact on Migration and Asylum,
+                                                  the Commission adopted, in June 2024,
+                                                  the Common Implementation Plan
+                                                  setting out the key actions required to
+                                                  implement     the   agreements.     The
+                                                  Secretariat-General   supported     the
+                                                  successful launch of this plan. The
+                                                  Secretariat-General   maintained      a
+                                                  comprehensive overview of all aspects
+                                                  of migration policy, as reflected in
+President von der Leyen’s regular updates to the European Council.
+
+The Secretariat-General provided strong support during the inter-institutional negotiations
+of legislative proposals on migration, such as measures on maximising the potential of
+skills and talent mobility and for more systematic recognition of professional
+qualifications of third country nationals. Recognising the importance of visa policy as an
+effective leverage in external relations, the Secretariat-General played an important role in
+the adoption by the College of the proposals requiring a visa for third country nationals
+entering the EU.
+
+The Secretariat-General also ensured representation of European Union in bodies such as
+the Operational Coordination Mechanism for the External Dimension of Migration
+and in contributions to the action plans for key migration partners, the monitoring of
+implementation of strategic and comprehensive partnerships with key partners and the four
+main migratory routes (Western Balkans, Atlantic/Western Mediterranean, Central
+Mediterranean and Eastern Mediterranean).
+
+Stepping up European cooperation on crisis management
+
+An important milestone in the Secretariat-General’s efforts to improve preparedness in
+anticipation of potential crises was the organisation of the first ever high-level
+conference on crisis management. Other Secretariat-General actions to strengthen crisis
+management have included the mapping and analysis of new tools, the delivery of
+trainings, the establishment of an exercise policy, and continuous cooperation with NATO on
+parallel and coordinated exercises. Inspired by the Niinistö report on EU civil and military
+preparedness, the Secretariat-General launched the work on a Preparedness Union
+Strategy, adopted in March 2025.
+
+
+
+
+sg_aar_2024                                                                    Page 16 of 42
+Building a Health Union
+
+The Secretariat-General supported the negotiations between the European Parliament and
+the Council on the reform of the pharmaceutical package, which aims to ensure timely
+and equal access to medicines for all EU patients, foster innovation, and ensure the
+attractiveness of the EU for the pharmaceutical industry.
+
+The Secretariat-General worked with
+relevant Commission services to
+address medicine shortages in the
+EU. In this context, a consultative
+mechanism         bringing     together
+stakeholders from EU Member
+States, key industries, civil society
+and the scientific community – the
+Critical Medicines Alliance – was
+set up in January 2024. The Alliance
+aims to identify key areas for action to prevent and address vulnerabilities in the supply
+chain of critical medicines, serving as the basis for developing a Critical Medicines Act.
+
+The Secretariat-General plays an active part in the external dimension of the European
+Health Union. It ensured close follow-up to the Global Health Strategy and supported the
+negotiations on the Pandemic Agreement and the International Health Regulation. This
+included coordination of the Commission’s response following the August declaration of the
+World Health Organization that the mpox outbreak was a public health emergency of
+international concern.
+
+Education and Youth
+
+The Secretariat-General coordinated the preparation of a package of proposals adopted in
+March 2024 aiming to work towards a European degree.
+
+The Secretariat-General contributed to efforts to incorporate young people´s views into EU
+policymaking. Concrete action in this regard involved designing the new ‘youth check’,
+which will be applied as of 2025 on new major initiatives in the Commission work
+programme. A concept for the Commissioners´ annual Youth Policy Dialogues was
+developed with support from the Secretariat-General.
+
+
+General objective 6 – A new push for European democracy
+
+Strengthening democracy and the rule of law
+
+The Secretariat-General continued to move forward with initiatives strengthening the EU’s
+capacity to promote and uphold the rule of law. It co-led the preparation of the fifth annual
+Rule of Law Report. The report’s role as a driver of positive reforms has been confirmed,
+as two-thirds of its recommendations issued in the previous year have been fully or
+
+
+sg_aar_2024                                                                    Page 17 of 42
+partially addressed. The 2024 report included, for the first time, four country chapters on
+developments in Albania, Montenegro, North Macedonia and Serbia. The integration of
+these first enlargement countries in the report is designed to support their reform efforts
+in the accession process and prepare for the continuation of work on the rule of law as
+future Member States. The Secretariat-General worked with other services to ensure that
+the annual rule of law report process continues to be rigorous, effective, and consistent
+with other tools at the Commission’s disposal to promote and safeguard the rule of law.
+
+The Secretariat-General also followed up on the implementation of the 2020 European
+Democracy Action Plan and the 2023 Defence of Democracy Package, coordinating the
+work of relevant Commission departments.
+
+Promoting equality
+
+The Task Force on Equality and its secretariat, provided by the Secretariat-General,
+actively contributed to the implementation and reporting on the Union of Equality strategies
+adopted in 2020-2021. These include the annual report on gender equality, the report on
+the implementation of EU anti-racism action plan 2020-2025, the report on the
+implementation of the 2020-2025 LGBTIQ equality strategy, and the report on the
+implementation of the national Roma strategic frameworks.
+
+The Secretariat of the task force provided further guidance to Commission departments on
+equality mainstreaming in EU policies, monitored and reviewed equality mainstreaming
+work plans of Commission services, and organised awareness-raising sessions and
+trainings.
+
+Strengthening the Commission’s Better Regulation policy
+
+In 2024, the Commission’s better regulation policy focused on the commitment to
+simplification and burden reduction, including reporting requirements.
+
+The ‘one in, one out’ approach has resulted in substantial positive outcomes, bringing in
+EUR 6,3 billion net administrative cost savings in 2023 for businesses and citizens. The
+approach also had positive results in 2024, with EUR 260 million expected net cost
+savings resulting from Commission proposals. Under the steer of the Secretariat-General,
+the Commission departments continued to work towards the goal of reducing reporting
+burdens by 25%, without undermining related policy objectives. In addition to the 41
+simplification measures presented in the 2024 Commission work programme, notable
+simplification initiatives adopted in 2024 include the farmers simplification package,
+estimated to reduce administrative burden by EUR 165 million, in particular for smaller
+farms, the simplification to the drinking water directive, which is estimated to save about
+EUR 530 million, or the setting up of the multilingual public interface for the declaration of
+posted workers, with savings of about EUR 259 million. From its launch in March 2023, the
+reduction of reporting burdens resulted in net savings of around EUR 5 billion.
+
+
+
+
+sg_aar_2024                                                                     Page 18 of 42
+Building on the progress made in 2024, burden reduction is now a shared agenda of the
+whole College. Each Member of the College will stress-test the EU acquis to make
+proposals to simplify EU legislation and contribute to reducing administrative
+burdens by at least 25% and 35% for SMEs. The Commission will also organise
+regular implementation dialogues with stakeholders and reality checks with practitioners.
+
+In 2024, the Fit for Future Platform, a high-level group supporting the Commission’s
+regulatory simplification work, concluded its current mandate. Over the course of its four-
+year mandate, the Platform adopted 41 opinions, containing 260 specific suggestions to
+help the Commission simplify and modernise EU laws and reduce unnecessary burdens for
+citizens and businesses. The Commission’s simplification efforts were brought together
+under the Regulatory Fitness programme, part of the better regulation policy, which
+aims to make EU laws simpler, more targeted, and easier to comply with.
+
+Embedding strategic foresight in the strategic planning and policy-making
+process
+
+Thanks to the work of the Secretariat-General and the Joint Research Centre, strategic
+foresight is now recognised as an integral part of the Commission’s policy-making process
+and toolbox. That has been achieved through the stronger coordination of foresight
+activities across the Commission, the provision of support to Member State capacities, as
+well as dedicated and regular foresight reports, e.g., the Annual Strategic Foresight Reports
+and horizon scanning.
+
+The Secretariat-General contributed to the drafting of the ‘Global Trends to 2040:
+Choosing Europe's Future’ report published under the umbrella of the European Strategy
+and Policy Analysis System in the spring of 2024. This report reflects on the future of the
+EU, its role in the world, and its ability to adapt to meet fresh challenges and harness new
+opportunities.
+
+Promoting transparency and stakeholder involvement
+
+In 2024, the Secretariat-General contributed to improving the Transparency Register, a
+key tool to promote ethical and transparent interest representation at EU level. This
+included the implementation of the Register’s annual priorities for the year, which in 2024
+have included targeted data quality checks of the register’s content, modernising the
+register’s digital platform and website, and increased synergies with other EU actors that
+expressed an interest in being involved in the Transparency Register. The Secretariat-
+General coordinated the adoption of new Commission decisions extending the requirements
+of the Transparency Register to meetings held between interest representatives and
+Commissioners or Commission managers and establishing a new obligation to publish
+minutes of all meetings with interest representatives.
+
+The Have Your Say Portal has become the central hub for citizen engagement, federating
+Public Consultations and Feedback, European Citizens’ Initiatives, and the Citizen's
+Engagement Platform for various forms of contributions to policy and law-making. The
+
+
+
+sg_aar_2024                                                                    Page 19 of 42
+Secretariat-General enhanced accessibility, integrated services via the Open Data Portal to
+connect with Member States, and forged collaborations with academic networks to engage
+younger generations.
+
+The EU Law Tracker was launched in April 2024 and allows EU citizens to monitor the full
+EU legislative process. The Secretariat-General feeds the portal with information on the
+Commission’s decision-making process.
+
+Giving citizens a say in policymaking: the European Citizens’ initiative
+
+In 2024, the Commission registered 11 new European citizens’ initiatives that called
+for EU action in areas such as the protection of European agriculture, food security, and
+water resilience, the provision of EU financial support for safe abortion, or protection of
+consumer rights in relation to videogames.
+
+The Commission continued its campaign to inform citizens of their right to use the
+European citizens’ initiative through online and offline activities, with the support of a
+network of partners from all Member States. The ImagineEU video competition for
+secondary schools received more than 400 entries from schools across the EU; the three
+winning teams (from France, Italy, and Romania) visited the EU institutions to learn more
+about how the EU works. Through the European citizens’ forum, the Commission also
+ensured continued support and guidance to organisers of initiatives.
+
+Promoting the highest ethical standards
+
+In the run-up to the European elections of 6-9 June 2024, the Secretariat-General
+strengthened the internal guidelines ensuring that the participation of Members of the
+Commission in European election campaigns is conducted in a transparent and ethical
+manner. The Secretariat-General also monitored their correct implementation.
+
+The Secretariat-General continued to promote the highest standards of ethics and integrity
+among staff and Members of the Commission, in cooperation with DG Human Resources
+and Security and the Cabinets. This included information for Members of the Commission
+who left the Commission about their post-mandate obligations and information on the
+ethical obligations of new Members of the Commission. The Secretariat-General also
+provided secretarial support to the Commission’s Independent Ethical Committee. The
+Annual Report on the application of the Code of Conduct for the Members of the European
+Commission provides more information on the matter.
+
+The European Parliament, the Council, the Commission, the Court of Justice, the European
+Central Bank, the Court of Auditors, the Economic and Social Committee and the Committee
+of the Regions concluded, in May 2024, an agreement establishing an interinstitutional
+body for ethical standards for members of European institutions and advisory bodies.
+The Secretariat-General was instrumental in the political and technical meetings that led to
+the agreement.
+
+
+
+
+sg_aar_2024                                                                   Page 20 of 42
+General objective 7 – A modern, high-performing and sustainable
+European Commission
+Leading the Commission’s strategic planning and programming
+
+In 2024, the Secretariat-General and DG Budget reviewed the strategic planning and
+programming framework for 2025-2029 to better focus on performance and
+streamline the reporting process for the next five years, while also reflecting the new
+political priorities. The new architecture will be composed of a single multiannual strategic
+plan developed for the entire Commission and annual management plans for each
+Commission department.
+
+The Secretariat-General co-led the preparation of the 2023 Annual Activity Reports,
+which constituted the basis for the Commission's 2023 Annual Management and
+Performance Report, jointly prepared by the Secretariat-General and DG Budget.
+
+The two services also organised the Commission-wide peer reviews on the 2024 critical
+risk assessment exercise and on the 2023 Annual Activity Reports, to ensure coherence and
+to exchange best practices among departments.
+
+Preparing the Commission work programme and coordinating the policy making
+process
+
+The Secretariat-General launched the preparation of the 2025 work programme, which
+sets out the actions deriving from the new Political Guidelines of the President for 2024-
+2029. The Commission work programme was adopted on 11 February 2025, two months
+after the new College took office.
+
+The work programme identifies the key new initiatives of the Commission for 2025, with an
+emphasis on initiatives reflected in President von der Leyen’s Political Guidelines, as well as
+initiatives aiming to reduce administrative burden. It also includes an annual plan on
+evaluation and fitness checks, a list of priority pending proposals that should get prior
+attention in the legislative process, a list of pending proposals the Commission intends to
+withdraw and a list of acts the Commission intends to repeal. The Secretariat-General also
+coordinated the successful delivery of the 2024 Commission work programme.
+
+Managing the Commission’s relations with the other institutions
+
+The Secretariat-General continued to steer the Commission’s relations with other EU
+institutions and bodies − in particular, the European Parliament, the Council of the European
+Union, the consultative committees, and the European Ombudsman – as well as with
+national Parliaments.
+
+
+
+
+sg_aar_2024                                                                      Page 21 of 42
+                                  The Secretariat-General coordinated the developments in
+                                  the legislative process for all pending legislative
+                                  proposals in the Interinstitutional Relations Group,
+                                  notably in the busy legislative period in the run-up to the
+                                  European elections. It ensured that the positions of the
+                                  European Parliament and the Council were given the
+                                  necessary political attention. This approach smoothed
+                                  the legislative process and secured the adoption of
+                                  pending proposals.
+
+                                   The Secretariat-General has been fully engaged in all
+                                   aspects of the European Parliament’s work, notably
+                                   plenary sessions, parliamentary committee meetings,
+                                   including structured dialogues and meetings of the
+                                   governing bodies. It also coordinated the Commission’s
+                                   follow-up to Parliament’s resolutions, written and oral
+questions and the provision of information regarding citizens’ petitions.
+
+In 2024, the work was marked by the elections to the European Parliament. The
+Secretariat-General provided extensive support in the transition from the 9th to the 10th
+legislature and in the process of setting up the new Commission. This included the
+preparation of the new draft political guidelines, and the process leading to the
+confirmation of the Commissioners-designate.
+
+In relation to the Council, the Secretariat-General represented the Commission in Coreper I,
+Coreper II, and meetings of the Political and Security Committee. The Secretariat-General
+also provided support to the Commission’s (Executive) Vice-Presidents and Commissioners
+who attended meetings of the General Affairs Council and other Council formations.
+Furthermore, the Secretariat-General prepared and supported President von der Leyen’s
+participation in European Council meetings, Leaders’ meetings, and Euro summits.
+
+The Secretariat-General continued to lead on the Commission’s relations with national
+Parliaments, the European Economic and Social Committee and the European
+Committee of the Regions, where a new Protocol on Cooperation was applied starting in
+2024. It coordinated the replies to national Parliaments’ opinions in the context of the
+subsidiarity control procedure and the political dialogue and to the inquiries of the
+European Ombudsman.
+
+The Commission continued strengthening its relations with EU decentralised agencies and
+the EU Agencies’ Network. The Secretariat-General continued to lead the network of the
+Commission’s representatives on the management boards of EU decentralised
+agencies, coordinating the work to support agencies and further improving their
+governance, performance, and cooperation. Finally, the Secretariat-General was involved in
+
+
+
+
+sg_aar_2024                                                                    Page 22 of 42
+the seat selection process for the Anti-Money Laundering Authority that was set up in June
+2024.
+
+The Secretariat-General helped the Corporate Management Board oversee the follow-up of
+OLAF recommendations and organised the annual high-level review of the cooperation
+with the European Public Prosecutor’s Office. The Secretariat-General also prepared an
+amendment to the Commission-European Public Prosecutor’s Office Agreement
+establishing the modalities of cooperation between the two institutions.
+
+Providing briefings and political intelligence
+
+The Secretariat-General produced a wide range of briefings for President von der Leyen, the
+(Executive) Vice-Presidents and the Secretary-General. This included preparing President
+von der Leyen’s participation in meetings of the European Parliament and European Council,
+summits with third countries, and in other high-level meetings and events, in Europe and
+internationally.
+
+Overseeing the Commission’s respect of personal data protection rules
+
+In 2024, the Data Protection Office of the Commission continued to closely monitor how
+the institution complied with the legal guarantees for protecting the personal data of both
+citizens and its own staff.
+
+The Data Protection Office supported Commission departments in their work to keep
+processing records up to date, assess risks through data protection impact assessments,
+address data subject requests, and manage personal data breaches. In particular, the office
+launched a cross-cutting investigation into breaches relating to document access rights
+in collaborative tools. This led to corrective, preventive, and awareness-raising actions
+across numerous departments. A set of simplification measures was taken to reduce the
+administrative burden on departments.
+
+The monitoring exercises for 2024 confirmed the ongoing commitment of Commission
+departments to achieving and demonstrating compliance with data protection rules and the
+overall maturity of the systems in place.
+
+Business continuity
+
+The Commission enhanced its resilience in the context of a worsening security situation and
+increased threats. For this purpose, the Secretariat-General strengthened the preparedness
+of the Crisis Corporate Management Board by running an exercise for its members, by
+introducing new supporting protocols and by testing the technical infrastructure. The
+Secretariat-General also carried out several corporate business continuity exercises
+involving all Commission departments. Furthermore, the Secretariat-General supported
+Commission departments in adjusting the business continuity framework at local level.
+
+
+
+
+sg_aar_2024                                                                  Page 23 of 42
+Corporate governance
+
+The Corporate Management Board held 12 meetings in 2024, where it provided
+coordination, oversight, and strategic guidance on corporate management items relating to
+human resources policy, risk management, audit, budget and financial management,
+security, anti-fraud, information technology, as well as logistics. Following concerns over
+the Commission’s financing of specific activities of non-governmental
+organisations, the Board instructed the relevant departments to issue guidance on
+funding for activities related to the development, implementation, monitoring and
+enforcement of Union legislation and policy. The Board also asked to ensure swift
+alignment of all ongoing contracts and strict adherence of future contracts with such
+guidance.
+
+                                                      The Information Technology and
+                                                      Cybersecurity Board monitored the
+                                                      implementation of the Commission’s
+                                                      digital strategy based on the set of
+                                                      defined indicators. The Board also
+                                                      approved actions to promote the use
+                                                      of cloud services and provided
+                                                      guidance for major corporate digital
+                                                      transformation projects in the
+                                                      domains of finance, human resources
+and risks and fraud management. The board continued to monitor the entire range of cyber
+threats affecting the Commission and the maturity in the implementation of its IT security
+policies. It also implemented the actions imposed by the regulation, laying down measures
+for a high common level of cybersecurity at the institutions, bodies, offices, and agencies of
+the Union.
+
+The Information Management Steering Board monitored the implementation of the AI@EC
+Communication, which aims to take advantage of the opportunities of using artificial
+intelligence in the Commission’s work while safeguarding against the associated risks and
+preparing compliance with the Artificial Intelligence Act.
+
+Managing the decision-making procedures
+
+The Commission adopted a total of 9486 acts in 2024. It continued to apply procedural
+flexibilities to allow for the swift adoption of 383 initiatives related to Russia’s war of
+aggression against Ukraine.
+
+The new Rules of Procedure of the Commission were adopted in December, ensuring a
+modern, efficient, and fully digital decision-making process and paving the way for the e-
+authentication of acts.
+
+The scope of Decide, the Commission's corporate decision-making tool, was extended to
+cover all types of interinstitutional requests, including replies to the European Parliament’s
+resolutions and opinions of the consultative committees. The extension of Decide to the
+
+sg_aar_2024                                                                     Page 24 of 42
+interinstitutional steps of the legislative lifecycle of proposals was made available to all
+services in January 2024. EdiT, the new legislative drafting tool, was delivered at the end
+of 2024 to allow for the preparation of new legislative proposals as of January 2025.
+
+
+
+      Types of acts
+     adopted by the
+     Commission in
+              2024
+
+
+
+              Source:
+              Decide
+
+
+
+
+sg_aar_2024                                                                   Page 25 of 42
+2.   INTERNAL CONTROL AND FINANCIAL MANAGEMENT
+     Management monitors the functioning of the internal control systems on a continuous
+     basis and carries out an objective assessment of their efficiency and effectiveness. A list
+     and details of the reports that have been considered is contained in Annex 7. The results of
+     this assessment are explicitly documented and reported to the Secretary-General.
+
+
+     2.1.        Control results
+     The Secretariat-General uses the five main internal control objectives and their associated
+     indicators:
+
+        -      Residual error rate: below 2%;
+        -      Cost-effectiveness: error rates, time-to-pay and time-to-contract and costs of
+               controls leading to a positive conclusion on cost-effectiveness;
+        -      Anti-fraud strategy: the 2023 rolling action plan is implemented, except one action
+               to be implemented in 2025/2026 (A review on how the ‘certified correct’ is delivered
+               for contracts for which outputs and deliverables form part of the contractual
+               obligations linked to the payments is scheduled for 2025-2026)
+        -      Safeguarding of assets: all pre-financings are correctly recorded;
+        -      Reliability of reporting: no material error and no reservations.
+
+
+                                                                   Revenues
+                                                   Procurement
+                                                                    including          Total of expenses
+                                                       and
+            Overview table of the           Grant                   revenues             and coverage
+                                                  administrative
+             Secretariat-General                                 transferred to           percentage
+                                                   expenditure
+                                                                   other DGs
+
+                                         m EUR m EUR                m EUR             m EUR          %
+             Procurement, administrative     2.8              8.3           5.5 (9)           11.1       100%
+            expenses and grant without a
+                        call for proposal
+
+
+     The assurance-building process relies on positive conclusions for each of the sections under
+     the main section “control results”. In addition to the indicators for the five control objectives
+     listed above, the risk at payment has to remain below 2%, the Secretariat-General should
+     not be subject to fraud, and assets and information should be adequately protected.
+     Payments are processed in a timely manner, the costs of the controls are within a 10%-
+     15% range, there are no very significant or critical open recommendations from auditors
+     not adequately addressed and all control principles are present and functioning.
+
+
+
+
+     (9 )   Amount cashed in 2024.
+
+
+
+     sg_aar_2024                                                                              Page 26 of 42
+The Secretariat-General has a single control system for all kinds of expenditures:
+administrative, grants, procurement. Indeed, on top of the administrative budget, the
+Secretariat-General has annually a single grant without a call for proposals and every three
+years an open procurement procedure. These procedures are therefore included in the same
+control system that applies to administrative expenditures. No risks were identified that
+would impact negatively on the achievement of the control objectives.
+
+Finally, according to the 2024 Financial Regulation, the Secretariat-General has also
+assessed the new reporting requirement as follows:
+
+    ➢       No cases of "confirmation of instructions" (FR art 92.3);
+    ➢       No cases of financing not linked to costs (FR art 125.3);
+    ➢       No Financial Framework Partnerships >4 years (FR art 131.4);
+    ➢       No cases of flat rates >7% for indirect costs (FR art 184.6);
+    ➢       No derogations from the principle of non-retroactivity pursuant to Article 196 of the
+            Financial Regulation.
+
+No risks were identified that would impact negatively on the achievements of control
+objectives.
+
+
+2.1.1. Overview of the budget and relevant control systems (RCS)
+
+                                          Minus new           Plus cleared         Relevant
+                       Payments made     prefinancing        prefinancing        expenditure
+        DG SG                                                                                     Detected error
+                        (2024;MEUR)    [plus retentions   [minus retentions   (for 2024;MEUR)   rate or equivalent
+                                            made]            released and
+                                                                                                    estimates
+                                       (in 2024;MEUR)        deductions of
+                                                              expenditure
+                                                             made by MS]
+                                                           (in 2024;MEUR)
+
+ Procurement, grant
+ and administrative
+                               11,20              -2,60               2,41              11,01    0,00% - 0,50%
+ expenditures under
+ direct management
+
+ DG total                      11,20              -2,60               2,41              11,01
+
+The Secretariat-General budget is all under direct management: procurement, grant and
+administrative expenditures. In 2024, the total payments made amounted to EUR 11.2
+million. The Secretariat-General has a single control system for all kinds of expenditures:
+administrative, grants, procurement. The Secretariat-General concludes a single grant
+without a call for proposals and an open procurement procedure every three years. For
+those reasons, the grant is included in the control system that applies to administrative
+expenditures.
+
+The Secretariat-General's materiality criteria are outlined in Annex 5. The main risks
+together with the control processes to mitigate them and the indicators used to measure
+the performance of the relevant control systems are detailed in Annex 6.
+
+
+
+sg_aar_2024                                                                                     Page 27 of 42
+2.1.2. Effectiveness of controls
+
+  a) Assessment of control results per RCS for expenditure
+
+
+                 Management     Payments     New Pre-      Cleared       Relevant       Average or
+                    Mode          Made      financings       Pre-      Expenditure        detected
+                     (1)          (in €)       (in €)    financings        (in €)        Error rate
+        SG
+                                    (2)          (3)        (in €)      (2) - (3) +    (range in %)
+                                                              (4)       (4) + (5) -          (8)
+                                                                         (6) = (7)
+
+ALL BUDGETS: Operational and Administrative expenditure (including EC, EDF, EUTF        Low    High
+and RRF not in NGEU Fund source) * and performance based excluded
+
+Procurement,
+grant and
+administrative                  11.195.18   2.595.220,   2.407.153,2   11.007.116,9     0.00   0.50
+                     Direct
+expenditures                     4,58 €        89 €          9€            8€            %      %
+under direct
+management
+
+
+
+
+The Secretariat-General's portfolio consists of expenditures with a relatively low error rate.
+
+    •    For the grant to the European University Institute: 0.5%.
+
+The bulk of the grant's expenses are for personnel who belong to a dedicated
+administrative entity and whose costs are standardised. Furthermore, the ex-post control
+carried out at the end of 2021 confirmed the results of previous audit work carried out by
+an external consultant. These verifications showed that adequate control procedures are in
+place, such as: (i) the correct identification of the staff working on the activities financed by
+the grant; (ii) the prevention of double payments; (iii) the presence of supporting documents
+and related invoices for payments made; (iv) the beneficiary's reliable accounts; (v) very
+
+
+sg_aar_2024                                                                           Page 28 of 42
+minor claims for non-eligible payments.
+
+   •   For procurement and other administrative expenses: 0.5%.
+
+Controls aim to systematically detect and prevent breaches of legality and regularity. The
+first measure of the error rate is therefore the one resulting from the analysis of the
+recording of exceptions: control overrides and non-compliant events. The analysis of these
+exceptions (zero for 2024) shows that 0.5% maximum error rate is the average estimate.
+Given the nature of the transactions and the absence of errors, the Secretariat-General
+does not process recoveries and financial corrections to correct errors. There were no
+recoveries or financial corrections to correct errors in 2024.
+
+   •   Overall risk at payment: 0.5%.
+
+The estimated overall risk at payment for 2024 expenditure amounts to 0.5 % of the total
+payments or EUR 0.05 million. This is the Authorising Officer by Delegation’s best
+conservative estimate of the amount of expenditure in conformity with the contractual or
+regulatory provisions applicable at the time the payment was made. The estimated future
+corrections for 2024 expenditure amount to EUR 0.
+
+Based on control results and all other relevant information available, the Authorising
+Officer by Delegation can conclude that no reservation should be made for each kind of
+expenditure, and subject to the same control system.
+
+
+  b) Estimation of the overall risk at payment and risk at closure
+
+
+
+
+sg_aar_2024                                                                  Page 29 of 42
+The Secretariat-General's portfolio consists of expenditures with a relatively low error rate,
+i.e. administrative expenses, a grant without a call for proposals. Moreover, no ex post
+controls were organised because of the very low risk types of expenditures. As the
+Secretariat-General carries out only ex ante controls, consequently, for the risk at payment
+and risk at closure department, Secretariat-General is using the Commissions’ flat rate of
+0.5% as a conservative estimate for low-risk types of expenditure.
+
+
+  c) Quantitative benefits of controls: Preventive and corrective measures
+
+With its ex-ante controls, the Secretariat-General has an effective mechanism in place for
+detecting and correcting errors, reaching in total EUR 0 million of corrections for 2024.
+Please see details in Annex 3 table 8. This is a decrease from last year with a correction of
+EUR 0.02 million. The decrease, compared to 2023, is mostly explained by constant
+attention to ex ante controls.
+
+
+  d) Assessment of control results for non-expenditure items
+
+Not applicable
+
+
+  e) Fraud: prevention, detection, and correction
+
+The Secretariat-General has developed and implemented its own anti-fraud strategy since
+2014 on the basis of a methodology provided by OLAF. It is updated every three years, last
+time in 2023, and an additional fraud risk assessment was carried out the same year.
+
+The implementation of the rolling action plan that forms part of the anti-fraud strategy is
+being monitored and reported to the management annually. All necessary actions have
+been implemented, with the exception of the review on the existing control procedures
+applied to give the certified correct for service contracts with deliverables. The ‘certified
+correct’ is the check mark provided to certify that the services have been properly provided,
+the supplies properly delivered, or that the work has been properly carried out and in
+accordance with the contract (10). The programmed assessment of how the ‘certified
+correct’ is delivered for contracts for which outputs and deliverables form part of the
+contractual obligations linked to the payments is scheduled for 2026.
+
+The Secretariat-General also contributed to the Commission anti-fraud strategy and does
+not have any financial recommendations to implement. The results achieved during the
+year thanks to the anti-fraud measures in place can be summarised as follows: all
+newcomers were offered training in ethics and anti-fraud measures and the local anti-
+fraud strategy reflected the actions taken at corporate level. Newcomers represent the
+most important target population and sessions have been organised remotely, but also in
+situ. In addition, a very detailed intranet page, updated regularly, guides all staff through
+
+(10) Financial Regulation, Article 111.4.
+
+
+
+sg_aar_2024                                                                     Page 30 of 42
+the complexities of the anti-fraud activities, including links to OLAF. Similar links are
+provided to DG HR’s pages on ethics.
+
+On the basis of the available information, the Secretariat-General has reasonable
+assurance that the anti-fraud measures in place are effective.
+
+
+  f) Safeguarding of assets and information
+
+The Secretariat-General plays a key role in managing sensitive and classified information,
+both in relation to its own activities and in its corporate role. The core principles in this
+respect are confidentiality on a ‘need to know’ basis, integrity, and availability. The
+Secretariat-General also protects access to assets and information by managing access to
+the offices of the Secretary-General and her staff, the President, Executive Vice-Presidents
+and Commissioners, as well as their Cabinets, and Directorates-General/Services that do
+not have a local EUCI registry. The Secretariat-General takes the necessary measures to
+protect the security of its IT systems and services − including the information and
+knowledge held on them. To safeguard classified information, the Secretariat-General
+operates the Commission’s Central EU Classified Information Registry. Newcomers are
+informed about the main principles, rights, and obligations under the Staff Regulation, with
+a particular focus on the obligation of discretion and the importance of avoiding any leaks
+of information or documents. The Secretary-General has emphasised the importance of
+strengthening the security culture in the Secretariat-General and the Local Security Officer
+is helping to raise staff awareness of security-related topics.
+
+
+2.1.3. Efficiency of controls (11)
+
+
+
+
+(11) Green indicates >95% of target; yellow 85-90% of target; grey, not material for SG.
+
+
+
+sg_aar_2024                                                                                Page 31 of 42
+                                                                                      SG      EC
+      Indicator                 Objective                         Comment
+                                                                                     Score   Score
+  1. Commitment     Ensure efficient use of
+  Appropriations    commitment appropriations
+                                                                                     100%     99%
+  Implementation    expiring at the end of Financial
+                    Year
+  2. Commitment     Ensure the cumulative alignment
+  Forecast          of the commitment
+  Implementation    implementation with the                                          96%      99%
+                    commitment forecast in a financial
+                    year
+  3. Payment        Ensure efficient use of payment
+  Appropriations    appropriations expiring at the end                               100%     99%
+  Implementation    of Financial Year
+  4. Payment        Ensure the cumulative alignment
+  Forecast          of the payment implementation
+                                                                                     87%      99%
+  Implementation    with the payment forecast in a
+                    financial year
+  5. Global         Ensure efficient use of already      The indicator is not
+  Commitment        earmarked commitment                 applicable for SG in 2024
+  Absorption (12)   appropriations (at L1 level)         due to the lack of            -      97%
+                                                         underlying transactions
+                                                         recorded by SG in 2024.
+  6. Timely         Ensure efficient processing of
+  Payments          payments within the legal                                        100%     99%
+                    deadlines
+  7. Timely         Ensure efficient decommitment of     The indicator is not
+  Decommitments     outstanding RAL at the end of        applicable for SG in 2024
+                    commitment life cycle                due to the lack of            -      98%
+                                                         underlying transactions
+                                                         recorded by SG in 2024.
+  8. Invoice        Monitor the accounting risk
+  Registration      stemming from late registration of
+                                                                                     97%      96%
+  Time              invoices in the central accounting
+                    system ABAC
+
+In 2024, the average time to pay with suspension - PMO’s payments excluded - was
+8 days (13) (and 9 days in 2023). The financial scorecard shows that 100% of payments
+were made on time (see Annex 4), which demonstrates the close monitoring of payment
+deadlines. Monthly reports were provided to the operational units to monitor uncommitted
+and unpaid appropriations. The controls are deemed to be efficient.
+
+
+
+
+(13) See Annex 3.
+
+
+
+sg_aar_2024                                                                            Page 32 of 42
+2.1.4. Economy of controls
+
+Being a low-spending Directorate-General, the Secretariat-General has a single indicator for
+the costs of controls per control system. The costs of controls amount to EUR 1.5 million
+and are based on staff work activities, as recorded by the screening exercise and with the
+Activities & Tasks Logging for Allocation of Staff nomenclature. These include financial
+management, programme management, budget and accounting, management, general
+coordination and information and communication technology (see Annex 7).
+
+These costs amount to 13.06 % of the total payments (11.3% in 2023). This figure can be
+explained by the scope and diversity of activities linked to the cost of controls, the number
+of operational units involved, and the number of the financial transactions at the
+Secretariat-General.
+
+2.1.5. Conclusion on the cost-effectiveness of controls
+
+Management uses control results to support its assurance and reach a conclusion about the
+cost-effectiveness of those controls, meaning whether the right balance between the
+following elements is achieved:
+
+•   Effectiveness The level of error found, based on the controls carried out: 0.5 % of the
+    total payments
+•   Efficiency The average time taken to pay: 8 days
+•   Economy The proportionality between the costs of controls and the funds managed:
+    13.06 %
+
+Based on the most relevant key indicators and control results, the Secretariat-General has
+assessed the effectiveness, efficiency, and economy of its control system and reached a
+positive conclusion on the cost-effectiveness of the controls for which it is responsible.
+
+
+2.2.    Audit observations and recommendations
+This section sets out briefly the state of play for all audit observations and
+recommendations reported by auditors related to internal control and financial
+management – including the limited conclusion of the Internal Auditor on the state of
+internal control. Further details for IAS and ECA audits can be found in Annex 8. Where an
+audit has detected weaknesses affecting any internal control principle or the department’s
+assurance, a detailed analysis is provided further below in section 2.3 and 2.4, accordingly.
+
+Internal Audit Service
+
+The Internal Audit Service’s limited conclusion on the state of the Secretariat-General’s
+internal control is based on the audit works carried out in 2020-2024. The Secretariat-
+General accepted all the recommendations issued by the IAS and adopted action plans to
+implement them. The IAS considers that the action plans adopted are adequate to address
+
+
+sg_aar_2024                                                                    Page 33 of 42
+the residual risks identified by the auditors. The implementation of these action plans is
+monitored through management reports and follow-up audits by the IAS.
+
+Based on all these elements, the IAS concludes that the internal control systems in place
+for the audited processes are effective, except for the observations giving rise to the 'very
+important' recommendations listed below. The Secretariat-General has planned various
+actions to address all recommendations of the IAS.
+
+The IAS issued two very important recommendations from the audit on the assessment of
+HR needs in the Commission at corporate level. The recommendation on the support to the
+assessment of HR needs by the corporate services at local level is due in September 2025,
+and on the quality checks of the Commission’s HR needs by the corporate services in 2026.
+Implementation has already started, in particular with the introduction of a revised
+Legislative Financial and Digital Statement to accompany each new legislative proposal,
+which was adopted in 2024. Details on the implementation of the agreed actions are
+included in Annex 8.
+
+Regarding the protection of sensitive non-classified information at corporate level, the IAS
+recommended to DG DIGIT, DG HR, and the Secretariat-General to contribute jointly to
+improve the protection of sensitive non-classified information in transit or at rest by (a)
+providing Commission users with common guidance and training where applicable and (b)
+improving the practical application of the current technologies and increase process
+efficiency. The Hermes-Ares-NomCom platform now offers a solution for users to
+seamlessly upload and manage sensitive non-classified documents that bear the sensitive
+non-classified label and encryption from Microsoft 365. This improvement is explained in
+F.A.Q. format on the intranet and in other guidelines and manuals of the platform. The
+Secretariat-General has also recalled the responsibilities of document management officers
+for guiding users on the proper application of security markings in the platform. Details on
+the implementation of the agreed actions are included in Annex 8.
+
+                                                                                                                 Impact on the
+                                                                                                   State of
+    Reported                     Audit Title                Accepted Recommendation                              assurance for
+                                                                                                 play in 2024
+                                                                                                                     2024
+                                                        Very important: Support from the
+                                                        central services for the assessment                          ✅
+                     Assessment of HR needs in          of HR needs at local level
+2024                 the Commission at corporate        Very important: Quality checks of
+                     level                              the Commission’s HR needs by the
+                                                                                                                     ✅
+                                                        central services stemming from the
+                                                        audit on assessment of HR needs
+                     Protection of confidentiality of   Very important: IT controls to ensure
+2023                 information at corporate level     protection of sensitive non classified                       ✅
+                     (HR, SG, DIGIT)                    information
+
+✅      Action plan implemented and closed by IAS or ECA / No impact on the assurance
+
+       Action plan implementation is ongoing or awaiting review from IAS or ECA
+
+       Preparation of the action plan
+
+       Impact on the assurance
+
+
+
+
+sg_aar_2024                                                                                                     Page 34 of 42
+European Court of Auditors
+
+In 2024, the Secretariat-General was involved in the coordination work with DG Budget on
+the ECA’s Annual Report on the implementation of the EU budget for the financial year
+2023. The Secretariat-General was not directly addressed by the ECA on any of these
+recommendations. The Secretariat-General was consulted on all other special ECA reports
+established in 2024.
+
+The European Court of Auditors (ECA) issued two Special Reports in 2024 where the
+Secretariat-General was in the lead:
+
+                                                                                                  Impact on the
+                                                                 Accepted         State of play
+ Reported                     Audit Title                                                         assurance for
+                                                             Recommendations        in 2024
+                                                                                                      2024
+2024        EU Transparency Register’ (14)                   Partially accepted                       ✅
+2024        Enforcing EU law/infringement procedures’ (15)   Partially accepted                       ✅
+
+‘EU Transparency Register’: The audit aimed to assess whether the transparency register
+is a useful means of providing transparency on the lobbying activities in EU policy and
+decision-making. The audit focused on the period 2019-2022. The ECA concluded that it
+provides useful information to citizens, but that weaknesses and gaps in that information
+reduce the transparency. The ECA recommended strengthening the register’s framework,
+publishing information on non-scheduled meetings with lobbyists, improving data quality
+checks, the user-friendliness and relevance of the public website.
+
+‘Enforcing EU law/infringement procedures’: The audit aimed to assess whether the
+Commission’s management ensured timely detection, follow-up, appropriate monitoring
+and reporting of infringement cases. The ECA concluded that the Commission has improved
+its management to detect and correct infringements of EU law, but that it still takes too
+long to close infringement cases. The Commission regularly monitors and reports on EU law
+enforcement, but adherence to benchmarks is neither improving nor reported. The ECA
+recommended that the Commission should improve planning and documentation of checks,
+improve handling of complaints, petitions and informal dialogues; reinforce its infringement
+case and sanctions; and strengthen its monitoring and reporting.
+
+For both special reports, the recommendations were partially accepted. The implementation
+of the recommendations is ongoing within the foreseen timeframe. See details of
+recommendations in Annex 8.
+
+
+
+
+(14) https://www.eca.europa.eu/en/publications?ref=SR-2024-05
+(15) https://www.eca.europa.eu/en/publications?ref=SR-2024-28
+
+
+
+sg_aar_2024                                                                                       Page 35 of 42
+2.3.     Assessment of the effectiveness of internal control
+         systems
+The Commission has adopted an Internal Control Framework based on the highest
+international standards (16). The Secretariat-General has adapted this Internal Control
+Framework to its specific characteristics and organisational structure. The internal control
+systems are suited to achieving the Secretariat-General’s policy and internal control
+objectives in accordance with the internal control principles, having due regard to the risks
+associated with the environment in which it operates.
+
+For 2024, the Secretariat-General assesses the effectiveness of its internal control system,
+based on its self-assessment and on the following sources: reporting on the five internal
+control objectives; reporting on the monitoring indicators; registry of non-compliance events
+and exceptions recorded in 2024; results of the corporate indicators analysed in Annex 4 of
+the annual activity report; reports by the authorising officers.
+
+The Secretariat-General also takes into account that:
+
+-   There were no open or overdue reservations in the preceding annual activity reports;
+-   all open ‘very important’ IAS recommendations are accepted and will be implemented;
+-   all recommendations of the Court of Auditors or other supervisory bodies were
+    adequately addressed.
+
+The results of the assessment were the following:
+
+-   All reports on the internal control objectives show full compliance with the
+    requirements;
+-   No deficiencies of the monitoring indicators were identified;
+-   The registry of non-compliance events and exceptions does not contain any non-
+    compliance events or exceptions; and
+-   authorising officers did not report any elements that would negatively affect the
+    declaration.
+
+The Secretariat-General has assessed its internal control system during the reporting year
+and has concluded that it is effective, and the components and principles are present and
+functioning as intended.
+
+
+2.4.     Conclusions on the assurance
+The information and the assessments are comprehensive and cover the complete budget
+delegated to the Secretariat-General.
+
+(16) The Committee of Sponsoring Organizations of the Treadway Commission Internal Control Integrated
+     Framework, the golden standard for internal control systems.
+
+
+
+sg_aar_2024                                                                           Page 36 of 42
+In this report, the five internal control objectives of 1) having a true and fair view on
+financial management, 2) of the non-omission of significant information, 3) of resources
+used for their intended purpose, 4) of a sound financial management, and finally, 5) on
+legality and regularity of financial management, were positively assessed for the complete
+budget delegated to the Secretariat-General. Moreover, in 2024, the risk at payment
+remained well below 2%; the Secretariat-General was not subject to fraud. Assets and
+information were adequately protected. Payments were well processed on time and the
+costs of the controls remained within a 10%-15% range. Finally, all significant or critical
+open recommendations from auditors were adequately addressed to be soon implemented.
+Therefore, no risks were identified that would impact negatively the achievements of the
+control objectives. This positive conclusion supports the declaration of the Secretary-
+General.
+
+In conclusion, based on the elements reported above, management has reasonable
+assurance that, overall, suitable controls are in place and working as intended; risks are
+appropriately monitored and mitigated, and necessary improvements and reinforcements
+are being implemented.
+
+The Secretary-General, in her capacity as Authorising Officer by Delegation, has signed the
+Declaration of Assurance.
+
+
+
+
+sg_aar_2024                                                                  Page 37 of 42
+2.5.      Declaration of Assurance
+Declaration of Assurance:
+
+I, the undersigned,
+
+Secretary-General,
+
+In my capacity as authorising officer,
+
+Declare that the information contained in this report gives a true and fair view (17).
+
+State that I have reasonable assurance that the resources assigned to the activities
+described in this report have been used for their intended purpose and in accordance with
+the principles of sound financial management, and that the control procedures put in place
+give the necessary guarantees concerning the legality and regularity of the underlying
+transactions.
+
+This reasonable assurance is based on my own judgement and on the information at my
+disposal, such as the results of the self-assessment, ex-post controls, the work of the
+Internal Audit Service and the lessons learnt from the reports of the Court of Auditors for
+years prior to the year of this declaration.
+
+Confirm that I am not aware of anything not reported here which could harm the interests
+of the Commission.
+
+Brussels,
+
+
+
+4 June 2025
+
+[electronically signed]
+
+
+
+Ilze JUHANSONE
+
+
+
+
+(17) ‘True and fair’ in this context means a reliable, complete and correct view on the state of affairs in the
+     DG/Executive Agency.
+
+
+
+sg_aar_2024                                                                                    Page 38 of 42
+3.       MODERNISING THE ADMINISTRATION
+
+3.1.     Human resource management
+2024 was another year of heavy workload for staff in the Secretariat-General. The
+response to Russia’s war of aggression against Ukraine, the conflict in the Middle East and
+energy crisis, the European elections and the arrival of a new College of Commissioners all
+brought additional tasks. Secretariat-General staff deployed sustained efforts and proved
+their resilience and dedication by successfully delivering on all fronts, under tight time
+constraints.
+
+This is also demonstrated by the results of the 2023 staff survey, which showed that staff
+engagement in the Secretariat-General remained high at 73%. For the areas where staff
+felt that improvement is necessary, follow-up actions are currently being implemented.
+Internal communication actions, such as weekly debriefs to all staff from management
+meetings and the weekly newsletter, also contributed to strengthening staff engagement.
+
+It also significantly invested in promoting gender parity in its management team and, as a
+result, half of both middle and senior managers at the end of 2024 were women. New
+colleagues in the Secretariat-General received training and guidance to help them integrate
+smoothly in their new team. The EU Policymaking Hub, managed by the Secretariat-General,
+launched learning packages for Commission staff who are involved in policy-making.
+
+
+3.2.     Digital transformation and information management
+Digital Transformation
+
+     ➢ Digital culture
+
+The Secretariat-General continued to tailor its comprehensive digital skills training and
+coaching programme by providing information sessions for practitioners, ad hoc training
+sessions, and digital information in the format of newsletters, guides, and intranet pages.
+
+     ➢ Business-driven digital transformation
+
+The Secretariat-General managed digital solutions designed to support key processes and
+policies in the Commission, including decision-making, legislative drafting, transparency,
+business continuity, crisis management, records management, implementation and
+enforcement of EU law, data protection, mediation. In addition to its process efficiency and
+simplification initiative, the Secretariat-General has launched an AI action plan aimed at
+awareness raising, as well as leveraging AI for policymaking and in its working methods
+and information systems.
+
+
+
+
+sg_aar_2024                                                                   Page 39 of 42
+   ➢ Seamless Digital Environment
+
+Records and archives management: The Secretariat-General designed a plan to simplify
+the corporate records management system in the next five years. It continued to promote
+the ‘digital by default’ principle by automating the capture of records from internal
+collaborative platforms including sensitive-non-classified information. The Secretariat-
+General also completed a comprehensive exercise to organise SG directorates’ archives.
+
+Monitoring EU law: Thanks to the revision of the webpage 'Report a breach of EU law by
+an EU country' and the introduction of the new complaint form in 2024, potential
+complainants are now better guided before they lodge a complaint with the Commission,
+which should result in efficiency gains for Commission services, as well as streamline
+external communication on complaints. The Secretariat-General continued to improve
+transparency (through the redesign of the Commission website on enforcement of EU law)
+and exchange of information with Member States (through the development of a new
+THEMIS module for pre-infringement investigations).
+
+Decision-making: see the ‘Managing the decision-making procedures’ section in part 1 of
+the report, p.26.
+
+   ➢ Green, resilient and secure infrastructure
+
+The Secretariat-General has launched a comprehensive assessment of the cloud-readiness
+of its information systems.
+
+IT security
+
+To counter the evolving cybersecurity threats, the Secretariat-General draws up annual
+cybersecurity plans addressing the evolving threat landscape. They combine an effective
+blend of measures designed to comply with the corporate IT security policy including the
+periodic assessment, in the IT security plans, of the level of risk and definition of
+countermeasures. Furthermore, the Secretariat-General continued to raise awareness on
+cybersecurity, physical and information security. It organised dedicated information
+sessions and enforced cybersecurity upstream in its information systems by promoting
+secure software development and scanning the systems for potential security
+vulnerabilities.
+
+Data, information and knowledge management
+
+The Secretariat-General continued to improve the local governance of its key data assets, in
+accordance with corporate policy. It has co-led actions of the Rolling Action Plan such as the
+refinement of the corporate reference data management policy and the consolidation of
+the corporate data advisory service. Regarding the local implementation of the data
+governance and data policies, the Secretariat-General raised awareness of corporate
+policies and good practices and the existing data management practices. Furthermore, the
+
+
+
+sg_aar_2024                                                                     Page 40 of 42
+Secretariat-General monitored the documentation of key data assets in the EC Data
+Catalogue and updated the list of key data assets’ owners and stewards.
+
+Data Protection
+
+The Secretariat-General raised awareness internally on data protection rules. This was
+aimed at ensuring appropriate and accountable processing of personal data, as well as
+training staff to provide appropriate responses should a personal data breach occur. The
+Secretariat-General continued to implement the Commission’s data protection action plan,
+as well as appropriate measures for IT systems to ensure respect of the principle of 'data
+protection by design and by default'.
+
+To ensure accountability for Commission-wide processing operations and to establish
+efficient and prompt handling of data subject requests or breaches of personal data, the
+Secretariat-General prepared two new internal arrangements with other Commission
+departments that will be applicable in 2025.
+
+The Secretariat-General also continued to publish transparent and up-to-date information
+for its personal data processing operations and monitored the use of appropriate data
+protection clauses in its agreements with third parties.
+
+
+3.3.    Sound environmental management
+Monitoring professional trips and reducing emissions continued to be an important
+objective. The Secretariat-General encouraged the use of more sustainable modes of
+transport for business trips and proposed more videoconference facilities. Increasing the
+proportion of expert group meetings held online or in hybrid mode also enabled the
+Secretariat-General to achieve reductions in emissions from experts’ travel.
+
+The promotion of environmentally friendly behaviour among staff was a key priority. In line
+with the main corporate campaigns, staff were regularly informed about the priorities of
+the Green Commission and encouraged to adopt environmentally friendly and energy-
+efficient ways of working and commuting. A workshop was organised with directors’
+assistants to discuss new developments in the area of sound environmental management
+and gather proposals for further improvement.
+
+Another contribution to the efforts to green the Commission was the finalisation of the
+move to the dynamic collaborative space, a more efficient office space use, as well as the
+reduction of energy consumption by replacement of corridor lights in the Secretariat-
+General with new, more energy-efficient, led lights with movement detectors. This
+contributed to a more sustainable environment and resulted in important energy savings.
+
+
+
+
+sg_aar_2024                                                                  Page 41 of 42
+      3.4.     Examples of economy and efficiency
+      The Secretariat-General strived to make its activities more efficient and use resources more
+      economically. In the human resources area, steps were taken to adjust the workforce to the
+      needs of the next College and the new political priorities of the Commission. Each time a
+      post became vacant, the Secretary-General and the Chief Operating Officer assessed the
+      possibility of reallocating it to another area or file. This allowed to effectively address
+      changes in workload and in priorities. The practice of putting colleagues at the disposal of
+      another unit in order to provide expertise for a limited period of time has also been pursued
+      in 2024.
+
+      Moreover, the Secretariat-General succeeded to integrate the Commission’s replies to the
+      resolutions of the European Parliament and the opinions of the consultative committees
+      into Decide Replies. This has significantly increased the efficiency of the process.
+
+      The arrival of the new Commission provided opportunity to further improve synergies and
+      efficiencies in logistics services at the Berlaymont building. As a result, Secretariat-General
+      ushers providing support to high-level meetings and to the President’s Cabinet were
+      integrated into OIB Services.
+
+
+
+
+Electronically signed on 04/06/2025 17:55 (UTC+02) in accordance with Article 11 of Commission
+       sg_aar_2024                                                                        PageDecision
+                                                                                               42 of 42(EU) 2021/2121
+

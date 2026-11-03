@@ -1,0 +1,25 @@
+Source: College of Europe, "General facts and figures" (press factsheet)
+URL: https://www.coleurope.eu/press/factsheet
+Retrieved from Wayback Machine capture 2026-03-11:
+http://web.archive.org/web/20260311213854/https://www.coleurope.eu/press/factsheet
+(The live page returns a Cloudflare challenge to non-browser clients.)
+
+Heading on the page: "The College in numbers (2024):"
+
+Verbatim items relevant to production:
+
+- 340 students in Bruges (Belgium)
+- 120 students in Natolin (Warsaw, Poland)
+- 32 students in Tirana (Albania)
+- 17.000+ alumni
+- 7 Masters programmes
+- 70% of our students are funded through scholarships
+- 50 to 60 nationalities represented across the three campuses
+- Average age of students: 25.3 years
+
+Observations:
+- No annual graduate count is given anywhere on the factsheet.
+- "17.000+ alumni" is a cumulative stock since 1949, printed as a floor, and
+  is not an annual flow.
+- The campus figures sum to 492, which differs from 494 (promotions table)
+  and 496 (Rector's 2020-2025 mandate report) for 2024-25.

@@ -1,0 +1,2425 @@
+EN     2024
+                                                           24
+     Special report   EU Civil service
+                      A flexible employment framework, insufficiently
+                      used to improve workforce management
+                                                                                       2
+
+
+
+Contents
+                                                                              Paragraph
+
+
+Executive summary                                                                    I-IX
+
+Introduction                                                                       01-09
+
+Audit scope and approach                                                           10-16
+
+Observations                                                                       17-97
+The EU institutions implemented flexible recruitment processes
+but still struggle to attract some profiles                                        17-69
+The EU institutions reallocate staff and increasingly focus on skills they need    19-33
+A significant increase in temporary staff recruited through alternative
+recruitment channels                                                               34-49
+The EU institutions struggle to attract selected profiles and nationalities        50-69
+The EU institutions do not fully use all the available possibilities
+to improve workforce management                                                    70-97
+Unnecessarily restrictive approach to staff performance management                 72-84
+Possibilities to improve career perspectives for some staff categories are not
+fully used                                                                         85-97
+
+Conclusions and recommendations                                                   98-103
+
+Annexes
+Annex I – The EU institutions covered by the Staff Regulations
+and the categories of staff they employ
+Annex II – Entry requirements for each EU staff category
+Annex III – The method for adjusting EU staff salaries
+Annex IV – Geographical balance of the EU institutions’
+workforce
+                            3
+
+
+Abbreviations
+
+Glossary
+
+Replies of the Parliament
+
+Replies of the Council
+
+Replies of the Commission
+
+Timeline
+
+Audit team
+                                                                                              4
+
+
+
+Executive summary
+I The EU institutions and bodies, along with the executive agencies, employ around
+51 000 staff members, under different types of contract: permanent officials,
+temporary staff and contract staff. The role of the EU civil service is to support the EU
+in achieving its objectives, and the implementation of its policies and activities. Salary
+costs represent around half the budget of the EU’s administrative expenditure.
+
+
+II The employment of the EU institutions’ staff is governed by common rules, the
+Staff Regulations of Officials and the Conditions of Employment of Other Servants.
+These rules are complemented by the implementing decisions and human resources
+policy of the institutions. This employment framework is designed with the objective
+to allow the EU institutions to attract, recruit and keep highly qualified and multilingual
+staff, drawn from the broadest possible geographical basis, who are independent and
+adhere to the highest professional standards. The Staff Regulations were drafted in
+1962 and substantially reformed in 2004. A further, more limited revision took place in
+2014.
+
+
+III The EU has been operating in an increasingly challenging environment: migration,
+Brexit, the COVID-19 pandemic, Russia’s war of aggression against Ukraine, and the
+resulting inflation and energy crisis. All this has resulted in additional tasks for the EU
+institutions, without necessarily being matched by an increase in staff numbers.
+
+
+IV The objective of this audit was to assess, within this context, whether the
+employment framework of the EU civil service provided the institutions with the
+flexibility to meet recruitment needs and improve their workforce management. Our
+conclusions and recommendations should contribute to any future potential discussion
+on the EU Staff Regulations. We covered three EU institutions: the European
+Parliament, the Council, and the European Commission. In particular, we examined
+whether the employment framework allowed the institutions to:
+
+(a) recruit the qualified and talented staff they need; and
+
+(b) get the most out of their staff.
+
+
+V We concluded that the current employment framework is flexible. It enables the
+institutions to meet most of their recruitment needs, even if they struggle to attract
+staff for certain specific profiles. However, the institutions are not making full use of
+some of the possibilities under the current Staff Regulations to improve their
+workforce management.
+                                                                                          5
+
+
+
+VI We found that the institutions addressed their recruitment needs by redeploying
+their vacant posts to the departments with increased responsibilities, reassessing their
+staffing needs with a greater focus on skills and competencies and recruiting more
+temporary staff. Nevertheless, they are still struggling to attract certain specific
+profiles and nationalities, despite offering modern and flexible working conditions. The
+reasons behind this lack of attractiveness have not been comprehensively analysed.
+Furthermore, relying on temporary staff in some policy departments may put business
+continuity at risk.
+
+
+VII We also found that the institutions did not always use the flexibilities offered by
+the Staff Regulations to improve their workforce management. The Regulations
+contain provisions on how to address the most severe cases of professional
+incompetence but these are rarely used by the institutions. They have few formal
+procedures to deal with other aspects of staff performance, whether in terms of
+addressing and rectifying poor performance before it becomes professional
+incompetence, or encouraging and rewarding exceptionally high performance.
+
+
+VIII The potential of internal competitions to provide additional career prospects to
+staff in the secretaries/clerks and assistants function groups is underused because the
+eligibility requirements are often more restrictive than the conditions set in the Staff
+Regulations. These restrictions compound the limited career opportunities for
+secretarial staff, and to a lesser extent assistants, despite significant changes both in
+the profile of staff occupying these posts, and in their job content due to greater
+digitalisation and new, post-pandemic ways of working.
+
+
+IX Based on these conclusions, we recommend that the audited institutions:
+(a) put in place a risk-based policy for the employment of temporary staff;
+
+(b) design targeted job attractiveness action plans;
+
+(c) further develop their career and performance framework.
+                                                                                                  6
+
+
+
+Introduction
+01 The EU institutions and bodies, along with executive agencies, employ around
+51 000 statutory staff members, under different types of contracts: permanent
+officials, temporary staff and contract staff (see Annex I). Another 12 500 staff
+members are employed in decentralised agencies. Decentralised agencies have their
+own specific human resources policies and governance arrangements. Among the
+institutions, the European Commission is the largest employer (with around
+30 000 staff members), followed by the European Parliament (with around 7 000 staff
+members in the Secretariat) and the Council of the European Union (with just over
+3 000). Figure 1 below shows some key figures about the EU administration.
+
+Figure 1 – EU administration – Institutions and executive agencies: key
+figures (2023)
+
+                                                                       5%
+                                                                       of the EU budget for the
+    11 institutions and bodies*                                        whole administration
+                                                                       heading
+          6 executive agencies
+                                                               €12.2 billion (2023)
+
+
+
+
+              66 % permanent officials                         51 000
+                                                               statutory staff members
+              23 % contract staff
+              11 % temporary staff
+* Covered by the Staff Regulations, see Annex I for details.
+Source: ECA, based on budget working documents.
+
+
+02 The employment of all these staff members is governed by the Staff Regulations
+(for officials) and the Conditions of employment of other servants (CEOS) for the other
+categories (any reference to the “Staff Regulations” in this report means both Staff
+Regulations and CEOS unless stated otherwise).
+
+
+03 The Staff Regulations are complemented by a series of implementing decisions
+taken by the EU institutions’ appointing authorities and by each institution’s human
+resources policy. Together, these form the employment framework of EU staff.
+                                                                                            7
+
+
+
+04 Any revisions to the Staff Regulations are initiated by the Commission. Proposals
+are then submitted to the co-legislators – the European Parliament and the Council –
+for negotiation and adoption, after consulting the other EU institutions. The Staff
+Regulations were first adopted in 1962 and were revised most recently in 2004 and
+2014. The aim of both revisions was to modernise the EU’s administration, and result
+in savings on salaries and pensions. We audited the impact of the 2014 revision of the
+Staff Regulations in a previous report (see special report 15/2019: “Implementation of
+the 2014 staff reform package at the Commission – Big savings but not without
+consequences for staff”).
+
+
+05 The current (2014) version of the Staff Regulations includes reporting obligations
+for the Commission relating in particular to the ways in which the method for adjusting
+salaries works and the budgetary implications and actuarial balance of the pension
+system for EU staff 1. The Commission concluded in recent reports2 that neither the
+method for adjusting salaries nor the rules governing the pension system needed to be
+amended, and that no revision of the Staff Regulations in relation to these aspects was
+needed.
+
+
+06 In the EU multiannual financial framework (MFF) for 2021-2027, the funding for
+the EU administration as whole – staff, buildings, pensions and the European schools –
+is almost entirely covered under Heading 7: European Public Administration.
+Administrative costs relating to decentralised and executive agencies are financed
+under the MFF headings corresponding to their policy areas, but pension expenditure
+for agency staff is included under Heading 7.
+
+
+07 As part of the negotiations on the 2021-2027 MFF, the European Council stressed
+the need to “constantly improve [the] efficiency and effectiveness of the European
+Public Administration” and stated that “all EU institutions should adopt a
+comprehensive and targeted approach for considering the number of staff and are
+invited to reduce administrative expenditure where possible”. The cost of
+administration as a share of total EU spending has fallen since 2019 (see Figure 2).
+
+
+
+
+1
+    Staff Regulations, Article 15 of Annex XI and Article 14 of Annex XII.
+2
+    Report on the application of Annex XI to the Staff Regulations and Article 66a thereof,
+    COM(2022) 180 final, 26.4.2022; Report on the actuarial balance of the Pension Scheme for
+    EU Officials (PSEO), COM(2023) 188 final, 14.4.2023.
+                                                                                                 8
+
+
+Figure 2 – Administration’s share of EU spending has fallen since 2019
+ 8 %      6.3 %
+ 6 %
+                                                       4.0 %
+ 4 %
+                                                                European public administration
+ 2 %                                                            share of total EU spending
+
+ 0 %
+           2018    2019     2020      2021      2022     2023
+
+                                      Total EU spending
+  billion euros
+  350
+
+  300                                                           European public administration
+
+                                                                NGEU
+  250
+
+  200
+
+  150
+                                                                EU policies and programmes
+  100
+
+   50
+
+    0
+           2018    2019     2020      2021     2022      2023
+
+Source: ECA based on Commission’s budgetary implementation data.
+
+
+08 Most of the expenditure under Heading 7 concerns the salaries and pensions of
+staff and of the members of the institutions, followed by buildings and information and
+communication technology (see Figure 3).
+                                                                                            9
+
+
+Figure 3 – Pensions and salaries represent the biggest share of
+administrative expenditure
+
+ billion euros
+  12                                              2%
+                                     2%
+                        2%                        9%
+             2%                      9%                 European Schools
+                                                  5%
+  10                    9%
+            10 %                     5%
+                        5%                       10 %
+            5%                      10 %                Other non-salary expenditure
+                       10 %                             (recruitment costs, training)
+   8        11 %
+                                                 21 %
+                                    21 %                Information and communication
+                       22 %                             technology
+            21 %
+   6
+                                                        Buildings (rent, purchase, etc.)
+
+   4
+                                                        Pensions
+                                    53 %         53 %
+            52 %       52 %
+   2
+                                                        Remuneration of staff and Members
+                                                        of the institutions
+   0
+            2021       2022         2023         2024
+
+Source: ECA based on annual draft budget documents.
+
+
+09 In our 2019 report on the EU Staff Regulations, we identified certain structural
+challenges that affect the EU civil service: an ageing workforce, increased imbalances
+in the staff (geographical, types of contract), and the difficulties in managing an
+increased workload with a reduced number of staff. Since then, further major global
+challenges have emerged: the COVID-19 pandemic, Russia’s war of aggression against
+Ukraine and the subsequent inflation and energy crisis. These challenges have resulted
+in additional tasks for the EU institutions without necessarily an increase in the
+number of permanent or temporary posts.
+                                                                                       10
+
+
+
+Audit scope and approach
+10 The objective of this audit was to assess whether the EU civil service’s
+employment framework provided the institutions with the flexibility to meet
+recruitment needs and improve workforce management, and enable them to address
+the increasingly challenging circumstances that the EU faces. In particular, we
+examined whether the institutions used the EU civil service employment framework
+to:
+
+(a) recruit the qualified and talented staff they need; and
+
+(b) get the most out of their staff.
+
+
+11 Our audit covered the 2019-2023 period. Whenever relevant, we took into
+consideration events that occurred in the first half of 2024. We built on the results of
+two previous audits which covered staff and recruitment issues from 2012 to 2018
+(special report 15/2019 and special report 23/2020) and use some of the data initially
+collected for these audits.
+
+
+12 The audit focused on the main categories of statutory staff, i.e. officials,
+temporary agents and contract staff. Seconded national experts (SNEs) were
+considered when their employment responded to a specific issue encountered by the
+institutions, such as geographical imbalances or a lack of expertise.
+
+
+13 We audited three EU institutions: the European Parliament, the Council of the
+European Union and the European Commission. The Court of Justice of the European
+Union was also consulted to provide staff-related statistics. This allowed us to cover
+80 % of the EU institutions’ staff in our quantitative analyses.
+
+
+14 We excluded the decentralised agencies and the Pension Scheme for European
+Officials (PSEO) from the scope of this audit. We cover the agencies and the
+calculations relating to the pension liability in our annual audit work.
+
+
+15 Our audit work consisted of:
+(a) A review of the institutions’ human resources (HR) strategies and related
+    decisions and documentation.
+
+(b) An assessment of the processes to evaluate HR needs at institution-level,
+    reallocate posts between services and recruit staff.
+                                                                                       11
+
+
+(c) An analysis of staff statistics from the Parliament, the Council, the Commission
+    and the Court of Justice.
+
+(d) A review of benchmarking studies on working conditions in international
+    organisations carried out between 2018 and 2023.
+
+(e) An analysis of published data related to EPSO competitions since 2019 and a
+    comparison with similar data gathered for previous audit work.
+
+(f)   Interviews with the Human resources departments of the audited institutions.
+
+(g) Interviews with staff from five Permanent Representations representing all
+    situations regarding staff geographical balance.
+
+
+16 The aim of our report is to support the EU institutions to improve the efficiency of
+their workforce management in a challenging economic and geopolitical context,
+indicating areas where the current employment framework could be better used. Our
+conclusions and recommendations should contribute to any future potential discussion
+on the EU Staff Regulations.
+                                                                                            12
+
+
+
+Observations
+
+The EU institutions implemented flexible recruitment processes
+but still struggle to attract some profiles
+17 The employment framework of the EU institutions should allow them to attract,
+recruit and maintain highly qualified and multilingual staff, drawn on the broadest
+possible geographical basis from among citizens of the member states 3.
+
+
+18 The institutions should therefore be able to identify their staffing needs in terms
+of posts, identify skills and competencies gaps in their workforce, and apply flexible
+recruitment processes and a variety of recruitment channels depending on their
+needs. The working conditions and employment benefits they offer should be
+competitive enough to allow them to attract and retain candidates from all member
+states and for all job profiles.
+
+
+
+The EU institutions reallocate staff and increasingly focus on skills they
+need
+Strategic reallocation of posts helped to address staffing needs
+
+19 Between 2013 and 2019, as part of an interinstitutional agreement to reduce
+staff numbers, most EU institutions reduced the number of authorised permanent and
+temporary posts in their budget-approved establishment plans4. In 2020, the European
+Council emphasised the need for a targeted approach to staff numbers (see
+paragraph 07). The Commission committed to keep its staffing levels stable during the
+2021-2027 MFF, and the other institutions requested a small or zero increase in their
+establishment plans. As a result, since 2013, the total number of authorised posts for
+the Parliament, the Council, the Commission (excluding executive agencies) and the
+Court of Justice dropped by 3.7 % (see Figure 4).
+
+
+
+
+3
+    Regulation (EU, EURATOM) 1023/2013 amending the Staff Regulations of Officials of the
+    European Union and the Conditions of Employment of Other Servants of the European
+    Union.
+4
+    Special report 15/2019.
+                                                                                                       13
+
+
+Figure 4 – Size of establishment plans of selected EU institutions
+marginally decreased between 2013 and 2023
+ number of posts
+ 38 000
+
+
+
+
+          36 835
+                                                                                  3.7 % reduction of
+ 36 000
+                                                                                  number of posts
+
+                                                                         35 465
+
+
+ 34 000
+
+
+
+
+ 32 000
+          2013        2015        2017         2019        2021          2023
+
+Source: Establishment plans presented in the General Budget of the EU.
+
+
+20 Between 2019 and 2023, there has nevertheless been a slight increase (by 2 %, or
+830 staff members) in the number of statutory staff in these institutions, essentially
+consisting of contract staff who do not occupy establishment plans posts.
+
+
+21 Since 2019, the audited institutions have made greater use of the posts available
+in their budgets. The number of unoccupied posts decreased from 5.2 % to 4.6 %
+between January 2019 and January 2023. Since recruitment procedures were ongoing,
+the actual vacancy rate was lower. The Parliament was the only audited institution
+with a vacancy rate still significantly higher than 5 %. Furthermore, the budgets of the
+institutions are subjected to a standard reduction on their staff expenditure, which
+means they do not always have the necessary budget to cover all their establishment
+plan posts. Besides replacing departing employees, the institutions have few other
+available posts to recruit officials or temporary staff.
+
+
+22 The increase in tasks performed by the EU institutions, not accompanied by an
+increase in the number of posts, led the institutions to organise reallocation exercises.
+Individual directorates assessed their needs in terms of posts, depending on their tasks
+and priorities, reported those needs to their institution’s human resources
+departments, which would then reallocate vacant posts to those departments
+experiencing an increase in workload.
+                                                                                             14
+
+
+
+23 The Parliament reinforced the staffing of the two directorates-general (DGs)
+dealing with EU policies. Between 2019 and 2023, the number of officials and
+temporary staff increased by 7.5 % at DG EXPO (External Policies of the Union), and by
+4.4 % at DG IPOL (Internal Policies of the Union). DGs dealing with cybersecurity were
+also reinforced.
+
+
+24 At the Council, the Legal Service and the DG for General and Institutional Policy,
+which both have a strong role in the preparation and coordination of policy files, saw
+the number of their officials and temporary staff increased by 12.8 % and 18.3 %
+respectively between 2019 and 2023. There was also an increase of 15.5 % in the
+number of officials and temporary staff employed in the DG for Digital Services,
+because of the increased focus on digitalisation as part of the new ways of working
+introduced post-COVID-19 5, and the need to address cybersecurity issues.
+
+
+25 The Commission had already started significantly reallocating staff between DGs
+in 2013, as part of its implementation of the reduction in posts agreed in the same
+year. Until 2020, it used a “taxation” system through which DGs had to return a
+number of posts to a reserve pool, depending on which priority cluster (linked to the
+institution’s political priorities) they were in. This system contributed to significant
+changes in staffing levels for some DGs. Figure 5 shows the policy DGs that
+experienced the largest changes in staffing between 2013 and 2023.
+
+
+
+
+5
+    Special report 18/2022: “EU institutions and COVID-19 – Responded rapidly, challenges still
+    ahead to make the best of the crisis-led innovation and flexibility”.
+                                                                                              15
+
+
+Figure 5 – Staffing in Commission policy DGs between 2013 and 2023
+changed in line with priorities
+
+ 100 %
+                                                                                       HOME
+                                                                          CLIMA NEAR
+                                                                    FPI
+  75 %                                                       ECHO
+
+
+  50 %
+
+
+  25 %
+
+
+    0%
+
+
+  -25 %                                               AGRI
+                          GROW      EAC CNECT
+                  FISMA
+  -50 %    RTD
+
+Source: ECA, based on the Commission’s staff lists.
+
+
+26 The DGs that gained the most posts are either related to the priorities of the two
+most recent Commissions (2014-2019 and 2019-2024): migration (DG HOME), climate
+change and the Green Deal (DG CLIMA), or those responding to current geopolitical
+situation (DG NEAR – neighbourhood and enlargement, DG ECHO – humanitarian aid,
+and DG FPI – foreign policy instruments). Staffing at DG FISMA (financial stability,
+financial services and capital markets union) has significantly decreased overall in the
+last 10 years. It had lost 40 % of its staff between 2013 and 2019, but staff numbers
+have been increasing again (by 17.7 %) since 2019, in part due to the DG’s involvement
+in managing the sanctions against Russia. This shows that the Commission tries to
+adapt staffing to its current needs.
+
+Institutions increasingly focus on skills and competencies to deal with the increasing
+workload
+
+27 The system of internally reallocating vacant posts reaches its limits when the
+vacancy rate is low. All of the audited institutions have policies on internal mobility,
+which is either voluntary (staff applying for internal vacant posts) or compulsory (a
+general staff rotation exercise). This, along with the reallocation of vacant posts, can
+help departments with an increased workload by encouraging staff to move where
+resources are most needed.
+                                                                                             16
+
+
+
+28 Temporary mobility of staff can similarly help at times of peak workload.
+However, this does not address the systemic issue of managing an increased workload
+with capped resources – a deteriorating work-life balance has been reported in staff
+surveys, and the reliance on unpaid overtime has become commonplace in some
+departments. The ways in which working patterns are registered and flexitime is
+implemented in most institutions means that staff do not always have to formally
+record overtime worked when they are ineligible for financial compensation. However,
+all Commission staff record their working hours. The Commission’s records show that,
+on average between 2019 and 2023, the total volume of uncompensated extra hours
+worked every year corresponded to the equivalent of around 740 full-time staff
+(2.75 % of its workforce).
+
+
+29 The increase in workload has led the institutions to change their approach to the
+way in which they identify staffing needs, by focusing more on the skills and
+competencies needed. This shift is in line with best practices as advocated by the
+Organisation for Economic Co-operation and Development (OECD) 6: “Good workforce
+planning requires […] high quality mapping of current workforce in terms of numbers,
+skills, performance; […] identification of workforce gaps, including gaps in profiles that
+are lacking and those that are oversupplied.”
+
+
+30 In 2022, the Parliament began a project to identify the competencies it needed in
+the short and long-term, including a review of existing job profiles. This review is still
+ongoing, but the 2023 learning and development plan already includes training
+requests from DGs according to the skills needed and those they would like to
+reinforce.
+
+
+31 In the second half of 2023, the Council merged its annual reallocation exercise
+with its annual training needs assessment to produce annual management plans for
+each DG. In these plans, managers identify the skills needed to meet their objectives,
+and address how to acquire or develop these skills with existing staff. It is only possible
+to request additional posts once all other possibilities have been exhausted. The
+intention is that this exercise will be repeated on an annual basis. In addition, the
+institution is focusing its training strategy on improving the digital skills of its staff.
+
+
+
+
+6
+    OECD Public Employment and Management 2021. The Future of the Public Service.
+                                                                                           17
+
+
+
+32 In 2023, the Commission also launched a preliminary analysis of skills needed,
+asking managers to identify the current skills available within their DGs, their emerging
+skills needs, including those specifically linked to artificial intelligence (AI), and how AI
+skills could be useful for individual jobs. This served as the basis for a more detailed
+skills mapping exercise, which is to be conducted across the institution in 2024 and
+expected to be repeated in the future.
+
+
+33 The audited institutions have also started to reflect more broadly on the effect AI
+could have on work. This is still at a preliminary stage, but there is a general
+expectation that AI could improve staff efficiency, and thus to some extent mitigate
+the risks posed by having insufficient numbers of staff (identified as critical in the
+institutions’ risk assessments). The focus is therefore on identifying the potential use
+of AI for day-to-day work and providing adequate training to staff.
+
+
+
+A significant increase in temporary staff recruited through alternative
+recruitment channels
+EPSO’s difficulties led to more recruitment of temporary staff
+
+34 There are different ways to join the EU civil service, as illustrated in Figure 6
+below, but traditionally the majority of staff used to join through open, external
+competitions organised by the European Personnel Selection Office (EPSO). More
+rarely, after 2004, staff were also recruited by open competitions organised by specific
+institutions. Staff recruited following open competitions are appointed as permanent
+officials, and the EU civil service was until the 2000s overwhelmingly composed of
+officials, following the principle that an independent administration relies on staff
+whose employment is stable and who are protected against wrongful dismissal 7.
+
+
+
+
+7
+    OECD, The principles of public administration, November 2023.
+                                                                                                            18
+
+
+Figure 6 – The many paths to an EU career
+
+                                    All EU citizens
+
+
+       Open                        Selection procedures                       EPSO CAST
+                                                                       or selection procedures
+    competitions
+
+                                                           Students and
+                                                            graduates
+                     National
+                  civil servants
+
+                                                              Trainees
+                                                        (5 to 8-month contract)
+                    Seconded
+                 national experts
+
+                                                        Junior professional
+                                                         or development
+                                                           programmes
+
+
+
+                                      Temporary staff                        Contract agent
+                                       (6-year contract                      (6-year contract
+                                            max.)                                 max.)
+
+
+                                                                                             Renewal
+                           Selection                                                   (only possible for some
+                           procedure                                                      function groups)
+                        (to change type of
+                             contract)
+
+
+
+
+                          Open-ended                                                      Open-ended
+                           contracts                                                      contracts for
+                         for temporary                                                   contract staff *
+                              staff *
+
+
+
+
+                                                  Internal competitions
+
+
+      Permanent
+        officials
+  (indefinite contracts)
+Note: CAST stands for Contract Agents Selection Tool.
+* See details in Annex I.
+Source: ECA.
+                                                                                            19
+
+
+
+35 The number of staff with fixed-term contracts (contract and temporary staff) has
+increased over recent years (see Figure 7). A minority of these staff can obtain an
+open-ended contract, depending on the characteristics of their job and their function
+group (contract staff, see Annex I) or the availability of such contracts (temporary staff
+recruited to posts reserved for temporary staff, see Annex I).
+
+Figure 7 – The share of staff with fixed-term contracts increased
+between 2019 and 2023
+
+
+    40 000
+
+
+
+
+                                                                          Officials
+
+    20 000
+
+
+                                         8%          9%     11 %
+                6%          6%                                            Temporary staff
+     28 %                                            23 %   23 %
+                                                                   34 %
+               22 %         22 %        22 %                              Contract staff
+        0
+               2019         2020        2021         2022   2023
+
+
+
+Source: ECA, based on audited institutions’ staff lists.
+
+
+36 EPSO competitions continued to be the main recruitment channel for the
+institutions until recently, when EPSO experienced a series of problems. The COVID-19
+pandemic seriously disrupted the organisation of in-person testing and the resulting
+backlog was not cleared until 2022. EPSO then paused some competitions while
+finalising 8 the design of a new competition model, and the roll-out of this new model
+was beset by IT problems. As a result, fewer competitions were launched (35 %
+reduction) and completed (38 % reduction) between 2019 and 2023 compared to the
+previous 5 years. This reduced the number of candidates available for recruitment.
+
+
+
+
+8
+     Special report 23/2020.
+                                                                                         20
+
+
+
+37 The institutions reacted by recruiting more temporary staff to posts meant for
+officials, pending a permanent recruitment solution. The profiles for which selection
+procedures were organised correspond to jobs usually covered by EPSO competitions
+(IT staff, linguists, generalist administrators, security staff, etc.). For example, all the
+temporary staff selection procedures organised by the Council between 2019 and 2023
+were for profiles for which no competition had been organised in the previous 4 or
+5 years or for which the corresponding EPSO lists were either more than 2 years old, or
+unavailable at the time of recruitment. Similarly, EPSO published a series of IT
+competitions in February 2022, but they were only completed in spring 2024. Between
+2020 and 2023, the audited institutions recruited these profiles as temporary staff.
+
+
+38 Depending on the institution and the year, temporary staff represented between
+30 % and 59 % of external recruitment for permanent posts in 2019-2020. This rose to
+between 61 % and 77 % in 2021-2022, before dropping again in 2023 (to between 48 %
+and 63 %). As a result, the number of temporary staff employed in permanent posts in
+the institutions has significantly increased as shown in Figure 8.
+                                                                                        21
+
+
+Figure 8 – A significant increase in the number of temporary staff
+employed in permanent posts since 2019
+
+
+     500    Parliament                                        442
+
+                                                                      89 % increase
+              234
+     250
+
+
+
+       0
+
+
+     500
+                                                              356
+            Council
+
+     250                                                              256 % increase
+              100
+
+
+       0
+
+
+
+
+    3 000   Commission                                        2 299
+
+    2 000
+
+              787                                                     192 % increase
+    1 000
+
+       0
+
+
+
+            Court of Justice                                  286
+     300
+              199                                                     44 % increase
+     150
+
+
+       0
+             2019         2020         2021         2022      2023
+Source: ECA based on the audited institutions’ staff lists.
+
+
+39 The recruitment of temporary staff is generally faster than that of officials
+because the selection procedures do not have to follow an interinstitutionally agreed
+timetable and can be organised whenever needed 9. The institutions can also more
+easily adapt the content of the selection procedure to their needs and to the grade at
+which they are seeking to recruit, since there is no restriction in the Staff Regulations
+
+
+9
+     Special report 23/2020.
+                                                                                          22
+
+
+with regard to the grades for recruiting temporary staff. Depending on their internal
+rules on grading, the institutions can therefore adjust the grade to the labour market
+conditions, provided they have the necessary budget. This can, however, lead to
+officials and temporary staff being recruited at different grades to do the same job.
+
+
+40 Although the employment of temporary staff is beneficial in terms of flexibility
+(easier to recruit with shorter contracts that can be terminated more easily), it carries
+a significant risk that acquired knowledge could be lost. This would be the case either if
+a temporary staff member decides to leave before the end of their contract, or if those
+who want to stay have to leave because they have not been able to pass a competition
+to become an official. The risk of losing knowledge is more acute when a department’s
+share of temporary staff is high.
+
+
+41 We have mapped where temporary staff members are employed in the audited
+institutions, dividing the DGs into five areas: horizontal (legal service, secretariat-
+general), linguistic, support (human resources, finance, buildings), IT and policy. IT
+directorates are those where the increase in temporary staff has been most striking
+(see Figure 9).
+
+Figure 9 – The share of permanent posts occupied by temporary staff has
+increased across all directorates-general since 2019
+
+ 25 %
+
+                                              2019       2023
+ 20 %
+
+
+ 15 %
+
+
+ 10 %
+
+
+   5%
+
+
+   0%
+             Horizontal          Linguistic            Policy   Support    Support - IT
+
+Source: ECA, based on the audited institutions’ staff lists.
+
+
+42 In some of the Commission’s policy DGs, such as DG COMP (competition),
+DG ECFIN (economic and financial affairs), DG HOME and DG JUST (justice and
+consumers), temporary staff represent more than 15 % of the staff occupying
+permanent posts, with the highest share being in DG COMP (20 % of the occupied
+permanent posts in 2023). Recently created departments such as DG DEFIS (defence
+                                                                                             23
+
+
+industry and space), and HERA (European health emergency preparedness and
+response authority) have an important share of temporary staff in permanent posts –
+between 18 % and 40 % of their occupied permanent posts – due to the need to staff
+them quickly after they were created. The increasing proportion of temporary staff in
+permanent posts in DGs tasked with the implementation of key policies (such as
+competition or migration), can put business continuity at risk and may result in the loss
+of institutional knowledge, as we reported in 2023 when assessing debt management
+at the Commission 10.
+
+
+43 To mitigate this risk, the institutions can hold internal competitions which are
+open to temporary staff. The temporary staff members who pass such competitions
+can then be recruited as permanent officials. However, the organisation of such
+competitions is time- and resource-consuming. While all the audited institutions have
+organised them between 2019 and 2023, only the Commission and the Parliament are
+able to do so regularly.
+
+The institutions used specific recruitment channels to address pressing issues such as
+an ageing workforce and the urgent need for expertise
+
+44 The institutions have also put in place specific recruitment channels to react to
+particular issues such as the ageing of their workforce, or to quickly acquire expertise
+not available in-house.
+
+
+45 The institutions’ workforce is ageing. At the Parliament, the average age of staff
+has increased from 46 in 2013 to 49 in 2022; at the Commission from 44 in 2013 to 47
+in 2023. The institutions have been struggling with attracting younger recruits for
+some time. Already in 2012 11, the average staff age at recruitment was 35. This has
+increased over time: between 2019 and 2023, the average age of new recruits in the
+audited institutions was between 37 and 40. In particular, the average age of new
+recruits in the career entry grades is higher than what might be expected, given that
+these grades require fewer than 5 years or no professional experience (see Annex II):
+at the Council and the Commission only around 30 % of newly recruited AD5 are under
+30, although that grade requires no professional experience and 3 years of completed
+universities studies.
+
+
+
+
+10
+     Special report 16/2023.
+11
+     Report from the Commission to the Council on the Pension Scheme of European Officials
+     and Other Servants of the European Union, COM(2012) 37 final of 7.2.2012.
+                                                                                       24
+
+
+
+46 To address their ageing workforces, without discriminating based on age, the
+Council and the Commission have recruitment programmes for junior professionals
+(with fewer than 3 years of professional experience). Each institution’s programme is
+adapted to its needs, but they share some broad characteristics: eligible participants
+mainly come from the institutions’ trainee pools (although statutory staff can
+participate if they meet the experience criteria), and successful applicants are offered
+a temporary AD5 contract.
+
+
+47 These initiatives cannot alone alter the demographic profile of recruits, because
+they only relate to a small number of posts. They are nevertheless a way to offer
+selected, good trainees an employment opportunity in the institutions straight after
+their traineeship. This is faster than through an open competition, and is a way to
+retain interested and motivated younger staff.
+
+
+48 Additional assignment of responsibilities to DGs can have staffing implications
+(see paragraph 42). At the Commission, DG DEFIS was created in 2021, taking over
+some tasks from DG GROW (internal market, industry, entrepreneurship, and SMEs)
+but its role increased in importance following Russia’s war of aggression against
+Ukraine. HERA was created in 2022, in response to the COVID-19 crisis. In addition to
+recruiting temporary agents to staff these DGs quickly, the Commission used staff
+seconded from national administrations (seconded national experts – SNEs), see
+Figure 10.
+                                                                                                         25
+
+
+Figure 10 – Staffing new DGs quickly, the example of HERA and DG DEFIS
+
+              HERA                           DG DEFIS
+    100 %
+
+                                                                    Officials
+                                                                    Temporary staff in permanent posts
+                44 %                                                Temporary staff in temporary posts
+                                                 52 %
+                                                                    Seconded national experts
+                                                                    Contract staff
+
+
+
+
+                                                 12 %
+                33 %
+                          56 %                   6%
+                          non-permanent
+                          staff
+                                                               48 %
+                                                 19 %          non-permanent
+                10 %
+                                                               staff
+
+               13 %                             11 %
+      0%
+
+Source: ECA, based on Commission’s staff list at 01.01.2023.
+
+
+49 Seconded national experts are also used in DGs where there is a need for close
+cooperation with member states in sensitive areas such as migration (DG HOME with
+10 % of staff), or financial services, taxes, and customs (DG FISMA with 11 % and
+DG TAXUD with 12 %). Employing SNEs allows the institutions, and in particular the
+Commission, to foster cooperation with national administrations, while filling short-
+term gaps in expertise, provided that adequate procedures are in place to ensure
+knowledge transfer within the institution when the SNEs leave. Nevertheless, a
+considerably high percentage of SNEs can put business continuity at risk.
+
+
+
+The EU institutions struggle to attract selected profiles and nationalities
+The method for adjusting salaries limited greater EU spending, but reduced the
+purchasing power of staff
+
+50 Salaries and the guarantee that staff’s purchasing power evolves in line with that
+of national civil servants are an important aspect of the employment benefits offered
+by the institutions. They are among the factors influencing the institutions’ capacity to
+attract and retain candidates from all member states and for all job profiles. The gross
+salary of a statutory staff member is determined by their function group (see Annex I),
+grade and step, and is adjusted annually to reflect changes in the purchasing power of
+civil servants in a set sample of member states (see Annex III for details). The
+                                                                                                  26
+
+
+composition of this sample has evolved since 2004. The current sample contains
+10 member states, which together represent more than 75 % of the EU’s gross
+domestic product (GDP).
+
+
+51 The Commission’s report from 2022 on the implementation of salary adjustments
+contains a comparison with what the adjustments would have been if the 2004 sample
+had been kept, as well as a calculation if all member states were used to deﬁne the
+speciﬁc indicator. The results of this calculation, extended to include 2023, are
+presented in Figure 11.
+
+Figure 11 – The evolution of staff’s purchasing power, between 2014 and
+2023, was affected by the sample chosen as a basis for adjustments
+
+                                 EU staff purchasing power evolution
+                                    (cumulative index, 2013=100)
+ cumulative index
+ 107
+                                                                  Potential purchasing power
+ 106                                                              evolution using all EU member
+                                                                  states
+ 105
+
+ 104
+
+ 103
+                                                          Actual purchasing power evolution
+ 102
+
+ 101
+
+ 100
+                                                                  Potential purchasing power
+  99                                                              evolution using the 2004 sample
+       2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+
+Source: ECA based on Eurostat data.
+
+
+52 Maintaining the 2004 sample would have resulted in EU staff losing 0.4 % of their
+purchasing power between 2014 and 2023. On the other hand, using all member
+states as a reference would have resulted in an increase of 3.4 %. The 2014 sample,
+which has been used since then, resulted in a negligible evolution between 2013 and
+2023: +0.1 % increase.
+
+
+53 The reason behind these differences is the evolution of the purchasing power of
+national civil servants in the post-2004 member states. With the exception of Poland,
+these countries are not included in the sample. Purchasing power in these member
+states grew by 24 % between 2013 and 2023, while there was almost no change (2 %
+over the period) in the pre-2004 member states.
+                                                                                            27
+
+
+
+54 The 2014 sample ensured that salary adjustments were lower than they would
+have been if all member states had been taken into account. It does not make EU
+salaries unattractive in absolute terms – they remain comparable to what is offered by
+other international organisations – but it does reduce their relative attractiveness over
+time. In addition, decisions taken between 2010 and 2013 (such as applying
+adjustments lower than those calculated, or not applying the method in 2013 and
+2014) resulted in a permanent 4.5 % gap in the evolution of the purchasing power of
+EU staff compared to national civil servants (see Annex III).
+
+
+55 The method used to calculate salary adjustments also contains clauses designed
+to protect the EU budget in the case of deteriorating economic circumstances. Part of
+the 2020 salary adjustment was postponed until 2022 because of the impact of the
+COVID-19 crisis on the EU’s GDP. The Commission estimated that this resulted in
+savings of €750 million for the MFF 2021-2027 12, and we consider that this calculation
+is reasonable.
+
+
+56 The method is not designed as a tool to increase the attractiveness of EU salaries
+but, when it is applied (see paragraph 54) we found it correctly mirrored changes in
+the purchasing power of national civil servants, and it also contained the necessary
+safeguards to adapt to changing economic circumstances.
+
+The competitiveness and attractiveness of EU jobs is not guaranteed for all profiles
+
+57 The institutions can affect the financial attractiveness of the jobs they offer by
+adjusting the grade at which they recruit staff. The Staff Regulations set the grade at
+which officials in each function group (see Annex II) can be recruited: SC1 or SC2, AST1
+to AST4, and AD5 to AD8. The Staff Regulations provide for recruitment at higher
+grades in the AD function group, where appropriate, and also state that labour market
+conditions may be taken into account. This means that EPSO competitions for
+specialist profiles are usually organised for higher grades. IT competitions published in
+2022 were at AST4 and AD7 levels.
+
+
+58 Institutions have more flexibility when it comes to recruiting temporary staff
+since there is no restriction on the grades for which they can recruit. Therefore, while
+there are selection procedures for temporary staff at AD5 level, very often the
+advertised grades are higher (from AD6 up to AD8, or even AD9). For AST staff,
+
+12
+     Report on data pertaining to the budgetary impact of the 2022 annual update of
+     remuneration and pensions of the officials and other servants of the European Union,
+     COM/2022/678 final.
+                                                                                        28
+
+
+selection procedures are often at AST3. The institutions can also decide to run a
+selection procedure with an indicative grade range, for example AD5 to AD7, which
+allows them to adjust temporary contracts in light of the qualification and experience
+of recruited staff, depending on their internal rules on grading and the conditions set
+out in the selection notice.
+
+
+59 Recruitment in the EU institutions is based on a competitive selection process,
+whereby candidates sit a series of tests, resulting in a reserve list from which recruiting
+departments can select the individual they would like to recruit. The number of
+applicants therefore must be high enough to ensure there is a real selection of
+successful candidates from which to recruit. Considering that not all applicants may be
+eligible, we estimate that in general, the minimum number of candidates for a given
+post needs to be between 9 and 12 to ensure proper selection.
+
+
+60 We reviewed the selection procedures organised by the institutions between
+2019 and 2023, in addition to public information relating to the ongoing EPSO
+competitions. Overall, the institutions always had a number of candidates greater than
+the number of places on the reserve lists. However, for some very specialised IT
+profiles, the ratio of applicants to laureates on the reserve lists was between four and
+six. Despite the higher grades offered, there is an attractiveness issue for these profiles
+– profiles that are however becoming more and more important both for the
+institutions’ daily work (see paragraphs 23, 24 and 33) and for policy design (Digital
+Services Act package, Cybersecurity Act).
+
+The EU institutions’ workforce remains imbalanced in terms of nationality of staff
+
+61 EU institutions are expected to recruit staff on the broadest possible geographical
+basis among the EU member states, but they cannot reserve posts for any specific
+nationality. In a 2018 report, the Commission indicated that there were geographical
+imbalances in the EU civil service. The institutions use a common template to report on
+geographical balance at interinstitutional level, but each institution uses its own
+guiding rate. For our analysis, we aggregated data from the Parliament, the Council,
+the Commission and the Court of Justice, and used the Commission’s guiding rate in
+force in 2023 (see Annex IV). Figure 12 shows the share of EU staff compared with this
+guiding rate for each nationality.
+                                                                                                             29
+
+
+Figure 12 – Geographical imbalances in the EU civil service (2023)
+
+               Germany
+             Netherlands                        Officials, temporary and contract staff (all grades)
+                  Austria
+                  Poland
+                 Sweden                           Below the guiding rate
+                 Czechia
+               Denmark
+                  France
+                    Spain
+                  Cyprus
+                      Italy
+                Hungary
+                Portugal
+                Slovakia
+            Luxembourg
+                Romania
+                                                    Above the guiding rate
+                 Finland
+                  Ireland
+                  Croatia
+                Bulgaria
+                    Latvia
+               Lithuania
+                  Greece
+                Slovenia
+                  Estonia
+                    Malta
+                Belgium
+                         0%           100 %        200 %       300 %       400 %        500 %        600 %
+
+              Germany
+            Netherlands
+                 Austria                      AD5-AD8                              AD13 and above
+                 Poland
+                Sweden
+                Czechia
+              Denmark
+                 France
+                   Spain
+                 Cyprus
+                     Italy
+               Hungary
+               Portugal
+               Slovakia
+           Luxembourg
+               Romania
+                Finland
+                 Ireland
+                 Croatia
+               Bulgaria
+                   Latvia
+              Lithuania
+                 Greece
+               Slovenia
+                 Estonia
+                   Malta
+               Belgium
+                          0%      100 %   200 %    300 %   400 % 0 %       100 %   200 %     300 %       400 %
+                               Share of EU staff compared to the guiding rate (100 %)
+
+Note: 100 % means that the share of EU staff for a given nationality matches the guiding rate.
+Source: ECA, based on the audited institutions’ staff lists (officials, temporary and contract staff).
+                                                                                        30
+
+
+
+62 The share of staff for some member states (such as Germany, Poland and
+Czechia) is below the guiding rate for all grades and all function groups. For others, the
+situation depends on the grade (see Annex IV for details). The situation in the highest
+grades (AD13 and above) is particularly imbalanced for nationals of those member
+states that have joined since 2004 (see Figure 12). The 2014 revision of the Staff
+Regulations that limited access to these grades – which are only accessible after a
+selection procedure or for staff with management responsibilities, and no longer by
+promotion – to better align pay and responsibility is partly the cause of this situation.
+
+
+63 Since 2018, the institutions have conducted different actions aimed at the
+member states whose share of staff is below the guiding rate. These included staff and
+student ambassadors going to universities across Europe to promote EU careers 13, as
+well as the institutions participating in job fairs in the member states and liaising with
+national authorities. Some of the member states with a lower share of EU staff have
+dedicated staff in their permanent representation in Brussels or in their own capital
+who work with the EU institutions to address geographical imbalances. All institutions
+cooperate with national administrations on this issue, but only the Commission has
+formalised it in joint action plans.
+
+
+64 In addition to the outreach measures, some institutions are also refining their
+recruitment procedures, for example by requesting departments to add at least one
+candidate from a less well represented member state to those being interviewed for a
+position, to increase the visibility of these candidates. In the first half of 2024, based
+on its own analysis of geographical balance, the Parliament launched three nationality-
+specific competitions for Dutch, Austrian and Luxembourg nationals, to have reserve
+lists of successful candidates from these nationalities to add to the recruitment pool. It
+is the only institution using such competitions to help correct geographical imbalances.
+
+
+65 The results of these actions to improve the geographical balance among EU staff
+remain to be seen. Moreover, in May 2024, two member states initiated legal actions
+against the Parliament’s nationality-specific competitions before the Court of Justice.
+
+The reasons behind the lack of attractiveness have not been comprehensively
+analysed
+
+66 The institutions do not use the same approach to identify the root causes of why
+sufficient numbers of some nationalities do not apply for EU jobs. In a 2022 report, the
+Commission found a strong correlation between applying for competitions and the net
+
+13
+     Special report 23/2020.
+                                                                                          31
+
+
+earnings and employment perspectives in a member state, as well as with the OECD
+better life index (the better the life in the member state, the less likely its nationals are
+to apply for EU competitions). In our interviews with national administrations, the lack
+of easily accessible information on careers and employment conditions was often
+mentioned as a reason. The Parliament commissioned an employer attractiveness
+study for people under 35 in seven member states that are not well represented
+among new staff. Between 45 % and 69 % of the respondents considered the
+Parliament an attractive employer. The results were used to review the Parliament’s
+employer brand and update its career outreach material.
+
+
+67 The institutions offer working conditions that are broadly in line with modern
+expectations for a skilled expatriated workforce: part-time, flexitime, telework options
+(including from outside the place of employment), family leave and family allowances.
+They have also put in place diversity and inclusion policies. However, these conditions
+are not always advertised in the vacancy notices or on the recruitment pages
+published by the institutions. Potential candidates are therefore not necessarily aware
+of the working environment, something which might reduce their motivation to apply
+for a job that requires expatriation.
+
+
+68 The rejection of job offers is low in all the institutions, but is not measured in a
+consistent manner. Depending on the human resources IT system used, or the volume
+of recruitment handled every year, the rejection rate can be measured automatically
+but only at the final stage of the process (when the recruitment has already been
+entered in the system). Alternatively, it can be tracked manually throughout the
+recruitment process: reported rates varied from 2 % to 15 %, depending on how it is
+counted. It is therefore not possible to compare the rates between institutions. This
+also means that the institutions cannot conduct a comparative analysis of the
+rejections to identify possible trends or common factors.
+
+
+69 The Luxembourg-based institutions have reported difficulties in recruiting staff
+over the last 10 years. We have attempted to quantify the issue by analysing the
+rejection rate for Luxembourg jobs between 2019 and 2023. While the rejection rate
+was higher for Luxembourg-based jobs than for those that were Brussels-based, the
+number of job offers rejected were too low (around 100 over 4 years for both the
+Parliament and Commission) and inconsistently measured (see paragraph 68) to be
+extrapolated. Nevertheless, the issue of the attractiveness of the Luxembourg site has
+led the institutions to coordinate in a working group (see Box 1).
+                                                                                              32
+
+
+
+     Box 1
+
+     The working group on the attractiveness of Luxembourg
+     The number of EU staff working in Luxembourg has increased considerably since
+     2014, from 6 074 to about 9 500 in 2023. Despite this growth, the Luxembourg-
+     based institutions report difficulties in recruiting staff, in part due to the cost of
+     housing in the country.
+
+     The minimum gross salary paid in the institutions, for contract staff function group
+     (FG)I/1 is below the Luxembourg minimum wage, and the institutions adopted
+     measures to ensure they were not paying their staff less than the local minimum
+     wage. In 2021, the institutions set up a working group to reflect on actions to
+     boost the attractiveness of the site. The resulting 12-point action plan focuses on:
+
+     —    staff management, to facilitate the recruitment of staff in Luxembourg;
+
+     —    excellence hubs, presenting Luxembourg a place of excellence for finance,
+          law, IT, linguistic and knowledge management jobs;
+
+     —    life in Luxembourg, providing support to find accommodation, offering advice
+          to support the integration of partners into the local job market;
+
+     —    communication, with a common communication strategy for the
+          Luxembourg-based institutions, collaboration with national authorities, and
+          with European universities.
+
+
+
+The EU institutions do not fully use all the available possibilities
+to improve workforce management
+70 EU staff members are expected to be independent and to adhere to the highest
+professional standards. Their employment framework should enable them to carry out
+their duties as effectively and efficiently as possible 14.
+
+
+71 The institutions should therefore have a performance framework in place to get
+the most out of their staff, a framework that recognises good performance, identifies
+talent and development needs and addresses poor performance. EU staff should have
+opportunities for career advancement and promotion based on merit and
+performance 15.
+
+
+14
+     Regulation (EU, EURATOM) No 1023/2013.
+15
+     OECD, Principles of public administration, 2023.
+                                                                                         33
+
+
+Unnecessarily restrictive approach to staff performance management
+Performance assessment framework is mostly focused on incompetence
+
+72 The Staff Regulations set out the minimum requirements of the performance
+management framework in the institutions which centres on annual appraisal reports.
+These reports are used to compare the relative merits of staff eligible for promotion
+and are part of the procedure for downgrading and dismissing staff for incompetence.
+
+
+73 The appraisal reports assess staff members’ ability, efficiency and conduct in the
+service. The report indicates if the staff member’s overall performance has been
+satisfactory or unsatisfactory. If the appraiser deems the member of staff’s
+performance unsatisfactory, their advancement in step will be stalled. If performance
+remains unsatisfactory, the procedure for dismissal on the grounds of incompetence
+can be launched. Staff can also be dismissed for disciplinary reasons, and both
+procedures can run in parallel.
+
+
+74 The 2014 revision of the Staff Regulations, while leaving it to each institution to
+“define procedures to identify, deal with, and remedy cases of incompetence”,
+introduced compulsory steps that lengthened the procedure for dismissal on grounds
+of incompetence. The procedure can only begin after three consecutive unsatisfactory
+appraisal reports (leading to downgrading) and requires an additional two
+unsatisfactory reports before dismissal. This means it takes 5 years of consistently
+unsatisfactory performance before an official can be dismissed for incompetence.
+
+
+75 The independence of a civil service rests in part on the fact that civil servants can
+only be dismissed or demoted based on objective criteria regulated by law 16, so it is
+appropriate to have a clear evidence-based procedure for dismissing staff. However,
+the steps introduced in 2014 are cumbersome. No dismissal for incompetence has
+taken place since 2019 (the earliest it could have happened) in the EU institutions we
+audited, although every year a few appraisal reports (fewer than 0.1 %) are marked as
+unsatisfactory.
+
+
+76 Incompetence is best tackled before a staff member becomes established, and
+the Staff Regulations provide for newly recruited staff to undergo a probationary
+period of 6 to 9 months (depending on their contract). In December 2023, the
+Commission updated its guidance to managers regarding probationary periods,
+stressing that officials can only be confirmed in their post if they demonstrate a “high
+
+
+16
+     OECD, Principles of public administration, 2023.
+                                                                                      34
+
+
+level of performance” in all aspects of their job. Cases of probationary periods ending
+without the member of staff being confirmed remain rare (35 in total in the three
+audited institutions between 2019 and 2023, around 0.2 % of all recruited staff).
+
+
+77 The Staff Regulations’ focus on incompetence (the inability or unwillingness to do
+one’s job), does not prevent the institutions from putting in place measures to address
+poor performance of established staff before it is reported in the appraisal reports.
+However, identifying and dealing with poor performance is usually referred to in the
+implementing decisions on the incompetence procedure, further blurring the two
+concepts and the related set of measures. Furthermore, in the articles relating to
+preliminary actions in the institutions’ implementing decisions, reference is usually
+made to signs or risks of incompetence rather than to the broader issue of poor
+performance.
+
+
+78 The Parliament’s Implementing Decision contains an article on formally
+identifying and reporting the first signs of professional incompetence and taking action
+before the next appraisal report. The Council’s decision also has a formalised
+procedure on prevention where there is a risk that the next appraisal report might
+conclude that there has been professional incompetence. The Commission’s guidelines
+on performance stress that managers should communicate to the staff member issues
+relating to unsatisfactory aspect of performance as soon as they occur. The aim of
+these provisions is to encourage both managers and staff to act before managers
+report unsatisfactory performance in the appraisal report.
+
+
+79 Management training covers performance management, but most performance
+guidelines targeted to managers are centred on the detection and treatment of
+unsatisfactory performance in appraisal reports, because unless this stage is
+adequately and formally documented, it is not possible to launch a procedure for
+dismissal. These guidelines are also usually designed to remind managers of the case
+law referring to appraisal reports, to ensure that the appraisal exercise does not lead
+to legal challenges.
+
+
+80 The Commission also has specific rules applicable to middle managers, whose
+appraisal reports contain a section to assess managerial performance. Middle
+managers at the Commission can be reassigned to non-managerial functions after one
+unsatisfactory managerial performance assessment. After two such reports, a
+procedure for reassignment must be launched. There has only been one case of
+reassignment due to unsatisfactory managerial performance at the Commission over
+the audited period (2019-2023).
+                                                                                       35
+
+
+
+81 The procedure for downgrading and dismissing staff on the grounds of
+incompetence is overly cumbersome and, rightly, requires the appropriate
+documentation to build a justifiable case. This has conditioned the way performance
+issues are seen in the EU civil service, to the detriment of other aspects necessary for
+staff performance management.
+
+Not enough is done to reward high performance
+
+82 At the other end of the performance spectrum, the Staff Regulations do not
+provide specific measures to reward high performers, other than stating that
+promotions must be based on merit. The comparison of merit within a grade is mainly
+based on the content of appraisal reports. However, the satisfactory/unsatisfactory
+category, stemming from the requirements of the incompetence procedure, does not
+encourage managers to provide a more nuanced overall performance assessment in
+appraisal report conclusions. In addition, the institutions consider that “high
+performance” is the minimum expected of their staff, which makes the identification
+of exceptionally high performers more difficult. Both the Parliament and the Council
+have quantitative data linked to the appraisal of staff. This helps to identify staff who
+perform better than the standards expected when comparing merits for promotion.
+
+
+83 Staff whose performance is satisfactory but not as strong as that of others in their
+grade have a slower career progression; staff who perform better can benefit from a
+faster career progression. However, such opportunities are constrained by the guiding
+rates for career equivalence set in the Staff Regulations. Introduced in 2004, these
+rates were designed to ensure an equivalent career development speed between staff
+recruited before 2004 and those recruited after. Their application results in
+promotions being mostly based on an average speed. Since 2014, and to limit this
+semi-automatic progression, which was not always connected to responsibilities, some
+of the highest AST grade (10 and 11) and AD grade (13 and above) can only be reached
+by undergoing a selection procedure. This measure has improved the balance between
+responsibilities and pay level.
+
+
+84 The statutory constraints on the use of promotions as a reward for outstanding
+performance, and the fact that attribution of a performance bonus to staff is not
+allowed under the Staff Regulations, does not prevent the institutions from putting in
+place non-financial rewards for staff whose performance goes beyond the high
+standards expected. However, with the exception of some awards – for clear writing,
+or to recognise sustainable initiatives – none of the audited institutions has put in
+place a formal policy to reward high performing staff.
+                                                                                            36
+
+
+Possibilities to improve career perspectives for some staff categories are
+not fully used
+Internal competitions are underused as a career development tool
+
+85 All the institutions offer their staff possibilities to change jobs through internal
+mobility, and to follow training courses to develop their skills, obtain new
+competencies and reorient their careers. Both the type of contract (permanent, open-
+ended or fixed-term) currently held by staff and their function group affect these
+possibilities.
+
+
+86 Passing an open or internal competition is the only way to change from being a
+contract or temporary staff to becoming a permanent official. This can also allow staff
+to change function group (see paragraph 34).
+
+
+87 Internal competitions are restricted to staff of the institution organising them.
+The Staff Regulations state that internal competitions are open to officials and
+temporary staff and set eligibility criteria for education and professional experience,
+linked to the function group and grade of the competition (see Annex II). The
+institutions can set additional eligibility criteria, for example regarding the function
+group of the temporary agents that can participate, or on their duration of service.
+
+
+88 The Staff Regulations also provide the possibility, in exceptional cases, for the
+institutions to decide to open internal competitions to contract staff from function
+groups II to IV, provided they have served at least 3 years in the institution. The Staff
+Regulations also limit the number of appointments to 5 % for former contract staff
+who can be appointed as officials after passing an internal competition. Internal
+competitions are not always open to contract staff: the Commission only opens AD6,
+AST2 and SC2 competitions, but not competitions for AD5 and AST4, although this
+would also be legally possible.
+
+
+89 Internal competitions for AD positions are generally only open to AD candidates,
+and AST competitions are usually only open to AST staff. Such a restriction, which is
+not based on the requirements of the Staff Regulations, reduces the career
+opportunities of AST and SC staff. However, the Parliament’s internal rules allow staff
+from all function groups to participate in all internal competitions, provided they meet
+the minimum requirements of the Staff Regulations. There has also been a recent shift
+relating to AST competitions in the other institutions, with more competitions open to
+staff in the SC group. The Council also opened two AD internal competitions to both
+AST and SC staff (in 2021 and 2023).
+                                                                                                 37
+
+
+
+90 Both the Parliament and the Commission organise internal competitions at
+relatively high grades (AD9, AD10, AD12), offering AD officials with sufficient
+professional experience the possibility to progress in their career faster than through
+the promotion procedure. This is particularly relevant since the age of new recruits in
+the institutions (see paragraph 45) points to a gap between the recruitment grades
+and the actual professional experience of staff. Offering a way for talented staff
+members to progress faster in their careers is a way to close that gap, however the
+Commission’s rules mean that it is restricted to AD staff.
+
+Increased discrepancies between the jobs, responsibilities and career perspectives of
+AST/SC and AST staff and their profiles
+
+91 The 2004 reform of the Staff Regulations merged three function groups into one
+single AST group that covered a wide range of job profiles and offered significant
+promotion perspectives since it contained 11 grades. Staff recruited after 2004 in this
+function group could progress through all the grades, regardless of their actual job.
+This revision led to a situation where in some departments, secretaries could earn
+more than middle managers. The 2014 revision of the Staff Regulations attempted to
+correct this by creating the SC function group, reserved for secretarial and clerical
+jobs 17. This revision also limited access to the last two grades of the AST function
+group: these are now reserved for staff who take on additional responsibilities,
+appointed after a selection procedure different from the standard promotion
+procedure.
+
+
+92 We consider that the creation of the SC function group was an appropriate way
+to correct the imbalances between pay and responsibilities in the AST group, which
+were an unintended consequence of the 2004 reform. However, while the jobs
+associated with that function group were clearly defined, the minimum qualifications
+and experience for appointment are the same for both function groups: either a post-
+secondary education attested by a diploma, or secondary education attested by a
+diploma giving access to post-secondary education, and at least three years of
+professional experience. These minimum education requirements have barely changed
+from the first version of the Staff Regulations in 1962 18, which referred to an advanced
+level of secondary education or equivalent professional experience.
+
+
+
+17
+     Special report 15/2019.
+18
+     Regulation No 31 (EEC), 11 (EAEC), laying down the Staff Regulations of Officials and the
+     Conditions of Employment of Other Servants of the European Economic Community and
+     the European Atomic Energy Community.
+                                                                                                38
+
+
+
+93 These requirements are out of step with the current level of educational
+attainment in the EU where over 75 % of the EU population has at least completed
+secondary education, and 30 % has completed university studies19. As a result, staff in
+the SC and AST function groups may often have qualifications that are not aligned with
+their job requirements. This can lead to demotivation and have an impact on staff
+performance.
+
+
+94 The content of secretarial and clerical tasks has evolved significantly since 2014,
+in part due to increased digitalisation and new ways of working that were introduced
+following the COVID-19 pandemic 20. The Commission identified that the skills and
+competencies now required of SC staff are more varied than when the group was
+created and sometimes bring them closer to some of the tasks performed by AST staff
+(for example, providing support for financial management and financial verification
+tasks). Increased digitalisation also led to some administrative tasks usually performed
+by AST staff being taken over by AD staff. The blurring of the lines between some of
+the tasks performed by each function group, along with higher educational
+achievements, makes the restriction on participation to internal competitions (see
+paragraph 90) even less justified.
+
+
+95 Career perspectives for staff in the SC and AST function group are constrained.
+For the SC group, promotions possibilities are low – the guiding rates (see
+paragraph 83) have been set in such a way that it would take 30 years on average to
+move from SC1 to SC6, compared to 12 years to move from AST1 to AST5, which are
+grades with comparable salary levels. There are also few possibilities for SC staff to
+participate in AST internal competitions, although some institutions have started to
+change their practice on this issue (see paragraph 89).
+
+
+96 The Staff Regulations provide few opportunities for staff in the AST function
+group to be appointed to the AD function group, among them an annual procedure
+known as certification. Staff at AST5 and above are eligible. The number of candidates
+largely exceeds the number of positions the institutions open every year. Not all the
+audited institutions open internal AD competitions to AST staff with the relevant
+qualifications and experience on a regular basis, even though there is no legal
+provision to prevent them from doing this.
+
+
+
+
+19
+     Eurostat, Population by educational attainment level, sex and age (%) - main indicators.
+20
+     Special report 18/2022.
+                                                                                        39
+
+
+
+97 The reduced career opportunities for SC and AST staff, which is a result of both
+regulatory constraints and the institutions’ internal decisions, poses challenges for
+workforce management and is among the issues staff in these function groups
+mention as a reason of dissatisfaction during exit interviews or in surveys.
+                                                                                         40
+
+
+
+Conclusions and recommendations
+98 We conclude that the employment framework currently in force in the EU
+institutions has proven flexible, and that the institutions have used it to react to the
+challenging circumstances under which they have to operate. The institutions have
+redeployed their vacant posts to the departments with increased responsibilities and
+reassessed their staffing needs with a greater focus on skills and competencies. They
+have diversified their recruitment channels to tackle the issue of an ageing workforce
+and react to disruptions in the organisation of open competitions. Nevertheless, the
+institutions struggle to attract staff for some specific profiles, and despite recent
+efforts, geographical imbalances in the workforce remain. Workforce management is
+sometimes unnecessarily constrained by restrictions that do not stem from the Staff
+Regulations. Performance management is too focused on the formal procedure for
+dealing with incompetence, to the detriment of other aspects, and career perspectives
+are sometimes restricted beyond what is necessary.
+
+
+99 The EU institutions have committed to reducing administrative expenditure
+whenever possible and to optimising their staff resources. This has prompted the
+institutions to place a greater focus on the skills and competencies needed and look at
+how to acquire them internally, in particular through upskilling or retraining staff. This
+shift is however recent and not yet common practice (paragraphs 19-33).
+
+
+100 Since 2020, the institutions have experienced difficulties in recruiting officials
+because of disruptions to EPSO’s activities. They have reacted by increasing their
+recruitment of temporary staff. They have also diversified their recruitment channels,
+putting in place programmes targeted at junior professionals, or increasing the number
+of seconded civil servants from national administrations to fill gaps in expertise. While
+the recruitment of temporary staff has proven an effective and flexible way to deal
+with the shortage of successful candidates on EPSO reserve lists, it carries some risks
+for business continuity and knowledge management, and as such cannot be a viable
+long-term solution (paragraphs 34-49).
+                                                                                       41
+
+
+Recommendation 1 – Put in place a risk-based policy for the
+employment of temporary staff
+The European Parliament, the Council, and the Commission should decide – depending
+on the specificities of each department – on a sustainable level of temporary staff,
+taking into account the balance between the advantages (including flexibility, speed of
+recruitment) and the risks (loss of institutional knowledge, equal treatment between
+staff members), and take appropriate actions when that level is exceeded.
+
+Target implementation date: June 2025
+
+
+101 The institutions offer working conditions that are in line with the expectations
+of a modern expatriated workforce. While the purchasing power of EU staff has
+decreased more than that of national civil servants, salaries remain on a par with what
+other international organisations offer their staff. Nevertheless, the institutions still
+experience difficulties in recruiting specific profiles such as IT specialists, or in
+attracting candidates from all member states in sufficient numbers to have a
+geographically balanced workforce. Attractiveness is a complex issue and despite
+certain actions having been put in place regarding geographical balance, the
+institutions do not yet have a comprehensive view on the reasons why some profiles
+are difficult to fill (paragraphs 50-69).
+
+
+
+Recommendation 2 – Design targeted job attractiveness action
+plans
+The European Parliament, the Council, and the Commission should analyse:
+
+(a) at the level of each institution, the reasons for rejecting job offers;
+
+(b) through interinstitutional dialogue, the reasons behind the low application rate
+    for competitions and selection procedures, for all nationalities and all job profiles;
+
+and put in place appropriate and measurable actions to address these issues.
+
+Target implementation date: December 2025
+
+
+102 The Staff Regulations set out the minimum requirements in terms of
+performance management which centre around the annual appraisal reports. We
+found that the institutions apply a staff performance assessment framework that is
+mostly focused on dealing with incompetence. This entails a cumbersome process,
+which only concerns the most extreme cases of poor performance and is rarely used in
+                                                                                         42
+
+
+practice. The need to formalise this procedure has taken precedence over designing
+policies relating to the management of poor performance before it becomes
+incompetence (paragraphs 72-81). At the other end of the performance spectrum, high
+performers can be rewarded with faster promotions, but this is constrained by guiding
+rates that set an average career speed. Non-financial rewards for high performers are
+not well-developed (paragraphs 82-84).
+
+
+103 Internal competitions are mainly used to provide opportunities for the high-
+performing temporary staff members to become officials. Their potential to provide
+additional career prospects to staff in the SC and AST function groups is underused,
+due to the eligibility criteria that are set. These two function groups have undergone
+significant changes to their job content, and their staff often comply with the minimum
+academic requirements of AD staff. This results in a certain level of staff dissatisfaction
+(paragraphs 85-97).
+
+
+
+Recommendation 3 – Further develop career and performance
+frameworks
+The European Parliament, the Council, and the Commission should:
+
+(a) improve the guidelines on dealing with poor performance for cases not covered
+    by the procedure for dismissal on the grounds of incompetence;
+
+(b) map the tasks and responsibilities associated with AST/SC and AST posts and if
+    necessary, update the job descriptions;
+
+(c) open internal competitions to eligible staff from other function groups;
+
+(d) assess the feasibility of having further non-financial recognition for outstanding
+    performance.
+
+Target implementation date: December 2025
+                                                                               43
+
+
+This report was adopted by Chamber V, headed by Mr Jan Gregor, Member of the
+Court of Auditors, in Luxembourg at its meeting of 1 October 2024.
+
+                                                  For the Court of Auditors
+
+
+
+                                                       Tony Murphy
+                                                         President
+                                                                                      44
+
+
+
+Annexes
+
+Annex I – The EU institutions covered by the Staff Regulations
+and the categories of staff they employ
+The Treaty on European Union lists seven EU institutions: the European Parliament,
+the European Council, the Council, the European Commission, the Court of Justice of
+the European Union, the European Central Bank, and the Court of Auditors.
+
+Of these institutions, only the staff of the European Central Bank is not covered by the
+Staff Regulations. In addition, the Staff Regulations cover the staff of five other EU
+bodies: the European External Action Service, the European Economic and Social
+Committee, the Committee of the Regions, the European Ombudsman, and the
+European Data Protection Supervisor; as well as staff from executive agencies.
+
+The institutions’ workforce is made up of different categories of staff. Within each
+category there are different function groups. Within the category of officials and
+temporary staff, the function groups are further ranked according to grades, which
+reflect increasingly high levels of professional and educational requirements and levels
+of responsibility.
+
+
+
+Staff covered by the Staff Regulations
+An official is any person who, after passing a competition, has been appointed to a
+permanent post at one of the institutions. For example, Commissioners or members of
+the European Parliament (MEPs) are not officials. There are three function groups in
+the officials category:
+
+o    Administrators (AD), career in grades AD5 to AD16;
+
+o    Assistants (AST), career in grades AST1 to AST11;
+
+o    Secretaries and clerks (AST/SC), career in grades AST/SC1 to AST/SC6.
+
+
+
+Staff covered by the Conditions of Employment of Other Servants
+Temporary staff are recruited:
+
+o    on a fixed term contract (maximum 6 years, including periods of renewal) to fill a
+     permanent post at one of the institutions or in the European External Action
+     Service;
+                                                                                        45
+
+
+o    on a fixed term contract (with one renewal permitted) or, more rarely, for an
+     indefinite period to fill a temporary post at an institution or an agency;
+
+o    to assist a person holding office (e.g. a Commissioner, a Court of Justice Judge), in
+     which case the length of their contract is linked to that of the office holder’s term
+     of office.
+
+The function groups for temporary staff are the same as for officials.
+
+Contract staff are not assigned to an established post. They are divided into four
+function groups (FGI to FGIV), depending on the tasks they carry out: from FGI for
+manual tasks through to FGIV for advisory and administrative tasks. Staff in FGI and
+those working at an agency or in a delegation, representation or office (e.g. the
+Commission’s Office for Infrastructure in Luxembourg or Office for Infrastructure in
+Brussels) may be employed for an indefinite period. The contracts of other staff cannot
+exceed 6 years.
+                                                                                         46
+
+
+Annex II – Entry requirements for each EU staff category
+The table below summarises how the Staff Regulations set the minimum qualifications
+and language skills required for officials, temporary and contract staff, along with the
+indicative tasks for each function group.
+
+     Officials and temporary staff                       Contract staff
+                                    Qualifications
+                   AD                                         FGIV
+      Completed university studies of at least 3 years attested by a diploma
+            AST and AST/SC                               FGIII and FGII
+     Post-secondary education attested by a diploma, or secondary education
+      attested by a diploma, and professional experience of at least 3 years
+                                                               FGI
+                  N/A                        Successful completion of compulsory
+                                                          education
+                               Language requirement
+   For all function groups: thorough knowledge of one of the EU languages and a
+  satisfactory knowledge of another. For officials, promotion requires knowledge
+                                 of a third language.
+                                   Indicative tasks
+                   AD                                         FGIV
+                                           Similar to AD staff but performed under
+   Administrator: lawyer, translator,
+                                           the supervision of officials or temporary
+      auditor, economist, etc.
+                                                              staff
+                  AST                                         FGIII
+    Executive or technical role in
+                                             Similar to AST staff but performed
+       administration, finance,
+                                             under the supervision of officials or
+  communication, research, or policy
+                                                       temporary staff
+  development and implementation
+                 AST/SC                                       FGII
+                                            Similar to AST/SC staff but performed
+  Clerical and secretarial tasks, office
+                                             under the supervision of officials or
+             management
+                                                        temporary staff
+                  N/A                                          FGI
+                                              Manual and administrative support
+                                            tasks (e.g. driver, logistics and building
+                                            staff) performed under the supervision
+                                                  of officials or temporary staff
+                                                                                           47
+
+
+Annex III – The method for adjusting EU staff salaries
+Annual adjustment of remuneration
+
+Article 65 and Annex XI of the Staff Regulations provide the framework for the
+calculation of the annual update of EU staff’s remunerations. The calculation is based
+on the change in the cost of living in Belgium and Luxembourg (joint Belgium-
+Luxembourg index – JBLI) and the changes in the purchasing power of salaries in
+national civil services in central government (global specific indicator). Annex XI
+indicates that the sample can be changed, but that it needs to represent “at least 75 %
+of the Union gross domestic product”.
+
+The sample of countries used to calculate the specific indicators was designed in 2014
+and included Belgium, Germany, Spain, France, Italy, Luxembourg, the Netherlands,
+Austria, Poland, Sweden, and the United Kingdom. Following the United Kingdom’s
+departure in 2020, the sample was not adjusted since it still represented at least 75 %
+of the remaining EU member states’ collective GDP.
+
+Annex XI provides for “moderation and exception clauses”. The moderation clause
+applies when the global specific indicator (relative to the purchasing power of national
+civil servants) is higher than +2 % or lower than –2 %. In that case, only the limit value
+(+2 % or –2 %) is used to calculate the annual update. The remainder is applied from
+April of the following year.
+
+The exception clause applies if there is a decrease in the EU’s real GDP, but the global
+specific indicator is positive. In that case, only part of the specific indicator is used for
+calculating the update and the remainder is applied from April of the following year,
+except when the decrease in GDP is below –3 %. In this case, the value of the specific
+indicator is applied from the moment the cumulative increase of GDP becomes
+positive.
+
+The method to adjust salaries has been in place since 1975, with certain technical
+adjustments: changes in the list of member states used to calculate the specific
+indicator, introduction of the moderation and exception clauses in 2014, automatic
+application as of 2014 (without the need for a Council regulation as was the case
+previously). The average nominal annual salary adjustment between 2014 and 2023
+resulting from this method was 2.3 %.
+
+Eurostat publishes all the statistical data relating to the application of Annex XI in its
+annual report at the end of October. In December every year, the Commission
+publishes a report on the budgetary impact of the annual adjustment of remuneration
+and pensions. As required by the Staff Regulations (Article 15 of Annex XI), in
+April 2022, the Commission published a report assessing whether the “evolution of
+                                                                                                                         48
+
+
+purchasing power of remuneration and pensions of Union officials is in accordance
+with the changes in the purchasing power of salaries in national civil services in central
+government”.
+
+The annual adjustment calculation method is meant to ensure the parallel evolution of
+the purchasing power of EU staff and of national civil servants. The JBLI takes into
+account the specific consumption patterns of EU staff measured via dedicated
+household budget surveys, instead of the standard harmonised index of consumer
+prices (HICP), to reflect as precisely as possible the evolution of the cost of living in
+Brussels and Luxembourg. In times of higher inflation, such as those experienced
+between 2021 and 2023, the cumulative JBLI was slightly lower than the weighted
+HICP (15.98 % as opposed to 16.21 %).
+
+In its December 2023 report on the budgetary impact of the annual update, the
+Commission indicated that “in the period 2004-2023, EU staff endured a significant
+loss in terms of real purchasing power. During this period the EU staff lost around
+13.9 % of their purchasing power, due to the combined effect of the reforms of the
+staff regulations in 2004 and in 2013 and cuts in salary adjustments. Over the same
+period civil servants in central governments of the member states lost 4.8 %”.
+
+Looking only at the 2010-2023 period (see figure below), a 4.5 % gap in purchasing
+power evolution was created between EU staff and national civil servants. Parallelism
+was maintained from 2015 onwards, but this gap will never be closed.
+
+The purchasing power of EU staff has evolved unfavourably compared to
+that of national civil servants (2010-2023)
+                                                Parallelism has been maintained from 2015 onwards, despite a temporary
+                                                 divergence during COVID-19 (suspension clause applied in 2020-2021)
+   2%
+          Gap created by the application of a salary
+                                                                                                   National civil
+          adjustment different from that calculated,
+   0%                                                                                              servants in the
+          following court cases and the subsequent
+                                                                                                   selected sample
+          agreement between Council and Commission
+  -2 %
+
+  -4 %
+
+  -6 %
+                                                                                                  EU staff
+
+  -8 %
+
+ -10 %                                          Further gap resulting from the
+                                                non-application of the method
+                                                in 2013 and 2014
+ -12 %
+         2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Source: ECA based on Eurostat data, with 2009 as starting point.
+                                                                                       49
+
+
+Correction coefficients
+
+Article 64 of the Staff Regulations indicates that staff’s remuneration shall be
+“weighted at a rate above, below or equal to 100 %, depending on the living conditions
+in the various places of employment” (correction coefficients), and that “no coefficient
+shall be applicable in Belgium and Luxembourg” due to the “special referential role of
+these places of employment as principal and original seats of most of the institutions”.
+Annex XI sets out the conditions under which coefficients can be created.
+
+Based on household surveys, Eurostat has adopted a specific methodology on the
+calculation of the correction coefficients, to establish the consumption patterns of
+staff assigned to the different duty stations (e.g. Warsaw or Copenhagen). These
+surveys are normally conducted every 5 years, but they have been less frequent of
+late. The correction coefficients are also published on the Eurostat website.
+
+Correction coefficients are meant to ensure that EU staff enjoy the same purchasing
+power, regardless of their duty station. They ensure that the purchasing power of EU
+staff outside Brussels evolves in parallel with that of staff in Brussels, but not
+necessarily with that of local employees. Correction coefficients are a purchasing
+power tool to ensure equal treatment among EU staff and are not intended to affect
+attractiveness or competitiveness.
+
+Because coefficients are a purchasing power tool, they are adjusted annually to reflect
+changes in prices in duty stations relative to the changes in prices observed in Brussels.
+As a result, even in cases where prices increase, the local correction coefficient can
+decrease if the local price increase is lower than that observed in Brussels. When
+prices drop abruptly, as they did in some duty stations during the financial crisis in
+2008, the coefficient decreased (the coefficients for Dublin, Madrid, and Lisbon
+decreased respectively by 7.1, 2.2 and 3.9 percentage points). In a similar way, the
+euro crisis led to a significant drop in the coefficient for Athens (a drop of
+11 percentage points between 2013 and 2015). The rising cost of living in the post-
+2004 member states is also visible in the evolution of the correction coefficients for
+these locations, with the biggest increases in Tallinn (from 79.5 to 98.9); Prague (from
+87.1 to 102.9) and Vilnius (from 78.6 to 93.4).
+                                                                                       50
+
+
+Annex IV – Geographical balance of the EU institutions’
+workforce
+The Staff Regulations state that EU staff should be “recruited on the broadest possible
+geographical basis from among nationals of member states of the Union”, and that “no
+posts shall be reserved for nationals of any specific member state”. Temporary
+exemptions apply in the case of enlargements, with posts specifically reserved for the
+nationals of the member states joining the EU.
+
+In 2014, faced with the increase in geographical imbalances within the EU workforce,
+the co-legislators amended the Staff Regulations to add that, while recruitment should
+always be based on merit, “the principle of the equality of the Union’s citizens shall
+allow each institution to adopt appropriate measures following the observation of a
+significant imbalance between nationalities among officials which is not justified by
+objective criteria”.
+
+In 2018, the Commission published a comprehensive report on the geographical
+balance among EU staff, also covering this balance in EPSO competitions. EPSO has
+already launched outreach actions targeted at the member states deemed
+“underrepresented” among the applicants to its competitions 21.
+
+At the end of 2022, all of the EU institutions agreed to work on a common template to
+report regularly and at inter-institutional level on geographical balance. Each
+institution could still use the guiding rate it deemed most appropriate for its own
+context. The rate used by the Commission as of 2023 is calculated based on the
+population of each member state, the number of votes in the Council and the number
+of MEPs. The Parliament’s rate is based on the number of MEPs for each nationality.
+There are other differences, for example, while the Commission excludes linguists from
+its internal analysis, believing they may distort the overall picture, the Parliament does
+include them. For our analysis, we used the Commission’s guiding rate as defined in
+2023.
+
+Using the 2014 possibility of taking measures to address geographical imbalances, in
+November 2022 the Parliament adopted general implementing rules that would allow
+it to organise nationality-specific competitions for those nationalities where significant
+imbalances had been observed. The aim of these competitions is to create reserve lists
+of potential recruits from member states whose share of staff in the Parliament was
+below the institution’s own guiding rate (based on the number of MEPs), to be added
+to the other reserve lists of candidates considered for recruitment. The first such
+
+
+
+21
+     Special report 23/2020.
+                                                                                       51
+
+
+competitions were launched in the first quarter of 2024, however two member states
+initiated legal action against them before the Court of Justice.
+
+The Commission analyses the share of staff compared to the guiding rate for: AD5 to
+AD8 non-linguistic staff (both officials and temporary staff, as well as separately for
+officials), all administrators, middle management, and senior management. Based on
+this, it identified 15 member states with significant imbalances and developed joint
+action plans to address the issue. These actions plans were adopted in 2023 and are in
+the public domain. For the remaining member states, it adopted (unpublished)
+operational conclusions, which describe the current situation for member states and
+the general outlook. The Commission plans to update the state of play on the action
+plans in 2024 and to monitor the situation on an ongoing basis.
+
+When looking in more detail at the geographical balance, there are significant
+differences depending on the function group and the grades of staff. The AD function
+group is more balanced than the AST and the SC groups (see figure below). This might
+be explained by the types of job and starting salary levels in each function group. It
+may also be affected by their relative attractiveness when factoring in expatriation, for
+example, secretarial jobs are typically widely available in all member states, making
+expatriation less attractive. This is one of the reasons why the institutions do not focus
+on imbalances in the SC and AST function groups in their analysis, and concentrate
+instead on the AD group, and in particular the starting grades (AD5-AD8).
+                                                                                                           52
+
+
+Geographical imbalances are also affected by function group (2023)
+
+              Germany
+
+           Netherlands                              AD
+                Austria                             AST
+                                                    SC
+                Poland
+
+               Sweden
+
+               Czechia
+
+              Denmark
+
+                France
+
+                 Spain
+
+                Cyprus
+
+                   Italy
+
+              Hungary
+
+              Portugal
+
+               Slovakia
+
+          Luxembourg
+
+              Romania
+
+               Finland
+
+                Ireland
+
+                Croatia
+
+               Bulgaria
+
+                 Latvia
+
+              Lithuania
+
+                Greece
+
+               Slovenia
+
+                Estonia
+
+                 Malta
+
+               Belgium
+
+                       0%     100 %     200 %     300 %     400 %      500 %     600 %     700 %   800 %
+
+                                      Share of EU staff compared to the guiding rate (100 %)
+
+
+
+Source: ECA based on the audited institutions’ staff lists at 01.01.2023, officials and temporary staff.
+                                                                                        53
+
+
+
+Abbreviations
+AI: Artificial intelligence
+
+CEOS: Conditions of Employment of Other Servants
+
+DG: Directorate-General
+
+DG AGRI: Directorate-General for Agriculture and Rural Development (European
+Commission)
+
+DG CLIMA: Directorate-General for Climate Action (European Commission)
+
+DG CNECT: Directorate-General for Communications Networks, Content and
+Technology (European Commission)
+
+DG COMP: Directorate-General for Competition (European Commission)
+
+DG DEFIS: Directorate-General for Defence Industry and Space (European Commission)
+
+DG EAC: Directorate-General for Education, Youth, Sport and Culture (European
+Commission)
+
+DG ECHO: Directorate-General for European Civil Protection and Humanitarian Aid
+Operations (European Commission)
+
+DG EXPO: Directorate-General for External Policies of the Union (European Parliament)
+
+DG FISMA: Directorate-General for Financial Stability, Financial Services and Capital
+Markets Union (European Commission)
+
+DG GROW: Directorate-General for Internal Market, Industry, Entrepreneurship and
+SMEs (European Commission)
+
+DG HOME: Directorate-General for Migration and Home Affairs (European
+Commission)
+
+DG IPOL: Directorate-General for Internal Policies of the Union (European Parliament)
+
+DG NEAR: Directorate-General for European Neighbourhood and Enlargement
+Negotiations (European Commission)
+
+DG RTD: Directorate-General for Research and Innovation (European Commission)
+
+EPSO: European Personnel Selection Office
+                                                                       54
+
+
+FPI: Service for Foreign Policy Instruments (European Commission)
+
+GDP: Gross domestic product
+
+HERA: Health Emergency Preparedness and Response Authority (European
+Commission)
+
+HICP: Harmonised index of consumer prices
+
+HR: Human resources
+
+JBLI: Joint Belgium-Luxembourg Index
+
+MEP: Member of the European Parliament
+
+MFF: Multiannual financial framework
+
+NGEU: NextGenerationEU
+
+OECD: Organisation for Economic Co-operation and Development
+
+PSEO: Pension Scheme for European Officials
+
+SNEs: Seconded national experts
+                                                                                            55
+
+
+
+Glossary
+Appointing authority: Person or entity within an EU institution whose responsibilities,
+under the EU Staff Regulations, include selecting and assigning individuals to specific
+roles, positions or tasks.
+
+Decentralised agency: Independent EU body established for an indefinite period, as a
+centre of expertise, to perform tasks contributing to the development and
+implementation of an EU policy.
+
+Establishment plan: Annex to the budget of an EU institution or body setting out its
+maximum number of available permanent and temporary posts, by job category and
+pay grade.
+
+Executive agency: Organisation set up and managed by the Commission, for a limited
+period, to carry out specified tasks related to EU programmes or projects on its behalf
+and under its responsibility.
+
+European Council: EU institution that defines the general political direction and
+priorities of the EU. Its members are the heads of state or government of the 27 EU
+member states, the European Council President and the President of the European
+Commission.
+
+Multiannual financial framework: The EU’s spending plan setting priorities (based on
+policy objectives) and ceilings, generally for 7 years. It provides the structure within which
+annual EU budgets are set, limiting spending for each category of expenditure.
+
+NextGenerationEU: Funding package to help EU member states recover from the
+economic and social impact of the COVID-19 pandemic.
+                                                       56
+
+
+
+Replies of the Parliament
+
+https://www.eca.europa.eu/en/publications/sr-2024-24
+
+
+
+
+Replies of the Council
+
+https://www.eca.europa.eu/en/publications/sr-2024-24
+
+
+
+
+Replies of the Commission
+
+https://www.eca.europa.eu/en/publications/sr-2024-24
+
+
+
+
+Timeline
+
+https://www.eca.europa.eu/en/publications/sr-2024-24
+                                                                                         57
+
+
+
+Audit team
+The ECA’s special reports set out the results of its audits of EU policies and
+programmes, or of management-related topics from specific budgetary areas. The ECA
+selects and designs these audit tasks to be of maximum impact by considering the risks
+to performance or compliance, the level of income or spending involved, forthcoming
+developments and political and public interest.
+
+This performance audit was carried out by Audit Chamber V – Financing and
+administering the Union, headed by ECA Member Jan Gregor. The audit was led by ECA
+Member Jorg Kristijan Petrovič, supported by Martin Puc, Head of Private Office and
+Mirko Iaconisi, Private Office Attaché; Colm Friel, Principal Manager; Marion Kilhoffer,
+Head of Task; Ilze Ozola, Tadhg Ó Caoimh and Luis Sancho De las Alas-Pumariño,
+Auditors. Laura McMillan provided linguistic support. Jesús Nieto Muñoz provided
+graphical support.
+
+
+
+
+From left to right: Martin Puc, Mirko Iaconisi, Marion Kilhoffer, Jorg Kristijan Petrovič,
+Tadhg Ó Caoimh, Ilze Ozola, Jesús Nieto Muñoz, Colm Friel.
+COPYRIGHT
+© European Union, 2024
+
+The reuse policy of the European Court of Auditors (ECA) is set out in ECA Decision
+No 6-2019 on the open data policy and the reuse of documents.
+
+Unless otherwise indicated (e.g. in individual copyright notices), ECA content owned by
+the EU is licensed under the Creative Commons Attribution 4.0 International
+(CC BY 4.0) licence. As a general rule, therefore, reuse is authorised provided
+appropriate credit is given and any changes are indicated. Those reusing ECA content
+must not distort the original meaning or message. The ECA shall not be liable for any
+consequences of reuse.
+
+Additional permission must be obtained if specific content depicts identifiable private
+individuals, e.g. in pictures of ECA staff, or includes third-party works.
+
+Where such permission is obtained, it shall cancel and replace the above-mentioned
+general permission and shall clearly state any restrictions on use.
+
+To use or reproduce content that is not owned by the EU, it may be necessary to seek
+permission directly from the copyright holders.
+
+Figure 1 – Icon: This figure has been designed using resources from Flaticon.com.
+© Freepik Company S.L. All rights reserved.
+
+Software or documents covered by industrial property rights, such as patents,
+trademarks, registered designs, logos and names, are excluded from the ECA’s reuse
+policy.
+
+The European Union’s family of institutional websites, within the europa.eu domain,
+provides links to third-party sites. Since the ECA has no control over these, you are
+encouraged to review their privacy and copyright policies.
+
+Use of the ECA logo
+
+The ECA logo must not be used without the ECA’s prior consent.
+
+
+
+
+HTML        ISBN 978-92-849-3145-3   ISSN 1977-5679   doi:10.2865/7451213   QJ-01-24-007-EN-Q
+PDF Web     ISBN 978-92-849-3146-0   ISSN 1977-5679   doi:10.2865/2274012   QJ-01-24-007-EN-N
+The objective of this audit was to assess whether the EU
+institutions’ employment framework provides them with the
+flexibility to meet recruitment needs and improve workforce
+management, and enable them to address the increasingly
+challenging circumstances that the EU faces. We found that the
+EU institutions dealt with emerging priorities by reallocating staff
+where most needed and diversifying recruitment channels. They
+relied more on staff with fixed-term contracts, although this
+brings business continuity risk. The institutions struggle to attract
+some profiles, and do not use all the flexibilities in their
+employment framework regarding staff performance and career
+opportunities. Our recommendations aim at improving the
+institutions’ policies for their employment of temporary staff,
+their attractiveness as employers, and their workforce
+management.
+
+ECA special report pursuant to Article 287(4), second
+subparagraph, TFEU.
+
+
+
+
+                                                         EUROPEAN COURT OF AUDITORS
+                                                         , rue Alcide De Gasperi
+                                                          Luxembourg
+                                                         LUXEMBOURG
+
+                                                         Tel. + -
+
+                                                         Enquiries: eca.europa.eu/en/contact
+                                                         Website: eca.europa.eu
+                                                         Twitter: @EUAuditors
+

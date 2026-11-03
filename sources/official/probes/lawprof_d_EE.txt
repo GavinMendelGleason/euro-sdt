@@ -1,0 +1,35 @@
+Country: Estonia (EE)
+Search date: 2026-11-03
+Target: number of full professors of law at Estonian universities, latest year.
+
+Checked and found no published figure:
+
+1. Statistics Estonia statistical database (https://andmed.stat.ee/en/stat)
+   - Education > Higher education (sotsiaalelu/haridus/kergharidus) holds only
+     institution, enrolment, entrant, graduate and dropout tables (HT27, HT275,
+     HT290, HT296, HT301, HT307, HT308, HT309, HT71). No academic-staff table.
+   - The discontinued-table archive (Lepetatud_tabelid/Sotsiaalelu. Arhiiv/
+     Haridus. Arhiiv) retains teacher tables for general and vocational education
+     (HT235, HT61) but none for higher-education academic staff.
+   - Research and development tables (majandus/.../teadus-ja-arendustegevus,
+     TD01, TD072, TD074, TD076) classify staff as researchers / technicians /
+     other R&D personnel, with no "professor" category and no legal-field split
+     usable as a professor count.
+   - Conclusion: Statistics Estonia publishes no count of professors, and no
+     academic staff by field of science.
+
+2. HaridusSilm (https://haridussilm.ee), the education statistics portal of the
+   Ministry of Education and Research, is the official channel for EHIS-derived
+   higher-education staff data. The portal is a single-page application that
+   renders every indicator through an embedded Power BI report
+   (app.powerbi.com/reportEmbed) with a runtime-issued embed token; it exposes no
+   static table, downloadable file or open API. No citable published figure could
+   be retrieved from it.
+
+3. Ministry of Education and Research statistics pages
+   (https://www.hm.ee/ministeerium-uudised-ja-kontakt/uuringud-ja-statistika/statistika)
+   link back to HaridusSilm and to Statistics Estonia; they publish no
+   higher-education staff table of their own.
+
+Result: no official Estonian figure for professors of law, or for professors or
+academic staff by field, is published.

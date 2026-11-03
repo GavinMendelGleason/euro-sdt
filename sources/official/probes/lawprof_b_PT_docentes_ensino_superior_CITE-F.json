@@ -1,0 +1,367 @@
+[ {
+  "IndicadorCod" : "0001454",
+  "IndicadorDsg" : "Docentes do ensino superior (N.º) por Sexo e Área de educação e formação (CITE-F 2013); Anual - Direção-Geral de Estatísticas da Educação e Ciência",
+  "MetaInfUrl" : "https://www.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0001454&lingua=PT",
+  "DataExtracao" : "2026-11-02T23:30:48.938Z",
+  "DataUltimoAtualizacao" : "2024-10-18",
+  "UltimoPref" : "2023 / 2024",
+  "Dados" : {
+    "2023 / 2024" : [ {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "H",
+      "dim_4" : "02",
+      "dim_4_t" : "Artes e humanidades",
+      "ind_string" : "2 279",
+      "valor" : "2279"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "M",
+      "dim_4" : "02",
+      "dim_4_t" : "Artes e humanidades",
+      "ind_string" : "2 184",
+      "valor" : "2184"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "T",
+      "dim_3_t" : "HM",
+      "dim_4" : "02",
+      "dim_4_t" : "Artes e humanidades",
+      "ind_string" : "4 463",
+      "valor" : "4463"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "H",
+      "dim_4" : "03",
+      "dim_4_t" : "Ciências sociais, jornalismo e informação",
+      "ind_string" : "2 215",
+      "valor" : "2215"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "M",
+      "dim_4" : "03",
+      "dim_4_t" : "Ciências sociais, jornalismo e informação",
+      "ind_string" : "2 595",
+      "valor" : "2595"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "T",
+      "dim_3_t" : "HM",
+      "dim_4" : "03",
+      "dim_4_t" : "Ciências sociais, jornalismo e informação",
+      "ind_string" : "4 810",
+      "valor" : "4810"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "H",
+      "dim_4" : "04",
+      "dim_4_t" : "Ciências empresariais, administração e direito",
+      "ind_string" : "2 672",
+      "valor" : "2672"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "M",
+      "dim_4" : "04",
+      "dim_4_t" : "Ciências empresariais, administração e direito",
+      "ind_string" : "2 032",
+      "valor" : "2032"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "T",
+      "dim_3_t" : "HM",
+      "dim_4" : "04",
+      "dim_4_t" : "Ciências empresariais, administração e direito",
+      "ind_string" : "4 704",
+      "valor" : "4704"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "H",
+      "dim_4" : "05",
+      "dim_4_t" : "Ciências naturais, matemática e estatística",
+      "ind_string" : "2 310",
+      "valor" : "2310"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "M",
+      "dim_4" : "05",
+      "dim_4_t" : "Ciências naturais, matemática e estatística",
+      "ind_string" : "2 367",
+      "valor" : "2367"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "T",
+      "dim_3_t" : "HM",
+      "dim_4" : "05",
+      "dim_4_t" : "Ciências naturais, matemática e estatística",
+      "ind_string" : "4 677",
+      "valor" : "4677"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "H",
+      "dim_4" : "06",
+      "dim_4_t" : "Tecnologias da informação e comunicação (TICs)",
+      "ind_string" : "889",
+      "valor" : "889"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "M",
+      "dim_4" : "06",
+      "dim_4_t" : "Tecnologias da informação e comunicação (TICs)",
+      "ind_string" : "234",
+      "valor" : "234"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "T",
+      "dim_3_t" : "HM",
+      "dim_4" : "06",
+      "dim_4_t" : "Tecnologias da informação e comunicação (TICs)",
+      "ind_string" : "1 123",
+      "valor" : "1123"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "H",
+      "dim_4" : "07",
+      "dim_4_t" : "Engenharia, indústrias transformadoras e construção",
+      "ind_string" : "4 776",
+      "valor" : "4776"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "M",
+      "dim_4" : "07",
+      "dim_4_t" : "Engenharia, indústrias transformadoras e construção",
+      "ind_string" : "1 890",
+      "valor" : "1890"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "T",
+      "dim_3_t" : "HM",
+      "dim_4" : "07",
+      "dim_4_t" : "Engenharia, indústrias transformadoras e construção",
+      "ind_string" : "6 666",
+      "valor" : "6666"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "H",
+      "dim_4" : "08",
+      "dim_4_t" : "Agricultura, silvicultura, pescas e ciências veterinárias",
+      "ind_string" : "532",
+      "valor" : "532"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "M",
+      "dim_4" : "08",
+      "dim_4_t" : "Agricultura, silvicultura, pescas e ciências veterinárias",
+      "ind_string" : "557",
+      "valor" : "557"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "T",
+      "dim_3_t" : "HM",
+      "dim_4" : "08",
+      "dim_4_t" : "Agricultura, silvicultura, pescas e ciências veterinárias",
+      "ind_string" : "1 089",
+      "valor" : "1089"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "H",
+      "dim_4" : "09",
+      "dim_4_t" : "Saúde e proteção social",
+      "ind_string" : "3 473",
+      "valor" : "3473"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "M",
+      "dim_4" : "09",
+      "dim_4_t" : "Saúde e proteção social",
+      "ind_string" : "5 155",
+      "valor" : "5155"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "T",
+      "dim_3_t" : "HM",
+      "dim_4" : "09",
+      "dim_4_t" : "Saúde e proteção social",
+      "ind_string" : "8 628",
+      "valor" : "8628"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "H",
+      "dim_4" : "10",
+      "dim_4_t" : "Serviços",
+      "ind_string" : "1 252",
+      "valor" : "1252"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "M",
+      "dim_4" : "10",
+      "dim_4_t" : "Serviços",
+      "ind_string" : "773",
+      "valor" : "773"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "T",
+      "dim_3_t" : "HM",
+      "dim_4" : "10",
+      "dim_4_t" : "Serviços",
+      "ind_string" : "2 025",
+      "valor" : "2025"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "H",
+      "dim_4" : "99",
+      "dim_4_t" : "Área desconhecida",
+      "ind_string" : "693",
+      "valor" : "693"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "M",
+      "dim_4" : "99",
+      "dim_4_t" : "Área desconhecida",
+      "ind_string" : "427",
+      "valor" : "427"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "T",
+      "dim_3_t" : "HM",
+      "dim_4" : "99",
+      "dim_4_t" : "Área desconhecida",
+      "ind_string" : "1 120",
+      "valor" : "1120"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "H",
+      "dim_4" : "T",
+      "dim_4_t" : "Total",
+      "ind_string" : "21 814",
+      "valor" : "21814"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "M",
+      "dim_4" : "T",
+      "dim_4_t" : "Total",
+      "ind_string" : "19 547",
+      "valor" : "19547"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "T",
+      "dim_3_t" : "HM",
+      "dim_4" : "T",
+      "dim_4_t" : "Total",
+      "ind_string" : "41 361",
+      "valor" : "41361"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "H",
+      "dim_4" : "00",
+      "dim_4_t" : "Programas e qualificações genéricos",
+      "ind_string" : "60",
+      "valor" : "60"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "M",
+      "dim_4" : "00",
+      "dim_4_t" : "Programas e qualificações genéricos",
+      "ind_string" : "50",
+      "valor" : "50"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "T",
+      "dim_3_t" : "HM",
+      "dim_4" : "00",
+      "dim_4_t" : "Programas e qualificações genéricos",
+      "ind_string" : "110",
+      "valor" : "110"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "1",
+      "dim_3_t" : "H",
+      "dim_4" : "01",
+      "dim_4_t" : "Educação",
+      "ind_string" : "663",
+      "valor" : "663"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "2",
+      "dim_3_t" : "M",
+      "dim_4" : "01",
+      "dim_4_t" : "Educação",
+      "ind_string" : "1 283",
+      "valor" : "1283"
+    }, {
+      "geocod" : "PT",
+      "geodsg" : "Portugal",
+      "dim_3" : "T",
+      "dim_3_t" : "HM",
+      "dim_4" : "01",
+      "dim_4_t" : "Educação",
+      "ind_string" : "1 946",
+      "valor" : "1946"
+    } ]
+  },
+  "Sucesso" : {
+    "Verdadeiro" : [ {
+      "Msg" : "OK"
+    } ]
+  }
+} ]
