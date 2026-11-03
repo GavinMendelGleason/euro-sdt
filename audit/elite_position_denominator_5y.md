@@ -16,8 +16,8 @@ File: `data/denominator/elite_position_denominator_5y.csv`.
 
 ## Panel
 
-| Year | A posts | B lawyers | C seats | Total | D |
-|---:|---:|---:|---:|---:|---:|
+| Year | A posts | B lawyers | C seats | Total |
+|---:|---:|---:|---:|---:|
 | 1990 | 16,838 | 131,514 | 9,137 | 157,489 |
 | 1995 | 19,485 | 188,959 | 13,456 | 221,900 |
 | 2000 | 21,798 | 260,112 | 16,716 | 298,626 |
