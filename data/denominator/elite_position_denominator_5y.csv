@@ -1,0 +1,9 @@
+year,A_posts,A_status,B_DE,B_FR,B_IT,B_lawyers,B_status,C_DE,C_FR,C_IT,C_seats,C_status,total,notes
+1990,16838,interpolated,56638,18076,56800,131514,mixed,3304,3633,2200,9137,largely estimated,157489,"France 1990 is 1989 avocats-only, pre-merger; not comparable with 1992+"
+1995,19485,interpolated,74291,29368,85300,188959,mixed,5560,5396,2500,13456,mixed,221900,"Germany 1990-91 pre-reunification; France 1995 CNBF count"
+2000,21798,interpolated,104067,36445,119600,260112,mixed,6250,7466,3000,16716,mixed,298626,"Italy 2000 bar-roll estimate"
+2005,23911,interpolated,132569,44054,160800,337423,mixed,5184,4943,2750,12877,mixed,374211,"Italy 2005 estimate"
+2010,25828,interpolated,153251,51758,211962,416971,observed Italy,5341,4442,2900,12683,strong,455482,"DE/FR observed; IT CEPEJ observed"
+2015,24299,interpolated,163513,62073,234600,460186,mixed,4163,3675,2336,10174,mixed,494659,"Italy 2015 estimate; French 2015 observed"
+2020,23606,interpolated,165901,70073,239000,474974,mixed,3197,3280,2156,8633,mostly estimated,507213,"Italy 2020 estimate"
+2025,23356,observed,166504,77598,230000,474102,mixed,2954,2890,1927,7771,strong,505229,"A 2025 budget; C 2025 panel; IT bar-roll estimate"
