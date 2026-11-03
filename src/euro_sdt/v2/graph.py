@@ -23,6 +23,7 @@ NETWORK_PREDICATES = {
 OCCUPATIONAL_PREDICATES = {"employed_by", "held_position", "post_mandate_occupation"}
 EDUCATION_PREDICATES = {"educated_at", "studied_field", "held_degree"}
 INSTITUTIONAL_PREDICATES = {"served_on_commission"}
+MEP_CATEGORIES = {"mep", "mep_sdt"}
 AWARD_PREDICATES = {"award_received", "awarded_by"}
 
 
@@ -157,7 +158,7 @@ def _bipartite_projection(edges: list[dict], nodes: dict[str, dict]) -> list[dic
 
 def build_graph(db: sqlite3.Connection, output_dir: Path = GRAPH_DIR) -> dict:
     output_dir.mkdir(parents=True, exist_ok=True)
-    rows = _rows(db)
+    rows = [r for r in _rows(db) if r["subject_category"] not in MEP_CATEGORIES and r["object_category"] not in MEP_CATEGORIES]
     nodes: dict[str, dict] = {}
     edges: list[dict] = []
     seen_edges: set[tuple] = set()

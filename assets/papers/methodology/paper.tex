@@ -121,12 +121,12 @@ Organisation type, funding, headquarters, and descriptions are stored in \texttt
 
 The verified layer renders to a static wiki with 3,485 pages: 460 people, 2,494 organisations, 7 commissions, 519 source documents, plus index, statistics, and citation pages. Each page shows only verified assertions, with role, date, quote, evidence grade, and a link to the source document. Internal links are Obsidian wikilinks; source pages are filtered from the default graph view, so the browsing graph is not dominated by document nodes.
 
-The typed graph is exported separately: 3,101 nodes and 3,884 edges, of which 2,784 are network edges, 632 education, 369 occupational, 94 institutional, and 2 other. The graph is not an Obsidian screenshot: \texttt{nodes.csv}, \texttt{edges.csv}, and \texttt{graph.graphml} carry edge class, predicate, role, grade, quote, document path, SHA-256, and a URL where the source is a public web page. Obsidian is a browsing view; the analysis uses the export.
+The typed graph is exported separately: 3,226 nodes and 3,850 edges, of which 2,837 are network edges, 486 education, 431 occupational, 94 institutional, and 2 other. The graph is not an Obsidian screenshot: \texttt{nodes.csv}, \texttt{edges.csv}, and \texttt{graph.graphml} carry edge class, predicate, role, grade, quote, document path, SHA-256, and a URL where the source is a public web page. Obsidian is a browsing view; the analysis uses the export.
 
 \begin{figure}[htbp]
 \centering
 \includegraphics[width=0.48\textwidth]{graph-view-1.png}
-\caption{Verified elite network (network edges, grades A--B; top nodes by degree). Commissioners are blue, MEPs green, DGs orange, corporate elites red, CJEU members purple, and organisations grey.}
+\caption{Verified elite network (network edges, grades A--B; top nodes by degree). Commissioners are blue, DGs are orange, corporate elites are red, CJEU members are purple, and organisations are grey. MEPs are excluded from the graph.}
 \label{fig:graph1}
 \end{figure}
 
@@ -141,17 +141,17 @@ The review layer is explicit. Assertions that the deterministic checks cannot se
 
 \section{Findings}
 
-The following findings describe the verified subset, not the larger candidate pool. The dataset covers 150 commissioners, 162 MEP-only entities (168 MEPs in the frame; some are merged with commissioner records), 85 DGs and DDGs, 1{,}000 corporate elites, and 98 judicial elites. Coverage is uneven: commissioner education is verified for 119/150, DG/DDG for 78/85, MEP for 91/162, corporate for 64/1{,}000, and judicial for 98/98. The education table below uses the expanded non-MEP frame; the network findings describe the verified graph snapshot. We therefore report descriptive patterns and avoid claims that depend on the unverified remainder.
+The following findings describe the verified subset, not the larger candidate pool. The dataset covers 150 commissioners, 85 DGs and DDGs, 1{,}000 corporate elites, and 98 judicial elites. MEP records are retained in the corpus but excluded from the graph. Coverage is uneven: commissioner education is verified for 119/150, DG/DDG for 78/85, corporate for 64/1{,}000, and judicial for 98/98. The education table below uses the expanded non-MEP frame; the network findings describe the verified graph snapshot. We therefore report descriptive patterns and avoid claims that depend on the unverified remainder.
 
 \subsection{Elite Network Structure}
 
-Commissioners share a policy-institute cluster: the European Council on Foreign Relations (12 commissioners), Friends of Europe (10), Bilderberg (9), and the Trilateral Commission (7). MEPs sit in parliamentary and party structures: the European Parliament (23), the European People's Party (11), the Party of European Socialists (8), with committee memberships at 5--6 each. DGs and DDGs centre on the College of Europe (8). Corporate elites are more fragmented: the largest shared organisation is the European Round Table of Industrialists (3), and 8 of 1{,}000 share an elite-network organisation with a commissioner under our broad list.
+Commissioners share a policy-institute cluster: the European Council on Foreign Relations (12 commissioners), Friends of Europe (10), Bilderberg (9), and the Trilateral Commission (7). DGs and DDGs centre on the College of Europe (8). Corporate elites are more fragmented: the largest shared organisation is the European Round Table of Industrialists (3), and 8 of 1{,}000 share an elite-network organisation with a commissioner under our broad list.
 
 Both groups connect to parties and the Parliament; the commissioner cluster is distinguished by the policy institutes, not by an exclusive network.
 
 \subsection{Atlanticist Influence}
 
-We treat Atlanticist influence as measurable \emph{exposure}, not as a causal claim about policy outcomes. In the verified extract, 34 commissioners have at least one affiliation with an organisation classified as Atlanticist, US-linked, or NATO-adjacent; these 34 people account for 71 affiliation links. The largest organisations are the European Council on Foreign Relations (15 commissioners), Friends of Europe (11), Bilderberg (9), the Trilateral Commission (8), the World Economic Forum (6), and the Atlantic Council (5). The same extract yields three MEP affiliations and two corporate affiliations, and no verified DG/DDG affiliation to these organisations.
+We treat Atlanticist influence as measurable \emph{exposure}, not as a causal claim about policy outcomes. In the verified extract, 34 commissioners have at least one affiliation with an organisation classified as Atlanticist, US-linked, or NATO-adjacent; these 34 people account for 71 affiliation links. The largest organisations are the European Council on Foreign Relations (15 commissioners), Friends of Europe (11), Bilderberg (9), the Trilateral Commission (8), the World Economic Forum (6), and the Atlantic Council (5). The same extract yields two corporate affiliations and no verified DG/DDG affiliation to these organisations.
 
 The classification is a manual seed, not a verified assertion, and the counts measure affiliation rather than influence. They establish a pattern of elite exposure; they do not show that the organisations cause policy preferences or that affiliation translates into power.
 
@@ -215,7 +215,7 @@ Among French commissioners with verified education, Pascal Lamy (ENA, HEC, Scien
 
 \section{Future Work}
 
-Coverage remains uneven: commissioner education 119/150 and organisation affiliation 137/150; DG/DDG 78/85 and 20/85; MEP 91/162 and 118/162; corporate education 64/1{,}000; judicial education 98/98; CJEU organisation affiliation remains sparse. Three tasks follow. First, work the 192 \texttt{needs\_review} assertions and run the grade-A second judge. Second, acquire the missing sources for the corporate, CJEU, DG/DDG, and MEP populations rather than treating their absence as negative evidence. Third, add a formal overrepresentation metric based on Eurostat tertiary education statistics, so claims of elite signalling can be tested against population baselines. Extending the frame to General Court judges and national officials is a further source-acquisition task.
+Coverage remains uneven: commissioner education 119/150 and organisation affiliation 137/150; DG/DDG 78/85 and 20/85; corporate education 64/1{,}000; judicial education 98/98; CJEU organisation affiliation remains sparse. Three tasks follow. First, work the 192 \texttt{needs\_review} assertions and run the grade-A second judge. Second, acquire the missing sources for the corporate, CJEU, and DG/DDG populations rather than treating their absence as negative evidence. Third, add a formal overrepresentation metric based on Eurostat tertiary education statistics, so claims of elite signalling can be tested against population baselines. Extending the frame to General Court judges and national officials is a further source-acquisition task.
 
 \section{Conclusion}
 

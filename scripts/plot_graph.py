@@ -9,6 +9,7 @@ from __future__ import annotations
 
 import argparse
 import csv
+csv.field_size_limit(1_000_000_000)
 from collections import Counter, defaultdict
 from pathlib import Path
 
@@ -21,28 +22,30 @@ from matplotlib.patches import Patch
 
 GRAPH_DIR = Path("graph")
 
+# Okabe-Ito colour-blind-safe palette; stable for every paper figure.
 PERSON_COLORS = {
-    "commissioner": "#4C78A8",
-    "mep": "#59A14F",
-    "mep_sdt": "#59A14F",
-    "dg": "#F28E2B",
-    "ddg": "#F28E2B",
-    "corporate_elite": "#E15759",
-    "cjeu_judge": "#B07AA1",
-    "cjeu_ag": "#B07AA1",
+    "commissioner": "#0072B2",   # blue
+    "dg": "#E69F00",             # orange
+    "ddg": "#E69F00",
+    "corporate_elite": "#D55E00",# vermillion/red
+    "cjeu_judge": "#CC79A7",     # reddish purple
+    "cjeu_ag": "#CC79A7",
+    "cjeu_gc_judge": "#CC79A7",
+    "cjeu_registrar": "#CC79A7",
 }
 KIND_COLORS = {
-    "organisation": "#BAB0AC",
-    "institution": "#BAB0AC",
-    "university": "#9C755F",
-    "commission": "#111111",
+    "organisation": "#999999",
+    "institution": "#999999",
+    "university": "#666666",
+    "commission": "#000000",
 }
-GRADE_COLORS = {"A": "#4C78A8", "B": "#F28E2B", "C": "#E15759"}
+GRADE_COLORS = {"A": "#0072B2", "B": "#E69F00", "C": "#D55E00"}
+EXCLUDED_CATEGORIES = {"mep", "mep_sdt"}
 
 
 def load(nodes_path: Path, edges_path: Path, edge_class: str | None, grades: set[str]):
     with nodes_path.open(newline="", encoding="utf-8") as fh:
-        nodes = {row["id"]: row for row in csv.DictReader(fh)}
+        nodes = {row["id"]: row for row in csv.DictReader(fh) if row.get("category") not in EXCLUDED_CATEGORIES}
     edges = []
     with edges_path.open(newline="", encoding="utf-8") as fh:
         for row in csv.DictReader(fh):
@@ -153,13 +156,12 @@ def plot(nodes_path: Path, edges_path: Path, output: Path, edge_class: str | Non
     ax.set_axis_off()
 
     legend = [
-        Patch(facecolor="#4C78A8", label="Commissioner"),
-        Patch(facecolor="#59A14F", label="MEP"),
-        Patch(facecolor="#F28E2B", label="DG / DDG"),
-        Patch(facecolor="#E15759", label="Corporate elite"),
-        Patch(facecolor="#B07AA1", label="CJEU"),
-        Patch(facecolor="#BAB0AC", label="Organisation"),
-        Patch(facecolor="#111111", label="Commission body"),
+        Patch(facecolor="#0072B2", label="Commissioner"),
+        Patch(facecolor="#E69F00", label="DG / DDG"),
+        Patch(facecolor="#D55E00", label="Corporate elite"),
+        Patch(facecolor="#CC79A7", label="CJEU"),
+        Patch(facecolor="#999999", label="Organisation"),
+        Patch(facecolor="#000000", label="Commission body"),
         Line2D([0], [0], color=GRADE_COLORS["A"], lw=1.2, label="Grade A edge"),
         Line2D([0], [0], color=GRADE_COLORS["B"], lw=1.2, label="Grade B edge"),
         Line2D([0], [0], color=GRADE_COLORS["C"], lw=1.2, label="Grade C edge"),
