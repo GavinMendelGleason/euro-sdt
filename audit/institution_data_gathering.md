@@ -4,7 +4,7 @@
 
 ### Programme cohorts
 
-`institution_cohort` now holds **53 rows** across eight institutions:
+`institution_cohort` now holds **235 rows** across eight institutions. The authoritative catalogue is `data/institutions/time_series_index.csv`; this section is a snapshot and may lag.
 
 | Institution | Rows | Years |
 |---|---:|---|
