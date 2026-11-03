@@ -40,7 +40,7 @@ Detailed URLs and extraction notes: `audit/historical_series_sources.md`. Machin
 
 ## Per-capita version
 
-`assets/papers/methodology/gating-trajectories-per-capita.png` divides each output series by the **EU/EC population of the member states at that date** and expresses the result per 100,000 population. It shows the individual series only; the available-series level mean was removed because its composition changes when series enter or leave. College, Harvard and LSE are plotted at academic-year end, so their 2024--25 outputs appear in 2025. Oxford ends in 2019, LSE in 2021, and Cologne in 2024 because those are their last available data, not because of EU membership.
+`assets/papers/methodology/gating-trajectories-per-capita.png` divides each output series by the **EU/EC population of the member states at that date** and expresses the result per 100,000 population. It shows the individual series only; the available-series level mean was removed because its composition changes when series enter or leave. The paper uses the combined version, `assets/papers/methodology/gating-trajectories-combined.png`, which superimposes the chained index on the same axes. College, Harvard and LSE are plotted at academic-year end, so their 2024--25 outputs appear in 2025. Oxford ends in 2019, LSE in 2021, and Cologne in 2024 because those are their last available data, not because of EU membership.
 
 - Denominator: World Bank `SP.POP.TOTL`, summed over the member states at each date.
 - Membership: EU-6 in 1960; EU-9 from 1973; EU-10 from 1981; EU-12 from 1986; EU-15 from 1995; EU-25 from 2004; EU-27 from 2007; EU-28 from 2013; EU-27 after the UK's 2020 withdrawal.
