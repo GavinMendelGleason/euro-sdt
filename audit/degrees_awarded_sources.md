@@ -6,6 +6,8 @@
 |---|---|---|---|---|
 | Harvard | LL.M. | 1983–2024 | Harvard Fact Books / OIRA / IPEDS | LL.M. degrees conferred |
 | Bocconi | Law (Giuridico / LMG/01) | 2003–2025 | MUR/USTAT `Laureati` | 2004 reform break; law group |
+| UCLouvain | All degrees (institution-wide) | 2001–2020 | CRef annual yearbooks | no 2021–24 |
+| Sciences Po | All degrees (institution-wide) | 2015–2022 | SIES/SISE | no 2001–14, 2023–24 |
 | Bocconi | Economics/management (Economico) | 2010–2025 | MUR/USTAT `Laureati` | discipline-group aggregate, not single programme |
 | LUISS | Law (Giuridico / LMG/01) | 2001–2025 | MUR/USTAT `Laureati` | 2004 reform break; law group |
 | École Polytechnique | Engineering degree | 1995, 2024 | Journal officiel degree lists | observed points only; no annual series |
