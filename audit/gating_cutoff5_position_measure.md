@@ -1,5 +1,7 @@
 # Cutoff ≥5 output per Commission + judiciary position
 
+The original all-available aggregate below is **not comparable across years** because the contributing set changes. It is retained only as a diagnostic. The fixed five-institution panel is in `audit/gating_cutoff5_balanced_measure.md`.
+
 ## Construction
 
 - Numerator: sum of available output for the cutoff-≥5 institutions. Measures are mixed: degrees, graduates, enrolment, examined candidates and first-examination passes.
