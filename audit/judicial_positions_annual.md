@@ -4,6 +4,8 @@ Series used for the cutoff position denominators.
 
 | Year | Positions | Composition |
 |---:|---:|---|
+| 1990–1994 | 34 | 13 ECJ judges + 6 AGs + 15 General Court |
+| 1995–1999 | 39 | 15 ECJ judges + 9 AGs + 15 General Court |
 | 2000–2003 | 39 | 15 ECJ judges + 9 AGs + 15 General Court |
 | 2004–2006 | 58 | 25 + 8 + 25 |
 | 2007–2012 | 62 | 27 + 8 + 27 |
