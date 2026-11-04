@@ -52847,7 +52847,7 @@
       <data key="e_doc_title">Corp Luca De Meo</data>
       <data key="e_doc_path">sources/wikipedia/corp-luca-de-meo.txt</data>
       <data key="e_source_url">https://en.wikipedia.org/wiki/Corp_Luca_De_Meo</data>
-      <data key="e_quote">== Other roles == Teaching fellow at SDA Bocconi School of Management.</data>
+      <data key="e_quote">He studied at Bocconi University in Milan, graduating in 1991 with a degree in business administration.</data>
     </edge>
     <edge id="e2252" source="laszlo-andor" target="corvinus-university-of-budapest">
       <data key="e_predicate">educated_at</data>
