@@ -43,6 +43,10 @@ Missing output: all 36 institutions outside the six covered.
 
 The College-only line is not a good proxy: it overstates the composite by roughly two-thirds. It is also matriculation, not degrees.
 
+## Output collected (partial)
+
+Some output data is now collected for all 12 cutoff-≥5 institutions; see `audit/gating_cutoff5_outputs.md` and `data/analysis/gating_cutoff5_outputs.csv`. Only Stockholm and Tartu have near-complete annual panels; the rest are partial, endpoint-only or use a different metric. No harmonised overproduction test is yet computed.
+
 ## What is still required
 
 A real overproduction test needs total output series for the missing institutions, preferably degrees awarded, plus the position denominator. The current panel does not yet contain those series, so no cutoff-specific overproduction estimate is reported here.

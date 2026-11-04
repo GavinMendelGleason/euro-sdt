@@ -1,0 +1,128 @@
+institution,year,value,metric,source_url,notes
+university-of-cambridge,2000,6156,degrees conferred,https://www.afpa.admin.cam.ac.uk/files/ss_09_10.pdf,2000-2015; 2010-11 and 2011-12 missing
+university-of-cambridge,2001,6376,degrees conferred,https://www.afpa.admin.cam.ac.uk/files/ss_09_10.pdf,2000-2015; 2010-11 and 2011-12 missing
+university-of-cambridge,2002,6233,degrees conferred,https://www.afpa.admin.cam.ac.uk/files/ss_09_10.pdf,2000-2015; 2010-11 and 2011-12 missing
+university-of-cambridge,2003,6504,degrees conferred,https://www.afpa.admin.cam.ac.uk/files/ss_09_10.pdf,2000-2015; 2010-11 and 2011-12 missing
+university-of-cambridge,2004,6452,degrees conferred,https://www.afpa.admin.cam.ac.uk/files/ss_09_10.pdf,2000-2015; 2010-11 and 2011-12 missing
+university-of-cambridge,2005,6655,degrees conferred,https://www.afpa.admin.cam.ac.uk/files/ss_09_10.pdf,2000-2015; 2010-11 and 2011-12 missing
+university-of-cambridge,2006,6794,degrees conferred,https://www.afpa.admin.cam.ac.uk/files/ss_09_10.pdf,2000-2015; 2010-11 and 2011-12 missing
+university-of-cambridge,2007,6568,degrees conferred,https://www.afpa.admin.cam.ac.uk/files/ss_09_10.pdf,2000-2015; 2010-11 and 2011-12 missing
+university-of-cambridge,2008,6749,degrees conferred,https://www.afpa.admin.cam.ac.uk/files/ss_09_10.pdf,2000-2015; 2010-11 and 2011-12 missing
+university-of-cambridge,2009,7110,degrees conferred,https://www.afpa.admin.cam.ac.uk/files/ss_09_10.pdf,2000-2015; 2010-11 and 2011-12 missing
+university-of-cambridge,2012,7947,degrees conferred,https://www.afpa.admin.cam.ac.uk/files/ss_09_10.pdf,2000-2015; 2010-11 and 2011-12 missing
+university-of-cambridge,2013,7963,degrees conferred,https://www.afpa.admin.cam.ac.uk/files/ss_09_10.pdf,2000-2015; 2010-11 and 2011-12 missing
+university-of-cambridge,2014,8105,degrees conferred,https://www.afpa.admin.cam.ac.uk/files/ss_09_10.pdf,2000-2015; 2010-11 and 2011-12 missing
+university-of-cambridge,2014,7355,HE qualifiers (all levels),https://cdn.hesa.ac.uk/open-data/ODSTU2021-22/table-16.csv,"institution-wide qualifiers, not degrees"
+university-of-cambridge,2015,7230,HE qualifiers (all levels),https://cdn.hesa.ac.uk/open-data/ODSTU2021-22/table-16.csv,"institution-wide qualifiers, not degrees"
+university-of-cambridge,2016,7670,HE qualifiers (all levels),https://cdn.hesa.ac.uk/open-data/ODSTU2021-22/table-16.csv,"institution-wide qualifiers, not degrees"
+university-of-cambridge,2017,7715,HE qualifiers (all levels),https://cdn.hesa.ac.uk/open-data/ODSTU2021-22/table-16.csv,"institution-wide qualifiers, not degrees"
+university-of-cambridge,2018,8675,HE qualifiers (all levels),https://cdn.hesa.ac.uk/open-data/ODSTU2021-22/table-16.csv,"institution-wide qualifiers, not degrees"
+university-of-cambridge,2019,7855,HE qualifiers (all levels),https://cdn.hesa.ac.uk/open-data/ODSTU2021-22/table-16.csv,"institution-wide qualifiers, not degrees"
+university-of-cambridge,2020,8760,HE qualifiers (all levels),https://cdn.hesa.ac.uk/open-data/ODSTU2021-22/table-16.csv,"institution-wide qualifiers, not degrees"
+university-of-cambridge,2021,8840,HE qualifiers (all levels),https://cdn.hesa.ac.uk/open-data/ODSTU2021-22/table-16.csv,"institution-wide qualifiers, not degrees"
+georgetown-university,2000,3843,degrees awarded,https://educationdata.urban.org/api/v1/college-university/ipeds/completions-cip-6/2023/?unitid=131496&cipcode_6digit=99&race=99&sex=99,first majors; 2020 omitted as suspected duplicate
+georgetown-university,2001,3862,degrees awarded,https://educationdata.urban.org/api/v1/college-university/ipeds/completions-cip-6/2023/?unitid=131496&cipcode_6digit=99&race=99&sex=99,first majors; 2020 omitted as suspected duplicate
+georgetown-university,2002,4011,degrees awarded,https://educationdata.urban.org/api/v1/college-university/ipeds/completions-cip-6/2023/?unitid=131496&cipcode_6digit=99&race=99&sex=99,first majors; 2020 omitted as suspected duplicate
+georgetown-university,2003,4161,degrees awarded,https://educationdata.urban.org/api/v1/college-university/ipeds/completions-cip-6/2023/?unitid=131496&cipcode_6digit=99&race=99&sex=99,first majors; 2020 omitted as suspected duplicate
+georgetown-university,2004,4274,degrees awarded,https://educationdata.urban.org/api/v1/college-university/ipeds/completions-cip-6/2023/?unitid=131496&cipcode_6digit=99&race=99&sex=99,first majors; 2020 omitted as suspected duplicate
+georgetown-university,2005,4317,degrees awarded,https://educationdata.urban.org/api/v1/college-university/ipeds/completions-cip-6/2023/?unitid=131496&cipcode_6digit=99&race=99&sex=99,first majors; 2020 omitted as suspected duplicate
+georgetown-university,2006,4410,degrees awarded,https://educationdata.urban.org/api/v1/college-university/ipeds/completions-cip-6/2023/?unitid=131496&cipcode_6digit=99&race=99&sex=99,first majors; 2020 omitted as suspected duplicate
+georgetown-university,2007,4551,degrees awarded,https://educationdata.urban.org/api/v1/college-university/ipeds/completions-cip-6/2023/?unitid=131496&cipcode_6digit=99&race=99&sex=99,first majors; 2020 omitted as suspected duplicate
+georgetown-university,2008,4897,degrees awarded,https://educationdata.urban.org/api/v1/college-university/ipeds/completions-cip-6/2023/?unitid=131496&cipcode_6digit=99&race=99&sex=99,first majors; 2020 omitted as suspected duplicate
+georgetown-university,2009,5130,degrees awarded,https://educationdata.urban.org/api/v1/college-university/ipeds/completions-cip-6/2023/?unitid=131496&cipcode_6digit=99&race=99&sex=99,first majors; 2020 omitted as suspected duplicate
+georgetown-university,2010,5479,degrees awarded,https://educationdata.urban.org/api/v1/college-university/ipeds/completions-cip-6/2023/?unitid=131496&cipcode_6digit=99&race=99&sex=99,first majors; 2020 omitted as suspected duplicate
+georgetown-university,2011,5643,degrees awarded,https://educationdata.urban.org/api/v1/college-university/ipeds/completions-cip-6/2023/?unitid=131496&cipcode_6digit=99&race=99&sex=99,first majors; 2020 omitted as suspected duplicate
+georgetown-university,2012,5774,degrees awarded,https://educationdata.urban.org/api/v1/college-university/ipeds/completions-cip-6/2023/?unitid=131496&cipcode_6digit=99&race=99&sex=99,first majors; 2020 omitted as suspected duplicate
+georgetown-university,2013,5958,degrees awarded,https://educationdata.urban.org/api/v1/college-university/ipeds/completions-cip-6/2023/?unitid=131496&cipcode_6digit=99&race=99&sex=99,first majors; 2020 omitted as suspected duplicate
+georgetown-university,2014,6175,degrees awarded,https://educationdata.urban.org/api/v1/college-university/ipeds/completions-cip-6/2023/?unitid=131496&cipcode_6digit=99&race=99&sex=99,first majors; 2020 omitted as suspected duplicate
+georgetown-university,2015,6418,degrees awarded,https://educationdata.urban.org/api/v1/college-university/ipeds/completions-cip-6/2023/?unitid=131496&cipcode_6digit=99&race=99&sex=99,first majors; 2020 omitted as suspected duplicate
+georgetown-university,2016,6534,degrees awarded,https://educationdata.urban.org/api/v1/college-university/ipeds/completions-cip-6/2023/?unitid=131496&cipcode_6digit=99&race=99&sex=99,first majors; 2020 omitted as suspected duplicate
+georgetown-university,2017,6624,degrees awarded,https://educationdata.urban.org/api/v1/college-university/ipeds/completions-cip-6/2023/?unitid=131496&cipcode_6digit=99&race=99&sex=99,first majors; 2020 omitted as suspected duplicate
+georgetown-university,2018,6811,degrees awarded,https://educationdata.urban.org/api/v1/college-university/ipeds/completions-cip-6/2023/?unitid=131496&cipcode_6digit=99&race=99&sex=99,first majors; 2020 omitted as suspected duplicate
+georgetown-university,2019,6906,degrees awarded,https://educationdata.urban.org/api/v1/college-university/ipeds/completions-cip-6/2023/?unitid=131496&cipcode_6digit=99&race=99&sex=99,first majors; 2020 omitted as suspected duplicate
+georgetown-university,2021,6682,degrees awarded,https://educationdata.urban.org/api/v1/college-university/ipeds/completions-cip-6/2023/?unitid=131496&cipcode_6digit=99&race=99&sex=99,first majors; 2020 omitted as suspected duplicate
+georgetown-university,2022,7123,degrees awarded,https://educationdata.urban.org/api/v1/college-university/ipeds/completions-cip-6/2023/?unitid=131496&cipcode_6digit=99&race=99&sex=99,first majors; 2020 omitted as suspected duplicate
+georgetown-university,2023,7461,degrees awarded,https://educationdata.urban.org/api/v1/college-university/ipeds/completions-cip-6/2023/?unitid=131496&cipcode_6digit=99&race=99&sex=99,first majors; 2020 omitted as suspected duplicate
+georgetown-university,2024,7306,degrees awarded,https://educationdata.urban.org/api/v1/college-university/ipeds/completions-cip-6/2023/?unitid=131496&cipcode_6digit=99&race=99&sex=99,first majors; 2020 omitted as suspected duplicate
+uclouvain,2000,5960,degrees awarded,http://www.cref.be/annuaires/2022/tab_2-2-3.pdf,"academic years 2000-01, 2020-21; Bologna break"
+uclouvain,2020,8648,degrees awarded,http://www.cref.be/annuaires/2022/tab_2-2-3.pdf,"academic years 2000-01, 2020-21; Bologna break"
+universite-libre-de-bruxelles,2000,5514,degrees awarded,http://www.cref.be/annuaires/2022/tab_2-2-3.pdf,"academic years 2000-01, 2020-21; Bologna break"
+universite-libre-de-bruxelles,2020,8062,degrees awarded,http://www.cref.be/annuaires/2022/tab_2-2-3.pdf,"academic years 2000-01, 2020-21; Bologna break"
+stockholm-university,2000,3062,degrees awarded,https://statistikdatabasen.scb.se/api/v2/tables/TAB1112/data,"academic year start; examinations, excluding doctorates; 2016/17 outlier"
+stockholm-university,2001,2905,degrees awarded,https://statistikdatabasen.scb.se/api/v2/tables/TAB1112/data,"academic year start; examinations, excluding doctorates; 2016/17 outlier"
+stockholm-university,2002,3266,degrees awarded,https://statistikdatabasen.scb.se/api/v2/tables/TAB1112/data,"academic year start; examinations, excluding doctorates; 2016/17 outlier"
+stockholm-university,2003,3232,degrees awarded,https://statistikdatabasen.scb.se/api/v2/tables/TAB1112/data,"academic year start; examinations, excluding doctorates; 2016/17 outlier"
+stockholm-university,2004,3515,degrees awarded,https://statistikdatabasen.scb.se/api/v2/tables/TAB1112/data,"academic year start; examinations, excluding doctorates; 2016/17 outlier"
+stockholm-university,2005,3532,degrees awarded,https://statistikdatabasen.scb.se/api/v2/tables/TAB1112/data,"academic year start; examinations, excluding doctorates; 2016/17 outlier"
+stockholm-university,2006,3497,degrees awarded,https://statistikdatabasen.scb.se/api/v2/tables/TAB1112/data,"academic year start; examinations, excluding doctorates; 2016/17 outlier"
+stockholm-university,2007,3663,degrees awarded,https://statistikdatabasen.scb.se/api/v2/tables/TAB1112/data,"academic year start; examinations, excluding doctorates; 2016/17 outlier"
+stockholm-university,2008,4128,degrees awarded,https://statistikdatabasen.scb.se/api/v2/tables/TAB1112/data,"academic year start; examinations, excluding doctorates; 2016/17 outlier"
+stockholm-university,2009,4902,degrees awarded,https://statistikdatabasen.scb.se/api/v2/tables/TAB1112/data,"academic year start; examinations, excluding doctorates; 2016/17 outlier"
+stockholm-university,2010,6083,degrees awarded,https://statistikdatabasen.scb.se/api/v2/tables/TAB1112/data,"academic year start; examinations, excluding doctorates; 2016/17 outlier"
+stockholm-university,2011,5346,degrees awarded,https://statistikdatabasen.scb.se/api/v2/tables/TAB1112/data,"academic year start; examinations, excluding doctorates; 2016/17 outlier"
+stockholm-university,2012,5731,degrees awarded,https://statistikdatabasen.scb.se/api/v2/tables/TAB1112/data,"academic year start; examinations, excluding doctorates; 2016/17 outlier"
+stockholm-university,2013,6448,degrees awarded,https://statistikdatabasen.scb.se/api/v2/tables/TAB1112/data,"academic year start; examinations, excluding doctorates; 2016/17 outlier"
+stockholm-university,2014,6666,degrees awarded,https://statistikdatabasen.scb.se/api/v2/tables/TAB1112/data,"academic year start; examinations, excluding doctorates; 2016/17 outlier"
+stockholm-university,2015,6251,degrees awarded,https://statistikdatabasen.scb.se/api/v2/tables/TAB1112/data,"academic year start; examinations, excluding doctorates; 2016/17 outlier"
+stockholm-university,2016,4628,degrees awarded,https://statistikdatabasen.scb.se/api/v2/tables/TAB1112/data,"academic year start; examinations, excluding doctorates; 2016/17 outlier"
+stockholm-university,2017,6477,degrees awarded,https://statistikdatabasen.scb.se/api/v2/tables/TAB1112/data,"academic year start; examinations, excluding doctorates; 2016/17 outlier"
+stockholm-university,2018,6167,degrees awarded,https://statistikdatabasen.scb.se/api/v2/tables/TAB1112/data,"academic year start; examinations, excluding doctorates; 2016/17 outlier"
+stockholm-university,2019,6922,degrees awarded,https://statistikdatabasen.scb.se/api/v2/tables/TAB1112/data,"academic year start; examinations, excluding doctorates; 2016/17 outlier"
+stockholm-university,2020,6443,degrees awarded,https://statistikdatabasen.scb.se/api/v2/tables/TAB1112/data,"academic year start; examinations, excluding doctorates; 2016/17 outlier"
+stockholm-university,2021,6757,degrees awarded,https://statistikdatabasen.scb.se/api/v2/tables/TAB1112/data,"academic year start; examinations, excluding doctorates; 2016/17 outlier"
+stockholm-university,2022,6060,degrees awarded,https://statistikdatabasen.scb.se/api/v2/tables/TAB1112/data,"academic year start; examinations, excluding doctorates; 2016/17 outlier"
+stockholm-university,2023,7170,degrees awarded,https://statistikdatabasen.scb.se/api/v2/tables/TAB1112/data,"academic year start; examinations, excluding doctorates; 2016/17 outlier"
+stockholm-university,2024,7210,degrees awarded,https://statistikdatabasen.scb.se/api/v2/tables/TAB1112/data,"academic year start; examinations, excluding doctorates; 2016/17 outlier"
+university-of-tartu,2007,3549,graduates,https://ut.ee/et/sisu/aastaaruanded,"persons completing, includes doctoral"
+university-of-tartu,2008,2937,graduates,https://ut.ee/et/sisu/aastaaruanded,"persons completing, includes doctoral"
+university-of-tartu,2009,2726,graduates,https://ut.ee/et/sisu/aastaaruanded,"persons completing, includes doctoral"
+university-of-tartu,2010,3145,graduates,https://ut.ee/et/sisu/aastaaruanded,"persons completing, includes doctoral"
+university-of-tartu,2011,3132,graduates,https://ut.ee/et/sisu/aastaaruanded,"persons completing, includes doctoral"
+university-of-tartu,2012,3038,graduates,https://ut.ee/et/sisu/aastaaruanded,"persons completing, includes doctoral"
+university-of-tartu,2013,3117,graduates,https://ut.ee/et/sisu/aastaaruanded,"persons completing, includes doctoral"
+university-of-tartu,2014,2907,graduates,https://ut.ee/et/sisu/aastaaruanded,"persons completing, includes doctoral"
+university-of-tartu,2015,2887,graduates,https://ut.ee/et/sisu/aastaaruanded,"persons completing, includes doctoral"
+university-of-tartu,2016,2871,graduates,https://ut.ee/et/sisu/aastaaruanded,"persons completing, includes doctoral"
+university-of-tartu,2017,2625,graduates,https://ut.ee/et/sisu/aastaaruanded,"persons completing, includes doctoral"
+university-of-tartu,2018,2630,graduates,https://ut.ee/et/sisu/aastaaruanded,"persons completing, includes doctoral"
+university-of-tartu,2019,2715,graduates,https://ut.ee/et/sisu/aastaaruanded,"persons completing, includes doctoral"
+university-of-tartu,2020,2778,graduates,https://ut.ee/et/sisu/aastaaruanded,"persons completing, includes doctoral"
+university-of-tartu,2021,2961,graduates,https://ut.ee/et/sisu/aastaaruanded,"persons completing, includes doctoral"
+university-of-tartu,2022,2764,graduates,https://ut.ee/et/sisu/aastaaruanded,"persons completing, includes doctoral"
+university-of-tartu,2023,2919,graduates,https://ut.ee/et/sisu/aastaaruanded,"persons completing, includes doctoral"
+university-of-tartu,2024,3178,graduates,https://ut.ee/et/sisu/aastaaruanded,"persons completing, includes doctoral"
+university-of-tartu,2025,3425,graduates,https://ut.ee/et/sisu/aastaaruanded,"persons completing, includes doctoral"
+vilnius-university,2019,4120,graduates,https://www.vu.lt/uploads/Vilnius_University_Performance_Report_2025_9e38838e56.pdf,all cycles
+vilnius-university,2020,3891,graduates,https://www.vu.lt/uploads/Vilnius_University_Performance_Report_2025_9e38838e56.pdf,all cycles
+vilnius-university,2021,4566,graduates,https://www.vu.lt/uploads/Vilnius_University_Performance_Report_2025_9e38838e56.pdf,all cycles
+vilnius-university,2022,4495,graduates,https://www.vu.lt/uploads/Vilnius_University_Performance_Report_2025_9e38838e56.pdf,all cycles
+vilnius-university,2023,4623,graduates,https://www.vu.lt/uploads/Vilnius_University_Performance_Report_2025_9e38838e56.pdf,all cycles
+vilnius-university,2024,4844,graduates,https://www.vu.lt/uploads/Vilnius_University_Performance_Report_2025_9e38838e56.pdf,all cycles
+vilnius-university,2025,5010,graduates,https://www.vu.lt/uploads/Vilnius_University_Performance_Report_2025_9e38838e56.pdf,all cycles
+university-of-ljubljana,2010,9811,graduates,https://www.uni-lj.si/assets/Sluzba-za-kakovost-in-podporo-strateskemu-upravljanju/Letna-porocila/Letno-porocilo-2025-Poslovno-porocilo-s-porocilom-o-kakovosti-in-racunovodsko-porocilo.pdf,2013 shared programme half-count; 2015-17 missing
+university-of-ljubljana,2011,9904,graduates,https://www.uni-lj.si/assets/Sluzba-za-kakovost-in-podporo-strateskemu-upravljanju/Letna-porocila/Letno-porocilo-2025-Poslovno-porocilo-s-porocilom-o-kakovosti-in-racunovodsko-porocilo.pdf,2013 shared programme half-count; 2015-17 missing
+university-of-ljubljana,2012,9878,graduates,https://www.uni-lj.si/assets/Sluzba-za-kakovost-in-podporo-strateskemu-upravljanju/Letna-porocila/Letno-porocilo-2025-Poslovno-porocilo-s-porocilom-o-kakovosti-in-racunovodsko-porocilo.pdf,2013 shared programme half-count; 2015-17 missing
+university-of-ljubljana,2013,9619.5,graduates,https://www.uni-lj.si/assets/Sluzba-za-kakovost-in-podporo-strateskemu-upravljanju/Letna-porocila/Letno-porocilo-2025-Poslovno-porocilo-s-porocilom-o-kakovosti-in-racunovodsko-porocilo.pdf,2013 shared programme half-count; 2015-17 missing
+university-of-ljubljana,2014,9063,graduates,https://www.uni-lj.si/assets/Sluzba-za-kakovost-in-podporo-strateskemu-upravljanju/Letna-porocila/Letno-porocilo-2025-Poslovno-porocilo-s-porocilom-o-kakovosti-in-racunovodsko-porocilo.pdf,2013 shared programme half-count; 2015-17 missing
+university-of-ljubljana,2018,8745,graduates,https://www.uni-lj.si/assets/Sluzba-za-kakovost-in-podporo-strateskemu-upravljanju/Letna-porocila/Letno-porocilo-2025-Poslovno-porocilo-s-porocilom-o-kakovosti-in-racunovodsko-porocilo.pdf,2013 shared programme half-count; 2015-17 missing
+university-of-ljubljana,2019,8264,graduates,https://www.uni-lj.si/assets/Sluzba-za-kakovost-in-podporo-strateskemu-upravljanju/Letna-porocila/Letno-porocilo-2025-Poslovno-porocilo-s-porocilom-o-kakovosti-in-racunovodsko-porocilo.pdf,2013 shared programme half-count; 2015-17 missing
+university-of-ljubljana,2020,7786,graduates,https://www.uni-lj.si/assets/Sluzba-za-kakovost-in-podporo-strateskemu-upravljanju/Letna-porocila/Letno-porocilo-2025-Poslovno-porocilo-s-porocilom-o-kakovosti-in-racunovodsko-porocilo.pdf,2013 shared programme half-count; 2015-17 missing
+university-of-ljubljana,2021,8296,graduates,https://www.uni-lj.si/assets/Sluzba-za-kakovost-in-podporo-strateskemu-upravljanju/Letna-porocila/Letno-porocilo-2025-Poslovno-porocilo-s-porocilom-o-kakovosti-in-racunovodsko-porocilo.pdf,2013 shared programme half-count; 2015-17 missing
+university-of-ljubljana,2022,7818,graduates,https://www.uni-lj.si/assets/Sluzba-za-kakovost-in-podporo-strateskemu-upravljanju/Letna-porocila/Letno-porocilo-2025-Poslovno-porocilo-s-porocilom-o-kakovosti-in-racunovodsko-porocilo.pdf,2013 shared programme half-count; 2015-17 missing
+university-of-ljubljana,2023,8101,graduates,https://www.uni-lj.si/assets/Sluzba-za-kakovost-in-podporo-strateskemu-upravljanju/Letna-porocila/Letno-porocilo-2025-Poslovno-porocilo-s-porocilom-o-kakovosti-in-racunovodsko-porocilo.pdf,2013 shared programme half-count; 2015-17 missing
+university-of-ljubljana,2024,8315,graduates,https://www.uni-lj.si/assets/Sluzba-za-kakovost-in-podporo-strateskemu-upravljanju/Letna-porocila/Letno-porocilo-2025-Poslovno-porocilo-s-porocilom-o-kakovosti-in-racunovodsko-porocilo.pdf,2013 shared programme half-count; 2015-17 missing
+university-of-ljubljana,2025,8658,graduates,https://www.uni-lj.si/assets/Sluzba-za-kakovost-in-podporo-strateskemu-upravljanju/Letna-porocila/Letno-porocilo-2025-Poslovno-porocilo-s-porocilom-o-kakovosti-in-racunovodsko-porocilo.pdf,2013 shared programme half-count; 2015-17 missing
+university-of-malta,2022,2517,degrees awarded,https://www.um.edu.mt/media/um/docs/about/factsandfigures/annualreport2024.pdf,"graduation-cycle; degrees, not certificates"
+university-of-malta,2023,3234,degrees awarded,https://www.um.edu.mt/media/um/docs/about/factsandfigures/annualreport2024.pdf,"graduation-cycle; degrees, not certificates"
+universite-paris-ii-pantheon-assas,2015,4899,degrees awarded,https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr_esr_sise_diplomes_delivres_esr_public/,academic years 2015-16 to 2021-22
+universite-paris-ii-pantheon-assas,2016,4893,degrees awarded,https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr_esr_sise_diplomes_delivres_esr_public/,academic years 2015-16 to 2021-22
+universite-paris-ii-pantheon-assas,2017,5057,degrees awarded,https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr_esr_sise_diplomes_delivres_esr_public/,academic years 2015-16 to 2021-22
+universite-paris-ii-pantheon-assas,2018,5141,degrees awarded,https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr_esr_sise_diplomes_delivres_esr_public/,academic years 2015-16 to 2021-22
+universite-paris-ii-pantheon-assas,2019,5483,degrees awarded,https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr_esr_sise_diplomes_delivres_esr_public/,academic years 2015-16 to 2021-22
+universite-paris-ii-pantheon-assas,2020,6510,degrees awarded,https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr_esr_sise_diplomes_delivres_esr_public/,academic years 2015-16 to 2021-22
+universite-paris-ii-pantheon-assas,2021,6460,degrees awarded,https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr_esr_sise_diplomes_delivres_esr_public/,academic years 2015-16 to 2021-22
+national-and-kapodistrian-university-of-athens,2020,10685,graduates,https://www.statistics.gr/documents/20181/f64faed3-dd2e-bf89-8b05-617907cb0f36,undergraduate+postgraduate+doctoral
+national-and-kapodistrian-university-of-athens,2021,10641,graduates,https://www.statistics.gr/documents/20181/f64faed3-dd2e-bf89-8b05-617907cb0f36,undergraduate+postgraduate+doctoral
+national-and-kapodistrian-university-of-athens,2022,10922,graduates,https://www.statistics.gr/documents/20181/f64faed3-dd2e-bf89-8b05-617907cb0f36,undergraduate+postgraduate+doctoral
+national-and-kapodistrian-university-of-athens,2023,10973,graduates,https://www.statistics.gr/documents/20181/f64faed3-dd2e-bf89-8b05-617907cb0f36,undergraduate+postgraduate+doctoral
+charles-university,2024,8939,graduates,https://cuni.cz/UK-8533-version1-uk_vyrocni_zprava_2024_150dpi_2stran.pdf,all faculties and degree types
