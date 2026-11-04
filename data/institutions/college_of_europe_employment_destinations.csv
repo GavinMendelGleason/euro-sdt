@@ -1,0 +1,6 @@
+observation_id,observation_date,date_precision,population,eu_pct,national_regional_public_pct,sample_n,source_id,note
+COE-2002-08,2002-08,month,college_alumni,22.63,17.39,2748,S01,"Count-derived from 622 EU and 478 national counts over 2,748"
+COE-2016-09,2016-09,month,college_alumni,26.00,10.00,NA,S02,"College-wide alumni employment survey"
+COE-2018-04,2018-04,month,college_alumni,26.23,12.53,NA,S03,"College-wide alumni employment data"
+COE-2019-06,2019-06,month,college_alumni,24.85,10.17,NA,S04,"College-wide alumni employment data"
+COE-2020-12,2020-12,month,college_alumni,25.30,10.60,NA,S05,"College-wide career statistics"
