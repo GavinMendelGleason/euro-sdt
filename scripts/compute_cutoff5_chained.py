@@ -35,7 +35,8 @@ def ap(y):
  for a,b in zip(py,py[1:]):
   if a<=y<=b: return panel[a]+(panel[b]-panel[a])*(y-a)/(b-a)
  return panel[py[-1]]
-den={y:ap(y)+92 for y in range(2000,2026)}
+jud={int(r['year']):int(r['judicial_positions']) for r in csv.DictReader(open('data/denominator/judicial_positions_annual.csv'))}
+den={y:ap(y)+jud[y] for y in range(2000,2026)}
 rate={n:{y:v/den[y] for y,v in obs.items() if 2000<=y<=2025} for n,obs in series.items()}
 growth=defaultdict(list)
 for obs in rate.values():

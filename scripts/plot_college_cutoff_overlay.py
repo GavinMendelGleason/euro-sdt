@@ -16,7 +16,8 @@ def ap(y):
  for a,b in zip(py,py[1:]):
   if a<=y<=b: return panel[a]+(panel[b]-panel[a])*(y-a)/(b-a)
  return panel[py[-1]]
-rate={y:v/(ap(y)+92) for y,v in col.items()}
+jud={int(r['year']):int(r['judicial_positions']) for r in csv.DictReader(open('data/denominator/judicial_positions_annual.csv'))}
+rate={y:v/(ap(y)+jud[y]) for y,v in col.items()}
 ys=sorted(rate); idx={2000:100.0}; cur=100
 for a,b in zip(ys,ys[1:]):
  g=math.log(rate[b]/rate[a])/(b-a)
@@ -32,7 +33,7 @@ for series,name,color in [(idx,'College',"#0072B2"),(comp,'Composite','#333333')
 ax.set_xlim(1999,2026); ax.set_ylim(80,320)
 ax.set_xlabel('Year'); ax.set_ylabel('Chained median index (2000 = 100)')
 fig.suptitle('College of Europe vs the cutoff ≥5 composite',x=0.012,y=0.985,ha='left',fontsize=13,fontweight='bold')
-fig.text(0.012,0.925,'Both divide output by Commission posts + 92 judicial positions; College uses enrolment, composite uses available output measures.',ha='left',fontsize=7.5,color='#555')
+fig.text(0.012,0.925,'Both divide output by Commission posts + annual judicial positions; College uses enrolment, composite uses available output measures.',ha='left',fontsize=7.5,color='#555')
 ax.grid(axis='y',alpha=.25); ax.legend(frameon=False,fontsize=9)
 fig.tight_layout(rect=[0,0,1,0.88])
 out=Path('assets/papers/methodology/college-vs-cutoff5-index.png')

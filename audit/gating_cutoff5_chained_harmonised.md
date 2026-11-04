@@ -32,7 +32,7 @@ Observed intervals are annualised and distributed across intervening years. Base
 | 2010 | 119.8 | 9 |
 | 2015 | 126.5 | 11 |
 | 2020 | 132.0 | 13 |
-| 2025 | 148.2 | 4 |
+| 2025 | 147.9 | 4 |
 
 ## Interpretation
 

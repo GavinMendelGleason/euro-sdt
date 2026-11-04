@@ -46,11 +46,11 @@ def interp(y):
  for a,b in zip(years,years[1:]):
   if a<=y<=b: return panel[a]+(panel[b]-panel[a])*(y-a)/(b-a)
  return panel[years[-1]]
-JUD=92
+JUD={int(r['year']):int(r['judicial_positions']) for r in csv.DictReader(open('data/denominator/judicial_positions_annual.csv'))}
 out=[]
 for y in sorted(by):
- den=interp(y)+JUD
- out.append({'year':y,'aggregate_output':round(by[y],1),'contributing_institutions':len(contrib[y]),'commission_posts':round(interp(y),1),'judicial_positions':JUD,'denominator':round(den,1),'output_per_1000_positions':round(1000*by[y]/den,2)})
+ den=interp(y)+JUD[y]
+ out.append({'year':y,'aggregate_output':round(by[y],1),'contributing_institutions':len(contrib[y]),'commission_posts':round(interp(y),1),'judicial_positions':JUD[y],'denominator':round(den,1),'output_per_1000_positions':round(1000*by[y]/den,2)})
 p=Path('data/analysis/gating_cutoff5_output_per_position.csv');p.parent.mkdir(exist_ok=True)
 with p.open('w',newline='') as f:
  w=csv.DictWriter(f,fieldnames=list(out[0]));w.writeheader();w.writerows(out)
@@ -61,7 +61,7 @@ for r in out:
   ax.annotate(f"n={r['contributing_institutions']}",xy=(r['year'],r['output_per_1000_positions']),xytext=(4,5),textcoords='offset points',fontsize=7)
 ax.set_xlabel('Year');ax.set_ylabel('Aggregate output per 1,000 Commission + judicial positions')
 fig.suptitle('Cutoff ≥5: aggregate output / Commission + judiciary positions',x=0.012,y=0.985,ha='left',fontsize=13,fontweight='bold')
-fig.text(0.012,0.925,'Numerator: sum of available institutional output; measures differ. denominator: Commission posts (interpolated) + 92 judicial positions (constant).',ha='left',fontsize=7.5,color='#555')
+fig.text(0.012,0.925,'Numerator: sum of available institutional output; measures differ. denominator: Commission posts (interpolated) + annual judicial positions.',ha='left',fontsize=7.5,color='#555')
 ax.grid(axis='y',alpha=.25)
 fig.tight_layout(rect=[0,0,1,0.88])
 img=Path('assets/papers/methodology/gating-cutoff5-output-per-position.png')
