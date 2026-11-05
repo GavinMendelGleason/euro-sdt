@@ -80,7 +80,7 @@ The study population is a set of unique people, not person--term observations: 1
 
 \subsection{System Architecture}
 
-The implementation is a SQLite evidence store plus a GraphML/CSV export. The stages are implemented as separate modules rather than a single orchestrator.
+The pipeline has six stages: acquire and hash sources; segment each source into sentences with exact character offsets; propose candidate claims; locate and grade their evidence; adjudicate uncertain evidence; and resolve entities and render the graph. Each stage writes a durable artifact: a source snapshot, a sentence table, claim and evidence rows, assertion decisions, and a graph export.
 
 \subsection{Database Schema}
 
@@ -125,40 +125,6 @@ The registry resolves names with a deterministic merge key that strips parenthet
 \subsection{Organisation Profiles}
 
 Organisation type, funding, headquarters, and descriptions are stored in \texttt{organisation\_profile}, separate from graph edges. The current seed is manually researched and marked \texttt{manual\_seed}; it is not presented as a sourced assertion. The graph does not use LLM-generated classifications for colouring or analysis. Entity categories come from the registry, and uncertain classifications remain in the review queue.
-
-\section{Methodology II: Network acquisition, extraction, and cross-checking}
-
-The first methods section describes the evidence model. This section describes the operational path from source acquisition to the network artifact, including what is extracted, what is checked deterministically, and what remains a human or model judgement.
-
-\subsection{How the network is obtained}
-
-The network is assembled from a fixed roster, not from a snowball sample. The roster contains 150 commissioners across seven terms, 85 Directors-General and Deputy Directors-General, 1{,}000 corporate elites, and 98 judicial elites; MEP records are retained as a separate corpus but excluded from the network analyses. Each person is linked to source documents through a controlled acquisition registry. Sources include Wikipedia biographies, Commission CVs and person pages, Court of Justice biographies, declarations of interests, and College of Europe material. Each fetched source is stored as a local snapshot with its URL, retrieval date, SHA-256 hash, and text version; the current corpus contains 823 source documents.
-
-Source texts are segmented once into sentences with exact character offsets. The sentence ID and character span, not a list position, are the only locators used downstream. The graph is then built from \emph{claims}, not from raw text. A claim records a subject, a predicate, an object, an optional role, and dates. Predicates are grouped into network, occupational, education, institutional, and award classes. A network edge is therefore a documented person--organisation relation such as membership, board membership, advisory board, chair, fellowship, affiliation, or attendance. It is not a person-to-person friendship edge, and co-affiliation is reported only as a separate descriptive projection, never as an observed tie.
-
-Only verified assertions with an active subject and object enter the graph export. Each edge carries its predicate, role, dates, evidence grade, number of sources, exact quote, document ID, document title, document path, document hash, and source URL. This makes every metric recomputable on a filtered graph. The current export contains 3{,}226 nodes and 3{,}850 edges, of which 2{,}837 are network edges, 486 education, 431 occupational, 94 institutional, and 2 other; 3{,}211 edges are grade A, 297 grade B, and 342 grade C.
-
-\subsection{How data are extracted}
-
-Extraction is phrase-level and claim-producing. Long biographies are never truncated: each document is chunked into contiguous spans of at most 40 sentences or roughly 12{,}000 characters, with two sentences of overlap. The model receives numbered sentences and is asked for a structured record containing an organisation name exactly as written, a role phrase, a relation from a controlled vocabulary, the exact evidence sentence, and its sentence number. The prompt states inclusion and exclusion rules: formal memberships, boards, advisory boards, chairs, employment, founders, fellowships, party membership, and formal affiliations are included; universities and schools, passing mentions, awards, and generic role titles are excluded from organisation extraction.
-
-The model runs at temperature zero with thinking disabled for the main extraction pass, and every prompt/response pair is cached by a model-aware hash. The cache is a reproducibility aid, not a source of truth: a cached extraction still has to pass the locator and the adjudicator. The output is a candidate claim. It is not entered as a fact, and a model assertion is never treated as evidence for itself.
-
-\subsection{How claims are cross-checked}
-
-Cross-checking has three independent layers.
-
-\begin{enumerate}
-\item \textbf{Deterministic location.} A separate locator searches the stored source text for a normalised prefix of the proposed quote, starting at 240 characters and shortening to 40 if necessary. It returns exact character offsets and sentence ordinals. If no normalised match is found, the claim is rejected rather than assigned a guessed phrase index. A prefix match is recorded as a prefix match; the unmatched remainder is not treated as supported.
-\item \textbf{Evidence grading.} The located span is graded A, B or C. Grade A requires subject, object and a role keyword in the span, allowing the subject to be supplied by the document's subject identity. Grade B has subject and object with an implicit role. Grade C is missing a required element and is sent to adjudication. The grade describes what the span contains; it does not establish grammatical entailment, negation, date validity or factual truth.
-\item \textbf{Second adjudication and review.} Uncertain claims are submitted to a second model adjudicator with the claim, the located quote and the source context. The adjudicator records a decision and a reason. Contradictions, ambiguous dates, and claims whose object or role is not supported are rejected or placed in the human review queue. Rejections and reviews are durable rows, not silent deletions.
-\end{enumerate}
-
-A verified assertion must have at least one located evidence row. The invariant checker enforces this, together with source hashes, foreign keys, and the absence of duplicate active entities. The graph export is generated from the accepted rows, and the paper's counts are read from that export rather than from the model's raw output. In the current build there are 5{,}707 claims: 4{,}326 verified, 229 under review, and 1{,}152 rejected.
-
-\subsection{What the workflow does and does not establish}
-
-The workflow establishes that a claim has a recoverable source span and that a recorded decision accepted it under a stated grade. It does not establish that the claim is true, that the source is unbiased, or that the relation was the person's most important affiliation. ``Verified'' is an acceptance state in this workflow, not independent confirmation. The network is a map of recorded, located relations; it is not a measure of influence, and it does not establish that an institution caused an appointment. Those limits are carried into the interpretation of the gating and overproduction results.
 
 \section{Method assessment and research outputs}
 
